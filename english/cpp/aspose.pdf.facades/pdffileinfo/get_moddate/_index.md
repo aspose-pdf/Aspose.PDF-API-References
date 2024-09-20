@@ -4,7 +4,7 @@ linktitle: get_ModDate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_ModDate method. Gets the ModDate date information of PDF document in C++.'
 type: docs
-weight: 2000
+weight: 1700
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_moddate/
 ---
 ## PdfFileInfo::get_ModDate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_moddate/
 Gets the ModDate date information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::get_ModDate()
+System::String Aspose::Pdf::Facades::PdfFileInfo::get_ModDate()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSegmentCollection::idx_get method. Gets the text segment element at the specified index in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.pdf.text/textsegmentcollection/idx_get/
 ---
 ## TextSegmentCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegmentcollection/idx_get/
 Gets the text segment element at the specified index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextSegment> Aspose::Pdf::Text::TextSegmentCollection::idx_get(int32_t index)
+System::SharedPtr<TextSegment> Aspose::Pdf::Text::TextSegmentCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<TextSegment> Aspose::Pdf::Text::TextSegm
 ### ReturnValue
 
 [TextSegment](../../textsegment/) object.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index within the collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextSegment](../../textsegment/)

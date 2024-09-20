@@ -4,7 +4,7 @@ linktitle: get_EmulateRequierdGroups
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::get_EmulateRequierdGroups method. If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms to standard. It is false by default in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/aspose.pdf.forms/form/get_emulaterequierdgroups/
 ---
 ## Form::get_EmulateRequierdGroups method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/get_emulaterequierdgroups/
 If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms to standard. It is false by default.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Form::get_EmulateRequierdGroups() const
+bool Aspose::Pdf::Forms::Form::get_EmulateRequierdGroups() const
 ```
 
 ## See Also

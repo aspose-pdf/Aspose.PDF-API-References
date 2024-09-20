@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/printscalingnone/
 No page scaling.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PrintScalingNone
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PrintScalingNone
 ```
 
 ## See Also

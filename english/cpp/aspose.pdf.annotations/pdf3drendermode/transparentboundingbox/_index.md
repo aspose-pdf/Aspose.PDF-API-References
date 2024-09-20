@@ -4,7 +4,7 @@ linktitle: TransparentBoundingBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::TransparentBoundingBox field. The "TransparentBoundingBox" render mode in C++.'
 type: docs
-weight: 1600
+weight: 2000
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/
 ---
 ## TransparentBoundingBox field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/
 The "TransparentBoundingBox" render mode.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::TransparentBoundingBox
+static System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::TransparentBoundingBox
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_UseFlowEngine
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use set_UseFlowEngine method of Aspose::Pdf::Text::TableAbsorber class in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.pdf.text/tableabsorber/set_useflowengine/
 ---
 ## TableAbsorber::set_UseFlowEngine method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tableabsorber/set_useflowengine/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TableAbsorber::set_UseFlowEngine(bool value)
+void Aspose::Pdf::Text::TableAbsorber::set_UseFlowEngine(bool value)
 ```
 
 ## Remarks

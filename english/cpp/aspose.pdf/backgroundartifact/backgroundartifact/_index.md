@@ -4,7 +4,7 @@ linktitle: BackgroundArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BackgroundArtifact::BackgroundArtifact constructor. Initializes BackgroundArtifact object in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
 ## BackgroundArtifact::BackgroundArtifact constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/backgroundartifact/
 Initializes [BackgroundArtifact](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::BackgroundArtifact::BackgroundArtifact()
+Aspose::Pdf::BackgroundArtifact::BackgroundArtifact()
 ```
 
 ## See Also

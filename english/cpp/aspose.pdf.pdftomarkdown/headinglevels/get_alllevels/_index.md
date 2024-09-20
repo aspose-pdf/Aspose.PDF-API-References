@@ -4,7 +4,7 @@ linktitle: get_AllLevels
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::HeadingLevels::get_AllLevels method. Gets all heading levels in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.pdftomarkdown/headinglevels/get_alllevels/
 ---
 ## HeadingLevels::get_AllLevels method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdftomarkdown/headinglevels/get_alllevels/
 Gets all heading levels.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<double>> Aspose::Pdf::PdfToMarkdown::HeadingLevels::get_AllLevels()
+System::SharedPtr<System::Collections::Generic::IList<double>> Aspose::Pdf::PdfToMarkdown::HeadingLevels::get_AllLevels()
 ```
 
 ## See Also

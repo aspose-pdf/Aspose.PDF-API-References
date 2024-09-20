@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSectionArray::get_Count method. Gets the cross section count in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/get_count/
 ---
 ## PDF3DCrossSectionArray::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/get_count/
 Gets the cross section count.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::PDF3DCrossSectionArray::get_Count()
+int32_t Aspose::Pdf::Annotations::PDF3DCrossSectionArray::get_Count()
 ```
 
 ## Remarks

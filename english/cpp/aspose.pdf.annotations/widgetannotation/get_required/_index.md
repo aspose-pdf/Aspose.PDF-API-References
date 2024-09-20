@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/get_required/
 Gets required status of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::WidgetAnnotation::get_Required()
+bool Aspose::Pdf::Annotations::WidgetAnnotation::get_Required()
 ```
 
 ## See Also

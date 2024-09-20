@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/position/tostring/
 Gets string representation for the current [Position](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::Position::ToString() const override
+System::String Aspose::Pdf::Text::Position::ToString() const override
 ```
 
 

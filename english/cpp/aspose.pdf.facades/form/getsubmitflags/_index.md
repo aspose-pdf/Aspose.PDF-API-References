@@ -4,7 +4,7 @@ linktitle: GetSubmitFlags
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::GetSubmitFlags method. Returns the submit button''s submission flags in C++.'
 type: docs
-weight: 4500
+weight: 3300
 url: /cpp/aspose.pdf.facades/form/getsubmitflags/
 ---
 ## Form::GetSubmitFlags method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/getsubmitflags/
 Returns the submit button's submission flags.
 
 ```cpp
-ASPOSE_PDF_SHARED_API SubmitFormFlag Aspose::Pdf::Facades::Form::GetSubmitFlags(System::String fieldName)
+SubmitFormFlag Aspose::Pdf::Facades::Form::GetSubmitFlags(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API SubmitFormFlag Aspose::Pdf::Facades::Form::GetSubmitFlags(
 ### ReturnValue
 
 Submission flags of the button.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The qualified field name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [SubmitFormFlag](../../submitformflag/)

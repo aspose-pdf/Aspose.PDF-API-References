@@ -4,7 +4,7 @@ linktitle: get_LightingScheme
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DAnnotation::get_LightingScheme method. Gets the lighting scheme in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_lightingscheme/
 ---
 ## PDF3DAnnotation::get_LightingScheme method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_lightingscheme/
 Gets the lighting scheme.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DAnnotation::get_LightingScheme()
+System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DAnnotation::get_LightingScheme()
 ```
 
 ## Remarks

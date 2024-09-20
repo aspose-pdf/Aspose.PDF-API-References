@@ -4,7 +4,7 @@ linktitle: PrinterMarksKind
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PrinterMarksKind enum. Specifies the types of printer''s marks to be added to a document in C++.'
 type: docs
-weight: 14100
+weight: 14500
 url: /cpp/aspose.pdf.annotations/printermarkskind/
 ---
 ## PrinterMarksKind enum

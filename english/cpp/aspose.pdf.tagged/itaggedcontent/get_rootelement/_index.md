@@ -4,7 +4,7 @@ linktitle: get_RootElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_RootElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 300
+weight: 3500
 url: /cpp/aspose.pdf.tagged/itaggedcontent/get_rootelement/
 ---
 ## ITaggedContent::get_RootElement method

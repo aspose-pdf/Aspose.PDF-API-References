@@ -4,7 +4,7 @@ linktitle: get_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Margins::get_Left method. Gets the left in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.devices/margins/get_left/
 ---
 ## Margins::get_Left method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/margins/get_left/
 Gets the left.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Devices::Margins::get_Left() const
+int32_t Aspose::Pdf::Devices::Margins::get_Left() const
 ```
 
 ## Remarks

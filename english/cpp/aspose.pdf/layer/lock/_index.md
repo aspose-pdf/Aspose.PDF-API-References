@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/layer/lock/
 Locks the layer.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Layer::Lock()
+void Aspose::Pdf::Layer::Lock()
 ```
 
 ## See Also

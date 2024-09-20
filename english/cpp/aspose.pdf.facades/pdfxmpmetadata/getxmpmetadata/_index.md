@@ -4,7 +4,7 @@ linktitle: GetXmpMetadata
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata method. Get the XmpMetadata of the input pdf in a xml format in C++.'
 type: docs
-weight: 1800
+weight: 1500
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 ---
 ## PdfXmpMetadata::GetXmpMetadata() method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 Get the XmpMetadata of the input pdf in a xml format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata()
+System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata()
 ```
 
 
@@ -32,7 +32,7 @@ The bytes of the XmpMetadata.
 Get a part of the XmpMetadata of the input pdf according to a meta name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata(System::String name)
+System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata(System::String name)
 ```
 
 
@@ -43,20 +43,7 @@ ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMeta
 ### ReturnValue
 
 Bytes of metadata.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_metadata" kindref="compound">Metadata</ref> name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfXmpMetadata](../)

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_Count method. Gets number of subfields in this field. (For example number of items in radio button field) in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.pdf.forms/field/get_count/
 ---
 ## Field::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_count/
 Gets number of subfields in this field. (For example number of items in radio button field).
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::Field::get_Count() const override
+int32_t Aspose::Pdf::Forms::Field::get_Count() const override
 ```
 
 ## See Also

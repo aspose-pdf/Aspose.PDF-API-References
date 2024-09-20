@@ -4,7 +4,7 @@ linktitle: get_TopIndex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ListBoxField::get_TopIndex method. Gets index of the top visible element of the list in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.forms/listboxfield/get_topindex/
 ---
 ## ListBoxField::get_TopIndex method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/listboxfield/get_topindex/
 Gets index of the top visible element of the list.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::ListBoxField::get_TopIndex()
+int32_t Aspose::Pdf::Forms::ListBoxField::get_TopIndex()
 ```
 
 ## See Also

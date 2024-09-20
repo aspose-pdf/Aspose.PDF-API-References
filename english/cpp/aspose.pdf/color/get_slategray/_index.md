@@ -4,7 +4,7 @@ linktitle: get_SlateGray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_SlateGray method. Gets a system-defined color that has an ARGB value of #FF708090 in C++.'
 type: docs
-weight: 13600
+weight: 13900
 url: /cpp/aspose.pdf/color/get_slategray/
 ---
 ## Color::get_SlateGray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_slategray/
 Gets a system-defined color that has an ARGB value of **#FF708090**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_SlateGray()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_SlateGray()
 ```
 
 

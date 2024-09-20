@@ -4,7 +4,7 @@ linktitle: GraphicElementCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElementCollection::GraphicElementCollection constructor. Initializes the new collection in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/
 ---
 ## GraphicElementCollection::GraphicElementCollection constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/
 Initializes the new collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Vector::GraphicElementCollection::GraphicElementCollection()
+Aspose::Pdf::Vector::GraphicElementCollection::GraphicElementCollection()
 ```
 
 ## See Also

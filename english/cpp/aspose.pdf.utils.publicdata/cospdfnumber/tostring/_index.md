@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfnumber/tostring/
 Returns a **System::String** that represents the current [CosPdfNumber](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Utils::PublicData::CosPdfNumber::ToString() const override
+System::String Aspose::Pdf::Utils::PublicData::CosPdfNumber::ToString() const override
 ```
 
 

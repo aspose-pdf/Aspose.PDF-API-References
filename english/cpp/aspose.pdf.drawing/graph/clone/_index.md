@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::Clone method. Clone the graph in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/aspose.pdf.drawing/graph/clone/
 ---
 ## Graph::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/clone/
 Clone the graph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Drawing::Graph::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Drawing::Graph::Clone() override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BackgroundArtifact::get_BackgroundColor method. Gets bacground color of background artifact in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/backgroundartifact/get_backgroundcolor/
 ---
 ## BackgroundArtifact::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/get_backgroundcolor/
 Gets bacground color of background artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::BackgroundArtifact::get_BackgroundColor() const
+System::SharedPtr<Color> Aspose::Pdf::BackgroundArtifact::get_BackgroundColor() const
 ```
 
 ## See Also

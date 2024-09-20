@@ -4,7 +4,7 @@ linktitle: GetStateModel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::GetStateModel method. Gets the state model of the annotation. Note, the state stored in other text annotation which has state and statemodel keys in C++.'
 type: docs
-weight: 2100
+weight: 1200
 url: /cpp/aspose.pdf.annotations/markupannotation/getstatemodel/
 ---
 ## MarkupAnnotation::GetStateModel method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/getstatemodel/
 Gets the state model of the annotation. [Note](../../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys.
 
 ```cpp
-ASPOSE_PDF_SHARED_API AnnotationStateModel Aspose::Pdf::Annotations::MarkupAnnotation::GetStateModel()
+AnnotationStateModel Aspose::Pdf::Annotations::MarkupAnnotation::GetStateModel()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: set_FirstLineIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::set_FirstLineIndent method. Sets first line indent value in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.pdf.text/textformattingoptions/set_firstlineindent/
 ---
 ## TextFormattingOptions::set_FirstLineIndent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/set_firstlineindent/
 Sets first line indent value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFormattingOptions::set_FirstLineIndent(float value)
+void Aspose::Pdf::Text::TextFormattingOptions::set_FirstLineIndent(float value)
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Matrix class. Class represents transformation matrix
 type: docs
-weight: 5230
+weight: 5280
 url: /net/aspose.pdf/matrix/
 ---
 ## Matrix class
@@ -48,6 +48,7 @@ public sealed class Matrix
 | static [Translate](../../aspose.pdf/matrix/translate/)(double, double, Matrix) | Translates a matrix by the specified amount in the x and y direction. |
 | [Add](../../aspose.pdf/matrix/add/)(Matrix) | Adds matrix to other matrix. |
 | override [Equals](../../aspose.pdf/matrix/equals/)(object) | Compares matrix agains other object. |
+| [GetFlipMatrix](../../aspose.pdf/matrix/getflipmatrix/)() | Gets the flipping matrix. |
 | override [GetHashCode](../../aspose.pdf/matrix/gethashcode/)() | Hash-code for object. |
 | [Multiply](../../aspose.pdf/matrix/multiply/)(Matrix) | Multiplies the matrix by other matrix. |
 | [Reverse](../../aspose.pdf/matrix/reverse/)() | Calculates reverse matrix. |

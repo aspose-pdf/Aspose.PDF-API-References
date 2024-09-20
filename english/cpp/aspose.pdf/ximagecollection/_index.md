@@ -43,7 +43,7 @@ class XImageCollection : public System::Collections::Generic::ICollection<System
 | [GetImageName](./getimagename/)(System::SharedPtr\<Aspose::Pdf::XImage\>) | Returns name in images list which is key of the given image. |
 | [idx_get](./idx_get/)(int32_t) | Gets image from collection by its index. |
 | [idx_get](./idx_get/)(System::String) | Gets image from collection by its name. |
-| [Remove](./remove/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) override | Removes item from collection, throws 
+| [Remove](./remove/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) override | Removes item from collection, throws NotImplementedException
 . |
 | [Replace](./replace/)(int32_t, System::SharedPtr\<System::IO::Stream\>) | Replace image in collection with another image. |
 | [Replace](./replace/)(int32_t, System::SharedPtr\<System::IO::Stream\>, int32_t, bool) | Replace image in collection with another image. |

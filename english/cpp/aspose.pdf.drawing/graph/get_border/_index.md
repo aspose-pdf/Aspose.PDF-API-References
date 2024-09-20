@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_border/
 Gets the border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<BorderInfo> Aspose::Pdf::Drawing::Graph::get_Border() const
+System::SharedPtr<BorderInfo> Aspose::Pdf::Drawing::Graph::get_Border() const
 ```
 
 ## See Also

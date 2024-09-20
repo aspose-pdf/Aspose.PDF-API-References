@@ -4,7 +4,7 @@ linktitle: getColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetAdvancedColorStroke::getColor method. Returns color specified by operator in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/setadvancedcolorstroke/getcolor/
 ---
 ## SetAdvancedColorStroke::getColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setadvancedcolorstroke/getcolor/
 Returns color specified by operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Operators::SetAdvancedColorStroke::getColor() override
+System::Drawing::Color Aspose::Pdf::Operators::SetAdvancedColorStroke::getColor() override
 ```
 
 

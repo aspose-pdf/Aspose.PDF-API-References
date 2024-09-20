@@ -4,7 +4,7 @@ linktitle: get_SteelBlue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_SteelBlue method. Gets a system-defined color that has an ARGB value of #FF4682B4 in C++.'
 type: docs
-weight: 13900
+weight: 14200
 url: /cpp/aspose.pdf/color/get_steelblue/
 ---
 ## Color::get_SteelBlue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_steelblue/
 Gets a system-defined color that has an ARGB value of **#FF4682B4**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_SteelBlue()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_SteelBlue()
 ```
 
 

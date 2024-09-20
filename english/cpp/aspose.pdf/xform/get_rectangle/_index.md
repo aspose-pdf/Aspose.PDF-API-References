@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm::get_Rectangle method. Gets rectangel of the form in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/aspose.pdf/xform/get_rectangle/
 ---
 ## XForm::get_Rectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/get_rectangle/
 Gets rectangel of the form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::XForm::get_Rectangle()
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::XForm::get_Rectangle()
 ```
 
 ## See Also

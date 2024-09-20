@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontcollection/remove/
 Deletes specified item from collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontCollection::Remove(const System::SharedPtr<Font> &item) override
+bool Aspose::Pdf::Text::FontCollection::Remove(const System::SharedPtr<Font> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontCollection::Remove(const Syste
 ### ReturnValue
 
 true if item was deleted from collection; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to delete</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Font](../../font/)

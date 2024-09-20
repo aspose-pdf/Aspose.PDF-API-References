@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_Format method. PDF format in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_format/
 ---
 ## PdfFormatConversionOptions::get_Format method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_format/
 PDF format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API PdfFormat Aspose::Pdf::PdfFormatConversionOptions::get_Format() const
+PdfFormat Aspose::Pdf::PdfFormatConversionOptions::get_Format() const
 ```
 
 ## See Also

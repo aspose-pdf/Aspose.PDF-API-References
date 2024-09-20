@@ -4,7 +4,7 @@ linktitle: PsSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PsSaveOptions::PsSaveOptions constructor. Constructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/pssaveoptions/pssaveoptions/
 ---
 ## PsSaveOptions::PsSaveOptions() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pssaveoptions/pssaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PsSaveOptions::PsSaveOptions()
+Aspose::Pdf::PsSaveOptions::PsSaveOptions()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::PsSaveOptions::PsSaveOptions()
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PsSaveOptions::PsSaveOptions(Aspose::Pdf::SaveFormat saveFormat)
+Aspose::Pdf::PsSaveOptions::PsSaveOptions(Aspose::Pdf::SaveFormat saveFormat)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | saveFormat | Aspose::Pdf::SaveFormat | Save format. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>saveFormat</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Save format.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [SaveFormat](../../saveformat/)

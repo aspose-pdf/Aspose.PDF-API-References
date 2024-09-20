@@ -4,7 +4,7 @@ linktitle: NonFullScreenPageModeUseOC
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseOC field. Optional content group panel visible in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
 ## NonFullScreenPageModeUseOC field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 Optional content group panel visible.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseOC
+static int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseOC
 ```
 
 ## See Also

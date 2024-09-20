@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/get_text/
 Gets a note text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Note::get_Text() const
+System::String Aspose::Pdf::Note::get_Text() const
 ```
 
 ## See Also

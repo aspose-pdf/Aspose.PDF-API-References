@@ -4,7 +4,7 @@ linktitle: get_Destination
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::get_Destination method. Gets the destination for this outline item in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.pdf/outlineitemcollection/get_destination/
 ---
 ## OutlineItemCollection::get_Destination method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/get_destination/
 Gets the destination for this outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Annotations::IAppointment> Aspose::Pdf::OutlineItemCollection::get_Destination()
+System::SharedPtr<Annotations::IAppointment> Aspose::Pdf::OutlineItemCollection::get_Destination()
 ```
 
 ## See Also

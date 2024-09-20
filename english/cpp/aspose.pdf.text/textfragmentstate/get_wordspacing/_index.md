@@ -4,7 +4,7 @@ linktitle: get_WordSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_WordSpacing method. Gets word spacing of the text in C++.'
 type: docs
-weight: 500
+weight: 2400
 url: /cpp/aspose.pdf.text/textfragmentstate/get_wordspacing/
 ---
 ## TextFragmentState::get_WordSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_wordspacing/
 Gets word spacing of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextFragmentState::get_WordSpacing() override
+float Aspose::Pdf::Text::TextFragmentState::get_WordSpacing() override
 ```
 
 ## See Also

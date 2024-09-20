@@ -4,7 +4,7 @@ linktitle: Item
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ElementListImplementation::Item method. Retrieves a element at the given index in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/item/
 ---
 ## ElementListImplementation::Item method
@@ -24,19 +24,7 @@ System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::ElementListImplementat
 ### ReturnValue
 
 The [T:/Aspose::Pdf::LogicalStructure::Element](../) with the specified index in the collection. If *index*  is greater than or equal to the number of elements in the list, this returns null.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The index into the list of elements.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Element](../../element/)

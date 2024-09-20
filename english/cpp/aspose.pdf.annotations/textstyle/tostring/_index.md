@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textstyle/tostring/
 String representation of [TextStyle](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::TextStyle::ToString() const override
+System::String Aspose::Pdf::Annotations::TextStyle::ToString() const override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Structure::ElementCollection::get_Count method. Count of elements in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf.structure/elementcollection/get_count/
 ---
 ## ElementCollection::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/get_count/
 Count of elements.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Structure::ElementCollection::get_Count()
+int32_t Aspose::Pdf::Structure::ElementCollection::get_Count()
 ```
 
 ## See Also

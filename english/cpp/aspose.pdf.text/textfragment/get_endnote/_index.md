@@ -4,7 +4,7 @@ linktitle: get_EndNote
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_EndNote method. Gets the paragraph end note.(for pdf generation only) in C++.'
 type: docs
-weight: 2100
+weight: 500
 url: /cpp/aspose.pdf.text/textfragment/get_endnote/
 ---
 ## TextFragment::get_EndNote method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_endnote/
 Gets the paragraph end note.(for pdf generation only)
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Note> Aspose::Pdf::Text::TextFragment::get_EndNote() const
+System::SharedPtr<Note> Aspose::Pdf::Text::TextFragment::get_EndNote() const
 ```
 
 ## See Also

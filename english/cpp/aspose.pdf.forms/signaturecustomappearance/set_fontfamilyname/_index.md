@@ -4,7 +4,7 @@ linktitle: set_FontFamilyName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontFamilyName method. Gets/sets font family name. It should be existed in the document. Default value: Arial in C++.'
 type: docs
-weight: 200
+weight: 2800
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_fontfamilyname/
 ---
 ## SignatureCustomAppearance::set_FontFamilyName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_fontfamilyname/
 Gets/sets font family name. It should be existed in the document. Default value: Arial.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontFamilyName(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontFamilyName(System::String value)
 ```
 
 ## See Also

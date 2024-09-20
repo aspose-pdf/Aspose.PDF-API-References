@@ -4,7 +4,7 @@ linktitle: set_G
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::set_G method. G member of the transformation matrix in C++.'
 type: docs
-weight: 1400
+weight: 2300
 url: /cpp/aspose.pdf/matrix3d/set_g/
 ---
 ## Matrix3D::set_G method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/set_g/
 G member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix3D::set_G(double value)
+void Aspose::Pdf::Matrix3D::set_G(double value)
 ```
 
 ## See Also

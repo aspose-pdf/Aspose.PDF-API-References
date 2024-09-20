@@ -3,7 +3,7 @@ title: Class SetCharWidth
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetCharWidth class. Class representing d0 operator set glyph width
 type: docs
-weight: 5900
+weight: 5950
 url: /net/aspose.pdf.operators/setcharwidth/
 ---
 ## SetCharWidth class

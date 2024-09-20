@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.annotations/textstyle/set_alignment/
 Sets horizontal alignment of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::TextStyle::set_Alignment(TextAlignment value)
+void Aspose::Pdf::Annotations::TextStyle::set_Alignment(TextAlignment value)
 ```
 
-## Remarks
 
+## Deprecated
+Use HorizontalAlignment property 
 
-<xrefsect id="deprecated_1_deprecated000112">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use HorizontalAlignment property </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Enum [TextAlignment](../../textalignment/)

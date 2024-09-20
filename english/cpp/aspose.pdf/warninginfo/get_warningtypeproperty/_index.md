@@ -4,7 +4,7 @@ linktitle: get_WarningTypeProperty
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WarningInfo::get_WarningTypeProperty method. Returns warning type in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/warninginfo/get_warningtypeproperty/
 ---
 ## WarningInfo::get_WarningTypeProperty method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/warninginfo/get_warningtypeproperty/
 Returns warning type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API WarningType Aspose::Pdf::WarningInfo::get_WarningTypeProperty() const
+WarningType Aspose::Pdf::WarningInfo::get_WarningTypeProperty() const
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_End
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientAxialShading::get_End method. Gets end point in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_end/
 ---
 ## GradientAxialShading::get_End method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_end/
 Gets end point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Point> & Aspose::Pdf::Drawing::GradientAxialShading::get_End() const
+const System::SharedPtr<Point> & Aspose::Pdf::Drawing::GradientAxialShading::get_End() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetAllSubstitutions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::IFontSubstitutionRegistrator::GetAllSubstitutions method. This method must return all the substitutions registered for current document. Added for trace objectives in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.text/ifontsubstitutionregistrator/getallsubstitutions/
 ---
 ## IFontSubstitutionRegistrator::GetAllSubstitutions method

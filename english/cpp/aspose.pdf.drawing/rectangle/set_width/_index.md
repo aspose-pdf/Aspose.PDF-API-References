@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::set_Width method. Sets a float value that indicates the width of the rectangle in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.drawing/rectangle/set_width/
 ---
 ## Rectangle::set_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/rectangle/set_width/
 Sets a float value that indicates the width of the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Rectangle::set_Width(double value)
+void Aspose::Pdf::Drawing::Rectangle::set_Width(double value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_VCornerRadius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::get_VCornerRadius method. Gets vertical corner radius in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf.annotations/border/get_vcornerradius/
 ---
 ## Border::get_VCornerRadius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/get_vcornerradius/
 Gets vertical corner radius.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::Border::get_VCornerRadius()
+double Aspose::Pdf::Annotations::Border::get_VCornerRadius()
 ```
 
 ## See Also

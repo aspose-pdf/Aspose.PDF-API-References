@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::DictionaryEditor::Clear method. Removes all items from the DictionaryEditor in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/aspose.pdf.utils/dictionaryeditor/clear/
 ---
 ## DictionaryEditor::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils/dictionaryeditor/clear/
 Removes all items from the [DictionaryEditor](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Utils::DictionaryEditor::Clear() override
+void Aspose::Pdf::Utils::DictionaryEditor::Clear() override
 ```
 
 ## See Also

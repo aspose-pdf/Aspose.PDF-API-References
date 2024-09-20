@@ -4,7 +4,7 @@ linktitle: get_MistyRose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_MistyRose method. Gets a system-defined color that has an ARGB value of #FFFFE4E1 in C++.'
 type: docs
-weight: 10300
+weight: 10600
 url: /cpp/aspose.pdf/color/get_mistyrose/
 ---
 ## Color::get_MistyRose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_mistyrose/
 Gets a system-defined color that has an ARGB value of **#FFFFE4E1**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_MistyRose()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_MistyRose()
 ```
 
 

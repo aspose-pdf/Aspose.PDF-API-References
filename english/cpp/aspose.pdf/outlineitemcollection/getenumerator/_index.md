@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::GetEnumerator method. Returns an enumerator that iterates through the collection in C++.'
 type: docs
-weight: 3000
+weight: 2600
 url: /cpp/aspose.pdf/outlineitemcollection/getenumerator/
 ---
 ## OutlineItemCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/getenumerator/
 Returns an enumerator that iterates through the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutlineItemCollection>>> Aspose::Pdf::OutlineItemCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutlineItemCollection>>> Aspose::Pdf::OutlineItemCollection::GetEnumerator() override
 ```
 
 

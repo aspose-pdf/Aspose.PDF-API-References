@@ -4,7 +4,7 @@ linktitle: Warichu
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Warichu field of Aspose::Pdf::LogicalStructure::StructureTypeStandard class in C++.'
 type: docs
-weight: 4800
+weight: 5100
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/warichu/
 ---
 ## Warichu field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/warichu/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Warichu
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Warichu
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Outlines::get_Count method. Gets count in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf/outlines/get_count/
 ---
 ## Outlines::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlines/get_count/
 Gets count.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Outlines::get_Count() const override=0
+int32_t Aspose::Pdf::Outlines::get_Count() const override=0
 ```
 
 ## See Also

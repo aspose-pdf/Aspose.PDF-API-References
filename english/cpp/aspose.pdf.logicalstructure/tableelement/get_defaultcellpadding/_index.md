@@ -4,7 +4,7 @@ linktitle: get_DefaultCellPadding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_DefaultCellPadding method. Gets the default cell padding in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_defaultcellpadding/
 ---
 ## TableElement::get_DefaultCellPadding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/get_defaultcellpadding/
 Gets the default cell padding.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<MarginInfo> Aspose::Pdf::LogicalStructure::TableElement::get_DefaultCellPadding() const
+System::SharedPtr<MarginInfo> Aspose::Pdf::LogicalStructure::TableElement::get_DefaultCellPadding() const
 ```
 
 ## See Also

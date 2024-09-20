@@ -4,7 +4,7 @@ linktitle: TOC
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use TOC field of Aspose::Pdf::LogicalStructure::StructureTypeStandard class in C++.'
 type: docs
-weight: 1200
+weight: 4800
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/toc/
 ---
 ## TOC field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/toc/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TOC
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TOC
 ```
 
 ## Remarks

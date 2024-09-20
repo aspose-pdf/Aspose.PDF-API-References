@@ -4,7 +4,7 @@ linktitle: set_BitMask
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use set_BitMask method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/aspose.pdf/ximageaddingparams/set_bitmask/
 ---
 ## XImageAddingParams::set_BitMask method

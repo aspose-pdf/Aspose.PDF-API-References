@@ -4,7 +4,7 @@ linktitle: get_CaptionPosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_CaptionPosition method. Gets annotation caption position in C++.'
 type: docs
-weight: 2100
+weight: 600
 url: /cpp/aspose.pdf.annotations/lineannotation/get_captionposition/
 ---
 ## LineAnnotation::get_CaptionPosition method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_captionposition/
 Gets annotation caption position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::CaptionPosition Aspose::Pdf::Annotations::LineAnnotation::get_CaptionPosition()
+Aspose::Pdf::Annotations::CaptionPosition Aspose::Pdf::Annotations::LineAnnotation::get_CaptionPosition()
 ```
 
 ## See Also

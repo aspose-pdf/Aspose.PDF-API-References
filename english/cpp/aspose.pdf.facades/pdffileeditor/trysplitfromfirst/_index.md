@@ -2,73 +2,18 @@
 title: Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst method
 linktitle: TrySplitFromFirst
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst method. Splits Pdf file from first page to specified location,and saves the front part as a new file in C++.'
+description: 'Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst method. Splits from start to specified location,and saves the front part in output Stream in C++.'
 type: docs
-weight: 6700
+weight: 7000
 url: /cpp/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
-## PdfFileEditor::TrySplitFromFirst(System::String, int32_t, System::String) method
-
-
-Splits [Pdf](../../../aspose.pdf/) file from first page to specified location,and saves the front part as a new file.
-
-```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::String inputFile, int32_t location, System::String outputFile)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Source [Pdf](../../../aspose.pdf/) file. |
-| location | int32_t | The splitting point. |
-| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
-
-### ReturnValue
-
-True for success, or false.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Source <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>location</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The splitting point.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-
-The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## PdfFileEditor::TrySplitFromFirst(System::SharedPtr\<System::IO::Stream\>, int32_t, System::SharedPtr\<System::IO::Stream\>) method
 
 
 Splits from start to specified location,and saves the front part in output Stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::IO::Stream> outputStream)
 ```
 
 
@@ -84,89 +29,8 @@ True for success, or false.
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Source <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file Stream.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>location</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The splitting point.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output file Stream.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 The streams are NOT closed after this operation. The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TrySplitFromFirst(System::String, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
-
-
-Splits document from first page to location and saves result into HttpResponse objects.
-
-```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::String inputFile, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Source file name. |
-| location | int32_t | Split point. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse objects. |
-
-### ReturnValue
-
-true if operation completed successfully; otherwise, false.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Source file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>location</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Split point.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>response</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>HttpResponse objects.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-
-The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
 ## See Also
 
 * Class [PdfFileEditor](../)
@@ -178,7 +42,7 @@ The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySp
 Splits document from start to specified location and stores result into HttpResponse object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
 ```
 
 
@@ -194,32 +58,64 @@ true if operation completed successfully; otherwise, false.
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream of source document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>location</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The splitting point.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>response</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>HttpResponse object where result will be stored.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+
+The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::TrySplitFromFirst(System::String, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
+
+
+Splits document from first page to location and saves result into HttpResponse objects.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::String inputFile, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Source file name. |
+| location | int32_t | Split point. |
+| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse objects. |
+
+### ReturnValue
+
+true if operation completed successfully; otherwise, false.
+## Remarks
+
+
+
+The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::TrySplitFromFirst(System::String, int32_t, System::String) method
+
+
+Splits [Pdf](../../../aspose.pdf/) file from first page to specified location,and saves the front part as a new file.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitFromFirst(System::String inputFile, int32_t location, System::String outputFile)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Source [Pdf](../../../aspose.pdf/) file. |
+| location | int32_t | The splitting point. |
+| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
+
+### ReturnValue
+
+True for success, or false.
+## Remarks
+
+
 
 The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails. 
 ## See Also

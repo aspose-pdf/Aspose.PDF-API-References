@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fithexplicitdestination/tostring/
 Converts the object state into string value. Example: "1 FitH 100".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::FitHExplicitDestination::ToString() const override
+System::String Aspose::Pdf::Annotations::FitHExplicitDestination::ToString() const override
 ```
 
 

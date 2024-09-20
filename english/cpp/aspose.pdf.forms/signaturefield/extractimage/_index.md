@@ -4,7 +4,7 @@ linktitle: ExtractImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureField::ExtractImage method. Extracts signature''s image as jpeg encoded stream in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## SignatureField::ExtractImage() method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturefield/extractimage/
 Extracts signature's image as jpeg encoded stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage()
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage()
 ```
 
 
@@ -32,7 +32,7 @@ If image was successfully found than returns jpeg encoded stream object; otherwi
 Extracts signature's image as encoded stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage(System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage(System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
 ```
 
 
@@ -43,20 +43,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::
 ### ReturnValue
 
 If image was successfully found than returns encodedstream object; otherwise, null.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>format</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> format for encoding.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SignatureField](../)

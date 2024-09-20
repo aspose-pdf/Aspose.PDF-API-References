@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXMemoryOutputDirectory::Dispose method. Disposes the instance in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
 ## TeXMemoryOutputDirectory::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texmemoryoutputdirectory/dispose/
 Disposes the instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TeXMemoryOutputDirectory::Dispose() override
+void Aspose::Pdf::TeXMemoryOutputDirectory::Dispose() override
 ```
 
 ## See Also

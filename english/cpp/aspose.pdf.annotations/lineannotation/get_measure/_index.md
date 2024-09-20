@@ -4,7 +4,7 @@ linktitle: get_Measure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_Measure method. Measure units specifed for this annotation in C++.'
 type: docs
-weight: 2300
+weight: 1400
 url: /cpp/aspose.pdf.annotations/lineannotation/get_measure/
 ---
 ## LineAnnotation::get_Measure method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_measure/
 [Measure](../../measure/) units specifed for this annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::Measure> Aspose::Pdf::Annotations::LineAnnotation::get_Measure()
+System::SharedPtr<Aspose::Pdf::Annotations::Measure> Aspose::Pdf::Annotations::LineAnnotation::get_Measure()
 ```
 
 ## See Also

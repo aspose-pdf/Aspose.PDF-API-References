@@ -4,7 +4,7 @@ linktitle: set_X
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Resolution::set_X method. Sets horizontal image resolution in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.devices/resolution/set_x/
 ---
 ## Resolution::set_X method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/resolution/set_x/
 Sets horizontal image resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::Resolution::set_X(int32_t value)
+void Aspose::Pdf::Devices::Resolution::set_X(int32_t value)
 ```
 
 ## See Also

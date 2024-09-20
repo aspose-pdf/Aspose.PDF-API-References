@@ -4,7 +4,7 @@ linktitle: get_FontReplaceBehavior
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextEditOptions::get_FontReplaceBehavior method. Gets mode that defines behavior for fonts replacement scenarios in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf.text/texteditoptions/get_fontreplacebehavior/
 ---
 ## TextEditOptions::get_FontReplaceBehavior method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/get_fontreplacebehavior/
 Gets mode that defines behavior for fonts replacement scenarios.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextEditOptions::FontReplace Aspose::Pdf::Text::TextEditOptions::get_FontReplaceBehavior() const
+TextEditOptions::FontReplace Aspose::Pdf::Text::TextEditOptions::get_FontReplaceBehavior() const
 ```
 
 ## See Also

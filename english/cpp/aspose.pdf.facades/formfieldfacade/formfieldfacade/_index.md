@@ -4,7 +4,7 @@ linktitle: FormFieldFacade
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use FormFieldFacade constructor of Aspose::Pdf::Facades::FormFieldFacade class in C++.'
 type: docs
-weight: 3800
+weight: 100
 url: /cpp/aspose.pdf.facades/formfieldfacade/formfieldfacade/
 ---
 ## FormFieldFacade::FormFieldFacade constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/formfieldfacade/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Facades::FormFieldFacade::FormFieldFacade()
+Aspose::Pdf::Facades::FormFieldFacade::FormFieldFacade()
 ```
 
 ## See Also

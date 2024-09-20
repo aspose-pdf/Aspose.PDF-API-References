@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/predefinedactionconverter/tostring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PredefinedActionConverter::ToString(PredefinedAction value)
+static System::String Aspose::Pdf::Annotations::PredefinedActionConverter::ToString(PredefinedAction value)
 ```
 
 ## See Also

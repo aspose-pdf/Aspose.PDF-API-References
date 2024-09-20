@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/get_margin/
 Gets a list level margin.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<MarginInfo> Aspose::Pdf::LevelFormat::get_Margin() const
+System::SharedPtr<MarginInfo> Aspose::Pdf::LevelFormat::get_Margin() const
 ```
 
 ## See Also

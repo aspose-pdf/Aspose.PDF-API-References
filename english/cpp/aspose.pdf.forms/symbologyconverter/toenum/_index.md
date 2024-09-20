@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Forms::SymbologyConverter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.forms/symbologyconverter/toenum/
 ---
 ## SymbologyConverter::ToEnum method

@@ -4,7 +4,7 @@ linktitle: get_Resources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm::get_Resources method. Gets Form XObject resources in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.pdf/xform/get_resources/
 ---
 ## XForm::get_Resources method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/get_resources/
 Gets Form XObject resources.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::get_Resources() override
+System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::get_Resources() override
 ```
 
 ## See Also

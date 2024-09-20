@@ -4,7 +4,7 @@ linktitle: get_AllowReusePageContent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::get_AllowReusePageContent method. If true page contents will be reused when document is optimized for equal pages in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf.optimization/optimizationoptions/get_allowreusepagecontent/
 ---
 ## OptimizationOptions::get_AllowReusePageContent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/get_allowreusepagecontent/
 If true page contents will be reused when document is optimized for equal pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Optimization::OptimizationOptions::get_AllowReusePageContent() const
+bool Aspose::Pdf::Optimization::OptimizationOptions::get_AllowReusePageContent() const
 ```
 
 ## See Also

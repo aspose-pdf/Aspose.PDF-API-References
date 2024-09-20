@@ -4,7 +4,7 @@ linktitle: get_EndColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientAxialShading::get_EndColor method. Gets end color in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_endcolor/
 ---
 ## GradientAxialShading::get_EndColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_endcolor/
 Gets end color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Color> & Aspose::Pdf::Drawing::GradientAxialShading::get_EndColor() const
+const System::SharedPtr<Color> & Aspose::Pdf::Drawing::GradientAxialShading::get_EndColor() const
 ```
 
 ## See Also

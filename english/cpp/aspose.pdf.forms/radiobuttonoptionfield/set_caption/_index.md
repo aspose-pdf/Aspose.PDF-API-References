@@ -4,7 +4,7 @@ linktitle: set_Caption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption method. Sets caption in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/set_caption/
 ---
 ## RadioButtonOptionField::set_Caption method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/set_caption/
 Sets caption.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
+void Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
 ```
 
 ## See Also

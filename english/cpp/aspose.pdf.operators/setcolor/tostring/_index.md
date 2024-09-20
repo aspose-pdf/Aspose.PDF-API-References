@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/tostring/
 Returns string representation of color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::SetColor::ToString() const override
+System::String Aspose::Pdf::Operators::SetColor::ToString() const override
 ```
 
 

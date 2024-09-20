@@ -4,7 +4,7 @@ linktitle: set_HyphenSymbol
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol method. Sets hyphen symbol that is used in hyphenation process in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf.text/textformattingoptions/set_hyphensymbol/
 ---
 ## TextFormattingOptions::set_HyphenSymbol method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/set_hyphensymbol/
 Sets hyphen symbol that is used in hyphenation process.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol(System::String value)
+void Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol(System::String value)
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: get_IsNeedRepeating
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::get_IsNeedRepeating method. Gets a bool value that indicates whether the paragraph need to be repeated on next page. Default value is false.The attribute is only valid when the paragraph itself and the object its ReferenceParagraphID referred to both are included in RepeatingRows in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf/floatingbox/get_isneedrepeating/
 ---
 ## FloatingBox::get_IsNeedRepeating method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/get_isneedrepeating/
 Gets a bool value that indicates whether the paragraph need to be repeated on next page. Default value is false.The attribute is only valid when the paragraph itself and the object its ReferenceParagraphID referred to both are included in RepeatingRows.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::FloatingBox::get_IsNeedRepeating() const
+bool Aspose::Pdf::FloatingBox::get_IsNeedRepeating() const
 ```
 
 ## See Also

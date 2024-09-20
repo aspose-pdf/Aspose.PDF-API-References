@@ -4,7 +4,7 @@ linktitle: get_ShowLocation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowLocation method. Gets/sets location visibility. Default value: true in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_showlocation/
 ---
 ## SignatureCustomAppearance::get_ShowLocation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_showlocation/
 Gets/sets location visibility. Default value: true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowLocation() const
+bool Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowLocation() const
 ```
 
 ## See Also

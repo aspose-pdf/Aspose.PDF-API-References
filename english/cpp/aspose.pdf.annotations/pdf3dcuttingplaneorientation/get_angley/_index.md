@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/get_angley/
 Gets the angle to Y axis.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<double> Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::get_AngleY() const
+System::Nullable<double> Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::get_AngleY() const
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: get_StartingValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageLabel::get_StartingValue method. Gets starting value of the page numbering range in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf/pagelabel/get_startingvalue/
 ---
 ## PageLabel::get_StartingValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabel/get_startingvalue/
 Gets starting value of the page numbering range.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::PageLabel::get_StartingValue()
+int32_t Aspose::Pdf::PageLabel::get_StartingValue()
 ```
 
 ## See Also

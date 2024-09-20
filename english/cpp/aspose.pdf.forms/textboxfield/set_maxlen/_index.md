@@ -4,7 +4,7 @@ linktitle: set_MaxLen
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::TextBoxField::set_MaxLen method. Sets maximum length of text in the field in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.pdf.forms/textboxfield/set_maxlen/
 ---
 ## TextBoxField::set_MaxLen method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/textboxfield/set_maxlen/
 Sets maximum length of text in the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::TextBoxField::set_MaxLen(int32_t value)
+void Aspose::Pdf::Forms::TextBoxField::set_MaxLen(int32_t value)
 ```
 
 ## See Also

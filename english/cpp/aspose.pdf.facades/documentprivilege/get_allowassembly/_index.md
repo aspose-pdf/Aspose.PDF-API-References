@@ -4,7 +4,7 @@ linktitle: get_AllowAssembly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_AllowAssembly method. Sets the permission which allow assembly or not. true is allow and false is forbidden in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/aspose.pdf.facades/documentprivilege/get_allowassembly/
 ---
 ## DocumentPrivilege::get_AllowAssembly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_allowassembly/
 Sets the permission which allow assembly or not. true is allow and false is forbidden.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowAssembly()
+bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowAssembly()
 ```
 
 ## See Also

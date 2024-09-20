@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/mediarendition/get_mediaclip/
 Gets media clip obkects associated with rendition.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::MediaClip> Aspose::Pdf::Annotations::MediaRendition::get_MediaClip()
+System::SharedPtr<Aspose::Pdf::Annotations::MediaClip> Aspose::Pdf::Annotations::MediaRendition::get_MediaClip()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionValueType::Clear method. Clears all fields in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
 ## XmpPdfAExtensionValueType::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/clear/
 Clears all fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XmpPdfAExtensionValueType::Clear()
+void Aspose::Pdf::XmpPdfAExtensionValueType::Clear()
 ```
 
 ## See Also

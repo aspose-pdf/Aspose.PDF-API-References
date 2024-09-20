@@ -4,7 +4,7 @@ linktitle: CheckBoxStyleStar
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleStar field. Defines a star check box style in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
 ## CheckBoxStyleStar field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 Defines a star check box style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleStar
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleStar
 ```
 
 ## See Also

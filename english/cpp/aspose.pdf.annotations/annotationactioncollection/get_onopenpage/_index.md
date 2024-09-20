@@ -4,7 +4,7 @@ linktitle: get_OnOpenPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnOpenPage method. Gets an action to be performed when the page containing the annotation is opened in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onopenpage/
 ---
 ## AnnotationActionCollection::get_OnOpenPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onopenpage/
 Gets an action to be performed when the page containing the annotation is opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnOpenPage()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnOpenPage()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/circle/get_posy/
 Gets a float value that indicates the y-coordinate of the center of the circle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Circle::get_PosY() const
+double Aspose::Pdf::Drawing::Circle::get_PosY() const
 ```
 
 ## See Also

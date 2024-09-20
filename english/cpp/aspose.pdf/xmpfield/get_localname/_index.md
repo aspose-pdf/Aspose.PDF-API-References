@@ -4,7 +4,7 @@ linktitle: get_LocalName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::get_LocalName method. Gets the name of the local in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf/xmpfield/get_localname/
 ---
 ## XmpField::get_LocalName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_localname/
 Gets the name of the local.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpField::get_LocalName() const
+System::String Aspose::Pdf::XmpField::get_LocalName() const
 ```
 
 ## Remarks

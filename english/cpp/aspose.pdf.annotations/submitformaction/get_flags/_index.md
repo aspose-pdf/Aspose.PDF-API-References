@@ -4,7 +4,7 @@ linktitle: get_Flags
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::get_Flags method. Gets flagas of submit action in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/submitformaction/get_flags/
 ---
 ## SubmitFormAction::get_Flags method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/get_flags/
 Gets flagas of submit action.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::get_Flags()
+int32_t Aspose::Pdf::Annotations::SubmitFormAction::get_Flags()
 ```
 
 ## See Also

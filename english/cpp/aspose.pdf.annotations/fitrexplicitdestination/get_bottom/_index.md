@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fitrexplicitdestination/get_bottom/
 Gets bottom vertical coordinate of visible rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::FitRExplicitDestination::get_Bottom()
+double Aspose::Pdf::Annotations::FitRExplicitDestination::get_Bottom()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::set_Left method. Sets a float value that indicates the left position of the rectangle in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf.drawing/rectangle/set_left/
 ---
 ## Rectangle::set_Left method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/rectangle/set_left/
 Sets a float value that indicates the left position of the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Rectangle::set_Left(double value)
+void Aspose::Pdf::Drawing::Rectangle::set_Left(double value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetMethod
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::GetMethod field. If set, field names and values shall be submitted using an HTTP GET request in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.pdf.annotations/submitformaction/getmethod/
 ---
 ## GetMethod field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/getmethod/
 If set, field names and values shall be submitted using an HTTP GET request.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::GetMethod
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::GetMethod
 ```
 
 ## See Also

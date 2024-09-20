@@ -4,7 +4,7 @@ linktitle: get_Images
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Resources::get_Images method. Gets Images images collection in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf/resources/get_images/
 ---
 ## Resources::get_Images method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/get_images/
 Gets [Images](../) images collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XImageCollection> Aspose::Pdf::Resources::get_Images()
+System::SharedPtr<XImageCollection> Aspose::Pdf::Resources::get_Images()
 ```
 
 ## See Also

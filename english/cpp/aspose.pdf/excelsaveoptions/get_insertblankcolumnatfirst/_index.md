@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/excelsaveoptions/get_insertblankcolumnatfirst/
 Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::ExcelSaveOptions::get_InsertBlankColumnAtFirst() const
+bool Aspose::Pdf::ExcelSaveOptions::get_InsertBlankColumnAtFirst() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Justify
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RichTextBoxField::get_Justify method. Gets justification of the rich text box in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pdf.forms/richtextboxfield/get_justify/
 ---
 ## RichTextBoxField::get_Justify method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/get_justify/
 Gets justification of the rich text box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Justification Aspose::Pdf::Forms::RichTextBoxField::get_Justify()
+Aspose::Pdf::Annotations::Justification Aspose::Pdf::Forms::RichTextBoxField::get_Justify()
 ```
 
 ## See Also

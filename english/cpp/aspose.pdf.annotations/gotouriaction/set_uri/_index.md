@@ -4,7 +4,7 @@ linktitle: set_URI
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToURIAction::set_URI method. Sets the uniform resource identifier to resolve in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/gotouriaction/set_uri/
 ---
 ## GoToURIAction::set_URI method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotouriaction/set_uri/
 Sets the uniform resource identifier to resolve.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::GoToURIAction::set_URI(System::String value)
+void Aspose::Pdf::Annotations::GoToURIAction::set_URI(System::String value)
 ```
 
 ## See Also

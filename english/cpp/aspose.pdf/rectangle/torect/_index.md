@@ -4,7 +4,7 @@ linktitle: ToRect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::ToRect method. Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated in C++.'
 type: docs
-weight: 1500
+weight: 2700
 url: /cpp/aspose.pdf/rectangle/torect/
 ---
 ## Rectangle::ToRect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/torect/
 Converts rectangle to instance of **System.Drawing.Rectangle**. Floating-point positions and size are truncated.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Rectangle Aspose::Pdf::Rectangle::ToRect()
+System::Drawing::Rectangle Aspose::Pdf::Rectangle::ToRect()
 ```
 
 

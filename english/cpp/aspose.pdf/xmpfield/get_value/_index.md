@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_value/
 Gets the value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::XmpField::get_Value() const
+System::SharedPtr<XmpValue> Aspose::Pdf::XmpField::get_Value() const
 ```
 
 ## Remarks

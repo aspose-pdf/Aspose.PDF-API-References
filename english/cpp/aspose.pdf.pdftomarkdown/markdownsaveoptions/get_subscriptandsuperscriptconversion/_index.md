@@ -4,7 +4,7 @@ linktitle: get_SubscriptAndSuperscriptConversion
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_SubscriptAndSuperscriptConversion method. Gets ans sets allowance to convert subscript and superscript. This value is true by default in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/get_subscriptandsuperscriptconversion/
 ---
 ## MarkdownSaveOptions::get_SubscriptAndSuperscriptConversion method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/get_subscriptandsuperscri
 Gets ans sets allowance to convert subscript and superscript. This value is true by default.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_SubscriptAndSuperscriptConversion() const
+bool Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_SubscriptAndSuperscriptConversion() const
 ```
 
 ## See Also

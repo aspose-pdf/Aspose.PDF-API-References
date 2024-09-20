@@ -4,7 +4,7 @@ linktitle: FromGray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::FromGray method. Gets valid pdf Color object from Gray color component in C++.'
 type: docs
-weight: 15400
+weight: 1200
 url: /cpp/aspose.pdf/color/fromgray/
 ---
 ## Color::FromGray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/fromgray/
 Gets valid pdf [Color](../) object from Gray color component.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::FromGray(double g)
+static System::SharedPtr<Color> Aspose::Pdf::Color::FromGray(double g)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::FromGr
 ### ReturnValue
 
 [Color](../) object with each component value in [0..1] range.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>g</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The Gray color component (value 0 - 1). </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Color](../)

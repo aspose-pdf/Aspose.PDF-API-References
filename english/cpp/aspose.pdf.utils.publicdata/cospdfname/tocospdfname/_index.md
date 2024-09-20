@@ -4,7 +4,7 @@ linktitle: ToCosPdfName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::PublicData::CosPdfName::ToCosPdfName method. Tries cast this instance to CosPdfName in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.utils.publicdata/cospdfname/tocospdfname/
 ---
 ## CosPdfName::ToCosPdfName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfname/tocospdfname/
 Tries cast this instance to [CosPdfName](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<CosPdfName> Aspose::Pdf::Utils::PublicData::CosPdfName::ToCosPdfName() override
+System::SharedPtr<CosPdfName> Aspose::Pdf::Utils::PublicData::CosPdfName::ToCosPdfName() override
 ```
 
 

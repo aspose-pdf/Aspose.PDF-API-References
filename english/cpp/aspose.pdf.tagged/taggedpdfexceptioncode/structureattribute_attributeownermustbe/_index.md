@@ -4,7 +4,7 @@ linktitle: StructureAttribute_AttributeOwnerMustBe
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use StructureAttribute_AttributeOwnerMustBe field of Aspose::Pdf::Tagged::TaggedPdfExceptionCode class in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.tagged/taggedpdfexceptioncode/structureattribute_attributeownermustbe/
 ---
 ## StructureAttribute_AttributeOwnerMustBe field

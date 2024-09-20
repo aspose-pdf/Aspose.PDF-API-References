@@ -4,7 +4,7 @@ linktitle: set_Date
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::set_Date method. The time of signing in C++.'
 type: docs
-weight: 600
+weight: 1800
 url: /cpp/aspose.pdf.forms/signature/set_date/
 ---
 ## Signature::set_Date method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_date/
 The time of signing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Signature::set_Date(System::DateTime value)
+void Aspose::Pdf::Forms::Signature::set_Date(System::DateTime value)
 ```
 
 ## See Also

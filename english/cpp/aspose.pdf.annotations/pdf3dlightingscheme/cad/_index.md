@@ -4,7 +4,7 @@ linktitle: CAD
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DLightingScheme::CAD field. The "Cad" lighting scheme in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/cad/
 ---
 ## CAD field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/cad/
 The "Cad" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::CAD
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::CAD
 ```
 
 ## See Also

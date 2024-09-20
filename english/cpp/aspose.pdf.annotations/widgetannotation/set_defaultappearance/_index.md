@@ -4,7 +4,7 @@ linktitle: set_DefaultAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance method. Sets default appearance of the field in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/aspose.pdf.annotations/widgetannotation/set_defaultappearance/
 ---
 ## WidgetAnnotation::set_DefaultAppearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_defaultappearance/
 Sets default appearance of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
 ```
 
 ## See Also

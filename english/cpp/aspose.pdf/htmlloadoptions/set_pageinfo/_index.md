@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlloadoptions/set_pageinfo/
 Sets document page info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlLoadOptions::set_PageInfo(System::SharedPtr<Aspose::Pdf::PageInfo> value)
+void Aspose::Pdf::HtmlLoadOptions::set_PageInfo(System::SharedPtr<Aspose::Pdf::PageInfo> value)
 ```
 
 ## See Also

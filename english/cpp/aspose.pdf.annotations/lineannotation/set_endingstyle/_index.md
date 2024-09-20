@@ -4,7 +4,7 @@ linktitle: set_EndingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_EndingStyle method. Sets ending style for end point of line in C++.'
 type: docs
-weight: 800
+weight: 2100
 url: /cpp/aspose.pdf.annotations/lineannotation/set_endingstyle/
 ---
 ## LineAnnotation::set_EndingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_endingstyle/
 Sets ending style for end point of line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_EndingStyle(LineEnding value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_EndingStyle(LineEnding value)
 ```
 
 ## See Also

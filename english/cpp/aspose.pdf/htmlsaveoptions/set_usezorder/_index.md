@@ -4,7 +4,7 @@ linktitle: set_UseZOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::set_UseZOrder method. If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF document. If this attribute is false all graphics is put as single layer which may cause some unnecessary effects for overlapped objects in C++.'
 type: docs
-weight: 2900
+weight: 4400
 url: /cpp/aspose.pdf/htmlsaveoptions/set_usezorder/
 ---
 ## HtmlSaveOptions::set_UseZOrder method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/set_usezorder/
 If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF document. If this attribute is false all graphics is put as single layer which may cause some unnecessary effects for overlapped objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlSaveOptions::set_UseZOrder(bool value)
+void Aspose::Pdf::HtmlSaveOptions::set_UseZOrder(bool value)
 ```
 
 ## See Also

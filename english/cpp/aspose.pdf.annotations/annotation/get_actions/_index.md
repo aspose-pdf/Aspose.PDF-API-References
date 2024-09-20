@@ -4,7 +4,7 @@ linktitle: get_Actions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::get_Actions method. Gets list of annotatation actions in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.pdf.annotations/annotation/get_actions/
 ---
 ## Annotation::get_Actions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_actions/
 Gets list of annotatation actions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfActionCollection> Aspose::Pdf::Annotations::Annotation::get_Actions()
+System::SharedPtr<PdfActionCollection> Aspose::Pdf::Annotations::Annotation::get_Actions()
 ```
 
 ## See Also

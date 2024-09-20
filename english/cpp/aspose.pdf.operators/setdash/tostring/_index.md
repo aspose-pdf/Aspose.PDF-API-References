@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setdash/tostring/
 Gets operator string representation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::SetDash::ToString() const override
+System::String Aspose::Pdf::Operators::SetDash::ToString() const override
 ```
 
 

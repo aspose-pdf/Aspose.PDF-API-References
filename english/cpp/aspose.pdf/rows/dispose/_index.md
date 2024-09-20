@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rows::Dispose method. Dispose in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pdf/rows/dispose/
 ---
 ## Rows::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/dispose/
 Dispose.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Rows::Dispose()
+void Aspose::Pdf::Rows::Dispose()
 ```
 
 ## See Also

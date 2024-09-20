@@ -4,7 +4,7 @@ linktitle: FindByValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ArtifactCollection::FindByValue method. Finds artifacts by custom value in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/aspose.pdf/artifactcollection/findbyvalue/
 ---
 ## ArtifactCollection::FindByValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifactcollection/findbyvalue/
 Finds artifacts by custom value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Artifact>>> Aspose::Pdf::ArtifactCollection::FindByValue(System::String name, System::String expectedValue)
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Artifact>>> Aspose::Pdf::ArtifactCollection::FindByValue(System::String name, System::String expectedValue)
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<Syste
 ### ReturnValue
 
 List of found artifacts.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of custom value.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>expectedValue</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value to find.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Artifact](../../artifact/)

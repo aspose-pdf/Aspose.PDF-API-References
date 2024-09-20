@@ -4,7 +4,7 @@ linktitle: get_FixWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::get_FixWidth method. Gets the image width in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf/image/get_fixwidth/
 ---
 ## Image::get_FixWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/get_fixwidth/
 Gets the image width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Image::get_FixWidth() const
+double Aspose::Pdf::Image::get_FixWidth() const
 ```
 
 ## See Also

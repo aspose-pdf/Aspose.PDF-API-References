@@ -3,7 +3,7 @@ title: Interface IFileOutputGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.OutputGenerator.IFileOutputGenerator interface. Represents an interface for generating output to a file of differences between texts
 type: docs
-weight: 1780
+weight: 1820
 url: /net/aspose.pdf.comparison.outputgenerator/ifileoutputgenerator/
 ---
 ## IFileOutputGenerator interface

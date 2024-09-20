@@ -4,7 +4,7 @@ linktitle: GetPageRotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::GetPageRotation method. Returns the rotation of specified page in C++.'
 type: docs
-weight: 2500
+weight: 1400
 url: /cpp/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 ---
 ## PdfPageEditor::GetPageRotation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 Returns the rotation of specified page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPageRotation(int32_t page)
+int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPageRotation(int32_t page)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPageRotati
 ### ReturnValue
 
 [Page](../../../aspose.pdf/page/) rotation in degrees.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> index. <ref refid="class_aspose_1_1_pdf_1_1_document" kindref="compound">Document</ref> pages are numbered from 1.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfPageEditor](../)

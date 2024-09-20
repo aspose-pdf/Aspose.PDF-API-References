@@ -4,7 +4,7 @@ linktitle: get_RenderingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::get_RenderingOptions method. Gets rendering options in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.pdf.facades/pdfconverter/get_renderingoptions/
 ---
 ## PdfConverter::get_RenderingOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/get_renderingoptions/
 Gets rendering options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::RenderingOptions> Aspose::Pdf::Facades::PdfConverter::get_RenderingOptions() const
+System::SharedPtr<Aspose::Pdf::RenderingOptions> Aspose::Pdf::Facades::PdfConverter::get_RenderingOptions() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::CaptionPositionConverter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.annotations/captionpositionconverter/toenum/
 ---
 ## CaptionPositionConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/captionpositionconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API CaptionPosition Aspose::Pdf::Annotations::CaptionPositionConverter::ToEnum(System::String value)
+static CaptionPosition Aspose::Pdf::Annotations::CaptionPositionConverter::ToEnum(System::String value)
 ```
 
 ## See Also

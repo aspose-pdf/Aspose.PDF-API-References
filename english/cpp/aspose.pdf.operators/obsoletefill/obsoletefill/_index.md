@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/obsoletefill/obsoletefill/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::ObsoleteFill::ObsoleteFill()
+Aspose::Pdf::Operators::ObsoleteFill::ObsoleteFill()
 ```
 
 ## See Also

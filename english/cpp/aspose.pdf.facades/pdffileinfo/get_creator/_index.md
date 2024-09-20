@@ -4,7 +4,7 @@ linktitle: get_Creator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_Creator method. Gets the Creator information of PDF document in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_creator/
 ---
 ## PdfFileInfo::get_Creator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_creator/
 Gets the Creator information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::get_Creator()
+System::String Aspose::Pdf::Facades::PdfFileInfo::get_Creator()
 ```
 
 ## See Also

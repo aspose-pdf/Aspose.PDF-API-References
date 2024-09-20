@@ -4,7 +4,7 @@ linktitle: set_ConvertType3Fonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::set_ConvertType3Fonts method. Sets conversion for Type3 fonts. In Type 3 fonts, glyphs shall be defined by streams of graphics operators. This means that in the DOC/DOCX output we see images instead of text. Set this flag to true to convert Type3 fonts to TTF and get text in the resulting file in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/aspose.pdf/docsaveoptions/set_converttype3fonts/
 ---
 ## DocSaveOptions::set_ConvertType3Fonts method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/set_converttype3fonts/
 Sets conversion for Type3 fonts. In Type 3 fonts, glyphs shall be defined by streams of graphics operators. This means that in the DOC/DOCX output we see images instead of text. Set this flag to true to convert Type3 fonts to TTF and get text in the resulting file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocSaveOptions::set_ConvertType3Fonts(bool value)
+void Aspose::Pdf::DocSaveOptions::set_ConvertType3Fonts(bool value)
 ```
 
 ## See Also

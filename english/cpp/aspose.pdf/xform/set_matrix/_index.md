@@ -4,7 +4,7 @@ linktitle: set_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm::set_Matrix method. Sets matrix of the form in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/aspose.pdf/xform/set_matrix/
 ---
 ## XForm::set_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/set_matrix/
 Sets matrix of the form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XForm::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::XForm::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
 ```
 
 ## See Also

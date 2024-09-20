@@ -4,7 +4,7 @@ linktitle: MoveToNextLineShowText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText constructor. Initializes operator in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText::MoveToNextLineShowText() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText()
+Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNext
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText(System::String text)
+Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText(System::String text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | System::String | The text. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The text.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [MoveToNextLineShowText](../)

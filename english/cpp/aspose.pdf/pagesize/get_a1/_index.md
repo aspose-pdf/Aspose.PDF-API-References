@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a1/
 A1 size (840x594 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A1()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A1()
 ```
 
 ## See Also

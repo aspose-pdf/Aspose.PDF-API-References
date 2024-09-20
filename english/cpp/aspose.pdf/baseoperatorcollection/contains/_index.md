@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseOperatorCollection::Contains method. Checks if operator exists in collection in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.pdf/baseoperatorcollection/contains/
 ---
 ## BaseOperatorCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseoperatorcollection/contains/
 Checks if operator exists in collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::BaseOperatorCollection::Contains(const System::SharedPtr<Operator> &item) const override=0
+bool Aspose::Pdf::BaseOperatorCollection::Contains(const System::SharedPtr<Operator> &item) const override=0
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::BaseOperatorCollection::Contains(const S
 ### ReturnValue
 
 True - if item found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_operator" kindref="compound">Operator</ref> item to find.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Operator](../../operator/)

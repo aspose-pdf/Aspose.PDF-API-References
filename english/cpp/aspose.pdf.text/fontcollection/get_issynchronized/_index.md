@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontCollection::get_IsSynchronized method. Gets a value indicating whether access to the collection is synchronized (thread safe) in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf.text/fontcollection/get_issynchronized/
 ---
 ## FontCollection::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontcollection/get_issynchronized/
 Gets a value indicating whether access to the collection is synchronized (thread safe).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontCollection::get_IsSynchronized()
+bool Aspose::Pdf::Text::FontCollection::get_IsSynchronized()
 ```
 
 ## See Also

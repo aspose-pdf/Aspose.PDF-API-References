@@ -4,7 +4,7 @@ linktitle: AlignLeft
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::AlignLeft field. Defines aglignment to left style in C++.'
 type: docs
-weight: 4900
+weight: 4200
 url: /cpp/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
 ## AlignLeft field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/alignleft/
 Defines aglignment to left style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignLeft
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignLeft
 ```
 
 ## See Also

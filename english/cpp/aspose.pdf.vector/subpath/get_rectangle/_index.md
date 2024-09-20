@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/subpath/get_rectangle/
 Gets the bounding rectangle of the [GraphicElement](../../graphicelement/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Vector::SubPath::get_Rectangle() override
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Vector::SubPath::get_Rectangle() override
 ```
 
 ## See Also

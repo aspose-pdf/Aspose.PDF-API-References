@@ -4,7 +4,7 @@ linktitle: BaselineShift
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::BaselineShift field. BaselineShift attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/attributekey/baselineshift/
 ---
 ## BaselineShift field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/baselineshift/
 BaselineShift attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BaselineShift
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BaselineShift
 ```
 
 ## See Also

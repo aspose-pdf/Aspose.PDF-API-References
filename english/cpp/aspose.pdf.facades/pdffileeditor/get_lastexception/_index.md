@@ -4,7 +4,7 @@ linktitle: get_LastException
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_LastException method. Gets last occured exception. May be used to check the reason of failure in C++.'
 type: docs
-weight: 3400
+weight: 2200
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_lastexception/
 ---
 ## PdfFileEditor::get_LastException method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_lastexception/
 Gets last occured exception. May be used to check the reason of failure.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Exception Aspose::Pdf::Facades::PdfFileEditor::get_LastException() const
+System::Exception Aspose::Pdf::Facades::PdfFileEditor::get_LastException() const
 ```
 
 ## See Also

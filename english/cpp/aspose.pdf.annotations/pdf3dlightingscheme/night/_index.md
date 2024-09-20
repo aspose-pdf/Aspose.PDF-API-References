@@ -4,7 +4,7 @@ linktitle: Night
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DLightingScheme::Night field. The "Night" lighting scheme in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/night/
 ---
 ## Night field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/night/
 The "Night" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Night
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Night
 ```
 
 ## See Also

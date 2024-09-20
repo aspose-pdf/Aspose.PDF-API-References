@@ -4,7 +4,7 @@ linktitle: get_A
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_A method. Gets the alpha component value in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf/color/get_a/
 ---
 ## Color::get_A method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_a/
 Gets the alpha component value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Color::get_A() const
+double Aspose::Pdf::Color::get_A() const
 ```
 
 ## See Also

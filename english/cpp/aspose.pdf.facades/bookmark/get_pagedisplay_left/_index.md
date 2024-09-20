@@ -4,7 +4,7 @@ linktitle: get_PageDisplay_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Left method. Gets the left coordinate of page display in C++.'
 type: docs
-weight: 1900
+weight: 1300
 url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay_left/
 ---
 ## Bookmark::get_PageDisplay_Left method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay_left/
 Gets the left coordinate of page display.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Left() const
+int32_t Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Left() const
 ```
 
 ## See Also

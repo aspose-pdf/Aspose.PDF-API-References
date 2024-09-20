@@ -4,7 +4,7 @@ linktitle: get_DefaultColumnWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_DefaultColumnWidth method. Gets default column width in C++.'
 type: docs
-weight: 2100
+weight: 1400
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_defaultcolumnwidth/
 ---
 ## TableElement::get_DefaultColumnWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/get_defaultcolumnwidth/
 Gets default column width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::TableElement::get_DefaultColumnWidth() const
+System::String Aspose::Pdf::LogicalStructure::TableElement::get_DefaultColumnWidth() const
 ```
 
 ## See Also

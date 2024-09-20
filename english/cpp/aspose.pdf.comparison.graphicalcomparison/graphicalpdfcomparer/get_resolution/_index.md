@@ -4,7 +4,7 @@ linktitle: get_Resolution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Resolution method. Gets and sets the resolution of the resulting images. The default value is 150dpi in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/get_resolution/
 ---
 ## GraphicalPdfComparer::get_Resolution method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/get_res
 Gets and sets the resolution of the resulting images. The default value is 150dpi.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::Devices::Resolution> & Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Resolution() const
+const System::SharedPtr<Aspose::Pdf::Devices::Resolution> & Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Resolution() const
 ```
 
 ## See Also

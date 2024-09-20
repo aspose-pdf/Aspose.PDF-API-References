@@ -4,7 +4,7 @@ linktitle: PdfANonSpecificationFlags
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfANonSpecificationFlags::PdfANonSpecificationFlags constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
 ## PdfANonSpecificationFlags::PdfANonSpecificationFlags constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PdfANonSpecificationFlags::PdfANonSpecificationFlags()
+Aspose::Pdf::PdfANonSpecificationFlags::PdfANonSpecificationFlags()
 ```
 
 ## See Also

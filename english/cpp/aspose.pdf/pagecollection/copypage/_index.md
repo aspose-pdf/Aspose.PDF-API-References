@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/copypage/
 Adds page to collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Page> Aspose::Pdf::PageCollection::CopyPage(System::SharedPtr<Page> entity)
+System::SharedPtr<Page> Aspose::Pdf::PageCollection::CopyPage(System::SharedPtr<Page> entity)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Page> Aspose::Pdf::PageCollection::CopyP
 ### ReturnValue
 
 Added page.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>entity</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> which should be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

@@ -20,20 +20,7 @@ virtual void Aspose::Pdf::LogicalStructure::ITextElement::SetText(System::String
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | System::String | [Text](../../../aspose.pdf.text/) content |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf_1_1_text" kindref="compound">Text</ref> content</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ITextElement](../)

@@ -4,7 +4,7 @@ linktitle: Multiply
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::Multiply method. Multiplies the matrix by other matrix in C++.'
 type: docs
-weight: 1900
+weight: 1400
 url: /cpp/aspose.pdf/matrix/multiply/
 ---
 ## Matrix::Multiply method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/multiply/
 Multiplies the matrix by other matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Multiply(System::SharedPtr<Matrix> other)
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Multiply(System::SharedPtr<Matrix> other)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Multiply(Sy
 ### ReturnValue
 
 Result of multiplication.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>other</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Multiplier matrix.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Matrix](../)

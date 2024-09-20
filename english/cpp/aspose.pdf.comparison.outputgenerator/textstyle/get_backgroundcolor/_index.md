@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::OutputGenerator::TextStyle::get_BackgroundColor method. Gets and sets the background color in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.comparison.outputgenerator/textstyle/get_backgroundcolor/
 ---
 ## TextStyle::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/textstyle/get_backgroundcolor/
 Gets and sets the background color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::OutputGenerator::TextStyle::get_BackgroundColor() const
+const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::OutputGenerator::TextStyle::get_BackgroundColor() const
 ```
 
 ## See Also

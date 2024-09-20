@@ -4,7 +4,7 @@ linktitle: set_ScalingRateY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_ScalingRateY method. Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/aspose.pdf/graphinfo/set_scalingratey/
 ---
 ## GraphInfo::set_ScalingRateY method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_scalingratey/
 Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::GraphInfo::set_ScalingRateY(double value)
+void Aspose::Pdf::GraphInfo::set_ScalingRateY(double value)
 ```
 
 ## See Also

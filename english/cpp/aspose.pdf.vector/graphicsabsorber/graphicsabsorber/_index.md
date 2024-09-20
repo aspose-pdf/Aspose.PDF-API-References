@@ -4,7 +4,7 @@ linktitle: GraphicsAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use GraphicsAbsorber constructor of Aspose::Pdf::Vector::GraphicsAbsorber class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 ---
 ## GraphicsAbsorber::GraphicsAbsorber constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Vector::GraphicsAbsorber::GraphicsAbsorber()
+Aspose::Pdf::Vector::GraphicsAbsorber::GraphicsAbsorber()
 ```
 
 ## See Also

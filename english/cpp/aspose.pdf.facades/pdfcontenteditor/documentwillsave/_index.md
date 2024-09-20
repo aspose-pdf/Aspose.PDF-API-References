@@ -4,7 +4,7 @@ linktitle: DocumentWillSave
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::DocumentWillSave field. A document event type. Excute a action before saving in C++.'
 type: docs
-weight: 5300
+weight: 5600
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
 ## DocumentWillSave field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 A document event type. Excute a action before saving.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentWillSave
+static const System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentWillSave
 ```
 
 ## See Also

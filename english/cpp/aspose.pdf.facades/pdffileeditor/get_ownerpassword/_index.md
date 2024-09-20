@@ -4,7 +4,7 @@ linktitle: get_OwnerPassword
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_OwnerPassword method. Sets owner''s password if the source input Pdf file is encrypted. This property is not implemented yet in C++.'
 type: docs
-weight: 1900
+weight: 2600
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_ownerpassword/
 ---
 ## PdfFileEditor::get_OwnerPassword method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_ownerpassword/
 Sets owner's password if the source input [Pdf](../../../aspose.pdf/) file is encrypted. This property is not implemented yet.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileEditor::get_OwnerPassword() const
+System::String Aspose::Pdf::Facades::PdfFileEditor::get_OwnerPassword() const
 ```
 
 ## See Also

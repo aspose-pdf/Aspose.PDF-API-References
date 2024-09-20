@@ -4,7 +4,7 @@ linktitle: set_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RadioButtonOptionField::set_Style method. Sets style of check box in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/set_style/
 ---
 ## RadioButtonOptionField::set_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/set_style/
 Sets style of check box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RadioButtonOptionField::set_Style(BoxStyle value)
+void Aspose::Pdf::Forms::RadioButtonOptionField::set_Style(BoxStyle value)
 ```
 
 ## See Also

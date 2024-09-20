@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/absorbedcell/get_colspan/
 Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Text::AbsorbedCell::get_ColSpan() const
+int32_t Aspose::Pdf::Text::AbsorbedCell::get_ColSpan() const
 ```
 
 ## See Also

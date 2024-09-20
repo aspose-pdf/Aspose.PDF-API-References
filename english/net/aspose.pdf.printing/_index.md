@@ -3,7 +3,7 @@ title: Aspose.Pdf.Printing
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.printing/
 ---
 

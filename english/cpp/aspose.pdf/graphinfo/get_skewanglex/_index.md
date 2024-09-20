@@ -4,7 +4,7 @@ linktitle: get_SkewAngleX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::get_SkewAngleX method. Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.pdf/graphinfo/get_skewanglex/
 ---
 ## GraphInfo::get_SkewAngleX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/get_skewanglex/
 Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::GraphInfo::get_SkewAngleX() const
+double Aspose::Pdf::GraphInfo::get_SkewAngleX() const
 ```
 
 ## See Also

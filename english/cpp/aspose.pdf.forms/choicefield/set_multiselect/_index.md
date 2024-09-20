@@ -4,7 +4,7 @@ linktitle: set_MultiSelect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::set_MultiSelect method. Sets multiselection flag in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/aspose.pdf.forms/choicefield/set_multiselect/
 ---
 ## ChoiceField::set_MultiSelect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/set_multiselect/
 Sets multiselection flag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ChoiceField::set_MultiSelect(bool value)
+void Aspose::Pdf::Forms::ChoiceField::set_MultiSelect(bool value)
 ```
 
 ## See Also

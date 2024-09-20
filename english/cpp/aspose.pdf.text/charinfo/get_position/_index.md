@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/charinfo/get_position/
 Gets position of the character.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::CharInfo::get_Position() const
+System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::CharInfo::get_Position() const
 ```
 
 ## See Also

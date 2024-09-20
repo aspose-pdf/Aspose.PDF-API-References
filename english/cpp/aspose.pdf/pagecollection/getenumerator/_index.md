@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::GetEnumerator method. Returns enumerator of pages in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/aspose.pdf/pagecollection/getenumerator/
 ---
 ## PageCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/getenumerator/
 Returns enumerator of pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Page>>> Aspose::Pdf::PageCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Page>>> Aspose::Pdf::PageCollection::GetEnumerator() override
 ```
 
 

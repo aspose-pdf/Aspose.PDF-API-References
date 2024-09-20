@@ -4,7 +4,7 @@ linktitle: get_IsBackground
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Stamp::get_IsBackground method. Gets background status. If true stamp will be placed as background of the spamped page. By default is set to false in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/aspose.pdf.facades/stamp/get_isbackground/
 ---
 ## Stamp::get_IsBackground method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stamp/get_isbackground/
 Gets background status. If true stamp will be placed as background of the spamped page. By default is set to false.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Stamp::get_IsBackground() const
+bool Aspose::Pdf::Facades::Stamp::get_IsBackground() const
 ```
 
 ## Remarks

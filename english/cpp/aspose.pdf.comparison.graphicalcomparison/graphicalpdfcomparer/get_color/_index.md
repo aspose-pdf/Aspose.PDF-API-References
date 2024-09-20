@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Color method. Gets and sets the change flag color. The default color is red in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/get_color/
 ---
 ## GraphicalPdfComparer::get_Color method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/get_col
 Gets and sets the change flag color. The default color is red.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Color() const
+const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::get_Color() const
 ```
 
 ## See Also

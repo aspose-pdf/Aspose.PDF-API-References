@@ -4,7 +4,7 @@ linktitle: get_AnnotationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WatermarkAnnotation::get_AnnotationType method. Gets annotation type in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.annotations/watermarkannotation/get_annotationtype/
 ---
 ## WatermarkAnnotation::get_AnnotationType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/watermarkannotation/get_annotationtype/
 Gets annotation type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::WatermarkAnnotation::get_AnnotationType() override
+Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::WatermarkAnnotation::get_AnnotationType() override
 ```
 
 ## See Also

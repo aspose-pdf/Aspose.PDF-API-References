@@ -4,7 +4,7 @@ linktitle: set_NumberingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::set_NumberingStyle method. Sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase in C++.'
 type: docs
-weight: 2100
+weight: 3000
 url: /cpp/aspose.pdf.facades/pdffilestamp/set_numberingstyle/
 ---
 ## PdfFileStamp::set_NumberingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_numberingstyle/
 Sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileStamp::set_NumberingStyle(Aspose::Pdf::NumberingStyle value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_NumberingStyle(Aspose::Pdf::NumberingStyle value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: DigestHashAlgorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DigestHashAlgorithm enum. Represent type of algoritm that maps data to a "hash" in C++.'
 type: docs
-weight: 22600
+weight: 19300
 url: /cpp/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enum

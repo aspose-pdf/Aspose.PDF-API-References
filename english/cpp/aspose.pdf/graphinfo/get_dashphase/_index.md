@@ -4,7 +4,7 @@ linktitle: get_DashPhase
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::get_DashPhase method. Gets a dash phase in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf/graphinfo/get_dashphase/
 ---
 ## GraphInfo::get_DashPhase method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/get_dashphase/
 Gets a dash phase.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::GraphInfo::get_DashPhase() const
+int32_t Aspose::Pdf::GraphInfo::get_DashPhase() const
 ```
 
 ## See Also

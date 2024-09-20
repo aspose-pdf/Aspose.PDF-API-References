@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/get_linecolor/
 Gets the color of a line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Facades::LineInfo::get_LineColor() const
+System::Drawing::Color Aspose::Pdf::Facades::LineInfo::get_LineColor() const
 ```
 
 ## See Also

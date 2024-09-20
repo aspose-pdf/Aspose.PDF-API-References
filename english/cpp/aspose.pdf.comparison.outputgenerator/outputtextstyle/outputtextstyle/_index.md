@@ -4,7 +4,7 @@ linktitle: OutputTextStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use OutputTextStyle constructor of Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/outputtextstyle/
 ---
 ## OutputTextStyle::OutputTextStyle constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/outputtextstyle/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::OutputTextStyle()
+Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::OutputTextStyle()
 ```
 
 ## See Also

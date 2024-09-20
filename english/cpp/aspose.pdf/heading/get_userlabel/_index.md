@@ -4,7 +4,7 @@ linktitle: get_UserLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::get_UserLabel method. Gets user label in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/aspose.pdf/heading/get_userlabel/
 ---
 ## Heading::get_UserLabel method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/get_userlabel/
 Gets user label.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Text::TextSegment> & Aspose::Pdf::Heading::get_UserLabel() const
+const System::SharedPtr<Text::TextSegment> & Aspose::Pdf::Heading::get_UserLabel() const
 ```
 
 ## See Also

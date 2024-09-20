@@ -4,7 +4,7 @@ linktitle: get_D
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::get_D method. D member of the transformation matrix in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf/matrix/get_d/
 ---
 ## Matrix::get_D method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/get_d/
 D member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix::get_D()
+double Aspose::Pdf::Matrix::get_D()
 ```
 
 ## See Also

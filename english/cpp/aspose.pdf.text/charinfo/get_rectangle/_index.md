@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/charinfo/get_rectangle/
 Gets rectangle of the character.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::CharInfo::get_Rectangle() const
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::CharInfo::get_Rectangle() const
 ```
 
 ## See Also

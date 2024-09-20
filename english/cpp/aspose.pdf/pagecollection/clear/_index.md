@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Clear method. Clear page collection in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/aspose.pdf/pagecollection/clear/
 ---
 ## PageCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/clear/
 Clear page collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageCollection::Clear() override
+void Aspose::Pdf::PageCollection::Clear() override
 ```
 
 ## See Also

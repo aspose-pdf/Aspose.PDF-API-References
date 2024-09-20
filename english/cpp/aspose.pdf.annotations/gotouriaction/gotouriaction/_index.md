@@ -4,7 +4,7 @@ linktitle: GoToURIAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
 ## GoToURIAction::GoToURIAction constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.annotations/gotouriaction/gotouriaction/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction(System::String uri)
+Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction(System::String uri)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | uri | System::String | The uniform resource identifier to resolve. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>uri</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The uniform resource identifier to resolve.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GoToURIAction](../)

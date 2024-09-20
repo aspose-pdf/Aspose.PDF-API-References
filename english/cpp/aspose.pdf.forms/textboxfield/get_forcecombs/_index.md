@@ -4,7 +4,7 @@ linktitle: get_ForceCombs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::TextBoxField::get_ForceCombs method. Gets flag which indicates is field divided into spaced positions in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.forms/textboxfield/get_forcecombs/
 ---
 ## TextBoxField::get_ForceCombs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/textboxfield/get_forcecombs/
 Gets flag which indicates is field divided into spaced positions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::TextBoxField::get_ForceCombs()
+bool Aspose::Pdf::Forms::TextBoxField::get_ForceCombs()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_OnOpenPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnOpenPage method. Sets an action to be performed when the page containing the annotation is opened in C++.'
 type: docs
-weight: 1200
+weight: 2300
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onopenpage/
 ---
 ## AnnotationActionCollection::set_OnOpenPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onopenpage/
 Sets an action to be performed when the page containing the annotation is opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnOpenPage(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnOpenPage(System::SharedPtr<PdfAction> value)
 ```
 
 ## See Also

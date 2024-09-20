@@ -4,7 +4,7 @@ linktitle: get_OnReleaseMouseBtn
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnReleaseMouseBtn method. Gets an action to be performed when the mouse button is released inside the annotation''s active area in C++.'
 type: docs
-weight: 700
+weight: 1200
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onreleasemousebtn/
 ---
 ## AnnotationActionCollection::get_OnReleaseMouseBtn method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onreleasemousebt
 Gets an action to be performed when the mouse button is released inside the annotation's active area.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnReleaseMouseBtn()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnReleaseMouseBtn()
 ```
 
 ## See Also

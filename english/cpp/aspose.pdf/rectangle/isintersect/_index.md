@@ -4,7 +4,7 @@ linktitle: IsIntersect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::IsIntersect method. Determines whether this rectangle intersects with other rectangle in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.pdf/rectangle/isintersect/
 ---
 ## Rectangle::IsIntersect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/isintersect/
 Determines whether this rectangle intersects with other rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::IsIntersect(System::SharedPtr<Rectangle> otherRect)
+bool Aspose::Pdf::Rectangle::IsIntersect(System::SharedPtr<Rectangle> otherRect)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::IsIntersect(System::SharedPtr
 ### ReturnValue
 
 True if this rectangle intersects with specified rectangle. Otherwise false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>otherRect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Intersection will be tested with specified rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../)

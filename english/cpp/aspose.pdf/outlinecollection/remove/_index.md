@@ -2,18 +2,18 @@
 title: Aspose::Pdf::OutlineCollection::Remove method
 linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::OutlineCollection::Remove method. Always throws in C++.'
+description: 'Aspose::Pdf::OutlineCollection::Remove method. Always throws NotImplementedException in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf/outlinecollection/remove/
 ---
 ## OutlineCollection::Remove(const System::SharedPtr\<OutlineItemCollection\>\&) method
 
 
-Always throws
+Always throws NotImplementedException
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineCollection::Remove(const System::SharedPtr<OutlineItemCollection> &item) override
+bool Aspose::Pdf::OutlineCollection::Remove(const System::SharedPtr<OutlineItemCollection> &item) override
 ```
 
 
@@ -23,20 +23,8 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineCollection::Remove(const System::
 
 ### ReturnValue
 
+NotImplementedException
 
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to locate in the collection</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../../outlineitemcollection/)
@@ -49,26 +37,14 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineCollection::Remove(const System::
 Remove item by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineCollection::Remove(int32_t index)
+void Aspose::Pdf::OutlineCollection::Remove(int32_t index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index of the item to be removed. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of the item to be removed.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineCollection](../)

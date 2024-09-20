@@ -4,7 +4,7 @@ linktitle: BleedMarkAnnotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation constructor. Initializes a new instance of the BleedMarkAnnotation class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
 ## BleedMarkAnnotation::BleedMarkAnnotation constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 Initializes a new instance of the [BleedMarkAnnotation](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarkCornerPosition position)
+Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarkCornerPosition position)
 ```
 
 
@@ -24,24 +24,6 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAn
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page where the annotation will be added.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>position</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The position of the bleed mark on the page.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 This constructor creates a [BleedMarkAnnotation](../) and adds it to the specified page at the specified position. 
 ## See Also

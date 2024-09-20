@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/set_maxfontscachesize/
 Maximum count of fonts in fonts cache. Default value is 10.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::RenderingOptions::set_MaxFontsCacheSize(int32_t value)
+void Aspose::Pdf::RenderingOptions::set_MaxFontsCacheSize(int32_t value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::Contains method. Checks if collection contains given item in C++.'
 type: docs
-weight: 3400
+weight: 400
 url: /cpp/aspose.pdf/outlineitemcollection/contains/
 ---
 ## OutlineItemCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/contains/
 Checks if collection contains given item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::Contains(const System::SharedPtr<OutlineItemCollection> &item) const override
+bool Aspose::Pdf::OutlineItemCollection::Contains(const System::SharedPtr<OutlineItemCollection> &item) const override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::Contains(const Sy
 ### ReturnValue
 
 True - if item found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to locate in the collection</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../)

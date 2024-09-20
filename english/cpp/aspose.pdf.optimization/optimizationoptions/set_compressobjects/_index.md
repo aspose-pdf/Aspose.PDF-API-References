@@ -4,7 +4,7 @@ linktitle: set_CompressObjects
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_CompressObjects method. If this flag is set to true, Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size in C++.'
 type: docs
-weight: 200
+weight: 1800
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_compressobjects/
 ---
 ## OptimizationOptions::set_CompressObjects method
@@ -15,7 +15,7 @@ If this flag is set to **true**
 , [Pdf](../../../aspose.pdf/) objects will be packed into Objest Streams and compressed to reduce pdf file size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::OptimizationOptions::set_CompressObjects(bool value)
+void Aspose::Pdf::Optimization::OptimizationOptions::set_CompressObjects(bool value)
 ```
 
 ## See Also

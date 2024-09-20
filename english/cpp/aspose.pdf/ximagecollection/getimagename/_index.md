@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximagecollection/getimagename/
 Returns name in images list which is key of the given image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XImageCollection::GetImageName(System::SharedPtr<Aspose::Pdf::XImage> image)
+System::String Aspose::Pdf::XImageCollection::GetImageName(System::SharedPtr<Aspose::Pdf::XImage> image)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XImageCollection::GetImageName
 ### ReturnValue
 
 Name (key) of the found image; null if images was not found.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>image</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> to search.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XImage](../../ximage/)

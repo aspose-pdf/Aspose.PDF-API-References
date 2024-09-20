@@ -24,19 +24,7 @@ virtual System::SharedPtr<System::Drawing::Bitmap> Aspose::Pdf::IIndexBitmapConv
 ### ReturnValue
 
 Bitmap in 4 bpp image format.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>src</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Source bitmap.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [IIndexBitmapConverter](../)

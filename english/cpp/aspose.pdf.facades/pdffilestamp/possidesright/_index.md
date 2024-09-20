@@ -4,7 +4,7 @@ linktitle: PosSidesRight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::PosSidesRight field. Right position in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf.facades/pdffilestamp/possidesright/
 ---
 ## PosSidesRight field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/possidesright/
 Right position.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileStamp::PosSidesRight
+static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosSidesRight
 ```
 
 ## See Also

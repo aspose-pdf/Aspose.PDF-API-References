@@ -4,7 +4,7 @@ linktitle: get_Segments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_Segments method. Gets text segments for current TextFragment in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/aspose.pdf.text/textfragment/get_segments/
 ---
 ## TextFragment::get_Segments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_segments/
 Gets text segments for current [TextFragment](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextSegmentCollection> Aspose::Pdf::Text::TextFragment::get_Segments() const
+System::SharedPtr<TextSegmentCollection> Aspose::Pdf::Text::TextFragment::get_Segments() const
 ```
 
 ## Remarks

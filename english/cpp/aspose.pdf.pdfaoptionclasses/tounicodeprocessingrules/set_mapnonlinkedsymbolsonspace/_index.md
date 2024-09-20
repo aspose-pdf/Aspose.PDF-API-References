@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/set_mapnonlinked
 Some fonts doesn't provide information about unicodes for some text symbols. This lack of information calls an error "Text cannot be mapped to Unicode". Use this flag to map non-linked symbols on unicode "space"(code 32).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfAOptionClasses::ToUnicodeProcessingRules::set_MapNonLinkedSymbolsOnSpace(bool value)
+void Aspose::Pdf::PdfAOptionClasses::ToUnicodeProcessingRules::set_MapNonLinkedSymbolsOnSpace(bool value)
 ```
 
 ## See Also

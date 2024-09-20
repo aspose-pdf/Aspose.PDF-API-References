@@ -4,7 +4,7 @@ linktitle: get_MinStrokeWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_MinStrokeWidth method. Gets the minimum stroke width that will be used in the resulting SVG. If the PDF use a thinner stroke width, it will be replaced with this width. The default value is 0.5 in C++.'
 type: docs
-weight: 1500
+weight: 600
 url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_minstrokewidth/
 ---
 ## SvgExtractionOptions::get_MinStrokeWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_minstrokewidth/
 Gets the minimum stroke width that will be used in the resulting SVG. If the PDF use a thinner stroke width, it will be replaced with this width. The default value is 0.5.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_MinStrokeWidth() const
+double Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_MinStrokeWidth() const
 ```
 
 ## Remarks

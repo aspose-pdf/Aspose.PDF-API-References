@@ -4,7 +4,7 @@ linktitle: get_Tx
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::get_Tx method. Tx member of the transformation matrix in C++.'
 type: docs
-weight: 1900
+weight: 1300
 url: /cpp/aspose.pdf/matrix3d/get_tx/
 ---
 ## Matrix3D::get_Tx method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/get_tx/
 Tx member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::get_Tx()
+double Aspose::Pdf::Matrix3D::get_Tx()
 ```
 
 ## See Also

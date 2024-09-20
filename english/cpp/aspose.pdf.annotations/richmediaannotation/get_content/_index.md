@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/get_content/
 Data of the Rich Media content.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::RichMediaAnnotation::get_Content()
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::RichMediaAnnotation::get_Content()
 ```
 
 ## See Also

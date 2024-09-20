@@ -4,7 +4,7 @@ linktitle: GetObjectById
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::GetObjectById method. Gets a object with specified ID in the document in C++.'
 type: docs
-weight: 10400
+weight: 6600
 url: /cpp/aspose.pdf/document/getobjectbyid/
 ---
 ## Document::GetObjectById method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/getobjectbyid/
 Gets a object with specified ID in the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Document::GetObjectById(System::String id)
+System::SharedPtr<System::Object> Aspose::Pdf::Document::GetObjectById(System::String id)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Document::G
 ### ReturnValue
 
 The object with specified id. Null if the id is not found.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>id</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object id.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../)

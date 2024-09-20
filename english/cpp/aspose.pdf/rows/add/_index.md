@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/add/
 Add row to collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Row> Aspose::Pdf::Rows::Add()
+System::SharedPtr<Row> Aspose::Pdf::Rows::Add()
 ```
 
 
@@ -33,26 +33,14 @@ The new row
 Add row to cellection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Rows::Add(System::SharedPtr<Row> row)
+void Aspose::Pdf::Rows::Add(System::SharedPtr<Row> row)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | row | System::SharedPtr\<Row\> | The new row. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>row</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The new row.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Row](../../row/)

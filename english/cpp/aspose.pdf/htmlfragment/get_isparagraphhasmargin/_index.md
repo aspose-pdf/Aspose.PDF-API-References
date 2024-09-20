@@ -4,7 +4,7 @@ linktitle: get_IsParagraphHasMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment::get_IsParagraphHasMargin method. Gets is paragraph has default margin otherwise margin is 0 in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf/htmlfragment/get_isparagraphhasmargin/
 ---
 ## HtmlFragment::get_IsParagraphHasMargin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/get_isparagraphhasmargin/
 Gets is paragraph has default margin otherwise margin is 0.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::HtmlFragment::get_IsParagraphHasMargin() const
+bool Aspose::Pdf::HtmlFragment::get_IsParagraphHasMargin() const
 ```
 
 ## See Also

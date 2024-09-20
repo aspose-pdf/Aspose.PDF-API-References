@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getrevision/
 Gets the revision of a signature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileSignature::GetRevision(System::String signName)
+int32_t Aspose::Pdf::Facades::PdfFileSignature::GetRevision(System::String signName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileSignature::GetRevisio
 ### ReturnValue
 
 Return the number of signature revision.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

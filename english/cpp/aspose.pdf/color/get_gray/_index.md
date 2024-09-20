@@ -4,7 +4,7 @@ linktitle: get_Gray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Gray method. Gets a system-defined color that has an ARGB value of #FF808080 in C++.'
 type: docs
-weight: 6100
+weight: 6400
 url: /cpp/aspose.pdf/color/get_gray/
 ---
 ## Color::get_Gray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_gray/
 Gets a system-defined color that has an ARGB value of **#FF808080**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Gray()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Gray()
 ```
 
 

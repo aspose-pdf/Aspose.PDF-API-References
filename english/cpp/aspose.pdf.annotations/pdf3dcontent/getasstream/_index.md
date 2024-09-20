@@ -4,7 +4,7 @@ linktitle: GetAsStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DContent::GetAsStream method. Gets 3D content as stream in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.annotations/pdf3dcontent/getasstream/
 ---
 ## PDF3DContent::GetAsStream method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcontent/getasstream/
 Gets 3D content as stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::PDF3DContent::GetAsStream()
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::PDF3DContent::GetAsStream()
 ```
 
 

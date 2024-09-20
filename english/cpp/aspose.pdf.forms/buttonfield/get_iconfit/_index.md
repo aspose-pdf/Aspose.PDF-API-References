@@ -4,7 +4,7 @@ linktitle: get_IconFit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::get_IconFit method. Gets icon fit object specifying how the widget annotation''s icon shall be displayed within its annotation rectangle in C++.'
 type: docs
-weight: 1300
+weight: 500
 url: /cpp/aspose.pdf.forms/buttonfield/get_iconfit/
 ---
 ## ButtonField::get_IconFit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/get_iconfit/
 Gets icon fit object specifying how the widget annotation's icon shall be displayed within its annotation rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Forms::IconFit> Aspose::Pdf::Forms::ButtonField::get_IconFit()
+System::SharedPtr<Aspose::Pdf::Forms::IconFit> Aspose::Pdf::Forms::ButtonField::get_IconFit()
 ```
 
 ## See Also

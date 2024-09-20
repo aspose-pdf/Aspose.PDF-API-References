@@ -4,7 +4,7 @@ linktitle: get_PagesCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXSaveOptions::get_PagesCount method. Returns the number of pages after conversion in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf/texsaveoptions/get_pagescount/
 ---
 ## TeXSaveOptions::get_PagesCount method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texsaveoptions/get_pagescount/
 Returns the number of pages after conversion.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::TeXSaveOptions::get_PagesCount() const
+int32_t Aspose::Pdf::TeXSaveOptions::get_PagesCount() const
 ```
 
 ## See Also

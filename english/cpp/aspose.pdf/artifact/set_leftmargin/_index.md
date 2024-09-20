@@ -4,7 +4,7 @@ linktitle: set_LeftMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::set_LeftMargin method. Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored in C++.'
 type: docs
-weight: 1700
+weight: 3400
 url: /cpp/aspose.pdf/artifact/set_leftmargin/
 ---
 ## Artifact::set_LeftMargin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_leftmargin/
 Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Artifact::set_LeftMargin(double value)
+void Aspose::Pdf::Artifact::set_LeftMargin(double value)
 ```
 
 ## See Also

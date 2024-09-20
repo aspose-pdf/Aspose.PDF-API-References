@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/bookmark/get_childitem/
 Gets bookmark's children.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::Bookmark::get_ChildItem()
+System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::Bookmark::get_ChildItem()
 ```
 
-## Remarks
 
+## Deprecated
+Use ChildItems property instead of this one. 
 
-<xrefsect id="deprecated_1_deprecated000011">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use ChildItems property instead of this one. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [Bookmarks](../../bookmarks/)

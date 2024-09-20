@@ -4,7 +4,7 @@ linktitle: get_ExtractTextMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::get_ExtractTextMode method. Sets the mode for extract text''s result in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.pdf.facades/pdfextractor/get_extracttextmode/
 ---
 ## PdfExtractor::get_ExtractTextMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/get_extracttextmode/
 Sets the mode for extract text's result.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfExtractor::get_ExtractTextMode() const
+int32_t Aspose::Pdf::Facades::PdfExtractor::get_ExtractTextMode() const
 ```
 
 ## Remarks

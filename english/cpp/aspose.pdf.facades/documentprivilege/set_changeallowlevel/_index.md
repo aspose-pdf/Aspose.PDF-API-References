@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/set_changeallowlevel/
 Sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::DocumentPrivilege::set_ChangeAllowLevel(int32_t value)
+void Aspose::Pdf::Facades::DocumentPrivilege::set_ChangeAllowLevel(int32_t value)
 ```
 
 ## See Also

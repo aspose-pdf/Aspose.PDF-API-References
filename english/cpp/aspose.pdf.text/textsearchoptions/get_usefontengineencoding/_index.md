@@ -4,7 +4,7 @@ linktitle: get_UseFontEngineEncoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSearchOptions::get_UseFontEngineEncoding method. Gets indication that text will be searched using font engine encoding. true - means that font engine encoding will be used (try this if text search fails because of imperfect encoding in the document) false - means that document font encoding will be used (default value) in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pdf.text/textsearchoptions/get_usefontengineencoding/
 ---
 ## TextSearchOptions::get_UseFontEngineEncoding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsearchoptions/get_usefontengineencoding/
 Gets indication that text will be searched using font engine encoding. true - means that font engine encoding will be used (try this if text search fails because of imperfect encoding in the document) false - means that document font encoding will be used (default value)
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextSearchOptions::get_UseFontEngineEncoding() const
+bool Aspose::Pdf::Text::TextSearchOptions::get_UseFontEngineEncoding() const
 ```
 
 ## See Also

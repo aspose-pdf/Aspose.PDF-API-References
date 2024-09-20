@@ -4,7 +4,7 @@ linktitle: TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextAlignment enum. Alignment of text in annotation in C++.'
 type: docs
-weight: 14900
+weight: 15400
 url: /cpp/aspose.pdf.annotations/textalignment/
 ---
 ## TextAlignment enum
@@ -24,15 +24,10 @@ enum class TextAlignment
 | Center | 1 | [Text](../../aspose.pdf.text/) is centered. |
 | Right | 2 | [Text](../../aspose.pdf.text/) is aligned to right. |
 
-## Remarks
 
+## Deprecated
+Use Aspose.Pdf.HorizontalAlignment type 
 
-<xrefsect id="deprecated_1_deprecated000113">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use <ref refid="namespace_aspose_1_1_pdf_1aefec9c0bf30ee5e6fb2640e69aed6cd9" kindref="member">Aspose.Pdf.HorizontalAlignment</ref> type </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Namespace [Aspose::Pdf::Annotations](../)

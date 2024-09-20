@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/characteristics/set_rotate/
 Sets rotation of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Characteristics::set_Rotate(Rotation value)
+void Aspose::Pdf::Annotations::Characteristics::set_Rotate(Rotation value)
 ```
 
 ## See Also

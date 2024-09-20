@@ -4,7 +4,7 @@ linktitle: set_IsFirstParagraphInColumn
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseParagraph::set_IsFirstParagraphInColumn method. Sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) in C++.'
 type: docs
-weight: 800
+weight: 1400
 url: /cpp/aspose.pdf/baseparagraph/set_isfirstparagraphincolumn/
 ---
 ## BaseParagraph::set_IsFirstParagraphInColumn method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_isfirstparagraphincolumn/
 Sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BaseParagraph::set_IsFirstParagraphInColumn(bool value)
+void Aspose::Pdf::BaseParagraph::set_IsFirstParagraphInColumn(bool value)
 ```
 
 ## See Also

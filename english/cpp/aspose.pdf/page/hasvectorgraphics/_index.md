@@ -4,7 +4,7 @@ linktitle: HasVectorGraphics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::HasVectorGraphics method. Detect of the presence of vector graphics, if it is present on the page in C++.'
 type: docs
-weight: 5900
+weight: 4600
 url: /cpp/aspose.pdf/page/hasvectorgraphics/
 ---
 ## Page::HasVectorGraphics method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/hasvectorgraphics/
 Detect of the presence of vector graphics, if it is present on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Page::HasVectorGraphics()
+bool Aspose::Pdf::Page::HasVectorGraphics()
 ```
 
 

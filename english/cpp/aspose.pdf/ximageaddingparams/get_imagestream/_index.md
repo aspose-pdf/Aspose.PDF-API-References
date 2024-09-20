@@ -4,7 +4,7 @@ linktitle: get_ImageStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_ImageStream method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf/ximageaddingparams/get_imagestream/
 ---
 ## XImageAddingParams::get_ImageStream method

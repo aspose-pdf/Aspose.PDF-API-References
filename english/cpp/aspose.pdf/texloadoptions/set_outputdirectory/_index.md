@@ -4,7 +4,7 @@ linktitle: set_OutputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXLoadOptions::set_OutputDirectory method. Gets/sets TeX output directory in C++.'
 type: docs
-weight: 600
+weight: 1700
 url: /cpp/aspose.pdf/texloadoptions/set_outputdirectory/
 ---
 ## TeXLoadOptions::set_OutputDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_outputdirectory/
 Gets/sets TeX output directory.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TeXLoadOptions::set_OutputDirectory(System::SharedPtr<ITeXOutputDirectory> value)
+void Aspose::Pdf::TeXLoadOptions::set_OutputDirectory(System::SharedPtr<ITeXOutputDirectory> value)
 ```
 
 ## See Also

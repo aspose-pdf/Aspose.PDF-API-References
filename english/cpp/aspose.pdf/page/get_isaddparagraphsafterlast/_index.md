@@ -4,7 +4,7 @@ linktitle: get_IsAddParagraphsAfterLast
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_IsAddParagraphsAfterLast method. Gets the addition of paragraphs after the last paragraph of the page in C++.'
 type: docs
-weight: 100
+weight: 2800
 url: /cpp/aspose.pdf/page/get_isaddparagraphsafterlast/
 ---
 ## Page::get_IsAddParagraphsAfterLast method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_isaddparagraphsafterlast/
 Gets the addition of paragraphs after the last paragraph of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Page::get_IsAddParagraphsAfterLast() const
+bool Aspose::Pdf::Page::get_IsAddParagraphsAfterLast() const
 ```
 
 ## Remarks

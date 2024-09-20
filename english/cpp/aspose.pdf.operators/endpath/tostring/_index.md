@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/endpath/tostring/
 [Text](../../../aspose.pdf.text/) representation of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::EndPath::ToString() const override
+System::String Aspose::Pdf::Operators::EndPath::ToString() const override
 ```
 
 

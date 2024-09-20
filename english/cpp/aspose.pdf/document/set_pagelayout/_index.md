@@ -4,7 +4,7 @@ linktitle: set_PageLayout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_PageLayout method. Sets page layout which shall be used when the document is opened in C++.'
 type: docs
-weight: 4800
+weight: 10600
 url: /cpp/aspose.pdf/document/set_pagelayout/
 ---
 ## Document::set_PageLayout method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_pagelayout/
 Sets page layout which shall be used when the document is opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_PageLayout(Aspose::Pdf::PageLayout value)
+void Aspose::Pdf::Document::set_PageLayout(Aspose::Pdf::PageLayout value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_FileType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::set_FileType method. Sets the image file type in C++.'
 type: docs
-weight: 1100
+weight: 1600
 url: /cpp/aspose.pdf/image/set_filetype/
 ---
 ## Image::set_FileType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_filetype/
 Sets the image file type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Image::set_FileType(ImageFileType value)
+void Aspose::Pdf::Image::set_FileType(ImageFileType value)
 ```
 
 ## See Also

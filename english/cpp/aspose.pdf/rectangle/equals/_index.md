@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Equals method. Check if rectangles are equal i.e. have same position and sizes in C++.'
 type: docs
-weight: 1600
+weight: 700
 url: /cpp/aspose.pdf/rectangle/equals/
 ---
 ## Rectangle::Equals method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/equals/
 Check if rectangles are equal i.e. have same position and sizes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::Equals(System::SharedPtr<Rectangle> other)
+bool Aspose::Pdf::Rectangle::Equals(System::SharedPtr<Rectangle> other)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::Equals(System::SharedPtr<Rect
 ### ReturnValue
 
 True if rectangles are eqals, false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>other</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> which will be compared.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../)

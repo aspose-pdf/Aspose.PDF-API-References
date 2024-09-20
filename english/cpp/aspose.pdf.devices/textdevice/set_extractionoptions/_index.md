@@ -4,7 +4,7 @@ linktitle: set_ExtractionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions method. Sets text extraction options in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf.devices/textdevice/set_extractionoptions/
 ---
 ## TextDevice::set_ExtractionOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/textdevice/set_extractionoptions/
 Sets text extraction options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions(System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> value)
+void Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions(System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> value)
 ```
 
 ## See Also

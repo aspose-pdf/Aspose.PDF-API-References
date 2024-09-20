@@ -4,7 +4,7 @@ linktitle: set_LineDash
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LevelFormat::set_LineDash method. Sets TOC line dash in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf/levelformat/set_linedash/
 ---
 ## LevelFormat::set_LineDash method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/set_linedash/
 Sets TOC line dash.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LevelFormat::set_LineDash(Text::TabLeaderType value)
+void Aspose::Pdf::LevelFormat::set_LineDash(Text::TabLeaderType value)
 ```
 
 ## See Also

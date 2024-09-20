@@ -4,7 +4,7 @@ linktitle: get_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MarginInfo::get_Top method. Gets a float value that indicates the top margin in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf/margininfo/get_top/
 ---
 ## MarginInfo::get_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/margininfo/get_top/
 Gets a float value that indicates the top margin.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::MarginInfo::get_Top() const
+double Aspose::Pdf::MarginInfo::get_Top() const
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Interface IPdfTypeExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.GroupProcessor.IPdfTypeExtractor interface. Represents interface to interacting with extractor
 type: docs
-weight: 3810
+weight: 3860
 url: /net/aspose.pdf.groupprocessor/ipdftypeextractor/
 ---
 ## IPdfTypeExtractor interface

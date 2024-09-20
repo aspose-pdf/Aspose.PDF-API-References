@@ -4,7 +4,7 @@ linktitle: get_LanguageTransformationBehavior
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextEditOptions::get_LanguageTransformationBehavior method. Gets mode that defines behavior for language transformation scenarios in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/aspose.pdf.text/texteditoptions/get_languagetransformationbehavior/
 ---
 ## TextEditOptions::get_LanguageTransformationBehavior method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/get_languagetransformationbehavior/
 Gets mode that defines behavior for language transformation scenarios.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextEditOptions::LanguageTransformation Aspose::Pdf::Text::TextEditOptions::get_LanguageTransformationBehavior() const
+TextEditOptions::LanguageTransformation Aspose::Pdf::Text::TextEditOptions::get_LanguageTransformationBehavior() const
 ```
 
 ## See Also

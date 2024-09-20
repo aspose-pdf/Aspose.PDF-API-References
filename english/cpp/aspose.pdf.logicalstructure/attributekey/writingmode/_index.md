@@ -4,7 +4,7 @@ linktitle: WritingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::WritingMode field. WritingMode attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 600
+weight: 4500
 url: /cpp/aspose.pdf.logicalstructure/attributekey/writingmode/
 ---
 ## WritingMode field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/writingmode/
 WritingMode attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::WritingMode
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::WritingMode
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::get_FontSize method. The size of a field text in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf.facades/formfieldfacade/get_fontsize/
 ---
 ## FormFieldFacade::get_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/get_fontsize/
 The size of a field text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::FormFieldFacade::get_FontSize() const
+float Aspose::Pdf::Facades::FormFieldFacade::get_FontSize() const
 ```
 
 ## See Also

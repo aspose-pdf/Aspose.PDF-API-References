@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cells::idx_get method. Gets cells in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.pdf/cells/idx_get/
 ---
 ## Cells::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/idx_get/
 Gets cells.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Cell> Aspose::Pdf::Cells::idx_get(int32_t index)
+System::SharedPtr<Cell> Aspose::Pdf::Cells::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Cell> Aspose::Pdf::Cells::idx_get(int32_
 ### ReturnValue
 
 
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The cell index.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Cell](../../cell/)

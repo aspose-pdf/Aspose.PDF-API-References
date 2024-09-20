@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/curveto/tostring/
 Returns text representation of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::CurveTo::ToString() const override
+System::String Aspose::Pdf::Operators::CurveTo::ToString() const override
 ```
 
 

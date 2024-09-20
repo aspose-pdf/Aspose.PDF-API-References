@@ -4,7 +4,7 @@ linktitle: set_R
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetRGBColor::set_R method. Sets the red component in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.pdf.operators/setrgbcolor/set_r/
 ---
 ## SetRGBColor::set_R method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setrgbcolor/set_r/
 Sets the red component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetRGBColor::set_R(double value)
+void Aspose::Pdf::Operators::SetRGBColor::set_R(double value)
 ```
 
 ## Remarks

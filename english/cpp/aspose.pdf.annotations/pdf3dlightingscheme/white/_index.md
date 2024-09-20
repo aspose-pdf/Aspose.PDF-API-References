@@ -4,7 +4,7 @@ linktitle: White
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DLightingScheme::White field. The "White" lighting scheme in C++.'
 type: docs
-weight: 500
+weight: 1400
 url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
 ## White field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/white/
 The "White" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::White
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::White
 ```
 
 ## See Also

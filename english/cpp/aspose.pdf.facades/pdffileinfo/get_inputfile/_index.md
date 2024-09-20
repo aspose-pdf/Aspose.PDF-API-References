@@ -4,7 +4,7 @@ linktitle: get_InputFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_InputFile method. Gets the input file in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_inputfile/
 ---
 ## PdfFileInfo::get_InputFile method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_inputfile/
 Gets the input file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::get_InputFile() const
+System::String Aspose::Pdf::Facades::PdfFileInfo::get_InputFile() const
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputFile) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000052">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputFile) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileInfo](../)

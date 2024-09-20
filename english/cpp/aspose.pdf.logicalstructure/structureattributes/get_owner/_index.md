@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattributes/get_owner/
 Gets standard attribute owner.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::StructureAttributes::get_Owner()
+System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::StructureAttributes::get_Owner()
 ```
 
 ## Remarks

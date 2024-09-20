@@ -4,7 +4,7 @@ linktitle: FreeMemory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::FreeMemory method. Clears cached data in C++.'
 type: docs
-weight: 7100
+weight: 1200
 url: /cpp/aspose.pdf/page/freememory/
 ---
 ## Page::FreeMemory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/freememory/
 Clears cached data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::FreeMemory() override
+void Aspose::Pdf::Page::FreeMemory() override
 ```
 
 ## See Also

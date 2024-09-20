@@ -4,7 +4,7 @@ linktitle: get_Response
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_Response method. Gets Response object where result of operation will be stored in C++.'
 type: docs
-weight: 2600
+weight: 1900
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_response/
 ---
 ## PdfFileStamp::get_Response method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_response/
 Gets Response object where result of operation will be stored.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Web::HttpResponse> Aspose::Pdf::Facades::PdfFileStamp::get_Response() const
+System::SharedPtr<System::Web::HttpResponse> Aspose::Pdf::Facades::PdfFileStamp::get_Response() const
 ```
 
 ## See Also

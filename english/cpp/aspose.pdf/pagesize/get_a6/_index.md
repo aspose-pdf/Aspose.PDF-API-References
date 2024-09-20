@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a6/
 A6 size (148x105 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A6()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A6()
 ```
 
 ## See Also

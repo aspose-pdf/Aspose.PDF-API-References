@@ -4,7 +4,7 @@ linktitle: set_IgnoreResourceFontErrors
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::set_IgnoreResourceFontErrors method. Sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default in C++.'
 type: docs
-weight: 2800
+weight: 2000
 url: /cpp/aspose.pdf/renderingoptions/set_ignoreresourcefonterrors/
 ---
 ## RenderingOptions::set_IgnoreResourceFontErrors method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/set_ignoreresourcefonterrors/
 Sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. [Text](../../../aspose.pdf.text/) segments that refer to incorrect resources will be skipped during processing. false by default.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::RenderingOptions::set_IgnoreResourceFontErrors(bool value)
+void Aspose::Pdf::RenderingOptions::set_IgnoreResourceFontErrors(bool value)
 ```
 
 ## See Also

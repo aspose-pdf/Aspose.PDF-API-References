@@ -4,7 +4,7 @@ linktitle: set_Right
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Margins::set_Right method. Sets the right in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf.devices/margins/set_right/
 ---
 ## Margins::set_Right method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/margins/set_right/
 Sets the right.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::Margins::set_Right(int32_t value)
+void Aspose::Pdf::Devices::Margins::set_Right(int32_t value)
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: TrimBottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Sanitization::IRecovery::TrimBottom method. Removes data after last %EOF in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.sanitization/irecovery/trimbottom/
 ---
 ## IRecovery::TrimBottom method

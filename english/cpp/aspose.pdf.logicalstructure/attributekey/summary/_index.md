@@ -4,7 +4,7 @@ linktitle: Summary
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::Summary field. Summary attribute (Table attribute owner) in C++.'
 type: docs
-weight: 4500
+weight: 3600
 url: /cpp/aspose.pdf.logicalstructure/attributekey/summary/
 ---
 ## Summary field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/summary/
 Summary attribute ([Table](../../../aspose.pdf/table/) attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Summary
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Summary
 ```
 
 ## See Also

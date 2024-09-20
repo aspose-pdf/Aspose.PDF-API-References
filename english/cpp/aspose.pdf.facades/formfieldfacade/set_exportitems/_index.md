@@ -4,7 +4,7 @@ linktitle: set_ExportItems
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::set_ExportItems method. The options for adding a list/combo/radio box in C++.'
 type: docs
-weight: 3400
+weight: 3000
 url: /cpp/aspose.pdf.facades/formfieldfacade/set_exportitems/
 ---
 ## FormFieldFacade::set_ExportItems method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_exportitems/
 The options for adding a list/combo/radio box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
 ```
 
 ## See Also

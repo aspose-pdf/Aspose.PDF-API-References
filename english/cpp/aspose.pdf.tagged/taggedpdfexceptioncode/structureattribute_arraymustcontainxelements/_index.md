@@ -4,7 +4,7 @@ linktitle: StructureAttribute_ArrayMustContainXElements
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use StructureAttribute_ArrayMustContainXElements field of Aspose::Pdf::Tagged::TaggedPdfExceptionCode class in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/aspose.pdf.tagged/taggedpdfexceptioncode/structureattribute_arraymustcontainxelements/
 ---
 ## StructureAttribute_ArrayMustContainXElements field

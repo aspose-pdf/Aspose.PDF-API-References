@@ -4,7 +4,7 @@ linktitle: get_Start
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientAxialShading::get_Start method. Gets start point in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_start/
 ---
 ## GradientAxialShading::get_Start method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_start/
 Gets start point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Point> & Aspose::Pdf::Drawing::GradientAxialShading::get_Start() const
+const System::SharedPtr<Point> & Aspose::Pdf::Drawing::GradientAxialShading::get_Start() const
 ```
 
 ## See Also

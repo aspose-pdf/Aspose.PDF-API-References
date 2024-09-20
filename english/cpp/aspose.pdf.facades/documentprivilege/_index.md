@@ -49,7 +49,7 @@ class DocumentPrivilege : public System::IComparable<System::SharedPtr<System::O
 | [set_AllowScreenReaders](./set_allowscreenreaders/)(bool) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
 | [set_ChangeAllowLevel](./set_changeallowlevel/)(int32_t) | Sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages. |
 | [set_CopyAllowLevel](./set_copyallowlevel/)(int32_t) | Sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content. |
-| [set_PrintAllowLevel](./set_printallowlevel/)(int32_t) | Sets the print level of document's privilege. Just as the Adobe Professional's [Printing](../../aspose.pdf.printing/) Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
+| [set_PrintAllowLevel](./set_printallowlevel/)(int32_t) | Sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
 ## See Also
 
 * Namespace [Aspose::Pdf::Facades](../)

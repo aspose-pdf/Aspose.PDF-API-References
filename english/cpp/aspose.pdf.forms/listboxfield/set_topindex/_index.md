@@ -4,7 +4,7 @@ linktitle: set_TopIndex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ListBoxField::set_TopIndex method. Sets index of the top visible element of the list in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.forms/listboxfield/set_topindex/
 ---
 ## ListBoxField::set_TopIndex method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/listboxfield/set_topindex/
 Sets index of the top visible element of the list.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ListBoxField::set_TopIndex(int32_t value)
+void Aspose::Pdf::Forms::ListBoxField::set_TopIndex(int32_t value)
 ```
 
 ## See Also

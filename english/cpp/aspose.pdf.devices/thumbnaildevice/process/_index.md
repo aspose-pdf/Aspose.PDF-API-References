@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/thumbnaildevice/process/
 Converts the page into thumbnail image png and saves it in the output stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::ThumbnailDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
+void Aspose::Pdf::Devices::ThumbnailDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::ThumbnailDevice::Process(System
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | The page to convert. |
 | output | System::SharedPtr\<System::IO::Stream\> | Output stream with png image. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page to convert.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>output</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output stream with png image.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)

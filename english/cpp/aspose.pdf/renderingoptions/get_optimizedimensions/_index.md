@@ -4,7 +4,7 @@ linktitle: get_OptimizeDimensions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_OptimizeDimensions method. Gets optimize dimensions mode in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/aspose.pdf/renderingoptions/get_optimizedimensions/
 ---
 ## RenderingOptions::get_OptimizeDimensions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/get_optimizedimensions/
 Gets optimize dimensions mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::RenderingOptions::get_OptimizeDimensions() const
+bool Aspose::Pdf::RenderingOptions::get_OptimizeDimensions() const
 ```
 
 ## See Also

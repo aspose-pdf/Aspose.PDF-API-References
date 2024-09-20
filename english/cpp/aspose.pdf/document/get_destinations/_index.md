@@ -4,7 +4,7 @@ linktitle: get_Destinations
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Destinations method. Gets the collection of destinations. Obsolete. Please use NamedDestinations in C++.'
 type: docs
-weight: 1200
+weight: 2000
 url: /cpp/aspose.pdf/document/get_destinations/
 ---
 ## Document::get_Destinations method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_destinations/
 Gets the collection of destinations. Obsolete. Please use NamedDestinations.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<DestinationCollection> Aspose::Pdf::Document::get_Destinations()
+System::SharedPtr<DestinationCollection> Aspose::Pdf::Document::get_Destinations()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OperatorCollection::get_Count method. Gets count of operators in the collection in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.pdf/operatorcollection/get_count/
 ---
 ## OperatorCollection::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/operatorcollection/get_count/
 Gets count of operators in the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::OperatorCollection::get_Count() const override
+int32_t Aspose::Pdf::OperatorCollection::get_Count() const override
 ```
 
 ## See Also

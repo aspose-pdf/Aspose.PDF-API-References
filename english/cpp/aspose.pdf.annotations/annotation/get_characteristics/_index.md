@@ -4,7 +4,7 @@ linktitle: get_Characteristics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::get_Characteristics method. Gets annotation characteristics in C++.'
 type: docs
-weight: 2700
+weight: 1400
 url: /cpp/aspose.pdf.annotations/annotation/get_characteristics/
 ---
 ## Annotation::get_Characteristics method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_characteristics/
 Gets annotation characteristics.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::Characteristics> Aspose::Pdf::Annotations::Annotation::get_Characteristics()
+System::SharedPtr<Aspose::Pdf::Annotations::Characteristics> Aspose::Pdf::Annotations::Annotation::get_Characteristics()
 ```
 
 ## See Also

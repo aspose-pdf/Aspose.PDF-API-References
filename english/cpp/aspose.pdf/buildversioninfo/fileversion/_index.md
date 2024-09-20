@@ -4,7 +4,7 @@ linktitle: FileVersion
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BuildVersionInfo::FileVersion field. File Version in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf/buildversioninfo/fileversion/
 ---
 ## FileVersion field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/buildversioninfo/fileversion/
 File Version.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::BuildVersionInfo::FileVersion
+static const System::String Aspose::Pdf::BuildVersionInfo::FileVersion
 ```
 
 ## See Also

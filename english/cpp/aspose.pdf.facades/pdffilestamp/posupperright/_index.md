@@ -4,7 +4,7 @@ linktitle: PosUpperRight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::PosUpperRight field. Right upper position in C++.'
 type: docs
-weight: 4100
+weight: 4600
 url: /cpp/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
 ## PosUpperRight field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/posupperright/
 Right upper position.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperRight
+static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperRight
 ```
 
 ## See Also

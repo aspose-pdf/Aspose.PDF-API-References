@@ -4,7 +4,7 @@ linktitle: set_ScalingRateX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_ScalingRateX method. Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/aspose.pdf/graphinfo/set_scalingratex/
 ---
 ## GraphInfo::set_ScalingRateX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_scalingratex/
 Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::GraphInfo::set_ScalingRateX(double value)
+void Aspose::Pdf::GraphInfo::set_ScalingRateX(double value)
 ```
 
 ## See Also

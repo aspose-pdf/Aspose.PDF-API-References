@@ -4,7 +4,7 @@ linktitle: get_Font
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::get_Font method. Gets font of the text in C++.'
 type: docs
-weight: 1900
+weight: 600
 url: /cpp/aspose.pdf.text/textstate/get_font/
 ---
 ## TextState::get_Font method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/get_font/
 Gets font of the text.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::Text::TextState::get_Font()
+virtual System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::Text::TextState::get_Font()
 ```
 
 ## See Also

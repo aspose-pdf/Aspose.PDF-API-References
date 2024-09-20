@@ -4,7 +4,7 @@ linktitle: get_ECC
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::BarcodeField::get_ECC method. Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for ''L'', 1 for ''M'', 2 for ''Q'', and 3 for ''H'') in C++.'
 type: docs
-weight: 600
+weight: 300
 url: /cpp/aspose.pdf.forms/barcodefield/get_ecc/
 ---
 ## BarcodeField::get_ECC method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/barcodefield/get_ecc/
 Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for 'L', 1 for 'M', 2 for 'Q', and 3 for 'H').
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::BarcodeField::get_ECC()
+int32_t Aspose::Pdf::Forms::BarcodeField::get_ECC()
 ```
 
 ## See Also

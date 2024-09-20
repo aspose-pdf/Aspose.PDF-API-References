@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/get_d/
 D member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::get_D()
+double Aspose::Pdf::Matrix3D::get_D()
 ```
 
 ## See Also

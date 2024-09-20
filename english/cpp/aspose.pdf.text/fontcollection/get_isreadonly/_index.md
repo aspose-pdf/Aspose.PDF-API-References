@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontCollection::get_IsReadOnly method. Gets a value indicating whether collection is read-only in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.text/fontcollection/get_isreadonly/
 ---
 ## FontCollection::get_IsReadOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontcollection/get_isreadonly/
 Gets a value indicating whether collection is read-only.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontCollection::get_IsReadOnly() const override
+bool Aspose::Pdf::Text::FontCollection::get_IsReadOnly() const override
 ```
 
 ## See Also

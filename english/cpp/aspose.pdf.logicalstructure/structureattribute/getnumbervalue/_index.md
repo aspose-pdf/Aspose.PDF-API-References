@@ -4,7 +4,7 @@ linktitle: GetNumberValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttribute::GetNumberValue method. Gets Value Number in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
 ## StructureAttribute::GetNumberValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 Gets Value Number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<double> Aspose::Pdf::LogicalStructure::StructureAttribute::GetNumberValue()
+System::Nullable<double> Aspose::Pdf::LogicalStructure::StructureAttribute::GetNumberValue()
 ```
 
 

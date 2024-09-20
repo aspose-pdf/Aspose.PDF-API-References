@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseactioncollection/removeactions/
 Removes all actions of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BaseActionCollection::RemoveActions()
+void Aspose::Pdf::BaseActionCollection::RemoveActions()
 ```
 
 ## See Also

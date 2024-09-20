@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerrorlocation/tostring/
 Returns string representation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionErrorLocation::ToString() const override
+System::String Aspose::Pdf::Text::TextExtractionErrorLocation::ToString() const override
 ```
 
 

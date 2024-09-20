@@ -4,7 +4,7 @@ linktitle: Scope_Row
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Scope_Row field. Attribute Scope: Row in C++.'
 type: docs
-weight: 6800
+weight: 5800
 url: /cpp/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
 ## Scope_Row field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/scope_row/
 Attribute Scope: [Row](../../../aspose.pdf/row/).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Scope_Row
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Scope_Row
 ```
 
 ## See Also

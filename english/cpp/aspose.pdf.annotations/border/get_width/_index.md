@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::get_Width method. Gets border width in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/aspose.pdf.annotations/border/get_width/
 ---
 ## Border::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/get_width/
 Gets border width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::Border::get_Width()
+int32_t Aspose::Pdf::Annotations::Border::get_Width()
 ```
 
 ## See Also

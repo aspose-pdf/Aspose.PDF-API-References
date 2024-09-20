@@ -4,7 +4,7 @@ linktitle: get_Alignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::get_Alignment method. Gets the cell alignment in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_alignment/
 ---
 ## TableCellElement::get_Alignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_alignment/
 Gets the cell alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API HorizontalAlignment Aspose::Pdf::LogicalStructure::TableCellElement::get_Alignment() const
+HorizontalAlignment Aspose::Pdf::LogicalStructure::TableCellElement::get_Alignment() const
 ```
 
 ## See Also

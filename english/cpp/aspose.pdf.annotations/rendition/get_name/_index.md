@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/rendition/get_name/
 [Text](../../../aspose.pdf.text/) string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::Rendition::get_Name()
+System::String Aspose::Pdf::Annotations::Rendition::get_Name()
 ```
 
 ## See Also

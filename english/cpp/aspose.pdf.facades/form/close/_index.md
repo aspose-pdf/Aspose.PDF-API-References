@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::Close method. Closes opened files without any changes in C++.'
 type: docs
-weight: 3100
+weight: 200
 url: /cpp/aspose.pdf.facades/form/close/
 ---
 ## Form::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/close/
 Closes opened files without any changes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::Close() override
+void Aspose::Pdf::Facades::Form::Close() override
 ```
 
 ## See Also

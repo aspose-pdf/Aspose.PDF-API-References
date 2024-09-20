@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/margins/get_top/
 Gets the top.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Devices::Margins::get_Top() const
+int32_t Aspose::Pdf::Devices::Margins::get_Top() const
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/loadoptions/get_loadformat/
 Represents file format which [LoadOptions](../) describes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::LoadFormat Aspose::Pdf::LoadOptions::get_LoadFormat() const
+Aspose::Pdf::LoadFormat Aspose::Pdf::LoadOptions::get_LoadFormat() const
 ```
 
 ## See Also

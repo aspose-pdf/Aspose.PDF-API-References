@@ -4,7 +4,7 @@ linktitle: GetColorType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::GetColorType method. Returns color type of image in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/aspose.pdf/ximage/getcolortype/
 ---
 ## XImage::GetColorType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/getcolortype/
 Returns color type of image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ColorType Aspose::Pdf::XImage::GetColorType()
+Aspose::Pdf::ColorType Aspose::Pdf::XImage::GetColorType()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/myhtmlencode/
 Encodes string as html.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextSegment::MyHtmlEncode(System::String value)
+static System::String Aspose::Pdf::Text::TextSegment::MyHtmlEncode(System::String value)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextSegment::MyHt
 ### ReturnValue
 
 Html encoded string.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>String value to encode.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextSegment](../)

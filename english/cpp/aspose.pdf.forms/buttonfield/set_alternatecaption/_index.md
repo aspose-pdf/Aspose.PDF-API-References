@@ -4,7 +4,7 @@ linktitle: set_AlternateCaption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::set_AlternateCaption method. Sets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.pdf.forms/buttonfield/set_alternatecaption/
 ---
 ## ButtonField::set_AlternateCaption method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_alternatecaption/
 Sets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ButtonField::set_AlternateCaption(System::String value)
+void Aspose::Pdf::Forms::ButtonField::set_AlternateCaption(System::String value)
 ```
 
 ## See Also

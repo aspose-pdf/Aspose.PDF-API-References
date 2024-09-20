@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetTextRenderingMode::SetTextRenderingMode()
+Aspose::Pdf::Operators::SetTextRenderingMode::SetTextRenderingMode()
 ```
 
 ## See Also

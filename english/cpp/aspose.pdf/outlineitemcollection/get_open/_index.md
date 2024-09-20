@@ -4,7 +4,7 @@ linktitle: get_Open
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::get_Open method. Get or sets open status (true/false) for outline item in C++.'
 type: docs
-weight: 2300
+weight: 2000
 url: /cpp/aspose.pdf/outlineitemcollection/get_open/
 ---
 ## OutlineItemCollection::get_Open method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/get_open/
 Get or sets open status (true/false) for outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::get_Open()
+bool Aspose::Pdf::OutlineItemCollection::get_Open()
 ```
 
 ## See Also

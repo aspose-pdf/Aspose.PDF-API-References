@@ -4,7 +4,7 @@ linktitle: Producer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BuildVersionInfo::Producer field. Product Name in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/buildversioninfo/producer/
 ---
 ## Producer field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/buildversioninfo/producer/
 Product Name.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::BuildVersionInfo::Producer
+static const System::String Aspose::Pdf::BuildVersionInfo::Producer
 ```
 
 ## See Also

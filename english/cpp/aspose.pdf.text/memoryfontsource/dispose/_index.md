@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::MemoryFontSource::Dispose method. Releases internal resources in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.text/memoryfontsource/dispose/
 ---
 ## MemoryFontSource::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/memoryfontsource/dispose/
 Releases internal resources.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::MemoryFontSource::Dispose() override
+void Aspose::Pdf::Text::MemoryFontSource::Dispose() override
 ```
 
 ## See Also

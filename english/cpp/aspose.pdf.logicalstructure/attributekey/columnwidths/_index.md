@@ -4,7 +4,7 @@ linktitle: ColumnWidths
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::ColumnWidths field. ColumnWidths attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 3600
+weight: 1700
 url: /cpp/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ---
 ## ColumnWidths field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/columnwidths/
 ColumnWidths attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::ColumnWidths
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::ColumnWidths
 ```
 
 ## See Also

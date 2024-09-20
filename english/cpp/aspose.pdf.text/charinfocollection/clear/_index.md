@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::CharInfoCollection::Clear method. Collection is read-only. Always throws NotImplementedException in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/aspose.pdf.text/charinfocollection/clear/
 ---
 ## CharInfoCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/charinfocollection/clear/
 [Collection](../../../aspose.pdf/collection/) is read-only. Always throws NotImplementedException.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::CharInfoCollection::Clear() override
+void Aspose::Pdf::Text::CharInfoCollection::Clear() override
 ```
 
 ## See Also

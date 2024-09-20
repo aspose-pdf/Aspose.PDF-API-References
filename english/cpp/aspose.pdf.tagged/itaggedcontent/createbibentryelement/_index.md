@@ -4,7 +4,7 @@ linktitle: CreateBibEntryElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateBibEntryElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3100
+weight: 300
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
 ## ITaggedContent::CreateBibEntryElement method

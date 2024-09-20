@@ -4,7 +4,7 @@ linktitle: get_AFRelationship
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::get_AFRelationship method. Associated file Relationship in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pdf/filespecification/get_afrelationship/
 ---
 ## FileSpecification::get_AFRelationship method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/get_afrelationship/
 Associated file Relationship.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::AFRelationship Aspose::Pdf::FileSpecification::get_AFRelationship()
+Aspose::Pdf::AFRelationship Aspose::Pdf::FileSpecification::get_AFRelationship()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_OutputStreams
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::AutoFiller::get_OutputStreams method. Gets the many Output Streams. One of four output modes in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/aspose.pdf.facades/autofiller/get_outputstreams/
 ---
 ## AutoFiller::get_OutputStreams method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/get_outputstreams/
 Gets the many Output Streams. One of four output modes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<System::IO::Stream>> Aspose::Pdf::Facades::AutoFiller::get_OutputStreams() const
+System::ArrayPtr<System::SharedPtr<System::IO::Stream>> Aspose::Pdf::Facades::AutoFiller::get_OutputStreams() const
 ```
 
 ## See Also

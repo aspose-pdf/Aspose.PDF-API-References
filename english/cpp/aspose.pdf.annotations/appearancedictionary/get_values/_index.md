@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::get_Values method. Gets the list of the dictionary values. Result collection contains the list of XForm objects in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/aspose.pdf.annotations/appearancedictionary/get_values/
 ---
 ## AppearanceDictionary::get_Values method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/get_values/
 Gets the list of the dictionary values. Result collection contains the list of [XForm](../../../aspose.pdf/xform/) objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XForm>>> Aspose::Pdf::Annotations::AppearanceDictionary::get_Values() const override
+System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XForm>>> Aspose::Pdf::Annotations::AppearanceDictionary::get_Values() const override
 ```
 
 ## See Also

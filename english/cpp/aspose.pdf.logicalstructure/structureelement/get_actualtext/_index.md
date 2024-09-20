@@ -4,7 +4,7 @@ linktitle: get_ActualText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_ActualText method. Gets the actual text for structure element in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_actualtext/
 ---
 ## StructureElement::get_ActualText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_actualtext/
 Gets the actual text for structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureElement::get_ActualText()
+System::String Aspose::Pdf::LogicalStructure::StructureElement::get_ActualText()
 ```
 
 ## Remarks

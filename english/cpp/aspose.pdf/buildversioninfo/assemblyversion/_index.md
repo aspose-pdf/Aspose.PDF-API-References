@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/buildversioninfo/assemblyversion/
 Assembly Version.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::BuildVersionInfo::AssemblyVersion
+static const System::String Aspose::Pdf::BuildVersionInfo::AssemblyVersion
 ```
 
 ## See Also

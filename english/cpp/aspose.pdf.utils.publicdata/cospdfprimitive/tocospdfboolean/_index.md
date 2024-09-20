@@ -4,7 +4,7 @@ linktitle: ToCosPdfBoolean
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::PublicData::CosPdfPrimitive::ToCosPdfBoolean method. Tries cast this instance to CosPdfBoolean in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfboolean/
 ---
 ## CosPdfPrimitive::ToCosPdfBoolean method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfboolean/
 Tries cast this instance to [CosPdfBoolean](../../cospdfboolean/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<CosPdfBoolean> Aspose::Pdf::Utils::PublicData::CosPdfPrimitive::ToCosPdfBoolean() override
+System::SharedPtr<CosPdfBoolean> Aspose::Pdf::Utils::PublicData::CosPdfPrimitive::ToCosPdfBoolean() override
 ```
 
 

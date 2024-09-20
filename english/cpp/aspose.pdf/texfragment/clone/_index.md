@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXFragment::Clone method. Clones fragment in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.pdf/texfragment/clone/
 ---
 ## TeXFragment::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texfragment/clone/
 Clones fragment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::TeXFragment::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::TeXFragment::Clone() override
 ```
 
 

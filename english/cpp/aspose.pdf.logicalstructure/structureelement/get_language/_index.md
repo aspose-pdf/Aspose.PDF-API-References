@@ -4,7 +4,7 @@ linktitle: get_Language
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_Language method. Gets the language for structure element in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_language/
 ---
 ## StructureElement::get_Language method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_language/
 Gets the language for structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureElement::get_Language()
+System::String Aspose::Pdf::LogicalStructure::StructureElement::get_Language()
 ```
 
 ## Remarks

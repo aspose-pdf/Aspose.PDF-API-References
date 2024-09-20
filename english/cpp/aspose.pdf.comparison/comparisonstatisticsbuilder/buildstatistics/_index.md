@@ -24,19 +24,7 @@ static System::SharedPtr<TextItemComparisonStatistics> Aspose::Pdf::Comparison::
 ### ReturnValue
 
 A statistics instance.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffs</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
@@ -61,19 +49,7 @@ static System::SharedPtr<DocumentComparisonStatistics> Aspose::Pdf::Comparison::
 ### ReturnValue
 
 A statistics instance.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffs</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)

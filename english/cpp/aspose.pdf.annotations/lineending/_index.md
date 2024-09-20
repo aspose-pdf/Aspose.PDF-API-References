@@ -4,7 +4,7 @@ linktitle: LineEnding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineEnding enum. Enumerates the line ending styles to be used in drawing the line in C++.'
 type: docs
-weight: 13300
+weight: 13800
 url: /cpp/aspose.pdf.annotations/lineending/
 ---
 ## LineEnding enum

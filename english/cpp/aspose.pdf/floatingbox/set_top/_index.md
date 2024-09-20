@@ -4,7 +4,7 @@ linktitle: set_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::set_Top method. Sets the table top coordinate in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf/floatingbox/set_top/
 ---
 ## FloatingBox::set_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_top/
 Sets the table top coordinate.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::FloatingBox::set_Top(double value)
+void Aspose::Pdf::FloatingBox::set_Top(double value)
 ```
 
 ## See Also

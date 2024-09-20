@@ -4,7 +4,7 @@ linktitle: DefaultValueTypeNamespacePrefix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueTypeNamespacePrefix field. Default valie type namespace prefix in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/
 ---
 ## DefaultValueTypeNamespacePrefix field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/
 Default valie type namespace prefix.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueTypeNamespacePrefix
+static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueTypeNamespacePrefix
 ```
 
 

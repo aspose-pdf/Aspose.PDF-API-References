@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToString method of Aspose::Pdf::Annotations::AnnotationStateConverter class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/annotationstateconverter/tostring/
 ---
 ## AnnotationStateConverter::ToString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationstateconverter/tostring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::AnnotationStateConverter::ToString(AnnotationState value)
+static System::String Aspose::Pdf::Annotations::AnnotationStateConverter::ToString(AnnotationState value)
 ```
 
 ## See Also

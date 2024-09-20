@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionItem::get_IsEmpty method. Gets a value indicating whether the collection item is empty in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/collectionitem/get_isempty/
 ---
 ## CollectionItem::get_IsEmpty method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionitem/get_isempty/
 Gets a value indicating whether the collection item is empty.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::CollectionItem::get_IsEmpty()
+bool Aspose::Pdf::CollectionItem::get_IsEmpty()
 ```
 
 

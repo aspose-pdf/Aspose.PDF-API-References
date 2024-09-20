@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_BackgroundColor method. Sets background color of the text in C++.'
 type: docs
-weight: 3000
+weight: 2300
 url: /cpp/aspose.pdf.text/textstate/set_backgroundcolor/
 ---
 ## TextState::set_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/set_backgroundcolor/
 Sets background color of the text.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextState::set_BackgroundColor(System::SharedPtr<Color> value)
+virtual void Aspose::Pdf::Text::TextState::set_BackgroundColor(System::SharedPtr<Color> value)
 ```
 
 ## Remarks

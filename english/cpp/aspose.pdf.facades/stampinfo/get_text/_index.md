@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stampinfo/get_text/
 Gets text in the stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::StampInfo::get_Text()
+System::String Aspose::Pdf::Facades::StampInfo::get_Text()
 ```
 
 ## See Also

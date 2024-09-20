@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/mdloadoptions/set_isprioritycsspagerule/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::MdLoadOptions::set_IsPriorityCssPageRule(bool value)
+void Aspose::Pdf::MdLoadOptions::set_IsPriorityCssPageRule(bool value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Flatten
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Layer::Flatten method. Flattens the specified layer in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.pdf/layer/flatten/
 ---
 ## Layer::Flatten method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/layer/flatten/
 Flattens the specified layer.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Layer::Flatten(bool cleanupContentStream)
+void Aspose::Pdf::Layer::Flatten(bool cleanupContentStream)
 ```
 
 
@@ -23,16 +23,6 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Layer::Flatten(bool cleanupContentStream
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>cleanupContentStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Specifies whether to remove optional content group markers from the content stream.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 Setting the *cleanupContentStream*  parameter to false speeds up the process of flattening. 
 ## See Also

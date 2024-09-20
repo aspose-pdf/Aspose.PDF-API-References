@@ -4,7 +4,7 @@ linktitle: get_PrintScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_PrintScaling method. Gets the page scaling option that shall be selected when a print dialog is displayed for this document in C++.'
 type: docs
-weight: 5100
+weight: 6200
 url: /cpp/aspose.pdf/document/get_printscaling/
 ---
 ## Document::get_PrintScaling method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_printscaling/
 Gets the page scaling option that shall be selected when a print dialog is displayed for this document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PrintScaling Aspose::Pdf::Document::get_PrintScaling()
+Aspose::Pdf::PrintScaling Aspose::Pdf::Document::get_PrintScaling()
 ```
 
 ## See Also

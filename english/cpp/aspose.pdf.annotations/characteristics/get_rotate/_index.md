@@ -4,7 +4,7 @@ linktitle: get_Rotate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Characteristics::get_Rotate method. Gets rotation of the annotation in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.annotations/characteristics/get_rotate/
 ---
 ## Characteristics::get_Rotate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/characteristics/get_rotate/
 Gets rotation of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Rotation Aspose::Pdf::Annotations::Characteristics::get_Rotate()
+Rotation Aspose::Pdf::Annotations::Characteristics::get_Rotate()
 ```
 
 ## See Also

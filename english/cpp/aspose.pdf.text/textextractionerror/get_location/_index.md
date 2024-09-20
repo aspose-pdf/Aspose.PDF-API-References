@@ -4,7 +4,7 @@ linktitle: get_Location
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionError::get_Location method. Location of the error in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.text/textextractionerror/get_location/
 ---
 ## TextExtractionError::get_Location method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerror/get_location/
 Location of the error.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextExtractionErrorLocation> Aspose::Pdf::Text::TextExtractionError::get_Location() const
+System::SharedPtr<TextExtractionErrorLocation> Aspose::Pdf::Text::TextExtractionError::get_Location() const
 ```
 
 ## See Also

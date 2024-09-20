@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::AbsorbedTable::get_Rectangle method. Gets rectangle that describes position of the table on page in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.text/absorbedtable/get_rectangle/
 ---
 ## AbsorbedTable::get_Rectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/absorbedtable/get_rectangle/
 Gets rectangle that describes position of the table on page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::AbsorbedTable::get_Rectangle() override
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::AbsorbedTable::get_Rectangle() override
 ```
 
 ## See Also

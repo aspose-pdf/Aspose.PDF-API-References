@@ -4,7 +4,7 @@ linktitle: set_ArtBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_ArtBox method. Sets art box of the page in C++.'
 type: docs
-weight: 3600
+weight: 5200
 url: /cpp/aspose.pdf/page/set_artbox/
 ---
 ## Page::set_ArtBox method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_artbox/
 Sets art box of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_ArtBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_ArtBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
 ```
 
 ## See Also

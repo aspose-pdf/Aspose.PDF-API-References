@@ -4,7 +4,7 @@ linktitle: RowSpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::RowSpan field. RowSpan attribute (Table attribute owner) in C++.'
 type: docs
-weight: 4100
+weight: 2900
 url: /cpp/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
 ## RowSpan field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/rowspan/
 RowSpan attribute ([Table](../../../aspose.pdf/table/) attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RowSpan
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RowSpan
 ```
 
 ## See Also

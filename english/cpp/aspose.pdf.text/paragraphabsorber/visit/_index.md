@@ -13,27 +13,14 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/visit/
 Performs search for sections and paragraphs on the specified [Document](../../../aspose.pdf/document/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Document> doc)
+void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Document> doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | System::SharedPtr\<Document\> | [Pdf](../../../aspose.pdf/) document object. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>doc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> document object.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../../../aspose.pdf/document/)
@@ -46,27 +33,14 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::S
 Performs search on the specified [Page](../../../aspose.pdf/page/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Page> page)
+void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Page> page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | [Pdf](../../../aspose.pdf/) document page object. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> document page object.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)

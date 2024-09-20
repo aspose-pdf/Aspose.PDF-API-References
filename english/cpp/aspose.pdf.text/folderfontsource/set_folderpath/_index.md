@@ -4,7 +4,7 @@ linktitle: set_FolderPath
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FolderFontSource::set_FolderPath method. Path to the folder that contains font files in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.text/folderfontsource/set_folderpath/
 ---
 ## FolderFontSource::set_FolderPath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/folderfontsource/set_folderpath/
 Path to the folder that contains font files.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::FolderFontSource::set_FolderPath(System::String value)
+void Aspose::Pdf::Text::FolderFontSource::set_FolderPath(System::String value)
 ```
 
 ## See Also

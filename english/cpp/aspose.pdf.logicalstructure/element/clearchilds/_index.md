@@ -4,7 +4,7 @@ linktitle: ClearChilds
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::Element::ClearChilds method. Clear all childs in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/element/clearchilds/
 ---
 ## Element::ClearChilds method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/element/clearchilds/
 Clear all childs.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::Element::ClearChilds()
+void Aspose::Pdf::LogicalStructure::Element::ClearChilds()
 ```
 
 ## See Also

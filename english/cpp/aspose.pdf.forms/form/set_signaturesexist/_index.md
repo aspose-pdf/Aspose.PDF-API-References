@@ -4,7 +4,7 @@ linktitle: set_SignaturesExist
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::set_SignaturesExist method. If set, the document contains at least one signature field in C++.'
 type: docs
-weight: 2200
+weight: 3600
 url: /cpp/aspose.pdf.forms/form/set_signaturesexist/
 ---
 ## Form::set_SignaturesExist method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_signaturesexist/
 If set, the document contains at least one signature field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Form::set_SignaturesExist(bool value)
+void Aspose::Pdf::Forms::Form::set_SignaturesExist(bool value)
 ```
 
 ## See Also

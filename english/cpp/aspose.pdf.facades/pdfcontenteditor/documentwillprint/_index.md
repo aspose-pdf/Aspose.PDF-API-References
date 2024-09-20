@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/documentwillprint/
 A document event type. Excute a action before printing.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentWillPrint
+static const System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentWillPrint
 ```
 
 ## See Also

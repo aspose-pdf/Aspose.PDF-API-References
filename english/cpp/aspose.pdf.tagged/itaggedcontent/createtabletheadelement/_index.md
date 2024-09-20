@@ -4,7 +4,7 @@ linktitle: CreateTableTHeadElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateTableTHeadElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 2100
+weight: 2900
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createtabletheadelement/
 ---
 ## ITaggedContent::CreateTableTHeadElement method

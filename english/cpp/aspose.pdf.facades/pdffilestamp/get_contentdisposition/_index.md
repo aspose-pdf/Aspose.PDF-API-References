@@ -4,7 +4,7 @@ linktitle: get_ContentDisposition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_ContentDisposition method. Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline in C++.'
 type: docs
-weight: 2400
+weight: 800
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_contentdisposition/
 ---
 ## PdfFileStamp::get_ContentDisposition method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_contentdisposition/
 Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ContentDisposition Aspose::Pdf::Facades::PdfFileStamp::get_ContentDisposition() const
+Aspose::Pdf::ContentDisposition Aspose::Pdf::Facades::PdfFileStamp::get_ContentDisposition() const
 ```
 
 ## See Also

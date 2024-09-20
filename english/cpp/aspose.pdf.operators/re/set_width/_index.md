@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::Re::set_Width method. Width of the rectangle in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf.operators/re/set_width/
 ---
 ## Re::set_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/re/set_width/
 Width of the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::Re::set_Width(double value)
+void Aspose::Pdf::Operators::Re::set_Width(double value)
 ```
 
 ## See Also

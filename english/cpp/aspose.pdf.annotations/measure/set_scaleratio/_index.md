@@ -4,7 +4,7 @@ linktitle: set_ScaleRatio
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Measure::set_ScaleRatio method. A text string expressing the scale ratio of the drawing in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/aspose.pdf.annotations/measure/set_scaleratio/
 ---
 ## Measure::set_ScaleRatio method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_scaleratio/
 A text string expressing the scale ratio of the drawing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Measure::set_ScaleRatio(System::String value)
+void Aspose::Pdf::Annotations::Measure::set_ScaleRatio(System::String value)
 ```
 
 ## See Also

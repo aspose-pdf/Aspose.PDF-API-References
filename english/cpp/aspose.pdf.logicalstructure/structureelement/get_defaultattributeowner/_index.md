@@ -4,7 +4,7 @@ linktitle: get_DefaultAttributeOwner
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_DefaultAttributeOwner method. Gets T:/Aspose::Pdf::LogicalStructure::AttributeOwnerStandard object in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_defaultattributeowner/
 ---
 ## StructureElement::get_DefaultAttributeOwner method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_defaultattributeowner
 Gets [T:/Aspose::Pdf::LogicalStructure::AttributeOwnerStandard](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::StructureElement::get_DefaultAttributeOwner() const
+System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::StructureElement::get_DefaultAttributeOwner() const
 ```
 
 ## Remarks

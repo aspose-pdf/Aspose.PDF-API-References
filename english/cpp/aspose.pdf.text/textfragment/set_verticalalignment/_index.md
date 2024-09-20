@@ -4,7 +4,7 @@ linktitle: set_VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_VerticalAlignment method. Sets a vertical alignment of text fragment in C++.'
 type: docs
-weight: 500
+weight: 2700
 url: /cpp/aspose.pdf.text/textfragment/set_verticalalignment/
 ---
 ## TextFragment::set_VerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_verticalalignment/
 Sets a vertical alignment of text fragment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragment::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value) override
+void Aspose::Pdf::Text::TextFragment::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value) override
 ```
 
 ## See Also

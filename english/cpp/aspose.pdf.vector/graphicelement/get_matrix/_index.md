@@ -4,7 +4,7 @@ linktitle: get_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElement::get_Matrix method. Gets graphic element matrix. The matrix sets when element is created. It changes when SetPosition() is called in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.vector/graphicelement/get_matrix/
 ---
 ## GraphicElement::get_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelement/get_matrix/
 Gets graphic element matrix. The matrix sets when element is created. It changes when **SetPosition()** is called.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Vector::GraphicElement::get_Matrix() const
+System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Vector::GraphicElement::get_Matrix() const
 ```
 
 ## See Also

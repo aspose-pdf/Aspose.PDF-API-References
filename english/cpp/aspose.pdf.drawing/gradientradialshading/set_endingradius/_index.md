@@ -4,7 +4,7 @@ linktitle: set_EndingRadius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientRadialShading::set_EndingRadius method. Sets ending circle radius in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.pdf.drawing/gradientradialshading/set_endingradius/
 ---
 ## GradientRadialShading::set_EndingRadius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/set_endingradius/
 Sets ending circle radius.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::GradientRadialShading::set_EndingRadius(double value)
+void Aspose::Pdf::Drawing::GradientRadialShading::set_EndingRadius(double value)
 ```
 
 ## See Also

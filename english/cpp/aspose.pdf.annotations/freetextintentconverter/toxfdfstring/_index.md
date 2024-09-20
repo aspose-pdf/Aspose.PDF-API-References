@@ -4,7 +4,7 @@ linktitle: ToXfdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToXfdfString method of Aspose::Pdf::Annotations::FreeTextIntentConverter class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/freetextintentconverter/toxfdfstring/
 ---
 ## FreeTextIntentConverter::ToXfdfString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextintentconverter/toxfdfstring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::FreeTextIntentConverter::ToXfdfString(FreeTextIntent value)
+static System::String Aspose::Pdf::Annotations::FreeTextIntentConverter::ToXfdfString(FreeTextIntent value)
 ```
 
 ## See Also

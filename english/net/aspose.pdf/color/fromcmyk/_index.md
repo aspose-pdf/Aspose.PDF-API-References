@@ -1,14 +1,14 @@
 ---
 title: Color.FromCmyk
 second_title: Aspose.PDF for .NET API Reference
-description: Color method. Gets valid pdf Color object from RGB color components
+description: Color method. Gets valid pdf Color object from CMYK color components
 type: docs
 weight: 1450
 url: /net/aspose.pdf/color/fromcmyk/
 ---
 ## Color.FromCmyk method
 
-Gets valid pdf Color object from RGB color components.
+Gets valid pdf Color object from CMYK color components.
 
 ```csharp
 public static Color FromCmyk(double c, double m, double y, double k)

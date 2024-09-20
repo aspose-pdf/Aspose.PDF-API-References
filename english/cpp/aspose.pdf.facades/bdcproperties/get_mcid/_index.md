@@ -4,7 +4,7 @@ linktitle: get_MCID
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::BDCProperties::get_MCID method. Gets/sets MCID value in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.facades/bdcproperties/get_mcid/
 ---
 ## BDCProperties::get_MCID method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bdcproperties/get_mcid/
 Gets/sets MCID value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<int32_t> Aspose::Pdf::Facades::BDCProperties::get_MCID()
+System::Nullable<int32_t> Aspose::Pdf::Facades::BDCProperties::get_MCID()
 ```
 
 ## See Also

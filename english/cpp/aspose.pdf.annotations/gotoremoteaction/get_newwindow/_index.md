@@ -4,7 +4,7 @@ linktitle: get_NewWindow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToRemoteAction::get_NewWindow method. Gets a flag specifying whether to open the destination document in a new window in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.annotations/gotoremoteaction/get_newwindow/
 ---
 ## GoToRemoteAction::get_NewWindow method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotoremoteaction/get_newwindow/
 Gets a flag specifying whether to open the destination document in a new window.
 
 ```cpp
-ASPOSE_PDF_SHARED_API ExtendedBoolean Aspose::Pdf::Annotations::GoToRemoteAction::get_NewWindow()
+ExtendedBoolean Aspose::Pdf::Annotations::GoToRemoteAction::get_NewWindow()
 ```
 
 ## See Also

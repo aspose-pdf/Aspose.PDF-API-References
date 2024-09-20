@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/option/set_selected/
 Sets selected status of option. Returns true if option is selected.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Option::set_Selected(bool value)
+void Aspose::Pdf::Forms::Option::set_Selected(bool value)
 ```
 
 ## See Also

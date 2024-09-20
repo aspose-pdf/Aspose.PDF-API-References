@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bx/bx/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::BX::BX()
+Aspose::Pdf::Operators::BX::BX()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/tostring/
 Analog of C# Object.ToString() method. Enables converting custom objects to string.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureAttribute::ToString() const override
+System::String Aspose::Pdf::LogicalStructure::StructureAttribute::ToString() const override
 ```
 
 

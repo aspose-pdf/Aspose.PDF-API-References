@@ -4,7 +4,7 @@ linktitle: get_Info
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Info method. Gets document info in C++.'
 type: docs
-weight: 5600
+weight: 3900
 url: /cpp/aspose.pdf/document/get_info/
 ---
 ## Document::get_Info method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_info/
 Gets document info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentInfo> Aspose::Pdf::Document::get_Info()
+System::SharedPtr<DocumentInfo> Aspose::Pdf::Document::get_Info()
 ```
 
 ## See Also

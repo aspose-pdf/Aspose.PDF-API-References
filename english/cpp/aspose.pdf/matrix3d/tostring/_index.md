@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/tostring/
 Returns text representation of the matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Matrix3D::ToString() const override
+System::String Aspose::Pdf::Matrix3D::ToString() const override
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/footerartifact/footerartifact/
 Creates Footer [Artifact](../../artifact/) instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::FooterArtifact::FooterArtifact()
+Aspose::Pdf::FooterArtifact::FooterArtifact()
 ```
 
 ## See Also

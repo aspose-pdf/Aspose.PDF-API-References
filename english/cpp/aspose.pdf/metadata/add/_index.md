@@ -2,46 +2,25 @@
 title: Aspose::Pdf::Metadata::Add method
 linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Metadata::Add method. Adds value to metadata in C++.'
+description: 'Aspose::Pdf::Metadata::Add method. Adds pair with key and value into the dictionary in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pdf/metadata/add/
 ---
-## Metadata::Add(const System::String\&, const System::SharedPtr\<XmpValue\>\&) method
+## Metadata::Add(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) method
 
 
-Adds value to metadata.
+Adds pair with key and value into the dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedPtr<XmpValue> &value) override
+void Aspose::Pdf::Metadata::Add(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> &item) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | const System::String\& | The key to add. |
-| value | const System::SharedPtr\<XmpValue\>\& | Value which will be added. |
-## Remarks
+| item | const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\& | Item to be added. |
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key to add.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value which will be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../xmpvalue/)
@@ -54,7 +33,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &key,
 Adds value to metadata.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedPtr<System::Object> &value)
+void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedPtr<System::Object> &value)
 ```
 
 
@@ -62,29 +41,30 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &key,
 | --- | --- | --- |
 | key | const System::String\& | The key to add. |
 | value | const System::SharedPtr\<System::Object\>\& | Value which will be added. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key to add.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value which will be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
+* Class [Metadata](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Metadata::Add(const System::String\&, const System::SharedPtr\<XmpValue\>\&) method
+
+
+Adds value to metadata.
+
+```cpp
+void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedPtr<XmpValue> &value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const System::String\& | The key to add. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value which will be added. |
+
+## See Also
+
+* Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -94,7 +74,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &key,
 Adds pdf extension to metadata.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &prefix, const System::SharedPtr<XmpPdfAExtensionObject> &value)
+void Aspose::Pdf::Metadata::Add(const System::String &prefix, const System::SharedPtr<XmpPdfAExtensionObject> &value)
 ```
 
 
@@ -102,62 +82,10 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::String &pref
 | --- | --- | --- |
 | prefix | const System::String\& | The prefix of extension. |
 | value | const System::SharedPtr\<XmpPdfAExtensionObject\>\& | Value which will be added. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>prefix</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The prefix of extension.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value which will be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* Class [Metadata](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Metadata::Add(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) method
-
-
-Adds pair with key and value into the dictionary.
-
-```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::Add(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> &item) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\& | Item to be added. |
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Item to be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

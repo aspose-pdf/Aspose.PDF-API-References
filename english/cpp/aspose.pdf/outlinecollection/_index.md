@@ -35,7 +35,7 @@ class OutlineCollection : public Aspose::Pdf::Outlines
 | [get_VisibleCount](./get_visiblecount/)() override | Count is the sum of the number of visible descendent outline items at all levels. [Note](../note/): please don't confuse with Count which is number if items in collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets outline item from collection by index. |
-| [Remove](./remove/)(const System::SharedPtr\<OutlineItemCollection\>\&) override | Always throws |
+| [Remove](./remove/)(const System::SharedPtr\<OutlineItemCollection\>\&) override | Always throws NotImplementedException |
 | [Remove](./remove/)(int32_t) | Remove item by index. |
 ## See Also
 

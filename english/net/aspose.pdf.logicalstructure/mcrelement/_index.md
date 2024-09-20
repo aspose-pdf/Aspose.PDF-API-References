@@ -3,7 +3,7 @@ title: Class MCRElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.MCRElement class. Represents markedcontent reference object in logical structure
 type: docs
-weight: 4820
+weight: 4870
 url: /net/aspose.pdf.logicalstructure/mcrelement/
 ---
 ## MCRElement class

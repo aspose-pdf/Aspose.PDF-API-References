@@ -4,7 +4,7 @@ linktitle: get_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextStyle::get_FontSize method. Fonst size in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.annotations/textstyle/get_fontsize/
 ---
 ## TextStyle::get_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textstyle/get_fontsize/
 Fonst size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::TextStyle::get_FontSize()
+double Aspose::Pdf::Annotations::TextStyle::get_FontSize()
 ```
 
 ## See Also

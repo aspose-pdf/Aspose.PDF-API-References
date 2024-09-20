@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Structure::ElementCollection::virtualizeBeginConstIterator method. Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.structure/elementcollection/virtualizebeginconstiterator/
 ---
 ## ElementCollection::virtualizeBeginConstIterator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/virtualizebeginconstiterator/
 Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API virtualized_iterator * Aspose::Pdf::Structure::ElementCollection::virtualizeBeginConstIterator() const override
+virtualized_iterator * Aspose::Pdf::Structure::ElementCollection::virtualizeBeginConstIterator() const override
 ```
 
 

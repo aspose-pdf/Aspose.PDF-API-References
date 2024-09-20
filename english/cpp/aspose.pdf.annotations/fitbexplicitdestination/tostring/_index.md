@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fitbexplicitdestination/tostring/
 Converts the object state into string value. Example: "1 FitB".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::FitBExplicitDestination::ToString() const override
+System::String Aspose::Pdf::Annotations::FitBExplicitDestination::ToString() const override
 ```
 
 

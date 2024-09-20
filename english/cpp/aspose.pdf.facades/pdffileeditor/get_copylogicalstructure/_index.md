@@ -4,7 +4,7 @@ linktitle: get_CopyLogicalStructure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_CopyLogicalStructure method. If true then logical structure of the file is copied when concatenation is performed in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_copylogicalstructure/
 ---
 ## PdfFileEditor::get_CopyLogicalStructure method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_copylogicalstructure/
 If true then logical structure of the file is copied when concatenation is performed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::get_CopyLogicalStructure() const
+bool Aspose::Pdf::Facades::PdfFileEditor::get_CopyLogicalStructure() const
 ```
 
 ## See Also

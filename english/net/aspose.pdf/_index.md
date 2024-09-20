@@ -20,6 +20,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Represents base class for operator collection. |
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
+| [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
@@ -35,6 +36,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ColumnInfo](./columninfo/) | This class represents a columns info. |
 | [ComHelper](./comhelper/) | Provides methods for COM clients to load a document into Aspose.Pdf. |
 | [CompositingParameters](./compositingparameters/) | Represents an object containing graphics compositing parameters of current graphics state. |
+| [CrashReportOptions](./crashreportoptions/) | Options for crash report generating. |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) | The exception that is thrown when a feature is deprecated in current pdf version. |
 | [DestinationCollection](./destinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
@@ -231,6 +233,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PageMode](./pagemode/) | Class descibes used components of the document page. |
 | [PasswordType](./passwordtype/) | This enum represents known password types used for password protected pdf documents. |
 | [PdfFormat](./pdfformat/) | This class represents an pdf format. |
+| [PdfVersion](./pdfversion/) | This enum represents version of pdf file. |
 | [Permissions](./permissions/) | This enum represents user's permissions for a pdf. |
 | [PrintDuplex](./printduplex/) | The paper handling option to use when printing the file from the print dialog.. |
 | [PrintScaling](./printscaling/) | The page scaling option that shall be selected when a print dialog is displayed for this document. |

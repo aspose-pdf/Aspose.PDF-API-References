@@ -4,7 +4,7 @@ linktitle: get_Rect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_Rect method. Gets the field rectangle in C++.'
 type: docs
-weight: 1600
+weight: 1400
 url: /cpp/aspose.pdf.forms/field/get_rect/
 ---
 ## Field::get_Rect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_rect/
 Gets the field rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Forms::Field::get_Rect() override
+System::SharedPtr<Rectangle> Aspose::Pdf::Forms::Field::get_Rect() override
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ClearImagePreview
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DAnnotation::ClearImagePreview method. Clears the image preview in C++.'
 type: docs
-weight: 1200
+weight: 300
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 ---
 ## PDF3DAnnotation::ClearImagePreview method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 Clears the image preview.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DAnnotation::ClearImagePreview()
+void Aspose::Pdf::Annotations::PDF3DAnnotation::ClearImagePreview()
 ```
 
 ## See Also

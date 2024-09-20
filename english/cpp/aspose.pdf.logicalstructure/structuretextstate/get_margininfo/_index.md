@@ -4,7 +4,7 @@ linktitle: get_MarginInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_MarginInfo method. Gets margin for block structure element in C++.'
 type: docs
-weight: 2700
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_margininfo/
 ---
 ## StructureTextState::get_MarginInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_margininfo/
 Gets margin for block structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::MarginInfo> Aspose::Pdf::LogicalStructure::StructureTextState::get_MarginInfo() const
+System::SharedPtr<Aspose::Pdf::MarginInfo> Aspose::Pdf::LogicalStructure::StructureTextState::get_MarginInfo() const
 ```
 
 ## See Also

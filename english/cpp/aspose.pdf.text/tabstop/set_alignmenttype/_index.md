@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstop/set_alignmenttype/
 Sets a [AlignmentType](../) enum that indicates the tab tab alignment type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TabStop::set_AlignmentType(TabAlignmentType value)
+void Aspose::Pdf::Text::TabStop::set_AlignmentType(TabAlignmentType value)
 ```
 
 ## See Also

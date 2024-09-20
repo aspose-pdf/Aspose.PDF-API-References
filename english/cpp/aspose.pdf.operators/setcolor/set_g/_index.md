@@ -4,7 +4,7 @@ linktitle: set_G
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColor::set_G method. Sets the green component in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf.operators/setcolor/set_g/
 ---
 ## SetColor::set_G method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/set_g/
 Sets the green component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetColor::set_G(double value)
+void Aspose::Pdf::Operators::SetColor::set_G(double value)
 ```
 
 ## Remarks

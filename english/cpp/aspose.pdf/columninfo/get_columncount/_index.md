@@ -4,7 +4,7 @@ linktitle: get_ColumnCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ColumnInfo::get_ColumnCount method. Gets a int value that indicates the number of columns in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf/columninfo/get_columncount/
 ---
 ## ColumnInfo::get_ColumnCount method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/columninfo/get_columncount/
 Gets a int value that indicates the number of columns.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::ColumnInfo::get_ColumnCount() const
+int32_t Aspose::Pdf::ColumnInfo::get_ColumnCount() const
 ```
 
 ## See Also

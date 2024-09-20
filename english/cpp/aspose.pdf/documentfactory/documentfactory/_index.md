@@ -4,7 +4,7 @@ linktitle: DocumentFactory
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use DocumentFactory constructor of Aspose::Pdf::DocumentFactory class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf/documentfactory/documentfactory/
 ---
 ## DocumentFactory::DocumentFactory constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentfactory/documentfactory/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::DocumentFactory::DocumentFactory()
+Aspose::Pdf::DocumentFactory::DocumentFactory()
 ```
 
 ## See Also

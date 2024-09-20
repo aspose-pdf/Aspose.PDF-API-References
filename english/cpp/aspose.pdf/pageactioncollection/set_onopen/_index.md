@@ -4,7 +4,7 @@ linktitle: set_OnOpen
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageActionCollection::set_OnOpen method. An action that shall be performed when the page is opened in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf/pageactioncollection/set_onopen/
 ---
 ## PageActionCollection::set_OnOpen method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageactioncollection/set_onopen/
 An action that shall be performed when the page is opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageActionCollection::set_OnOpen(System::SharedPtr<Annotations::PdfAction> value)
+void Aspose::Pdf::PageActionCollection::set_OnOpen(System::SharedPtr<Annotations::PdfAction> value)
 ```
 
 ## See Also

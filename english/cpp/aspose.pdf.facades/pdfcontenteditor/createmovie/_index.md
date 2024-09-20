@@ -4,7 +4,7 @@ linktitle: CreateMovie
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::CreateMovie method. Creates Movie Annotations in C++.'
 type: docs
-weight: 3900
+weight: 1700
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createmovie/
 ---
 ## PdfContentEditor::CreateMovie method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createmovie/
 Creates Movie [Annotations](../../../aspose.pdf.annotations/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateMovie(System::Drawing::Rectangle rect, System::String filePath, int32_t page)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateMovie(System::Drawing::Rectangle rect, System::String filePath, int32_t page)
 ```
 
 
@@ -22,35 +22,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateMovie(S
 | rect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
 | filePath | System::String | The path of movie file to be played. |
 | page | int32_t | The page in which the Line annotation is created. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The annotation rectangle defining the location of the annotation on the page.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>filePath</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of movie file to be played.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page in which the Line annotation is created.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfContentEditor](../)

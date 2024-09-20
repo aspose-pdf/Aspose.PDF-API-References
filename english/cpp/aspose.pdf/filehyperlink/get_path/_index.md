@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filehyperlink/get_path/
 Gets the path to file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::FileHyperlink::get_Path() const
+System::String Aspose::Pdf::FileHyperlink::get_Path() const
 ```
 
 ## See Also

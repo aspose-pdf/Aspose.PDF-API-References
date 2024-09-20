@@ -4,7 +4,7 @@ linktitle: ReplyType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ReplyType enum. Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo in C++.'
 type: docs
-weight: 14400
+weight: 14900
 url: /cpp/aspose.pdf.annotations/replytype/
 ---
 ## ReplyType enum

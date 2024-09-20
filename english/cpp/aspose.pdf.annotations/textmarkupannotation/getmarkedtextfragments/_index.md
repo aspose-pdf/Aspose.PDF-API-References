@@ -4,7 +4,7 @@ linktitle: GetMarkedTextFragments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedTextFragments method. Gets text under markup annotation as TextFragmentCollection in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
 ## TextMarkupAnnotation::GetMarkedTextFragments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 Gets text under markup annotation as [TextFragmentCollection](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextFragmentCollection> Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedTextFragments()
+System::SharedPtr<Aspose::Pdf::Text::TextFragmentCollection> Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedTextFragments()
 ```
 
 

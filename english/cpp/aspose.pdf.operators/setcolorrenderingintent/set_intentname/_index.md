@@ -4,7 +4,7 @@ linktitle: set_IntentName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColorRenderingIntent::set_IntentName method. Sets color rendering intent name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/setcolorrenderingintent/set_intentname/
 ---
 ## SetColorRenderingIntent::set_IntentName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorrenderingintent/set_intentname/
 Sets color rendering intent name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetColorRenderingIntent::set_IntentName(System::String value)
+void Aspose::Pdf::Operators::SetColorRenderingIntent::set_IntentName(System::String value)
 ```
 
 ## See Also

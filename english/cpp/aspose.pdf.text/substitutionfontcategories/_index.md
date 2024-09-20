@@ -4,7 +4,7 @@ linktitle: SubstitutionFontCategories
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SubstitutionFontCategories enum. Represents font categories that can be substituted in C++.'
 type: docs
-weight: 5400
+weight: 5700
 url: /cpp/aspose.pdf.text/substitutionfontcategories/
 ---
 ## SubstitutionFontCategories enum

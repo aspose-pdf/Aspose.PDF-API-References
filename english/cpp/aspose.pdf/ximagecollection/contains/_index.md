@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImageCollection::Contains method. Determines whether the collection contains a specific value in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.pdf/ximagecollection/contains/
 ---
 ## XImageCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximagecollection/contains/
 Determines whether the collection contains a specific value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XImageCollection::Contains(const System::SharedPtr<Aspose::Pdf::XImage> &item) const override
+bool Aspose::Pdf::XImageCollection::Contains(const System::SharedPtr<Aspose::Pdf::XImage> &item) const override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XImageCollection::Contains(const System:
 ### ReturnValue
 
 true if item is found in the collection; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to locate in the collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XImage](../../ximage/)

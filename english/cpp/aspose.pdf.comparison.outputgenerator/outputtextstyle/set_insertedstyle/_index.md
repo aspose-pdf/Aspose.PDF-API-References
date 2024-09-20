@@ -4,7 +4,7 @@ linktitle: set_InsertedStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_InsertedStyle method. Get and set a text style for inserted text in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/set_insertedstyle/
 ---
 ## OutputTextStyle::set_InsertedStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/set_insertedstyl
 Get and set a text style for inserted text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_InsertedStyle(System::SharedPtr<TextStyle> value)
+void Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_InsertedStyle(System::SharedPtr<TextStyle> value)
 ```
 
 ## See Also

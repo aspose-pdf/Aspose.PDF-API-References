@@ -4,7 +4,7 @@ linktitle: GetCreaseValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::GetCreaseValue method. Gets the crease value in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 ---
 ## PDF3DRenderMode::GetCreaseValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 Gets the crease value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::PDF3DRenderMode::GetCreaseValue()
+double Aspose::Pdf::Annotations::PDF3DRenderMode::GetCreaseValue()
 ```
 
 

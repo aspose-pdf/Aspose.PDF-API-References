@@ -4,7 +4,7 @@ linktitle: SetSubmitUrl
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::SetSubmitUrl method. Sets URL of the button in C++.'
 type: docs
-weight: 3800
+weight: 5800
 url: /cpp/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
 ## FormEditor::SetSubmitUrl method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/setsubmiturl/
 Sets URL of the button.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::SetSubmitUrl(System::String fieldName, System::String url)
+bool Aspose::Pdf::Facades::FormEditor::SetSubmitUrl(System::String fieldName, System::String url)
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::SetSubmitUrl(System
 ### ReturnValue
 
 true if URL for button was successfully set.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Submit button name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>url</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Fully qualified URL.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormEditor](../)

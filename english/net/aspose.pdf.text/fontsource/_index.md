@@ -3,7 +3,7 @@ title: Class FontSource
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.FontSource class. Represents a base class fot font source
 type: docs
-weight: 7610
+weight: 7670
 url: /net/aspose.pdf.text/fontsource/
 ---
 ## FontSource class

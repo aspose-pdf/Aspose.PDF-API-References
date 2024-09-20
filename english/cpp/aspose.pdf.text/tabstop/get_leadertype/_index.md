@@ -4,7 +4,7 @@ linktitle: get_LeaderType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabStop::get_LeaderType method. Gets a TabLeaderType enum that indicates the tab leader type in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.text/tabstop/get_leadertype/
 ---
 ## TabStop::get_LeaderType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstop/get_leadertype/
 Gets a [TabLeaderType](../../tableadertype/) enum that indicates the tab leader type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TabLeaderType Aspose::Pdf::Text::TabStop::get_LeaderType() const
+TabLeaderType Aspose::Pdf::Text::TabStop::get_LeaderType() const
 ```
 
 ## See Also

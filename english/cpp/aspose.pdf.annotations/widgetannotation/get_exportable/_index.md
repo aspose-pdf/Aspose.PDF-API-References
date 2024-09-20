@@ -4,7 +4,7 @@ linktitle: get_Exportable
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::get_Exportable method. Gets exportable flag of the field in C++.'
 type: docs
-weight: 1300
+weight: 600
 url: /cpp/aspose.pdf.annotations/widgetannotation/get_exportable/
 ---
 ## WidgetAnnotation::get_Exportable method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/get_exportable/
 Gets exportable flag of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::WidgetAnnotation::get_Exportable()
+bool Aspose::Pdf::Annotations::WidgetAnnotation::get_Exportable()
 ```
 
 ## See Also

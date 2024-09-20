@@ -4,7 +4,7 @@ linktitle: set_TitleColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_TitleColor method. Sets the color of bookmark''s title in C++.'
 type: docs
-weight: 3400
+weight: 3800
 url: /cpp/aspose.pdf.facades/bookmark/set_titlecolor/
 ---
 ## Bookmark::set_TitleColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_titlecolor/
 Sets the color of bookmark's title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Bookmark::set_TitleColor(System::Drawing::Color value)
+void Aspose::Pdf::Facades::Bookmark::set_TitleColor(System::Drawing::Color value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/endpath/endpath/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EndPath::EndPath()
+Aspose::Pdf::Operators::EndPath::EndPath()
 ```
 
 ## See Also

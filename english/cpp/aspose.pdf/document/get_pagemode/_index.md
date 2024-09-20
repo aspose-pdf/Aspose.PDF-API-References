@@ -4,7 +4,7 @@ linktitle: get_PageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_PageMode method. Gets page mode, specifying how document should be displayed when opened in C++.'
 type: docs
-weight: 4300
+weight: 5700
 url: /cpp/aspose.pdf/document/get_pagemode/
 ---
 ## Document::get_PageMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_pagemode/
 Gets page mode, specifying how document should be displayed when opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PageMode Aspose::Pdf::Document::get_PageMode()
+Aspose::Pdf::PageMode Aspose::Pdf::Document::get_PageMode()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: EmbedForm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::EmbedForm field. If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/aspose.pdf.annotations/submitformaction/embedform/
 ---
 ## EmbedForm field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/embedform/
 If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::EmbedForm
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::EmbedForm
 ```
 
 ## See Also

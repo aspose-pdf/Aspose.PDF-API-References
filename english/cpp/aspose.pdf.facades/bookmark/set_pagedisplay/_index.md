@@ -4,7 +4,7 @@ linktitle: set_PageDisplay
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_PageDisplay method. Sets the type of display bookmark''s destination page in C++.'
 type: docs
-weight: 1600
+weight: 2900
 url: /cpp/aspose.pdf.facades/bookmark/set_pagedisplay/
 ---
 ## Bookmark::set_PageDisplay method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_pagedisplay/
 Sets the type of display bookmark's destination page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Bookmark::set_PageDisplay(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_PageDisplay(System::String value)
 ```
 
 ## See Also

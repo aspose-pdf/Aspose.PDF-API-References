@@ -4,7 +4,7 @@ linktitle: get_Underline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_Underline method. Gets underline for the text, represented by the TextFragment object in C++.'
 type: docs
-weight: 2400
+weight: 2300
 url: /cpp/aspose.pdf.text/textfragmentstate/get_underline/
 ---
 ## TextFragmentState::get_Underline method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_underline/
 Gets underline for the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::get_Underline() override
+bool Aspose::Pdf::Text::TextFragmentState::get_Underline() override
 ```
 
 ## See Also

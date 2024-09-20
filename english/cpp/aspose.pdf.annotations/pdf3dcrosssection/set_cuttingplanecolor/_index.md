@@ -4,7 +4,7 @@ linktitle: set_CuttingPlaneColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneColor method. Sets the color of the cutting plane in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplanecolor/
 ---
 ## PDF3DCrossSection::set_CuttingPlaneColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplanecolor/
 Sets the color of the cutting plane.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneColor(System::SharedPtr<Color> value)
 ```
 
 ## Remarks

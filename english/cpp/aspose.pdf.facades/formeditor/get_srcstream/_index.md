@@ -4,7 +4,7 @@ linktitle: get_SrcStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::get_SrcStream method. Gets source stream in C++.'
 type: docs
-weight: 500
+weight: 2400
 url: /cpp/aspose.pdf.facades/formeditor/get_srcstream/
 ---
 ## FormEditor::get_SrcStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/get_srcstream/
 Gets source stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::FormEditor::get_SrcStream() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::FormEditor::get_SrcStream() const
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputStream) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000034">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputStream) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [FormEditor](../)

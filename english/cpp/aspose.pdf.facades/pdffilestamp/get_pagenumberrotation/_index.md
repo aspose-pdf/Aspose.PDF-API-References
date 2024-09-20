@@ -4,7 +4,7 @@ linktitle: get_PageNumberRotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_PageNumberRotation method. Gets rotation of page number. Rotation is in degrees. Default is 0 in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_pagenumberrotation/
 ---
 ## PdfFileStamp::get_PageNumberRotation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_pagenumberrotation/
 Gets rotation of page number. Rotation is in degrees. Default is 0.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::PdfFileStamp::get_PageNumberRotation()
+float Aspose::Pdf::Facades::PdfFileStamp::get_PageNumberRotation()
 ```
 
 ## See Also

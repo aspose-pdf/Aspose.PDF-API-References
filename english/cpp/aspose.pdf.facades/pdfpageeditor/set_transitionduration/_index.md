@@ -4,7 +4,7 @@ linktitle: set_TransitionDuration
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::set_TransitionDuration method. Sets duration of the transition effect in C++.'
 type: docs
-weight: 200
+weight: 2500
 url: /cpp/aspose.pdf.facades/pdfpageeditor/set_transitionduration/
 ---
 ## PdfPageEditor::set_TransitionDuration method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/set_transitionduration/
 Sets duration of the transition effect.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfPageEditor::set_TransitionDuration(int32_t value)
+void Aspose::Pdf::Facades::PdfPageEditor::set_TransitionDuration(int32_t value)
 ```
 
 ## See Also

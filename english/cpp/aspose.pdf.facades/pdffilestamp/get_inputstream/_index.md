@@ -4,7 +4,7 @@ linktitle: get_InputStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_InputStream method. Gets input stream in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_inputstream/
 ---
 ## PdfFileStamp::get_InputStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_inputstream/
 Gets input stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileStamp::get_InputStream() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileStamp::get_InputStream() const
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputStream) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000087">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputStream) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileStamp](../)

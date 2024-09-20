@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentCollection::idx_get method. Gets the text fragment element at the specified index in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.pdf.text/textfragmentcollection/idx_get/
 ---
 ## TextFragmentCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentcollection/idx_get/
 Gets the text fragment element at the specified index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextFragment> Aspose::Pdf::Text::TextFragmentCollection::idx_get(int32_t index)
+System::SharedPtr<TextFragment> Aspose::Pdf::Text::TextFragmentCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<TextFragment> Aspose::Pdf::Text::TextFra
 ### ReturnValue
 
 [TextFragment](../../textfragment/) object.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index within the collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextFragment](../../textfragment/)

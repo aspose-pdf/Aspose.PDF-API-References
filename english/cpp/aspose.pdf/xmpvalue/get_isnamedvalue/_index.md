@@ -4,7 +4,7 @@ linktitle: get_IsNamedValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::get_IsNamedValue method. Returns true if XmpValue is named value in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/xmpvalue/get_isnamedvalue/
 ---
 ## XmpValue::get_IsNamedValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/get_isnamedvalue/
 Returns true if [XmpValue](../) is named value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpValue::get_IsNamedValue() const
+bool Aspose::Pdf::XmpValue::get_IsNamedValue() const
 ```
 
 ## See Also

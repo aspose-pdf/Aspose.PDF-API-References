@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_Value method. Gets value of the field in C++.'
 type: docs
-weight: 700
+weight: 1700
 url: /cpp/aspose.pdf.forms/field/get_value/
 ---
 ## Field::get_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_value/
 Gets value of the field.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::Field::get_Value()
+virtual System::String Aspose::Pdf::Forms::Field::get_Value()
 ```
 
 ## See Also

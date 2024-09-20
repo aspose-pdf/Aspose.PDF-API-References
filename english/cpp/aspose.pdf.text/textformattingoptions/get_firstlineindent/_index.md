@@ -4,7 +4,7 @@ linktitle: get_FirstLineIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::get_FirstLineIndent method. Gets first line indent value in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pdf.text/textformattingoptions/get_firstlineindent/
 ---
 ## TextFormattingOptions::get_FirstLineIndent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/get_firstlineindent/
 Gets first line indent value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextFormattingOptions::get_FirstLineIndent() const
+float Aspose::Pdf::Text::TextFormattingOptions::get_FirstLineIndent() const
 ```
 
 ## See Also

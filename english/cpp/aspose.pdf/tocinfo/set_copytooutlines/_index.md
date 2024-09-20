@@ -4,7 +4,7 @@ linktitle: set_CopyToOutlines
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::set_CopyToOutlines method. Sets is TOC copied to outlines in C++.'
 type: docs
-weight: 1800
+weight: 1200
 url: /cpp/aspose.pdf/tocinfo/set_copytooutlines/
 ---
 ## TocInfo::set_CopyToOutlines method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_copytooutlines/
 Sets is TOC copied to outlines.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TocInfo::set_CopyToOutlines(bool value)
+void Aspose::Pdf::TocInfo::set_CopyToOutlines(bool value)
 ```
 
 ## See Also

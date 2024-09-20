@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::Equals method. Indicates whether this instance and a specified object are equal in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/aspose.pdf/xmpfield/equals/
 ---
 ## XmpField::Equals method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/equals/
 Indicates whether this instance and a specified object are equal.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpField::Equals(System::SharedPtr<System::Object> obj) override
+bool Aspose::Pdf::XmpField::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpField::Equals(System::SharedPtr<Syste
 ### ReturnValue
 
 true if obj and this instance are the same type and represent the same value; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Another object to compare to. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpField](../)

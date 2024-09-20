@@ -4,7 +4,7 @@ linktitle: get_DestFileName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::get_DestFileName method. Gets destiination file name in C++.'
 type: docs
-weight: 500
+weight: 1500
 url: /cpp/aspose.pdf.facades/form/get_destfilename/
 ---
 ## Form::get_DestFileName method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/form/get_destfilename/
 Gets destiination file name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::Form::get_DestFileName() const
+System::String Aspose::Pdf::Facades::Form::get_DestFileName() const
 ```
 
-## Remarks
 
+## Deprecated
+Use Save(outputFile) method for getting facade results. 
 
-<xrefsect id="deprecated_1_deprecated000015">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(outputFile) method for getting facade results. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [Form](../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/gsave/gsave/
 Initializes q operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::GSave::GSave()
+Aspose::Pdf::Operators::GSave::GSave()
 ```
 
 ## See Also

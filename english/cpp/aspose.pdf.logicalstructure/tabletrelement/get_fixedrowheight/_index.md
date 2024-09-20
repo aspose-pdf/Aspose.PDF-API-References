@@ -4,7 +4,7 @@ linktitle: get_FixedRowHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::get_FixedRowHeight method. Gets fixed row height - row may have fixed height in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_fixedrowheight/
 ---
 ## TableTRElement::get_FixedRowHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_fixedrowheight/
 Gets fixed row height - row may have fixed height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::LogicalStructure::TableTRElement::get_FixedRowHeight() const
+double Aspose::Pdf::LogicalStructure::TableTRElement::get_FixedRowHeight() const
 ```
 
 ## See Also

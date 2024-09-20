@@ -4,7 +4,7 @@ linktitle: get_MIMEType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::get_MIMEType method. Gets subtype of the embedded file in C++.'
 type: docs
-weight: 1600
+weight: 1100
 url: /cpp/aspose.pdf/filespecification/get_mimetype/
 ---
 ## FileSpecification::get_MIMEType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/get_mimetype/
 Gets subtype of the embedded file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::FileSpecification::get_MIMEType()
+System::String Aspose::Pdf::FileSpecification::get_MIMEType()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/clip/clip/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::Clip::Clip()
+Aspose::Pdf::Operators::Clip::Clip()
 ```
 
 ## See Also

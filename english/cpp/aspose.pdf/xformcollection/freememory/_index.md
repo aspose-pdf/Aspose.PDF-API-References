@@ -4,7 +4,7 @@ linktitle: FreeMemory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XFormCollection::FreeMemory method. Clears cached data, frees memory etc in C++.'
 type: docs
-weight: 1500
+weight: 700
 url: /cpp/aspose.pdf/xformcollection/freememory/
 ---
 ## XFormCollection::FreeMemory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xformcollection/freememory/
 Clears cached data, frees memory etc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XFormCollection::FreeMemory() override
+void Aspose::Pdf::XFormCollection::FreeMemory() override
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Margin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EpubLoadOptions::get_Margin method. Gets reference on object that represent marging info in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/epubloadoptions/get_margin/
 ---
 ## EpubLoadOptions::get_Margin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/epubloadoptions/get_margin/
 Gets reference on object that represent marging info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<MarginInfo> Aspose::Pdf::EpubLoadOptions::get_Margin() const
+System::SharedPtr<MarginInfo> Aspose::Pdf::EpubLoadOptions::get_Margin() const
 ```
 
 ## See Also

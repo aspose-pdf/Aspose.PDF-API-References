@@ -4,7 +4,7 @@ linktitle: set_ExportValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::CheckboxField::set_ExportValue method. Sets export value of CheckBox field in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf.forms/checkboxfield/set_exportvalue/
 ---
 ## CheckboxField::set_ExportValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/set_exportvalue/
 Sets export value of CheckBox field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::CheckboxField::set_ExportValue(System::String value)
+void Aspose::Pdf::Forms::CheckboxField::set_ExportValue(System::String value)
 ```
 
 ## See Also

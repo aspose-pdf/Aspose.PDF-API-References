@@ -3,7 +3,7 @@ title: Class PrivateElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.PrivateElement class. Represents Private structure element in logical structure
 type: docs
-weight: 4880
+weight: 4930
 url: /net/aspose.pdf.logicalstructure/privateelement/
 ---
 ## PrivateElement class

@@ -4,7 +4,7 @@ linktitle: PasswordType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PasswordType enum. This enum represents known password types used for password protected pdf documents in C++.'
 type: docs
-weight: 21500
+weight: 21600
 url: /cpp/aspose.pdf/passwordtype/
 ---
 ## PasswordType enum

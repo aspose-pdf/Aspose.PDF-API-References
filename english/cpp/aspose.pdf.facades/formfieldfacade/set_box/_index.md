@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_box/
 A rectangle object holding field's location.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_Box(System::Drawing::Rectangle value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Box(System::Drawing::Rectangle value)
 ```
 
 ## See Also

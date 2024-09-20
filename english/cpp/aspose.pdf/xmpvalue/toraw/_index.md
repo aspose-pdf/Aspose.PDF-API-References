@@ -4,7 +4,7 @@ linktitle: ToRaw
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToRaw method. Raw XML code for unknown/unsupported values in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/aspose.pdf/xmpvalue/toraw/
 ---
 ## XmpValue::ToRaw method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/toraw/
 Raw XML code for unknown/unsupported values.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::XmpValue::ToRaw()
+System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::XmpValue::ToRaw()
 ```
 
 

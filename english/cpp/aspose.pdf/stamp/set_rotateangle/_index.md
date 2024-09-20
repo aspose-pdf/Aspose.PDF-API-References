@@ -4,7 +4,7 @@ linktitle: set_RotateAngle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::set_RotateAngle method. Sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle in C++.'
 type: docs
-weight: 3800
+weight: 3300
 url: /cpp/aspose.pdf/stamp/set_rotateangle/
 ---
 ## Stamp::set_RotateAngle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_rotateangle/
 Sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_RotateAngle(double value)
+void Aspose::Pdf::Stamp::set_RotateAngle(double value)
 ```
 
 ## See Also

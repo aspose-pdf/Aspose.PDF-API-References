@@ -4,7 +4,7 @@ linktitle: set_EndingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PolyAnnotation::set_EndingStyle method. Sets the style of second line ending in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.pdf.annotations/polyannotation/set_endingstyle/
 ---
 ## PolyAnnotation::set_EndingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/set_endingstyle/
 Sets the style of second line ending.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PolyAnnotation::set_EndingStyle(LineEnding value)
+void Aspose::Pdf::Annotations::PolyAnnotation::set_EndingStyle(LineEnding value)
 ```
 
 ## See Also

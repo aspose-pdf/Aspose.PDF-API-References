@@ -4,7 +4,7 @@ linktitle: get_Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::get_Rotation method. Gets rotation angle in degrees in C++.'
 type: docs
-weight: 2000
+weight: 1200
 url: /cpp/aspose.pdf.text/textparagraph/get_rotation/
 ---
 ## TextParagraph::get_Rotation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/get_rotation/
 Gets rotation angle in degrees.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextParagraph::get_Rotation() const
+double Aspose::Pdf::Text::TextParagraph::get_Rotation() const
 ```
 
 ## See Also

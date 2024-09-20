@@ -4,7 +4,7 @@ linktitle: set_DestStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::set_DestStream method. Sets destination stream in C++.'
 type: docs
-weight: 1000
+weight: 4400
 url: /cpp/aspose.pdf.facades/form/set_deststream/
 ---
 ## Form::set_DestStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/form/set_deststream/
 Sets destination stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::set_DestStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::Form::set_DestStream(System::SharedPtr<System::IO::Stream> value)
 ```
 
-## Remarks
 
+## Deprecated
+Use Save(outputStream) method for getting facade results. 
 
-<xrefsect id="deprecated_1_deprecated000020">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(outputStream) method for getting facade results. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [Form](../)

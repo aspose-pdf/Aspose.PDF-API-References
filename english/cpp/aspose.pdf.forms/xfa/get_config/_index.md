@@ -4,7 +4,7 @@ linktitle: get_Config
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::XFA::get_Config method. XFA Config component of an XFA form in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pdf.forms/xfa/get_config/
 ---
 ## XFA::get_Config method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/xfa/get_config/
 [XFA](../) Config component of an [XFA](../) form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::get_Config()
+System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::get_Config()
 ```
 
 ## See Also

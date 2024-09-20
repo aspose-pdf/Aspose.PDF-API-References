@@ -4,7 +4,7 @@ linktitle: get_F
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::get_F method. F member of the transformation matrix in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf/matrix3d/get_f/
 ---
 ## Matrix3D::get_F method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/get_f/
 F member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::get_F()
+double Aspose::Pdf::Matrix3D::get_F()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ImageCompressionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ImageCompressionOptions constructor of Aspose::Pdf::Optimization::ImageCompressionOptions class in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pdf.optimization/imagecompressionoptions/imagecompressionoptions/
 ---
 ## ImageCompressionOptions::ImageCompressionOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/imagecompressionoptions/imagecompressionoption
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Optimization::ImageCompressionOptions::ImageCompressionOptions()
+Aspose::Pdf::Optimization::ImageCompressionOptions::ImageCompressionOptions()
 ```
 
 ## See Also

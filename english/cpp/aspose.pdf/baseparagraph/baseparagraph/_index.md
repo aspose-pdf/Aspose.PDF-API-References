@@ -4,7 +4,7 @@ linktitle: BaseParagraph
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use BaseParagraph constructor of Aspose::Pdf::BaseParagraph class in C++.'
 type: docs
-weight: 2000
+weight: 100
 url: /cpp/aspose.pdf/baseparagraph/baseparagraph/
 ---
 ## BaseParagraph::BaseParagraph constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/baseparagraph/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::BaseParagraph::BaseParagraph()
+Aspose::Pdf::BaseParagraph::BaseParagraph()
 ```
 
 ## See Also

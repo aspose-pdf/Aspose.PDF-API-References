@@ -4,7 +4,7 @@ linktitle: EndEdit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::EndEdit method. Ends the editing of the TextParagraph in C++.'
 type: docs
-weight: 2400
+weight: 400
 url: /cpp/aspose.pdf.text/textparagraph/endedit/
 ---
 ## TextParagraph::EndEdit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/endedit/
 Ends the editing of the [TextParagraph](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::EndEdit()
+void Aspose::Pdf::Text::TextParagraph::EndEdit()
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_b5/
 B5 size (250x176 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_B5()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_B5()
 ```
 
 ## See Also

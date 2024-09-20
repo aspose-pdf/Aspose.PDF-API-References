@@ -4,7 +4,7 @@ linktitle: get_Indigo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Indigo method. Gets a system-defined color that has an ARGB value of #FF4B0082 in C++.'
 type: docs
-weight: 6700
+weight: 7000
 url: /cpp/aspose.pdf/color/get_indigo/
 ---
 ## Color::get_Indigo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_indigo/
 Gets a system-defined color that has an ARGB value of **#FF4B0082**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Indigo()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Indigo()
 ```
 
 

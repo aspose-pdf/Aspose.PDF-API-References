@@ -4,7 +4,7 @@ linktitle: Note
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Note::Note constructor. Initializes a new instance of the Note class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf/note/note/
 ---
 ## Note::Note() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/note/
 Initializes a new instance of the [Note](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Note::Note()
+Aspose::Pdf::Note::Note()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Note::Note()
 Initializes a new instance of the [Note](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Note::Note(System::String content)
+Aspose::Pdf::Note::Note(System::String content)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | content | System::String | The note content. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>content</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The note content.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Note](../)

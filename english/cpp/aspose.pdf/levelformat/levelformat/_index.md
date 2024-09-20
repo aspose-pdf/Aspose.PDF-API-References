@@ -4,7 +4,7 @@ linktitle: LevelFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LevelFormat constructor of Aspose::Pdf::LevelFormat class in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pdf/levelformat/levelformat/
 ---
 ## LevelFormat::LevelFormat constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/levelformat/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::LevelFormat::LevelFormat()
+Aspose::Pdf::LevelFormat::LevelFormat()
 ```
 
 ## See Also

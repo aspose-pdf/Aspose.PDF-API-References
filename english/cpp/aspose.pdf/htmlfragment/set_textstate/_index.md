@@ -4,7 +4,7 @@ linktitle: set_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment::set_TextState method. Sets font in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pdf/htmlfragment/set_textstate/
 ---
 ## HtmlFragment::set_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/set_textstate/
 Sets font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlFragment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::HtmlFragment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
 ```
 
 ## See Also

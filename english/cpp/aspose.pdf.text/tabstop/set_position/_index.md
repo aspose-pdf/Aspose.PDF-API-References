@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabStop::set_Position method. Sets a float value that indicates the tab stop position in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.pdf.text/tabstop/set_position/
 ---
 ## TabStop::set_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstop/set_position/
 Sets a float value that indicates the tab stop position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TabStop::set_Position(float value)
+void Aspose::Pdf::Text::TabStop::set_Position(float value)
 ```
 
 ## See Also

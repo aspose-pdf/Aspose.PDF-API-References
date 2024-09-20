@@ -4,7 +4,7 @@ linktitle: ConvertPageToPNGMemoryStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::ConvertPageToPNGMemoryStream method. Convert page to PNG for DSR, OMR, OCR image stream in C++.'
 type: docs
-weight: 9100
+weight: 600
 url: /cpp/aspose.pdf/document/convertpagetopngmemorystream/
 ---
 ## Document::ConvertPageToPNGMemoryStream method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/convertpagetopngmemorystream/
 Convert page to PNG for DSR, OMR, OCR image stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Document::ConvertPageToPNGMemoryStream(System::SharedPtr<Page> page)
+System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Document::ConvertPageToPNGMemoryStream(System::SharedPtr<Page> page)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::D
 ### ReturnValue
 
 [Image](../../image/) stream.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> to convert.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

@@ -4,7 +4,7 @@ linktitle: CompositingParameters
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CompositingParameters::CompositingParameters constructor. Initializes new instance of the CompositingParameters object in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pdf/compositingparameters/compositingparameters/
 ---
 ## CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode) constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf/compositingparameters/compositingparameters/
 Initializes new instance of the [CompositingParameters](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode)
+Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | blendMode | Aspose::Pdf::BlendMode | Blend mode of current graphics state. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>blendMode</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Blend mode of current graphics state.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [BlendMode](../../blendmode/)
@@ -45,7 +33,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(
 Initializes new instance of the [CompositingParameters](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode, ImageFilterType filterType)
+Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode, ImageFilterType filterType)
 ```
 
 
@@ -53,27 +41,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(
 | --- | --- | --- |
 | blendMode | Aspose::Pdf::BlendMode | Blend mode of current graphics state. |
 | filterType | ImageFilterType | The image filter type. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>blendMode</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Blend mode of current graphics state.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>filterType</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The image filter type.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [BlendMode](../../blendmode/)
@@ -87,7 +55,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(
 Initializes new instance of the [CompositingParameters](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode, ImageFilterType filterType, bool isMasked)
+Aspose::Pdf::CompositingParameters::CompositingParameters(Aspose::Pdf::BlendMode blendMode, ImageFilterType filterType, bool isMasked)
 ```
 
 
@@ -96,35 +64,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::CompositingParameters::CompositingParameters(
 | blendMode | Aspose::Pdf::BlendMode | Blend mode of current graphics state. |
 | filterType | ImageFilterType | The image filter type. |
 | isMasked | bool | The adding mask flag. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>blendMode</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Blend mode of current graphics state.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>filterType</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The image filter type.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>isMasked</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The adding mask flag.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [BlendMode](../../blendmode/)

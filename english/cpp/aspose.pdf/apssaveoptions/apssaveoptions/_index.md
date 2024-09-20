@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/apssaveoptions/apssaveoptions/
 Constructor of APsSaveOptions class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ApsSaveOptions::ApsSaveOptions()
+Aspose::Pdf::ApsSaveOptions::ApsSaveOptions()
 ```
 
 ## See Also

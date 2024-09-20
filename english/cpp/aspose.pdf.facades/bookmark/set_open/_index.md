@@ -4,7 +4,7 @@ linktitle: set_Open
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_Open method. Sets bookmark state (open, close) in C++.'
 type: docs
-weight: 3600
+weight: 2800
 url: /cpp/aspose.pdf.facades/bookmark/set_open/
 ---
 ## Bookmark::set_Open method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_open/
 Sets bookmark state (open, close).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Bookmark::set_Open(bool value)
+void Aspose::Pdf::Facades::Bookmark::set_Open(bool value)
 ```
 
 ## See Also

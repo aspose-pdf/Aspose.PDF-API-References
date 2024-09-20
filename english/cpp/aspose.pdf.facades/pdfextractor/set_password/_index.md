@@ -4,7 +4,7 @@ linktitle: set_Password
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::set_Password method. Sets input file''s password in C++.'
 type: docs
-weight: 1500
+weight: 2500
 url: /cpp/aspose.pdf.facades/pdfextractor/set_password/
 ---
 ## PdfExtractor::set_Password method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/set_password/
 Sets input file's password.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfExtractor::set_Password(System::String value)
+void Aspose::Pdf::Facades::PdfExtractor::set_Password(System::String value)
 ```
 
 ## See Also

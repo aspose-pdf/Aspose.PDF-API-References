@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/idx_get/
 Gets data from metadata.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Metadata::idx_get(const System::String &key) const override
+System::SharedPtr<XmpValue> Aspose::Pdf::Metadata::idx_get(const System::String &key) const override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Metadata::idx_get
 ### ReturnValue
 
 [Metadata](../) object.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../xmpvalue/)

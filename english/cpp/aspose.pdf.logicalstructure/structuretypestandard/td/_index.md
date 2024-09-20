@@ -4,7 +4,7 @@ linktitle: TD
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::TD field. (Table data cell) A table cell containing data that is part of the table''s content in C++.'
 type: docs
-weight: 3500
+weight: 4400
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
 ## TD field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/td/
 ([Table](../../../aspose.pdf/table/) data cell) A table cell containing data that is part of the table's content.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TD
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TD
 ```
 
 ## See Also

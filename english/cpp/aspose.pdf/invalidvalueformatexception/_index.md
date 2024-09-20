@@ -4,7 +4,7 @@ linktitle: InvalidValueFormatException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::InvalidValueFormatException typedef in C++.'
 type: docs
-weight: 24800
+weight: 24700
 url: /cpp/aspose.pdf/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException typedef

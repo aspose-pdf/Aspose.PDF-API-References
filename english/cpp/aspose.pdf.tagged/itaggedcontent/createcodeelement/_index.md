@@ -4,7 +4,7 @@ linktitle: CreateCodeElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateCodeElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3200
+weight: 600
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createcodeelement/
 ---
 ## ITaggedContent::CreateCodeElement method

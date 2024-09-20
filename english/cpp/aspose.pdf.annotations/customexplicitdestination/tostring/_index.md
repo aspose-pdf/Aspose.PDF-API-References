@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/customexplicitdestination/tostring/
 Converts to page number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::CustomExplicitDestination::ToString() const override
+System::String Aspose::Pdf::Annotations::CustomExplicitDestination::ToString() const override
 ```
 
 

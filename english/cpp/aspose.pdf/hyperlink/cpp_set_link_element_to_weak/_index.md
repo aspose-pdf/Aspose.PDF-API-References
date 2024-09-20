@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/hyperlink/cpp_set_link_element_to_weak/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Hyperlink::cpp_set_link_element_to_weak()
+void Aspose::Pdf::Hyperlink::cpp_set_link_element_to_weak()
 ```
 
 ## See Also

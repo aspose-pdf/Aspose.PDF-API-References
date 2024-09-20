@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlines/remove/
 Remove outline collection item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Outlines::Remove(const System::SharedPtr<OutlineItemCollection> &item) override=0
+bool Aspose::Pdf::Outlines::Remove(const System::SharedPtr<OutlineItemCollection> &item) override=0
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Outlines::Remove(const System::SharedPtr
 ### ReturnValue
 
 True - if item removed; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Item to delete.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../../outlineitemcollection/)

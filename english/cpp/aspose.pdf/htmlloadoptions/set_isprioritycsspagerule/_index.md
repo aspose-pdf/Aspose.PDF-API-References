@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlloadoptions/set_isprioritycsspagerule/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlLoadOptions::set_IsPriorityCssPageRule(bool value)
+void Aspose::Pdf::HtmlLoadOptions::set_IsPriorityCssPageRule(bool value)
 ```
 
 ## See Also

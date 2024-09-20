@@ -4,7 +4,7 @@ linktitle: get_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Note::get_TextState method. Gets a note text state in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf/note/get_textstate/
 ---
 ## Note::get_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/get_textstate/
 Gets a note text state.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::Note::get_TextState() const
+System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::Note::get_TextState() const
 ```
 
 ## See Also

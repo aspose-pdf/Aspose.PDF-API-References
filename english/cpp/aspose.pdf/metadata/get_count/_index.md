@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/get_count/
 Gets count of elements in the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Metadata::get_Count() const override
+int32_t Aspose::Pdf::Metadata::get_Count() const override
 ```
 
 ## See Also

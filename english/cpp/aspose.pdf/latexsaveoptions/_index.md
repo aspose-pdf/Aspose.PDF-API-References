@@ -36,15 +36,10 @@ class LaTeXSaveOptions : public Aspose::Pdf::TeXSaveOptions
 | [set_WarningHandler](../saveoptions/set_warninghandler/)(System::SharedPtr\<IWarningCallback\>) | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 | [TeXSaveOptions](../texsaveoptions/texsaveoptions/)() | Initializes a new instance of the [TeXSaveOptions](../texsaveoptions/) class. |
 | [UnifiedSaveOptions](../unifiedsaveoptions/unifiedsaveoptions/)() |  |
-## Remarks
 
+## Deprecated
+Use TeXSaveOptions instead 
 
-<xrefsect id="deprecated_1_deprecated000144">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use <ref refid="class_aspose_1_1_pdf_1_1_te_x_save_options" kindref="compound">TeXSaveOptions</ref> instead </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [TeXSaveOptions](../texsaveoptions/)

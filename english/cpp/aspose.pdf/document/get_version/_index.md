@@ -4,7 +4,7 @@ linktitle: get_Version
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Version method. Gets a version of Pdf from Pdf file header in C++.'
 type: docs
-weight: 2100
+weight: 6400
 url: /cpp/aspose.pdf/document/get_version/
 ---
 ## Document::get_Version method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_version/
 Gets a version of [Pdf](../../) from [Pdf](../../) file header.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Document::get_Version()
+System::String Aspose::Pdf::Document::get_Version()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_DefaultCellBorder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::set_DefaultCellBorder method. Gets default cell border; in C++.'
 type: docs
-weight: 800
+weight: 1700
 url: /cpp/aspose.pdf/row/set_defaultcellborder/
 ---
 ## Row::set_DefaultCellBorder method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_defaultcellborder/
 Gets default cell border;.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_DefaultCellBorder(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::Row::set_DefaultCellBorder(System::SharedPtr<BorderInfo> value)
 ```
 
 ## See Also

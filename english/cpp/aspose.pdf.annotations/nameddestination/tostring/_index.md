@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/nameddestination/tostring/
 Converts destination to string value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::NamedDestination::ToString() const override
+System::String Aspose::Pdf::Annotations::NamedDestination::ToString() const override
 ```
 
 

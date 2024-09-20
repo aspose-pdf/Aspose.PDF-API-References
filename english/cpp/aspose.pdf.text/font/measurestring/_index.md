@@ -4,7 +4,7 @@ linktitle: MeasureString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::Font::MeasureString method. Measures the string in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/aspose.pdf.text/font/measurestring/
 ---
 ## Font::MeasureString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/font/measurestring/
 Measures the string.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::Font::MeasureString(System::String str, float fontSize)
+double Aspose::Pdf::Text::Font::MeasureString(System::String str, float fontSize)
 ```
 
 
@@ -25,28 +25,7 @@ ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::Font::MeasureString(System::Stri
 ### ReturnValue
 
 Width of the string represented with this font and the specified size.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>str</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The string.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontSize</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> size.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Font](../)

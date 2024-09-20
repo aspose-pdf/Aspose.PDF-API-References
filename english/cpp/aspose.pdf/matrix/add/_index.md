@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::Add method. Adds matrix to other matrix in C++.'
 type: docs
-weight: 2000
+weight: 200
 url: /cpp/aspose.pdf/matrix/add/
 ---
 ## Matrix::Add method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/add/
 Adds matrix to other matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Add(System::SharedPtr<Matrix> other)
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Add(System::SharedPtr<Matrix> other)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Add(System:
 ### ReturnValue
 
 Result of matrix add.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>other</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_matrix" kindref="compound">Matrix</ref> to be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Matrix](../)

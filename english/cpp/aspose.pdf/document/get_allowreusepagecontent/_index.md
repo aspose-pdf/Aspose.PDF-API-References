@@ -4,7 +4,7 @@ linktitle: get_AllowReusePageContent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_AllowReusePageContent method. Allows to merge page contents to optimize docuement size. If used then differnet but duplicated pages may reference to the same content object. Please note that this mode may cause side effects like changing page content when other page is changed in C++.'
 type: docs
-weight: 7100
+weight: 1500
 url: /cpp/aspose.pdf/document/get_allowreusepagecontent/
 ---
 ## Document::get_AllowReusePageContent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_allowreusepagecontent/
 Allows to merge page contents to optimize docuement size. If used then differnet but duplicated pages may reference to the same content object. Please note that this mode may cause side effects like changing page content when other page is changed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::get_AllowReusePageContent()
+bool Aspose::Pdf::Document::get_AllowReusePageContent()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: BLSEs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeCategory::BLSEs method. Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/blses/
 ---
 ## StructureTypeCategory::BLSEs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/blses/
 Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::BLSEs()
+static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::BLSEs()
 ```
 
 ## See Also

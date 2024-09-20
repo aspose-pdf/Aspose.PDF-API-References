@@ -60,7 +60,7 @@ public class WatermarkAnnotation : Annotation
 | override [Accept](../../aspose.pdf.annotations/watermarkannotation/accept/)(AnnotationSelector) | Apply visitor for annotation. |
 | override [ChangeAfterResize](../../aspose.pdf.annotations/watermarkannotation/changeafterresize/)(Matrix) | Overrides the definition in the base class with an empty body. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
+| [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | [SetText](../../aspose.pdf.annotations/watermarkannotation/settext/)(FormattedText) | Set text of the annotation. |
 | [SetTextAndState](../../aspose.pdf.annotations/watermarkannotation/settextandstate/)(string[], TextState) | Set text of the annotation. |

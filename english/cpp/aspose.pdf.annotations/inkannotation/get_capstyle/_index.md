@@ -4,7 +4,7 @@ linktitle: get_CapStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::InkAnnotation::get_CapStyle method. Style of ink annotation line endings in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf.annotations/inkannotation/get_capstyle/
 ---
 ## InkAnnotation::get_CapStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/inkannotation/get_capstyle/
 Style of ink annotation line endings.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::CapStyle Aspose::Pdf::Annotations::InkAnnotation::get_CapStyle()
+Aspose::Pdf::Annotations::CapStyle Aspose::Pdf::Annotations::InkAnnotation::get_CapStyle()
 ```
 
 ## See Also

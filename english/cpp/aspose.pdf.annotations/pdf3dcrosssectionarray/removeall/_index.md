@@ -4,7 +4,7 @@ linktitle: RemoveAll
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSectionArray::RemoveAll method. Removes all cross section from array in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
 ## PDF3DCrossSectionArray::RemoveAll method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 Removes all cross section from array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::RemoveAll()
+void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::RemoveAll()
 ```
 
 ## See Also

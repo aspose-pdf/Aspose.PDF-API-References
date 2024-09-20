@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/xfa/setfieldimage/
 Sets image for [XFA](../) field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::XFA::SetFieldImage(System::String fieldName, System::SharedPtr<System::IO::Stream> image)
+void Aspose::Pdf::Forms::XFA::SetFieldImage(System::String fieldName, System::SharedPtr<System::IO::Stream> image)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::XFA::SetFieldImage(System::String
 | --- | --- | --- |
 | fieldName | System::String | Name of the field. |
 | image | System::SharedPtr\<System::IO::Stream\> | Stream which contains image. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>image</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream which contains image.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XFA](../)

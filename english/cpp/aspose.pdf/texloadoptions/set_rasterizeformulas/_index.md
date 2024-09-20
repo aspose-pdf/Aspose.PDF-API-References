@@ -4,7 +4,7 @@ linktitle: set_RasterizeFormulas
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXLoadOptions::set_RasterizeFormulas method. Gets/sets a flag that allows to rasterize math formulas in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.pdf/texloadoptions/set_rasterizeformulas/
 ---
 ## TeXLoadOptions::set_RasterizeFormulas method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_rasterizeformulas/
 Gets/sets a flag that allows to rasterize math formulas.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TeXLoadOptions::set_RasterizeFormulas(bool value)
+void Aspose::Pdf::TeXLoadOptions::set_RasterizeFormulas(bool value)
 ```
 
 ## See Also

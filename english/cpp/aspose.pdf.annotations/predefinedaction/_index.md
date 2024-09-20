@@ -4,7 +4,7 @@ linktitle: PredefinedAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PredefinedAction enum. Defines different actions which can be triggered from a PDF file in C++.'
 type: docs
-weight: 15500
+weight: 14200
 url: /cpp/aspose.pdf.annotations/predefinedaction/
 ---
 ## PredefinedAction enum

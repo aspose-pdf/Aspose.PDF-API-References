@@ -3,7 +3,7 @@ title: Matrix.Reverse
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Calculates reverse matrix
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pdf/matrix/reverse/
 ---
 ## Matrix.Reverse method

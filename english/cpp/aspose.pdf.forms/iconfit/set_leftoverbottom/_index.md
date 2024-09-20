@@ -4,7 +4,7 @@ linktitle: set_LeftoverBottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::IconFit::set_LeftoverBottom method. Sets space to allocate at the bottom of the icon in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pdf.forms/iconfit/set_leftoverbottom/
 ---
 ## IconFit::set_LeftoverBottom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/set_leftoverbottom/
 Sets space to allocate at the bottom of the icon.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::IconFit::set_LeftoverBottom(double value)
+void Aspose::Pdf::Forms::IconFit::set_LeftoverBottom(double value)
 ```
 
 ## See Also

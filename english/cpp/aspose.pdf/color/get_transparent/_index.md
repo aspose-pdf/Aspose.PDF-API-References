@@ -4,7 +4,7 @@ linktitle: get_Transparent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Transparent method. Gets a system-defined color in C++.'
 type: docs
-weight: 1000
+weight: 14700
 url: /cpp/aspose.pdf/color/get_transparent/
 ---
 ## Color::get_Transparent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_transparent/
 Gets a system-defined color.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Transparent()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Transparent()
 ```
 
 

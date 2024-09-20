@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ElementList::GetEnumerator method. Gets an enumerator that iterates through the collection of elements in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/elementlist/getenumerator/
 ---
 ## ElementList::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/elementlist/getenumerator/
 Gets an enumerator that iterates through the collection of elements.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Element>>> Aspose::Pdf::LogicalStructure::ElementList::GetEnumerator() override=0
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Element>>> Aspose::Pdf::LogicalStructure::ElementList::GetEnumerator() override=0
 ```
 
 

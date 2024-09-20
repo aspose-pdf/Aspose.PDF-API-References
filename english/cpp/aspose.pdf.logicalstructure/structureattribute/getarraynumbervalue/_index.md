@@ -4,7 +4,7 @@ linktitle: GetArrayNumberValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttribute::GetArrayNumberValue method. Gets Value Number Array in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 ---
 ## StructureAttribute::GetArrayNumberValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 Gets Value Number Array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::Nullable<double>> Aspose::Pdf::LogicalStructure::StructureAttribute::GetArrayNumberValue()
+System::ArrayPtr<System::Nullable<double>> Aspose::Pdf::LogicalStructure::StructureAttribute::GetArrayNumberValue()
 ```
 
 

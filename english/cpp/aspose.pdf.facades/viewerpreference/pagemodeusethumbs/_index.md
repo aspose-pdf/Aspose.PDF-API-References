@@ -4,7 +4,7 @@ linktitle: PageModeUseThumbs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::PageModeUseThumbs field. Thumbnail images visible in C++.'
 type: docs
-weight: 1000
+weight: 2400
 url: /cpp/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
 ## PageModeUseThumbs field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 Thumbnail images visible.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PageModeUseThumbs
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PageModeUseThumbs
 ```
 
 ## See Also

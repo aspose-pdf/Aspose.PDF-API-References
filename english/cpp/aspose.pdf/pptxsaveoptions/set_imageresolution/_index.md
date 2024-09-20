@@ -4,7 +4,7 @@ linktitle: set_ImageResolution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions::set_ImageResolution method. Sets the image resolution (dpi). Default is 192 dpi in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf/pptxsaveoptions/set_imageresolution/
 ---
 ## PptxSaveOptions::set_ImageResolution method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/set_imageresolution/
 Sets the image resolution (dpi). Default is 192 dpi.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PptxSaveOptions::set_ImageResolution(int32_t value)
+void Aspose::Pdf::PptxSaveOptions::set_ImageResolution(int32_t value)
 ```
 
 ## See Also

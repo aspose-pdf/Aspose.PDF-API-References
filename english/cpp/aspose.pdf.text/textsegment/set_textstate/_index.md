@@ -4,7 +4,7 @@ linktitle: set_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSegment::set_TextState method. Sets text state for the text that TextSegment object represents in C++.'
 type: docs
-weight: 600
+weight: 1700
 url: /cpp/aspose.pdf.text/textsegment/set_textstate/
 ---
 ## TextSegment::set_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/set_textstate/
 Sets text state for the text that [TextSegment](../) object represents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextSegment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::Text::TextSegment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
 ```
 
 ## Remarks

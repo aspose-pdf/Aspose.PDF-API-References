@@ -4,7 +4,7 @@ linktitle: set_InputFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::set_InputFile method. Sets the input file in C++.'
 type: docs
-weight: 1500
+weight: 3900
 url: /cpp/aspose.pdf.facades/pdffileinfo/set_inputfile/
 ---
 ## PdfFileInfo::set_InputFile method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_inputfile/
 Sets the input file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileInfo::set_InputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_InputFile(System::String value)
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputFile) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000053">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputFile) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileInfo](../)

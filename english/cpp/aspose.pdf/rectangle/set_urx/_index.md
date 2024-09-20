@@ -4,7 +4,7 @@ linktitle: set_URX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::set_URX method. X - coordinate of upper-right corner in C++.'
 type: docs
-weight: 800
+weight: 2400
 url: /cpp/aspose.pdf/rectangle/set_urx/
 ---
 ## Rectangle::set_URX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/set_urx/
 X - coordinate of upper-right corner.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Rectangle::set_URX(double value)
+void Aspose::Pdf::Rectangle::set_URX(double value)
 ```
 
 ## See Also

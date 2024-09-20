@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/get_key/
 Get Attribute Key.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::AttributeKey::get_Key() const
+System::String Aspose::Pdf::LogicalStructure::AttributeKey::get_Key() const
 ```
 
 ## Remarks

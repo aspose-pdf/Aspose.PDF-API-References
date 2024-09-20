@@ -4,7 +4,7 @@ linktitle: set_ReplaceTextStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy method. A set of parameters for replace text operation in C++.'
 type: docs
-weight: 800
+weight: 4600
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_replacetextstrategy/
 ---
 ## PdfContentEditor::set_ReplaceTextStrategy method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_replacetextstrategy/
 A set of parameters for replace text operation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy(System::SharedPtr<Aspose::Pdf::Facades::ReplaceTextStrategy> value)
+void Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy(System::SharedPtr<Aspose::Pdf::Facades::ReplaceTextStrategy> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MovieAnnotation::set_Title method. Sets the title of the movie annotation in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.pdf.annotations/movieannotation/set_title/
 ---
 ## MovieAnnotation::set_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/set_title/
 Sets the title of the movie annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::MovieAnnotation::set_Title(System::String value) override
+void Aspose::Pdf::Annotations::MovieAnnotation::set_Title(System::String value) override
 ```
 
 ## See Also

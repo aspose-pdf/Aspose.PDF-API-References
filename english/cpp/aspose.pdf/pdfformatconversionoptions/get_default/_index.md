@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_default/
 Gets [PdfFormatConversionOptions](../) object with default parameters.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PdfFormatConversionOptions> Aspose::Pdf::PdfFormatConversionOptions::get_Default()
+static System::SharedPtr<PdfFormatConversionOptions> Aspose::Pdf::PdfFormatConversionOptions::get_Default()
 ```
 
 ## See Also

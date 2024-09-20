@@ -4,7 +4,7 @@ linktitle: set_CropBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_CropBox method. Sets crop box of the page in C++.'
 type: docs
-weight: 4000
+weight: 5600
 url: /cpp/aspose.pdf/page/set_cropbox/
 ---
 ## Page::set_CropBox method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_cropbox/
 Sets crop box of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_CropBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_CropBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
 ```
 
 ## See Also

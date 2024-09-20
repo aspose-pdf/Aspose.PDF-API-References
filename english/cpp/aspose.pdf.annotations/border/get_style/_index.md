@@ -4,7 +4,7 @@ linktitle: get_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::get_Style method. Gets border style in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf.annotations/border/get_style/
 ---
 ## Border::get_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/get_style/
 Gets border style.
 
 ```cpp
-ASPOSE_PDF_SHARED_API BorderStyle Aspose::Pdf::Annotations::Border::get_Style()
+BorderStyle Aspose::Pdf::Annotations::Border::get_Style()
 ```
 
 ## Remarks

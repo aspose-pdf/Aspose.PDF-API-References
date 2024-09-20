@@ -4,7 +4,7 @@ linktitle: set_MiterLimit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetMiterLimit::set_MiterLimit method. Sets the miter limit in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/setmiterlimit/set_miterlimit/
 ---
 ## SetMiterLimit::set_MiterLimit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setmiterlimit/set_miterlimit/
 Sets the miter limit.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetMiterLimit::set_MiterLimit(double value)
+void Aspose::Pdf::Operators::SetMiterLimit::set_MiterLimit(double value)
 ```
 
 ## See Also

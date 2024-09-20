@@ -4,7 +4,7 @@ linktitle: Unlock
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Layer::Unlock method. Unlocks the layer in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf/layer/unlock/
 ---
 ## Layer::Unlock method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/layer/unlock/
 Unlocks the layer.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Layer::Unlock()
+void Aspose::Pdf::Layer::Unlock()
 ```
 
 ## See Also

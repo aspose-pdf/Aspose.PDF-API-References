@@ -4,7 +4,7 @@ linktitle: get_BeforePrinting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforePrinting method. Action that will be performed before document printing in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforeprinting/
 ---
 ## DocumentActionCollection::get_BeforePrinting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforeprinting/
 Action that will be performed before document printing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforePrinting() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforePrinting() const
 ```
 
 ## See Also

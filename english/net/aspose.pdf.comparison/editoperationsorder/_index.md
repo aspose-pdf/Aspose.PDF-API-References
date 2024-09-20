@@ -3,7 +3,7 @@ title: Enum EditOperationsOrder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.EditOperationsOrder enum. Specifies the order of edit operations
 type: docs
-weight: 1760
+weight: 1780
 url: /net/aspose.pdf.comparison/editoperationsorder/
 ---
 ## EditOperationsOrder enumeration

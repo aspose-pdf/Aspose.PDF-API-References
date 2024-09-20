@@ -26,8 +26,8 @@ class DictionaryEditor : public System::Collections::Generic::IDictionary<System
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<PublicData::ICosPdfPrimitive\>\>\&) const override | Determines whether the [DictionaryEditor](./) contains a specific value. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines whether the [DictionaryEditor](./) contains an element with the specified key. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<PublicData::ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [DictionaryEditor](./) to an [Array](../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../aspose.pdf/xmpfieldtype/) index. |
-| [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Page\>) |  |
-| [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Document\>) |  |
+| [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Page\>) | ArgumentNullException |
+| [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Document\>) | ArgumentNullException |
 | [get_AllKeys](./get_allkeys/)() const | Full collection of keys. Contains editable and not editable keys. |
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the [DictionaryEditor](./). |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the [DictionaryEditor](./) is read-only. |

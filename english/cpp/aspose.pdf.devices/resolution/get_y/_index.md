@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/resolution/get_y/
 Gets vertical image resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Devices::Resolution::get_Y() const
+int32_t Aspose::Pdf::Devices::Resolution::get_Y() const
 ```
 
 ## See Also

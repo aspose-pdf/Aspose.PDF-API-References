@@ -4,7 +4,7 @@ linktitle: get_XDP
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::XFA::get_XDP method. XML Data Package (all XFA form components within a surrounding XML container) in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.forms/xfa/get_xdp/
 ---
 ## XFA::get_XDP method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/xfa/get_xdp/
 XML Data Package (all [XFA](../) form components within a surrounding XML container).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlDocument> Aspose::Pdf::Forms::XFA::get_XDP()
+System::SharedPtr<System::Xml::XmlDocument> Aspose::Pdf::Forms::XFA::get_XDP()
 ```
 
 ## See Also

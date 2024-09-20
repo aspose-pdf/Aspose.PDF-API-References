@@ -4,7 +4,7 @@ linktitle: set_ForegroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_ForegroundColor method. Gets/sets foreground color (color of text). Default value: Blue in C++.'
 type: docs
-weight: 600
+weight: 3000
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_foregroundcolor/
 ---
 ## SignatureCustomAppearance::set_ForegroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_foregroundcolor/
 Gets/sets foreground color (color of text). Default value: Blue.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ForegroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ForegroundColor(System::SharedPtr<Color> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Alignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::get_Alignment method. Gets the table alignment in C++.'
 type: docs
-weight: 2800
+weight: 300
 url: /cpp/aspose.pdf/table/get_alignment/
 ---
 ## Table::get_Alignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/get_alignment/
 Gets the table alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Table::get_Alignment() const
+Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Table::get_Alignment() const
 ```
 
 ## See Also

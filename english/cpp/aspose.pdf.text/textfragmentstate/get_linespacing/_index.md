@@ -4,7 +4,7 @@ linktitle: get_LineSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_LineSpacing method. Gets line spacing of the text in C++.'
 type: docs
-weight: 1600
+weight: 1500
 url: /cpp/aspose.pdf.text/textfragmentstate/get_linespacing/
 ---
 ## TextFragmentState::get_LineSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_linespacing/
 Gets line spacing of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextFragmentState::get_LineSpacing() override
+float Aspose::Pdf::Text::TextFragmentState::get_LineSpacing() override
 ```
 
 ## Remarks

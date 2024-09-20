@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::get_Width method. Gets a float value that indicates the width of the rectangle in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.drawing/rectangle/get_width/
 ---
 ## Rectangle::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/rectangle/get_width/
 Gets a float value that indicates the width of the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Rectangle::get_Width() const
+double Aspose::Pdf::Drawing::Rectangle::get_Width() const
 ```
 
 ## See Also

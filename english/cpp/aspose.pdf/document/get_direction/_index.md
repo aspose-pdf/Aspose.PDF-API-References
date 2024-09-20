@@ -4,7 +4,7 @@ linktitle: get_Direction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Direction method. Gets reading order of text: L2R (left to right) or R2L (right to left) in C++.'
 type: docs
-weight: 4100
+weight: 2100
 url: /cpp/aspose.pdf/document/get_direction/
 ---
 ## Document::get_Direction method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_direction/
 Gets reading order of text: L2R (left to right) or R2L (right to left).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Direction Aspose::Pdf::Document::get_Direction()
+Aspose::Pdf::Direction Aspose::Pdf::Document::get_Direction()
 ```
 
 ## See Also

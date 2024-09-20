@@ -4,7 +4,7 @@ linktitle: get_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::get_Title method. Gets a string value that indicates the title of the image in C++.'
 type: docs
-weight: 2000
+weight: 1300
 url: /cpp/aspose.pdf/image/get_title/
 ---
 ## Image::get_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/get_title/
 Gets a string value that indicates the title of the image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Image::get_Title() const
+const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Image::get_Title() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: BeginEdit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::BeginEdit method. Begins the editing of the TextParagraph in C++.'
 type: docs
-weight: 2300
+weight: 300
 url: /cpp/aspose.pdf.text/textparagraph/beginedit/
 ---
 ## TextParagraph::BeginEdit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/beginedit/
 Begins the editing of the [TextParagraph](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::BeginEdit()
+void Aspose::Pdf::Text::TextParagraph::BeginEdit()
 ```
 
 ## Remarks

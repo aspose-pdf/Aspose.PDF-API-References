@@ -4,7 +4,7 @@ linktitle: set_SkewAngleX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_SkewAngleX method. Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system in C++.'
 type: docs
-weight: 1400
+weight: 2300
 url: /cpp/aspose.pdf/graphinfo/set_skewanglex/
 ---
 ## GraphInfo::set_SkewAngleX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_skewanglex/
 Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::GraphInfo::set_SkewAngleX(double value)
+void Aspose::Pdf::GraphInfo::set_SkewAngleX(double value)
 ```
 
 ## See Also

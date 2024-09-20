@@ -4,7 +4,7 @@ linktitle: set_VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::set_VerticalAlignment method. Sets the vertical alignment in C++.'
 type: docs
-weight: 2400
+weight: 3100
 url: /cpp/aspose.pdf/cell/set_verticalalignment/
 ---
 ## Cell::set_VerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_verticalalignment/
 Sets the vertical alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Cell::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value)
+void Aspose::Pdf::Cell::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value)
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Field.FitIntoRectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Field property. If true then font size will reduced to fit text to specified rectangle
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.pdf.forms/field/fitintorectangle/
 ---
 ## Field.FitIntoRectangle property

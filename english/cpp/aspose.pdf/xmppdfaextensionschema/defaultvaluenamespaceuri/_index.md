@@ -4,7 +4,7 @@ linktitle: DefaultValueNamespaceUri
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueNamespaceUri field. Default value namespace uri in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/
 ---
 ## DefaultValueNamespaceUri field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/
 Default value namespace uri.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueNamespaceUri
+static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueNamespaceUri
 ```
 
 

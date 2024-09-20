@@ -4,7 +4,7 @@ linktitle: get_IsGroup
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_IsGroup method. Gets boolean value which indicates is this field non-terminal field i.e. group of fields in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/aspose.pdf.forms/field/get_isgroup/
 ---
 ## Field::get_IsGroup method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_isgroup/
 Gets boolean value which indicates is this field non-terminal field i.e. group of fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Field::get_IsGroup() const
+bool Aspose::Pdf::Forms::Field::get_IsGroup() const
 ```
 
 ## See Also

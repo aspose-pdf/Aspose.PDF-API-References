@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::cend method. Gets iterator pointing right after the last const-qualified element (if any) of the collection in C++.'
 type: docs
-weight: 1800
+weight: 500
 url: /cpp/aspose.pdf/paragraphs/cend/
 ---
 ## Paragraphs::cend method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/cend/
 Gets iterator pointing right after the last const-qualified element (if any) of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const_iterator Aspose::Pdf::Paragraphs::cend() const noexcept
+const_iterator Aspose::Pdf::Paragraphs::cend() const noexcept
 ```
 
 

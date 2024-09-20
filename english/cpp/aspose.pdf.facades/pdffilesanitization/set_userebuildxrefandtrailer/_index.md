@@ -4,7 +4,7 @@ linktitle: set_UseRebuildXrefAndTrailer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSanitization::set_UseRebuildXrefAndTrailer method. Allows to generate new xref and trailer for document in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pdf.facades/pdffilesanitization/set_userebuildxrefandtrailer/
 ---
 ## PdfFileSanitization::set_UseRebuildXrefAndTrailer method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesanitization/set_userebuildxrefandtrailer/
 Allows to generate new xref and trailer for document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSanitization::set_UseRebuildXrefAndTrailer(bool value)
+void Aspose::Pdf::Facades::PdfFileSanitization::set_UseRebuildXrefAndTrailer(bool value)
 ```
 
 ## See Also

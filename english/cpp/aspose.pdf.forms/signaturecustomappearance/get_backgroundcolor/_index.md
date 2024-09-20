@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_BackgroundColor method. Gets/sets background color. Default value: Transparent in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_backgroundcolor/
 ---
 ## SignatureCustomAppearance::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_backgroundcolor/
 Gets/sets background color. Default value: Transparent.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Forms::SignatureCustomAppearance::get_BackgroundColor() const
+System::SharedPtr<Color> Aspose::Pdf::Forms::SignatureCustomAppearance::get_BackgroundColor() const
 ```
 
 ## See Also

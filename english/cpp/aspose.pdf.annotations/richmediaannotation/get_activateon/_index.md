@@ -4,7 +4,7 @@ linktitle: get_ActivateOn
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RichMediaAnnotation::get_ActivateOn method. Event which activates application in C++.'
 type: docs
-weight: 900
+weight: 400
 url: /cpp/aspose.pdf.annotations/richmediaannotation/get_activateon/
 ---
 ## RichMediaAnnotation::get_ActivateOn method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/get_activateon/
 Event which activates application.
 
 ```cpp
-ASPOSE_PDF_SHARED_API RichMediaAnnotation::ActivationEvent Aspose::Pdf::Annotations::RichMediaAnnotation::get_ActivateOn()
+RichMediaAnnotation::ActivationEvent Aspose::Pdf::Annotations::RichMediaAnnotation::get_ActivateOn()
 ```
 
 ## See Also

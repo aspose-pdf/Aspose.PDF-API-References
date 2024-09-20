@@ -4,7 +4,7 @@ linktitle: get_Gray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BasicSetColorOperator::get_Gray method. Gets black component of gray color in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_gray/
 ---
 ## BasicSetColorOperator::get_Gray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_gray/
 Gets black component of gray color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::BasicSetColorOperator::get_Gray()
+double Aspose::Pdf::Operators::BasicSetColorOperator::get_Gray()
 ```
 
 ## See Also

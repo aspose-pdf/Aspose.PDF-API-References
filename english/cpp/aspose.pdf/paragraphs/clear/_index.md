@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::Clear method. Clear paragraphs in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf/paragraphs/clear/
 ---
 ## Paragraphs::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/clear/
 Clear paragraphs.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Paragraphs::Clear()
+void Aspose::Pdf::Paragraphs::Clear()
 ```
 
 ## See Also

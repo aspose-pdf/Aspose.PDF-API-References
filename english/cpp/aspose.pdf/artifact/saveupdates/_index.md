@@ -4,7 +4,7 @@ linktitle: SaveUpdates
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::SaveUpdates method. Saves all updates in artifact which were made after BeginUpdates() call in C++.'
 type: docs
-weight: 5000
+weight: 2700
 url: /cpp/aspose.pdf/artifact/saveupdates/
 ---
 ## Artifact::SaveUpdates method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/saveupdates/
 Saves all updates in artifact which were made after [BeginUpdates()](../beginupdates/) call.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Artifact::SaveUpdates()
+void Aspose::Pdf::Artifact::SaveUpdates()
 ```
 
 ## See Also

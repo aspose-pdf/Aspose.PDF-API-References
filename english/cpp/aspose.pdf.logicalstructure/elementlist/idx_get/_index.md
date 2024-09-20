@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/elementlist/idx_get/
 Gets an element at the given index.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::ElementList::idx_get(int32_t index)
+virtual System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::ElementList::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Element> Aspose::Pdf::LogicalStr
 ### ReturnValue
 
 The [T:/Aspose::Pdf::LogicalStructure::Element](../) with the specified index in the collection. If index is greater than or equal to the number of elements in the list, this returns null.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The index into the list of elements.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Element](../../element/)

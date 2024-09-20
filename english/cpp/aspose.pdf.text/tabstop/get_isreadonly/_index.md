@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabStop::get_IsReadOnly method. Gets value indicating that this TabStop instance is already attached to TextFragment and became readonly in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.pdf.text/tabstop/get_isreadonly/
 ---
 ## TabStop::get_IsReadOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstop/get_isreadonly/
 Gets value indicating that this [TabStop](../) instance is already attached to [TextFragment](../../textfragment/) and became readonly.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TabStop::get_IsReadOnly() const
+bool Aspose::Pdf::Text::TabStop::get_IsReadOnly() const
 ```
 
 ## See Also

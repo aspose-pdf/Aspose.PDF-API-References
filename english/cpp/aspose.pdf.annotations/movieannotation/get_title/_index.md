@@ -4,7 +4,7 @@ linktitle: get_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MovieAnnotation::get_Title method. Gets the title of the movie annotation in C++.'
 type: docs
-weight: 100
+weight: 800
 url: /cpp/aspose.pdf.annotations/movieannotation/get_title/
 ---
 ## MovieAnnotation::get_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/get_title/
 Gets the title of the movie annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::MovieAnnotation::get_Title() override
+System::String Aspose::Pdf::Annotations::MovieAnnotation::get_Title() override
 ```
 
 ## See Also

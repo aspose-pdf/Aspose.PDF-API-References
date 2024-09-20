@@ -4,7 +4,7 @@ linktitle: PosBottomMiddle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::PosBottomMiddle field. Bottom middle position in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
 ## PosBottomMiddle field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 Bottom middle position.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileStamp::PosBottomMiddle
+static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosBottomMiddle
 ```
 
 ## See Also

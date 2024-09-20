@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf/paragraphs/add/
 Add paragraph to collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Paragraphs::Add(System::SharedPtr<BaseParagraph> paragraph)
+void Aspose::Pdf::Paragraphs::Add(System::SharedPtr<BaseParagraph> paragraph)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | paragraph | System::SharedPtr\<BaseParagraph\> | The paragraph. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>paragraph</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The paragraph.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [BaseParagraph](../../baseparagraph/)

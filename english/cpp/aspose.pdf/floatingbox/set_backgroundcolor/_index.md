@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_backgroundcolor/
 Sets a [Aspose::Pdf::Color](../../color/) object that indicates the background color of the floating box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::FloatingBox::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::FloatingBox::set_BackgroundColor(System::SharedPtr<Color> value)
 ```
 
 ## See Also

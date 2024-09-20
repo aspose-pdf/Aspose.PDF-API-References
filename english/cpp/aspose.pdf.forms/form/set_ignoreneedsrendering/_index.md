@@ -4,7 +4,7 @@ linktitle: set_IgnoreNeedsRendering
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::set_IgnoreNeedsRendering method. If this property is true the value of NeedsRendering key will be ignored during conversion XFA form to Standard form. It is false by default in C++.'
 type: docs
-weight: 1200
+weight: 3300
 url: /cpp/aspose.pdf.forms/form/set_ignoreneedsrendering/
 ---
 ## Form::set_IgnoreNeedsRendering method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_ignoreneedsrendering/
 If this property is true the value of NeedsRendering key will be ignored during conversion [XFA](../../xfa/) form to Standard form. It is false by default.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Form::set_IgnoreNeedsRendering(bool value)
+void Aspose::Pdf::Forms::Form::set_IgnoreNeedsRendering(bool value)
 ```
 
 ## See Also

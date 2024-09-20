@@ -4,7 +4,7 @@ linktitle: set_InputStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::set_InputStream method. Sets input stream in C++.'
 type: docs
-weight: 800
+weight: 2800
 url: /cpp/aspose.pdf.facades/pdffilestamp/set_inputstream/
 ---
 ## PdfFileStamp::set_InputStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_inputstream/
 Sets input stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileStamp::set_InputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_InputStream(System::SharedPtr<System::IO::Stream> value)
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputStream) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000088">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputStream) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileStamp](../)

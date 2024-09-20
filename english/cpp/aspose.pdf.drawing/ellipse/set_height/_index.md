@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Ellipse::set_Height method. Sets a float value that indicates the height of the ellipse in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf.drawing/ellipse/set_height/
 ---
 ## Ellipse::set_Height method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/ellipse/set_height/
 Sets a float value that indicates the height of the ellipse.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Ellipse::set_Height(double value)
+void Aspose::Pdf::Drawing::Ellipse::set_Height(double value)
 ```
 
 ## See Also

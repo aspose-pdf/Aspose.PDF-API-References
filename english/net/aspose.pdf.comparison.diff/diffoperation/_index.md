@@ -3,7 +3,7 @@ title: Class DiffOperation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.Diff.DiffOperation class. Represents a class of diff operation
 type: docs
-weight: 1730
+weight: 1750
 url: /net/aspose.pdf.comparison.diff/diffoperation/
 ---
 ## DiffOperation class

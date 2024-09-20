@@ -3,7 +3,7 @@ title: Class BDCProperties
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.BDCProperties class. BDC operator properties
 type: docs
-weight: 2630
+weight: 2680
 url: /net/aspose.pdf.facades/bdcproperties/
 ---
 ## BDCProperties class

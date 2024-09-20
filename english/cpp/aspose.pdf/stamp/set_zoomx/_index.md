@@ -4,7 +4,7 @@ linktitle: set_ZoomX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::set_ZoomX method. Horizontal zooming factor of the stamp. Allows to scale stamp horizontally in C++.'
 type: docs
-weight: 2800
+weight: 4000
 url: /cpp/aspose.pdf/stamp/set_zoomx/
 ---
 ## Stamp::set_ZoomX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_zoomx/
 Horizontal zooming factor of the stamp. Allows to scale stamp horizontally.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_ZoomX(double value)
+void Aspose::Pdf::Stamp::set_ZoomX(double value)
 ```
 
 ## See Also

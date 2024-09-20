@@ -4,7 +4,7 @@ linktitle: get_PaleGoldenrod
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_PaleGoldenrod method. Gets a system-defined color that has an ARGB value of #FFEEE8AA in C++.'
 type: docs
-weight: 11300
+weight: 11600
 url: /cpp/aspose.pdf/color/get_palegoldenrod/
 ---
 ## Color::get_PaleGoldenrod method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_palegoldenrod/
 Gets a system-defined color that has an ARGB value of **#FFEEE8AA**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_PaleGoldenrod()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_PaleGoldenrod()
 ```
 
 

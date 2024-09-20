@@ -4,7 +4,7 @@ linktitle: set_UnFlattenFields
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields method. Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened in C++.'
 type: docs
-weight: 100
+weight: 2000
 url: /cpp/aspose.pdf.facades/autofiller/set_unflattenfields/
 ---
 ## AutoFiller::set_UnFlattenFields method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_unflattenfields/
 Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields(System::ArrayPtr<System::String> value)
+void Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields(System::ArrayPtr<System::String> value)
 ```
 
 ## See Also

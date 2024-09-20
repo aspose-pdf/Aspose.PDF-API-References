@@ -4,7 +4,7 @@ linktitle: getColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetCMYKColorStroke::getColor method. Returns the RGB color in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 ---
 ## SetCMYKColorStroke::getColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 Returns the RGB color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Operators::SetCMYKColorStroke::getColor() override
+System::Drawing::Color Aspose::Pdf::Operators::SetCMYKColorStroke::getColor() override
 ```
 
 

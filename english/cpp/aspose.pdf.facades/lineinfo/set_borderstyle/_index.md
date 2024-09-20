@@ -4,7 +4,7 @@ linktitle: set_BorderStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::LineInfo::set_BorderStyle method. Sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline in C++.'
 type: docs
-weight: 1200
+weight: 800
 url: /cpp/aspose.pdf.facades/lineinfo/set_borderstyle/
 ---
 ## LineInfo::set_BorderStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/set_borderstyle/
 Sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::LineInfo::set_BorderStyle(int32_t value)
+void Aspose::Pdf::Facades::LineInfo::set_BorderStyle(int32_t value)
 ```
 
 ## See Also

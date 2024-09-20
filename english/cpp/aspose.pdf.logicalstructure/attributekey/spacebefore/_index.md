@@ -4,7 +4,7 @@ linktitle: SpaceBefore
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::SpaceBefore field. SpaceBefore attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 1300
+weight: 3400
 url: /cpp/aspose.pdf.logicalstructure/attributekey/spacebefore/
 ---
 ## SpaceBefore field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/spacebefore/
 SpaceBefore attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::SpaceBefore
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::SpaceBefore
 ```
 
 ## See Also

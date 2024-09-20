@@ -2,39 +2,27 @@
 title: Aspose::Pdf::Text::CharInfoCollection::Add method
 linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Text::CharInfoCollection::Add method. Collection is read-only, throws 
+description: 'Aspose::Pdf::Text::CharInfoCollection::Add method. Collection is read-only, throws NotImplementedException
  in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf.text/charinfocollection/add/
 ---
 ## CharInfoCollection::Add method
 
 
-[Collection](../../../aspose.pdf/collection/) is read-only, throws 
+[Collection](../../../aspose.pdf/collection/) is read-only, throws NotImplementedException
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::CharInfoCollection::Add(const System::SharedPtr<CharInfo> &item) override
+void Aspose::Pdf::Text::CharInfoCollection::Add(const System::SharedPtr<CharInfo> &item) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | const System::SharedPtr\<CharInfo\>\& | Item to add. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Item to add.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CharInfo](../../charinfo/)

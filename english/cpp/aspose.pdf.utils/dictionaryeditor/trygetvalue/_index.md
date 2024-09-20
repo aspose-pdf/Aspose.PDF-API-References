@@ -4,7 +4,7 @@ linktitle: TryGetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::DictionaryEditor::TryGetValue method. For access to simple data type like string, name, bool, number. Returns null for other types in C++.'
 type: docs
-weight: 1100
+weight: 1600
 url: /cpp/aspose.pdf.utils/dictionaryeditor/trygetvalue/
 ---
 ## DictionaryEditor::TryGetValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils/dictionaryeditor/trygetvalue/
 For access to simple data type like string, name, bool, number. Returns null for other types.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Utils::DictionaryEditor::TryGetValue(const System::String &key, System::SharedPtr<PublicData::ICosPdfPrimitive> &value) const override
+bool Aspose::Pdf::Utils::DictionaryEditor::TryGetValue(const System::String &key, System::SharedPtr<PublicData::ICosPdfPrimitive> &value) const override
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Utils::DictionaryEditor::TryGetValue(con
 ### ReturnValue
 
 Returns true if [ICosPdfPrimitive](../) is like string, name, bool, number. Returns false for all other types.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key value</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>returns <ref refid="" kindref="compound">ICosPdfPrimitive</ref> for key or null.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)

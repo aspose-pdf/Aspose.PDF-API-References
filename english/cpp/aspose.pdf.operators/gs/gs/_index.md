@@ -4,7 +4,7 @@ linktitle: GS
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::GS::GS constructor. Initializes gs operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/gs/gs/
 ---
 ## GS::GS constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.operators/gs/gs/
 Initializes gs operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::GS::GS(System::String name)
+Aspose::Pdf::Operators::GS::GS(System::String name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | Name of graphic state. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of graphic state.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GS](../)

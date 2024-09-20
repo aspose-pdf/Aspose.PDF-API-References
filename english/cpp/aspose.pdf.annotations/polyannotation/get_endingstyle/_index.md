@@ -4,7 +4,7 @@ linktitle: get_EndingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PolyAnnotation::get_EndingStyle method. Gets the style of second line ending in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pdf.annotations/polyannotation/get_endingstyle/
 ---
 ## PolyAnnotation::get_EndingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/get_endingstyle/
 Gets the style of second line ending.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineEnding Aspose::Pdf::Annotations::PolyAnnotation::get_EndingStyle()
+LineEnding Aspose::Pdf::Annotations::PolyAnnotation::get_EndingStyle()
 ```
 
 ## See Also

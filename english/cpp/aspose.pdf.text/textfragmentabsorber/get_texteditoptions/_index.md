@@ -4,7 +4,7 @@ linktitle: get_TextEditOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentAbsorber::get_TextEditOptions method. Gets text edit options. The options define special behavior when requested symbol cannot be written with font in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.text/textfragmentabsorber/get_texteditoptions/
 ---
 ## TextFragmentAbsorber::get_TextEditOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_texteditoptions/
 Gets text edit options. The options define special behavior when requested symbol cannot be written with font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> Aspose::Pdf::Text::TextFragmentAbsorber::get_TextEditOptions() const
+System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> Aspose::Pdf::Text::TextFragmentAbsorber::get_TextEditOptions() const
 ```
 
 ## See Also

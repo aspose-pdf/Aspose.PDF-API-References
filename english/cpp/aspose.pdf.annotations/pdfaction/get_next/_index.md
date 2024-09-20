@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdfaction/get_next/
 Next actions in sequence.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<ActionCollection> Aspose::Pdf::Annotations::PdfAction::get_Next()
+System::SharedPtr<ActionCollection> Aspose::Pdf::Annotations::PdfAction::get_Next()
 ```
 
 ## See Also

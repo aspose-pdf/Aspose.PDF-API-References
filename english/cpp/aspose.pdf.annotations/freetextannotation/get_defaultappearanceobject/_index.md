@@ -4,7 +4,7 @@ linktitle: get_DefaultAppearanceObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearanceObject method. Object which represents default appearance of FreeText annotation in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_defaultappearanceobject/
 ---
 ## FreeTextAnnotation::get_DefaultAppearanceObject method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_defaultappearanceobject/
 Object which represents default appearance of FreeText annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearanceObject()
+System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearanceObject()
 ```
 
 ## See Also

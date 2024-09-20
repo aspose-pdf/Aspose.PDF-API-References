@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/defaultnodesnuminsubtrees/
 
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API uint8_t Aspose::Pdf::Document::DefaultNodesNumInSubtrees
+static const uint8_t Aspose::Pdf::Document::DefaultNodesNumInSubtrees
 ```
 
 ## See Also

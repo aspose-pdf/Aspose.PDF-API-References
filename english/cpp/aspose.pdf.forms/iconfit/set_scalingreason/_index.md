@@ -4,7 +4,7 @@ linktitle: set_ScalingReason
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::IconFit::set_ScalingReason method. Sets scaling reason in C++.'
 type: docs
-weight: 200
+weight: 900
 url: /cpp/aspose.pdf.forms/iconfit/set_scalingreason/
 ---
 ## IconFit::set_ScalingReason method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/set_scalingreason/
 Sets scaling reason.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::IconFit::set_ScalingReason(Aspose::Pdf::Forms::ScalingReason value)
+void Aspose::Pdf::Forms::IconFit::set_ScalingReason(Aspose::Pdf::Forms::ScalingReason value)
 ```
 
 ## See Also

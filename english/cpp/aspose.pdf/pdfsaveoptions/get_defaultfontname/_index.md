@@ -4,7 +4,7 @@ linktitle: get_DefaultFontName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfSaveOptions::get_DefaultFontName method. Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with DefaultFontName is found on device) in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf/pdfsaveoptions/get_defaultfontname/
 ---
 ## PdfSaveOptions::get_DefaultFontName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfsaveoptions/get_defaultfontname/
 Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with [DefaultFontName](../) is found on device)
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::PdfSaveOptions::get_DefaultFontName() const
+System::String Aspose::Pdf::PdfSaveOptions::get_DefaultFontName() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: OUTBOX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::OUTBOX field. Outward Box in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
 ## OUTBOX field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/outbox/
 Outward Box.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::OUTBOX
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::OUTBOX
 ```
 
 ## See Also

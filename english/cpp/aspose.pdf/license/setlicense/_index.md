@@ -7,13 +7,38 @@ type: docs
 weight: 400
 url: /cpp/aspose.pdf/license/setlicense/
 ---
+## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
+
+
+Licenses the component.
+
+```cpp
+void Aspose::Pdf::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
+## Remarks
+
+
+
+Use this method to load a license from a stream.
+
+[Java] void setLicense(java.io.InputStream stream) 
+## See Also
+
+* Class [License](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## License::SetLicense(System::String) method
 
 
 Licenses the component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::License::SetLicense(System::String licenseName)
+void Aspose::Pdf::License::SetLicense(System::String licenseName)
 ```
 
 
@@ -47,51 +72,6 @@ Tries to find the license in the following locations:
 
 3. The folder that contains the client's calling JAR file.
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>licenseName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Can be a full or short file name or name of an embedded resource. Use an empty string to switch to evaluation mode.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [License](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
-
-
-Licenses the component.
-
-```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>stream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>A stream that contains the license.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-
-Use this method to load a license from a stream.
-
-[Java] void setLicense(java.io.InputStream stream) 
 ## See Also
 
 * Class [License](../)

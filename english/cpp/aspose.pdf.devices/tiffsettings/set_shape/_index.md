@@ -4,7 +4,7 @@ linktitle: set_Shape
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::set_Shape method. Sets the type of the shape in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/aspose.pdf.devices/tiffsettings/set_shape/
 ---
 ## TiffSettings::set_Shape method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/set_shape/
 Sets the type of the shape.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffSettings::set_Shape(ShapeType value)
+void Aspose::Pdf::Devices::TiffSettings::set_Shape(ShapeType value)
 ```
 
 ## Remarks

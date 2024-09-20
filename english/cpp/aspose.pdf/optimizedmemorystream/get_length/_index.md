@@ -4,7 +4,7 @@ linktitle: get_Length
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::get_Length method. When overridden in a derived class, gets the length in bytes of the stream in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf/optimizedmemorystream/get_length/
 ---
 ## OptimizedMemoryStream::get_Length method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/get_length/
 When overridden in a derived class, gets the length in bytes of the stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int64_t Aspose::Pdf::OptimizedMemoryStream::get_Length() const override
+int64_t Aspose::Pdf::OptimizedMemoryStream::get_Length() const override
 ```
 
 

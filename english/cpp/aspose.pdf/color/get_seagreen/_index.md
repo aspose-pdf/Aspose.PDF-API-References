@@ -4,7 +4,7 @@ linktitle: get_SeaGreen
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_SeaGreen method. Gets a system-defined color that has an ARGB value of #FF2E8B57 in C++.'
 type: docs
-weight: 13000
+weight: 13300
 url: /cpp/aspose.pdf/color/get_seagreen/
 ---
 ## Color::get_SeaGreen method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_seagreen/
 Gets a system-defined color that has an ARGB value of **#FF2E8B57**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_SeaGreen()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_SeaGreen()
 ```
 
 

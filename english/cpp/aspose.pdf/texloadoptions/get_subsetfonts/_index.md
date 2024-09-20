@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/get_subsetfonts/
 Gets/sets the flag indicating whether to subset fonts in output file or not.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::TeXLoadOptions::get_SubsetFonts()
+bool Aspose::Pdf::TeXLoadOptions::get_SubsetFonts()
 ```
 
 ## See Also

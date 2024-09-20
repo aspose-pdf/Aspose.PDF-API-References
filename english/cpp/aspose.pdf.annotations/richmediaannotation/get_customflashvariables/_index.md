@@ -4,7 +4,7 @@ linktitle: get_CustomFlashVariables
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomFlashVariables method. Sets or gets flash variables which passed to player in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.pdf.annotations/richmediaannotation/get_customflashvariables/
 ---
 ## RichMediaAnnotation::get_CustomFlashVariables method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/get_customflashvariables/
 Sets or gets flash variables which passed to player.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomFlashVariables() const
+System::String Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomFlashVariables() const
 ```
 
 ## See Also

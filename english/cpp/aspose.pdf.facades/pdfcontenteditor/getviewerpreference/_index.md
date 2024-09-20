@@ -4,7 +4,7 @@ linktitle: GetViewerPreference
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::GetViewerPreference method. Returns the view preference in C++.'
 type: docs
-weight: 3500
+weight: 3900
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
 ## PdfContentEditor::GetViewerPreference method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 Returns the view preference.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfContentEditor::GetViewerPreference()
+int32_t Aspose::Pdf::Facades::PdfContentEditor::GetViewerPreference()
 ```
 
 

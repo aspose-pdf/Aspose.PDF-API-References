@@ -4,7 +4,7 @@ linktitle: NonFullScreenPageModeUseThumbs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseThumbs field. Thumbnail images visible in C++.'
 type: docs
-weight: 2000
+weight: 1400
 url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
 ## NonFullScreenPageModeUseThumbs field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 Thumbnail images visible.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseThumbs
+static int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseThumbs
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: CloneWithSegments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::CloneWithSegments method. Clone the fragment with all segments in C++.'
 type: docs
-weight: 2800
+weight: 300
 url: /cpp/aspose.pdf.text/textfragment/clonewithsegments/
 ---
 ## TextFragment::CloneWithSegments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/clonewithsegments/
 Clone the fragment with all segments.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Text::TextFragment::CloneWithSegments()
+virtual System::SharedPtr<System::Object> Aspose::Pdf::Text::TextFragment::CloneWithSegments()
 ```
 
 

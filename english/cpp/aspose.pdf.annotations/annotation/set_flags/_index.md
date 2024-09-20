@@ -4,7 +4,7 @@ linktitle: set_Flags
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::set_Flags method. Flags of the annotation in C++.'
 type: docs
-weight: 600
+weight: 3400
 url: /cpp/aspose.pdf.annotations/annotation/set_flags/
 ---
 ## Annotation::set_Flags method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_flags/
 Flags of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Annotation::set_Flags(AnnotationFlags value)
+void Aspose::Pdf::Annotations::Annotation::set_Flags(AnnotationFlags value)
 ```
 
 ## See Also

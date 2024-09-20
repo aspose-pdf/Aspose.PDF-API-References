@@ -4,7 +4,7 @@ linktitle: set_EffectIntensity
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::set_EffectIntensity method. Sets effect intencity. Valid range of value is [0..2] in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.annotations/border/set_effectintensity/
 ---
 ## Border::set_EffectIntensity method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_effectintensity/
 Sets effect intencity. Valid range of value is [0..2].
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Border::set_EffectIntensity(int32_t value)
+void Aspose::Pdf::Annotations::Border::set_EffectIntensity(int32_t value)
 ```
 
 ## See Also

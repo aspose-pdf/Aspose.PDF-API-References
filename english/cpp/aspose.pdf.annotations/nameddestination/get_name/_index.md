@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::NamedDestination::get_Name method. Gets the name of named destination in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/nameddestination/get_name/
 ---
 ## NamedDestination::get_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/nameddestination/get_name/
 Gets the name of named destination.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::NamedDestination::get_Name()
+System::String Aspose::Pdf::Annotations::NamedDestination::get_Name()
 ```
 
 ## See Also

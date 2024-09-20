@@ -4,7 +4,7 @@ linktitle: DirectionL2R
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::DirectionL2R field. Text reading order left to right in C++.'
 type: docs
-weight: 2100
+weight: 200
 url: /cpp/aspose.pdf.facades/viewerpreference/directionl2r/
 ---
 ## DirectionL2R field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/directionl2r/
 [Text](../../../aspose.pdf.text/) reading order left to right.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::DirectionL2R
+static int32_t Aspose::Pdf::Facades::ViewerPreference::DirectionL2R
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Shapes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Path::get_Shapes method. Gets shapes collection in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.drawing/path/get_shapes/
 ---
 ## Path::get_Shapes method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/path/get_shapes/
 Gets shapes collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Shape>>> Aspose::Pdf::Drawing::Path::get_Shapes() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Shape>>> Aspose::Pdf::Drawing::Path::get_Shapes() const
 ```
 
 ## See Also

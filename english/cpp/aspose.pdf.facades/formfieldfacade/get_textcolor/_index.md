@@ -4,7 +4,7 @@ linktitle: get_TextColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::get_TextColor method. The color of the field text in C++.'
 type: docs
-weight: 1300
+weight: 1800
 url: /cpp/aspose.pdf.facades/formfieldfacade/get_textcolor/
 ---
 ## FormFieldFacade::get_TextColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/get_textcolor/
 The color of the field text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Facades::FormFieldFacade::get_TextColor() const
+System::Drawing::Color Aspose::Pdf::Facades::FormFieldFacade::get_TextColor() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: DGLITTER
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::DGLITTER field. Diagonal Glitter in C++.'
 type: docs
-weight: 4400
+weight: 3200
 url: /cpp/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
 ## DGLITTER field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/dglitter/
 Diagonal Glitter.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::DGLITTER
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::DGLITTER
 ```
 
 ## See Also

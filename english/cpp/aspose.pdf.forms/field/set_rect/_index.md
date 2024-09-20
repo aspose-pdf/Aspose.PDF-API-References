@@ -4,7 +4,7 @@ linktitle: set_Rect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::set_Rect method. Sets the field rectangle in C++.'
 type: docs
-weight: 1700
+weight: 2600
 url: /cpp/aspose.pdf.forms/field/set_rect/
 ---
 ## Field::set_Rect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/set_rect/
 Sets the field rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Field::set_Rect(System::SharedPtr<Rectangle> value) override
+void Aspose::Pdf::Forms::Field::set_Rect(System::SharedPtr<Rectangle> value) override
 ```
 
 ## See Also

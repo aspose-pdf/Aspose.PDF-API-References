@@ -4,7 +4,7 @@ linktitle: get_ImageEncoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::get_ImageEncoding method. Image encodre which will be used in C++.'
 type: docs
-weight: 2600
+weight: 600
 url: /cpp/aspose.pdf.optimization/optimizationoptions/get_imageencoding/
 ---
 ## OptimizationOptions::get_ImageEncoding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/get_imageencoding/
 [Image](../../../aspose.pdf/image/) encodre which will be used.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Optimization::ImageEncoding Aspose::Pdf::Optimization::OptimizationOptions::get_ImageEncoding() const
+Aspose::Pdf::Optimization::ImageEncoding Aspose::Pdf::Optimization::OptimizationOptions::get_ImageEncoding() const
 ```
 
 ## See Also

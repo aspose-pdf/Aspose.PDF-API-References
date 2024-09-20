@@ -4,7 +4,7 @@ linktitle: set_AllowedChars
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::NumberField::set_AllowedChars method. Sets the allowed chars in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.forms/numberfield/set_allowedchars/
 ---
 ## NumberField::set_AllowedChars method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/numberfield/set_allowedchars/
 Sets the allowed chars.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::NumberField::set_AllowedChars(System::String value)
+void Aspose::Pdf::Forms::NumberField::set_AllowedChars(System::String value)
 ```
 
 ## Remarks

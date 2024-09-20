@@ -4,7 +4,7 @@ linktitle: get_Ending
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_Ending method. Gets line ending point in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.annotations/lineannotation/get_ending/
 ---
 ## LineAnnotation::get_Ending method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_ending/
 Gets line ending point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_Ending()
+System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_Ending()
 ```
 
 ## See Also

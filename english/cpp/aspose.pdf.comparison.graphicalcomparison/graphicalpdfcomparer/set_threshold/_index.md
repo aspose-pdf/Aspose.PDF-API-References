@@ -4,7 +4,7 @@ linktitle: set_Threshold
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::set_Threshold method. Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0% in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/set_threshold/
 ---
 ## GraphicalPdfComparer::set_Threshold method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/set_thr
 Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0%.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::set_Threshold(double value)
+void Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::set_Threshold(double value)
 ```
 
 ## See Also

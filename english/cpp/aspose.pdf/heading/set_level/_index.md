@@ -4,7 +4,7 @@ linktitle: set_Level
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::set_Level method. Gets the level in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.pdf/heading/set_level/
 ---
 ## Heading::set_Level method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_level/
 Gets the level.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Heading::set_Level(int32_t value)
+void Aspose::Pdf::Heading::set_Level(int32_t value)
 ```
 
 ## See Also

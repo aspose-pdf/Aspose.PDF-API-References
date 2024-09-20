@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/epubloadoptions/set_customcss/
 Sets the custom Css to apply when opening the Epub document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::EpubLoadOptions::set_CustomCss(System::String value)
+void Aspose::Pdf::EpubLoadOptions::set_CustomCss(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::GetEnumerator method. Gets enumeration of form fields in C++.'
 type: docs
-weight: 2600
+weight: 2200
 url: /cpp/aspose.pdf.forms/form/getenumerator/
 ---
 ## Form::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/getenumerator/
 Gets enumeration of form fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>> Aspose::Pdf::Forms::Form::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>> Aspose::Pdf::Forms::Form::GetEnumerator() override
 ```
 
 

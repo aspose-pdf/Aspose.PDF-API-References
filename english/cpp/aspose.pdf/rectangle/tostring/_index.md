@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/tostring/
 Gets rectangle string representation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Rectangle::ToString() const override
+System::String Aspose::Pdf::Rectangle::ToString() const override
 ```
 
 

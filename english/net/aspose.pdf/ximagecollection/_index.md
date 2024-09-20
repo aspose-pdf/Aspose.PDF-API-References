@@ -3,7 +3,7 @@ title: Class XImageCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XImageCollection class. Class representing XImage collection
 type: docs
-weight: 8470
+weight: 8530
 url: /net/aspose.pdf/ximagecollection/
 ---
 ## XImageCollection class
@@ -29,10 +29,12 @@ public sealed class XImageCollection : ICollection<XImage>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/ximagecollection/add/#add_1)(Stream) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
-| [Add](../../aspose.pdf/ximagecollection/add/#add)(XImage) | Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size) |
-| [Add](../../aspose.pdf/ximagecollection/add/#add_2)(Stream, ImageFilterType) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
-| [Add](../../aspose.pdf/ximagecollection/add/#add_3)(Stream, int) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add)(BitmapInfo) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_3)(Stream) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_2)(XImage) | Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size) |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_1)(BitmapInfo, ImageFilterType) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_4)(Stream, ImageFilterType) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_5)(Stream, int) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
 | [Clear](../../aspose.pdf/ximagecollection/clear/)() | Clears all items from the collection. |
 | [Contains](../../aspose.pdf/ximagecollection/contains/)(XImage) | Determines whether the collection contains a specific value. |
 | [CopyTo](../../aspose.pdf/ximagecollection/copyto/)(XImage[], int) | Copies array of images into collection. |

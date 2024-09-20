@@ -4,7 +4,7 @@ linktitle: set_Join
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use set_Join method of Aspose::Pdf::Operators::SetLineJoin class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/setlinejoin/set_join/
 ---
 ## SetLineJoin::set_Join method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setlinejoin/set_join/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetLineJoin::set_Join(LineJoin value)
+void Aspose::Pdf::Operators::SetLineJoin::set_Join(LineJoin value)
 ```
 
 ## See Also

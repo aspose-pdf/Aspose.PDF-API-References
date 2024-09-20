@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::Insert method. Insert paragraph to collection in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/aspose.pdf/paragraphs/insert/
 ---
 ## Paragraphs::Insert method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/insert/
 Insert paragraph to collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Paragraphs::Insert(int32_t index, System::SharedPtr<BaseParagraph> paragraph)
+void Aspose::Pdf::Paragraphs::Insert(int32_t index, System::SharedPtr<BaseParagraph> paragraph)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Paragraphs::Insert(int32_t index, System
 | --- | --- | --- |
 | index | int32_t | The index for paragraph. |
 | paragraph | System::SharedPtr\<BaseParagraph\> | The paragraph. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The index for paragraph.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>paragraph</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The paragraph.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [BaseParagraph](../../baseparagraph/)

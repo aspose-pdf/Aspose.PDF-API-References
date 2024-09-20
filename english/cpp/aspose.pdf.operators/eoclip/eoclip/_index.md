@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/eoclip/eoclip/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EOClip::EOClip()
+Aspose::Pdf::Operators::EOClip::EOClip()
 ```
 
 ## See Also

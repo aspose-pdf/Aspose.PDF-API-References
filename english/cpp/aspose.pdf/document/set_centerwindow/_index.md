@@ -4,7 +4,7 @@ linktitle: set_CenterWindow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_CenterWindow method. Sets flag specifying whether position of the document''s window will be centerd on the screen in C++.'
 type: docs
-weight: 3300
+weight: 8500
 url: /cpp/aspose.pdf/document/set_centerwindow/
 ---
 ## Document::set_CenterWindow method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_centerwindow/
 Sets flag specifying whether position of the document's window will be centerd on the screen.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_CenterWindow(bool value)
+void Aspose::Pdf::Document::set_CenterWindow(bool value)
 ```
 
 ## See Also

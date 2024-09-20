@@ -4,7 +4,7 @@ linktitle: set_ShowContactInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_ShowContactInfo method. Gets/sets contact info visibility. Default value: true in C++.'
 type: docs
-weight: 1000
+weight: 3400
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_showcontactinfo/
 ---
 ## SignatureCustomAppearance::set_ShowContactInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_showcontactinfo/
 Gets/sets contact info visibility. Default value: true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ShowContactInfo(bool value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ShowContactInfo(bool value)
 ```
 
 ## See Also

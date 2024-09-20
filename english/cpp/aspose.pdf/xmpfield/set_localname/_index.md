@@ -4,7 +4,7 @@ linktitle: set_LocalName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::set_LocalName method. Sets the name of the local in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/aspose.pdf/xmpfield/set_localname/
 ---
 ## XmpField::set_LocalName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/set_localname/
 Sets the name of the local.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XmpField::set_LocalName(System::String value)
+void Aspose::Pdf::XmpField::set_LocalName(System::String value)
 ```
 
 ## Remarks

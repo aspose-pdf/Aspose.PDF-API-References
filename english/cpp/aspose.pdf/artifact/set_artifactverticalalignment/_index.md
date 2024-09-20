@@ -4,7 +4,7 @@ linktitle: set_ArtifactVerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::set_ArtifactVerticalAlignment method. Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored in C++.'
 type: docs
-weight: 2500
+weight: 2900
 url: /cpp/aspose.pdf/artifact/set_artifactverticalalignment/
 ---
 ## Artifact::set_ArtifactVerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_artifactverticalalignment/
 Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Artifact::set_ArtifactVerticalAlignment(VerticalAlignment value)
+void Aspose::Pdf::Artifact::set_ArtifactVerticalAlignment(VerticalAlignment value)
 ```
 
 ## See Also

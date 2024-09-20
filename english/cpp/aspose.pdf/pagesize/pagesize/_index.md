@@ -4,7 +4,7 @@ linktitle: PageSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageSize::PageSize constructor. Constructor for PageSize in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf/pagesize/pagesize/
 ---
 ## PageSize::PageSize constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/pagesize/
 Constructor for [PageSize](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PageSize::PageSize(float x, float y)
+Aspose::Pdf::PageSize::PageSize(float x, float y)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::PageSize::PageSize(float x, float y)
 | --- | --- | --- |
 | x | float | Width of the page. |
 | y | float | Height of the page. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>x</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Width of the page.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>y</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Height of the page.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PageSize](../)

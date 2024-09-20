@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElementCollection::Clear method. Clears the collection in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.vector/graphicelementcollection/clear/
 ---
 ## GraphicElementCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/clear/
 Clears the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Vector::GraphicElementCollection::Clear() override
+void Aspose::Pdf::Vector::GraphicElementCollection::Clear() override
 ```
 
 ## See Also

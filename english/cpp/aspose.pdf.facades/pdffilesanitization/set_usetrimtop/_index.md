@@ -4,7 +4,7 @@ linktitle: set_UseTrimTop
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSanitization::set_UseTrimTop method. Allows to remove data before pdf data in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/aspose.pdf.facades/pdffilesanitization/set_usetrimtop/
 ---
 ## PdfFileSanitization::set_UseTrimTop method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesanitization/set_usetrimtop/
 Allows to remove data before pdf data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSanitization::set_UseTrimTop(bool value)
+void Aspose::Pdf::Facades::PdfFileSanitization::set_UseTrimTop(bool value)
 ```
 
 ## See Also

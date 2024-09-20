@@ -4,7 +4,7 @@ linktitle: set_SubsetFonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_SubsetFonts method. Fonts will be converted into subsets if set to true in C++.'
 type: docs
-weight: 2300
+weight: 2700
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_subsetfonts/
 ---
 ## OptimizationOptions::set_SubsetFonts method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/set_subsetfonts/
 Fonts will be converted into subsets if set to true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::OptimizationOptions::set_SubsetFonts(bool value)
+void Aspose::Pdf::Optimization::OptimizationOptions::set_SubsetFonts(bool value)
 ```
 
 ## See Also

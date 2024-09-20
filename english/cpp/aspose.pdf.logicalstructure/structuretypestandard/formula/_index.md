@@ -4,7 +4,7 @@ linktitle: Formula
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Formula field of Aspose::Pdf::LogicalStructure::StructureTypeStandard class in C++.'
 type: docs
-weight: 5200
+weight: 1500
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
 ## Formula field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/formula/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Formula
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Formula
 ```
 
 ## Remarks

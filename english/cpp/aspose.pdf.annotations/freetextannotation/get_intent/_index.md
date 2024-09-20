@@ -4,7 +4,7 @@ linktitle: get_Intent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_Intent method. Gets the intent of the free text annotation in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_intent/
 ---
 ## FreeTextAnnotation::get_Intent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_intent/
 Gets the intent of the free text annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API FreeTextIntent Aspose::Pdf::Annotations::FreeTextAnnotation::get_Intent()
+FreeTextIntent Aspose::Pdf::Annotations::FreeTextAnnotation::get_Intent()
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Class Option
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.Option class. Class represents option of choice field
 type: docs
-weight: 3560
+weight: 3610
 url: /net/aspose.pdf.forms/option/
 ---
 ## Option class

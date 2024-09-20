@@ -4,7 +4,7 @@ linktitle: RebuildXrefAndTrailer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSanitization::RebuildXrefAndTrailer method. Removes old xref with trailer and creates a new xref with trailer in C++.'
 type: docs
-weight: 1400
+weight: 800
 url: /cpp/aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/
 ---
 ## PdfFileSanitization::RebuildXrefAndTrailer method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/
 Removes old xref with trailer and creates a new xref with trailer.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSanitization::RebuildXrefAndTrailer()
+void Aspose::Pdf::Facades::PdfFileSanitization::RebuildXrefAndTrailer()
 ```
 
 ## See Also

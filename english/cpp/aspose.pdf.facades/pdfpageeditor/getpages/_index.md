@@ -4,7 +4,7 @@ linktitle: GetPages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::GetPages method. Returns total number of pages in C++.'
 type: docs
-weight: 2300
+weight: 1500
 url: /cpp/aspose.pdf.facades/pdfpageeditor/getpages/
 ---
 ## PdfPageEditor::GetPages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/getpages/
 Returns total number of pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPages()
+int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPages()
 ```
 
 

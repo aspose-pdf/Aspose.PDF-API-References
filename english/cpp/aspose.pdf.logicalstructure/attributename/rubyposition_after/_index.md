@@ -4,7 +4,7 @@ linktitle: RubyPosition_After
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_After field. Attribute RubyPosition: After - The RT content shall be aligned along the after edge of the element in C++.'
 type: docs
-weight: 4800
+weight: 5200
 url: /cpp/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
 ## RubyPosition_After field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 Attribute RubyPosition: After - The RT content shall be aligned along the after edge of the element.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_After
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_After
 ```
 
 ## See Also

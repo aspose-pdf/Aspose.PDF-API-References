@@ -4,7 +4,7 @@ linktitle: get_Icon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundAnnotation::get_Icon method. Gets an icon to be used in displaying the annotation in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.annotations/soundannotation/get_icon/
 ---
 ## SoundAnnotation::get_Icon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundannotation/get_icon/
 Gets an icon to be used in displaying the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API SoundIcon Aspose::Pdf::Annotations::SoundAnnotation::get_Icon()
+SoundIcon Aspose::Pdf::Annotations::SoundAnnotation::get_Icon()
 ```
 
 ## See Also

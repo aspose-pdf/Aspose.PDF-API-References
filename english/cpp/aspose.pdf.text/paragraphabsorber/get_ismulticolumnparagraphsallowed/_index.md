@@ -4,7 +4,7 @@ linktitle: get_IsMulticolumnParagraphsAllowed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorber::get_IsMulticolumnParagraphsAllowed method. Gets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.text/paragraphabsorber/get_ismulticolumnparagraphsallowed/
 ---
 ## ParagraphAbsorber::get_IsMulticolumnParagraphsAllowed method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/get_ismulticolumnparagraphsallowed/
 Gets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::ParagraphAbsorber::get_IsMulticolumnParagraphsAllowed() const
+bool Aspose::Pdf::Text::ParagraphAbsorber::get_IsMulticolumnParagraphsAllowed() const
 ```
 
 ## See Also

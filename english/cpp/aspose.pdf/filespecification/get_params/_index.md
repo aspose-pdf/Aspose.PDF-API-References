@@ -4,7 +4,7 @@ linktitle: get_Params
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::get_Params method. Gets file paramteres in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.pdf/filespecification/get_params/
 ---
 ## FileSpecification::get_Params method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/get_params/
 Gets file paramteres.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileParams> Aspose::Pdf::FileSpecification::get_Params()
+System::SharedPtr<FileParams> Aspose::Pdf::FileSpecification::get_Params()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_NonFullScreenPageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_NonFullScreenPageMode method. Sets page mode, specifying how to display the document on exiting full-screen mode in C++.'
 type: docs
-weight: 4600
+weight: 10200
 url: /cpp/aspose.pdf/document/set_nonfullscreenpagemode/
 ---
 ## Document::set_NonFullScreenPageMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_nonfullscreenpagemode/
 Sets page mode, specifying how to display the document on exiting full-screen mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_NonFullScreenPageMode(Aspose::Pdf::PageMode value)
+void Aspose::Pdf::Document::set_NonFullScreenPageMode(Aspose::Pdf::PageMode value)
 ```
 
 ## See Also

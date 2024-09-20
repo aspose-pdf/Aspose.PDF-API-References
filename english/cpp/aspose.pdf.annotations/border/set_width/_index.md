@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::set_Width method. Sets border width in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/aspose.pdf.annotations/border/set_width/
 ---
 ## Border::set_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_width/
 Sets border width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Border::set_Width(int32_t value)
+void Aspose::Pdf::Annotations::Border::set_Width(int32_t value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_CompressImages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::ImageCompressionOptions::set_CompressImages method. If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.pdf.optimization/imagecompressionoptions/set_compressimages/
 ---
 ## ImageCompressionOptions::set_CompressImages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/imagecompressionoptions/set_compressimages/
 If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::ImageCompressionOptions::set_CompressImages(bool value)
+void Aspose::Pdf::Optimization::ImageCompressionOptions::set_CompressImages(bool value)
 ```
 
 ## See Also

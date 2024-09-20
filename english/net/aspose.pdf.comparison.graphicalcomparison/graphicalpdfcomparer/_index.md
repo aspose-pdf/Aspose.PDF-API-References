@@ -1,0 +1,47 @@
+---
+title: Class GraphicalPdfComparer
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Comparison.GraphicalComparison.GraphicalPdfComparer class. Represents a class for graphically comparing PDF documents. Should be used to search for small changes mainly of a graphical nature. To compare text content changes use other PDF comparison classes
+type: docs
+weight: 1790
+url: /net/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/
+---
+## GraphicalPdfComparer class
+
+Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mainly of a graphical nature. To compare text content changes, use other PDF comparison classes.
+
+```csharp
+public class GraphicalPdfComparer
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [GraphicalPdfComparer](graphicalpdfcomparer/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Color](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/color/) { get; set; } | Gets and sets the change flag color. The default color is red. |
+| [Resolution](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/resolution/) { get; set; } | Gets and sets the resolution of the resulting images. The default value is 150dpi. |
+| [Threshold](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/threshold/) { get; set; } | Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0%. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [CompareDocumentsToImages](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/comparedocumentstoimages/)(Document, Document, string, string, ImageFormat) | Compares documents graphically. The comparison result is placed in images. |
+| [CompareDocumentsToPdf](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/comparedocumentstopdf/)(Document, Document, string) | Compares documents graphically. The comparison result is placed in a PDF document. |
+| [ComparePagesToImage](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/comparepagestoimage/)(Page, Page, string) | Compares pages graphically. The comparison result is placed in a image. |
+| [ComparePagesToPdf](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf)(Page, Page, Document) | Compares pages graphically. The comparison result is placed in a PDF document. |
+| [ComparePagesToPdf](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf_1)(Page, Page, string) | Compares pages graphically. The comparison result is placed in a PDF document. |
+| [GetDifference](../../aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/getdifference/)(Page, Page) | Gets differences between pages images. The result contains an image of the first page compared and an array of differences. |
+
+### See Also
+
+* namespace [Aspose.Pdf.Comparison.GraphicalComparison](../../aspose.pdf.comparison.graphicalcomparison/)
+* assembly [Aspose.PDF](../../)
+
+

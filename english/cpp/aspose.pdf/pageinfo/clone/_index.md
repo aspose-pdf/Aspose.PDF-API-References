@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::Clone method. Clone page info in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/aspose.pdf/pageinfo/clone/
 ---
 ## PageInfo::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/clone/
 Clone page info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::PageInfo::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::PageInfo::Clone() override
 ```
 
 

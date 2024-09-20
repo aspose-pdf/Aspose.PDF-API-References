@@ -4,7 +4,7 @@ linktitle: get_OriginalFontName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SimpleFontSubstitution::get_OriginalFontName method. Gets original font name that should be substituted with SubstitutionFontName in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.text/simplefontsubstitution/get_originalfontname/
 ---
 ## SimpleFontSubstitution::get_OriginalFontName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/simplefontsubstitution/get_originalfontname/
 Gets original font name that should be substituted with [SubstitutionFontName](../)
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::SimpleFontSubstitution::get_OriginalFontName() const
+System::String Aspose::Pdf::Text::SimpleFontSubstitution::get_OriginalFontName() const
 ```
 
 ## See Also

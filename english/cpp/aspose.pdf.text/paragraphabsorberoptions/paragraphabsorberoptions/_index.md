@@ -4,7 +4,7 @@ linktitle: ParagraphAbsorberOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorberOptions::ParagraphAbsorberOptions constructor. Initializes a new instance of the ParagraphAbsorberOptions object in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 ---
 ## ParagraphAbsorberOptions::ParagraphAbsorberOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/
 Initializes a new instance of the [ParagraphAbsorberOptions](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorberOptions::ParagraphAbsorberOptions()
+Aspose::Pdf::Text::ParagraphAbsorberOptions::ParagraphAbsorberOptions()
 ```
 
 ## See Also

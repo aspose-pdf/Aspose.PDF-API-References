@@ -4,7 +4,7 @@ linktitle: set_FormPresentationMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::set_FormPresentationMode method. Sets form presentation mode in C++.'
 type: docs
-weight: 800
+weight: 2100
 url: /cpp/aspose.pdf.facades/pdfconverter/set_formpresentationmode/
 ---
 ## PdfConverter::set_FormPresentationMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_formpresentationmode/
 Sets form presentation mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfConverter::set_FormPresentationMode(Aspose::Pdf::Devices::FormPresentationMode value)
+void Aspose::Pdf::Facades::PdfConverter::set_FormPresentationMode(Aspose::Pdf::Devices::FormPresentationMode value)
 ```
 
 ## See Also

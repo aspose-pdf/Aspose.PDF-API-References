@@ -4,7 +4,7 @@ linktitle: get_StartingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PolyAnnotation::get_StartingStyle method. Gets the style of first line ending in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.annotations/polyannotation/get_startingstyle/
 ---
 ## PolyAnnotation::get_StartingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/get_startingstyle/
 Gets the style of first line ending.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineEnding Aspose::Pdf::Annotations::PolyAnnotation::get_StartingStyle()
+LineEnding Aspose::Pdf::Annotations::PolyAnnotation::get_StartingStyle()
 ```
 
 ## See Also

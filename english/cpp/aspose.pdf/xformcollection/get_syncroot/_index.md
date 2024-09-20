@@ -4,7 +4,7 @@ linktitle: get_SyncRoot
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XFormCollection::get_SyncRoot method. Synchronization object in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.pdf/xformcollection/get_syncroot/
 ---
 ## XFormCollection::get_SyncRoot method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xformcollection/get_syncroot/
 Synchronization object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::XFormCollection::get_SyncRoot() const
+System::SharedPtr<System::Object> Aspose::Pdf::XFormCollection::get_SyncRoot() const
 ```
 
 ## See Also

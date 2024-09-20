@@ -4,7 +4,7 @@ linktitle: set_SkipBlankPages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::set_SkipBlankPages method. Sets a value indicating whether to skip blank pages in C++.'
 type: docs
-weight: 300
+weight: 1400
 url: /cpp/aspose.pdf.devices/tiffsettings/set_skipblankpages/
 ---
 ## TiffSettings::set_SkipBlankPages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/set_skipblankpages/
 Sets a value indicating whether to skip blank pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffSettings::set_SkipBlankPages(bool value)
+void Aspose::Pdf::Devices::TiffSettings::set_SkipBlankPages(bool value)
 ```
 
 ## Remarks

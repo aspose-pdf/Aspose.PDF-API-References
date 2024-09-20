@@ -4,7 +4,7 @@ linktitle: get_TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::get_TextAlignment method. Alignment of the text inside the stamp in C++.'
 type: docs
-weight: 1600
+weight: 900
 url: /cpp/aspose.pdf/textstamp/get_textalignment/
 ---
 ## TextStamp::get_TextAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/get_textalignment/
 Alignment of the text inside the stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::TextStamp::get_TextAlignment() const
+Aspose::Pdf::HorizontalAlignment Aspose::Pdf::TextStamp::get_TextAlignment() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfboolean/tostring/
 Returns a **System::String** that represents the current [CosPdfBoolean](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Utils::PublicData::CosPdfBoolean::ToString() const override
+System::String Aspose::Pdf::Utils::PublicData::CosPdfBoolean::ToString() const override
 ```
 
 

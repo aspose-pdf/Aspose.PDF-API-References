@@ -4,7 +4,7 @@ linktitle: set_HorizontalScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_HorizontalScaling method. Sets horizontal scaling of the text in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_horizontalscaling/
 ---
 ## StructureTextState::set_HorizontalScaling method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_horizontalscaling/
 Sets horizontal scaling of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_HorizontalScaling(System::Nullable<float> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_HorizontalScaling(System::Nullable<float> value)
 ```
 
 ## Remarks

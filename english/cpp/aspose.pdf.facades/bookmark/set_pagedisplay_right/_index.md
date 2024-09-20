@@ -4,7 +4,7 @@ linktitle: set_PageDisplay_Right
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_PageDisplay_Right method. Sets the right coordinate of page display in C++.'
 type: docs
-weight: 2200
+weight: 3200
 url: /cpp/aspose.pdf.facades/bookmark/set_pagedisplay_right/
 ---
 ## Bookmark::set_PageDisplay_Right method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_pagedisplay_right/
 Sets the right coordinate of page display.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Bookmark::set_PageDisplay_Right(int32_t value)
+void Aspose::Pdf::Facades::Bookmark::set_PageDisplay_Right(int32_t value)
 ```
 
 ## See Also

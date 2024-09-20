@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_isbordersincluded/
 Sets border included in column widhts.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Table::set_IsBordersIncluded(bool value)
+void Aspose::Pdf::Table::set_IsBordersIncluded(bool value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_CloseConcatenatedStreams
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_CloseConcatenatedStreams method. If set to true, streams are closed after operation in C++.'
 type: docs
-weight: 2400
+weight: 1100
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_closeconcatenatedstreams/
 ---
 ## PdfFileEditor::get_CloseConcatenatedStreams method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_closeconcatenatedstreams/
 If set to true, streams are closed after operation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::get_CloseConcatenatedStreams() const
+bool Aspose::Pdf::Facades::PdfFileEditor::get_CloseConcatenatedStreams() const
 ```
 
 ## See Also

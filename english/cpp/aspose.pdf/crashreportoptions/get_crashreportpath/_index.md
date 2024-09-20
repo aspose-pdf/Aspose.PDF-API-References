@@ -4,7 +4,7 @@ linktitle: get_CrashReportPath
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CrashReportOptions::get_CrashReportPath method. Full path of crash report file in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf/crashreportoptions/get_crashreportpath/
 ---
 ## CrashReportOptions::get_CrashReportPath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/crashreportoptions/get_crashreportpath/
 Full path of crash report file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::CrashReportOptions::get_CrashReportPath()
+System::String Aspose::Pdf::CrashReportOptions::get_CrashReportPath()
 ```
 
 ## See Also

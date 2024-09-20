@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::GetEnumerator method. Gets enumerator object of the dictionary in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 ---
 ## PdfXmpMetadata::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 Gets enumerator object of the dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>>>> Aspose::Pdf::Facades::PdfXmpMetadata::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>>>> Aspose::Pdf::Facades::PdfXmpMetadata::GetEnumerator() override
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tableabsorber/get_useflowengine/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TableAbsorber::get_UseFlowEngine() const
+bool Aspose::Pdf::Text::TableAbsorber::get_UseFlowEngine() const
 ```
 
 ## Remarks

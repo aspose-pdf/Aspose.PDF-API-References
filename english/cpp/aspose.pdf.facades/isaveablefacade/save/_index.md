@@ -2,42 +2,11 @@
 title: Aspose::Pdf::Facades::ISaveableFacade::Save method
 linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::ISaveableFacade::Save method. Saves the result PDF document to file in C++.'
+description: 'Aspose::Pdf::Facades::ISaveableFacade::Save method. Saves the result PDF document to stream in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/isaveablefacade/save/
 ---
-## ISaveableFacade::Save(System::String) method
-
-
-Saves the result PDF document to file.
-
-```cpp
-virtual void Aspose::Pdf::Facades::ISaveableFacade::Save(System::String destFile)=0
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destFile | System::String | The path of output PDF document. |
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>destFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of output PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [ISaveableFacade](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## ISaveableFacade::Save(System::SharedPtr\<System::IO::Stream\>) method
 
 
@@ -51,19 +20,26 @@ virtual void Aspose::Pdf::Facades::ISaveableFacade::Save(System::SharedPtr<Syste
 | Parameter | Type | Description |
 | --- | --- | --- |
 | destStream | System::SharedPtr\<System::IO::Stream\> | The stream of output PDF document. |
-## Remarks
+
+## See Also
+
+* Class [ISaveableFacade](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## ISaveableFacade::Save(System::String) method
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>destStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The stream of output PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+Saves the result PDF document to file.
+
+```cpp
+virtual void Aspose::Pdf::Facades::ISaveableFacade::Save(System::String destFile)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destFile | System::String | The path of output PDF document. |
+
 ## See Also
 
 * Class [ISaveableFacade](../)

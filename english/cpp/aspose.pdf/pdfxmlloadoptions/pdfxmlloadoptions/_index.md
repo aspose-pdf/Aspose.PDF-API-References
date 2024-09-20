@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
 Constructor of [PdfXmlLoadOptions](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PdfXmlLoadOptions::PdfXmlLoadOptions()
+Aspose::Pdf::PdfXmlLoadOptions::PdfXmlLoadOptions()
 ```
 
 ## See Also

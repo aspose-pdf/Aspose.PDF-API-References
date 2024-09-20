@@ -4,7 +4,7 @@ linktitle: get_Level
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::get_Level method. Gets the level in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/aspose.pdf/heading/get_level/
 ---
 ## Heading::get_Level method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/get_level/
 Gets the level.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Heading::get_Level() const
+int32_t Aspose::Pdf::Heading::get_Level() const
 ```
 
 ## See Also

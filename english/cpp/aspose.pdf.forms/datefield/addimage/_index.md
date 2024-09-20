@@ -4,7 +4,7 @@ linktitle: AddImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::DateField::AddImage method. Image adding denied for this field in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.forms/datefield/addimage/
 ---
 ## DateField::AddImage method
@@ -13,33 +13,14 @@ url: /cpp/aspose.pdf.forms/datefield/addimage/
 [Image](../../../aspose.pdf/image/) adding denied for this field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::DateField::AddImage(System::SharedPtr<Image> image)
+void Aspose::Pdf::Forms::DateField::AddImage(System::SharedPtr<Image> image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | image | System::SharedPtr\<Image\> | The image. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>image</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The image.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist><parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>System::InvalidOperationException</parametername>
-    </parameternamelist>
-    <parameterdescription></parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Image](../../../aspose.pdf/image/)

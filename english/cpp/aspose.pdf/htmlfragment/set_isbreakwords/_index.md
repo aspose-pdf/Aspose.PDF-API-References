@@ -4,7 +4,7 @@ linktitle: set_IsBreakWords
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment::set_IsBreakWords method. Sets words break in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/aspose.pdf/htmlfragment/set_isbreakwords/
 ---
 ## HtmlFragment::set_IsBreakWords method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/set_isbreakwords/
 Sets words break.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlFragment::set_IsBreakWords(bool value)
+void Aspose::Pdf::HtmlFragment::set_IsBreakWords(bool value)
 ```
 
 ## See Also

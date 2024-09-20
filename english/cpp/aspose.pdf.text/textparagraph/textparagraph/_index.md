@@ -4,7 +4,7 @@ linktitle: TextParagraph
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::TextParagraph constructor. Creates TextParagraph object in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/aspose.pdf.text/textparagraph/textparagraph/
 ---
 ## TextParagraph::TextParagraph constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/textparagraph/
 Creates [TextParagraph](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextParagraph::TextParagraph()
+Aspose::Pdf::Text::TextParagraph::TextParagraph()
 ```
 
 ## See Also

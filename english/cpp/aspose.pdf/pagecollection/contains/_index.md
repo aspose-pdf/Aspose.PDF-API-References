@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Contains method. Determines whether this instance contains the object in C++.'
 type: docs
-weight: 1700
+weight: 400
 url: /cpp/aspose.pdf/pagecollection/contains/
 ---
 ## PageCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/contains/
 Determines whether this instance contains the object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageCollection::Contains(const System::SharedPtr<Page> &item) const override
+bool Aspose::Pdf::PageCollection::Contains(const System::SharedPtr<Page> &item) const override
 ```
 
 
@@ -24,26 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageCollection::Contains(const System::S
 ### ReturnValue
 
 **true** if [contains] [the specified item]; otherwise, **false**.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The item.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist><parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>NotSupportedException</parametername>
-    </parameternamelist>
-    <parameterdescription></parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

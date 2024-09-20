@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/toarray/
 Converts the current stream to a byte array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::OptimizedMemoryStream::ToArray()
+System::ArrayPtr<uint8_t> Aspose::Pdf::OptimizedMemoryStream::ToArray()
 ```
 
 

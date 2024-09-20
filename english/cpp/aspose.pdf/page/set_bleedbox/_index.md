@@ -4,7 +4,7 @@ linktitle: set_BleedBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_BleedBox method. Sets bleed box of the page in C++.'
 type: docs
-weight: 3800
+weight: 5500
 url: /cpp/aspose.pdf/page/set_bleedbox/
 ---
 ## Page::set_BleedBox method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_bleedbox/
 Sets bleed box of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_BleedBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_BleedBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
 ```
 
 ## See Also

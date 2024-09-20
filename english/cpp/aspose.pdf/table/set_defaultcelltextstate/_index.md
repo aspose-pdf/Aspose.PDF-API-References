@@ -4,7 +4,7 @@ linktitle: set_DefaultCellTextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::set_DefaultCellTextState method. Sets the default cell text state in C++.'
 type: docs
-weight: 2700
+weight: 3500
 url: /cpp/aspose.pdf/table/set_defaultcelltextstate/
 ---
 ## Table::set_DefaultCellTextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_defaultcelltextstate/
 Sets the default cell text state.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Table::set_DefaultCellTextState(System::SharedPtr<Text::TextState> value)
+void Aspose::Pdf::Table::set_DefaultCellTextState(System::SharedPtr<Text::TextState> value)
 ```
 
 ## See Also

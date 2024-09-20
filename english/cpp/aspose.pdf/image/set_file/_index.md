@@ -4,7 +4,7 @@ linktitle: set_File
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::set_File method. Sets the image file in C++.'
 type: docs
-weight: 200
+weight: 1500
 url: /cpp/aspose.pdf/image/set_file/
 ---
 ## Image::set_File method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_file/
 Sets the image file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Image::set_File(System::String value)
+void Aspose::Pdf::Image::set_File(System::String value)
 ```
 
 ## See Also

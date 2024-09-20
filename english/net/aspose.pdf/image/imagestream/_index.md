@@ -3,7 +3,7 @@ title: Image.ImageStream
 second_title: Aspose.PDF for .NET API Reference
 description: Image property. Gets or sets the image stream
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf/image/imagestream/
 ---
 ## Image.ImageStream property

@@ -4,7 +4,7 @@ linktitle: set_Beta
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::set_Beta method. Sets a float value that indicates the ending angle degree of the arc in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.pdf.drawing/arc/set_beta/
 ---
 ## Arc::set_Beta method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/arc/set_beta/
 Sets a float value that indicates the ending angle degree of the arc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Arc::set_Beta(double value)
+void Aspose::Pdf::Drawing::Arc::set_Beta(double value)
 ```
 
 ## See Also

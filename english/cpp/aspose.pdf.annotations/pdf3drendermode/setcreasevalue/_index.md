@@ -4,7 +4,7 @@ linktitle: SetCreaseValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::SetCreaseValue method. Sets the crease value in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
 ## PDF3DRenderMode::SetCreaseValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 Sets the crease value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetCreaseValue(double creaseValue)
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetCreaseValue(double creaseValue)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotation
 ### ReturnValue
 
 [PDF3DRenderMode](../).
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>creaseValue</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The crease value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PDF3DRenderMode](../)

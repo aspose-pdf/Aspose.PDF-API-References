@@ -4,7 +4,7 @@ linktitle: get_SubmitFlag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::get_SubmitFlag method. Set the submit button''s submission flags in C++.'
 type: docs
-weight: 2200
+weight: 2500
 url: /cpp/aspose.pdf.facades/formeditor/get_submitflag/
 ---
 ## FormEditor::get_SubmitFlag method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/get_submitflag/
 Set the submit button's submission flags.
 
 ```cpp
-ASPOSE_PDF_SHARED_API SubmitFormFlag Aspose::Pdf::Facades::FormEditor::get_SubmitFlag() const
+SubmitFormFlag Aspose::Pdf::Facades::FormEditor::get_SubmitFlag() const
 ```
 
 ## See Also

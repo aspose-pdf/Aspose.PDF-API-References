@@ -24,19 +24,7 @@ static System::String Aspose::Pdf::PdfVersionMethods::GetString(PdfVersion versi
 ### ReturnValue
 
 Version in the string format '0.0'.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>version</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The Version.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [PdfVersion](../../pdfversion/)

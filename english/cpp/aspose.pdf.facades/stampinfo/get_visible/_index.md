@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stampinfo/get_visible/
 Gets visibility of stamp. If false then stamp is hidden (with HideStampById). Hidden stamp may be restored by ShowStampById.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::StampInfo::get_Visible() const
+bool Aspose::Pdf::Facades::StampInfo::get_Visible() const
 ```
 
 ## See Also

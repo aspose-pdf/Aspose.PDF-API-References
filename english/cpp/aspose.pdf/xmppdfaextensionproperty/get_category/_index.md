@@ -4,7 +4,7 @@ linktitle: get_Category
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionProperty::get_Category method. Gets the property category in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/xmppdfaextensionproperty/get_category/
 ---
 ## XmpPdfAExtensionProperty::get_Category method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionproperty/get_category/
 Gets the property category.
 
 ```cpp
-ASPOSE_PDF_SHARED_API XmpPdfAExtensionCategoryType Aspose::Pdf::XmpPdfAExtensionProperty::get_Category() const
+XmpPdfAExtensionCategoryType Aspose::Pdf::XmpPdfAExtensionProperty::get_Category() const
 ```
 
 ## See Also

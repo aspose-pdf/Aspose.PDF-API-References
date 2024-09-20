@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/empty/
 Empty rectangle.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Empty
+static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Empty
 ```
 
 ## See Also

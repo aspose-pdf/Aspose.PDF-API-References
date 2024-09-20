@@ -4,7 +4,7 @@ linktitle: get_DisableFontLicenseVerifications
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LoadOptions::get_DisableFontLicenseVerifications method. Gets flag to disable any license restrictions for all fonts while loading the file. When true, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default false in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf/loadoptions/get_disablefontlicenseverifications/
 ---
 ## LoadOptions::get_DisableFontLicenseVerifications method
@@ -17,7 +17,7 @@ Gets flag to disable any license restrictions for all fonts while loading the fi
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::LoadOptions::get_DisableFontLicenseVerifications() const
+bool Aspose::Pdf::LoadOptions::get_DisableFontLicenseVerifications() const
 ```
 
 ## Remarks

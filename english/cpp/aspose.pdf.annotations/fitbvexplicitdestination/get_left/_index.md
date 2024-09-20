@@ -4,7 +4,7 @@ linktitle: get_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FitBVExplicitDestination::get_Left method. Gets the horizontal coordinate left positioned at the left edge of the window in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/fitbvexplicitdestination/get_left/
 ---
 ## FitBVExplicitDestination::get_Left method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fitbvexplicitdestination/get_left/
 Gets the horizontal coordinate left positioned at the left edge of the window.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::FitBVExplicitDestination::get_Left()
+double Aspose::Pdf::Annotations::FitBVExplicitDestination::get_Left()
 ```
 
 ## See Also

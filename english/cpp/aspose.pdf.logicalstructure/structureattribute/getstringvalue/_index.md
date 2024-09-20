@@ -4,7 +4,7 @@ linktitle: GetStringValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttribute::GetStringValue method. Gets Value String in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
 ## StructureAttribute::GetStringValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 Gets Value String.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureAttribute::GetStringValue()
+System::String Aspose::Pdf::LogicalStructure::StructureAttribute::GetStringValue()
 ```
 
 

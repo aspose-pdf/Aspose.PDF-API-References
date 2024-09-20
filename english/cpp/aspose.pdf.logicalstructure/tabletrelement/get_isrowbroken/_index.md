@@ -4,7 +4,7 @@ linktitle: get_IsRowBroken
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::get_IsRowBroken method. Gets is row can be broken between two pages in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_isrowbroken/
 ---
 ## TableTRElement::get_IsRowBroken method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_isrowbroken/
 Gets is row can be broken between two pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::LogicalStructure::TableTRElement::get_IsRowBroken() const
+bool Aspose::Pdf::LogicalStructure::TableTRElement::get_IsRowBroken() const
 ```
 
 ## See Also

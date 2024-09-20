@@ -4,7 +4,7 @@ linktitle: ToDouble
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToDouble method. Converts to double in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf/xmpvalue/todouble/
 ---
 ## XmpValue::ToDouble method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/todouble/
 Converts to double.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::XmpValue::ToDouble()
+double Aspose::Pdf::XmpValue::ToDouble()
 ```
 
 

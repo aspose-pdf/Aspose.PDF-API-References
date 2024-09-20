@@ -4,7 +4,7 @@ linktitle: GetNameValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttribute::GetNameValue method. Gets Value Name in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
 ## StructureAttribute::GetNameValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 Gets Value Name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::StructureAttribute::GetNameValue()
+System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::StructureAttribute::GetNameValue()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/objrelement/tostring/
 Returns a string that represents the current object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::OBJRElement::ToString() const override
+System::String Aspose::Pdf::LogicalStructure::OBJRElement::ToString() const override
 ```
 
 

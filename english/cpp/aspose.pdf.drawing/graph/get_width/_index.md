@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::get_Width method. Gets a float value that indicates the graph width. The unit is point in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.pdf.drawing/graph/get_width/
 ---
 ## Graph::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_width/
 Gets a float value that indicates the graph width. The unit is point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Graph::get_Width() const
+double Aspose::Pdf::Drawing::Graph::get_Width() const
 ```
 
 ## See Also

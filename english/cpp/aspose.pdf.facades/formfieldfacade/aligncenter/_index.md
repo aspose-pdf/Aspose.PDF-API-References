@@ -4,7 +4,7 @@ linktitle: AlignCenter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::AlignCenter field. Defines aglignment to center style in C++.'
 type: docs
-weight: 5000
+weight: 4000
 url: /cpp/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
 ## AlignCenter field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/aligncenter/
 Defines aglignment to center style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignCenter
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignCenter
 ```
 
 ## See Also

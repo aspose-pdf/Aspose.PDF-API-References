@@ -4,7 +4,7 @@ linktitle: get_ColorType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_ColorType method. Sets color type of the pages based on information getting from operators SetColor, images and forms in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.pdf/page/get_colortype/
 ---
 ## Page::get_ColorType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_colortype/
 Sets color type of the pages based on information getting from operators SetColor, images and forms.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ColorType Aspose::Pdf::Page::get_ColorType()
+Aspose::Pdf::ColorType Aspose::Pdf::Page::get_ColorType()
 ```
 
 ## See Also

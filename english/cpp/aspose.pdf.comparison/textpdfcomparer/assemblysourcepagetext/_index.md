@@ -4,7 +4,7 @@ linktitle: AssemblySourcePageText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::TextPdfComparer::AssemblySourcePageText method. Restores the original text from the list of changes in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
 ---
 ## TextPdfComparer::AssemblySourcePageText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
 Restores the original text from the list of changes.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblySourcePageText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> diffs)
+static System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblySourcePageText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> diffs)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Comparison::TextPdfComp
 ### ReturnValue
 
 Original text.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffs</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of changes.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)

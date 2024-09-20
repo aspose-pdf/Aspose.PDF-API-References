@@ -4,7 +4,7 @@ linktitle: get_OnFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnFormat method. Gets an action to be performed to format field value in C++.'
 type: docs
-weight: 2500
+weight: 500
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onformat/
 ---
 ## AnnotationActionCollection::get_OnFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onformat/
 Gets an action to be performed to format field value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnFormat()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnFormat()
 ```
 
 ## See Also

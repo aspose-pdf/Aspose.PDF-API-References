@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontSourceCollection::GetEnumerator method. Returns an enumerator for the entire collection in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf.text/fontsourcecollection/getenumerator/
 ---
 ## FontSourceCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontsourcecollection/getenumerator/
 Returns an enumerator for the entire collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<FontSource>>> Aspose::Pdf::Text::FontSourceCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<FontSource>>> Aspose::Pdf::Text::FontSourceCollection::GetEnumerator() override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_LemonChiffon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_LemonChiffon method. Gets a system-defined color that has an ARGB value of #FFFFFACD in C++.'
 type: docs
-weight: 7300
+weight: 7600
 url: /cpp/aspose.pdf/color/get_lemonchiffon/
 ---
 ## Color::get_LemonChiffon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_lemonchiffon/
 Gets a system-defined color that has an ARGB value of **#FFFFFACD**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_LemonChiffon()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_LemonChiffon()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LevelFormat::get_TextState method. Gets a list level text state in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf/levelformat/get_textstate/
 ---
 ## LevelFormat::get_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/get_textstate/
 Gets a list level text state.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::LevelFormat::get_TextState() const
+System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::LevelFormat::get_TextState() const
 ```
 
 ## See Also

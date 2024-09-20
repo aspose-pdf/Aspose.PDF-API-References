@@ -4,7 +4,7 @@ linktitle: get_ConcatenationPacketSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_ConcatenationPacketSize method. Number of documents concatenated before new incremental update was made during concatenation when UseDiskBuffer is set to true in C++.'
 type: docs
-weight: 3700
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_concatenationpacketsize/
 ---
 ## PdfFileEditor::get_ConcatenationPacketSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_concatenationpacketsize/
 Number of documents concatenated before new incremental update was made during concatenation when UseDiskBuffer is set to true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileEditor::get_ConcatenationPacketSize() const
+int32_t Aspose::Pdf::Facades::PdfFileEditor::get_ConcatenationPacketSize() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_CuttingPlanesIntersectionColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSection::get_CuttingPlanesIntersectionColor method. Gets the color of the cutting planes intersection in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/get_cuttingplanesintersectioncolor/
 ---
 ## PDF3DCrossSection::get_CuttingPlanesIntersectionColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/get_cuttingplanesintersection
 Gets the color of the cutting planes intersection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DCrossSection::get_CuttingPlanesIntersectionColor() const
+System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DCrossSection::get_CuttingPlanesIntersectionColor() const
 ```
 
 ## Remarks

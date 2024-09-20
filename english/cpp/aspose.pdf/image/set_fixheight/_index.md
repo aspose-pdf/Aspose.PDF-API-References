@@ -4,7 +4,7 @@ linktitle: set_FixHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::set_FixHeight method. Sets the image height in C++.'
 type: docs
-weight: 900
+weight: 1700
 url: /cpp/aspose.pdf/image/set_fixheight/
 ---
 ## Image::set_FixHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_fixheight/
 Sets the image height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Image::set_FixHeight(double value)
+void Aspose::Pdf::Image::set_FixHeight(double value)
 ```
 
 ## See Also

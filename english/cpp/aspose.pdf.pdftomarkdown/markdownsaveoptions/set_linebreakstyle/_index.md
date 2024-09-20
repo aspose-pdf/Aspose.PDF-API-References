@@ -4,7 +4,7 @@ linktitle: set_LineBreakStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_LineBreakStyle method. Sets the line break style for generated document in C++.'
 type: docs
-weight: 1200
+weight: 1800
 url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/set_linebreakstyle/
 ---
 ## MarkdownSaveOptions::set_LineBreakStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/set_linebreakstyle/
 Sets the line break style for generated document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_LineBreakStyle(Aspose::Pdf::PdfToMarkdown::LineBreakStyle value)
+void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_LineBreakStyle(Aspose::Pdf::PdfToMarkdown::LineBreakStyle value)
 ```
 
 ## See Also

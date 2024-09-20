@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/documentcomparisonstatistics/get_pagesstatistics
 Gets and sets the list of pages statistics.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextItemComparisonStatistics>>> & Aspose::Pdf::Comparison::DocumentComparisonStatistics::get_PagesStatistics() const
+const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextItemComparisonStatistics>>> & Aspose::Pdf::Comparison::DocumentComparisonStatistics::get_PagesStatistics() const
 ```
 
 ## See Also

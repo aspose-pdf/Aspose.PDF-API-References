@@ -4,7 +4,7 @@ linktitle: set_OverlayText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText method. Sets text to print on redact annotation in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/aspose.pdf.annotations/redactionannotation/set_overlaytext/
 ---
 ## RedactionAnnotation::set_OverlayText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_overlaytext/
 Sets text to print on redact annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText(System::String value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText(System::String value)
 ```
 
 ## See Also

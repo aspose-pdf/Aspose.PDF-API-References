@@ -4,7 +4,7 @@ linktitle: CreateTableTHElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateTableTHElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 2500
+weight: 3000
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createtablethelement/
 ---
 ## ITaggedContent::CreateTableTHElement method

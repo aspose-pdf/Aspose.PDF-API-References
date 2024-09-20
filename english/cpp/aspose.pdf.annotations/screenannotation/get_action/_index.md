@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/screenannotation/get_action/
 Gets an action to be performed when the annotation is activated.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::ScreenAnnotation::get_Action()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::ScreenAnnotation::get_Action()
 ```
 
 ## See Also

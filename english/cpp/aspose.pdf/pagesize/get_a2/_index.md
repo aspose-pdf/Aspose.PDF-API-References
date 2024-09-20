@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a2/
 A2 size (594x420 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A2()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A2()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionfield/get_o/
 Gets the relative order of the field name in the user interface. Fields shall be sorted by the interactive PDF processor in ascending order.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<int32_t> Aspose::Pdf::CollectionField::get_O() const
+System::Nullable<int32_t> Aspose::Pdf::CollectionField::get_O() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/watermarkartifact/watermarkartifact/
 Creates instance of [Watermark](../../watermark/) artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::WatermarkArtifact::WatermarkArtifact()
+Aspose::Pdf::WatermarkArtifact::WatermarkArtifact()
 ```
 
 ## See Also

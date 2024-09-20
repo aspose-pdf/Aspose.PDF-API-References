@@ -4,7 +4,7 @@ linktitle: PdfFileSanitization
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSanitization::PdfFileSanitization constructor. Initializes a new instance in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
 ## PdfFileSanitization::PdfFileSanitization constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 Initializes a new instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Facades::PdfFileSanitization::PdfFileSanitization()
+Aspose::Pdf::Facades::PdfFileSanitization::PdfFileSanitization()
 ```
 
 ## See Also

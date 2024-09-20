@@ -4,7 +4,7 @@ linktitle: get_Icon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextAnnotation::get_Icon method. Gets an icon to be used in displaying the annotation in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.annotations/textannotation/get_icon/
 ---
 ## TextAnnotation::get_Icon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textannotation/get_icon/
 Gets an icon to be used in displaying the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextIcon Aspose::Pdf::Annotations::TextAnnotation::get_Icon()
+TextIcon Aspose::Pdf::Annotations::TextAnnotation::get_Icon()
 ```
 
 ## See Also

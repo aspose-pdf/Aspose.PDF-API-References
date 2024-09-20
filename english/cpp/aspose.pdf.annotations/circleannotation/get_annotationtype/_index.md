@@ -4,7 +4,7 @@ linktitle: get_AnnotationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::CircleAnnotation::get_AnnotationType method. Gets type of annotation in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.annotations/circleannotation/get_annotationtype/
 ---
 ## CircleAnnotation::get_AnnotationType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/circleannotation/get_annotationtype/
 Gets type of annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::CircleAnnotation::get_AnnotationType() override
+Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::CircleAnnotation::get_AnnotationType() override
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/element/set_e/
 (Optional; PDF 1.5) The expanded form of an abbreviation.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Structure::Element::set_E(System::String value)
+virtual void Aspose::Pdf::Structure::Element::set_E(System::String value)
 ```
 
 ## See Also

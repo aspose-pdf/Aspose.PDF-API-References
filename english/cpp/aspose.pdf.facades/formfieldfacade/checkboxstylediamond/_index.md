@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 Defines a diamond check box style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleDiamond
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleDiamond
 ```
 
 ## See Also

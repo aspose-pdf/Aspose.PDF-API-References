@@ -3,7 +3,7 @@ title: Class OutputTextStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.OutputGenerator.OutputTextStyle class. Represents a style set class for marking text changes
 type: docs
-weight: 1810
+weight: 1850
 url: /net/aspose.pdf.comparison.outputgenerator/outputtextstyle/
 ---
 ## OutputTextStyle class

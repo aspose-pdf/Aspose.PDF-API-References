@@ -4,7 +4,7 @@ linktitle: PptxSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions::PptxSaveOptions constructor. Constructor in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 ---
 ## PptxSaveOptions::PptxSaveOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PptxSaveOptions::PptxSaveOptions()
+Aspose::Pdf::PptxSaveOptions::PptxSaveOptions()
 ```
 
 ## See Also

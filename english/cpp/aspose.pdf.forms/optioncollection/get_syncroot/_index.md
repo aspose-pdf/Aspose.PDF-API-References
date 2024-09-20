@@ -4,7 +4,7 @@ linktitle: get_SyncRoot
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::OptionCollection::get_SyncRoot method. Synchronization object of the collection in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/aspose.pdf.forms/optioncollection/get_syncroot/
 ---
 ## OptionCollection::get_SyncRoot method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/get_syncroot/
 Synchronization object of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Forms::OptionCollection::get_SyncRoot() const
+System::SharedPtr<System::Object> Aspose::Pdf::Forms::OptionCollection::get_SyncRoot() const
 ```
 
 ## See Also

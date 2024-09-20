@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_border/
 Gets the cell border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<BorderInfo> Aspose::Pdf::LogicalStructure::TableCellElement::get_Border() const
+System::SharedPtr<BorderInfo> Aspose::Pdf::LogicalStructure::TableCellElement::get_Border() const
 ```
 
 ## See Also

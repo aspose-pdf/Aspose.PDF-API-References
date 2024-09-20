@@ -4,7 +4,7 @@ linktitle: set_UserPassword
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::set_UserPassword method. Sets document UserPassword in C++.'
 type: docs
-weight: 1800
+weight: 2700
 url: /cpp/aspose.pdf.facades/pdfconverter/set_userpassword/
 ---
 ## PdfConverter::set_UserPassword method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_userpassword/
 Sets document UserPassword.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfConverter::set_UserPassword(System::String value)
+void Aspose::Pdf::Facades::PdfConverter::set_UserPassword(System::String value)
 ```
 
 ## See Also

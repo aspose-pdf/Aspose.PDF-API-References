@@ -4,7 +4,7 @@ linktitle: PageLayoutOneColumn
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::PageLayoutOneColumn field. Display the pages in one column in C++.'
 type: docs
-weight: 500
+weight: 1500
 url: /cpp/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/
 ---
 ## PageLayoutOneColumn field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/
 Display the pages in one column.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PageLayoutOneColumn
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PageLayoutOneColumn
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Enum XfaTag
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XfaTag enum. The xfa stream tag
 type: docs
-weight: 8490
+weight: 8550
 url: /net/aspose.pdf/xfatag/
 ---
 ## XfaTag enumeration

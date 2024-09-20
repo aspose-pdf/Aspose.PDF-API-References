@@ -4,7 +4,7 @@ linktitle: get_A
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::get_A method. A member of the transformation matrix in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf/matrix/get_a/
 ---
 ## Matrix::get_A method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/get_a/
 A member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix::get_A()
+double Aspose::Pdf::Matrix::get_A()
 ```
 
 ## See Also

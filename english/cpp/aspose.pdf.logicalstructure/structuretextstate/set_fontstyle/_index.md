@@ -4,7 +4,7 @@ linktitle: set_FontStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_FontStyle method. Sets font style of the text in C++.'
 type: docs
-weight: 600
+weight: 1900
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_fontstyle/
 ---
 ## StructureTextState::set_FontStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_fontstyle/
 Sets font style of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_FontStyle(System::Nullable<Aspose::Pdf::Text::FontStyles> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_FontStyle(System::Nullable<Aspose::Pdf::Text::FontStyles> value)
 ```
 
 ## Remarks

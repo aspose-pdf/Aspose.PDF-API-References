@@ -4,7 +4,7 @@ linktitle: get_Symbol
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::CaretAnnotation::get_Symbol method. Gets symbol associated with caret in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.annotations/caretannotation/get_symbol/
 ---
 ## CaretAnnotation::get_Symbol method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretannotation/get_symbol/
 Gets symbol associated with caret.
 
 ```cpp
-ASPOSE_PDF_SHARED_API CaretSymbol Aspose::Pdf::Annotations::CaretAnnotation::get_Symbol()
+CaretSymbol Aspose::Pdf::Annotations::CaretAnnotation::get_Symbol()
 ```
 
 ## Remarks

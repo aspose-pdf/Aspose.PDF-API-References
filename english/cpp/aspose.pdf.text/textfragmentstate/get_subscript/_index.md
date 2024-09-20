@@ -4,7 +4,7 @@ linktitle: get_Subscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_Subscript method. Gets subscript of the text, represented by the TextFragment object in C++.'
 type: docs
-weight: 1100
+weight: 2000
 url: /cpp/aspose.pdf.text/textfragmentstate/get_subscript/
 ---
 ## TextFragmentState::get_Subscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_subscript/
 Gets subscript of the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::get_Subscript() override
+bool Aspose::Pdf::Text::TextFragmentState::get_Subscript() override
 ```
 
 ## See Also

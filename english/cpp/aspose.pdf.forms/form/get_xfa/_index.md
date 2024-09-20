@@ -4,7 +4,7 @@ linktitle: get_XFA
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::get_XFA method. Gets XFA data of the form (if presents) in C++.'
 type: docs
-weight: 1000
+weight: 2100
 url: /cpp/aspose.pdf.forms/form/get_xfa/
 ---
 ## Form::get_XFA method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/get_xfa/
 Gets [XFA](../../xfa/) data of the form (if presents).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Forms::XFA> Aspose::Pdf::Forms::Form::get_XFA() const
+System::SharedPtr<Aspose::Pdf::Forms::XFA> Aspose::Pdf::Forms::Form::get_XFA() const
 ```
 
 ## See Also

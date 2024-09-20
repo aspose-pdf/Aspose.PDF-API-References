@@ -4,7 +4,7 @@ linktitle: get_AllowedChars
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::NumberField::get_AllowedChars method. Gets the allowed chars in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.forms/numberfield/get_allowedchars/
 ---
 ## NumberField::get_AllowedChars method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/numberfield/get_allowedchars/
 Gets the allowed chars.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::NumberField::get_AllowedChars() const
+System::String Aspose::Pdf::Forms::NumberField::get_AllowedChars() const
 ```
 
 ## Remarks

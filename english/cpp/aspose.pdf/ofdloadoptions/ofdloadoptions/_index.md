@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ofdloadoptions/ofdloadoptions/
 Constructor of [OfdLoadOptions](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::OfdLoadOptions::OfdLoadOptions()
+Aspose::Pdf::OfdLoadOptions::OfdLoadOptions()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_OpenAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_OpenAction method. Sets action performed at document opening in C++.'
 type: docs
-weight: 2300
+weight: 10300
 url: /cpp/aspose.pdf/document/set_openaction/
 ---
 ## Document::set_OpenAction method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_openaction/
 Sets action performed at document opening.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_OpenAction(System::SharedPtr<Annotations::IAppointment> value)
+void Aspose::Pdf::Document::set_OpenAction(System::SharedPtr<Annotations::IAppointment> value)
 ```
 
 ## See Also

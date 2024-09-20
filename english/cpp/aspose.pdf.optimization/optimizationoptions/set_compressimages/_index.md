@@ -4,7 +4,7 @@ linktitle: set_CompressImages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_CompressImages method. If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_compressimages/
 ---
 ## OptimizationOptions::set_CompressImages method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/set_compressimages/
 If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::OptimizationOptions::set_CompressImages(bool value)
+void Aspose::Pdf::Optimization::OptimizationOptions::set_CompressImages(bool value)
 ```
 
-## Remarks
 
+## Deprecated
+Please use ImageCompressionOptions.CompressImages instead. 
 
-<xrefsect id="deprecated_1_deprecated000127">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Please use ImageCompressionOptions.CompressImages instead. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [OptimizationOptions](../)

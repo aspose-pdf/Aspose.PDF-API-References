@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontrepository/reloadfonts/
 Reloads all fonts specified by property [Sources](../)
 
 ```cpp
-static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::FontRepository::ReloadFonts()
+static void Aspose::Pdf::Text::FontRepository::ReloadFonts()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_FieldType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::get_FieldType method. Gets the type of the field in C++.'
 type: docs
-weight: 1100
+weight: 400
 url: /cpp/aspose.pdf/xmpfield/get_fieldtype/
 ---
 ## XmpField::get_FieldType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_fieldtype/
 Gets the type of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API XmpFieldType Aspose::Pdf::XmpField::get_FieldType()
+XmpFieldType Aspose::Pdf::XmpField::get_FieldType()
 ```
 
 ## Remarks

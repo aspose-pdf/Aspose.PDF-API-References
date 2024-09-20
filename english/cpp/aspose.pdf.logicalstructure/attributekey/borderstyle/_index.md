@@ -4,7 +4,7 @@ linktitle: BorderStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::BorderStyle field. BorderStyle attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
 ## BorderStyle field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/borderstyle/
 BorderStyle attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderStyle
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderStyle
 ```
 
 ## See Also

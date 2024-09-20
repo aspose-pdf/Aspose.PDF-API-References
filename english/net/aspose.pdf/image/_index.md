@@ -3,7 +3,7 @@ title: Class Image
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Image class. Represents image
 type: docs
-weight: 4200
+weight: 4250
 url: /net/aspose.pdf/image/
 ---
 ## Image class
@@ -24,6 +24,7 @@ public sealed class Image : BaseParagraph
 
 | Name | Description |
 | --- | --- |
+| [BitmapInfo](../../aspose.pdf/image/bitmapinfo/) { get; set; } | Gets or sets uncompressed image bytes. |
 | [BitmapSize](../../aspose.pdf/image/bitmapsize/) { get; } | Gets the image bitmap size. |
 | [File](../../aspose.pdf/image/file/) { get; set; } | Gets or sets the image file. |
 | [FileType](../../aspose.pdf/image/filetype/) { get; set; } | Gets or sets the image file type. |

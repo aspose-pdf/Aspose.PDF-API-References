@@ -4,7 +4,7 @@ linktitle: GetViewsList
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsList method. Get the views as list in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
 ## PDF3DArtwork::GetViewsList method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 Get the views as list.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::ObjectModel::ReadOnlyCollection<System::SharedPtr<PDF3DView>>> Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsList()
+System::SharedPtr<System::Collections::ObjectModel::ReadOnlyCollection<System::SharedPtr<PDF3DView>>> Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsList()
 ```
 
 

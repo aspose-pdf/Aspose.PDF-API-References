@@ -4,7 +4,7 @@ linktitle: set_Broken
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::set_Broken method. Sets table vertial broken; in C++.'
 type: docs
-weight: 1600
+weight: 2900
 url: /cpp/aspose.pdf/table/set_broken/
 ---
 ## Table::set_Broken method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_broken/
 Sets table vertial broken;.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Table::set_Broken(TableBroken value)
+void Aspose::Pdf::Table::set_Broken(TableBroken value)
 ```
 
 ## See Also

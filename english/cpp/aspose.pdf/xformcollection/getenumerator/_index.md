@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XFormCollection::GetEnumerator method. Returns collection enumerator in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/aspose.pdf/xformcollection/getenumerator/
 ---
 ## XFormCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xformcollection/getenumerator/
 Returns collection enumerator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<XForm>>> Aspose::Pdf::XFormCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<XForm>>> Aspose::Pdf::XFormCollection::GetEnumerator() override
 ```
 
 

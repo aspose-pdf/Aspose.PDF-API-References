@@ -4,7 +4,7 @@ linktitle: ListNumbering_UpperRoman
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::ListNumbering_UpperRoman field. Attribute ListNumbering: UpperRoman - Uppercase roman numerals (I, II, III, IV, ...) in C++.'
 type: docs
-weight: 5700
+weight: 3700
 url: /cpp/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 ---
 ## ListNumbering_UpperRoman field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 Attribute ListNumbering: UpperRoman - Uppercase roman numerals (I, II, III, IV, ...).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::ListNumbering_UpperRoman
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::ListNumbering_UpperRoman
 ```
 
 ## See Also

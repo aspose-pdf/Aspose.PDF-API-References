@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabStops::Clone method. Clones a new TabStops objects in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.text/tabstops/clone/
 ---
 ## TabStops::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstops/clone/
 Clones a new [TabStops](../) objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Text::TabStops::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Text::TabStops::Clone() override
 ```
 
 

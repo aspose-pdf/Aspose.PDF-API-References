@@ -4,7 +4,7 @@ linktitle: set_Content
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DAnnotation::set_Content method. Sets the content in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/set_content/
 ---
 ## PDF3DAnnotation::set_Content method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/set_content/
 Sets the content.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DAnnotation::set_Content(System::SharedPtr<PDF3DContent> value)
+void Aspose::Pdf::Annotations::PDF3DAnnotation::set_Content(System::SharedPtr<PDF3DContent> value)
 ```
 
 ## Remarks

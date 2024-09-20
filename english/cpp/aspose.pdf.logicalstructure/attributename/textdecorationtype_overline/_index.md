@@ -4,7 +4,7 @@ linktitle: TextDecorationType_Overline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_Overline field. Attribute TextDecorationType: Overline - A line above the text in C++.'
 type: docs
-weight: 4000
+weight: 6500
 url: /cpp/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
 ## TextDecorationType_Overline field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 Attribute TextDecorationType: Overline - A line above the text.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_Overline
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_Overline
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::set_Style method. Sets border style in C++.'
 type: docs
-weight: 1000
+weight: 1300
 url: /cpp/aspose.pdf.annotations/border/set_style/
 ---
 ## Border::set_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_style/
 Sets border style.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Border::set_Style(BorderStyle value)
+void Aspose::Pdf::Annotations::Border::set_Style(BorderStyle value)
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: RubyAlign_Start
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::RubyAlign_Start field. Attribute RubyAlign: Start - The content shall be aligned on the start edge in the inline-progression direction in C++.'
 type: docs
-weight: 4200
+weight: 5100
 url: /cpp/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 ---
 ## RubyAlign_Start field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 Attribute RubyAlign: Start - The content shall be aligned on the start edge in the inline-progression direction.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyAlign_Start
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyAlign_Start
 ```
 
 ## See Also

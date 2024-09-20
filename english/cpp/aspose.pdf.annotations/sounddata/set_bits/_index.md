@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/sounddata/set_bits/
 Sets the number of bits per sample value per channel.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::SoundData::set_Bits(int32_t value)
+void Aspose::Pdf::Annotations::SoundData::set_Bits(int32_t value)
 ```
 
 ## See Also

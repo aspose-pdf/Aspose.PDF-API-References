@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/getenumerator/
 Gets the enumerator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<BaseParagraph>>> Aspose::Pdf::Paragraphs::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<BaseParagraph>>> Aspose::Pdf::Paragraphs::GetEnumerator() override
 ```
 
 

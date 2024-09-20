@@ -4,7 +4,7 @@ linktitle: get_E
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::get_E method. E member of the transformation matrix in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf/matrix3d/get_e/
 ---
 ## Matrix3D::get_E method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/get_e/
 E member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::get_E()
+double Aspose::Pdf::Matrix3D::get_E()
 ```
 
 ## See Also

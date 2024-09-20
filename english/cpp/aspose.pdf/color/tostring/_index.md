@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/tostring/
 Converts to string.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Color::ToString() const override
+System::String Aspose::Pdf::Color::ToString() const override
 ```
 
 

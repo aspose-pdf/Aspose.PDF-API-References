@@ -4,7 +4,7 @@ linktitle: set_FillColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::set_FillColor method. Sets color to fill annotation in C++.'
 type: docs
-weight: 600
+weight: 1500
 url: /cpp/aspose.pdf.annotations/redactionannotation/set_fillcolor/
 ---
 ## RedactionAnnotation::set_FillColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_fillcolor/
 Sets color to fill annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RedactionAnnotation::set_FillColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_FillColor(System::SharedPtr<Aspose::Pdf::Color> value)
 ```
 
 ## See Also

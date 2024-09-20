@@ -4,7 +4,7 @@ linktitle: CreateHeaderElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateHeaderElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1800
+weight: 1100
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createheaderelement/
 ---
 ## ITaggedContent::CreateHeaderElement() method
@@ -53,16 +53,6 @@ Created structure element.
 
 Creates [Aspose::Pdf::LogicalStructure::HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/) with level.
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>level</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The level of Header. Must be 1, 2, 3, 4, 5 or 6.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)

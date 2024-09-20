@@ -4,7 +4,7 @@ linktitle: get_PixelBytes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BitmapInfo::get_PixelBytes method. Gets the array of pixels in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf/bitmapinfo/get_pixelbytes/
 ---
 ## BitmapInfo::get_PixelBytes method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/bitmapinfo/get_pixelbytes/
 Gets the array of pixels.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::BitmapInfo::get_PixelBytes() const
+System::ArrayPtr<uint8_t> Aspose::Pdf::BitmapInfo::get_PixelBytes() const
 ```
 
 ## See Also

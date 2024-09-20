@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElement::Dispose method. Releases all resources used by the GraphicElement class in C++.'
 type: docs
-weight: 1100
+weight: 200
 url: /cpp/aspose.pdf.vector/graphicelement/dispose/
 ---
 ## GraphicElement::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelement/dispose/
 Releases all resources used by the [GraphicElement](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Vector::GraphicElement::Dispose() override
+void Aspose::Pdf::Vector::GraphicElement::Dispose() override
 ```
 
 ## See Also

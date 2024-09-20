@@ -4,7 +4,7 @@ linktitle: get_SignatureAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::get_SignatureAppearance method. Sets or gets a graphic appearance for the signature. Property value represents image file name in C++.'
 type: docs
-weight: 100
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdffilesignature/get_signatureappearance/
 ---
 ## PdfFileSignature::get_SignatureAppearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/get_signatureappearance/
 Sets or gets a graphic appearance for the signature. Property value represents image file name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileSignature::get_SignatureAppearance() const
+System::String Aspose::Pdf::Facades::PdfFileSignature::get_SignatureAppearance() const
 ```
 
 ## See Also

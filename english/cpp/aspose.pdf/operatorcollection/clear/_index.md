@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OperatorCollection::Clear method. Removes all operators from list in C++.'
 type: docs
-weight: 1300
+weight: 400
 url: /cpp/aspose.pdf/operatorcollection/clear/
 ---
 ## OperatorCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/operatorcollection/clear/
 Removes all operators from list.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OperatorCollection::Clear() override
+void Aspose::Pdf::OperatorCollection::Clear() override
 ```
 
 ## See Also

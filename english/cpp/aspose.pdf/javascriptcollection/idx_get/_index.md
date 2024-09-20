@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/javascriptcollection/idx_get/
 Gets JavaScript from collection by its key.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::JavaScriptCollection::idx_get(System::String key)
+System::String Aspose::Pdf::JavaScriptCollection::idx_get(System::String key)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::JavaScriptCollection::idx_get(
 ### ReturnValue
 
 Javascript collection.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [JavaScriptCollection](../)

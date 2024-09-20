@@ -4,7 +4,7 @@ linktitle: get_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ScreenAnnotation::get_Title method. Gets the title of the screen annotation in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf.annotations/screenannotation/get_title/
 ---
 ## ScreenAnnotation::get_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/screenannotation/get_title/
 Gets the title of the screen annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::ScreenAnnotation::get_Title() override
+System::String Aspose::Pdf::Annotations::ScreenAnnotation::get_Title() override
 ```
 
 ## See Also

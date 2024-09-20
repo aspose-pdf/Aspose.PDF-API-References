@@ -20,7 +20,7 @@ class CharInfoCollection : public System::Collections::Generic::ICollection<Syst
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(const System::SharedPtr\<CharInfo\>\&) override | [Collection](../../aspose.pdf/collection/) is read-only, throws 
+| [Add](./add/)(const System::SharedPtr\<CharInfo\>\&) override | [Collection](../../aspose.pdf/collection/) is read-only, throws NotImplementedException
 . |
 | [Clear](./clear/)() override | [Collection](../../aspose.pdf/collection/) is read-only. Always throws NotImplementedException. |
 | [Contains](./contains/)(const System::SharedPtr\<CharInfo\>\&) const override | Determines whether the collection contains a specific value. |
@@ -31,7 +31,7 @@ class CharInfoCollection : public System::Collections::Generic::ICollection<Syst
 | [get_SyncRoot](./get_syncroot/)() const | Gets an object that can be used to synchronize access to the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator for the entire collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets the [CharInfo](../charinfo/) element at the specified index. |
-| [Remove](./remove/)(const System::SharedPtr\<CharInfo\>\&) override | [Collection](../../aspose.pdf/collection/) is read-only, throws 
+| [Remove](./remove/)(const System::SharedPtr\<CharInfo\>\&) override | [Collection](../../aspose.pdf/collection/) is read-only, throws NotImplementedException
 . |
 ## Remarks
 

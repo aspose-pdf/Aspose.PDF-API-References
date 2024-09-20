@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/get_deletedcharacte
 Gets and sets the number of deleted characters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_DeletedCharactersCount() const
+int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_DeletedCharactersCount() const
 ```
 
 ## See Also

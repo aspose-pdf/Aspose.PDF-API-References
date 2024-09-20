@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::JustificationConverter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.annotations/justificationconverter/toenum/
 ---
 ## JustificationConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/justificationconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API Justification Aspose::Pdf::Annotations::JustificationConverter::ToEnum(System::String value)
+static Justification Aspose::Pdf::Annotations::JustificationConverter::ToEnum(System::String value)
 ```
 
 ## See Also

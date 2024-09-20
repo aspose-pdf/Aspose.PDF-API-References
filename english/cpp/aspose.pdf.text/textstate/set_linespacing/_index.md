@@ -4,7 +4,7 @@ linktitle: set_LineSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_LineSpacing method. Sets line spacing of the text in C++.'
 type: docs
-weight: 400
+weight: 3300
 url: /cpp/aspose.pdf.text/textstate/set_linespacing/
 ---
 ## TextState::set_LineSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/set_linespacing/
 Sets line spacing of the text.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextState::set_LineSpacing(float value)
+virtual void Aspose::Pdf::Text::TextState::set_LineSpacing(float value)
 ```
 
 ## Remarks

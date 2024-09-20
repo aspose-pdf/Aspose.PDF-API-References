@@ -4,7 +4,7 @@ linktitle: get_CreationDate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_CreationDate method. Gets the CreationDate information of PDF document in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_creationdate/
 ---
 ## PdfFileInfo::get_CreationDate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_creationdate/
 Gets the CreationDate information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::get_CreationDate()
+System::String Aspose::Pdf::Facades::PdfFileInfo::get_CreationDate()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/get_keywords/
 Gets or set the keywords of the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::DocumentInfo::get_Keywords()
+System::String Aspose::Pdf::DocumentInfo::get_Keywords()
 ```
 
 ## See Also

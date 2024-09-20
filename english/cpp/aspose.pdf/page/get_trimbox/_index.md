@@ -4,7 +4,7 @@ linktitle: get_TrimBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_TrimBox method. Gets trim box of the page in C++.'
 type: docs
-weight: 3300
+weight: 4100
 url: /cpp/aspose.pdf/page/get_trimbox/
 ---
 ## Page::get_TrimBox method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_trimbox/
 Gets trim box of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Page::get_TrimBox()
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Page::get_TrimBox()
 ```
 
 ## See Also

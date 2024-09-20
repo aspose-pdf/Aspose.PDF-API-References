@@ -4,7 +4,7 @@ linktitle: get_TextHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormattedText::get_TextHeight method. Gets height of text in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.facades/formattedtext/get_textheight/
 ---
 ## FormattedText::get_TextHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formattedtext/get_textheight/
 Gets height of text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::FormattedText::get_TextHeight() const
+float Aspose::Pdf::Facades::FormattedText::get_TextHeight() const
 ```
 
 ## See Also

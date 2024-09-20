@@ -4,7 +4,7 @@ linktitle: set_Cells
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::set_Cells method. Gets the cells of the row in C++.'
 type: docs
-weight: 600
+weight: 1600
 url: /cpp/aspose.pdf/row/set_cells/
 ---
 ## Row::set_Cells method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_cells/
 Gets the cells of the row.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_Cells(System::SharedPtr<Aspose::Pdf::Cells> value)
+void Aspose::Pdf::Row::set_Cells(System::SharedPtr<Aspose::Pdf::Cells> value)
 ```
 
 ## See Also

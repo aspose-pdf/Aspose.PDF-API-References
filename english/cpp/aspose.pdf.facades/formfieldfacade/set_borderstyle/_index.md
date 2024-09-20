@@ -4,7 +4,7 @@ linktitle: set_BorderStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::set_BorderStyle method. The style of a field border in C++.'
 type: docs
-weight: 400
+weight: 2400
 url: /cpp/aspose.pdf.facades/formfieldfacade/set_borderstyle/
 ---
 ## FormFieldFacade::set_BorderStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_borderstyle/
 The style of a field border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_BorderStyle(int32_t value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_BorderStyle(int32_t value)
 ```
 
 ## See Also

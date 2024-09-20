@@ -4,7 +4,7 @@ linktitle: Scope_Column
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Scope_Column field. Attribute Scope: Column in C++.'
 type: docs
-weight: 6900
+weight: 5700
 url: /cpp/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
 ## Scope_Column field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/scope_column/
 Attribute Scope: Column.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Scope_Column
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Scope_Column
 ```
 
 ## See Also

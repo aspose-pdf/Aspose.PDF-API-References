@@ -4,7 +4,7 @@ linktitle: set_Bottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Margins::set_Bottom method. Sets the bottom in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pdf.devices/margins/set_bottom/
 ---
 ## Margins::set_Bottom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/margins/set_bottom/
 Sets the bottom.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::Margins::set_Bottom(int32_t value)
+void Aspose::Pdf::Devices::Margins::set_Bottom(int32_t value)
 ```
 
 ## Remarks

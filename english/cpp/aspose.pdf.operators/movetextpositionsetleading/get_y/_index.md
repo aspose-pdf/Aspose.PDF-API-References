@@ -4,7 +4,7 @@ linktitle: get_Y
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::MoveTextPositionSetLeading::get_Y method. Y coordinate of text position in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.operators/movetextpositionsetleading/get_y/
 ---
 ## MoveTextPositionSetLeading::get_Y method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/movetextpositionsetleading/get_y/
 Y coordinate of text position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::MoveTextPositionSetLeading::get_Y() const
+double Aspose::Pdf::Operators::MoveTextPositionSetLeading::get_Y() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ToDateTime
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToDateTime method. Converts to date time in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/aspose.pdf/xmpvalue/todatetime/
 ---
 ## XmpValue::ToDateTime method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/todatetime/
 Converts to date time.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::DateTime Aspose::Pdf::XmpValue::ToDateTime()
+System::DateTime Aspose::Pdf::XmpValue::ToDateTime()
 ```
 
 

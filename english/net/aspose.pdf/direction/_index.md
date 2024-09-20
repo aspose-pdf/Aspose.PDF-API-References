@@ -3,7 +3,7 @@ title: Enum Direction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Direction enum. Text direction
 type: docs
-weight: 2180
+weight: 2230
 url: /net/aspose.pdf/direction/
 ---
 ## Direction enumeration

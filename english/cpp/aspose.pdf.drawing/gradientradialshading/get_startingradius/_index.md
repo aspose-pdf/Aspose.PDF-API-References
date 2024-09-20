@@ -4,7 +4,7 @@ linktitle: get_StartingRadius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientRadialShading::get_StartingRadius method. Gets starting circle radius in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.drawing/gradientradialshading/get_startingradius/
 ---
 ## GradientRadialShading::get_StartingRadius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/get_startingradius/
 Gets starting circle radius.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::GradientRadialShading::get_StartingRadius() const
+double Aspose::Pdf::Drawing::GradientRadialShading::get_StartingRadius() const
 ```
 
 ## See Also

@@ -48,7 +48,7 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 | [Insert](./insert/)(int32_t, System::SharedPtr\<Page\>) | Inserts page into page collection at specified place. |
 | [Insert](./insert/)(int32_t, System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>) | Inserts pages from the collection into document. |
 | [Insert](./insert/)(int32_t, System::ArrayPtr\<System::SharedPtr\<Page\>\>) | Inserts pages of the array into document. |
-| [Remove](./remove/)(const System::SharedPtr\<Page\>\&) override | Removes the specified item, throws 
+| [Remove](./remove/)(const System::SharedPtr\<Page\>\&) override | Removes the specified item, throws NotSupportedException
 . |
 ## See Also
 

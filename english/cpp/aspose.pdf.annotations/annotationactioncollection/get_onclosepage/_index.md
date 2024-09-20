@@ -4,7 +4,7 @@ linktitle: get_OnClosePage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnClosePage method. Gets an action to be performed when the page containing the annotation is closed in C++.'
 type: docs
-weight: 1300
+weight: 200
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onclosepage/
 ---
 ## AnnotationActionCollection::get_OnClosePage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_onclosepage/
 Gets an action to be performed when the page containing the annotation is closed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnClosePage()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnClosePage()
 ```
 
 ## See Also

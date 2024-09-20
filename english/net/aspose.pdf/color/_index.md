@@ -3,7 +3,7 @@ title: Class Color
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Color class. Represents class for color value which can be expressed in different color space
 type: docs
-weight: 1660
+weight: 1680
 url: /net/aspose.pdf/color/
 ---
 ## Color class
@@ -176,7 +176,7 @@ public sealed class Color
 | --- | --- |
 | static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Gets valid pdf Color object from RGB color components. |
 | static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Gets valid pdf Color object from RGB color components. |
-| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Gets valid pdf Color object from RGB color components. |
+| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Gets valid pdf Color object from CMYK color components. |
 | static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Gets valid pdf Color object from Gray color component. |
 | static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Gets valid pdf Color object from System.Drawing.Color value. |
 | static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Gets valid pdf Color object from RGB color components. |

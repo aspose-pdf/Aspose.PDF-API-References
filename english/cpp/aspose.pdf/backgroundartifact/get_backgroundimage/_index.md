@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/get_backgroundimage/
 Gets bacground image of background artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::BackgroundArtifact::get_BackgroundImage() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::BackgroundArtifact::get_BackgroundImage() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetCheckedStateName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::GetCheckedStateName method. Returns name of "checked" state according to existing state names in C++.'
 type: docs
-weight: 1800
+weight: 1200
 url: /cpp/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 ---
 ## WidgetAnnotation::GetCheckedStateName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 Returns name of "checked" state according to existing state names.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::WidgetAnnotation::GetCheckedStateName()
+System::String Aspose::Pdf::Annotations::WidgetAnnotation::GetCheckedStateName()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_DefaultTextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::get_DefaultTextState method. Gets default font in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/pageinfo/get_defaulttextstate/
 ---
 ## PageInfo::get_DefaultTextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/get_defaulttextstate/
 Gets default font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Text::TextState> & Aspose::Pdf::PageInfo::get_DefaultTextState() const
+const System::SharedPtr<Text::TextState> & Aspose::Pdf::PageInfo::get_DefaultTextState() const
 ```
 
 ## See Also

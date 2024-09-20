@@ -4,7 +4,7 @@ linktitle: GetFieldTemplate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::XFA::GetFieldTemplate method. Returns XML node of XFA field tempalte in C++.'
 type: docs
-weight: 1000
+weight: 800
 url: /cpp/aspose.pdf.forms/xfa/getfieldtemplate/
 ---
 ## XFA::GetFieldTemplate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/xfa/getfieldtemplate/
 Returns XML node of [XFA](../) field tempalte.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::GetFieldTemplate(System::String fieldName)
+System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::GetFieldTemplate(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms
 ### ReturnValue
 
 XL node with field template.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Path of the field which template must be found.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XFA](../)

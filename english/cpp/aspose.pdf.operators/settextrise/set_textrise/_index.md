@@ -4,7 +4,7 @@ linktitle: set_TextRise
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetTextRise::set_TextRise method. Sets the text rise in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/settextrise/set_textrise/
 ---
 ## SetTextRise::set_TextRise method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/settextrise/set_textrise/
 Sets the text rise.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetTextRise::set_TextRise(double value)
+void Aspose::Pdf::Operators::SetTextRise::set_TextRise(double value)
 ```
 
 ## See Also

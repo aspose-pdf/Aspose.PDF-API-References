@@ -4,7 +4,7 @@ linktitle: SPLITVOUT
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::SPLITVOUT field. Out Vertical Split in C++.'
 type: docs
-weight: 2900
+weight: 4200
 url: /cpp/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
 ## SPLITVOUT field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/splitvout/
 Out Vertical Split.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::SPLITVOUT
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::SPLITVOUT
 ```
 
 ## See Also

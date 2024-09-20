@@ -4,7 +4,7 @@ linktitle: set_BitmapInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use set_BitmapInfo method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 200
+weight: 1300
 url: /cpp/aspose.pdf/ximageaddingparams/set_bitmapinfo/
 ---
 ## XImageAddingParams::set_BitmapInfo method

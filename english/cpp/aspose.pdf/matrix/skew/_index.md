@@ -4,7 +4,7 @@ linktitle: Skew
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::Skew method. Creates matrix for given rotation angle in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.pdf/matrix/skew/
 ---
 ## Matrix::Skew method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/skew/
 Creates matrix for given rotation angle.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Skew(double alpha, double beta)
+static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Skew(double alpha, double beta)
 ```
 
 
@@ -25,27 +25,7 @@ static ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Skew
 ### ReturnValue
 
 Transformation matrix.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>alpha</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Skew x angle in radians.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>beta</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Skew y angle in radians.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Matrix](../)

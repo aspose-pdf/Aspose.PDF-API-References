@@ -4,7 +4,7 @@ linktitle: get_ToAttemptGetUnderlineFromSource
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextEditOptions::get_ToAttemptGetUnderlineFromSource method. Gets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this in C++.'
 type: docs
-weight: 1300
+weight: 800
 url: /cpp/aspose.pdf.text/texteditoptions/get_toattemptgetunderlinefromsource/
 ---
 ## TextEditOptions::get_ToAttemptGetUnderlineFromSource method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/get_toattemptgetunderlinefromsource/
 Gets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextEditOptions::get_ToAttemptGetUnderlineFromSource() const
+bool Aspose::Pdf::Text::TextEditOptions::get_ToAttemptGetUnderlineFromSource() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ExtractLink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::ExtractLink method. Extracts the collection of Link instances contained in PDF document in C++.'
 type: docs
-weight: 1000
+weight: 3300
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/extractlink/
 ---
 ## PdfContentEditor::ExtractLink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/extractlink/
 Extracts the collection of Link instances contained in PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>> Aspose::Pdf::Facades::PdfContentEditor::ExtractLink()
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>> Aspose::Pdf::Facades::PdfContentEditor::ExtractLink()
 ```
 
 

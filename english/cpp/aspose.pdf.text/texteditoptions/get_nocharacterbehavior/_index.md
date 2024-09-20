@@ -4,7 +4,7 @@ linktitle: get_NoCharacterBehavior
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextEditOptions::get_NoCharacterBehavior method. Gets mode that defines behavior in case fonts don''t contain requested characters in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf.text/texteditoptions/get_nocharacterbehavior/
 ---
 ## TextEditOptions::get_NoCharacterBehavior method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/get_nocharacterbehavior/
 Gets mode that defines behavior in case fonts don't contain requested characters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextEditOptions::NoCharacterAction Aspose::Pdf::Text::TextEditOptions::get_NoCharacterBehavior() const
+TextEditOptions::NoCharacterAction Aspose::Pdf::Text::TextEditOptions::get_NoCharacterBehavior() const
 ```
 
 ## See Also

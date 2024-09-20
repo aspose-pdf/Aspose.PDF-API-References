@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/get_isfield/
 Returns true if [XmpValue](../) is field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpValue::get_IsField()
+bool Aspose::Pdf::XmpValue::get_IsField()
 ```
 
 ## See Also

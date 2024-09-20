@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/get_opi/
 Gets The Open Prepress Interface (OPI).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Opi> Aspose::Pdf::XForm::get_Opi()
+System::SharedPtr<Aspose::Pdf::Opi> Aspose::Pdf::XForm::get_Opi()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_MediumTurquoise
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_MediumTurquoise method. Gets a system-defined color that has an ARGB value of #FF48D1CC in C++.'
 type: docs
-weight: 9900
+weight: 10200
 url: /cpp/aspose.pdf/color/get_mediumturquoise/
 ---
 ## Color::get_MediumTurquoise method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_mediumturquoise/
 Gets a system-defined color that has an ARGB value of **#FF48D1CC**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_MediumTurquoise()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_MediumTurquoise()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/pagedevice/process/
 Perfoms some operation on the given page, e.g. converts page into graphic image.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output)=0
+virtual void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output)=0
 ```
 
 
@@ -21,27 +21,7 @@ virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::PageDevice::Process(Sys
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | The page to process. |
 | output | System::SharedPtr\<System::IO::Stream\> | This stream contains the results of processing. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page to process. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>output</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>This stream contains the results of processing. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)
@@ -54,7 +34,7 @@ virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::PageDevice::Process(Sys
 Perfoms some operation on the given page and saves results into the file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> page, System::String outputFileName)
+void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> page, System::String outputFileName)
 ```
 
 
@@ -62,27 +42,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::PageDevice::Process(System::Sha
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | The page to process. |
 | outputFileName | System::String | This file contains the results of processing. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page to process. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputFileName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>This file contains the results of processing. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)

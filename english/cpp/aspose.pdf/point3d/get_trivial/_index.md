@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point3d/get_trivial/
 Gets point with zero coordinates.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Point3D> Aspose::Pdf::Point3D::get_Trivial()
+static System::SharedPtr<Point3D> Aspose::Pdf::Point3D::get_Trivial()
 ```
 
 ## See Also

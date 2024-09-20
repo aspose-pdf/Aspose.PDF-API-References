@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffdevice/get_formpresentationmode/
 Gets form presentation mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Devices::TiffDevice::get_FormPresentationMode() const
+Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Devices::TiffDevice::get_FormPresentationMode() const
 ```
 
 ## See Also

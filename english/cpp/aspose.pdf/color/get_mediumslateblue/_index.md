@@ -4,7 +4,7 @@ linktitle: get_MediumSlateBlue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_MediumSlateBlue method. Gets a system-defined color that has an ARGB value of #FF7B68EE in C++.'
 type: docs
-weight: 9700
+weight: 10000
 url: /cpp/aspose.pdf/color/get_mediumslateblue/
 ---
 ## Color::get_MediumSlateBlue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_mediumslateblue/
 Gets a system-defined color that has an ARGB value of **#FF7B68EE**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_MediumSlateBlue()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_MediumSlateBlue()
 ```
 
 

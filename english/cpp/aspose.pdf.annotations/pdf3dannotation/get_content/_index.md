@@ -4,7 +4,7 @@ linktitle: get_Content
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DAnnotation::get_Content method. Gets the content in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_content/
 ---
 ## PDF3DAnnotation::get_Content method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_content/
 Gets the content.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DContent> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Content()
+System::SharedPtr<PDF3DContent> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Content()
 ```
 
 ## Remarks

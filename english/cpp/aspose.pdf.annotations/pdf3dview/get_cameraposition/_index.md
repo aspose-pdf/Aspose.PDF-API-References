@@ -4,7 +4,7 @@ linktitle: get_CameraPosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::get_CameraPosition method. Gets the camera position of view in C++.'
 type: docs
-weight: 800
+weight: 400
 url: /cpp/aspose.pdf.annotations/pdf3dview/get_cameraposition/
 ---
 ## PDF3DView::get_CameraPosition method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_cameraposition/
 Gets the camera position of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix3D> Aspose::Pdf::Annotations::PDF3DView::get_CameraPosition() const
+System::SharedPtr<Matrix3D> Aspose::Pdf::Annotations::PDF3DView::get_CameraPosition() const
 ```
 
 ## Remarks

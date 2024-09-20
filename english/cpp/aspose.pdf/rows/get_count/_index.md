@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rows::get_Count method. The items count in C++.'
 type: docs
-weight: 100
+weight: 800
 url: /cpp/aspose.pdf/rows/get_count/
 ---
 ## Rows::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/get_count/
 The items count.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Rows::get_Count()
+int32_t Aspose::Pdf::Rows::get_Count()
 ```
 
 ## See Also

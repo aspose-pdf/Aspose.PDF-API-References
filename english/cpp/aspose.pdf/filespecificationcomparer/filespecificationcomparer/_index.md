@@ -20,19 +20,7 @@ Aspose::Pdf::FileSpecificationComparer::FileSpecificationComparer(System::Shared
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sort | System::SharedPtr\<CollectionSort\> | The collection sort definition. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>sort</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The collection sort definition.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CollectionSort](../../collectionsort/)

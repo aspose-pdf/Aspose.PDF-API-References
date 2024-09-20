@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PdfActionCollection::Add method. Add action to action list in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pdf.annotations/pdfactioncollection/add/
 ---
 ## PdfActionCollection::Add method
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.annotations/pdfactioncollection/add/
 Add action to action list.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PdfActionCollection::Add(System::SharedPtr<PdfAction> action)
+void Aspose::Pdf::Annotations::PdfActionCollection::Add(System::SharedPtr<PdfAction> action)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | action | System::SharedPtr\<PdfAction\> | Action to be added. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>action</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Action to be added.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfAction](../../pdfaction/)

@@ -4,7 +4,7 @@ linktitle: get_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::get_FontSize method. Gets font size for OverlayText in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/aspose.pdf.annotations/redactionannotation/get_fontsize/
 ---
 ## RedactionAnnotation::get_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/get_fontsize/
 Gets font size for OverlayText.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Annotations::RedactionAnnotation::get_FontSize() const
+float Aspose::Pdf::Annotations::RedactionAnnotation::get_FontSize() const
 ```
 
 ## See Also

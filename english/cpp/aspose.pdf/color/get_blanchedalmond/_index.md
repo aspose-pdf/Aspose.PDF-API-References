@@ -4,7 +4,7 @@ linktitle: get_BlanchedAlmond
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_BlanchedAlmond method. Gets a system-defined color that has an ARGB value of #FFFFEBCD in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/aspose.pdf/color/get_blanchedalmond/
 ---
 ## Color::get_BlanchedAlmond method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_blanchedalmond/
 Gets a system-defined color that has an ARGB value of **#FFFFEBCD**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_BlanchedAlmond()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_BlanchedAlmond()
 ```
 
 

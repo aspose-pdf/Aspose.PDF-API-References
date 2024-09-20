@@ -4,7 +4,7 @@ linktitle: get_Frame
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::CaretAnnotation::get_Frame method. Gets caret rectangle in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.annotations/caretannotation/get_frame/
 ---
 ## CaretAnnotation::get_Frame method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretannotation/get_frame/
 Gets caret rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::CaretAnnotation::get_Frame()
+System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::CaretAnnotation::get_Frame()
 ```
 
 ## See Also

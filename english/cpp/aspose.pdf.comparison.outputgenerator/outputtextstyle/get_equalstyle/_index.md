@@ -4,7 +4,7 @@ linktitle: get_EqualStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::get_EqualStyle method. Get and set a text style for non changed text in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/get_equalstyle/
 ---
 ## OutputTextStyle::get_EqualStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/get_equalstyle/
 Get and set a text style for non changed text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<TextStyle> & Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::get_EqualStyle() const
+const System::SharedPtr<TextStyle> & Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::get_EqualStyle() const
 ```
 
 ## See Also

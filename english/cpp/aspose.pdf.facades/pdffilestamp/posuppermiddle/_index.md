@@ -4,7 +4,7 @@ linktitle: PosUpperMiddle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::PosUpperMiddle field. Upper middle position in C++.'
 type: docs
-weight: 4300
+weight: 4500
 url: /cpp/aspose.pdf.facades/pdffilestamp/posuppermiddle/
 ---
 ## PosUpperMiddle field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/posuppermiddle/
 Upper middle position.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperMiddle
+static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperMiddle
 ```
 
 ## See Also

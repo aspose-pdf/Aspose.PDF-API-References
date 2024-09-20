@@ -4,7 +4,7 @@ linktitle: get_DigestHashAlgorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TimestampSettings::get_DigestHashAlgorithm method. Gets/sets the digest algorithm for internal hash functions in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf/timestampsettings/get_digesthashalgorithm/
 ---
 ## TimestampSettings::get_DigestHashAlgorithm method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/get_digesthashalgorithm/
 Gets/sets the digest algorithm for internal hash functions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::DigestHashAlgorithm Aspose::Pdf::TimestampSettings::get_DigestHashAlgorithm() const
+Aspose::Pdf::DigestHashAlgorithm Aspose::Pdf::TimestampSettings::get_DigestHashAlgorithm() const
 ```
 
 ## See Also

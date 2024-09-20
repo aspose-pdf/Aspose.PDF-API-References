@@ -4,7 +4,7 @@ linktitle: get_ScreenReaders
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_ScreenReaders method. Allows to reader on screen only in C++.'
 type: docs
-weight: 2700
+weight: 3000
 url: /cpp/aspose.pdf.facades/documentprivilege/get_screenreaders/
 ---
 ## DocumentPrivilege::get_ScreenReaders method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_screenreaders/
 Allows to reader on screen only.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ScreenReaders()
+static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ScreenReaders()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: BorderThickness
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::BorderThickness field. BorderThickness attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.logicalstructure/attributekey/borderthickness/
 ---
 ## BorderThickness field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/borderthickness/
 BorderThickness attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderThickness
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderThickness
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_InitialSegmentTextLength
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_InitialSegmentTextLength method of Aspose::Pdf::Text::OnSegmentChangedEventArgs class in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.text/onsegmentchangedeventargs/get_initialsegmenttextlength/
 ---
 ## OnSegmentChangedEventArgs::get_InitialSegmentTextLength method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/onsegmentchangedeventargs/get_initialsegmenttextlength
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Text::OnSegmentChangedEventArgs::get_InitialSegmentTextLength() const
+int32_t Aspose::Pdf::Text::OnSegmentChangedEventArgs::get_InitialSegmentTextLength() const
 ```
 
 ## See Also

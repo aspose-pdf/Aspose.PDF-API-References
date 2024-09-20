@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::Close method. Close the instance of PdfConverter and release the resources in C++.'
 type: docs
-weight: 2700
+weight: 300
 url: /cpp/aspose.pdf.facades/pdfconverter/close/
 ---
 ## PdfConverter::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/close/
 Close the instance of [PdfConverter](../) and release the resources.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfConverter::Close() override
+void Aspose::Pdf::Facades::PdfConverter::Close() override
 ```
 
 ## See Also

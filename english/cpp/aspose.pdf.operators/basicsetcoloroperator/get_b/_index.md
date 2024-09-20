@@ -4,7 +4,7 @@ linktitle: get_B
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BasicSetColorOperator::get_B method. Gets red component of color in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_b/
 ---
 ## BasicSetColorOperator::get_B method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_b/
 Gets red component of color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::BasicSetColorOperator::get_B()
+double Aspose::Pdf::Operators::BasicSetColorOperator::get_B()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/set_copyallowlevel/
 Sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::DocumentPrivilege::set_CopyAllowLevel(int32_t value)
+void Aspose::Pdf::Facades::DocumentPrivilege::set_CopyAllowLevel(int32_t value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Trivial
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Point::get_Trivial method. Gets point with zero coordinates in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf/point/get_trivial/
 ---
 ## Point::get_Trivial method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point/get_trivial/
 Gets point with zero coordinates.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Point::get_Trivial()
+static System::SharedPtr<Point> Aspose::Pdf::Point::get_Trivial()
 ```
 
 ## See Also

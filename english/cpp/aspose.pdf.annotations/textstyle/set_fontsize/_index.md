@@ -4,7 +4,7 @@ linktitle: set_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextStyle::set_FontSize method. Fonst size in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf.annotations/textstyle/set_fontsize/
 ---
 ## TextStyle::set_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textstyle/set_fontsize/
 Fonst size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::TextStyle::set_FontSize(double value)
+void Aspose::Pdf::Annotations::TextStyle::set_FontSize(double value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: TPadding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::TPadding field. TPadding attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 2500
+weight: 4300
 url: /cpp/aspose.pdf.logicalstructure/attributekey/tpadding/
 ---
 ## TPadding field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/tpadding/
 TPadding attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::TPadding
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::TPadding
 ```
 
 ## See Also

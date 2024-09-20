@@ -4,7 +4,7 @@ linktitle: set_Hyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_Hyperlink method. Sets the fragment hyperlink in C++.'
 type: docs
-weight: 800
+weight: 2300
 url: /cpp/aspose.pdf.text/textfragment/set_hyperlink/
 ---
 ## TextFragment::set_Hyperlink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_hyperlink/
 Sets the fragment hyperlink.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragment::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value) override
+void Aspose::Pdf::Text::TextFragment::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value) override
 ```
 
 ## See Also

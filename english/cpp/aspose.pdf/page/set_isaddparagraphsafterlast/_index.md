@@ -4,7 +4,7 @@ linktitle: set_IsAddParagraphsAfterLast
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_IsAddParagraphsAfterLast method. Sets the addition of paragraphs after the last paragraph of the page in C++.'
 type: docs
-weight: 200
+weight: 6100
 url: /cpp/aspose.pdf/page/set_isaddparagraphsafterlast/
 ---
 ## Page::set_IsAddParagraphsAfterLast method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_isaddparagraphsafterlast/
 Sets the addition of paragraphs after the last paragraph of the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_IsAddParagraphsAfterLast(bool value)
+void Aspose::Pdf::Page::set_IsAddParagraphsAfterLast(bool value)
 ```
 
 ## Remarks

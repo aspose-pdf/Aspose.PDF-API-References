@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintents/getenumerator/
 Returns an enumerator that iterates through the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutputIntent>>> Aspose::Pdf::OutputIntents::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutputIntent>>> Aspose::Pdf::OutputIntents::GetEnumerator() override
 ```
 
 

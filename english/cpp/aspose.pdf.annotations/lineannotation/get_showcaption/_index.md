@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_showcaption/
 Gets boolean flag which determinies is contents must be shown as caption.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::LineAnnotation::get_ShowCaption()
+bool Aspose::Pdf::Annotations::LineAnnotation::get_ShowCaption()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_BitmapInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_BitmapInfo method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/ximageaddingparams/get_bitmapinfo/
 ---
 ## XImageAddingParams::get_BitmapInfo method

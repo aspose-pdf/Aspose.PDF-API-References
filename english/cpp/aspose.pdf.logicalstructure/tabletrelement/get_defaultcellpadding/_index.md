@@ -4,7 +4,7 @@ linktitle: get_DefaultCellPadding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::get_DefaultCellPadding method. Gets default margin for row cells in C++.'
 type: docs
-weight: 1700
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_defaultcellpadding/
 ---
 ## TableTRElement::get_DefaultCellPadding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_defaultcellpadding/
 Gets default margin for row cells.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<MarginInfo> Aspose::Pdf::LogicalStructure::TableTRElement::get_DefaultCellPadding() const
+System::SharedPtr<MarginInfo> Aspose::Pdf::LogicalStructure::TableTRElement::get_DefaultCellPadding() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Off
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Dash::get_Off method. Gets length of first gap between dashes in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.annotations/dash/get_off/
 ---
 ## Dash::get_Off method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/dash/get_off/
 Gets length of first gap between dashes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::Dash::get_Off()
+int32_t Aspose::Pdf::Annotations::Dash::get_Off()
 ```
 
 ## See Also

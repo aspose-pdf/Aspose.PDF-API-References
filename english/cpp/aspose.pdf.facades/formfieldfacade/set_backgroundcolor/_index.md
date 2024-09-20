@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::set_BackgroundColor method. The color of a field background, default is white in C++.'
 type: docs
-weight: 3600
+weight: 2200
 url: /cpp/aspose.pdf.facades/formfieldfacade/set_backgroundcolor/
 ---
 ## FormFieldFacade::set_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_backgroundcolor/
 The color of a field background, default is white.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_BackgroundColor(System::Drawing::Color value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_BackgroundColor(System::Drawing::Color value)
 ```
 
 ## See Also

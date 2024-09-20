@@ -4,7 +4,7 @@ linktitle: set_FontResourceName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DefaultAppearance::set_FontResourceName method. Gets font name in the default appearance in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.annotations/defaultappearance/set_fontresourcename/
 ---
 ## DefaultAppearance::set_FontResourceName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/defaultappearance/set_fontresourcename/
 Gets font name in the default appearance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::DefaultAppearance::set_FontResourceName(System::String value)
+void Aspose::Pdf::Annotations::DefaultAppearance::set_FontResourceName(System::String value)
 ```
 
 ## See Also

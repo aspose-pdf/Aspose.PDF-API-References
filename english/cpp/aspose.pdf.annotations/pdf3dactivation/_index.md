@@ -4,7 +4,7 @@ linktitle: PDF3DActivation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DActivation enum. Enum PDF3DActivation: set of 3D annotation activation mode in C++.'
 type: docs
-weight: 13500
+weight: 14000
 url: /cpp/aspose.pdf.annotations/pdf3dactivation/
 ---
 ## PDF3DActivation enum

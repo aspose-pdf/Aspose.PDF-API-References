@@ -25,27 +25,7 @@ int32_t Aspose::Pdf::FileSpecificationComparer::Compare(const System::SharedPtr<
 ### ReturnValue
 
 A value indicating the relative order of the file specifications.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>first</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The first file specification.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>second</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The second file specification.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FileSpecification](../../filespecification/)

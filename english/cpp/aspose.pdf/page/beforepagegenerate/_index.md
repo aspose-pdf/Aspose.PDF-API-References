@@ -19,16 +19,7 @@ using Aspose::Pdf::Page::BeforePageGenerate =  System::MulticastDelegate<void(Sy
 ## Remarks
 
 
-/// <parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The current page.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+/// 
 ## See Also
 
 * Class [Page](../)

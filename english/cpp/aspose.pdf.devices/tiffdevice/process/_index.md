@@ -4,7 +4,7 @@ linktitle: Process
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffDevice::Process method. Converts certain document pages into tiff and save it in the output stream in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.devices/tiffdevice/process/
 ---
 ## TiffDevice::Process(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffdevice/process/
 Converts certain document pages into tiff and save it in the output stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Aspose::Pdf::Document> document, int32_t fromPage, int32_t toPage, System::SharedPtr<System::IO::Stream> output) override
+void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Aspose::Pdf::Document> document, int32_t fromPage, int32_t toPage, System::SharedPtr<System::IO::Stream> output) override
 ```
 
 
@@ -23,43 +23,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffDevice::Process(System::Sha
 | fromPage | int32_t | Defines page number from which converting will start. |
 | toPage | int32_t | Defines page number which will end the converting. |
 | output | System::SharedPtr\<System::IO::Stream\> | Output stream with tiff image. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>document</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The document to convert. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fromPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Defines page number from which converting will start. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>toPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Defines page number which will end the converting. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>output</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output stream with tiff image. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../../../aspose.pdf/document/)
@@ -72,7 +36,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffDevice::Process(System::Sha
 Perfoms some operation on the given page, e.g. converts page into graphic image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
+void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
 ```
 
 
@@ -80,27 +44,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffDevice::Process(System::Sha
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | The page to process. |
 | output | System::SharedPtr\<System::IO::Stream\> | This stream contains the results of processing. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page to process. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>output</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>This stream contains the results of processing. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)

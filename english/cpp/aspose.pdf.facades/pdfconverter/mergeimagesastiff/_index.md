@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 Merges list of tiff streams as one multiple frames tiff stream.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfConverter::MergeImagesAsTiff(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::IO::Stream>>> inputImagesStreams)
+static System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfConverter::MergeImagesAsTiff(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::IO::Stream>>> inputImagesStreams)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::
 ### ReturnValue
 
 Multiple frames tiff stream.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputImagesStreams</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of tiff streams.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfConverter](../)

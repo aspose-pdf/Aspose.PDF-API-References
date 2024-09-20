@@ -4,7 +4,7 @@ linktitle: GetFlipMatrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::GetFlipMatrix method. Gets the flipping matrix in C++.'
 type: docs
-weight: 2500
+weight: 1200
 url: /cpp/aspose.pdf/matrix/getflipmatrix/
 ---
 ## Matrix::GetFlipMatrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/getflipmatrix/
 Gets the flipping matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::GetFlipMatrix()
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::GetFlipMatrix()
 ```
 
 

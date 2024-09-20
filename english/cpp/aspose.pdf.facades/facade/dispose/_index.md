@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Facade::Dispose method. Disposes the facade in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.facades/facade/dispose/
 ---
 ## Facade::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/facade/dispose/
 Disposes the facade.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Facade::Dispose() override
+void Aspose::Pdf::Facades::Facade::Dispose() override
 ```
 
 ## See Also

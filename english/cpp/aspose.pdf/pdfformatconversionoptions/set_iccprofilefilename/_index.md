@@ -4,7 +4,7 @@ linktitle: set_IccProfileFileName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName method. Sets the filename of icc profile name. In case of null the default icc profile used in C++.'
 type: docs
-weight: 3200
+weight: 2600
 url: /cpp/aspose.pdf/pdfformatconversionoptions/set_iccprofilefilename/
 ---
 ## PdfFormatConversionOptions::set_IccProfileFileName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_iccprofilefilename/
 Sets the filename of icc profile name. In case of null the default icc profile used.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName(System::String value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName(System::String value)
 ```
 
 ## See Also

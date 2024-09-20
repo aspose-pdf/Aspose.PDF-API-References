@@ -4,7 +4,7 @@ linktitle: set_Y
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColorStroke::set_Y method. Sets the yellow component in C++.'
 type: docs
-weight: 600
+weight: 1700
 url: /cpp/aspose.pdf.operators/setcolorstroke/set_y/
 ---
 ## SetColorStroke::set_Y method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/set_y/
 Sets the yellow component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetColorStroke::set_Y(double value)
+void Aspose::Pdf::Operators::SetColorStroke::set_Y(double value)
 ```
 
 ## See Also

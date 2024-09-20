@@ -4,7 +4,7 @@ linktitle: set_Format
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageNumberStamp::set_Format method. String value for stamping page numbers. Value must include char ''#'' which is replaced with the page number in the process of stamping in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf/pagenumberstamp/set_format/
 ---
 ## PageNumberStamp::set_Format method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagenumberstamp/set_format/
 String value for stamping page numbers. Value must include char '#' which is replaced with the page number in the process of stamping.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageNumberStamp::set_Format(System::String value)
+void Aspose::Pdf::PageNumberStamp::set_Format(System::String value)
 ```
 
 ## See Also

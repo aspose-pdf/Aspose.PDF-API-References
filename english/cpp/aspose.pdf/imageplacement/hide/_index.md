@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imageplacement/hide/
 Delete image from the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::ImagePlacement::Hide()
+void Aspose::Pdf::ImagePlacement::Hide()
 ```
 
 ## See Also

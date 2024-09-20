@@ -4,7 +4,7 @@ linktitle: set_Language
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::set_Language method. Sets the language for structure element in C++.'
 type: docs
-weight: 800
+weight: 1800
 url: /cpp/aspose.pdf.logicalstructure/structureelement/set_language/
 ---
 ## StructureElement::set_Language method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_language/
 Sets the language for structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureElement::set_Language(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_Language(System::String value)
 ```
 
 ## Remarks

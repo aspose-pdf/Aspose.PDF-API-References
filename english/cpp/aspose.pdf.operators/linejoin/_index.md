@@ -4,7 +4,7 @@ linktitle: LineJoin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::LineJoin enum. The line join style shall specify the shape to be used at the corners of paths that are stroked in C++.'
 type: docs
-weight: 8300
+weight: 8400
 url: /cpp/aspose.pdf.operators/linejoin/
 ---
 ## LineJoin enum

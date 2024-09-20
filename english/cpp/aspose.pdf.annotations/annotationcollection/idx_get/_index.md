@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationcollection/idx_get/
 The index of the element to get.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Annotation> Aspose::Pdf::Annotations::AnnotationCollection::idx_get(int32_t index)
+System::SharedPtr<Annotation> Aspose::Pdf::Annotations::AnnotationCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Annotation> Aspose::Pdf::Annotations::An
 ### ReturnValue
 
 [Annotation](../../annotation/) object
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The index value started from one.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Annotation](../../annotation/)

@@ -4,7 +4,7 @@ linktitle: CreateWarichuElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateWarichuElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3600
+weight: 3400
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
 ## ITaggedContent::CreateWarichuElement method

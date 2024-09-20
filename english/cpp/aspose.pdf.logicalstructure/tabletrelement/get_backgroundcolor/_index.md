@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::get_BackgroundColor method. Gets the row background color in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_backgroundcolor/
 ---
 ## TableTRElement::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_backgroundcolor/
 Gets the row background color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::TableTRElement::get_BackgroundColor() const
+System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::TableTRElement::get_BackgroundColor() const
 ```
 
 ## See Also

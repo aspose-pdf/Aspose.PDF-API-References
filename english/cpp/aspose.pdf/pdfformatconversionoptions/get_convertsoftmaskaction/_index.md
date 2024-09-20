@@ -4,7 +4,7 @@ linktitle: get_ConvertSoftMaskAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_ConvertSoftMaskAction method. Action for images with soft mask in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_convertsoftmaskaction/
 ---
 ## PdfFormatConversionOptions::get_ConvertSoftMaskAction method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_convertsoftmaskaction/
 Action for images with soft mask.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ConvertSoftMaskAction Aspose::Pdf::PdfFormatConversionOptions::get_ConvertSoftMaskAction() const
+Aspose::Pdf::ConvertSoftMaskAction Aspose::Pdf::PdfFormatConversionOptions::get_ConvertSoftMaskAction() const
 ```
 
 ## See Also

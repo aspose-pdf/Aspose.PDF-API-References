@@ -4,7 +4,7 @@ linktitle: get_IsFixedSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::get_IsFixedSize method. Gets a value indicating whether dictionary has a fixed size in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf.annotations/appearancedictionary/get_isfixedsize/
 ---
 ## AppearanceDictionary::get_IsFixedSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/get_isfixedsize/
 Gets a value indicating whether dictionary has a fixed size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::AppearanceDictionary::get_IsFixedSize() const
+bool Aspose::Pdf::Annotations::AppearanceDictionary::get_IsFixedSize() const
 ```
 
 ## See Also

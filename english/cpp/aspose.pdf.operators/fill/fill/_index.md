@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/fill/fill/
 Initilizes new f operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::Fill::Fill()
+Aspose::Pdf::Operators::Fill::Fill()
 ```
 
 ## See Also

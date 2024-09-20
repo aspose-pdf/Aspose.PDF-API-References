@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/ex/ex/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EX::EX()
+Aspose::Pdf::Operators::EX::EX()
 ```
 
 ## See Also

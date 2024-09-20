@@ -4,7 +4,7 @@ linktitle: TryDecryptFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSecurity::TryDecryptFile method. Decrypts an encrypted Pdf document by owner password. If the document hasn''t owner password, it is allow to use user password. Does not throw an exception if process failed in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
 ## PdfFileSecurity::TryDecryptFile method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 Decrypts an encrypted [Pdf](../../../aspose.pdf/) document by owner password. If the document hasn't owner password, it is allow to use user password. Does not throw an exception if process failed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSecurity::TryDecryptFile(System::String ownerPassword)
+bool Aspose::Pdf::Facades::PdfFileSecurity::TryDecryptFile(System::String ownerPassword)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSecurity::TryDecryptFile
 ### ReturnValue
 
 True for success,or false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>ownerPassword</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Owner password.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSecurity](../)

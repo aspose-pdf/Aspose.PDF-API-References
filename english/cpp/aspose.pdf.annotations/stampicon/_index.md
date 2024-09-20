@@ -4,7 +4,7 @@ linktitle: StampIcon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::StampIcon enum. Enumerates the icons to be used in displaying the annotation in C++.'
 type: docs
-weight: 14800
+weight: 15300
 url: /cpp/aspose.pdf.annotations/stampicon/
 ---
 ## StampIcon enum

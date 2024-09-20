@@ -4,7 +4,7 @@ linktitle: SelectFont
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SelectFont::SelectFont constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/selectfont/selectfont/
 ---
 ## SelectFont::SelectFont constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/selectfont/selectfont/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SelectFont::SelectFont(System::String resName, double size)
+Aspose::Pdf::Operators::SelectFont::SelectFont(System::String resName, double size)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SelectFont::SelectFont(System::Str
 | --- | --- | --- |
 | resName | System::String | The name of font resource, e.g. F1, F2 etc. |
 | size | double | Size of the font. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>resName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of font resource, e.g. F1, F2 etc.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>size</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Size of the font.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SelectFont](../)

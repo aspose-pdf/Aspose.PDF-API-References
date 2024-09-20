@@ -3,7 +3,7 @@ title: Matrix.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Returns text reporesentation of the matrix
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf/matrix/tostring/
 ---
 ## Matrix.ToString method

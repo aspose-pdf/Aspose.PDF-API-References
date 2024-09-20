@@ -4,7 +4,7 @@ linktitle: Reset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentAbsorber::Reset method. Clears TextFragments collection of this TextFragmentAbsorber object in C++.'
 type: docs
-weight: 2000
+weight: 1400
 url: /cpp/aspose.pdf.text/textfragmentabsorber/reset/
 ---
 ## TextFragmentAbsorber::Reset method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/reset/
 Clears TextFragments collection of this [TextFragmentAbsorber](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentAbsorber::Reset()
+void Aspose::Pdf::Text::TextFragmentAbsorber::Reset()
 ```
 
 ## See Also

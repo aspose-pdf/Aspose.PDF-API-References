@@ -4,7 +4,7 @@ linktitle: Decrypt
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Decrypt method. Decrypts the document. Call then Save to obtain decrypted version of the document in C++.'
 type: docs
-weight: 9700
+weight: 700
 url: /cpp/aspose.pdf/document/decrypt/
 ---
 ## Document::Decrypt method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/decrypt/
 Decrypts the document. Call then Save to obtain decrypted version of the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::Decrypt()
+void Aspose::Pdf::Document::Decrypt()
 ```
 
 ## See Also

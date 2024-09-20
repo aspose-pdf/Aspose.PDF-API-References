@@ -4,7 +4,7 @@ linktitle: get_RowSpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::get_RowSpan method. Gets the row span in C++.'
 type: docs
-weight: 1900
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_rowspan/
 ---
 ## TableCellElement::get_RowSpan method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_rowspan/
 Gets the row span.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::LogicalStructure::TableCellElement::get_RowSpan() const
+int32_t Aspose::Pdf::LogicalStructure::TableCellElement::get_RowSpan() const
 ```
 
 ## See Also

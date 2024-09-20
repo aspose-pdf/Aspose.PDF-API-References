@@ -4,7 +4,7 @@ linktitle: set_InteriorColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor method. Interior color with which to fill the annotation''s rectangle or ellipse in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.annotations/commonfigureannotation/set_interiorcolor/
 ---
 ## CommonFigureAnnotation::set_InteriorColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/commonfigureannotation/set_interiorcolor/
 Interior color with which to fill the annotation's rectangle or ellipse.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
 ```
 
 ## See Also

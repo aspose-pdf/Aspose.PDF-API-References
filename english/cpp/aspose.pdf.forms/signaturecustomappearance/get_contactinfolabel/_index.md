@@ -4,7 +4,7 @@ linktitle: get_ContactInfoLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_ContactInfoLabel method. Gets/sets contact info label. Default value: "Contact" in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_contactinfolabel/
 ---
 ## SignatureCustomAppearance::get_ContactInfoLabel method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_contactinfolabel/
 Gets/sets contact info label. Default value: "Contact".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::SignatureCustomAppearance::get_ContactInfoLabel() const
+System::String Aspose::Pdf::Forms::SignatureCustomAppearance::get_ContactInfoLabel() const
 ```
 
 ## See Also

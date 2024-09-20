@@ -4,7 +4,7 @@ linktitle: set_RenditionOperation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RenditionAction::set_RenditionOperation method. The operation to perform when the action is triggered in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.annotations/renditionaction/set_renditionoperation/
 ---
 ## RenditionAction::set_RenditionOperation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/renditionaction/set_renditionoperation/
 The operation to perform when the action is triggered.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RenditionAction::set_RenditionOperation(Aspose::Pdf::Annotations::RenditionOperation value)
+void Aspose::Pdf::Annotations::RenditionAction::set_RenditionOperation(Aspose::Pdf::Annotations::RenditionOperation value)
 ```
 
 ## See Also

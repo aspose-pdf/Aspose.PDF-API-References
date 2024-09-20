@@ -4,7 +4,7 @@ linktitle: CanonicalFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::CanonicalFormat field. If set, any submitted field values representing dates shall be converted to the standard format in C++.'
 type: docs
-weight: 1500
+weight: 600
 url: /cpp/aspose.pdf.annotations/submitformaction/canonicalformat/
 ---
 ## CanonicalFormat field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/canonicalformat/
 If set, any submitted field values representing dates shall be converted to the standard format.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::CanonicalFormat
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::CanonicalFormat
 ```
 
 ## See Also

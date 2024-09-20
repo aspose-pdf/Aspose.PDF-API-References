@@ -3,7 +3,7 @@ title: Class CheckboxField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.CheckboxField class. Class representing checkbox field
 type: docs
-weight: 3390
+weight: 3440
 url: /net/aspose.pdf.forms/checkboxfield/
 ---
 ## CheckboxField class
@@ -89,7 +89,7 @@ public class CheckboxField : Field
 | override [Clone](../../aspose.pdf.forms/checkboxfield/clone/)() | Clone the checkbox. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Executes a specified JavaScript action for the field. |
-| override [Flatten](../../aspose.pdf.forms/field/flatten/)() | Removes this field and place its value directly on the page. |
+| [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator/)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |

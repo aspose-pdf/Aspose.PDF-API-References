@@ -4,7 +4,7 @@ linktitle: get_Id
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Id method. Gets the ID in C++.'
 type: docs
-weight: 6600
+weight: 3700
 url: /cpp/aspose.pdf/document/get_id/
 ---
 ## Document::get_Id method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_id/
 Gets the ID.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Id> Aspose::Pdf::Document::get_Id()
+System::SharedPtr<Aspose::Pdf::Id> Aspose::Pdf::Document::get_Id()
 ```
 
 ## See Also

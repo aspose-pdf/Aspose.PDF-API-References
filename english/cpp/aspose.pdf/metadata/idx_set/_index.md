@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/idx_set/
 Sets data from metadata.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::idx_set(const System::String &key, System::SharedPtr<XmpValue> value) override
+void Aspose::Pdf::Metadata::idx_set(const System::String &key, System::SharedPtr<XmpValue> value) override
 ```
 
 
@@ -21,28 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::idx_set(const System::String &
 | --- | --- | --- |
 | key | const System::String\& | The key name. |
 | value | System::SharedPtr\<XmpValue\> | [Metadata](../) object. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_metadata" kindref="compound">Metadata</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../xmpvalue/)

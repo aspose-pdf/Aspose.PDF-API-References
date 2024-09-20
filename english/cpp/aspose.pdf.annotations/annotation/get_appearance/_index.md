@@ -4,7 +4,7 @@ linktitle: get_Appearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::get_Appearance method. Gets appearance dictionary of the annotation in C++.'
 type: docs
-weight: 3600
+weight: 1200
 url: /cpp/aspose.pdf.annotations/annotation/get_appearance/
 ---
 ## Annotation::get_Appearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_appearance/
 Gets appearance dictionary of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<AppearanceDictionary> Aspose::Pdf::Annotations::Annotation::get_Appearance()
+System::SharedPtr<AppearanceDictionary> Aspose::Pdf::Annotations::Annotation::get_Appearance()
 ```
 
 ## See Also

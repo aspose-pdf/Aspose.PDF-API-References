@@ -4,7 +4,7 @@ linktitle: get_Gold
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Gold method. Gets a system-defined color that has an ARGB value of #FFFFD700 in C++.'
 type: docs
-weight: 5900
+weight: 6200
 url: /cpp/aspose.pdf/color/get_gold/
 ---
 ## Color::get_Gold method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_gold/
 Gets a system-defined color that has an ARGB value of **#FFFFD700**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Gold()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Gold()
 ```
 
 

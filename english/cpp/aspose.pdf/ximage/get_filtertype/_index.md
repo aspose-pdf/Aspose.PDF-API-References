@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/get_filtertype/
 Gets image filter type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ImageFilterType Aspose::Pdf::XImage::get_FilterType()
+Aspose::Pdf::ImageFilterType Aspose::Pdf::XImage::get_FilterType()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/txtloadoptions/txtloadoptions/
 Creates load options for converting text into pdf document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::TxtLoadOptions::TxtLoadOptions()
+Aspose::Pdf::TxtLoadOptions::TxtLoadOptions()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_ModifyAnnotations
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_ModifyAnnotations method. Allows modifying annotations of file in C++.'
 type: docs
-weight: 2500
+weight: 2700
 url: /cpp/aspose.pdf.facades/documentprivilege/get_modifyannotations/
 ---
 ## DocumentPrivilege::get_ModifyAnnotations method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_modifyannotations/
 Allows modifying annotations of file.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ModifyAnnotations()
+static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ModifyAnnotations()
 ```
 
 ## See Also

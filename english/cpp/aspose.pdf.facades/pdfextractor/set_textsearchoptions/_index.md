@@ -4,7 +4,7 @@ linktitle: set_TextSearchOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::set_TextSearchOptions method. Sets text search options in C++.'
 type: docs
-weight: 800
+weight: 2800
 url: /cpp/aspose.pdf.facades/pdfextractor/set_textsearchoptions/
 ---
 ## PdfExtractor::set_TextSearchOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/set_textsearchoptions/
 Sets text search options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfExtractor::set_TextSearchOptions(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> value)
+void Aspose::Pdf::Facades::PdfExtractor::set_TextSearchOptions(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> value)
 ```
 
 ## See Also

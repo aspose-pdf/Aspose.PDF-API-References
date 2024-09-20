@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point3d/tostring/
 Returns the string representation of the object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Point3D::ToString() const override
+System::String Aspose::Pdf::Point3D::ToString() const override
 ```
 
 

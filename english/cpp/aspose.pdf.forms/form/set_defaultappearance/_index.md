@@ -4,7 +4,7 @@ linktitle: set_DefaultAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::set_DefaultAppearance method. Sets default appearance of the form (object which describes default font, text size and color for fields on the form) in C++.'
 type: docs
-weight: 900
+weight: 3100
 url: /cpp/aspose.pdf.forms/form/set_defaultappearance/
 ---
 ## Form::set_DefaultAppearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_defaultappearance/
 Sets default appearance of the form (object which describes default font, text size and color for fields on the form).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Form::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
+void Aspose::Pdf::Forms::Form::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
 ```
 
 ## See Also

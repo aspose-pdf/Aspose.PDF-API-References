@@ -4,7 +4,7 @@ linktitle: set_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontSize method. Gets/sets font size. Default value: 10 in C++.'
 type: docs
-weight: 400
+weight: 2900
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_fontsize/
 ---
 ## SignatureCustomAppearance::set_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_fontsize/
 Gets/sets font size. Default value: 10.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontSize(double value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontSize(double value)
 ```
 
 ## See Also

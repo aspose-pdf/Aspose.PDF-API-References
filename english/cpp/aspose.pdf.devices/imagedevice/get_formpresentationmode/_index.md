@@ -4,7 +4,7 @@ linktitle: get_FormPresentationMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::ImageDevice::get_FormPresentationMode method. Gets form presentation mode in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.devices/imagedevice/get_formpresentationmode/
 ---
 ## ImageDevice::get_FormPresentationMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/imagedevice/get_formpresentationmode/
 Gets form presentation mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Devices::ImageDevice::get_FormPresentationMode() const
+Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Devices::ImageDevice::get_FormPresentationMode() const
 ```
 
 ## See Also

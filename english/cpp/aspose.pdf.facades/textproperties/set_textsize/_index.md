@@ -4,7 +4,7 @@ linktitle: set_TextSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::TextProperties::set_TextSize method. Sets text size in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.facades/textproperties/set_textsize/
 ---
 ## TextProperties::set_TextSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/textproperties/set_textsize/
 Sets text size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::TextProperties::set_TextSize(double value)
+void Aspose::Pdf::Facades::TextProperties::set_TextSize(double value)
 ```
 
 ## See Also

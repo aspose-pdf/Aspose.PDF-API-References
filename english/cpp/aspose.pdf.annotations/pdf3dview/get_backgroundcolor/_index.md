@@ -4,7 +4,7 @@ linktitle: get_BackGroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::get_BackGroundColor method. Gets the color of the back ground of view in C++.'
 type: docs
-weight: 1200
+weight: 200
 url: /cpp/aspose.pdf.annotations/pdf3dview/get_backgroundcolor/
 ---
 ## PDF3DView::get_BackGroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_backgroundcolor/
 Gets the color of the back ground of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DView::get_BackGroundColor() const
+System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DView::get_BackGroundColor() const
 ```
 
 ## Remarks

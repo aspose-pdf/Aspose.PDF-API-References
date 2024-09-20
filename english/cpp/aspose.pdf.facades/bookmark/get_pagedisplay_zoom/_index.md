@@ -4,7 +4,7 @@ linktitle: get_PageDisplay_Zoom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Zoom method. Gets the zoom factor of page display in C++.'
 type: docs
-weight: 2500
+weight: 1600
 url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay_zoom/
 ---
 ## Bookmark::get_PageDisplay_Zoom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay_zoom/
 Gets the zoom factor of page display.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Zoom() const
+int32_t Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Zoom() const
 ```
 
 ## See Also

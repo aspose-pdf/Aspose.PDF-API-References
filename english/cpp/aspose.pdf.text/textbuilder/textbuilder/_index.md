@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textbuilder/textbuilder/
 Initializes a new instance of [TextBuilder](../) class for the [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page)
+Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page)
 ```
 
 
@@ -25,17 +25,6 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextBuilder::TextBuilder(System::Shared
 
 The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pdf/) pages. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)
@@ -48,7 +37,7 @@ The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pd
 Initializes a new instance of [TextBuilder](../) class for the [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<BaseOperatorCollection> operatorCollection)
+Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<BaseOperatorCollection> operatorCollection)
 ```
 
 
@@ -61,26 +50,6 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextBuilder::TextBuilder(System::Shared
 
 The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pdf/) pages. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>operatorCollection</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_operator" kindref="compound">Operator</ref> collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)

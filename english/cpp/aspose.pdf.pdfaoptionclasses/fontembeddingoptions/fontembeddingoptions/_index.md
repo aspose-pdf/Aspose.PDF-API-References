@@ -4,7 +4,7 @@ linktitle: FontEmbeddingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions::FontEmbeddingOptions constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/fontembeddingoptions/
 ---
 ## FontEmbeddingOptions::FontEmbeddingOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/fontembeddingoptions
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions::FontEmbeddingOptions()
+Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions::FontEmbeddingOptions()
 ```
 
 ## See Also

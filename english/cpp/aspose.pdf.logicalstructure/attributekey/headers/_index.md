@@ -4,7 +4,7 @@ linktitle: Headers
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::Headers field. Headers attribute (Table attribute owner) in C++.'
 type: docs
-weight: 4300
+weight: 2100
 url: /cpp/aspose.pdf.logicalstructure/attributekey/headers/
 ---
 ## Headers field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/headers/
 Headers attribute ([Table](../../../aspose.pdf/table/) attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Headers
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Headers
 ```
 
 ## See Also

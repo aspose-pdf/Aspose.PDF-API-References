@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Ellipse::set_Width method. Sets a float value that indicates the width of the ellipse in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.pdf.drawing/ellipse/set_width/
 ---
 ## Ellipse::set_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/ellipse/set_width/
 Sets a float value that indicates the width of the ellipse.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Ellipse::set_Width(double value)
+void Aspose::Pdf::Drawing::Ellipse::set_Width(double value)
 ```
 
 ## See Also

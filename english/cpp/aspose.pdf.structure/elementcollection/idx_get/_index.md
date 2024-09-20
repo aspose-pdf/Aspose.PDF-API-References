@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Structure::ElementCollection::idx_get method. Gets Element by index in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.pdf.structure/elementcollection/idx_get/
 ---
 ## ElementCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/idx_get/
 Gets [Element](../../element/) by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Element> Aspose::Pdf::Structure::ElementCollection::idx_get(int32_t index)
+System::SharedPtr<Element> Aspose::Pdf::Structure::ElementCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Element> Aspose::Pdf::Structure::Element
 ### ReturnValue
 
 Retreived element.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of element.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Element](../../element/)

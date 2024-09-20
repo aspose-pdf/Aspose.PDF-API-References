@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/get_processpages/
 Gets the page numbers to be edited. By default, each page would be edited.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<int32_t> Aspose::Pdf::Facades::PdfPageEditor::get_ProcessPages()
+System::ArrayPtr<int32_t> Aspose::Pdf::Facades::PdfPageEditor::get_ProcessPages()
 ```
 
 ## See Also

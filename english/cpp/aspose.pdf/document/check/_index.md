@@ -4,7 +4,7 @@ linktitle: Check
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Check method. Validates document in C++.'
 type: docs
-weight: 10900
+weight: 400
 url: /cpp/aspose.pdf/document/check/
 ---
 ## Document::Check method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/check/
 Validates document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::Check(bool doRepair)
+bool Aspose::Pdf::Document::Check(bool doRepair)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::Check(bool doRepair)
 ### ReturnValue
 
 True - if document repaired; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>doRepair</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>If true found issues will be repaired.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../)

@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::GetEnumerator method. Returns an IDictionaryEnumerator object for the dictionary in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/aspose.pdf.annotations/appearancedictionary/getenumerator/
 ---
 ## AppearanceDictionary::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/getenumerator/
 Returns an IDictionaryEnumerator object for the dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XForm>>>> Aspose::Pdf::Annotations::AppearanceDictionary::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XForm>>>> Aspose::Pdf::Annotations::AppearanceDictionary::GetEnumerator() override
 ```
 
 

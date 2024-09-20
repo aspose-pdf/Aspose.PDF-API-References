@@ -4,7 +4,7 @@ linktitle: CppIsSetTrailerable
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CppIsSetTrailerable method of Aspose::Pdf::Text::Font class in C++.'
 type: docs
-weight: 1300
+weight: 100
 url: /cpp/aspose.pdf.text/font/cppissettrailerable/
 ---
 ## Font::CppIsSetTrailerable method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/font/cppissettrailerable/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::Font::CppIsSetTrailerable()
+bool Aspose::Pdf::Text::Font::CppIsSetTrailerable()
 ```
 
 ## See Also

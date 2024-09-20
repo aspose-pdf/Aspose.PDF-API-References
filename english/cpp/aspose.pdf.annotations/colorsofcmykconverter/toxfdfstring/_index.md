@@ -4,7 +4,7 @@ linktitle: ToXfdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToXfdfString method of Aspose::Pdf::Annotations::ColorsOfCMYKConverter class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/colorsofcmykconverter/toxfdfstring/
 ---
 ## ColorsOfCMYKConverter::ToXfdfString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/colorsofcmykconverter/toxfdfstring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToXfdfString(ColorsOfCMYK color)
+static System::String Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToXfdfString(ColorsOfCMYK color)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_InteriorColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor method. Sets interior color of the annotation in C++.'
 type: docs
-weight: 1000
+weight: 2300
 url: /cpp/aspose.pdf.annotations/lineannotation/set_interiorcolor/
 ---
 ## LineAnnotation::set_InteriorColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_interiorcolor/
 Sets interior color of the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_IsInNewPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::get_IsInNewPage method. Gets fixed row is in new page - page with this property should be printed to next page Default false in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_isinnewpage/
 ---
 ## TableTRElement::get_IsInNewPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_isinnewpage/
 Gets fixed row is in new page - page with this property should be printed to next page Default false.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::LogicalStructure::TableTRElement::get_IsInNewPage() const
+bool Aspose::Pdf::LogicalStructure::TableTRElement::get_IsInNewPage() const
 ```
 
 ## See Also

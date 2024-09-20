@@ -4,7 +4,7 @@ linktitle: ILSEs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeCategory::ILSEs method. Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 ---
 ## StructureTypeCategory::ILSEs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::ILSEs()
+static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::ILSEs()
 ```
 
 ## See Also

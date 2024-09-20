@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a0/
 A0 size (1189x840 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A0()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A0()
 ```
 
 ## See Also

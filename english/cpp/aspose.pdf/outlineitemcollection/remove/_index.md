@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::Remove method. Remove outline collection item in C++.'
 type: docs
-weight: 3500
+weight: 2900
 url: /cpp/aspose.pdf/outlineitemcollection/remove/
 ---
 ## OutlineItemCollection::Remove(const System::SharedPtr\<OutlineItemCollection\>\&) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/remove/
 Remove outline collection item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::Remove(const System::SharedPtr<OutlineItemCollection> &item) override
+bool Aspose::Pdf::OutlineItemCollection::Remove(const System::SharedPtr<OutlineItemCollection> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::Remove(const Syst
 ### ReturnValue
 
 True - if item removed; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Item to delete.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../)
@@ -49,26 +37,14 @@ True - if item removed; otherwise, false.
 Remove item by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::Remove(int32_t index)
+void Aspose::Pdf::OutlineItemCollection::Remove(int32_t index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index of item to be deleted. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of item to be deleted.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../)

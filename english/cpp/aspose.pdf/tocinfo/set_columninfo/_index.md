@@ -4,7 +4,7 @@ linktitle: set_ColumnInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::set_ColumnInfo method. Sets column info in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.pdf/tocinfo/set_columninfo/
 ---
 ## TocInfo::set_ColumnInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_columninfo/
 Sets column info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TocInfo::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnInfo> value)
+void Aspose::Pdf::TocInfo::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnInfo> value)
 ```
 
 ## See Also

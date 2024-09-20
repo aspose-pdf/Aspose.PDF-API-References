@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::set_Title method. Sets a string value that indicates the title of the graph in C++.'
 type: docs
-weight: 1400
+weight: 1800
 url: /cpp/aspose.pdf.drawing/graph/set_title/
 ---
 ## Graph::set_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_title/
 Sets a string value that indicates the title of the graph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Graph::set_Title(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
+void Aspose::Pdf::Drawing::Graph::set_Title(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
 ```
 
 ## See Also

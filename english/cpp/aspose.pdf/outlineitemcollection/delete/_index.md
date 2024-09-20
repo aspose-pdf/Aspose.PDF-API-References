@@ -4,7 +4,7 @@ linktitle: Delete
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::Delete method. Deletes this outline item from the document outline hierarchy in C++.'
 type: docs
-weight: 2700
+weight: 600
 url: /cpp/aspose.pdf/outlineitemcollection/delete/
 ---
 ## OutlineItemCollection::Delete() method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/delete/
 Deletes this outline item from the document outline hierarchy.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::Delete()
+void Aspose::Pdf::OutlineItemCollection::Delete()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::Delete()
 Deletes outline entry with specified name from the document outline hierarchy.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::Delete(System::String name)
+void Aspose::Pdf::OutlineItemCollection::Delete(System::String name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | Title of outline entry will be deleted. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Title of outline entry will be deleted.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../)

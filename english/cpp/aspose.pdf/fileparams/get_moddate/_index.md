@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/fileparams/get_moddate/
 The date and time when the embedded file was last modified.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::DateTime Aspose::Pdf::FileParams::get_ModDate()
+System::DateTime Aspose::Pdf::FileParams::get_ModDate()
 ```
 
 ## See Also

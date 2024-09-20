@@ -4,7 +4,7 @@ linktitle: TextFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::TextFragment constructor. Initializes new instance of the TextFragment object in C++.'
 type: docs
-weight: 2500
+weight: 100
 url: /cpp/aspose.pdf.text/textfragment/textfragment/
 ---
 ## TextFragment::TextFragment() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/textfragment/
 Initializes new instance of the [TextFragment](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment()
+Aspose::Pdf::Text::TextFragment::TextFragment()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment()
 Initializes new instance of the [TextFragment](../) object with predefined [TabStops](../../tabstops/) positions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::SharedPtr<TabStops> tabStops)
+Aspose::Pdf::Text::TextFragment::TextFragment(System::SharedPtr<TabStops> tabStops)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tabStops | System::SharedPtr\<TabStops\> | Tabulation positions |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>tabStops</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Tabulation positions</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TabStops](../../tabstops/)
@@ -59,27 +47,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::Shar
 Creates [TextFragment](../) object with single [TextSegment](../../textsegment/) object inside. Specifies text string inside the segment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::String text)
+Aspose::Pdf::Text::TextFragment::TextFragment(System::String text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | System::String | [Text](../../) fragment's text. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf_1_1_text" kindref="compound">Text</ref> fragment's text.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextFragment](../)
@@ -91,7 +66,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::Stri
 Creates [TextFragment](../) object with single [TextSegment](../../textsegment/) object inside and predefined [TabStops](../../tabstops/) positions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::String text, System::SharedPtr<TabStops> tabStops)
+Aspose::Pdf::Text::TextFragment::TextFragment(System::String text, System::SharedPtr<TabStops> tabStops)
 ```
 
 
@@ -99,28 +74,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextFragment::TextFragment(System::Stri
 | --- | --- | --- |
 | text | System::String | [Text](../../) fragment's text. |
 | tabStops | System::SharedPtr\<TabStops\> | Tabulation positions |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf_1_1_text" kindref="compound">Text</ref> fragment's text.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>tabStops</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Tabulation positions</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TabStops](../../tabstops/)

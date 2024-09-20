@@ -4,7 +4,7 @@ linktitle: get_B
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetRGBColorStroke::get_B method. Gets the blue component in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.operators/setrgbcolorstroke/get_b/
 ---
 ## SetRGBColorStroke::get_B method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setrgbcolorstroke/get_b/
 Gets the blue component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetRGBColorStroke::get_B() const
+double Aspose::Pdf::Operators::SetRGBColorStroke::get_B() const
 ```
 
 ## Remarks

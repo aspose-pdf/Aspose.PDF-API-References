@@ -16,7 +16,7 @@ public ExternalSignature(X509Certificate2 certificate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| certificate | X509Certificate2 | The certificate with the private key |
+| certificate | X509Certificate2 | The certificate with the private key. |
 
 ### See Also
 
@@ -26,7 +26,28 @@ public ExternalSignature(X509Certificate2 certificate)
 
 ---
 
-## ExternalSignature(string, bool) {#constructor_1}
+## ExternalSignature(X509Certificate2, bool) {#constructor_1}
+
+Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
+
+```csharp
+public ExternalSignature(X509Certificate2 certificate, bool detached)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| certificate | X509Certificate2 | The certificate with the private key. |
+| detached | Boolean | True if the signature should be detached, otherwise false. |
+
+### See Also
+
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExternalSignature(string, bool) {#constructor_2}
 
 Creates a PKCS#7 (detached) signature using a X509Certificate2 as base64 string.
 
@@ -37,7 +58,7 @@ public ExternalSignature(string base64, bool detached)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | base64 | String | X509Certificate2 as base64 string. |
-| detached | Boolean | Is detached. |
+| detached | Boolean | True if the signature should be detached, otherwise false. |
 
 ### See Also
 

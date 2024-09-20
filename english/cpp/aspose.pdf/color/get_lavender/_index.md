@@ -4,7 +4,7 @@ linktitle: get_Lavender
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Lavender method. Gets a system-defined color that has an ARGB value of #FFE6E6FA in C++.'
 type: docs
-weight: 7000
+weight: 7300
 url: /cpp/aspose.pdf/color/get_lavender/
 ---
 ## Color::get_Lavender method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_lavender/
 Gets a system-defined color that has an ARGB value of **#FFE6E6FA**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Lavender()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Lavender()
 ```
 
 

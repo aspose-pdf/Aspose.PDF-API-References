@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/
 Constructor ofr PdfXml format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PdfXmlSaveOptions::PdfXmlSaveOptions()
+Aspose::Pdf::PdfXmlSaveOptions::PdfXmlSaveOptions()
 ```
 
 ## See Also

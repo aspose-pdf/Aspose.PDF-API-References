@@ -4,7 +4,7 @@ linktitle: TextAlign_Justify
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_Justify field. Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary, to achieve such alignment. The last (or only) line shall be aligned with the start edge only in C++.'
 type: docs
-weight: 2600
+weight: 6100
 url: /cpp/aspose.pdf.logicalstructure/attributename/textalign_justify/
 ---
 ## TextAlign_Justify field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/textalign_justify/
 Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary, to achieve such alignment. The last (or only) line shall be aligned with the start edge only.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_Justify
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_Justify
 ```
 
 ## See Also

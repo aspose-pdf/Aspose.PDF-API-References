@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/et/et/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::ET::ET()
+Aspose::Pdf::Operators::ET::ET()
 ```
 
 ## See Also

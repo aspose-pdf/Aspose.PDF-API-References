@@ -4,7 +4,7 @@ linktitle: get_LeaderLineExtension
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineExtension method. Gets length of leader line extension in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.pdf.annotations/lineannotation/get_leaderlineextension/
 ---
 ## LineAnnotation::get_LeaderLineExtension method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_leaderlineextension/
 Gets length of leader line extension.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineExtension()
+double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineExtension()
 ```
 
 ## See Also

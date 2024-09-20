@@ -4,7 +4,7 @@ linktitle: get_ColumnAdjustment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_ColumnAdjustment method. Gets the table column adjustment in C++.'
 type: docs
-weight: 1100
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_columnadjustment/
 ---
 ## TableElement::get_ColumnAdjustment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/get_columnadjustment/
 Gets the table column adjustment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ColumnAdjustment Aspose::Pdf::LogicalStructure::TableElement::get_ColumnAdjustment() const
+Aspose::Pdf::ColumnAdjustment Aspose::Pdf::LogicalStructure::TableElement::get_ColumnAdjustment() const
 ```
 
 ## See Also

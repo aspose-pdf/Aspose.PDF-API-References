@@ -4,7 +4,7 @@ linktitle: get_InReplyTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::get_InReplyTo method. A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document in C++.'
 type: docs
-weight: 1200
+weight: 400
 url: /cpp/aspose.pdf.annotations/markupannotation/get_inreplyto/
 ---
 ## MarkupAnnotation::get_InReplyTo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/get_inreplyto/
 A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Annotation> Aspose::Pdf::Annotations::MarkupAnnotation::get_InReplyTo()
+System::SharedPtr<Annotation> Aspose::Pdf::Annotations::MarkupAnnotation::get_InReplyTo()
 ```
 
 ## See Also

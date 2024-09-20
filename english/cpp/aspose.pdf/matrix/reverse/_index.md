@@ -4,7 +4,7 @@ linktitle: Reverse
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::Reverse method. Calculates reverse matrix in C++.'
 type: docs
-weight: 2300
+weight: 1500
 url: /cpp/aspose.pdf/matrix/reverse/
 ---
 ## Matrix::Reverse method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/reverse/
 Calculates reverse matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Reverse()
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Reverse()
 ```
 
 

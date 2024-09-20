@@ -4,7 +4,7 @@ linktitle: SetHorizontalTextScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetHorizontalTextScaling::SetHorizontalTextScaling constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/
 ---
 ## SetHorizontalTextScaling::SetHorizontalTextScaling constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetHorizontalTextScaling::SetHorizontalTextScaling(double horizintalScaling)
+Aspose::Pdf::Operators::SetHorizontalTextScaling::SetHorizontalTextScaling(double horizintalScaling)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | horizintalScaling | double | Horizontal scaling. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>horizintalScaling</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Horizontal scaling.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SetHorizontalTextScaling](../)

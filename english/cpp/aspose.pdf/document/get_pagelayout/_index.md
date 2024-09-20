@@ -4,7 +4,7 @@ linktitle: get_PageLayout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_PageLayout method. Gets page layout which shall be used when the document is opened in C++.'
 type: docs
-weight: 4700
+weight: 5600
 url: /cpp/aspose.pdf/document/get_pagelayout/
 ---
 ## Document::get_PageLayout method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_pagelayout/
 Gets page layout which shall be used when the document is opened.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PageLayout Aspose::Pdf::Document::get_PageLayout()
+Aspose::Pdf::PageLayout Aspose::Pdf::Document::get_PageLayout()
 ```
 
 ## See Also

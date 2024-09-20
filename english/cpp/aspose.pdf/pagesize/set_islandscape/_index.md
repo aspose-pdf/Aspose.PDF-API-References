@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/set_islandscape/
 Gets page orientation. Returns true of this is landscape orientation and false if this is portrait.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageSize::set_IsLandscape(bool value)
+void Aspose::Pdf::PageSize::set_IsLandscape(bool value)
 ```
 
 ## See Also

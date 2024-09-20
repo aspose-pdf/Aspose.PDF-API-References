@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_usefontsubset/
 If this property set to true, fonts will be added to document as subsets. Default value is true.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Annotation::set_UseFontSubset(bool value)
+static void Aspose::Pdf::Annotations::Annotation::set_UseFontSubset(bool value)
 ```
 
 ## See Also

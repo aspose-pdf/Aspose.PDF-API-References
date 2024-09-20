@@ -4,7 +4,7 @@ linktitle: FillFields
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::FillFields method. Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to Text Box. Both the fields'' name and values are case sensitive in C++.'
 type: docs
-weight: 2400
+weight: 900
 url: /cpp/aspose.pdf.facades/form/fillfields/
 ---
 ## Form::FillFields method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/fillfields/
 Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to [Text](../../../aspose.pdf.text/) Box. Both the fields' name and values are case sensitive.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Form::FillFields(System::ArrayPtr<System::String> fieldNames, System::ArrayPtr<System::String> fieldValues, System::SharedPtr<System::IO::Stream> &output)
+bool Aspose::Pdf::Facades::Form::FillFields(System::ArrayPtr<System::String> fieldNames, System::ArrayPtr<System::String> fieldValues, System::SharedPtr<System::IO::Stream> &output)
 ```
 
 
@@ -26,35 +26,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Form::FillFields(System::ArrayP
 ### ReturnValue
 
 true if fields was found and successfully filled.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldNames</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Names of fields.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldValues</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>New values of the fields.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>output</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream where document will be saved.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Form](../)

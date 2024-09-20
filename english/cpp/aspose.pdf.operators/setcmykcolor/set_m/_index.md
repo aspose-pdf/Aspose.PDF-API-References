@@ -4,7 +4,7 @@ linktitle: set_M
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetCMYKColor::set_M method. Sets the magenta component in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.pdf.operators/setcmykcolor/set_m/
 ---
 ## SetCMYKColor::set_M method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcmykcolor/set_m/
 Sets the magenta component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetCMYKColor::set_M(double value)
+void Aspose::Pdf::Operators::SetCMYKColor::set_M(double value)
 ```
 
 ## See Also

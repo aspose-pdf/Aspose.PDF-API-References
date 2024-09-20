@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_corruptedfileaction/
 This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
 
 ```cpp
-ASPOSE_PDF_SHARED_API PdfFileEditor::ConcatenateCorruptedFileAction Aspose::Pdf::Facades::PdfFileEditor::get_CorruptedFileAction() const
+PdfFileEditor::ConcatenateCorruptedFileAction Aspose::Pdf::Facades::PdfFileEditor::get_CorruptedFileAction() const
 ```
 
 ## See Also

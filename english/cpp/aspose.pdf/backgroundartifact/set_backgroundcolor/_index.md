@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BackgroundArtifact::set_BackgroundColor method. Sets bacground color of background artifact in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf/backgroundartifact/set_backgroundcolor/
 ---
 ## BackgroundArtifact::set_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/set_backgroundcolor/
 Sets bacground color of background artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BackgroundArtifact::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::BackgroundArtifact::set_BackgroundColor(System::SharedPtr<Color> value)
 ```
 
 ## See Also

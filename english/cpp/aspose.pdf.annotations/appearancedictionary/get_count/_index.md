@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::get_Count method. Gets the number of elements contained in the dictionary in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.annotations/appearancedictionary/get_count/
 ---
 ## AppearanceDictionary::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/get_count/
 Gets the number of elements contained in the dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::AppearanceDictionary::get_Count() const override
+int32_t Aspose::Pdf::Annotations::AppearanceDictionary::get_Count() const override
 ```
 
 ## See Also

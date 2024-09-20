@@ -200,9 +200,9 @@ class Document : public System::IDisposable,
 
 | Typedef | Description |
 | --- | --- |
-| [FontSubstitutionHandler](./fontsubstitutionhandler/) | Represents the method that will handle FontSubstitution event. |
 | [CallBackGetHocr](./callbackgethocr/) | The call back procedure for hocr recognize. |
 | [CallBackGetHocrWithPage](./callbackgethocrwithpage/) | The call back procedure for hocr recognize. |
+| [FontSubstitutionHandler](./fontsubstitutionhandler/) | Represents the method that will handle FontSubstitution event. |
 ## See Also
 
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)

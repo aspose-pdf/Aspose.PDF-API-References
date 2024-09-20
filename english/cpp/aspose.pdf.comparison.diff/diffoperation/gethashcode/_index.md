@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.diff/diffoperation/gethashcode/
 Analog of C# Object.GetHashCode() method. Enables hashing of custom objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::Diff::DiffOperation::GetHashCode() const override
+int32_t Aspose::Pdf::Comparison::Diff::DiffOperation::GetHashCode() const override
 ```
 
 

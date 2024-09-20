@@ -4,7 +4,7 @@ linktitle: get_WidthExtraUnits
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_WidthExtraUnits method. Gets a value used to increase or decrease the width of rectangle for AppendRectangle operator in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/aspose.pdf/renderingoptions/get_widthextraunits/
 ---
 ## RenderingOptions::get_WidthExtraUnits method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/get_widthextraunits/
 Gets a value used to increase or decrease the width of rectangle for AppendRectangle operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::RenderingOptions::get_WidthExtraUnits() const
+float Aspose::Pdf::RenderingOptions::get_WidthExtraUnits() const
 ```
 
 ## See Also

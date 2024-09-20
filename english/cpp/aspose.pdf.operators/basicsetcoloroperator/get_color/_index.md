@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BasicSetColorOperator::get_Color method. Gets array of color components in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_color/
 ---
 ## BasicSetColorOperator::get_Color method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_color/
 Gets array of color components.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::ArrayPtr<double> Aspose::Pdf::Operators::BasicSetColorOperator::get_Color()
+virtual System::ArrayPtr<double> Aspose::Pdf::Operators::BasicSetColorOperator::get_Color()
 ```
 
 ## See Also

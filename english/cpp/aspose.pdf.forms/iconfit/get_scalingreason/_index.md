@@ -4,7 +4,7 @@ linktitle: get_ScalingReason
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::IconFit::get_ScalingReason method. Gets scaling reason in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.forms/iconfit/get_scalingreason/
 ---
 ## IconFit::get_ScalingReason method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/get_scalingreason/
 Gets scaling reason.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ScalingReason Aspose::Pdf::Forms::IconFit::get_ScalingReason()
+Aspose::Pdf::Forms::ScalingReason Aspose::Pdf::Forms::IconFit::get_ScalingReason()
 ```
 
 ## See Also

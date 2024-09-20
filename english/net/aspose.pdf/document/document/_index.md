@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf/document/document/
 ---
-## Document(Stream) {#constructor_1}
+## Document(Stream) {#constructor_2}
 
 Initialize new Document instance from the *input* stream.
 
@@ -26,7 +26,7 @@ public Document(Stream input)
 
 ---
 
-## Document(Stream, bool) {#constructor_3}
+## Document(Stream, bool) {#constructor_4}
 
 Initialize new Document instance from the *input* stream.
 
@@ -47,7 +47,7 @@ public Document(Stream input, bool isManagedStream)
 
 ---
 
-## Document(Stream, string) {#constructor_4}
+## Document(Stream, string) {#constructor_5}
 
 Initialize new Document instance from the *input* stream.
 
@@ -68,7 +68,7 @@ public Document(Stream input, string password)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_5}
+## Document(Stream, string, bool) {#constructor_6}
 
 Initialize new Document instance from the *input* stream.
 
@@ -90,7 +90,7 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ---
 
-## Document(string) {#constructor_6}
+## Document(string) {#constructor_7}
 
 Just init Document using *filename*. The same as `Document`.
 
@@ -110,7 +110,7 @@ public Document(string filename)
 
 ---
 
-## Document(string, bool) {#constructor_8}
+## Document(string, bool) {#constructor_9}
 
 Just init Document using *filename*. The same as `Document`.
 
@@ -131,7 +131,7 @@ public Document(string filename, bool isManagedStream)
 
 ---
 
-## Document(string, string) {#constructor_9}
+## Document(string, string) {#constructor_10}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -152,7 +152,7 @@ public Document(string filename, string password)
 
 ---
 
-## Document(string, string, bool) {#constructor_10}
+## Document(string, string, bool) {#constructor_11}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -190,7 +190,28 @@ public Document()
 
 ---
 
-## Document(string, LoadOptions) {#constructor_7}
+## Document(PdfVersion) {#constructor_1}
+
+Initializes empty document by version.
+
+```csharp
+public Document(PdfVersion version)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| version | PdfVersion | The PDF version. |
+
+### See Also
+
+* enum [PdfVersion](../../pdfversion/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, LoadOptions) {#constructor_8}
 
 Opens an existing document from a file providing necessary converting options to get pdf document.
 
@@ -212,7 +233,7 @@ public Document(string filename, LoadOptions options)
 
 ---
 
-## Document(Stream, LoadOptions) {#constructor_2}
+## Document(Stream, LoadOptions) {#constructor_3}
 
 Opens an existing document from a stream providing necessary converting to get pdf document.
 

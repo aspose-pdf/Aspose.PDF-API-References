@@ -4,7 +4,7 @@ linktitle: get_Document
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Facade::get_Document method. Gets the document facade is working on in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.facades/facade/get_document/
 ---
 ## Facade::get_Document method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/facade/get_document/
 Gets the document facade is working on.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Document> Aspose::Pdf::Facades::Facade::get_Document() const
+System::SharedPtr<Aspose::Pdf::Document> Aspose::Pdf::Facades::Facade::get_Document() const
 ```
 
 ## See Also

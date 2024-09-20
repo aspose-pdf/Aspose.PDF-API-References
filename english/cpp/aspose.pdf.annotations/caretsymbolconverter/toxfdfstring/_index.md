@@ -4,7 +4,7 @@ linktitle: ToXfdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToXfdfString method of Aspose::Pdf::Annotations::CaretSymbolConverter class in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/caretsymbolconverter/toxfdfstring/
 ---
 ## CaretSymbolConverter::ToXfdfString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretsymbolconverter/toxfdfstring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::CaretSymbolConverter::ToXfdfString(CaretSymbol value)
+static System::String Aspose::Pdf::Annotations::CaretSymbolConverter::ToXfdfString(CaretSymbol value)
 ```
 
 ## See Also

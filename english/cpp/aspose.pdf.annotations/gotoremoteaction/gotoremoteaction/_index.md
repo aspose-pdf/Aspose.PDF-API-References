@@ -4,7 +4,7 @@ linktitle: GoToRemoteAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction constructor. Initializes GoToRemoteAction object in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
 ---
 ## GoToRemoteAction::GoToRemoteAction(System::String, int32_t) constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
 Initializes [GoToRemoteAction](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remotePdf, int32_t remotePageNumber)
+Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remotePdf, int32_t remotePageNumber)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteActi
 | --- | --- | --- |
 | remotePdf | System::String | Destination PDF document. |
 | remotePageNumber | int32_t | Destination page number. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>remotePdf</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Destination PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>remotePageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Destination page number.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GoToRemoteAction](../)
@@ -53,7 +33,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteActi
 Initializes [GoToRemoteAction](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remotePdf, System::SharedPtr<ExplicitDestination> destination)
+Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remotePdf, System::SharedPtr<ExplicitDestination> destination)
 ```
 
 
@@ -61,27 +41,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteActi
 | --- | --- | --- |
 | remotePdf | System::String | Destination PDF document. |
 | destination | System::SharedPtr\<ExplicitDestination\> | Destination in the PDF document. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>remotePdf</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Destination PDF document. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>destination</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Destination in the PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ExplicitDestination](../../explicitdestination/)

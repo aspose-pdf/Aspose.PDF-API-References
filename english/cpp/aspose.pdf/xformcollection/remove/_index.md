@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XFormCollection::Remove method. Deletes specified item from collection in C++.'
 type: docs
-weight: 1300
+weight: 1500
 url: /cpp/aspose.pdf/xformcollection/remove/
 ---
 ## XFormCollection::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xformcollection/remove/
 Deletes specified item from collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XFormCollection::Remove(const System::SharedPtr<XForm> &item) override
+bool Aspose::Pdf::XFormCollection::Remove(const System::SharedPtr<XForm> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XFormCollection::Remove(const System::Sh
 ### ReturnValue
 
 true if item was deleted from collection; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to delete</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XForm](../../xform/)

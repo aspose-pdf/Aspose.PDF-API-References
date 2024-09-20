@@ -4,7 +4,7 @@ linktitle: set_CameraOrbit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::set_CameraOrbit method. Sets the camera orbit of view in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/aspose.pdf.annotations/pdf3dview/set_cameraorbit/
 ---
 ## PDF3DView::set_CameraOrbit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_cameraorbit/
 Sets the camera orbit of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DView::set_CameraOrbit(double value)
+void Aspose::Pdf::Annotations::PDF3DView::set_CameraOrbit(double value)
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/set_nocharacterbehavior/
 Sets mode that defines behavior in case fonts don't contain requested characters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TextStamp::set_NoCharacterBehavior(TextStamp::NoCharacterAction value)
+void Aspose::Pdf::TextStamp::set_NoCharacterBehavior(TextStamp::NoCharacterAction value)
 ```
 
 ## See Also

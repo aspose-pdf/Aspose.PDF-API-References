@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/get_author/
 Gets document author.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::DocumentInfo::get_Author()
+System::String Aspose::Pdf::DocumentInfo::get_Author()
 ```
 
 ## See Also

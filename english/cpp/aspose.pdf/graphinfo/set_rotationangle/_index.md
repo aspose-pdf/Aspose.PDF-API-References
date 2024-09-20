@@ -4,7 +4,7 @@ linktitle: set_RotationAngle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_RotationAngle method. Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system in C++.'
 type: docs
-weight: 2200
+weight: 2000
 url: /cpp/aspose.pdf/graphinfo/set_rotationangle/
 ---
 ## GraphInfo::set_RotationAngle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_rotationangle/
 Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::GraphInfo::set_RotationAngle(double value)
+void Aspose::Pdf::GraphInfo::set_RotationAngle(double value)
 ```
 
 ## See Also

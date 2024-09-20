@@ -4,7 +4,7 @@ linktitle: EmbeddedFilesDoesNotExists
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::EmbeddedFilesDoesNotExists typedef in C++.'
 type: docs
-weight: 23500
+weight: 23600
 url: /cpp/aspose.pdf/embeddedfilesdoesnotexists/
 ---
 ## EmbeddedFilesDoesNotExists typedef

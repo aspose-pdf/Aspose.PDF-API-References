@@ -4,7 +4,7 @@ linktitle: ContainsUsageRights
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::ContainsUsageRights method. Checks if the pdf has a usage rights or not in C++.'
 type: docs
-weight: 1700
+weight: 600
 url: /cpp/aspose.pdf.facades/pdffilesignature/containsusagerights/
 ---
 ## PdfFileSignature::ContainsUsageRights method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/containsusagerights/
 Checks if the pdf has a usage rights or not.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSignature::ContainsUsageRights()
+bool Aspose::Pdf::Facades::PdfFileSignature::ContainsUsageRights()
 ```
 
 

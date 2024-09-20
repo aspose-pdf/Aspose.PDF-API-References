@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point/topoint/
 Converts point into **System.Drawing.PointF** object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::PointF Aspose::Pdf::Point::ToPoint()
+System::Drawing::PointF Aspose::Pdf::Point::ToPoint()
 ```
 
 

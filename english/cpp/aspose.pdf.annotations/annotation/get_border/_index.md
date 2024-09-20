@@ -4,7 +4,7 @@ linktitle: get_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::get_Border method. Gets annotation border characteristics. Border in C++.'
 type: docs
-weight: 2300
+weight: 1300
 url: /cpp/aspose.pdf.annotations/annotation/get_border/
 ---
 ## Annotation::get_Border method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_border/
 Gets annotation border characteristics. [Border](../../border/)
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::Border> Aspose::Pdf::Annotations::Annotation::get_Border() const
+System::SharedPtr<Aspose::Pdf::Annotations::Border> Aspose::Pdf::Annotations::Annotation::get_Border() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/printscalingappdefault/
 The conforming reader's default print scaling.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PrintScalingAppDefault
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PrintScalingAppDefault
 ```
 
 ## See Also

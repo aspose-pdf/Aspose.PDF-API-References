@@ -4,7 +4,7 @@ linktitle: set_X
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::LineTo::set_X method. X coordinate of line point in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.operators/lineto/set_x/
 ---
 ## LineTo::set_X method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/lineto/set_x/
 X coordinate of line point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::LineTo::set_X(double value)
+void Aspose::Pdf::Operators::LineTo::set_X(double value)
 ```
 
 ## See Also

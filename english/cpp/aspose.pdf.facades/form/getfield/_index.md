@@ -4,7 +4,7 @@ linktitle: GetField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::GetField method. Gets the field''s value according to its field name in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/aspose.pdf.facades/form/getfield/
 ---
 ## Form::GetField method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/getfield/
 Gets the field's value according to its field name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::Form::GetField(System::String fieldName)
+System::String Aspose::Pdf::Facades::Form::GetField(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::Form::GetField(System
 ### ReturnValue
 
 The field's value.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The fully qualified field name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Form](../)

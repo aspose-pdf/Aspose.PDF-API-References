@@ -4,7 +4,7 @@ linktitle: set_NewWindow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LaunchAction::set_NewWindow method. Sets a flag specifying whether to open the destination document in a new window (affect PDF documents only) in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.annotations/launchaction/set_newwindow/
 ---
 ## LaunchAction::set_NewWindow method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchaction/set_newwindow/
 Sets a flag specifying whether to open the destination document in a new window (affect PDF documents only).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LaunchAction::set_NewWindow(ExtendedBoolean value)
+void Aspose::Pdf::Annotations::LaunchAction::set_NewWindow(ExtendedBoolean value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/comboboxfield/get_spellcheck/
 Gets spellchaeck activiity status.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::ComboBoxField::get_SpellCheck()
+bool Aspose::Pdf::Forms::ComboBoxField::get_SpellCheck()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: DISSOLVE
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::DISSOLVE field. The old page dissolves in C++.'
 type: docs
-weight: 4100
+weight: 3300
 url: /cpp/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
 ## DISSOLVE field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/dissolve/
 The old page dissolves.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::DISSOLVE
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::DISSOLVE
 ```
 
 ## See Also

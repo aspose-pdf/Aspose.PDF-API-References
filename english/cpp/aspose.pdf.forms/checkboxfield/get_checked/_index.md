@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/get_checked/
 Gets state of check box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::CheckboxField::get_Checked()
+bool Aspose::Pdf::Forms::CheckboxField::get_Checked()
 ```
 
 ## See Also

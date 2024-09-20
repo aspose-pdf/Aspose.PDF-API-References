@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BitmapInfo::get_Width method. Gets the width of the bitmap in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf/bitmapinfo/get_width/
 ---
 ## BitmapInfo::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/bitmapinfo/get_width/
 Gets the width of the bitmap.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::BitmapInfo::get_Width() const
+int32_t Aspose::Pdf::BitmapInfo::get_Width() const
 ```
 
 ## See Also

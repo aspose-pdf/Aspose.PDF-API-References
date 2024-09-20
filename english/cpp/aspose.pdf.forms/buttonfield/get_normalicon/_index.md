@@ -4,7 +4,7 @@ linktitle: get_NormalIcon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::get_NormalIcon method. Gets normal icon of the button which shall be displayed when it is not interacting with the user in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.forms/buttonfield/get_normalicon/
 ---
 ## ButtonField::get_NormalIcon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/get_normalicon/
 Gets normal icon of the button which shall be displayed when it is not interacting with the user.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XForm> Aspose::Pdf::Forms::ButtonField::get_NormalIcon()
+System::SharedPtr<XForm> Aspose::Pdf::Forms::ButtonField::get_NormalIcon()
 ```
 
 ## See Also

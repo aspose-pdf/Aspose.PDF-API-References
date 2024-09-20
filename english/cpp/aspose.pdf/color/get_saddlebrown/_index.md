@@ -4,7 +4,7 @@ linktitle: get_SaddleBrown
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_SaddleBrown method. Gets a system-defined color that has an ARGB value of #FF8B4513 in C++.'
 type: docs
-weight: 12700
+weight: 13000
 url: /cpp/aspose.pdf/color/get_saddlebrown/
 ---
 ## Color::get_SaddleBrown method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_saddlebrown/
 Gets a system-defined color that has an ARGB value of **#FF8B4513**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_SaddleBrown()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_SaddleBrown()
 ```
 
 

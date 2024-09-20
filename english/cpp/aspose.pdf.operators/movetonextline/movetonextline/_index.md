@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/movetonextline/movetonextline/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::MoveToNextLine::MoveToNextLine()
+Aspose::Pdf::Operators::MoveToNextLine::MoveToNextLine()
 ```
 
 ## See Also

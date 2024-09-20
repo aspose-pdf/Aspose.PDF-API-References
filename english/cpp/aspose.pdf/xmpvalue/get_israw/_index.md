@@ -4,7 +4,7 @@ linktitle: get_IsRaw
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::get_IsRaw method. Value is unsupported/unknown and raw XML code is provided in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf/xmpvalue/get_israw/
 ---
 ## XmpValue::get_IsRaw method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/get_israw/
 Value is unsupported/unknown and raw XML code is provided.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpValue::get_IsRaw()
+bool Aspose::Pdf::XmpValue::get_IsRaw()
 ```
 
 

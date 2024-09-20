@@ -4,7 +4,7 @@ linktitle: SpaceAfter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::SpaceAfter field. SpaceAfter attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 1400
+weight: 3300
 url: /cpp/aspose.pdf.logicalstructure/attributekey/spaceafter/
 ---
 ## SpaceAfter field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/spaceafter/
 SpaceAfter attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::SpaceAfter
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::SpaceAfter
 ```
 
 ## See Also

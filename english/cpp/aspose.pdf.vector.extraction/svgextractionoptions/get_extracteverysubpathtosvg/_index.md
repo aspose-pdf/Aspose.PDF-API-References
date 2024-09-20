@@ -4,7 +4,7 @@ linktitle: get_ExtractEverySubPathToSvg
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_ExtractEverySubPathToSvg method. Gets and sets opttion to extracts every subpath from a PDF document to separate SVG images in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_extracteverysubpathtosvg/
 ---
 ## SvgExtractionOptions::get_ExtractEverySubPathToSvg method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_extracteverysubp
 Gets and sets opttion to extracts every subpath from a PDF document to separate SVG images.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_ExtractEverySubPathToSvg() const
+bool Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_ExtractEverySubPathToSvg() const
 ```
 
 ## See Also

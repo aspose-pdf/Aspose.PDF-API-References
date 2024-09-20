@@ -4,7 +4,7 @@ linktitle: get_TextEditOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::get_TextEditOptions method. Gets text edit options in C++.'
 type: docs
-weight: 300
+weight: 3500
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/get_texteditoptions/
 ---
 ## PdfContentEditor::get_TextEditOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/get_texteditoptions/
 Gets text edit options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> Aspose::Pdf::Facades::PdfContentEditor::get_TextEditOptions() const
+System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> Aspose::Pdf::Facades::PdfContentEditor::get_TextEditOptions() const
 ```
 
 ## See Also

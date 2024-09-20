@@ -4,7 +4,7 @@ linktitle: set_Start
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientAxialShading::set_Start method. Sets start point in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_start/
 ---
 ## GradientAxialShading::set_Start method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_start/
 Sets start point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::GradientAxialShading::set_Start(System::SharedPtr<Point> value)
+void Aspose::Pdf::Drawing::GradientAxialShading::set_Start(System::SharedPtr<Point> value)
 ```
 
 ## See Also

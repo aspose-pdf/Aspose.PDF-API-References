@@ -4,7 +4,7 @@ linktitle: GetFieldsInRect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::GetFieldsInRect method. Returns fields inside of specified rectangle in C++.'
 type: docs
-weight: 3500
+weight: 2300
 url: /cpp/aspose.pdf.forms/form/getfieldsinrect/
 ---
 ## Form::GetFieldsInRect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/getfieldsinrect/
 Returns fields inside of specified rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Forms::Form::GetFieldsInRect(System::SharedPtr<Rectangle> rect)
+System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Forms::Form::GetFieldsInRect(System::SharedPtr<Rectangle> rect)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Fo
 ### ReturnValue
 
 Array with found fields.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> where fields should be found.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Field](../../field/)

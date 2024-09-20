@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_lang/
 Gets xml:lang qualifier.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Lang()
+static System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Lang()
 ```
 
 

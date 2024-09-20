@@ -4,7 +4,7 @@ linktitle: set_Superscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_Superscript method. Sets superscript of the text in C++.'
 type: docs
-weight: 1600
+weight: 2600
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_superscript/
 ---
 ## StructureTextState::set_Superscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_superscript/
 Sets superscript of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_Superscript(System::Nullable<bool> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_Superscript(System::Nullable<bool> value)
 ```
 
 ## Remarks

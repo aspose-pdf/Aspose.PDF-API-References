@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentInfo::Clear method. Clears the document info in C++.'
 type: docs
-weight: 2400
+weight: 300
 url: /cpp/aspose.pdf/documentinfo/clear/
 ---
 ## DocumentInfo::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/clear/
 Clears the document info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocumentInfo::Clear() override
+void Aspose::Pdf::DocumentInfo::Clear() override
 ```
 
 ## See Also

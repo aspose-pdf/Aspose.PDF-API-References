@@ -4,7 +4,7 @@ linktitle: GetDateTime
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetDateTime method. Gets the signature''s datetime in C++.'
 type: docs
-weight: 2700
+weight: 1700
 url: /cpp/aspose.pdf.facades/pdffilesignature/getdatetime/
 ---
 ## PdfFileSignature::GetDateTime method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getdatetime/
 Gets the signature's datetime.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(System::String signName)
+System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(System::String signName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::DateTime Aspose::Pdf::Facades::PdfFileSignature::G
 ### ReturnValue
 
 Return the result of DateTime type.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

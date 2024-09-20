@@ -4,7 +4,7 @@ linktitle: get_SystemFontsNativeRendering
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_SystemFontsNativeRendering method. Gets a mode where system fonts are rendered natively in C++.'
 type: docs
-weight: 500
+weight: 1200
 url: /cpp/aspose.pdf/renderingoptions/get_systemfontsnativerendering/
 ---
 ## RenderingOptions::get_SystemFontsNativeRendering method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/get_systemfontsnativerendering/
 Gets a mode where system fonts are rendered natively.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::RenderingOptions::get_SystemFontsNativeRendering() const
+bool Aspose::Pdf::RenderingOptions::get_SystemFontsNativeRendering() const
 ```
 
 ## See Also

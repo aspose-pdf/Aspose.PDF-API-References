@@ -4,7 +4,7 @@ linktitle: GetFieldTemplates
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::XFA::GetFieldTemplates method. Returns list of all field templates on XFA form in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.forms/xfa/getfieldtemplates/
 ---
 ## XFA::GetFieldTemplates method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/xfa/getfieldtemplates/
 Returns list of all field templates on [XFA](../) form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNodeList> Aspose::Pdf::Forms::XFA::GetFieldTemplates()
+System::SharedPtr<System::Xml::XmlNodeList> Aspose::Pdf::Forms::XFA::GetFieldTemplates()
 ```
 
 

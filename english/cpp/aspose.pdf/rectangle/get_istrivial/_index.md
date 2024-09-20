@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/get_istrivial/
 Checks if rectangle is trivial i.e. has zero size and position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::get_IsTrivial()
+bool Aspose::Pdf::Rectangle::get_IsTrivial()
 ```
 
 ## See Also

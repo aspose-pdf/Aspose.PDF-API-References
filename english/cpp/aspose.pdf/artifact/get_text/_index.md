@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::get_Text method. Gets text of the artifact in C++.'
 type: docs
-weight: 2800
+weight: 2100
 url: /cpp/aspose.pdf/artifact/get_text/
 ---
 ## Artifact::get_Text method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/get_text/
 Gets text of the artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Artifact::get_Text()
+System::String Aspose::Pdf::Artifact::get_Text()
 ```
 
 ## See Also

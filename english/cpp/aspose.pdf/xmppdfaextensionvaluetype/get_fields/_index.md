@@ -4,7 +4,7 @@ linktitle: get_Fields
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionValueType::get_Fields method. Gets the list of fields in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/get_fields/
 ---
 ## XmpPdfAExtensionValueType::get_Fields method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/get_fields/
 Gets the list of fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<XmpPdfAExtensionField>>> Aspose::Pdf::XmpPdfAExtensionValueType::get_Fields() const
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<XmpPdfAExtensionField>>> Aspose::Pdf::XmpPdfAExtensionValueType::get_Fields() const
 ```
 
 ## See Also

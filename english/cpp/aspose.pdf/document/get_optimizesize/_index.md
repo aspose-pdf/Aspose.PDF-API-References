@@ -4,7 +4,7 @@ linktitle: get_OptimizeSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_OptimizeSize method. Gets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false in C++.'
 type: docs
-weight: 6900
+weight: 5100
 url: /cpp/aspose.pdf/document/get_optimizesize/
 ---
 ## Document::get_OptimizeSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_optimizesize/
 Gets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::get_OptimizeSize()
+bool Aspose::Pdf::Document::get_OptimizeSize()
 ```
 
 ## See Also

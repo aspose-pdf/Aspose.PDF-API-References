@@ -4,7 +4,7 @@ linktitle: GetBlankSignNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetBlankSignNames method. Gets the names of all empty signature fields in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf.facades/pdffilesignature/getblanksignnames/
 ---
 ## PdfFileSignature::GetBlankSignNames method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getblanksignnames/
 Gets the names of all empty signature fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfFileSignature::GetBlankSignNames()
+System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfFileSignature::GetBlankSignNames()
 ```
 
 

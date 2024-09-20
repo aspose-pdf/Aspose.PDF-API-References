@@ -4,7 +4,7 @@ linktitle: set_LLX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::set_LLX method. X-coordinate of lower - left corner in C++.'
 type: docs
-weight: 400
+weight: 2200
 url: /cpp/aspose.pdf/rectangle/set_llx/
 ---
 ## Rectangle::set_LLX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/set_llx/
 X-coordinate of lower - left corner.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Rectangle::set_LLX(double value)
+void Aspose::Pdf::Rectangle::set_LLX(double value)
 ```
 
 ## See Also

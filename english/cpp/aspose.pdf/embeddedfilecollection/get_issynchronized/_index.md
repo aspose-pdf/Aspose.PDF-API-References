@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EmbeddedFileCollection::get_IsSynchronized method. Gets a value indicating whether access to this collection is synchronized (thread safe) in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf/embeddedfilecollection/get_issynchronized/
 ---
 ## EmbeddedFileCollection::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilecollection/get_issynchronized/
 Gets a value indicating whether access to this collection is synchronized (thread safe).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::EmbeddedFileCollection::get_IsSynchronized()
+bool Aspose::Pdf::EmbeddedFileCollection::get_IsSynchronized()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: CollectionSort
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionSort::CollectionSort constructor. Creates an instance of collection sort class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf/collectionsort/collectionsort/
 ---
 ## CollectionSort::CollectionSort() constructor
@@ -34,19 +34,7 @@ Aspose::Pdf::CollectionSort::CollectionSort(System::SharedPtr<Engine::Data::IPdf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | collectionSortDict | System::SharedPtr\<Engine::Data::IPdfDictionary\> | The collection sort dictionary. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>collectionSortDict</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The collection sort dictionary.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CollectionSort](../)

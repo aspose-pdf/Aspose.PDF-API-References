@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/rlwipe/
 Right-Left Wipe.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::RLWIPE
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::RLWIPE
 ```
 
 ## See Also

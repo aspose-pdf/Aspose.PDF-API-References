@@ -4,7 +4,7 @@ linktitle: set_Draw
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_Draw method. This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text in C++.'
 type: docs
-weight: 200
+weight: 1700
 url: /cpp/aspose.pdf/textstamp/set_draw/
 ---
 ## TextStamp::set_Draw method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/set_draw/
 This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TextStamp::set_Draw(bool value)
+void Aspose::Pdf::TextStamp::set_Draw(bool value)
 ```
 
 ## See Also

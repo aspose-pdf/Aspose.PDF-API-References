@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 Returns a **System::String** that represents this instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::ToString() const override
+System::String Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::ToString() const override
 ```
 
 

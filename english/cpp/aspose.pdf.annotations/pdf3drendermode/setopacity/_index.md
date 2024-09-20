@@ -4,7 +4,7 @@ linktitle: SetOpacity
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::SetOpacity method. Sets the opacity in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/setopacity/
 ---
 ## PDF3DRenderMode::SetOpacity method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/setopacity/
 Sets the opacity.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetOpacity(double opacity)
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetOpacity(double opacity)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotation
 ### ReturnValue
 
 [PDF3DRenderMode](../).
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>opacity</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The opacity.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PDF3DRenderMode](../)

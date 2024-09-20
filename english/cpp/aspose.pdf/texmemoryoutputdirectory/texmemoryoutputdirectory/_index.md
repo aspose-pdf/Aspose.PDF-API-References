@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 Creates new instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::TeXMemoryOutputDirectory::TeXMemoryOutputDirectory()
+Aspose::Pdf::TeXMemoryOutputDirectory::TeXMemoryOutputDirectory()
 ```
 
 ## See Also

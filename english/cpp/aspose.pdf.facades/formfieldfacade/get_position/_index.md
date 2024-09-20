@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::get_Position method. A rectangle object holding field''s location in C++.'
 type: docs
-weight: 2700
+weight: 1600
 url: /cpp/aspose.pdf.facades/formfieldfacade/get_position/
 ---
 ## FormFieldFacade::get_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/get_position/
 A rectangle object holding field's location.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<float> Aspose::Pdf::Facades::FormFieldFacade::get_Position() const
+System::ArrayPtr<float> Aspose::Pdf::Facades::FormFieldFacade::get_Position() const
 ```
 
 ## See Also

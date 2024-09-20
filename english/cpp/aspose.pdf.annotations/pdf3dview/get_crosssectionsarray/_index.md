@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_crosssectionsarray/
 Gets the cross sections array of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DCrossSectionArray> Aspose::Pdf::Annotations::PDF3DView::get_CrossSectionsArray() const
+System::SharedPtr<PDF3DCrossSectionArray> Aspose::Pdf::Annotations::PDF3DView::get_CrossSectionsArray() const
 ```
 
 ## Remarks

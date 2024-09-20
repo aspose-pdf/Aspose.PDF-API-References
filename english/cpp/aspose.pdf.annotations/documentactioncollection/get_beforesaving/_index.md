@@ -4,7 +4,7 @@ linktitle: get_BeforeSaving
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeSaving method. Gets action performed before document saving in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforesaving/
 ---
 ## DocumentActionCollection::get_BeforeSaving method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforesaving/
 Gets action performed before document saving.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeSaving() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeSaving() const
 ```
 
 ## See Also

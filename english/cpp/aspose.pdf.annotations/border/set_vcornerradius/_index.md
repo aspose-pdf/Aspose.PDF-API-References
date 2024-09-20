@@ -4,7 +4,7 @@ linktitle: set_VCornerRadius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::set_VCornerRadius method. Sets vertical corner radius in C++.'
 type: docs
-weight: 400
+weight: 1400
 url: /cpp/aspose.pdf.annotations/border/set_vcornerradius/
 ---
 ## Border::set_VCornerRadius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_vcornerradius/
 Sets vertical corner radius.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Border::set_VCornerRadius(double value)
+void Aspose::Pdf::Annotations::Border::set_VCornerRadius(double value)
 ```
 
 ## See Also

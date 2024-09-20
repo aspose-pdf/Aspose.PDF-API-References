@@ -4,7 +4,7 @@ linktitle: set_LineSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::set_LineSpacing method. Sets line spacing mode. Default value is LineSpacingMode.FontSize in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf.text/textformattingoptions/set_linespacing/
 ---
 ## TextFormattingOptions::set_LineSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/set_linespacing/
 Sets line spacing mode. Default value is **LineSpacingMode.FontSize**.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFormattingOptions::set_LineSpacing(TextFormattingOptions::LineSpacingMode value)
+void Aspose::Pdf::Text::TextFormattingOptions::set_LineSpacing(TextFormattingOptions::LineSpacingMode value)
 ```
 
 ## See Also

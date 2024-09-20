@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EmbeddedFileCollection::GetEnumerator method. Returns colleciton enumerator in C++.'
 type: docs
-weight: 600
+weight: 1000
 url: /cpp/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
 ## EmbeddedFileCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilecollection/getenumerator/
 Returns colleciton enumerator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<FileSpecification>>> Aspose::Pdf::EmbeddedFileCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<FileSpecification>>> Aspose::Pdf::EmbeddedFileCollection::GetEnumerator() override
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/set_activateon/
 Event which activates application.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RichMediaAnnotation::set_ActivateOn(RichMediaAnnotation::ActivationEvent value)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::set_ActivateOn(RichMediaAnnotation::ActivationEvent value)
 ```
 
 ## See Also

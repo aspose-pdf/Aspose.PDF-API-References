@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseOperatorCollection::Clear method. Clears collection in C++.'
 type: docs
-weight: 1400
+weight: 300
 url: /cpp/aspose.pdf/baseoperatorcollection/clear/
 ---
 ## BaseOperatorCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseoperatorcollection/clear/
 Clears collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BaseOperatorCollection::Clear() override=0
+void Aspose::Pdf::BaseOperatorCollection::Clear() override=0
 ```
 
 ## See Also

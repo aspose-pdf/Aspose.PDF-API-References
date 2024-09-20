@@ -4,7 +4,7 @@ linktitle: MeasureString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::MeasureString method. Measures the string in C++.'
 type: docs
-weight: 3900
+weight: 2200
 url: /cpp/aspose.pdf.text/textstate/measurestring/
 ---
 ## TextState::MeasureString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/measurestring/
 Measures the string.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextState::MeasureString(System::String str)
+virtual double Aspose::Pdf::Text::TextState::MeasureString(System::String str)
 ```
 
 
@@ -24,19 +24,7 @@ virtual ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextState::MeasureString
 ### ReturnValue
 
 Width of the string represented with this text state.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>str</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The string.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)

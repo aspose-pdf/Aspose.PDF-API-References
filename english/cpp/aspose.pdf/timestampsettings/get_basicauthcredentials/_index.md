@@ -4,7 +4,7 @@ linktitle: get_BasicAuthCredentials
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TimestampSettings::get_BasicAuthCredentials method. Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password" in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf/timestampsettings/get_basicauthcredentials/
 ---
 ## TimestampSettings::get_BasicAuthCredentials method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/get_basicauthcredentials/
 Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::TimestampSettings::get_BasicAuthCredentials() const
+System::String Aspose::Pdf::TimestampSettings::get_BasicAuthCredentials() const
 ```
 
 ## See Also

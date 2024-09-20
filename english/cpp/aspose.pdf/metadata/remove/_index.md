@@ -2,53 +2,18 @@
 title: Aspose::Pdf::Metadata::Remove method
 linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Metadata::Remove method. Removes entry from metadata in C++.'
+description: 'Aspose::Pdf::Metadata::Remove method. Removes key/value pair from the colleciton in C++.'
 type: docs
-weight: 1700
+weight: 2100
 url: /cpp/aspose.pdf/metadata/remove/
 ---
-## Metadata::Remove(const System::String\&) method
-
-
-Removes entry from metadata.
-
-```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::Remove(const System::String &key) override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | const System::String\& | The key of entry to remove. |
-
-### ReturnValue
-
-True - if key removed; otherwise, false.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key of entry to remove.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [Metadata](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## Metadata::Remove(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) method
 
 
 Removes key/value pair from the colleciton.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::Remove(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> &item) override
+bool Aspose::Pdf::Metadata::Remove(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> &item) override
 ```
 
 
@@ -59,22 +24,33 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::Remove(const System::Collectio
 ### ReturnValue
 
 true if pair was found and removed.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key/value pair to be removed.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../xmpvalue/)
+* Class [Metadata](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Metadata::Remove(const System::String\&) method
+
+
+Removes entry from metadata.
+
+```cpp
+bool Aspose::Pdf::Metadata::Remove(const System::String &key) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const System::String\& | The key of entry to remove. |
+
+### ReturnValue
+
+True - if key removed; otherwise, false.
+
+## See Also
+
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

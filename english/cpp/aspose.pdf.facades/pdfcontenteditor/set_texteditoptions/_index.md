@@ -4,7 +4,7 @@ linktitle: set_TextEditOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions method. Sets text edit options in C++.'
 type: docs
-weight: 400
+weight: 4700
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_texteditoptions/
 ---
 ## PdfContentEditor::set_TextEditOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_texteditoptions/
 Sets text edit options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions(System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> value)
+void Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions(System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> value)
 ```
 
 ## See Also

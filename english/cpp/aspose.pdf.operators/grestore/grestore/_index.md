@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/grestore/grestore/
 Initializes Q operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::GRestore::GRestore()
+Aspose::Pdf::Operators::GRestore::GRestore()
 ```
 
 ## See Also

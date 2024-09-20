@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rows::IndexOf method. Returns index of row in collection in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.pdf/rows/indexof/
 ---
 ## Rows::IndexOf method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/indexof/
 Returns index of row in collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Rows::IndexOf(System::SharedPtr<Row> row)
+int32_t Aspose::Pdf::Rows::IndexOf(System::SharedPtr<Row> row)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Rows::IndexOf(System::SharedPtr<Row> 
 ### ReturnValue
 
 The row index
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>row</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The existing row.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Row](../../row/)

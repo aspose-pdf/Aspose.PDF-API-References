@@ -4,7 +4,7 @@ linktitle: get_StructTreeRootElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_StructTreeRootElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 200
+weight: 3600
 url: /cpp/aspose.pdf.tagged/itaggedcontent/get_structtreerootelement/
 ---
 ## ITaggedContent::get_StructTreeRootElement method

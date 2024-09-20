@@ -4,7 +4,7 @@ linktitle: set_EncodingFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleData::set_EncodingFormat method. Sets the encoding format in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf.annotations/soundsampledata/set_encodingformat/
 ---
 ## SoundSampleData::set_EncodingFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/set_encodingformat/
 Sets the encoding format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::SoundSampleData::set_EncodingFormat(SoundSampleDataEncodingFormat value)
+void Aspose::Pdf::Annotations::SoundSampleData::set_EncodingFormat(SoundSampleDataEncodingFormat value)
 ```
 
 ## See Also

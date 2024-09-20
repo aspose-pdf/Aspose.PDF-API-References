@@ -4,7 +4,7 @@ linktitle: get_NoCharacterBehavior
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::get_NoCharacterBehavior method. Gets mode that defines behavior in case fonts don''t contain requested characters in C++.'
 type: docs
-weight: 2000
+weight: 600
 url: /cpp/aspose.pdf/textstamp/get_nocharacterbehavior/
 ---
 ## TextStamp::get_NoCharacterBehavior method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/get_nocharacterbehavior/
 Gets mode that defines behavior in case fonts don't contain requested characters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextStamp::NoCharacterAction Aspose::Pdf::TextStamp::get_NoCharacterBehavior() const
+TextStamp::NoCharacterAction Aspose::Pdf::TextStamp::get_NoCharacterBehavior() const
 ```
 
 ## See Also

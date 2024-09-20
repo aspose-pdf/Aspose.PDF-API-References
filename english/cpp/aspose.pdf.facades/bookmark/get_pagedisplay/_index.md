@@ -4,7 +4,7 @@ linktitle: get_PageDisplay
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_PageDisplay method. Gets the type of display bookmark''s destination page in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay/
 ---
 ## Bookmark::get_PageDisplay method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay/
 Gets the type of display bookmark's destination page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::Bookmark::get_PageDisplay() const
+System::String Aspose::Pdf::Facades::Bookmark::get_PageDisplay() const
 ```
 
 ## See Also

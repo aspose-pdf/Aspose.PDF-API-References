@@ -4,7 +4,7 @@ linktitle: get_Starting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_Starting method. Gets starting point of line in C++.'
 type: docs
-weight: 100
+weight: 1600
 url: /cpp/aspose.pdf.annotations/lineannotation/get_starting/
 ---
 ## LineAnnotation::get_Starting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_starting/
 Gets starting point of line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_Starting()
+System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_Starting()
 ```
 
 ## See Also

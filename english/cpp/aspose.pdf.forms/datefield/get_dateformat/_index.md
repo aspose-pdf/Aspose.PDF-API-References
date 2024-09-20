@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/datefield/get_dateformat/
 Gets the date format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::DateField::get_DateFormat() const
+System::String Aspose::Pdf::Forms::DateField::get_DateFormat() const
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: get_URX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::get_URX method. X - coordinate of upper-right corner in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.pdf/rectangle/get_urx/
 ---
 ## Rectangle::get_URX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/get_urx/
 X - coordinate of upper-right corner.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Rectangle::get_URX() const
+double Aspose::Pdf::Rectangle::get_URX() const
 ```
 
 ## See Also

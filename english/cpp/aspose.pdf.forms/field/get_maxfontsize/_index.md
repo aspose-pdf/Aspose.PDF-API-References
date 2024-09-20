@@ -4,7 +4,7 @@ linktitle: get_MaxFontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_MaxFontSize method. Maximail font size which can be used for field contents. -1 to don''t check size in C++.'
 type: docs
-weight: 3300
+weight: 3200
 url: /cpp/aspose.pdf.forms/field/get_maxfontsize/
 ---
 ## Field::get_MaxFontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_maxfontsize/
 Maximail font size which can be used for field contents. -1 to don't check size.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API double Aspose::Pdf::Forms::Field::get_MaxFontSize()
+static double Aspose::Pdf::Forms::Field::get_MaxFontSize()
 ```
 
 ## See Also

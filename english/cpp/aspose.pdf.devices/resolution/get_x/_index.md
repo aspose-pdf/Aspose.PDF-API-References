@@ -4,7 +4,7 @@ linktitle: get_X
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Resolution::get_X method. Gets horizontal image resolution in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.devices/resolution/get_x/
 ---
 ## Resolution::get_X method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/resolution/get_x/
 Gets horizontal image resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Devices::Resolution::get_X() const
+int32_t Aspose::Pdf::Devices::Resolution::get_X() const
 ```
 
 ## See Also

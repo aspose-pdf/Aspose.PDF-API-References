@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchaction/get_newwindow/
 Gets a flag specifying whether to open the destination document in a new window (affect PDF documents only).
 
 ```cpp
-ASPOSE_PDF_SHARED_API ExtendedBoolean Aspose::Pdf::Annotations::LaunchAction::get_NewWindow()
+ExtendedBoolean Aspose::Pdf::Annotations::LaunchAction::get_NewWindow()
 ```
 
 ## See Also

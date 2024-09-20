@@ -4,7 +4,7 @@ linktitle: get_AfterSaving
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterSaving method. Gets action that will be performed after document saving in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.annotations/documentactioncollection/get_aftersaving/
 ---
 ## DocumentActionCollection::get_AfterSaving method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/get_aftersaving/
 Gets action that will be performed after document saving.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterSaving() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterSaving() const
 ```
 
 ## See Also

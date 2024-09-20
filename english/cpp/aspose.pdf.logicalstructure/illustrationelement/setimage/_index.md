@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/illustrationelement/setimage/
 Appends image to current illustration element.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System::String imageSrc, double imageResolution=300)
+virtual void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System::String imageSrc, double imageResolution=300)
 ```
 
 
@@ -21,28 +21,7 @@ virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::IllustrationEl
 | --- | --- | --- |
 | imageSrc | System::String | [Image](../../../aspose.pdf/image/) source. |
 | imageResolution | double | (Optional) [Image](../../../aspose.pdf/image/) Resolution. Default: 300 DPI. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageSrc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> source.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageResolution</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>(Optional) <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> Resolution. Default: 300 DPI.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [IllustrationElement](../)
@@ -54,7 +33,7 @@ virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::IllustrationEl
 Appends image to current illustration element.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System::String imageSrc, double imageWidth, double imageHeight)
+virtual void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System::String imageSrc, double imageWidth, double imageHeight)
 ```
 
 
@@ -63,38 +42,7 @@ virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::IllustrationEl
 | imageSrc | System::String | [Image](../../../aspose.pdf/image/) source. |
 | imageWidth | double | [Image](../../../aspose.pdf/image/) width. |
 | imageHeight | double | [Image](../../../aspose.pdf/image/) height. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageSrc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> source.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageWidth</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> width.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageHeight</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_image" kindref="compound">Image</ref> height.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [IllustrationElement](../)

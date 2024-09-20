@@ -4,7 +4,7 @@ linktitle: Width_Auto
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Width_Auto field. Attribute Width: Auto - the element''s width shall be determined by the intrinsic width of its content in C++.'
 type: docs
-weight: 2700
+weight: 6700
 url: /cpp/aspose.pdf.logicalstructure/attributename/width_auto/
 ---
 ## Width_Auto field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/width_auto/
 Attribute Width: Auto - the element's width shall be determined by the intrinsic width of its content.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Width_Auto
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Width_Auto
 ```
 
 ## See Also

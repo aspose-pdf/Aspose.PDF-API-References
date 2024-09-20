@@ -4,7 +4,7 @@ linktitle: get_Brown
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Brown method. Gets a system-defined color that has an ARGB value of #FFA52A2A in C++.'
 type: docs
-weight: 2200
+weight: 2500
 url: /cpp/aspose.pdf/color/get_brown/
 ---
 ## Color::get_Brown method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_brown/
 Gets a system-defined color that has an ARGB value of **#FFA52A2A**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Brown()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Brown()
 ```
 
 

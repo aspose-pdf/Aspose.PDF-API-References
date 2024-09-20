@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 2230
+weight: 2280
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -19,16 +19,17 @@ public sealed class Document : IDisposable
 | Name | Description |
 | --- | --- |
 | [Document](document/#constructor)() | Initializes empty document. |
-| [Document](document/#constructor_1)(Stream) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_6)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
-| [Document](document/#constructor_3)(Stream, bool) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_2)(Stream, LoadOptions) | Opens an existing document from a stream providing necessary converting to get pdf document. |
-| [Document](document/#constructor_4)(Stream, string) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_8)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
-| [Document](document/#constructor_7)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
-| [Document](document/#constructor_9)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
-| [Document](document/#constructor_5)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_10)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_1)(PdfVersion) | Initializes empty document by version. |
+| [Document](document/#constructor_2)(Stream) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_7)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_4)(Stream, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_3)(Stream, LoadOptions) | Opens an existing document from a stream providing necessary converting to get pdf document. |
+| [Document](document/#constructor_5)(Stream, string) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_9)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_8)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
+| [Document](document/#constructor_10)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_6)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_11)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
 
 ## Properties
 

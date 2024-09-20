@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::IndexOf method. Returns index of the specified page in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/aspose.pdf/pagecollection/indexof/
 ---
 ## PageCollection::IndexOf method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/indexof/
 Returns index of the specified page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::PageCollection::IndexOf(System::SharedPtr<Page> entity) const
+int32_t Aspose::Pdf::PageCollection::IndexOf(System::SharedPtr<Page> entity) const
 ```
 
 
@@ -29,17 +29,6 @@ Index of the page in collection.
 
 Pages numbers start from 1. Returns 0 in case collection doesn't contain the page. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>entity</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> object. Pages numbers start from 1.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

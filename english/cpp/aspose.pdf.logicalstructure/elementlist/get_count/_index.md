@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/elementlist/get_count/
 Gets the number of elements in the [ElementList](../).
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::LogicalStructure::ElementList::get_Count()=0
+virtual int32_t Aspose::Pdf::LogicalStructure::ElementList::get_Count()=0
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Class TextPdfComparer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.TextPdfComparer class. Represents a class to comparison two PDF pages or PDF documents
 type: docs
-weight: 1880
+weight: 1920
 url: /net/aspose.pdf.comparison/textpdfcomparer/
 ---
 ## TextPdfComparer class

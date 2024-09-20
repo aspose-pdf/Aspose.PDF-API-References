@@ -4,7 +4,7 @@ linktitle: NonFullScreenPageModeUseNone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseNone field. Neither document outline nor thumbnail images visible in C++.'
 type: docs
-weight: 1800
+weight: 1100
 url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
 ## NonFullScreenPageModeUseNone field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 Neither document outline nor thumbnail images visible.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseNone
+static int32_t Aspose::Pdf::Facades::ViewerPreference::NonFullScreenPageModeUseNone
 ```
 
 ## See Also

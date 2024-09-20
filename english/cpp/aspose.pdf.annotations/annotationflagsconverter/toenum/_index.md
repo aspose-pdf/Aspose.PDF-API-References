@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::AnnotationFlagsConverter class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/annotationflagsconverter/toenum/
 ---
 ## AnnotationFlagsConverter::ToEnum method

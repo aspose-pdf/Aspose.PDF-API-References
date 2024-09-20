@@ -4,7 +4,7 @@ linktitle: get_AreaToExtract
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_AreaToExtract method. Get or set an rectangle area to extract content to markdown in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/get_areatoextract/
 ---
 ## MarkdownSaveOptions::get_AreaToExtract method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/get_areatoextract/
 Get or set an rectangle area to extract content to markdown.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Rectangle> & Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_AreaToExtract() const
+const System::SharedPtr<Rectangle> & Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_AreaToExtract() const
 ```
 
 ## See Also

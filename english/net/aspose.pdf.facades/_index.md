@@ -3,7 +3,7 @@ title: Aspose.Pdf.Facades
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating stamping signing annotating etc. but on the high level without access to a documents inner structure
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.facades/
 ---
 The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.

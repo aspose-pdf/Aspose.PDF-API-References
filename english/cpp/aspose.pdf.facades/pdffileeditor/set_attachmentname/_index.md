@@ -4,7 +4,7 @@ linktitle: set_AttachmentName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::set_AttachmentName method. Sets name of attachment when result of operation is stored into HttpResponse objects as attachment in C++.'
 type: docs
-weight: 4400
+weight: 3800
 url: /cpp/aspose.pdf.facades/pdffileeditor/set_attachmentname/
 ---
 ## PdfFileEditor::set_AttachmentName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_attachmentname/
 Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::set_AttachmentName(System::String value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_AttachmentName(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_G
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColor::get_G method. Gets the green component in C++.'
 type: docs
-weight: 1100
+weight: 500
 url: /cpp/aspose.pdf.operators/setcolor/get_g/
 ---
 ## SetColor::get_G method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_g/
 Gets the green component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetColor::get_G() const
+double Aspose::Pdf::Operators::SetColor::get_G() const
 ```
 
 ## Remarks

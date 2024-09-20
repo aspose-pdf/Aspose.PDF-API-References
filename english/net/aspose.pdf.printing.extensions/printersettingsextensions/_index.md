@@ -3,7 +3,7 @@ title: Class PrinterSettingsExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.Extensions.PrinterSettingsExtensions class. Represents extension methods for PrinterSettings
 type: docs
-weight: 6860
+weight: 6920
 url: /net/aspose.pdf.printing.extensions/printersettingsextensions/
 ---
 ## PrinterSettingsExtensions class

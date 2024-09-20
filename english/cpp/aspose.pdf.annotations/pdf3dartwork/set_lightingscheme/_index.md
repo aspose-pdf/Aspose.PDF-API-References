@@ -4,7 +4,7 @@ linktitle: set_LightingScheme
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DArtwork::set_LightingScheme method. Sets the lighting scheme in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf.annotations/pdf3dartwork/set_lightingscheme/
 ---
 ## PDF3DArtwork::set_LightingScheme method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/set_lightingscheme/
 Sets the lighting scheme.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DArtwork::set_LightingScheme(System::SharedPtr<PDF3DLightingScheme> value)
+void Aspose::Pdf::Annotations::PDF3DArtwork::set_LightingScheme(System::SharedPtr<PDF3DLightingScheme> value)
 ```
 
 ## Remarks

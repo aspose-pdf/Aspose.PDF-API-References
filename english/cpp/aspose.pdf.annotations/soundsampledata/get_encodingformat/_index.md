@@ -4,7 +4,7 @@ linktitle: get_EncodingFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleData::get_EncodingFormat method. Gets the encoding format in C++.'
 type: docs
-weight: 700
+weight: 300
 url: /cpp/aspose.pdf.annotations/soundsampledata/get_encodingformat/
 ---
 ## SoundSampleData::get_EncodingFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/get_encodingformat/
 Gets the encoding format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API SoundSampleDataEncodingFormat Aspose::Pdf::Annotations::SoundSampleData::get_EncodingFormat() const
+SoundSampleDataEncodingFormat Aspose::Pdf::Annotations::SoundSampleData::get_EncodingFormat() const
 ```
 
 ## See Also

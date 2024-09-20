@@ -4,7 +4,7 @@ linktitle: get_File
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LaunchAction::get_File method. Gets the application to be launched or the document to be opened or printed in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/launchaction/get_file/
 ---
 ## LaunchAction::get_File method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchaction/get_file/
 Gets the application to be launched or the document to be opened or printed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::LaunchAction::get_File()
+System::String Aspose::Pdf::Annotations::LaunchAction::get_File()
 ```
 
 ## See Also

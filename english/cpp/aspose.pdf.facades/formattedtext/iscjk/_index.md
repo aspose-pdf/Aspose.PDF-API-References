@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formattedtext/iscjk/
 Checks if text is CJK (Chinese, Japanese, or Korean).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormattedText::IsCjk()
+bool Aspose::Pdf::Facades::FormattedText::IsCjk()
 ```
 
 

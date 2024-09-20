@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/crashreportoptions/get_crashreportdirectory/
 Output directory for crash report. By default is set to current directory.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::CrashReportOptions::get_CrashReportDirectory() const
+System::String Aspose::Pdf::CrashReportOptions::get_CrashReportDirectory() const
 ```
 
 ## See Also

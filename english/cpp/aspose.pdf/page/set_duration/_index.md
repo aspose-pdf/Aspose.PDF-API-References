@@ -4,7 +4,7 @@ linktitle: set_Duration
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Duration method. Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined in C++.'
 type: docs
-weight: 2500
+weight: 5700
 url: /cpp/aspose.pdf/page/set_duration/
 ---
 ## Page::set_Duration method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_duration/
 Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_Duration(double value)
+void Aspose::Pdf::Page::set_Duration(double value)
 ```
 
 ## See Also

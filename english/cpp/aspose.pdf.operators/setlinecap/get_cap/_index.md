@@ -4,7 +4,7 @@ linktitle: get_Cap
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetLineCap::get_Cap method. Gets line caps style in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/setlinecap/get_cap/
 ---
 ## SetLineCap::get_Cap method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setlinecap/get_cap/
 Gets line caps style.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineCap Aspose::Pdf::Operators::SetLineCap::get_Cap()
+LineCap Aspose::Pdf::Operators::SetLineCap::get_Cap()
 ```
 
 ## See Also

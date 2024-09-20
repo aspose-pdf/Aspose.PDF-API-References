@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/characteristics/get_background/
 Gets color of the background.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Annotations::Characteristics::get_Background()
+System::Drawing::Color Aspose::Pdf::Annotations::Characteristics::get_Background()
 ```
 
 ## See Also

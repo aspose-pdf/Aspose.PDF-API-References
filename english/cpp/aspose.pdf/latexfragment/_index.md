@@ -48,15 +48,10 @@ class LatexFragment : public Aspose::Pdf::TeXFragment
 | [set_ZIndex](../baseparagraph/set_zindex/)(int32_t) | Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 | [TeXFragment](../texfragment/texfragment/)(System::String) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
 | [TeXFragment](../texfragment/texfragment/)(System::String, bool) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
-## Remarks
 
+## Deprecated
+Please use TeXFragment instead 
 
-<xrefsect id="deprecated_1_deprecated000102">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Please use <ref refid="class_aspose_1_1_pdf_1_1_te_x_fragment" kindref="compound">TeXFragment</ref> instead </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [TeXFragment](../texfragment/)

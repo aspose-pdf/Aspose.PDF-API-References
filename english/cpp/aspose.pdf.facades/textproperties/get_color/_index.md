@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::TextProperties::get_Color method. Gets text color in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.facades/textproperties/get_color/
 ---
 ## TextProperties::get_Color method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/textproperties/get_color/
 Gets text color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Facades::TextProperties::get_Color() const
+System::Drawing::Color Aspose::Pdf::Facades::TextProperties::get_Color() const
 ```
 
 ## See Also

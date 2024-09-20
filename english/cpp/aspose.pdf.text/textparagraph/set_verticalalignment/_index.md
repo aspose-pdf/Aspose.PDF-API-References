@@ -4,7 +4,7 @@ linktitle: set_VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::set_VerticalAlignment method. Sets vertical alignment for the text inside paragrph''s Rectangle in C++.'
 type: docs
-weight: 200
+weight: 2500
 url: /cpp/aspose.pdf.text/textparagraph/set_verticalalignment/
 ---
 ## TextParagraph::set_VerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_verticalalignment/
 Sets vertical alignment for the text inside paragrph's [Rectangle](../../../aspose.pdf/rectangle/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value)
+void Aspose::Pdf::Text::TextParagraph::set_VerticalAlignment(Aspose::Pdf::VerticalAlignment value)
 ```
 
 ## Remarks

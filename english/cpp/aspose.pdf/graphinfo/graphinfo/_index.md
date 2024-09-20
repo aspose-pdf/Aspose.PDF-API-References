@@ -4,7 +4,7 @@ linktitle: GraphInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use GraphInfo constructor of Aspose::Pdf::GraphInfo class in C++.'
 type: docs
-weight: 2400
+weight: 100
 url: /cpp/aspose.pdf/graphinfo/graphinfo/
 ---
 ## GraphInfo::GraphInfo constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/graphinfo/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::GraphInfo::GraphInfo()
+Aspose::Pdf::GraphInfo::GraphInfo()
 ```
 
 ## See Also

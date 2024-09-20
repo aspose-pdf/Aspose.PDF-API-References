@@ -4,7 +4,7 @@ linktitle: set_Open
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PopupAnnotation::set_Open method. Sets a flag specifying whether the pop-up annotation should initially be displayed open in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf.annotations/popupannotation/set_open/
 ---
 ## PopupAnnotation::set_Open method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/popupannotation/set_open/
 Sets a flag specifying whether the pop-up annotation should initially be displayed open.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PopupAnnotation::set_Open(bool value)
+void Aspose::Pdf::Annotations::PopupAnnotation::set_Open(bool value)
 ```
 
 ## See Also

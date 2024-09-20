@@ -4,7 +4,7 @@ linktitle: PrinterMarkCornerPosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PrinterMarkCornerPosition enum. Represents a position of a mark in a corner of a page in C++.'
 type: docs
-weight: 13900
+weight: 14300
 url: /cpp/aspose.pdf.annotations/printermarkcornerposition/
 ---
 ## PrinterMarkCornerPosition enum

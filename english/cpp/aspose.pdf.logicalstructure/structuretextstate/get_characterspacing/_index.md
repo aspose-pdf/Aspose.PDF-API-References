@@ -4,7 +4,7 @@ linktitle: get_CharacterSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_CharacterSpacing method. Gets character spacing of the text in C++.'
 type: docs
-weight: 2300
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_characterspacing/
 ---
 ## StructureTextState::get_CharacterSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_characterspacing/
 Gets character spacing of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<float> Aspose::Pdf::LogicalStructure::StructureTextState::get_CharacterSpacing() const
+System::Nullable<float> Aspose::Pdf::LogicalStructure::StructureTextState::get_CharacterSpacing() const
 ```
 
 ## Remarks

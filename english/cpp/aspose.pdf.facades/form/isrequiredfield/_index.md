@@ -4,7 +4,7 @@ linktitle: IsRequiredField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::IsRequiredField method. Determines whether field is required or not in C++.'
 type: docs
-weight: 4700
+weight: 3700
 url: /cpp/aspose.pdf.facades/form/isrequiredfield/
 ---
 ## Form::IsRequiredField method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/isrequiredfield/
 Determines whether field is required or not.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Form::IsRequiredField(System::String fieldName)
+bool Aspose::Pdf::Facades::Form::IsRequiredField(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Form::IsRequiredField(System::S
 ### ReturnValue
 
 True - the field is required; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of field.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Form](../)

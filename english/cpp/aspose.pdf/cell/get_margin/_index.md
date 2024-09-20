@@ -4,7 +4,7 @@ linktitle: get_Margin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_Margin method. Gets the padding in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/aspose.pdf/cell/get_margin/
 ---
 ## Cell::get_Margin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_margin/
 Gets the padding.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<MarginInfo> & Aspose::Pdf::Cell::get_Margin() const
+const System::SharedPtr<MarginInfo> & Aspose::Pdf::Cell::get_Margin() const
 ```
 
 ## See Also

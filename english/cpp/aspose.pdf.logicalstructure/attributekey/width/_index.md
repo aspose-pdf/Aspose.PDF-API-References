@@ -4,7 +4,7 @@ linktitle: Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::Width field. Width attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 2000
+weight: 4400
 url: /cpp/aspose.pdf.logicalstructure/attributekey/width/
 ---
 ## Width field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/width/
 Width attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Width
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Width
 ```
 
 ## See Also

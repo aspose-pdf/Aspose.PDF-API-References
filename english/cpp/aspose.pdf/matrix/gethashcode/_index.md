@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::GetHashCode method. Hash-code for object in C++.'
 type: docs
-weight: 2400
+weight: 1300
 url: /cpp/aspose.pdf/matrix/gethashcode/
 ---
 ## Matrix::GetHashCode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/gethashcode/
 Hash-code for object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Matrix::GetHashCode() const override
+int32_t Aspose::Pdf::Matrix::GetHashCode() const override
 ```
 
 

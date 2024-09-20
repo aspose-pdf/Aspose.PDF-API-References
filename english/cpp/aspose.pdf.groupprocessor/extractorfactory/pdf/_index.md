@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.groupprocessor/extractorfactory/pdf/
 Conains creator of [IPdfTypeExtractor](../../ipdftypeextractor/) object.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Creators::PdfTypeObjectCreator> Aspose::Pdf::GroupProcessor::ExtractorFactory::Pdf
+static System::SharedPtr<Creators::PdfTypeObjectCreator> Aspose::Pdf::GroupProcessor::ExtractorFactory::Pdf
 ```
 
 ## See Also

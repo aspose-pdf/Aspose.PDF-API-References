@@ -4,7 +4,7 @@ linktitle: GetElements
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::XfdfReader::GetElements method. Parses XFDF file and returns information as hashtable in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/xfdfreader/getelements/
 ---
 ## XfdfReader::GetElements method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/xfdfreader/getelements/
 Parses XFDF file and returns information as hashtable.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Annotations::XfdfReader::GetElements(System::SharedPtr<System::Xml::XmlReader> reader)
+static System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Annotations::XfdfReader::GetElements(System::SharedPtr<System::Xml::XmlReader> reader)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dic
 ### ReturnValue
 
 Hashtable with information parsed from XFDF file.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>reader</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>XmlReader for the source file.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XfdfReader](../)

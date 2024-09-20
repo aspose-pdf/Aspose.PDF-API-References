@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metadata::get_Values method. Gets values in the metadata in C++.'
 type: docs
-weight: 400
+weight: 1400
 url: /cpp/aspose.pdf/metadata/get_values/
 ---
 ## Metadata::get_Values method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/get_values/
 Gets values in the metadata.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XmpValue>>> Aspose::Pdf::Metadata::get_Values() const override
+System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XmpValue>>> Aspose::Pdf::Metadata::get_Values() const override
 ```
 
 ## See Also

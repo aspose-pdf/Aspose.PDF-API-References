@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::Clone method. Clones a new Clone object in C++.'
 type: docs
-weight: 1200
+weight: 700
 url: /cpp/aspose.pdf/paragraphs/clone/
 ---
 ## Paragraphs::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/clone/
 Clones a new [Clone](./) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Paragraphs::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Paragraphs::Clone() override
 ```
 
 

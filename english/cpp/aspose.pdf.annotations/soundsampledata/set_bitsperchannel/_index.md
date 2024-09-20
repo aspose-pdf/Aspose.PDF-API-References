@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/set_bitsperchannel/
 Sets the number of bits per sample value per channel.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::SoundSampleData::set_BitsPerChannel(int32_t value)
+void Aspose::Pdf::Annotations::SoundSampleData::set_BitsPerChannel(int32_t value)
 ```
 
 ## See Also

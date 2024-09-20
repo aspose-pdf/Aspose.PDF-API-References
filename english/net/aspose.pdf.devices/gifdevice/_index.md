@@ -3,7 +3,7 @@ title: Class GifDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.GifDevice class. Represents image device that helps to save pdf document pages into gif
 type: docs
-weight: 2050
+weight: 2100
 url: /net/aspose.pdf.devices/gifdevice/
 ---
 ## GifDevice class

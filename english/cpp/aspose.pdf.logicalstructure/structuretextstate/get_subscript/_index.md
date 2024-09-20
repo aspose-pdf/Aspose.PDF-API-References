@@ -4,7 +4,7 @@ linktitle: get_Subscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_Subscript method. Gets subscript of the text in C++.'
 type: docs
-weight: 1700
+weight: 1100
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_subscript/
 ---
 ## StructureTextState::get_Subscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_subscript/
 Gets subscript of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_Subscript() const
+System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_Subscript() const
 ```
 
 ## Remarks

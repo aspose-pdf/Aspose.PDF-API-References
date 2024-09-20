@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/systemfontsource/equals/
 Check if system font source objects are equal.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::SystemFontSource::Equals(System::SharedPtr<System::Object> obj) override
+bool Aspose::Pdf::Text::SystemFontSource::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::SystemFontSource::Equals(System::S
 ### ReturnValue
 
 True if both objects are system font sources, false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_system" kindref="compound">System</ref> font source object which will be compared.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SystemFontSource](../)

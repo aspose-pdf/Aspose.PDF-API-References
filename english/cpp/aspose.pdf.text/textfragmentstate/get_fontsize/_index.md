@@ -4,7 +4,7 @@ linktitle: get_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_FontSize method. Gets font size of the text, represented by the TextFragment object in C++.'
 type: docs
-weight: 3200
+weight: 800
 url: /cpp/aspose.pdf.text/textfragmentstate/get_fontsize/
 ---
 ## TextFragmentState::get_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_fontsize/
 Gets font size of the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextFragmentState::get_FontSize() override
+float Aspose::Pdf::Text::TextFragmentState::get_FontSize() override
 ```
 
 ## See Also

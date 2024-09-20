@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TextDevice::get_Encoding method. Gets encoding of extracted text in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.devices/textdevice/get_encoding/
 ---
 ## TextDevice::get_Encoding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/textdevice/get_encoding/
 Gets encoding of extracted text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Text::Encoding> Aspose::Pdf::Devices::TextDevice::get_Encoding() const
+System::SharedPtr<System::Text::Encoding> Aspose::Pdf::Devices::TextDevice::get_Encoding() const
 ```
 
 ## See Also

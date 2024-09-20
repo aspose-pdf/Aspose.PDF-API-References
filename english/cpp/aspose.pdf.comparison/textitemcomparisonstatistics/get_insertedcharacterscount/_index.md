@@ -4,7 +4,7 @@ linktitle: get_InsertedCharactersCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_InsertedCharactersCount method. Gets and sets the number of inseted characters in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/get_insertedcharacterscount/
 ---
 ## TextItemComparisonStatistics::get_InsertedCharactersCount method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/get_insertedcharact
 Gets and sets the number of inseted characters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_InsertedCharactersCount() const
+int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_InsertedCharactersCount() const
 ```
 
 ## See Also

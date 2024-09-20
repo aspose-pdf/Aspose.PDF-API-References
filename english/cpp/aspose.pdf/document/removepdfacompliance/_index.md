@@ -4,7 +4,7 @@ linktitle: RemovePdfaCompliance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::RemovePdfaCompliance method. Remove pdfa compliance from the document in C++.'
 type: docs
-weight: 7900
+weight: 7700
 url: /cpp/aspose.pdf/document/removepdfacompliance/
 ---
 ## Document::RemovePdfaCompliance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/removepdfacompliance/
 Remove pdfa compliance from the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::RemovePdfaCompliance()
+void Aspose::Pdf::Document::RemovePdfaCompliance()
 ```
 
 ## See Also

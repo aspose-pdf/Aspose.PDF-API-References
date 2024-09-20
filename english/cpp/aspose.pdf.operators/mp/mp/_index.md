@@ -4,7 +4,7 @@ linktitle: MP
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::MP::MP constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/mp/mp/
 ---
 ## MP::MP constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.operators/mp/mp/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::MP::MP(System::String tag)
+Aspose::Pdf::Operators::MP::MP(System::String tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tag | System::String | Marked content tag. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>tag</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Marked content tag.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [MP](../)

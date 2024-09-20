@@ -4,7 +4,7 @@ linktitle: get_HotPink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_HotPink method. Gets a system-defined color that has an ARGB value of #FFFF69B4 in C++.'
 type: docs
-weight: 6500
+weight: 6800
 url: /cpp/aspose.pdf/color/get_hotpink/
 ---
 ## Color::get_HotPink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_hotpink/
 Gets a system-defined color that has an ARGB value of **#FFFF69B4**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_HotPink()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_HotPink()
 ```
 
 

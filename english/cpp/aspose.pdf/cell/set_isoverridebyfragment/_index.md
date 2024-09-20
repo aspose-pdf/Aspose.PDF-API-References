@@ -4,7 +4,7 @@ linktitle: set_IsOverrideByFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::set_IsOverrideByFragment method. Sets the cell''s TextState property is overriden by TextFragment TextState property in C++.'
 type: docs
-weight: 1800
+weight: 2600
 url: /cpp/aspose.pdf/cell/set_isoverridebyfragment/
 ---
 ## Cell::set_IsOverrideByFragment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_isoverridebyfragment/
 Sets the cell's TextState property is overriden by TextFragment TextState property.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Cell::set_IsOverrideByFragment(bool value)
+void Aspose::Pdf::Cell::set_IsOverrideByFragment(bool value)
 ```
 
 ## See Also

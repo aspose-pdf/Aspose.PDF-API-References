@@ -4,7 +4,7 @@ linktitle: CreateFigureElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateFigureElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3700
+weight: 800
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
 ## ITaggedContent::CreateFigureElement method

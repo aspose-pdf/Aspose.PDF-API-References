@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetLineWidth::get_Width method. Gets width of the line in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/setlinewidth/get_width/
 ---
 ## SetLineWidth::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setlinewidth/get_width/
 Gets width of the line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetLineWidth::get_Width() const
+double Aspose::Pdf::Operators::SetLineWidth::get_Width() const
 ```
 
 ## See Also

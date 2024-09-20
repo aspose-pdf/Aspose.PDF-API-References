@@ -4,7 +4,7 @@ linktitle: Red
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DLightingScheme::Red field. The "Red" lighting scheme in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
 ## Red field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/red/
 The "Red" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Red
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Red
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_ForbidAll
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_ForbidAll method. All Forbidded in C++.'
 type: docs
-weight: 3000
+weight: 2600
 url: /cpp/aspose.pdf.facades/documentprivilege/get_forbidall/
 ---
 ## DocumentPrivilege::get_ForbidAll method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_forbidall/
 All Forbidded.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ForbidAll()
+static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_ForbidAll()
 ```
 
 ## See Also

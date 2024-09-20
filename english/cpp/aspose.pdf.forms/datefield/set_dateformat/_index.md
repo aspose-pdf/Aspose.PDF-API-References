@@ -4,7 +4,7 @@ linktitle: set_DateFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::DateField::set_DateFormat method. Sets the date format in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf.forms/datefield/set_dateformat/
 ---
 ## DateField::set_DateFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/datefield/set_dateformat/
 Sets the date format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::DateField::set_DateFormat(System::String value)
+void Aspose::Pdf::Forms::DateField::set_DateFormat(System::String value)
 ```
 
 ## Remarks

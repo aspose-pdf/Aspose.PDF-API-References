@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::get_Width method. Gets page width in C++.'
 type: docs
-weight: 1200
+weight: 900
 url: /cpp/aspose.pdf/pageinfo/get_width/
 ---
 ## PageInfo::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/get_width/
 Gets page width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::PageInfo::get_Width() const
+double Aspose::Pdf::PageInfo::get_Width() const
 ```
 
 ## See Also

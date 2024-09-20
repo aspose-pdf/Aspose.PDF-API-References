@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/get_isbreakwords/
 Gets words break.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::HtmlFragment::get_IsBreakWords() const
+bool Aspose::Pdf::HtmlFragment::get_IsBreakWords() const
 ```
 
 ## See Also

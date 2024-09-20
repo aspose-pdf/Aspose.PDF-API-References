@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/get_scalingmode/
 The type of scaling that shall be used. ///.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::get_ScalingMode()
+Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::get_ScalingMode()
 ```
 
 ## See Also

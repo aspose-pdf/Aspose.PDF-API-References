@@ -4,7 +4,7 @@ linktitle: get_Intent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PolyAnnotation::get_Intent method. Gets the intent of the polygon or polyline annotation in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pdf.annotations/polyannotation/get_intent/
 ---
 ## PolyAnnotation::get_Intent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/get_intent/
 Gets the intent of the polygon or polyline annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API PolyIntent Aspose::Pdf::Annotations::PolyAnnotation::get_Intent()
+PolyIntent Aspose::Pdf::Annotations::PolyAnnotation::get_Intent()
 ```
 
 ## See Also

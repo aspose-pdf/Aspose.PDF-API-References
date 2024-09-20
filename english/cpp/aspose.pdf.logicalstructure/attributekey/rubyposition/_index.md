@@ -4,7 +4,7 @@ linktitle: RubyPosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::RubyPosition field. RubyPosition attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/aspose.pdf.logicalstructure/attributekey/rubyposition/
 ---
 ## RubyPosition field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/rubyposition/
 RubyPosition attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RubyPosition
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RubyPosition
 ```
 
 ## See Also

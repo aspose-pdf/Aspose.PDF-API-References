@@ -4,7 +4,7 @@ linktitle: get_ReplacementFont
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::get_ReplacementFont method. Gets font used for replacing if user font does not contain required character in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/aspose.pdf/textstamp/get_replacementfont/
 ---
 ## TextStamp::get_ReplacementFont method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/get_replacementfont/
 Gets font used for replacing if user font does not contain required character.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Text::Font> Aspose::Pdf::TextStamp::get_ReplacementFont() const
+System::SharedPtr<Text::Font> Aspose::Pdf::TextStamp::get_ReplacementFont() const
 ```
 
 ## See Also

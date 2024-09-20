@@ -4,7 +4,7 @@ linktitle: set_AfterPrinting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterPrinting method. Action that will be performed after document printing in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.pdf.annotations/documentactioncollection/set_afterprinting/
 ---
 ## DocumentActionCollection::set_AfterPrinting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_afterprinting/
 Action that will be performed after document printing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterPrinting(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterPrinting(System::SharedPtr<PdfAction> value)
 ```
 
 ## See Also

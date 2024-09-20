@@ -4,7 +4,7 @@ linktitle: get_LogStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_LogStream method. Stream where comments will be stored in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_logstream/
 ---
 ## PdfFormatConversionOptions::get_LogStream method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_logstream/
 Stream where comments will be stored.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::PdfFormatConversionOptions::get_LogStream() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::PdfFormatConversionOptions::get_LogStream() const
 ```
 
 ## See Also

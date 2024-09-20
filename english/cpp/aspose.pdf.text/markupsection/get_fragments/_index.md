@@ -4,7 +4,7 @@ linktitle: get_Fragments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::MarkupSection::get_Fragments method. Collection of not empty TextFragment objects that are inside the section in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.text/markupsection/get_fragments/
 ---
 ## MarkupSection::get_Fragments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/markupsection/get_fragments/
 [Collection](../../../aspose.pdf/collection/) of not empty [TextFragment](../../textfragment/) objects that are inside the section.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> Aspose::Pdf::Text::MarkupSection::get_Fragments() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> Aspose::Pdf::Text::MarkupSection::get_Fragments() const
 ```
 
 ## Remarks

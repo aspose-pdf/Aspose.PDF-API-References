@@ -4,7 +4,7 @@ linktitle: get_FontKey
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionError::get_FontKey method. Key (PDF name) of the Font object that is used for showing text that causes extraction error in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.text/textextractionerror/get_fontkey/
 ---
 ## TextExtractionError::get_FontKey method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerror/get_fontkey/
 Key (PDF name) of the [Font](../../font/) object that is used for showing text that causes extraction error.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionError::get_FontKey() const
+System::String Aspose::Pdf::Text::TextExtractionError::get_FontKey() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_ExtractionArea
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea method. Get and set the rectangular area in which the text of pages will be compared. This option can''t be setted along with ExcludeTables, ExcludeAreas1 and ExcludeAreas2 options in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.pdf.comparison/comparisonoptions/set_extractionarea/
 ---
 ## ComparisonOptions::set_ExtractionArea method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/comparisonoptions/set_extractionarea/
 Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with [ExcludeTables](../), [ExcludeAreas1](../) and [ExcludeAreas2](../) options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea(System::SharedPtr<Rectangle> value)
 ```
 
 ## See Also

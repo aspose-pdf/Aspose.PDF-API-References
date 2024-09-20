@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintent/get_outputcondition/
 Gets a text that concisely identifies the intended output device or production condition in human-readable form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::OutputIntent::get_OutputCondition()
+System::String Aspose::Pdf::OutputIntent::get_OutputCondition()
 ```
 
 ## See Also

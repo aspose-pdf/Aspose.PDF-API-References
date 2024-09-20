@@ -4,7 +4,7 @@ linktitle: set_AlternativeText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::set_AlternativeText method. Sets the alternative text for structure element in C++.'
 type: docs
-weight: 1000
+weight: 1600
 url: /cpp/aspose.pdf.logicalstructure/structureelement/set_alternativetext/
 ---
 ## StructureElement::set_AlternativeText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_alternativetext/
 Sets the alternative text for structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureElement::set_AlternativeText(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_AlternativeText(System::String value)
 ```
 
 ## Remarks

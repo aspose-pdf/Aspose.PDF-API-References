@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/inlinealign/
 InlineAlign attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::InlineAlign
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::InlineAlign
 ```
 
 ## See Also

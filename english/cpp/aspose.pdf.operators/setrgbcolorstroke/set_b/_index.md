@@ -4,7 +4,7 @@ linktitle: set_B
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetRGBColorStroke::set_B method. Sets the blue component in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.operators/setrgbcolorstroke/set_b/
 ---
 ## SetRGBColorStroke::set_B method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setrgbcolorstroke/set_b/
 Sets the blue component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetRGBColorStroke::set_B(double value)
+void Aspose::Pdf::Operators::SetRGBColorStroke::set_B(double value)
 ```
 
 ## Remarks

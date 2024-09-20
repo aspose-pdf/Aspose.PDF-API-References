@@ -4,7 +4,7 @@ linktitle: FileIcon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FileIcon enum. An icon to be used in displaying the annotation in C++.'
 type: docs
-weight: 13100
+weight: 13200
 url: /cpp/aspose.pdf.annotations/fileicon/
 ---
 ## FileIcon enum

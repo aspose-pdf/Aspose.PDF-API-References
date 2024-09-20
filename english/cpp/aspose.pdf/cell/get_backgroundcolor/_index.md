@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_BackgroundColor method. Gets the background color in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf/cell/get_backgroundcolor/
 ---
 ## Cell::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_backgroundcolor/
 Gets the background color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Color> & Aspose::Pdf::Cell::get_BackgroundColor() const
+const System::SharedPtr<Color> & Aspose::Pdf::Cell::get_BackgroundColor() const
 ```
 
 ## See Also

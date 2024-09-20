@@ -4,7 +4,7 @@ linktitle: get_Tag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BDC::get_Tag method. Gets marked content tag in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/bdc/get_tag/
 ---
 ## BDC::get_Tag method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bdc/get_tag/
 Gets marked content tag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::BDC::get_Tag() const
+System::String Aspose::Pdf::Operators::BDC::get_Tag() const
 ```
 
 ## See Also

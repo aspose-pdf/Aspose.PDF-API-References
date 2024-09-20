@@ -4,7 +4,7 @@ linktitle: set_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::set_Style method. Sets style in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/aspose.pdf/heading/set_style/
 ---
 ## Heading::set_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_style/
 Sets style.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Heading::set_Style(NumberingStyle value)
+void Aspose::Pdf::Heading::set_Style(NumberingStyle value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_BackgroundImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_BackgroundImage method. Gets the background image in C++.'
 type: docs
-weight: 1100
+weight: 500
 url: /cpp/aspose.pdf/cell/get_backgroundimage/
 ---
 ## Cell::get_BackgroundImage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_backgroundimage/
 Gets the background image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Image> & Aspose::Pdf::Cell::get_BackgroundImage() const
+const System::SharedPtr<Image> & Aspose::Pdf::Cell::get_BackgroundImage() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Keys
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::get_Keys method. Gets keys of the dictionary. If appearance dictionary has subditionaries, then Keys contains (N|R|D).state values, where N - normal appearance, R - rollover appearance, D - down appearance and state - the name of the state (e.g. On, Off for checkboxes) in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/aspose.pdf.annotations/appearancedictionary/get_keys/
 ---
 ## AppearanceDictionary::get_Keys method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/get_keys/
 Gets keys of the dictionary. If appearance dictionary has subditionaries, then [Keys](../) contains (N|R|D).state values, where N - normal appearance, R - rollover appearance, D - down appearance and state - the name of the state (e.g. On, Off for checkboxes).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::ICollection<System::String>> Aspose::Pdf::Annotations::AppearanceDictionary::get_Keys() const override
+System::SharedPtr<System::Collections::Generic::ICollection<System::String>> Aspose::Pdf::Annotations::AppearanceDictionary::get_Keys() const override
 ```
 
 ## See Also

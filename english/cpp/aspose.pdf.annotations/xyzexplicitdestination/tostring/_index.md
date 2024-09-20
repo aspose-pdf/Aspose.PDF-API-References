@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/xyzexplicitdestination/tostring/
 Converts the object state into string value. Example: "1 XYZ 100 200 3".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::XYZExplicitDestination::ToString() const override
+System::String Aspose::Pdf::Annotations::XYZExplicitDestination::ToString() const override
 ```
 
 

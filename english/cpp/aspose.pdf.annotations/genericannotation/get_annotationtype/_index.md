@@ -4,7 +4,7 @@ linktitle: get_AnnotationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GenericAnnotation::get_AnnotationType method. Gets type of annotation in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.annotations/genericannotation/get_annotationtype/
 ---
 ## GenericAnnotation::get_AnnotationType method

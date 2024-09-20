@@ -4,7 +4,7 @@ linktitle: get_Open
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PopupAnnotation::get_Open method. Gets a flag specifying whether the pop-up annotation should initially be displayed open in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.annotations/popupannotation/get_open/
 ---
 ## PopupAnnotation::get_Open method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/popupannotation/get_open/
 Gets a flag specifying whether the pop-up annotation should initially be displayed open.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::PopupAnnotation::get_Open()
+bool Aspose::Pdf::Annotations::PopupAnnotation::get_Open()
 ```
 
 ## See Also

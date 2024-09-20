@@ -4,7 +4,7 @@ linktitle: get_Subject
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_Subject method. Gets the Subject information of PDF document in C++.'
 type: docs
-weight: 2400
+weight: 2100
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_subject/
 ---
 ## PdfFileInfo::get_Subject method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_subject/
 Gets the Subject information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::get_Subject()
+System::String Aspose::Pdf::Facades::PdfFileInfo::get_Subject()
 ```
 
 ## See Also

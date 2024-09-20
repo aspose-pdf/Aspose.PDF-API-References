@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutputIntents::Contains method. Determines whether the collection contains a specific output intent in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf/outputintents/contains/
 ---
 ## OutputIntents::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintents/contains/
 Determines whether the collection contains a specific output intent.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutputIntents::Contains(const System::SharedPtr<OutputIntent> &item) const override
+bool Aspose::Pdf::OutputIntents::Contains(const System::SharedPtr<OutputIntent> &item) const override
 ```
 
 
@@ -27,16 +27,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutputIntents::Contains(const System::Sh
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The output intent to locate in the collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+
 if *item*  is found in the collection; otherwise, **false**
 
 . 

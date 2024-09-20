@@ -4,7 +4,7 @@ linktitle: set_ExportItems
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::set_ExportItems method. Sets options for combo box with export values in C++.'
 type: docs
-weight: 1300
+weight: 3900
 url: /cpp/aspose.pdf.facades/formeditor/set_exportitems/
 ---
 ## FormEditor::set_ExportItems method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_exportitems/
 Sets options for combo box with export values.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
+void Aspose::Pdf::Facades::FormEditor::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
 ```
 
 ## See Also
