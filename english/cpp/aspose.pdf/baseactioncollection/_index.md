@@ -23,5 +23,6 @@ class BaseActionCollection : public System::Object
 | [RemoveActions](./removeactions/)() | Removes all actions of the annotation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

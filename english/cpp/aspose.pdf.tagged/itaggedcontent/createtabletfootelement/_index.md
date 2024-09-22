@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::TableTFootElement](../../../aspose.pdf.l
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

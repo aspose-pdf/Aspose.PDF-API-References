@@ -41,15 +41,9 @@ class PdfFileStamp : public Aspose::Pdf::Facades::SaveableFacade
 | [AddPageNumber](./addpagenumber/)(System::String, int32_t) | Adds page number to the pages. |
 | [AddPageNumber](./addpagenumber/)(System::SharedPtr\<FormattedText\>, int32_t) | Adds page number to the pages. |
 | [AddStamp](./addstamp/)(System::SharedPtr\<Stamp\>) | Adds stamp to the file. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by [Close()](./close/) method. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [get_AttachmentName](./get_attachmentname/)() const | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
 | [get_ContentDisposition](./get_contentdisposition/)() const | Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_InputFile](./get_inputfile/)() const | Gets name and path of input file. |
 | [get_InputStream](./get_inputstream/)() const | Gets input stream. |
 | [get_KeepSecurity](./get_keepsecurity/)() const | Keeps security if true. (This feature will be implemented in next versions). |

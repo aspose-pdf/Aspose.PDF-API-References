@@ -24,6 +24,8 @@ virtual void Aspose::Pdf::INamedDestinationCollection::idx_set(System::String na
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [INamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)

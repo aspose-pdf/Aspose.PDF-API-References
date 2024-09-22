@@ -39,5 +39,6 @@ class SvgExtractionOptions : public System::Object
 | [SvgExtractionOptions](./svgextractionoptions/)() | Creates [SvgExtractionOptions](./) class instance. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Vector::Extraction](../)
 * Library [Aspose.PDF for C++](../../)

@@ -20,16 +20,11 @@ class FitRExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestina
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
 | [FitRExplicitDestination](./fitrexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double, double, double, double) | Creates local explicit destination. |
 | [FitRExplicitDestination](./fitrexplicitdestination/)(System::SharedPtr\<Document\>, int32_t, double, double, double, double) | Creates remote explicit destination. |
 | [FitRExplicitDestination](./fitrexplicitdestination/)(int32_t, double, double, double, double) | Creates remote explicit destination. |
 | [get_Bottom](./get_bottom/)() | Gets bottom vertical coordinate of visible rectangle. |
 | [get_Left](./get_left/)() | Gets left horizontal coordinate of visible rectangle. |
-| [get_Page](../explicitdestination/get_page/)() const | Gets the destination page object. |
-| [get_PageNumber](../explicitdestination/get_pagenumber/)() const | Gets the destination page number. |
 | [get_Right](./get_right/)() | Gets right horizontal coordinate of visible rectangle. |
 | [get_Top](./get_top/)() | Gets top vertical coordinate of visible rectangle. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 FitR 100 200 300 400". |

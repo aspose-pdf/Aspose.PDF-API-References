@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::Text::TextSegment::
 Provides a way to change following properties of the text: [Font](../../font/) FontSize FontStyle ForegroundColor BackgroundColor 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../textstate/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

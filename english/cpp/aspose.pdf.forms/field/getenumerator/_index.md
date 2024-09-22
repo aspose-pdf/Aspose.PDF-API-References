@@ -23,6 +23,8 @@ Enumerator.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

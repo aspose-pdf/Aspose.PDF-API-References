@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::CommonFigureAnnotation::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CommonFigureAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

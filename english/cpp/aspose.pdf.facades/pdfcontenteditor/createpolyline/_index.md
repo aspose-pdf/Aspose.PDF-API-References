@@ -26,7 +26,10 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePolyLine(System::SharedPtr<Li
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LineInfo](../../lineinfo/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

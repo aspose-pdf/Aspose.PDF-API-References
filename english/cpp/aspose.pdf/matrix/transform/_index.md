@@ -49,6 +49,7 @@ Transformed rectangle.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
@@ -73,6 +74,7 @@ Transformation result.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../point/)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)

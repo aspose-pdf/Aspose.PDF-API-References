@@ -77,6 +77,7 @@ void Aspose::Pdf::XImageCollection::Delete(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -97,6 +98,7 @@ void Aspose::Pdf::XImageCollection::Delete(System::String name, Aspose::Pdf::Ima
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ImageDeleteAction](../../imagedeleteaction/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PolylineAnnotation::Accept(System::SharedPtr<Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [PolylineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::Stamp::BindImage(System::SharedPtr<System::IO::Stream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::Stamp::BindImage(System::String imageFile)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

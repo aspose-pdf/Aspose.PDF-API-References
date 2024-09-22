@@ -23,6 +23,7 @@ void Aspose::Pdf::Paragraphs::Remove(System::SharedPtr<BaseParagraph> paragraph)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

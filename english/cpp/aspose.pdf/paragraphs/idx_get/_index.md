@@ -27,6 +27,7 @@ System::SharedPtr<BaseParagraph> Aspose::Pdf::Paragraphs::idx_get(int32_t index)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

@@ -27,6 +27,7 @@ True if the page contains path construction operators; otherwise, False.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

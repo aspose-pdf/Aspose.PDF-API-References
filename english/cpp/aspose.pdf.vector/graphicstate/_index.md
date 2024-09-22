@@ -26,5 +26,6 @@ class GraphicState : public System::Object
 | [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Gets the current transformation matrix. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Vector](../)
 * Library [Aspose.PDF for C++](../../)

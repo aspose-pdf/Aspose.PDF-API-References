@@ -32,5 +32,6 @@ class FontSubstitutionCollection : public System::Collections::Generic::ICollect
 | [Remove](./remove/)(const System::SharedPtr\<FontSubstitution\>\&) override | Deletes the font substitution element. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

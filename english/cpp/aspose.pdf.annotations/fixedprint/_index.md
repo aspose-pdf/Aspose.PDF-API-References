@@ -28,5 +28,6 @@ class FixedPrint : public System::Object
 | [set_VerticalTranslation](./set_verticaltranslation/)(double) | Sets vertical translation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

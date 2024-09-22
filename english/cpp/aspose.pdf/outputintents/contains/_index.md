@@ -33,6 +33,7 @@ if *item*  is found in the collection; otherwise, **false**
 . 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntent](../../outputintent/)
 * Class [OutputIntents](../)
 * Namespace [Aspose::Pdf](../../)

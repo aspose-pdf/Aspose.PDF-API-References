@@ -18,6 +18,7 @@ void Aspose::Pdf::RenderingOptions::set_DefaultFontName(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RenderingOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

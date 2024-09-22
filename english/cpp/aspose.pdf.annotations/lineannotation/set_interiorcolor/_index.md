@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

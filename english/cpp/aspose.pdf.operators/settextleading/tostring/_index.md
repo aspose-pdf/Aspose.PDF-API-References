@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetTextLeading::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetTextLeading](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

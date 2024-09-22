@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Facades::ReplaceTextStrategy> Aspose::Pdf::Facade
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ReplaceTextStrategy](../../replacetextstrategy/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

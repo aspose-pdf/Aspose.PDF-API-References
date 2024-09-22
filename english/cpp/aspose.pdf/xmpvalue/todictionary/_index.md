@@ -23,6 +23,9 @@ Dictionary value.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)

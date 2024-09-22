@@ -23,6 +23,8 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [PdfAction](../../pdfaction/)
 * Class [ActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

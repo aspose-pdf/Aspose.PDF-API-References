@@ -42,6 +42,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::ApplyForAllFragments(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -63,6 +64,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::ApplyForAllFragments(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

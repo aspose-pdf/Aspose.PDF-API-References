@@ -18,6 +18,7 @@ System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::MediaClipData::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [MediaClipData](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

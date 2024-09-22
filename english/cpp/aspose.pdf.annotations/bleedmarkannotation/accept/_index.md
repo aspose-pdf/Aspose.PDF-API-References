@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::BleedMarkAnnotation::Accept(System::SharedPtr<Ann
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [BleedMarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

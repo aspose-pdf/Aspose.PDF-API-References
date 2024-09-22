@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Annotations::Characteristics::get_Border()
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [Characteristics](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

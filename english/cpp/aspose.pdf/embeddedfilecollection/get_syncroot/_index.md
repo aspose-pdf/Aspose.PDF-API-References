@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::EmbeddedFileCollection::get_SyncR
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

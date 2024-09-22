@@ -25,7 +25,9 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::RedactArea(int32_t pageIndex, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,5 +24,6 @@ class SymbologyConverter : public System::Object
 | static [ToString](./tostring/)(Symbology) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

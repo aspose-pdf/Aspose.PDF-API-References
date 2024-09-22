@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::PdfFormatConversionOptions::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

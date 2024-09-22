@@ -27,9 +27,10 @@ class Point : public System::Object
 | [Point](./point/)(double, double) | Initializes new instance of the [Point](./). |
 | [set_X](./set_x/)(double) | X coordinate value. |
 | [set_Y](./set_y/)(double) | Y coordinate value. |
-| [ToPoint](./topoint/)() | Converts point into **System.Drawing.PointF** object. |
+| [ToPoint](./topoint/)() | Converts point into [System.Drawing.PointF](../../system.drawing/pointf/) object. |
 | [ToString](./tostring/)() const override | Return string represention current point. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

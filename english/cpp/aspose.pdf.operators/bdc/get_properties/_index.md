@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Facades::BDCProperties> Aspose::Pdf::Operators::B
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)

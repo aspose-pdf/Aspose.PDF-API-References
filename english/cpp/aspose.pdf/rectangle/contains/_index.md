@@ -27,6 +27,7 @@ True if point is inside of the recatngle.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../point/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

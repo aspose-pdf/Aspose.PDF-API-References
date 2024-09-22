@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [StampAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(System::SharedPtr<Doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [StampAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

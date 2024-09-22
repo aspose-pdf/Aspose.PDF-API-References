@@ -22,6 +22,7 @@ System::SharedPtr<ElementList> Aspose::Pdf::LogicalStructure::Element::get_Child
 Children collection of [T:/Aspose::Pdf::LogicalStructure::Element](../) objects. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ElementList](../../elementlist/)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

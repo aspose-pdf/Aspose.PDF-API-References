@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::CheckboxField::CheckboxField(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CheckboxField](../)
@@ -59,6 +60,7 @@ Aspose::Pdf::Forms::CheckboxField::CheckboxField(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -80,6 +82,7 @@ Aspose::Pdf::Forms::CheckboxField::CheckboxField(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CheckboxField](../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MovieAnnotation::set_Aspect(System::SharedPtr<Poi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [MovieAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

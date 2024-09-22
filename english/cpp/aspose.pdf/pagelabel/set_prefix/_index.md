@@ -18,6 +18,7 @@ void Aspose::Pdf::PageLabel::set_Prefix(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PageLabel](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ System::SharedPtr<FontSource> Aspose::Pdf::Text::FontSourceCollection::idx_get(i
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSource](../../fontsource/)
 * Class [FontSourceCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

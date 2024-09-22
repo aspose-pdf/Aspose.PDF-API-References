@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::PageLayoutConverter::ToString(PageLayout valu
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PageLayout](../../pagelayout/)
 * Class [PageLayoutConverter](../)
 * Namespace [Aspose::Pdf](../../)

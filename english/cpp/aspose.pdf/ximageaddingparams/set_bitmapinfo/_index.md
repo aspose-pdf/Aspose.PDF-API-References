@@ -18,6 +18,7 @@ void Aspose::Pdf::XImageAddingParams::set_BitmapInfo(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BitmapInfo](../../bitmapinfo/)
 * Class [XImageAddingParams](../)
 * Namespace [Aspose::Pdf](../../)

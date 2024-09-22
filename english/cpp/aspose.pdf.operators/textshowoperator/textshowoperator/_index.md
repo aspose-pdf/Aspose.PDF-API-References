@@ -37,6 +37,7 @@ Aspose::Pdf::Operators::TextShowOperator::TextShowOperator(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * Class [TextShowOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)

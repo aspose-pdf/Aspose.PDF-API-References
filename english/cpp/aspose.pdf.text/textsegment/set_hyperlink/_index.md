@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextSegment::set_Hyperlink(System::SharedPtr<Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Hyperlink](../../../aspose.pdf/hyperlink/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

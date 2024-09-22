@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::WatermarkAnnotation::ChangeAfterResize(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [WatermarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ const System::SharedPtr<Color> & Aspose::Pdf::FloatingBox::get_BackgroundColor()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

@@ -19,6 +19,7 @@ static ColorSpace Aspose::Pdf::ColorSpaceConverter::ToEnum(System::String value)
 ## See Also
 
 * Enum [ColorSpace](../../colorspace/)
+* Class [String](../../../system/string/)
 * Class [ColorSpaceConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,5 +29,6 @@ class MarkupParagraph : public System::Object
 | [set_Text](./set_text/)(System::String) | Sets the paragraph text. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

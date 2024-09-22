@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PdfActionCollection::Add(System::SharedPtr<PdfAct
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [PdfActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

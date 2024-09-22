@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::WarichuElement](../../../aspose.pdf.logi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

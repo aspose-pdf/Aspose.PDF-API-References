@@ -24,5 +24,6 @@ class PrintDuplexConverter : public System::Object
 | static [ToString](./tostring/)(PrintDuplex) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -24,6 +24,8 @@ void Aspose::Pdf::Utils::DictionaryEditor::idx_set(const System::String &key, Sy
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Color> Aspose::Pdf::Forms::SignatureCustomAppearance::get_Fore
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)

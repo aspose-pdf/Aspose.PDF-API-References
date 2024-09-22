@@ -22,6 +22,7 @@ System::Nullable<float> Aspose::Pdf::LogicalStructure::StructureTextState::get_C
 Can be null. Use null to inherit **CharacterSpacing** property from parent structure element. 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

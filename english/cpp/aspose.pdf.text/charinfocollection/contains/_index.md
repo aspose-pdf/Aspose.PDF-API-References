@@ -27,6 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfo](../../charinfo/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

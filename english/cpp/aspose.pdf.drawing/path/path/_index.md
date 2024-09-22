@@ -37,6 +37,8 @@ Aspose::Pdf::Drawing::Path::Path(System::ArrayPtr<System::SharedPtr<Shape>> shap
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Shape](../../shape/)
 * Class [Path](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

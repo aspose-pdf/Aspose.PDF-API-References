@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Signature::set_Location(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

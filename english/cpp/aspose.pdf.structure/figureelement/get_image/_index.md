@@ -18,6 +18,8 @@ System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Structure::FigureElement:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [FigureElement](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ void Aspose::Pdf::XmpField::set_NamespaceUri(System::String value)
 The namespace URI.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

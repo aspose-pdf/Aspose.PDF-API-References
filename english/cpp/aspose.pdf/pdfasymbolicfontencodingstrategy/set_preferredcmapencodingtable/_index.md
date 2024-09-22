@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/pdfasymbolicfontencodingstrategy/set_preferredcmapencodingt
 ## PdfASymbolicFontEncodingStrategy::set_PreferredCmapEncodingTable method
 
 
-Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration **QueueItem::CMapEncodingTableType** has no sense in this case.
+Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [QueueItem::CMapEncodingTableType](../queueitem/cmapencodingtabletype/) has no sense in this case.
 
 ```cpp
 void Aspose::Pdf::PdfASymbolicFontEncodingStrategy::set_PreferredCmapEncodingTable(PdfASymbolicFontEncodingStrategy::QueueItem::CMapEncodingTableType value)
@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfASymbolicFontEncodingStrategy::set_PreferredCmapEncodingTab
 
 ## See Also
 
+* Enum [CMapEncodingTableType](../queueitem/cmapencodingtabletype/)
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

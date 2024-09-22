@@ -18,6 +18,8 @@ System::SharedPtr<System::Xml::XmlNamespaceManager> Aspose::Pdf::Metadata::get_N
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNamespaceManager](../../../system.xml/xmlnamespacemanager/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

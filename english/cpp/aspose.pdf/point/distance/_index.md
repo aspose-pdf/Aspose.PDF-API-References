@@ -28,6 +28,7 @@ Distance between two points.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../)
 * Class [Point](../)
 * Namespace [Aspose::Pdf](../../)

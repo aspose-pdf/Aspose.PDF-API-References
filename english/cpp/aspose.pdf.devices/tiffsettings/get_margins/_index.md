@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Devices::Margins> Aspose::Pdf::Devices::TiffSetti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)

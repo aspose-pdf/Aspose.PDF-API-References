@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::OutputGen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

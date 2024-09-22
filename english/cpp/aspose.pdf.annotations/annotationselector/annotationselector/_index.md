@@ -37,6 +37,7 @@ Aspose::Pdf::Annotations::AnnotationSelector::AnnotationSelector(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

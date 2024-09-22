@@ -26,11 +26,8 @@ class CosPdfString : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
 | [get_IsHexadecimal](./get_ishexadecimal/)() const | Gets a value indicating whether this instance is hexadecimal. |
 | [get_Value](./get_value/)() const | Gets the string (ANSII). |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |
-| [ToCosPdfBoolean](../cospdfprimitive/tocospdfboolean/)() override | Tries cast this instance to [CosPdfBoolean](../cospdfboolean/). |
-| [ToCosPdfName](../cospdfprimitive/tocospdfname/)() override | Tries cast this instance to [CosPdfName](../cospdfname/). |
-| [ToCosPdfNumber](../cospdfprimitive/tocospdfnumber/)() override | Tries cast this instance to [CosPdfNumber](../cospdfnumber/). |
 | [ToCosPdfString](./tocospdfstring/)() override | Tries cast this instance to [CosPdfString](./). |
-| [ToString](./tostring/)() const override | Returns a **System::String** that represents the current [CosPdfString](./). |
+| [ToString](./tostring/)() const override | Returns a [System::String](../../system/string/) that represents the current [CosPdfString](./). |
 ## See Also
 
 * Class [CosPdfPrimitive](../cospdfprimitive/)

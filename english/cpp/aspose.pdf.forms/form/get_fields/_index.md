@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Forms::Form::get_Fields(
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

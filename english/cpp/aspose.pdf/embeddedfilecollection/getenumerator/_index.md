@@ -23,6 +23,8 @@ Enumerator of colleciton.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)

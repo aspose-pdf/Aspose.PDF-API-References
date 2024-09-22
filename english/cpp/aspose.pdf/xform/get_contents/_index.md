@@ -18,6 +18,7 @@ System::SharedPtr<OperatorCollection> Aspose::Pdf::XForm::get_Contents() overrid
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OperatorCollection](../../operatorcollection/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)

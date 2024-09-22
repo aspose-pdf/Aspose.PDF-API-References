@@ -28,6 +28,7 @@ the result of further program workflow
 ## See Also
 
 * Enum [ReturnAction](../../returnaction/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WarningInfo](../../warninginfo/)
 * Class [IWarningCallback](../)
 * Namespace [Aspose::Pdf](../../)

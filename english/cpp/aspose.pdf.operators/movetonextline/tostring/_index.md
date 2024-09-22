@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::MoveToNextLine::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MoveToNextLine](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

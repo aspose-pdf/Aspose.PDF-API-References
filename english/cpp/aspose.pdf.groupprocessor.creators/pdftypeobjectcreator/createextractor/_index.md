@@ -29,7 +29,9 @@ object of [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextract
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextractor/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfTypeObjectCreator](../)
 * Namespace [Aspose::Pdf::GroupProcessor::Creators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -56,7 +58,10 @@ object of [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextract
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextractor/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PdfTypeObjectCreator](../)
 * Namespace [Aspose::Pdf::GroupProcessor::Creators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -82,7 +87,9 @@ object of [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextract
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextractor/)
+* Class [String](../../../system/string/)
 * Class [PdfTypeObjectCreator](../)
 * Namespace [Aspose::Pdf::GroupProcessor::Creators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -109,7 +116,9 @@ object of [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextract
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPdfTypeExtractor](../../../aspose.pdf.groupprocessor/ipdftypeextractor/)
+* Class [String](../../../system/string/)
 * Class [PdfTypeObjectCreator](../)
 * Namespace [Aspose::Pdf::GroupProcessor::Creators](../../)
 * Library [Aspose.PDF for C++](../../../)

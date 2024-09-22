@@ -27,7 +27,9 @@ System::SharedPtr<XmpValue> Aspose::Pdf::Metadata::idx_get(const System::String 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

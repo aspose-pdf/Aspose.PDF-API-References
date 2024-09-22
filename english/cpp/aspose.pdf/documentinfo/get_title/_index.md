@@ -18,6 +18,7 @@ System::String Aspose::Pdf::DocumentInfo::get_Title()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

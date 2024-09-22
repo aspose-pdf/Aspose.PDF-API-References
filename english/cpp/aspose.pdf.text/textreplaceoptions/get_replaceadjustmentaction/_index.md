@@ -18,6 +18,7 @@ TextReplaceOptions::ReplaceAdjustment Aspose::Pdf::Text::TextReplaceOptions::get
 
 ## See Also
 
+* Enum [ReplaceAdjustment](../replaceadjustment/)
 * Class [TextReplaceOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,7 +27,9 @@ System::SharedPtr<CollectionField> Aspose::Pdf::CollectionSchema::GetCollectionF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionField](../../collectionfield/)
+* Class [String](../../../system/string/)
 * Class [CollectionSchema](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

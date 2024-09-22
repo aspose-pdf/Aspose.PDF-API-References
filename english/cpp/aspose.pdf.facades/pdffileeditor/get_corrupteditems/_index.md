@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_corrupteditems/
 ## PdfFileEditor::get_CorruptedItems method
 
 
-Array of encountered problems when concatenation was performed. For every corrupted document from passed to [Concatenate()](../concatenate/) function new **CorruptedItem** entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted.
+Array of encountered problems when concatenation was performed. For every corrupted document from passed to [Concatenate()](../concatenate/) function new [CorruptedItem](../corrupteditem/) entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted.
 
 ```cpp
 System::ArrayPtr<System::SharedPtr<PdfFileEditor::CorruptedItem>> Aspose::Pdf::Facades::PdfFileEditor::get_CorruptedItems()
@@ -18,6 +18,9 @@ System::ArrayPtr<System::SharedPtr<PdfFileEditor::CorruptedItem>> Aspose::Pdf::F
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CorruptedItem](../corrupteditem/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

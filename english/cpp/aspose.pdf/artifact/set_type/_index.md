@@ -18,6 +18,7 @@ void Aspose::Pdf::Artifact::set_Type(Artifact::ArtifactType value)
 
 ## See Also
 
+* Enum [ArtifactType](../artifacttype/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

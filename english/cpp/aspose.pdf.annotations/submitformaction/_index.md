@@ -21,13 +21,10 @@ class SubmitFormAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_Flags](./get_flags/)() | Gets flagas of submit action. |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
 | [get_Url](./get_url/)() | Destination URL. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [set_Flags](./set_flags/)(int32_t) | Sets flagas of submit action. |
 | [set_Url](./set_url/)(System::SharedPtr\<FileSpecification\>) | Destination URL. |
 | [SubmitFormAction](./submitformaction/)() | Initializes [SubmitFormAction](./) object. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## Fields
 
 | Field | Description |

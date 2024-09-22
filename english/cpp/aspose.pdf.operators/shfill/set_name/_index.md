@@ -18,6 +18,7 @@ void Aspose::Pdf::Operators::ShFill::set_Name(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ShFill](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextSegment::set_TextEditOptions(System::SharedPtr<Aspos
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextEditOptions](../../texteditoptions/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GlyphPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(System::String text, double
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GlyphPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

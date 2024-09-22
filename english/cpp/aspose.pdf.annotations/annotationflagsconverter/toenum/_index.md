@@ -19,6 +19,7 @@ static AnnotationFlags Aspose::Pdf::Annotations::AnnotationFlagsConverter::ToEnu
 ## See Also
 
 * Enum [AnnotationFlags](../../annotationflags/)
+* Class [String](../../../system/string/)
 * Class [AnnotationFlagsConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

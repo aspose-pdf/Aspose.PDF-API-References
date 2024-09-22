@@ -18,6 +18,7 @@ void Aspose::Pdf::TeXLoadOptions::set_JobName(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

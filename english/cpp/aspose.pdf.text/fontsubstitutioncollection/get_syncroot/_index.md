@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Text::FontSubstitutionCollection:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [FontSubstitutionCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

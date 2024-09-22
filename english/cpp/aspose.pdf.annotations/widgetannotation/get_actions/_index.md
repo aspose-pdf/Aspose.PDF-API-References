@@ -18,6 +18,7 @@ System::SharedPtr<AnnotationActionCollection> Aspose::Pdf::Annotations::WidgetAn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationActionCollection](../../annotationactioncollection/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

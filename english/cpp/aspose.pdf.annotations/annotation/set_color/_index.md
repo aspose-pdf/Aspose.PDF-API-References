@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::Annotation::set_Color(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

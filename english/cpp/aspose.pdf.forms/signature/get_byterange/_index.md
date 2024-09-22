@@ -18,6 +18,7 @@ System::ArrayPtr<int32_t> Aspose::Pdf::Forms::Signature::get_ByteRange() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

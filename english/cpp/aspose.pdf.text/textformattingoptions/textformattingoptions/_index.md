@@ -37,6 +37,7 @@ Aspose::Pdf::Text::TextFormattingOptions::TextFormattingOptions(TextFormattingOp
 
 ## See Also
 
+* Enum [WordWrapMode](../wordwrapmode/)
 * Class [TextFormattingOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

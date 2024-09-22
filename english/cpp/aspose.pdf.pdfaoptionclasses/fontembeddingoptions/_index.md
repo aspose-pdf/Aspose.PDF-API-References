@@ -25,5 +25,6 @@ class FontEmbeddingOptions : public System::Object
 | [set_UseDefaultSubstitution](./set_usedefaultsubstitution/)(bool) | Declares to substitute non-embedded font using default font substitution strategy. By default false;. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::PdfAOptionClasses](../)
 * Library [Aspose.PDF for C++](../../)

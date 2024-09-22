@@ -96,5 +96,6 @@ class IOperatorSelector : public virtual System::Object
 | virtual [Visit](./visit/)(System::SharedPtr\<Operators::TextOperator\>) | Visit/select any text operator operator. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

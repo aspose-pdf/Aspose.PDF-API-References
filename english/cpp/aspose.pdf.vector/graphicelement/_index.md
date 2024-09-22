@@ -34,5 +34,6 @@ class GraphicElement : public System::IDisposable
 | virtual [set_Position](./set_position/)(System::SharedPtr\<Point\>) | Sets the position in the current coordinate space. If [Parent](../) is not [null](../) then the element have xForm coordinate space. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Vector](../)
 * Library [Aspose.PDF for C++](../../)

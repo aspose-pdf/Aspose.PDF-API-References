@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Forms::CheckboxField::get_Value() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ System::SharedPtr<PageLabel> Aspose::Pdf::PageLabelCollection::GetLabel(int32_t 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageLabel](../../pagelabel/)
 * Class [PageLabelCollection](../)
 * Namespace [Aspose::Pdf](../../)

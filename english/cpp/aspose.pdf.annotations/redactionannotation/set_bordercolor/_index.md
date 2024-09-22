@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RedactionAnnotation::set_BorderColor(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [RedactionAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

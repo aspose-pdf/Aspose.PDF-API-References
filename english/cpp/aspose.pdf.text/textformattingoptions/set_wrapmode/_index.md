@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/set_wrapmode/
 ## TextFormattingOptions::set_WrapMode method
 
 
-Sets word wrap mode. Default value is **WordWrapMode.NoWrap**.
+Sets word wrap mode. Default value is [WordWrapMode.NoWrap](../wordwrapmode/).
 
 ```cpp
 void Aspose::Pdf::Text::TextFormattingOptions::set_WrapMode(TextFormattingOptions::WordWrapMode value)
@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFormattingOptions::set_WrapMode(TextFormattingOption
 
 ## See Also
 
+* Enum [WordWrapMode](../wordwrapmode/)
 * Class [TextFormattingOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

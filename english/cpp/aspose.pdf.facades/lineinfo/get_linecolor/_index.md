@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Facades::LineInfo::get_LineColor() const
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [LineInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

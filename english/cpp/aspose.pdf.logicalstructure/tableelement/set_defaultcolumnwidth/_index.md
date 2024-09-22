@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultColumnWidth(System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TableElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

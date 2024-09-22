@@ -18,6 +18,7 @@ System::String Aspose::Pdf::OutputIntent::get_RegistryName()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [OutputIntent](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

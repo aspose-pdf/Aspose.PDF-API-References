@@ -18,6 +18,7 @@ void Aspose::Pdf::Artifact::set_Subtype(Artifact::ArtifactSubtype value)
 
 ## See Also
 
+* Enum [ArtifactSubtype](../artifactsubtype/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

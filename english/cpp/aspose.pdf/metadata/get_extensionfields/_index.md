@@ -18,6 +18,9 @@ System::SharedPtr<System::Collections::Generic::IDictionary<System::String, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDictionary](../../../system.collections.generic/idictionary/)
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)

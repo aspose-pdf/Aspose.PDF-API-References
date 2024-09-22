@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Metadata> Aspose::Pdf::XImage::get_Metadata()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Metadata](../../metadata/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)

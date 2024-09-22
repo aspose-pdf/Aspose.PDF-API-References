@@ -25,6 +25,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateFreeText(System::Drawing::Rec
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

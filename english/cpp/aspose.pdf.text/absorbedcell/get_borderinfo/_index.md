@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::BorderInfo> Aspose::Pdf::Text::AbsorbedCell::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../../aspose.pdf/borderinfo/)
 * Class [AbsorbedCell](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Operators::SetColorSpaceStroke::set_Name(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetColorSpaceStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

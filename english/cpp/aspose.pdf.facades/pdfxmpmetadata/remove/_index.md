@@ -27,6 +27,9 @@ true if pair was found and removed.
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -52,6 +55,7 @@ True - if key removed; otherwise, false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

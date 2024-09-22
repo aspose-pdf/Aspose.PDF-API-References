@@ -24,6 +24,7 @@ static void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToHtml(Syste
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

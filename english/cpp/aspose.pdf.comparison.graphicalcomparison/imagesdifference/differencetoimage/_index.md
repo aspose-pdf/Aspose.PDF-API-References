@@ -28,6 +28,8 @@ A bitmap image representing the difference array.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [ImagesDifference](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)

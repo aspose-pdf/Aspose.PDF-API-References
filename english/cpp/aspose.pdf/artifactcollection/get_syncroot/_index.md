@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::ArtifactCollection::get_SyncRoot(
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

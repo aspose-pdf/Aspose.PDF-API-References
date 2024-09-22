@@ -35,5 +35,6 @@ class DefaultAppearance : public System::Object
 | [set_TextColor](./set_textcolor/)(System::Drawing::Color) | Sets the color of text in the default appearance. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

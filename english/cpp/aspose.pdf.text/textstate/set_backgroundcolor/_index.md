@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::Text::TextState::set_BackgroundColor(System::SharedPtr
 The property is used by runtime in context of current generation/modification process. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)

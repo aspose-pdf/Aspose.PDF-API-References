@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_Subject(System::String valu
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::XImageCollection::get_Names()
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

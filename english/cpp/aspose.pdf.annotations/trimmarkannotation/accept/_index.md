@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::TrimMarkAnnotation::Accept(System::SharedPtr<Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [TrimMarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

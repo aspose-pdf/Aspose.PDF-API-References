@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfPageStamp::set_PdfPage(System::SharedPtr<Page> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)

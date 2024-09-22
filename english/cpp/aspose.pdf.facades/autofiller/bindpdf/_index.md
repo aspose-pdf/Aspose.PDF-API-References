@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::AutoFiller::BindPdf(System::SharedPtr<Document> srcDo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -43,6 +44,8 @@ void Aspose::Pdf::Facades::AutoFiller::BindPdf(System::SharedPtr<System::IO::Str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,7 @@ void Aspose::Pdf::Facades::AutoFiller::BindPdf(System::String srcFile) override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

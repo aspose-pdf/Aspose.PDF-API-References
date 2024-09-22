@@ -34,6 +34,11 @@ true if operation completed successfully; otherwise, false.
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ContentsResizeParameters](../contentsresizeparameters/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -65,6 +70,9 @@ true if operation completed successfully; otherwise, false.
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -95,6 +103,10 @@ Returns true if success.
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [ContentsResizeParameters](../contentsresizeparameters/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -125,6 +137,11 @@ true if operation completed successfully; otherwise, false.
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentsResizeParameters](../contentsresizeparameters/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -155,6 +172,10 @@ true if resize was successful.
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ContentsResizeParameters](../contentsresizeparameters/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

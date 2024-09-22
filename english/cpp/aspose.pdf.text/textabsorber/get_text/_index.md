@@ -18,6 +18,7 @@ virtual System::String Aspose::Pdf::Text::TextAbsorber::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

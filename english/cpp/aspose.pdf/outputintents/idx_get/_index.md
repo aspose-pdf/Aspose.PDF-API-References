@@ -27,6 +27,7 @@ The output intent at the specified *index* .
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntent](../../outputintent/)
 * Class [OutputIntents](../)
 * Namespace [Aspose::Pdf](../../)

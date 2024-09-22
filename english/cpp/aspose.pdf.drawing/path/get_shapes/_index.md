@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Shape>>> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Shape](../../shape/)
 * Class [Path](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

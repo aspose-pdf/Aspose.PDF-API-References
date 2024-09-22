@@ -27,5 +27,6 @@ class OutputIntent : public System::Object
 | [get_Subtype](./get_subtype/)() | Gets the output intent subtype. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

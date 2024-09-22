@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Operators::TextShowOperator::set_Text(System::String v
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextShowOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -33,5 +33,6 @@ class FontSourceCollection : public System::Collections::Generic::ICollection<Sy
 | [Remove](./remove/)(const System::SharedPtr\<FontSource\>\&) override | Deletes the font source element. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

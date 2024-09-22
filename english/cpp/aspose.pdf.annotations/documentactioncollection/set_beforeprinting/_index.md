@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforePrinting(Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [DocumentActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

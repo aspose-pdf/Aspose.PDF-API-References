@@ -25,8 +25,6 @@ class DocumentDevice : public Aspose::Pdf::Devices::PageDevice
 | [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) | Processes the whole document and saves results into stream. |
 | [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) | Processes the whole document and saves results into file. |
 | [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::String) | Processes certain pages of the document and saves results into file. |
-| virtual [Process](../pagedevice/process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
-| [Process](../pagedevice/process/)(System::SharedPtr\<Page\>, System::String) | Perfoms some operation on the given page and saves results into the file. |
 ## See Also
 
 * Class [PageDevice](../pagedevice/)

@@ -18,6 +18,7 @@ System::Drawing::SizeF Aspose::Pdf::CgmLoadOptions::get_PageSize() const
 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
 * Class [CgmLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

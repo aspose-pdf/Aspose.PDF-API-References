@@ -28,5 +28,6 @@ class CompositingParameters : public System::Object
 | [get_IsMasked](./get_ismasked/)() const | Gets the mask flag. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

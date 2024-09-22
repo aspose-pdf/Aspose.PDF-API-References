@@ -18,6 +18,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::Facades::Form::get_FormSubmitButto
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

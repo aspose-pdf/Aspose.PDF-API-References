@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::PageInfo> Aspose::Pdf::SvgLoadOptions::get_PageIn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInfo](../../pageinfo/)
 * Class [SvgLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

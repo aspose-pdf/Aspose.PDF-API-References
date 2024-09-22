@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::PdfFileInfo::BindPdf(System::SharedPtr<Aspose::Pdf::D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)

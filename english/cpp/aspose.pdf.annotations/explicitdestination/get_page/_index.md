@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Annotations::ExplicitDestinati
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [ExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

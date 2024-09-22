@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultAppearance(System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -36,5 +36,6 @@ class EmbeddedFileCollection : public System::Collections::Generic::ICollection<
 | [idx_get](./idx_get/)(System::String) | Gets embedded file by its name. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

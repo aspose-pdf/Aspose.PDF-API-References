@@ -27,6 +27,8 @@ Converted array of image bytes.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PopupAnnotation::Accept(System::SharedPtr<Annotat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [PopupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

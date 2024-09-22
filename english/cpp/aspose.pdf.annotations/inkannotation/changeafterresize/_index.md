@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::InkAnnotation::ChangeAfterResize(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

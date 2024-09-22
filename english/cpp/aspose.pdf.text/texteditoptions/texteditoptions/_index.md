@@ -42,6 +42,7 @@ Aspose::Pdf::Text::TextEditOptions::TextEditOptions(TextEditOptions::FontReplace
 
 ## See Also
 
+* Enum [FontReplace](../fontreplace/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,6 +62,7 @@ Aspose::Pdf::Text::TextEditOptions::TextEditOptions(TextEditOptions::LanguageTra
 
 ## See Also
 
+* Enum [LanguageTransformation](../languagetransformation/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -80,6 +82,7 @@ Aspose::Pdf::Text::TextEditOptions::TextEditOptions(TextEditOptions::NoCharacter
 
 ## See Also
 
+* Enum [NoCharacterAction](../nocharacteraction/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetMiterLimit::Accept(System::SharedPtr<IOperatorSe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetMiterLimit](../)
 * Namespace [Aspose::Pdf::Operators](../../)

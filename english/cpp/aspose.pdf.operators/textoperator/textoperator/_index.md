@@ -37,6 +37,7 @@ Aspose::Pdf::Operators::TextOperator::TextOperator(System::SharedPtr<Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * Class [TextOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)

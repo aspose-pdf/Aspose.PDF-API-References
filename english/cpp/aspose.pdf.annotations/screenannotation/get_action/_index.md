@@ -18,6 +18,7 @@ System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::ScreenAnnotation::get_Act
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [ScreenAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

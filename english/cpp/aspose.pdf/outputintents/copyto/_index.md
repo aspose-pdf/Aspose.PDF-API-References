@@ -24,6 +24,8 @@ void Aspose::Pdf::OutputIntents::CopyTo(System::ArrayPtr<System::SharedPtr<Outpu
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntent](../../outputintent/)
 * Class [OutputIntents](../)
 * Namespace [Aspose::Pdf](../../)

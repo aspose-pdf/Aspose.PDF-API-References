@@ -24,6 +24,8 @@ void Aspose::Pdf::XImageCollection::Replace(int32_t index, System::SharedPtr<Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +47,8 @@ void Aspose::Pdf::XImageCollection::Replace(int32_t index, System::SharedPtr<Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -67,6 +71,8 @@ void Aspose::Pdf::XImageCollection::Replace(int32_t index, System::SharedPtr<Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

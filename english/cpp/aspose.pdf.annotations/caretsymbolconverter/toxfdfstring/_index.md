@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::CaretSymbolConverter::ToXfdfStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [CaretSymbol](../../caretsymbol/)
 * Class [CaretSymbolConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::Characteristics> Aspose::Pdf::Annota
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Characteristics](../../characteristics/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

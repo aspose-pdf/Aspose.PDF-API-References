@@ -32,7 +32,7 @@ class DictionaryEditor : public System::Collections::Generic::IDictionary<System
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the [DictionaryEditor](./). |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the [DictionaryEditor](./) is read-only. |
 | [get_Keys](./get_keys/)() const override | [Collection](../../aspose.pdf/collection/) of editable keys. |
-| [get_Values](./get_values/)() const override | Gets an **ICollection** containing the values in the [DictionaryEditor](./). |
+| [get_Values](./get_values/)() const override | Gets an [ICollection](../../system.collections.generic/icollection/icollection/) containing the values in the [DictionaryEditor](./). |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | [idx_get](./idx_get/)(const System::String\&) const override | Gets the element with the specified key. |
 | [idx_set](./idx_set/)(const System::String\&, System::SharedPtr\<PublicData::ICosPdfPrimitive\>) override | Sets the element with the specified key. |
@@ -41,5 +41,6 @@ class DictionaryEditor : public System::Collections::Generic::IDictionary<System
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<PublicData::ICosPdfPrimitive\>\&) const override | For access to simple data type like string, name, bool, number. Returns null for other types. |
 ## See Also
 
+* Class [IDictionary](../../system.collections.generic/idictionary/)
 * Namespace [Aspose::Pdf::Utils](../)
 * Library [Aspose.PDF for C++](../../)

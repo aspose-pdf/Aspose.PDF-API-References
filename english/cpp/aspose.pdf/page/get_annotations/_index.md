@@ -18,6 +18,7 @@ System::SharedPtr<Annotations::AnnotationCollection> Aspose::Pdf::Page::get_Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

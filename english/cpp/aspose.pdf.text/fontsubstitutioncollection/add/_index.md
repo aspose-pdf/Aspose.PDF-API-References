@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::FontSubstitutionCollection::Add(const System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSubstitution](../../fontsubstitution/)
 * Class [FontSubstitutionCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

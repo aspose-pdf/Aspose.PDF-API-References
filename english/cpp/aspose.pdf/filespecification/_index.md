@@ -54,5 +54,6 @@ class FileSpecification : public System::IDisposable
 | [SetValue](./setvalue/)(System::String, System::String) | Sets application-specific parameter. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

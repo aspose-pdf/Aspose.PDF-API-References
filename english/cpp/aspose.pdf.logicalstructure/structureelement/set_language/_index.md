@@ -22,6 +22,7 @@ void Aspose::Pdf::LogicalStructure::StructureElement::set_Language(System::Strin
 Language of the structure element.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

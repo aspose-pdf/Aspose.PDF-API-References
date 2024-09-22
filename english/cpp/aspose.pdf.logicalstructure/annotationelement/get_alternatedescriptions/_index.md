@@ -18,6 +18,7 @@ System::String Aspose::Pdf::LogicalStructure::AnnotationElement::get_AlternateDe
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AnnotationElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

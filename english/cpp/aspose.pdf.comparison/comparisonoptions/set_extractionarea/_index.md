@@ -18,6 +18,7 @@ void Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ComparisonOptions](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

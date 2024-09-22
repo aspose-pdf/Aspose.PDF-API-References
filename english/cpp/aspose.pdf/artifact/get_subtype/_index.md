@@ -18,6 +18,7 @@ Artifact::ArtifactSubtype Aspose::Pdf::Artifact::get_Subtype()
 
 ## See Also
 
+* Enum [ArtifactSubtype](../artifactsubtype/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

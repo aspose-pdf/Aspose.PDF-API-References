@@ -18,6 +18,7 @@ System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::TableTRElement::get_Back
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TableTRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

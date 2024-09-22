@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::PageInfo> & Aspose::Pdf::MdLoadOptions::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInfo](../../pageinfo/)
 * Class [MdLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

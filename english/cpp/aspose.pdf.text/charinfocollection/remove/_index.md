@@ -29,6 +29,7 @@ NotImplementedException
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfo](../../charinfo/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

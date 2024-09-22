@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::FreeTextAnnotation::get_T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,8 @@ System::Predicate<System::SharedPtr<XFormPlacement>> Aspose::Pdf::Vector::Extrac
 
 ## See Also
 
+* Typedef [Predicate](../../../system/predicate/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XFormPlacement](../../../aspose.pdf.vector/xformplacement/)
 * Class [SvgExtractionOptions](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)

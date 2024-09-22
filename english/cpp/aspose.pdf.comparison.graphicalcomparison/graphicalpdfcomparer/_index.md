@@ -35,5 +35,6 @@ class GraphicalPdfComparer : public System::Object
 | [set_Threshold](./set_threshold/)(double) | Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0%. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,8 @@ System::String Aspose::Pdf::Tagged::TaggedPdfExceptionCode::GetMessage(const Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [TaggedPdfExceptionCode](../)
 * Namespace [Aspose::Pdf::Tagged](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -37,6 +37,7 @@ Aspose::Pdf::Note::Note(System::String content)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

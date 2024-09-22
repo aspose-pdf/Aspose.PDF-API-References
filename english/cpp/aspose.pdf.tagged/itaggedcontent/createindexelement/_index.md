@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::IndexElement](../../../aspose.pdf.logica
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

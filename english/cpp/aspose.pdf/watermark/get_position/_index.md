@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Watermark::get_Position() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Watermark](../)
 * Namespace [Aspose::Pdf](../../)

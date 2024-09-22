@@ -45,6 +45,7 @@ void Aspose::Pdf::Document::OptimizeResources(System::SharedPtr<Aspose::Pdf::Opt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

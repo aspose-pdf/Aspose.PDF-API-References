@@ -25,6 +25,8 @@ Aspose::Pdf::Facades::BDCProperties::BDCProperties(System::Nullable<int32_t> mci
 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
+* Class [String](../../../system/string/)
 * Class [BDCProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +47,7 @@ Aspose::Pdf::Facades::BDCProperties::BDCProperties(System::String lang=nullptr, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BDCProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfFileEditor::set_AttachmentName(System::String valu
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,6 +24,7 @@ Get [Aspose::Pdf::LogicalStructure::StructureTextState](../../../aspose.pdf.logi
 [Aspose::Pdf::LogicalStructure::StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

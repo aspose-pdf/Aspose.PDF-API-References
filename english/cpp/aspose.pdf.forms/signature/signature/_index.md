@@ -38,6 +38,9 @@ Aspose::Pdf::Forms::Signature::Signature(System::SharedPtr<System::IO::Stream> p
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -58,6 +61,7 @@ Aspose::Pdf::Forms::Signature::Signature(System::String pfx, System::String pass
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,6 +19,7 @@ static PrintDuplex Aspose::Pdf::PrintDuplexConverter::ToEnum(System::String valu
 ## See Also
 
 * Enum [PrintDuplex](../../printduplex/)
+* Class [String](../../../system/string/)
 * Class [PrintDuplexConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

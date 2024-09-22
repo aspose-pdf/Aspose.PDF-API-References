@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::LogicalStructure::ITextElement::SetText(System::String
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ITextElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

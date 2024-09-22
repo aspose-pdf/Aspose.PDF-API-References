@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_PuaTextProcessingStrategy(PdfF
 
 ## See Also
 
+* Enum [PuaProcessingStrategy](../puaprocessingstrategy/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

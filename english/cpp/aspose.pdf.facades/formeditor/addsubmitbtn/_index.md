@@ -30,6 +30,7 @@ void Aspose::Pdf::Facades::FormEditor::AddSubmitBtn(System::String fieldName, in
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

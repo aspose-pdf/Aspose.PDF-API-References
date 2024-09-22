@@ -19,6 +19,7 @@ static FreeTextIntent Aspose::Pdf::Annotations::FreeTextIntentConverter::ToEnum(
 ## See Also
 
 * Enum [FreeTextIntent](../../freetextintent/)
+* Class [String](../../../system/string/)
 * Class [FreeTextIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

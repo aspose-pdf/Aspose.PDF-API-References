@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> Aspose::Pdf::Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -18,6 +18,7 @@ int32_t Aspose::Pdf::Facades::Bookmark::CompareTo(const System::SharedPtr<Bookma
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmark](../)
 * Class [Bookmark](../)
 * Namespace [Aspose::Pdf::Facades](../../)

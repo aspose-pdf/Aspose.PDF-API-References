@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::GS::get_Name() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GS](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,5 +23,6 @@ class FdfReader : public System::Object
 | static [ReadAnnotations](./readannotations/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Document\>) | Import annotations from FDF file and put them into document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

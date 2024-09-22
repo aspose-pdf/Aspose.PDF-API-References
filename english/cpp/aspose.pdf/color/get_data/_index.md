@@ -18,6 +18,7 @@ System::ArrayPtr<double> Aspose::Pdf::Color::get_Data() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

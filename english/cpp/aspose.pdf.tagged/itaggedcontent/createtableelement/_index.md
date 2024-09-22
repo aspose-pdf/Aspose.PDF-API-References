@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::TableElement](../../../aspose.pdf.logica
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

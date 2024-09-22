@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::MoveToNextLineShowText::Accept(System::SharedPtr<IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [MoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)

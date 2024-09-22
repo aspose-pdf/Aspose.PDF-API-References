@@ -29,7 +29,10 @@ The string with SVG content.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
+* Typedef [Predicate](../../../system/predicate/)
 * Class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [SvgExtractor](../)
@@ -54,9 +57,12 @@ void Aspose::Pdf::Vector::Extraction::SvgExtractor::Extract(System::SharedPtr<Gr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
+* Typedef [Predicate](../../../system/predicate/)
 * Class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [String](../../../system/string/)
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -80,6 +86,9 @@ The list of SVG content strings.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [String](../../../system/string/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)
@@ -101,7 +110,9 @@ void Aspose::Pdf::Vector::Extraction::SvgExtractor::Extract(System::SharedPtr<Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [String](../../../system/string/)
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -126,6 +137,9 @@ The string with SVG content.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [SvgExtractor](../)
@@ -149,8 +163,11 @@ void Aspose::Pdf::Vector::Extraction::SvgExtractor::Extract(System::SharedPtr<Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [String](../../../system/string/)
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)
 * Library [Aspose.PDF for C++](../../../)

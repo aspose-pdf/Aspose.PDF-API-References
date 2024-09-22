@@ -18,6 +18,8 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_LogStream(System::SharedPtr<Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

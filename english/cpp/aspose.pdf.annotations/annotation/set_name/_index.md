@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::Annotation::set_Name(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

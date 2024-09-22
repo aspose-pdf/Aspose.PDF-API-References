@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Center(System::SharedPtr<P
 The center.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point3D](../../../aspose.pdf/point3d/)
 * Class [PDF3DCrossSection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

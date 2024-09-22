@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddStamp(System::SharedPtr<Stamp> stamp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stamp](../../stamp/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)

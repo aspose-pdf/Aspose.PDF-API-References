@@ -61,6 +61,7 @@ Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(int32_t sectionsSearchDe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -81,6 +82,7 @@ Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(System::SharedPtr<Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

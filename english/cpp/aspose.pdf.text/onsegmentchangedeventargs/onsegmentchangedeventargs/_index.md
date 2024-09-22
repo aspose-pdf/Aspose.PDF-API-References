@@ -18,6 +18,7 @@ Aspose::Pdf::Text::OnSegmentChangedEventArgs::OnSegmentChangedEventArgs(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OnSegmentChangedEventArgs](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

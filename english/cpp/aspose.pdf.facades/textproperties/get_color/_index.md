@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Facades::TextProperties::get_Color() const
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

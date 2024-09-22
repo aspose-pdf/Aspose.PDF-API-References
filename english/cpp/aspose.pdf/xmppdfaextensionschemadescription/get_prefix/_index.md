@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XmpPdfAExtensionSchemaDescription::get_Prefix() cons
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionSchemaDescription](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

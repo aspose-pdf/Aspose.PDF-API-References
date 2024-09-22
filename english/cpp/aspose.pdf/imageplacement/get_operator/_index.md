@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Operator> Aspose::Pdf::ImagePlacement::get_Operat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

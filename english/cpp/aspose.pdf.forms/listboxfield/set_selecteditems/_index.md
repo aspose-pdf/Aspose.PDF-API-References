@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::ListBoxField::set_SelectedItems(System::ArrayPtr<int32_
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ListBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

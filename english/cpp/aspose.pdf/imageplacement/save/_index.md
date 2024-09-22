@@ -23,6 +23,8 @@ void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,9 @@ void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

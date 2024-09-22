@@ -27,6 +27,7 @@ true if the [DictionaryEditor](../) contains an editable element with the key; o
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -42,5 +42,6 @@ class AppearanceDictionary : public System::Collections::Generic::IDictionary<Sy
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<XForm\>\&) const override | Tries to find key in the dictionary and retreives value if found. |
 ## See Also
 
+* Class [IDictionary](../../system.collections.generic/idictionary/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

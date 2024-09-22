@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MovieAnnotation::set_File(System::SharedPtr<FileS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [MovieAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

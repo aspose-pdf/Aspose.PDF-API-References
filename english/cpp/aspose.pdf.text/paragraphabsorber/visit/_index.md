@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

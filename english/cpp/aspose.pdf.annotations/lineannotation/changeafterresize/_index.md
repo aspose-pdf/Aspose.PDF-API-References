@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::LineAnnotation::ChangeAfterResize(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

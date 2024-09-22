@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::RenderingOptions> Aspose::Pdf::Devices::TiffDevic
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

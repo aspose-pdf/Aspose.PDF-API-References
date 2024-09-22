@@ -23,6 +23,7 @@ System::Drawing::Color Aspose::Pdf::Operators::SetGrayStroke::getColor() overrid
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [SetGrayStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

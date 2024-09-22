@@ -27,6 +27,8 @@ Return the result of DateTime type.
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

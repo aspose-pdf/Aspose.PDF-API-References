@@ -81,6 +81,10 @@ The operation result.
 ## See Also
 
 * Enum [Fixup](../../fixup/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -108,6 +112,10 @@ The operation result.
 ## See Also
 
 * Enum [Fixup](../../fixup/)
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -131,6 +139,7 @@ The operation result
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -157,6 +166,8 @@ The operation result
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Class [Document](../)
@@ -185,6 +196,8 @@ The operation result
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Enum [ConvertTransparencyAction](../../converttransparencyaction/)
@@ -213,6 +226,7 @@ The operation result
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Class [Document](../)
@@ -241,6 +255,7 @@ The operation result
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Enum [ConvertTransparencyAction](../../converttransparencyaction/)
@@ -266,6 +281,8 @@ static void Aspose::Pdf::Document::Convert(System::SharedPtr<System::IO::Stream>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
@@ -290,7 +307,10 @@ static void Aspose::Pdf::Document::Convert(System::SharedPtr<System::IO::Stream>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LoadOptions](../../loadoptions/)
+* Class [String](../../../system/string/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -314,7 +334,10 @@ static void Aspose::Pdf::Document::Convert(System::String srcFileName, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LoadOptions](../../loadoptions/)
+* Class [Stream](../../../system.io/stream/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -338,6 +361,8 @@ static void Aspose::Pdf::Document::Convert(System::String srcFileName, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)

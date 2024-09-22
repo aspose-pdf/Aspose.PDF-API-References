@@ -29,5 +29,6 @@ class Dash : public System::Object
 | [set_On](./set_on/)(int32_t) | Sets length of first dash. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

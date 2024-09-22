@@ -18,6 +18,7 @@ virtual System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::GoToAction::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

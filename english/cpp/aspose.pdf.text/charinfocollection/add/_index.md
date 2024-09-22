@@ -25,6 +25,7 @@ void Aspose::Pdf::Text::CharInfoCollection::Add(const System::SharedPtr<CharInfo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfo](../../charinfo/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

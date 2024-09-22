@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfContentEditor::PdfContentEditor(System::SharedPtr<Aspos
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

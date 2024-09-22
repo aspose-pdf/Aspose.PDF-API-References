@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XmpPdfAExtensionValueType::get_Prefix() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<ArtifactCollection> Aspose::Pdf::Page::get_Artifacts()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ArtifactCollection](../../artifactcollection/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

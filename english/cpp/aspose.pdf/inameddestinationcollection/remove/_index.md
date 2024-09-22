@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::INamedDestinationCollection::Remove(System::String nam
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [INamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

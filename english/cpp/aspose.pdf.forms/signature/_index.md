@@ -49,5 +49,6 @@ class Signature : public System::Object
 | [Verify](./verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ virtual System::SharedPtr<Aspose::Pdf::Engine::Addressing::IRegistrar> Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFontSubstitutionCallback](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

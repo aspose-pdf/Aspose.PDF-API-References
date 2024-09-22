@@ -24,6 +24,8 @@ void Aspose::Pdf::Document::LoadFrom(System::String filename, System::SharedPtr<
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

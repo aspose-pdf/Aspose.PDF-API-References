@@ -18,6 +18,8 @@ System::ArrayPtr<System::ArrayPtr<System::String>> Aspose::Pdf::Facades::FormEdi
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

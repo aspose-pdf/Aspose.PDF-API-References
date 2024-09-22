@@ -33,5 +33,6 @@ class TableAbsorber : public System::Object
 | [Visit](./visit/)(System::SharedPtr\<Document\>) | Extracts tables in the specified document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

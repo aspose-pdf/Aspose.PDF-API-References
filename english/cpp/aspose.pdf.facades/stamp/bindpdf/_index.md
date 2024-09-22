@@ -24,6 +24,8 @@ void Aspose::Pdf::Facades::Stamp::BindPdf(System::SharedPtr<System::IO::Stream> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,7 @@ void Aspose::Pdf::Facades::Stamp::BindPdf(System::String pdfFile, int32_t pageNu
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

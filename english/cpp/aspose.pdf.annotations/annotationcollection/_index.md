@@ -39,5 +39,6 @@ class AnnotationCollection : public System::Collections::Generic::ICollection<Sy
 | [Remove](./remove/)(const System::SharedPtr\<Annotation\>\&) override | Deletes specified annotation from the collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

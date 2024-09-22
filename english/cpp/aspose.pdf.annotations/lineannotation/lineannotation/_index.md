@@ -26,6 +26,7 @@ Aspose::Pdf::Annotations::LineAnnotation::LineAnnotation(System::SharedPtr<Aspos
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Point](../../../aspose.pdf/point/)
@@ -50,6 +51,7 @@ Aspose::Pdf::Annotations::LineAnnotation::LineAnnotation(System::SharedPtr<Docum
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [LineAnnotation](../)

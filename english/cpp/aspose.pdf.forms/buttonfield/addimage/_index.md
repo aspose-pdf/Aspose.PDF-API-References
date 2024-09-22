@@ -23,6 +23,8 @@ void Aspose::Pdf::Forms::ButtonField::AddImage(System::SharedPtr<System::Drawing
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

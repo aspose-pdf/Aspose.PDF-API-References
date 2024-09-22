@@ -26,6 +26,7 @@ For just created object wich implement [Aspose::Pdf::LogicalStructure::ITextElem
 [Text](../../../aspose.pdf.text/) content for marked-content reference element.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MCRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ True - if item found; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [BaseOperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

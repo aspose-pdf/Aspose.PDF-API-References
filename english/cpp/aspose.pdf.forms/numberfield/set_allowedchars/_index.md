@@ -22,6 +22,7 @@ void Aspose::Pdf::Forms::NumberField::set_AllowedChars(System::String value)
 The allowed chars string. 0123456789 by default 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [NumberField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

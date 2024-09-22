@@ -23,6 +23,7 @@ String containing text that is under markup annotation.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextMarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

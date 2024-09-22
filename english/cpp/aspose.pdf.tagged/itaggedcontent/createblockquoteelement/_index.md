@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::BlockQuoteElement](../../../aspose.pdf.l
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

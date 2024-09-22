@@ -27,6 +27,7 @@ Width of the string.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

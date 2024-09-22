@@ -23,6 +23,7 @@ Aspose::Pdf::Text::TextReplaceOptions::TextReplaceOptions(TextReplaceOptions::Re
 
 ## See Also
 
+* Enum [ReplaceAdjustment](../replaceadjustment/)
 * Class [TextReplaceOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +43,7 @@ Aspose::Pdf::Text::TextReplaceOptions::TextReplaceOptions(TextReplaceOptions::Sc
 
 ## See Also
 
+* Enum [Scope](../scope/)
 * Class [TextReplaceOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -26,5 +26,6 @@ class FontAbsorber : public System::Object
 | virtual [Visit](./visit/)(System::SharedPtr\<Document\>) | Performs search on the specified document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

@@ -27,6 +27,9 @@ The xml element.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
 * Class [XmpPdfAExtensionSchema](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

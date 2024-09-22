@@ -23,6 +23,8 @@ void Aspose::Pdf::OptimizedMemoryStream::WriteTo(System::SharedPtr<System::IO::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [OptimizedMemoryStream](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

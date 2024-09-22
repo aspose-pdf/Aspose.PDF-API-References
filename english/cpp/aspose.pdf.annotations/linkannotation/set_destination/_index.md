@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::LinkAnnotation::set_Destination(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [LinkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

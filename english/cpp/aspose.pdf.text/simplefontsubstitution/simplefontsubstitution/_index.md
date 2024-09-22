@@ -25,6 +25,7 @@ Aspose::Pdf::Text::SimpleFontSubstitution::SimpleFontSubstitution(System::String
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SimpleFontSubstitution](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

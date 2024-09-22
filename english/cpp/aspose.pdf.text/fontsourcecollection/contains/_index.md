@@ -27,6 +27,7 @@ True - if element found; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSource](../../fontsource/)
 * Class [FontSourceCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

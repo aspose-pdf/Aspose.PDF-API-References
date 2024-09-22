@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 ## PDF3DCuttingPlaneOrientation::ToString method
 
 
-Returns a **System::String** that represents this instance.
+Returns a [System::String](../../../system/string/) that represents this instance.
 
 ```cpp
 System::String Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::ToString() const override
@@ -19,10 +19,11 @@ System::String Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::ToString(
 
 ### ReturnValue
 
-A **System::String** that represents this instance.
+A [System::String](../../../system/string/) that represents this instance.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DCuttingPlaneOrientation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

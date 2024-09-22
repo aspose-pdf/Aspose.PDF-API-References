@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::Curve::set_PositionArray(System::ArrayPtr<float> valu
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Curve](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

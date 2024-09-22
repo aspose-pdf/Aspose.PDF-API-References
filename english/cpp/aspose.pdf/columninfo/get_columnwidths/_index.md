@@ -18,6 +18,7 @@ System::String Aspose::Pdf::ColumnInfo::get_ColumnWidths() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ColumnInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

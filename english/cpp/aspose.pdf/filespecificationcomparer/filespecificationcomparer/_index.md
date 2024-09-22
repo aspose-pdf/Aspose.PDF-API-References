@@ -23,6 +23,7 @@ Aspose::Pdf::FileSpecificationComparer::FileSpecificationComparer(System::Shared
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionSort](../../collectionsort/)
 * Class [FileSpecificationComparer](../)
 * Namespace [Aspose::Pdf](../../)

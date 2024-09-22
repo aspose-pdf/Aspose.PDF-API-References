@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::XFormCollection::get_SyncRoot() c
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

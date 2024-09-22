@@ -24,5 +24,6 @@ class IPipelineOptions : public virtual System::Object
 | virtual [set_BatchSize](./set_batchsize/)(int32_t) | Specifies the size of a portion of pages to pass from node to node. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

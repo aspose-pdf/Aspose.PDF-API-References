@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetTextRise::Accept(System::SharedPtr<IOperatorSele
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetTextRise](../)
 * Namespace [Aspose::Pdf::Operators](../../)

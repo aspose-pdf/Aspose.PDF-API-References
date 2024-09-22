@@ -42,5 +42,6 @@ class SoundSampleData : public System::Object
 | static [DefaultSamplingRate](./defaultsamplingrate/) | Default value for SamplingRate. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

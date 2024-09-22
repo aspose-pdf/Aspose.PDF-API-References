@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(System::SharedPtr<Pop
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PopupAnnotation](../../popupannotation/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

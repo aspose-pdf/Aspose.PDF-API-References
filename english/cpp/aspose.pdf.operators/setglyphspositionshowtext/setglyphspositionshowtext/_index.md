@@ -23,6 +23,8 @@ Aspose::Pdf::Operators::SetGlyphsPositionShowText::SetGlyphsPositionShowText(Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Class [GlyphPosition](../../glyphposition/)
 * Class [SetGlyphsPositionShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)

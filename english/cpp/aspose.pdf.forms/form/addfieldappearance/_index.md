@@ -25,6 +25,7 @@ void Aspose::Pdf::Forms::Form::AddFieldAppearance(System::SharedPtr<Field> field
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Form](../)

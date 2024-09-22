@@ -27,6 +27,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Page::GetPageRect(bool co
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

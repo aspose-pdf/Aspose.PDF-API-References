@@ -23,6 +23,7 @@ Aspose::Pdf::Utils::PublicData::CosPdfName::CosPdfName(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfName](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

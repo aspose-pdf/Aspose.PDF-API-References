@@ -29,5 +29,6 @@ class UnicodeSubstitution : public System::Object,
 In some cases substituting font may not contain original unicode character. For those cases characted substitution may be set explicitly with [UnicodeSubstitution](./) structs. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

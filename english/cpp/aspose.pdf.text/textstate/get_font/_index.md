@@ -18,6 +18,7 @@ virtual System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::Text::TextState:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)

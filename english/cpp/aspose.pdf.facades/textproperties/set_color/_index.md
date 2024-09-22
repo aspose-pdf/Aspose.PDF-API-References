@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::TextProperties::set_Color(System::Drawing::Color valu
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

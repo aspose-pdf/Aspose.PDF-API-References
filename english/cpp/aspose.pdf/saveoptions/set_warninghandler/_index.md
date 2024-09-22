@@ -18,6 +18,7 @@ void Aspose::Pdf::SaveOptions::set_WarningHandler(System::SharedPtr<IWarningCall
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IWarningCallback](../../iwarningcallback/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Pdf](../../)

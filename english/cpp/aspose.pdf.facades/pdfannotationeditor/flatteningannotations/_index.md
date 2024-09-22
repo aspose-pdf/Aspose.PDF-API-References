@@ -39,6 +39,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t st
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -59,6 +60,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FlattenSettings](../../../aspose.pdf.forms/form/flattensettings/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

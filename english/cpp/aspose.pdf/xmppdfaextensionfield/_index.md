@@ -20,12 +20,9 @@ class XmpPdfAExtensionField : public Aspose::Pdf::XmpPdfAExtensionObject
 
 | Method | Description |
 | --- | --- |
-| [get_Description](../xmppdfaextensionobject/get_description/)() const | Gets the description. |
 | [get_Name](./get_name/)() const | Field name. Field names must be valid XML element names. |
-| [get_Value](../xmppdfaextensionobject/get_value/)() const | Gets the value. |
 | [get_ValueType](./get_valuetype/)() const | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
 | [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) override | Returns the list of xml elements that represent field in xml tree. |
-| [set_Value](../xmppdfaextensionobject/set_value/)(System::String) | Sets the value. |
 | [XmpPdfAExtensionField](./xmppdfaextensionfield/)(System::String, System::String, System::String, System::String) | Initializes object. |
 ## See Also
 

@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::AnnotElement](../../../aspose.pdf.logica
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(System::SharedPtr<Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(System::String outputFi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

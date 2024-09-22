@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::ExplicitDestinationTypeConverter
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
 * Class [ExplicitDestinationTypeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

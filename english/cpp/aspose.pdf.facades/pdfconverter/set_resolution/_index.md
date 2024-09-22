@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfConverter::set_Resolution(System::SharedPtr<Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)

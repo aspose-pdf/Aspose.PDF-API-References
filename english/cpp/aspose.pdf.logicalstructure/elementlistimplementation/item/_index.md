@@ -27,6 +27,7 @@ The [T:/Aspose::Pdf::LogicalStructure::Element](../) with the specified index in
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../../element/)
 * Class [ElementListImplementation](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

@@ -18,6 +18,8 @@ void Aspose::Pdf::Comparison::ComparisonOptions::set_ExcludeAreas2(System::Array
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ComparisonOptions](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

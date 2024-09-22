@@ -26,6 +26,7 @@ For just created [Aspose::Pdf::LogicalStructure::IllustrationElement](../../illu
 [Image](../../../aspose.pdf/image/) source for marked-content reference element.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MCRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -31,8 +31,12 @@ static System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfConverter:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [List](../../../system.collections.generic/list/)
 * Enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * Enum [ImageMergeMode](../../imagemergemode/)
+* Class [Nullable](../../../system/nullable/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

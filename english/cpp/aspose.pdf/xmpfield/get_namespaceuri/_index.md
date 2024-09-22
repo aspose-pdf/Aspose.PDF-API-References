@@ -22,6 +22,7 @@ System::String Aspose::Pdf::XmpField::get_NamespaceUri() const
 The namespace URI.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

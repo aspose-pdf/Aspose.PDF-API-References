@@ -23,6 +23,7 @@ void Aspose::Pdf::NamedDestinationCollection::Remove(System::String name) overri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [NamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

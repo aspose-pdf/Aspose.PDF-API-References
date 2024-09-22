@@ -23,6 +23,8 @@ Extracted text values.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [IDocumentTextExtractor](../)
 * Namespace [Aspose::Pdf::GroupProcessor](../../)
 * Library [Aspose.PDF for C++](../../../)

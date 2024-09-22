@@ -18,6 +18,7 @@ System::ArrayPtr<int32_t> Aspose::Pdf::HtmlSaveOptions::get_ExplicitListOfSavedP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ Rgb color value.
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

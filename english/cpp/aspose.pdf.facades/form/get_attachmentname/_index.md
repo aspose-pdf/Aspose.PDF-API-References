@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::Form::get_AttachmentName() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

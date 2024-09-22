@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RedactionAnnotation::set_DefaultAppearance(System
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RedactionAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::TableTRElement::set_BackgroundColor(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TableTRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

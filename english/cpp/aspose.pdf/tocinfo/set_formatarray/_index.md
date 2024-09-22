@@ -18,6 +18,8 @@ void Aspose::Pdf::TocInfo::set_FormatArray(System::ArrayPtr<System::SharedPtr<Le
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LevelFormat](../../levelformat/)
 * Class [TocInfo](../)
 * Namespace [Aspose::Pdf](../../)

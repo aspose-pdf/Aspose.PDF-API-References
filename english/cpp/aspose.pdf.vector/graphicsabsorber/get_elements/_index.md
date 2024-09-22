@@ -18,6 +18,7 @@ System::SharedPtr<GraphicElementCollection> Aspose::Pdf::Vector::GraphicsAbsorbe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElementCollection](../../graphicelementcollection/)
 * Class [GraphicsAbsorber](../)
 * Namespace [Aspose::Pdf::Vector](../../)

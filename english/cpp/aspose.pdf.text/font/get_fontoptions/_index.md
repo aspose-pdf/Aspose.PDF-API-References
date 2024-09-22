@@ -18,6 +18,7 @@ System::SharedPtr<IFontOptions> Aspose::Pdf::Text::Font::get_FontOptions()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFontOptions](../../ifontoptions/)
 * Class [Font](../)
 * Namespace [Aspose::Pdf::Text](../../)

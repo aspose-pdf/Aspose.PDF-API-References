@@ -23,6 +23,8 @@ Enumerator object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [Font](../../font/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

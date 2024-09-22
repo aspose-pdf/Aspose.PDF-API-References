@@ -18,6 +18,7 @@ System::TimeSpan Aspose::Pdf::DocumentInfo::get_CreationTimeZone()
 
 ## See Also
 
+* Class [TimeSpan](../../../system/timespan/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

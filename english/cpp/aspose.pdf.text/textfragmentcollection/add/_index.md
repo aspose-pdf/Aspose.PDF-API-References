@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextFragmentCollection::Add(const System::SharedPtr<Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextFragmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

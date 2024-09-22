@@ -27,6 +27,7 @@ The table height.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

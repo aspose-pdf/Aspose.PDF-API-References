@@ -81,6 +81,7 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, float borderWidth, Sy
 ## See Also
 
 * Enum [BorderSide](../../borderside/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)
@@ -103,6 +104,7 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, System::SharedPtr<Col
 ## See Also
 
 * Enum [BorderSide](../../borderside/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)
@@ -125,6 +127,7 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, System::SharedPtr<Gra
 ## See Also
 
 * Enum [BorderSide](../../borderside/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphInfo](../../graphinfo/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)

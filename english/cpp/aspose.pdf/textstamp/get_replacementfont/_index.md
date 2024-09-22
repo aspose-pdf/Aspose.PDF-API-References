@@ -18,6 +18,7 @@ System::SharedPtr<Text::Font> Aspose::Pdf::TextStamp::get_ReplacementFont() cons
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)

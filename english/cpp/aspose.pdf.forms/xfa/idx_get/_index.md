@@ -27,6 +27,7 @@ Data node value.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

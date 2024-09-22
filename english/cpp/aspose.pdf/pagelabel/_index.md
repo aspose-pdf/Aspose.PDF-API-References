@@ -29,5 +29,6 @@ class PageLabel : public System::Object
 | [set_StartingValue](./set_startingvalue/)(int32_t) | Sets starting value of the page numbering range. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

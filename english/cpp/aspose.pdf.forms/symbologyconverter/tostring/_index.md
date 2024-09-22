@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Forms::SymbologyConverter::ToString(Symbology
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [Symbology](../../symbology/)
 * Class [SymbologyConverter](../)
 * Namespace [Aspose::Pdf::Forms](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::PageInfo::set_DefaultTextState(System::SharedPtr<Text::TextSta
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [PageInfo](../)
 * Namespace [Aspose::Pdf](../../)

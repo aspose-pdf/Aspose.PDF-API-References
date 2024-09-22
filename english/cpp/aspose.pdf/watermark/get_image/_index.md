@@ -18,6 +18,8 @@ System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Watermark::get_Image() co
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [Watermark](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

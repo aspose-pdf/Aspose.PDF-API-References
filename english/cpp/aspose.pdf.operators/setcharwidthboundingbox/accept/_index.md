@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetCharWidthBoundingBox::Accept(System::SharedPtr<I
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetCharWidthBoundingBox](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -23,6 +23,8 @@ void Aspose::Pdf::Document::GetXmpMetadata(System::SharedPtr<System::IO::Stream>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

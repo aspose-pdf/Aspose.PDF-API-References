@@ -22,6 +22,7 @@ Property was expanded please use BackgroundImage
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

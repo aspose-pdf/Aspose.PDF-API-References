@@ -114,6 +114,7 @@ class Page : public System::IDisposable,
 | [BeforePageGenerate](./beforepagegenerate/) | Procedure for customize header and footer. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Class [IOperatorContainer](../ioperatorcontainer/)
 * Namespace [Aspose::Pdf](../)

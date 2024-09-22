@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::CaptionElement](../../../aspose.pdf.logi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

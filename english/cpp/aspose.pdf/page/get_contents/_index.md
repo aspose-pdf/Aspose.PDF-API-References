@@ -18,6 +18,7 @@ System::SharedPtr<OperatorCollection> Aspose::Pdf::Page::get_Contents() override
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OperatorCollection](../../operatorcollection/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

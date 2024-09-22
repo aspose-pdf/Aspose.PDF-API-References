@@ -64,5 +64,6 @@ class Stamp : public System::Object
 | [Stamp](./stamp/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

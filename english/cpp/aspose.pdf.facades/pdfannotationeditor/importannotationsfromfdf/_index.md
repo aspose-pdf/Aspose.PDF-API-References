@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationsFromFdf(System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

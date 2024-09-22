@@ -23,6 +23,8 @@ Aspose::Pdf::ImageStamp::ImageStamp(System::SharedPtr<System::IO::Stream> image)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ Aspose::Pdf::ImageStamp::ImageStamp(System::String fileName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

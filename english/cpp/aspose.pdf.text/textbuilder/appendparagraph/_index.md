@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextBuilder::AppendParagraph(System::SharedPtr<TextParag
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextParagraph](../../textparagraph/)
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)

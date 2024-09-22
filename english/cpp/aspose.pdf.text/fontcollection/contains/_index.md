@@ -27,6 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -51,6 +52,7 @@ True in case collection contains the font with specified name.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

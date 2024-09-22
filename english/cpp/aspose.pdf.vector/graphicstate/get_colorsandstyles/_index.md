@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::SortedDictionary<uint8_t, System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SortedDictionary](../../../system.collections.generic/sorteddictionary/)
 * Class [Operator](../../../aspose.pdf/operator/)
 * Class [GraphicState](../)
 * Namespace [Aspose::Pdf::Vector](../../)

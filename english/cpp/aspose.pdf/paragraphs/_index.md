@@ -57,5 +57,7 @@ class Paragraphs : public System::Collections::Generic::IEnumerable<System::Shar
 | [virtualized_iterator_element](./virtualized_iterator_element/) | Virtualized element type. |
 ## See Also
 
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -19,6 +19,7 @@ static HighlightingMode Aspose::Pdf::Annotations::HighlightingModeConverter::ToE
 ## See Also
 
 * Enum [HighlightingMode](../../highlightingmode/)
+* Class [String](../../../system/string/)
 * Class [HighlightingModeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

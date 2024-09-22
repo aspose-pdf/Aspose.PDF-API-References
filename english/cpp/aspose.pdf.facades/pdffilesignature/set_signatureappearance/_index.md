@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearance(System::Str
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

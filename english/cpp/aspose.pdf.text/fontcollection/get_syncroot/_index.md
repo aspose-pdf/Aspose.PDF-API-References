@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Text::FontCollection::get_SyncRoo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

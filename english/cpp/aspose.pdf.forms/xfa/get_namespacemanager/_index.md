@@ -18,6 +18,8 @@ System::SharedPtr<System::Xml::XmlNamespaceManager> Aspose::Pdf::Forms::XFA::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNamespaceManager](../../../system.xml/xmlnamespacemanager/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

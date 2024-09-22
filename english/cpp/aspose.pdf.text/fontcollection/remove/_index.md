@@ -27,6 +27,7 @@ true if item was deleted from collection; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

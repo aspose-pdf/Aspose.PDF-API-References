@@ -24,6 +24,7 @@ void Aspose::Pdf::Forms::XFA::idx_set(System::String path, System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

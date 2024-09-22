@@ -24,6 +24,8 @@ void Aspose::Pdf::EmbeddedFileCollection::CopyTo(System::ArrayPtr<System::Shared
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)

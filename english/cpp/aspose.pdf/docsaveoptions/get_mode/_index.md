@@ -18,6 +18,7 @@ DocSaveOptions::RecognitionMode Aspose::Pdf::DocSaveOptions::get_Mode() const
 
 ## See Also
 
+* Enum [RecognitionMode](../recognitionmode/)
 * Class [DocSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

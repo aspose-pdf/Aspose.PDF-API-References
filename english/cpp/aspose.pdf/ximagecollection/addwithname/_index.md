@@ -27,6 +27,8 @@ Name of the added image.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

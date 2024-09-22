@@ -23,6 +23,7 @@ void Aspose::Pdf::ImageStamp::Put(System::SharedPtr<Page> page) override
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)

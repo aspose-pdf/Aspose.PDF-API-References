@@ -18,6 +18,7 @@ void Aspose::Pdf::Heading::set_UserLabel(System::SharedPtr<Text::TextSegment> va
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegment](../../../aspose.pdf.text/textsegment/)
 * Class [Heading](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ virtual System::SharedPtr<OptionCollection> Aspose::Pdf::Forms::ChoiceField::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OptionCollection](../../optioncollection/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

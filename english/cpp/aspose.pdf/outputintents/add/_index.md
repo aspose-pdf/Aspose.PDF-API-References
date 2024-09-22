@@ -23,6 +23,7 @@ void Aspose::Pdf::OutputIntents::Add(const System::SharedPtr<OutputIntent> &item
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntent](../../outputintent/)
 * Class [OutputIntents](../)
 * Namespace [Aspose::Pdf](../../)

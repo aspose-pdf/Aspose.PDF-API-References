@@ -18,6 +18,7 @@ void Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator::set_Equa
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)

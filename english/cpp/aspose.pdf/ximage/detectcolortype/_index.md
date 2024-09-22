@@ -19,6 +19,8 @@ static Aspose::Pdf::ColorType Aspose::Pdf::XImage::DetectColorType(System::Share
 ## See Also
 
 * Enum [ColorType](../../colortype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

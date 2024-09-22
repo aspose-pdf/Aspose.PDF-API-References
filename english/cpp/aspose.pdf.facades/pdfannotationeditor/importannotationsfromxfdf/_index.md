@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationsFromXfdf(System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationsFromXfdf(System
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

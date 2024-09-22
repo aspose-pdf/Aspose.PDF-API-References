@@ -31,5 +31,6 @@ class TabStop : public System::Object
 | [TabStop](./tabstop/)(float) | Initializes a new instance of the [TabStop](./) class with specified position. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

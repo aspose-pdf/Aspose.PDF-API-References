@@ -18,6 +18,7 @@ System::SharedPtr<Matrix> Aspose::Pdf::Page::get_RotationMatrix()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../matrix/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

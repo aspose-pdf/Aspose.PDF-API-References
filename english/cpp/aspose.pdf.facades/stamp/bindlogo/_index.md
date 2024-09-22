@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::Stamp::BindLogo(System::SharedPtr<FormattedText> form
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)

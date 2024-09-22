@@ -18,6 +18,7 @@ const System::SharedPtr<MarginInfo> & Aspose::Pdf::PageInfo::get_AnyMargin() con
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../margininfo/)
 * Class [PageInfo](../)
 * Namespace [Aspose::Pdf](../../)

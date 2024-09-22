@@ -27,6 +27,7 @@ bool Aspose::Pdf::CollectionSchema::HasName(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CollectionSchema](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

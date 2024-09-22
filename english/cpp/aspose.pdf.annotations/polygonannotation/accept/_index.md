@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PolygonAnnotation::Accept(System::SharedPtr<Annot
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [PolygonAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::IPageSetOptions::set_ExplicitListOfSavedPages(System::
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [IPageSetOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

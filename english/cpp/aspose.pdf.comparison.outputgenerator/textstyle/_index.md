@@ -26,5 +26,6 @@ class TextStyle : public System::Object
 | [set_Color](./set_color/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Gets and sets the text color. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../)
 * Library [Aspose.PDF for C++](../../)

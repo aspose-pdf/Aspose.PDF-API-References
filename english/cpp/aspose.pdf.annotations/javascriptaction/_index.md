@@ -20,12 +20,9 @@ class JavascriptAction : public Aspose::Pdf::Annotations::PdfAction
 
 | Method | Description |
 | --- | --- |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
 | [get_Script](./get_script/)() | Gets javascript code. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [JavascriptAction](./javascriptaction/)(System::String) | Constructor. |
 | [set_Script](./set_script/)(System::String) | Sets javascript code. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

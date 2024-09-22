@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::RubyElement](../../../aspose.pdf.logical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

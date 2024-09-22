@@ -23,6 +23,7 @@ Aspose::Pdf::TeXFileSystemInputDirectory::TeXFileSystemInputDirectory(System::St
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXFileSystemInputDirectory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

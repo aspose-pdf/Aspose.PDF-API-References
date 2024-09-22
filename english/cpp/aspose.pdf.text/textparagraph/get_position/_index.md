@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextParagraph:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

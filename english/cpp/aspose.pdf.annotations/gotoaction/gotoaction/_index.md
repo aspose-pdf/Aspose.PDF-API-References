@@ -64,7 +64,9 @@ Aspose::Pdf::Annotations::GoToAction::GoToAction(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -84,6 +86,7 @@ Aspose::Pdf::Annotations::GoToAction::GoToAction(System::SharedPtr<ExplicitDesti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../../explicitdestination/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -104,6 +107,7 @@ Aspose::Pdf::Annotations::GoToAction::GoToAction(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -126,8 +130,10 @@ Aspose::Pdf::Annotations::GoToAction::GoToAction(System::SharedPtr<Page> page, E
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

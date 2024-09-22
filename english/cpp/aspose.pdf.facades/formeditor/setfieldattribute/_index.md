@@ -28,6 +28,7 @@ true if attribute was set successfully.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PropertyFlag](../../propertyflag/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

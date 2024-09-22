@@ -18,6 +18,7 @@ void Aspose::Pdf::Table::set_RepeatingRowsStyle(System::SharedPtr<Text::TextStat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::SpanElement](../../../aspose.pdf.logical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SpanElement](../../../aspose.pdf.logicalstructure/spanelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

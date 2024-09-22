@@ -19,6 +19,7 @@ static ColorsOfCMYK Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToEnum(Syst
 ## See Also
 
 * Enum [ColorsOfCMYK](../../colorsofcmyk/)
+* Class [String](../../../system/string/)
 * Class [ColorsOfCMYKConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

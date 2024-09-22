@@ -25,6 +25,7 @@ Aspose::Pdf::TimestampSettings::TimestampSettings(System::String serverUrl, Syst
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [DigestHashAlgorithm](../../digesthashalgorithm/)
 * Class [TimestampSettings](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::SelectFont::get_Name() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SelectFont](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

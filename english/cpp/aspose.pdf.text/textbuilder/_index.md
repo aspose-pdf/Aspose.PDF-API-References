@@ -27,5 +27,6 @@ class TextBuilder : public System::Object
 | [TextBuilder](./textbuilder/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<BaseOperatorCollection\>) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

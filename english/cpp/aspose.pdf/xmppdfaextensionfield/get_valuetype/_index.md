@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XmpPdfAExtensionField::get_ValueType() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

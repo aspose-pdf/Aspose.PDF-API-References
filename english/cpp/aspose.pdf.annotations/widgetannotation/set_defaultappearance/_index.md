@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance(System::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DefaultAppearance](../../defaultappearance/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

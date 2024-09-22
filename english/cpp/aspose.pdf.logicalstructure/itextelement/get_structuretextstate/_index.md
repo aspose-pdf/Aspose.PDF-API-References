@@ -22,6 +22,7 @@ virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTextState> Asp
 [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for text structure element.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTextState](../../structuretextstate/)
 * Class [ITextElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

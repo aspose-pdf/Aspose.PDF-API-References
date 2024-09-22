@@ -25,5 +25,6 @@ class FreeTextIntentConverter : public System::Object
 | static [ToXfdfString](./toxfdfstring/)(FreeTextIntent) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

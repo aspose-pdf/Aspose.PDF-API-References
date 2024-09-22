@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::PageInfo> Aspose::Pdf::Page::get_PageInfo()
 The page info.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInfo](../../pageinfo/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

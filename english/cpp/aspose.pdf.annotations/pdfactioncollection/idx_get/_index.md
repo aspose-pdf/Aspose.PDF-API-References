@@ -27,6 +27,7 @@ Action index if found; otherwise, throws IndexOutOfRangeException
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [PdfActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

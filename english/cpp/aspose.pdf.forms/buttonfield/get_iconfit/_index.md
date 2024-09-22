@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Forms::IconFit> Aspose::Pdf::Forms::ButtonField::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IconFit](../../iconfit/)
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

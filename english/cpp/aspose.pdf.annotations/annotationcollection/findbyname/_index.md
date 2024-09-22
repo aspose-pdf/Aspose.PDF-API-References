@@ -27,7 +27,9 @@ System::SharedPtr<Annotation> Aspose::Pdf::Annotations::AnnotationCollection::Fi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
+* Class [String](../../../system/string/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

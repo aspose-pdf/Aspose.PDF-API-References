@@ -29,5 +29,6 @@ class ImagesDifference : public System::IDisposable
 | [GetDestinationImage](./getdestinationimage/)() | Returns a new bitmap representing the destination image by applying the difference array to the source image. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../)
 * Library [Aspose.PDF for C++](../../)

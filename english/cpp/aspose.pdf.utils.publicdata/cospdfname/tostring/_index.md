@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfname/tostring/
 ## CosPdfName::ToString method
 
 
-Returns a **System::String** that represents the current [CosPdfName](../).
+Returns a [System::String](../../../system/string/) that represents the current [CosPdfName](../).
 
 ```cpp
 System::String Aspose::Pdf::Utils::PublicData::CosPdfName::ToString() const override
@@ -19,10 +19,11 @@ System::String Aspose::Pdf::Utils::PublicData::CosPdfName::ToString() const over
 
 ### ReturnValue
 
-A **System::String** that represents the current [CosPdfName](../).
+A [System::String](../../../system/string/) that represents the current [CosPdfName](../).
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfName](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

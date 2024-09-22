@@ -26,5 +26,6 @@ class HeadingLevels : public System::Object
 | [HeadingLevels](./headinglevels/)(double) | Creates a new instance of the [HeadingLevels](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../)
 * Library [Aspose.PDF for C++](../../)

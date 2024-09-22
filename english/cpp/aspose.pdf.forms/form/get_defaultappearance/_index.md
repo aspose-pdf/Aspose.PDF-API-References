@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> Aspose::Pdf::Form
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::CommonFigureAnnotation::CommonFigureAnnotation(System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [CommonFigureAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

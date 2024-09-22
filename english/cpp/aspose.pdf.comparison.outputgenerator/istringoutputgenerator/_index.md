@@ -24,5 +24,6 @@ class IStringOutputGenerator : public virtual System::Object
 | virtual [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Pdf::Comparison::Diff::DiffOperation\>\>\>\>\>) | Generates the output based on the differences between texts and saves it to a file. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../)
 * Library [Aspose.PDF for C++](../../)

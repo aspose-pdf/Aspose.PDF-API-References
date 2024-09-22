@@ -27,6 +27,7 @@ System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Se
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DRenderMode](../)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [PDF3DRenderMode](../)

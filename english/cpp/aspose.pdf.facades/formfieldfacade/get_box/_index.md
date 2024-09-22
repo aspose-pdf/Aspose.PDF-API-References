@@ -18,6 +18,7 @@ System::Drawing::Rectangle Aspose::Pdf::Facades::FormFieldFacade::get_Box() cons
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

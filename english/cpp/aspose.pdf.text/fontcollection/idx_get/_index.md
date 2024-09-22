@@ -27,6 +27,7 @@ System::SharedPtr<Font> Aspose::Pdf::Text::FontCollection::idx_get(int32_t index
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -51,7 +52,9 @@ Found font.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

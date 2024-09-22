@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::MediaClip> Aspose::Pdf::Annotations:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MediaClip](../../mediaclip/)
 * Class [MediaRendition](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

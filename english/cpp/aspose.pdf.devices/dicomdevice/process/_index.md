@@ -24,7 +24,9 @@ void Aspose::Pdf::Devices::DicomDevice::Process(System::SharedPtr<Page> page, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [DicomDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

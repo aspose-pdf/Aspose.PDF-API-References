@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XslFoLoadOptions::get_BasePath() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XslFoLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

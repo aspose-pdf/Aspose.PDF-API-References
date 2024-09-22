@@ -18,6 +18,7 @@ virtual System::ArrayPtr<int32_t> Aspose::Pdf::Forms::ChoiceField::get_SelectedI
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

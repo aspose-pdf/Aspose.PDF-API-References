@@ -32,5 +32,6 @@ class TabStops : public System::ICloneable
 | [TabStops](./tabstops/)() | Initializes a new instance of the [TabStops](./) class. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

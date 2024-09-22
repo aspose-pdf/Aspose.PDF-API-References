@@ -18,6 +18,7 @@ virtual System::ArrayPtr<double> Aspose::Pdf::Operators::BasicSetColorOperator::
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [BasicSetColorOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

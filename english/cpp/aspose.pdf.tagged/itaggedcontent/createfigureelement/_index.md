@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::FigureElement](../../../aspose.pdf.logic
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

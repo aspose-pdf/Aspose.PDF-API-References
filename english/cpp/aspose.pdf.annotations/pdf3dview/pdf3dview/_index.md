@@ -26,8 +26,10 @@ Aspose::Pdf::Annotations::PDF3DView::PDF3DView(System::SharedPtr<Document> doc, 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* Class [String](../../../system/string/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -49,8 +51,10 @@ Aspose::Pdf::Annotations::PDF3DView::PDF3DView(System::SharedPtr<Document> doc, 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PDF3DView](../)
+* Class [String](../../../system/string/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,9 @@ true if this pauir was found.
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

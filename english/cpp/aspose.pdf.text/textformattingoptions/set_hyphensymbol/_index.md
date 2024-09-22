@@ -22,6 +22,7 @@ void Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol(System::String v
 To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFormattingOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

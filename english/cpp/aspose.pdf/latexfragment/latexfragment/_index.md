@@ -23,6 +23,7 @@ Aspose::Pdf::LatexFragment::LatexFragment(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [LatexFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::LatexFragment::LatexFragment(System::String text, bool removeIndent
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [LatexFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

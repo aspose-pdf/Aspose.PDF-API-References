@@ -28,5 +28,6 @@ class AbsorbedTable : public Aspose::Pdf::Text::ITableElement,
 ## See Also
 
 * Class [ITableElement](../itableelement/)
+* Class [IComparable](../../system/icomparable/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

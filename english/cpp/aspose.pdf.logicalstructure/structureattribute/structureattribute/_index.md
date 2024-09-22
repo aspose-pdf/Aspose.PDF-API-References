@@ -23,6 +23,7 @@ Aspose::Pdf::LogicalStructure::StructureAttribute::StructureAttribute(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeKey](../../attributekey/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

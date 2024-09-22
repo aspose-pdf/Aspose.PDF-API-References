@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::ScreenAnnotation::set_Title(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ScreenAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

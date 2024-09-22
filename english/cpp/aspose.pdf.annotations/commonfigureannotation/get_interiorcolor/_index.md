@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Annotations::CommonFigureAnno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [CommonFigureAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

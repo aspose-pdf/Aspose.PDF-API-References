@@ -23,6 +23,7 @@ System::Drawing::Color Aspose::Pdf::Operators::SetRGBColor::getColor() override
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [SetRGBColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

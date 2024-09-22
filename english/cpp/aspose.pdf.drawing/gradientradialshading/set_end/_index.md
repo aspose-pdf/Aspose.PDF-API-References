@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::GradientRadialShading::set_End(System::SharedPtr<Poin
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [GradientRadialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

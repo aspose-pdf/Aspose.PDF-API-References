@@ -26,5 +26,6 @@ class JavaScriptCollection : public System::Object
 | [Remove](./remove/)(System::String) | Removes JavaScript by its name. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

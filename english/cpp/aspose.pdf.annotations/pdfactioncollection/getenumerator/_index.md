@@ -23,6 +23,8 @@ PDfAction enumerator.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [PdfAction](../../pdfaction/)
 * Class [PdfActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

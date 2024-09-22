@@ -18,6 +18,7 @@ System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::TextFragmentAbsorbe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragmentCollection](../../textfragmentcollection/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

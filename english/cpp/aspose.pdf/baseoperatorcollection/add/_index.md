@@ -23,6 +23,7 @@ void Aspose::Pdf::BaseOperatorCollection::Add(const System::SharedPtr<Operator> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [BaseOperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

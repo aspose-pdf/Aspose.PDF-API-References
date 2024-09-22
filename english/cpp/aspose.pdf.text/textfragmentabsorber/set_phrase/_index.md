@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::set_Phrase(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::WatermarkAnnotation::Accept(System::SharedPtr<Ann
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [WatermarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -16,6 +16,13 @@ represents set of options for convert PDF document
 class PdfFormatConversionOptions : public System::Object
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [PuaProcessingStrategy](./puaprocessingstrategy/) | Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA), see description at [https://en.wikipedia.org/wiki/Private_Use_Areas](https://en.wikipedia.org/wiki/Private_Use_Areas). This symbols cause an PDF/A compliant errors like "Text is mapped to Unicode Private Use Area but no ActualText entry is present". This enumeration declares a strategies which can be used to handle PUA symbols. |
+| [RemoveFontsStrategy](./removefontsstrategy/) | Some documens have large size after converison into PDF/A format. To reduce file size for these documents it's necessary to define a strategy of fonts removing. This enumeration declares a strategies which can be used to optimize fonts usage. Every strategy from this enumeration has sense only when flag [OptimizeFileSize](../) is set. |
+| [SegmentAlignStrategy](./segmentalignstrategy/) | Describes strategies used to align document text segments. Now only strategy to restore segments to original bounds is supported. In future another strategies could be added. |
 ## Methods
 
 | Method | Description |
@@ -24,7 +31,7 @@ class PdfFormatConversionOptions : public System::Object
 | [get_ConvertSoftMaskAction](./get_convertsoftmaskaction/)() const | Action for images with soft mask. |
 | static [get_Default](./get_default/)() | Gets [PdfFormatConversionOptions](./) object with default parameters. |
 | [get_ErrorAction](./get_erroraction/)() const | Action for objects that can not be converted. |
-| [get_ExcludeFontsStrategy](./get_excludefontsstrategy/)() const | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies **SubsetFonts** and **RemoveDuplicatedFonts** is used. |
+| [get_ExcludeFontsStrategy](./get_excludefontsstrategy/)() const | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |
 | [get_FontEmbeddingOptions](./get_fontembeddingoptions/)() const | Options for cases when it's not possible to embed some fonts into PDF document. |
 | [get_Format](./get_format/)() const | PDF format. |
 | [get_IccProfileFileName](./get_iccprofilefilename/)() const | Gets the filename of icc profile name. In case of null the default icc profile used. |
@@ -51,7 +58,7 @@ class PdfFormatConversionOptions : public System::Object
 | [set_AlignText](./set_aligntext/)(bool) | This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases font substitution causes text overlapping or extra spaces in converted document. When this flag is set special alignment operations will be performed. This flag should be set only for documents which have problems with overlapped text or extra text spaces cause using of this flag decrease performance and in some cases could corrupt text content. |
 | [set_ConvertSoftMaskAction](./set_convertsoftmaskaction/)(Aspose::Pdf::ConvertSoftMaskAction) | Action for images with soft mask. |
 | [set_ErrorAction](./set_erroraction/)(ConvertErrorAction) | Action for objects that can not be converted. |
-| [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies **SubsetFonts** and **RemoveDuplicatedFonts** is used. |
+| [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |
 | [set_Format](./set_format/)(PdfFormat) | PDF format. |
 | [set_IccProfileFileName](./set_iccprofilefilename/)(System::String) | Sets the filename of icc profile name. In case of null the default icc profile used. |
 | [set_IsAsyncImageStreamsConversionMode](./set_isasyncimagestreamsconversionmode/)(bool) | Gets/sets run of image streams in async mode. |
@@ -68,5 +75,6 @@ class PdfFormatConversionOptions : public System::Object
 | [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(System::SharedPtr\<PdfAOptionClasses::ToUnicodeProcessingRules\>) | Rules to solve problems with unicode mapping. Can be null. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

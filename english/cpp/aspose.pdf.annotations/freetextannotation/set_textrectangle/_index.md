@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextRectangle(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::EOClip::Accept(System::SharedPtr<IOperatorSelector>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [EOClip](../)
 * Namespace [Aspose::Pdf::Operators](../../)

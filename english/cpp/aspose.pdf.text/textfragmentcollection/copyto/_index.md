@@ -24,6 +24,8 @@ void Aspose::Pdf::Text::TextFragmentCollection::CopyTo(System::ArrayPtr<System::
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextFragmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

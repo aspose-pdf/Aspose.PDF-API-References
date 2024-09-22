@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfFileStamp::Save(System::SharedPtr<System::IO::Stre
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::Save(System::String destFile) override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

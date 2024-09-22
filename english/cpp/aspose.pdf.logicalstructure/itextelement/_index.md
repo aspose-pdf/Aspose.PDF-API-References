@@ -24,5 +24,6 @@ class ITextElement : public virtual System::Object
 | virtual [SetText](./settext/)(System::String) | Appends text content to current text element. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

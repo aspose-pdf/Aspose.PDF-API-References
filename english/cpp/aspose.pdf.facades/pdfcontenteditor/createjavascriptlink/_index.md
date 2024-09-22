@@ -26,6 +26,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateJavaScriptLink(System::String
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

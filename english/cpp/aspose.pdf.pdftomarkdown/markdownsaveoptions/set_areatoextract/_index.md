@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_AreaToExtract(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)

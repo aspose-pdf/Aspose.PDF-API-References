@@ -24,6 +24,7 @@ void Aspose::Pdf::FileSpecification::SetValue(System::String key, System::String
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

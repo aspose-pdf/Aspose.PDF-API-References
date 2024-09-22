@@ -21,7 +21,6 @@ class CgmImportOptions : public Aspose::Pdf::ImportOptions
 | Method | Description |
 | --- | --- |
 | [CgmImportOptions](./cgmimportoptions/)() | Constructor. |
-| [get_ImportFormat](../importoptions/get_importformat/)() const | Import format. |
 | [get_PageSize](./get_pagesize/)() const | Gets output page size for import. Default page size - A4 300dpi 2480 X 3508. |
 | [set_PageSize](./set_pagesize/)(System::Drawing::SizeF) | Sets output page size for import. Default page size - A4 300dpi 2480 X 3508. |
 ## See Also

@@ -36,5 +36,6 @@ class GraphicsAbsorber : public System::IDisposable
 | [Visit](./visit/)(System::SharedPtr\<Page\>) | Performs search on the specified page. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Vector](../)
 * Library [Aspose.PDF for C++](../../)

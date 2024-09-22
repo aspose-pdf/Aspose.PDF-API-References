@@ -19,6 +19,7 @@ static Justification Aspose::Pdf::Annotations::JustificationConverter::ToEnum(Sy
 ## See Also
 
 * Enum [Justification](../../justification/)
+* Class [String](../../../system/string/)
 * Class [JustificationConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

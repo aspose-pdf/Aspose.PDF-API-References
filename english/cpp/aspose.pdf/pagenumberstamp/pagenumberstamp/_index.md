@@ -37,6 +37,7 @@ Aspose::Pdf::PageNumberStamp::PageNumberStamp(System::SharedPtr<Facades::Formatt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * Class [PageNumberStamp](../)
 * Namespace [Aspose::Pdf](../../)
@@ -57,6 +58,7 @@ Aspose::Pdf::PageNumberStamp::PageNumberStamp(System::String format)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PageNumberStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

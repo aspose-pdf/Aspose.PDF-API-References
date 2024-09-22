@@ -23,6 +23,7 @@ void Aspose::Pdf::OperatorCollection::Accept(System::SharedPtr<IOperatorSelector
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../ioperatorselector/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

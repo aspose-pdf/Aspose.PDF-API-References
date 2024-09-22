@@ -31,6 +31,7 @@ true if field position was changed successfully.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

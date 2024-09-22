@@ -30,6 +30,7 @@ CoversWholeDocument should be used instead of IsCoversWholeDocument.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

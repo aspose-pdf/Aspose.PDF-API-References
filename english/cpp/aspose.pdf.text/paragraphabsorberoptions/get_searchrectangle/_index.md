@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Text::ParagraphAbsorberOptions::get_Se
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ParagraphAbsorberOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)

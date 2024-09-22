@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Optimization::ImageCompressionOptions> Aspose::Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImageCompressionOptions](../../imagecompressionoptions/)
 * Class [OptimizationOptions](../)
 * Namespace [Aspose::Pdf::Optimization](../../)

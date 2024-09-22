@@ -41,6 +41,7 @@ class XFormCollection : public System::Collections::Generic::ICollection<System:
 | [Remove](./remove/)(const System::SharedPtr\<XForm\>\&) override | Deletes specified item from collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

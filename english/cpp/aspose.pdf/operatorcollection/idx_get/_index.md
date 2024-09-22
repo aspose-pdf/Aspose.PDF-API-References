@@ -27,6 +27,7 @@ System::SharedPtr<Operator> Aspose::Pdf::OperatorCollection::idx_get(int32_t ind
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

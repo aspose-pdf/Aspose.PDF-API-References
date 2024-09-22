@@ -26,6 +26,7 @@ Aspose::Pdf::XmpPdfAExtensionValueType::XmpPdfAExtensionValueType(System::String
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

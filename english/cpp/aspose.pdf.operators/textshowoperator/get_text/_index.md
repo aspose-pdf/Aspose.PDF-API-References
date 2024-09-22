@@ -18,6 +18,7 @@ virtual System::String Aspose::Pdf::Operators::TextShowOperator::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextShowOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme(System::SharedPtr<P
 The lighting scheme of view.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

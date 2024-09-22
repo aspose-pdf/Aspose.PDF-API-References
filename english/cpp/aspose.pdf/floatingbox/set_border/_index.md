@@ -18,6 +18,7 @@ void Aspose::Pdf::FloatingBox::set_Border(System::SharedPtr<BorderInfo> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../borderinfo/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

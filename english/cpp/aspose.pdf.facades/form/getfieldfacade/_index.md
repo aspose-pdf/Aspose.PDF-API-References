@@ -27,7 +27,9 @@ System::SharedPtr<FormFieldFacade> Aspose::Pdf::Facades::Form::GetFieldFacade(Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormFieldFacade](../../formfieldfacade/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

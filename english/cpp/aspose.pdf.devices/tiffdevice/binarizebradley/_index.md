@@ -25,6 +25,8 @@ void Aspose::Pdf::Devices::TiffDevice::BinarizeBradley(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

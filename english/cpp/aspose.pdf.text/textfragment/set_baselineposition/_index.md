@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragment::set_BaselinePosition(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

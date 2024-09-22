@@ -28,6 +28,7 @@ Width of the string represented with this font and the specified size.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Font](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

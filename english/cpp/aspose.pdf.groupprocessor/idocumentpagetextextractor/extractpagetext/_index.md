@@ -27,6 +27,7 @@ Extracted page text.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IDocumentPageTextExtractor](../)
 * Namespace [Aspose::Pdf::GroupProcessor](../../)
 * Library [Aspose.PDF for C++](../../../)

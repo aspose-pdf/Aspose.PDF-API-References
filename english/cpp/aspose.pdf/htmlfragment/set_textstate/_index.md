@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlFragment::set_TextState(System::SharedPtr<Aspose::Pdf::Tex
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ System::Drawing::RectangleF Aspose::Pdf::HtmlFragment::get_Rectangle() const
 
 ## See Also
 
+* Class [RectangleF](../../../system.drawing/rectanglef/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

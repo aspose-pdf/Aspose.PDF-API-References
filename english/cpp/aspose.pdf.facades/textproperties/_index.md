@@ -29,5 +29,6 @@ class TextProperties : public System::Object
 | [TextProperties](./textproperties/)(double) | Creates [TextProperties](./) object for the specified text size. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

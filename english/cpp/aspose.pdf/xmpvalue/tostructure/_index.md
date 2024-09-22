@@ -23,6 +23,8 @@ System::ArrayPtr<System::SharedPtr<XmpField>> Aspose::Pdf::XmpValue::ToStructure
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpField](../../xmpfield/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)

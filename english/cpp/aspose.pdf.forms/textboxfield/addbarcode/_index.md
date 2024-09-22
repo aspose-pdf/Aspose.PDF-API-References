@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::TextBoxField::AddBarcode(System::String code)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

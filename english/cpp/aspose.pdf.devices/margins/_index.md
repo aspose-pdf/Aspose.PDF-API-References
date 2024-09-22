@@ -32,5 +32,6 @@ class Margins : public System::Object
 | [set_Top](./set_top/)(int32_t) | Sets the top. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Devices](../)
 * Library [Aspose.PDF for C++](../../)

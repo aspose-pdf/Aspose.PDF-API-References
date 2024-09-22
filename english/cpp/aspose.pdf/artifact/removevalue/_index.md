@@ -23,6 +23,7 @@ void Aspose::Pdf::Artifact::RemoveValue(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::NamedDestinationCollection::get_Na
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [NamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

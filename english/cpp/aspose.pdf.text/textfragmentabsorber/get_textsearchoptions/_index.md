@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> Aspose::Pdf::Text::TextF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

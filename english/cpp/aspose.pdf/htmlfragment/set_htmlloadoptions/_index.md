@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlFragment::set_HtmlLoadOptions(System::SharedPtr<Aspose::Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HtmlLoadOptions](../../htmlloadoptions/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)

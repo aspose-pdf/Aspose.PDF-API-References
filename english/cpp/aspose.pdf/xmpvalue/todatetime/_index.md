@@ -23,6 +23,7 @@ DateTime value.
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

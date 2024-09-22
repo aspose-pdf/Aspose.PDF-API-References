@@ -18,6 +18,7 @@ void Aspose::Pdf::OutlineItemCollection::set_Destination(System::SharedPtr<Annot
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

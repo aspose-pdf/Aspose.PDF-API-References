@@ -38,6 +38,9 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -59,6 +62,9 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -78,6 +84,7 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::String file)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -98,6 +105,7 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::String file, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -118,6 +126,8 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::String fileName, Syste
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)

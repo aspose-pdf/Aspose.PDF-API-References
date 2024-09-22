@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetLineWidth::Accept(System::SharedPtr<IOperatorSel
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetLineWidth](../)
 * Namespace [Aspose::Pdf::Operators](../../)

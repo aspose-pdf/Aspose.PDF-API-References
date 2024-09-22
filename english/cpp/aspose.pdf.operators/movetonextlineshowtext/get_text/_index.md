@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::MoveToNextLineShowText::get_Text() overri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

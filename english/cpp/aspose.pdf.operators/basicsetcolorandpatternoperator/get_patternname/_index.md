@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::BasicSetColorAndPatternOperator::get_Patt
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BasicSetColorAndPatternOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

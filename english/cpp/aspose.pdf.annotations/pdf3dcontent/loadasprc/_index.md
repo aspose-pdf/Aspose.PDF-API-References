@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::ArrayPtr<uint8_t>
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +43,8 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,6 +64,7 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::String filename)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

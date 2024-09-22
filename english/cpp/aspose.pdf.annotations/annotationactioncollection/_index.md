@@ -34,7 +34,6 @@ class AnnotationActionCollection : public Aspose::Pdf::BaseActionCollection
 | [get_OnReleaseMouseBtn](./get_onreleasemousebtn/)() | Gets an action to be performed when the mouse button is released inside the annotation's active area. |
 | [get_OnShowPage](./get_onshowpage/)() | Gets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface. |
 | [get_OnValidate](./get_onvalidate/)() | Gets an action to be performed when user changes contents of the field. |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Removes all actions of the annotation. |
 | [set_OnCalculate](./set_oncalculate/)(System::SharedPtr\<PdfAction\>) | Sets an action to calculate field value. |
 | [set_OnClosePage](./set_onclosepage/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the page containing the annotation is closed. |
 | [set_OnEnter](./set_onenter/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the cursor enters the annotation's active area. |

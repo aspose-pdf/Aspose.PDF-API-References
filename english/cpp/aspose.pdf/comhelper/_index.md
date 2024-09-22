@@ -35,5 +35,6 @@ class ComHelper : public System::Object
 Use the [ComHelper](./) class to load a document from a file or stream into a [Document](../document/) object in a COM application. The [Document](../document/) class provides a default constructor to create a new document and also provides overloaded constructors to load a document from a file or stream. If you are using Aspose.Words from a .NET application, you can use all of the [Document](../document/) constructors directly, but if you are using [Aspose.Pdf](../) from a COM application, only the default [Document](../document/) constructor is available. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

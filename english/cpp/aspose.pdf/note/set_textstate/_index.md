@@ -18,6 +18,7 @@ void Aspose::Pdf::Note::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)

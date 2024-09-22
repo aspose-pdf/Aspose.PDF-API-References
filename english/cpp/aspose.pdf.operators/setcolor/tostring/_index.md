@@ -23,6 +23,7 @@ String representation of color.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

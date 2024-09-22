@@ -27,6 +27,7 @@ Html encoded string.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

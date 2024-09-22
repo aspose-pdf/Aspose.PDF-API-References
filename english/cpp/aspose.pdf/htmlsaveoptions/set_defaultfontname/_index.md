@@ -22,6 +22,7 @@ void Aspose::Pdf::HtmlSaveOptions::set_DefaultFontName(System::String value)
 Font name
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

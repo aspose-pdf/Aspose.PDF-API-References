@@ -20,15 +20,9 @@ class PdfAnnotationEditor : public Aspose::Pdf::Facades::SaveableFacade
 
 | Method | Description |
 | --- | --- |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
-| [Close](../facade/close/)() override | Disposes [Aspose.Pdf.Document](../../aspose.pdf/document/) bound with a facade. |
 | [DeleteAnnotation](./deleteannotation/)(System::String) | Deletes the annotation with specified annotation name. |
 | [DeleteAnnotations](./deleteannotations/)() | Deletes all annotations in the document. |
 | [DeleteAnnotations](./deleteannotations/)(System::String) | Deletes all annotations of the specified type in the document. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Exports annotations to stream. |
 | [ExportAnnotationsXfdf](./exportannotationsxfdf/)(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::ArrayPtr\<System::String\>) | Exports the content of the specified annotation types into XFDF. |
 | [ExportAnnotationsXfdf](./exportannotationsxfdf/)(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) | Exports the content of the specified annotations types into XFDF. |
@@ -37,7 +31,6 @@ class PdfAnnotationEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [FlatteningAnnotations](./flatteningannotations/)() | Flattens all annotations in the document. |
 | [FlatteningAnnotations](./flatteningannotations/)(System::SharedPtr\<Forms::Form::FlattenSettings\>) | Flattens all annotations in the document. |
 | [FlatteningAnnotations](./flatteningannotations/)(int32_t, int32_t, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) | Flattens the annotations of the specified types. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [ImportAnnotationFromXfdf](./importannotationfromxfdf/)(System::String) | Imports all annotations from XFDF file. |
 | [ImportAnnotationFromXfdf](./importannotationfromxfdf/)(System::String, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) | Imports the specified annotations from XFDF file. |
 | [ImportAnnotationFromXfdf](./importannotationfromxfdf/)(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) | Imports the specified annotations from XFDF data stream. |
@@ -54,8 +47,6 @@ class PdfAnnotationEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [PdfAnnotationEditor](./pdfannotationeditor/)() | Initializes new [PdfAnnotationEditor](./) object. |
 | [PdfAnnotationEditor](./pdfannotationeditor/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfAnnotationEditor](./) object on base of the *document* . |
 | [RedactArea](./redactarea/)(int32_t, System::SharedPtr\<Rectangle\>, System::Drawing::Color) | Redacts area on the specified page. All contents is removed. |
-| [Save](../saveablefacade/save/)(System::String) override | Saves the PDF document to the specified file. |
-| [Save](../saveablefacade/save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified stream. |
 ## See Also
 
 * Class [SaveableFacade](../saveablefacade/)

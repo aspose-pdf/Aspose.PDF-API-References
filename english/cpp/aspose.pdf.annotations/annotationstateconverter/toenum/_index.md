@@ -19,6 +19,7 @@ static AnnotationState Aspose::Pdf::Annotations::AnnotationStateConverter::ToEnu
 ## See Also
 
 * Enum [AnnotationState](../../annotationstate/)
+* Class [String](../../../system/string/)
 * Class [AnnotationStateConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

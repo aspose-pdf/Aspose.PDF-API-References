@@ -18,6 +18,7 @@ System::SharedPtr<PageActionCollection> Aspose::Pdf::Page::get_Actions()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageActionCollection](../../pageactioncollection/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

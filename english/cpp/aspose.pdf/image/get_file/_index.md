@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Image::get_File() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

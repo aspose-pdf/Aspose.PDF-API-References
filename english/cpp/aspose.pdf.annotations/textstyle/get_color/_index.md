@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Annotations::TextStyle::get_Color()
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

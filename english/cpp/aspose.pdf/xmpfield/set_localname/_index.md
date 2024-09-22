@@ -22,6 +22,7 @@ void Aspose::Pdf::XmpField::set_LocalName(System::String value)
 The name of the local.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

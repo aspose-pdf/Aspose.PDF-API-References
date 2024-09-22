@@ -23,6 +23,7 @@ The new [TabStop](../../tabstop/) object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -47,6 +48,7 @@ The new [TabStop](../../tabstop/) object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -72,6 +74,7 @@ The new [TabStop](../../tabstop/) object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Enum [TabLeaderType](../../tableadertype/)
 * Class [TabStops](../)
@@ -93,6 +96,7 @@ void Aspose::Pdf::Text::TabStops::Add(System::SharedPtr<TabStop> tabStop)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)

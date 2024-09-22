@@ -28,6 +28,7 @@ The paragraphs collection
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

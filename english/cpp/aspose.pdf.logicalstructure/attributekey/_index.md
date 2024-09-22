@@ -71,5 +71,6 @@ class AttributeKey : public System::Object
 | static [WritingMode](./writingmode/) | WritingMode attribute (Layout attribute owner). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

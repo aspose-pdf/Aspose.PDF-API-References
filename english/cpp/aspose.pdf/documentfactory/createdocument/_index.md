@@ -23,6 +23,7 @@ Created document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
@@ -47,7 +48,9 @@ Created document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -72,7 +75,9 @@ Created document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
@@ -98,7 +103,10 @@ Created document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -122,7 +130,9 @@ Created document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [String](../../../system/string/)
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

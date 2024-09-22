@@ -28,6 +28,7 @@ true if flags were updated successfully.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

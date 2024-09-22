@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetCharWidth::Accept(System::SharedPtr<IOperatorSel
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetCharWidth](../)
 * Namespace [Aspose::Pdf::Operators](../../)

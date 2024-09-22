@@ -18,6 +18,7 @@ System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::ImportDataAction:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [ImportDataAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

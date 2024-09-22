@@ -18,6 +18,7 @@ System::ArrayPtr<int32_t> Aspose::Pdf::Annotations::Dash::get_Pattern() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Dash](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

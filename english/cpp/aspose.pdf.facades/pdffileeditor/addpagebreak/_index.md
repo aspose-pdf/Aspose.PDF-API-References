@@ -21,11 +21,14 @@ void Aspose::Pdf::Facades::PdfFileEditor::AddPageBreak(System::SharedPtr<Documen
 | --- | --- | --- |
 | src | System::SharedPtr\<Document\> | Source document. |
 | dest | System::SharedPtr\<Document\> | Destination document. |
-| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of **PageBreak** objects which describe places of page breaks. |
+| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of [PageBreak](../pagebreak/) objects which describe places of page breaks. |
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PageBreak](../pagebreak/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,10 +46,14 @@ void Aspose::Pdf::Facades::PdfFileEditor::AddPageBreak(System::SharedPtr<System:
 | --- | --- | --- |
 | src | System::SharedPtr\<System::IO::Stream\> | Source which contains source document. |
 | dest | System::SharedPtr\<System::IO::Stream\> | Source where destination document will be saved. |
-| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of **PageBreak** object describing pages and places where page break will be added. |
+| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of [PageBreak](../pagebreak/) object describing pages and places where page break will be added. |
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PageBreak](../pagebreak/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,10 +71,14 @@ void Aspose::Pdf::Facades::PdfFileEditor::AddPageBreak(System::String src, Syste
 | --- | --- | --- |
 | src | System::String | Path to source document. |
 | dest | System::String | Path to destination document. |
-| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of **PageBreak** object describing pages and places where page break will be added. |
+| pageBreaks | System::ArrayPtr\<System::SharedPtr\<PdfFileEditor::PageBreak\>\> | Array of [PageBreak](../pagebreak/) object describing pages and places where page break will be added. |
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PageBreak](../pagebreak/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

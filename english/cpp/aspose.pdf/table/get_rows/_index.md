@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rows> Aspose::Pdf::Table::get_Rows() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rows](../../rows/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

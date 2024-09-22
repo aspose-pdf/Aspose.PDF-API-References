@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextStyle(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextStyle](../../textstyle/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

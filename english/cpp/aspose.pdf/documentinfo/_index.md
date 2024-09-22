@@ -53,5 +53,6 @@ class DocumentInfo : public System::Collections::Generic::Dictionary<System::Str
 | [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 ## See Also
 
+* Class [Dictionary](../../system.collections.generic/dictionary/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::GoToRemoteAction::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [GoToRemoteAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

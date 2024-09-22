@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::TextMarkupAnnotation::set_QuadPoints(System::Arra
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [TextMarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

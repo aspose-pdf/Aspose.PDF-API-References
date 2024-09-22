@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::BaseOperatorCollection::idx_set(int32_t index, System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [BaseOperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

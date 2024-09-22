@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::XmlLoadOptions::get_XslStream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

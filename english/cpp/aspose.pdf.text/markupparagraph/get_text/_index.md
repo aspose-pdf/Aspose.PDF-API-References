@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::MarkupParagraph::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MarkupParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

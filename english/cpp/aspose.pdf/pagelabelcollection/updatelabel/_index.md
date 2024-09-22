@@ -24,6 +24,7 @@ void Aspose::Pdf::PageLabelCollection::UpdateLabel(int32_t pageIndex, System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageLabel](../../pagelabel/)
 * Class [PageLabelCollection](../)
 * Namespace [Aspose::Pdf](../../)

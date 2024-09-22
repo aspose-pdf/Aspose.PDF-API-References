@@ -18,6 +18,7 @@ void Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::set_ExtractionAreaBo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SvgExtractionOptions](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)

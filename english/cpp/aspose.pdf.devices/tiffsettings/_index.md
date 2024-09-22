@@ -44,5 +44,6 @@ class TiffSettings : public System::Object
 | [TiffSettings](./tiffsettings/)(bool) | Initializes a new instance of the [TiffSettings](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Devices](../)
 * Library [Aspose.PDF for C++](../../)

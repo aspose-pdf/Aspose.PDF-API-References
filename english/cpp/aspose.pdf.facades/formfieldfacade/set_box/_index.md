@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::FormFieldFacade::set_Box(System::Drawing::Rectangle v
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

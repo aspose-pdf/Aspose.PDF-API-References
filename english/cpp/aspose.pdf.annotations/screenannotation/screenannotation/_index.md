@@ -25,8 +25,10 @@ Aspose::Pdf::Annotations::ScreenAnnotation::ScreenAnnotation(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Class [String](../../../system/string/)
 * Class [ScreenAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Forms::F
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Field](../../../aspose.pdf.forms/field/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

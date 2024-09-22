@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::SimpleFontSubstitution::get_OriginalFontName()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SimpleFontSubstitution](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

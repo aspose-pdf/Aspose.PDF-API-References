@@ -24,6 +24,7 @@ void Aspose::Pdf::Paragraphs::Insert(int32_t index, System::SharedPtr<BaseParagr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

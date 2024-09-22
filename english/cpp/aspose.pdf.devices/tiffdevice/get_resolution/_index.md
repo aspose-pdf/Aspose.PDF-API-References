@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::Devices::TiffDe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

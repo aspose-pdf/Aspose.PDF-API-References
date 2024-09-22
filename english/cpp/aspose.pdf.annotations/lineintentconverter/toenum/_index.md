@@ -19,6 +19,7 @@ static LineIntent Aspose::Pdf::Annotations::LineIntentConverter::ToEnum(System::
 ## See Also
 
 * Enum [LineIntent](../../lineintent/)
+* Class [String](../../../system/string/)
 * Class [LineIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

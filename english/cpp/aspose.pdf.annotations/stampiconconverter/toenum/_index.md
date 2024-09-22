@@ -19,6 +19,7 @@ static StampIcon Aspose::Pdf::Annotations::StampIconConverter::ToEnum(System::St
 ## See Also
 
 * Enum [StampIcon](../../stampicon/)
+* Class [String](../../../system/string/)
 * Class [StampIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

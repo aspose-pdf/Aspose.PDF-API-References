@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Text::TextState> & Aspose::Pdf::HtmlFragmen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)

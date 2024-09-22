@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::ChoiceField::set_Value(System::String value) override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

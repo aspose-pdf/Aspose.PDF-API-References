@@ -26,10 +26,6 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [AddListItem](./addlistitem/)(System::String, System::String) | Adds new item to the list box. |
 | [AddListItem](./addlistitem/)(System::String, System::ArrayPtr\<System::String\>) | Add a new item with Export value to the existing list box field, only for AcroForm combo box field. |
 | [AddSubmitBtn](./addsubmitbtn/)(System::String, int32_t, System::String, System::String, float, float, float, float) | Add submit button on the form. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Closes the facade. |
 | [CopyInnerField](./copyinnerfield/)(System::String, System::String, int32_t) | Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has except for the newly copied field. |
 | [CopyInnerField](./copyinnerfield/)(System::String, System::String, int32_t, float, float) | Copies an existing field to a new position specified by both page number and ordinates. A new document will be produced, which contains everything the source document has except for the newly copied field. |
@@ -40,7 +36,6 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [DecorateField](./decoratefield/)(FieldType) | Changes visual attributes of all fields with the specified field type. |
 | [DecorateField](./decoratefield/)() | Changes visual attributes of all fields in the PDF document. |
 | [DelListItem](./dellistitem/)(System::String, System::String) | Delete item from the list field. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [FormEditor](./formeditor/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) | Constructor for [FormEditor](./). |
 | [FormEditor](./formeditor/)(System::String, System::String) | Constructor for [FormEditor](./). |
 | [FormEditor](./formeditor/)() | Constructor for [FormEditor](./). |
@@ -53,7 +48,6 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [get_ContentDisposition](./get_contentdisposition/)() const | Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [get_DestFileName](./get_destfilename/)() const | Gets destination file name. |
 | [get_DestStream](./get_deststream/)() const | Gets destination stream. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_ExportItems](./get_exportitems/)() const | Sets options for combo box with export values. |
 | [get_Facade](./get_facade/)() const | Sets visual attributes of the field. |
 | [get_Items](./get_items/)() const | Sets items which will be added t onewly created list box or combo box. |
@@ -73,8 +67,6 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [ResetFacade](./resetfacade/)() | Reset all visual attribtues to empty value. |
 | [ResetInnerFacade](./resetinnerfacade/)() | Reset all visual attribtues of inner facade to empty value. |
 | [Save](./save/)() | Saves changes into destination file. |
-| [Save](../saveablefacade/save/)(System::String) override | Saves the PDF document to the specified file. |
-| [Save](../saveablefacade/save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified stream. |
 | [set_AttachmentName](./set_attachmentname/)(System::String) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
 | [set_ContentDisposition](./set_contentdisposition/)(Aspose::Pdf::ContentDisposition) | Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [set_ConvertTo](./set_convertto/)(PdfFormat) | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |

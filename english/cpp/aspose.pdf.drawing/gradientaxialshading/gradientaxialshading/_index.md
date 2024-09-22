@@ -38,6 +38,7 @@ Aspose::Pdf::Drawing::GradientAxialShading::GradientAxialShading(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [GradientAxialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

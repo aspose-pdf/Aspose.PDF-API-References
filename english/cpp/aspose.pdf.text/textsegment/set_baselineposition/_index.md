@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextSegment::set_BaselinePosition(System::SharedPtr<Aspo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

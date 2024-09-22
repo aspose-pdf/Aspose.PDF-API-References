@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::TextSearchOptions::
 The property may be used in case it is required to delimit text extraction or text replace region. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextSearchOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)

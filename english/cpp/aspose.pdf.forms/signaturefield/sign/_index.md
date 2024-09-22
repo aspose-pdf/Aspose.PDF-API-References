@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::SignatureField::Sign(System::SharedPtr<Aspose::Pdf::For
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../signature/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -45,7 +46,10 @@ void Aspose::Pdf::Forms::SignatureField::Sign(System::SharedPtr<Aspose::Pdf::For
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../signature/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

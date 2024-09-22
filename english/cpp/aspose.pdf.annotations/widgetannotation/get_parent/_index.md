@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Forms::Field> Aspose::Pdf::Annotations::WidgetAnn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../../aspose.pdf.forms/field/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

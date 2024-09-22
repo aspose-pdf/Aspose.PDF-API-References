@@ -33,5 +33,6 @@ class TextFragmentCollection : public System::Collections::Generic::ICollection<
 | [Remove](./remove/)(const System::SharedPtr\<TextFragment\>\&) override | Deletes specified item from collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

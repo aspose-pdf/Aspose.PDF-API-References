@@ -18,6 +18,7 @@ System::String Aspose::Pdf::FileHyperlink::get_Path() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

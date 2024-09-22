@@ -25,5 +25,6 @@ class PdfANonSpecificationFlags : public System::Object
 | [set_CheckDifferentNamesInFontDictionaries](./set_checkdifferentnamesinfontdictionaries/)(bool) | Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

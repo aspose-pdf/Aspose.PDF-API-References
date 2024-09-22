@@ -27,14 +27,14 @@ class TextSegment : public System::Object
 | [get_Position](./get_position/)() const | Gets text position for text, represented with [TextSegment](./) object. |
 | [get_Rectangle](./get_rectangle/)() | Gets rectangle of the [TextSegment](./). |
 | [get_StartCharIndex](./get_startcharindex/)() const | Gets starting character index of current segment in the show text operator (Tj, TJ) segment. |
-| [get_Text](./get_text/)() const | Gets **System::String** text object that the [TextSegment](./) object represents. |
+| [get_Text](./get_text/)() const | Gets [System::String](../../system/string/) text object that the [TextSegment](./) object represents. |
 | [get_TextEditOptions](./get_texteditoptions/)() const | Gets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [get_TextState](./get_textstate/)() const | Gets text state for the text that [TextSegment](./) object represents. |
 | static [MyHtmlEncode](./myhtmlencode/)(System::String) | Encodes string as html. |
 | [set_BaselinePosition](./set_baselineposition/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextSegment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text segment. |
 | [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) | Sets the segment hyperlink(for pdf generator). |
 | [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextSegment](./) object. |
-| [set_Text](./set_text/)(System::String) | Sets **System::String** text object that the [TextSegment](./) object represents. |
+| [set_Text](./set_text/)(System::String) | Sets [System::String](../../system/string/) text object that the [TextSegment](./) object represents. |
 | [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [set_TextState](./set_textstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets text state for the text that [TextSegment](./) object represents. |
 | [TextSegment](./textsegment/)() | Creates [TextSegment](./) object. |
@@ -69,5 +69,6 @@ Obviously each [TextSegment](./) object may have it's own font, coloring, positi
 [TextFragment](../textfragment/) provides simple way to change text with it's properties: set font, set font size, set font color etc. Meanwhile [TextSegment](./) objects are accessible and users are able to operate with [TextSegment](./) objects independently. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

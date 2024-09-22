@@ -26,5 +26,6 @@ class Opi : public System::Object
 | [Opi](./opi/)(System::SharedPtr\<XForm\>) | The constructor. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

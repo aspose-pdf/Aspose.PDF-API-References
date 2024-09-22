@@ -18,6 +18,7 @@ System::String Aspose::Pdf::OutlineItemCollection::get_Title()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

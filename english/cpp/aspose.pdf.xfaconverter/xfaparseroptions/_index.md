@@ -33,5 +33,6 @@ class XfaParserOptions : public System::Object
 | [XfaParserOptions](./xfaparseroptions/)(System::Drawing::SizeF) | Initializes a new instance of the [XfaParserOptions](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::XfaConverter](../)
 * Library [Aspose.PDF for C++](../../)

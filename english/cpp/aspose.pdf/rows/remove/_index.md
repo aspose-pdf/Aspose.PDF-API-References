@@ -23,6 +23,7 @@ void Aspose::Pdf::Rows::Remove(System::SharedPtr<Row> row)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)

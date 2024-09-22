@@ -45,6 +45,7 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::SetReviewState(AnnotationState 
 ## See Also
 
 * Enum [AnnotationState](../../annotationstate/)
+* Class [String](../../../system/string/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

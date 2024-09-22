@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::FileSpecification::get_Stream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -33,5 +33,6 @@ class MarginInfo : public System::ICloneable
 | [set_Top](./set_top/)(double) | Sets a float value that indicates the top margin. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

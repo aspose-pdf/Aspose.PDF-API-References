@@ -23,6 +23,8 @@ ReadOnlyCollection<[PDF3DView](../../pdf3dview/)>.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ReadOnlyCollection](../../../system.collections.objectmodel/readonlycollection/)
 * Class [PDF3DView](../../pdf3dview/)
 * Class [PDF3DArtwork](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::Page::get_Resources() ove
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resources](../../resources/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

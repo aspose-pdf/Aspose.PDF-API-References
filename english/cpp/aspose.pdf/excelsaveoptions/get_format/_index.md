@@ -18,6 +18,7 @@ ExcelSaveOptions::ExcelFormat Aspose::Pdf::ExcelSaveOptions::get_Format() const
 
 ## See Also
 
+* Enum [ExcelFormat](../excelformat/)
 * Class [ExcelSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

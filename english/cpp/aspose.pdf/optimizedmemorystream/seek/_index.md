@@ -28,6 +28,7 @@ The new position within the current stream.
 
 ## See Also
 
+* Enum [SeekOrigin](../../../system.io/seekorigin/)
 * Class [OptimizedMemoryStream](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

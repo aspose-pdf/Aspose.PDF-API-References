@@ -19,6 +19,7 @@ static LaunchActionOperation Aspose::Pdf::Annotations::LaunchActionOperationConv
 ## See Also
 
 * Enum [LaunchActionOperation](../../launchactionoperation/)
+* Class [String](../../../system/string/)
 * Class [LaunchActionOperationConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

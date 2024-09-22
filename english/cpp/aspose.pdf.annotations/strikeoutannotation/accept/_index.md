@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::StrikeOutAnnotation::Accept(System::SharedPtr<Ann
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [StrikeOutAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

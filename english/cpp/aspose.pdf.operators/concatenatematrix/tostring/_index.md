@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::ConcatenateMatrix::ToString() const overr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ConcatenateMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

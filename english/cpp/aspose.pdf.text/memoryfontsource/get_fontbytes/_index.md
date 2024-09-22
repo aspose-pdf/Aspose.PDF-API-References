@@ -18,6 +18,7 @@ System::ArrayPtr<uint8_t> Aspose::Pdf::Text::MemoryFontSource::get_FontBytes() c
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [MemoryFontSource](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ Bbox value - rectangle containing contents without visible margins
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

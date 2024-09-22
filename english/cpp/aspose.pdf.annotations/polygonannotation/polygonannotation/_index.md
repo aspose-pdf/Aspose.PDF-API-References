@@ -25,8 +25,10 @@ Aspose::Pdf::Annotations::PolygonAnnotation::PolygonAnnotation(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [PolygonAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -48,7 +50,9 @@ Aspose::Pdf::Annotations::PolygonAnnotation::PolygonAnnotation(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [PolygonAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

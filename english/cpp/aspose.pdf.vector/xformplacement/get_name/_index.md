@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Vector::XFormPlacement::get_Name()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XFormPlacement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

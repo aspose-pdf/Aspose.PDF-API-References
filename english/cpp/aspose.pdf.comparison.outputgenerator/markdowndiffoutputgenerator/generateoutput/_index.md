@@ -27,6 +27,9 @@ Markown text.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -48,7 +51,10 @@ void Aspose::Pdf::Comparison::OutputGenerator::MarkdownDiffOutputGenerator::Gene
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -72,6 +78,9 @@ Markown text.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -93,7 +102,10 @@ void Aspose::Pdf::Comparison::OutputGenerator::MarkdownDiffOutputGenerator::Gene
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)

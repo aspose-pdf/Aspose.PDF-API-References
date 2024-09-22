@@ -18,6 +18,7 @@ const System::SharedPtr<Rectangle> & Aspose::Pdf::Vector::Extraction::SvgExtract
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SvgExtractionOptions](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::PsSaveOptions::get_EmbedFontAs() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PsSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

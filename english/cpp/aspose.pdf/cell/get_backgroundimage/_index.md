@@ -18,6 +18,7 @@ const System::SharedPtr<Image> & Aspose::Pdf::Cell::get_BackgroundImage() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Image](../../image/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

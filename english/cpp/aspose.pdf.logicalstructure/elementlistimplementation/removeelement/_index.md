@@ -24,6 +24,7 @@ void Aspose::Pdf::LogicalStructure::ElementListImplementation::RemoveElement(Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../../element/)
 * Class [ElementListImplementation](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

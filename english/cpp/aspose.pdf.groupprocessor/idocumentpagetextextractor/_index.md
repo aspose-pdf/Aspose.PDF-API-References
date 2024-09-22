@@ -24,5 +24,6 @@ class IDocumentPageTextExtractor : public virtual System::Object
 | virtual [get_PageCount](./get_pagecount/)() | Returns page count. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::GroupProcessor](../)
 * Library [Aspose.PDF for C++](../../)

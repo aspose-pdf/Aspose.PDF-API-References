@@ -25,8 +25,10 @@ Aspose::Pdf::Annotations::PolylineAnnotation::PolylineAnnotation(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [PolylineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

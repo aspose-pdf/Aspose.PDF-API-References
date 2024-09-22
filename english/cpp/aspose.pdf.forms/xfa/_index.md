@@ -34,5 +34,6 @@ class XFA : public System::Object
 | [SetFieldImage](./setfieldimage/)(System::String, System::SharedPtr\<System::IO::Stream\>) | Sets image for [XFA](./) field. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

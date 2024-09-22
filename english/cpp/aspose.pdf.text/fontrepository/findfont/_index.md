@@ -28,7 +28,9 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Enum [FontStyles](../../fontstyles/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -55,7 +57,9 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Enum [FontStyles](../../fontstyles/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -80,7 +84,9 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -105,7 +111,9 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

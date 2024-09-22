@@ -18,6 +18,7 @@ System::Nullable<int32_t> Aspose::Pdf::Facades::BDCProperties::get_MCID()
 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Class [BDCProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

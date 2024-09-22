@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> Aspose::Pdf::Devices
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

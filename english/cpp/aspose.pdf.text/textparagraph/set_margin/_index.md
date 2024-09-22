@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextParagraph::set_Margin(System::SharedPtr<MarginInfo> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../../aspose.pdf/margininfo/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

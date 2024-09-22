@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::FolderFontSource::set_FolderPath(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FolderFontSource](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

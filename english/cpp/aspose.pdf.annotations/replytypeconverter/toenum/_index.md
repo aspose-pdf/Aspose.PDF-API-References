@@ -19,6 +19,7 @@ static ReplyType Aspose::Pdf::Annotations::ReplyTypeConverter::ToEnum(System::St
 ## See Also
 
 * Enum [ReplyType](../../replytype/)
+* Class [String](../../../system/string/)
 * Class [ReplyTypeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

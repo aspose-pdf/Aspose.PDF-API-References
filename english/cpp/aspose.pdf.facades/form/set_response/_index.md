@@ -18,6 +18,8 @@ void Aspose::Pdf::Facades::Form::set_Response(System::SharedPtr<System::Web::Htt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

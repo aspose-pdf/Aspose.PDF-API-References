@@ -53,5 +53,6 @@ class Rows : public System::Collections::Generic::IEnumerable<System::SharedPtr<
 | [virtualized_iterator_element](./virtualized_iterator_element/) | Virtualized element type. |
 ## See Also
 
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

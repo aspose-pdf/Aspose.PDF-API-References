@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::MoveTextPositionSetLeading::Accept(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [MoveTextPositionSetLeading](../)
 * Namespace [Aspose::Pdf::Operators](../../)

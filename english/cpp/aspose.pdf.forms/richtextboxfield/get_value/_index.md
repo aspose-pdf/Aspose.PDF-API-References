@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Forms::RichTextBoxField::get_Value() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RichTextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -20,14 +20,9 @@ class FitBExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestina
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
 | [FitBExplicitDestination](./fitbexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Creates local explicit destination. |
 | [FitBExplicitDestination](./fitbexplicitdestination/)(System::SharedPtr\<Document\>, int32_t) | Creates remote explicit destination. |
 | [FitBExplicitDestination](./fitbexplicitdestination/)(int32_t) | Creates remote explicit destination. |
-| [get_Page](../explicitdestination/get_page/)() const | Gets the destination page object. |
-| [get_PageNumber](../explicitdestination/get_pagenumber/)() const | Gets the destination page number. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 FitB". |
 ## See Also
 

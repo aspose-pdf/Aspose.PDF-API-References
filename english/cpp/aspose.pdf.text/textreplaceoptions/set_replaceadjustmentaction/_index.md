@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextReplaceOptions::set_ReplaceAdjustmentAction(TextRepl
 
 ## See Also
 
+* Enum [ReplaceAdjustment](../replaceadjustment/)
 * Class [TextReplaceOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Field::set_AlternateName(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

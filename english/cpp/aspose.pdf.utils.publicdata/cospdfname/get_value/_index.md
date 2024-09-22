@@ -22,6 +22,7 @@ System::String Aspose::Pdf::Utils::PublicData::CosPdfName::get_Value() const
 The value.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfName](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

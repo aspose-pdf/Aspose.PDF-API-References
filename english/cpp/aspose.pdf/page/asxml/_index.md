@@ -23,6 +23,7 @@ Converted xml string.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

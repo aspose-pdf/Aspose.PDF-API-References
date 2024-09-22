@@ -24,6 +24,7 @@ void Aspose::Pdf::JavaScriptCollection::idx_set(System::String key, System::Stri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [JavaScriptCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

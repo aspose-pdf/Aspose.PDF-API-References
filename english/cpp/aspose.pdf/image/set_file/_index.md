@@ -18,6 +18,7 @@ void Aspose::Pdf::Image::set_File(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

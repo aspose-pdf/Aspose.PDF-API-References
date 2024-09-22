@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::FreeTextIntentConverter::ToXfdfS
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [FreeTextIntent](../../freetextintent/)
 * Class [FreeTextIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

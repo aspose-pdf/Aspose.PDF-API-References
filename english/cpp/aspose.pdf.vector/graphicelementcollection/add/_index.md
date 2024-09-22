@@ -23,6 +23,7 @@ void Aspose::Pdf::Vector::GraphicElementCollection::Add(const System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElement](../../graphicelement/)
 * Class [GraphicElementCollection](../)
 * Namespace [Aspose::Pdf::Vector](../../)

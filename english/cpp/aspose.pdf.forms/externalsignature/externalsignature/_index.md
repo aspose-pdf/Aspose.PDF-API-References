@@ -23,6 +23,8 @@ Aspose::Pdf::Forms::ExternalSignature::ExternalSignature(System::SharedPtr<Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
 * Class [ExternalSignature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ Aspose::Pdf::Forms::ExternalSignature::ExternalSignature(System::SharedPtr<Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
 * Class [ExternalSignature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -63,6 +67,7 @@ Aspose::Pdf::Forms::ExternalSignature::ExternalSignature(System::String base64, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ExternalSignature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

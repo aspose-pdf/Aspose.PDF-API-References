@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Collection::get_DefaultEntry()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Collection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

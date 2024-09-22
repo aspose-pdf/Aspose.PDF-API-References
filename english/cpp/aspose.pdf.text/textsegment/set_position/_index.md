@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextSegment::set_Position(System::SharedPtr<Aspose::Pdf:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

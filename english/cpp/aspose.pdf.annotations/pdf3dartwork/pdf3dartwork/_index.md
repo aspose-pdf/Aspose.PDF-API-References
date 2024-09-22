@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::PDF3DArtwork::PDF3DArtwork(System::SharedPtr<Document>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PDF3DContent](../../pdf3dcontent/)
 * Class [PDF3DArtwork](../)
@@ -48,6 +49,7 @@ Aspose::Pdf::Annotations::PDF3DArtwork::PDF3DArtwork(System::SharedPtr<Document>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PDF3DContent](../../pdf3dcontent/)
 * Class [PDF3DLightingScheme](../../pdf3dlightingscheme/)

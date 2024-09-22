@@ -24,6 +24,7 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Aspose::Pdf::Page
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ChoiceField](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -66,6 +68,7 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ChoiceField](../)

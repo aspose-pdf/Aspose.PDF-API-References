@@ -23,6 +23,7 @@ void Aspose::Pdf::Document::SetTitle(System::String title)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

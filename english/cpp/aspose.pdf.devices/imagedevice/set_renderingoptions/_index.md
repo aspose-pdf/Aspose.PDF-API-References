@@ -18,6 +18,7 @@ void Aspose::Pdf::Devices::ImageDevice::set_RenderingOptions(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::BibEntryElement](../../../aspose.pdf.log
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

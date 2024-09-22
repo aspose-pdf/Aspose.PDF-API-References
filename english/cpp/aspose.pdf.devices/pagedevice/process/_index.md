@@ -24,7 +24,9 @@ virtual void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> p
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,7 +47,9 @@ void Aspose::Pdf::Devices::PageDevice::Process(System::SharedPtr<Page> page, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [String](../../../system/string/)
 * Class [PageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

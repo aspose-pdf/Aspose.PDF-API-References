@@ -28,6 +28,7 @@ Aspose::Pdf::Annotations::TrimMarkAnnotation::TrimMarkAnnotation(System::SharedP
 This constructor creates a [TrimMarkAnnotation](../) and adds it to the specified page at the specified position. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
 * Class [TrimMarkAnnotation](../)

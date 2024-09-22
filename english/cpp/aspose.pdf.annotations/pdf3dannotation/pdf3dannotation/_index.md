@@ -25,6 +25,7 @@ Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [PDF3DArtwork](../../pdf3dartwork/)
@@ -50,6 +51,7 @@ Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [PDF3DArtwork](../../pdf3dartwork/)

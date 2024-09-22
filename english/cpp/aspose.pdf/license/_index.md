@@ -27,5 +27,6 @@ class License : public System::Object
 | [SetLicense](./setlicense/)(System::SharedPtr\<System::IO::Stream\>) | Licenses the component. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::CollectionField::get_N() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CollectionField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,6 +24,10 @@ void Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo(System::ArrayPtr<Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -45,6 +49,8 @@ void Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo(System::ArrayPtr<Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

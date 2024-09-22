@@ -18,6 +18,7 @@ System::SharedPtr<ITeXInputDirectory> Aspose::Pdf::TeXLoadOptions::get_RequiredI
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ITeXInputDirectory](../../itexinputdirectory/)
 * Class [TeXLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

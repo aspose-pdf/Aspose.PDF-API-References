@@ -18,6 +18,7 @@ System::String Aspose::Pdf::TeXLoadOptions::get_JobName() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

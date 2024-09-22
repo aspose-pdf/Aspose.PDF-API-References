@@ -23,6 +23,7 @@ null if instance is not [CosPdfString](../) else [CosPdfString](../).
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CosPdfString](../)
 * Class [CosPdfString](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)

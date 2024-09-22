@@ -23,6 +23,7 @@ void Aspose::Pdf::Page::Resize(System::SharedPtr<PageSize> targetSize)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../pagesize/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

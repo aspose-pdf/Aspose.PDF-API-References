@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Annotations::DefaultAppearance::get_TextColo
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

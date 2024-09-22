@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::CollectionItem> Aspose::Pdf::FileSpecification::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionItem](../../collectionitem/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)

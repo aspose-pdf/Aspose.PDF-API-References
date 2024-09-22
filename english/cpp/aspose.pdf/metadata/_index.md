@@ -50,5 +50,6 @@ class Metadata : public System::Collections::Generic::IDictionary<System::String
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<XmpValue\>\&) const override | Tries to find key in the dictionary and retreives value if found. |
 ## See Also
 
+* Class [IDictionary](../../system.collections.generic/idictionary/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -37,6 +37,7 @@ Aspose::Pdf::Text::TextSegment::TextSegment(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

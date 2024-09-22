@@ -28,6 +28,7 @@ Corresponding [PrintScaling](../../printscaling/) value.
 ## See Also
 
 * Enum [PrintScaling](../../printscaling/)
+* Class [String](../../../system/string/)
 * Class [PrintScalingConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

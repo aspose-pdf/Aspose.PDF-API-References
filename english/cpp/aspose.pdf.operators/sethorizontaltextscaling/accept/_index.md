@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetHorizontalTextScaling::Accept(System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetHorizontalTextScaling](../)
 * Namespace [Aspose::Pdf::Operators](../../)

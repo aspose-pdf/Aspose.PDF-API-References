@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::ImportBookmarksWithXML(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::ImportBookmarksWithXML(System::Str
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

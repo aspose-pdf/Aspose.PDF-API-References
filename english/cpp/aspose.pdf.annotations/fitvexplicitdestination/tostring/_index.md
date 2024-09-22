@@ -23,6 +23,7 @@ String value representing object state.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FitVExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

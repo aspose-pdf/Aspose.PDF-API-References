@@ -23,6 +23,7 @@ Aspose::Pdf::TeXFragment::TeXFragment(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::TeXFragment::TeXFragment(System::String text, bool removeIndents)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

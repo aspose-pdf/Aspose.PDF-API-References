@@ -28,6 +28,7 @@ true if field was found and submit flag was successfully set.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [SubmitFormFlag](../../submitformflag/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

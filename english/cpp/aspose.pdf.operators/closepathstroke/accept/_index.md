@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::ClosePathStroke::Accept(System::SharedPtr<IOperator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [ClosePathStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)

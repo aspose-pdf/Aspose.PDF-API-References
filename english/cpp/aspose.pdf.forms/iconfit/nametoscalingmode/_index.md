@@ -28,6 +28,7 @@ Scaling mode object.
 ## See Also
 
 * Enum [ScalingMode](../../scalingmode/)
+* Class [String](../../../system/string/)
 * Class [IconFit](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

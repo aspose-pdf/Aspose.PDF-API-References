@@ -23,6 +23,8 @@ void Aspose::Pdf::Document::BindXml(System::SharedPtr<System::IO::Stream> stream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::Document::BindXml(System::SharedPtr<System::IO::Stream> xmlStr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,6 +68,9 @@ void Aspose::Pdf::Document::BindXml(System::SharedPtr<System::IO::Stream> xmlStr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [XmlReaderSettings](../../../system.xml/xmlreadersettings/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -83,6 +90,7 @@ void Aspose::Pdf::Document::BindXml(System::String file)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -103,6 +111,7 @@ void Aspose::Pdf::Document::BindXml(System::String xmlFile, System::String xslFi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

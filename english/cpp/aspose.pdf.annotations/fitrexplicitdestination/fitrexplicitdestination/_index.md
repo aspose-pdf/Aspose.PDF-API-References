@@ -50,6 +50,7 @@ Aspose::Pdf::Annotations::FitRExplicitDestination::FitRExplicitDestination(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [FitRExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -78,6 +79,7 @@ Use constructor without Document argument.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [FitRExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

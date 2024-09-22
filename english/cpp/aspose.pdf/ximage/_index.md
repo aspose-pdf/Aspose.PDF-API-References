@@ -42,5 +42,6 @@ class XImage : public System::Object
 | [ToStream](./tostream/)() | Returns the original image stream. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

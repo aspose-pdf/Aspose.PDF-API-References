@@ -18,6 +18,8 @@ static System::String Aspose::Pdf::XmpValue::to_String(System::SharedPtr<XmpValu
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)

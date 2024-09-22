@@ -18,6 +18,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearanceStream(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

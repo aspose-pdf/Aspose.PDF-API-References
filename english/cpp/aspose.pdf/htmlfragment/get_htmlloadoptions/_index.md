@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::HtmlLoadOptions> & Aspose::Pdf::HtmlFragmen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HtmlLoadOptions](../../htmlloadoptions/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)

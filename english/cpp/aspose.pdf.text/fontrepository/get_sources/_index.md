@@ -18,6 +18,7 @@ static System::SharedPtr<FontSourceCollection> Aspose::Pdf::Text::FontRepository
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSourceCollection](../../fontsourcecollection/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)

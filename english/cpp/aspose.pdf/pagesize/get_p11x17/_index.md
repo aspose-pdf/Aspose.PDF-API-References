@@ -18,6 +18,7 @@ static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_P11x17()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../)
 * Class [PageSize](../)
 * Namespace [Aspose::Pdf](../../)

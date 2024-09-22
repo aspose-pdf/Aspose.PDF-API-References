@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::StructureAttribute::SetColorValue(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

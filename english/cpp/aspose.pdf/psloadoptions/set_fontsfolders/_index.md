@@ -18,6 +18,8 @@ void Aspose::Pdf::PsLoadOptions::set_FontsFolders(System::ArrayPtr<System::Strin
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PsLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<XF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

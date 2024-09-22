@@ -31,13 +31,7 @@ class PdfFileMend : public Aspose::Pdf::Facades::SaveableFacade
 | [AddText](./addtext/)(System::SharedPtr\<FormattedText\>, int32_t, float, float) | Not implemented. |
 | [AddText](./addtext/)(System::SharedPtr\<FormattedText\>, int32_t, float, float, float, float) | Not implemented. |
 | [AddText](./addtext/)(System::SharedPtr\<FormattedText\>, System::ArrayPtr\<int32_t\>, float, float, float, float) | Not implemented. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Closes [PdfFileMend](./) object. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_InputFile](./get_inputfile/)() const | Sets the input file. |
 | [get_InputStream](./get_inputstream/)() const | Sets the input stream. |
 | [get_OutputFile](./get_outputfile/)() const | Sets the output file. |

@@ -26,20 +26,13 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | [Add](./add/)(const System::String\&, const System::SharedPtr\<XmpValue\>\&) override | Adds new element to the dictionary object. |
 | [Add](./add/)(const System::String\&, const System::SharedPtr\<System::Object\>\&) | Adds new element to the dictionary object. |
 | [Add](./add/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Adds pair with key and value into the dictionary. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Clear](./clear/)() override | Removes all elements from the object. |
-| [Close](../facade/close/)() override | Disposes [Aspose.Pdf.Document](../../aspose.pdf/document/) bound with a facade. |
 | [Contains](./contains/)(const System::String\&) const | Checks if dictionary contains the specified key. |
 | [Contains](./contains/)(const DefaultMetadataProperties\&) const | Checks if dictionary contains the specified property. |
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) const override | Checks does specified key-value pair is contained in the dictionary. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines does this dictionary contasins specified key. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\>, int32_t) override | Copy metadata into array. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [get_Count](./get_count/)() const override | Gets count if items in the collection. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_ExtensionFields](./get_extensionfields/)() | Gets the dictionary of extension fields. |
 | [get_IsFixedSize](./get_isfixedsize/)() const | Returns true is collection has fixed size. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Returns true if collection is read-only. |
@@ -59,12 +52,11 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | [Remove](./remove/)(DefaultMetadataProperties) | Removes element with specified key. |
 | [Remove](./remove/)(const System::String\&) override | Removes key from the dictionary. |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Removes key/value pair from the collection. |
-| [Save](../saveablefacade/save/)(System::String) override | Saves the PDF document to the specified file. |
-| [Save](../saveablefacade/save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified stream. |
 | [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<XmpValue\>\&) const override | Tries to find key in the dictionary and retreives value if found. |
 ## See Also
 
 * Class [SaveableFacade](../saveablefacade/)
+* Class [IDictionary](../../system.collections.generic/idictionary/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

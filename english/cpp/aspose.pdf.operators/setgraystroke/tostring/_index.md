@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetGrayStroke::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetGrayStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

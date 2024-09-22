@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextFragments(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragmentCollection](../../textfragmentcollection/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

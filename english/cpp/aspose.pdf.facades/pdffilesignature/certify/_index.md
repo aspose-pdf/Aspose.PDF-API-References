@@ -29,6 +29,9 @@ void Aspose::Pdf::Facades::PdfFileSignature::Certify(int32_t page, System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -50,6 +53,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::Certify(System::String sigName, Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)

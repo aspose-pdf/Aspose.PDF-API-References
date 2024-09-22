@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::BindPdf(System::SharedPtr<System::I
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::BindPdf(System::String inputFile) o
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

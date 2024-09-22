@@ -79,5 +79,6 @@ class StructureTypeStandard : public System::Object
 | static [WT](./wt/) | (Warichu text) The smaller-size text of a warichu comment that is formatted into two lines and placed between surrounding WP elements. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

@@ -21,6 +21,7 @@ System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextFragment::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

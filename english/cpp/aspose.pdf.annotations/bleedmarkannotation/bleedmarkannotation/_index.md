@@ -28,6 +28,7 @@ Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation(System::Share
 This constructor creates a [BleedMarkAnnotation](../) and adds it to the specified page at the specified position. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
 * Class [BleedMarkAnnotation](../)

@@ -27,6 +27,7 @@ Retreived field.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -51,7 +52,9 @@ Retreived field.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

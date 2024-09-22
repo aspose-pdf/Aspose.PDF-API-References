@@ -27,6 +27,7 @@ Result is instance of [PageSize](../../../aspose.pdf/pagesize/). Use Width and H
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

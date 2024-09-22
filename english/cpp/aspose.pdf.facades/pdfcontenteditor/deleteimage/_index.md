@@ -38,6 +38,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::DeleteImage(int32_t pageNumber, Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

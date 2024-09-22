@@ -20,7 +20,6 @@ class LocalHyperlink : public Aspose::Pdf::Hyperlink
 
 | Method | Description |
 | --- | --- |
-| [cpp_set_link_element_to_weak](../hyperlink/cpp_set_link_element_to_weak/)() |  |
 | [get_Target](./get_target/)() const | Gets the target paragraph. |
 | [get_TargetPageNumber](./get_targetpagenumber/)() const | Gets the target page number. |
 | [LocalHyperlink](./localhyperlink/)() | Initializes a new instance of the [LocalHyperlink](./) class. |

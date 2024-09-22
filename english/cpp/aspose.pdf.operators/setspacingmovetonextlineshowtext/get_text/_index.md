@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::get_Tex
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetSpacingMoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

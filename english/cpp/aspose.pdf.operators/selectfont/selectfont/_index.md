@@ -24,6 +24,7 @@ Aspose::Pdf::Operators::SelectFont::SelectFont(System::String resName, double si
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SelectFont](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

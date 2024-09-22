@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::LinkAnnotation::set_Action(System::SharedPtr<PdfA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [LinkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

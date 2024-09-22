@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::FormEditor::CopyInnerField(System::String fieldName, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -48,6 +49,7 @@ void Aspose::Pdf::Facades::FormEditor::CopyInnerField(System::String fieldName, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

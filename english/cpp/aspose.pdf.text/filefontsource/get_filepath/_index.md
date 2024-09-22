@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::FileFontSource::get_FilePath() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileFontSource](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

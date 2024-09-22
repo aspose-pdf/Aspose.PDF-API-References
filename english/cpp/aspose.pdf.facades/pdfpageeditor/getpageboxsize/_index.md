@@ -28,6 +28,8 @@ System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize(i
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

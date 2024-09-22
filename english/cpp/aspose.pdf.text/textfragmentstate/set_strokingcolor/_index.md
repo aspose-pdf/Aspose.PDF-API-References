@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentState::set_StrokingColor(System::SharedPtr<C
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)

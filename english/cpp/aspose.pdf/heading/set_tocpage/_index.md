@@ -18,6 +18,7 @@ void Aspose::Pdf::Heading::set_TocPage(System::SharedPtr<Aspose::Pdf::Page> valu
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Heading](../)
 * Namespace [Aspose::Pdf](../../)

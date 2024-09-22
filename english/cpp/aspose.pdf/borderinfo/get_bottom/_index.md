@@ -18,6 +18,7 @@ const System::SharedPtr<GraphInfo> & Aspose::Pdf::BorderInfo::get_Bottom() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphInfo](../../graphinfo/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)

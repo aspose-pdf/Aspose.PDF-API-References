@@ -25,7 +25,9 @@ void Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::Compare
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
 * Class [GraphicalPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)
 * Library [Aspose.PDF for C++](../../../)

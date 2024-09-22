@@ -18,6 +18,8 @@ System::SharedPtr<System::Xml::Xsl::XsltArgumentList> Aspose::Pdf::XslFoLoadOpti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XsltArgumentList](../../../system.xml.xsl/xsltargumentlist/)
 * Class [XslFoLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

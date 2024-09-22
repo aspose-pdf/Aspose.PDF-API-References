@@ -24,6 +24,8 @@ Aspose::Pdf::Artifact::Artifact(Artifact::ArtifactType type, Artifact::ArtifactS
 
 ## See Also
 
+* Enum [ArtifactType](../artifacttype/)
+* Enum [ArtifactSubtype](../artifactsubtype/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,7 @@ Aspose::Pdf::Artifact::Artifact(System::String type, System::String subType)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

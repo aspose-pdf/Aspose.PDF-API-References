@@ -18,6 +18,8 @@ void Aspose::Pdf::FileSpecification::set_Contents(System::SharedPtr<System::IO::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

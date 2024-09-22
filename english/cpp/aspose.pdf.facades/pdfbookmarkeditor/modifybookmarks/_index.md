@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::ModifyBookmarks(System::String sTi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

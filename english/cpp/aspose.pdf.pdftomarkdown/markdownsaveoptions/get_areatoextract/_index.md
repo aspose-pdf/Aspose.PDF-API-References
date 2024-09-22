@@ -18,6 +18,7 @@ const System::SharedPtr<Rectangle> & Aspose::Pdf::PdfToMarkdown::MarkdownSaveOpt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)

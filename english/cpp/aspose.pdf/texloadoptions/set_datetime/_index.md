@@ -18,6 +18,7 @@ void Aspose::Pdf::TeXLoadOptions::set_DateTime(System::DateTime value)
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [TeXLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

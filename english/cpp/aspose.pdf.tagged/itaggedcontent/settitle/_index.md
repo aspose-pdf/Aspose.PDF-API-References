@@ -27,6 +27,7 @@ Sets title for PDF document.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::FileAttachmentAnnotation::Accept(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [FileAttachmentAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Operators::BMC::set_Tag(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BMC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

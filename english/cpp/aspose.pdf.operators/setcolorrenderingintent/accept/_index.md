@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetColorRenderingIntent::Accept(System::SharedPtr<I
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetColorRenderingIntent](../)
 * Namespace [Aspose::Pdf::Operators](../../)

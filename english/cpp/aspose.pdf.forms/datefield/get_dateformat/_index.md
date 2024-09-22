@@ -22,6 +22,7 @@ System::String Aspose::Pdf::Forms::DateField::get_DateFormat() const
 The date format. Default dd/MM/yyyy 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

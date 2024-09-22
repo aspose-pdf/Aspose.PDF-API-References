@@ -23,6 +23,8 @@ void Aspose::Pdf::Text::Font::Save(System::SharedPtr<System::IO::Stream> stream)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Font](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

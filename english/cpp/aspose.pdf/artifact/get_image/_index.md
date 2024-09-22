@@ -18,6 +18,7 @@ System::SharedPtr<XImage> Aspose::Pdf::Artifact::get_Image()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

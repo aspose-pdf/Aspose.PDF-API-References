@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::Form::FlattenField(System::String fieldName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

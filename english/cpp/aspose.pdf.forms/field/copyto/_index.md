@@ -27,6 +27,8 @@ Use CopyTo(WidgetAnnotation[], index) instead.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

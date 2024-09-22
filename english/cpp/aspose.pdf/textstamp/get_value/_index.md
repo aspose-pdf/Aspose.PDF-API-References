@@ -18,6 +18,7 @@ System::String Aspose::Pdf::TextStamp::get_Value()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

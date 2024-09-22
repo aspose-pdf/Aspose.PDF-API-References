@@ -27,7 +27,9 @@ System::SharedPtr<XForm> Aspose::Pdf::Annotations::AppearanceDictionary::idx_get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
+* Class [String](../../../system/string/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

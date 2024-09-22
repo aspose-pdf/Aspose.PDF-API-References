@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Annotations::FreeTextAnn
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

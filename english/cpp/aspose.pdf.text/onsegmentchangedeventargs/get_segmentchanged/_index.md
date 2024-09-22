@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Engine::CommonData::Text::Segmenting::PhysicalTex
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OnSegmentChangedEventArgs](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

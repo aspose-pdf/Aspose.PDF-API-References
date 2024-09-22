@@ -23,5 +23,6 @@ class Hyperlink : public System::Object
 | [cpp_set_link_element_to_weak](./cpp_set_link_element_to_weak/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

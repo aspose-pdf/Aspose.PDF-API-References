@@ -68,5 +68,6 @@ class TextState : public System::Object
 | [TextState](./textstate/)(System::String, double) | Creates text state object with font family and font size specification. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

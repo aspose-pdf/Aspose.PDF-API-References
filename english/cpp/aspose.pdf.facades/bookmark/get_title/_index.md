@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::Bookmark::get_Title() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Bookmark](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

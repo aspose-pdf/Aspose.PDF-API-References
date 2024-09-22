@@ -24,7 +24,6 @@ class Facade : public virtual Aspose::Pdf::Facades::IFacade,
 | [BindPdf](./bindpdf/)(System::String) override | Initializes the facade. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Disposes [Aspose.Pdf.Document](../../aspose.pdf/document/) bound with a facade. |
 | [Dispose](./dispose/)() override | Disposes the facade. |
 | [get_Document](./get_document/)() const | Gets the document facade is working on. |

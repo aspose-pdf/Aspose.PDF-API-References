@@ -18,6 +18,8 @@ System::SharedPtr<System::Drawing::Image> Aspose::Pdf::XImage::get_Grayscaled()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::DocumentInfo::set_Subject(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

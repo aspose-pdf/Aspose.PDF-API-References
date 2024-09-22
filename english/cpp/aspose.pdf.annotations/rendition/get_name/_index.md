@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::Rendition::get_Name()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Rendition](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

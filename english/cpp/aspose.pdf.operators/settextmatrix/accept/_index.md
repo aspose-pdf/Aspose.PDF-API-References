@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetTextMatrix::Accept(System::SharedPtr<IOperatorSe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetTextMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)

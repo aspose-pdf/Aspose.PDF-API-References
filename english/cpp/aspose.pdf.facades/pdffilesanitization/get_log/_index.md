@@ -18,6 +18,9 @@ System::SharedPtr<System::Collections::Generic::List<System::String>> Aspose::Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [String](../../../system/string/)
 * Class [PdfFileSanitization](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

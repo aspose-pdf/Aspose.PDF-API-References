@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::Form::MakeFormAnnotationsIndependent(System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

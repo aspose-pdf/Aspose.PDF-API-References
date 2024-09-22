@@ -23,6 +23,8 @@ virtual void Aspose::Pdf::Facades::ISaveableFacade::Save(System::SharedPtr<Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ISaveableFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ virtual void Aspose::Pdf::Facades::ISaveableFacade::Save(System::String destFile
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ISaveableFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ virtual System::ArrayPtr<System::String> Aspose::Pdf::INamedDestinationCollectio
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [INamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

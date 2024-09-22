@@ -28,6 +28,7 @@ Scaling reason object.
 ## See Also
 
 * Enum [ScalingReason](../../scalingreason/)
+* Class [String](../../../system/string/)
 * Class [IconFit](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::BLSTextElement::SetText(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BLSTextElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

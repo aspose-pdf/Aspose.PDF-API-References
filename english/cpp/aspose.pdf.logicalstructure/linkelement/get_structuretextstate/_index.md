@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTextState> Aspose::Pdf
 [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for current element.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTextState](../../structuretextstate/)
 * Class [LinkElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

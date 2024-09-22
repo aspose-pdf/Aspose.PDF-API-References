@@ -28,6 +28,9 @@ true if the value is successfully retrieved; otherwise, false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Value](../value/)
 * Class [CollectionItem](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

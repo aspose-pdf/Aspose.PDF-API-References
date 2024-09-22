@@ -23,6 +23,7 @@ Aspose::Pdf::Text::FileFontSource::FileFontSource(System::String filePath)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileFontSource](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

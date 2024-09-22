@@ -16,6 +16,11 @@ Represents text extraction options.
 class TextExtractionOptions : public Aspose::Pdf::Text::TextOptions
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [TextFormattingMode](./textformattingmode/) | Defines different modes which can be used while converting pdf document into text. See [TextDevice](../) class. |
 ## Methods
 
 | Method | Description |

@@ -18,6 +18,7 @@ static System::SharedPtr<PdfFormatConversionOptions> Aspose::Pdf::PdfFormatConve
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfFormatConversionOptions](../)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

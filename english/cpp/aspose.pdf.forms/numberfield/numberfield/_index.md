@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::NumberField::NumberField(System::SharedPtr<Aspose::Pdf::Page
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [NumberField](../)
@@ -60,6 +61,7 @@ Aspose::Pdf::Forms::NumberField::NumberField(System::SharedPtr<Document> doc, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [NumberField](../)

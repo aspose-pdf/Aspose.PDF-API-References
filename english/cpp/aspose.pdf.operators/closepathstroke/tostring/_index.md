@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::ClosePathStroke::ToString() const overrid
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ClosePathStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

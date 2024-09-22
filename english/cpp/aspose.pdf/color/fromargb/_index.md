@@ -30,6 +30,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromArgb(int32_t a, int32_t 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
@@ -56,6 +57,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromArgb(int32_t r, int32_t 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

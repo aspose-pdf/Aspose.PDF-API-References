@@ -16,6 +16,14 @@ Descubes options of text edit operations.
 class TextEditOptions : public Aspose::Pdf::Text::TextOptions
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [ClippingPathsProcessingMode](./clippingpathsprocessingmode/) | Clipping path processing modes. |
+| [FontReplace](./fontreplace/) | [Font](../font/) replacement behavior. |
+| [LanguageTransformation](./languagetransformation/) | Language transformation modes. |
+| [NoCharacterAction](./nocharacteraction/) | Action to perform if font does not contain required character. |
 ## Methods
 
 | Method | Description |

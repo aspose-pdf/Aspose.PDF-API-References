@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XmpPdfAExtensionObject::get_Description() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionObject](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstituti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFontSubstitutionRegistrator](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +46,7 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstituti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFontSubstitutionRegistrator](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,5 +29,6 @@ class BDCProperties : public System::Object
 | [set_Lang](./set_lang/)(System::String) | Gets/sets Language value. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

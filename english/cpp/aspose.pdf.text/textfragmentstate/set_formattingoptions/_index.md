@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentState::set_FormattingOptions(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFormattingOptions](../../textformattingoptions/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)

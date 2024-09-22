@@ -18,6 +18,7 @@ void Aspose::Pdf::Table::set_DefaultCellPadding(System::SharedPtr<MarginInfo> va
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../margininfo/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

@@ -25,10 +25,7 @@ class CosPdfBoolean : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
 | [get_Value](./get_value/)() const | Gets the value. |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |
 | [ToCosPdfBoolean](./tocospdfboolean/)() override | Tries cast this instance to [CosPdfBoolean](./). |
-| [ToCosPdfName](../cospdfprimitive/tocospdfname/)() override | Tries cast this instance to [CosPdfName](../cospdfname/). |
-| [ToCosPdfNumber](../cospdfprimitive/tocospdfnumber/)() override | Tries cast this instance to [CosPdfNumber](../cospdfnumber/). |
-| [ToCosPdfString](../cospdfprimitive/tocospdfstring/)() override | Tries cast this instance to [CosPdfString](../cospdfstring/). |
-| [ToString](./tostring/)() const override | Returns a **System::String** that represents the current [CosPdfBoolean](./). |
+| [ToString](./tostring/)() const override | Returns a [System::String](../../system/string/) that represents the current [CosPdfBoolean](./). |
 ## See Also
 
 * Class [CosPdfPrimitive](../cospdfprimitive/)

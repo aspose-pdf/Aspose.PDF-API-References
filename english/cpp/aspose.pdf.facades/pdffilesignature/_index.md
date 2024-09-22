@@ -22,18 +22,14 @@ class PdfFileSignature : public Aspose::Pdf::Facades::SaveableFacade
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::String) override | Binds a [Pdf](../../aspose.pdf/) file for editing. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds a [Pdf](../../aspose.pdf/) stream for editing. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Certify](./certify/)(int32_t, System::String, System::String, System::String, bool, System::Drawing::Rectangle, System::SharedPtr\<Aspose::Pdf::Forms::DocMDPSignature\>) | Certify the document with the MDP signature. Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig. |
 | [Certify](./certify/)(System::String, System::SharedPtr\<Aspose::Pdf::Forms::DocMDPSignature\>) | Certify the document with the MDP signature which is placed in already presented signature field. Before signing signature field must be empty, i.e. field must not contain signature dictionary. Thus pdf document already has signature field, you should not supply the place to stamp the signature, corresponding page and rectangle are taken from signature field which is found by signature name (see sigName parameter). |
 | [Close](./close/)() override | Closes the facade. |
 | [ContainsSignature](./containssignature/)() | Checks if the pdf has a digital signature or not. |
 | [ContainsUsageRights](./containsusagerights/)() | Checks if the pdf has a usage rights or not. |
 | [CoversWholeDocument](./coverswholedocument/)(System::String) | Checks if the signature covers the whole document. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [ExtractCertificate](./extractcertificate/)(System::String) | Extracts signature's single X.509 certificate as a stream. |
 | [ExtractImage](./extractimage/)(System::String) | Extracts signature's image. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_IsCertified](./get_iscertified/)() | Gets the flag determining whether a document is certified or not. |
 | [get_IsLtvEnabled](./get_isltvenabled/)() | Gets the LTV enabled flag. |
 | [get_SignatureAppearance](./get_signatureappearance/)() const | Sets or gets a graphic appearance for the signature. Property value represents image file name. |

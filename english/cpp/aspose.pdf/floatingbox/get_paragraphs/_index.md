@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Paragraphs> Aspose::Pdf::FloatingBox::get_Paragra
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

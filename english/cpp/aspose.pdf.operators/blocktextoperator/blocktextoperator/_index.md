@@ -37,6 +37,7 @@ Aspose::Pdf::Operators::BlockTextOperator::BlockTextOperator(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * Class [BlockTextOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)

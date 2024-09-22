@@ -29,5 +29,6 @@ class TextExtractionError : public System::Object
 | [ToString](./tostring/)() const override | Returns string representation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

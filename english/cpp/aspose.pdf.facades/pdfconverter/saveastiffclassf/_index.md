@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,6 +68,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -84,6 +90,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::String outputF
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -105,6 +112,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::String outputF
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -125,6 +133,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFFClassF(System::String outputF
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)

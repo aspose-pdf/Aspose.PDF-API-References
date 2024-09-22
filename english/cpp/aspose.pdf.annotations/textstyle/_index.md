@@ -33,5 +33,6 @@ class TextStyle : public System::Object
 | [ToString](./tostring/)() const override | String representation of [TextStyle](./). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

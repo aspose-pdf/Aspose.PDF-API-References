@@ -18,5 +18,6 @@ class IInterruptMonitor : public System::IDisposable
 
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Multithreading](../)
 * Library [Aspose.PDF for C++](../../)

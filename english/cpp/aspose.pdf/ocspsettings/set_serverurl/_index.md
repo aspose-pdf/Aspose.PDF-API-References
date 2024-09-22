@@ -18,6 +18,7 @@ void Aspose::Pdf::OcspSettings::set_ServerUrl(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [OcspSettings](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

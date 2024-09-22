@@ -27,6 +27,7 @@ True - if rectangle found; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

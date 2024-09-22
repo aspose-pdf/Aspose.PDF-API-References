@@ -19,6 +19,7 @@ static PageLayout Aspose::Pdf::PageLayoutConverter::ToEnum(System::String value)
 ## See Also
 
 * Enum [PageLayout](../../pagelayout/)
+* Class [String](../../../system/string/)
 * Class [PageLayoutConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

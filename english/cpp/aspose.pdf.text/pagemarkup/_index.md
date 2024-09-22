@@ -29,5 +29,6 @@ class PageMarkup : public System::Object
 | [set_IsMulticolumnParagraphsAllowed](./set_ismulticolumnparagraphsallowed/)(bool) | Sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

@@ -25,5 +25,6 @@ class IIndexBitmapConverter : public virtual System::Object
 | virtual [Get8BppImage](./get8bppimage/)(System::SharedPtr\<System::Drawing::Bitmap\>) | Returns 8Bpp bitmap representation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

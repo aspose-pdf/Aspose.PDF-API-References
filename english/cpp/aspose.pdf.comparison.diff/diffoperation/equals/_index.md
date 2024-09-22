@@ -18,6 +18,7 @@ bool Aspose::Pdf::Comparison::Diff::DiffOperation::Equals(System::SharedPtr<Diff
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DiffOperation](../)
 * Class [DiffOperation](../)
 * Namespace [Aspose::Pdf::Comparison::Diff](../../)
@@ -33,6 +34,8 @@ bool Aspose::Pdf::Comparison::Diff::DiffOperation::Equals(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [DiffOperation](../)
 * Namespace [Aspose::Pdf::Comparison::Diff](../../)
 * Library [Aspose.PDF for C++](../../../)

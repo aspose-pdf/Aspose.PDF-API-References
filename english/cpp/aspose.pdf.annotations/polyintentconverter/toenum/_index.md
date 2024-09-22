@@ -19,6 +19,7 @@ static PolyIntent Aspose::Pdf::Annotations::PolyIntentConverter::ToEnum(System::
 ## See Also
 
 * Enum [PolyIntent](../../polyintent/)
+* Class [String](../../../system/string/)
 * Class [PolyIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ System::String Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::get_Owner(
 Attribute Owner.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AttributeOwnerStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

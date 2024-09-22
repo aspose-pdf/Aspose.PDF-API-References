@@ -33,6 +33,9 @@ True for success, or false.
 The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,10 @@ true if operation completed successfully; otherwise, false.
 The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -92,6 +99,7 @@ True for success, or false.
 The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -121,6 +129,10 @@ true if operation completed successfully; otherwise, false.
 The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -151,6 +163,8 @@ The TryExtract method is like the Extract method, except the TryExtract method d
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

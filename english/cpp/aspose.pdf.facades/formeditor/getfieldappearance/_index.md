@@ -28,6 +28,7 @@ Set of field flags
 ## See Also
 
 * Enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

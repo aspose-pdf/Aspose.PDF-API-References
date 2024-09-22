@@ -22,6 +22,7 @@ Please us TeXLoadOptionsOfInstance instead.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TeXLoadOptions](../../texloadoptions/)
 * Class [TeXFragment](../)
 * Namespace [Aspose::Pdf](../../)

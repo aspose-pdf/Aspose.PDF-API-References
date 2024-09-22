@@ -27,6 +27,7 @@ System::SharedPtr<PDF3DView> Aspose::Pdf::Annotations::PDF3DViewArray::idx_get(i
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DView](../../pdf3dview/)
 * Class [PDF3DViewArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

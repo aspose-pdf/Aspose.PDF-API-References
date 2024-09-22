@@ -26,6 +26,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawi
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -49,6 +51,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawi
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -73,6 +78,12 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawi
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BoxedValueBase](../../../system/boxedvaluebase/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

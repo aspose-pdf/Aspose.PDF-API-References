@@ -32,5 +32,6 @@ class IPdfTypeExtractor : public Aspose::Pdf::GroupProcessor::IDocumentTextExtra
 
 * Class [IDocumentTextExtractor](../idocumenttextextractor/)
 * Class [IDocumentPageTextExtractor](../idocumentpagetextextractor/)
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::GroupProcessor](../)
 * Library [Aspose.PDF for C++](../../)

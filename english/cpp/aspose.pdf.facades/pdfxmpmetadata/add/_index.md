@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const DefaultMetadataProperties &
 ## See Also
 
 * Enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -45,6 +46,9 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::Collections::Generi
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -66,6 +70,9 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::String &key, const 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -86,6 +93,8 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::String &key, const 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -109,7 +118,9 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(System::SharedPtr<XmpPdfAExtensio
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* Class [String](../../../system/string/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

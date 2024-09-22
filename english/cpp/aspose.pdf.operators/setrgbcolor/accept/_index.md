@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetRGBColor::Accept(System::SharedPtr<IOperatorSele
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetRGBColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)

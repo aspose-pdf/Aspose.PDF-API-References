@@ -18,6 +18,7 @@ Aspose::Pdf::LogicalStructure::ElementListImplementation::ElementListImplementat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../../element/)
 * Class [ElementListImplementation](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

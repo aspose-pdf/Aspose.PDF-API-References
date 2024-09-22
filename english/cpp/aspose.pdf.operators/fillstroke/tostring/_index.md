@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::FillStroke::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FillStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

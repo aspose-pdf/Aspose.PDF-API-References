@@ -27,6 +27,7 @@ bool Aspose::Pdf::PageCollection::Contains(const System::SharedPtr<Page> &item) 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)

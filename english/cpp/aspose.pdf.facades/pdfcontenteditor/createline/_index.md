@@ -34,6 +34,10 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLine(System::Drawing::Rectang
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

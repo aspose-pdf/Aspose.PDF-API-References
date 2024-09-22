@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetWordSpacing::Accept(System::SharedPtr<IOperatorS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetWordSpacing](../)
 * Namespace [Aspose::Pdf::Operators](../../)

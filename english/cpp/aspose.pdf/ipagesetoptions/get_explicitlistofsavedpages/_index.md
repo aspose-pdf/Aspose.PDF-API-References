@@ -18,6 +18,7 @@ virtual System::ArrayPtr<int32_t> Aspose::Pdf::IPageSetOptions::get_ExplicitList
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [IPageSetOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

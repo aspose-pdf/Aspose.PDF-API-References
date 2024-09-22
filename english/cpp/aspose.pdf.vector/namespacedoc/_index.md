@@ -18,5 +18,6 @@ class NamespaceDoc : public System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Vector](../)
 * Library [Aspose.PDF for C++](../../)

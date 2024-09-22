@@ -37,6 +37,8 @@ Aspose::Pdf::XmlLoadOptions::XmlLoadOptions(System::SharedPtr<System::IO::Stream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -56,6 +58,7 @@ Aspose::Pdf::XmlLoadOptions::XmlLoadOptions(System::String xslFile)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

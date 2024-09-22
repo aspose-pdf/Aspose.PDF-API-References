@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::LineIntentConverter::ToXfdfStrin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [LineIntent](../../lineintent/)
 * Class [LineIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

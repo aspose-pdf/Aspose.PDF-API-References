@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::StructureElement::ChangeParentElement(System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureElement](../)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

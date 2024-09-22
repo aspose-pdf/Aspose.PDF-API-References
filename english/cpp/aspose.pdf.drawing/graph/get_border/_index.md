@@ -18,6 +18,7 @@ System::SharedPtr<BorderInfo> Aspose::Pdf::Drawing::Graph::get_Border() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../../aspose.pdf/borderinfo/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

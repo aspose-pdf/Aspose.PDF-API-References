@@ -19,7 +19,7 @@ bool Aspose::Pdf::Text::SystemFontSource::Equals(System::SharedPtr<System::Objec
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | System::SharedPtr\<System::Object\> | **System** font source object which will be compared. |
+| obj | System::SharedPtr\<System::Object\> | [System](../../../system/) font source object which will be compared. |
 
 ### ReturnValue
 
@@ -27,6 +27,8 @@ True if both objects are system font sources, false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [SystemFontSource](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

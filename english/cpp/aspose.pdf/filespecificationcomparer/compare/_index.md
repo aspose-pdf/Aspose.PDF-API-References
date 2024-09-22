@@ -28,6 +28,7 @@ A value indicating the relative order of the file specifications.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [FileSpecificationComparer](../)
 * Namespace [Aspose::Pdf](../../)

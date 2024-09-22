@@ -25,6 +25,7 @@ Aspose::Pdf::WarningInfo::WarningInfo(WarningType type, System::String message)
 ## See Also
 
 * Enum [WarningType](../../warningtype/)
+* Class [String](../../../system/string/)
 * Class [WarningInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

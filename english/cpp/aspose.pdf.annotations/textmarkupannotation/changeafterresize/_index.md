@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::TextMarkupAnnotation::ChangeAfterResize(System::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [TextMarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

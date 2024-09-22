@@ -24,6 +24,8 @@ void Aspose::Pdf::Facades::FormEditor::AddListItem(System::String fieldName, Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,7 @@ void Aspose::Pdf::Facades::FormEditor::AddListItem(System::String fieldName, Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

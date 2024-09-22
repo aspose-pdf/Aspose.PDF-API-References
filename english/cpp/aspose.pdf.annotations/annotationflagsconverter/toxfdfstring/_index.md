@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::AnnotationFlagsConverter::ToXfdf
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [AnnotationFlags](../../annotationflags/)
 * Class [AnnotationFlagsConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

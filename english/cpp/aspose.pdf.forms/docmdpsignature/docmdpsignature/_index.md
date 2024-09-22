@@ -24,6 +24,7 @@ Aspose::Pdf::Forms::DocMDPSignature::DocMDPSignature(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../signature/)
 * Enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
 * Class [DocMDPSignature](../)

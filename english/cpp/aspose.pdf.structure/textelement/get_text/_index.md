@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Structure::TextElement::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextElement](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

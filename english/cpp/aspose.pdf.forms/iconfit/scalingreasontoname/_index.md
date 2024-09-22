@@ -27,6 +27,7 @@ Name of scaling reasong.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ScalingReason](../../scalingreason/)
 * Class [IconFit](../)
 * Namespace [Aspose::Pdf::Forms](../../)

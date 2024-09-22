@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::DocumentActionCollection::DocumentActionCollection(Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [DocumentActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

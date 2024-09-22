@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Forms::ButtonField::get_AlternateCaption()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

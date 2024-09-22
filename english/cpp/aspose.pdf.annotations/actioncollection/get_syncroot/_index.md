@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Annotations::ActionCollection::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [ActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

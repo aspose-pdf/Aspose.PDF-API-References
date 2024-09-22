@@ -37,6 +37,7 @@ Aspose::Pdf::CgmLoadOptions::CgmLoadOptions(System::Drawing::SizeF pageSize)
 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
 * Class [CgmLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -96,5 +96,6 @@ class AttributeName : public System::Object
 | static [WritingMode_TbRl](./writingmode_tbrl/) | Attribute WritingMode: TbRl - Inline progression from top to bottom; block progression from right to left. This is the typical writing mode for Chinese and Japanese writing systems. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

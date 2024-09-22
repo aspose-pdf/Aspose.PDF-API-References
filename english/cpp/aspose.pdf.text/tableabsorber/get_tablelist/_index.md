@@ -18,6 +18,8 @@ virtual System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [AbsorbedTable](../../absorbedtable/)
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

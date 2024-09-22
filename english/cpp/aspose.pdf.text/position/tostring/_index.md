@@ -23,6 +23,7 @@ String representration of the [Position](../) object.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Position](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

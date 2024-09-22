@@ -23,6 +23,7 @@ String representation.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

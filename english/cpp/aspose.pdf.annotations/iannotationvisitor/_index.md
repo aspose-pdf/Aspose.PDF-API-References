@@ -46,5 +46,6 @@ class IAnnotationVisitor : public virtual System::Object
 | virtual [Visit](./visit/)(System::SharedPtr\<PageInformationAnnotation\>) | Visit/select a page information annotation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

@@ -24,5 +24,6 @@ class Id : public System::Object
 | [get_Original](./get_original/)() const | Permanent identifier based on the contents of the document at the time it was originally created. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

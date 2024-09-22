@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfExtractor::PdfExtractor(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

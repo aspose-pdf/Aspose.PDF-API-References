@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetLineCap::Accept(System::SharedPtr<IOperatorSelec
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetLineCap](../)
 * Namespace [Aspose::Pdf::Operators](../../)

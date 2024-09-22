@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::ReplaceImage(int32_t pageNumber, in
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

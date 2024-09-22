@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::LogicalStructure::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [TableTRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

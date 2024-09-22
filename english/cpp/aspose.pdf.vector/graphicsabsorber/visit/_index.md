@@ -23,6 +23,7 @@ void Aspose::Pdf::Vector::GraphicsAbsorber::Visit(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [GraphicsAbsorber](../)
 * Namespace [Aspose::Pdf::Vector](../../)

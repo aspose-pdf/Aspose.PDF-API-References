@@ -26,5 +26,6 @@ class GlyphPosition : public System::Object
 | [GlyphPosition](./glyphposition/)(System::String) | Constructor for Glyph Position. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Operators](../)
 * Library [Aspose.PDF for C++](../../)

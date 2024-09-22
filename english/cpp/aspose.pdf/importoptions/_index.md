@@ -23,5 +23,6 @@ class ImportOptions : public System::Object
 | [get_ImportFormat](./get_importformat/)() const | Import format. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

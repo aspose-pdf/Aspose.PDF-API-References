@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::LinkElement::SetText(System::String text) ov
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [LinkElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

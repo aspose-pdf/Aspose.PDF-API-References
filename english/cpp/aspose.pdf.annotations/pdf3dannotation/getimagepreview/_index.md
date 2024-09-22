@@ -23,6 +23,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::PDF3DAnnotation:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

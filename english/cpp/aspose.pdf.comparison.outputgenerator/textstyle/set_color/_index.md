@@ -18,6 +18,7 @@ void Aspose::Pdf::Comparison::OutputGenerator::TextStyle::set_Color(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

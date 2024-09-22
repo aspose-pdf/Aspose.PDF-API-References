@@ -19,6 +19,7 @@ static BorderStyle Aspose::Pdf::Annotations::BorderStyleConverter::ToEnum(System
 ## See Also
 
 * Enum [BorderStyle](../../borderstyle/)
+* Class [String](../../../system/string/)
 * Class [BorderStyleConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -47,6 +47,7 @@ Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [ConcatenateMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)

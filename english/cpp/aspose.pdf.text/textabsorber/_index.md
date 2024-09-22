@@ -40,5 +40,6 @@ class TextAbsorber : public System::Object
 The [TextAbsorber](./) object is used to extract text from a [Pdf](../../aspose.pdf/) document or the document's page. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

@@ -41,6 +41,7 @@ Aspose::Pdf::Operators::SetAdvancedColorStroke::SetAdvancedColorStroke(double c,
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetAdvancedColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -80,6 +81,7 @@ Aspose::Pdf::Operators::SetAdvancedColorStroke::SetAdvancedColorStroke(double g,
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetAdvancedColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -102,6 +104,7 @@ Aspose::Pdf::Operators::SetAdvancedColorStroke::SetAdvancedColorStroke(double r,
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetAdvancedColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -122,6 +125,8 @@ Aspose::Pdf::Operators::SetAdvancedColorStroke::SetAdvancedColorStroke(System::A
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [SetAdvancedColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

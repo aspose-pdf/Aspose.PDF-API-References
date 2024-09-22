@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Devices::Resolution> & Aspose::Pdf::Compari
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)
 * Class [GraphicalPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)

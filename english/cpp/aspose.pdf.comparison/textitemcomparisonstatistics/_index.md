@@ -28,5 +28,6 @@ class TextItemComparisonStatistics : public System::Object
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Layer::get_Name() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

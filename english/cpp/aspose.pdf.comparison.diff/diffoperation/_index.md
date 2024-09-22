@@ -28,5 +28,6 @@ class DiffOperation : public System::IEquatable<System::SharedPtr<Aspose::Pdf::C
 | [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 
+* Class [IEquatable](../../system/iequatable/)
 * Namespace [Aspose::Pdf::Comparison::Diff](../)
 * Library [Aspose.PDF for C++](../../)

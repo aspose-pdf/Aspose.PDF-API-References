@@ -33,5 +33,6 @@ class ComparisonOptions : public System::Object
 | [set_ExtractionArea](./set_extractionarea/)(System::SharedPtr\<Rectangle\>) | Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with [ExcludeTables](../), [ExcludeAreas1](../) and [ExcludeAreas2](../) options. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison](../)
 * Library [Aspose.PDF for C++](../../)

@@ -22,13 +22,9 @@ class PdfConverter : public Aspose::Pdf::Facades::Facade
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::String) override | Binds a [Pdf](../../aspose.pdf/) file for converting. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds a [Pdf](../../aspose.pdf/) Stream for convert. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Close the instance of [PdfConverter](./) and release the resources. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [DoConvert](./doconvert/)() | Do some initial works for converting a pdf document to images. |
 | [get_CoordinateType](./get_coordinatetype/)() const | Gets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_EndPage](./get_endpage/)() | Gets end position which you want to convert. |
 | [get_FormPresentationMode](./get_formpresentationmode/)() const | Gets form presentation mode. |
 | [get_PageCount](./get_pagecount/)() | Gets the page count. |

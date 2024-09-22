@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::GradientRadialShading::set_EndColor(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [GradientRadialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

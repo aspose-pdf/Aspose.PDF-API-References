@@ -18,6 +18,7 @@ void Aspose::Pdf::Vector::XFormPlacement::set_Position(System::SharedPtr<Point> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [XFormPlacement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

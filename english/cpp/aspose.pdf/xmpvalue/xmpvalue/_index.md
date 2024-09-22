@@ -61,6 +61,8 @@ Aspose::Pdf::XmpValue::XmpValue(System::ArrayPtr<System::SharedPtr<XmpValue>> ar
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
@@ -81,6 +83,7 @@ Aspose::Pdf::XmpValue::XmpValue(System::DateTime value)
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -100,6 +103,7 @@ Aspose::Pdf::XmpValue::XmpValue(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,5 +28,6 @@ class Characteristics : public System::Object
 | [set_Rotate](./set_rotate/)(Rotation) | Sets rotation of the annotation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

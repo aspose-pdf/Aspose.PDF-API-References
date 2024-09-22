@@ -30,5 +30,6 @@ class FontColor : public System::Object
 | [set_Red](./set_red/)(int32_t) | Red component of color. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

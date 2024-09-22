@@ -23,6 +23,7 @@ void Aspose::Pdf::RgbToDeviceGrayConversionStrategy::Convert(System::SharedPtr<P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [RgbToDeviceGrayConversionStrategy](../)
 * Namespace [Aspose::Pdf](../../)

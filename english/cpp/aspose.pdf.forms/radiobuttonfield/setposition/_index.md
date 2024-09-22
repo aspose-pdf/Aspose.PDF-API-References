@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::RadioButtonField::SetPosition(System::SharedPtr<Point> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_InsertedStyl
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextStyle](../../textstyle/)
 * Class [OutputTextStyle](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

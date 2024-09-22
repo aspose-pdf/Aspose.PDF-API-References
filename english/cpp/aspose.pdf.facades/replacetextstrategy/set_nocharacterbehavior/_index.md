@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::ReplaceTextStrategy::set_NoCharacterBehavior(ReplaceT
 
 ## See Also
 
+* Enum [NoCharacterAction](../nocharacteraction/)
 * Class [ReplaceTextStrategy](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

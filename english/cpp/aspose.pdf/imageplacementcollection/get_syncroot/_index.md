@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::ImagePlacementCollection::get_Syn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [ImagePlacementCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

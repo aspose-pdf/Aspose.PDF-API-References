@@ -18,6 +18,8 @@ System::SharedPtr<System::Web::HttpResponse> Aspose::Pdf::Facades::PdfFileStamp:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

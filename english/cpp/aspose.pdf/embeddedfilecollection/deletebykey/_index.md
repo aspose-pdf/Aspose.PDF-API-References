@@ -23,6 +23,7 @@ void Aspose::Pdf::EmbeddedFileCollection::DeleteByKey(System::String key)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetGlyphsPositionShowText::Accept(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetGlyphsPositionShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)

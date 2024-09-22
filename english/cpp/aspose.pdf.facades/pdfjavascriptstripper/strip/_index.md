@@ -28,6 +28,8 @@ true if JavaScript was stripped successfully.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfJavaScriptStripper](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -52,6 +54,7 @@ true if JavaScript was stripped successfully.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfJavaScriptStripper](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

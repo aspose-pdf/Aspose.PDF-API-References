@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Forms::Field::SetPosition(System::SharedPtr<Point> poi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

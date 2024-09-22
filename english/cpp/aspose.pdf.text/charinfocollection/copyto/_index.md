@@ -24,6 +24,8 @@ void Aspose::Pdf::Text::CharInfoCollection::CopyTo(System::ArrayPtr<System::Shar
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfo](../../charinfo/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

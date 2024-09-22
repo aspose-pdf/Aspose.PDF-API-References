@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::CurveTo::Accept(System::SharedPtr<IOperatorSelector
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [CurveTo](../)
 * Namespace [Aspose::Pdf::Operators](../../)

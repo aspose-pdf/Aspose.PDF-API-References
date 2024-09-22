@@ -27,6 +27,7 @@ True if rectangles are eqals, false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

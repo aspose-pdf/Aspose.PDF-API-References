@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfBookmarkEditor::PdfBookmarkEditor(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

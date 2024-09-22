@@ -24,6 +24,7 @@ void Aspose::Pdf::Annotations::PDF3DViewArray::idx_set(int32_t index, System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DView](../../pdf3dview/)
 * Class [PDF3DViewArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

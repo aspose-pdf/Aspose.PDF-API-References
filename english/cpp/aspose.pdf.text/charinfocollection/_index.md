@@ -39,5 +39,6 @@ class CharInfoCollection : public System::Collections::Generic::ICollection<Syst
 Provides access to positioning information of text segment characters. 
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

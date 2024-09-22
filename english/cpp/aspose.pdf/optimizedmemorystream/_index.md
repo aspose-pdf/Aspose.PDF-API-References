@@ -48,7 +48,9 @@ class OptimizedMemoryStream : public System::IO::Stream
 | Field | Description |
 | --- | --- |
 | static [DefaultBufferSize](./defaultbuffersize/) | Default buffer size value in bytes. |
+| static [Null](../../system.io/stream/null/) | A stream with no underlying storage. |
 ## See Also
 
+* Class [Stream](../../system.io/stream/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

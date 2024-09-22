@@ -25,5 +25,6 @@ class Rendition : public System::Object
 | [set_Name](./set_name/)(System::String) | [Text](../../aspose.pdf.text/) string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

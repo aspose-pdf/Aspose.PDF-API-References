@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::RadioButtonOptionField::RadioButtonOptionField(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [RadioButtonOptionField](../)

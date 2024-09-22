@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfPageEditor::Save(System::SharedPtr<System::IO::Str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfPageEditor::Save(System::String outputFile) overri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

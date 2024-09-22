@@ -26,5 +26,6 @@ class PageLabelCollection : public System::Object
 | [UpdateLabel](./updatelabel/)(int32_t, System::SharedPtr\<PageLabel\>) | Update label for given page index (page index is started from 0). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -24,6 +24,8 @@ void Aspose::Pdf::Artifact::SetTextAndState(System::String text, System::SharedP
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

@@ -28,6 +28,10 @@ true if the value associated with the specified name is successfully retrieved; 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Value](../value/)
+* Class [DateTime](../../../system/datetime/)
 * Class [CollectionItem](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

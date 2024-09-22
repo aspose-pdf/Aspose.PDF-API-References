@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Id::get_Modified() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Id](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

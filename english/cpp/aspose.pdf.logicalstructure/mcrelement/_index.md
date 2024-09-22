@@ -20,16 +20,9 @@ class MCRElement : public Aspose::Pdf::LogicalStructure::Element
 
 | Method | Description |
 | --- | --- |
-| [AppendChild](../element/appendchild/)(System::SharedPtr\<Element\>) | Append [T:/Aspose::Pdf::LogicalStructure::Element](../) to collection of children. |
-| [ClearChilds](../element/clearchilds/)() | Clear all childs. |
-| [FindElements](../element/findelements/)(bool) | Find Elements of a given type. |
-| [get_ChildElements](../element/get_childelements/)() | Gets children collection of [T:/Aspose::Pdf::LogicalStructure::Element](../) objects. |
 | [get_Content](./get_content/)() const |  |
 | [get_ImageSrc](./get_imagesrc/)() const |  |
 | [get_MCID](./get_mcid/)() | Gets MCID of marked-content reference object. |
-| [get_ParentElement](../element/get_parentelement/)() const | Get parent element. |
-| [InsertChild](../element/insertchild/)(System::SharedPtr\<Element\>, int32_t) | Insert [T:/Aspose::Pdf::LogicalStructure::Element](../) to collection of children at specified index. |
-| [RemoveChild](../element/removechild/)(int32_t) | Remove child at. |
 | [Tag](./tag/)(System::SharedPtr\<Aspose::Pdf::Operators::BDC\>) override | Bind a structure element to the content stream BDC operator. |
 | [Tag](./tag/)(System::SharedPtr\<XForm\>) override | Bind a structure element to the content stream [XForm](../../aspose.pdf/xform/). |
 | [Tag](./tag/)(System::SharedPtr\<XImage\>) override | Bind a structure element to the [XImage](../../aspose.pdf/ximage/). |

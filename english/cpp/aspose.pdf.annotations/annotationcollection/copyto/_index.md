@@ -24,6 +24,8 @@ void Aspose::Pdf::Annotations::AnnotationCollection::CopyTo(System::ArrayPtr<Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

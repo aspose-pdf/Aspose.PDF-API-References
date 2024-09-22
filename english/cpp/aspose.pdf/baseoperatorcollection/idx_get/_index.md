@@ -27,6 +27,7 @@ virtual System::SharedPtr<Operator> Aspose::Pdf::BaseOperatorCollection::idx_get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [BaseOperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::idx_set(const DefaultMetadataProperti
 ## See Also
 
 * Enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -46,6 +47,8 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::idx_set(const System::String &key, Sy
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -34,5 +34,6 @@ class ArtifactCollection : public System::Collections::Generic::ICollection<Syst
 | [Update](./update/)(System::SharedPtr\<Artifact\>) | Update artifact inside the collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

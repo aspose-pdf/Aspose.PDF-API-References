@@ -29,6 +29,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateBookmarksAction(System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

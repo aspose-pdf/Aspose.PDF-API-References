@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::Characteristics::set_Background(System::Drawing::
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [Characteristics](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ Return string for JS entry for ECMAScript Action or null else.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

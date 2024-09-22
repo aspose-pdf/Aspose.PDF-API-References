@@ -20,15 +20,10 @@ class FitBVExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestin
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
 | [FitBVExplicitDestination](./fitbvexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double) | Creates local explicit destination. |
 | [FitBVExplicitDestination](./fitbvexplicitdestination/)(System::SharedPtr\<Document\>, int32_t, double) | Creates remote explicit destination. |
 | [FitBVExplicitDestination](./fitbvexplicitdestination/)(int32_t, double) | Creates remote explicit destination. |
 | [get_Left](./get_left/)() | Gets the horizontal coordinate left positioned at the left edge of the window. |
-| [get_Page](../explicitdestination/get_page/)() const | Gets the destination page object. |
-| [get_PageNumber](../explicitdestination/get_pagenumber/)() const | Gets the destination page number. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 FitBV 100". |
 ## See Also
 

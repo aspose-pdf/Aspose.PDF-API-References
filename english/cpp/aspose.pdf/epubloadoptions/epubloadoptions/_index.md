@@ -37,6 +37,7 @@ Aspose::Pdf::EpubLoadOptions::EpubLoadOptions(System::Drawing::SizeF pageSize)
 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
 * Class [EpubLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

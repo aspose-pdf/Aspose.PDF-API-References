@@ -23,6 +23,7 @@ Aspose::Pdf::FileParams::FileParams(System::SharedPtr<FileSpecification> spec)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [FileParams](../)
 * Namespace [Aspose::Pdf](../../)

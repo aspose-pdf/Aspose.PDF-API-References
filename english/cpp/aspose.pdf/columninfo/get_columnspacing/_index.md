@@ -22,6 +22,7 @@ System::String Aspose::Pdf::ColumnInfo::get_ColumnSpacing() const
 If this property is not set, default value 0 will be used for each spacing. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ColumnInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

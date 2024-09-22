@@ -18,6 +18,7 @@ System::String Aspose::Pdf::FileSpecification::get_MIMEType()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

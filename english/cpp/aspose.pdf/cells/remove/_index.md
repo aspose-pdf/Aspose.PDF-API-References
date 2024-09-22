@@ -23,6 +23,7 @@ void Aspose::Pdf::Cells::Remove(System::SharedPtr<Cell> cell)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)

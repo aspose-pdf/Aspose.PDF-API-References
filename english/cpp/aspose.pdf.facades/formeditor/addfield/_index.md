@@ -34,6 +34,7 @@ true if field was successfully added.
 ## See Also
 
 * Enum [FieldType](../../fieldtype/)
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -69,6 +70,7 @@ true if field was successfully added.
 ## See Also
 
 * Enum [FieldType](../../fieldtype/)
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

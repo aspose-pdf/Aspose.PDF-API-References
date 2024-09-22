@@ -28,5 +28,6 @@ class Resolution : public System::Object
 | [set_Y](./set_y/)(int32_t) | Sets vertical image resolution. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Devices](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Facades::FormFieldFacade::get_BorderColor() 
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

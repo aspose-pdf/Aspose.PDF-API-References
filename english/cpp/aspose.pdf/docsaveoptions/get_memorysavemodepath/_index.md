@@ -18,6 +18,7 @@ System::String Aspose::Pdf::DocSaveOptions::get_MemorySaveModePath() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

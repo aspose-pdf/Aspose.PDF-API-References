@@ -24,6 +24,7 @@ Aspose::Pdf::Forms::SignatureField::SignatureField(System::SharedPtr<Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SignatureField](../)
@@ -46,6 +47,7 @@ Aspose::Pdf::Forms::SignatureField::SignatureField(System::SharedPtr<Document> d
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SignatureField](../)

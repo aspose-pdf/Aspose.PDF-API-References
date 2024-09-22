@@ -21,11 +21,8 @@ class NamedAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_Name](./get_name/)() | Gets the action to be performed. |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [NamedAction](./namedaction/)(PredefinedAction) | Constructor for Named Action class. |
 | [set_Name](./set_name/)(System::String) | Sets the action to be performed. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

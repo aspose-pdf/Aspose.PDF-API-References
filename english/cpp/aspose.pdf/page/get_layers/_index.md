@@ -22,6 +22,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Layer>>> 
 The layers collection.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Layer](../../layer/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

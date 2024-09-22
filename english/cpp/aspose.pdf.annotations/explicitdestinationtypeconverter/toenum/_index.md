@@ -19,6 +19,7 @@ static ExplicitDestinationType Aspose::Pdf::Annotations::ExplicitDestinationType
 ## See Also
 
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* Class [String](../../../system/string/)
 * Class [ExplicitDestinationTypeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

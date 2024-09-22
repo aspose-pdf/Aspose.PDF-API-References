@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(System::SharedPtr<D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

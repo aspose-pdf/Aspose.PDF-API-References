@@ -27,5 +27,6 @@ class PdfActionCollection : public System::Collections::Generic::IEnumerable<Sys
 | [idx_get](./idx_get/)(int32_t) | Gets action by its index. |
 ## See Also
 
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

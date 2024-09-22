@@ -23,6 +23,8 @@ void Aspose::Pdf::PdfToMarkdown::HeadingLevels::AddLevels(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
 * Class [HeadingLevels](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)
 * Library [Aspose.PDF for C++](../../../)

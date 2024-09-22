@@ -18,6 +18,7 @@ System::SharedPtr<Outlines> Aspose::Pdf::OutlineItemCollection::get_Parent()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Outlines](../../outlines/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

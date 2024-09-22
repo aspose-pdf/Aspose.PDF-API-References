@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::Bookmark::set_ChildItems(System::SharedPtr<Bookmarks>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmarks](../../bookmarks/)
 * Class [Bookmark](../)
 * Namespace [Aspose::Pdf::Facades](../../)

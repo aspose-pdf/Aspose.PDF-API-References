@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::BDC::BDC(System::String tag)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -37,6 +38,8 @@ Aspose::Pdf::Operators::BDC::BDC(System::String tag, System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)

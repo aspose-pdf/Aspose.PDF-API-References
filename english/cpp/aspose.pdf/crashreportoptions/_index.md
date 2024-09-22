@@ -33,5 +33,6 @@ class CrashReportOptions : public System::Object
 | [set_CustomMessage](./set_custommessage/)(System::String) | Custom message to include into the report. It can be something like. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

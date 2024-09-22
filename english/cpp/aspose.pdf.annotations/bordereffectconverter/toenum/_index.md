@@ -19,6 +19,7 @@ static BorderEffect Aspose::Pdf::Annotations::BorderEffectConverter::ToEnum(Syst
 ## See Also
 
 * Enum [BorderEffect](../../bordereffect/)
+* Class [String](../../../system/string/)
 * Class [BorderEffectConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

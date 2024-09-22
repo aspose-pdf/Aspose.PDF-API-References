@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Annotations::CustomExplicitDestination::ToString() c
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CustomExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -35,5 +35,6 @@ class ImageCompressionOptions : public System::Object
 | [set_Version](./set_version/)(ImageCompressionVersion) | Version of compression algorithm. Possible values are: 1. standard compression, 2. fast (improved compression which is faster then standard but may be applicable not for all images), 3. mixed (standard compression is applied to images which can not be compressed by faster algorithm, this may give best compression but more slow then "fast" algorithm. Version "Fast" is not applicable for resizing images (standard method will be used). Default is "Standard". |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Optimization](../)
 * Library [Aspose.PDF for C++](../../)

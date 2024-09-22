@@ -67,6 +67,8 @@ Aspose::Pdf::PdfFormatConversionOptions::PdfFormatConversionOptions(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Class [PdfFormatConversionOptions](../)
@@ -89,6 +91,7 @@ Aspose::Pdf::PdfFormatConversionOptions::PdfFormatConversionOptions(System::Stri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
@@ -111,6 +114,7 @@ Aspose::Pdf::PdfFormatConversionOptions::PdfFormatConversionOptions(System::Stri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Class [PdfFormatConversionOptions](../)
@@ -135,6 +139,7 @@ Aspose::Pdf::PdfFormatConversionOptions::PdfFormatConversionOptions(System::Stri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Enum [ConvertErrorAction](../../converterroraction/)
 * Enum [ConvertTransparencyAction](../../converttransparencyaction/)

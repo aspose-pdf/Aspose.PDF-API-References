@@ -18,6 +18,8 @@ void Aspose::Pdf::Drawing::Graph::set_Shapes(System::SharedPtr<System::Collectio
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Shape](../../shape/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::ClosePathEOFillStroke::ToString() const o
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ClosePathEOFillStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

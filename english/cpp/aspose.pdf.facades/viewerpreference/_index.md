@@ -50,5 +50,6 @@ class ViewerPreference : public System::Object
 | static constexpr [Simplex](./simplex/) | Print single-sided. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

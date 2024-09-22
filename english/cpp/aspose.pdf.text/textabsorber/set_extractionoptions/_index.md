@@ -19,9 +19,10 @@ virtual void Aspose::Pdf::Text::TextAbsorber::set_ExtractionOptions(System::Shar
 ## Remarks
 
 
-Allows to define text formatting mode [TextExtractionOptions](../../textextractionoptions/) during extraction. The default mode is **TextExtractionOptions::TextFormattingMode::Pure**
+Allows to define text formatting mode [TextExtractionOptions](../../textextractionoptions/) during extraction. The default mode is [TextExtractionOptions::TextFormattingMode::Pure](../../textextractionoptions/textformattingmode/)
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../textextractionoptions/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

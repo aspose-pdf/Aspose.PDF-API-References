@@ -19,7 +19,7 @@ double Aspose::Pdf::Annotations::PDF3DRenderMode::GetCreaseValue()
 
 ### ReturnValue
 
-**System.Double**.
+[System.Double](../../../system/double/).
 
 ## See Also
 

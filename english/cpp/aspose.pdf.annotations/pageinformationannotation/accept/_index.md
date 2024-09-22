@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PageInformationAnnotation::Accept(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [PageInformationAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -28,6 +28,7 @@ The [ImagesDifference](../../imagesdifference/) instance.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImagesDifference](../../imagesdifference/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [GraphicalPdfComparer](../)

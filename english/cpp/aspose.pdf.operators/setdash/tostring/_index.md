@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetDash::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetDash](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

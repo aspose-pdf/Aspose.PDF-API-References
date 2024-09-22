@@ -29,8 +29,10 @@ The explicit destination object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../)
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -56,9 +58,11 @@ The explicit destination object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -88,9 +92,11 @@ Use the method without Document argument.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../)
 * Class [Document](../../../aspose.pdf/document/)
 * Enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

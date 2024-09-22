@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::Annotation::get_Contents()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

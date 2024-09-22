@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::SoundData> Aspose::Pdf::Annotations:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SoundData](../../sounddata/)
 * Class [SoundAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

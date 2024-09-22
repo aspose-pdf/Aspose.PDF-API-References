@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Forms::ChoiceField::DeleteOption(System::String option
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ The string representation of the CollectionFieldSubtype value. If suptype is Non
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
 * Class [CollectionFieldSubtypeConverter](../)
 * Namespace [Aspose::Pdf](../../)
@@ -52,6 +53,7 @@ The CollectionFieldSubtype enumeration value that corresponds to the PdfName val
 ## See Also
 
 * Enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionFieldSubtypeConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -76,6 +78,7 @@ The CollectionFieldSubtype enumeration value that corresponds to the string valu
 ## See Also
 
 * Enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
+* Class [String](../../../system/string/)
 * Class [CollectionFieldSubtypeConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

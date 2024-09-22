@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_SymbolicFontEncodingStrategy(S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

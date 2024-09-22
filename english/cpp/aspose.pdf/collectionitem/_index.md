@@ -16,6 +16,9 @@ Represents a collection item class. The collection item contains the data descri
 class CollectionItem : public System::Object
 ```
 
+## Nested classes
+
+* Class [Value](./value/)
 ## Methods
 
 | Method | Description |
@@ -29,5 +32,6 @@ class CollectionItem : public System::Object
 | [TryGetTextValue](./trygettextvalue/)(System::String, System::SharedPtr\<CollectionItem::Value\<System::String\>\>\&) | Tries to get the text value with the specified name from the collection item. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

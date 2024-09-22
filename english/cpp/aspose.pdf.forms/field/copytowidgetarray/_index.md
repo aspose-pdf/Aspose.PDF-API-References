@@ -24,6 +24,8 @@ void Aspose::Pdf::Forms::Field::CopyToWidgetArray(System::ArrayPtr<System::Share
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

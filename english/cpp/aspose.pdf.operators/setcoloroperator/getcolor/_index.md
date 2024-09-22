@@ -23,6 +23,7 @@ virtual System::Drawing::Color Aspose::Pdf::Operators::SetColorOperator::getColo
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [SetColorOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

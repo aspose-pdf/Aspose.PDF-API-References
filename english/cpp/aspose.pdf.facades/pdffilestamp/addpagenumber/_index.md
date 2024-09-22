@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::SharedPtr<Formatt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -45,6 +46,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::SharedPtr<Formatt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -66,6 +68,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::SharedPtr<Formatt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -91,6 +94,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::SharedPtr<Formatt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -111,6 +115,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::String formatStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -132,6 +137,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::String formatStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -152,6 +158,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::String formatStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -176,6 +183,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddPageNumber(System::String formatStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

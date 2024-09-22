@@ -18,6 +18,7 @@ System::ArrayPtr<int32_t> Aspose::Pdf::Facades::Stamp::get_Pages() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

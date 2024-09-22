@@ -18,6 +18,7 @@ virtual System::SharedPtr<Point> Aspose::Pdf::Vector::GraphicElement::get_Positi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

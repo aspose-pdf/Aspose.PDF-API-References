@@ -41,5 +41,6 @@ class TocInfo : public System::Object
 | [TocInfo](./tocinfo/)() | Initializes a new instance of the [TocInfo](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfFileEditor::set_UniqueSuffix(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

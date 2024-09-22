@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::ET::Accept(System::SharedPtr<IOperatorSelector> vis
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [ET](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -26,6 +26,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotation(System::String 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

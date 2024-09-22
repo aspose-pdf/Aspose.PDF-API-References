@@ -22,6 +22,7 @@ System::SharedPtr<XForm> Aspose::Pdf::Text::TextFragment::get_Form() const
 The value can be null in case the [TextFragment](../) object doesn't belong to a form. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<NamedDestinationCollection> Aspose::Pdf::Document::get_NamedDe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NamedDestinationCollection](../../nameddestinationcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

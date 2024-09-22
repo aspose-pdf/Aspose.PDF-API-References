@@ -18,6 +18,7 @@ System::ArrayPtr<uint8_t> Aspose::Pdf::BitmapInfo::get_PixelBytes() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [BitmapInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

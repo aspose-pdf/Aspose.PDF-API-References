@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlSaveOptions::set_IgnoredTextFontSize(System::Nullable<floa
 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,6 +29,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(double r, double g, 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
@@ -36,7 +37,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(double r, double g, 
 ## Color::FromRgb(System::Drawing::Color) method
 
 
-Gets valid pdf [Color](../) object from **System.Drawing.Color** value.
+Gets valid pdf [Color](../) object from [System.Drawing.Color](../../../system.drawing/color/) value.
 
 ```cpp
 static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(System::Drawing::Color color)
@@ -45,7 +46,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(System::Drawing::Col
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::Drawing::Color | **System.Drawing.Color** value. |
+| color | System::Drawing::Color | [System.Drawing.Color](../../../system.drawing/color/) value. |
 
 ### ReturnValue
 
@@ -53,7 +54,9 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(System::Drawing::Col
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
+* Class [Color](../../../system.drawing/color/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

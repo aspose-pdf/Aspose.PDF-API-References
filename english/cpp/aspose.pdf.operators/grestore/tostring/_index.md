@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::GRestore::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GRestore](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

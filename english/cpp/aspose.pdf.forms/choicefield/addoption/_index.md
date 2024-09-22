@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::Forms::ChoiceField::AddOption(System::String export_, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ virtual void Aspose::Pdf::Forms::ChoiceField::AddOption(System::String optionNam
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ True if this is text output operator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../)
 * Class [Operator](../)
 * Namespace [Aspose::Pdf](../../)

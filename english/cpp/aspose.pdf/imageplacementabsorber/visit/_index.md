@@ -23,6 +23,7 @@ void Aspose::Pdf::ImagePlacementAbsorber::Visit(System::SharedPtr<Document> pdf)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
 * Class [ImagePlacementAbsorber](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::ImagePlacementAbsorber::Visit(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [ImagePlacementAbsorber](../)
 * Namespace [Aspose::Pdf](../../)

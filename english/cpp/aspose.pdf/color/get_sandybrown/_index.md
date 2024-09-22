@@ -23,6 +23,7 @@ A representing a system-defined color.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

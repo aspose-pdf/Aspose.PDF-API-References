@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Operators::CurveTo::get_
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [CurveTo](../)
 * Namespace [Aspose::Pdf::Operators](../../)

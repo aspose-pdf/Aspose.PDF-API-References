@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

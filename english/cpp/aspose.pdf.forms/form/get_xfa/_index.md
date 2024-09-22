@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Forms::XFA> Aspose::Pdf::Forms::Form::get_XFA() c
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XFA](../../xfa/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

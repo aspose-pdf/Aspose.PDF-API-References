@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetTextMatrix::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetTextMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

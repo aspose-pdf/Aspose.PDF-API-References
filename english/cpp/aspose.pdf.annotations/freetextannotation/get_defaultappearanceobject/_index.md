@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> Aspose::Pdf::Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DefaultAppearance](../../defaultappearance/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

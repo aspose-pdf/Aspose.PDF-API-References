@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::XForm> & Aspose::Pdf::Vector::XFormPlacemen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [XFormPlacement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

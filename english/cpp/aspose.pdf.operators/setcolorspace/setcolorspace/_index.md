@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::SetColorSpace::SetColorSpace(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetColorSpace](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

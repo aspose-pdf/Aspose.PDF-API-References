@@ -18,6 +18,7 @@ System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::GoToRemoteAction:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [GoToRemoteAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

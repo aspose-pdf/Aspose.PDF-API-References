@@ -24,5 +24,6 @@ class IOperatorContainer : public virtual System::Object
 | virtual [get_Resources](./get_resources/)() | Gets the resources referenced by operators in the [Contents](../). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::SubmitFormAction::set_Url(System::SharedPtr<FileS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [SubmitFormAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::LevelFormat::set_TextState(System::SharedPtr<Aspose::Pdf::Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [LevelFormat](../)
 * Namespace [Aspose::Pdf](../../)

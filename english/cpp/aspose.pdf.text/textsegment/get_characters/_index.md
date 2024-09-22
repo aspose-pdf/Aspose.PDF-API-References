@@ -18,6 +18,7 @@ System::SharedPtr<CharInfoCollection> Aspose::Pdf::Text::TextSegment::get_Charac
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfoCollection](../../charinfocollection/)
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)

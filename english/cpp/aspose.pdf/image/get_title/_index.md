@@ -18,6 +18,7 @@ const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Image::get_Title() co
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)

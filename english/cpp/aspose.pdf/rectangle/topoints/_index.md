@@ -23,6 +23,8 @@ Array of points.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../point/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::TeXSaveOptions::set_OutDirectoryPath(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TeXSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

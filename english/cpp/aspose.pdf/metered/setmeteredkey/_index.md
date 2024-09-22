@@ -24,6 +24,7 @@ void Aspose::Pdf::Metered::SetMeteredKey(System::String publicKey, System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metered](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

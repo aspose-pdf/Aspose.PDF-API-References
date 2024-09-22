@@ -27,6 +27,7 @@ Width of the string represented with this text state.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

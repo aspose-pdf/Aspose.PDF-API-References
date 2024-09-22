@@ -18,6 +18,7 @@ void Aspose::Pdf::Page::set_MediaBox(System::SharedPtr<Aspose::Pdf::Rectangle> v
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

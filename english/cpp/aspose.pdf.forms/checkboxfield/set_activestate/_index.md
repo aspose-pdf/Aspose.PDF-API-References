@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::CheckboxField::set_ActiveState(System::String value) ov
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

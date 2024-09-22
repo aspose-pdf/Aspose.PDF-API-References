@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfConverter::BindPdf(System::SharedPtr<System::IO::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,7 @@ void Aspose::Pdf::Facades::PdfConverter::BindPdf(System::String inputFile) overr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

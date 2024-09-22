@@ -22,6 +22,7 @@ Use BindPdf(inputFile) method for facade initialization.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

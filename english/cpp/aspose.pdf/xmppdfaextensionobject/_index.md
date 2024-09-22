@@ -26,5 +26,6 @@ class XmpPdfAExtensionObject : public System::Object
 | [set_Value](./set_value/)(System::String) | Sets the value. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

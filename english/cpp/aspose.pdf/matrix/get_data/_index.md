@@ -18,6 +18,7 @@ System::ArrayPtr<double> Aspose::Pdf::Matrix::get_Data() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

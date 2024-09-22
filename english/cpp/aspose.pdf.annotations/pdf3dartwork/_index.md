@@ -31,5 +31,6 @@ class PDF3DArtwork : public System::Object
 | [set_RenderMode](./set_rendermode/)(System::SharedPtr\<PDF3DRenderMode\>) | Sets the render mode. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

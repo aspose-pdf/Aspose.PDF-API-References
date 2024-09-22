@@ -35,5 +35,6 @@ class Element : public virtual System::Object
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

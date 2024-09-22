@@ -37,6 +37,7 @@ Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator::HtmlDiffOutpu
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputTextStyle](../../outputtextstyle/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

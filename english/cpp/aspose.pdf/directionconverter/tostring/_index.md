@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::DirectionConverter::ToString(Direction value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [Direction](../../direction/)
 * Class [DirectionConverter](../)
 * Namespace [Aspose::Pdf](../../)

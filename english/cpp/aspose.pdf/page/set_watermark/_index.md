@@ -18,6 +18,7 @@ void Aspose::Pdf::Page::set_Watermark(System::SharedPtr<Aspose::Pdf::Watermark> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Watermark](../../watermark/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

@@ -16,6 +16,12 @@ Class represents PDF [Artifact](./) object.
 class Artifact : public System::IDisposable
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [ArtifactSubtype](./artifactsubtype/) | Enumeration of possible artifacts subtype. |
+| [ArtifactType](./artifacttype/) | Enumeration of possuble artifact types. |
 ## Methods
 
 | Method | Description |
@@ -74,5 +80,6 @@ class Artifact : public System::IDisposable
 | [SetValue](./setvalue/)(System::String, System::String) | Sets custom value of artifact. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

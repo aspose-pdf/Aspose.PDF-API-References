@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::FormFieldFacade::set_Position(System::ArrayPtr<float>
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,6 +24,9 @@ void Aspose::Pdf::Annotations::WatermarkAnnotation::SetTextAndState(System::Arra
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [WatermarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

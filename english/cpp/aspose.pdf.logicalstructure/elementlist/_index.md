@@ -26,5 +26,6 @@ class ElementList : public System::Collections::Generic::IEnumerable<System::Sha
 | virtual [Item](./item/)(int32_t) | Retrieves a element at the given index. |
 ## See Also
 
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

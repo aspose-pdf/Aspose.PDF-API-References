@@ -27,6 +27,7 @@ Value, or null if value does not exists.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

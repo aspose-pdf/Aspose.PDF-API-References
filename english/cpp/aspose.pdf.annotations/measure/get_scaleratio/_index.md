@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::Measure::get_ScaleRatio()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Measure](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

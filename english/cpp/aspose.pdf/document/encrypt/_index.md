@@ -26,6 +26,7 @@ void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [Permissions](../../permissions/)
 * Enum [CryptoAlgorithm](../../cryptoalgorithm/)
 * Class [Document](../)
@@ -51,6 +52,7 @@ void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [Permissions](../../permissions/)
 * Enum [CryptoAlgorithm](../../cryptoalgorithm/)
 * Class [Document](../)
@@ -76,6 +78,8 @@ void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * Enum [CryptoAlgorithm](../../cryptoalgorithm/)
 * Class [Document](../)

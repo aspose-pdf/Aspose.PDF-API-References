@@ -32,6 +32,8 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -61,6 +63,9 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -89,6 +94,10 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -117,6 +126,10 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -145,6 +158,8 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -175,6 +190,8 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -205,6 +222,7 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -234,6 +252,7 @@ true if operation completed successfully; otherwise, false.
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

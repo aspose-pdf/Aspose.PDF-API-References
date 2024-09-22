@@ -23,6 +23,8 @@ void Aspose::Pdf::ImagePlacement::Replace(System::SharedPtr<System::IO::Stream> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

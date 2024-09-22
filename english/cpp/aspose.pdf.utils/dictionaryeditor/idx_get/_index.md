@@ -27,7 +27,9 @@ The element with the specified key.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
+* Class [String](../../../system/string/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
 * Library [Aspose.PDF for C++](../../../)

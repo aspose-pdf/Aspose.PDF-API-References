@@ -24,6 +24,8 @@ void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStre
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
@@ -48,6 +50,8 @@ void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStre
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
@@ -70,6 +74,9 @@ void Aspose::Pdf::Page::AddImage(System::String hocr, System::SharedPtr<System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
@@ -91,6 +98,8 @@ void Aspose::Pdf::Page::AddImage(System::String imagePath, System::SharedPtr<Asp
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

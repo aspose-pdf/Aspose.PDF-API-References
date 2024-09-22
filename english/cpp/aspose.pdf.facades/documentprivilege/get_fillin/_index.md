@@ -18,6 +18,7 @@ static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivil
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../)
 * Class [DocumentPrivilege](../)
 * Namespace [Aspose::Pdf::Facades](../../)

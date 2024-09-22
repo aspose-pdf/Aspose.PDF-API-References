@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Hyperlink](../../../aspose.pdf/hyperlink/)
 * Class [LinkElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

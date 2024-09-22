@@ -24,5 +24,6 @@ class StructureAttributeCollection : public System::Object
 | [GetAttributes](./getattributes/)(System::SharedPtr\<AttributeOwnerStandard\>) | Return [Aspose::Pdf::LogicalStructure::StructureAttributes](../structureattributes/) of structure element by standard attribute owner. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

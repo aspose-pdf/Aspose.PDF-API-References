@@ -23,6 +23,7 @@ void Aspose::Pdf::EmbeddedFileCollection::Add(const System::SharedPtr<FileSpecif
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -44,6 +45,8 @@ void Aspose::Pdf::EmbeddedFileCollection::Add(System::String key, System::Shared
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)

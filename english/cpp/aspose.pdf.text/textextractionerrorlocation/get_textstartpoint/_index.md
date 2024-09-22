@@ -18,6 +18,7 @@ System::SharedPtr<Point> Aspose::Pdf::Text::TextExtractionErrorLocation::get_Tex
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [TextExtractionErrorLocation](../)
 * Namespace [Aspose::Pdf::Text](../../)

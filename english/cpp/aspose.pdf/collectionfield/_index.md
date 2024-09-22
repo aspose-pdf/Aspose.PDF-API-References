@@ -28,5 +28,6 @@ class CollectionField : public System::Object
 | [get_V](./get_v/)() const | Gets the initial visibility of the field in the user interface. Default value: true. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

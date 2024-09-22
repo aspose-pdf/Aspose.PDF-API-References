@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -65,7 +69,10 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -88,7 +95,10 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -109,6 +119,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -132,6 +145,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -154,6 +170,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -177,6 +196,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -198,6 +220,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -217,6 +242,7 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -237,6 +263,8 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -259,7 +287,10 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -282,7 +313,10 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -303,6 +337,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -326,6 +363,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -348,6 +388,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -371,6 +414,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -392,6 +438,9 @@ void Aspose::Pdf::Facades::PdfConverter::GetNextImage(System::String outputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

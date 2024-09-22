@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::CaretAnnotation::Accept(System::SharedPtr<Annotat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [CaretAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

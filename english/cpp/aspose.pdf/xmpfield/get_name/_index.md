@@ -22,6 +22,7 @@ System::String Aspose::Pdf::XmpField::get_Name() const
 The name.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

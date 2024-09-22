@@ -18,6 +18,9 @@ virtual System::SharedPtr<System::Collections::Generic::List<System::String>> As
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [String](../../../system/string/)
 * Class [IRecovery](../)
 * Namespace [Aspose::Pdf::Sanitization](../../)
 * Library [Aspose.PDF for C++](../../../)

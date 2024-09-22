@@ -34,5 +34,6 @@ class DestinationCollection : public System::Collections::Generic::ICollection<S
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<System::Object\>\>\&) override | Removes the specified item. [Collection](../collection/) is read-only. Always throws NotSupportedException exception. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

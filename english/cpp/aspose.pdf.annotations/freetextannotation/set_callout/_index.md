@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout(System::ArrayPtr<
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

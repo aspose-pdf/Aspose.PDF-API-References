@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor(System::SharedPtr<
 The color of the back ground of view.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Point> Aspose::Pdf::Annotations::MovieAnnotation::get_Aspect()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [MovieAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -29,6 +29,7 @@ Throws NotImplementedException
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)

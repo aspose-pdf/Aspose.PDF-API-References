@@ -27,6 +27,7 @@ Value - if parameter found; otherwise, null.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

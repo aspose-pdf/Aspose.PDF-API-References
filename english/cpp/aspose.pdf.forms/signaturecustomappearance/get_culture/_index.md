@@ -18,6 +18,8 @@ System::SharedPtr<System::Globalization::CultureInfo> Aspose::Pdf::Forms::Signat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

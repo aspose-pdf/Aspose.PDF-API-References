@@ -27,5 +27,6 @@ class XmpPdfAExtensionSchemaDescription : public System::Object
 | [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/)(System::String, System::String, System::String) | Initializes new object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

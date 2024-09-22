@@ -23,6 +23,8 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<As
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

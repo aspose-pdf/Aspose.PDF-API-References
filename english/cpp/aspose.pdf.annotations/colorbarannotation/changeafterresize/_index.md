@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::ColorBarAnnotation::ChangeAfterResize(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [ColorBarAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

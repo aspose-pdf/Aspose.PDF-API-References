@@ -24,5 +24,6 @@ class PdfJavaScriptStripper : public System::Object
 | [Strip](./strip/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) | Remove Java Script from the document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

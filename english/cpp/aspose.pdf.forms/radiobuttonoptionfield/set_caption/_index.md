@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [RadioButtonOptionField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

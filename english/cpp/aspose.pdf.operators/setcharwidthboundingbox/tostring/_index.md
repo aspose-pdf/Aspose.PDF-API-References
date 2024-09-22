@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetCharWidthBoundingBox::ToString() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetCharWidthBoundingBox](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

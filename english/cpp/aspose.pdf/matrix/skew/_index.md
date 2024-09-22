@@ -28,6 +28,7 @@ Transformation matrix.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)

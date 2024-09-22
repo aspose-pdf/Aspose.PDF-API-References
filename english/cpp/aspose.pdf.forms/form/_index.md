@@ -16,6 +16,14 @@ Class representing form object.
 class Form : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>
 ```
 
+## Nested classes
+
+* Class [FlattenSettings](./flattensettings/)
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [SignDependentElementsRenderingModes](./signdependentelementsrenderingmodes/) | [Forms](../) can contain signing information and can be signed or unsigned. Sometimes view of forms in viewer must depend on whether form is signed or not. This enum enumerates possible rendering modes during convertion of form type in regard to sign. |
 ## Methods
 
 | Method | Description |
@@ -65,5 +73,6 @@ class Form : public System::Collections::Generic::ICollection<System::SharedPtr<
 | [set_Type](./set_type/)(FormType) | Gets type of the form. Possible values are: Standard, Static, Dynamic. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::Measure::set_Origin(System::SharedPtr<Point> valu
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [Measure](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

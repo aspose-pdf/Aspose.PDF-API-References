@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PDF3DAnnotation::Accept(System::SharedPtr<Annotat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

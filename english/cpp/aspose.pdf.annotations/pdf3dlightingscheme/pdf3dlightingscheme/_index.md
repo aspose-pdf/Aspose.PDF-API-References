@@ -43,6 +43,7 @@ Aspose::Pdf::Annotations::PDF3DLightingScheme::PDF3DLightingScheme(System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DLightingScheme](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/document/get_fontutilities/
 ## Document::get_FontUtilities method
 
 
-**IDocumentFontUtilities** instance.
+[IDocumentFontUtilities](../idocumentfontutilities/) instance.
 
 ```cpp
 System::SharedPtr<Document::IDocumentFontUtilities> Aspose::Pdf::Document::get_FontUtilities()
@@ -18,6 +18,8 @@ System::SharedPtr<Document::IDocumentFontUtilities> Aspose::Pdf::Document::get_F
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IDocumentFontUtilities](../idocumentfontutilities/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::TextStyle::set_Color(System::Drawing::Color value
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

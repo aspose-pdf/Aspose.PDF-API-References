@@ -24,6 +24,8 @@ void Aspose::Pdf::Vector::GraphicElementCollection::CopyTo(System::ArrayPtr<Syst
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElement](../../graphicelement/)
 * Class [GraphicElementCollection](../)
 * Namespace [Aspose::Pdf::Vector](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Note::set_Text(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

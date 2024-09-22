@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::BorderStyleConverter::ToXfdfStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [BorderStyle](../../borderstyle/)
 * Class [BorderStyleConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

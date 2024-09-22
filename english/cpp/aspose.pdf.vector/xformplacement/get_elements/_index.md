@@ -18,6 +18,7 @@ System::SharedPtr<GraphicElementCollection> Aspose::Pdf::Vector::XFormPlacement:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElementCollection](../../graphicelementcollection/)
 * Class [XFormPlacement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

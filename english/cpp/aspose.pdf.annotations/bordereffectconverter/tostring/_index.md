@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::BorderEffectConverter::ToString(
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [BorderEffect](../../bordereffect/)
 * Class [BorderEffectConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

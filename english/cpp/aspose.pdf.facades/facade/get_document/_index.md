@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Document> Aspose::Pdf::Facades::Facade::get_Docum
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Facade](../)
 * Namespace [Aspose::Pdf::Facades](../../)

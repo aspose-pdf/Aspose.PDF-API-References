@@ -20,10 +20,6 @@ class ISaveableFacade : public virtual Aspose::Pdf::Facades::IFacade
 
 | Method | Description |
 | --- | --- |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::String) | Binds PDF document for editing. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) | Binds PDF document for editing. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
-| virtual [Close](../ifacade/close/)() | Releases any resources associates with the current facade. |
 | virtual [Save](./save/)(System::String) | Saves the result PDF document to file. |
 | virtual [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves the result PDF document to stream. |
 ## See Also

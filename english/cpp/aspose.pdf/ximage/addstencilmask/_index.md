@@ -23,6 +23,8 @@ void Aspose::Pdf::XImage::AddStencilMask(System::SharedPtr<System::IO::Stream> m
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ System::SharedPtr<XmpValue> Aspose::Pdf::XmpField::get_Value() const
 The value.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)

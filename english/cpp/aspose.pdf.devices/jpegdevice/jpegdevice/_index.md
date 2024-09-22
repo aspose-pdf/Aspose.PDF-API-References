@@ -78,6 +78,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -101,6 +102,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -116,6 +118,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(System::SharedPtr<Aspose::Pdf::Devi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -137,6 +140,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(System::SharedPtr<Aspose::Pdf::Devi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -157,6 +161,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -178,6 +183,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)
@@ -201,6 +207,7 @@ Aspose::Pdf::Devices::JpegDevice::JpegDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [JpegDevice](../)

@@ -18,6 +18,7 @@ Aspose::Pdf::XImageAddingParams::ImageType Aspose::Pdf::XImageAddingParams::get_
 
 ## See Also
 
+* Enum [ImageType](../imagetype/)
 * Class [XImageAddingParams](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

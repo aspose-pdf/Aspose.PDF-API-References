@@ -18,6 +18,7 @@ void Aspose::Pdf::Table::set_ColumnWidths(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

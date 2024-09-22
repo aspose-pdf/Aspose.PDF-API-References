@@ -18,6 +18,8 @@ static System::String Aspose::Pdf::Forms::SignatureSubjectFormatter::FormatSubje
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SubjectNameElements](../../subjectnameelements/)
 * Class [SignatureSubjectFormatter](../)
 * Namespace [Aspose::Pdf::Forms](../../)

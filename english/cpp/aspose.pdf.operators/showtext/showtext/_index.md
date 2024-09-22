@@ -38,6 +38,7 @@ Aspose::Pdf::Operators::ShowText::ShowText(int32_t index, System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -57,6 +58,7 @@ Aspose::Pdf::Operators::ShowText::ShowText(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,6 +79,8 @@ Aspose::Pdf::Operators::ShowText::ShowText(System::String text, System::SharedPt
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)

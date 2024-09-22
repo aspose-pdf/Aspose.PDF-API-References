@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::PdfFileSanitization::BindPdf(System::SharedPtr<Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfFileSanitization](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -43,6 +44,8 @@ void Aspose::Pdf::Facades::PdfFileSanitization::BindPdf(System::SharedPtr<System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSanitization](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,7 @@ void Aspose::Pdf::Facades::PdfFileSanitization::BindPdf(System::String inputFile
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSanitization](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

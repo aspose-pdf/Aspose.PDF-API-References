@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::Graph::set_Border(System::SharedPtr<BorderInfo> value
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../../aspose.pdf/borderinfo/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

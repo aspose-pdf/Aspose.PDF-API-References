@@ -18,6 +18,7 @@ virtual System::String Aspose::Pdf::Structure::Element::get_Lang()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

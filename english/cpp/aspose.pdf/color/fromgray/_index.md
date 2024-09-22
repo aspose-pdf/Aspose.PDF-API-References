@@ -27,6 +27,7 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromGray(double g)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

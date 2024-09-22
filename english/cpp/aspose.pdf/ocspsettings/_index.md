@@ -25,5 +25,6 @@ class OcspSettings : public System::Object
 | [set_ServerUrl](./set_serverurl/)(System::String) | Gets/sets the ocsp server url. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

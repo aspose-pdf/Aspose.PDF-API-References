@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Form::set_DefaultAppearance(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

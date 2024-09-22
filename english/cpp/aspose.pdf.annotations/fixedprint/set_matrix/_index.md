@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::FixedPrint::set_Matrix(System::SharedPtr<Aspose::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [FixedPrint](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

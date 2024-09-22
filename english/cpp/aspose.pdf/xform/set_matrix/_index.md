@@ -18,6 +18,7 @@ void Aspose::Pdf::XForm::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../matrix/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)

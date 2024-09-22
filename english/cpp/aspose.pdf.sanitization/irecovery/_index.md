@@ -26,5 +26,6 @@ class IRecovery : public virtual System::Object
 | virtual [TrimTop](./trimtop/)() | Removes data before PDF. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Sanitization](../)
 * Library [Aspose.PDF for C++](../../)

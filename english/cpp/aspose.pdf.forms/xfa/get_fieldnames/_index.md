@@ -18,6 +18,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::Forms::XFA::get_FieldNames()
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

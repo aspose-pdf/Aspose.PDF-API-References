@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::PDF3DStream::PDF3DStream(System::SharedPtr<Document> d
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PDF3DArtwork](../../pdf3dartwork/)
 * Class [PDF3DStream](../)

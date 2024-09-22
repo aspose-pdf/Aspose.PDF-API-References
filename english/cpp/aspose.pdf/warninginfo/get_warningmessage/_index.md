@@ -23,6 +23,7 @@ the warning message
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [WarningInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

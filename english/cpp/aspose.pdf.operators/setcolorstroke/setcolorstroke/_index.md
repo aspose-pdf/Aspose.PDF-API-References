@@ -99,6 +99,7 @@ Aspose::Pdf::Operators::SetColorStroke::SetColorStroke(System::ArrayPtr<double> 
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [SetColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

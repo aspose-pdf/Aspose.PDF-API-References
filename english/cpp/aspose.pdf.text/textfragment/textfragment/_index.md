@@ -37,6 +37,7 @@ Aspose::Pdf::Text::TextFragment::TextFragment(System::SharedPtr<TabStops> tabSto
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStops](../../tabstops/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -57,6 +58,7 @@ Aspose::Pdf::Text::TextFragment::TextFragment(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,6 +79,8 @@ Aspose::Pdf::Text::TextFragment::TextFragment(System::String text, System::Share
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStops](../../tabstops/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

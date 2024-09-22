@@ -18,6 +18,7 @@ void Aspose::Pdf::HeaderFooter::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [HeaderFooter](../)
 * Namespace [Aspose::Pdf](../../)

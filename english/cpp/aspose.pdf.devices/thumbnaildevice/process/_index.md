@@ -24,7 +24,9 @@ void Aspose::Pdf::Devices::ThumbnailDevice::Process(System::SharedPtr<Page> page
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ThumbnailDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -35,5 +35,6 @@ class PDF3DContent : public System::Object
 | [SaveToFile](./savetofile/)(System::String) | Saves 3D content to file. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

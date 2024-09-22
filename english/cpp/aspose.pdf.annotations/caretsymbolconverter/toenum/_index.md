@@ -19,6 +19,7 @@ static CaretSymbol Aspose::Pdf::Annotations::CaretSymbolConverter::ToEnum(System
 ## See Also
 
 * Enum [CaretSymbol](../../caretsymbol/)
+* Class [String](../../../system/string/)
 * Class [CaretSymbolConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remo
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GoToRemoteAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +45,8 @@ Aspose::Pdf::Annotations::GoToRemoteAction::GoToRemoteAction(System::String remo
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../../explicitdestination/)
 * Class [GoToRemoteAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

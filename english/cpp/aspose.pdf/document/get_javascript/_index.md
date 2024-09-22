@@ -18,6 +18,7 @@ System::SharedPtr<JavaScriptCollection> Aspose::Pdf::Document::get_JavaScript()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [JavaScriptCollection](../../javascriptcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

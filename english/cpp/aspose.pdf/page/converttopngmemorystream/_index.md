@@ -23,6 +23,8 @@ System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Page::ConvertToPNGMemor
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

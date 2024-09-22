@@ -27,6 +27,7 @@ Retrieved image.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -51,7 +52,9 @@ Retrieved image.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
+* Class [String](../../../system/string/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

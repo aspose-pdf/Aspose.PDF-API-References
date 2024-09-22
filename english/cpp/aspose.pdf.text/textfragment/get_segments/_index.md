@@ -25,6 +25,7 @@ In a few words, [TextSegment](../../textsegment/) objects are children of [TextF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegmentCollection](../../textsegmentcollection/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

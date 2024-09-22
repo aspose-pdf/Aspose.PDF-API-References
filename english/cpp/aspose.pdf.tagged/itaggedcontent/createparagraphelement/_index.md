@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::ParagraphElement](../../../aspose.pdf.lo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

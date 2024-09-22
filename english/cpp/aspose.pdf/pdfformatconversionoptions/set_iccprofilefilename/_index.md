@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName(System::Str
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

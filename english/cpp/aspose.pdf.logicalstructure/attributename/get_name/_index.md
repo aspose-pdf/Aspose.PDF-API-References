@@ -18,6 +18,7 @@ System::String Aspose::Pdf::LogicalStructure::AttributeName::get_Name() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AttributeName](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

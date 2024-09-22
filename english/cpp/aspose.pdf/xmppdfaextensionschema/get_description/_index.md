@@ -18,6 +18,7 @@ System::SharedPtr<XmpPdfAExtensionSchemaDescription> Aspose::Pdf::XmpPdfAExtensi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * Class [XmpPdfAExtensionSchema](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ virtual System::SharedPtr<Aspose::Pdf::Hyperlink> Aspose::Pdf::BaseParagraph::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Hyperlink](../../hyperlink/)
 * Class [BaseParagraph](../)
 * Namespace [Aspose::Pdf](../../)

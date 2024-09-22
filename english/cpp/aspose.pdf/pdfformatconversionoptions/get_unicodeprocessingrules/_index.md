@@ -18,6 +18,7 @@ System::SharedPtr<PdfAOptionClasses::ToUnicodeProcessingRules> Aspose::Pdf::PdfF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ToUnicodeProcessingRules](../../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

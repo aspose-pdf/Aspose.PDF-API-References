@@ -25,6 +25,8 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [ImportFormat](../../../aspose.pdf/importformat/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -47,7 +49,10 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [ImportFormat](../../../aspose.pdf/importformat/)
+* Class [String](../../../system/string/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -69,6 +74,8 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImportOptions](../../../aspose.pdf/importoptions/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -91,7 +98,10 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImportOptions](../../../aspose.pdf/importoptions/)
+* Class [String](../../../system/string/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -113,7 +123,10 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::String inputFileN
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ImportFormat](../../../aspose.pdf/importformat/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -135,6 +148,7 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::String inputFileN
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ImportFormat](../../../aspose.pdf/importformat/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -157,7 +171,10 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::String inputFileN
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImportOptions](../../../aspose.pdf/importoptions/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -179,6 +196,8 @@ static void Aspose::Pdf::Facades::PdfProducer::Produce(System::String inputFileN
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImportOptions](../../../aspose.pdf/importoptions/)
 * Class [PdfProducer](../)
 * Namespace [Aspose::Pdf::Facades](../../)

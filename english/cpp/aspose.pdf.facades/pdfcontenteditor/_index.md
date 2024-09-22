@@ -25,8 +25,6 @@ class PdfContentEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [AddDocumentAttachment](./adddocumentattachment/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::String) | Adds document attachment with no annotation. |
 | [BindPdf](./bindpdf/)(System::String) override | Binds a PDF file for editing. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds a PDF stream for editing. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [ChangeViewerPreference](./changeviewerpreference/)(int32_t) | Changes the view preference. |
 | [Close](./close/)() override | Closes opened document. |
 | [CreateApplicationLink](./createapplicationlink/)(System::Drawing::Rectangle, System::String, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) | Creates a link to launch an application in PDF document. |
@@ -70,10 +68,8 @@ class PdfContentEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [DeleteStampById](./deletestampbyid/)(int32_t) | Delete stamp by ID from all pages of the document. |
 | [DeleteStampByIds](./deletestampbyids/)(System::ArrayPtr\<int32_t\>) | Deletes stamps with specified IDs from all pages of the document. |
 | [DeleteStampByIds](./deletestampbyids/)(int32_t, System::ArrayPtr\<int32_t\>) | Deletes stamps on the specified page by multiple stamp IDs. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [DrawCurve](./drawcurve/)(System::SharedPtr\<LineInfo\>, int32_t, System::Drawing::Rectangle, System::String) | Creates curve annotation. |
 | [ExtractLink](./extractlink/)() | Extracts the collection of Link instances contained in PDF document. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_ReplaceTextStrategy](./get_replacetextstrategy/)() const | A set of parameters for replace text operation. |
 | [get_TextEditOptions](./get_texteditoptions/)() const | Gets text edit options. |
 | [get_TextReplaceOptions](./get_textreplaceoptions/)() const | Gets text replace options. |
@@ -92,8 +88,6 @@ class PdfContentEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [ReplaceText](./replacetext/)(System::String, int32_t, System::String) | Replaces text in the PDF file on the specified page. |
 | [ReplaceText](./replacetext/)(System::String, System::String, System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Replaces text in the PDF file using specified [TextState](../) object. |
 | [ReplaceText](./replacetext/)(System::String, System::String, int32_t) | Replaces text in the PDF file and sets font size. |
-| [Save](../saveablefacade/save/)(System::String) override | Saves the PDF document to the specified file. |
-| [Save](../saveablefacade/save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified stream. |
 | [set_ReplaceTextStrategy](./set_replacetextstrategy/)(System::SharedPtr\<Aspose::Pdf::Facades::ReplaceTextStrategy\>) | A set of parameters for replace text operation. |
 | [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. |
 | [set_TextReplaceOptions](./set_textreplaceoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextReplaceOptions\>) | Sets text replace options. |

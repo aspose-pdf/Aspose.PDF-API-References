@@ -27,6 +27,7 @@ True if this rectangle intersects with specified rectangle. Otherwise false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

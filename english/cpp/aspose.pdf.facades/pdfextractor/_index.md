@@ -22,16 +22,11 @@ class PdfExtractor : public Aspose::Pdf::Facades::Facade
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::String) override | Bind input PDF file. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds PDF document from stream. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
-| [Close](../facade/close/)() override | Disposes [Aspose.Pdf.Document](../../aspose.pdf/document/) bound with a facade. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [ExtractAttachment](./extractattachment/)() | Extracts attachments from a [Pdf](../../aspose.pdf/) document. |
 | [ExtractAttachment](./extractattachment/)(System::String) | Extracts attachment to PDF file by attachment name. |
 | [ExtractImage](./extractimage/)() | Extract images from PDF file. |
 | [ExtractText](./extracttext/)() | Extracts text from a [Pdf](../../aspose.pdf/) document using Unicode encoding. |
 | [ExtractText](./extracttext/)(System::SharedPtr\<System::Text::Encoding\>) | Extracts text from a [Pdf](../../aspose.pdf/) document using specified encoding. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_EndPage](./get_endpage/)() const | Gets end page in the page range where extracting operation will be performed. |
 | [get_ExtractImageMode](./get_extractimagemode/)() const | Sets the mode for extract images process. |
 | [get_ExtractTextMode](./get_extracttextmode/)() const | Sets the mode for extract text's result. |

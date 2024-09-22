@@ -18,6 +18,7 @@ System::SharedPtr<FontCollection> Aspose::Pdf::Text::FontAbsorber::get_Fonts() c
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontCollection](../../fontcollection/)
 * Class [FontAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Text::TextState> Aspose::Pdf::Cell::get_DefaultCellTextState()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

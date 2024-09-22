@@ -18,6 +18,7 @@ System::SharedPtr<PdfANonSpecificationFlags> Aspose::Pdf::PdfFormatConversionOpt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

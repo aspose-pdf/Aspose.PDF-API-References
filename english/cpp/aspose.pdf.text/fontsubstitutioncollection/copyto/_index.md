@@ -24,6 +24,8 @@ void Aspose::Pdf::Text::FontSubstitutionCollection::CopyTo(System::ArrayPtr<Syst
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSubstitution](../../fontsubstitution/)
 * Class [FontSubstitutionCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -25,5 +25,6 @@ class XfdfReader : public System::Object
 | static [ReadFields](./readfields/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Document\>) | Import field values from XFDF file. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

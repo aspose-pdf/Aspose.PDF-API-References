@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::SignatureCustomAppearance::set_LocationLabel(System::St
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

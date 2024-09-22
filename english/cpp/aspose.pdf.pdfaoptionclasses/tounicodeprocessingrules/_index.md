@@ -29,5 +29,6 @@ class ToUnicodeProcessingRules : public System::Object
 | [ToUnicodeProcessingRules](./tounicodeprocessingrules/)(bool, bool) | Constructor. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::PdfAOptionClasses](../)
 * Library [Aspose.PDF for C++](../../)

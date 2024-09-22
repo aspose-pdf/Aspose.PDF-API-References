@@ -19,6 +19,7 @@ static PageMode Aspose::Pdf::PageModeConverter::ToEnum(System::String value)
 ## See Also
 
 * Enum [PageMode](../../pagemode/)
+* Class [String](../../../system/string/)
 * Class [PageModeConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

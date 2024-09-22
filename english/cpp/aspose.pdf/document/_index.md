@@ -18,6 +18,12 @@ class Document : public System::IDisposable,
                  public Aspose::Pdf::LicenseManagement::IVentureLicenseTarget
 ```
 
+## Nested classes
+
+* Class [IDocumentFontUtilities](./idocumentfontutilities/)
+* Class [MergeOptions](./mergeoptions/)
+* Class [OptimizationOptions](./optimizationoptions/)
+* Class [RepairOptions](./repairoptions/)
 ## Methods
 
 | Method | Description |
@@ -84,7 +90,7 @@ class Document : public System::IDisposable,
 | [get_FileName](./get_filename/)() | Name of the PDF file that caused this document. |
 | static [get_FileSizeLimitToMemoryLoading](./get_filesizelimittomemoryloading/)() | Get and set the file size limit for loading an entire file into memory. The value is set in megabytes. The default value is 210 Mb. |
 | [get_FitWindow](./get_fitwindow/)() | Gets flag specifying whether document window must be resized to fit the first displayed page. |
-| [get_FontUtilities](./get_fontutilities/)() | **IDocumentFontUtilities** instance. |
+| [get_FontUtilities](./get_fontutilities/)() | [IDocumentFontUtilities](./idocumentfontutilities/) instance. |
 | [get_Form](./get_form/)() | Gets Acro Form of the document. |
 | [get_HandleSignatureChange](./get_handlesignaturechange/)() const | Throw Exception if the document will save with changes and have signature. |
 | [get_HideMenubar](./get_hidemenubar/)() | Gets flag specifying whether menu bar should be hidden when document is active. |
@@ -205,6 +211,7 @@ class Document : public System::IDisposable,
 | [FontSubstitutionHandler](./fontsubstitutionhandler/) | Represents the method that will handle FontSubstitution event. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

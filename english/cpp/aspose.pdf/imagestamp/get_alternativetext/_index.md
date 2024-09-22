@@ -18,6 +18,7 @@ System::String Aspose::Pdf::ImageStamp::get_AlternativeText() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

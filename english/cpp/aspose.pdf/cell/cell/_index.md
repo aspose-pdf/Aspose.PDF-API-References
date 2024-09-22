@@ -37,6 +37,7 @@ Aspose::Pdf::Cell::Cell(System::SharedPtr<Rectangle> rect)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

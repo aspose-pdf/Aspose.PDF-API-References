@@ -24,6 +24,8 @@ void Aspose::Pdf::NamedDestinationCollection::Add(System::String name, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [NamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)

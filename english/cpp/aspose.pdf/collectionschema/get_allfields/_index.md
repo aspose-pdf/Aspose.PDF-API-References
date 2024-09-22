@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Co
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
 * Class [CollectionField](../../collectionfield/)
 * Class [CollectionSchema](../)
 * Namespace [Aspose::Pdf](../../)

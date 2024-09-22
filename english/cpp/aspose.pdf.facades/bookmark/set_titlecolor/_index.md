@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::Bookmark::set_TitleColor(System::Drawing::Color value
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [Bookmark](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

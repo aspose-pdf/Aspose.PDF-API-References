@@ -27,6 +27,7 @@ true if key is found.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

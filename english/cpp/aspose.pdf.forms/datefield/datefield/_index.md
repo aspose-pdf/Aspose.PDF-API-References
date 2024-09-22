@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Aspose::Pdf::Page> pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [DateField](../)
@@ -59,6 +60,7 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -80,6 +82,7 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc, System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [DateField](../)

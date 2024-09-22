@@ -30,5 +30,6 @@ class LaunchActionOperationConverter : public System::Object
 | static [strPrint](./strprint/) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

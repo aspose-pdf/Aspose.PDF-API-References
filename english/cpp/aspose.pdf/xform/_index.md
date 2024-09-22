@@ -41,6 +41,7 @@ class XForm : public System::IDisposable,
 | [set_Name](./set_name/)(System::String) | Sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Class [IOperatorContainer](../ioperatorcontainer/)
 * Namespace [Aspose::Pdf](../)

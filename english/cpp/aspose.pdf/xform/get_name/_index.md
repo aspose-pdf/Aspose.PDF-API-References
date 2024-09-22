@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XForm::get_Name()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

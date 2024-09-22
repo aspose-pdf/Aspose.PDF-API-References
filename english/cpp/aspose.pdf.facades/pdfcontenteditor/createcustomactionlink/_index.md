@@ -30,6 +30,11 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateCustomActionLink(System::Draw
 /// 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [Color](../../../system.drawing/color/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BoxedValueBase](../../../system/boxedvaluebase/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

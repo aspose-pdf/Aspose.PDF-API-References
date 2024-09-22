@@ -23,6 +23,8 @@ void Aspose::Pdf::XImage::Save(System::SharedPtr<System::IO::Stream> stream)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::XImage::Save(System::SharedPtr<System::IO::Stream> stream, int
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -63,6 +67,9 @@ void Aspose::Pdf::XImage::Save(System::SharedPtr<System::IO::Stream> stream, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -84,6 +91,9 @@ void Aspose::Pdf::XImage::Save(System::SharedPtr<System::IO::Stream> stream, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

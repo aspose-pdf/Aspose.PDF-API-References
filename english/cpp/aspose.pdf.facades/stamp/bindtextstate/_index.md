@@ -23,6 +23,7 @@ void Aspose::Pdf::Facades::Stamp::BindTextState(System::SharedPtr<Aspose::Pdf::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)

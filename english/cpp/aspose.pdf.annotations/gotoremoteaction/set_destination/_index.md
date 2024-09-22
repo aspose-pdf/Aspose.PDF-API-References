@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::GoToRemoteAction::set_Destination(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [GoToRemoteAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

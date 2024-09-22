@@ -18,6 +18,7 @@ System::SharedPtr<BaseParagraph> Aspose::Pdf::LocalHyperlink::get_Target() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [LocalHyperlink](../)
 * Namespace [Aspose::Pdf](../../)

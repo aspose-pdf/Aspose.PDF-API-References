@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfboolean/tostring/
 ## CosPdfBoolean::ToString method
 
 
-Returns a **System::String** that represents the current [CosPdfBoolean](../).
+Returns a [System::String](../../../system/string/) that represents the current [CosPdfBoolean](../).
 
 ```cpp
 System::String Aspose::Pdf::Utils::PublicData::CosPdfBoolean::ToString() const override
@@ -19,10 +19,11 @@ System::String Aspose::Pdf::Utils::PublicData::CosPdfBoolean::ToString() const o
 
 ### ReturnValue
 
-A **System::String** that represents the current [CosPdfBoolean](../).
+A [System::String](../../../system/string/) that represents the current [CosPdfBoolean](../).
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfBoolean](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

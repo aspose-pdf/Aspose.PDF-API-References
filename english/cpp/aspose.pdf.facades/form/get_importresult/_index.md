@@ -18,6 +18,9 @@ System::ArrayPtr<System::SharedPtr<Form::FormImportResult>> Aspose::Pdf::Facades
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FormImportResult](../formimportresult/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

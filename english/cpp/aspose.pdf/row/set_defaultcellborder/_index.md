@@ -18,6 +18,7 @@ void Aspose::Pdf::Row::set_DefaultCellBorder(System::SharedPtr<BorderInfo> value
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../borderinfo/)
 * Class [Row](../)
 * Namespace [Aspose::Pdf](../../)

@@ -27,5 +27,6 @@ class Watermark : public System::Object
 | [Watermark](./watermark/)(System::SharedPtr\<System::Drawing::Image\>) | Initializes a watermark object with an image. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

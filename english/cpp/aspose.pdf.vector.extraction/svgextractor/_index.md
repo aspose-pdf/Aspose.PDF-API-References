@@ -30,5 +30,6 @@ class SvgExtractor : public System::Object
 | [SvgExtractor](./svgextractor/)(System::SharedPtr\<SvgExtractionOptions\>) | Represents a class to extract SVG images from a page. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Vector::Extraction](../)
 * Library [Aspose.PDF for C++](../../)

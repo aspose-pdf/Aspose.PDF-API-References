@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextEditOptions::set_ReplacementFont(System::SharedPtr<F
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)

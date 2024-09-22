@@ -22,6 +22,7 @@ System::String Aspose::Pdf::LogicalStructure::AttributeKey::get_Key() const
 Attribute Key.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AttributeKey](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

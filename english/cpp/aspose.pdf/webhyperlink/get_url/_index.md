@@ -18,6 +18,7 @@ System::String Aspose::Pdf::WebHyperlink::get_Url() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [WebHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

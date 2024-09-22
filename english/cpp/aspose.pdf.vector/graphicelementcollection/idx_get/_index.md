@@ -27,6 +27,7 @@ System::SharedPtr<GraphicElement> Aspose::Pdf::Vector::GraphicElementCollection:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElement](../../graphicelement/)
 * Class [GraphicElementCollection](../)
 * Namespace [Aspose::Pdf::Vector](../../)

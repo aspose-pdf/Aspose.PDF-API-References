@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Rendition>> Aspose::Pdf::Annotations::Selecto
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rendition](../../rendition/)
 * Class [SelectorRendition](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -59,6 +59,7 @@ Aspose::Pdf::Devices::ImageDevice::ImageDevice(int32_t width, int32_t height, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -74,6 +75,7 @@ Aspose::Pdf::Devices::ImageDevice::ImageDevice(System::SharedPtr<Aspose::Pdf::De
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -94,6 +96,7 @@ Aspose::Pdf::Devices::ImageDevice::ImageDevice(System::SharedPtr<PageSize> pageS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -115,6 +118,7 @@ Aspose::Pdf::Devices::ImageDevice::ImageDevice(System::SharedPtr<PageSize> pageS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [ImageDevice](../)

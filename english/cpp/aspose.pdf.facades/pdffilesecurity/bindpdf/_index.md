@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfFileSecurity::BindPdf(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Facades::PdfFileSecurity::BindPdf(System::String srcFile) over
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

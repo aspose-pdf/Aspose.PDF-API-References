@@ -31,6 +31,7 @@ Pages numbers start from 1. Returns 0 in case collection doesn't contain the pag
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)

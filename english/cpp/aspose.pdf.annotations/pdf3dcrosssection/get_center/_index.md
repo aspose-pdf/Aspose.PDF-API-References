@@ -22,6 +22,7 @@ System::SharedPtr<Point3D> Aspose::Pdf::Annotations::PDF3DCrossSection::get_Cent
 The center.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point3D](../../../aspose.pdf/point3d/)
 * Class [PDF3DCrossSection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

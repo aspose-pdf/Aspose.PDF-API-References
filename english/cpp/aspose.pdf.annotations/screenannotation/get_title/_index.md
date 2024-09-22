@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::ScreenAnnotation::get_Title() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ScreenAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

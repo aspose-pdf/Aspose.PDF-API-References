@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DView::set_CameraPosition(System::SharedPtr<M
 The camera position of view.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix3D](../../../aspose.pdf/matrix3d/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

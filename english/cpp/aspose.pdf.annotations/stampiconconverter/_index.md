@@ -24,5 +24,6 @@ class StampIconConverter : public System::Object
 | static [ToString](./tostring/)(StampIcon) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

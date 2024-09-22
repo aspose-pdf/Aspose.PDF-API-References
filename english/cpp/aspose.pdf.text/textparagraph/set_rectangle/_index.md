@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextParagraph::set_Rectangle(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

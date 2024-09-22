@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::ReplyTypeConverter::ToXfdfString
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ReplyType](../../replytype/)
 * Class [ReplyTypeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

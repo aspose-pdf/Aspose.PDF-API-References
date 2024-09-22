@@ -28,6 +28,7 @@ Property flag (ReadOnly/ Required/NoExport
 ## See Also
 
 * Enum [PropertyFlag](../../propertyflag/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

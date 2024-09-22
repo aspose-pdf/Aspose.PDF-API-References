@@ -28,7 +28,6 @@ class GradientRadialShading : public Aspose::Pdf::Drawing::PatternColorSpace
 | [get_StartingRadius](./get_startingradius/)() const | Gets starting circle radius. |
 | [GradientRadialShading](./gradientradialshading/)() | Initializes a new instance of the [GradientRadialShading](./) class. |
 | [GradientRadialShading](./gradientradialshading/)(System::SharedPtr\<Color\>, System::SharedPtr\<Color\>) | Initializes a new instance of the [GradientRadialShading](./) class. |
-| [PatternColorSpace](../patterncolorspace/patterncolorspace/)() |  |
 | [set_End](./set_end/)(System::SharedPtr\<Point\>) | Sets ending circle center point. |
 | [set_EndColor](./set_endcolor/)(System::SharedPtr\<Color\>) | Sets end color. |
 | [set_EndingRadius](./set_endingradius/)(double) | Sets ending circle radius. |

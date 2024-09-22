@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::CurveTo::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CurveTo](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

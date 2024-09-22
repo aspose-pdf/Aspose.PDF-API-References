@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Text::FontSourceCollection::get_S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [FontSourceCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
