@@ -4,7 +4,7 @@ linktitle: RepairOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::RepairOptions class. Represents options for repairing a PDF document in C++.'
 type: docs
-weight: 12500
+weight: 12600
 url: /cpp/aspose.pdf/document/repairoptions/
 ---
 ## RepairOptions class

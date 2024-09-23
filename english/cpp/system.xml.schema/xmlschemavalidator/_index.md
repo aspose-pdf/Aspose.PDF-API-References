@@ -47,6 +47,11 @@ class XmlSchemaValidator : public System::Object
 | [ValidateWhitespace](./validatewhitespace/)(const String\&) | Validates whether the white space in the **string** specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content. |
 | [ValidateWhitespace](./validatewhitespace/)(XmlValueGetter) | Validates whether the white space returned by the XmlValueGetter object specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content. |
 | [XmlSchemaValidator](./xmlschemavalidator/)(const SharedPtr\<XmlNameTable\>\&, const SharedPtr\<XmlSchemaSet\>\&, const SharedPtr\<IXmlNamespaceResolver\>\&, XmlSchemaValidationFlags) | Initializes a new instance of the [XmlSchemaValidator](./) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ValidationEventHandler](./validationeventhandler/) | The ValidationEventHandler that receives schema validation warnings and errors encountered during schema validation. |
 ## Typedefs
 
 | Typedef | Description |

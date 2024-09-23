@@ -68,6 +68,12 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [set_Underline](./set_underline/)(bool) override | Sets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_WordSpacing](./set_wordspacing/)(float) override | Sets word spacing of the text. |
 | [TextFragmentState](./textfragmentstate/)(System::SharedPtr\<TextFragment\>) | Initializes new instance of the [TextFragmentState](./) object with specified [TextFragment](../textfragment/) object. This [TextFragmentState](./) initialization is not supported. [TextFragmentState](./) is only available with [TextFragment::TextState](../) property. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [TabstopDefaultValue](../textstate/tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
+| [TabTag](../textstate/tabtag/) | You can place this tag in text to declare tabulation. |
 ## Remarks
 
 

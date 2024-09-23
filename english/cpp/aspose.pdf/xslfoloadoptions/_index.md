@@ -32,6 +32,11 @@ class XslFoLoadOptions : public Aspose::Pdf::XmlLoadOptions
 | [XslFoLoadOptions](./xslfoloadoptions/)() | Creates [XslFoLoadOptions](./) object without xsl data. |
 | [XslFoLoadOptions](./xslfoloadoptions/)(System::String) | Creates [XslFoLoadOptions](./) object with xsl data. |
 | [XslFoLoadOptions](./xslfoloadoptions/)(System::SharedPtr\<System::IO::Stream\>) | Creates [XslFoLoadOptions](./) object with xsl data. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ParsingErrorsHandlingType](./parsingerrorshandlingtype/) | Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handking of that errors. |
 ## See Also
 
 * Class [XmlLoadOptions](../xmlloadoptions/)

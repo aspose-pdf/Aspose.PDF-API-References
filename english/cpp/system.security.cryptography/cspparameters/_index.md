@@ -24,6 +24,14 @@ class CspParameters : public System::Object
 | [CspParameters](./cspparameters/)(int) | Constructor. |
 | [CspParameters](./cspparameters/)(int, const System::String\&) | Constructor. |
 | [CspParameters](./cspparameters/)(int, const System::String\&, const System::String\&) | Constructor. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [KeyContainerName](./keycontainername/) | RTTI information. |
+| [KeyNumber](./keynumber/) | Specifies whether asymmetric key is signature key or exchange key. |
+| [ProviderName](./providername/) | CSP name. |
+| [ProviderType](./providertype/) | CSP type. |
 ## See Also
 
 * Class [Object](../../system/object/)

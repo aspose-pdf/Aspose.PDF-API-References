@@ -25,6 +25,11 @@ class PrintDocument : public System::Object
 | [set_DocumentName](./set_documentname/)(const String\&) | NOT IMPLEMENTED. |
 | [set_PrintController](./set_printcontroller/)(const SharedPtr\<PrintController\>\&) | NOT IMPLEMENTED. |
 | [set_PrinterSettings](./set_printersettings/)(const SharedPtr\<PrinterSettings\>\&) | NOT IMPLEMENTED. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [PrintPage](./printpage/) | An event that gets fired when the output to print for the current page is needed. |
 ## See Also
 
 * Class [Object](../../system/object/)

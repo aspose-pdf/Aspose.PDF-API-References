@@ -21,6 +21,11 @@ template<class T>class BoxedValue : public System::TypeInfoPtr
 | Method | Description |
 | --- | --- |
 | [BoxedValue](./boxedvalue/)() | Fills appropriate type name. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ptr](../../typeinfoptr/ptr/) | Unique pointer to the [TypeInfo](../) object. |
 ## See Also
 
 * Class [TypeInfo](../)

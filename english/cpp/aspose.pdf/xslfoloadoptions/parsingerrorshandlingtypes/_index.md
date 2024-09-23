@@ -4,7 +4,7 @@ linktitle: ParsingErrorsHandlingTypes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XslFoLoadOptions::ParsingErrorsHandlingTypes enum. Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtypes/
 ---
 ## ParsingErrorsHandlingTypes enum

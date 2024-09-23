@@ -29,6 +29,13 @@ class PclLoadOptions : public Aspose::Pdf::LoadOptions,
 | [get_BatchSize](./get_batchsize/)() override | Defines batch size if batched conversion is applicable to source and destination formats pair. |
 | [PclLoadOptions](./pclloadoptions/)() | Creates [PclLoadOptions](./) object. |
 | [set_BatchSize](./set_batchsize/)(int32_t) override | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ConversionEngine](./conversionengine/) | Defines conversion engine that will be used for conversion. |
+| [Exceptions](./exceptions/) | List of conversion errors. |
+| [SupressErrors](./supresserrors/) | Gets or sets boolean value which indicates will PCL conversion errors should be supressed. |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

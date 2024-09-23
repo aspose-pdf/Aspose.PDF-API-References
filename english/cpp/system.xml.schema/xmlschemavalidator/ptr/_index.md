@@ -4,7 +4,7 @@ linktitle: Ptr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Xml::Schema::XmlSchemaValidator::Ptr typedef. An alias for shared pointer to an instance of this class in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system.xml.schema/xmlschemavalidator/ptr/
 ---
 ## Ptr typedef

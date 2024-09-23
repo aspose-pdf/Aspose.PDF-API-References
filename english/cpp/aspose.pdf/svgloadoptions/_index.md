@@ -30,6 +30,11 @@ class SvgLoadOptions : public Aspose::Pdf::LoadOptions
 | [set_AdjustPageSize](./set_adjustpagesize/)(bool) | Adust pdf page size to svg size. |
 | [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets page info that should be applied during loading of document. |
 | [SvgLoadOptions](./svgloadoptions/)() | Creates [SvgLoadOptions](./) object. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ConversionEngine](./conversionengine/) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to [ConversionEngines.LegacyEngine](./conversionengines/). |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

@@ -73,6 +73,11 @@ class PdfFormatConversionOptions : public System::Object
 | [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [set_TransparencyAction](./set_transparencyaction/)(ConvertTransparencyAction) | Action for image masked objects. |
 | [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(System::SharedPtr\<PdfAOptionClasses::ToUnicodeProcessingRules\>) | Rules to solve problems with unicode mapping. Can be null. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [AlignStrategy](./alignstrategy/) | Strategy to align text. This parameter has sense only when flag [AlignText](../) is set to true. |
 ## See Also
 
 * Class [Object](../../system/object/)

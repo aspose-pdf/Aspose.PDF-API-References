@@ -4,7 +4,7 @@ linktitle: PartsEmbeddingModes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::PartsEmbeddingModes enum. This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities in C++.'
 type: docs
-weight: 5600
+weight: 8000
 url: /cpp/aspose.pdf/htmlsaveoptions/partsembeddingmodes/
 ---
 ## PartsEmbeddingModes enum
