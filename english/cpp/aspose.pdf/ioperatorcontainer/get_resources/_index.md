@@ -18,6 +18,7 @@ virtual System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::IOperatorContaine
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resources](../../resources/)
 * Class [IOperatorContainer](../)
 * Namespace [Aspose::Pdf](../../)

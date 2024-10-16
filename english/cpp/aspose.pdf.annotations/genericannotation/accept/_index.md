@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::GenericAnnotation::Accept(System::SharedPtr<Annot
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [GenericAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

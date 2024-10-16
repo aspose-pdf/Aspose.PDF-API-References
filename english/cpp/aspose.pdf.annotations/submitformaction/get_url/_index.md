@@ -18,6 +18,7 @@ System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::SubmitFormAction:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [SubmitFormAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

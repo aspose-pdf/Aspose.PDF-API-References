@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PolyAnnotation::ChangeAfterResize(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [PolyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

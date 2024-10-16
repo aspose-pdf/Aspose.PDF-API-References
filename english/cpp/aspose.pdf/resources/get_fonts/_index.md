@@ -18,6 +18,7 @@ System::SharedPtr<Text::FontCollection> Aspose::Pdf::Resources::get_Fonts()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontCollection](../../../aspose.pdf.text/fontcollection/)
 * Class [Resources](../)
 * Namespace [Aspose::Pdf](../../)

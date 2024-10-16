@@ -33,6 +33,9 @@ true if action was performed successfully.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,8 @@ true if resize was successful
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

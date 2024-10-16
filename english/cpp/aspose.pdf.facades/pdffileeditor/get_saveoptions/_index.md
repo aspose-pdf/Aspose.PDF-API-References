@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::SaveOptions> Aspose::Pdf::Facades::PdfFileEditor:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

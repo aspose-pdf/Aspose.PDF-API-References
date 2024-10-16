@@ -23,6 +23,7 @@ Aspose::Pdf::EncryptedPayload::EncryptedPayload(System::SharedPtr<FileSpecificat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EncryptedPayload](../)
 * Namespace [Aspose::Pdf](../../)

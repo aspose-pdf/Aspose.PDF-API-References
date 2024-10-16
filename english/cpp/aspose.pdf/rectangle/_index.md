@@ -26,8 +26,8 @@ class Rectangle : public System::ICloneable
 | [ContainsLine](./containsline/)(double, double, double, double) | Determines whether the rectangle contains a line represented by two points. |
 | [ContainsPoint](./containspoint/)(double, double) | Determines whether the given point is contained within the rectangle. |
 | [Equals](./equals/)(System::SharedPtr\<Rectangle\>) | Check if rectangles are equal i.e. have same position and sizes. |
-| static [FromRect](./fromrect/)(System::Drawing::Rectangle) | Initializes new rectangle from given instance of **System.Drawing.Rectangle**. |
-| static [FromRect](./fromrect/)(System::Drawing::RectangleF) | Initializes new rectangle from given instance of **System.Drawing.Rectangle**. |
+| static [FromRect](./fromrect/)(System::Drawing::Rectangle) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
+| static [FromRect](./fromrect/)(System::Drawing::RectangleF) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
 | [get_Height](./get_height/)() | Height of rectangle. |
 | [get_IsEmpty](./get_isempty/)() const | Checks if rectangle is empty. |
 | [get_IsPoint](./get_ispoint/)() | Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY. |
@@ -51,7 +51,7 @@ class Rectangle : public System::ICloneable
 | [set_URX](./set_urx/)(double) | X - coordinate of upper-right corner. |
 | [set_URY](./set_ury/)(double) | Y - coordinate of upper-right corner. |
 | [ToPoints](./topoints/)() | Converts rectangle into array of points ("QuadPoints"). |
-| [ToRect](./torect/)() | Converts rectangle to instance of **System.Drawing.Rectangle**. Floating-point positions and size are truncated. |
+| [ToRect](./torect/)() | Converts rectangle to instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). Floating-point positions and size are truncated. |
 | [ToString](./tostring/)() const override | Gets rectangle string representation. |
 ## Fields
 
@@ -60,5 +60,6 @@ class Rectangle : public System::ICloneable
 | static [Empty](./empty/) | Empty rectangle. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

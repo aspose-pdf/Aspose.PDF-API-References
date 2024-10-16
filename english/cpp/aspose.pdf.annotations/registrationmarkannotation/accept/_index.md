@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::RegistrationMarkAnnotation::Accept(System::Shared
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [RegistrationMarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

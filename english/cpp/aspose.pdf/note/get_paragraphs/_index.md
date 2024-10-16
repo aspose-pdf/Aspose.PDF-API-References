@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Paragraphs> Aspose::Pdf::Note::get_Paragraphs() c
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)

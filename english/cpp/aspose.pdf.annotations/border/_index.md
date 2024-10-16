@@ -37,5 +37,6 @@ class Border : public System::Object
 | [set_Width](./set_width/)(int32_t) | Sets border width. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

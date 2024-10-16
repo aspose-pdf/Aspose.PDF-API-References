@@ -22,6 +22,7 @@ System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DAnnotation
 The lighting scheme.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

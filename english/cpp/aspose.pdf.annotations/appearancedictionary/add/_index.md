@@ -23,6 +23,9 @@ void Aspose::Pdf::Annotations::AppearanceDictionary::Add(const System::Collectio
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -44,6 +47,8 @@ void Aspose::Pdf::Annotations::AppearanceDictionary::Add(const System::String &k
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

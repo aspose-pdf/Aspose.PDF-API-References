@@ -37,6 +37,8 @@ void Aspose::Pdf::Facades::PdfExtractor::ExtractText(System::SharedPtr<System::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

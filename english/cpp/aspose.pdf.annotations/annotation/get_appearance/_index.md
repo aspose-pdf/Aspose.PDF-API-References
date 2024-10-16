@@ -18,6 +18,7 @@ System::SharedPtr<AppearanceDictionary> Aspose::Pdf::Annotations::Annotation::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AppearanceDictionary](../../appearancedictionary/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

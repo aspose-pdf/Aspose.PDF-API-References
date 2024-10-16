@@ -27,6 +27,7 @@ System::SharedPtr<Cell> Aspose::Pdf::Cells::idx_get(int32_t index)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)

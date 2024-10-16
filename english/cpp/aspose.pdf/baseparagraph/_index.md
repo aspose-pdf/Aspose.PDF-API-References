@@ -42,5 +42,6 @@ class BaseParagraph : public System::ICloneable
 | [set_ZIndex](./set_zindex/)(int32_t) | Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

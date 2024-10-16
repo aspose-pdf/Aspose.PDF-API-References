@@ -56,6 +56,7 @@ void Aspose::Pdf::XFormCollection::Delete(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

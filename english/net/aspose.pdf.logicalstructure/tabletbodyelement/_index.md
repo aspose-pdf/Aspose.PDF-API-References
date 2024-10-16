@@ -3,7 +3,7 @@ title: Class TableTBodyElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableTBodyElement class. Represents TBody structure element in logical structure of the table
 type: docs
-weight: 5170
+weight: 5210
 url: /net/aspose.pdf.logicalstructure/tabletbodyelement/
 ---
 ## TableTBodyElement class

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetTextLeading::Accept(System::SharedPtr<IOperatorS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetTextLeading](../)
 * Namespace [Aspose::Pdf::Operators](../../)

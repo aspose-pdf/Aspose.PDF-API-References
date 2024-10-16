@@ -28,5 +28,6 @@ class INamedDestinationCollection : public virtual System::Object
 | virtual [Remove](./remove/)(System::String) | Removes destination by its name. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

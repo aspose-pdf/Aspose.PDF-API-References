@@ -18,6 +18,8 @@ System::SharedPtr<Measure::NumberFormatList> Aspose::Pdf::Annotations::Measure::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NumberFormatList](../numberformatlist/)
 * Class [Measure](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ System::String Aspose::Pdf::LogicalStructure::StructureElement::get_Language()
 Language of the structure element.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

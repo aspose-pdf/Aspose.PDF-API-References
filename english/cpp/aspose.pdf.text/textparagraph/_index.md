@@ -53,5 +53,6 @@ class TextParagraph : public System::Object
 | [TextParagraph](./textparagraph/)() | Creates [TextParagraph](./) object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

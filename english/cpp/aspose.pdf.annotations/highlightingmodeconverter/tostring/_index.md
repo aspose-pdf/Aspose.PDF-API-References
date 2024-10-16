@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::HighlightingModeConverter::ToStr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [HighlightingMode](../../highlightingmode/)
 * Class [HighlightingModeConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

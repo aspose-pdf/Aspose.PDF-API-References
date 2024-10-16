@@ -3,7 +3,7 @@ title: Class BDC
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.BDC class. class representing BDC operator Begin markedcontent sequence
 type: docs
-weight: 5450
+weight: 5490
 url: /net/aspose.pdf.operators/bdc/
 ---
 ## BDC class

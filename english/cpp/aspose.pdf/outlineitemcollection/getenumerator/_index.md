@@ -19,16 +19,18 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Ou
 
 ### ReturnValue
 
-An **System.Collections.IEnumerator** object that can be used to iterate through the collection.
+An [System.Collections.IEnumerator](../../../system.collections/ienumerator/) object that can be used to iterate through the collection.
 ## Remarks
 
 
-**System.Collections.IEnumerator****System.Collections.IEnumerable.GetEnumerator()** { return new OutlineCollection.OutlinesEnumerator(EngineDict, document); }
+[System.Collections.IEnumerator](../../../system.collections/ienumerator/)[System.Collections.IEnumerable.GetEnumerator()](../../../system.collections/ienumerable/getenumerator/) { return new OutlineCollection.OutlinesEnumerator(EngineDict, document); }
 
 Returns an enumerator that iterates through the collection.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [OutlineItemCollection](../)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

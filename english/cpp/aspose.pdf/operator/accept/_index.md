@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Operator::Accept(System::SharedPtr<IOperatorSelector> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../ioperatorselector/)
 * Class [Operator](../)
 * Namespace [Aspose::Pdf](../../)

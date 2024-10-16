@@ -23,6 +23,8 @@ If image was successfully found than returns jpeg encoded stream object; otherwi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -46,6 +48,9 @@ If image was successfully found than returns encodedstream object; otherwise, nu
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [ImageFormat](../../../system.drawing.imaging/imageformat/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

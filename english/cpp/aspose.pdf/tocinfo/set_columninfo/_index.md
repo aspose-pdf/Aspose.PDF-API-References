@@ -18,6 +18,7 @@ void Aspose::Pdf::TocInfo::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnI
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ColumnInfo](../../columninfo/)
 * Class [TocInfo](../)
 * Namespace [Aspose::Pdf](../../)

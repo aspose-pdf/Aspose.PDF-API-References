@@ -23,6 +23,7 @@ void Aspose::Pdf::DocumentInfo::Remove(System::String key)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

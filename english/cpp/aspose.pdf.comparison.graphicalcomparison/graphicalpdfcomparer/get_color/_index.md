@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Color> & Aspose::Pdf::Comparison::Graphical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [GraphicalPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)

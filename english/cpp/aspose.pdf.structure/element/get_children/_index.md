@@ -18,6 +18,7 @@ System::SharedPtr<ElementCollection> Aspose::Pdf::Structure::Element::get_Childr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ElementCollection](../../elementcollection/)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::Structure](../../)

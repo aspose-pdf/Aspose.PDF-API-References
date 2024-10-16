@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::MarkupParagraph::set_Text(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MarkupParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

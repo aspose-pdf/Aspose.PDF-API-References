@@ -27,6 +27,8 @@ Array with found fields.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Form](../)

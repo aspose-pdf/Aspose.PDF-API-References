@@ -27,6 +27,7 @@ True for success, or false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -21,6 +21,7 @@ const System::SharedPtr<Aspose::Pdf::ColumnInfo> & Aspose::Pdf::FloatingBox::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ColumnInfo](../../columninfo/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

@@ -22,6 +22,7 @@ System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::get_ParentEle
 Parent element.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

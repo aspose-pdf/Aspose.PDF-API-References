@@ -18,6 +18,7 @@ System::String Aspose::Pdf::PageNumberStamp::get_Format() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PageNumberStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

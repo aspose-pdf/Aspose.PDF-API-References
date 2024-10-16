@@ -23,6 +23,7 @@ void Aspose::Pdf::XFormCollection::Add(const System::SharedPtr<XForm> &item) ove
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)

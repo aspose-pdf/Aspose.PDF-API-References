@@ -23,6 +23,7 @@ Aspose::Pdf::Utils::PublicData::CosPdfString::CosPdfString(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfString](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::Utils::PublicData::CosPdfString::CosPdfString(System::String value,
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfString](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

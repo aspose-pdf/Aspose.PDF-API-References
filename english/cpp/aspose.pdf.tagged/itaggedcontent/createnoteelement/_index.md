@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::NoteElement](../../../aspose.pdf.logical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

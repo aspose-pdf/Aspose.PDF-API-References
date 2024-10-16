@@ -37,5 +37,6 @@ class PDF3DView : public System::Object
 | [set_ViewName](./set_viewname/)(System::String) | Sets the name of the view. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

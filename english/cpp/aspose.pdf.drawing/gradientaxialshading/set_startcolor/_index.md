@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::GradientAxialShading::set_StartColor(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [GradientAxialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

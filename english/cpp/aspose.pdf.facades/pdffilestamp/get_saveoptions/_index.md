@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::SaveOptions> Aspose::Pdf::Facades::PdfFileStamp::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)

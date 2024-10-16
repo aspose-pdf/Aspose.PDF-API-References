@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Forms::Form> Aspose::Pdf::Document::get_Form()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Form](../../../aspose.pdf.forms/form/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

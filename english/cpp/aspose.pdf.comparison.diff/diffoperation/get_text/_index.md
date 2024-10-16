@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Comparison::Diff::DiffOperation::get_Text() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DiffOperation](../)
 * Namespace [Aspose::Pdf::Comparison::Diff](../../)
 * Library [Aspose.PDF for C++](../../../)

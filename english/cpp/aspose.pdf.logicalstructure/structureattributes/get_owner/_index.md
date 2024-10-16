@@ -22,6 +22,7 @@ System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::Structu
 Standard attribute owner.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeOwnerStandard](../../attributeownerstandard/)
 * Class [StructureAttributes](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

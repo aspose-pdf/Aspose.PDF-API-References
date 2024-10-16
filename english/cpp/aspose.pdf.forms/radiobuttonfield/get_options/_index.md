@@ -18,6 +18,7 @@ System::SharedPtr<OptionCollection> Aspose::Pdf::Forms::RadioButtonField::get_Op
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OptionCollection](../../optioncollection/)
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

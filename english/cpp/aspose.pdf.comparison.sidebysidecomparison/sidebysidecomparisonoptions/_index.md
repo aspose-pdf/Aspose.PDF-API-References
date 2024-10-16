@@ -37,5 +37,6 @@ class SideBySideComparisonOptions : public System::Object
 | [SideBySideComparisonOptions](./sidebysidecomparisonoptions/)() | Creates an instance of [SideBySideComparisonOptions](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison::SideBySideComparison](../)
 * Library [Aspose.PDF for C++](../../)

@@ -19,6 +19,7 @@ static SoundEncoding Aspose::Pdf::Annotations::SoundEncodingConverter::ToEnum(Sy
 ## See Also
 
 * Enum [SoundEncoding](../../soundencoding/)
+* Class [String](../../../system/string/)
 * Class [SoundEncodingConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

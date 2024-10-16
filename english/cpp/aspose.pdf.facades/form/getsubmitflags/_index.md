@@ -28,6 +28,7 @@ Submission flags of the button.
 ## See Also
 
 * Enum [SubmitFormFlag](../../submitformflag/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

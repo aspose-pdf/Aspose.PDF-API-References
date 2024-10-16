@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::ListBoxField::ListBoxField(System::SharedPtr<Aspose::Pdf::Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ListBoxField](../)
@@ -60,6 +61,7 @@ Aspose::Pdf::Forms::ListBoxField::ListBoxField(System::SharedPtr<Document> doc, 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ListBoxField](../)

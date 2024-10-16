@@ -23,6 +23,7 @@ void Aspose::Pdf::Rows::idx_set(int32_t index, System::SharedPtr<Row> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSubjectFormat(Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SubjectNameElements](../../subjectnameelements/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)

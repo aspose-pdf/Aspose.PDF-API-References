@@ -23,6 +23,7 @@ The new row
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Rows::Add(System::SharedPtr<Row> row)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)

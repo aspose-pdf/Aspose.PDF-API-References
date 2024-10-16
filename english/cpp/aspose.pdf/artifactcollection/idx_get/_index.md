@@ -27,6 +27,7 @@ System::SharedPtr<Artifact> Aspose::Pdf::ArtifactCollection::idx_get(int32_t ind
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Artifact](../../artifact/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -22,6 +22,7 @@ void Aspose::Pdf::XfaConverter::XfaParserOptions::set_PageSize(System::Drawing::
 The size of the page. 
 ## See Also
 
+* Class [SizeF](../../../system.drawing/sizef/)
 * Class [XfaParserOptions](../)
 * Namespace [Aspose::Pdf::XfaConverter](../../)
 * Library [Aspose.PDF for C++](../../../)

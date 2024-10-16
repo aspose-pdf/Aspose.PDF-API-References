@@ -23,6 +23,7 @@ Aspose::Pdf::Opi::Opi(System::SharedPtr<XForm> xform)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [Opi](../)
 * Namespace [Aspose::Pdf](../../)

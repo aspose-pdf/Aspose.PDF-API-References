@@ -21,8 +21,6 @@ class GoToAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | virtual [get_Destination](./get_destination/)() | Gets the destination to jump to. |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [GoToAction](./gotoaction/)(int32_t) | Constructor for [GoToAction](./) class. |
 | [GoToAction](./gotoaction/)(System::SharedPtr\<Page\>) | Constructor for [GoToAction](./) class. |
 | [GoToAction](./gotoaction/)(System::SharedPtr\<Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Constructor for [GoToAction](./) class. |
@@ -30,7 +28,6 @@ class GoToAction : public Aspose::Pdf::Annotations::PdfAction
 | [GoToAction](./gotoaction/)() | Constructor. |
 | [GoToAction](./gotoaction/)(System::SharedPtr\<Document\>, System::String) | Action which linked with Named Destination. |
 | virtual [set_Destination](./set_destination/)(System::SharedPtr\<IAppointment\>) | Sets the destination to jump to. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

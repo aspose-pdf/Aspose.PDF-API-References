@@ -18,5 +18,6 @@ class IAppointment : public virtual System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfPageEditor::set_ProcessPages(System::ArrayPtr<int3
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

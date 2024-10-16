@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Text::TextState::set_ForegroundColor(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)

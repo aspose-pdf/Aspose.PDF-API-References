@@ -18,6 +18,7 @@ System::SharedPtr<MarginInfo> Aspose::Pdf::EpubLoadOptions::get_Margin() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../margininfo/)
 * Class [EpubLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

@@ -66,7 +66,14 @@ class TextState : public System::Object
 | [TextState](./textstate/)(System::String) | Creates text state object with font family specification. |
 | [TextState](./textstate/)(System::String, bool, bool) | Creates text state object with font family and font style specification. |
 | [TextState](./textstate/)(System::String, double) | Creates text state object with font family and font size specification. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [TabstopDefaultValue](./tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
+| [TabTag](./tabtag/) | You can place this tag in text to declare tabulation. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

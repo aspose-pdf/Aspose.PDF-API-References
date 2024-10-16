@@ -26,6 +26,7 @@ Aspose::Pdf::XmpPdfAExtensionField::XmpPdfAExtensionField(System::String name, S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

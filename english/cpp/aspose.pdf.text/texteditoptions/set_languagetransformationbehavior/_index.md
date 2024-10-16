@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextEditOptions::set_LanguageTransformationBehavior(Text
 
 ## See Also
 
+* Enum [LanguageTransformation](../languagetransformation/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

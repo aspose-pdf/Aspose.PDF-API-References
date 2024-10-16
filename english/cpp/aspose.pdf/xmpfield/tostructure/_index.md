@@ -23,6 +23,8 @@ The tructure.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpField](../)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)

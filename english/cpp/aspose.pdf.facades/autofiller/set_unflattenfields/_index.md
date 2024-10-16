@@ -18,6 +18,8 @@ void Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields(System::ArrayPtr<Syst
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

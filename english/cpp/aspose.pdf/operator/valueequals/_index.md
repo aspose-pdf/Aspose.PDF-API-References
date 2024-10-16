@@ -27,6 +27,7 @@ True if objects are equal, otherwise false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../)
 * Class [Operator](../)
 * Namespace [Aspose::Pdf](../../)

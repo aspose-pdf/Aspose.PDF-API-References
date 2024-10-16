@@ -18,6 +18,7 @@ const System::SharedPtr<Rectangle> & Aspose::Pdf::Comparison::SideBySideComparis
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SideBySideComparisonOptions](../)
 * Namespace [Aspose::Pdf::Comparison::SideBySideComparison](../../)

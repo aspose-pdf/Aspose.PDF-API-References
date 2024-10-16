@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::AbsorbedCell::get_R
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [AbsorbedCell](../)
 * Namespace [Aspose::Pdf::Text](../../)

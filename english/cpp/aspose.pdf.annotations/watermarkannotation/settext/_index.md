@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::WatermarkAnnotation::SetText(System::SharedPtr<As
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * Class [WatermarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

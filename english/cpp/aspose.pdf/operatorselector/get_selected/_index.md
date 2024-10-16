@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Operator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Operator](../../operator/)
 * Class [OperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Artifact::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

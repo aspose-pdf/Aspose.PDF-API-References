@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetGray::Accept(System::SharedPtr<IOperatorSelector
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetGray](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::CircleAnnotation::CircleAnnotation(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CircleAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::CircleAnnotation::CircleAnnotation(System::SharedPtr<D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [CircleAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

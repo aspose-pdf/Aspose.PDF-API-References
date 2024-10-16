@@ -25,5 +25,6 @@ class PDF3DStream : public System::Object
 | [set_Content](./set_content/)(System::SharedPtr\<PDF3DContent\>) | Sets the content. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

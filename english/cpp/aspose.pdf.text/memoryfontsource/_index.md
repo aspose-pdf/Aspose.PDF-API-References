@@ -28,5 +28,6 @@ class MemoryFontSource : public Aspose::Pdf::Text::FontSource,
 ## See Also
 
 * Class [FontSource](../fontsource/)
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

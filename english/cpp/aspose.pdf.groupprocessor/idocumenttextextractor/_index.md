@@ -23,5 +23,6 @@ class IDocumentTextExtractor : public virtual System::Object
 | virtual [ExtractAllText](./extractalltext/)() | Returns collection of extracted text values. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::GroupProcessor](../)
 * Library [Aspose.PDF for C++](../../)

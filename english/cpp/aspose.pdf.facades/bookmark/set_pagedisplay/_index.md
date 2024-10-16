@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::Bookmark::set_PageDisplay(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Bookmark](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

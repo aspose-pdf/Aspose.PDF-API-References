@@ -27,6 +27,7 @@ static bool Aspose::Pdf::FileChecker::IsFileExtensionSafe(System::String file)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileChecker](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

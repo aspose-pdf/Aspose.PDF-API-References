@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Forms::Field::get_Rect() override
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

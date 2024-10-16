@@ -18,6 +18,7 @@ void Aspose::Pdf::FloatingBox::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Par
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

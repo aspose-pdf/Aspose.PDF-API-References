@@ -18,6 +18,7 @@ virtual System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::ITableEleme
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ITableElement](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::ParagraphAbsorberOptions::set_SearchRectangle(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ParagraphAbsorberOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Annotations::Annotation::Accept(System::SharedPtr<Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_LogFileName(System::String val
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

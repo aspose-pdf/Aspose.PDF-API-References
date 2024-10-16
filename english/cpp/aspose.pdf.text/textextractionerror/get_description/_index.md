@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::TextExtractionError::get_Description() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextExtractionError](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

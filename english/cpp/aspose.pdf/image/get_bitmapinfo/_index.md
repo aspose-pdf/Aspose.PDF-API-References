@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::BitmapInfo> & Aspose::Pdf::Image::get_Bitma
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BitmapInfo](../../bitmapinfo/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)

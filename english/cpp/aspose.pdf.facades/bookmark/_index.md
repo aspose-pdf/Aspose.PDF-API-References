@@ -60,5 +60,6 @@ class Bookmark : public System::Object
 | [set_TitleColor](./set_titlecolor/)(System::Drawing::Color) | Sets the color of bookmark's title. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

@@ -37,6 +37,8 @@ void Aspose::Pdf::Document::Flatten(System::SharedPtr<Aspose::Pdf::Forms::Form::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FlattenSettings](../../../aspose.pdf.forms/form/flattensettings/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

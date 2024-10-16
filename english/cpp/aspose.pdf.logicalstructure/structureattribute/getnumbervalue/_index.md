@@ -23,6 +23,7 @@ Value Number.
 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

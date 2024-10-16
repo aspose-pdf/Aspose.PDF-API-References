@@ -23,6 +23,7 @@ void Aspose::Pdf::Page::MergeLayers(System::String newLayerName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Page::MergeLayers(System::String newLayerName, System::String 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

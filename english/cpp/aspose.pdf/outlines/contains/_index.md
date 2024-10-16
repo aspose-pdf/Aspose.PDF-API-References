@@ -27,6 +27,7 @@ NotImplementedException
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [Outlines](../)
 * Namespace [Aspose::Pdf](../../)

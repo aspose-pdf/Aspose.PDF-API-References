@@ -27,6 +27,9 @@ true if item was successfully removed from the [DictionaryEditor](../); otherwis
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
@@ -51,6 +54,7 @@ True if the element is successfully removed; otherwise, false. This method also 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
 * Library [Aspose.PDF for C++](../../../)

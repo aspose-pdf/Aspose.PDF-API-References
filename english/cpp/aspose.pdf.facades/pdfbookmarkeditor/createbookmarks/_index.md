@@ -39,6 +39,7 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarks(System::Drawing::C
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -58,6 +59,7 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarks(System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmark](../../bookmark/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

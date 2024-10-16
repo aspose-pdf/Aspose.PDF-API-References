@@ -23,5 +23,6 @@ class PatternColorSpace : public System::Object
 | [PatternColorSpace](./patterncolorspace/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Drawing](../)
 * Library [Aspose.PDF for C++](../../)

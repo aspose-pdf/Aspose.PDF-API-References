@@ -22,6 +22,7 @@ void Aspose::Pdf::LogicalStructure::StructureTextState::set_HorizontalScaling(Sy
 Can be null. Use null to inherit **HorizontalScaling** property from parent structure element. 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

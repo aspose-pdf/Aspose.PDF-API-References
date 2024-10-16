@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomPlayer(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [RichMediaAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

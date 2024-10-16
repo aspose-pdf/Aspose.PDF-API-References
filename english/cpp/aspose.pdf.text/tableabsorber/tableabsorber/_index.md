@@ -45,6 +45,7 @@ Performs searching for tables and provides access to the tables via [TableList](
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

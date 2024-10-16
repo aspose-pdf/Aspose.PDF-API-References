@@ -56,6 +56,7 @@ void Aspose::Pdf::PageCollection::Delete(System::ArrayPtr<int32_t> pages)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

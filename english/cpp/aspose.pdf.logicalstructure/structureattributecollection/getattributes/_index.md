@@ -27,6 +27,7 @@ System::SharedPtr<StructureAttributes> Aspose::Pdf::LogicalStructure::StructureA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureAttributes](../../structureattributes/)
 * Class [AttributeOwnerStandard](../../attributeownerstandard/)
 * Class [StructureAttributeCollection](../)

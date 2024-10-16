@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfConverter::set_RenderingOptions(System::SharedPtr<
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)

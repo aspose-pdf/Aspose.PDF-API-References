@@ -26,7 +26,6 @@ class GradientAxialShading : public Aspose::Pdf::Drawing::PatternColorSpace
 | [get_StartColor](./get_startcolor/)() const | Gets start color. |
 | [GradientAxialShading](./gradientaxialshading/)() | Initializes a new instance of the [GradientAxialShading](./) class. |
 | [GradientAxialShading](./gradientaxialshading/)(System::SharedPtr\<Color\>, System::SharedPtr\<Color\>) | Initializes a new instance of the [GradientAxialShading](./) class. |
-| [PatternColorSpace](../patterncolorspace/patterncolorspace/)() |  |
 | [set_End](./set_end/)(System::SharedPtr\<Point\>) | Sets end point. |
 | [set_EndColor](./set_endcolor/)(System::SharedPtr\<Color\>) | Sets end color. |
 | [set_Start](./set_start/)(System::SharedPtr\<Point\>) | Sets start point. |

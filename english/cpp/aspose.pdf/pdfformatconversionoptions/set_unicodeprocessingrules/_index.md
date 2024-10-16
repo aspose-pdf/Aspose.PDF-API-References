@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfFormatConversionOptions::set_UnicodeProcessingRules(System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ToUnicodeProcessingRules](../../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

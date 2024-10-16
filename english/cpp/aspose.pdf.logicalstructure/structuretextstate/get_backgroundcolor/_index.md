@@ -22,6 +22,7 @@ System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::StructureTextState::get_
 Can be null. Use null to inherit **BackgroundColor** property from parent structure element. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

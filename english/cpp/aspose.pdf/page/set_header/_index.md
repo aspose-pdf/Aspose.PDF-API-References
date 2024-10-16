@@ -22,6 +22,7 @@ void Aspose::Pdf::Page::set_Header(System::SharedPtr<HeaderFooter> value)
 The page header.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeaderFooter](../../headerfooter/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

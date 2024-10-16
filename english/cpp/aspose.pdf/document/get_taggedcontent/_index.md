@@ -22,6 +22,7 @@ System::SharedPtr<Tagged::ITaggedContent> Aspose::Pdf::Document::get_TaggedConte
 Gets access to TaggedPdf content.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

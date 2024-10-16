@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfConverter::PdfConverter(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)

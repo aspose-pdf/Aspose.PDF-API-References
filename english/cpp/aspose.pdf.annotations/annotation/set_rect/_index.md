@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Annotations::Annotation::set_Rect(System::SharedPtr<Re
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Option::set_Name(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Option](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

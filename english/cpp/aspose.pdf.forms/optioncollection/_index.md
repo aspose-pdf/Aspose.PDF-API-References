@@ -39,5 +39,6 @@ class OptionCollection : public System::Collections::Generic::ICollection<System
 . |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

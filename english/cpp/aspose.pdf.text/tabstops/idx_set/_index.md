@@ -24,6 +24,7 @@ void Aspose::Pdf::Text::TabStops::idx_set(int32_t index, System::SharedPtr<TabSt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)

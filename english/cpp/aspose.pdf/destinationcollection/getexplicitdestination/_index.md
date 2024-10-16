@@ -28,7 +28,9 @@ The ExplicitDestination object for destination found; otherwise, null.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* Class [String](../../../system/string/)
 * Class [DestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

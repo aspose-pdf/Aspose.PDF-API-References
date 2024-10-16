@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::RichTextBoxField::set_Value(System::String value) overr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RichTextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

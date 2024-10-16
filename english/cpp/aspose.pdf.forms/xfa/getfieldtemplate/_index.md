@@ -27,6 +27,9 @@ XL node with field template.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlNode](../../../system.xml/xmlnode/)
+* Class [String](../../../system/string/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Bleed
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Caret
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CaretAnnotation](../../caretannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -63,6 +65,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Circl
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CircleAnnotation](../../circleannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -83,6 +86,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Color
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ColorBarAnnotation](../../colorbarannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -103,6 +107,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<FileA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -123,6 +128,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<FreeT
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FreeTextAnnotation](../../freetextannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -143,6 +149,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Highl
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HighlightAnnotation](../../highlightannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -163,6 +170,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<InkAn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [InkAnnotation](../../inkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -183,6 +191,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<LineA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LineAnnotation](../../lineannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -203,6 +212,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<LinkA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LinkAnnotation](../../linkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -223,6 +233,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Movie
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MovieAnnotation](../../movieannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -243,6 +254,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<PageI
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInformationAnnotation](../../pageinformationannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -263,6 +275,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<PDF3D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DAnnotation](../../pdf3dannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -283,6 +296,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Polyg
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PolygonAnnotation](../../polygonannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -303,6 +317,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Polyl
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PolylineAnnotation](../../polylineannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -323,6 +338,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Popup
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PopupAnnotation](../../popupannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -343,6 +359,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Redac
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RedactionAnnotation](../../redactionannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -363,6 +380,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Regis
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -383,6 +401,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<RichM
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RichMediaAnnotation](../../richmediaannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -403,6 +422,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Scree
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ScreenAnnotation](../../screenannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -423,6 +443,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Squar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SquareAnnotation](../../squareannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -443,6 +464,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Squig
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SquigglyAnnotation](../../squigglyannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -463,6 +485,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Stamp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StampAnnotation](../../stampannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -483,6 +506,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Strik
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StrikeOutAnnotation](../../strikeoutannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -503,6 +527,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<TextA
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextAnnotation](../../textannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -523,6 +548,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<TrimM
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TrimMarkAnnotation](../../trimmarkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -543,6 +569,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Under
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [UnderlineAnnotation](../../underlineannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -563,6 +590,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Water
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WatermarkAnnotation](../../watermarkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -583,6 +611,7 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Widge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../widgetannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

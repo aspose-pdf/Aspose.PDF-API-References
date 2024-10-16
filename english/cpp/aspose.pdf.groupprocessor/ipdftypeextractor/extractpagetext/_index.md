@@ -27,6 +27,7 @@ System::String Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::ExtractPageText(i
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IPdfTypeExtractor](../)
 * Namespace [Aspose::Pdf::GroupProcessor](../../)
 * Library [Aspose.PDF for C++](../../../)

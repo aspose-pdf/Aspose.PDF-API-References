@@ -27,7 +27,9 @@ static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Parse(System::String
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
+* Class [String](../../../system/string/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

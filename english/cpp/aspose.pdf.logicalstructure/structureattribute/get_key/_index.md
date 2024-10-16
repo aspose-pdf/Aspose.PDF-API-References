@@ -22,6 +22,7 @@ System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::StructureAttribut
 Attribute Key.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeKey](../../attributekey/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

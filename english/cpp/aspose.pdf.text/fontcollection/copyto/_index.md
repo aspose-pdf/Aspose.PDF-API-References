@@ -24,6 +24,8 @@ void Aspose::Pdf::Text::FontCollection::CopyTo(System::ArrayPtr<System::SharedPt
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

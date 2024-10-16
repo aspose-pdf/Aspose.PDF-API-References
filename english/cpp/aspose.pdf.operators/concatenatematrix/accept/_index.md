@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::ConcatenateMatrix::Accept(System::SharedPtr<IOperat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [ConcatenateMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)

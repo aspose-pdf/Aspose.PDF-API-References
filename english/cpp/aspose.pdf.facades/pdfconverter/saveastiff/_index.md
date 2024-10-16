@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -65,6 +69,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -87,6 +93,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -110,6 +118,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -134,6 +144,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [PdfConverter](../)
@@ -156,6 +168,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -178,6 +192,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [PdfConverter](../)
@@ -200,6 +216,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -222,6 +240,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)
@@ -243,6 +263,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -263,6 +284,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, A
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -285,6 +307,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -307,6 +330,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -330,6 +354,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -354,6 +380,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [PdfConverter](../)
@@ -376,6 +404,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -398,6 +428,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [PdfConverter](../)
@@ -420,6 +452,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -442,6 +476,8 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * Class [PdfConverter](../)

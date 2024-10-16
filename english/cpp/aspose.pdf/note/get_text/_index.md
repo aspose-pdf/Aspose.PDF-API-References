@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Note::get_Text() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

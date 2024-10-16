@@ -18,6 +18,8 @@ void Aspose::Pdf::Devices::TextDevice::set_Encoding(System::SharedPtr<System::Te
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

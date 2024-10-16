@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<Aspose:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -61,7 +62,9 @@ Use constructor without destination.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -85,7 +88,9 @@ Use constructor without destination.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -109,6 +114,8 @@ Use constructor without destination.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -132,6 +139,7 @@ Use constructor without destination.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

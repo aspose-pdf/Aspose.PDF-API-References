@@ -23,6 +23,7 @@ null if instance is not [CosPdfBoolean](../../cospdfboolean/) else [CosPdfBoolea
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CosPdfBoolean](../../cospdfboolean/)
 * Class [ICosPdfPrimitive](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)

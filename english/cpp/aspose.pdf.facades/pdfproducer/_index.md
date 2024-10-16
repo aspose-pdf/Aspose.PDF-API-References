@@ -30,5 +30,6 @@ class PdfProducer : public System::Object
 | static [Produce](./produce/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<ImportOptions\>, System::SharedPtr\<System::IO::Stream\>) | Produce the PDF file using specified import option. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

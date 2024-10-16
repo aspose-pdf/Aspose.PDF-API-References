@@ -23,6 +23,8 @@ Returns a List<FileSpecificatio>>.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

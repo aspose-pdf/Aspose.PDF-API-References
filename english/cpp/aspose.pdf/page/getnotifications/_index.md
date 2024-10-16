@@ -23,6 +23,7 @@ String representing notifications about inside operations with page content.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

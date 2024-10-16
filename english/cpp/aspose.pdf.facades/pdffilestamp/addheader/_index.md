@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::SharedPtr<FormattedTe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -47,6 +48,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::SharedPtr<FormattedTe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -68,6 +70,8 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::SharedPtr<System::IO:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -90,6 +94,8 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::SharedPtr<System::IO:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -110,6 +116,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::String imageFile, flo
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -132,6 +139,7 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddHeader(System::String imageFile, flo
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

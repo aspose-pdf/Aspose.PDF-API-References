@@ -27,6 +27,7 @@ Value from XMP metadata.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * Class [PdfXmpMetadata](../)
@@ -52,7 +53,9 @@ Object by key
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* Class [String](../../../system/string/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

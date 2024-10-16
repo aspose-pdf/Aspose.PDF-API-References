@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultCellBorder(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../../aspose.pdf/borderinfo/)
 * Class [TableElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

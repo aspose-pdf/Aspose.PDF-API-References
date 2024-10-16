@@ -18,6 +18,7 @@ void Aspose::Pdf::Document::set_OpenAction(System::SharedPtr<Annotations::IAppoi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

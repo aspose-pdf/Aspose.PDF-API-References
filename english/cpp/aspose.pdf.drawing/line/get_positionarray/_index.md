@@ -18,6 +18,7 @@ System::ArrayPtr<float> Aspose::Pdf::Drawing::Line::get_PositionArray() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Line](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

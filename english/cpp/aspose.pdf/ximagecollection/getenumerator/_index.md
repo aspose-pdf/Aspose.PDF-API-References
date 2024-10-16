@@ -23,6 +23,8 @@ Enumerator of collection
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [XImage](../../ximage/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

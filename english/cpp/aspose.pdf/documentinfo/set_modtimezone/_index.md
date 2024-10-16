@@ -18,6 +18,7 @@ void Aspose::Pdf::DocumentInfo::set_ModTimeZone(System::TimeSpan value)
 
 ## See Also
 
+* Class [TimeSpan](../../../system/timespan/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,8 @@ System::SharedPtr<System::Web::HttpResponse> Aspose::Pdf::Facades::FormEditor::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

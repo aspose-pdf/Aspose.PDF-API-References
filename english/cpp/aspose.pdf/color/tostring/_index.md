@@ -23,6 +23,7 @@ String representation of the [Color](../) object.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

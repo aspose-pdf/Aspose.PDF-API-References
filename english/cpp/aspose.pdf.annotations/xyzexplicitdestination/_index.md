@@ -21,14 +21,9 @@ class XYZExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestinat
 | Method | Description |
 | --- | --- |
 | static [CreateDestination](./createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double, double, double, bool) | Create destintion to specified location of the page considering page rotation if required. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
 | static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(System::SharedPtr\<Aspose::Pdf::Page\>, double) | Create destionation to upper left corner of the specifed page. |
 | static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Create destination to specified page. |
 | [get_Left](./get_left/)() | Gets left horizontal coordinate of the upper-left corner of the window. |
-| [get_Page](../explicitdestination/get_page/)() const | Gets the destination page object. |
-| [get_PageNumber](../explicitdestination/get_pagenumber/)() const | Gets the destination page number. |
 | [get_Top](./get_top/)() | Gets top vertical coordinate of the upper-left corner of the window. |
 | [get_Zoom](./get_zoom/)() | Gets zoom factor. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 XYZ 100 200 3". |

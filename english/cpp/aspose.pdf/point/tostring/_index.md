@@ -23,6 +23,7 @@ String, representing current poit.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Point](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

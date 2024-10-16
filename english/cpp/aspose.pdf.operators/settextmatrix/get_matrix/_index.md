@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Operators::SetTextMatrix::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [SetTextMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)

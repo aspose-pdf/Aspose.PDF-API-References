@@ -29,6 +29,8 @@ True for success, or false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)

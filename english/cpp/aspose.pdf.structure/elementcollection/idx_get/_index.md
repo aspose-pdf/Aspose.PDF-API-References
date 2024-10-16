@@ -27,6 +27,7 @@ Retreived element.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../../element/)
 * Class [ElementCollection](../)
 * Namespace [Aspose::Pdf::Structure](../../)

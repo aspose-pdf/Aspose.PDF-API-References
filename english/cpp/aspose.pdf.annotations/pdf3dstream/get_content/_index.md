@@ -22,6 +22,7 @@ System::SharedPtr<PDF3DContent> Aspose::Pdf::Annotations::PDF3DStream::get_Conte
 The content.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DContent](../../pdf3dcontent/)
 * Class [PDF3DStream](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

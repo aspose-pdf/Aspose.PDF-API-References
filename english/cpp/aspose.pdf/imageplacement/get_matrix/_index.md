@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::ImagePlacement::get_Matrix()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../matrix/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

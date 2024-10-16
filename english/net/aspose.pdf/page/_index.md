@@ -3,7 +3,7 @@ title: Class Page
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Page class. Class representing page of PDF document
 type: docs
-weight: 6400
+weight: 6440
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -59,10 +59,10 @@ public sealed class Page : IDisposable
 | [Accept](../../aspose.pdf/page/accept/#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
 | [Accept](../../aspose.pdf/page/accept/#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
 | [AddGraphics](../../aspose.pdf/page/addgraphics/)(GraphicElementCollection, Rectangle) | Adds graphics to the page. Works faster than adding elements one by one with [`AddOnPage`](../../aspose.pdf.vector/graphicelement/addonpage/) method. |
-| [AddImage](../../aspose.pdf/page/addimage/#addimage)(Stream, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage/#addimage_2)(string, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [AddImage](../../aspose.pdf/page/addimage/#addimage_3)(string, Stream, Rectangle) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [AddImage](../../aspose.pdf/page/addimage/#addimage_1)(Stream, Rectangle, int, int, bool) | Adds image on page and places it depend on image rectangle position. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage)(Stream, Rectangle, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage_3)(string, Stream, Rectangle, Rectangle) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage_1)(Stream, Rectangle, int, int, bool, Rectangle) | Adds image on page and places it depend on image rectangle position. |
 | [AddStamp](../../aspose.pdf/page/addstamp/)(Stamp) | Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo. |
 | [AsByteArray](../../aspose.pdf/page/asbytearray/)(Resolution) | Converts current page as bitmap and than returns array of bytes. |
 | [AsXml](../../aspose.pdf/page/asxml/)() | Converts current page as xml in utf8 encoding. |

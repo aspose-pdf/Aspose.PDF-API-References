@@ -24,6 +24,9 @@ void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
 * Class [XmpPdfAExtensionSchema](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

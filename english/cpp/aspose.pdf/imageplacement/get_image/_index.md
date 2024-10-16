@@ -18,6 +18,7 @@ System::SharedPtr<XImage> Aspose::Pdf::ImagePlacement::get_Image() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

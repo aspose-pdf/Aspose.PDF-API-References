@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::ImagePlacement:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

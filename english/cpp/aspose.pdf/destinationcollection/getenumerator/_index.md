@@ -23,6 +23,11 @@ The enumerator.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Class [Object](../../../system/object/)
 * Class [DestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

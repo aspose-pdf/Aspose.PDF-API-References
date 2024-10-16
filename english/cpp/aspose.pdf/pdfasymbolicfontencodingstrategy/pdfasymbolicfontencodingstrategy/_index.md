@@ -37,6 +37,7 @@ Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(
 
 ## See Also
 
+* Enum [CMapEncodingTableType](../queueitem/cmapencodingtabletype/)
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -56,6 +57,9 @@ Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Queue](../../../system.collections.generic/queue/)
+* Class [QueueItem](../queueitem/)
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

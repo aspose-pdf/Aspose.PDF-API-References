@@ -18,6 +18,7 @@ System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::AbsorbedCell::get_T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragmentCollection](../../textfragmentcollection/)
 * Class [AbsorbedCell](../)
 * Namespace [Aspose::Pdf::Text](../../)

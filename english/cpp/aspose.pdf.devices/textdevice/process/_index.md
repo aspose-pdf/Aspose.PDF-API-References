@@ -24,7 +24,9 @@ void Aspose::Pdf::Devices::TextDevice::Process(System::SharedPtr<Page> page, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

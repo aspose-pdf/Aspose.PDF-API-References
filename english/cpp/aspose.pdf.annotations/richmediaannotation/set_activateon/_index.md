@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RichMediaAnnotation::set_ActivateOn(RichMediaAnno
 
 ## See Also
 
+* Enum [ActivationEvent](../activationevent/)
 * Class [RichMediaAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

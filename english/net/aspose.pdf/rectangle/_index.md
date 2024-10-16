@@ -3,7 +3,7 @@ title: Class Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Rectangle class. Class represents rectangle
 type: docs
-weight: 7090
+weight: 7130
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -44,7 +44,7 @@ public sealed class Rectangle : ICloneable
 | static [Parse](../../aspose.pdf/rectangle/parse/)(string) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [Center](../../aspose.pdf/rectangle/center/)() | Returncs coordinates of center of the rectangle. |
 | [Clone](../../aspose.pdf/rectangle/clone/)() | Clones the Rectangle object. |
-| [Contains](../../aspose.pdf/rectangle/contains/)(Point) | Determinces whether given point is inside of the rectangle. |
+| [Contains](../../aspose.pdf/rectangle/contains/)(Point, bool) | Determinces whether given point is inside of the rectangle. |
 | [ContainsLine](../../aspose.pdf/rectangle/containsline/)(double, double, double, double) | Determines whether the rectangle contains a line represented by two points. |
 | [ContainsPoint](../../aspose.pdf/rectangle/containspoint/)(double, double) | Determines whether the given point is contained within the rectangle. |
 | [Equals](../../aspose.pdf/rectangle/equals/#equals)(Rectangle) | Check if rectangles are equal i.e. have same position and sizes. |

@@ -32,5 +32,6 @@ class Element : public System::Object
 | virtual [set_Lang](./set_lang/)(System::String) | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Structure](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Text::TextState::set_Font(System::SharedPtr<Aspose::Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)

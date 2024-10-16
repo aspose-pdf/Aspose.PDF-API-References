@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::ParagraphAbsorber::set_TextReplaceOptions(System::Shared
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextReplaceOptions](../../textreplaceoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

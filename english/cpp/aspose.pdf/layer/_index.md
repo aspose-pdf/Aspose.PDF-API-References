@@ -33,5 +33,6 @@ class Layer : public System::Object
 | [Unlock](./unlock/)() | Unlocks the layer. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

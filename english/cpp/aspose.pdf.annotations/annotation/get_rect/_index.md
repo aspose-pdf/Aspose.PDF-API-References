@@ -18,6 +18,7 @@ virtual System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::Annotation::get_R
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

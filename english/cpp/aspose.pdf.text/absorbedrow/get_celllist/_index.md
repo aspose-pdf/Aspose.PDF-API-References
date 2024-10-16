@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Absorbed
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [AbsorbedCell](../../absorbedcell/)
 * Class [AbsorbedRow](../)
 * Namespace [Aspose::Pdf::Text](../../)

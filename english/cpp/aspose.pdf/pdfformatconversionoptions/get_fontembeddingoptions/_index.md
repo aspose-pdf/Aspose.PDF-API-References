@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions> Aspose::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontEmbeddingOptions](../../../aspose.pdf.pdfaoptionclasses/fontembeddingoptions/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)

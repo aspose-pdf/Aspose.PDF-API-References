@@ -19,6 +19,7 @@ static CaptionPosition Aspose::Pdf::Annotations::CaptionPositionConverter::ToEnu
 ## See Also
 
 * Enum [CaptionPosition](../../captionposition/)
+* Class [String](../../../system/string/)
 * Class [CaptionPositionConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

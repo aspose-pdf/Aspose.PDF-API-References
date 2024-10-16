@@ -23,6 +23,7 @@ void Aspose::Pdf::Artifact::SetText(System::SharedPtr<Facades::FormattedText> fo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

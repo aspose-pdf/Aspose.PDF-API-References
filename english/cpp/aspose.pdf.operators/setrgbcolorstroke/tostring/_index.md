@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetRGBColorStroke::ToString() const overr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetRGBColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

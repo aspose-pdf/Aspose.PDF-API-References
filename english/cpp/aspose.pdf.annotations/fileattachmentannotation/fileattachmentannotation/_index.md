@@ -25,6 +25,7 @@ Aspose::Pdf::Annotations::FileAttachmentAnnotation::FileAttachmentAnnotation(Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [FileSpecification](../../../aspose.pdf/filespecification/)

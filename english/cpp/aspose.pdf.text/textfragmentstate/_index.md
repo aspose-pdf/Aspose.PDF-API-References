@@ -68,13 +68,12 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [set_Underline](./set_underline/)(bool) override | Sets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_WordSpacing](./set_wordspacing/)(float) override | Sets word spacing of the text. |
 | [TextFragmentState](./textfragmentstate/)(System::SharedPtr\<TextFragment\>) | Initializes new instance of the [TextFragmentState](./) object with specified [TextFragment](../textfragment/) object. This [TextFragmentState](./) initialization is not supported. [TextFragmentState](./) is only available with [TextFragment::TextState](../) property. |
-| [TextState](../textstate/textstate/)() | Creates text state object. |
-| [TextState](../textstate/textstate/)(double) | Creates text state object with font size specification. |
-| [TextState](../textstate/textstate/)(System::Drawing::Color) | Creates text state object with foreground color specification. |
-| [TextState](../textstate/textstate/)(System::Drawing::Color, double) | Creates text state object with foreground color and font size specification. |
-| [TextState](../textstate/textstate/)(System::String) | Creates text state object with font family specification. |
-| [TextState](../textstate/textstate/)(System::String, bool, bool) | Creates text state object with font family and font style specification. |
-| [TextState](../textstate/textstate/)(System::String, double) | Creates text state object with font family and font size specification. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [TabstopDefaultValue](../textstate/tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
+| [TabTag](../textstate/tabtag/) | You can place this tag in text to declare tabulation. |
 ## Remarks
 
 

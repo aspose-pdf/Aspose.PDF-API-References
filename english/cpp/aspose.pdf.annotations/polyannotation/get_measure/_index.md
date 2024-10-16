@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::Measure> Aspose::Pdf::Annotations::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Measure](../../measure/)
 * Class [PolyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

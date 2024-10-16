@@ -24,6 +24,7 @@ void Aspose::Pdf::Table::SetColumnTextState(int32_t colNumber, System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

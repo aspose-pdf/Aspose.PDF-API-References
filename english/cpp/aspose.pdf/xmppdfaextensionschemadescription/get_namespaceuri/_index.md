@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XmpPdfAExtensionSchemaDescription::get_NamespaceURI(
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpPdfAExtensionSchemaDescription](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

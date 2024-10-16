@@ -19,6 +19,7 @@ static Symbology Aspose::Pdf::Forms::SymbologyConverter::ToEnum(System::String v
 ## See Also
 
 * Enum [Symbology](../../symbology/)
+* Class [String](../../../system/string/)
 * Class [SymbologyConverter](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

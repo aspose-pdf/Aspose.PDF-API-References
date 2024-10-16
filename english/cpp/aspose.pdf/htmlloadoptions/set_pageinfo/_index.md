@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlLoadOptions::set_PageInfo(System::SharedPtr<Aspose::Pdf::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInfo](../../pageinfo/)
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetCharWidth::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetCharWidth](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

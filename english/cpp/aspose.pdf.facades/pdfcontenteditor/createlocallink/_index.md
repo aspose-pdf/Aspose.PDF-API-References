@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Re
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -47,6 +48,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Re
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -70,6 +73,11 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Re
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [Color](../../../system.drawing/color/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [BoxedValueBase](../../../system/boxedvaluebase/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

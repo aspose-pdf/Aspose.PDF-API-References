@@ -25,8 +25,11 @@ Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Aspose:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -48,7 +51,10 @@ Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Documen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

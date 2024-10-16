@@ -3,7 +3,7 @@ title: Class PaperSources
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperSources class. Provides a set of predefined PaperSource instances representing common paper sources
 type: docs
-weight: 6990
+weight: 7030
 url: /net/aspose.pdf.printing/papersources/
 ---
 ## PaperSources class

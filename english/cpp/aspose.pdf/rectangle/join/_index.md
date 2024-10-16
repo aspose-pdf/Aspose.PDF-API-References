@@ -27,6 +27,7 @@ Described rectangle.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

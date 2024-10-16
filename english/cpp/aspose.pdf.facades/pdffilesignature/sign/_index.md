@@ -26,6 +26,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(int32_t page, bool visible, Sy
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../../aspose.pdf.forms/signature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -56,6 +58,9 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(int32_t page, System::String S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../../aspose.pdf.forms/signature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -81,6 +86,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(int32_t page, System::String S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -106,6 +113,9 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(int32_t page, System::String S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../../aspose.pdf.forms/signature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -127,6 +137,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(System::String SigName, System
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../../aspose.pdf.forms/signature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -151,6 +163,8 @@ void Aspose::Pdf::Facades::PdfFileSignature::Sign(System::String SigName, System
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../../aspose.pdf.forms/signature/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)

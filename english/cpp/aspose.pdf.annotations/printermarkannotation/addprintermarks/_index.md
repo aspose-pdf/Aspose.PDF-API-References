@@ -28,6 +28,7 @@ static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(Sys
 This method adds various types of printer's marks based on the provided [PrinterMarksKind](../../printermarkskind/) flags. If [PrinterMarksKind::None](../../printermarkskind/) is provided, no marks are added. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [PrinterMarksKind](../../printermarkskind/)
 * Class [PrinterMarkAnnotation](../)
@@ -54,6 +55,7 @@ static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(Sys
 This method adds various types of printer's marks based on the provided [PrinterMarksKind](../../printermarkskind/) flags. If [PrinterMarksKind::None](../../printermarkskind/) is provided, no marks are added. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Enum [PrinterMarksKind](../../printermarkskind/)
 * Class [PrinterMarkAnnotation](../)

@@ -23,6 +23,7 @@ The SVG-string.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +43,7 @@ void Aspose::Pdf::Vector::GraphicElement::SaveToSvg(System::String svgFilePath)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

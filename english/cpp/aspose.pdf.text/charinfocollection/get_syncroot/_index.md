@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Text::CharInfoCollection::get_Syn
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

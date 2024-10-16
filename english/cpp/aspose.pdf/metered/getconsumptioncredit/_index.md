@@ -23,6 +23,7 @@ Consumption quantity.
 
 ## See Also
 
+* Class [Decimal](../../../system/decimal/)
 * Class [Metered](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

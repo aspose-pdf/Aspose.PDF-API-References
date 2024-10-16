@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::PdfConverter::get_UserPassword() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

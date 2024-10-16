@@ -23,6 +23,8 @@ void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(System::String f
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

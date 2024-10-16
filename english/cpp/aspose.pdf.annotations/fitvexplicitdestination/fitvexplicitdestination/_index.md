@@ -44,6 +44,7 @@ Aspose::Pdf::Annotations::FitVExplicitDestination::FitVExplicitDestination(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [FitVExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -69,6 +70,7 @@ Use constructor without Document argument.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [FitVExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

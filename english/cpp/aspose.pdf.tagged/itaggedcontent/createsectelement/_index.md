@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::SectElement](../../../aspose.pdf.logical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

@@ -21,16 +21,11 @@ class PdfFileInfo : public Aspose::Pdf::Facades::SaveableFacade
 | Method | Description |
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [ClearInfo](./clearinfo/)() | Clears all meta information of PDF document. |
 | [Close](./close/)() override | Deinitializes the instance. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [get_Author](./get_author/)() | Gets the Author information of PDF document. |
 | [get_CreationDate](./get_creationdate/)() | Gets the CreationDate information of PDF document. |
 | [get_Creator](./get_creator/)() | Gets the Creator information of PDF document. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_HasCollection](./get_hascollection/)() | Returns true if the current input file is a 'Portfolio' file containing collection of PDF files in it. |
 | [get_HasEditPassword](./get_haseditpassword/)() | Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read only if valid password was provided in [PdfFileInfo](./) constructor. In case PasswordType is Inaccessible (means that invalid password was provided) reading this property will fail with [InvalidPasswordException](../../aspose.pdf/invalidpasswordexception/). |
 | [get_HasOpenPassword](./get_hasopenpassword/)() | Returns true if password is needed to open password protected pdf document. |

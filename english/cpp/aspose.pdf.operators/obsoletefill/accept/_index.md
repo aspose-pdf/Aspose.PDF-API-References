@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::ObsoleteFill::Accept(System::SharedPtr<IOperatorSel
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [ObsoleteFill](../)
 * Namespace [Aspose::Pdf::Operators](../../)

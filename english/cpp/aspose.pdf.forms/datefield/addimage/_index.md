@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::DateField::AddImage(System::SharedPtr<Image> image)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Image](../../../aspose.pdf/image/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

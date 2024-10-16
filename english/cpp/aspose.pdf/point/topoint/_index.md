@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/point/topoint/
 ## Point::ToPoint method
 
 
-Converts point into **System.Drawing.PointF** object.
+Converts point into [System.Drawing.PointF](../../../system.drawing/pointf/) object.
 
 ```cpp
 System::Drawing::PointF Aspose::Pdf::Point::ToPoint()
@@ -23,6 +23,7 @@ PointF structure.
 
 ## See Also
 
+* Class [PointF](../../../system.drawing/pointf/)
 * Class [Point](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

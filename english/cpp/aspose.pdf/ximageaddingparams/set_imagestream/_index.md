@@ -18,6 +18,8 @@ void Aspose::Pdf::XImageAddingParams::set_ImageStream(System::SharedPtr<System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageAddingParams](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

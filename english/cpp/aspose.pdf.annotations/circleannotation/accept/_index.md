@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::CircleAnnotation::Accept(System::SharedPtr<Annota
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [CircleAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

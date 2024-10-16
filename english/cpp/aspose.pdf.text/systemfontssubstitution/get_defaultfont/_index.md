@@ -18,6 +18,7 @@ System::SharedPtr<Font> Aspose::Pdf::Text::SystemFontsSubstitution::get_DefaultF
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [SystemFontsSubstitution](../)
 * Namespace [Aspose::Pdf::Text](../../)

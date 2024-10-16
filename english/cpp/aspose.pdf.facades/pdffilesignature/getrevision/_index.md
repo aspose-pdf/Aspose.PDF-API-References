@@ -27,6 +27,7 @@ Return the number of signature revision.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

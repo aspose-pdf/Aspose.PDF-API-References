@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Annotations::PolyAnnotation::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [PolyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

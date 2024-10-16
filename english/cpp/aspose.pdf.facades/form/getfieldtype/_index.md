@@ -28,6 +28,7 @@ Element of FileType enumeration corresponding to field type.
 ## See Also
 
 * Enum [FieldType](../../fieldtype/)
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

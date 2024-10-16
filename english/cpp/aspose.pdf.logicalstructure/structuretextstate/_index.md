@@ -50,5 +50,6 @@ class StructureTextState : public System::Object
 | [set_WordSpacing](./set_wordspacing/)(System::Nullable\<float\>) | Sets word spacing of the text. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

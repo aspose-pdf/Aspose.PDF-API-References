@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Add(const System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -44,6 +45,7 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Add(System::SharedPtr<Annot
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -4,7 +4,7 @@ linktitle: BeforePageGenerate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::BeforePageGenerate typedef. Procedure for customize header and footer in C++.'
 type: docs
-weight: 7800
+weight: 7900
 url: /cpp/aspose.pdf/page/beforepagegenerate/
 ---
 ## BeforePageGenerate typedef

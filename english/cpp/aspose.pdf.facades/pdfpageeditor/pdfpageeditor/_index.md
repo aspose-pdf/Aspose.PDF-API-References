@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfPageEditor::PdfPageEditor(System::SharedPtr<Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -26,5 +26,6 @@ class EncryptedPayload : public System::Object
 | [get_Version](./get_version/)() | Gets version number. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

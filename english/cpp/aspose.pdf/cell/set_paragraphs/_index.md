@@ -18,6 +18,7 @@ void Aspose::Pdf::Cell::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

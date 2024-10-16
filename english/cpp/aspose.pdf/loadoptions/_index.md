@@ -16,6 +16,17 @@ url: /cpp/aspose.pdf/loadoptions/
 class LoadOptions : public virtual System::Object
 ```
 
+## Nested classes
+
+* Class [ResourceLoadingResult](./resourceloadingresult/)
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [MarginsAreaUsageModes](./marginsareausagemodes/) | Represents mode of usage of margins area during conversion 
+
+ (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins. |
+| [PageSizeAdjustmentModes](./pagesizeadjustmentmodes/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
 ## Methods
 
 | Method | Description |
@@ -41,5 +52,6 @@ class LoadOptions : public virtual System::Object
 | [ResourceLoadingStrategy](./resourceloadingstrategy/) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

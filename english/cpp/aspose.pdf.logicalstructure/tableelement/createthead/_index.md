@@ -23,6 +23,7 @@ Created structure element.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableTHeadElement](../../tabletheadelement/)
 * Class [TableElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

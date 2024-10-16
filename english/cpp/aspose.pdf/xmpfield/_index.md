@@ -38,5 +38,6 @@ class XmpField : public System::Object
 | [ToStructure](./tostructure/)() | Gets value as a structure. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

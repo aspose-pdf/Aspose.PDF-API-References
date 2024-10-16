@@ -23,6 +23,7 @@ The cutting plane orientation.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
 * Class [PDF3DCrossSection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

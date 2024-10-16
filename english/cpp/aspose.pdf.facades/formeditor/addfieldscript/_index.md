@@ -28,6 +28,7 @@ True in case script was added successfully.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

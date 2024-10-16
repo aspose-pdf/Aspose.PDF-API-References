@@ -27,6 +27,7 @@ True if the name exists in the collection item, otherwise false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CollectionItem](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

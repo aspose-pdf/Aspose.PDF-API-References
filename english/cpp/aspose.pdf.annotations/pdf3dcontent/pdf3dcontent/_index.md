@@ -37,6 +37,7 @@ Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent(System::String filename)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

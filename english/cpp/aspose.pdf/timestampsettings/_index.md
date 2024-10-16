@@ -29,5 +29,6 @@ class TimestampSettings : public System::Object
 | [TimestampSettings](./timestampsettings/)(System::String, System::String, Aspose::Pdf::DigestHashAlgorithm) | Initializes a new instance of the [TimestampSettings](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

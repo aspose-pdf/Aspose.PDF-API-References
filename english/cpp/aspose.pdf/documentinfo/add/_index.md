@@ -24,6 +24,7 @@ void Aspose::Pdf::DocumentInfo::Add(const System::String &key, const System::Str
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

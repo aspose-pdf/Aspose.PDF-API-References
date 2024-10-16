@@ -24,6 +24,8 @@ void Aspose::Pdf::Forms::OptionCollection::CopyTo(System::ArrayPtr<System::Share
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)

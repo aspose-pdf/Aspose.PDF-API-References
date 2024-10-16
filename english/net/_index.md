@@ -23,6 +23,7 @@ is_root: true
 | [Aspose.Pdf.Engine.IO.ConvertStrategies.ConvertHelpers](./aspose.pdf.engine.io.convertstrategies.converthelpers/) |  |
 | [Aspose.Pdf.Facades](./aspose.pdf.facades/) | The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure. |
 | [Aspose.Pdf.Forms](./aspose.pdf.forms/) | The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc. |
+| [Aspose.Pdf.Generator](./aspose.pdf.generator/) | The **Aspose.Pdf.Generator** namespace provides classes used to add various types of content to PDF page. |
 | [Aspose.Pdf.GroupProcessor](./aspose.pdf.groupprocessor/) | The **Aspose.Pdf.GroupProcessor** namespace provides classes used to work text and fonts. |
 | [Aspose.Pdf.GroupProcessor.Creators](./aspose.pdf.groupprocessor.creators/) | The **Aspose.Pdf.GroupProcessor.Creators** namespace provides classes used to create instances of GroupProcessor classes. |
 | [Aspose.Pdf.LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes. |

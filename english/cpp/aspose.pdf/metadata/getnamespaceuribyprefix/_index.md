@@ -27,6 +27,7 @@ The value of namespace URI.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

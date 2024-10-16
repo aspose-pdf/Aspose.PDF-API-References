@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::PolyAnnotation::set_Measure(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Measure](../../measure/)
 * Class [PolyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

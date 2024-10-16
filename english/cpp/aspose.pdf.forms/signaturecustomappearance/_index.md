@@ -59,5 +59,6 @@ class SignatureCustomAppearance : public System::Object
 | [SignatureCustomAppearance](./signaturecustomappearance/)() | Inititalizes new instance of the [SignatureCustomAppearance](./) class. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

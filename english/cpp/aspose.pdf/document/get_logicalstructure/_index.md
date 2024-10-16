@@ -18,6 +18,7 @@ System::SharedPtr<Structure::RootElement> Aspose::Pdf::Document::get_LogicalStru
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RootElement](../../../aspose.pdf.structure/rootelement/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

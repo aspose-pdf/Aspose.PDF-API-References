@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Forms::Signature> Aspose::Pdf::Forms::SignatureFi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Signature](../../signature/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

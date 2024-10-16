@@ -23,6 +23,7 @@ The bookmarks collection of all bookmarks that exist in the document.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmarks](../../bookmarks/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -47,6 +48,7 @@ List of extracted bookmarks.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmarks](../../bookmarks/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -71,6 +73,7 @@ System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBoo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmarks](../../bookmarks/)
 * Class [Bookmark](../../bookmark/)
 * Class [PdfBookmarkEditor](../)
@@ -96,7 +99,9 @@ System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBoo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bookmarks](../../bookmarks/)
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

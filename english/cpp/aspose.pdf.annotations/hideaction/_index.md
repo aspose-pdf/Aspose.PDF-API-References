@@ -21,8 +21,6 @@ class HideAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_IsHidden](./get_ishidden/)() | Gets status of the annotation(s) to hide/display. |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [HideAction](./hideaction/)(System::SharedPtr\<Annotation\>) | Initializes a new instance of the [HideAction](./) class for the specified annotation. |
 | [HideAction](./hideaction/)(System::SharedPtr\<Annotation\>, bool) | Initializes a new instance of the [HideAction](./) class for the specified annotation and invisibility flag. |
 | [HideAction](./hideaction/)(System::String) | Initializes a new instance of the [HideAction](./) class for the specified field name. |
@@ -32,7 +30,6 @@ class HideAction : public Aspose::Pdf::Annotations::PdfAction
 | [HideAction](./hideaction/)(System::ArrayPtr\<System::String\>) | Initializes a new instance of the [HideAction](./) class for the specified field names. |
 | [HideAction](./hideaction/)(System::ArrayPtr\<System::String\>, bool) | Initializes a new instance of the [HideAction](./) class for the specified field names and for invisibility flag. |
 | [set_IsHidden](./set_ishidden/)(bool) | Sets status of the annotation(s) to hide/display. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

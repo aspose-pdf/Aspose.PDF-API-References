@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Text::TabStops> Aspose::Pdf::Text::TextFragmentSt
 [Note](../../../aspose.pdf/note/) that Tabstops property works in new document generation scenarios only. Tabstops may be added during [TextFragment](../../textfragment/) initialization. Tabstops must be constructed before the text. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStops](../../tabstops/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)

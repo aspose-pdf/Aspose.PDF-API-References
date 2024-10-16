@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::GS::GS(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GS](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

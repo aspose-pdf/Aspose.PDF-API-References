@@ -18,6 +18,7 @@ const System::ArrayPtr<bool> & Aspose::Pdf::CollectionSort::get_A() const
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [CollectionSort](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

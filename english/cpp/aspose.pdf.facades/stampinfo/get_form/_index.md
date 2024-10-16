@@ -18,6 +18,7 @@ System::SharedPtr<XForm> Aspose::Pdf::Facades::StampInfo::get_Form() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [StampInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -24,6 +24,7 @@ void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::idx_set(int32_t index, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DCrossSection](../../pdf3dcrosssection/)
 * Class [PDF3DCrossSectionArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

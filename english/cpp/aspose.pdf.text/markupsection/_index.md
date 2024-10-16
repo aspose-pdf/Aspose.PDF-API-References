@@ -25,5 +25,6 @@ class MarkupSection : public System::Object
 | [get_Rectangle](./get_rectangle/)() const | Section rectangle. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

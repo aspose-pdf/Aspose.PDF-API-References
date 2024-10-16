@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::PrivateElement](../../../aspose.pdf.logi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

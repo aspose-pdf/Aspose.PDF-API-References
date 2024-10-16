@@ -18,6 +18,7 @@ void Aspose::Pdf::Document::set_Background(System::SharedPtr<Color> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

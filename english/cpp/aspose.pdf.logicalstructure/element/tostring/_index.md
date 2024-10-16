@@ -23,6 +23,7 @@ String that represents the current object.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

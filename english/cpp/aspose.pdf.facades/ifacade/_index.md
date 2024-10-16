@@ -26,5 +26,6 @@ class IFacade : public System::IDisposable
 | virtual [Close](./close/)() | Releases any resources associates with the current facade. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

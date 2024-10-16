@@ -22,6 +22,8 @@ void Aspose::Pdf::XfaConverter::XfaParserOptions::set_BasePath(System::SharedPtr
 The base path. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
 * Class [XfaParserOptions](../)
 * Namespace [Aspose::Pdf::XfaConverter](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::LineAnnotation::set_Measure(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Measure](../../measure/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

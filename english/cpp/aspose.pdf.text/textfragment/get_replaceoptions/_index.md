@@ -18,6 +18,7 @@ const System::SharedPtr<TextReplaceOptions> & Aspose::Pdf::Text::TextFragment::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextReplaceOptions](../../textreplaceoptions/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

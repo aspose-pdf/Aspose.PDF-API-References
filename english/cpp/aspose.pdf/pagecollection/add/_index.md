@@ -23,6 +23,7 @@ Added page.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,8 @@ void Aspose::Pdf::PageCollection::Add(const System::ArrayPtr<System::SharedPtr<P
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -63,6 +66,8 @@ void Aspose::Pdf::PageCollection::Add(const System::SharedPtr<System::Collection
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)

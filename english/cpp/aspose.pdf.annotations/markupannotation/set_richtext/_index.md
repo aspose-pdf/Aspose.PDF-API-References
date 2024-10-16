@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_RichText(System::String val
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

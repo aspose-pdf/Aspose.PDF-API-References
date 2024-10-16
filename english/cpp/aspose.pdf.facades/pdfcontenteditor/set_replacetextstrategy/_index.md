@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ReplaceTextStrategy](../../replacetextstrategy/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

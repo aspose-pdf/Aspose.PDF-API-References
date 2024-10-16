@@ -23,6 +23,8 @@ The list of sorted files.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [FileSpecification](../../filespecification/)
 * Class [Collection](../)
 * Namespace [Aspose::Pdf](../../)

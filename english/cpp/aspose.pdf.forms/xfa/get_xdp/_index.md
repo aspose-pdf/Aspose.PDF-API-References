@@ -18,6 +18,8 @@ System::SharedPtr<System::Xml::XmlDocument> Aspose::Pdf::Forms::XFA::get_XDP()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

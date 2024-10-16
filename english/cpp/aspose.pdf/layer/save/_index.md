@@ -23,6 +23,8 @@ void Aspose::Pdf::Layer::Save(System::SharedPtr<System::IO::Stream> outputStream
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Layer::Save(System::String outputPath)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

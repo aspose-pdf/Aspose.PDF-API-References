@@ -18,6 +18,7 @@ static System::SharedPtr<Point3D> Aspose::Pdf::Point3D::get_Trivial()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point3D](../)
 * Class [Point3D](../)
 * Namespace [Aspose::Pdf](../../)

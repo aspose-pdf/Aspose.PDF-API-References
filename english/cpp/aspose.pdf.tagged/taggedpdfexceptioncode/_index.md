@@ -40,5 +40,6 @@ class TaggedPdfExceptionCode : public System::Object
 | static [StructureElement_StructureElementWithIdAlreadyExists](./structureelement_structureelementwithidalreadyexists/) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Tagged](../)
 * Library [Aspose.PDF for C++](../../)

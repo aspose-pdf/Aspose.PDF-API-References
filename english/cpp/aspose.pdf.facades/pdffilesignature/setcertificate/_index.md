@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfFileSignature::SetCertificate(System::String pfx, 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

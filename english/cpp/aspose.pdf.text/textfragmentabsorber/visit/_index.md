@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Document> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<Page> page
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -63,6 +65,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::Visit(System::SharedPtr<XForm> xFo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -16,6 +16,12 @@ This class contains parameters which define [PdfContentEditor](../pdfcontentedit
 class ReplaceTextStrategy : public System::Object
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [NoCharacterAction](./nocharacteraction/) | Action to perform if font does not contain required character. |
+| [Scope](./scope/) | Scope where replace text operation is applied REPLACE_FIRST by default. |
 ## Methods
 
 | Method | Description |
@@ -29,5 +35,6 @@ class ReplaceTextStrategy : public System::Object
 | [set_ReplaceScope](./set_replacescope/)(ReplaceTextStrategy::Scope) | Scope of the replacement operation (replace first occurence or replace all occurences). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

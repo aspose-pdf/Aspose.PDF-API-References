@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::RichMediaAnnotation::Accept(System::SharedPtr<Ann
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [RichMediaAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

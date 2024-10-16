@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::RenderingOptions> Aspose::Pdf::Devices::ImageDevi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * Class [ImageDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

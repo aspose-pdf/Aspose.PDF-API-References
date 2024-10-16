@@ -27,6 +27,7 @@ System::SharedPtr<CharInfo> Aspose::Pdf::Text::CharInfoCollection::idx_get(int32
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CharInfo](../../charinfo/)
 * Class [CharInfoCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

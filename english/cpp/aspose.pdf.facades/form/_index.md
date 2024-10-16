@@ -16,16 +16,19 @@ Class representing Acro form object.
 class Form : public Aspose::Pdf::Facades::SaveableFacade
 ```
 
+## Nested classes
+
+* Class [FormImportResult](./formimportresult/)
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [ImportStatus](./importstatus/) | Status of imported field. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Closes opened files without any changes. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [ExportFdf](./exportfdf/)(System::SharedPtr\<System::IO::Stream\>) | Exports the content of the fields of the pdf into the fdf stream. |
 | [ExportXfdf](./exportxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported. |
 | [ExportXml](./exportxml/)(System::SharedPtr\<System::IO::Stream\>) | Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported. |
@@ -57,7 +60,6 @@ class Form : public Aspose::Pdf::Facades::SaveableFacade
 | [get_ContentDisposition](./get_contentdisposition/)() const | Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [get_DestFileName](./get_destfilename/)() const | Gets destiination file name. |
 | [get_DestStream](./get_deststream/)() const | Gets destination stream. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_FieldNames](./get_fieldnames/)() | Gets list of field names on the form. |
 | [get_FormSubmitButtonNames](./get_formsubmitbuttonnames/)() | Gets all form submit button names. |
 | [get_ImportResult](./get_importresult/)() | Result of last import operation. Array of objects which descibre result of import for each field. |

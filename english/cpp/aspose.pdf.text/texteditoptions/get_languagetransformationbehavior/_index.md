@@ -18,6 +18,7 @@ TextEditOptions::LanguageTransformation Aspose::Pdf::Text::TextEditOptions::get_
 
 ## See Also
 
+* Enum [LanguageTransformation](../languagetransformation/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

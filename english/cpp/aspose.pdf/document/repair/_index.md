@@ -19,10 +19,12 @@ void Aspose::Pdf::Document::Repair(System::SharedPtr<Document::RepairOptions> op
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<Document::RepairOptions\> | An optional parameter of type **RepairOptions** to specify repair settings. If not provided, default settings will be used. |
+| options | System::SharedPtr\<Document::RepairOptions\> | An optional parameter of type [RepairOptions](../repairoptions/) to specify repair settings. If not provided, default settings will be used. |
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RepairOptions](../repairoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

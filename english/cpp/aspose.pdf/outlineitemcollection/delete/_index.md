@@ -37,6 +37,7 @@ void Aspose::Pdf::OutlineItemCollection::Delete(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

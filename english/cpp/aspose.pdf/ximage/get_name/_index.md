@@ -18,6 +18,7 @@ System::String Aspose::Pdf::XImage::get_Name()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

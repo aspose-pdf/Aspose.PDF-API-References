@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Text::TextSegmentCollection::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [TextSegmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

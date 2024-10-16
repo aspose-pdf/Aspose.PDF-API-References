@@ -39,5 +39,6 @@ class BorderInfo : public System::ICloneable
 | [set_Top](./set_top/)(System::SharedPtr\<GraphInfo\>) | Sets a object that indicates the top border. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

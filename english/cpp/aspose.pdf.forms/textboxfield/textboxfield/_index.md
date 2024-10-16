@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextBoxField](../)
@@ -59,6 +60,7 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -80,6 +82,7 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc, 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextBoxField](../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::TimestampSettings::set_BasicAuthCredentials(System::String val
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TimestampSettings](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

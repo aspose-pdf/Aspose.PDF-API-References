@@ -24,6 +24,8 @@ void Aspose::Pdf::Metadata::idx_set(const System::String &key, System::SharedPtr
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)

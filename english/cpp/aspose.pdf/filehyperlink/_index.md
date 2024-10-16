@@ -20,7 +20,6 @@ class FileHyperlink : public Aspose::Pdf::Hyperlink
 
 | Method | Description |
 | --- | --- |
-| [cpp_set_link_element_to_weak](../hyperlink/cpp_set_link_element_to_weak/)() |  |
 | [FileHyperlink](./filehyperlink/)() | Initializes a new instance of the [FileHyperlink](./) class. |
 | [FileHyperlink](./filehyperlink/)(System::String) | Initializes a new instance of the [FileHyperlink](./) class. |
 | [get_NewWindow](./get_newwindow/)() const | Gets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |

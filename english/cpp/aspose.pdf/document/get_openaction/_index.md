@@ -18,6 +18,7 @@ System::SharedPtr<Annotations::IAppointment> Aspose::Pdf::Document::get_OpenActi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

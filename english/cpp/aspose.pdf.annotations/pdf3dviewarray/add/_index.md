@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::PDF3DViewArray::Add(System::SharedPtr<PDF3DView> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DView](../../pdf3dview/)
 * Class [PDF3DViewArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

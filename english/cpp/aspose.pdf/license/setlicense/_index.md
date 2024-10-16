@@ -29,6 +29,8 @@ Use this method to load a license from a stream.
 [Java] void setLicense(java.io.InputStream stream) 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [License](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -74,6 +76,7 @@ Tries to find the license in the following locations:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [License](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Opi::get_Version()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Opi](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

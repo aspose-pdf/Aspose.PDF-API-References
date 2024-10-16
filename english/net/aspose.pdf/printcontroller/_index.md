@@ -3,7 +3,7 @@ title: Class PrintController
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PrintController class. Represents print controller
 type: docs
-weight: 6830
+weight: 6870
 url: /net/aspose.pdf/printcontroller/
 ---
 ## PrintController class

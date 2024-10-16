@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::Shape::set_Text(System::SharedPtr<Aspose::Pdf::Text::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [Shape](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

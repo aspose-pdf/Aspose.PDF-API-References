@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextExtractionOptions::set_FormattingMode(TextExtraction
 
 ## See Also
 
+* Enum [TextFormattingMode](../textformattingmode/)
 * Class [TextExtractionOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

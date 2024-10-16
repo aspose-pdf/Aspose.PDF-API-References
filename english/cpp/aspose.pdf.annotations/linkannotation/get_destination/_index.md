@@ -18,6 +18,7 @@ System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::LinkAnnotation::get_De
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [LinkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

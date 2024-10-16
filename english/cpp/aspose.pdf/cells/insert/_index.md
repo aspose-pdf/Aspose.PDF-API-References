@@ -24,6 +24,7 @@ void Aspose::Pdf::Cells::Insert(int32_t index, System::SharedPtr<Cell> cell)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)

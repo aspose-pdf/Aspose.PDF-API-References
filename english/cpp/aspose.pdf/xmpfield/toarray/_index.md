@@ -23,6 +23,8 @@ The array.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)

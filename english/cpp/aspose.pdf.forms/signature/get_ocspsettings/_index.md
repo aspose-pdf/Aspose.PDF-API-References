@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::OcspSettings> Aspose::Pdf::Forms::Signature::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OcspSettings](../../../aspose.pdf/ocspsettings/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)

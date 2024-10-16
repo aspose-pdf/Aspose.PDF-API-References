@@ -18,6 +18,7 @@ System::SharedPtr<Annotations::IAppointment> Aspose::Pdf::OutlineItemCollection:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

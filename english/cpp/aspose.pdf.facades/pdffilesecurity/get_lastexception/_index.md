@@ -18,6 +18,7 @@ System::Exception Aspose::Pdf::Facades::PdfFileSecurity::get_LastException() con
 
 ## See Also
 
+* Typedef [Exception](../../../system/exception/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

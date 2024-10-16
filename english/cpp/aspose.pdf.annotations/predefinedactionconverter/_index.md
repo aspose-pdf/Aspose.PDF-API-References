@@ -23,5 +23,6 @@ class PredefinedActionConverter : public System::Object
 | static [ToString](./tostring/)(PredefinedAction) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

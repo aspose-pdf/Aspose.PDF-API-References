@@ -33,6 +33,7 @@ if *item*  was successfully removed from the collection; **false**
 if *item*  was not found in the original collection. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntent](../../outputintent/)
 * Class [OutputIntents](../)
 * Namespace [Aspose::Pdf](../../)

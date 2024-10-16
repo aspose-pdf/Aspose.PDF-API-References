@@ -22,6 +22,7 @@ virtual System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> Aspose::Pdf::Tex
 Allows to define several options that will be used during search text containing in tables. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

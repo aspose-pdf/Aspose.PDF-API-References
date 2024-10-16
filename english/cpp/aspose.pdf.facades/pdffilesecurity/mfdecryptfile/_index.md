@@ -27,6 +27,7 @@ True for success.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

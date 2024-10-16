@@ -18,6 +18,7 @@ void Aspose::Pdf::Artifact::set_Text(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

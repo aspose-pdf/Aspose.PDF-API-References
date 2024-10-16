@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::BDC::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

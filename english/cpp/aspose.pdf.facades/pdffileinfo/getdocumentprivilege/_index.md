@@ -23,6 +23,7 @@ The PDF document privilege settings.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)

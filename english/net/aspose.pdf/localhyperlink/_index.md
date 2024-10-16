@@ -3,7 +3,7 @@ title: Class LocalHyperlink
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object
 type: docs
-weight: 4540
+weight: 4580
 url: /net/aspose.pdf/localhyperlink/
 ---
 ## LocalHyperlink class

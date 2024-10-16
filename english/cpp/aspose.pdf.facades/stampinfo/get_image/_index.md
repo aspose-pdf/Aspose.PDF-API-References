@@ -18,6 +18,8 @@ System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Facades::StampInfo::get_I
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [StampInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,7 +29,10 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -56,7 +59,11 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

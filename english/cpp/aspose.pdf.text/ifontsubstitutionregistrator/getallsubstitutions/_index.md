@@ -23,6 +23,8 @@ all the substitution pairs
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
 * Class [Font](../../font/)
 * Class [IFontSubstitutionRegistrator](../)
 * Namespace [Aspose::Pdf::Text](../../)

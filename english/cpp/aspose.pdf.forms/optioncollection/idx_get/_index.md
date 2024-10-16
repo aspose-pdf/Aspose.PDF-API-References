@@ -27,6 +27,7 @@ System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::idx_get(int32_t 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -51,7 +52,9 @@ Found option.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
+* Class [String](../../../system/string/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

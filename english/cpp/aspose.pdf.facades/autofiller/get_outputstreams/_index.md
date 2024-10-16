@@ -18,6 +18,9 @@ System::ArrayPtr<System::SharedPtr<System::IO::Stream>> Aspose::Pdf::Facades::Au
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

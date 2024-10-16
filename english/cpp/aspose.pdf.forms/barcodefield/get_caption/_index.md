@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Forms::BarcodeField::get_Caption()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BarcodeField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

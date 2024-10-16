@@ -38,5 +38,6 @@ class StructureAttribute : public System::Object
 | [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

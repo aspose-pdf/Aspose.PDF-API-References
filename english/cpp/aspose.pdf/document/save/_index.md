@@ -41,6 +41,7 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<SaveOptions> options)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -61,6 +62,8 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> output)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -81,6 +84,8 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> outputStr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -102,6 +107,8 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> outputStr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -125,6 +132,9 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::Web::HttpResponse> re
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
+* Class [String](../../../system/string/)
 * Enum [ContentDisposition](../../contentdisposition/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
@@ -146,6 +156,7 @@ void Aspose::Pdf::Document::Save(System::String outputFileName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -166,6 +177,7 @@ void Aspose::Pdf::Document::Save(System::String outputFileName, SaveFormat forma
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -187,6 +199,8 @@ void Aspose::Pdf::Document::Save(System::String outputFileName, System::SharedPt
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

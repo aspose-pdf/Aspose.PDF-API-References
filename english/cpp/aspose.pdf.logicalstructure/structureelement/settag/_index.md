@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::StructureElement::SetTag(System::String newT
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

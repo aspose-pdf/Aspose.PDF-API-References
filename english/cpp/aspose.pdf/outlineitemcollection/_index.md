@@ -23,7 +23,7 @@ class OutlineItemCollection : public Aspose::Pdf::Outlines
 | [Add](./add/)(const System::SharedPtr\<OutlineItemCollection\>\&) override | Adds outline item to collection. |
 | [Clear](./clear/)() override | Clears all items from the collection. |
 | [Contains](./contains/)(const System::SharedPtr\<OutlineItemCollection\>\&) const override | Checks if collection contains given item. |
-| [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\>, int32_t) override | Copies the outline entries to an **System.Array**, starting at a particular **System.Array** index. |
+| [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\>, int32_t) override | Copies the outline entries to an [System.Array](../../system/array/), starting at a particular [System.Array](../../system/array/) index. |
 | [Delete](./delete/)() | Deletes this outline item from the document outline hierarchy. |
 | [Delete](./delete/)(System::String) | Deletes outline entry with specified name from the document outline hierarchy. |
 | [get_Action](./get_action/)() | Gets the action for this outline item. |

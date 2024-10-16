@@ -27,6 +27,7 @@ Fonts collection.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontCollection](../../../aspose.pdf.text/fontcollection/)
 * Class [Resources](../)
 * Namespace [Aspose::Pdf](../../)

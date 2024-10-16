@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::TextStamp::get_Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)

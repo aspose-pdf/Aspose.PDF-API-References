@@ -32,6 +32,12 @@ public sealed class Arc : Shape
 | [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Gets or sets a float value that indicates the radius of the arc. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/arc/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)

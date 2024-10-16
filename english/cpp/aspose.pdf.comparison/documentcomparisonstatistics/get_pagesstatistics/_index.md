@@ -18,6 +18,8 @@ const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Tex
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
 * Class [DocumentComparisonStatistics](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

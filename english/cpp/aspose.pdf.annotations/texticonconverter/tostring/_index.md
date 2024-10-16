@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::TextIconConverter::ToString(Text
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [TextIcon](../../texticon/)
 * Class [TextIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DView::set_ViewName(System::String value)
 The name of the view.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,8 @@ Enumerator for collection
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [XForm](../../xform/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)

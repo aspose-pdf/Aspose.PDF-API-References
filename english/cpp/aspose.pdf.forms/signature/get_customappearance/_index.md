@@ -18,6 +18,7 @@ System::SharedPtr<SignatureCustomAppearance> Aspose::Pdf::Forms::Signature::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SignatureCustomAppearance](../../signaturecustomappearance/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)

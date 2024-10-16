@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::Annotations::DefaultAppe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

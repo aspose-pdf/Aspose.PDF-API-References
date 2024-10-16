@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Vector::GraphicElement::set_Position(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

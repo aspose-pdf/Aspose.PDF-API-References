@@ -18,6 +18,7 @@ System::SharedPtr<Color> Aspose::Pdf::Page::get_Background()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

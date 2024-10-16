@@ -22,6 +22,7 @@ System::String Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Tag() c
 Tag name of [Aspose::Pdf::LogicalStructure::StructureElement](../../structureelement/).
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StructureTypeStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

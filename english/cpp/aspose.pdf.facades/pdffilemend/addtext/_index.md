@@ -30,6 +30,7 @@ True in case text was successfully added.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -59,6 +60,7 @@ True in case text was successfully added.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -88,7 +90,9 @@ True in case text was successfully added.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../formattedtext/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

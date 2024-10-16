@@ -20,7 +20,6 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 
 | Method | Description |
 | --- | --- |
-| [BaseParagraph](../../aspose.pdf/baseparagraph/baseparagraph/)() |  |
 | [Clone](./clone/)() override | Clone the fragment. |
 | virtual [CloneWithSegments](./clonewithsegments/)() | Clone the fragment with all segments. |
 | [get_BaselinePosition](./get_baselineposition/)() | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
@@ -28,39 +27,26 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [get_FootNote](./get_footnote/)() const | Gets the paragraph foot note.(for pdf generation only) |
 | [get_Form](./get_form/)() const | Gets form object that contains the [TextFragment](./). |
 | [get_HorizontalAlignment](./get_horizontalalignment/)() override | Gets a horizontal alignment of text fragment. |
-| virtual [get_Hyperlink](../../aspose.pdf/baseparagraph/get_hyperlink/)() | Gets the fragment hyperlink(for pdf generator). |
-| [get_IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/get_isfirstparagraphincolumn/)() const | Gets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) |
-| [get_IsInLineParagraph](../../aspose.pdf/baseparagraph/get_isinlineparagraph/)() const | Gets a paragraph is inline. Default is false.(for pdf generation) |
-| [get_IsInNewPage](../../aspose.pdf/baseparagraph/get_isinnewpage/)() const | Gets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
-| [get_IsKeptWithNext](../../aspose.pdf/baseparagraph/get_iskeptwithnext/)() const | Gets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
-| [get_Margin](../../aspose.pdf/baseparagraph/get_margin/)() | Gets a outer margin for paragraph (for pdf generation) |
 | [get_Page](./get_page/)() const | Gets page that contains the [TextFragment](./). |
 | [get_Position](./get_position/)() | Gets text position for text, represented with [TextFragment](./) object. |
 | [get_Rectangle](./get_rectangle/)() | Gets rectangle of the [TextFragment](./). |
 | [get_ReplaceOptions](./get_replaceoptions/)() const | Gets text replace options. The options define behavior when fragment text is replaced to more short/long. |
 | [get_Segments](./get_segments/)() const | Gets text segments for current [TextFragment](./). |
-| [get_Text](./get_text/)() | Gets **System::String** text object that the [TextFragment](./) object represents. |
+| [get_Text](./get_text/)() | Gets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
 | [get_TextState](./get_textstate/)() | Gets text state for the text that [TextFragment](./) object represents. |
 | [get_VerticalAlignment](./get_verticalalignment/)() override | Gets a vertical alignment of text fragment. |
 | [get_WrapLinesCount](./get_wraplinescount/)() const | Gets wrap lines count for this paragraph(for pdf generation only) |
-| [get_ZIndex](../../aspose.pdf/baseparagraph/get_zindex/)() const | Gets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 | [IsolateTextSegments](./isolatetextsegments/)(int32_t, int32_t) | Gets [TextSegment](../textsegment/)(s) representing specified part of the [TextFragment](./) text. |
 | [set_BaselinePosition](./set_baselineposition/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
 | [set_EndNote](./set_endnote/)(System::SharedPtr\<Note\>) | Sets the paragraph end note.(for pdf generation only) |
 | [set_FootNote](./set_footnote/)(System::SharedPtr\<Note\>) | Sets the paragraph foot note.(for pdf generation only) |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) override | Sets a horizontal alignment of text fragment. |
 | [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) override | Sets the fragment hyperlink. |
-| [set_IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/set_isfirstparagraphincolumn/)(bool) | Sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) |
-| [set_IsInLineParagraph](../../aspose.pdf/baseparagraph/set_isinlineparagraph/)(bool) | Sets a paragraph is inline. Default is false.(for pdf generation) |
-| [set_IsInNewPage](../../aspose.pdf/baseparagraph/set_isinnewpage/)(bool) | Sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
-| [set_IsKeptWithNext](../../aspose.pdf/baseparagraph/set_iskeptwithnext/)(bool) | Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
-| [set_Margin](../../aspose.pdf/baseparagraph/set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets a outer margin for paragraph (for pdf generation) |
 | [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Sets text position for text, represented with [TextFragment](./) object. |
 | [set_Segments](./set_segments/)(System::SharedPtr\<TextSegmentCollection\>) | Gets text segments for current [TextFragment](./). |
-| [set_Text](./set_text/)(System::String) | Sets **System::String** text object that the [TextFragment](./) object represents. |
+| [set_Text](./set_text/)(System::String) | Sets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) override | Sets a vertical alignment of text fragment. |
 | [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only) |
-| [set_ZIndex](../../aspose.pdf/baseparagraph/set_zindex/)(int32_t) | Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 | [TextFragment](./textfragment/)() | Initializes new instance of the [TextFragment](./) object. |
 | [TextFragment](./textfragment/)(System::SharedPtr\<TabStops\>) | Initializes new instance of the [TextFragment](./) object with predefined [TabStops](../tabstops/) positions. |
 | [TextFragment](./textfragment/)(System::String) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside. Specifies text string inside the segment. |

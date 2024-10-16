@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::Form::Delete(System::SharedPtr<Field> field)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Forms::Form::Delete(System::String fieldName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

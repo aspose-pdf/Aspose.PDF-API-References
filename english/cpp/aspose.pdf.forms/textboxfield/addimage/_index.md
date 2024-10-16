@@ -23,6 +23,8 @@ void Aspose::Pdf::Forms::TextBoxField::AddImage(System::SharedPtr<System::Drawin
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

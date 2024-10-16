@@ -35,5 +35,6 @@ class ActionCollection : public System::Collections::Generic::ICollection<System
 | [Remove](./remove/)(const System::SharedPtr\<PdfAction\>\&) override | Removes item from collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::MarkupSection::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [MarkupSection](../)
 * Namespace [Aspose::Pdf::Text](../../)

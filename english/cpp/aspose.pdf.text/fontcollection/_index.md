@@ -38,5 +38,6 @@ class FontCollection : public System::Collections::Generic::ICollection<System::
 [Font](../font/) collections represented by [FontCollection](./) class are used in several scenarios. For example, in resources with [Resources::Fonts](../) property. 
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

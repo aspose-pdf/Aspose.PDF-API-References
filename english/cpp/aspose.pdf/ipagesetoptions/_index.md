@@ -24,5 +24,6 @@ class IPageSetOptions : public virtual System::Object
 | virtual [set_ExplicitListOfSavedPages](./set_explicitlistofsavedpages/)(System::ArrayPtr\<int32_t\>) | Specifies the array of numbers of pages to convert. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

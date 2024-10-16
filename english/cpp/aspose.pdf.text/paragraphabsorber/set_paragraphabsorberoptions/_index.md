@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::BMC::BMC(System::String tag)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BMC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

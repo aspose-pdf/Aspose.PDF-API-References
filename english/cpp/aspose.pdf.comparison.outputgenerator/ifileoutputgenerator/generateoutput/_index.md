@@ -24,7 +24,10 @@ virtual void Aspose::Pdf::Comparison::OutputGenerator::IFileOutputGenerator::Gen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [IFileOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,7 +48,10 @@ virtual void Aspose::Pdf::Comparison::OutputGenerator::IFileOutputGenerator::Gen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [IFileOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)

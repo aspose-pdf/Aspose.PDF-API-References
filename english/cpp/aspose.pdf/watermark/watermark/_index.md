@@ -23,6 +23,8 @@ Aspose::Pdf::Watermark::Watermark(System::SharedPtr<System::Drawing::Image> imag
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [Watermark](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ Aspose::Pdf::Watermark::Watermark(System::SharedPtr<System::Drawing::Image> imag
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Image](../../../system.drawing/image/)
 * Class [Rectangle](../../rectangle/)
 * Class [Watermark](../)
 * Namespace [Aspose::Pdf](../../)

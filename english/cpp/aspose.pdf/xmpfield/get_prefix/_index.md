@@ -22,6 +22,7 @@ System::String Aspose::Pdf::XmpField::get_Prefix() const
 The prefix.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

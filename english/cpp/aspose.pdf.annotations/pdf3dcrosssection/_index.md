@@ -35,5 +35,6 @@ class PDF3DCrossSection : public System::Object
 | [set_Visibility](./set_visibility/)(bool) | Sets a value indicating visibility of the cutting planes intersection. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

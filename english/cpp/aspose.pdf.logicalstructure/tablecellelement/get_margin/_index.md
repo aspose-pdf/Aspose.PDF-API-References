@@ -18,6 +18,7 @@ System::SharedPtr<MarginInfo> Aspose::Pdf::LogicalStructure::TableCellElement::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../../aspose.pdf/margininfo/)
 * Class [TableCellElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

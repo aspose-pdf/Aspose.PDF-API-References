@@ -18,6 +18,7 @@ System::String Aspose::Pdf::FileParams::get_CheckSum()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FileParams](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

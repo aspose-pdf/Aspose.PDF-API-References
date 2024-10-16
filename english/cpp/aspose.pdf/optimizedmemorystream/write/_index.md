@@ -29,6 +29,7 @@ void Aspose::Pdf::OptimizedMemoryStream::Write(const System::ArrayPtr<uint8_t> &
 The sum of *offset*  and *count*  is greater than the buffer length. 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [OptimizedMemoryStream](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

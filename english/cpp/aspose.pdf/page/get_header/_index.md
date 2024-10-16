@@ -22,6 +22,7 @@ System::SharedPtr<HeaderFooter> Aspose::Pdf::Page::get_Header() const
 The page header.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeaderFooter](../../headerfooter/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::XImage::Rename(System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::CharInfo::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [CharInfo](../)
 * Namespace [Aspose::Pdf::Text](../../)

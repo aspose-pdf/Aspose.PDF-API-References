@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Forms::ChoiceField::set_SelectedItems(System::ArrayPtr
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

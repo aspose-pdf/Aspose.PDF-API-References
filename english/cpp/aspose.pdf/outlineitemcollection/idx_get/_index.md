@@ -27,6 +27,7 @@ System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineItemCollection::idx
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

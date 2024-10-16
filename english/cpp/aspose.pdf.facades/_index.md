@@ -14,7 +14,7 @@ url: /cpp/aspose.pdf.facades/
 
 | Class | Description |
 | --- | --- |
-| [AutoFiller](./autofiller/) | Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf file or stream. It has two template file input modes:input as a stream or a pdf file. It has four types of output modes:one merged stream, one merged file, many small streams, many small files. It can recieve literal data contained in a **System.Data.DataTable**. |
+| [AutoFiller](./autofiller/) | Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf file or stream. It has two template file input modes:input as a stream or a pdf file. It has four types of output modes:one merged stream, one merged file, many small streams, many small files. It can recieve literal data contained in a [System.Data.DataTable](../system.data/datatable/). |
 | [BDCProperties](./bdcproperties/) | BDC operator properties. |
 | [Bookmark](./bookmark/) | Represents a bookmark. |
 | [Bookmarks](./bookmarks/) | Represents a collection of [Bookmark](./bookmark/) objects. |

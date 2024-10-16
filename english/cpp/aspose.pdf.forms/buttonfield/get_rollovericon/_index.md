@@ -18,6 +18,7 @@ System::SharedPtr<XForm> Aspose::Pdf::Forms::ButtonField::get_RolloverIcon()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

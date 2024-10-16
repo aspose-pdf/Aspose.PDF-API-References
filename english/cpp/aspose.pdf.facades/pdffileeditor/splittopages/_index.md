@@ -27,6 +27,10 @@ Array of memory streams which contain pages of the document.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -47,6 +51,9 @@ void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::SharedPtr<System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -70,6 +77,10 @@ Output PDF streams, each stream buffers a single-page PDF document.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MemoryStream](../../../system.io/memorystream/)
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -90,6 +101,7 @@ void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::String inputFile,
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

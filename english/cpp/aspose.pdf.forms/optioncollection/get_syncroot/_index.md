@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Forms::OptionCollection::get_Sync
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

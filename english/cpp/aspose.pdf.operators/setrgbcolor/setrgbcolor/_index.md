@@ -44,6 +44,7 @@ Aspose::Pdf::Operators::SetRGBColor::SetRGBColor(System::Drawing::Color color)
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [SetRGBColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

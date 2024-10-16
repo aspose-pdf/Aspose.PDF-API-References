@@ -27,6 +27,11 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -50,6 +55,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -73,6 +81,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

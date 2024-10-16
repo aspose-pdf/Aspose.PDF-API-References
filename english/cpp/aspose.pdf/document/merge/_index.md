@@ -23,6 +23,8 @@ void Aspose::Pdf::Document::Merge(const System::ArrayPtr<System::SharedPtr<Docum
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::Document::Merge(const System::ArrayPtr<System::String> &files)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -63,6 +67,9 @@ void Aspose::Pdf::Document::Merge(System::SharedPtr<Document::MergeOptions> merg
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MergeOptions](../mergeoptions/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Document](../)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -84,6 +91,10 @@ void Aspose::Pdf::Document::Merge(System::SharedPtr<Document::MergeOptions> merg
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [MergeOptions](../mergeoptions/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

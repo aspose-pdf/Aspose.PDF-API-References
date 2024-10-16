@@ -24,7 +24,9 @@ Aspose::Pdf::Annotations::NamedDestination::NamedDestination(System::SharedPtr<D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
 * Class [NamedDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

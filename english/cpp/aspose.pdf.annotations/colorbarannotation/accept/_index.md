@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::ColorBarAnnotation::Accept(System::SharedPtr<Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [ColorBarAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

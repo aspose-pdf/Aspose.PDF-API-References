@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::Dictionary<int32_t, int32_t>> As
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

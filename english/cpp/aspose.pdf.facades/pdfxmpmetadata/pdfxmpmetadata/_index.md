@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfXmpMetadata::PdfXmpMetadata(System::SharedPtr<Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)

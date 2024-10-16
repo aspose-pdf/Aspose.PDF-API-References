@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::TextAnnotation::TextAnnotation(System::SharedPtr<Aspos
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::TextAnnotation::TextAnnotation(System::SharedPtr<Docum
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [TextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

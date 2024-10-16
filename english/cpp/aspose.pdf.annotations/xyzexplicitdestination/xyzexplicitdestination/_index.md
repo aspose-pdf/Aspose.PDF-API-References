@@ -48,6 +48,7 @@ Aspose::Pdf::Annotations::XYZExplicitDestination::XYZExplicitDestination(System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [XYZExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -75,6 +76,7 @@ Use constructor without Document argument.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [XYZExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

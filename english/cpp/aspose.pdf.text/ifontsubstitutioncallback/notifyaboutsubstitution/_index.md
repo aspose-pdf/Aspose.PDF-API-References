@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionCallback::NotifyAboutSubstituti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [IFontSubstitutionCallback](../)
 * Namespace [Aspose::Pdf::Text](../../)

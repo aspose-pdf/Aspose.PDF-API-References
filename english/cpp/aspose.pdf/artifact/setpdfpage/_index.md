@@ -23,6 +23,7 @@ void Aspose::Pdf::Artifact::SetPdfPage(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

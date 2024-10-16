@@ -27,6 +27,7 @@ True for success.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -53,6 +54,8 @@ True for success.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)

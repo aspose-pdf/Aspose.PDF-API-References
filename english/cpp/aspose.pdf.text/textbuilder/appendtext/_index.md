@@ -27,6 +27,8 @@ Appends list of text fragments to [Pdf](../../../aspose.pdf/) page.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -47,6 +49,7 @@ void Aspose::Pdf::Text::TextBuilder::AppendText(System::SharedPtr<TextFragment> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)

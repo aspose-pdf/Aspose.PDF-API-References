@@ -18,6 +18,7 @@ const System::ArrayPtr<int32_t> & Aspose::Pdf::Comparison::GraphicalComparison::
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [ImagesDifference](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)
 * Library [Aspose.PDF for C++](../../../)

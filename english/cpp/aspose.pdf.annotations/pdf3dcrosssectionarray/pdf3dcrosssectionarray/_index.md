@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::PDF3DCrossSectionArray::PDF3DCrossSectionArray(System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PDF3DCrossSectionArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

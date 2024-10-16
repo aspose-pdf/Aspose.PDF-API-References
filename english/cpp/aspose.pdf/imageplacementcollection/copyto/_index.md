@@ -24,6 +24,8 @@ void Aspose::Pdf::ImagePlacementCollection::CopyTo(System::ArrayPtr<System::Shar
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImagePlacement](../../imageplacement/)
 * Class [ImagePlacementCollection](../)
 * Namespace [Aspose::Pdf](../../)

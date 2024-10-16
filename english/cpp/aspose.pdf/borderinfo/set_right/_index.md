@@ -18,6 +18,7 @@ void Aspose::Pdf::BorderInfo::set_Right(System::SharedPtr<GraphInfo> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphInfo](../../graphinfo/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Annotations::PdfAction> Aspose::Pdf::OutlineItemCollection::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)

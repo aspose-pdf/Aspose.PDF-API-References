@@ -18,6 +18,7 @@ void Aspose::Pdf::GraphInfo::set_DashArray(System::ArrayPtr<int32_t> value)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [GraphInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

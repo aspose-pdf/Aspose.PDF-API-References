@@ -18,6 +18,7 @@ System::SharedPtr<TiffSettings> Aspose::Pdf::Devices::TiffDevice::get_Settings()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

@@ -21,6 +21,7 @@ static System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Lang()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpField](../)
 * Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)

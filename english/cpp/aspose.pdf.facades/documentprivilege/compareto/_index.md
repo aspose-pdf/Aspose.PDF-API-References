@@ -18,6 +18,8 @@ int32_t Aspose::Pdf::Facades::DocumentPrivilege::CompareTo(System::SharedPtr<Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [DocumentPrivilege](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

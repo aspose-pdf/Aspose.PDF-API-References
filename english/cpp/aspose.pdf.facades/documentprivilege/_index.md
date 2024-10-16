@@ -52,5 +52,6 @@ class DocumentPrivilege : public System::IComparable<System::SharedPtr<System::O
 | [set_PrintAllowLevel](./set_printallowlevel/)(int32_t) | Sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
 ## See Also
 
+* Class [IComparable](../../system/icomparable/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

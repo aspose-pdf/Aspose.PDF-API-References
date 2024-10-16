@@ -37,6 +37,7 @@ Aspose::Pdf::CollectionSort::CollectionSort(System::SharedPtr<Engine::Data::IPdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionSort](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

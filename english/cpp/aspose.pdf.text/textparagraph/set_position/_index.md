@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextParagraph::set_Position(System::SharedPtr<Aspose::Pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Position](../../position/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

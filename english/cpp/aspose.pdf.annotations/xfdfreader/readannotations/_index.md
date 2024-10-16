@@ -24,6 +24,8 @@ static void Aspose::Pdf::Annotations::XfdfReader::ReadAnnotations(System::Shared
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [XfdfReader](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::AnnotationStateModelConverter::T
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [AnnotationStateModel](../../annotationstatemodel/)
 * Class [AnnotationStateModelConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

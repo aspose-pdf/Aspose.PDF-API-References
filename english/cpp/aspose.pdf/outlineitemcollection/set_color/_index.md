@@ -18,6 +18,7 @@ void Aspose::Pdf::OutlineItemCollection::set_Color(System::Drawing::Color value)
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,6 +19,7 @@ static Direction Aspose::Pdf::DirectionConverter::ToEnum(System::String value)
 ## See Also
 
 * Enum [Direction](../../direction/)
+* Class [String](../../../system/string/)
 * Class [DirectionConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

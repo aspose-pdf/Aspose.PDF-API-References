@@ -24,5 +24,6 @@ class DocMDPSignature : public System::Object
 | [get_AccessPermissions](./get_accesspermissions/)() const | Returns the access permissions granted for this document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::SharedPtr<Document> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -43,6 +44,8 @@ virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,7 @@ virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::String srcFile)=0
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

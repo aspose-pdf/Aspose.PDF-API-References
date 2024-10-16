@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::AbsorbedTable::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [AbsorbedTable](../)
 * Namespace [Aspose::Pdf::Text](../../)

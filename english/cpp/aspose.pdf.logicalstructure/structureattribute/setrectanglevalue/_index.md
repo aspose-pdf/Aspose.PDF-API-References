@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::StructureAttribute::SetRectangleValue(System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

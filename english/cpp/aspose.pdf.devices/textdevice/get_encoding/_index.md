@@ -18,6 +18,8 @@ System::SharedPtr<System::Text::Encoding> Aspose::Pdf::Devices::TextDevice::get_
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

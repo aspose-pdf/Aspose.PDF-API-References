@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultCellTextState(Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [TableElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

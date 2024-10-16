@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<XmpPdfAEx
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * Class [XmpPdfAExtensionSchema](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::TextStamp::set_ReplacementFont(System::SharedPtr<Text::Font> v
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,9 @@ System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::P
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Class [String](../../../system/string/)
 * Class [JavaScriptCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

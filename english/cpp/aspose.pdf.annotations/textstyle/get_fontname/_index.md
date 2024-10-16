@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::TextStyle::get_FontName()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::Exception Aspose::Pdf::CrashReportOptions::get_Exception() const
 
 ## See Also
 
+* Typedef [Exception](../../../system/exception/)
 * Class [CrashReportOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

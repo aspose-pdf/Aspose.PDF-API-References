@@ -22,6 +22,7 @@ void Aspose::Pdf::Page::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs
 The paragraphs.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::OutlineItemCollection::get_Color()
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

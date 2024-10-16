@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::CompositingParameters> Aspose::Pdf::ImagePlacemen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CompositingParameters](../../compositingparameters/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

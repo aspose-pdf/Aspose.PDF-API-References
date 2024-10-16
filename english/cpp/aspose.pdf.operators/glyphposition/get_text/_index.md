@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::GlyphPosition::get_Text() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GlyphPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

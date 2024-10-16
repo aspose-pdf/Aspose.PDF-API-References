@@ -23,6 +23,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::GroupProcessor::IPdfTypeExtractor:
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [IPdfTypeExtractor](../)
 * Namespace [Aspose::Pdf::GroupProcessor](../../)
 * Library [Aspose.PDF for C++](../../../)

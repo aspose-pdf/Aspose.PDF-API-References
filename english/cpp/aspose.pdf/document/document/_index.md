@@ -57,6 +57,8 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,6 +79,8 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, boo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -97,6 +101,8 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -118,6 +124,9 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -139,6 +148,9 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -158,6 +170,7 @@ Aspose::Pdf::Document::Document(System::String filename)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -178,6 +191,7 @@ Aspose::Pdf::Document::Document(System::String filename, bool isManagedStream)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -198,6 +212,8 @@ Aspose::Pdf::Document::Document(System::String filename, System::SharedPtr<LoadO
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -219,6 +235,7 @@ Aspose::Pdf::Document::Document(System::String filename, System::String password
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -240,6 +257,7 @@ Aspose::Pdf::Document::Document(System::String filename, System::String password
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

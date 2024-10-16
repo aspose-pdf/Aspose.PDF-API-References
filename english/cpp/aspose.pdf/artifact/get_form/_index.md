@@ -18,6 +18,7 @@ System::SharedPtr<XForm> Aspose::Pdf::Artifact::get_Form()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

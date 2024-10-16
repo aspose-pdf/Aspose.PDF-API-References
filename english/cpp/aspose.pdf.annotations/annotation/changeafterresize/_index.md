@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Annotations::Annotation::ChangeAfterResize(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

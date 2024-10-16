@@ -18,6 +18,8 @@ const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Ope
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Operator](../../operator/)
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)

@@ -27,6 +27,7 @@ true if item was deleted; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImagePlacement](../../imageplacement/)
 * Class [ImagePlacementCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::PolyAnnotation::set_Vertices(System::ArrayPtr<Sys
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [PolyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

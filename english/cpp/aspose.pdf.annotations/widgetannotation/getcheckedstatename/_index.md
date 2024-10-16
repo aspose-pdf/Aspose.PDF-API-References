@@ -23,6 +23,7 @@ The name of the "checked" state for this annotation.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

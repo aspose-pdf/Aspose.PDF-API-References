@@ -18,6 +18,7 @@ ReplaceTextStrategy::Scope Aspose::Pdf::Facades::ReplaceTextStrategy::get_Replac
 
 ## See Also
 
+* Enum [Scope](../scope/)
 * Class [ReplaceTextStrategy](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::GetResources()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resources](../../resources/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)
@@ -47,6 +48,7 @@ System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::GetResources(bool 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resources](../../resources/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)

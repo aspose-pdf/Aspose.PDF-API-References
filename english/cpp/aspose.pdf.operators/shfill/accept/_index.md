@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::ShFill::Accept(System::SharedPtr<IOperatorSelector>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [ShFill](../)
 * Namespace [Aspose::Pdf::Operators](../../)

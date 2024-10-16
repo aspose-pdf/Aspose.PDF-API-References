@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotati
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

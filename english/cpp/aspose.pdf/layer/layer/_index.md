@@ -24,6 +24,7 @@ Aspose::Pdf::Layer::Layer(System::String id, System::String name)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

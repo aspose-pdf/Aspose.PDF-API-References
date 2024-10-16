@@ -22,6 +22,7 @@ System::SharedPtr<PDF3DViewArray> Aspose::Pdf::Annotations::PDF3DArtwork::get_Vi
 The view array.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DViewArray](../../pdf3dviewarray/)
 * Class [PDF3DArtwork](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -27,6 +27,8 @@ Name of the added image.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BitmapInfo](../../bitmapinfo/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -52,6 +54,8 @@ Name of the added image.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BitmapInfo](../../bitmapinfo/)
 * Enum [ImageFilterType](../../imagefiltertype/)
 * Class [XImageCollection](../)
@@ -77,6 +81,9 @@ Name of the added image.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -101,6 +108,9 @@ Name of the added image.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [ImageFilterType](../../imagefiltertype/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -122,6 +132,8 @@ void Aspose::Pdf::XImageCollection::Add(System::SharedPtr<System::IO::Stream> im
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

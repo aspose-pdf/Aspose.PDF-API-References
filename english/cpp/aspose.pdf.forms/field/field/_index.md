@@ -23,6 +23,7 @@ Aspose::Pdf::Forms::Field::Field(System::SharedPtr<Document> doc)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

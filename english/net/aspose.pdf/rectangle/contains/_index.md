@@ -11,16 +11,17 @@ url: /net/aspose.pdf/rectangle/contains/
 Determinces whether given point is inside of the rectangle.
 
 ```csharp
-public bool Contains(Point point)
+public bool Contains(Point point, bool inclusive = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | point | Point | Point to check. |
+| inclusive | Boolean | inclusive: point may be on edge |
 
 ### Return Value
 
-True if point is inside of the recatngle.
+True if point is inside of the rectangle.
 
 ### See Also
 

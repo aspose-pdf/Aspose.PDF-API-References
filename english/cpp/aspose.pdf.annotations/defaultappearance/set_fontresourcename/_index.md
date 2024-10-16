@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::DefaultAppearance::set_FontResourceName(System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Id> Aspose::Pdf::Document::get_Id()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Id](../../id/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

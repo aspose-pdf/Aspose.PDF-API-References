@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::TextStyle::set_FontName(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextStyle](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

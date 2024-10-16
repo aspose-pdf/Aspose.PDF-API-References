@@ -23,6 +23,7 @@ The new cell
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Cells::Add(System::SharedPtr<Cell> cell)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
@@ -67,7 +69,9 @@ The new cell
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
+* Class [String](../../../system/string/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -92,7 +96,9 @@ The new cell
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
+* Class [String](../../../system/string/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)

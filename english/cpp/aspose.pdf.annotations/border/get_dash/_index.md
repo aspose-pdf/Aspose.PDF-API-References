@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::Dash> Aspose::Pdf::Annotations::Bord
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Dash](../../dash/)
 * Class [Border](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

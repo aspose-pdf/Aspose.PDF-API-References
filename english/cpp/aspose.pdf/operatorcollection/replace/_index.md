@@ -23,6 +23,8 @@ void Aspose::Pdf::OperatorCollection::Replace(System::SharedPtr<System::Collecti
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

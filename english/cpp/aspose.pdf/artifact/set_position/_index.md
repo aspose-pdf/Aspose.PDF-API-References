@@ -18,6 +18,7 @@ void Aspose::Pdf::Artifact::set_Position(System::SharedPtr<Point> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../point/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

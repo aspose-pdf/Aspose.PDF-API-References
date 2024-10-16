@@ -42,6 +42,7 @@ Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextSearchOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -63,6 +64,7 @@ Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextSearchOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)

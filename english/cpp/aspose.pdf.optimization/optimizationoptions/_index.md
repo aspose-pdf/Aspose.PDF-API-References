@@ -55,5 +55,6 @@ class OptimizationOptions : public System::Object
 | [set_UnembedFonts](./set_unembedfonts/)(bool) | Make fonts not embedded if set to true. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Optimization](../)
 * Library [Aspose.PDF for C++](../../)

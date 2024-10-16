@@ -37,6 +37,8 @@ Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PKCS7Detached](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -57,6 +59,9 @@ Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PKCS7Detached](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,6 +82,7 @@ Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::String pfx, System::Str
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PKCS7Detached](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

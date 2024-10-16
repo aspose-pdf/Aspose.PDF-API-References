@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_InReplyTo(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::set_ExtractionOptions(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../textextractionoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

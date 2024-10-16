@@ -27,6 +27,10 @@ Hashtable with information parsed from XFDF file.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [XmlReader](../../../system.xml/xmlreader/)
 * Class [XfdfReader](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

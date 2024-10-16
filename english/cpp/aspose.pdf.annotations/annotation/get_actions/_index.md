@@ -18,6 +18,7 @@ System::SharedPtr<PdfActionCollection> Aspose::Pdf::Annotations::Annotation::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfActionCollection](../../pdfactioncollection/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

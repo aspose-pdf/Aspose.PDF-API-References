@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<TextExtractionErrorLocation> Aspose::Pdf::Text::TextExtraction
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionErrorLocation](../../textextractionerrorlocation/)
 * Class [TextExtractionError](../)
 * Namespace [Aspose::Pdf::Text](../../)

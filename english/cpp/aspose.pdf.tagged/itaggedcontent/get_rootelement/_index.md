@@ -24,6 +24,7 @@ Gets root [Aspose::Pdf::LogicalStructure::StructureElement](../../../aspose.pdf.
 Root [Aspose::Pdf::LogicalStructure::StructureElement](../../../aspose.pdf.logicalstructure/structureelement/) of logical structure of PDF document.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

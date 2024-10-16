@@ -31,5 +31,6 @@ class Point3D : public System::Object
 | [ToString](./tostring/)() const override | Returns the string representation of the object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

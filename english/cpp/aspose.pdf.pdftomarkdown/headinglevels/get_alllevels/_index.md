@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::IList<double>> Aspose::Pdf::PdfT
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
 * Class [HeadingLevels](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)
 * Library [Aspose.PDF for C++](../../../)

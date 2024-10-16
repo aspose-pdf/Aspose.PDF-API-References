@@ -56,6 +56,7 @@ Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor)
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -76,6 +77,7 @@ Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor, 
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -95,6 +97,7 @@ Aspose::Pdf::Text::TextState::TextState(System::String fontFamily)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -116,6 +119,7 @@ Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, bool bold, bo
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -136,6 +140,7 @@ Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, double fontSi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

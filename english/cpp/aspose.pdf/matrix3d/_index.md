@@ -55,5 +55,6 @@ class Matrix3D : public System::Object
 | [ToString](./tostring/)() const override | Returns text representation of the matrix. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

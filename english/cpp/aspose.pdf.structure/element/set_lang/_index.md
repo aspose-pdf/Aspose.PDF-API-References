@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Structure::Element::set_Lang(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Element](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

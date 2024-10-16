@@ -23,6 +23,8 @@ Value Name Array.
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeName](../../attributename/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

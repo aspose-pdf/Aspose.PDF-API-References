@@ -30,6 +30,8 @@ Aspose::Pdf::BitmapInfo::BitmapInfo(System::ArrayPtr<uint8_t> pixelBytes, int32_
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Enum [PixelFormat](../pixelformat/)
 * Class [BitmapInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

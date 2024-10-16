@@ -23,5 +23,6 @@ class IWarningCallback : public virtual System::Object
 | virtual [Warning](./warning/)(System::SharedPtr\<WarningInfo\>) | The callback method for some program notifications. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -27,7 +27,9 @@ File specification object if found; otherwise, null.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
+* Class [String](../../../system/string/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

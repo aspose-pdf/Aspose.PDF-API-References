@@ -18,6 +18,7 @@ System::SharedPtr<DocumentInfo> Aspose::Pdf::Document::get_Info()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentInfo](../../documentinfo/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

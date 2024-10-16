@@ -18,6 +18,7 @@ System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [DocumentActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

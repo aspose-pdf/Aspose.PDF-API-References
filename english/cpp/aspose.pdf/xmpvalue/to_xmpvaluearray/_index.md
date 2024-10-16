@@ -18,6 +18,8 @@ static System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_X
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)

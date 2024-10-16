@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnValidate(System
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../pdfaction/)
 * Class [AnnotationActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

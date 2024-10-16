@@ -18,6 +18,7 @@ void Aspose::Pdf::PageActionCollection::set_OnClose(System::SharedPtr<Annotation
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * Class [PageActionCollection](../)
 * Namespace [Aspose::Pdf](../../)

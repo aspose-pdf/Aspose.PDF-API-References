@@ -62,5 +62,6 @@ class ITaggedContent : public virtual System::Object
 | virtual [SetTitle](./settitle/)(System::String) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Tagged](../)
 * Library [Aspose.PDF for C++](../../)

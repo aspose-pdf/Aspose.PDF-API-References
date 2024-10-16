@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RichMediaAnnotation::set_Type(RichMediaAnnotation
 
 ## See Also
 
+* Enum [ContentType](../contenttype/)
 * Class [RichMediaAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

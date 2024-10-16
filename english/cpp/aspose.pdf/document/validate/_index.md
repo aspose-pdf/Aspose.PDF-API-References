@@ -27,6 +27,7 @@ The operation result
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -52,6 +53,8 @@ The operation result
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [PdfFormat](../../pdfformat/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -77,6 +80,7 @@ The operation result
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfFormat](../../pdfformat/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

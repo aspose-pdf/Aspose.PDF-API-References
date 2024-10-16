@@ -27,6 +27,7 @@ Version in the string format '0.0'.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PdfVersion](../../pdfversion/)
 * Class [PdfVersionMethods](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextEditOptions::set_ClippingPathsProcessing(TextEditOpt
 
 ## See Also
 
+* Enum [ClippingPathsProcessingMode](../clippingpathsprocessingmode/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

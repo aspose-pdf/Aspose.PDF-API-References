@@ -23,6 +23,7 @@ void Aspose::Pdf::PageCollection::Accept(System::SharedPtr<Annotations::Annotati
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::PageCollection::Accept(System::SharedPtr<ImagePlacementAbsorbe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImagePlacementAbsorber](../../imageplacementabsorber/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -63,6 +65,7 @@ void Aspose::Pdf::PageCollection::Accept(System::SharedPtr<Text::TextAbsorber> v
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -83,6 +86,7 @@ void Aspose::Pdf::PageCollection::Accept(System::SharedPtr<Text::TextFragmentAbs
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -23,6 +23,7 @@ System::Drawing::Color Aspose::Pdf::Operators::SetCMYKColor::getColor() override
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [SetCMYKColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -26,6 +26,9 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsXfdf(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -49,6 +52,10 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsXfdf(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

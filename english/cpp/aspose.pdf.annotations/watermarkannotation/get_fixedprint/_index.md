@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::FixedPrint> Aspose::Pdf::Annotations
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FixedPrint](../../fixedprint/)
 * Class [WatermarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

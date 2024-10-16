@@ -32,6 +32,8 @@ True if success false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,6 +63,8 @@ True if success false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -90,6 +94,9 @@ True if success false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -119,6 +126,9 @@ True if success false otherwise.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -148,6 +158,7 @@ True if success false otherwise.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -177,6 +188,8 @@ True if success false otherwise.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -206,6 +219,8 @@ True if success false otherwise.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -235,6 +250,9 @@ True if success false otherwise.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)

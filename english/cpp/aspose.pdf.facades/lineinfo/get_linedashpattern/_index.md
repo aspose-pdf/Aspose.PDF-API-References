@@ -18,6 +18,7 @@ System::ArrayPtr<int32_t> Aspose::Pdf::Facades::LineInfo::get_LineDashPattern() 
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [LineInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

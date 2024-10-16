@@ -27,6 +27,7 @@ Retreived page.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)

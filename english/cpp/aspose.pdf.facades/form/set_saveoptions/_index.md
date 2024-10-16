@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::Form::set_SaveOptions(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Document::set_Collection(System::SharedPtr<Aspose::Pdf::Collec
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Collection](../../collection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

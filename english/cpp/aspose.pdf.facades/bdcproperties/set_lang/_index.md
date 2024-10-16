@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::BDCProperties::set_Lang(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BDCProperties](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

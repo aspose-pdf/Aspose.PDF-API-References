@@ -18,6 +18,7 @@ void Aspose::Pdf::LogicalStructure::StructureTextState::set_MarginInfo(System::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../../aspose.pdf/margininfo/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

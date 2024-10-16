@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Page> & Aspose::Pdf::Heading::get_Destinati
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Heading](../)
 * Namespace [Aspose::Pdf](../../)

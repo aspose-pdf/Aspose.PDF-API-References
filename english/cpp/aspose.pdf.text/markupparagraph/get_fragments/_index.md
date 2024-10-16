@@ -22,6 +22,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragm
 The [TextFragment](../../textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc). 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [TextFragment](../../textfragment/)
 * Class [MarkupParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

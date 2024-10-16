@@ -23,6 +23,8 @@ void Aspose::Pdf::Document::ExportAnnotationsToXfdf(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +44,7 @@ void Aspose::Pdf::Document::ExportAnnotationsToXfdf(System::String fileName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SelectFont::Accept(System::SharedPtr<IOperatorSelec
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SelectFont](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -22,6 +22,7 @@ System::String Aspose::Pdf::Annotations::PDF3DContent::get_Extension() const
 The extension.
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::LineAnnotation::set_Starting(System::SharedPtr<Po
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

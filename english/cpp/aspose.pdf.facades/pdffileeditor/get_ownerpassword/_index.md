@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::PdfFileEditor::get_OwnerPassword() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

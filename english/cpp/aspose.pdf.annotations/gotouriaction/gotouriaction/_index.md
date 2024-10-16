@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction(System::String uri)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GoToURIAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

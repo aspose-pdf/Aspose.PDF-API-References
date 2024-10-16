@@ -23,6 +23,7 @@ Aspose::Pdf::XmpPdfAExtensionSchema::XmpPdfAExtensionSchema(System::SharedPtr<Xm
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * Class [XmpPdfAExtensionSchema](../)
 * Namespace [Aspose::Pdf](../../)

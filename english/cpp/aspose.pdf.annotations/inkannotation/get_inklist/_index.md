@@ -18,6 +18,9 @@ System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

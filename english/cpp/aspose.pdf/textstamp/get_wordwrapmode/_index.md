@@ -18,6 +18,7 @@ Aspose::Pdf::Text::TextFormattingOptions::WordWrapMode Aspose::Pdf::TextStamp::g
 
 ## See Also
 
+* Enum [WordWrapMode](../../../aspose.pdf.text/textformattingoptions/wordwrapmode/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::set_TextReplaceOptions(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Image::set_Title(System::SharedPtr<Text::TextFragment> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)

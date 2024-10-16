@@ -26,5 +26,6 @@ class ICosPdfPrimitive : public virtual System::Object
 | virtual [ToCosPdfString](./tocospdfstring/)() | Tries cast this instance to [CosPdfString](../cospdfstring/). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Utils::PublicData](../)
 * Library [Aspose.PDF for C++](../../)

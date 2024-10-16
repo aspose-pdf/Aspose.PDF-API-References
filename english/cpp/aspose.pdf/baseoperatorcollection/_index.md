@@ -37,5 +37,6 @@ class BaseOperatorCollection : public System::Collections::Generic::ICollection<
 | virtual [SuppressUpdate](./suppressupdate/)() | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

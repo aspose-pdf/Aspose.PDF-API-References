@@ -41,5 +41,6 @@ class PageSize : public System::Object
 | [set_Width](./set_width/)(float) | Sets page width. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

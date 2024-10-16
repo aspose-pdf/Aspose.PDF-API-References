@@ -57,6 +57,7 @@ Aspose::Pdf::OptimizedMemoryStream::OptimizedMemoryStream(int32_t bufferSize, Sy
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [OptimizedMemoryStream](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -76,6 +77,7 @@ Aspose::Pdf::OptimizedMemoryStream::OptimizedMemoryStream(System::ArrayPtr<uint8
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [OptimizedMemoryStream](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

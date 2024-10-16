@@ -27,6 +27,9 @@ true if this pauir was found.
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
@@ -51,6 +54,7 @@ True if key is contained in the metadata.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

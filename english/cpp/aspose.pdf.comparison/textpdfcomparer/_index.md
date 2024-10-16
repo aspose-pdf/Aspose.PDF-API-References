@@ -31,5 +31,6 @@ class TextPdfComparer : public System::Object
 | static [CreateComparisonStatistics](./createcomparisonstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>\>\>) | Gets documents comparison statistics. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison](../)
 * Library [Aspose.PDF for C++](../../)

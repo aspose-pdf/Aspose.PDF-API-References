@@ -19,6 +19,7 @@ static TextIcon Aspose::Pdf::Annotations::TextIconConverter::ToEnum(System::Stri
 ## See Also
 
 * Enum [TextIcon](../../texticon/)
+* Class [String](../../../system/string/)
 * Class [TextIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::Text::TextFragmentState:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)

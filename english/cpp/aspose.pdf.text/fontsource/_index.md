@@ -18,5 +18,6 @@ class FontSource : public virtual System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

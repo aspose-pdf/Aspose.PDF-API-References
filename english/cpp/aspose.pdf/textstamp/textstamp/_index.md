@@ -23,6 +23,7 @@ Aspose::Pdf::TextStamp::TextStamp(System::SharedPtr<Facades::FormattedText> form
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::TextStamp::TextStamp(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -63,6 +65,8 @@ Aspose::Pdf::TextStamp::TextStamp(System::String value, System::SharedPtr<Aspose
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)

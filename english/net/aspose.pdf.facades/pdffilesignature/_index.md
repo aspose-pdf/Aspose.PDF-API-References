@@ -71,7 +71,6 @@ public sealed class PdfFileSignature : SaveableFacade
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_2)(int, string, string, string, bool, Rectangle, Signature) | Sign the document with the given type signature. |
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Sign the document with the given type signature which is placed in already presented signature field. Before signing pdf document should already has signature field, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter). |
 | [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/)(string) | Checks the validity of a signature. |
-| [VerifySigned](../../aspose.pdf.facades/pdffilesignature/verifysigned/)(string) | Checks the validity of a signature. |
 
 ### See Also
 

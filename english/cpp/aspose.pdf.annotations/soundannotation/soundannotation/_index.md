@@ -25,8 +25,10 @@ Aspose::Pdf::Annotations::SoundAnnotation::SoundAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Class [String](../../../system/string/)
 * Class [SoundAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -49,8 +51,10 @@ Aspose::Pdf::Annotations::SoundAnnotation::SoundAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
+* Class [String](../../../system/string/)
 * Class [SoundSampleData](../../soundsampledata/)
 * Class [SoundAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

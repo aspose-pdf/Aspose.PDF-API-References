@@ -22,6 +22,7 @@ Use Save(outputFile) method for getting facade results.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

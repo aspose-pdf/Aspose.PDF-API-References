@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::ImagePlacement::get_Recta
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

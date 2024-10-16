@@ -18,6 +18,8 @@ System::ArrayPtr<System::String> Aspose::Pdf::PdfFormatConversionOptions::get_No
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

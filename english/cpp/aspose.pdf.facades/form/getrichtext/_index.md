@@ -27,6 +27,7 @@ Return a string containing formatting information of the Rich [Text](../../../as
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::Re::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Re](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::RemoveAllText(System::SharedPtr<Do
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::RemoveAllText(System::SharedPtr<Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -64,6 +66,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::RemoveAllText(System::SharedPtr<Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextFragmentAbsorber](../)

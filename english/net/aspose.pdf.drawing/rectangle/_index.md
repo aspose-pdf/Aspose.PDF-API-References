@@ -32,6 +32,12 @@ public sealed class Rectangle : Shape
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 | [Width](../../aspose.pdf.drawing/rectangle/width/) { get; set; } | Gets or sets a float value that indicates the width of the rectangle. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/rectangle/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)

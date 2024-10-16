@@ -18,6 +18,7 @@ static System::SharedPtr<FontSubstitutionCollection> Aspose::Pdf::Text::FontRepo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSubstitutionCollection](../../fontsubstitutioncollection/)
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)

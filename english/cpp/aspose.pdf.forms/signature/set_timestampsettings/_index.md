@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Signature::set_TimestampSettings(System::SharedPtr<Aspo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)

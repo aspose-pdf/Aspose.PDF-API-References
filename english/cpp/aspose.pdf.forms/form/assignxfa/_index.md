@@ -23,6 +23,8 @@ void Aspose::Pdf::Forms::Form::AssignXfa(System::SharedPtr<System::Xml::XmlDocum
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

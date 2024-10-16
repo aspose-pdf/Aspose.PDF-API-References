@@ -25,6 +25,7 @@ void Aspose::Pdf::Forms::OptionCollection::Add(const System::SharedPtr<Option> &
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)

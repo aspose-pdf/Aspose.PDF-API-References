@@ -18,6 +18,7 @@ const System::SharedPtr<TextStyle> & Aspose::Pdf::Comparison::OutputGenerator::O
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextStyle](../../textstyle/)
 * Class [OutputTextStyle](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

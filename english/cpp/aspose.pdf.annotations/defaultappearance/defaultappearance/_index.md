@@ -39,7 +39,9 @@ Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
+* Class [Color](../../../system.drawing/color/)
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,6 +63,8 @@ Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(System::String fo
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

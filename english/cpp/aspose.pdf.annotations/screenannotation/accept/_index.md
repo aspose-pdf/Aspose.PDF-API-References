@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::ScreenAnnotation::Accept(System::SharedPtr<Annota
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [ScreenAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

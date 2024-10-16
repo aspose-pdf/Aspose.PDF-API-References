@@ -27,6 +27,7 @@ Return the limitation number of characters a text field can be filled. It not se
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

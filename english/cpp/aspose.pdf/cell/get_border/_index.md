@@ -18,6 +18,7 @@ const System::SharedPtr<BorderInfo> & Aspose::Pdf::Cell::get_Border() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../borderinfo/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

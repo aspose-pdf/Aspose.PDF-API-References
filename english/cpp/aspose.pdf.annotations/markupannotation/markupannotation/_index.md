@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::MarkupAnnotation::MarkupAnnotation(System::SharedPtr<D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -26,7 +26,9 @@ void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Aspose::Pdf::Do
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -47,7 +49,9 @@ void Aspose::Pdf::Devices::TiffDevice::Process(System::SharedPtr<Page> page, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::LineTo::Accept(System::SharedPtr<IOperatorSelector>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [LineTo](../)
 * Namespace [Aspose::Pdf::Operators](../../)

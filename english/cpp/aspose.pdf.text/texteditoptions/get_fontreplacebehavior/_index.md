@@ -18,6 +18,7 @@ TextEditOptions::FontReplace Aspose::Pdf::Text::TextEditOptions::get_FontReplace
 
 ## See Also
 
+* Enum [FontReplace](../fontreplace/)
 * Class [TextEditOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

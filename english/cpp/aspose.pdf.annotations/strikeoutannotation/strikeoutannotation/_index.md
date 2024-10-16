@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::StrikeOutAnnotation::StrikeOutAnnotation(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [StrikeOutAnnotation](../)

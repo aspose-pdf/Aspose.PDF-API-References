@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfAnnotationEditor::PdfAnnotationEditor(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

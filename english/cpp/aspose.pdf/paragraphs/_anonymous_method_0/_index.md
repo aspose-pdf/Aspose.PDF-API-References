@@ -18,6 +18,7 @@ static int32_t Aspose::Pdf::Paragraphs::_anonymous_method_0(System::SharedPtr<Ba
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

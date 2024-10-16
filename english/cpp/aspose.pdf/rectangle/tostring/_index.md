@@ -23,6 +23,7 @@ String has format llx,lly,urx,ury.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

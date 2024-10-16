@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +45,8 @@ void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName, int
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -65,6 +68,8 @@ void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName, Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

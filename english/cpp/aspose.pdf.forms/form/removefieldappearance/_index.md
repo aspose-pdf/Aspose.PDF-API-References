@@ -24,6 +24,7 @@ void Aspose::Pdf::Forms::Form::RemoveFieldAppearance(System::SharedPtr<Field> fi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

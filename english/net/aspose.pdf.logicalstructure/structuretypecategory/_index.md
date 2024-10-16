@@ -3,7 +3,7 @@ title: Class StructureTypeCategory
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.StructureTypeCategory class. Represents Categories of Standard Structure Types
 type: docs
-weight: 5090
+weight: 5130
 url: /net/aspose.pdf.logicalstructure/structuretypecategory/
 ---
 ## StructureTypeCategory class

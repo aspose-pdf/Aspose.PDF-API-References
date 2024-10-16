@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextExtra
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [TextExtractionError](../../textextractionerror/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

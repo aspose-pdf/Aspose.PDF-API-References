@@ -29,5 +29,6 @@ class ParagraphAbsorberOptions : public System::Object
 | [set_SectionUnbreakingVerticalOverride](./set_sectionunbreakingverticaloverride/)(double) | Sets the maximum length of zone with 'zero filling level' that will not be treated as actual vertical section break (as a fraction of the width / height of a page). The default value is 0.005. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

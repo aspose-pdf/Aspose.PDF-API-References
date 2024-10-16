@@ -18,6 +18,7 @@ void Aspose::Pdf::EpubSaveOptions::set_Title(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [EpubSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

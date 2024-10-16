@@ -23,6 +23,8 @@ void Aspose::Pdf::TeXSaveOptions::AddFontEncs(const System::ArrayPtr<System::Str
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [TeXSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

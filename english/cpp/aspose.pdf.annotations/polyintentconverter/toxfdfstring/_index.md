@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::PolyIntentConverter::ToXfdfStrin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PolyIntent](../../polyintent/)
 * Class [PolyIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

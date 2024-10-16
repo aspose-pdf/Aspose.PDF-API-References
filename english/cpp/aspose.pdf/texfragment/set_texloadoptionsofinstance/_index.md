@@ -18,6 +18,7 @@ void Aspose::Pdf::TeXFragment::set_TeXLoadOptionsOfInstance(System::SharedPtr<Te
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TeXLoadOptions](../../texloadoptions/)
 * Class [TeXFragment](../)
 * Namespace [Aspose::Pdf](../../)

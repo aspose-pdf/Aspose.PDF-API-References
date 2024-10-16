@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::Facades::PdfCon
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)

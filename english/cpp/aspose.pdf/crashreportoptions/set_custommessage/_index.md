@@ -18,6 +18,7 @@ void Aspose::Pdf::CrashReportOptions::set_CustomMessage(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CrashReportOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

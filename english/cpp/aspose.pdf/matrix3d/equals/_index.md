@@ -27,6 +27,8 @@ Returns true is other object is [Matrix3D](../) and all matrix members are equal
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

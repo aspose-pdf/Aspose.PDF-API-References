@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::MP::get_Tag() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MP](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,6 +27,7 @@ The prefix value.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

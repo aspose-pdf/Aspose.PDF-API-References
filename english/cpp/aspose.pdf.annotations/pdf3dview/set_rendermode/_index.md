@@ -22,6 +22,7 @@ void Aspose::Pdf::Annotations::PDF3DView::set_RenderMode(System::SharedPtr<PDF3D
 The render mode of view.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DRenderMode](../../pdf3drendermode/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

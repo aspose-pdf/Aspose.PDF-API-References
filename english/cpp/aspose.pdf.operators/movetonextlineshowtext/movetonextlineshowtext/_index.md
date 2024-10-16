@@ -37,6 +37,7 @@ Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText(System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

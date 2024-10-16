@@ -27,6 +27,7 @@ Returns the result of the signer's name.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

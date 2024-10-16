@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextFragment> Aspose::Pdf::Drawing::Graph::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

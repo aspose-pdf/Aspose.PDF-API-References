@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor(System:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [CommonFigureAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

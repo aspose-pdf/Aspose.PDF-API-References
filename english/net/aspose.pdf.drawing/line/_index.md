@@ -28,6 +28,12 @@ public sealed class Line : Shape
 | [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Gets or sets a [`PositionArray`](./positionarray/) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/line/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)

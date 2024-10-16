@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::LineEndingConverter::ToString(Li
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [LineEnding](../../lineending/)
 * Class [LineEndingConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

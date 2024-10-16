@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::DeleteStampByIds(int32_t pageNumber
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +44,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::DeleteStampByIds(System::ArrayPtr<i
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

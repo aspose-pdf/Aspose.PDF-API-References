@@ -18,7 +18,9 @@ static System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeOwnerStandard](../)
+* Class [String](../../../system/string/)
 * Class [AttributeOwnerStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

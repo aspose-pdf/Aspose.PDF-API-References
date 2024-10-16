@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::Form::ImportXml(System::SharedPtr<System::IO::Stream>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +45,8 @@ void Aspose::Pdf::Facades::Form::ImportXml(System::SharedPtr<System::IO::Stream>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

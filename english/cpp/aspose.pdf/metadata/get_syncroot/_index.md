@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::Metadata::get_SyncRoot() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

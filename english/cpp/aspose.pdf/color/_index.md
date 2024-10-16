@@ -26,7 +26,7 @@ class Color : public System::Object
 | static [FromArgb](./fromargb/)(int32_t, int32_t, int32_t, int32_t) | Gets valid pdf [Color](./) object from RGB color components. |
 | static [FromCmyk](./fromcmyk/)(double, double, double, double) | Gets valid pdf [Color](./) object from CMYK color components. |
 | static [FromGray](./fromgray/)(double) | Gets valid pdf [Color](./) object from Gray color component. |
-| static [FromRgb](./fromrgb/)(System::Drawing::Color) | Gets valid pdf [Color](./) object from **System.Drawing.Color** value. |
+| static [FromRgb](./fromrgb/)(System::Drawing::Color) | Gets valid pdf [Color](./) object from [System.Drawing.Color](../../system.drawing/color/) value. |
 | static [FromRgb](./fromrgb/)(double, double, double) | Gets valid pdf [Color](./) object from RGB color components. |
 | [get_A](./get_a/)() const | Gets the alpha component value. |
 | static [get_AliceBlue](./get_aliceblue/)() | Gets a system-defined color that has an ARGB value of **#FFF0F8FF**. |
@@ -184,5 +184,6 @@ class Color : public System::Object
 | static [Empty](./empty/) | Represents empty color. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

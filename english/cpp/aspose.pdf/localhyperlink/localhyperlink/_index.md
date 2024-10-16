@@ -37,6 +37,7 @@ Aspose::Pdf::LocalHyperlink::LocalHyperlink(System::SharedPtr<BaseParagraph> tar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [LocalHyperlink](../)
 * Namespace [Aspose::Pdf](../../)

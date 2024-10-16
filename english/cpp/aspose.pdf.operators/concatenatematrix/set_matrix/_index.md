@@ -18,6 +18,7 @@ void Aspose::Pdf::Operators::ConcatenateMatrix::set_Matrix(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [ConcatenateMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)

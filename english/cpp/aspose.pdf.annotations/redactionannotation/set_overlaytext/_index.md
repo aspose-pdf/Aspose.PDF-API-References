@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText(System::Stri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RedactionAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

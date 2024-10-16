@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Text::TextFragment::get_Page()
 The value can be null in case the [TextFragment](../) object doesn't belong to any page. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

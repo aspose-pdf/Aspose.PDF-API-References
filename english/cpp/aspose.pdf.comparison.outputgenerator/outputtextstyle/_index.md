@@ -31,5 +31,6 @@ class OutputTextStyle : public System::Object
 | [set_StrikethroughDeleted](./set_strikethroughdeleted/)(bool) | Get or set text-decoration: line-through style for the delete operation. Default value is **False**. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../)
 * Library [Aspose.PDF for C++](../../)

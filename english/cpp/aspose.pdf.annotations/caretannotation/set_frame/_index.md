@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::CaretAnnotation::set_Frame(System::SharedPtr<Rect
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CaretAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -18,6 +18,9 @@ void Aspose::Pdf::PdfASymbolicFontEncodingStrategy::set_CmapEncodingTablesPriori
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Queue](../../../system.collections.generic/queue/)
+* Class [QueueItem](../queueitem/)
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

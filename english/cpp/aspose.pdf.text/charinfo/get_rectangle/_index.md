@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::CharInfo::get_Recta
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CharInfo](../)
 * Namespace [Aspose::Pdf::Text](../../)

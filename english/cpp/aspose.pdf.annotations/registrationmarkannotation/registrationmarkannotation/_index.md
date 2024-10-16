@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::RegistrationMarkAnnotation::RegistrationMarkAnnotation
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Enum [PrinterMarkSidePosition](../../printermarksideposition/)
 * Class [RegistrationMarkAnnotation](../)

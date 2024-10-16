@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::QuoteElement](../../../aspose.pdf.logica
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

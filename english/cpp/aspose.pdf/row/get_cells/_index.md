@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Cells> & Aspose::Pdf::Row::get_Cells() cons
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cells](../../cells/)
 * Class [Row](../)
 * Namespace [Aspose::Pdf](../../)

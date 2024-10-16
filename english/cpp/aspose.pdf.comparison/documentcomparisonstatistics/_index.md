@@ -20,13 +20,7 @@ class DocumentComparisonStatistics : public Aspose::Pdf::Comparison::TextItemCom
 
 | Method | Description |
 | --- | --- |
-| [get_DeletedCharactersCount](../textitemcomparisonstatistics/get_deletedcharacterscount/)() const | Gets and sets the number of deleted characters. |
-| [get_DeleteOperationsCount](../textitemcomparisonstatistics/get_deleteoperationscount/)() const | Gets and sets the number of delete operations. |
-| [get_InsertedCharactersCount](../textitemcomparisonstatistics/get_insertedcharacterscount/)() const | Gets and sets the number of inseted characters. |
-| [get_InsertOperationsCount](../textitemcomparisonstatistics/get_insertoperationscount/)() const | Gets and sets the number of insert operations. |
 | [get_PagesStatistics](./get_pagesstatistics/)() const | Gets and sets the list of pages statistics. |
-| [get_TotalCharacters](../textitemcomparisonstatistics/get_totalcharacters/)() const | Gets and sets the total number of characters. |
-| [TextItemComparisonStatistics](../textitemcomparisonstatistics/textitemcomparisonstatistics/)() |  |
 ## See Also
 
 * Class [TextItemComparisonStatistics](../textitemcomparisonstatistics/)

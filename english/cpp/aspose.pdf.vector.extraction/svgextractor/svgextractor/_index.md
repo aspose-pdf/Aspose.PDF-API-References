@@ -37,6 +37,7 @@ Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtractor(System::SharedPtr<Sv
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SvgExtractionOptions](../../svgextractionoptions/)
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)

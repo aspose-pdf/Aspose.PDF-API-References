@@ -27,6 +27,10 @@ The list of xml elements.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
 * Class [XmpPdfAExtensionProperty](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ const System::SharedPtr<Color> & Aspose::Pdf::Cell::get_BackgroundColor() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

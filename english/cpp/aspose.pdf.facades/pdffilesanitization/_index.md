@@ -24,10 +24,7 @@ class PdfFileSanitization : public Aspose::Pdf::Facades::SaveableFacade,
 | [BindPdf](./bindpdf/)(System::String) override | Binds a [Pdf](../../aspose.pdf/) file for Sanitize. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds a [Pdf](../../aspose.pdf/) stream for Sanitize. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [Close](./close/)() override | Closes the facade. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_Log](./get_log/)() override | After file has Saved you can check what was done with file. |
 | [get_UseRebuildXrefAndTrailer](./get_userebuildxrefandtrailer/)() const | Allows to generate new xref and trailer for document. |
 | [get_UseTrimBottom](./get_usetrimbottom/)() const | Allows to remove data after pdf data. |

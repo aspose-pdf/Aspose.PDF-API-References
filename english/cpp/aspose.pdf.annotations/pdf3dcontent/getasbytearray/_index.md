@@ -19,10 +19,11 @@ System::ArrayPtr<uint8_t> Aspose::Pdf::Annotations::PDF3DContent::GetAsByteArray
 
 ### ReturnValue
 
-**System.Byte**[].
+[System.Byte](../../../system/byte/)[].
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

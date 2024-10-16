@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlSaveOptions::set_Title(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

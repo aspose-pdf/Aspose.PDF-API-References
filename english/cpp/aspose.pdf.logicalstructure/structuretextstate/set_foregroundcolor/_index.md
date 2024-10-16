@@ -22,6 +22,7 @@ void Aspose::Pdf::LogicalStructure::StructureTextState::set_ForegroundColor(Syst
 Can be null. Use null to inherit **ForegroundColor** property from parent structure element. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

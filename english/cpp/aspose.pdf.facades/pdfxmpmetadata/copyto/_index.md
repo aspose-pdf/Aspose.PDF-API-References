@@ -24,6 +24,10 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::CopyTo(System::ArrayPtr<System::Colle
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)

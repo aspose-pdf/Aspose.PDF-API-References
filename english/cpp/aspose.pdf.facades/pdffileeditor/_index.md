@@ -16,6 +16,17 @@ Implements operations with PDF file: concatenation, splitting, extracting pages,
 class PdfFileEditor : public Aspose::Pdf::LicenseManagement::IVentureLicenseTarget
 ```
 
+## Nested classes
+
+* Class [ContentsResizeParameters](./contentsresizeparameters/)
+* Class [ContentsResizeValue](./contentsresizevalue/)
+* Class [CorruptedItem](./corrupteditem/)
+* Class [PageBreak](./pagebreak/)
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [ConcatenateCorruptedFileAction](./concatenatecorruptedfileaction/) | Action performed when corrupted file was met in concatenation process. |
 ## Methods
 
 | Method | Description |
@@ -61,7 +72,7 @@ class PdfFileEditor : public Aspose::Pdf::LicenseManagement::IVentureLicenseTarg
 | [get_CopyLogicalStructure](./get_copylogicalstructure/)() const | If true then logical structure of the file is copied when concatenation is performed. |
 | [get_CopyOutlines](./get_copyoutlines/)() const | If true then outlines will be copied. |
 | [get_CorruptedFileAction](./get_corruptedfileaction/)() const | This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted. |
-| [get_CorruptedItems](./get_corrupteditems/)() | Array of encountered problems when concatenation was performed. For every corrupted document from passed to [Concatenate()](./concatenate/) function new **CorruptedItem** entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted. |
+| [get_CorruptedItems](./get_corrupteditems/)() | Array of encountered problems when concatenation was performed. For every corrupted document from passed to [Concatenate()](./concatenate/) function new [CorruptedItem](./corrupteditem/) entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted. |
 | [get_IncrementalUpdates](./get_incrementalupdates/)() const | If true, incremental updates are made during concatenation. |
 | [get_KeepActions](./get_keepactions/)() const | If true actions will be copied from source documents. Defaulkt value : true. |
 | [get_KeepFieldsUnique](./get_keepfieldsunique/)() const | If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property. |

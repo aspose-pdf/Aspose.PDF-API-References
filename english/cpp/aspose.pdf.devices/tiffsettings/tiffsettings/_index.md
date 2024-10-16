@@ -100,6 +100,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 
 * Enum [CompressionType](../../compressiontype/)
 * Enum [ColorDepth](../../colordepth/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -125,6 +126,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 
 * Enum [CompressionType](../../compressiontype/)
 * Enum [ColorDepth](../../colordepth/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -151,6 +153,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 
 * Enum [CompressionType](../../compressiontype/)
 * Enum [ColorDepth](../../colordepth/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Enum [ShapeType](../../shapetype/)
 * Class [TiffSettings](../)
@@ -192,6 +195,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)

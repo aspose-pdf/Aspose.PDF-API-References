@@ -27,6 +27,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -51,7 +52,9 @@ System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* Class [String](../../../system/string/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

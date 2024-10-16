@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Annotations::LineAnnotation::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

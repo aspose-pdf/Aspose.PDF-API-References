@@ -18,6 +18,7 @@ System::SharedPtr<XFormCollection> Aspose::Pdf::Resources::get_Forms()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XFormCollection](../../xformcollection/)
 * Class [Resources](../)
 * Namespace [Aspose::Pdf](../../)

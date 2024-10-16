@@ -27,7 +27,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenFile(System::String file
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [String](../../../system/string/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -52,7 +54,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenFile(System::String file
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [String](../../../system/string/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
@@ -78,7 +82,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenFile(System::String file
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [String](../../../system/string/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -104,7 +110,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenFile(System::String file
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [String](../../../system/string/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

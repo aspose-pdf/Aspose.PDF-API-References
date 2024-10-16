@@ -27,7 +27,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -52,7 +54,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,7 +81,9 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
 * Class [LoadOptions](../../loadoptions/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
@@ -103,7 +109,10 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -129,7 +138,10 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

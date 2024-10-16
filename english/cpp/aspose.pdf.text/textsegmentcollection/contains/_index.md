@@ -27,6 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegment](../../textsegment/)
 * Class [TextSegmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

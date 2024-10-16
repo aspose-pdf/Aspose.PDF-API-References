@@ -23,6 +23,8 @@ A destination image.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Bitmap](../../../system.drawing/bitmap/)
 * Class [ImagesDifference](../)
 * Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)
 * Library [Aspose.PDF for C++](../../../)

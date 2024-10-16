@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfPageEditor::set_PageSize(System::SharedPtr<Aspose:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

@@ -27,6 +27,7 @@ Aspose::Pdf::XmpPdfAExtensionProperty::XmpPdfAExtensionProperty(System::String n
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
 * Class [XmpPdfAExtensionProperty](../)
 * Namespace [Aspose::Pdf](../../)

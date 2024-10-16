@@ -38,6 +38,7 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Aspose::Pdf::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ComboBoxField](../)
@@ -59,6 +60,7 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ComboBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -80,6 +82,7 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ComboBoxField](../)

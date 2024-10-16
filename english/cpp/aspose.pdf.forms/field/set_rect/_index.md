@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Field::set_Rect(System::SharedPtr<Rectangle> value) ove
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)

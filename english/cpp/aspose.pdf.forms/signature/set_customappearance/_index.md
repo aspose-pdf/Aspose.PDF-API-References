@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::Signature::set_CustomAppearance(System::SharedPtr<Signa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SignatureCustomAppearance](../../signaturecustomappearance/)
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)

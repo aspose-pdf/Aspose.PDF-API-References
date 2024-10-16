@@ -16,6 +16,11 @@ Object containing array of pixels and bitmap information.
 class BitmapInfo : public System::Object
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [PixelFormat](./pixelformat/) | Bitmap pixel format. |
 ## Methods
 
 | Method | Description |
@@ -31,5 +36,6 @@ class. |
 | [get_Width](./get_width/)() const | Gets the width of the bitmap. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

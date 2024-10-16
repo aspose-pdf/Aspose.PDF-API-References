@@ -23,5 +23,6 @@ class IColorSpaceConversionStrategy : public virtual System::Object
 | virtual [Convert](./convert/)(System::SharedPtr\<Page\>) | Converts the page of document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

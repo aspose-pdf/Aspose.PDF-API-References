@@ -29,6 +29,12 @@ public sealed class Path : Shape
 | [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Gets or sets shapes collection. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/path/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)

@@ -38,6 +38,9 @@ Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<System::IO::Stream> pfx, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -62,6 +65,7 @@ Aspose::Pdf::Forms::PKCS7::PKCS7(System::String pfx, System::String password)
 Password to get access to the private key in the certificate. 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

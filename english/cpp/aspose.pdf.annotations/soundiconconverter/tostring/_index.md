@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::SoundIconConverter::ToString(Sou
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [SoundIcon](../../soundicon/)
 * Class [SoundIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

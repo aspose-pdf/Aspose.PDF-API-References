@@ -32,5 +32,6 @@ class GraphicElementCollection : public System::Collections::Generic::ICollectio
 | [ToString](./tostring/)() const override | Gets a string representation of this collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf::Vector](../)
 * Library [Aspose.PDF for C++](../../)

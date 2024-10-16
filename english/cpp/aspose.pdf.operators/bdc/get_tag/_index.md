@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::BDC::get_Tag() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

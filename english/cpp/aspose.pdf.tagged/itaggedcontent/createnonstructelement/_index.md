@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::NonStructElement](../../../aspose.pdf.lo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

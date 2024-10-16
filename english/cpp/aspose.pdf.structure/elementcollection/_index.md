@@ -45,5 +45,6 @@ class ElementCollection : public System::Collections::Generic::IEnumerable<Syste
 | [virtualized_iterator_element](./virtualized_iterator_element/) | Virtualized element type. |
 ## See Also
 
+* Class [IEnumerable](../../system.collections.generic/ienumerable/)
 * Namespace [Aspose::Pdf::Structure](../)
 * Library [Aspose.PDF for C++](../../)

@@ -52,6 +52,7 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 . |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

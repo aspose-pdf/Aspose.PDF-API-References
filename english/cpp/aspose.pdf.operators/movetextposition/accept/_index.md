@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::MoveTextPosition::Accept(System::SharedPtr<IOperato
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [MoveTextPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)

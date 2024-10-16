@@ -29,6 +29,7 @@ void Aspose::Pdf::Text::TableAbsorber::Replace(System::SharedPtr<Page> page, Sys
 Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [AbsorbedTable](../../absorbedtable/)
 * Class [Table](../../../aspose.pdf/table/)

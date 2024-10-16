@@ -18,6 +18,7 @@ void Aspose::Pdf::Row::set_Cells(System::SharedPtr<Aspose::Pdf::Cells> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cells](../../cells/)
 * Class [Row](../)
 * Namespace [Aspose::Pdf](../../)

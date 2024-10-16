@@ -27,6 +27,9 @@ virtual System::String Aspose::Pdf::Comparison::OutputGenerator::IStringOutputGe
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [IStringOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -51,6 +54,9 @@ virtual System::String Aspose::Pdf::Comparison::OutputGenerator::IStringOutputGe
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [IStringOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

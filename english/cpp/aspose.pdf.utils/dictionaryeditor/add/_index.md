@@ -23,6 +23,9 @@ void Aspose::Pdf::Utils::DictionaryEditor::Add(const System::Collections::Generi
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
@@ -44,6 +47,8 @@ void Aspose::Pdf::Utils::DictionaryEditor::Add(const System::String &key, const 
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)

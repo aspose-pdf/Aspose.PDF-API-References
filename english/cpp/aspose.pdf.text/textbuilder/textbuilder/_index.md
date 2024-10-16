@@ -27,6 +27,7 @@ The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -52,6 +53,7 @@ The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pd
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
 * Class [TextBuilder](../)

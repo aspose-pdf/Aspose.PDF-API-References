@@ -23,6 +23,7 @@ Aspose::Pdf::Group::Group(System::SharedPtr<Page> page)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Group](../)
 * Namespace [Aspose::Pdf](../../)

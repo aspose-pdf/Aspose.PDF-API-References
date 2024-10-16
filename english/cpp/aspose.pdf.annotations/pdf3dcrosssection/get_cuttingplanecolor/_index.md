@@ -22,6 +22,7 @@ System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DCrossSection::get_Cuttin
 The color of the cutting plane.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [PDF3DCrossSection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

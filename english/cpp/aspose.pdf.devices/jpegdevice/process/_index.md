@@ -24,7 +24,9 @@ void Aspose::Pdf::Devices::JpegDevice::Process(System::SharedPtr<Page> page, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
 * Class [JpegDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

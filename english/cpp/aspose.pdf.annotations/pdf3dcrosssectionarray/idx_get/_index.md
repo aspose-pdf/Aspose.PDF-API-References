@@ -27,6 +27,7 @@ Cross section.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DCrossSection](../../pdf3dcrosssection/)
 * Class [PDF3DCrossSectionArray](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/outlines/copyto/
 ## Outlines::CopyTo method
 
 
-Copies the outline entries to an **System.Array**, starting at a particular **System.Array** index.
+Copies the outline entries to an [System.Array](../../../system/array/), starting at a particular [System.Array](../../../system/array/) index.
 
 ```cpp
 void Aspose::Pdf::Outlines::CopyTo(System::ArrayPtr<System::SharedPtr<OutlineItemCollection>> array, int32_t arrayIndex) override=0
@@ -19,11 +19,13 @@ void Aspose::Pdf::Outlines::CopyTo(System::ArrayPtr<System::SharedPtr<OutlineIte
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\> | The one-dimensional **System.Array** that is the destination. Must have zero-based indexing. |
+| array | System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\> | The one-dimensional [System.Array](../../../system/array/) that is the destination. Must have zero-based indexing. |
 | arrayIndex | int32_t | The zero-based index in array at which copying begins. |
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [Outlines](../)
 * Namespace [Aspose::Pdf](../../)

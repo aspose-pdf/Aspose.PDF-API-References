@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Annotations::PdfAction::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

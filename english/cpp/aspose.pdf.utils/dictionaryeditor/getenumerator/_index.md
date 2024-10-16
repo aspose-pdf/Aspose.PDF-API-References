@@ -23,6 +23,10 @@ An enumerator that can be used to iterate through the collection.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
 * Class [ICosPdfPrimitive](../../../aspose.pdf.utils.publicdata/icospdfprimitive/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)

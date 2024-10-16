@@ -24,5 +24,6 @@ class LineEndingConverter : public System::Object
 | static [ToString](./tostring/)(LineEnding) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

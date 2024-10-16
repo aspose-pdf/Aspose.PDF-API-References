@@ -37,6 +37,7 @@ Aspose::Pdf::OperatorSelector::OperatorSelector(System::SharedPtr<Operator> op)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Operator](../../operator/)
 * Class [OperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)

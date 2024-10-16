@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::PredefinedActionConverter::ToStr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PredefinedAction](../../predefinedaction/)
 * Class [PredefinedActionConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

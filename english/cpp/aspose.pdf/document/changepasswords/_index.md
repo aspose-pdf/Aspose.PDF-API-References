@@ -25,6 +25,7 @@ void Aspose::Pdf::Document::ChangePasswords(System::String ownerPassword, System
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

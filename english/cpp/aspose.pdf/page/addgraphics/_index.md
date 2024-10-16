@@ -28,6 +28,7 @@ is inside the rectangle area. If rectangle is null, all graphic elements will be
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
 * Class [Rectangle](../../rectangle/)
 * Class [Page](../)

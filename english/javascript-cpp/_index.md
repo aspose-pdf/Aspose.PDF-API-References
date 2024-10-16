@@ -82,6 +82,8 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfValidatePDFA](./organize/asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |
 | [AsposePdfFindHiddenText](./organize/asposepdffindhiddentext/) | Find hidden text in a PDF-file. |
 | [AsposePdfDeleteHiddenText](./organize/asposepdfdeletehiddentext/) | Delete hidden text from a PDF-file. |
+| [AsposePdfAddWatermark](./organize/asposepdfaddwatermark/) | Add watermark to a PDF-file. |
+| [AsposePdfDeleteWatermarks](./organize/asposepdfdeletewatermarks/) | Delete watermarks from a PDF-file. |
 
 
 ## Metadata PDF functions

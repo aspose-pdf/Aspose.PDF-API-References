@@ -22,14 +22,11 @@ class PdfFileSecurity : public Aspose::Pdf::Facades::SaveableFacade
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::String) override | Initializes the facade. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
 | [ChangePassword](./changepassword/)(System::String, System::String, System::String) | Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed. |
 | [ChangePassword](./changepassword/)(System::String, System::String, System::String, System::SharedPtr\<DocumentPrivilege\>, KeySize) | Changes the user password and password by owner password, allows to reset [Pdf](../../aspose.pdf/) documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed. |
 | [ChangePassword](./changepassword/)(System::String, System::String, System::String, System::SharedPtr\<DocumentPrivilege\>, KeySize, Algorithm) | Changes the user password and password by owner password, allows to reset [Pdf](../../aspose.pdf/) documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However ([KeySize.x40](../keysize/), [Algorithm.AES](../algorithm/)) and ([KeySize.x256](../keysize/), [Algorithm.RC4](../algorithm/)) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed. |
 | [Close](./close/)() override | Closes the facade. |
 | [get_AllowExceptions](./get_allowexceptions/)() | If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_LastException](./get_lastexception/)() const | Returns exception which was thrown by last operation. |
 | [MfDecryptFile](./mfdecryptfile/)(System::String) | Decrypts an encrypted [Pdf](../../aspose.pdf/) document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed. |
 | [MfEncryptFile](./mfencryptfile/)(System::String, System::String, System::SharedPtr\<DocumentPrivilege\>, KeySize) | Encrypts [Pdf](../../aspose.pdf/) file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Throws exception if process failed. |
@@ -40,8 +37,6 @@ class PdfFileSecurity : public Aspose::Pdf::Facades::SaveableFacade
 | [PdfFileSecurity](./pdffilesecurity/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfFileSecurity](./) object on base of the *document* . |
 | [PdfFileSecurity](./pdffilesecurity/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) | Initializes new [PdfFileSecurity](./) object on base of the *document* . |
 | [PdfFileSecurity](./pdffilesecurity/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) | Initializes new [PdfFileSecurity](./) object on base of the *document* . |
-| [Save](../saveablefacade/save/)(System::String) override | Saves the PDF document to the specified file. |
-| [Save](../saveablefacade/save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified stream. |
 | [set_AllowExceptions](./set_allowexceptions/)(bool) | If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property. |
 | [set_InputFile](./set_inputfile/)(System::String) | Sets the input file. |
 | [set_InputStream](./set_inputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the input stream. |

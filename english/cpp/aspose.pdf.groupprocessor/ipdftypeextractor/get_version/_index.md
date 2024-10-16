@@ -18,6 +18,7 @@ virtual System::String Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::get_Versi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IPdfTypeExtractor](../)
 * Namespace [Aspose::Pdf::GroupProcessor](../../)
 * Library [Aspose.PDF for C++](../../../)

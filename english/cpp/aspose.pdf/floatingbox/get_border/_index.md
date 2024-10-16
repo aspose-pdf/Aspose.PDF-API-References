@@ -18,6 +18,7 @@ const System::SharedPtr<BorderInfo> & Aspose::Pdf::FloatingBox::get_Border() con
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../borderinfo/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

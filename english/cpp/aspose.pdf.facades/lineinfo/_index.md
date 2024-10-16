@@ -35,5 +35,6 @@ class LineInfo : public System::Object
 | [set_Visibility](./set_visibility/)(bool) | Sets the visibility of a line. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

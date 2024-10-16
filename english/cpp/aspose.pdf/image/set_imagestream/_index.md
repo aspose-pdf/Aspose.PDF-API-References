@@ -18,6 +18,8 @@ void Aspose::Pdf::Image::set_ImageStream(System::SharedPtr<System::IO::Stream> v
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

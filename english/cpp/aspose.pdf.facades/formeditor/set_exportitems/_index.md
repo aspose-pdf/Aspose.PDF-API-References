@@ -18,6 +18,8 @@ void Aspose::Pdf::Facades::FormEditor::set_ExportItems(System::ArrayPtr<System::
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

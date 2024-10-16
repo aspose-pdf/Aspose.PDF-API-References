@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::LevelFormat::get_Te
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [LevelFormat](../)
 * Namespace [Aspose::Pdf](../../)

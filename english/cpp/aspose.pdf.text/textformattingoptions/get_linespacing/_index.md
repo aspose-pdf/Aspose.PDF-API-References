@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/get_linespacing/
 ## TextFormattingOptions::get_LineSpacing method
 
 
-Gets line spacing mode. Default value is **LineSpacingMode.FontSize**.
+Gets line spacing mode. Default value is [LineSpacingMode.FontSize](../linespacingmode/).
 
 ```cpp
 TextFormattingOptions::LineSpacingMode Aspose::Pdf::Text::TextFormattingOptions::get_LineSpacing() const
@@ -18,6 +18,7 @@ TextFormattingOptions::LineSpacingMode Aspose::Pdf::Text::TextFormattingOptions:
 
 ## See Also
 
+* Enum [LineSpacingMode](../linespacingmode/)
 * Class [TextFormattingOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

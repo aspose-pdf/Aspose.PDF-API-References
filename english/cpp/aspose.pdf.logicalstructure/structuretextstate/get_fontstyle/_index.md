@@ -22,6 +22,7 @@ System::Nullable<Aspose::Pdf::Text::FontStyles> Aspose::Pdf::LogicalStructure::S
 Can be null. Use null to inherit **FontStyle** property from parent structure element. 
 ## See Also
 
+* Class [Nullable](../../../system/nullable/)
 * Enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

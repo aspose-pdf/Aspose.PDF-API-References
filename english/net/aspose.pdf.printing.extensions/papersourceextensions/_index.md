@@ -3,7 +3,7 @@ title: Class PaperSourceExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.Extensions.PaperSourceExtensions class. Represents extensions methods for PaperSource
 type: docs
-weight: 6900
+weight: 6940
 url: /net/aspose.pdf.printing.extensions/papersourceextensions/
 ---
 ## PaperSourceExtensions class

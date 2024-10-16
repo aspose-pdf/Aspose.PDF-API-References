@@ -20,12 +20,9 @@ class GoToURIAction : public Aspose::Pdf::Annotations::PdfAction
 
 | Method | Description |
 | --- | --- |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
 | [get_URI](./get_uri/)() | Gets the uniform resource identifier to resolve. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [GoToURIAction](./gotouriaction/)(System::String) | Constructor. |
 | [set_URI](./set_uri/)(System::String) | Sets the uniform resource identifier to resolve. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

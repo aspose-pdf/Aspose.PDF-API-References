@@ -18,6 +18,7 @@ System::ArrayPtr<double> Aspose::Pdf::Opi::get_Position()
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Opi](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

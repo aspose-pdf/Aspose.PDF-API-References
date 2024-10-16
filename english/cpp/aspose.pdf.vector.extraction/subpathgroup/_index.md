@@ -18,5 +18,6 @@ class SubPathGroup : public System::Object
 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Vector::Extraction](../)
 * Library [Aspose.PDF for C++](../../)

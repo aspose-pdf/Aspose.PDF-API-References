@@ -27,6 +27,7 @@ Boolean value which is true if images references to the same object.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../)
 * Class [XImage](../)
 * Namespace [Aspose::Pdf](../../)

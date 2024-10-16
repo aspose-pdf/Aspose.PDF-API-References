@@ -24,6 +24,8 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(System::Array
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -44,6 +46,7 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

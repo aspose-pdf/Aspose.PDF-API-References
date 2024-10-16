@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::SoundEncodingConverter::ToString
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [SoundEncoding](../../soundencoding/)
 * Class [SoundEncodingConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

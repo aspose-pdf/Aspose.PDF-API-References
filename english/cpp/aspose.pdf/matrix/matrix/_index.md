@@ -61,6 +61,7 @@ Aspose::Pdf::Matrix::Matrix(System::ArrayPtr<double> matrixArray)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -99,6 +100,7 @@ Aspose::Pdf::Matrix::Matrix(System::SharedPtr<Matrix> matrix)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)

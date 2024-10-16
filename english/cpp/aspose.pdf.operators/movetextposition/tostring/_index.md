@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::MoveTextPosition::ToString() const overri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MoveTextPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

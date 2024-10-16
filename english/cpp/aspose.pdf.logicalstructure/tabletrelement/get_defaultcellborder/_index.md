@@ -18,6 +18,7 @@ System::SharedPtr<BorderInfo> Aspose::Pdf::LogicalStructure::TableTRElement::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BorderInfo](../../../aspose.pdf/borderinfo/)
 * Class [TableTRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

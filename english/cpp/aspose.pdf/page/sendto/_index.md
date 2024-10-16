@@ -24,7 +24,9 @@ void Aspose::Pdf::Page::SendTo(System::SharedPtr<Devices::PageDevice> device, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
+* Class [Stream](../../../system.io/stream/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,7 +47,9 @@ void Aspose::Pdf::Page::SendTo(System::SharedPtr<Devices::PageDevice> device, Sy
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
+* Class [String](../../../system/string/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

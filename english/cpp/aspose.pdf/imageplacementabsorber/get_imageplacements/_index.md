@@ -18,6 +18,7 @@ System::SharedPtr<ImagePlacementCollection> Aspose::Pdf::ImagePlacementAbsorber:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ImagePlacementCollection](../../imageplacementcollection/)
 * Class [ImagePlacementAbsorber](../)
 * Namespace [Aspose::Pdf](../../)

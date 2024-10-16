@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfFileInfo::set_CreationDate(System::String value)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

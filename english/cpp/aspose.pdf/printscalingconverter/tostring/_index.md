@@ -27,6 +27,7 @@ String representation of the value.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PrintScaling](../../printscaling/)
 * Class [PrintScalingConverter](../)
 * Namespace [Aspose::Pdf](../../)

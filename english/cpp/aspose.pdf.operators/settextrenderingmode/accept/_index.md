@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetTextRenderingMode::Accept(System::SharedPtr<IOpe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetTextRenderingMode](../)
 * Namespace [Aspose::Pdf::Operators](../../)

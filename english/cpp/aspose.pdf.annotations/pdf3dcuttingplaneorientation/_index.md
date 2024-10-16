@@ -28,8 +28,9 @@ class PDF3DCuttingPlaneOrientation : public System::Object
 | [set_AngleX](./set_anglex/)(System::Nullable\<double\>) | Sets the angle to X axis. |
 | [set_AngleY](./set_angley/)(System::Nullable\<double\>) | Sets the angle to Y axis. |
 | [set_AngleZ](./set_anglez/)(System::Nullable\<double\>) | Sets the angle to Z axis. |
-| [ToString](./tostring/)() const override | Returns a **System::String** that represents this instance. |
+| [ToString](./tostring/)() const override | Returns a [System::String](../../system/string/) that represents this instance. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

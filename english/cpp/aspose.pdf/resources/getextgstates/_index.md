@@ -23,6 +23,10 @@ Returns dictionary with ExGStates names keys.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [String](../../../system/string/)
+* Class [ExtGStateValue](../extgstatevalue/)
 * Class [Resources](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

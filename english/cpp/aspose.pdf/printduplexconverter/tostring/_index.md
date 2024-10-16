@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::PrintDuplexConverter::ToString(PrintDuplex va
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [PrintDuplex](../../printduplex/)
 * Class [PrintDuplexConverter](../)
 * Namespace [Aspose::Pdf](../../)

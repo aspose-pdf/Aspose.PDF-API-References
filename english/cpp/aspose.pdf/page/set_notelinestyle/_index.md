@@ -22,6 +22,7 @@ void Aspose::Pdf::Page::set_NoteLineStyle(System::SharedPtr<GraphInfo> value)
 The note style.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphInfo](../../graphinfo/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

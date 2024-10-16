@@ -107,6 +107,11 @@ class Page : public System::IDisposable,
 | [set_Watermark](./set_watermark/)(System::SharedPtr\<Aspose::Pdf::Watermark\>) | Sets the watermark of the page. |
 | [SetPageSize](./setpagesize/)(double, double) | Sets page size for page. |
 | [TrySaveVectorGraphics](./trysavevectorgraphics/)(System::String) | Tries to save vector graphics if they are present on the page. The save format is SVG. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [OnBeforePageGenerate](./onbeforepagegenerate/) | Event for customize header and footer. |
 ## Typedefs
 
 | Typedef | Description |
@@ -114,6 +119,7 @@ class Page : public System::IDisposable,
 | [BeforePageGenerate](./beforepagegenerate/) | Procedure for customize header and footer. |
 ## See Also
 
+* Class [IDisposable](../../system/idisposable/)
 * Class [ISupportsMemoryCleanup](../isupportsmemorycleanup/)
 * Class [IOperatorContainer](../ioperatorcontainer/)
 * Namespace [Aspose::Pdf](../)

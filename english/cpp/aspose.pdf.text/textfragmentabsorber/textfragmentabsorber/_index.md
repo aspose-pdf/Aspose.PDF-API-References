@@ -37,7 +37,7 @@ Aspose::Pdf::Text::TextFragmentAbsorber::TextFragmentAbsorber(System::ArrayPtr<S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regexes | System::ArrayPtr\<System::SharedPtr\<System::Text::RegularExpressions::Regex\>\> | Array of **System.Text.RegularExpressions.Regex** class object that the [TextFragmentAbsorber](../) searches. |
+| regexes | System::ArrayPtr\<System::SharedPtr\<System::Text::RegularExpressions::Regex\>\> | Array of [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class object that the [TextFragmentAbsorber](../) searches. |
 | textSearchOptions | System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\> | [Text](../../) search options (Allows to turn on some search features.). |
 ## Remarks
 
@@ -46,6 +46,9 @@ Performs text search of the specified array of phrases and provides access to se
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Regex](../../../system.text.regularexpressions/regex/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -70,6 +73,7 @@ Performs text search and provides access to search results via [TextFragmentAbso
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextEditOptions](../../texteditoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -77,7 +81,7 @@ Performs text search and provides access to search results via [TextFragmentAbso
 ## TextFragmentAbsorber::TextFragmentAbsorber(System::SharedPtr\<System::Text::RegularExpressions::Regex\>) constructor
 
 
-Initializes a new instance of the [TextFragmentAbsorber](../) class for the specified **System.Text.RegularExpressions.Regex** class object.
+Initializes a new instance of the [TextFragmentAbsorber](../) class for the specified [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class object.
 
 ```cpp
 Aspose::Pdf::Text::TextFragmentAbsorber::TextFragmentAbsorber(System::SharedPtr<System::Text::RegularExpressions::Regex> regex)
@@ -86,7 +90,7 @@ Aspose::Pdf::Text::TextFragmentAbsorber::TextFragmentAbsorber(System::SharedPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | **System.Text.RegularExpressions.Regex** class object that the [TextFragmentAbsorber](../) searches |
+| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class object that the [TextFragmentAbsorber](../) searches |
 ## Remarks
 
 
@@ -94,6 +98,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Regex](../../../system.text.regularexpressions/regex/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -109,7 +115,7 @@ Aspose::Pdf::Text::TextFragmentAbsorber::TextFragmentAbsorber(System::SharedPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | **System.Text.RegularExpressions.Regex** class object that the [TextFragmentAbsorber](../) searches |
+| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class object that the [TextFragmentAbsorber](../) searches |
 | textEditOptions | System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\> | [Text](../../) edit options (Allows to turn on some edit features). |
 ## Remarks
 
@@ -118,6 +124,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Regex](../../../system.text.regularexpressions/regex/)
 * Class [TextEditOptions](../../texteditoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -134,7 +142,7 @@ Aspose::Pdf::Text::TextFragmentAbsorber::TextFragmentAbsorber(System::SharedPtr<
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | **System.Text.RegularExpressions.Regex** class object that the [TextFragmentAbsorber](../) searches |
+| regex | System::SharedPtr\<System::Text::RegularExpressions::Regex\> | [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class object that the [TextFragmentAbsorber](../) searches |
 | textSearchOptions | System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\> | [Text](../../) search options (Allows to turn on some search features.) |
 ## Remarks
 
@@ -143,6 +151,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Regex](../../../system.text.regularexpressions/regex/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -167,6 +177,7 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -191,6 +202,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextEditOptions](../../texteditoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -216,6 +229,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -242,6 +257,8 @@ Performs text search of the specified phrase and provides access to search resul
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextEditOptions](../../texteditoptions/)
 * Class [TextFragmentAbsorber](../)

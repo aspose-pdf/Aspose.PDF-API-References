@@ -18,6 +18,7 @@ System::String Aspose::Pdf::TocInfo::get_PageNumbersPrefix() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TocInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

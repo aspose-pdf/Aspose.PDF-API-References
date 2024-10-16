@@ -29,5 +29,6 @@ class FileParams : public System::Object
 | [set_ModDate](./set_moddate/)(System::DateTime) | The date and time when the embedded file was last modified. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

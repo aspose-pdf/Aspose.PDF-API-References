@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::set_TextSearchOptions(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

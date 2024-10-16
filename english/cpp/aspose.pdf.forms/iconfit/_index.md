@@ -36,5 +36,6 @@ class IconFit : public System::Object
 | [set_SpreadOnBorder](./set_spreadonborder/)(bool) | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Forms](../)
 * Library [Aspose.PDF for C++](../../)

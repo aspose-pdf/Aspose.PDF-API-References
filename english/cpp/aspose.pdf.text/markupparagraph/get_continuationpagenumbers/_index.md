@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::List<int32_t>> Aspose::Pdf::Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [MarkupParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

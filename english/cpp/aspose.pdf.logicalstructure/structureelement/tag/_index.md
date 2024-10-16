@@ -27,6 +27,7 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructureElement::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MCRElement](../../mcrelement/)
 * Class [Artifact](../../../aspose.pdf/artifact/)
 * Class [StructureElement](../)
@@ -52,6 +53,7 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructureElement::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OBJRElement](../../objrelement/)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * Class [StructureElement](../)
@@ -77,6 +79,7 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructureElement::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MCRElement](../../mcrelement/)
 * Class [BDC](../../../aspose.pdf.operators/bdc/)
 * Class [StructureElement](../)
@@ -102,6 +105,7 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructureElement::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OBJRElement](../../objrelement/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [StructureElement](../)
@@ -127,6 +131,7 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructureElement::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OBJRElement](../../objrelement/)
 * Class [XImage](../../../aspose.pdf/ximage/)
 * Class [StructureElement](../)

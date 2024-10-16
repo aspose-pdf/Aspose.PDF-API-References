@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Annotations::TextMarkupA
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [TextMarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

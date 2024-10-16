@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<Aspose::Pdf::Do
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -57,6 +58,8 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,6 +80,9 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Str
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -96,6 +102,7 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -116,6 +123,7 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile, System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

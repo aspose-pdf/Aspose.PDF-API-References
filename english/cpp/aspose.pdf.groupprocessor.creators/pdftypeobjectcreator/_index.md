@@ -26,5 +26,6 @@ class PdfTypeObjectCreator : public System::Object
 | [CreateExtractor](./createextractor/)(System::SharedPtr\<System::IO::Stream\>, System::String, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::GroupProcessor::Creators](../)
 * Library [Aspose.PDF for C++](../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Page::DeleteGraphics(System::SharedPtr<Vector::GraphicElementC
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

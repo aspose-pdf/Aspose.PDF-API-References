@@ -18,6 +18,7 @@ System::Drawing::Color Aspose::Pdf::Facades::FormFieldFacade::get_TextColor() co
 
 ## See Also
 
+* Class [Color](../../../system.drawing/color/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

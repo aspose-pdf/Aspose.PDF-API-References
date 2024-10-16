@@ -18,6 +18,7 @@ virtual System::SharedPtr<Color> Aspose::Pdf::Text::TextState::get_StrokingColor
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)

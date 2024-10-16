@@ -23,6 +23,9 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -43,6 +46,9 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -63,6 +69,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -83,6 +91,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

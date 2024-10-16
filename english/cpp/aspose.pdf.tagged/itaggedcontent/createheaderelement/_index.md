@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::HeaderElement](../../../aspose.pdf.logic
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)
@@ -55,6 +56,7 @@ Creates [Aspose::Pdf::LogicalStructure::HeaderElement](../../../aspose.pdf.logic
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

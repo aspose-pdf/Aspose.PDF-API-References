@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::Measure::set_SlopeFormat(System::SharedPtr<Measur
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [NumberFormatList](../numberformatlist/)
 * Class [Measure](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

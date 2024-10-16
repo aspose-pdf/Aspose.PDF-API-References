@@ -19,6 +19,7 @@ static LineEnding Aspose::Pdf::Annotations::LineEndingConverter::ToEnum(System::
 ## See Also
 
 * Enum [LineEnding](../../lineending/)
+* Class [String](../../../system/string/)
 * Class [LineEndingConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

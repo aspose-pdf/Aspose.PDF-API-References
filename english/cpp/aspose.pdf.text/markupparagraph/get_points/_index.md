@@ -18,6 +18,8 @@ System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Text::MarkupParagraph::g
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [MarkupParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

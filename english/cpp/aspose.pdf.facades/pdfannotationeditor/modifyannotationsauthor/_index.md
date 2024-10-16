@@ -26,6 +26,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotationsAuthor(int32_t 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

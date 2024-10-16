@@ -28,6 +28,7 @@ System::SharedPtr<TextSegmentCollection> Aspose::Pdf::Text::TextFragment::Isolat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegmentCollection](../../textsegmentcollection/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

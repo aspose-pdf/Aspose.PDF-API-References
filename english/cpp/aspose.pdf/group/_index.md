@@ -25,5 +25,6 @@ class Group : public System::Object
 | [set_ColorSpace](./set_colorspace/)(Aspose::Pdf::ColorSpace) | The group color space. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

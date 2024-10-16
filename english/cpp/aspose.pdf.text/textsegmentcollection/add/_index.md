@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextSegmentCollection::Add(const System::SharedPtr<TextS
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegment](../../textsegment/)
 * Class [TextSegmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

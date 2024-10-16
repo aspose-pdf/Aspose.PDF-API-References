@@ -27,6 +27,8 @@ Name (key) of the found image; null if images was not found.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -25,6 +25,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotations(int32_t start,
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

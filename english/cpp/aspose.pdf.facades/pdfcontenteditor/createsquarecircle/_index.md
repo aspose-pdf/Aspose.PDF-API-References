@@ -28,6 +28,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateSquareCircle(System::Drawing:
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

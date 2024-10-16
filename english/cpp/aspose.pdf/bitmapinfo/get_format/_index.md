@@ -18,6 +18,7 @@ BitmapInfo::PixelFormat Aspose::Pdf::BitmapInfo::get_Format() const
 
 ## See Also
 
+* Enum [PixelFormat](../pixelformat/)
 * Class [BitmapInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -37,6 +37,7 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormattedText](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,6 +62,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
@@ -88,6 +91,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
@@ -111,6 +116,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [FormattedText](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -136,6 +143,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
@@ -164,6 +173,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
@@ -191,6 +202,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -216,6 +229,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Enum [EncodingType](../../encodingtype/)
 * Class [FormattedText](../)
 * Namespace [Aspose::Pdf::Facades](../../)
@@ -241,6 +256,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontColor](../../fontcolor/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
@@ -269,6 +286,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontColor](../../fontcolor/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
@@ -297,6 +316,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontColor](../../fontcolor/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)
@@ -326,6 +347,8 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontColor](../../fontcolor/)
 * Enum [FontStyle](../../fontstyle/)
 * Enum [EncodingType](../../encodingtype/)

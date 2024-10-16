@@ -21,16 +21,12 @@ class SetDash : public Aspose::Pdf::Operator
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
-| [get_Index](../../aspose.pdf/operator/get_index/)() | [Operator](../../aspose.pdf/operator/) index in page operators list. |
 | [get_Pattern](./get_pattern/)() const | Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal. |
 | [get_Phase](./get_phase/)() const | Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the accumulated length equals the value specified by the dash phase, stroking of the path shall begin, and the dash array shall be used cyclically from that point onward. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(System::SharedPtr\<Operator\>) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| [set_Index](../../aspose.pdf/operator/set_index/)(int32_t) | [Operator](../../aspose.pdf/operator/) index in page operators list. |
 | [set_Pattern](./set_pattern/)(System::ArrayPtr\<int32_t\>) | Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal. |
 | [set_Phase](./set_phase/)(int32_t) | Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the accumulated length equals the value specified by the dash phase, stroking of the path shall begin, and the dash array shall be used cyclically from that point onward. |
 | [SetDash](./setdash/)(System::ArrayPtr\<int32_t\>, int32_t) | Creates set dash pattern operator. |
 | [ToString](./tostring/)() const override | Gets operator string representation. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(System::SharedPtr\<Operator\>) | Compares this instance with the given object. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

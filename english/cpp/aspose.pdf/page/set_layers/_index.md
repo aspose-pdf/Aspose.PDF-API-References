@@ -22,6 +22,8 @@ void Aspose::Pdf::Page::set_Layers(System::SharedPtr<System::Collections::Generi
 The layers collection.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Layer](../../layer/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

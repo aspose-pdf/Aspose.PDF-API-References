@@ -24,6 +24,7 @@ void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +46,7 @@ void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

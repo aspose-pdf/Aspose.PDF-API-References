@@ -11,11 +11,12 @@ url: /net/aspose.pdf.drawing/graph/shapes/
 Gets or sets a `Shapes` collection that indicates all shapes in the graph.
 
 ```csharp
-public List<Shape> Shapes { get; set; }
+public BoundsCheckableList<Shape> Shapes { get; set; }
 ```
 
 ### See Also
 
+* class [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf.generator/boundscheckablelist-1/)
 * class [Shape](../../shape/)
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)

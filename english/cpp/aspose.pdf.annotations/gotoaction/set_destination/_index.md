@@ -18,6 +18,7 @@ virtual void Aspose::Pdf::Annotations::GoToAction::set_Destination(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../iappointment/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

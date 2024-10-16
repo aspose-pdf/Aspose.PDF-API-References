@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetCMYKColorStroke::Accept(System::SharedPtr<IOpera
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetCMYKColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -51,5 +51,6 @@ class OperatorCollection : public Aspose::Pdf::BaseOperatorCollection,
 ## See Also
 
 * Class [BaseOperatorCollection](../baseoperatorcollection/)
+* Class [IDisposable](../../system/idisposable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

@@ -16,6 +16,9 @@ Class representing page resources.
 class Resources : public Aspose::Pdf::ISupportsMemoryCleanup
 ```
 
+## Nested classes
+
+* Class [ExtGStateValue](./extgstatevalue/)
 ## Methods
 
 | Method | Description |

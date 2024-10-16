@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToXfdfStr
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ColorsOfCMYK](../../colorsofcmyk/)
 * Class [ColorsOfCMYKConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

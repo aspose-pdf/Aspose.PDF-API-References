@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::JavascriptAction::get_Script()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [JavascriptAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

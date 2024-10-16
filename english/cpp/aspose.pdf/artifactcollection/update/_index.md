@@ -23,6 +23,7 @@ void Aspose::Pdf::ArtifactCollection::Update(System::SharedPtr<Artifact> artifac
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Artifact](../../artifact/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -27,6 +27,10 @@ virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
+* Class [XmlElement](../../../system.xml/xmlelement/)
+* Class [XmlDocument](../../../system.xml/xmldocument/)
 * Class [XmpPdfAExtensionObject](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

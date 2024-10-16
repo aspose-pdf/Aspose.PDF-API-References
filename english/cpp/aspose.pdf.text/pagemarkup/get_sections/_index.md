@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<MarkupSec
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [MarkupSection](../../markupsection/)
 * Class [PageMarkup](../)
 * Namespace [Aspose::Pdf::Text](../../)

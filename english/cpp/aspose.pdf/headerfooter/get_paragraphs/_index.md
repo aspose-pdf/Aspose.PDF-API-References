@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::Paragraphs> & Aspose::Pdf::HeaderFooter::ge
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [HeaderFooter](../)
 * Namespace [Aspose::Pdf](../../)

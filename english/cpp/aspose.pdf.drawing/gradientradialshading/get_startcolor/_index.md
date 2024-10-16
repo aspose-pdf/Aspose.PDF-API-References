@@ -18,6 +18,7 @@ System::SharedPtr<Color> Aspose::Pdf::Drawing::GradientRadialShading::get_StartC
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [GradientRadialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

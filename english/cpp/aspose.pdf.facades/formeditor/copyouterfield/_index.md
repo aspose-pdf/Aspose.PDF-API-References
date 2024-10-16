@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::FormEditor::CopyOuterField(System::String srcFileName
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +46,7 @@ void Aspose::Pdf::Facades::FormEditor::CopyOuterField(System::String srcFileName
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -68,6 +70,7 @@ void Aspose::Pdf::Facades::FormEditor::CopyOuterField(System::String srcFileName
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

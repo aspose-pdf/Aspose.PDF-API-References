@@ -27,7 +27,9 @@ The statistics.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
@@ -52,7 +54,9 @@ The statistics.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

@@ -24,5 +24,6 @@ class FileSpecificationComparer : public System::Collections::Generic::IComparer
 | [FileSpecificationComparer](./filespecificationcomparer/)(System::SharedPtr\<CollectionSort\>) | Creates a file specification comparer. |
 ## See Also
 
+* Class [IComparer](../../system.collections.generic/icomparer/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

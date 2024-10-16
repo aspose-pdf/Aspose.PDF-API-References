@@ -18,6 +18,8 @@ void Aspose::Pdf::Forms::SignatureCustomAppearance::set_Culture(System::SharedPt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

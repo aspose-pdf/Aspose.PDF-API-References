@@ -18,6 +18,7 @@ void Aspose::Pdf::Artifact::set_TextState(System::SharedPtr<Aspose::Pdf::Text::T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

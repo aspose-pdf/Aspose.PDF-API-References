@@ -29,5 +29,6 @@ class Position : public System::Object
 | [ToString](./tostring/)() const override | Gets string representation for the current [Position](./) object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::GraphInfo::set_FillColor(System::SharedPtr<Aspose::Pdf::Color>
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [GraphInfo](../)
 * Namespace [Aspose::Pdf](../../)

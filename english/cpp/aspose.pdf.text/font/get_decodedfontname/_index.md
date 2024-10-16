@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::Font::get_DecodedFontName()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Font](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

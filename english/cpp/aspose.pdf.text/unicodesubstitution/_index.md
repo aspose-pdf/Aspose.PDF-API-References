@@ -23,11 +23,18 @@ class UnicodeSubstitution : public System::Object,
 | --- | --- |
 | [UnicodeSubstitution](./unicodesubstitution/)(char16_t, char16_t) | Creates character code substitution struct. |
 | [UnicodeSubstitution](./unicodesubstitution/)() |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [OriginalCode](./originalcode/) | Represents original character unicode. |
+| [SubstitutionCode](./substitutioncode/) | Represents character unicode that substitutes original unicode. |
 ## Remarks
 
 
 In some cases substituting font may not contain original unicode character. For those cases characted substitution may be set explicitly with [UnicodeSubstitution](./) structs. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

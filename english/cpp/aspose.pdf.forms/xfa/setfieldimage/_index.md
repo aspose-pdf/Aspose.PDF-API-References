@@ -24,6 +24,9 @@ void Aspose::Pdf::Forms::XFA::SetFieldImage(System::String fieldName, System::Sh
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [XFA](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

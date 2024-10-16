@@ -24,6 +24,8 @@ void Aspose::Pdf::XImageCollection::CopyTo(System::ArrayPtr<System::SharedPtr<As
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XImage](../../ximage/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

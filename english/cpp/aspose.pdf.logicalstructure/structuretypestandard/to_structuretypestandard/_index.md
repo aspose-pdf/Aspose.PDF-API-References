@@ -18,7 +18,9 @@ static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::S
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTypeStandard](../)
+* Class [String](../../../system/string/)
 * Class [StructureTypeStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

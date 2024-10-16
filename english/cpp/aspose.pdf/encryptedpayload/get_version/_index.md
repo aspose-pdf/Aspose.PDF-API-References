@@ -18,6 +18,7 @@ System::String Aspose::Pdf::EncryptedPayload::get_Version()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [EncryptedPayload](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

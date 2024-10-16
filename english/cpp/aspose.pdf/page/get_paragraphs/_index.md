@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Paragraphs> Aspose::Pdf::Page::get_Paragraphs()
 The paragraphs.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../../paragraphs/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

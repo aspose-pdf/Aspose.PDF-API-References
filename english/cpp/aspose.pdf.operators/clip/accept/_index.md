@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::Clip::Accept(System::SharedPtr<IOperatorSelector> v
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [Clip](../)
 * Namespace [Aspose::Pdf::Operators](../../)

@@ -24,6 +24,7 @@ void Aspose::Pdf::Cells::idx_set(int32_t index, System::SharedPtr<Cell> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cell](../../cell/)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)

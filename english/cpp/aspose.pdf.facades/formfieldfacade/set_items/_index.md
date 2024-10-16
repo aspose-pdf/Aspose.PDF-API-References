@@ -18,6 +18,8 @@ void Aspose::Pdf::Facades::FormFieldFacade::set_Items(System::ArrayPtr<System::S
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [FormFieldFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

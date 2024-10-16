@@ -27,6 +27,7 @@ bool Aspose::Pdf::Forms::Form::HasField(System::SharedPtr<Field> field)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -57,6 +58,7 @@ if the specified field name added to [Form](../); otherwise, **false**
 . 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -89,6 +91,7 @@ if the specified field name added to [Form](../); otherwise, **false**
 . 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

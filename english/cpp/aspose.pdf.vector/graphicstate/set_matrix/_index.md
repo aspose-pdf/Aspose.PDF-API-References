@@ -18,6 +18,7 @@ void Aspose::Pdf::Vector::GraphicState::set_Matrix(System::SharedPtr<Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [GraphicState](../)
 * Namespace [Aspose::Pdf::Vector](../../)

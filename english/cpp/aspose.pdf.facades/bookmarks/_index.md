@@ -23,5 +23,6 @@ class Bookmarks : public System::Collections::Generic::List<System::SharedPtr<As
 | [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 ## See Also
 
+* Class [List](../../system.collections.generic/list/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

@@ -27,6 +27,7 @@ Scaling mode name.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [ScalingMode](../../scalingmode/)
 * Class [IconFit](../)
 * Namespace [Aspose::Pdf::Forms](../../)

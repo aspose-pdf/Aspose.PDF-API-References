@@ -18,6 +18,8 @@ System::SharedPtr<System::Object> Aspose::Pdf::OutlineItemCollection::get_SyncRo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::SquigglyAnnotation::Accept(System::SharedPtr<Anno
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [SquigglyAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

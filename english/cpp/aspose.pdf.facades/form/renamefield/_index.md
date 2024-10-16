@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::Form::RenameField(System::String fieldName, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

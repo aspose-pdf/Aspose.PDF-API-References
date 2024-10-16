@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::SquareAnnotation::Accept(System::SharedPtr<Annota
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [SquareAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

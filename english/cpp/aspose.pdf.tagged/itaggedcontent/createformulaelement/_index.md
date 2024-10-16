@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::FormulaElement](../../../aspose.pdf.logi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

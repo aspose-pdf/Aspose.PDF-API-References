@@ -25,5 +25,6 @@ class WarningInfo : public System::Object
 | [WarningInfo](./warninginfo/)(WarningType, System::String) | Constructs instance for gathering information. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

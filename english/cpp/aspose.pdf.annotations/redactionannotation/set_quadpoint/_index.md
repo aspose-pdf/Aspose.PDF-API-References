@@ -18,6 +18,8 @@ void Aspose::Pdf::Annotations::RedactionAnnotation::set_QuadPoint(System::ArrayP
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [RedactionAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

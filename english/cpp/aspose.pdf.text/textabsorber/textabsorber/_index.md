@@ -45,6 +45,7 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -69,6 +70,7 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../textextractionoptions/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -94,6 +96,7 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../textextractionoptions/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextAbsorber](../)

@@ -18,6 +18,8 @@ void Aspose::Pdf::BackgroundArtifact::set_BackgroundImage(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [BackgroundArtifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

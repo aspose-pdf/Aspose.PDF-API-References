@@ -23,5 +23,6 @@ class ISupportsMemoryCleanup : public virtual System::Object
 | virtual [FreeMemory](./freememory/)() | Clears cached data, frees memory etc. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

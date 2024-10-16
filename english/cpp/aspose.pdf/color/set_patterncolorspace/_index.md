@@ -18,6 +18,7 @@ void Aspose::Pdf::Color::set_PatternColorSpace(System::SharedPtr<Aspose::Pdf::Dr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

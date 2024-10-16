@@ -18,6 +18,7 @@ TextReplaceOptions::Scope Aspose::Pdf::Text::TextReplaceOptions::get_ReplaceScop
 
 ## See Also
 
+* Enum [Scope](../scope/)
 * Class [TextReplaceOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

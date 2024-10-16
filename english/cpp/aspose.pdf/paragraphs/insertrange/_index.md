@@ -24,6 +24,8 @@ void Aspose::Pdf::Paragraphs::InsertRange(int32_t index, System::SharedPtr<Syste
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Class [BaseParagraph](../../baseparagraph/)
 * Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)

@@ -24,5 +24,6 @@ class ExplicitDestinationTypeConverter : public System::Object
 | static [ToString](./tostring/)(ExplicitDestinationType) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::SetGlyphsPositionShowText::ToString() con
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetGlyphsPositionShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -16,6 +16,9 @@ Represents a base class for custom font substitution strategy.
 class CustomFontSubstitutionBase : public Aspose::Pdf::Text::FontSubstitution
 ```
 
+## Nested classes
+
+* Class [OriginalFontSpecification](./originalfontspecification/)
 ## Methods
 
 | Method | Description |

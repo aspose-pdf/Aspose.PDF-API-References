@@ -23,6 +23,7 @@ void Aspose::Pdf::Forms::DateField::Init(System::SharedPtr<Aspose::Pdf::Page> pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

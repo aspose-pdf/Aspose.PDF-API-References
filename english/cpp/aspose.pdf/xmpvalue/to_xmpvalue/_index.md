@@ -18,6 +18,7 @@ static System::SharedPtr<XmpValue> Aspose::Pdf::XmpValue::to_XmpValue(double val
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
@@ -33,6 +34,7 @@ static System::SharedPtr<XmpValue> Aspose::Pdf::XmpValue::to_XmpValue(int32_t va
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
@@ -48,7 +50,10 @@ static System::SharedPtr<XmpValue> Aspose::Pdf::XmpValue::to_XmpValue(System::Ar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Object](../../../system/object/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -63,7 +68,9 @@ static System::SharedPtr<XmpValue> Aspose::Pdf::XmpValue::to_XmpValue(System::Da
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
+* Class [DateTime](../../../system/datetime/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -78,7 +85,9 @@ static System::SharedPtr<XmpValue> Aspose::Pdf::XmpValue::to_XmpValue(System::St
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
+* Class [String](../../../system/string/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

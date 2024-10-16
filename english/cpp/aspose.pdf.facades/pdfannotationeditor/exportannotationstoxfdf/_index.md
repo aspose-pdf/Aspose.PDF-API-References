@@ -23,6 +23,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsToXfdf(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

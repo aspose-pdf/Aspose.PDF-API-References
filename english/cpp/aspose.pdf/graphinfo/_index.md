@@ -46,5 +46,6 @@ class GraphInfo : public System::ICloneable
 | [set_SkewAngleY](./set_skewangley/)(double) | Sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

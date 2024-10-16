@@ -21,14 +21,7 @@ class PdfPageEditor : public Aspose::Pdf::Facades::SaveableFacade
 | Method | Description |
 | --- | --- |
 | [ApplyChanges](./applychanges/)() | Apply changes made to the document pages. |
-| [BindPdf](../facade/bindpdf/)(System::String) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Initializes the facade. |
-| [BindPdf](../facade/bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Initializes the facade. |
-| virtual [BindPdf](../ifacade/bindpdf/)(System::SharedPtr\<Document\>) | Binds PDF document for editing. |
-| [Close](../facade/close/)() override | Disposes [Aspose.Pdf.Document](../../aspose.pdf/document/) bound with a facade. |
-| [Dispose](../facade/dispose/)() override | Disposes the facade. |
 | [get_DisplayDuration](./get_displayduration/)() | Gets display duration for pages. |
-| [get_Document](../facade/get_document/)() const | Gets the document facade is working on. |
 | [get_HorizontalAlignment](./get_horizontalalignment/)() | Gets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
 | [get_PageRotations](./get_pagerotations/)() | A hashtable contains the page number and rotation degree, the key represents the page number, the value of key represents the rotation in degrees. |
 | [get_PageSize](./get_pagesize/)() | Gets the output file's page size. |

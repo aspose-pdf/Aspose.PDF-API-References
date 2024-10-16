@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Hyperlink> Aspose::Pdf::LogicalStructure::LinkEle
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Hyperlink](../../../aspose.pdf/hyperlink/)
 * Class [LinkElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

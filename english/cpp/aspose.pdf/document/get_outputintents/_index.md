@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::OutputIntents> Aspose::Pdf::Document::get_OutputI
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputIntents](../../outputintents/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

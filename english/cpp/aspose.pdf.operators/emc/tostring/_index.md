@@ -23,6 +23,7 @@ System::String Aspose::Pdf::Operators::EMC::ToString() const override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [EMC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

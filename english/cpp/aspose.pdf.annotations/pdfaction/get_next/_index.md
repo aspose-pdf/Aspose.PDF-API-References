@@ -18,6 +18,7 @@ System::SharedPtr<ActionCollection> Aspose::Pdf::Annotations::PdfAction::get_Nex
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ActionCollection](../../actioncollection/)
 * Class [PdfAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

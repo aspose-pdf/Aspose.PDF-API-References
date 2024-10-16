@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::SetColorRenderingIntent::get_IntentName()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetColorRenderingIntent](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -25,6 +25,7 @@ Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::SetSpacingMoveToNextLi
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [SetSpacingMoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

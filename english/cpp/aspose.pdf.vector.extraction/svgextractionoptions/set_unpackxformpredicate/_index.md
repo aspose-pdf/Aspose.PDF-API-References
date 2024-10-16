@@ -18,6 +18,8 @@ void Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::set_UnpackXFormPredi
 
 ## See Also
 
+* Typedef [Predicate](../../../system/predicate/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XFormPlacement](../../../aspose.pdf.vector/xformplacement/)
 * Class [SvgExtractionOptions](../)
 * Namespace [Aspose::Pdf::Vector::Extraction](../../)

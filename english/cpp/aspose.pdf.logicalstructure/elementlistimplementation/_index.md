@@ -24,7 +24,6 @@ class ElementListImplementation : public Aspose::Pdf::LogicalStructure::ElementL
 | [ElementListImplementation](./elementlistimplementation/)(System::SharedPtr\<Element\>) |  |
 | [get_Count](./get_count/)() override | Gets the number of elements in the [ElementList](../elementlist/). |
 | [GetEnumerator](./getenumerator/)() override | Gets an enumerator that iterates through the collection of elements. |
-| virtual [idx_get](../elementlist/idx_get/)(int32_t) | Gets an element at the given index. |
 | [InsertElement](./insertelement/)(System::SharedPtr\<Element\>, int32_t, bool) override | Insert element to list. |
 | [Item](./item/)(int32_t) override | Retrieves a element at the given index. |
 | [RemoveAt](./removeat/)(int32_t, bool) override | Remove element from list. |

@@ -23,6 +23,7 @@ System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DRenderMode::GetAuxiliary
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [PDF3DRenderMode](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

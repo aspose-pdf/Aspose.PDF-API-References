@@ -23,6 +23,7 @@ void Aspose::Pdf::Vector::XFormPlacement::AddOnPage(System::SharedPtr<Page> dest
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [XFormPlacement](../)
 * Namespace [Aspose::Pdf::Vector](../../)

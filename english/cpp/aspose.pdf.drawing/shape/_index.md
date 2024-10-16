@@ -27,5 +27,6 @@ class Shape : public System::Object
 | [Shape](./shape/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Drawing](../)
 * Library [Aspose.PDF for C++](../../)

@@ -27,6 +27,7 @@ Retreived embedded file specification
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -51,7 +52,9 @@ Retreived embedded file specification.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FileSpecification](../../filespecification/)
+* Class [String](../../../system/string/)
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

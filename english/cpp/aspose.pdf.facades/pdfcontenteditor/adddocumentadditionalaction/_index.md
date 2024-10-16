@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAdditionalAction(System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

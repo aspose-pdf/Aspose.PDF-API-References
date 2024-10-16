@@ -22,6 +22,7 @@ System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::Structur
 Category of Standard [Structure](../../../aspose.pdf.structure/) Type.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTypeCategory](../../structuretypecategory/)
 * Class [StructureTypeStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

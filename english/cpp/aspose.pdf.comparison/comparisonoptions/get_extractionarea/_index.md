@@ -18,6 +18,7 @@ const System::SharedPtr<Rectangle> & Aspose::Pdf::Comparison::ComparisonOptions:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ComparisonOptions](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

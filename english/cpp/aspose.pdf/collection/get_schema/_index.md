@@ -18,6 +18,7 @@ System::SharedPtr<CollectionSchema> Aspose::Pdf::Collection::get_Schema()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CollectionSchema](../../collectionschema/)
 * Class [Collection](../)
 * Namespace [Aspose::Pdf](../../)

@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::LineInfo::set_VerticeCoordinate(System::ArrayPtr<floa
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [LineInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

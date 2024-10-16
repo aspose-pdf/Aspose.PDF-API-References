@@ -27,6 +27,7 @@ System::SharedPtr<TextFragment> Aspose::Pdf::Text::TextFragmentCollection::idx_g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextFragmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

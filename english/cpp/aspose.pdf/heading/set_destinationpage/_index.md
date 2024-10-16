@@ -18,6 +18,7 @@ void Aspose::Pdf::Heading::set_DestinationPage(System::SharedPtr<Aspose::Pdf::Pa
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [Heading](../)
 * Namespace [Aspose::Pdf](../../)

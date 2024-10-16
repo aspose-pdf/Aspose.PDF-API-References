@@ -18,6 +18,7 @@ System::DateTime Aspose::Pdf::Annotations::Annotation::get_Modified()
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [Annotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

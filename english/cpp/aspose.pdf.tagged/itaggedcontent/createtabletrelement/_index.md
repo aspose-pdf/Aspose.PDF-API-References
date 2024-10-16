@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::TableTRElement](../../../aspose.pdf.logi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableTRElement](../../../aspose.pdf.logicalstructure/tabletrelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

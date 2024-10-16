@@ -36,5 +36,6 @@ class AttributeOwnerStandard : public System::Object
 | static [Xml_100](./xml_100/)() | XML-1.0.0 attribute owner. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

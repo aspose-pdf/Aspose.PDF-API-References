@@ -21,10 +21,7 @@ class TeXFileSystemOutputDirectory : public Aspose::Pdf::TeXFileSystemInputDirec
 
 | Method | Description |
 | --- | --- |
-| [Dispose](../texfilesysteminputdirectory/dispose/)() override | Disposes the instance. |
-| [GetFile](../texfilesysteminputdirectory/getfile/)(System::String, System::String\&, bool) override | Returns the stream to read from. |
 | [GetOutputFile](./getoutputfile/)(System::String, System::String\&) override | Returns the stream to write to. |
-| [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/texfilesysteminputdirectory/)(System::String) | Creates new instance. |
 | [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/)(System::String) | Creates new instance. |
 ## See Also
 

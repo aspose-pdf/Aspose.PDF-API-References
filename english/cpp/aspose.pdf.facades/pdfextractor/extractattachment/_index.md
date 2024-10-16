@@ -37,6 +37,7 @@ void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment(System::String attach
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

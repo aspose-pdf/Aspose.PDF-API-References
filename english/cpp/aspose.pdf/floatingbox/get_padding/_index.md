@@ -18,6 +18,7 @@ System::SharedPtr<MarginInfo> Aspose::Pdf::FloatingBox::get_Padding() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MarginInfo](../../margininfo/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)

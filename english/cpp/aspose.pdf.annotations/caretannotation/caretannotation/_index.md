@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [CaretAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [CaretAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

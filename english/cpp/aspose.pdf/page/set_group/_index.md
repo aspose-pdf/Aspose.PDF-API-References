@@ -18,6 +18,7 @@ void Aspose::Pdf::Page::set_Group(System::SharedPtr<Aspose::Pdf::Group> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Group](../../group/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

@@ -67,6 +67,7 @@ Aspose::Pdf::Matrix3D::Matrix3D(System::ArrayPtr<double> matrix3DArray)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -86,6 +87,7 @@ Aspose::Pdf::Matrix3D::Matrix3D(System::SharedPtr<Matrix3D> matrix)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix3D](../)
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)

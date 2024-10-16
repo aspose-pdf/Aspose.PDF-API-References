@@ -23,6 +23,7 @@ Aspose::Pdf::Operators::MP::MP(System::String tag)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MP](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

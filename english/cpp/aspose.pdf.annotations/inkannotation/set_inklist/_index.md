@@ -18,6 +18,9 @@ void Aspose::Pdf::Annotations::InkAnnotation::set_InkList(System::SharedPtr<Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IList](../../../system.collections.generic/ilist/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

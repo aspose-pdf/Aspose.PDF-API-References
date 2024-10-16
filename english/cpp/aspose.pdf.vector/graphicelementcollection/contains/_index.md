@@ -27,6 +27,7 @@ True - if element found; otherwise, false.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicElement](../../graphicelement/)
 * Class [GraphicElementCollection](../)
 * Namespace [Aspose::Pdf::Vector](../../)

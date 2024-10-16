@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Operators::ShowText::get_Text() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

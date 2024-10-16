@@ -22,6 +22,7 @@ System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DArtwork::get_R
 The render mode.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DRenderMode](../../pdf3drendermode/)
 * Class [PDF3DArtwork](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

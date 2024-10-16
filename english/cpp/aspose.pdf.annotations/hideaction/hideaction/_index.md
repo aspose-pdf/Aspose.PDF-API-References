@@ -23,6 +23,8 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::Shared
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -44,6 +46,8 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::Shared
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -64,6 +68,8 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -84,6 +90,8 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -103,6 +111,7 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> a
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -124,6 +133,7 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> a
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -144,6 +154,7 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::String fieldName)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -164,6 +175,7 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::String fieldName, bool 
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

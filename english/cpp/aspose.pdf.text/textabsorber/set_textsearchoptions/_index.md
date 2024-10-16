@@ -22,6 +22,7 @@ virtual void Aspose::Pdf::Text::TextAbsorber::set_TextSearchOptions(System::Shar
 Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

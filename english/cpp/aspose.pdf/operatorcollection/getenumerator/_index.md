@@ -23,6 +23,8 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Op
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [IEnumerator](../../../system.collections.generic/ienumerator/)
 * Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)

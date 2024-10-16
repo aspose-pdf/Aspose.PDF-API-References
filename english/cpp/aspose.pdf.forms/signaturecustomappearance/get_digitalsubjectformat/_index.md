@@ -18,6 +18,7 @@ System::ArrayPtr<SubjectNameElements> Aspose::Pdf::Forms::SignatureCustomAppeara
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SubjectNameElements](../../subjectnameelements/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)

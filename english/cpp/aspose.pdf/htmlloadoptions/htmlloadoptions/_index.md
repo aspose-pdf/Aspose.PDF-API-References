@@ -37,6 +37,7 @@ Aspose::Pdf::HtmlLoadOptions::HtmlLoadOptions(System::String basePath)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

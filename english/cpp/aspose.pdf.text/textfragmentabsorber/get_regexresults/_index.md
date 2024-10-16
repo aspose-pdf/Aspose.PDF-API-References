@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_regexresults/
 ## TextFragmentAbsorber::get_RegexResults method
 
 
-Gets dictionary of search occurrences that are presented with **System.Text.RegularExpressions.Regex** class as key and [TextFragment](../../textfragment/) as value.
+Gets dictionary of search occurrences that are presented with [System.Text.RegularExpressions.Regex](../../../system.text.regularexpressions/regex/) class as key and [TextFragment](../../textfragment/) as value.
 
 ```cpp
 System::SharedPtr<System::Collections::Generic::Dictionary<System::SharedPtr<System::Text::RegularExpressions::Regex>, System::SharedPtr<TextFragmentCollection>>> Aspose::Pdf::Text::TextFragmentAbsorber::get_RegexResults() const
@@ -18,6 +18,9 @@ System::SharedPtr<System::Collections::Generic::Dictionary<System::SharedPtr<Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Dictionary](../../../system.collections.generic/dictionary/)
+* Class [Regex](../../../system.text.regularexpressions/regex/)
 * Class [TextFragmentCollection](../../textfragmentcollection/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

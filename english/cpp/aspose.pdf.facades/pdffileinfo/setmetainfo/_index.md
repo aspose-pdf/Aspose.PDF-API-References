@@ -24,6 +24,7 @@ void Aspose::Pdf::Facades::PdfFileInfo::SetMetaInfo(System::String name, System:
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

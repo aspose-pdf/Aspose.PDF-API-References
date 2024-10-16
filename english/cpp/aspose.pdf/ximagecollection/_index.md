@@ -50,5 +50,6 @@ class XImageCollection : public System::Collections::Generic::ICollection<System
 | [Replace](./replace/)(int32_t, System::SharedPtr\<System::IO::Stream\>, int32_t) | Replace image in collection with another image. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

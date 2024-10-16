@@ -19,6 +19,7 @@ static SoundIcon Aspose::Pdf::Annotations::SoundIconConverter::ToEnum(System::St
 ## See Also
 
 * Enum [SoundIcon](../../soundicon/)
+* Class [String](../../../system/string/)
 * Class [SoundIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

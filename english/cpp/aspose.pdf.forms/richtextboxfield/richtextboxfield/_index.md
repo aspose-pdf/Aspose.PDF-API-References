@@ -24,6 +24,7 @@ Aspose::Pdf::Forms::RichTextBoxField::RichTextBoxField(System::SharedPtr<Aspose:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [RichTextBoxField](../)

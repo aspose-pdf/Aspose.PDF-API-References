@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::CaptionPositionConverter::ToStri
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [CaptionPosition](../../captionposition/)
 * Class [CaptionPositionConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

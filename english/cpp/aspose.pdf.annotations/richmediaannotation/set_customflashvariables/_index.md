@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomFlashVariables(Sys
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [RichMediaAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ Artifact::ArtifactType Aspose::Pdf::Artifact::get_Type()
 
 ## See Also
 
+* Enum [ArtifactType](../artifacttype/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

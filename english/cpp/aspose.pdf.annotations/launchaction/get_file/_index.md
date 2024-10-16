@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Annotations::LaunchAction::get_File()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [LaunchAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

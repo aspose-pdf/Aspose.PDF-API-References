@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::GRestore::Accept(System::SharedPtr<IOperatorSelecto
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [GRestore](../)
 * Namespace [Aspose::Pdf::Operators](../../)

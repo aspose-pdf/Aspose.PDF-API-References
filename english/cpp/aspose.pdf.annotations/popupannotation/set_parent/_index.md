@@ -18,6 +18,7 @@ void Aspose::Pdf::Annotations::PopupAnnotation::set_Parent(System::SharedPtr<Ann
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [PopupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

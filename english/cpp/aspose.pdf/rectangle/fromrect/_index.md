@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/rectangle/fromrect/
 ## Rectangle::FromRect(System::Drawing::Rectangle) method
 
 
-Initializes new rectangle from given instance of **System.Drawing.Rectangle**.
+Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../../system.drawing/rectangle/).
 
 ```cpp
 static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::FromRect(System::Drawing::Rectangle src)
@@ -27,14 +27,16 @@ New rectangle.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
+* Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Rectangle::FromRect(System::Drawing::RectangleF) method
 
 
-Initializes new rectangle from given instance of **System.Drawing.Rectangle**.
+Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../../system.drawing/rectangle/).
 
 ```cpp
 static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::FromRect(System::Drawing::RectangleF src)
@@ -51,7 +53,9 @@ New rectangle.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
+* Class [RectangleF](../../../system.drawing/rectanglef/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

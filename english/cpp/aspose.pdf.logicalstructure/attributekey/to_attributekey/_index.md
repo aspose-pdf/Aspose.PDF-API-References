@@ -18,7 +18,9 @@ static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeK
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeKey](../)
+* Class [String](../../../system/string/)
 * Class [AttributeKey](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

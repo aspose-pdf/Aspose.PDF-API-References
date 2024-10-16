@@ -18,6 +18,7 @@ void Aspose::Pdf::Cell::set_BackgroundImage(System::SharedPtr<Image> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Image](../../image/)
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)

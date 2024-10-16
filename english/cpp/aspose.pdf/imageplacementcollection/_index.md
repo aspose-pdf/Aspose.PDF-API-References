@@ -33,5 +33,6 @@ class ImagePlacementCollection : public System::Collections::Generic::ICollectio
 | [Remove](./remove/)(const System::SharedPtr\<ImagePlacement\>\&) override | Deletes specified item from collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

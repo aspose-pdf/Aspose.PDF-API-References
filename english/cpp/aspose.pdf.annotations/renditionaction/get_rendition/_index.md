@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::Rendition> Aspose::Pdf::Annotations:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rendition](../../rendition/)
 * Class [RenditionAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

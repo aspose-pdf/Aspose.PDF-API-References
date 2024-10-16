@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Text::TextFragmentAbsorber::get_Text() override
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

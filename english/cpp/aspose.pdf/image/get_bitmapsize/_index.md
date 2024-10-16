@@ -18,6 +18,7 @@ System::SharedPtr<Rectangle> Aspose::Pdf::Image::get_BitmapSize()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [Image](../)
 * Namespace [Aspose::Pdf](../../)

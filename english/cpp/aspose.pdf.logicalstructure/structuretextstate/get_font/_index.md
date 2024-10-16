@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::Text::Font> Aspose::Pdf::LogicalStructure::Struct
 Can be null. Use null to inherit **Font** property from parent structure element. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
 * Class [StructureTextState](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

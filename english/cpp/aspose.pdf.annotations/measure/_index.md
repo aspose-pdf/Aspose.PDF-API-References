@@ -16,6 +16,10 @@ Class which describes [Measure](./) coordinate system.
 class Measure : public System::Object
 ```
 
+## Nested classes
+
+* Class [NumberFormat](./numberformat/)
+* Class [NumberFormatList](./numberformatlist/)
 ## Methods
 
 | Method | Description |
@@ -41,5 +45,6 @@ class Measure : public System::Object
 | [set_YFormat](./set_yformat/)(System::SharedPtr\<Measure::NumberFormatList\>) | A number format array for measurement of change along the y axis. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

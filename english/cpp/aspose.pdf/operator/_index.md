@@ -28,5 +28,6 @@ class Operator : public System::Object
 | [ValueEquals](./valueequals/)(System::SharedPtr\<Operator\>) | Compares this instance with the given object. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

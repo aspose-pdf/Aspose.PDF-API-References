@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BDC](../../../aspose.pdf.operators/bdc/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -43,6 +44,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BI](../../../aspose.pdf.operators/bi/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -63,6 +65,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BMC](../../../aspose.pdf.operators/bmc/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -83,6 +86,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BT](../../../aspose.pdf.operators/bt/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -103,6 +107,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [BX](../../../aspose.pdf.operators/bx/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -123,6 +128,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Clip](../../../aspose.pdf.operators/clip/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -143,6 +149,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ClosePath](../../../aspose.pdf.operators/closepath/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -163,6 +170,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -183,6 +191,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -203,6 +212,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -223,6 +233,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -243,6 +254,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CurveTo](../../../aspose.pdf.operators/curveto/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -263,6 +275,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -283,6 +296,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -303,6 +317,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Do](../../../aspose.pdf.operators/do/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -323,6 +338,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DP](../../../aspose.pdf.operators/dp/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -343,6 +359,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EI](../../../aspose.pdf.operators/ei/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -363,6 +380,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EMC](../../../aspose.pdf.operators/emc/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -383,6 +401,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EndPath](../../../aspose.pdf.operators/endpath/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -403,6 +422,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EOClip](../../../aspose.pdf.operators/eoclip/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -423,6 +443,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EOFill](../../../aspose.pdf.operators/eofill/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -443,6 +464,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -463,6 +485,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ET](../../../aspose.pdf.operators/et/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -483,6 +506,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [EX](../../../aspose.pdf.operators/ex/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -503,6 +527,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Fill](../../../aspose.pdf.operators/fill/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -523,6 +548,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -543,6 +569,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GRestore](../../../aspose.pdf.operators/grestore/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -563,6 +590,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GS](../../../aspose.pdf.operators/gs/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -583,6 +611,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GSave](../../../aspose.pdf.operators/gsave/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -603,6 +632,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ID](../../../aspose.pdf.operators/id/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -623,6 +653,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LineTo](../../../aspose.pdf.operators/lineto/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -643,6 +674,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -663,6 +695,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -683,6 +716,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MoveTo](../../../aspose.pdf.operators/moveto/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -703,6 +737,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -723,6 +758,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -743,6 +779,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MP](../../../aspose.pdf.operators/mp/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -763,6 +800,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -783,6 +821,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Re](../../../aspose.pdf.operators/re/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -803,6 +842,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SelectFont](../../../aspose.pdf.operators/selectfont/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -823,6 +863,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -843,6 +884,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -863,6 +905,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -883,6 +926,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -903,6 +947,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -923,6 +968,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -943,6 +989,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -963,6 +1010,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetColor](../../../aspose.pdf.operators/setcolor/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -983,6 +1031,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1003,6 +1052,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1023,6 +1073,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1043,6 +1094,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1063,6 +1115,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetDash](../../../aspose.pdf.operators/setdash/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1083,6 +1136,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetFlat](../../../aspose.pdf.operators/setflat/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1103,6 +1157,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1123,6 +1178,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetGray](../../../aspose.pdf.operators/setgray/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1143,6 +1199,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1163,6 +1220,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1183,6 +1241,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1203,6 +1262,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1223,6 +1283,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1243,6 +1304,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1263,6 +1325,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1283,6 +1346,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1303,6 +1367,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1323,6 +1388,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1343,6 +1409,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1363,6 +1430,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1383,6 +1451,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1403,6 +1472,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1423,6 +1493,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ShFill](../../../aspose.pdf.operators/shfill/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1443,6 +1514,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ShowText](../../../aspose.pdf.operators/showtext/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1463,6 +1535,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stroke](../../../aspose.pdf.operators/stroke/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
@@ -1483,6 +1556,7 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextOperator](../../../aspose.pdf.operators/textoperator/)
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)

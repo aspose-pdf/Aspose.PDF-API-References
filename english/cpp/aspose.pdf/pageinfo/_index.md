@@ -37,5 +37,6 @@ class PageInfo : public System::ICloneable
 | [set_Width](./set_width/)(double) | Sets page width. |
 ## See Also
 
+* Class [ICloneable](../../system/icloneable/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

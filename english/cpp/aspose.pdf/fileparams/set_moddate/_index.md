@@ -18,6 +18,7 @@ void Aspose::Pdf::FileParams::set_ModDate(System::DateTime value)
 
 ## See Also
 
+* Class [DateTime](../../../system/datetime/)
 * Class [FileParams](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

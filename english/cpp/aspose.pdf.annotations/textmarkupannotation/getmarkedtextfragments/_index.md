@@ -23,6 +23,7 @@ System::SharedPtr<Aspose::Pdf::Text::TextFragmentCollection> Aspose::Pdf::Annota
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
 * Class [TextMarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

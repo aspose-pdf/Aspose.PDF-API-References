@@ -18,6 +18,7 @@ System::String Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::get_ResourcesDir
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)
 * Library [Aspose.PDF for C++](../../../)

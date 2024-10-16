@@ -18,6 +18,7 @@ System::SharedPtr<PageLabelCollection> Aspose::Pdf::Document::get_PageLabels()
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageLabelCollection](../../pagelabelcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)

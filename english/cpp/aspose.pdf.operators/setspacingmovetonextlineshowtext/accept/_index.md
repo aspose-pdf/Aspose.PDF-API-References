@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::Accept(System::Sh
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetSpacingMoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)

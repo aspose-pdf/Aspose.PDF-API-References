@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Asp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [PopupAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Doc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [PopupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

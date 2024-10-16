@@ -34,6 +34,8 @@ Must return true in case substitution is required. substitutionFont must be set 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [OriginalFontSpecification](../originalfontspecification/)
 * Class [Font](../../font/)
 * Class [CustomFontSubstitutionBase](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::ArtElement](../../../aspose.pdf.logicals
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

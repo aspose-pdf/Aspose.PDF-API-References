@@ -23,6 +23,7 @@ Aspose::Pdf::Annotations::JavascriptAction::JavascriptAction(System::String java
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [JavascriptAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

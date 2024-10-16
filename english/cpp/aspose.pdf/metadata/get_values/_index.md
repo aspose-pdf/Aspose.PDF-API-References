@@ -18,6 +18,8 @@ System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Xm
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICollection](../../../system.collections.generic/icollection/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)

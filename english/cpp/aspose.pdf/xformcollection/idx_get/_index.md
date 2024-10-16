@@ -27,6 +27,7 @@ Retrieved [XForm](../../xform/).
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
@@ -51,7 +52,9 @@ Retrieved [XForm](../../xform/).
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
+* Class [String](../../../system/string/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

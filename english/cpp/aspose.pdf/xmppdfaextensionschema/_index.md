@@ -47,5 +47,6 @@ class XmpPdfAExtensionSchema : public System::Object
 | static [RdfPrefix](./rdfprefix/) | Default rdf namespace prefix. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

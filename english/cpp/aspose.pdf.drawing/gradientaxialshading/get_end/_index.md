@@ -18,6 +18,7 @@ const System::SharedPtr<Point> & Aspose::Pdf::Drawing::GradientAxialShading::get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [GradientAxialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

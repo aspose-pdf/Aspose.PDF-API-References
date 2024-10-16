@@ -18,6 +18,7 @@ virtual System::SharedPtr<OperatorCollection> Aspose::Pdf::IOperatorContainer::g
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OperatorCollection](../../operatorcollection/)
 * Class [IOperatorContainer](../)
 * Namespace [Aspose::Pdf](../../)

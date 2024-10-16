@@ -28,7 +28,10 @@ List of found artifacts.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [Artifact](../../artifact/)
+* Class [String](../../../system/string/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

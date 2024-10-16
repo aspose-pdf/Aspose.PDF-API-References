@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::LineIntentConverter::ToString(Li
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [LineIntent](../../lineintent/)
 * Class [LineIntentConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

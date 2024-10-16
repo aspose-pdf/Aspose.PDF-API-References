@@ -19,7 +19,7 @@ double Aspose::Pdf::Annotations::PDF3DRenderMode::GetOpacity()
 
 ### ReturnValue
 
-**System.Double**.
+[System.Double](../../../system/double/).
 
 ## See Also
 

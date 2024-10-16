@@ -22,6 +22,7 @@ System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::Structur
 [T:/Aspose::Pdf::LogicalStructure::StructureTypeStandard](../) object of structure element.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureTypeStandard](../../structuretypestandard/)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

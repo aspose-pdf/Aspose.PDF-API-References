@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetDash::Accept(System::SharedPtr<IOperatorSelector
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetDash](../)
 * Namespace [Aspose::Pdf::Operators](../../)

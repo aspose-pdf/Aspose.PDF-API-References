@@ -27,6 +27,7 @@ System::String Aspose::Pdf::DocumentInfo::idx_get(const System::String &key) con
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

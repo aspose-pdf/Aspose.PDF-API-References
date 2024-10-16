@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextReplaceOptions(System::Sha
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextReplaceOptions](../../textreplaceoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

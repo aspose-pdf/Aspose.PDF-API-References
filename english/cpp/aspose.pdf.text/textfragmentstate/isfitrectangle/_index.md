@@ -28,6 +28,8 @@ True if string fit rectangle; otherwise false.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)

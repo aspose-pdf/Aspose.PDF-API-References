@@ -22,6 +22,7 @@ System::SharedPtr<PDF3DArtwork> Aspose::Pdf::Annotations::PDF3DAnnotation::get_P
 The PDF3 d artwork.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DArtwork](../../pdf3dartwork/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

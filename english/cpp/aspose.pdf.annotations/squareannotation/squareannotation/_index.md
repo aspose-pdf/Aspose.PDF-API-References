@@ -24,6 +24,7 @@ Aspose::Pdf::Annotations::SquareAnnotation::SquareAnnotation(System::SharedPtr<A
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SquareAnnotation](../)
@@ -45,6 +46,7 @@ Aspose::Pdf::Annotations::SquareAnnotation::SquareAnnotation(System::SharedPtr<D
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [SquareAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

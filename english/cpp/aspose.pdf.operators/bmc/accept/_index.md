@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::BMC::Accept(System::SharedPtr<IOperatorSelector> vi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [BMC](../)
 * Namespace [Aspose::Pdf::Operators](../../)

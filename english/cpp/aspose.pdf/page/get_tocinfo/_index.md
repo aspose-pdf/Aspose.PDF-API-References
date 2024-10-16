@@ -22,6 +22,7 @@ System::SharedPtr<Aspose::Pdf::TocInfo> Aspose::Pdf::Page::get_TocInfo() const
 The table of contents info - default null. If it set this page will contain table of contents.
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TocInfo](../../tocinfo/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

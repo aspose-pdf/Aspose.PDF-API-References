@@ -24,6 +24,8 @@ void Aspose::Pdf::XFormCollection::CopyTo(System::ArrayPtr<System::SharedPtr<XFo
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)

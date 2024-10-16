@@ -51,5 +51,6 @@ class RenderingOptions : public System::Object
 | [set_WidthExtraUnits](./set_widthextraunits/)(float) | Sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

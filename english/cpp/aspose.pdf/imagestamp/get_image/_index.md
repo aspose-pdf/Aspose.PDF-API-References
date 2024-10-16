@@ -18,6 +18,8 @@ System::SharedPtr<System::IO::Stream> Aspose::Pdf::ImageStamp::get_Image() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

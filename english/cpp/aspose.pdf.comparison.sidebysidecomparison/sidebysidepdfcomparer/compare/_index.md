@@ -26,7 +26,9 @@ static void Aspose::Pdf::Comparison::SideBySideComparison::SideBySidePdfComparer
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
+* Class [String](../../../system/string/)
 * Class [SideBySideComparisonOptions](../../sidebysidecomparisonoptions/)
 * Class [SideBySidePdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison::SideBySideComparison](../../)
@@ -50,7 +52,9 @@ static void Aspose::Pdf::Comparison::SideBySideComparison::SideBySidePdfComparer
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
+* Class [String](../../../system/string/)
 * Class [SideBySideComparisonOptions](../../sidebysidecomparisonoptions/)
 * Class [SideBySidePdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison::SideBySideComparison](../../)

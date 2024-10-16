@@ -18,6 +18,7 @@ void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ForegroundColor(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../../aspose.pdf/color/)
 * Class [SignatureCustomAppearance](../)
 * Namespace [Aspose::Pdf::Forms](../../)

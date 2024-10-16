@@ -27,6 +27,7 @@ System::SharedPtr<TextSegment> Aspose::Pdf::Text::TextSegmentCollection::idx_get
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSegment](../../textsegment/)
 * Class [TextSegmentCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

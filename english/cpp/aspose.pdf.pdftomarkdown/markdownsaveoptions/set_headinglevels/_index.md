@@ -18,6 +18,7 @@ void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_HeadingLevels(System::
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeadingLevels](../../headinglevels/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)

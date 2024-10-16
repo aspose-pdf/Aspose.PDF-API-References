@@ -33,5 +33,6 @@ class DocumentActionCollection : public System::Object
 | [set_BeforeSaving](./set_beforesaving/)(System::SharedPtr\<PdfAction\>) | Sets action performed before document saving. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

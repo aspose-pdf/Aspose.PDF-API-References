@@ -37,6 +37,7 @@ Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Aspose::Pdf::Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -58,7 +59,9 @@ Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Aspose::Pdf::Text
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -78,6 +81,8 @@ Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<System::Text::Enc
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

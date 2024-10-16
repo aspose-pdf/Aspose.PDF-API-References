@@ -24,7 +24,9 @@ void Aspose::Pdf::Text::FontCollection::Add(System::SharedPtr<Font> newFont, Sys
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../font/)
+* Class [String](../../../system/string/)
 * Class [FontCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

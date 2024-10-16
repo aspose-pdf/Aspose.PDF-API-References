@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::AutoFiller::get_GeneratingPath() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [AutoFiller](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

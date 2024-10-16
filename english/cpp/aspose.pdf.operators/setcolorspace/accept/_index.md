@@ -23,6 +23,7 @@ void Aspose::Pdf::Operators::SetColorSpace::Accept(System::SharedPtr<IOperatorSe
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * Class [SetColorSpace](../)
 * Namespace [Aspose::Pdf::Operators](../../)

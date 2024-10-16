@@ -23,6 +23,7 @@ String representation for the matrix
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

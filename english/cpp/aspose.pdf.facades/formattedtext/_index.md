@@ -41,5 +41,6 @@ class FormattedText : public System::Object
 | [SetCjkFontStyle](./setcjkfontstyle/)() | Changes [FormattedText](./) font style for CJK (Chinese, Japanese, or Korean) font. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

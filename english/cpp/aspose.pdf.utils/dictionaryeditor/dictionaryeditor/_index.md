@@ -18,6 +18,7 @@ Aspose::Pdf::Utils::DictionaryEditor::DictionaryEditor(System::SharedPtr<Documen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)
@@ -33,6 +34,7 @@ Aspose::Pdf::Utils::DictionaryEditor::DictionaryEditor(System::SharedPtr<Page> p
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::Utils](../../)

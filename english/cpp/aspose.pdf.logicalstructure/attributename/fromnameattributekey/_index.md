@@ -28,7 +28,9 @@ Attribute name
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AttributeName](../)
+* Class [String](../../../system/string/)
 * Class [AttributeKey](../../attributekey/)
 * Class [AttributeName](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

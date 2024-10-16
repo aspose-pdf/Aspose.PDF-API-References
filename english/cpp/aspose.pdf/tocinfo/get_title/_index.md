@@ -18,6 +18,7 @@ const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::TocInfo::get_Title() 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [TocInfo](../)
 * Namespace [Aspose::Pdf](../../)

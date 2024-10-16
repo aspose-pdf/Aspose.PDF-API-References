@@ -26,5 +26,6 @@ class CollectionSchema : public System::Object
 | [HasName](./hasname/)(System::String) | Determines whether the specified name exists in the schema. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

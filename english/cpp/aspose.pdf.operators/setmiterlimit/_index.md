@@ -21,14 +21,9 @@ class SetMiterLimit : public Aspose::Pdf::Operator
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
-| [get_Index](../../aspose.pdf/operator/get_index/)() | [Operator](../../aspose.pdf/operator/) index in page operators list. |
 | [get_MiterLimit](./get_miterlimit/)() const | Gets the miter limit. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(System::SharedPtr\<Operator\>) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| [set_Index](../../aspose.pdf/operator/set_index/)(int32_t) | [Operator](../../aspose.pdf/operator/) index in page operators list. |
 | [set_MiterLimit](./set_miterlimit/)(double) | Sets the miter limit. |
 | [SetMiterLimit](./setmiterlimit/)(double) | Initializes operator. |
-| [ToString](../../aspose.pdf/operator/tostring/)() const override | Returns text of operator and its parameters. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(System::SharedPtr\<Operator\>) | Compares this instance with the given object. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

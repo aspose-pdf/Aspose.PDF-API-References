@@ -18,6 +18,7 @@ void Aspose::Pdf::XFormCollection::cpp_set_xfrom_weak(System::SharedPtr<XForm> f
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../xform/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)

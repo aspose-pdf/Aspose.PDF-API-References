@@ -23,6 +23,7 @@ void Aspose::Pdf::LogicalStructure::TableCellElement::SetText(System::String tex
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TableCellElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

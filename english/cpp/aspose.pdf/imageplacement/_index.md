@@ -38,5 +38,6 @@ class ImagePlacement : public System::Object
 When an image is placed to a page it may have dimensions other than physical dimensions defined in [Resources](../resources/). The object [ImagePlacement](./) is intended to provide such information like dimensions, resolution and so on. 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

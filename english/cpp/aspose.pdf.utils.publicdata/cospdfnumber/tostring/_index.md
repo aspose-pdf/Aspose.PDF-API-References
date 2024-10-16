@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfnumber/tostring/
 ## CosPdfNumber::ToString method
 
 
-Returns a **System::String** that represents the current [CosPdfNumber](../).
+Returns a [System::String](../../../system/string/) that represents the current [CosPdfNumber](../).
 
 ```cpp
 System::String Aspose::Pdf::Utils::PublicData::CosPdfNumber::ToString() const override
@@ -19,10 +19,11 @@ System::String Aspose::Pdf::Utils::PublicData::CosPdfNumber::ToString() const ov
 
 ### ReturnValue
 
-A **System::String** that represents the current [CosPdfNumber](../).
+A [System::String](../../../system/string/) that represents the current [CosPdfNumber](../).
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CosPdfNumber](../)
 * Namespace [Aspose::Pdf::Utils::PublicData](../../)
 * Library [Aspose.PDF for C++](../../../)

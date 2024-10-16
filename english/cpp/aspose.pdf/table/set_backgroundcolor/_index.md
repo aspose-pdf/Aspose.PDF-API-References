@@ -18,6 +18,7 @@ void Aspose::Pdf::Table::set_BackgroundColor(System::SharedPtr<Color> value)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

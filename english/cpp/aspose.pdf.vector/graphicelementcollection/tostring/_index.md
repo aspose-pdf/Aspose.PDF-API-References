@@ -23,6 +23,7 @@ The string.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [GraphicElementCollection](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

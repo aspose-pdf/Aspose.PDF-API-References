@@ -59,6 +59,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -82,6 +83,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
@@ -107,6 +109,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -131,6 +134,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -154,6 +158,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(int32_t width, int32_t height, Syst
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [TiffDevice](../)
@@ -175,6 +180,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<Aspose::Pdf::Devi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -196,6 +202,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<Aspose::Pdf::Devi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
@@ -221,6 +228,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<Aspose::Pdf::Devi
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -243,6 +251,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -264,6 +273,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [TiffDevice](../)
@@ -287,6 +297,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
@@ -312,6 +323,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [Resolution](../../resolution/)
 * Class [TiffSettings](../../tiffsettings/)
@@ -336,6 +348,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
@@ -359,6 +372,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<PageSize> pageSiz
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -381,6 +395,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<TiffSettings> set
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [TiffDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
@@ -402,6 +417,7 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<TiffSettings> set
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TiffSettings](../../tiffsettings/)
 * Class [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * Class [TiffDevice](../)

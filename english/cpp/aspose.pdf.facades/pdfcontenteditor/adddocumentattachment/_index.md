@@ -27,6 +27,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::Share
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -47,6 +50,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::Strin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

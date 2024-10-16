@@ -18,6 +18,7 @@ System::String Aspose::Pdf::CrashReportOptions::get_CrashReportDirectory() const
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [CrashReportOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

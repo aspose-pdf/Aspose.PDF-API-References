@@ -25,6 +25,7 @@ static void Aspose::Pdf::DocumentExtensions::SplitSharedImages(System::SharedPtr
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../document/)
 * Class [Page](../../page/)
 * Class [DocumentExtensions](../)

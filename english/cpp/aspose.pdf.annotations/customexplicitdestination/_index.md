@@ -20,11 +20,6 @@ class CustomExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDesti
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| static [CreateDestination](../explicitdestination/createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](../explicitdestination/) descendant classes. |
-| [get_Page](../explicitdestination/get_page/)() const | Gets the destination page object. |
-| [get_PageNumber](../explicitdestination/get_pagenumber/)() const | Gets the destination page number. |
 | [ToString](./tostring/)() const override | Converts to page number. |
 ## See Also
 

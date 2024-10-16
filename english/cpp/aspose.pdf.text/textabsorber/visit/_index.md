@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Document> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -43,6 +44,7 @@ virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<Page> page
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -63,6 +65,7 @@ virtual void Aspose::Pdf::Text::TextAbsorber::Visit(System::SharedPtr<XForm> for
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

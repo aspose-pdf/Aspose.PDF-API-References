@@ -18,6 +18,7 @@ System::String Aspose::Pdf::LogicalStructure::TableElement::get_DefaultColumnWid
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TableElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

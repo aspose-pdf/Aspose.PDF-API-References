@@ -27,7 +27,9 @@ A statistics instance.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [ComparisonStatisticsBuilder](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
@@ -52,7 +54,9 @@ A statistics instance.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [ComparisonStatisticsBuilder](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

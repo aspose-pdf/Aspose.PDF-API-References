@@ -24,6 +24,7 @@ virtual void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IllustrationElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,6 +46,7 @@ virtual void Aspose::Pdf::LogicalStructure::IllustrationElement::SetImage(System
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [IllustrationElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -18,6 +18,7 @@ System::SharedPtr<IWarningCallback> Aspose::Pdf::LoadOptions::get_WarningHandler
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IWarningCallback](../../iwarningcallback/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

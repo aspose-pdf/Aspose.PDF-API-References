@@ -24,5 +24,6 @@ class ComparisonStatisticsBuilder : public System::Object
 | static [BuildStatistics](./buildstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>\>\>) | Creates a statistics object for the result of a page comparison of a PDF document. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Comparison](../)
 * Library [Aspose.PDF for C++](../../)

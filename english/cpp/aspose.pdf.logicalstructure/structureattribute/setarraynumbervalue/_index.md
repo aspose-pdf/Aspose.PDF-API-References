@@ -23,6 +23,8 @@ void Aspose::Pdf::LogicalStructure::StructureAttribute::SetArrayNumberValue(Syst
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Nullable](../../../system/nullable/)
 * Class [StructureAttribute](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

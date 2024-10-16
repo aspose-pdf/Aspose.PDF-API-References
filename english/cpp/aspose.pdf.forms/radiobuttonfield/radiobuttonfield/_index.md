@@ -23,6 +23,7 @@ Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(System::SharedPtr<Aspose:
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
@@ -43,6 +44,7 @@ Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(System::SharedPtr<Documen
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

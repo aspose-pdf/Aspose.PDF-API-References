@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::ImagePlacement::get_Page() con
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)

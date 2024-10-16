@@ -41,5 +41,6 @@ class ParagraphAbsorber : public System::Object
 When the search is completed the [ParagraphAbsorber::PageMarkups](../) collection will contains [PageMarkup](../pagemarkup/) objects that represents page structure by collections of [MarkupSection](../markupsection/) and [MarkupParagraph](../markupparagraph/). The [TextFragment](../textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc). 
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

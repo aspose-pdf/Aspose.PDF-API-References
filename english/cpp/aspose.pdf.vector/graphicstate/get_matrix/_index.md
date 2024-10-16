@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Vector::GraphicState::get_Ma
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [GraphicState](../)
 * Namespace [Aspose::Pdf::Vector](../../)

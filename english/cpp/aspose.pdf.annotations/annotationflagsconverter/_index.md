@@ -25,5 +25,6 @@ class AnnotationFlagsConverter : public System::Object
 | static [ToXfdfString](./toxfdfstring/)(AnnotationFlags) |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Annotations](../)
 * Library [Aspose.PDF for C++](../../)

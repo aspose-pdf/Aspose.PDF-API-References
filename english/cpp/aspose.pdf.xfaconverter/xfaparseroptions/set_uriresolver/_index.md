@@ -22,6 +22,7 @@ void Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver(System::Shared
 The URI resolver. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XfaParserOptions](../)
 * Namespace [Aspose::Pdf::XfaConverter](../../)
 * Library [Aspose.PDF for C++](../../../)

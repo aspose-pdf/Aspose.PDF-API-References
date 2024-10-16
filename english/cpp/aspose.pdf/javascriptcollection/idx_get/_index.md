@@ -27,6 +27,7 @@ Javascript collection.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [JavaScriptCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

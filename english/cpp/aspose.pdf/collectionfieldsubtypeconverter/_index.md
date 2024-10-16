@@ -26,5 +26,6 @@ class CollectionFieldSubtypeConverter : public System::Object
 | static [ConvertToFieldType](./converttofieldtype/)(CollectionFieldSubtype) | Converts a CollectionFieldSubtype enumeration value to its corresponding FieldValueType enumeration value. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

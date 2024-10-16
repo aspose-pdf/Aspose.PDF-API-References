@@ -19,6 +19,7 @@ static FileIcon Aspose::Pdf::Annotations::FileIconConverter::ToEnum(System::Stri
 ## See Also
 
 * Enum [FileIcon](../../fileicon/)
+* Class [String](../../../system/string/)
 * Class [FileIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

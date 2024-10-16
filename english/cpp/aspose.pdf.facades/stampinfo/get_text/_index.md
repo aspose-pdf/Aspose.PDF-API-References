@@ -18,6 +18,7 @@ System::String Aspose::Pdf::Facades::StampInfo::get_Text()
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [StampInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

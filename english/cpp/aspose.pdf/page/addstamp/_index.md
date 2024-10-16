@@ -23,6 +23,7 @@ void Aspose::Pdf::Page::AddStamp(System::SharedPtr<Stamp> stamp)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stamp](../../stamp/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

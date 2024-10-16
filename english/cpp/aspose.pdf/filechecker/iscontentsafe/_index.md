@@ -27,6 +27,8 @@ static bool Aspose::Pdf::FileChecker::IsContentSafe(System::SharedPtr<System::IO
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [FileChecker](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

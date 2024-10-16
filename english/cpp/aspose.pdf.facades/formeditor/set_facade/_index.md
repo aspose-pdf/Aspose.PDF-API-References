@@ -18,6 +18,7 @@ void Aspose::Pdf::Facades::FormEditor::set_Facade(System::SharedPtr<FormFieldFac
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FormFieldFacade](../../formfieldfacade/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)

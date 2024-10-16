@@ -37,6 +37,7 @@ Aspose::Pdf::WebHyperlink::WebHyperlink(System::String url)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [WebHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

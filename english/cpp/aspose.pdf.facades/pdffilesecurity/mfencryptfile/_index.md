@@ -30,6 +30,8 @@ True for success.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Enum [KeySize](../../keysize/)
 * Class [PdfFileSecurity](../)
@@ -59,6 +61,8 @@ True for success.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../../documentprivilege/)
 * Enum [KeySize](../../keysize/)
 * Enum [Algorithm](../../algorithm/)

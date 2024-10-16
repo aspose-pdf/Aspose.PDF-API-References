@@ -21,10 +21,7 @@ class ImportDataAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_Data](./get_data/)() | The FDF file from which to import the data. |
-| [get_Next](../pdfaction/get_next/)() | Next actions in sequence. |
-| [GetECMAScriptString](../pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [set_Data](./set_data/)(System::SharedPtr\<FileSpecification\>) | The FDF file from which to import the data. |
-| [ToString](../pdfaction/tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

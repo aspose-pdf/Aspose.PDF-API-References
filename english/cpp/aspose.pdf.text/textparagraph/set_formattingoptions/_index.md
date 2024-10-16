@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextParagraph::set_FormattingOptions(System::SharedPtr<T
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFormattingOptions](../../textformattingoptions/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

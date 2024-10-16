@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::SharedPtr<TextFragment
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -44,6 +45,7 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::SharedPtr<TextFragment
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextState](../../textstate/)
 * Class [TextParagraph](../)
@@ -67,6 +69,7 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::SharedPtr<TextFragment
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../textfragment/)
 * Class [TextState](../../textstate/)
 * Class [TextParagraph](../)
@@ -88,6 +91,7 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::String line)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -108,6 +112,7 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::String line, float lin
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -128,6 +133,8 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::String line, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../textstate/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -150,6 +157,8 @@ void Aspose::Pdf::Text::TextParagraph::AppendLine(System::String line, System::S
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../textstate/)
 * Class [TextParagraph](../)
 * Namespace [Aspose::Pdf::Text](../../)

@@ -56,6 +56,7 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Delete(System::SharedPtr<An
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Annotation](../../annotation/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

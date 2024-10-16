@@ -18,6 +18,7 @@ PdfFileEditor::ConcatenateCorruptedFileAction Aspose::Pdf::Facades::PdfFileEdito
 
 ## See Also
 
+* Enum [ConcatenateCorruptedFileAction](../concatenatecorruptedfileaction/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

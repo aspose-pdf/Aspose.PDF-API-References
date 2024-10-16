@@ -37,6 +37,7 @@ Aspose::Pdf::Comparison::OutputGenerator::PdfOutputGenerator::PdfOutputGenerator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputTextStyle](../../outputtextstyle/)
 * Class [PdfOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -58,6 +59,7 @@ Aspose::Pdf::Comparison::OutputGenerator::PdfOutputGenerator::PdfOutputGenerator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutputTextStyle](../../outputtextstyle/)
 * Class [PageInfo](../../../aspose.pdf/pageinfo/)
 * Class [PdfOutputGenerator](../)
@@ -79,6 +81,7 @@ Aspose::Pdf::Comparison::OutputGenerator::PdfOutputGenerator::PdfOutputGenerator
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageInfo](../../../aspose.pdf/pageinfo/)
 * Class [PdfOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)

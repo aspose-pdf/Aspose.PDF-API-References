@@ -18,6 +18,7 @@ void Aspose::Pdf::TeXLoadOptions::set_OutputDirectory(System::SharedPtr<ITeXOutp
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ITeXOutputDirectory](../../itexoutputdirectory/)
 * Class [TeXLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)

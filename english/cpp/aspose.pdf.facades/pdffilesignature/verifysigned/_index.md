@@ -27,6 +27,7 @@ Return a result of bool type.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

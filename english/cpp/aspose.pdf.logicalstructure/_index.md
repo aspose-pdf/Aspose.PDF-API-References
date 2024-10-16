@@ -87,3 +87,9 @@ url: /cpp/aspose.pdf.logicalstructure/
 | [WarichuElement](./warichuelement/) | Represents Warichu structure element in logical structure. |
 | [WarichuWPElement](./warichuwpelement/) | Represents WP structure element in logical structure of the Warichu. |
 | [WarichuWTElement](./warichuwtelement/) | Represents WT structure element in logical structure of the Warichu. |
+## Functions
+
+| Function | Description |
+| --- | --- |
+| operator!= | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| operator== | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

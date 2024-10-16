@@ -16,6 +16,19 @@ url: /cpp/aspose.pdf/saveoptions/
 class SaveOptions : public virtual System::Object
 ```
 
+## Nested classes
+
+* Class [BorderInfo](./borderinfo/)
+* Class [BorderPartStyle](./borderpartstyle/)
+* Class [MarginInfo](./margininfo/)
+* Class [MarginPartStyle](./marginpartstyle/)
+* Class [ResourceSavingInfo](./resourcesavinginfo/)
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [HtmlBorderLineType](./htmlborderlinetype/) | Represents line types that can be used in result document for drawing borders or another lines. |
+| [NodeLevelResourceType](./nodelevelresourcetype/) | enumerates possible types of saved external resources |
 ## Methods
 
 | Method | Description |
@@ -29,5 +42,6 @@ class SaveOptions : public virtual System::Object
 | [set_WarningHandler](./set_warninghandler/)(System::SharedPtr\<IWarningCallback\>) | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

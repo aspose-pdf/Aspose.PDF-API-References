@@ -31,6 +31,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateCaret(int32_t page, System::D
 
 ## See Also
 
+* Class [Rectangle](../../../system.drawing/rectangle/)
+* Class [String](../../../system/string/)
+* Class [Color](../../../system.drawing/color/)
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

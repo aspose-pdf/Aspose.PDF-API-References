@@ -29,6 +29,8 @@ List of changes by page.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ComparisonOptions](../../comparisonoptions/)
@@ -58,9 +60,12 @@ List of changes by page.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ComparisonOptions](../../comparisonoptions/)
+* Class [String](../../../system/string/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)

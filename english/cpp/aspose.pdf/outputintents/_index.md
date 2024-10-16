@@ -31,5 +31,6 @@ class OutputIntents : public System::Collections::Generic::ICollection<System::S
 | [Remove](./remove/)(const System::SharedPtr\<OutputIntent\>\&) override | Removes the first occurrence of a specific output intent from the collection. |
 ## See Also
 
+* Class [ICollection](../../system.collections.generic/icollection/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

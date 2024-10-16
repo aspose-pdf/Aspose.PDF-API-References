@@ -23,6 +23,7 @@ void Aspose::Pdf::Outlines::Add(const System::SharedPtr<OutlineItemCollection> &
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [Outlines](../)
 * Namespace [Aspose::Pdf](../../)

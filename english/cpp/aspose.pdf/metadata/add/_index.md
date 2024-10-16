@@ -23,6 +23,9 @@ void Aspose::Pdf::Metadata::Add(const System::Collections::Generic::KeyValuePair
 
 ## See Also
 
+* Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
@@ -44,6 +47,9 @@ void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedP
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Object](../../../system/object/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,6 +70,8 @@ void Aspose::Pdf::Metadata::Add(const System::String &key, const System::SharedP
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../xmpvalue/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
@@ -85,6 +93,8 @@ void Aspose::Pdf::Metadata::Add(const System::String &prefix, const System::Shar
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)

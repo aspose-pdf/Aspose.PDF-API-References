@@ -25,6 +25,7 @@ Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [DefaultAppearance](../../defaultappearance/)
@@ -48,6 +49,7 @@ Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedP
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [DefaultAppearance](../../defaultappearance/)
 * Class [FreeTextAnnotation](../)

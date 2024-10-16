@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::Graph::set_GraphInfo(System::SharedPtr<Aspose::Pdf::G
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphInfo](../../../aspose.pdf/graphinfo/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

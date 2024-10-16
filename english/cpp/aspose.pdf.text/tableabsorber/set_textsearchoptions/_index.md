@@ -22,6 +22,7 @@ virtual void Aspose::Pdf::Text::TableAbsorber::set_TextSearchOptions(System::Sha
 Allows to define several options that will be used during search text containing in tables. 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

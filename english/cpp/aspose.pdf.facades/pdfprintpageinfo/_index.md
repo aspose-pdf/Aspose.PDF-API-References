@@ -23,5 +23,6 @@ class PdfPrintPageInfo : public System::Object
 | [get_PageNumber](./get_pagenumber/)() const | Gets currently printed page number;. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Facades](../)
 * Library [Aspose.PDF for C++](../../)

@@ -27,6 +27,9 @@ Multiple frames tiff stream.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

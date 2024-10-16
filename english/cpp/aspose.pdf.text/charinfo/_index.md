@@ -24,5 +24,6 @@ class CharInfo : public System::Object
 | [get_Rectangle](./get_rectangle/)() const | Gets rectangle of the character. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

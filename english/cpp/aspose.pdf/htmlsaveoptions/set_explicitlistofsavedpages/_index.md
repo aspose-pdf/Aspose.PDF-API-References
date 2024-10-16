@@ -18,6 +18,7 @@ void Aspose::Pdf::HtmlSaveOptions::set_ExplicitListOfSavedPages(System::ArrayPtr
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

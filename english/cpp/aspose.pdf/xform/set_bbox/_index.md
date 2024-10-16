@@ -18,6 +18,7 @@ void Aspose::Pdf::XForm::set_BBox(System::SharedPtr<Aspose::Pdf::Rectangle> valu
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../../rectangle/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)

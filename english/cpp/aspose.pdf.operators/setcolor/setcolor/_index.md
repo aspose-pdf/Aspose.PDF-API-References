@@ -99,6 +99,7 @@ Aspose::Pdf::Operators::SetColor::SetColor(System::ArrayPtr<double> color)
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [SetColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

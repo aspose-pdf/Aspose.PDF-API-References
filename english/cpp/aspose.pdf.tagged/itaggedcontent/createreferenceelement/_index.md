@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::ReferenceElement](../../../aspose.pdf.lo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

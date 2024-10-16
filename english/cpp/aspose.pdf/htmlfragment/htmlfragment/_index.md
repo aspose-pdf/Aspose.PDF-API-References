@@ -23,6 +23,7 @@ Aspose::Pdf::HtmlFragment::HtmlFragment(System::String text)
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [HtmlFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

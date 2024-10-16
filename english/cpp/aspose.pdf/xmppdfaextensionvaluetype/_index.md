@@ -23,15 +23,12 @@ class XmpPdfAExtensionValueType : public Aspose::Pdf::XmpPdfAExtensionObject
 | [Add](./add/)(System::SharedPtr\<XmpPdfAExtensionField\>) | Add new field. |
 | [AddRange](./addrange/)(System::ArrayPtr\<System::SharedPtr\<XmpPdfAExtensionField\>\>) | Adds the range of fields. |
 | [Clear](./clear/)() | Clears all fields. |
-| [get_Description](../xmppdfaextensionobject/get_description/)() const | Gets the description. |
 | [get_Fields](./get_fields/)() const | Gets the list of fields. |
 | [get_NamespaceUri](./get_namespaceuri/)() const | Gets the namespace URI. |
 | [get_Prefix](./get_prefix/)() const | Gets the prefix. |
 | [get_Type](./get_type/)() const | Gets the value type. |
-| [get_Value](../xmppdfaextensionobject/get_value/)() const | Gets the value. |
 | [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) override | Returns the list of xml elements that represent value type in xml tree. |
 | [Remove](./remove/)(System::SharedPtr\<XmpPdfAExtensionField\>) | Removes the field from the list of fields. |
-| [set_Value](../xmppdfaextensionobject/set_value/)(System::String) | Sets the value. |
 | [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/)(System::String, System::String, System::String, System::String) | Initializes new object. |
 ## Remarks
 

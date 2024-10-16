@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragment::set_FootNote(System::SharedPtr<Note> value
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Note](../../../aspose.pdf/note/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)

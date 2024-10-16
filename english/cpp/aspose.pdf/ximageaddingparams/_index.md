@@ -16,6 +16,11 @@ url: /cpp/aspose.pdf/ximageaddingparams/
 class XImageAddingParams : public System::Object
 ```
 
+## Enums
+
+| Enum | Description |
+| --- | --- |
+| [ImageType](./imagetype/) |  |
 ## Methods
 
 | Method | Description |
@@ -44,5 +49,6 @@ class XImageAddingParams : public System::Object
 | [XImageAddingParams](./ximageaddingparams/)() |  |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf](../)
 * Library [Aspose.PDF for C++](../../)

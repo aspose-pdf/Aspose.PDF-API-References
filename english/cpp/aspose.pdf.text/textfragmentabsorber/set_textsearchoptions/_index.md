@@ -18,6 +18,7 @@ void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextSearchOptions(System::Shar
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextSearchOptions](../../textsearchoptions/)
 * Class [TextFragmentAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

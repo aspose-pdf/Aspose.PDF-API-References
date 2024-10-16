@@ -18,6 +18,8 @@ const System::ArrayPtr<System::SharedPtr<LevelFormat>> & Aspose::Pdf::TocInfo::g
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LevelFormat](../../levelformat/)
 * Class [TocInfo](../)
 * Namespace [Aspose::Pdf](../../)

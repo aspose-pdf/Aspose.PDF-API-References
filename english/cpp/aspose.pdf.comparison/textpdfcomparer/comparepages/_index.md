@@ -29,6 +29,8 @@ The list of changes.
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [ComparisonOptions](../../comparisonoptions/)

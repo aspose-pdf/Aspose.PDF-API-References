@@ -23,6 +23,7 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<Page> pdfPage)
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../page/)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
@@ -44,6 +45,8 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<System::IO::Stream> st
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,6 +67,7 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::String fileName, int32_t pageInd
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

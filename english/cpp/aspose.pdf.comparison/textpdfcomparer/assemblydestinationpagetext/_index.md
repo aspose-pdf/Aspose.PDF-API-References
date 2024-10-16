@@ -27,6 +27,9 @@ Original text.
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)

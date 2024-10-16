@@ -25,5 +25,6 @@ class StructureAttributes : public System::Object
 | [SetAttribute](./setattribute/)(System::SharedPtr\<StructureAttribute\>) | Sets [StructureAttribute](../structureattribute/) into [StructureAttributes](./). |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

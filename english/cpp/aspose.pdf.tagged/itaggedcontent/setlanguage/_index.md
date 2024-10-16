@@ -29,6 +29,7 @@ A language identifier that shall specify the natural language for all text in th
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)
 * Library [Aspose.PDF for C++](../../../)

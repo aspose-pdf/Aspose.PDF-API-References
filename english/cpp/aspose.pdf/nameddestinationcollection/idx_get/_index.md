@@ -27,7 +27,9 @@ Appoitnemt
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* Class [String](../../../system/string/)
 * Class [NamedDestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

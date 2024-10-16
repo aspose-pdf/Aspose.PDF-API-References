@@ -23,6 +23,9 @@ System::String Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -44,7 +47,10 @@ void Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator::Generate
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,6 +70,9 @@ System::String Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator
 
 ## See Also
 
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
@@ -85,7 +94,10 @@ void Aspose::Pdf::Comparison::OutputGenerator::HtmlDiffOutputGenerator::Generate
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [List](../../../system.collections.generic/list/)
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [String](../../../system/string/)
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison::OutputGenerator](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -23,6 +23,7 @@ virtual void Aspose::Pdf::Text::FontAbsorber::Visit(System::SharedPtr<Document> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [FontAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
@@ -45,6 +46,7 @@ virtual void Aspose::Pdf::Text::FontAbsorber::Visit(System::SharedPtr<Document> 
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [FontAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)

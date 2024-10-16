@@ -23,6 +23,7 @@ void Aspose::Pdf::Annotations::SoundAnnotation::Accept(System::SharedPtr<Annotat
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AnnotationSelector](../../annotationselector/)
 * Class [SoundAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

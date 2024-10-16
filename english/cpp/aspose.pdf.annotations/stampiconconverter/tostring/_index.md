@@ -18,6 +18,7 @@ static System::String Aspose::Pdf::Annotations::StampIconConverter::ToString(Sta
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Enum [StampIcon](../../stampicon/)
 * Class [StampIconConverter](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

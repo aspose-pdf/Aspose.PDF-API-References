@@ -18,6 +18,7 @@ const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Table::get_BreakText(
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * Class [Table](../)
 * Namespace [Aspose::Pdf](../../)

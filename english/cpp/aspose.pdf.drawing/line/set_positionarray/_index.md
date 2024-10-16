@@ -18,6 +18,7 @@ void Aspose::Pdf::Drawing::Line::set_PositionArray(System::ArrayPtr<float> value
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Line](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

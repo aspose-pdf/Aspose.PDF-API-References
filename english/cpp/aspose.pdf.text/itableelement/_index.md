@@ -23,5 +23,6 @@ class ITableElement : public virtual System::Object
 | virtual [get_Rectangle](./get_rectangle/)() | Gets rectangle that describes position of table element on the page. |
 ## See Also
 
+* Class [Object](../../system/object/)
 * Namespace [Aspose::Pdf::Text](../)
 * Library [Aspose.PDF for C++](../../)

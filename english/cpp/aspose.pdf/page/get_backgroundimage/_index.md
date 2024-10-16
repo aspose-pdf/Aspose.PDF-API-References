@@ -18,6 +18,7 @@ System::SharedPtr<Image> Aspose::Pdf::Page::get_BackgroundImage() const
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Image](../../image/)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)

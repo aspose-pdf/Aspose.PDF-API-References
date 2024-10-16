@@ -28,6 +28,7 @@ true if URL for button was successfully set.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

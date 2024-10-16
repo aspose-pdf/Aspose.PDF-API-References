@@ -18,6 +18,7 @@ const System::SharedPtr<Aspose::Pdf::PdfToMarkdown::HeadingLevels> & Aspose::Pdf
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HeadingLevels](../../headinglevels/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf::PdfToMarkdown](../../)

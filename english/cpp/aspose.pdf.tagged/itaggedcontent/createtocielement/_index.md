@@ -27,6 +27,7 @@ Creates [Aspose::Pdf::LogicalStructure::TOCIElement](../../../aspose.pdf.logical
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
 * Class [ITaggedContent](../)
 * Namespace [Aspose::Pdf::Tagged](../../)

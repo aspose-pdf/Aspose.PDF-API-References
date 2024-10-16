@@ -23,6 +23,7 @@ void Aspose::Pdf::Text::FontSourceCollection::Add(const System::SharedPtr<FontSo
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontSource](../../fontsource/)
 * Class [FontSourceCollection](../)
 * Namespace [Aspose::Pdf::Text](../../)

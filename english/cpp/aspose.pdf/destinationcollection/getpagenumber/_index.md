@@ -28,6 +28,7 @@ The page number if destination was found; otherwise, -1.
 
 ## See Also
 
+* Class [String](../../../system/string/)
 * Class [DestinationCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

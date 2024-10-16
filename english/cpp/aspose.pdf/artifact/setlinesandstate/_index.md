@@ -24,6 +24,9 @@ void Aspose::Pdf::Artifact::SetLinesAndState(System::ArrayPtr<System::String> te
 
 ## See Also
 
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../../../aspose.pdf.text/textstate/)
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)

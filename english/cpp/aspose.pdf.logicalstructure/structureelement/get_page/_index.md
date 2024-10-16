@@ -18,6 +18,7 @@ System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::LogicalStructure::StructureEle
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
