@@ -3,7 +3,7 @@ title: Class MobiXmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MobiXmlSaveOptions class. Save options for export to Xml format
 type: docs
-weight: 5340
+weight: 5380
 url: /net/aspose.pdf/mobixmlsaveoptions/
 ---
 ## MobiXmlSaveOptions class

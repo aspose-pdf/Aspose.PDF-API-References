@@ -6,18 +6,19 @@ type: docs
 weight: 350
 url: /net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle) {#addimage}
 
 Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | The stream of the image. |
 | imageRect | Rectangle | The position of the image. |
+| bbox | Rectangle | Bbox of the image. |
 
 ### See Also
 
@@ -28,12 +29,12 @@ public void AddImage(Stream imageStream, Rectangle imageRect)
 
 ---
 
-## AddImage(string, Stream, Rectangle) {#addimage_3}
+## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
 Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
 ```csharp
-public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
+public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
 | Parameter | Type | Description |
@@ -41,6 +42,7 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
 | hocr | String | The hocr of the image. |
 | imageStream | Stream | The stream of the image. |
 | imageRect | Rectangle | The position of the image. |
+| bbox | Rectangle | The bbox of the image. |
 
 ### See Also
 
@@ -51,13 +53,13 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
 
 ---
 
-## AddImage(Stream, Rectangle, int, int, bool) {#addimage_1}
+## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
 Adds image on page and places it depend on image rectangle position.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
-    bool saveImageProportions)
+    bool saveImageProportions, Rectangle bbox = null)
 ```
 
 | Parameter | Type | Description |
@@ -67,6 +69,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 | imageWidth | Int32 | The width of the image. |
 | imageHeight | Int32 | The height of the image. |
 | saveImageProportions | Boolean | If the flag set to true than image placed in rectangle position; otherwise, the size of rectange is becoming equal to image size. |
+| bbox | Rectangle | The bbox of the image. |
 
 ### See Also
 

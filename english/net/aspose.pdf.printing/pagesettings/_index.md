@@ -3,7 +3,7 @@ title: Class PageSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PageSettings class. Specifies settings that apply to a single printed page
 type: docs
-weight: 6930
+weight: 6970
 url: /net/aspose.pdf.printing/pagesettings/
 ---
 ## PageSettings class

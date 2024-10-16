@@ -3,7 +3,7 @@ title: Aspose.Pdf.Operators
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Operators is a namespace for Operator implementations. These classes describes operators used in PDF page contents
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.operators/
 ---
 The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents.

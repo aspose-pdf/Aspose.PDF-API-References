@@ -3,7 +3,7 @@ title: Class HtmlSaveOptions.CssUrlRequestInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo class. Represents set of data that related to request from converter to custom code aimed to get desirable URL or URL templateof subject CSS
 type: docs
-weight: 4010
+weight: 4050
 url: /net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo class

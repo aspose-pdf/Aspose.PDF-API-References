@@ -3,7 +3,7 @@ title: Aspose.Pdf.Utils.PublicData
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.pdf.utils.publicdata/
 ---
 

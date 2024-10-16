@@ -3,7 +3,7 @@ title: Aspose.Pdf.Vector
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Vector is a root namespace for graphics operations
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.pdf.vector/
 ---
 The **Aspose.Pdf.Vector** is a root namespace for graphics operations.

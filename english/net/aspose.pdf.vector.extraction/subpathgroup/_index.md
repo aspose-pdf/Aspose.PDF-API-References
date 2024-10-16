@@ -3,7 +3,7 @@ title: Class SubPathGroup
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.Extraction.SubPathGroup class. Represents a class for a group of graphic element containers. Class objects have a bounding box to account for group size
 type: docs
-weight: 8350
+weight: 8390
 url: /net/aspose.pdf.vector.extraction/subpathgroup/
 ---
 ## SubPathGroup class

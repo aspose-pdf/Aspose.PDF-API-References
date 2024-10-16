@@ -3,7 +3,7 @@ title: Class ImagePlacementCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImagePlacementCollection class. Represents an image placements collection
 type: docs
-weight: 4310
+weight: 4350
 url: /net/aspose.pdf/imageplacementcollection/
 ---
 ## ImagePlacementCollection class

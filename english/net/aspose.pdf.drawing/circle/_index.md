@@ -30,6 +30,12 @@ public sealed class Circle : Shape
 | [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | Gets or sets a float value that indicates the radius of the circle. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/circle/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)

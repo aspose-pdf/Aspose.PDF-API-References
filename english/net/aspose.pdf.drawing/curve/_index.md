@@ -28,6 +28,12 @@ public sealed class Curve : Shape
 | [PositionArray](../../aspose.pdf.drawing/curve/positionarray/) { get; set; } | Gets or sets a float position array. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [CheckBounds](../../aspose.pdf.drawing/curve/checkbounds/)(double, double) |  |
+
 ### See Also
 
 * class [Shape](../shape/)
