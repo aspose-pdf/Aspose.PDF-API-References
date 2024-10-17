@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/
 ## CommonFigureAnnotation::CommonFigureAnnotation constructor
 
 
-Constructor for using in Generator.
+Constructor for using in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::CommonFigureAnnotation::CommonFigureAnnotation(System::SharedPtr<Document> document)

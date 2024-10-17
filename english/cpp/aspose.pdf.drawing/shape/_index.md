@@ -13,13 +13,14 @@ url: /cpp/aspose.pdf.drawing/shape/
 Represents shape - the base graphics object.
 
 ```cpp
-class Shape : public System::Object
+class Shape : public Aspose::Pdf::Generator::IBoundsCheckableItem
 ```
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [get_GraphInfo](./get_graphinfo/)() const | Gets a [GraphInfo](../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
 | [get_Text](./get_text/)() const | Gets a text for shape. |
 | [set_GraphInfo](./set_graphinfo/)(System::SharedPtr\<Aspose::Pdf::GraphInfo\>) | Sets a [GraphInfo](../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
@@ -27,6 +28,6 @@ class Shape : public System::Object
 | [Shape](./shape/)() |  |
 ## See Also
 
-* Class [Object](../../system/object/)
+* Class [IBoundsCheckableItem](../../aspose.pdf.generator/iboundscheckableitem/)
 * Namespace [Aspose::Pdf::Drawing](../)
 * Library [Aspose.PDF for C++](../../)

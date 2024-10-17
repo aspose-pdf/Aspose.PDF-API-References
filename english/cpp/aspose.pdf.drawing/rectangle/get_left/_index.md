@@ -4,7 +4,7 @@ linktitle: get_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::get_Left method. Gets a float value that indicates the left position of the rectangle in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.drawing/rectangle/get_left/
 ---
 ## Rectangle::get_Left method

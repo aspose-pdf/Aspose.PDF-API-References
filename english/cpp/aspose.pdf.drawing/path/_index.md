@@ -20,6 +20,7 @@ class Path : public Aspose::Pdf::Drawing::Shape
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [get_Shapes](./get_shapes/)() const | Gets shapes collection. |
 | [Path](./path/)(System::ArrayPtr\<System::SharedPtr\<Shape\>\>) | Initializes a new instance of the [Path](./) class. |
 | [Path](./path/)() | Initializes a new instance of the [Path](./) class. |

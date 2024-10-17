@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::get_Height method. Gets a float value that indicates the height of the rectangle in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.drawing/rectangle/get_height/
 ---
 ## Rectangle::get_Height method

@@ -4,7 +4,7 @@ linktitle: get_Bottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::get_Bottom method. Gets a float value that indicates the bottom position of the rectangle in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.drawing/rectangle/get_bottom/
 ---
 ## Rectangle::get_Bottom method

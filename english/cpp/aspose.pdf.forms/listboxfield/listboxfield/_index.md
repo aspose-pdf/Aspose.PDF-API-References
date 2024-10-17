@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/listboxfield/listboxfield/
 ## ListBoxField::ListBoxField() constructor
 
 
-Constructor for [ListBoxField](../) to be used in Generator.
+Constructor for [ListBoxField](../) to be used in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Forms::ListBoxField::ListBoxField()

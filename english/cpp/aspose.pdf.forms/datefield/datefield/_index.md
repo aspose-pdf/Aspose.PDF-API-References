@@ -47,7 +47,7 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Aspose::Pdf::Page> pa
 ## DateField::DateField(System::SharedPtr\<Document\>) constructor
 
 
-Constructor which should be used with Generator.
+Constructor which should be used with [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc)

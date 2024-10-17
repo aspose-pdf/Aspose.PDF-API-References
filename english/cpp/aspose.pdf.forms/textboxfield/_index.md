@@ -36,7 +36,7 @@ class TextBoxField : public Aspose::Pdf::Forms::Field
 | [set_SpellCheck](./set_spellcheck/)(bool) | Sets spellcheck flag for field. If true field shall be spell checked. |
 | [set_TextVerticalAlignment](./set_textverticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets text vertical alignment for annotation. |
 | [set_Value](./set_value/)(System::String) override | Sets value of the field. |
-| [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>) | Constructor which should be used with Generator. |
+| [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>) | Constructor which should be used with [Generator](../../aspose.pdf.generator/). |
 | [TextBoxField](./textboxfield/)() | Create instance of [TextBoxField](./). |
 | [TextBoxField](./textboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |
 | [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |

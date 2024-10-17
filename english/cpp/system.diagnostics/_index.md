@@ -4,7 +4,7 @@ linktitle: System::Diagnostics
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Diagnostics namespace in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/system.diagnostics/
 ---
 

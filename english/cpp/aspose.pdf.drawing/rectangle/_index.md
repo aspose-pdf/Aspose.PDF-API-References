@@ -20,6 +20,7 @@ class Rectangle : public Aspose::Pdf::Drawing::Shape
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [get_Bottom](./get_bottom/)() const | Gets a float value that indicates the bottom position of the rectangle. |
 | [get_Height](./get_height/)() const | Gets a float value that indicates the height of the rectangle. |
 | [get_Left](./get_left/)() const | Gets a float value that indicates the left position of the rectangle. |

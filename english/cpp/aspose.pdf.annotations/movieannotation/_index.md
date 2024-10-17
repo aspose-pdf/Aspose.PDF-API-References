@@ -28,7 +28,7 @@ class MovieAnnotation : public Aspose::Pdf::Annotations::Annotation,
 | [get_Poster](./get_poster/)() | Gets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed. |
 | [get_Rotate](./get_rotate/)() | Gets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90. |
 | [get_Title](./get_title/)() override | Gets the title of the movie annotation. |
-| [MovieAnnotation](./movieannotation/)(System::SharedPtr\<Document\>, System::String) | Constructor for using with Generator. |
+| [MovieAnnotation](./movieannotation/)(System::SharedPtr\<Document\>, System::String) | Constructor for using with [Generator](../../aspose.pdf.generator/). |
 | [MovieAnnotation](./movieannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::String) | Creates new Sound annotation on the specified page. |
 | [set_Aspect](./set_aspect/)(System::SharedPtr\<Point\>) | Sets the width and height of the movie's bounding box, in pixels. |
 | [set_File](./set_file/)(System::SharedPtr\<FileSpecification\>) | Sets a file specification identifying a self-describing movie file. |

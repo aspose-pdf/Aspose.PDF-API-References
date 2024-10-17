@@ -35,7 +35,7 @@ Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedP
 ## FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr\<Document\>, System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>) constructor
 
 
-Constructor to use with Generator.
+Constructor to use with [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr<Document> document, System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> appearance)

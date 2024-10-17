@@ -31,7 +31,7 @@ class RedactionAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_Repeat](./get_repeat/)() | If true overlay text will be repated on the annotation. |
 | [get_TextAlignment](./get_textalignment/)() | Gets. Alignment of Overlay [Text](../../aspose.pdf.text/). |
 | [Redact](./redact/)() | Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation) |
-| [RedactionAnnotation](./redactionannotation/)(System::SharedPtr\<Document\>) | Constructor for [RedactionAnnotation](./). For using in Generator. |
+| [RedactionAnnotation](./redactionannotation/)(System::SharedPtr\<Document\>) | Constructor for [RedactionAnnotation](./). For using in [Generator](../../aspose.pdf.generator/). |
 | [RedactionAnnotation](./redactionannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor for RedactAnnotation. |
 | [set_BorderColor](./set_bordercolor/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets color of border which is drawn when redaction is not active. |
 | [set_DefaultAppearance](./set_defaultappearance/)(System::String) | Sets the default appearance string to be used in formatting the text. |

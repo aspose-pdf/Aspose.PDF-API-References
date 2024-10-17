@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Rectangle::set_Height method. Sets a float value that indicates the height of the rectangle in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.drawing/rectangle/set_height/
 ---
 ## Rectangle::set_Height method

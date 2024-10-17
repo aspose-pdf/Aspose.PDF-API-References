@@ -21,6 +21,7 @@ class Arc : public Aspose::Pdf::Drawing::Shape
 | Method | Description |
 | --- | --- |
 | [Arc](./arc/)(float, float, float, float, float) | Initializes a new instance of the [Arc](./) class. |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [get_Alpha](./get_alpha/)() const | Gets a float value that indicates the beginning angle degree of the arc. |
 | [get_Beta](./get_beta/)() const | Gets a float value that indicates the ending angle degree of the arc. |
 | [get_PosX](./get_posx/)() const | Gets a float value that indicates the x-coordinate of the center of the arc. |

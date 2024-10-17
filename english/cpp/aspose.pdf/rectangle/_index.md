@@ -22,7 +22,7 @@ class Rectangle : public System::ICloneable
 | --- | --- |
 | [Center](./center/)() | Returncs coordinates of center of the rectangle. |
 | [Clone](./clone/)() override | Clones the [Rectangle](./) object. |
-| [Contains](./contains/)(System::SharedPtr\<Point\>) | Determinces whether given point is inside of the rectangle. |
+| [Contains](./contains/)(System::SharedPtr\<Point\>, bool) | Determinces whether given point is inside of the rectangle. |
 | [ContainsLine](./containsline/)(double, double, double, double) | Determines whether the rectangle contains a line represented by two points. |
 | [ContainsPoint](./containspoint/)(double, double) | Determines whether the given point is contained within the rectangle. |
 | [Equals](./equals/)(System::SharedPtr\<Rectangle\>) | Check if rectangles are equal i.e. have same position and sizes. |

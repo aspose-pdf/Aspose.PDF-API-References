@@ -24,7 +24,7 @@ class HtmlLoadOptions : public Aspose::Pdf::LoadOptions
 | [get_HtmlMediaType](./get_htmlmediatype/)() const | Gets possible media types used during rendering. |
 | [get_InputEncoding](./get_inputencoding/)() const | Gets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
 | [get_IsEmbedFonts](./get_isembedfonts/)() const | Gets fonts embedding to result document. |
-| [get_IsPriorityCssPageRule](./get_isprioritycsspagerule/)() const | Gets the flag that specifies that page rules defined in css will override values defined in [PageInfo](../pageinfo/). |
+| [get_IsPriorityCssPageRule](./get_isprioritycsspagerule/)() const |  |
 | [get_IsRenderToSinglePage](./get_isrendertosinglepage/)() const | Gets rendering all document to single page. |
 | [get_PageInfo](./get_pageinfo/)() const | Gets document page info. |
 | [get_PageLayoutOption](./get_pagelayoutoption/)() const | Gets layout option. |
@@ -33,7 +33,7 @@ class HtmlLoadOptions : public Aspose::Pdf::LoadOptions
 | [set_HtmlMediaType](./set_htmlmediatype/)(Aspose::Pdf::HtmlMediaType) | Sets possible media types used during rendering. |
 | [set_InputEncoding](./set_inputencoding/)(System::String) | Sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
 | [set_IsEmbedFonts](./set_isembedfonts/)(bool) | Sets fonts embedding to result document. |
-| [set_IsPriorityCssPageRule](./set_isprioritycsspagerule/)(bool) | Sets the flag that specifies that page rules defined in css will override values defined in [PageInfo](../pageinfo/). |
+| [set_IsPriorityCssPageRule](./set_isprioritycsspagerule/)(bool) |  |
 | [set_IsRenderToSinglePage](./set_isrendertosinglepage/)(bool) | Sets rendering all document to single page. |
 | [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets document page info. |
 | [set_PageLayoutOption](./set_pagelayoutoption/)(HtmlPageLayoutOption) | Sets layout option. |

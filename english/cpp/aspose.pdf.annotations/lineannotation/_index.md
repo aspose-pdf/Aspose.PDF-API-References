@@ -36,7 +36,7 @@ class LineAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_ShowCaption](./get_showcaption/)() | Gets boolean flag which determinies is contents must be shown as caption. |
 | [get_Starting](./get_starting/)() | Gets starting point of line. |
 | [get_StartingStyle](./get_startingstyle/)() | Gets line ending style for line starting point. |
-| [LineAnnotation](./lineannotation/)(System::SharedPtr\<Document\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Constructor for using with Generator. |
+| [LineAnnotation](./lineannotation/)(System::SharedPtr\<Document\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Constructor for using with [Generator](../../aspose.pdf.generator/). |
 | [LineAnnotation](./lineannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Creates new Line annotation on the specified page. |
 | [set_CaptionOffset](./set_captionoffset/)(System::SharedPtr\<Point\>) | Sets caption text offset from its normal position. |
 | [set_CaptionPosition](./set_captionposition/)(Aspose::Pdf::Annotations::CaptionPosition) | Sets annotation caption position. |

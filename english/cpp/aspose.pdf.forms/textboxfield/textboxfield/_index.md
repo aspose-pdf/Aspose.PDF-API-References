@@ -47,7 +47,7 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Pa
 ## TextBoxField::TextBoxField(System::SharedPtr\<Document\>) constructor
 
 
-Constructor which should be used with Generator.
+Constructor which should be used with [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc)

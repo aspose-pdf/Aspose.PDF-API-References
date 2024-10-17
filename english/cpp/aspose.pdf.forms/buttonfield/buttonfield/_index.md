@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/buttonfield/
 ## ButtonField::ButtonField() constructor
 
 
-Button field constructor for Generator.
+Button field constructor for [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Forms::ButtonField::ButtonField()

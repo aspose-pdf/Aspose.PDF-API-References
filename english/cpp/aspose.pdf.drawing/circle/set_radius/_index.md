@@ -4,7 +4,7 @@ linktitle: set_Radius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Circle::set_Radius method. Sets a float value that indicates the radius of the circle in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.drawing/circle/set_radius/
 ---
 ## Circle::set_Radius method

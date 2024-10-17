@@ -33,7 +33,7 @@ Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Asp
 ## PopupAnnotation::PopupAnnotation(System::SharedPtr\<Document\>) constructor
 
 
-Constructor. for using in Generator.
+Constructor. for using in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Document> document)
