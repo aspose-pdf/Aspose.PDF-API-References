@@ -4,7 +4,7 @@ linktitle: set_GraphInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Shape::set_GraphInfo method. Sets a GraphInfo object that indicates the graph info,such as color, line width,etc in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.drawing/shape/set_graphinfo/
 ---
 ## Shape::set_GraphInfo method

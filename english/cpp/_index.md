@@ -26,6 +26,7 @@ is_root: true
 | [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) |  |
 | [Aspose::Pdf::Facades](./aspose.pdf.facades/) |  |
 | [Aspose::Pdf::Forms](./aspose.pdf.forms/) |  |
+| [Aspose::Pdf::Generator](./aspose.pdf.generator/) |  |
 | [Aspose::Pdf::GroupProcessor](./aspose.pdf.groupprocessor/) |  |
 | [Aspose::Pdf::GroupProcessor::Creators](./aspose.pdf.groupprocessor.creators/) |  |
 | [Aspose::Pdf::LogicalStructure](./aspose.pdf.logicalstructure/) |  |

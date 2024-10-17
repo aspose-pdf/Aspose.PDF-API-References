@@ -21,6 +21,7 @@ class RgbToDeviceGrayConversionStrategy : public Aspose::Pdf::IColorSpaceConvers
 | Method | Description |
 | --- | --- |
 | [Convert](./convert/)(System::SharedPtr\<Page\>) override | Converts the page of document. |
+| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/)() |  |
 ## See Also
 
 * Class [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)

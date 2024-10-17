@@ -33,7 +33,7 @@ Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Asp
 ## CaretAnnotation::CaretAnnotation(System::SharedPtr\<Document\>) constructor
 
 
-Constructor for usign in Generator.
+Constructor for usign in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Document> document)

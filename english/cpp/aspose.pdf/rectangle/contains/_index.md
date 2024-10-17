@@ -13,17 +13,18 @@ url: /cpp/aspose.pdf/rectangle/contains/
 Determinces whether given point is inside of the rectangle.
 
 ```cpp
-bool Aspose::Pdf::Rectangle::Contains(System::SharedPtr<Point> point)
+bool Aspose::Pdf::Rectangle::Contains(System::SharedPtr<Point> point, bool inclusive=false)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | point | System::SharedPtr\<Point\> | [Point](../../point/) to check. |
+| inclusive | bool | inclusive: point may be on edge |
 
 ### ReturnValue
 
-True if point is inside of the recatngle.
+True if point is inside of the rectangle.
 
 ## See Also
 

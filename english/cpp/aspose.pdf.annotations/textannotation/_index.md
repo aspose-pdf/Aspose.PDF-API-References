@@ -27,7 +27,7 @@ class TextAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_Open](./get_open/)() | Gets a flag specifying whether the annotation should initially be displayed open. |
 | [set_Icon](./set_icon/)(TextIcon) | Sets an icon to be used in displaying the annotation. |
 | [set_Open](./set_open/)(bool) | Sets a flag specifying whether the annotation should initially be displayed open. |
-| [TextAnnotation](./textannotation/)(System::SharedPtr\<Document\>) | Constructor for annotation when used in Generator. |
+| [TextAnnotation](./textannotation/)(System::SharedPtr\<Document\>) | Constructor for annotation when used in [Generator](../../aspose.pdf.generator/). |
 | [TextAnnotation](./textannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new [Text](../../aspose.pdf.text/) annotation on the specified page. |
 ## See Also
 

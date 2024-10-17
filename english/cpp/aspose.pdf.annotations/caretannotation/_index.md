@@ -21,7 +21,7 @@ class CaretAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
-| [CaretAnnotation](./caretannotation/)(System::SharedPtr\<Document\>) | Constructor for usign in Generator. |
+| [CaretAnnotation](./caretannotation/)(System::SharedPtr\<Document\>) | Constructor for usign in [Generator](../../aspose.pdf.generator/). |
 | [CaretAnnotation](./caretannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new Caret annotation on the specified page. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Frame](./get_frame/)() | Gets caret rectangle. |

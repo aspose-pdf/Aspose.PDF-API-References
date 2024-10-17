@@ -4,7 +4,7 @@ linktitle: get_Radius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::get_Radius method. Gets a float value that indicates the radius of the arc in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.drawing/arc/get_radius/
 ---
 ## Arc::get_Radius method

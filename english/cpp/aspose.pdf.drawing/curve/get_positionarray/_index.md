@@ -4,7 +4,7 @@ linktitle: get_PositionArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Curve::get_PositionArray method. Gets a float position array in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.drawing/curve/get_positionarray/
 ---
 ## Curve::get_PositionArray method

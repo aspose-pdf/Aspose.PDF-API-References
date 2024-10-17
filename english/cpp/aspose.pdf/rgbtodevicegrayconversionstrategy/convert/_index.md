@@ -4,7 +4,7 @@ linktitle: Convert
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RgbToDeviceGrayConversionStrategy::Convert method. Converts the page of document in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 ---
 ## RgbToDeviceGrayConversionStrategy::Convert method

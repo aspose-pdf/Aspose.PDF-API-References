@@ -36,7 +36,7 @@ Aspose::Pdf::Annotations::LineAnnotation::LineAnnotation(System::SharedPtr<Aspos
 ## LineAnnotation::LineAnnotation(System::SharedPtr\<Document\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) constructor
 
 
-Constructor for using with Generator.
+Constructor for using with [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::LineAnnotation::LineAnnotation(System::SharedPtr<Document> document, System::SharedPtr<Point> start, System::SharedPtr<Point> end)

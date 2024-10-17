@@ -33,7 +33,7 @@ Aspose::Pdf::Annotations::SquareAnnotation::SquareAnnotation(System::SharedPtr<A
 ## SquareAnnotation::SquareAnnotation(System::SharedPtr\<Document\>) constructor
 
 
-Constructor for using with Generator.
+Constructor for using with [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::SquareAnnotation::SquareAnnotation(System::SharedPtr<Document> document)

@@ -21,7 +21,7 @@ class ListBoxField : public Aspose::Pdf::Forms::ChoiceField
 | Method | Description |
 | --- | --- |
 | [get_TopIndex](./get_topindex/)() | Gets index of the top visible element of the list. |
-| [ListBoxField](./listboxfield/)() | Constructor for [ListBoxField](./) to be used in Generator. |
+| [ListBoxField](./listboxfield/)() | Constructor for [ListBoxField](./) to be used in [Generator](../../aspose.pdf.generator/). |
 | [ListBoxField](./listboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new ListBox field. |
 | [ListBoxField](./listboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor for ListBox field. |
 | [set_Selected](./set_selected/)(int32_t) override | Sets index of the selected item. Items are numbered from 1. |

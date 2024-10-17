@@ -33,7 +33,7 @@ Aspose::Pdf::Annotations::RedactionAnnotation::RedactionAnnotation(System::Share
 ## RedactionAnnotation::RedactionAnnotation(System::SharedPtr\<Document\>) constructor
 
 
-Constructor for [RedactionAnnotation](../). For using in Generator.
+Constructor for [RedactionAnnotation](../). For using in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Annotations::RedactionAnnotation::RedactionAnnotation(System::SharedPtr<Document> document)

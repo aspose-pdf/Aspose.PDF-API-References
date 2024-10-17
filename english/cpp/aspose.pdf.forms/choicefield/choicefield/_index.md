@@ -33,7 +33,7 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Aspose::Pdf::Page
 ## ChoiceField::ChoiceField(System::SharedPtr\<Document\>) constructor
 
 
-Creates choice field (for Generator)
+Creates choice field (for [Generator](../../../aspose.pdf.generator/))
 
 ```cpp
 Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc)

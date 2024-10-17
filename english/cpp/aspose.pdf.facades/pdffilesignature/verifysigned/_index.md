@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::PdfFileSignature::VerifySigned method
 linktitle: VerifySigned
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySigned method. Checks the validity of a signature in C++.'
+description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySigned method. Checks the validity of a signature. The method is deprecated and will be deleted in 25.1 version. Use VerifySignature method instead in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.pdf.facades/pdffilesignature/verifysigned/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/verifysigned/
 ## PdfFileSignature::VerifySigned method
 
 
-Checks the validity of a signature.
+Checks the validity of a signature. The method is deprecated and will be deleted in 25.1 version. Use [VerifySignature](../verifysignature/) method instead.
 
 ```cpp
 bool Aspose::Pdf::Facades::PdfFileSignature::VerifySigned(System::String signName)
@@ -24,6 +24,9 @@ bool Aspose::Pdf::Facades::PdfFileSignature::VerifySigned(System::String signNam
 ### ReturnValue
 
 Return a result of bool type.
+
+## Deprecated
+The method is deprecated and will be deleted in 25.1 version. Use VerifySignature method instead. 
 
 ## See Also
 

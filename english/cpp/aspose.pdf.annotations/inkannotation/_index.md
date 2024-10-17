@@ -25,7 +25,7 @@ class InkAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_CapStyle](./get_capstyle/)() | Style of ink annotation line endings. |
 | [get_InkList](./get_inklist/)() | Gets list of gestures that are independent lines which are represented by [Point](../../aspose.pdf/point/)[] arrays. |
-| [InkAnnotation](./inkannotation/)(System::SharedPtr\<Document\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) | Constructor for Ink annotation for Generator. |
+| [InkAnnotation](./inkannotation/)(System::SharedPtr\<Document\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) | Constructor for Ink annotation for [Generator](../../aspose.pdf.generator/). |
 | [InkAnnotation](./inkannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) | Creates new Ink annotation on the specified page. |
 | [set_CapStyle](./set_capstyle/)(Aspose::Pdf::Annotations::CapStyle) | Style of ink annotation line endings. |
 | [set_InkList](./set_inklist/)(System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) | Sets list of gestures that are independent lines which are represented by [Point](../../aspose.pdf/point/)[] arrays. |

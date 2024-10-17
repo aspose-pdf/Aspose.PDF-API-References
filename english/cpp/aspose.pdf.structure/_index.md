@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Structure
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Structure namespace in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf.structure/
 ---
 

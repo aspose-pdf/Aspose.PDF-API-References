@@ -4,7 +4,7 @@ linktitle: System::Xml::Resolvers
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Xml::Resolvers namespace in C++.'
 type: docs
-weight: 8300
+weight: 8400
 url: /cpp/system.xml.resolvers/
 ---
 

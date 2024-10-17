@@ -20,6 +20,7 @@ class Line : public Aspose::Pdf::Drawing::Shape
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [get_PositionArray](./get_positionarray/)() const | Gets a [PositionArray](../) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
 | [Line](./line/)(System::ArrayPtr\<float\>) | Initializes a new instance of the [Line](./) class. |
 | [set_PositionArray](./set_positionarray/)(System::ArrayPtr\<float\>) | Sets a [PositionArray](../) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |

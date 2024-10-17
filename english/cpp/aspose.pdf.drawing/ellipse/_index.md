@@ -20,6 +20,7 @@ class Ellipse : public Aspose::Pdf::Drawing::Shape
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [Ellipse](./ellipse/)(double, double, double, double) | Initializes a new instance of the [Ellipse](./) class. |
 | [get_Bottom](./get_bottom/)() const | Gets a float value that indicates the bottom position of the ellipse. |
 | [get_Height](./get_height/)() const | Gets a float value that indicates the height of the ellipse. |

@@ -20,6 +20,7 @@ class Circle : public Aspose::Pdf::Drawing::Shape
 
 | Method | Description |
 | --- | --- |
+| [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
 | [Circle](./circle/)(float, float, float) | Initializes a new instance of the [Circle](./) class. |
 | [get_PosX](./get_posx/)() const | Gets a float value that indicates the x-coordinate of the center of the circle. |
 | [get_PosY](./get_posy/)() const | Gets a float value that indicates the y-coordinate of the center of the circle. |

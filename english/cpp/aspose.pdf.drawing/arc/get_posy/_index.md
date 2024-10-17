@@ -4,7 +4,7 @@ linktitle: get_PosY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::get_PosY method. Gets a float value that indicates the y-coordinate of the center of the arc in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.drawing/arc/get_posy/
 ---
 ## Arc::get_PosY method

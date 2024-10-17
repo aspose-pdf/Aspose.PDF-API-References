@@ -21,7 +21,7 @@ class ButtonField : public Aspose::Pdf::Forms::Field
 | Method | Description |
 | --- | --- |
 | [AddImage](./addimage/)(System::SharedPtr\<System::Drawing::Image\>) | Adds image into the field resources and draws it. |
-| [ButtonField](./buttonfield/)() | Button field constructor for Generator. |
+| [ButtonField](./buttonfield/)() | Button field constructor for [Generator](../../aspose.pdf.generator/). |
 | [ButtonField](./buttonfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | [ButtonField](./) constructor. |
 | [ButtonField](./buttonfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | [ButtonField](./) constructore. |
 | [get_AlternateCaption](./get_alternatecaption/)() | Gets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area. |

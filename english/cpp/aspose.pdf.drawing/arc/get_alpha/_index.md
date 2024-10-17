@@ -4,7 +4,7 @@ linktitle: get_Alpha
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::get_Alpha method. Gets a float value that indicates the beginning angle degree of the arc in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.drawing/arc/get_alpha/
 ---
 ## Arc::get_Alpha method

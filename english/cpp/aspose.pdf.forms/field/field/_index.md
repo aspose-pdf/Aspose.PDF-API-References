@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/field/field/
 ## Field::Field constructor
 
 
-Creates field for use in Generator.
+Creates field for use in [Generator](../../../aspose.pdf.generator/).
 
 ```cpp
 Aspose::Pdf::Forms::Field::Field(System::SharedPtr<Document> doc)

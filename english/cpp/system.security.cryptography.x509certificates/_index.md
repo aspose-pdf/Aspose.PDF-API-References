@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography::X509Certificates
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Cryptography::X509Certificates namespace in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/system.security.cryptography.x509certificates/
 ---
 
