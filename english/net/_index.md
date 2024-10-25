@@ -12,6 +12,7 @@ is_root: true
 | Namespace | Description |
 | --- | --- |
 | [Aspose.Pdf](./aspose.pdf/) | The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces. |
+| [Aspose.Pdf.AI](./aspose.pdf.ai) | The **Aspose.Pdf.AI** is a namespace for classes for support of AI-assistants. |
 | [Aspose.Pdf.Annotations](./aspose.pdf.annotations/) | The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose.Pdf.Comparison](./aspose.pdf.comparison/) |  |
 | [Aspose.Pdf.Comparison.Diff](./aspose.pdf.comparison.diff/) |  |
