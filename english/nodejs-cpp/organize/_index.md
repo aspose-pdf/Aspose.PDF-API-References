@@ -38,6 +38,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfDeleteHiddenText](./asposepdfdeletehiddentext/) | Delete hidden text from a PDF-file. |
 | [AsposePdfAddWatermark](./asposepdfaddwatermark/) | Add watermark to a PDF-file. |
 | [AsposePdfDeleteWatermarks](./asposepdfdeletewatermarks/) | Delete watermarks from a PDF-file. |
+| [AsposePdfMergeLayers](./asposepdfmergelayers/) | Merge layers a PDF-file. |
 
 
 ## Detailed Description

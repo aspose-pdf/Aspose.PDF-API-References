@@ -83,6 +83,7 @@ is_root: true
 | [AsposePdfDeleteHiddenText](./organize/asposepdfdeletehiddentext/) | Delete hidden text from a PDF-file. |
 | [AsposePdfAddWatermark](./organize/asposepdfaddwatermark/) | Add watermark to a PDF-file. |
 | [AsposePdfDeleteWatermarks](./organize/asposepdfdeletewatermarks/) | Delete watermarks from a PDF-file. |
+| [AsposePdfMergeLayers](./organize/asposepdfmergelayers/) | Merge layers a PDF-file. |
 
 
 ## Metadata PDF functions
@@ -94,6 +95,7 @@ is_root: true
 | [AsposePdfGetAllFonts](./metadata/asposepdfgetallfonts/) | Get list fonts from a PDF-file. |
 | [AsposePdfRemoveMetadata](./metadata/asposepdfremovemetadata/) | Remove metadata from a PDF-file. |
 | [AsposePdfGetWordsCharactersCount](./metadata/asposepdfgetwordscharacterscount/) | Get words and characters count in a PDF-file. |
+| [AsposePdfGetPagesLayers](./metadata/asposepdfgetpageslayers/) | Get list layers from a PDF-file. |
 
 
 ## Security PDF functions
