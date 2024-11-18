@@ -4,7 +4,7 @@ linktitle: Merge
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Merge method. Merges documents in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/aspose.pdf/document/merge/
 ---
 ## Document::Merge(const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) method

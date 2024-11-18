@@ -4,7 +4,7 @@ linktitle: RemoveFontsStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::RemoveFontsStrategy enum. Some documens have large size after converison into PDF/A format. To reduce file size for these documents it''s necessary to define a strategy of fonts removing. This enumeration declares a strategies which can be used to optimize fonts usage. Every strategy from this enumeration has sense only when flag OptimizeFileSize is set in C++.'
 type: docs
-weight: 4000
+weight: 3900
 url: /cpp/aspose.pdf/pdfformatconversionoptions/removefontsstrategy/
 ---
 ## RemoveFontsStrategy enum

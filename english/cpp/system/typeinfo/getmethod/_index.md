@@ -4,7 +4,7 @@ linktitle: GetMethod
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetMethod method. Gets method with specified name in C++.'
 type: docs
-weight: 3700
+weight: 3900
 url: /cpp/system/typeinfo/getmethod/
 ---
 ## TypeInfo::GetMethod method

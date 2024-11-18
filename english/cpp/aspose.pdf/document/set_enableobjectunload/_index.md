@@ -4,7 +4,7 @@ linktitle: set_EnableObjectUnload
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_EnableObjectUnload method. Get or sets flag which enables document partially be unloaded from memory. This allow to decrease memory usage but may have negative effect on perfomance in C++.'
 type: docs
-weight: 9200
+weight: 9300
 url: /cpp/aspose.pdf/document/set_enableobjectunload/
 ---
 ## Document::set_EnableObjectUnload method

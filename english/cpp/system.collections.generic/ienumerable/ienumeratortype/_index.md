@@ -4,7 +4,7 @@ linktitle: IEnumeratorType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::IEnumeratorType typedef. RTTI information in C++.'
 type: docs
-weight: 3100
+weight: 3700
 url: /cpp/system.collections.generic/ienumerable/ienumeratortype/
 ---
 ## IEnumeratorType typedef

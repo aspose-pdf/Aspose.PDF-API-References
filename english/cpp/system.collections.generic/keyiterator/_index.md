@@ -4,7 +4,7 @@ linktitle: KeyIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::KeyIterator class. Dictionary iterator that provides key access in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.collections.generic/keyiterator/
 ---
 ## KeyIterator class

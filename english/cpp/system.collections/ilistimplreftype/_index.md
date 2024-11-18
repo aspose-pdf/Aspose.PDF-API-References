@@ -4,7 +4,7 @@ linktitle: IListImplRefType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::IListImplRefType class. Stub that implements System::Collections::IList interface on System::Collections::Generic::List object Implementation for reference types in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections/ilistimplreftype/
 ---
 ## IListImplRefType class

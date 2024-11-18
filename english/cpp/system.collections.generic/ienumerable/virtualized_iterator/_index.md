@@ -4,7 +4,7 @@ linktitle: virtualized_iterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::virtualized_iterator typedef. Inner iterator base type in C++.'
 type: docs
-weight: 3400
+weight: 4000
 url: /cpp/system.collections.generic/ienumerable/virtualized_iterator/
 ---
 ## virtualized_iterator typedef

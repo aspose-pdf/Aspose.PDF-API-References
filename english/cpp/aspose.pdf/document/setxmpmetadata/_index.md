@@ -4,7 +4,7 @@ linktitle: SetXmpMetadata
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::SetXmpMetadata method. Set XMP metadata of document in C++.'
 type: docs
-weight: 11100
+weight: 11200
 url: /cpp/aspose.pdf/document/setxmpmetadata/
 ---
 ## Document::SetXmpMetadata method

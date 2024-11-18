@@ -4,7 +4,7 @@ linktitle: System::Data
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Data namespace in C++.'
 type: docs
-weight: 3900
+weight: 4100
 url: /cpp/system.data/
 ---
 

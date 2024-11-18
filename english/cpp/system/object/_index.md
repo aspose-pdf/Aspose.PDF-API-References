@@ -4,7 +4,7 @@ linktitle: Object
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Object class. Base class that enables using methods available for System.Object class in C#. All non-trivial classes used with translated environment should inherit it in C++.'
 type: docs
-weight: 4600
+weight: 4800
 url: /cpp/system/object/
 ---
 ## Object class

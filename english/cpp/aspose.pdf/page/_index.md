@@ -27,7 +27,7 @@ class Page : public System::IDisposable,
 | [Accept](./accept/)(System::SharedPtr\<ImagePlacementAbsorber\>) | Accepts [ImagePlacementAbsorber](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
 | [Accept](./accept/)(System::SharedPtr\<Text::TextAbsorber\>) | Accepts **TextAbsorber** visitor object that provides functionality to work with text objects. |
 | [AddGraphics](./addgraphics/)(System::SharedPtr\<Vector::GraphicElementCollection\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds graphics to the page. Works faster than adding elements one by one with [GraphicElement::AddOnPage(Page)](../) method. |
-| [AddImage](./addimage/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [AddImage](./addimage/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, bool) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](./addimage/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](./addimage/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, int32_t, int32_t, bool, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds image on page and places it depend on image rectangle position. |
 | [AddImage](./addimage/)(System::String, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
@@ -107,11 +107,6 @@ class Page : public System::IDisposable,
 | [set_Watermark](./set_watermark/)(System::SharedPtr\<Aspose::Pdf::Watermark\>) | Sets the watermark of the page. |
 | [SetPageSize](./setpagesize/)(double, double) | Sets page size for page. |
 | [TrySaveVectorGraphics](./trysavevectorgraphics/)(System::String) | Tries to save vector graphics if they are present on the page. The save format is SVG. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [OnBeforePageGenerate](./onbeforepagegenerate/) | Event for customize header and footer. |
 ## Typedefs
 
 | Typedef | Description |

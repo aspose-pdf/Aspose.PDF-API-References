@@ -4,7 +4,7 @@ linktitle: _net_binnary_search
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::_net_binnary_search method. Implements binary search in random access container. Specialization for smart pointers. Uses System::Object::CompareTo method in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system.collections.generic/_net_binnary_search/
 ---
 ## System::Collections::Generic::_net_binnary_search(const containterT\<T, Allocator\>\&, int, int, T) method
@@ -122,7 +122,7 @@ template<template< typename, typename > class,class T,class Allocator> int Syste
 | index | int | Search range beginning index. |
 | count | int | Search range length. |
 | value | T | Value to look for. |
-| comparer | const SharedPtr\<System::Collections::Generic::IComparer\<T\>\>\& | Comparer object. |
+| comparer | const SharedPtr\<System::Collections::Generic::IComparer\<T\>\>\& | [Comparer](../comparer/) object. |
 
 ### ReturnValue
 

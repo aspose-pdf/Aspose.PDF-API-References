@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::set_Title method. Sets the title for structure element in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.pdf.logicalstructure/structureelement/set_title/
 ---
 ## StructureElement::set_Title method

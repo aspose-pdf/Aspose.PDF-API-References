@@ -4,7 +4,7 @@ linktitle: get_BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_BaseType method. Returns base type descritor in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system/typeinfo/get_basetype/
 ---
 ## TypeInfo::get_BaseType method

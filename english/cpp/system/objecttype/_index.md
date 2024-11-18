@@ -4,7 +4,7 @@ linktitle: ObjectType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectType class. Provides static methods that implement object type getters. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 4800
+weight: 5000
 url: /cpp/system/objecttype/
 ---
 ## ObjectType class

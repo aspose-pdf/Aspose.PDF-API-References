@@ -4,7 +4,7 @@ linktitle: OptimizeResources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::OptimizeResources method. Optimize resources in the document: in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/aspose.pdf/document/optimizeresources/
 ---
 ## Document::OptimizeResources() method

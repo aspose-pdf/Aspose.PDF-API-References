@@ -21,10 +21,12 @@ class BoxedValueBase : public System::Object
 | Method | Description |
 | --- | --- |
 | virtual [GetTypeCode](./gettypecode/)() const | Returns the value representing the type of the boxed value represented by the current object. |
-| virtual [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() | Converts the boxed represented by the current object to 64-bit integer value. |
+| virtual [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() const | Converts the boxed represented by the current object to 64-bit integer value. |
 | virtual [IsBoxedEnum](./isboxedenum/)() | Determines if current object represents a boxed value of enum type. |
 | static [Parse](./parse/)(const TypeInfo\&, const String\&, bool) | Boxes the value of enumeration constant of the specified enumeration with the specified name. A parameter specifies if the case should be ignored when interpreting the string specifying the name of the enumeration constant. |
 | static [Parse](./parse/)(const TypeInfo\&, const String\&) | Boxes the value of enumeration constant of the specified enumeration with the specified name. |
+| [ToString](./tostring/)(const System::String\&) const | Converts boxed object to string using specified format string. |
+| virtual [ToString](./tostring/)() const | Analog of C# [Object.ToString()](../object/tostring/) method. Enables converting custom objects to string. |
 ## See Also
 
 * Class [Object](../object/)

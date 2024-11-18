@@ -51,7 +51,7 @@ class XPathNavigator : public System::Xml::XPath::XPathItem,
 | virtual [get_Name](./get_name/)() | When overridden in a derived class, gets the qualified name of the current node. |
 | virtual [get_NamespaceURI](./get_namespaceuri/)() | When overridden in a derived class, gets the namespace URI of the current node. |
 | virtual [get_NameTable](./get_nametable/)() | When overridden in a derived class, gets the [XmlNameTable](../../system.xml/xmlnametable/) of the [XPathNavigator](./). |
-| static [get_NavigatorComparer](./get_navigatorcomparer/)() | Returns an Collections::IEqualityComparer used for equality comparison of [XPathNavigator](./) objects. |
+| static [get_NavigatorComparer](./get_navigatorcomparer/)() | Returns an [Collections::IEqualityComparer](../../system.collections/iequalitycomparer/) used for equality comparison of [XPathNavigator](./) objects. |
 | virtual [get_NodeType](./get_nodetype/)() | When overridden in a derived class, gets the XPathNodeType of the current node. |
 | virtual [get_OuterXml](./get_outerxml/)() | Returns the markup representing the opening and closing tags of the current node and its child nodes. |
 | virtual [get_Prefix](./get_prefix/)() | When overridden in a derived class, gets the namespace prefix associated with the current node. |

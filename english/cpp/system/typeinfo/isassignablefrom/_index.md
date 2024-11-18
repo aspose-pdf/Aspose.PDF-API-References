@@ -4,7 +4,7 @@ linktitle: IsAssignableFrom
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::IsAssignableFrom method. Determines whether an instance of a specified type can be assigned to a variable of the current type in C++.'
 type: docs
-weight: 4100
+weight: 4300
 url: /cpp/system/typeinfo/isassignablefrom/
 ---
 ## TypeInfo::IsAssignableFrom method

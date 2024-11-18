@@ -4,7 +4,7 @@ linktitle: UnsupportedFontTypeException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::UnsupportedFontTypeException typedef in C++.'
 type: docs
-weight: 25000
+weight: 25200
 url: /cpp/aspose.pdf/unsupportedfonttypeexception/
 ---
 ## UnsupportedFontTypeException typedef

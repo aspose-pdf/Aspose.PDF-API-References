@@ -4,7 +4,7 @@ linktitle: IList
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::IList class. IList Represents a non-generic collection of objects that can be individually accessed by index in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections/ilist/
 ---
 ## IList class

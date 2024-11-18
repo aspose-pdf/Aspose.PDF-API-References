@@ -4,7 +4,7 @@ linktitle: Stack
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::Stack class. Stack class forward declaration in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/system.collections.generic/stack/
 ---
 ## Stack class

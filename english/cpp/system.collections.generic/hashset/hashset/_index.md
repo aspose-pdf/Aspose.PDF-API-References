@@ -53,7 +53,7 @@ System::Collections::Generic::HashSet<T>::HashSet(const SharedPtr<IEqualityCompa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IEqualityComparer\<T\>\>\& | Comparer object to associate with hashset. |
+| comparer | const SharedPtr\<IEqualityComparer\<T\>\>\& | [Comparer](../../comparer/) object to associate with hashset. |
 
 ## See Also
 

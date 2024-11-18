@@ -25,11 +25,6 @@ class SoapHttpClientProtocol : public System::Web::Services::Protocols::HttpWebC
 | [InitializeSerializers](./initializeserializers/)(const System::TypeInfo\&, System::SharedPtr\<System::Xml::Serialization::XmlSerializerImplementation\>, String) | Initializes the internal fields. |
 | [set_SoapVersion](./set_soapversion/)(SoapProtocolVersion) | Sets the SOAP version. |
 | [SoapHttpClientProtocol](./soaphttpclientprotocol/)() | Constructs a new instance. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [uri](../webclientprotocol/uri/) | The XML [Web](../../system.web/) service URI. |
 ## See Also
 
 * Class [HttpWebClientProtocol](../httpwebclientprotocol/)

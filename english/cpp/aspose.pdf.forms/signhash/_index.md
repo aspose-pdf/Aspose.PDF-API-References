@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signhash/
 
 
 ```cpp
-using Aspose::Pdf::Forms::SignHash =  System::MulticastDelegate<System::ArrayPtr<uint8_t>(System::ArrayPtr<uint8_t>)>
+using Aspose::Pdf::Forms::SignHash =  System::MulticastDelegate<System::ArrayPtr<uint8_t>(System::ArrayPtr<uint8_t>, DigestHashAlgorithm)>
 ```
 
 ## See Also

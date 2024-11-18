@@ -4,7 +4,7 @@ linktitle: IsInstanceOfType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::IsInstanceOfType method. Determines whether the specified object is an instance of the current type in C++.'
 type: docs
-weight: 4200
+weight: 4500
 url: /cpp/system/typeinfo/isinstanceoftype/
 ---
 ## TypeInfo::IsInstanceOfType method

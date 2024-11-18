@@ -13,7 +13,7 @@ url: /cpp/system/boxedenum/getunsignedlonglongvalue/
 Converts the value of the boxed enumeration constant to 64-bit integer value.
 
 ```cpp
-uint64_t System::BoxedEnum<E, UT>::GetUnsignedLongLongValue() override
+uint64_t System::BoxedEnum<E, UT>::GetUnsignedLongLongValue() const override
 ```
 
 

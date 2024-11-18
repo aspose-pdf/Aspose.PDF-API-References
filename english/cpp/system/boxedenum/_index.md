@@ -26,7 +26,7 @@ template<typename E,typename UT>class BoxedEnum : public System::BoxedValue<type
 | Method | Description |
 | --- | --- |
 | [BoxedEnum](./boxedenum/)(E) | Constructs an instance that represents the specified enumeration value. |
-| [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() override | Converts the value of the boxed enumeration constant to 64-bit integer value. |
+| [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() const override | Converts the value of the boxed enumeration constant to 64-bit integer value. |
 | [IsBoxedEnum](./isboxedenum/)() override | Determines whether the current object represents a boxed value of enum type. |
 | [ToString](./tostring/)() const override | Converts boxed value represented by the current object to string. |
 

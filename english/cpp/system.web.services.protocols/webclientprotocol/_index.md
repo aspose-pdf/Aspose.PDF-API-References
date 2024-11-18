@@ -37,11 +37,6 @@ class WebClientProtocol : public virtual System::Object
 | [set_Uri](./set_uri/)(System::SharedPtr\<Uri\>) | Sets the XML [Web](../../system.web/) service URI. |
 | [set_Url](./set_url/)(String) | Sets the XML [Web](../../system.web/) service URL. |
 | [set_UseDefaultCredentials](./set_usedefaultcredentials/)(bool) | Sets a value that indicates if the 'Credential' property is equal to the 'DefaultCredentials' property. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [uri](./uri/) | The XML [Web](../../system.web/) service URI. |
 ## See Also
 
 * Class [Object](../../system/object/)

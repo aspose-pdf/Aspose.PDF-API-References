@@ -4,7 +4,7 @@ linktitle: GetSignerName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetSignerName method. Gets the name of person or organization who signing the pdf document in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.facades/pdffilesignature/getsignername/
 ---
 ## PdfFileSignature::GetSignerName method

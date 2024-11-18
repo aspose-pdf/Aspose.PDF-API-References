@@ -4,7 +4,7 @@ linktitle: XslFoLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XslFoLoadOptions class. Represents options for loading/importing XSL-FO file into pdf document in C++.'
 type: docs
-weight: 17900
+weight: 18100
 url: /cpp/aspose.pdf/xslfoloadoptions/
 ---
 ## XslFoLoadOptions class
@@ -32,11 +32,6 @@ class XslFoLoadOptions : public Aspose::Pdf::XmlLoadOptions
 | [XslFoLoadOptions](./xslfoloadoptions/)() | Creates [XslFoLoadOptions](./) object without xsl data. |
 | [XslFoLoadOptions](./xslfoloadoptions/)(System::String) | Creates [XslFoLoadOptions](./) object with xsl data. |
 | [XslFoLoadOptions](./xslfoloadoptions/)(System::SharedPtr\<System::IO::Stream\>) | Creates [XslFoLoadOptions](./) object with xsl data. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [ParsingErrorsHandlingType](./parsingerrorshandlingtype/) | Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handking of that errors. |
 ## See Also
 
 * Class [XmlLoadOptions](../xmlloadoptions/)

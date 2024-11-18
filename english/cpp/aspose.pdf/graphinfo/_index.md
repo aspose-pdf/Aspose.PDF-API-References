@@ -32,6 +32,8 @@ class GraphInfo : public System::ICloneable
 | [get_ScalingRateY](./get_scalingratey/)() const | Gets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
 | [get_SkewAngleX](./get_skewanglex/)() const | Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
 | [get_SkewAngleY](./get_skewangley/)() const | Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
+| [get_X](./get_x/)() const | Retrieve the X coordinate of a vertical border when using TableAbsorber, and return "-1" for a horizontal border. |
+| [get_Y](./get_y/)() const | Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and return "-1" for a vertical border. |
 | [GraphInfo](./graphinfo/)() |  |
 | [set_Color](./set_color/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets a [Color](../color/) object that indicates the color of the graph. |
 | [set_DashArray](./set_dasharray/)(System::ArrayPtr\<int32_t\>) | Sets a dash array. |

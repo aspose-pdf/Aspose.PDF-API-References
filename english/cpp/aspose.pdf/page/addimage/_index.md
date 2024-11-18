@@ -34,13 +34,13 @@ void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStre
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::AddImage(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) method
+## Page::AddImage(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, bool) method
 
 
 Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
 ```cpp
-void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::SharedPtr<Aspose::Pdf::Rectangle> imageRect, System::SharedPtr<Aspose::Pdf::Rectangle> bbox=nullptr)
+void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::SharedPtr<Aspose::Pdf::Rectangle> imageRect, System::SharedPtr<Aspose::Pdf::Rectangle> bbox=nullptr, bool autoAdjustRectangle=true)
 ```
 
 
@@ -49,6 +49,7 @@ void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStre
 | imageStream | System::SharedPtr\<System::IO::Stream\> | The stream of the image. |
 | imageRect | System::SharedPtr\<Aspose::Pdf::Rectangle\> | The position of the image. |
 | bbox | System::SharedPtr\<Aspose::Pdf::Rectangle\> | Bbox of the image. |
+| autoAdjustRectangle | bool | Adjust image in center of the input rectangle. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: LINQ_Any
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Any method. Determines whether a sequence contains any elements in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.collections.generic/ienumerable/linq_any/
 ---
 ## IEnumerable::LINQ_Any() method

@@ -22,7 +22,6 @@ class CurveTo : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
 | [CurveTo](./curveto/)(double, double, double, double, double, double) | Initializes curve operator. |
-| [get_Points](./get_points/)() const | Points of the curve. |
 | [ToString](./tostring/)() const override | Returns text representation of operator. |
 ## See Also
 

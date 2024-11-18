@@ -4,7 +4,7 @@ linktitle: EnumeratorPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::EnumeratorPtr typedef. An alias for shared pointer type pointing to IEnumerator object containing elements of type T in C++.'
 type: docs
-weight: 6200
+weight: 6300
 url: /cpp/system/array/enumeratorptr/
 ---
 ## EnumeratorPtr typedef

@@ -4,7 +4,7 @@ linktitle: set_OcspSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::set_OcspSettings method. Gets/sets ocsp settings in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf.forms/signature/set_ocspsettings/
 ---
 ## Signature::set_OcspSettings method

@@ -4,7 +4,7 @@ linktitle: ListExt
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::ListExt class. generic List class that implements IListWrapper interface in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/system.collections.generic/listext/
 ---
 ## ListExt class

@@ -75,7 +75,7 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const SharedP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | src | const SharedPtr\<IDictionary\<TKey, TValue\>\>\& | Source dictionary. |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer object to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) object to use. |
 
 ## See Also
 
@@ -97,7 +97,7 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(const SharedP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 
@@ -138,7 +138,7 @@ System::Collections::Generic::Dictionary<TKey, TValue>::Dictionary(int capacity,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | capacity | int | [Dictionary](../) capacity after creation; ignored. |
-| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IEqualityComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 

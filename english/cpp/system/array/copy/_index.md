@@ -4,7 +4,7 @@ linktitle: Copy
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::Copy method. Copies the specified number of elements from the source array to the destination array in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system/array/copy/
 ---
 ## Array::Copy(const ArrayPtr\<SrcType\>\&, const ArrayPtr\<DstType\>\&, int64_t) method

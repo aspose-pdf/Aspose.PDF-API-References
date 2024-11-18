@@ -35,11 +35,6 @@ class XmlSchemaCollection : public System::Collections::Generic::IEnumerable<Sha
 | [idx_get](./idx_get/)(const String\&) | Returns the [XmlSchema](../xmlschema/) associated with the given namespace URI. |
 | [XmlSchemaCollection](./xmlschemacollection/)() | Initializes a new instance of the [XmlSchemaCollection](./) class. |
 | [XmlSchemaCollection](./xmlschemacollection/)(const SharedPtr\<XmlNameTable\>\&) | Initializes a new instance of the [XmlSchemaCollection](./) class with the specified [XmlNameTable](../../system.xml/xmlnametable/). The [XmlNameTable](../../system.xml/xmlnametable/) is used when loading schemas. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [ValidationEventHandler](./validationeventhandler/) | Sets an event handler for receiving information about the XDR and XML schema validation errors. |
 ## Typedefs
 
 | Typedef | Description |

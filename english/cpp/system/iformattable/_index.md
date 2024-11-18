@@ -4,7 +4,7 @@ linktitle: IFormattable
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IFormattable class. Defines a method that formats the value of the current object using the specified format string and format provider in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/system/iformattable/
 ---
 ## IFormattable class

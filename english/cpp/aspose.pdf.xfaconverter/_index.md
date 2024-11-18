@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::XfaConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::XfaConverter namespace in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/aspose.pdf.xfaconverter/
 ---
 

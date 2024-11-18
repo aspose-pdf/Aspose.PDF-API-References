@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Comparison::SideBySideComparison
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Comparison::SideBySideComparison namespace in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.comparison.sidebysidecomparison/
 ---
 

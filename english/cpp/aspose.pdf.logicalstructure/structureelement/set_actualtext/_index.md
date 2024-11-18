@@ -4,7 +4,7 @@ linktitle: set_ActualText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::set_ActualText method. Sets the actual text for structure element in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf.logicalstructure/structureelement/set_actualtext/
 ---
 ## StructureElement::set_ActualText method

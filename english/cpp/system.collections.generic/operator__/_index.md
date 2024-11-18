@@ -4,7 +4,7 @@ linktitle: operator<<
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::operator<< method. Insert data into the stream using UTF-8 encoding in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/system.collections.generic/operator__/
 ---
 ## System::Collections::Generic::operator<<(std::ostream\&, const KeyValuePair\<TKey, TValue\>\&) method

@@ -53,7 +53,7 @@ System::Collections::Generic::SortedList<TKey, TValue>::SortedList(const SharedP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IComparer\<TKey\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IComparer\<TKey\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 

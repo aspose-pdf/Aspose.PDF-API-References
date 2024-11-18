@@ -4,7 +4,7 @@ linktitle: UnderlyingType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::UnderlyingType typedef. Alias for the type used to represent each element of the array in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/system/array/underlyingtype/
 ---
 ## UnderlyingType typedef

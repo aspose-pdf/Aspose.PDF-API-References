@@ -4,7 +4,7 @@ linktitle: System::Collections::Generic
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::Generic namespace in C++.'
 type: docs
-weight: 3400
+weight: 3600
 url: /cpp/system.collections.generic/
 ---
 
@@ -22,6 +22,7 @@ url: /cpp/system.collections.generic/
 | [BaseEnumerator](./baseenumerator/) | Enumerator definition to wrap STL-styled types for C#-styled usage. Makes no assertions on container structure except for existance of sequental iterator. Uses begin() and end() functions. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [BaseKVCollection](./basekvcollection/) | Holds common code for collections of keys or values. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [BaseSet](./baseset/) |  |
+| [Comparer](./comparer/) | Provides a base class for implementations of the [System.Collections.Generic.IComparer](./icomparer/) generic interface. |
 | [DefaultComparer](./defaultcomparer/) | Default comparator class. Uses operator < and operator == to compare values. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [Dictionary](./dictionary/) | Forward declaration of [Dictionary](./dictionary/) class. |
 | [DictionaryIterator](./dictionaryiterator/) | [Dictionary](./dictionary/) iterator that provides [KeyValuePair](./keyvaluepair/) notation. |

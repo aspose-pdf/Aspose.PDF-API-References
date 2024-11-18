@@ -4,7 +4,7 @@ linktitle: LINQ_Cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Cast method. Casts the elements to the specified type in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.collections.generic/ienumerable/linq_cast/
 ---
 ## IEnumerable::LINQ_Cast() method

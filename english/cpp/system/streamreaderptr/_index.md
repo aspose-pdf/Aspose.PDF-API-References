@@ -4,7 +4,7 @@ linktitle: StreamReaderPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StreamReaderPtr typedef. An alias for a smart pointer that points to an instance of System::IO::StreamReader class in C++.'
 type: docs
-weight: 12200
+weight: 12400
 url: /cpp/system/streamreaderptr/
 ---
 ## StreamReaderPtr typedef

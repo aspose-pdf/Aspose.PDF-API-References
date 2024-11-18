@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EnumValuesBase::Parse method. Returns an object that represents a value of enumeration constant of the specified enumeration type with the specified name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system/enumvaluesbase/parse/
 ---
 ## EnumValuesBase::Parse method

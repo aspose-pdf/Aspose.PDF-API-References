@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Generator
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Generator namespace in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf.generator/
 ---
 

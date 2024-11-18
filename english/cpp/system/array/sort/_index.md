@@ -4,7 +4,7 @@ linktitle: Sort
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::Sort method. Sorts two arrays one containing keys and the other - corresponding items, based on the values of array containing keys, elements of which are compared using operator< in C++.'
 type: docs
-weight: 5700
+weight: 5800
 url: /cpp/system/array/sort/
 ---
 ## Array::Sort(const ArrayPtr\<TKey\>\&, const ArrayPtr\<TValue\>\&) method

@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Tagged
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Tagged namespace in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/aspose.pdf.tagged/
 ---
 

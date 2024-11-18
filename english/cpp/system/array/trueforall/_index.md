@@ -4,7 +4,7 @@ linktitle: TrueForAll
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::TrueForAll method. Determines whether all elements in the specified array satisfy the conditions defined by specified predicate in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/system/array/trueforall/
 ---
 ## Array::TrueForAll method

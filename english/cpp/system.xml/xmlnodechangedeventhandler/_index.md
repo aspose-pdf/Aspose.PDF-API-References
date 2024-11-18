@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmlnodechangedeventhandler/
 ## XmlNodeChangedEventHandler typedef
 
 
-Represents the method that handles [XmlDocument::NodeChanged](../xmldocument/nodechanged/), [XmlDocument::NodeChanging](../xmldocument/nodechanging/), [XmlDocument::NodeInserted](../xmldocument/nodeinserted/), [XmlDocument::NodeInserting](../xmldocument/nodeinserting/), [XmlDocument::NodeRemoved](../xmldocument/noderemoved/) and [XmlDocument::NodeRemoving](../xmldocument/noderemoving/) events.
+Represents the method that handles **XmlDocument::NodeChanged**, **XmlDocument::NodeChanging**, **XmlDocument::NodeInserted**, **XmlDocument::NodeInserting**, **XmlDocument::NodeRemoved** and **XmlDocument::NodeRemoving** events.
 
 ```cpp
 using System::Xml::XmlNodeChangedEventHandler =  System::MulticastDelegate<void(SharedPtr<Object> , SharedPtr<XmlNodeChangedEventArgs> )>

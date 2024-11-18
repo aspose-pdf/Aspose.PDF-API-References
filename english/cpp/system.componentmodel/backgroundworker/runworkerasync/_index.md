@@ -33,7 +33,7 @@ void System::ComponentModel::BackgroundWorker::RunWorkerAsync(const System::Shar
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | const System::SharedPtr\<System::Object\>\& | A parameter for use by the background operation to be executed in the [System::ComponentModel::BackgroundWorker::DoWork](../dowork/) event handler. |
+| argument | const System::SharedPtr\<System::Object\>\& | A parameter for use by the background operation to be executed in the **System::ComponentModel::BackgroundWorker::DoWork** event handler. |
 
 ## See Also
 

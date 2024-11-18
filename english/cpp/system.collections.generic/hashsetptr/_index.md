@@ -4,7 +4,7 @@ linktitle: HashSetPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::HashSetPtr class. Pointer to keep HashSet references. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.collections.generic/hashsetptr/
 ---
 ## HashSetPtr class

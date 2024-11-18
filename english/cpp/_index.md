@@ -16,6 +16,7 @@ is_root: true
 | --- | --- |
 | [Aspose::Pdf](./aspose.pdf/) |  |
 | [Aspose::Pdf::Annotations](./aspose.pdf.annotations/) |  |
+| [Aspose::Pdf::Artifacts::Pagination](./aspose.pdf.artifacts.pagination/) |  |
 | [Aspose::Pdf::Collections](./aspose.pdf.collections/) |  |
 | [Aspose::Pdf::Comparison](./aspose.pdf.comparison/) |  |
 | [Aspose::Pdf::Comparison::Diff](./aspose.pdf.comparison.diff/) |  |
@@ -36,12 +37,13 @@ is_root: true
 | [Aspose::Pdf::PdfAOptionClasses](./aspose.pdf.pdfaoptionclasses/) |  |
 | [Aspose::Pdf::PdfToMarkdown](./aspose.pdf.pdftomarkdown/) |  |
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) |  |
+| [Aspose::Pdf::Security](./aspose.pdf.security/) |  |
 | [Aspose::Pdf::Structure](./aspose.pdf.structure/) |  |
 | [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) |  |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |
 | [Aspose::Pdf::Utils](./aspose.pdf.utils/) |  |
 | [Aspose::Pdf::Utils::PublicData](./aspose.pdf.utils.publicdata/) |  |
-| [Aspose::Pdf::Vector](./aspose.pdf.vector/) |  |
+| [Aspose::Pdf::Vector](./aspose.pdf.vector/) | The **[Aspose.Pdf.Vector](./aspose.pdf.vector/)** is a root namespace for graphics operations. |
 | [Aspose::Pdf::Vector::Extraction](./aspose.pdf.vector.extraction/) |  |
 | [Aspose::Pdf::XfaConverter](./aspose.pdf.xfaconverter/) |  |
 | [System](./system/) |  |

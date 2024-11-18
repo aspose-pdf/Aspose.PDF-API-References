@@ -4,7 +4,7 @@ linktitle: ConversionProgressEventHandler
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::UnifiedSaveOptions::ConversionProgressEventHandler typedef of Aspose::Pdf::UnifiedSaveOptions class in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/aspose.pdf/unifiedsaveoptions/conversionprogresseventhandler/
 ---
 ## ConversionProgressEventHandler typedef

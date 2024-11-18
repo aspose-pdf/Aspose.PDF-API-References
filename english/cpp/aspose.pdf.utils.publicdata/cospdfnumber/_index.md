@@ -22,7 +22,7 @@ class CosPdfNumber : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
 | --- | --- |
 | [CosPdfNumber](./cospdfnumber/)() | Initializes a new instance of the [CosPdfNumber](./) class. |
 | [CosPdfNumber](./cospdfnumber/)(double) | Initializes a new instance of the [CosPdfNumber](./) class. |
-| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | // |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
 | [get_Value](./get_value/)() const | Gets the value. |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |
 | [ToCosPdfNumber](./tocospdfnumber/)() override | Tries cast this instance to [CosPdfNumber](./). |

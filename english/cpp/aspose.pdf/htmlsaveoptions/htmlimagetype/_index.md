@@ -4,7 +4,7 @@ linktitle: HtmlImageType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::HtmlImageType enum. enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion in C++.'
 type: docs
-weight: 7600
+weight: 5200
 url: /cpp/aspose.pdf/htmlsaveoptions/htmlimagetype/
 ---
 ## HtmlImageType enum

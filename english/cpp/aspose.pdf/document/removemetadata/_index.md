@@ -4,7 +4,7 @@ linktitle: RemoveMetadata
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::RemoveMetadata method. Removes metadata from the document in C++.'
 type: docs
-weight: 7600
+weight: 7700
 url: /cpp/aspose.pdf/document/removemetadata/
 ---
 ## Document::RemoveMetadata method

@@ -4,7 +4,7 @@ linktitle: set_Color
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_Color method. Sets a Color object that indicates the color of the graph in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.pdf/graphinfo/set_color/
 ---
 ## GraphInfo::set_Color method

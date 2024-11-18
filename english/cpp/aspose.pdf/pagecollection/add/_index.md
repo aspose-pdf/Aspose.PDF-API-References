@@ -2,7 +2,7 @@
 title: Aspose::Pdf::PageCollection::Add method
 linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::PageCollection::Add method. Adds empty page in C++.'
+description: 'Aspose::Pdf::PageCollection::Add method. Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.pdf/pagecollection/add/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/pagecollection/add/
 ## PageCollection::Add() method
 
 
-Adds empty page.
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
 
 ```cpp
 System::SharedPtr<Page> Aspose::Pdf::PageCollection::Add()

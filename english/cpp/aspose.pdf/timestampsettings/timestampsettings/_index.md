@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/timestampsettings/
 Initializes a new instance of the [TimestampSettings](../) class.
 
 ```cpp
-Aspose::Pdf::TimestampSettings::TimestampSettings(System::String serverUrl, System::String basicAuthCredentials, Aspose::Pdf::DigestHashAlgorithm digestHashAlgorithm=Aspose::Pdf::DigestHashAlgorithm::Sha1)
+Aspose::Pdf::TimestampSettings::TimestampSettings(System::String serverUrl, System::String basicAuthCredentials, Aspose::Pdf::DigestHashAlgorithm digestHashAlgorithm=Aspose::Pdf::DigestHashAlgorithm::Sha256)
 ```
 
 
@@ -21,7 +21,7 @@ Aspose::Pdf::TimestampSettings::TimestampSettings(System::String serverUrl, Syst
 | --- | --- | --- |
 | serverUrl | System::String | The timestamp server url. |
 | basicAuthCredentials | System::String | The basic authentication credentials, username and password are combined into a string "username:password". |
-| digestHashAlgorithm | Aspose::Pdf::DigestHashAlgorithm | The hash algorithm name, if it is omitted then sha1 is used. |
+| digestHashAlgorithm | Aspose::Pdf::DigestHashAlgorithm | The hash algorithm name, if it is omitted then sha1 is used. The default value is **SHA256**. |
 
 ## See Also
 

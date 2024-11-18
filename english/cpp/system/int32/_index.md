@@ -4,7 +4,7 @@ linktitle: Int32
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Int32 class. Contains methods to work with the 32-bit integer in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/system/int32/
 ---
 ## Int32 class

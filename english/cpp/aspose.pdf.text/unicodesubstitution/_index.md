@@ -23,12 +23,6 @@ class UnicodeSubstitution : public System::Object,
 | --- | --- |
 | [UnicodeSubstitution](./unicodesubstitution/)(char16_t, char16_t) | Creates character code substitution struct. |
 | [UnicodeSubstitution](./unicodesubstitution/)() |  |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [OriginalCode](./originalcode/) | Represents original character unicode. |
-| [SubstitutionCode](./substitutioncode/) | Represents character unicode that substitutes original unicode. |
 ## Remarks
 
 

@@ -4,7 +4,7 @@ linktitle: DictionaryPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::DictionaryPtr class. Dictionary pointer class with operator overloads. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.collections.generic/dictionaryptr/
 ---
 ## DictionaryPtr class

@@ -13,13 +13,14 @@ url: /cpp/aspose.pdf.logicalstructure/element/appendchild/
 Append [T:/Aspose::Pdf::LogicalStructure::Element](../) to collection of children.
 
 ```cpp
-System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::AppendChild(System::SharedPtr<Element> element)
+System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::AppendChild(System::SharedPtr<Element> element, bool checkIfCanBeAppended=true)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | element | System::SharedPtr\<Element\> | [T:/Aspose::Pdf::LogicalStructure::Element](../) object to add. |
+| checkIfCanBeAppended | bool | Check if can be appended. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/system/boxedvaluebase/getunsignedlonglongvalue/
 Converts the boxed represented by the current object to 64-bit integer value.
 
 ```cpp
-virtual uint64_t System::BoxedValueBase::GetUnsignedLongLongValue()=0
+virtual uint64_t System::BoxedValueBase::GetUnsignedLongLongValue() const =0
 ```
 
 

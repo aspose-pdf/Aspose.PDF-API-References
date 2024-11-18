@@ -4,7 +4,7 @@ linktitle: DictionaryIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::DictionaryIterator class. Dictionary iterator that provides KeyValuePair notation in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.collections.generic/dictionaryiterator/
 ---
 ## DictionaryIterator class

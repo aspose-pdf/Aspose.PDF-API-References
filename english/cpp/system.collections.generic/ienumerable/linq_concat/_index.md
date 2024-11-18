@@ -4,7 +4,7 @@ linktitle: LINQ_Concat
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Concat method. Concatenates two sequences in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections.generic/ienumerable/linq_concat/
 ---
 ## IEnumerable::LINQ_Concat method

@@ -4,7 +4,7 @@ linktitle: reverse_iterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::reverse_iterator typedef. Reverse iterator type in C++.'
 type: docs
-weight: 6400
+weight: 6500
 url: /cpp/system/array/reverse_iterator/
 ---
 ## reverse_iterator typedef

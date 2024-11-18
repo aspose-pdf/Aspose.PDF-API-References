@@ -48,7 +48,7 @@ class Artifact : public System::IDisposable
 | [get_Rotation](./get_rotation/)() | Gets artifact rotation angle. |
 | [get_Subtype](./get_subtype/)() | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
 | [get_Text](./get_text/)() | Gets text of the artifact. |
-| [get_TextState](./get_textstate/)() const | [Text](../../aspose.pdf.text/) state for artifact text. |
+| [get_TextState](./get_textstate/)() | [Text](../../aspose.pdf.text/) state for artifact text. |
 | [get_TopMargin](./get_topmargin/)() const | Top margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [get_Type](./get_type/)() | Gets artifact type. |
 | [GetValue](./getvalue/)(System::String) | Gets custom value of artifact. |

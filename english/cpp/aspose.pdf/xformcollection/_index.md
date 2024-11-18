@@ -4,7 +4,7 @@ linktitle: XFormCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XFormCollection class. Class represents collection of XFormCollection in C++.'
 type: docs
-weight: 16300
+weight: 16500
 url: /cpp/aspose.pdf/xformcollection/
 ---
 ## XFormCollection class

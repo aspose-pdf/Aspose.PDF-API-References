@@ -4,7 +4,7 @@ linktitle: XmpValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue class. Represents XMP value in C++.'
 type: docs
-weight: 17600
+weight: 17800
 url: /cpp/aspose.pdf/xmpvalue/
 ---
 ## XmpValue class

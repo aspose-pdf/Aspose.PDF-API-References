@@ -4,7 +4,7 @@ linktitle: FieldValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FieldValueType enum. Represents the type of a field value in a schema collection in C++.'
 type: docs
-weight: 19800
+weight: 20000
 url: /cpp/aspose.pdf/fieldvaluetype/
 ---
 ## FieldValueType enum

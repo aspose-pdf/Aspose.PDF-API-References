@@ -4,7 +4,7 @@ linktitle: const_iterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::const_iterator typedef. Const iterator type in C++.'
 type: docs
-weight: 3000
+weight: 3600
 url: /cpp/system.collections.generic/ienumerable/const_iterator/
 ---
 ## const_iterator typedef

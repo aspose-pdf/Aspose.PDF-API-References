@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Forms::BoxStyle enum
 linktitle: BoxStyle
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::BoxStyle enum. Represents styles of check box in C++.'
+description: 'Aspose::Pdf::Forms::BoxStyle enum. Represents styles for drawing check in check box in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.pdf.forms/boxstyle/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/boxstyle/
 ## BoxStyle enum
 
 
-Represents styles of check box.
+Represents styles for drawing check in check box.
 
 ```cpp
 enum class BoxStyle

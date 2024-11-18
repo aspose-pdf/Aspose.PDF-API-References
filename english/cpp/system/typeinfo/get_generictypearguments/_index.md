@@ -4,7 +4,7 @@ linktitle: get_GenericTypeArguments
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_GenericTypeArguments method. Gets an array of the generic type arguments for this type in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system/typeinfo/get_generictypearguments/
 ---
 ## TypeInfo::get_GenericTypeArguments method

@@ -31,6 +31,7 @@ template<class TKey,class TValue>class ConcurrentDictionary : public System::Col
 | [get_KeysInternal](./get_keysinternal/)() const override | Gets wrapper collection to access dictionary keys. |
 | [idx_set](./idx_set/)(const TKey\&, TValue) override | RTTI information. |
 | [Remove](./remove/)(const TKey\&) override | Removes element from container. |
+| [TryAdd](./tryadd/)(const TKey\&, const TValue\&) | Tries to add key/value pair into the dictionary. |
 ## Typedefs
 
 | Typedef | Description |

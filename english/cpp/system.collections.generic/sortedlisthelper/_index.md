@@ -4,7 +4,7 @@ linktitle: SortedListHelper
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedListHelper class. This helper class is used to mask virtual functions get_Keys get_Values that come from IDictionary interface and substitute these to the functions with different return type in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/system.collections.generic/sortedlisthelper/
 ---
 ## SortedListHelper class

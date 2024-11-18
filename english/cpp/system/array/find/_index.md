@@ -4,7 +4,7 @@ linktitle: Find
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::Find method. Searches for the first element in the specified array that satisfies the conditions of the specified predicate in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/system/array/find/
 ---
 ## Array::Find method

@@ -4,7 +4,7 @@ linktitle: System::Collections
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections namespace in C++.'
 type: docs
-weight: 3200
+weight: 3400
 url: /cpp/system.collections/
 ---
 
@@ -22,6 +22,7 @@ url: /cpp/system.collections/
 | [IEnumerator](./ienumerator/) | Interface of enumerator which can be used to iterate through some elements. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IEnumeratorImplRefType](./ienumeratorimplreftype/) | Wrapper the creates non generic [IEnumerator](./ienumerator/) implementation over the generic Iterator [IEnumeratorImplRefType](./ienumeratorimplreftype/) - wrapper for the Reference Types. |
 | [IEnumeratorImplValueType](./ienumeratorimplvaluetype/) | Wrapper the creates non generic [IEnumerator](./ienumerator/) implementation over the generic Iterator [IEnumeratorImplRefType](./ienumeratorimplreftype/) - wrapper for the value Types. |
+| [IEqualityComparer](./iequalitycomparer/) |  |
 | [IList](./ilist/) | [IList](./ilist/) Represents a non-generic collection of objects that can be individually accessed by index. |
 | [IListImplRefType](./ilistimplreftype/) | Stub that implements [System::Collections::IList](./ilist/) interface on [System::Collections::Generic::List](../system.collections.generic/list/) object Implementation for reference types. |
 | [IListImplValueType](./ilistimplvaluetype/) | Stub that implements [System::Collections::IList](./ilist/) interface on [System::Collections::Generic::List](../system.collections.generic/list/) object Implementation for value types. |

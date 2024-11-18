@@ -19,7 +19,7 @@ Aspose::Pdf::Forms::DocMDPAccessPermissions Aspose::Pdf::Facades::PdfFileSignatu
 
 ### ReturnValue
 
-If the document is being certified, than returns access permissions value; otherwise, System::PdfException
+If the document is being certified, than returns access permissions value; otherwise, PdfException
 is thrown.
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_IsAbstract
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_IsAbstract method. Gets a value indicating whether the Type is abstract and must be overridden in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system/typeinfo/get_isabstract/
 ---
 ## TypeInfo::get_IsAbstract method

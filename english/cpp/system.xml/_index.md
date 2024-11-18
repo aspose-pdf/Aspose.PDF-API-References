@@ -4,7 +4,7 @@ linktitle: System::Xml
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Xml namespace in C++.'
 type: docs
-weight: 8300
+weight: 8500
 url: /cpp/system.xml/
 ---
 
@@ -39,7 +39,7 @@ url: /cpp/system.xml/
 | [XmlNamespaceManager](./xmlnamespacemanager/) | Resolves, adds, and removes namespaces to a collection and provides scope management for these namespaces. |
 | [XmlNameTable](./xmlnametable/) | Table of atomized string objects. |
 | [XmlNode](./xmlnode/) | Represents a single node in the XML document. |
-| [XmlNodeChangedEventArgs](./xmlnodechangedeventargs/) | Provides data for the [XmlDocument::NodeChanged](./xmldocument/nodechanged/), [XmlDocument::NodeChanging](./xmldocument/nodechanging/), [XmlDocument::NodeInserted](./xmldocument/nodeinserted/), [XmlDocument::NodeInserting](./xmldocument/nodeinserting/), [XmlDocument::NodeRemoved](./xmldocument/noderemoved/) and [XmlDocument::NodeRemoving](./xmldocument/noderemoving/) events. |
+| [XmlNodeChangedEventArgs](./xmlnodechangedeventargs/) | Provides data for the **XmlDocument::NodeChanged**, **XmlDocument::NodeChanging**, **XmlDocument::NodeInserted**, **XmlDocument::NodeInserting**, **XmlDocument::NodeRemoved** and **XmlDocument::NodeRemoving** events. |
 | [XmlNodeList](./xmlnodelist/) | Represents an ordered collection of nodes. |
 | [XmlNodeReader](./xmlnodereader/) | Represents a reader that provides fast, non-cached forward only access to XML data in an [XmlNode](./xmlnode/). |
 | [XmlNotation](./xmlnotation/) | Represents a notation declaration, such as **<!NOTATION... >**. |
@@ -89,7 +89,7 @@ url: /cpp/system.xml/
 | Typedef | Description |
 | --- | --- |
 | [XmlException](./xmlexception/) |  |
-| [XmlNodeChangedEventHandler](./xmlnodechangedeventhandler/) | Represents the method that handles [XmlDocument::NodeChanged](./xmldocument/nodechanged/), [XmlDocument::NodeChanging](./xmldocument/nodechanging/), [XmlDocument::NodeInserted](./xmldocument/nodeinserted/), [XmlDocument::NodeInserting](./xmldocument/nodeinserting/), [XmlDocument::NodeRemoved](./xmldocument/noderemoved/) and [XmlDocument::NodeRemoving](./xmldocument/noderemoving/) events. |
+| [XmlNodeChangedEventHandler](./xmlnodechangedeventhandler/) | Represents the method that handles **XmlDocument::NodeChanged**, **XmlDocument::NodeChanging**, **XmlDocument::NodeInserted**, **XmlDocument::NodeInserting**, **XmlDocument::NodeRemoved** and **XmlDocument::NodeRemoving** events. |
 ## Functions
 
 | Function | Description |

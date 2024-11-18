@@ -4,7 +4,7 @@ linktitle: PclLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PclLoadOptions class. Represents options for loading(import) PCL file into pdf document in C++.'
 type: docs
-weight: 12000
+weight: 12100
 url: /cpp/aspose.pdf/pclloadoptions/
 ---
 ## PclLoadOptions class
@@ -29,13 +29,6 @@ class PclLoadOptions : public Aspose::Pdf::LoadOptions,
 | [get_BatchSize](./get_batchsize/)() override | Defines batch size if batched conversion is applicable to source and destination formats pair. |
 | [PclLoadOptions](./pclloadoptions/)() | Creates [PclLoadOptions](./) object. |
 | [set_BatchSize](./set_batchsize/)(int32_t) override | Defines batch size if batched conversion is applicable to source and destination formats pair. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [ConversionEngine](./conversionengine/) | Defines conversion engine that will be used for conversion. |
-| [Exceptions](./exceptions/) | List of conversion errors. |
-| [SupressErrors](./supresserrors/) | Gets or sets boolean value which indicates will PCL conversion errors should be supressed. |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)
