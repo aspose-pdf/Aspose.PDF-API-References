@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::operator!= method. Compares two key-value pairs using inverse ''equals'' semantics in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.collections.generic/operator!=/
 ---
 ## System::Collections::Generic::operator!= method

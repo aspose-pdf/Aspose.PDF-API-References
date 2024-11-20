@@ -21,7 +21,7 @@ class CosPdfBoolean : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
 | Method | Description |
 | --- | --- |
 | [CosPdfBoolean](./cospdfboolean/)(bool) | Initializes a new instance of the [PdfBoolean](../) class. |
-| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | // |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
 | [get_Value](./get_value/)() const | Gets the value. |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |
 | [ToCosPdfBoolean](./tocospdfboolean/)() override | Tries cast this instance to [CosPdfBoolean](./). |

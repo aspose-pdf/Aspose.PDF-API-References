@@ -4,7 +4,7 @@ linktitle: RemoveSignature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature method. Remove the signature according to the name of the signature in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## PdfFileSignature::RemoveSignature(System::String) method

@@ -4,7 +4,7 @@ linktitle: SortedSetPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedSetPtr class. Pointer to keep SortedSet references. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system.collections.generic/sortedsetptr/
 ---
 ## SortedSetPtr class

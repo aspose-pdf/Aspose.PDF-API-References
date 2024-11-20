@@ -4,7 +4,7 @@ linktitle: get_Namespace
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_Namespace method. Gets the namespace of the Type in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system/typeinfo/get_namespace/
 ---
 ## TypeInfo::get_Namespace method

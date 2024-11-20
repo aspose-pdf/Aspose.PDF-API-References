@@ -41,12 +41,6 @@ class MarkdownSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [set_ResourcesDirectoryName](./set_resourcesdirectoryname/)(System::String) | Gets and sets the directory name to save document resources such as images. If the value is not specified, then the images will be written to the same directory as the markdown file itself. This is not path, it is only name! This directory will be automatically created in the directory with the saved markdown file. |
 | [set_SubscriptAndSuperscriptConversion](./set_subscriptandsuperscriptconversion/)(bool) | Gets ans sets allowance to convert subscript and superscript. This value is true by default. |
 | [set_UseImageHtmlTag](./set_useimagehtmltag/)(bool) | Gets and sets allowance to use of an img tag to insert images to the left and right of the text. In this case, in the markdown viewer, the text will wrap around the image. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 ## See Also
 
 * Class [UnifiedSaveOptions](../../aspose.pdf/unifiedsaveoptions/)

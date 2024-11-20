@@ -21,9 +21,13 @@ class PKCS7Detached : public Aspose::Pdf::Forms::Signature
 | Method | Description |
 | --- | --- |
 | [PKCS7Detached](./pkcs7detached/)(System::SharedPtr\<System::IO::Stream\>) | Initializes new instance of the [PKCS7Detached](./) class. |
+| [PKCS7Detached](./pkcs7detached/)(System::SharedPtr\<System::IO::Stream\>, DigestHashAlgorithm) | Initializes new instance of the [PKCS7Detached](./) class. |
 | [PKCS7Detached](./pkcs7detached/)() | Inititalizes new instance of the [PKCS7Detached](./) class. |
+| [PKCS7Detached](./pkcs7detached/)(DigestHashAlgorithm) | Inititalizes new instance of the [PKCS7Detached](./) class. |
 | [PKCS7Detached](./pkcs7detached/)(System::String, System::String) | Inititalizes new instance of the [PKCS7Detached](./) class. |
+| [PKCS7Detached](./pkcs7detached/)(System::String, System::String, DigestHashAlgorithm) | Inititalizes new instance of the [PKCS7Detached](./) class. |
 | [PKCS7Detached](./pkcs7detached/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Inititalizes new instance of the [PKCS7Detached](./) class. |
+| [PKCS7Detached](./pkcs7detached/)(System::SharedPtr\<System::IO::Stream\>, System::String, DigestHashAlgorithm) | Inititalizes new instance of the [PKCS7Detached](./) class. |
 ## See Also
 
 * Class [Signature](../signature/)

@@ -4,7 +4,7 @@ linktitle: GetTemplParamType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetTemplParamType method. Gets template parameter type descritor in C++.'
 type: docs
-weight: 3900
+weight: 4100
 url: /cpp/system/typeinfo/gettemplparamtype/
 ---
 ## TypeInfo::GetTemplParamType method

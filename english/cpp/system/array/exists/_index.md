@@ -4,7 +4,7 @@ linktitle: Exists
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::Exists method. Determines if the specified Array object contains an element that satisfies requirements of the specified predicate in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/system/array/exists/
 ---
 ## Array::Exists method

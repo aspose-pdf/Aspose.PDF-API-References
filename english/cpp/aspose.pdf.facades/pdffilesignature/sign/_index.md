@@ -4,7 +4,7 @@ linktitle: Sign
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::Sign method. Sign the document with the given type signature in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## PdfFileSignature::Sign(int32_t, bool, System::Drawing::Rectangle, System::SharedPtr\<Aspose::Pdf::Forms::Signature\>) method

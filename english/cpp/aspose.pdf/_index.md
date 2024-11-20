@@ -125,6 +125,7 @@ url: /cpp/aspose.pdf/
 | [Page](./page/) | Class representing page of PDF document. |
 | [PageActionCollection](./pageactioncollection/) | This class describes page actions. |
 | [PageCollection](./pagecollection/) | [Collection](./collection/) of PDF document pages. |
+| [PageCollectionExtension](./pagecollectionextension/) | Represents the extension method for updating header and footer pagination. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing [Page](./page/) Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
@@ -150,6 +151,7 @@ url: /cpp/aspose.pdf/
 | [PsLoadOptions](./psloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
 | [PsSaveOptions](./pssaveoptions/) | Save options for export to PS (PostScript) or EPS format. |
 | [Rectangle](./rectangle/) | Class represents rectangle. |
+| [RegexManager](./regexmanager/) | Provides a wrapper for regular expression operations with configurable timeout settings. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [Resources](./resources/) | Class representing page resources. |
 | [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Represents rgb to device gray color spaces conversion strategy. |
@@ -210,7 +212,7 @@ url: /cpp/aspose.pdf/
 | [ConvertSoftMaskAction](./convertsoftmaskaction/) | This action represents actions for conversion of images with soft mask. |
 | [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
 | [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
-| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algoritm that maps data to a "hash". |
+| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash". |
 | [Direction](./direction/) | [Text](../aspose.pdf.text/) direction. |
 | [EditionType](./editiontype/) | Specifies the edition type of the license. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |

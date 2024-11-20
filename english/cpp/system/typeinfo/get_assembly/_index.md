@@ -4,7 +4,7 @@ linktitle: get_Assembly
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_Assembly method. NOT IMPLEMENTED. Returns a pointer to the assembly in which the type represented by the current object is declared in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/typeinfo/get_assembly/
 ---
 ## TypeInfo::get_Assembly method

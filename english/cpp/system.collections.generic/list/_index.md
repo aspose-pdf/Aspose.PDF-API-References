@@ -4,7 +4,7 @@ linktitle: List
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::List class. List forward declaration in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/system.collections.generic/list/
 ---
 ## List class

@@ -4,7 +4,7 @@ linktitle: System::Net::Cache
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Net::Cache namespace in C++.'
 type: docs
-weight: 5300
+weight: 5500
 url: /cpp/system.net.cache/
 ---
 

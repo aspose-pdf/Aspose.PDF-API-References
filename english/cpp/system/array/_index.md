@@ -49,6 +49,7 @@ template<typename T>class Array : public virtual System::Object,
 | [Clear](./clear/)() override | Not supported because the array represented by the current object is read-only. |
 | static [Clear](./clear/)(const ArrayPtr\<Type\>\&, int, int) | Replaces **count** values starting at the **startIndex** index in the specified array with default values. |
 | [Clone](./clone/)() | Clones the array. |
+| static [ConstrainedCopy](./constrainedcopy/)(const ArrayPtr\<SrcType\>\&, int64_t, const ArrayPtr\<DstType\>\&, int64_t, int64_t) | Copies a range of elements from an [System.Array](./) starting at the specified source. |
 | [Contains](./contains/)(const T\&) const override | Determines if the specified item is in the array. |
 | static [ConvertAll](./convertall/)(ArrayPtr\<InputType\>, Converter\<InputType, OutputType\>) | Constructs a new [Array](./) object and fills it with elements of the specified array converted to **OutputType** type using the specified converter delegate. |
 | static [ConvertAll](./convertall/)(ArrayPtr\<InputType\>, std::function\<OutputType(InputType)>) | Constructs a new [Array](./) object and fills it with elements of the specified array converted to **OutputType** type using the specified converter function object. |

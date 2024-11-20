@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Operators
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Operators namespace in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.pdf.operators/
 ---
 

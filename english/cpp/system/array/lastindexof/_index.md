@@ -4,7 +4,7 @@ linktitle: LastIndexOf
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::LastIndexOf method. Determines the index of the last occurrence of the specified item in a range of items of the array specified by the start index and the number of elements in the range in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/system/array/lastindexof/
 ---
 ## Array::LastIndexOf(const ArrayPtr\<ArrayType\>\&, const ValueType\&, int, int) method

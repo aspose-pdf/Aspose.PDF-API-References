@@ -4,7 +4,7 @@ linktitle: Dictionary
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::Dictionary class. Forward declaration of Dictionary class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections.generic/dictionary/
 ---
 ## Dictionary class

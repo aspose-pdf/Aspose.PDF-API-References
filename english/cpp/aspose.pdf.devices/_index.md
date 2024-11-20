@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Devices
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Devices namespace in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.devices/
 ---
 

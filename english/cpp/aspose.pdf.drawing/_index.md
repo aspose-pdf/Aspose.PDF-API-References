@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Drawing
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Drawing namespace in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.drawing/
 ---
 

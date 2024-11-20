@@ -4,7 +4,7 @@ linktitle: BorderSide
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BorderSide enum. Enumerates the border sides in C++.'
 type: docs
-weight: 18300
+weight: 18500
 url: /cpp/aspose.pdf/borderside/
 ---
 ## BorderSide enum

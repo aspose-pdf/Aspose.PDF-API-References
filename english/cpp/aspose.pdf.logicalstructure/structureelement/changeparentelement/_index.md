@@ -13,13 +13,14 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 Change parent element for current structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::ChangeParentElement(System::SharedPtr<StructureElement> newParentElement)
+void Aspose::Pdf::LogicalStructure::StructureElement::ChangeParentElement(System::SharedPtr<StructureElement> newParentElement, bool checkIfParentCanBeChanged=true)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | newParentElement | System::SharedPtr\<StructureElement\> | New parent structure element |
+| checkIfParentCanBeChanged | bool | Check if parent be changed. |
 
 ## See Also
 

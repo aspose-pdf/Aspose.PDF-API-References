@@ -4,7 +4,7 @@ linktitle: set_ExpansionText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::set_ExpansionText method. Sets the expansion text for structure element in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.pdf.logicalstructure/structureelement/set_expansiontext/
 ---
 ## StructureElement::set_ExpansionText method

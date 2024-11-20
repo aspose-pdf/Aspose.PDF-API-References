@@ -4,7 +4,7 @@ linktitle: Int16
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Int16 class. Contains methods to work with the 16-bit integer in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system/int16/
 ---
 ## Int16 class

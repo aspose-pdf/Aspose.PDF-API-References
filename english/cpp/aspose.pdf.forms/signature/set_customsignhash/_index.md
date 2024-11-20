@@ -2,20 +2,24 @@
 title: Aspose::Pdf::Forms::Signature::set_CustomSignHash method
 linktitle: set_CustomSignHash
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::Signature::set_CustomSignHash method. The delegate for custom sign the document hash (Beta) in C++.'
+description: 'Aspose::Pdf::Forms::Signature::set_CustomSignHash method. The delegate for custom sign the document hash in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.pdf.forms/signature/set_customsignhash/
 ---
 ## Signature::set_CustomSignHash method
 
 
-The delegate for custom sign the document hash (Beta).
+The delegate for custom sign the document hash.
 
 ```cpp
 void Aspose::Pdf::Forms::Signature::set_CustomSignHash(SignHash value)
 ```
 
+## Remarks
+
+
+**The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.**
 ## See Also
 
 * Typedef [SignHash](../../signhash/)

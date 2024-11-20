@@ -4,7 +4,7 @@ linktitle: GetElementType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetElementType method. NOT IMPLEMENTED in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/system/typeinfo/getelementtype/
 ---
 ## TypeInfo::GetElementType method

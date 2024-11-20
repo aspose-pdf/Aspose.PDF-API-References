@@ -4,7 +4,7 @@ linktitle: Guid
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Guid class. Represents a Globally Unique IDentifier This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system/guid/
 ---
 ## Guid class

@@ -33,7 +33,7 @@ System::Collections::Generic::SortedDictionary<TKey, TValue>::SortedDictionary(c
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| comparer | const SharedPtr\<IComparer\<typename BasePointerType\<TKey\>::type\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IComparer\<typename BasePointerType\<TKey\>::type\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 
@@ -76,7 +76,7 @@ System::Collections::Generic::SortedDictionary<TKey, TValue>::SortedDictionary(c
 | Parameter | Type | Description |
 | --- | --- | --- |
 | src | const SharedPtr\<IDictionary\<TKey, TValue\>\>\& | Source dictionary to copy data from. |
-| comparer | const SharedPtr\<IComparer\<typename BasePointerType\<TKey\>::type\>\>\& | Comparer to use. |
+| comparer | const SharedPtr\<IComparer\<typename BasePointerType\<TKey\>::type\>\>\& | [Comparer](../../comparer/) to use. |
 
 ## See Also
 

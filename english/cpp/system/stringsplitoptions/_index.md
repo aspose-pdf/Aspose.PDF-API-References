@@ -4,7 +4,7 @@ linktitle: StringSplitOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StringSplitOptions enum. Determines string splitting behavior in C++.'
 type: docs
-weight: 8200
+weight: 8400
 url: /cpp/system/stringsplitoptions/
 ---
 ## StringSplitOptions enum

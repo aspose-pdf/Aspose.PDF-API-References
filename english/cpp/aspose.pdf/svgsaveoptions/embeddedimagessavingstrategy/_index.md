@@ -4,7 +4,7 @@ linktitle: EmbeddedImagesSavingStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::SvgSaveOptions::EmbeddedImagesSavingStrategy typedef of Aspose::Pdf::SvgSaveOptions class in C++.'
 type: docs
-weight: 600
+weight: 200
 url: /cpp/aspose.pdf/svgsaveoptions/embeddedimagessavingstrategy/
 ---
 ## EmbeddedImagesSavingStrategy typedef

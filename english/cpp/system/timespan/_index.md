@@ -4,7 +4,7 @@ linktitle: TimeSpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TimeSpan class. Represents a time interval. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 5700
+weight: 5900
 url: /cpp/system/timespan/
 ---
 ## TimeSpan class

@@ -4,7 +4,7 @@ linktitle: HtmlMarkupGenerationModes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::HtmlMarkupGenerationModes enum. Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments in C++.'
 type: docs
-weight: 7700
+weight: 5300
 url: /cpp/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmodes/
 ---
 ## HtmlMarkupGenerationModes enum

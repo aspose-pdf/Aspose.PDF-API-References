@@ -4,7 +4,7 @@ linktitle: RasterImagesSavingModes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::RasterImagesSavingModes enum. Converted PDF can contain raster images(.png, *.jpeg etc.) This enum defines methods of how raster images can be handled during conversion of PDF to HTML in C++.'
 type: docs
-weight: 8100
+weight: 5700
 url: /cpp/aspose.pdf/htmlsaveoptions/rasterimagessavingmodes/
 ---
 ## RasterImagesSavingModes enum

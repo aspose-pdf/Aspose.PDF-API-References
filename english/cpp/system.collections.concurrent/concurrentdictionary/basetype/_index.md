@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Concurrent::ConcurrentDictionary::BaseType typedef. Implementation type in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.collections.concurrent/concurrentdictionary/basetype/
 ---
 ## BaseType typedef

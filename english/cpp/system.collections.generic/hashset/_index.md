@@ -4,7 +4,7 @@ linktitle: HashSet
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::HashSet class. Forward declaration of HashSet class in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.collections.generic/hashset/
 ---
 ## HashSet class

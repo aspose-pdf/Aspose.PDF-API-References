@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Comparison::GraphicalComparison
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Comparison::GraphicalComparison namespace in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/
 ---
 

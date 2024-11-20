@@ -4,7 +4,7 @@ linktitle: FindAll
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::FindAll method. Retrieves all the elements that match the conditions defined by the specified predicate in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system/array/findall/
 ---
 ## Array::FindAll method

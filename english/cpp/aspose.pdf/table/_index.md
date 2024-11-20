@@ -4,7 +4,7 @@ linktitle: Table
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table class. Represents a table that can be added to the page in C++.'
 type: docs
-weight: 14600
+weight: 14800
 url: /cpp/aspose.pdf/table/
 ---
 ## Table class

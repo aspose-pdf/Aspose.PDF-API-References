@@ -29,12 +29,13 @@ template<class T>class BoxedValue : public System::BoxedValueBase
 | [GetHashCode](./gethashcode/)() const override | Returns a hash code for the current object. |
 | [GetType](./gettype/)() const override | Gets actual type of object. |
 | [GetTypeCode](./gettypecode/)() const override | Returns the value representing the type of the boxed value represented by the current object. |
-| [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() override | Always returns 0. |
+| [GetUnsignedLongLongValue](./getunsignedlonglongvalue/)() const override | Returns numeric value of boxed object if it can be cast too, zero otherwise. |
 | [is](./is/)() const | Determines if the type of the boxed value represented by the current object is **V**. |
 | [IsBoxedEnum](./isboxedenum/)() override | Determines if current object represents a boxed value of enum type. |
 | static [Parse](../boxedvaluebase/parse/)(const TypeInfo\&, const String\&, bool) | Boxes the value of enumeration constant of the specified enumeration with the specified name. A parameter specifies if the case should be ignored when interpreting the string specifying the name of the enumeration constant. |
 | static [Parse](../boxedvaluebase/parse/)(const TypeInfo\&, const String\&) | Boxes the value of enumeration constant of the specified enumeration with the specified name. |
 | [ToString](./tostring/)() const override | Converts boxed value represented by current object to string. |
+| [ToString](../boxedvaluebase/tostring/)(const System::String\&) const | Converts boxed object to string using specified format string. |
 | [unbox](./unbox/)() const | Unboxes the value represented by the current object. |
 
 ## See Also

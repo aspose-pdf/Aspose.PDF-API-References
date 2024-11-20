@@ -22,7 +22,7 @@ class CosPdfString : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
 | --- | --- |
 | [CosPdfString](./cospdfstring/)(System::String) | Initializes a new instance of the [CosPdfString](./) class. |
 | [CosPdfString](./cospdfstring/)(System::String, bool) | Initializes a new instance of the [CosPdfString](./) class. |
-| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | // |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
 | [get_IsHexadecimal](./get_ishexadecimal/)() const | Gets a value indicating whether this instance is hexadecimal. |
 | [get_Value](./get_value/)() const | Gets the string (ANSII). |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |

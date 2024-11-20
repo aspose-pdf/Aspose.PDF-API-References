@@ -4,7 +4,7 @@ linktitle: GetValues
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EnumValues::GetValues method. Returns an array containing all values of enumeration E in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system/enumvalues/getvalues/
 ---
 ## EnumValues::GetValues method

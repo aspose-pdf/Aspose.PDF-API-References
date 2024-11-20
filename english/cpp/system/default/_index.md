@@ -4,7 +4,7 @@ linktitle: Default
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Default method. Returns the default-constructed instance of the specified type in C++.'
 type: docs
-weight: 14800
+weight: 15100
 url: /cpp/system/default/
 ---
 ## System::Default() method

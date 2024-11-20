@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::virtualizeEndIterator method. Gets the implementation of end iterator for the current container in C++.'
 type: docs
-weight: 2900
+weight: 3500
 url: /cpp/system.collections.generic/ienumerable/virtualizeenditerator/
 ---
 ## IEnumerable::virtualizeEndIterator method

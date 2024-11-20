@@ -4,7 +4,7 @@ linktitle: get_DeclaredMember
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::get_DeclaredMember method. Gets list of the members with specified name in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system/typeinfo/get_declaredmember/
 ---
 ## TypeInfo::get_DeclaredMember method

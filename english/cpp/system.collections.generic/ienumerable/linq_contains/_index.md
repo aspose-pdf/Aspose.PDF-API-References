@@ -4,7 +4,7 @@ linktitle: LINQ_Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Contains method. Determines if a sequence contains a specified value in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections.generic/ienumerable/linq_contains/
 ---
 ## IEnumerable::LINQ_Contains method

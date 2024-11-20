@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmlnodechangedeventargs/
 ## XmlNodeChangedEventArgs class
 
 
-Provides data for the [XmlDocument::NodeChanged](../xmldocument/nodechanged/), [XmlDocument::NodeChanging](../xmldocument/nodechanging/), [XmlDocument::NodeInserted](../xmldocument/nodeinserted/), [XmlDocument::NodeInserting](../xmldocument/nodeinserting/), [XmlDocument::NodeRemoved](../xmldocument/noderemoved/) and [XmlDocument::NodeRemoving](../xmldocument/noderemoving/) events.
+Provides data for the **XmlDocument::NodeChanged**, **XmlDocument::NodeChanging**, **XmlDocument::NodeInserted**, **XmlDocument::NodeInserting**, **XmlDocument::NodeRemoved** and **XmlDocument::NodeRemoving** events.
 
 ```cpp
 class XmlNodeChangedEventArgs : public System::EventArgs

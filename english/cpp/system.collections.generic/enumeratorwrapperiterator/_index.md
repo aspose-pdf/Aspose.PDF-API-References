@@ -4,7 +4,7 @@ linktitle: EnumeratorWrapperIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::EnumeratorWrapperIterator class. Iterator that wraps the pre-created enumerator and redirects all calls into it in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.collections.generic/enumeratorwrapperiterator/
 ---
 ## EnumeratorWrapperIterator class

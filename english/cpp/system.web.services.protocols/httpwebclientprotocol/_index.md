@@ -35,11 +35,6 @@ class HttpWebClientProtocol : public System::Web::Services::Protocols::WebClient
 | [set_UnsafeAuthenticatedConnectionSharing](./set_unsafeauthenticatedconnectionsharing/)(bool) | Sets a value that indicates if the connection sharing is enabled when the client uses NTLM authentication. |
 | [set_UserAgent](./set_useragent/)(String) | Sets a value of the 'User-Agent' header. |
 | [UnregisterMapping](./unregistermapping/)(System::SharedPtr\<Object\>) |  |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [uri](../webclientprotocol/uri/) | The XML [Web](../../system.web/) service URI. |
 ## See Also
 
 * Class [WebClientProtocol](../webclientprotocol/)

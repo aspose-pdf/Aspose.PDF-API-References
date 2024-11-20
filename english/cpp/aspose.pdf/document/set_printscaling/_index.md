@@ -4,7 +4,7 @@ linktitle: set_PrintScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_PrintScaling method. Sets the page scaling option that shall be selected when a print dialog is displayed for this document in C++.'
 type: docs
-weight: 10900
+weight: 11000
 url: /cpp/aspose.pdf/document/set_printscaling/
 ---
 ## Document::set_PrintScaling method

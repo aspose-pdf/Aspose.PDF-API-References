@@ -2,19 +2,23 @@
 title: Aspose::Pdf::Optimization::OptimizationOptions::set_LinkDuplcateStreams method
 linktitle: set_LinkDuplcateStreams
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_LinkDuplcateStreams method. If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times) in C++.'
+description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_LinkDuplcateStreams method. Obsolete! Use LinkDuplicateStreams instead in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_linkduplcatestreams/
 ---
 ## OptimizationOptions::set_LinkDuplcateStreams method
 
 
-If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times).
+Obsolete! Use LinkDuplicateStreams instead.
 
 ```cpp
 void Aspose::Pdf::Optimization::OptimizationOptions::set_LinkDuplcateStreams(bool value)
 ```
+
+
+## Deprecated
+Use LinkDuplicateStreams instead. 
 
 ## See Also
 

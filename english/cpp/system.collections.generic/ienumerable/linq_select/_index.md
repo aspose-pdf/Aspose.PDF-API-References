@@ -4,7 +4,7 @@ linktitle: LINQ_Select
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_Select method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2100
+weight: 2600
 url: /cpp/system.collections.generic/ienumerable/linq_select/
 ---
 ## IEnumerable::LINQ_Select(const Func\<Source, int32_t, Result\>\&) method

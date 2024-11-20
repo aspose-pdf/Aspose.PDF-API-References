@@ -131,6 +131,7 @@ class Document : public System::IDisposable,
 | [HasIncrementalUpdate](./hasincrementalupdate/)() | Checks if the current PDF document has been saved with incremental updates. |
 | [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(System::String) | Imports annotations from XFDF file to document. |
 | [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Imports annotations from stream to document. |
+| [IsRepairNeeded](./isrepairneeded/)(System::SharedPtr\<Document::RepairOptions\>\&) | Checks if document requires Repair method call. |
 | [LoadFrom](./loadfrom/)(System::String, System::SharedPtr\<LoadOptions\>) | Loads a file, converting it to PDF. |
 | [Merge](./merge/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
 | [Merge](./merge/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::String\>\&) | Merges documents. |
@@ -202,7 +203,6 @@ class Document : public System::IDisposable,
 | Field | Description |
 | --- | --- |
 | static [DefaultNodesNumInSubtrees](./defaultnodesnuminsubtrees/) |  |
-| [FontSubstitution](./fontsubstitution/) | Occurs when font replaces another font in document. |
 ## Typedefs
 
 | Typedef | Description |

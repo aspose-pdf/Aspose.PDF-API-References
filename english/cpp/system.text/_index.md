@@ -4,7 +4,7 @@ linktitle: System::Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Text namespace in C++.'
 type: docs
-weight: 7300
+weight: 7500
 url: /cpp/system.text/
 ---
 

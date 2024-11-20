@@ -4,7 +4,7 @@ linktitle: DocFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::DocFormat enum. Allows to specify .doc or .docx file format in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/aspose.pdf/docsaveoptions/docformat/
 ---
 ## DocFormat enum

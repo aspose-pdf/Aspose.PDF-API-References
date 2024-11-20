@@ -4,7 +4,7 @@ linktitle: Tag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::Tag method. Bind a structure element to the Artifact in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf.logicalstructure/structureelement/tag/
 ---
 ## StructureElement::Tag(System::SharedPtr\<Artifact\>) method

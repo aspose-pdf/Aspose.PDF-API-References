@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::GroupProcessor
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::GroupProcessor namespace in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf.groupprocessor/
 ---
 

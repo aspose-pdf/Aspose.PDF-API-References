@@ -4,7 +4,7 @@ linktitle: VerifySignature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySignature method. Checks the validity of a signature in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.pdf.facades/pdffilesignature/verifysignature/
 ---
 ## PdfFileSignature::VerifySignature method

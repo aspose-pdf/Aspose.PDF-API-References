@@ -4,7 +4,7 @@ linktitle: DefaultConstructor
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::DefaultConstructor typedef. Function pointer to construct type in C++.'
 type: docs
-weight: 5200
+weight: 5600
 url: /cpp/system/typeinfo/defaultconstructor/
 ---
 ## DefaultConstructor typedef

@@ -27,12 +27,6 @@ class EpubLoadOptions : public Aspose::Pdf::LoadOptions
 | [get_PageSize](./get_pagesize/)() const | Gets output page size for import. |
 | [set_CustomCss](./set_customcss/)(System::String) | Sets the custom Css to apply when opening the Epub document. |
 | [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Gets reference on object that represent marging info. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [MarginsAreaUsageMode](./marginsareausagemode/) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
-| [PageSizeAdjustmentMode](./pagesizeadjustmentmode/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

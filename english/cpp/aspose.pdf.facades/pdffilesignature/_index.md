@@ -41,6 +41,7 @@ class PdfFileSignature : public Aspose::Pdf::Facades::SaveableFacade
 | [GetLocation](./getlocation/)(System::String) | Gets the location of a signature. |
 | [GetReason](./getreason/)(System::String) | Gets the reason of a signature. |
 | [GetRevision](./getrevision/)(System::String) | Gets the revision of a signature. |
+| [GetSignaturesInfo](./getsignaturesinfo/)() | Retrieves information about all signatures algorithm present in the PDF document. |
 | [GetSignerName](./getsignername/)(System::String) | Gets the name of person or organization who signing the pdf document. |
 | [GetSignNames](./getsignnames/)(bool) | Gets the names of all not empty signatures. |
 | [GetTotalRevision](./gettotalrevision/)() | Gets the toltal revision. |

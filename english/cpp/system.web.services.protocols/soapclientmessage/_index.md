@@ -26,12 +26,6 @@ class SoapClientMessage : public System::Web::Services::Protocols::SoapMessage
 | [get_SoapVersion](./get_soapversion/)() override | Returns the SOAP version that is used. |
 | [get_Url](./get_url/)() override | Returns the XML [Web](../../system.web/) service URL. |
 | [SoapClientMessage](./soapclientmessage/)(System::SharedPtr\<SoapHttpClientProtocol\>, System::SharedPtr\<SoapMethodStubInfo\>, String, System::ArrayPtr\<System::SharedPtr\<Object\>\>) | Constructs a new instance. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [MethodStubInfo](./methodstubinfo/) | RTTI information. |
-| [Parameters](./parameters/) | A collection of parameters. |
 ## See Also
 
 * Class [SoapMessage](../soapmessage/)

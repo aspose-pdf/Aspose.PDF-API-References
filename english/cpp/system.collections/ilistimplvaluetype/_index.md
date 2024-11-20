@@ -4,7 +4,7 @@ linktitle: IListImplValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::IListImplValueType class. Stub that implements System::Collections::IList interface on System::Collections::Generic::List object Implementation for value types in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.collections/ilistimplvaluetype/
 ---
 ## IListImplValueType class

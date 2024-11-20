@@ -19,7 +19,7 @@ String System::Xml::XmlNodeChangedEventArgs::get_NewValue()
 
 ### ReturnValue
 
-The new value of the node. This method returns **nullptr** if the node is neither an attribute nor a text node, or if the node is being removed. If called in a [XmlDocument::NodeChanging](../../xmldocument/nodechanging/) event, **get_NewValue** returns the value of the node if the change is successful. If called in a [XmlDocument::NodeChanged](../../xmldocument/nodechanged/) event, **get_NewValue** returns the current value of the node.
+The new value of the node. This method returns **nullptr** if the node is neither an attribute nor a text node, or if the node is being removed. If called in a **XmlDocument::NodeChanging** event, **get_NewValue** returns the value of the node if the change is successful. If called in a **XmlDocument::NodeChanged** event, **get_NewValue** returns the current value of the node.
 
 ## See Also
 

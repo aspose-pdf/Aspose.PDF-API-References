@@ -19,7 +19,7 @@ String System::Xml::XmlNodeChangedEventArgs::get_OldValue()
 
 ### ReturnValue
 
-The original value of the node. This method returns **nullptr** if the node is neither an attribute nor a text node, or if the node is being inserted. If called in a [XmlDocument::NodeChanging](../../xmldocument/nodechanging/) event, **get_OldValue** returns the current value of the node that will be replaced if the change is successful. If called in a [XmlDocument::NodeChanged](../../xmldocument/nodechanged/) event, **get_OldValue** returns the value of node prior to the change.
+The original value of the node. This method returns **nullptr** if the node is neither an attribute nor a text node, or if the node is being inserted. If called in a **XmlDocument::NodeChanging** event, **get_OldValue** returns the current value of the node that will be replaced if the change is successful. If called in a **XmlDocument::NodeChanged** event, **get_OldValue** returns the value of node prior to the change.
 
 ## See Also
 

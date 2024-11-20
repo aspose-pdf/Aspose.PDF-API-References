@@ -4,7 +4,7 @@ linktitle: UriPartial
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::UriPartial enum. Represents the parts of a URI for the Uri.GetLeftPart method in C++.'
 type: docs
-weight: 8800
+weight: 9000
 url: /cpp/system/uripartial/
 ---
 ## UriPartial enum

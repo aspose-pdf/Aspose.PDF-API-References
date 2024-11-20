@@ -4,7 +4,7 @@ linktitle: System::ComponentModel::Design::Serialization
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::ComponentModel::Design::Serialization namespace in C++.'
 type: docs
-weight: 3800
+weight: 4000
 url: /cpp/system.componentmodel.design.serialization/
 ---
 

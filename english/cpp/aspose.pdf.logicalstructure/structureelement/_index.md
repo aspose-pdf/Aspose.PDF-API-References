@@ -20,7 +20,7 @@ class StructureElement : public Aspose::Pdf::LogicalStructure::Element
 
 | Method | Description |
 | --- | --- |
-| [ChangeParentElement](./changeparentelement/)(System::SharedPtr\<StructureElement\>) | Change parent element for current structure element. |
+| [ChangeParentElement](./changeparentelement/)(System::SharedPtr\<StructureElement\>, bool) | Change parent element for current structure element. |
 | [ClearId](./clearid/)() | Clear ID for structure element. |
 | [GenerateId](./generateid/)() | Generate ID for structure element. |
 | [get_ActualText](./get_actualtext/)() | Gets the actual text for structure element. |
@@ -34,6 +34,7 @@ class StructureElement : public Aspose::Pdf::LogicalStructure::Element
 | [get_StructureType](./get_structuretype/)() const | Gets type of structure element. |
 | [get_Title](./get_title/)() | Gets the title for structure element. |
 | [Remove](./remove/)() | Removes: an element from the structure, a reference to it from the parent object, references to it from child objects, the corresponding object from the document. |
+| [RemoveAndMoveItsChildObjectsToItsParent](./removeandmoveitschildobjectstoitsparent/)(bool) | Removes an element from the structure, a reference to it from the parent object, references to it from child objects, and the corresponding object from the document. Inserts child objects of the removed object into its former parent child objects collection starting at the index of the removed object. |
 | [set_ActualText](./set_actualtext/)(System::String) | Sets the actual text for structure element. |
 | [set_AlternativeText](./set_alternativetext/)(System::String) | Sets the alternative text for structure element. |
 | [set_ExpansionText](./set_expansiontext/)(System::String) | Sets the expansion text for structure element. |

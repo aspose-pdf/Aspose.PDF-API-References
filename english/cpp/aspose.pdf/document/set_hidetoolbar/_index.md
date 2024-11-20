@@ -4,7 +4,7 @@ linktitle: set_HideToolBar
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_HideToolBar method. Sets flag specifying whether toolbar should be hidden when document is active in C++.'
 type: docs
-weight: 9700
+weight: 9800
 url: /cpp/aspose.pdf/document/set_hidetoolbar/
 ---
 ## Document::set_HideToolBar method

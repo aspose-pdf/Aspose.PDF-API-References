@@ -4,7 +4,7 @@ linktitle: SetTitle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::SetTitle method. Set Title for PdfDocument in C++.'
 type: docs
-weight: 11000
+weight: 11100
 url: /cpp/aspose.pdf/document/settitle/
 ---
 ## Document::SetTitle method

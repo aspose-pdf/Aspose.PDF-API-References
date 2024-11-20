@@ -4,7 +4,7 @@ linktitle: Nullable
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Nullable class. Forward declaration in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/system/nullable/
 ---
 ## Nullable class

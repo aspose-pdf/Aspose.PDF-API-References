@@ -4,7 +4,7 @@ linktitle: SetBaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::SetBaseType method. Sets base type descritor in C++.'
 type: docs
-weight: 4800
+weight: 5100
 url: /cpp/system/typeinfo/setbasetype/
 ---
 ## TypeInfo::SetBaseType method

@@ -4,7 +4,7 @@ linktitle: System::Windows::Forms
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Windows::Forms namespace in C++.'
 type: docs
-weight: 8200
+weight: 8400
 url: /cpp/system.windows.forms/
 ---
 

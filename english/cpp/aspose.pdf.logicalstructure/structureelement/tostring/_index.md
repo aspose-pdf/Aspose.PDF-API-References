@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::ToString method. Returns a string that represents the current object in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.pdf.logicalstructure/structureelement/tostring/
 ---
 ## StructureElement::ToString method

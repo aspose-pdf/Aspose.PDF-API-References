@@ -4,7 +4,7 @@ linktitle: SortedDictionaryPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedDictionaryPtr class. Sorted dictionary pointer with access operators. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/system.collections.generic/sorteddictionaryptr/
 ---
 ## SortedDictionaryPtr class

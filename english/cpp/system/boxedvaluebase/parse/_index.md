@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::BoxedValueBase::Parse method. Boxes the value of enumeration constant of the specified enumeration with the specified name in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system/boxedvaluebase/parse/
 ---
 ## BoxedValueBase::Parse(const TypeInfo\&, const String\&) method

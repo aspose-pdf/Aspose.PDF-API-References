@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Comparison::OutputGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Comparison::OutputGenerator namespace in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.comparison.outputgenerator/
 ---
 

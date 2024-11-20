@@ -71,11 +71,6 @@ class Form : public System::Collections::Generic::ICollection<System::SharedPtr<
 | [set_SignaturesAppendOnly](./set_signaturesappendonly/)(bool) | If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as opposed to an incremental update. |
 | [set_SignaturesExist](./set_signaturesexist/)(bool) | If set, the document contains at least one signature field. |
 | [set_Type](./set_type/)(FormType) | Gets type of the form. Possible values are: Standard, Static, Dynamic. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [SignDependentElementsRenderingModeWhenConverted](./signdependentelementsrenderingmodewhenconverted/) | [Forms](../) can contain signing information, i.e. can be signed or unsigned. And form's view sometimes must depend on whether form is signed or not. This property tells to form's converter (f.e. during conversion [XFA](../xfa/) form to Standard form) whether result form must be rendered as signed or as unsigned. |
 ## See Also
 
 * Class [ICollection](../../system.collections.generic/icollection/)

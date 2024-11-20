@@ -4,7 +4,7 @@ linktitle: Tuple
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Tuple class. Class that represents a tuple data structure. Maximum number of items is 8 in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/system/tuple/
 ---
 ## Tuple class

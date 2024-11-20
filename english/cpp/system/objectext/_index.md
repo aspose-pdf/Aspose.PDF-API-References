@@ -4,7 +4,7 @@ linktitle: ObjectExt
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt class. Provides static methods that emulate C# Object methods called for non-Object C++ types (strings, numbers, etc.). This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 4700
+weight: 4900
 url: /cpp/system/objectext/
 ---
 ## ObjectExt class

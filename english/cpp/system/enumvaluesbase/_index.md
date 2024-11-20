@@ -20,8 +20,12 @@ class EnumValuesBase
 
 | Method | Description |
 | --- | --- |
+| static [GetNames](./getnames/)(const TypeInfo\&) | Retrieves an array of the names of the constants in a specified enumeration. |
+| static [GetUnderlyingType](./getunderlyingtype/)(const TypeInfo\&) | Returns the underlying type of the specified enumeration. |
 | static [GetValues](./getvalues/)(const TypeInfo\&) | Returns an array containing all values of the specified enumeration type. |
 | static [Parse](./parse/)(const TypeInfo\&, const String\&, bool) | Returns an object that represents a value of enumeration constant of the specified enumeration type with the specified name. |
+| static [ToObject](./toobject/)(const TypeInfo\&, uint64_t) | Converts the specified 64-bit unsigned integer value to an enumeration member. |
+| static [ToObject](./toobject/)(const TypeInfo\&, const SharedPtr\<Object\>\&) | Converts the specified object with an integer value to an enumeration member. |
 ## See Also
 
 * Namespace [System](../)

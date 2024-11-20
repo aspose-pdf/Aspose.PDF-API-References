@@ -4,7 +4,7 @@ linktitle: FontNotFoundException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::FontNotFoundException typedef in C++.'
 type: docs
-weight: 23900
+weight: 24100
 url: /cpp/aspose.pdf/fontnotfoundexception/
 ---
 ## FontNotFoundException typedef

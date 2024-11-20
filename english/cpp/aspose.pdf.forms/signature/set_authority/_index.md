@@ -4,7 +4,7 @@ linktitle: set_Authority
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::set_Authority method. The name of the person or authority signing the document in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf.forms/signature/set_authority/
 ---
 ## Signature::set_Authority method

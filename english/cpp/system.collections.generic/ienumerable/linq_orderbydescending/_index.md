@@ -4,7 +4,7 @@ linktitle: LINQ_OrderByDescending
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_OrderByDescending method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2000
+weight: 2400
 url: /cpp/system.collections.generic/ienumerable/linq_orderbydescending/
 ---
 ## IEnumerable::LINQ_OrderByDescending(const Func\<Source, Key\>\&) method
@@ -13,13 +13,13 @@ url: /cpp/system.collections.generic/ienumerable/linq_orderbydescending/
 
 
 ```cpp
-template<typename Key> SharedPtr<IEnumerable<Source>> System::Collections::Generic::IEnumerable<T>::LINQ_OrderByDescending(const Func<Source, Key> &keySelector)
+template<typename Key> SharedPtr<Linq::IOrderedEnumerable<Source>> System::Collections::Generic::IEnumerable<T>::LINQ_OrderByDescending(const Func<Source, Key> &keySelector)
 ```
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../)
+* Class [IOrderedEnumerable](../../../system.linq/iorderedenumerable/)
 * Class [Func](../../../system/func/)
 * Class [IEnumerable](../)
 * Namespace [System::Collections::Generic](../../)
@@ -30,7 +30,7 @@ template<typename Key> SharedPtr<IEnumerable<Source>> System::Collections::Gener
 Sorts the elements of a sequence in descending order according to the key values selected by keySelector.
 
 ```cpp
-template<typename Key> SharedPtr<IEnumerable<T>> System::Collections::Generic::IEnumerable<T>::LINQ_OrderByDescending(const Func<T, Key> &keySelector)
+template<typename Key> SharedPtr<Linq::IOrderedEnumerable<T>> System::Collections::Generic::IEnumerable<T>::LINQ_OrderByDescending(const Func<T, Key> &keySelector)
 ```
 
 
@@ -40,12 +40,12 @@ template<typename Key> SharedPtr<IEnumerable<T>> System::Collections::Generic::I
 
 ### ReturnValue
 
-An [IEnumerable](../) whose elements are sorted to the descending order of the key
+An IOrderedEnumerable whose elements are sorted to the descending order of the key
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../)
+* Class [IOrderedEnumerable](../../../system.linq/iorderedenumerable/)
 * Class [Func](../../../system/func/)
 * Class [IEnumerable](../)
 * Namespace [System::Collections::Generic](../../)

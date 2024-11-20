@@ -24,7 +24,7 @@ class Signature : public System::Object
 | [get_ByteRange](./get_byterange/)() const | An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
 | [get_ContactInfo](./get_contactinfo/)() const | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [get_CustomAppearance](./get_customappearance/)() const | Gets/sets the custom appearance. |
-| [get_CustomSignHash](./get_customsignhash/)() const | The delegate for custom sign the document hash (Beta). |
+| [get_CustomSignHash](./get_customsignhash/)() const | The delegate for custom sign the document hash. |
 | [get_Date](./get_date/)() const | The time of signing. |
 | [get_Location](./get_location/)() const | The CPU host name or physical location of the signing. |
 | [get_OcspSettings](./get_ocspsettings/)() const | Gets/sets ocsp settings. |
@@ -32,10 +32,11 @@ class Signature : public System::Object
 | [get_ShowProperties](./get_showproperties/)() const | Force to show/hide signature properties. |
 | [get_TimestampSettings](./get_timestampsettings/)() const | Gets/sets timestamp settings. |
 | [get_UseLtv](./get_useltv/)() const | Gets/sets ltv validation flag. |
+| [GetSignatureAlgorithmInfo](./getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
 | [set_Authority](./set_authority/)(System::String) | The name of the person or authority signing the document. |
 | [set_ContactInfo](./set_contactinfo/)(System::String) | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [set_CustomAppearance](./set_customappearance/)(System::SharedPtr\<SignatureCustomAppearance\>) | Gets/sets the custom appearance. |
-| [set_CustomSignHash](./set_customsignhash/)(SignHash) | The delegate for custom sign the document hash (Beta). |
+| [set_CustomSignHash](./set_customsignhash/)(SignHash) | The delegate for custom sign the document hash. |
 | [set_Date](./set_date/)(System::DateTime) | The time of signing. |
 | [set_Location](./set_location/)(System::String) | The CPU host name or physical location of the signing. |
 | [set_OcspSettings](./set_ocspsettings/)(System::SharedPtr\<Aspose::Pdf::OcspSettings\>) | Gets/sets ocsp settings. |

@@ -4,7 +4,7 @@ linktitle: LINQ_FirstOrDefault
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_FirstOrDefault method. Returns the first element of a sequence, or a default value if the sequence is empty in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/system.collections.generic/ienumerable/linq_firstordefault/
 ---
 ## IEnumerable::LINQ_FirstOrDefault() method

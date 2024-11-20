@@ -22,19 +22,12 @@ class BackgroundWorker : public System::ComponentModel::Component
 | --- | --- |
 | [BackgroundWorker](./backgroundworker/)() | RTTI information. |
 | [get_WorkerReportsProgress](./get_workerreportsprogress/)() const | Gets a value indicating whether the [System::ComponentModel::BackgroundWorker](./) can report progress updates. |
-| [ReportProgress](./reportprogress/)(int) | Raises the [System::ComponentModel::BackgroundWorker::ProgressChanged](./progresschanged/) event. |
-| [ReportProgress](./reportprogress/)(int, const System::SharedPtr\<System::Object\>\&) | Raises the [System::ComponentModel::BackgroundWorker::ProgressChanged](./progresschanged/) event with userState object. |
+| [ReportProgress](./reportprogress/)(int) | Raises the **System::ComponentModel::BackgroundWorker::ProgressChanged** event. |
+| [ReportProgress](./reportprogress/)(int, const System::SharedPtr\<System::Object\>\&) | Raises the **System::ComponentModel::BackgroundWorker::ProgressChanged** event with userState object. |
 | [RunWorkerAsync](./runworkerasync/)() | Starts execution of a background operation. |
 | [RunWorkerAsync](./runworkerasync/)(const System::SharedPtr\<System::Object\>\&) | Starts execution of a background operation. |
 | [set_WorkerReportsProgress](./set_workerreportsprogress/)(bool) | Sets a value indicating whether the [System::ComponentModel::BackgroundWorker](./) can report progress updates. |
 | [~BackgroundWorker](./~backgroundworker/)() | Destructor. |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [DoWork](./dowork/) | Occurs when [System::ComponentModel::BackgroundWorker::RunWorkerAsync](./runworkerasync/) is called. |
-| [ProgressChanged](./progresschanged/) | Occurs when [System::ComponentModel::BackgroundWorker::ReportProgress(int)](./reportprogress/) is called. |
-| [RunWorkerCompleted](./runworkercompleted/) | Occurs when the background operation has completed, has been canceled, or has raised an exception. |
 ## See Also
 
 * Class [Component](../component/)

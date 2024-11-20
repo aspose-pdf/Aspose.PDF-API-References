@@ -4,7 +4,7 @@ linktitle: Row
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row class. Represents a row of the table in C++.'
 type: docs
-weight: 14000
+weight: 14200
 url: /cpp/aspose.pdf/row/
 ---
 ## Row class

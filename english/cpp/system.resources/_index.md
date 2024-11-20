@@ -4,7 +4,7 @@ linktitle: System::Resources
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Resources namespace in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/system.resources/
 ---
 

@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Forms::PKCS7::PKCS7 constructor
 linktitle: PKCS7
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::PKCS7::PKCS7 constructor. Inititalizes new instance of the PKCS7 class in C++.'
+description: 'Aspose::Pdf::Forms::PKCS7::PKCS7 constructor. Initializes new instance of the PKCS7 class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.forms/pkcs7/pkcs7/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/pkcs7/pkcs7/
 ## PKCS7::PKCS7() constructor
 
 
-Inititalizes new instance of the [PKCS7](../) class.
+Initializes new instance of the [PKCS7](../) class.
 
 ```cpp
 Aspose::Pdf::Forms::PKCS7::PKCS7()
@@ -24,7 +24,7 @@ Aspose::Pdf::Forms::PKCS7::PKCS7()
 ## PKCS7::PKCS7(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
 
 
-Inititalizes new instance of the [PKCS7](../) class.
+Initializes new instance of the [PKCS7](../) class.
 
 ```cpp
 Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<System::IO::Stream> pfx, System::String password)
@@ -47,7 +47,7 @@ Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<System::IO::Stream> pfx, Syst
 ## PKCS7::PKCS7(System::String, System::String) constructor
 
 
-Inititalizes new instance of the [PKCS7](../) class.
+Initializes new instance of the [PKCS7](../) class.
 
 ```cpp
 Aspose::Pdf::Forms::PKCS7::PKCS7(System::String pfx, System::String password)

@@ -4,7 +4,7 @@ linktitle: GetSignNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetSignNames method. Gets the names of all not empty signatures in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
 ## PdfFileSignature::GetSignNames method

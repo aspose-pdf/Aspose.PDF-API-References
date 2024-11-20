@@ -4,7 +4,7 @@ linktitle: TypeInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo class. Represents a particular type and provides information about it in C++.'
 type: docs
-weight: 6200
+weight: 6400
 url: /cpp/system/typeinfo/
 ---
 ## TypeInfo class
@@ -27,6 +27,7 @@ class TypeInfo
 | [AddDefaultConstructor](./adddefaultconstructor/)(DefaultConstructor) | Sets default constructor by the functor that creates class instanse. |
 | [AddMember](./addmember/)(const SharedPtr\<System::Reflection::MemberInfo\>\&) | Adds the specified member to the list of type's members. |
 | static [BoxedValueType](./boxedvaluetype/)() | Provides unique [TypeInfo](./) structure for [BoxedValue](./boxedvalue/) type to be shared by multiple Boxed* classes. |
+| [Equals](./equals/)(const TypeInfo\&) const |  |
 | [get_Assembly](./get_assembly/)() const | NOT IMPLEMENTED. Returns a pointer to the assembly in which the type represented by the current object is declared. |
 | [get_AssemblyQualifiedName](./get_assemblyqualifiedname/)() const | NOT IMPLEMENTED. Returns the fully qualified name including the assembly name of the type represented by the current object. |
 | [get_BaseType](./get_basetype/)() const | Returns base type descritor. |
@@ -53,6 +54,7 @@ class TypeInfo
 | [GetCustomAttributes](./getcustomattributes/)() const | Returns an array containing objects that represent all custom attributes applied to the type. |
 | [GetCustomAttributes](./getcustomattributes/)(const TypeInfo\&, bool) const | Returns an array containing objects that represent specific attributes applied to the type. |
 | [GetElementType](./getelementtype/)() const | NOT IMPLEMENTED. |
+| [GetField](./getfield/)(const System::String\&, System::Reflection::BindingFlags) const | Searches for the specified field, using the specified binding constraints. |
 | [GetFields](./getfields/)(System::Reflection::BindingFlags) const | Searches for the fields defined for the current Type, using the specified binding constraints. |
 | [GetGenericArguments](./getgenericarguments/)() const | Gets an array of the generic type arguments for this type. |
 | [GetHashCode](./gethashcode/)() const | Returns a hash code associated with this instance. |
@@ -64,6 +66,7 @@ class TypeInfo
 | [GetTemplParamType](./gettemplparamtype/)() const | Gets template parameter type descritor. |
 | [Hash](./hash/)() const | Returns a hash value associated with the type represented by the current object. |
 | [IsAssignableFrom](./isassignablefrom/)(const TypeInfo\&) const | Determines whether an instance of a specified type can be assigned to a variable of the current type. |
+| [IsDefined](./isdefined/)(const TypeInfo\&, bool) const | NOT IMPLEMENTED. Indicates whether one or more attributes of the specified type or of its derived types is applied to this member. |
 | [IsInstanceOfType](./isinstanceoftype/)(const SharedPtr\<Object\>\&) const | Determines whether the specified object is an instance of the current type. |
 | [IsSubclassOf](./issubclassof/)(const TypeInfo\&) const | Determines whether the type represented by the current object is a subclass of the specified class. |
 | [operator!=](./operator!=/)(const TypeInfo\&) const | Determines if the current and the specified [TypeInfo](./) objects are not equal. |
@@ -86,6 +89,7 @@ class TypeInfo
 
 | Field | Description |
 | --- | --- |
+| static [EmptyType](./emptytype/) | Constant representing empty list of [TypeInfo](./). |
 | static [EmptyTypes](./emptytypes/) | Constant representing empty list of [TypeInfo](./). |
 ## Typedefs
 

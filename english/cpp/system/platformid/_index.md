@@ -4,7 +4,7 @@ linktitle: PlatformID
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::PlatformID enum. Represents an operating system platform in C++.'
 type: docs
-weight: 7900
+weight: 8100
 url: /cpp/system/platformid/
 ---
 ## PlatformID enum

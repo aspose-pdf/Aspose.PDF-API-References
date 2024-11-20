@@ -4,7 +4,7 @@ linktitle: ProcessParagraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::ProcessParagraphs method. Process paragraphs for generator in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/aspose.pdf/document/processparagraphs/
 ---
 ## Document::ProcessParagraphs method

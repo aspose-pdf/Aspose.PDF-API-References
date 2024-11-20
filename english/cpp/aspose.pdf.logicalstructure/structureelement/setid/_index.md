@@ -4,7 +4,7 @@ linktitle: SetId
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::SetId method. Sets ID for structure element in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf.logicalstructure/structureelement/setid/
 ---
 ## StructureElement::SetId method

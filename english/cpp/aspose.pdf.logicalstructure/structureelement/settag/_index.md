@@ -4,7 +4,7 @@ linktitle: SetTag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::SetTag method. Sets custom tag for structure element in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.logicalstructure/structureelement/settag/
 ---
 ## StructureElement::SetTag method

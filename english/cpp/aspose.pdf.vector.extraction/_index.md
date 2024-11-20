@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Vector::Extraction
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Vector::Extraction namespace in C++.'
 type: docs
-weight: 2900
+weight: 3100
 url: /cpp/aspose.pdf.vector.extraction/
 ---
 

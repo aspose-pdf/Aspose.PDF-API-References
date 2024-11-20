@@ -4,7 +4,7 @@ linktitle: AsCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::AsCast method. Casts the source type to the result type using ''as'' operator cast. Used when simple constructor-like cast is needed in C++.'
 type: docs
-weight: 12700
+weight: 12900
 url: /cpp/system/ascast/
 ---
 ## System::AsCast(const Source\&) method
@@ -193,6 +193,33 @@ template<typename Result,typename Source> std::enable_if_t<Details::CastType<Sou
 ### ReturnValue
 
 The cast result. Returns empty nullable if no conversion available.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::AsCast(const Source\&) method
+
+
+Invalid unboxing to non-object type.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::InvalidUnboxing, Result> System::AsCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+Always returns null.
 
 ## See Also
 

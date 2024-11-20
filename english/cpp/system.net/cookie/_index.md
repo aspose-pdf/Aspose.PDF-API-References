@@ -76,8 +76,6 @@ class Cookie : public System::Object
 | static [EqualsLiteral](./equalsliteral/) | The separator that is used to separates the name and value of an attribute. |
 | static [ExpiresAttributeName](./expiresattributename/) | The 'Expires' attribute's name. |
 | static [HttpOnlyAttributeName](./httponlyattributename/) | The 'HttpOnly' attribute's name. |
-| [IsQuotedDomain](./isquoteddomain/) | A value that indicates if the domain is wrapped in the quotes. |
-| [IsQuotedVersion](./isquotedversion/) | A value that indicates if the version is wrapped in the quotes. |
 | static [MaxAgeAttributeName](./maxageattributename/) | The 'Max-Age' attribute's name. |
 | static [MaxSupportedVersion](./maxsupportedversion/) | RTTI information. |
 | static [MaxSupportedVersionString](./maxsupportedversionstring/) | The string representation of the maximum supported version. |
