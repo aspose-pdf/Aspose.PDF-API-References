@@ -3,7 +3,7 @@ title: Class GraphInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.GraphInfo class. Represents graphics info
 type: docs
-weight: 3840
+weight: 4010
 url: /net/aspose.pdf/graphinfo/
 ---
 ## GraphInfo class
@@ -35,6 +35,8 @@ public sealed class GraphInfo : ICloneable
 | [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | Gets or sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
 | [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | Gets or sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
 | [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | Gets or sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
+| [X](../../aspose.pdf/graphinfo/x/) { get; } | Retrieve the X coordinate of a vertical border when using TableAbsorber, and return "-1" for a horizontal border. |
+| [Y](../../aspose.pdf/graphinfo/y/) { get; } | Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and return "-1" for a vertical border. |
 
 ## Methods
 

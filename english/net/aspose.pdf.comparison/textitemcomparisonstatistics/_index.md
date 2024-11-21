@@ -3,7 +3,7 @@ title: Class TextItemComparisonStatistics
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.TextItemComparisonStatistics class. Represents a text comparison ststistics class
 type: docs
-weight: 1910
+weight: 2080
 url: /net/aspose.pdf.comparison/textitemcomparisonstatistics/
 ---
 ## TextItemComparisonStatistics class

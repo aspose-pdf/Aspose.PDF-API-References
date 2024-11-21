@@ -3,7 +3,7 @@ title: Class EndPath
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.EndPath class. Class representing n operator end path without filling or stroking
 type: docs
-weight: 5750
+weight: 5920
 url: /net/aspose.pdf.operators/endpath/
 ---
 ## EndPath class

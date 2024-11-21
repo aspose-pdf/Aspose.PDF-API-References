@@ -3,7 +3,7 @@ title: Class CollectionField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CollectionField class. Represents a document collection schema field class
 type: docs
-weight: 1630
+weight: 1800
 url: /net/aspose.pdf/collectionfield/
 ---
 ## CollectionField class

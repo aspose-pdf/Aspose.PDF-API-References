@@ -3,7 +3,7 @@ title: GraphInfo.Clone
 second_title: Aspose.PDF for .NET API Reference
 description: GraphInfo method. Clone the graphics info
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.pdf/graphinfo/clone/
 ---
 ## GraphInfo.Clone method

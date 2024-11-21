@@ -11,13 +11,14 @@ url: /net/aspose.pdf.logicalstructure/element/insertchild/
 Insert Element to collection of children at specified index.
 
 ```csharp
-public Element InsertChild(Element element, int index)
+public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | element | Element | Element object to add. |
 | index | Int32 | Element index. |
+| checkIfCanBeInserted | Boolean | Check if can be inserted. |
 
 ### Return Value
 

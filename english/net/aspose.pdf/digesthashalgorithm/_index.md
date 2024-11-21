@@ -1,14 +1,14 @@
 ---
 title: Enum DigestHashAlgorithm
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algoritm that maps data to a hash
+description: Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algorithm that maps data to a hash
 type: docs
-weight: 2220
+weight: 2390
 url: /net/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enumeration
 
-Represent type of algoritm that maps data to a "hash"
+Represent type of algorithm that maps data to a "hash"
 
 ```csharp
 public enum DigestHashAlgorithm
@@ -18,9 +18,11 @@ public enum DigestHashAlgorithm
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Sha1 | `0` | SHA-1. Secure Hash Algorithm 1 |
-| Sha256 | `1` | SHA-256. Secure Hash Algorithm 2 |
-| Sha512 | `2` | SHA-512. Secure Hash Algorithm 2 |
+| Auto | `0` | Automatic setting of the hashing algorithm at the discretion of the signature algorithm. For EDCSA, the default value is determined by the key size. The default value for a not detached PKCS7 is Sha1. |
+| Sha1 | `1` | SHA-1. Secure Hash Algorithm 1 It is a default value for a not detached PKCS7. |
+| Sha256 | `2` | SHA-256. Secure Hash Algorithm 2 It is a default value for a detached PKCS7. |
+| Sha384 | `3` | SHA-384. Secure Hash Algorithm 2 |
+| Sha512 | `4` | SHA-512. Secure Hash Algorithm 2 |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: PageCollection.Insert
 second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Insert empty apge into collection at the specified position
+description: PageCollection method. Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes the size of the most frequently occurring page will be selected. In the case there are only two different pages the size of the first page will be used
 type: docs
 weight: 160
 url: /net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-Insert empty apge into collection at the specified position.
+Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
 
 ```csharp
 public Page Insert(int pageNumber)

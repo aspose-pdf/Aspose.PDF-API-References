@@ -3,7 +3,7 @@ title: Aspose.Pdf.Vector.Extraction
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 330
+weight: 350
 url: /net/aspose.pdf.vector.extraction/
 ---
 

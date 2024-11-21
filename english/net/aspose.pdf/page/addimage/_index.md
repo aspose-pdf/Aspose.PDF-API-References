@@ -6,12 +6,13 @@ type: docs
 weight: 350
 url: /net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
 Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
+    bool autoAdjustRectangle = true)
 ```
 
 | Parameter | Type | Description |
@@ -19,6 +20,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = n
 | imageStream | Stream | The stream of the image. |
 | imageRect | Rectangle | The position of the image. |
 | bbox | Rectangle | Bbox of the image. |
+| autoAdjustRectangle | Boolean | Adjust image in center of the input rectangle. |
 
 ### See Also
 

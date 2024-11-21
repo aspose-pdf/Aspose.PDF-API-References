@@ -11,12 +11,14 @@ url: /net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 Change parent element for current structure element
 
 ```csharp
-public void ChangeParentElement(StructureElement newParentElement)
+public void ChangeParentElement(StructureElement newParentElement, 
+    bool checkIfParentCanBeChanged = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | newParentElement | StructureElement | New parent structure element |
+| checkIfParentCanBeChanged | Boolean | Check if parent be changed. |
 
 ### See Also
 

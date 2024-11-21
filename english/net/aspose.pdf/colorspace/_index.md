@@ -3,7 +3,7 @@ title: Enum ColorSpace
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ColorSpace enum. The color spaces enumeration
 type: docs
-weight: 1690
+weight: 1860
 url: /net/aspose.pdf/colorspace/
 ---
 ## ColorSpace enumeration

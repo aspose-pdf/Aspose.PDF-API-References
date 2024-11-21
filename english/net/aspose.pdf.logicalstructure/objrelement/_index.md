@@ -3,7 +3,7 @@ title: Class OBJRElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.OBJRElement class. Represents object reference entity in logical structure
 type: docs
-weight: 4940
+weight: 5110
 url: /net/aspose.pdf.logicalstructure/objrelement/
 ---
 ## OBJRElement class
@@ -25,10 +25,10 @@ public sealed class OBJRElement : Element
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element) | Append Element to collection of children. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int) | Insert Element to collection of children at specified index. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert Element to collection of children at specified index. |
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | override [Tag](../../aspose.pdf.logicalstructure/objrelement/tag/#tag_2)(Annotation) | Bind a structure element to the Annotation. |
 | override [Tag](../../aspose.pdf.logicalstructure/objrelement/tag/#tag)(Artifact) | Bind a structure element to the Artifact. |

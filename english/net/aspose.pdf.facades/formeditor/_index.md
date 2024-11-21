@@ -3,7 +3,7 @@ title: Class FormEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FormEditor class. Class for editing forms ading/deleting field etc
 type: docs
-weight: 2840
+weight: 3010
 url: /net/aspose.pdf.facades/formeditor/
 ---
 ## FormEditor class

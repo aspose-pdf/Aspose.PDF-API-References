@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions
+title: Class LlamaSummaryCopilotOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Aspose.Pdf.AI.LlamaSummaryCopilotOptions class. 
 type: docs
 weight: 750
 url: /net/aspose.pdf.ai/llamasummarycopilotoptions/
@@ -17,40 +17,40 @@ public class LlamaSummaryCopilotOptions : LlamaCopilotOptionsBase,
 
 | Name | Description |
 | --- | --- |
-| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection) { get; set; } |  |
-| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens) { get; set; } |  |
-| virtual [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model) { get; set; } |  |
-| [SummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt) { get; set; } |  |
-| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions) { get; set; } |  |
-| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature) { get; set; } |  |
-| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp) { get; set; } |  |
+| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/) { get; set; } |  |
+| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/) { get; set; } |  |
+| virtual [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model/) { get; set; } |  |
+| [SummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/) { get; set; } |  |
+| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/) { get; set; } |  |
+| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature/) { get; set; } |  |
+| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create#create)() |  |
-| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create#create_1)(Action&lt;LlamaSummaryCopilotOptions&gt;) |  |
-| [GetOptions](../../aspose.pdf.ai/llamasummarycopilotoptions/getoptions)() |  |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument#withdocument)(PdfDocument) |  |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument#withdocument_2)(string) |  |
-| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument#withdocument_1)(TextDocument) |  |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments#withdocuments)(DocumentCollection) |  |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments#withdocuments_1)(List&lt;PdfDocument&gt;) |  |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments#withdocuments_3)(List&lt;string&gt;) |  |
-| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments#withdocuments_2)(List&lt;TextDocument&gt;) |  |
-| [WithInstructions](../../aspose.pdf.ai/llamasummarycopilotoptions/withinstructions)(string) |  |
-| [WithMaxCompletionTokens](../../aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens)(int?) |  |
-| [WithModel](../../aspose.pdf.ai/llamasummarycopilotoptions/withmodel)(string) |  |
-| [WithSummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt)(string) |  |
-| [WithTemperature](../../aspose.pdf.ai/llamasummarycopilotoptions/withtemperature)(double?) |  |
-| [WithTopP](../../aspose.pdf.ai/llamasummarycopilotoptions/withtopp)(double?) |  |
+| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create/#create)() |  |
+| static [Create](../../aspose.pdf.ai/llamasummarycopilotoptions/create/#create_1)(Action&lt;LlamaSummaryCopilotOptions&gt;) |  |
+| [GetOptions](../../aspose.pdf.ai/llamasummarycopilotoptions/getoptions/)() |  |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument)(PdfDocument) |  |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_2)(string) |  |
+| [WithDocument](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocument/#withdocument_1)(TextDocument) |  |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments)(DocumentCollection) |  |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_1)(List&lt;PdfDocument&gt;) |  |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_3)(List&lt;string&gt;) |  |
+| [WithDocuments](../../aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/#withdocuments_2)(List&lt;TextDocument&gt;) |  |
+| [WithInstructions](../../aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/)(string) |  |
+| [WithMaxCompletionTokens](../../aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/)(int?) |  |
+| [WithModel](../../aspose.pdf.ai/llamasummarycopilotoptions/withmodel/)(string) |  |
+| [WithSummaryPrompt](../../aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/)(string) |  |
+| [WithTemperature](../../aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/)(double?) |  |
+| [WithTopP](../../aspose.pdf.ai/llamasummarycopilotoptions/withtopp/)(double?) |  |
 
 ### See Also
 
-* class [LlamaCopilotOptionsBase](../llamacopilotoptionsbase)
-* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../isummarycopilotoptions-1)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai)
+* class [LlamaCopilotOptionsBase](../llamacopilotoptionsbase/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../isummarycopilotoptions-1/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

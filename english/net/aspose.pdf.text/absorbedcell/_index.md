@@ -3,7 +3,7 @@ title: Class AbsorbedCell
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.AbsorbedCell class. Represents cell of table that exist on the page
 type: docs
-weight: 7570
+weight: 7850
 url: /net/aspose.pdf.text/absorbedcell/
 ---
 ## AbsorbedCell class
@@ -18,7 +18,7 @@ public class AbsorbedCell : IComparable<AbsorbedCell>, ITableElement
 
 | Name | Description |
 | --- | --- |
-| [BorderInfo](../../aspose.pdf.text/absorbedcell/borderinfo/) { get; } |  |
+| [BorderInfo](../../aspose.pdf.text/absorbedcell/borderinfo/) { get; } | Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true. |
 | [ColSpan](../../aspose.pdf.text/absorbedcell/colspan/) { get; } | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true. |
 | [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle/) { get; } | Gets rectangle that describes position of the cell on page |
 | [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments/) { get; } | Gets collection of [`TextFragment`](../textfragment/) objects that describes text containing in the cell |

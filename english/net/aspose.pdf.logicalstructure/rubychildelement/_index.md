@@ -3,7 +3,7 @@ title: Class RubyChildElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.RubyChildElement class. Represents a base class for children elements of the Ruby in logical structure
 type: docs
-weight: 5000
+weight: 5170
 url: /net/aspose.pdf.logicalstructure/rubychildelement/
 ---
 ## RubyChildElement class
@@ -35,14 +35,15 @@ public abstract class RubyChildElement : StructureElement
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element) | Append Element to collection of children. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement) | Change parent element for current structure element |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
 | [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Clear ID for structure element. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
 | [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Generate ID for structure element. |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int) | Insert Element to collection of children at specified index. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert Element to collection of children at specified index. |
 | [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Removes: an element from the structure, a reference to it from the parent object, references to it from child objects, the corresponding object from the document. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Removes an element from the structure, a reference to it from the parent object, references to it from child objects, and the corresponding object from the document. Inserts child objects of the removed object into its former parent child objects collection starting at the index of the removed object. |
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sets ID for structure element. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sets custom tag for structure element. |

@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 2280
+weight: 2450
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -131,6 +131,7 @@ public sealed class Document : IDisposable
 | [HasIncrementalUpdate](../../aspose.pdf/document/hasincrementalupdate/)() | Checks if the current PDF document has been saved with incremental updates. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf)(Stream) | Imports annotations from stream to document. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf_1)(string) | Imports annotations from XFDF file to document. |
+| [IsRepairNeeded](../../aspose.pdf/document/isrepairneeded/)(out RepairOptions) | Checks if document requires Repair method call. |
 | [LoadFrom](../../aspose.pdf/document/loadfrom/)(string, LoadOptions) | Loads a file, converting it to PDF. |
 | [Merge](../../aspose.pdf/document/merge/#merge)(params Document[]) | Merges documents. |
 | [Merge](../../aspose.pdf/document/merge/#merge_3)(params string[]) | Merges pdf files. |

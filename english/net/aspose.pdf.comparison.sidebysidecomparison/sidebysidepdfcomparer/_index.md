@@ -3,7 +3,7 @@ title: Class SideBySidePdfComparer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.SideBySideComparison.SideBySidePdfComparer class. 
 type: docs
-weight: 1900
+weight: 2070
 url: /net/aspose.pdf.comparison.sidebysidecomparison/sidebysidepdfcomparer/
 ---
 ## SideBySidePdfComparer class

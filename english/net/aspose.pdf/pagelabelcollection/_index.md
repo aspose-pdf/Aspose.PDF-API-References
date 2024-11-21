@@ -3,7 +3,7 @@ title: Class PageLabelCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageLabelCollection class. Class represeingting page label collection
 type: docs
-weight: 6510
+weight: 6690
 url: /net/aspose.pdf/pagelabelcollection/
 ---
 ## PageLabelCollection class

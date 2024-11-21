@@ -3,7 +3,7 @@ title: PdfFileSignature.SetCertificate
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Set certificate file and password for signing routine
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
 ## PdfFileSignature.SetCertificate method

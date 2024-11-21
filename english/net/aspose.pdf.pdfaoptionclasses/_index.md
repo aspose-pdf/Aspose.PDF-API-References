@@ -3,7 +3,7 @@ title: Aspose.Pdf.PdfAOptionClasses
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.PdfAOptionClasses is a namespace for PDF/A convertsion optins
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.pdfaoptionclasses/
 ---
 The **Aspose.PdfAOptionClasses** is a namespace for PDF/A convertsion optins.

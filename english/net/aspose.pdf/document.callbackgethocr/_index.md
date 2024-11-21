@@ -3,12 +3,10 @@ title: Delegate Document.CallBackGetHocr
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 2290
+weight: 2460
 url: /net/aspose.pdf/document.callbackgethocr/
 ---
 ## Document.CallBackGetHocr delegate
-
-The call back procedure for hocr recognize.
 
 ```csharp
 public delegate string CallBackGetHocr(Image img);

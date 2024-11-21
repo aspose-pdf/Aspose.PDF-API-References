@@ -3,7 +3,7 @@ title: Class Signature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.Signature class. An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects the last contain data which is used to verify the document validity
 type: docs
-weight: 3730
+weight: 3900
 url: /net/aspose.pdf.forms/signature/
 ---
 ## Signature class
@@ -30,7 +30,7 @@ public abstract class Signature
 | [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
 | [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Gets/sets the custom appearance. |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash (Beta). |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash. |
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | The time of signing. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
@@ -43,6 +43,7 @@ public abstract class Signature
 
 | Name | Description |
 | --- | --- |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 
 ### See Also

@@ -3,7 +3,7 @@ title: Aspose.Pdf.Generator
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf.generator/
 ---
 

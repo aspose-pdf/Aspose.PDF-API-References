@@ -3,7 +3,7 @@ title: Document.Repair
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Repairs broken document
 type: docs
-weight: 810
+weight: 820
 url: /net/aspose.pdf/document/repair/
 ---
 ## Document.Repair method

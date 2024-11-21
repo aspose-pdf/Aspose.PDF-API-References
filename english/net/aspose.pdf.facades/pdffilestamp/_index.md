@@ -3,7 +3,7 @@ title: Class PdfFileStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileStamp class. Class for adding stamps watermark or background to PDF files
 type: docs
-weight: 3080
+weight: 3250
 url: /net/aspose.pdf.facades/pdffilestamp/
 ---
 ## PdfFileStamp class

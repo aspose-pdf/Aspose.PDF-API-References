@@ -3,7 +3,7 @@ title: Document.SaveXml
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Save document to XML
 type: docs
-weight: 830
+weight: 840
 url: /net/aspose.pdf/document/savexml/
 ---
 ## Document.SaveXml method

@@ -3,7 +3,7 @@ title: Aspose.Pdf.Structure
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Structure namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures tables and footnotes
 type: docs
-weight: 270
+weight: 290
 url: /net/aspose.pdf.structure/
 ---
 The **Aspose.Pdf.Structure** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes.

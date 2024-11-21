@@ -3,7 +3,7 @@ title: CurveTo.Accept
 second_title: Aspose.PDF for .NET API Reference
 description: CurveTo method. Accepts visitor object to process operator
 type: docs
-weight: 30
+weight: 80
 url: /net/aspose.pdf.operators/curveto/accept/
 ---
 ## CurveTo.Accept method

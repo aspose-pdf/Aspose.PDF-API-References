@@ -3,12 +3,12 @@ title: Class PKCS7
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PKCS7 class. Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The SHA1 digest of the documents byte range is encapsulated in the PKCS7 SignedData field
 type: docs
-weight: 3640
+weight: 3810
 url: /net/aspose.pdf.forms/pkcs7/
 ---
 ## PKCS7 class
 
-Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The SHA1 digest of the document's byte range is encapsulated in the PKCS#7 SignedData field.
+Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The `SHA1 digest` of the document's byte range is encapsulated in the PKCS#7 SignedData field.
 
 ```csharp
 public sealed class PKCS7 : Signature
@@ -18,9 +18,9 @@ public sealed class PKCS7 : Signature
 
 | Name | Description |
 | --- | --- |
-| [PKCS7](pkcs7/#constructor)() | Inititalizes new instance of the `PKCS7` class. |
-| [PKCS7](pkcs7/#constructor_1)(Stream, string) | Inititalizes new instance of the `PKCS7` class. |
-| [PKCS7](pkcs7/#constructor_2)(string, string) | Inititalizes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor)() | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_1)(Stream, string) | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_2)(string, string) | Initializes new instance of the `PKCS7` class. |
 
 ## Properties
 
@@ -30,7 +30,7 @@ public sealed class PKCS7 : Signature
 | [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
 | [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Gets/sets the custom appearance. |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash (Beta). |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash. |
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | The time of signing. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
@@ -43,6 +43,7 @@ public sealed class PKCS7 : Signature
 
 | Name | Description |
 | --- | --- |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 
 ### See Also

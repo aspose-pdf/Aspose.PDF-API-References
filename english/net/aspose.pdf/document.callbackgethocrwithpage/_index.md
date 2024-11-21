@@ -3,7 +3,7 @@ title: Delegate Document.CallBackGetHocrWithPage
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 2300
+weight: 2470
 url: /net/aspose.pdf/document.callbackgethocrwithpage/
 ---
 ## Document.CallBackGetHocrWithPage delegate

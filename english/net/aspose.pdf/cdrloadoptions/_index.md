@@ -3,7 +3,7 @@ title: Class CdrLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CdrLoadOptions class. Class describes CDR load options
 type: docs
-weight: 1570
+weight: 1740
 url: /net/aspose.pdf/cdrloadoptions/
 ---
 ## CdrLoadOptions class

@@ -3,7 +3,7 @@ title: Enum PaperKind
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperKind enum. Specifies the standard paper sizes
 type: docs
-weight: 6980
+weight: 7160
 url: /net/aspose.pdf.printing/paperkind/
 ---
 ## PaperKind enumeration

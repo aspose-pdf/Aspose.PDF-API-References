@@ -3,7 +3,7 @@ title: Class ReplaceTextStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.ReplaceTextStrategy class. This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed
 type: docs
-weight: 3180
+weight: 3350
 url: /net/aspose.pdf.facades/replacetextstrategy/
 ---
 ## ReplaceTextStrategy class

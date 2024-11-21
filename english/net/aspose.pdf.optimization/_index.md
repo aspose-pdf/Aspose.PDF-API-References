@@ -3,7 +3,7 @@ title: Aspose.Pdf.Optimization
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Optimization is a namespace for classes for managing of document optimization process
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.optimization/
 ---
 The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process.

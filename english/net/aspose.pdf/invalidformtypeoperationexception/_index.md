@@ -3,7 +3,7 @@ title: Class InvalidFormTypeOperationException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.InvalidFormTypeOperationException class. The exception that is thrown when an operation with form type is not valid
 type: docs
-weight: 4430
+weight: 4600
 url: /net/aspose.pdf/invalidformtypeoperationexception/
 ---
 ## InvalidFormTypeOperationException class

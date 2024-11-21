@@ -3,7 +3,7 @@ title: Class PclLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PclLoadOptions class. Represents options for loadingimport PCL file into pdf document
 type: docs
-weight: 6580
+weight: 6760
 url: /net/aspose.pdf/pclloadoptions/
 ---
 ## PclLoadOptions class

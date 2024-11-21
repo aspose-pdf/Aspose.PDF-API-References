@@ -3,7 +3,7 @@ title: Class TextSearchOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextSearchOptions class. Represents text search options
 type: docs
-weight: 8190
+weight: 8470
 url: /net/aspose.pdf.text/textsearchoptions/
 ---
 ## TextSearchOptions class

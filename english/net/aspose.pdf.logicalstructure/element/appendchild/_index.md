@@ -11,12 +11,13 @@ url: /net/aspose.pdf.logicalstructure/element/appendchild/
 Append Element to collection of children.
 
 ```csharp
-public Element AppendChild(Element element)
+public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | element | Element | Element object to add. |
+| checkIfCanBeAppended | Boolean | Check if can be appended. |
 
 ### Return Value
 

@@ -3,7 +3,7 @@ title: Enum NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.NumberingStyle enum. Enumeration of supported page numbering style for PageLabel class
 type: docs
-weight: 5430
+weight: 5600
 url: /net/aspose.pdf/numberingstyle/
 ---
 ## NumberingStyle enumeration

@@ -3,7 +3,7 @@ title: Class StampInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.StampInfo class. Class representing stamp information
 type: docs
-weight: 3230
+weight: 3400
 url: /net/aspose.pdf.facades/stampinfo/
 ---
 ## StampInfo class
@@ -19,7 +19,7 @@ public sealed class StampInfo
 | Name | Description |
 | --- | --- |
 | [Form](../../aspose.pdf.facades/stampinfo/form/) { get; } | Gets XForm of the stamp. |
-| [Image](../../aspose.pdf.facades/stampinfo/image/) { get; } |  |
+| [Image](../../aspose.pdf.facades/stampinfo/image/) { get; } | Gets image of stamp. May be null if stamp does not contain images (for example for text stamp). |
 | [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage/) { get; } | Gets stamp index on the page. |
 | [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle/) { get; } | Gets rectangle where stamp is placed. |
 | [StampId](../../aspose.pdf.facades/stampinfo/stampid/) { get; } | Gets identifier of the stamp. |

@@ -33,7 +33,7 @@ Added page.
 
 ## Add() {#add}
 
-Adds empty page
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
 
 ```csharp
 public Page Add()

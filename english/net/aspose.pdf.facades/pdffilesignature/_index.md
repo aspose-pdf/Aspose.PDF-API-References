@@ -3,7 +3,7 @@ title: Class PdfFileSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileSignature class. Represents a class to sign a pdf file with a certificate
 type: docs
-weight: 3070
+weight: 3240
 url: /net/aspose.pdf.facades/pdffilesignature/
 ---
 ## PdfFileSignature class
@@ -54,6 +54,7 @@ public sealed class PdfFileSignature : SaveableFacade
 | [GetLocation](../../aspose.pdf.facades/pdffilesignature/getlocation/)(string) | Gets the location of a signature. |
 | [GetReason](../../aspose.pdf.facades/pdffilesignature/getreason/)(string) | Gets the reason of a signature. |
 | [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision/)(string) | Gets the revision of a signature. |
+| [GetSignaturesInfo](../../aspose.pdf.facades/pdffilesignature/getsignaturesinfo/)() | Retrieves information about all signatures algorithm present in the PDF document. |
 | [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername/)(string) | Gets the name of person or organization who signing the pdf document. |
 | [GetSignNames](../../aspose.pdf.facades/pdffilesignature/getsignnames/)(bool) | Gets the names of all not empty signatures. |
 | [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision/)() | Gets the toltal revision. |

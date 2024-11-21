@@ -3,7 +3,7 @@ title: Class TextOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.TextOperator class. Abstract base class for textrelated operators TJ Tj Tm BT ET etc
 type: docs
-weight: 6290
+weight: 6460
 url: /net/aspose.pdf.operators/textoperator/
 ---
 ## TextOperator class

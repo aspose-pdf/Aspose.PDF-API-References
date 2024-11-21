@@ -3,7 +3,7 @@ title: Class SetFlat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetFlat class. Class representing i operator set flatness tolerance
 type: docs
-weight: 6090
+weight: 6260
 url: /net/aspose.pdf.operators/setflat/
 ---
 ## SetFlat class
