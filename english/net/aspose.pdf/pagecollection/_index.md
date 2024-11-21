@@ -3,7 +3,7 @@ title: Class PageCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageCollection class. Collection of PDF document pages
 type: docs
-weight: 6470
+weight: 6640
 url: /net/aspose.pdf/pagecollection/
 ---
 ## PageCollection class
@@ -32,7 +32,7 @@ public sealed class PageCollection : ICollection<Page>
 | [Accept](../../aspose.pdf/pagecollection/accept/#accept_1)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
 | [Accept](../../aspose.pdf/pagecollection/accept/#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
 | [Accept](../../aspose.pdf/pagecollection/accept/#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
-| [Add](../../aspose.pdf/pagecollection/add/#add)() | Adds empty page |
+| [Add](../../aspose.pdf/pagecollection/add/#add)() | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_3)(ICollection&lt;Page&gt;) | Adds to collection all pages from list. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_1)(Page) | Adds page to collection. |
 | [Add](../../aspose.pdf/pagecollection/add/#add_2)(Page[]) | Adds to collection all pages from array. |
@@ -46,7 +46,7 @@ public sealed class PageCollection : ICollection<Page>
 | [FreeMemory](../../aspose.pdf/pagecollection/freememory/)() | Clears cached data |
 | [GetEnumerator](../../aspose.pdf/pagecollection/getenumerator/)() | Returns enumerator of pages. |
 | [IndexOf](../../aspose.pdf/pagecollection/indexof/)(Page) | Returns index of the specified page. |
-| [Insert](../../aspose.pdf/pagecollection/insert/#insert)(int) | Insert empty apge into collection at the specified position. |
+| [Insert](../../aspose.pdf/pagecollection/insert/#insert)(int) | Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Insert](../../aspose.pdf/pagecollection/insert/#insert_3)(int, ICollection&lt;Page&gt;) | Inserts pages from the collection into document. |
 | [Insert](../../aspose.pdf/pagecollection/insert/#insert_1)(int, Page) | Inserts page into page collection at specified place. |
 | [Insert](../../aspose.pdf/pagecollection/insert/#insert_2)(int, Page[]) | Inserts pages of the array into document. |

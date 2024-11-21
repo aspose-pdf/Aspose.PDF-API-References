@@ -3,7 +3,7 @@ title: Class Layer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Layer class. Represents a layer within a PDF page
 type: docs
-weight: 4490
+weight: 4660
 url: /net/aspose.pdf/layer/
 ---
 ## Layer class

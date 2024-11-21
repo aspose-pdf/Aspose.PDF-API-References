@@ -3,7 +3,7 @@ title: Enum KeySize
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.KeySize enum. Defines different key sizes which can be used to encrypt pdf documents
 type: docs
-weight: 2900
+weight: 3070
 url: /net/aspose.pdf.facades/keysize/
 ---
 ## KeySize enumeration

@@ -3,7 +3,7 @@ title: Class TextFragmentState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragmentState class. Represents a text state of a text fragment
 type: docs
-weight: 8120
+weight: 8400
 url: /net/aspose.pdf.text/textfragmentstate/
 ---
 ## TextFragmentState class

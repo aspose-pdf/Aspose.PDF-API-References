@@ -3,7 +3,7 @@ title: Class Element
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.Element class. Represents a base class for element in logical structure
 type: docs
-weight: 4730
+weight: 4900
 url: /net/aspose.pdf.logicalstructure/element/
 ---
 ## Element class
@@ -25,10 +25,10 @@ public abstract class Element
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element) | Append Element to collection of children. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int) | Insert Element to collection of children at specified index. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert Element to collection of children at specified index. |
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_2)(Annotation) | Bind a structure element to the Annotation. |
 | abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag)(Artifact) | Bind a structure element to the Artifact. |

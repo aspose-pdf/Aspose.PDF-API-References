@@ -3,7 +3,7 @@ title: PdfFileSignature.GetSignNames
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Gets the names of all not empty signatures
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
 ## PdfFileSignature.GetSignNames method

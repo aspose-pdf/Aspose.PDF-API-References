@@ -3,7 +3,7 @@ title: PdfFileSignature.GetTotalRevision
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Gets the toltal revision
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 ---
 ## PdfFileSignature.GetTotalRevision method

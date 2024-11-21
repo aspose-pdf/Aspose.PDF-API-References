@@ -3,7 +3,7 @@ title: Aspose.Pdf.Comparison.GraphicalComparison
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf.comparison.graphicalcomparison/
 ---
 

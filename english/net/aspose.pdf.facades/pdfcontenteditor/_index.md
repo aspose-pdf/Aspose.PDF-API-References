@@ -3,7 +3,7 @@ title: Class PdfContentEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfContentEditor class. Represents a class to edit PDF files content
 type: docs
-weight: 2940
+weight: 3110
 url: /net/aspose.pdf.facades/pdfcontenteditor/
 ---
 ## PdfContentEditor class

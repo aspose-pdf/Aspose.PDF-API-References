@@ -3,7 +3,7 @@ title: Class SetTextRise
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetTextRise class. Class representing Ts operator set text rise
 type: docs
-weight: 6240
+weight: 6410
 url: /net/aspose.pdf.operators/settextrise/
 ---
 ## SetTextRise class

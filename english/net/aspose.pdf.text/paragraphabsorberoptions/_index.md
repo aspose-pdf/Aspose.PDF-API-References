@@ -3,7 +3,7 @@ title: Class ParagraphAbsorberOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.ParagraphAbsorberOptions class. Represents options for the ParagraphAbsorber
 type: docs
-weight: 7840
+weight: 8120
 url: /net/aspose.pdf.text/paragraphabsorberoptions/
 ---
 ## ParagraphAbsorberOptions class

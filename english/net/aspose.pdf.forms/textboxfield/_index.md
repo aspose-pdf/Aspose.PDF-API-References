@@ -3,7 +3,7 @@ title: Class TextBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.TextBoxField class. Class representing text box field
 type: docs
-weight: 3780
+weight: 3950
 url: /net/aspose.pdf.forms/textboxfield/
 ---
 ## TextBoxField class

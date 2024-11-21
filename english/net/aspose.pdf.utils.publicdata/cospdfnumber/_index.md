@@ -3,7 +3,7 @@ title: Class CosPdfNumber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfNumber class. This class represents Pdf Number type
 type: docs
-weight: 8350
+weight: 8630
 url: /net/aspose.pdf.utils.publicdata/cospdfnumber/
 ---
 ## CosPdfNumber class
@@ -31,7 +31,7 @@ public sealed class CosPdfNumber : CosPdfPrimitive
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.utils.publicdata/cospdfnumber/equals/)(object) |  |
+| override [Equals](../../aspose.pdf.utils.publicdata/cospdfnumber/equals/)(object) | Determines that the specified object is equal to the current object. |
 | override [GetHashCode](../../aspose.pdf.utils.publicdata/cospdfnumber/gethashcode/)() | Get hashcode for current object. |
 | virtual [ToCosPdfBoolean](../../aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfboolean/)() | Tries cast this instance to [`CosPdfBoolean`](../cospdfboolean/). |
 | virtual [ToCosPdfName](../../aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../cospdfname/). |

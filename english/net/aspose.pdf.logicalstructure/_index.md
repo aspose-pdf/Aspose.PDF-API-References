@@ -3,7 +3,7 @@ title: Aspose.Pdf.LogicalStructure
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Tagged.LogicalStructure is a namespace for PDF Logical Structure classes
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf.logicalstructure/
 ---
 The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes.

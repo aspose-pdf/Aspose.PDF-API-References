@@ -3,7 +3,7 @@ title: Aspose.Pdf.Tagged
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Tagged is a namespace for classes for support of Tagged PDF documents
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.pdf.tagged/
 ---
 The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents.

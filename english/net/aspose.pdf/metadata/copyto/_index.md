@@ -12,11 +12,6 @@ url: /net/aspose.pdf/metadata/copyto/
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | KeyValuePair`2[] | Destination array. |
-| index | Int32 | Starting index. |
-
 ### See Also
 
 * class [XmpValue](../../xmpvalue/)

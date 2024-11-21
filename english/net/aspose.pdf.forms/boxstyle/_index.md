@@ -1,14 +1,14 @@
 ---
 title: Enum BoxStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle enum. Represents styles of check box
+description: Aspose.Pdf.Forms.BoxStyle enum. Represents styles for drawing check in check box
 type: docs
-weight: 3420
+weight: 3590
 url: /net/aspose.pdf.forms/boxstyle/
 ---
 ## BoxStyle enumeration
 
-Represents styles of check box.
+Represents styles for drawing check in check box.
 
 ```csharp
 public enum BoxStyle

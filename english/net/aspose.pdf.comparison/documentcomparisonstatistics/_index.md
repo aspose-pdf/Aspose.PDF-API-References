@@ -3,7 +3,7 @@ title: Class DocumentComparisonStatistics
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.DocumentComparisonStatistics class. Represents a document comparison statistics class
 type: docs
-weight: 1770
+weight: 1940
 url: /net/aspose.pdf.comparison/documentcomparisonstatistics/
 ---
 ## DocumentComparisonStatistics class

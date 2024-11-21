@@ -3,7 +3,7 @@ title: StructureElement.SetId
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement method. Sets ID for structure element
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
 ## StructureElement.SetId method

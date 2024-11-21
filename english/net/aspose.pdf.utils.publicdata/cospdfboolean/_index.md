@@ -3,7 +3,7 @@ title: Class CosPdfBoolean
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfBoolean class. This class represents boolean type
 type: docs
-weight: 8330
+weight: 8610
 url: /net/aspose.pdf.utils.publicdata/cospdfboolean/
 ---
 ## CosPdfBoolean class
@@ -30,7 +30,7 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.utils.publicdata/cospdfboolean/equals/)(object) |  |
+| override [Equals](../../aspose.pdf.utils.publicdata/cospdfboolean/equals/)(object) | Determines that the specified object is equal to the current object. |
 | override [GetHashCode](../../aspose.pdf.utils.publicdata/cospdfboolean/gethashcode/)() | Get hashcode for current object. |
 | override [ToCosPdfBoolean](../../aspose.pdf.utils.publicdata/cospdfboolean/tocospdfboolean/)() | Tries cast this instance to `CosPdfBoolean`. |
 | virtual [ToCosPdfName](../../aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../cospdfname/). |

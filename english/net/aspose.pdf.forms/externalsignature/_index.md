@@ -1,14 +1,14 @@
 ---
 title: Class ExternalSignature
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ExternalSignature class. Creates a detached PKCS7Detached signature using a X509Certificate2. It supports usb smartcards tokens without exportable private keys
+description: Aspose.Pdf.Forms.ExternalSignature class. Creates a detached PKCS7 signature using a X509Certificate2. It supports usb smartcards tokens without exportable private keys
 type: docs
-weight: 3500
+weight: 3670
 url: /net/aspose.pdf.forms/externalsignature/
 ---
 ## ExternalSignature class
 
-Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
+Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
 
 ```csharp
 public class ExternalSignature : Signature
@@ -18,9 +18,11 @@ public class ExternalSignature : Signature
 
 | Name | Description |
 | --- | --- |
-| [ExternalSignature](externalsignature/#constructor)(X509Certificate2) | Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
-| [ExternalSignature](externalsignature/#constructor_2)(string, bool) | Creates a PKCS#7 (detached) signature using a X509Certificate2 as base64 string. |
-| [ExternalSignature](externalsignature/#constructor_1)(X509Certificate2, bool) | Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor)(X509Certificate2) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor_4)(string, bool) | Creates a PKCS#7 signature using a X509Certificate2 as base64 string. |
+| [ExternalSignature](externalsignature/#constructor_3)(string, DigestHashAlgorithm) | Creates a PKCS#7 `(detached)` signature using a X509Certificate2 as base64 string. |
+| [ExternalSignature](externalsignature/#constructor_2)(X509Certificate2, bool) | Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor_1)(X509Certificate2, DigestHashAlgorithm) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
 
 ## Properties
 
@@ -28,10 +30,9 @@ public class ExternalSignature : Signature
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | The name of the person or authority signing the document. |
 | [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
-| [Certificate](../../aspose.pdf.forms/externalsignature/certificate/) { get; } | The certificate with the private key. |
 | [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Gets/sets the custom appearance. |
-| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash (Beta). |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | The delegate for custom sign the document hash. |
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | The time of signing. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
@@ -44,7 +45,14 @@ public class ExternalSignature : Signature
 
 | Name | Description |
 | --- | --- |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| readonly [Certificate](../../aspose.pdf.forms/externalsignature/certificate/) | The certificate with the private key. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: AbsorbedCell.BorderInfo
 second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell property. 
+description: AbsorbedCell property. Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/absorbedcell/borderinfo/
 ---
 ## AbsorbedCell.BorderInfo property
+
+Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true.
 
 ```csharp
 public BorderInfo BorderInfo { get; }

@@ -3,7 +3,7 @@ title: Aspose.Pdf.Comparison.SideBySideComparison
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.comparison.sidebysidecomparison/
 ---
 

@@ -3,7 +3,7 @@ title: Class ParagraphAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.ParagraphAbsorber class. Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides access for rectangles and polydons that describes it in text coordinate space. Also performs text segments search and provides access to search results via TextFragments collections grouped by structure elements
 type: docs
-weight: 7830
+weight: 8110
 url: /net/aspose.pdf.text/paragraphabsorber/
 ---
 ## ParagraphAbsorber class

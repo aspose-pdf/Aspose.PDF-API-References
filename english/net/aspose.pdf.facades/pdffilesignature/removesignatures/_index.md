@@ -3,7 +3,7 @@ title: PdfFileSignature.RemoveSignatures
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Removes all signatures
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.pdf.facades/pdffilesignature/removesignatures/
 ---
 ## PdfFileSignature.RemoveSignatures method

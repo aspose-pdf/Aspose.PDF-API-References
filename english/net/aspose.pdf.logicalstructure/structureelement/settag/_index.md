@@ -3,7 +3,7 @@ title: StructureElement.SetTag
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement method. Sets custom tag for structure element
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.logicalstructure/structureelement/settag/
 ---
 ## StructureElement.SetTag method

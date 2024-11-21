@@ -3,7 +3,7 @@ title: StructureElement.Tag
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement method. Bind a structure element to the content stream BDC operator
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pdf.logicalstructure/structureelement/tag/
 ---
 ## Tag(BDC) {#tag_1}

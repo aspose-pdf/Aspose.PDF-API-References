@@ -3,7 +3,7 @@ title: Class SetHorizontalTextScaling
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetHorizontalTextScaling class. Class representing Tz operator set horizontal text scaling
 type: docs
-weight: 6130
+weight: 6300
 url: /net/aspose.pdf.operators/sethorizontaltextscaling/
 ---
 ## SetHorizontalTextScaling class
