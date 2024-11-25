@@ -1,12 +1,14 @@
 ---
 title: Class IncompleteDetails
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IncompleteDetails class. 
+description: Aspose.Pdf.AI.IncompleteDetails class. Details on why the run is incomplete. Will be null if the run is not incomplete
 type: docs
 weight: 650
 url: /net/aspose.pdf.ai/incompletedetails/
 ---
 ## IncompleteDetails class
+
+Details on why the run is incomplete. Will be null if the run is not incomplete.
 
 ```csharp
 public class IncompleteDetails
@@ -22,7 +24,7 @@ public class IncompleteDetails
 
 | Name | Description |
 | --- | --- |
-| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } |  |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Gets or sets the reason why the message is incomplete. |
 
 ### See Also
 

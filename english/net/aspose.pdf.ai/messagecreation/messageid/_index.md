@@ -1,12 +1,14 @@
 ---
 title: MessageCreation.MessageId
 second_title: Aspose.PDF for .NET API Reference
-description: MessageCreation property. 
+description: MessageCreation property. Gets or sets the unique identifier of the message
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/messagecreation/messageid/
 ---
 ## MessageCreation.MessageId property
+
+Gets or sets the unique identifier of the message.
 
 ```csharp
 public string MessageId { get; set; }

@@ -3,7 +3,7 @@ title: Class Form
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.Form class. Class representing Acro form object
 type: docs
-weight: 2970
+weight: 4330
 url: /net/aspose.pdf.facades/form/
 ---
 ## Form class
@@ -21,21 +21,17 @@ public sealed class Form : SaveableFacade
 | [Form](form/#constructor)() | Construtcor of Form without parameters. |
 | [Form](form/#constructor_1)(Document) | Initializes new `Form` object on base of the *document*. |
 | [Form](form/#constructor_4)(Stream) | Constructor for form. |
-| [Form](form/#constructor_8)(string) | Constructor of Form. |
+| [Form](form/#constructor_7)(string) | Constructor of Form. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AttachmentName](../../aspose.pdf.facades/form/attachmentname/) { get; set; } | Gets or sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [ContentDisposition](../../aspose.pdf.facades/form/contentdisposition/) { get; set; } | Gets or sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [ConvertTo](../../aspose.pdf.facades/form/convertto/) { set; } | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |
 | [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. |
 | [FieldNames](../../aspose.pdf.facades/form/fieldnames/) { get; } | Gets list of field names on the form. |
 | [FormSubmitButtonNames](../../aspose.pdf.facades/form/formsubmitbuttonnames/) { get; } | Gets all form submit button names. |
 | [ImportResult](../../aspose.pdf.facades/form/importresult/) { get; } | Result of last import operation. Array of objects which descibre result of import for each field. |
-| [Response](../../aspose.pdf.facades/form/response/) { get; set; } | Gets or sets Response object where result of operation will be stored. |
-| [SaveOptions](../../aspose.pdf.facades/form/saveoptions/) { get; set; } | Gets or sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions. |
 
 ## Methods
 
@@ -47,6 +43,7 @@ public sealed class Form : SaveableFacade
 | override [Close](../../aspose.pdf.facades/form/close/)() | Closes opened files without any changes. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
 | [ExportFdf](../../aspose.pdf.facades/form/exportfdf/)(Stream) | Exports the content of the fields of the pdf into the fdf stream. |
+| [ExportJson](../../aspose.pdf.facades/form/exportjson/)(Stream, bool) | Exports the contents of all fields in the document into a JSON stream. Button field values are not exported. |
 | [ExportXfdf](../../aspose.pdf.facades/form/exportxfdf/)(Stream) | Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported. |
 | [ExportXml](../../aspose.pdf.facades/form/exportxml/)(Stream) | Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported. |
 | [ExtractXfaData](../../aspose.pdf.facades/form/extractxfadata/)(Stream) | Extracts XFA data packet |
@@ -72,6 +69,7 @@ public sealed class Form : SaveableFacade
 | [GetRichText](../../aspose.pdf.facades/form/getrichtext/)(string) | Get a Rich Text field's value, including the formattinf information of every character. |
 | [GetSubmitFlags](../../aspose.pdf.facades/form/getsubmitflags/)(string) | Returns the submit button's submission flags |
 | [ImportFdf](../../aspose.pdf.facades/form/importfdf/)(Stream) | Imports the content of the fields from the fdf file and put them into the new pdf. |
+| [ImportJson](../../aspose.pdf.facades/form/importjson/)(Stream) | Imports all field data from a JSON stream into the document fields, matching the fields by their full names. |
 | [ImportXfdf](../../aspose.pdf.facades/form/importxfdf/)(Stream) | Imports the content of the fields from the xfdf(xml) file and put them into the new pdf. |
 | [ImportXml](../../aspose.pdf.facades/form/importxml/#importxml)(Stream) | Imports the content of the fields from the xml file and put them into the new pdf. |
 | [ImportXml](../../aspose.pdf.facades/form/importxml/#importxml_1)(Stream, bool) | Imports the content of the fields from the xml file and put them into the new pdf. |

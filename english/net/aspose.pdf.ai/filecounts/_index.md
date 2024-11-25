@@ -22,11 +22,11 @@ public class FileCounts
 
 | Name | Description |
 | --- | --- |
-| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } |  |
-| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } |  |
-| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } |  |
-| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } |  |
-| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } |  |
+| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Gets or sets the number of files that were cancelled. |
+| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Gets or sets the number of files that have been successfully processed. |
+| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Gets or sets the number of files that failed to be processed. |
+| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Gets or sets the number of files that are currently being processed. |
+| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Gets or sets the total number of files in the vector store. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Class FileCitation
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCitation class. 
+description: Aspose.Pdf.AI.FileCitation class. Represents the file citation
 type: docs
 weight: 360
 url: /net/aspose.pdf.ai/filecitation/
 ---
 ## FileCitation class
+
+Represents the file citation.
 
 ```csharp
 public class FileCitation
@@ -22,7 +24,7 @@ public class FileCitation
 
 | Name | Description |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } |  |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Gets or sets the ID of the specific File the citation is from. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ChatMessage.Content
 second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage property. 
+description: ChatMessage property. Gets or sets the contents of the message
 type: docs
 weight: 50
 url: /net/aspose.pdf.ai/chatmessage/content/
 ---
 ## ChatMessage.Content property
+
+Gets or sets the contents of the message.
 
 ```csharp
 public string Content { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: CreateEmbeddingResponse.Model
 second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse property. 
+description: CreateEmbeddingResponse property. Gets or sets the model used for the embedding
 type: docs
 weight: 30
 url: /net/aspose.pdf.ai/createembeddingresponse/model/
 ---
 ## CreateEmbeddingResponse.Model property
+
+Gets or sets the model used for the embedding.
 
 ```csharp
 public string Model { get; set; }

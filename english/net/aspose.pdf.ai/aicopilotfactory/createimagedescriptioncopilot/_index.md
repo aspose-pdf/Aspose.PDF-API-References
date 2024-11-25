@@ -1,12 +1,14 @@
 ---
 title: AICopilotFactory.CreateImageDescriptionCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. 
+description: AICopilotFactory method. Creates an image description copilot based on the client and options
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/
 ---
 ## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
+
+Creates an image description copilot based on the client and options.
 
 ```csharp
 public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(

@@ -1,12 +1,14 @@
 ---
 title: Class ThreadMessageResponse
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadMessageResponse class. 
+description: Aspose.Pdf.AI.ThreadMessageResponse class. Represents a message within a thread
 type: docs
 weight: 1160
 url: /net/aspose.pdf.ai/threadmessageresponse/
 ---
 ## ThreadMessageResponse class
+
+Represents a message within a thread.
 
 ```csharp
 public class ThreadMessageResponse : BaseResponse, IStatus
@@ -22,27 +24,27 @@ public class ThreadMessageResponse : BaseResponse, IStatus
 
 | Name | Description |
 | --- | --- |
-| [AssistantId](../../aspose.pdf.ai/threadmessageresponse/assistantid/) { get; set; } |  |
-| [Attachments](../../aspose.pdf.ai/threadmessageresponse/attachments/) { get; set; } |  |
-| [CompletedAt](../../aspose.pdf.ai/threadmessageresponse/completedat/) { get; set; } |  |
-| [Content](../../aspose.pdf.ai/threadmessageresponse/content/) { get; set; } |  |
-| [CreatedAt](../../aspose.pdf.ai/threadmessageresponse/createdat/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } |  |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } |  |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } |  |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } |  |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } |  |
-| [Id](../../aspose.pdf.ai/threadmessageresponse/id/) { get; set; } |  |
-| [IncompleteAt](../../aspose.pdf.ai/threadmessageresponse/incompleteat/) { get; set; } |  |
-| [IncompleteDetails](../../aspose.pdf.ai/threadmessageresponse/incompletedetails/) { get; set; } |  |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } |  |
-| [Metadata](../../aspose.pdf.ai/threadmessageresponse/metadata/) { get; set; } |  |
-| [Object](../../aspose.pdf.ai/threadmessageresponse/object/) { get; set; } |  |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } |  |
-| [Role](../../aspose.pdf.ai/threadmessageresponse/role/) { get; set; } |  |
-| [RunId](../../aspose.pdf.ai/threadmessageresponse/runid/) { get; set; } |  |
-| [Status](../../aspose.pdf.ai/threadmessageresponse/status/) { get; set; } |  |
-| [ThreadId](../../aspose.pdf.ai/threadmessageresponse/threadid/) { get; set; } |  |
+| [AssistantId](../../aspose.pdf.ai/threadmessageresponse/assistantid/) { get; set; } | Gets or sets, if applicable, the ID of the assistant that authored this message. |
+| [Attachments](../../aspose.pdf.ai/threadmessageresponse/attachments/) { get; set; } | Gets or sets a list of files attached to the message. |
+| [CompletedAt](../../aspose.pdf.ai/threadmessageresponse/completedat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was completed. |
+| [Content](../../aspose.pdf.ai/threadmessageresponse/content/) { get; set; } | Gets or sets the content of the message in an array of text and/or images. |
+| [CreatedAt](../../aspose.pdf.ai/threadmessageresponse/createdat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was created. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
+| [Id](../../aspose.pdf.ai/threadmessageresponse/id/) { get; set; } | Gets or sets the identifier, which can be referenced in API endpoints. |
+| [IncompleteAt](../../aspose.pdf.ai/threadmessageresponse/incompleteat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was marked as incomplete. |
+| [IncompleteDetails](../../aspose.pdf.ai/threadmessageresponse/incompletedetails/) { get; set; } | Gets or sets an incomplete message, details about why the message is incomplete. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
+| [Metadata](../../aspose.pdf.ai/threadmessageresponse/metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
+| [Object](../../aspose.pdf.ai/threadmessageresponse/object/) { get; set; } | Gets or sets the object type, which is always "thread.message". |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
+| [Role](../../aspose.pdf.ai/threadmessageresponse/role/) { get; set; } | Gets or sets the entity that produced the message. One of "user" or "assistant". |
+| [RunId](../../aspose.pdf.ai/threadmessageresponse/runid/) { get; set; } | Gets or sets the ID of the run associated with the creation of this message. Value is null when messages are created manually. |
+| [Status](../../aspose.pdf.ai/threadmessageresponse/status/) { get; set; } | Gets or sets the status of the message. One of queued , in_progress , requires_action , or completed . |
+| [ThreadId](../../aspose.pdf.ai/threadmessageresponse/threadid/) { get; set; } | Gets or sets the ID of the thread to which this message belongs. |
 
 ### See Also
 

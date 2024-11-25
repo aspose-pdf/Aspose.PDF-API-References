@@ -1,12 +1,14 @@
 ---
 title: Function.Description
 second_title: Aspose.PDF for .NET API Reference
-description: Function property. 
+description: Function property. Gets or sets a description of what the function does used by the model to choose when and how to call the function
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/function/description/
 ---
 ## Function.Description property
+
+Gets or sets a description of what the function does, used by the model to choose when and how to call the function.
 
 ```csharp
 public string Description { get; set; }

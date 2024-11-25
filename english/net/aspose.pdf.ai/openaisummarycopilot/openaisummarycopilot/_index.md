@@ -1,17 +1,24 @@
 ---
 title: OpenAISummaryCopilot.OpenAISummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot constructor. 
+description: OpenAISummaryCopilot constructor. Initializes a new instance of the OpenAISummaryCopilot class
 type: docs
 weight: 10
 url: /net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
 ---
 ## OpenAISummaryCopilot constructor
 
+Initializes a new instance of the [`OpenAISummaryCopilot`](../) class.
+
 ```csharp
 public OpenAISummaryCopilot(IOpenAIClient client, 
     ISummaryCopilotOptions<OpenAISummaryCopilotOptions> options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| client | IOpenAIClient | The OpenAI client instance. |
+| options | ISummaryCopilotOptions`1 | The OpenAI Summary Copilot options. |
 
 ### See Also
 

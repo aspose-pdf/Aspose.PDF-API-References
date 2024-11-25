@@ -1,12 +1,14 @@
 ---
 title: RunStepResponse.LastError
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse property. 
+description: RunStepResponse property. Gets or sets the last error associated with this run step. Will be null if there are no errors
 type: docs
 weight: 90
 url: /net/aspose.pdf.ai/runstepresponse/lasterror/
 ---
 ## RunStepResponse.LastError property
+
+Gets or sets the last error associated with this run step. Will be null if there are no errors.
 
 ```csharp
 public LastError LastError { get; set; }

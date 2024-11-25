@@ -1,12 +1,14 @@
 ---
 title: RunStepResponse.Id
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse property. 
+description: RunStepResponse property. Gets or sets the identifier of the run step which can be referenced in API endpoints
 type: docs
 weight: 80
 url: /net/aspose.pdf.ai/runstepresponse/id/
 ---
 ## RunStepResponse.Id property
+
+Gets or sets the identifier of the run step, which can be referenced in API endpoints.
 
 ```csharp
 public string Id { get; set; }

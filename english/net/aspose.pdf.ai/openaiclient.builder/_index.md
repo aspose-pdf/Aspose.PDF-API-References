@@ -1,12 +1,14 @@
 ---
 title: Class OpenAIClient.Builder
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIClientBuilder class. 
+description: Aspose.Pdf.AI.OpenAIClientBuilder class. Builder class for creating an instance of OpenAIClient
 type: docs
 weight: 850
 url: /net/aspose.pdf.ai/openaiclient.builder/
 ---
 ## OpenAIClient.Builder class
+
+Builder class for creating an instance of [`OpenAIClient`](../openaiclient/).
 
 ```csharp
 public class Builder
@@ -16,17 +18,17 @@ public class Builder
 
 | Name | Description |
 | --- | --- |
-| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) |  |
+| [Builder](../../aspose.pdf.ai/openaiclient.builder/.ctor)(string) | Initializes a new instance of the `Builder` class with the API key. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() |  |
-| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) |  |
-| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) |  |
-| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) |  |
-| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) |  |
+| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | Builds and returns an instance of [`OpenAIClient`](../openaiclient/) with the configured options. |
+| [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | Sets the API version for the client. |
+| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | Sets the base domain for the client. |
+| [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | Sets the organization ID for the client. |
+| [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | Sets the project ID for the client. |
 
 ### See Also
 

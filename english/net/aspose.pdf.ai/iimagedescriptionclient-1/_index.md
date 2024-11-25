@@ -22,7 +22,7 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) |  |
+| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) with the specified options. |
 
 ### See Also
 

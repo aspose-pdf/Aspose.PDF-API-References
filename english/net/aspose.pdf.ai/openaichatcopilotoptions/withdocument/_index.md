@@ -1,16 +1,26 @@
 ---
 title: OpenAIChatCopilotOptions.WithDocument
 second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. 
+description: OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options
 type: docs
 weight: 100
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
+Adds a text document to the document collection for the chat copilot options.
+
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textDocument | TextDocument | The text document to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
@@ -23,9 +33,19 @@ public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 
 ## WithDocument(PdfDocument) {#withdocument}
 
+Adds a PDF document to the document collection for the chat copilot options.
+
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocument | PdfDocument | The PDF document to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
@@ -38,9 +58,19 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ## WithDocument(string) {#withdocument_2}
 
+Adds a document path to the document collection for the chat copilot options.
+
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(string filePath)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path of the document to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class SignatureField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.SignatureField class. Represents signature form field
 type: docs
-weight: 3920
+weight: 5280
 url: /net/aspose.pdf.forms/signaturefield/
 ---
 ## SignatureField class
@@ -81,6 +81,9 @@ public sealed class SignatureField : Field
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Executes a specified JavaScript action for the field. |
+| [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(Stream, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the provided stream. |
+| [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(string, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the specified file. |
+| [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exports the content of the specified field into a JSON stream. Button field value are not exported. |
 | [ExtractCertificate](../../aspose.pdf.forms/signaturefield/extractcertificate/)() | Extracts the single X.509 certificate in DER format as a stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage)() | Extracts signature's image as jpeg encoded stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage_1)(ImageFormat) | Extracts signature's image as encoded stream. |
@@ -88,6 +91,8 @@ public sealed class SignatureField : Field
 | [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator/)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream) | Imports data into the specified fields from a JSON stream, based on an exact match of the fields' full names. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream, string) | Imports data into the specified field from a JSON stream, using the full name specified in the 'fieldFullNameInJSON' variable for matching. |
 | [Recalculate](../../aspose.pdf.forms/field/recalculate/)() | Recaculates all calculated fields on the form. |
 | virtual [SetPosition](../../aspose.pdf.forms/field/setposition/)(Point) | Set position of the field. |
 | [Sign](../../aspose.pdf.forms/signaturefield/sign/#sign)(Signature) | Sign the document using this signature field. |
