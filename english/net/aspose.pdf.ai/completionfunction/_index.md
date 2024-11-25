@@ -1,12 +1,14 @@
 ---
 title: Class CompletionFunction
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CompletionFunction class. 
+description: Aspose.Pdf.AI.CompletionFunction class. Represents the function object
 type: docs
 weight: 230
 url: /net/aspose.pdf.ai/completionfunction/
 ---
 ## CompletionFunction class
+
+Represents the function object.
 
 ```csharp
 public class CompletionFunction
@@ -22,7 +24,7 @@ public class CompletionFunction
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } |  |
+| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | Gets or sets the name of the function to call. |
 
 ### See Also
 

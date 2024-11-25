@@ -1,12 +1,14 @@
 ---
 title: FileSearch.VectorStoreIds
 second_title: Aspose.PDF for .NET API Reference
-description: FileSearch property. 
+description: FileSearch property. Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/filesearch/vectorstoreids/
 ---
 ## FileSearch.VectorStoreIds property
+
+Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant.
 
 ```csharp
 public List<string> VectorStoreIds { get; set; }

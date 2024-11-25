@@ -1,16 +1,22 @@
 ---
 title: VectorStoreListQueryParameters.GetQueryParameters
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreListQueryParameters method. 
+description: VectorStoreListQueryParameters method. Gets the query parameters for listing vector stores
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/
 ---
 ## VectorStoreListQueryParameters.GetQueryParameters method
 
+Gets the query parameters for listing vector stores.
+
 ```csharp
 public string GetQueryParameters()
 ```
+
+### Return Value
+
+The query parameters string.
 
 ### See Also
 

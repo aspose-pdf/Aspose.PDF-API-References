@@ -1,12 +1,14 @@
 ---
 title: AICopilotFactory.CreateSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. 
+description: AICopilotFactory method. Creates a summary copilot based on the client and options
 type: docs
 weight: 30
 url: /net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/
 ---
 ## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
+
+Creates a summary copilot based on the client and options.
 
 ```csharp
 public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOptions> client, 

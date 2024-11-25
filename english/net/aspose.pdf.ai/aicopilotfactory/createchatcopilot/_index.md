@@ -1,12 +1,14 @@
 ---
 title: AICopilotFactory.CreateChatCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. 
+description: AICopilotFactory method. Creates a chat copilot based on the client and options
 type: docs
 weight: 10
 url: /net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
 ---
 ## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
+
+Creates a chat copilot based on the client and options.
 
 ```csharp
 public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> client, 

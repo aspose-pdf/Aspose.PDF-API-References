@@ -3,7 +3,7 @@ title: Class Form
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.Form class. Class representing form object
 type: docs
-weight: 3700
+weight: 5060
 url: /net/aspose.pdf.forms/form/
 ---
 ## Form class
@@ -48,12 +48,16 @@ public sealed class Form : ICollection<WidgetAnnotation>
 | [CopyTo](../../aspose.pdf.forms/form/copyto/)(Field[], int) | Copies fields placed on the form into array. |
 | [Delete](../../aspose.pdf.forms/form/delete/#delete)(Field) | Delete field from the form. |
 | [Delete](../../aspose.pdf.forms/form/delete/#delete_1)(string) | Deletes field from the form by its name. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson)(Stream, ExportFieldsToJsonOptions) | Exports the PDF form fields to JSON format and writes the result to the provided stream. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson_1)(string, ExportFieldsToJsonOptions) | Exports the PDF form fields to JSON format and writes the result to the specified file. |
 | [Flatten](../../aspose.pdf.forms/form/flatten/)() | Removes all form fields and place their values directly on the page. |
 | [GetEnumerator](../../aspose.pdf.forms/form/getenumerator/)() | Gets enumeration of form fields. |
 | [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect/)(Rectangle) | Returns fields inside of specified rectangle. |
 | [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield)(Field) | Check if the form already has specified field. |
 | [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_1)(string) | Determines if the field with specified name already added to the Form. |
 | [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_2)(string, bool) | Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson)(Stream) | Imports the PDF form fields from JSON format provided in the stream. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson_1)(string) | Imports the PDF form fields from JSON format provided in the specified file. |
 | [MakeFormAnnotationsIndependent](../../aspose.pdf.forms/form/makeformannotationsindependent/)(Page) | Makes form fields annotations independent. |
 | [RemoveFieldAppearance](../../aspose.pdf.forms/form/removefieldappearance/)(Field, int) | Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field. |
 

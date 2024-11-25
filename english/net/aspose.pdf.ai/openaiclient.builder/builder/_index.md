@@ -1,16 +1,22 @@
 ---
 title: OpenAIClient.Builder.Builder
 second_title: Aspose.PDF for .NET API Reference
-description: Builder constructor. 
+description: Builder constructor. Initializes a new instance of the Builder class with the API key
 type: docs
 weight: 10
 url: /net/aspose.pdf.ai/openaiclient.builder/builder/
 ---
 ## OpenAIClient.Builder constructor
 
+Initializes a new instance of the [`Builder`](../) class with the API key.
+
 ```csharp
 public Builder(string apiKey)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| apiKey | String | The API key to use for the client. |
 
 ### See Also
 

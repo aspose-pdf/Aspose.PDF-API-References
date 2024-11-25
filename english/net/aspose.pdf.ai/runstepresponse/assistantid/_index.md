@@ -1,12 +1,14 @@
 ---
 title: RunStepResponse.AssistantId
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse property. 
+description: RunStepResponse property. Gets or sets the ID of the assistant associated with the run step
 type: docs
 weight: 20
 url: /net/aspose.pdf.ai/runstepresponse/assistantid/
 ---
 ## RunStepResponse.AssistantId property
+
+Gets or sets the ID of the assistant associated with the run step.
 
 ```csharp
 public string AssistantId { get; set; }

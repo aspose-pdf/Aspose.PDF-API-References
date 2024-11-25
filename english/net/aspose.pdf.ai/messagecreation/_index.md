@@ -1,12 +1,14 @@
 ---
 title: Class MessageCreation
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageCreation class. 
+description: Aspose.Pdf.AI.MessageCreation class. Represents the creation of a message with its unique identifier
 type: docs
 weight: 800
 url: /net/aspose.pdf.ai/messagecreation/
 ---
 ## MessageCreation class
+
+Represents the creation of a message with its unique identifier.
 
 ```csharp
 public class MessageCreation
@@ -22,7 +24,7 @@ public class MessageCreation
 
 | Name | Description |
 | --- | --- |
-| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } |  |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Gets or sets the unique identifier of the message. |
 
 ### See Also
 

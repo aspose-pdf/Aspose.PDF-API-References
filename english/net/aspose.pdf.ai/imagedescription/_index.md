@@ -1,12 +1,14 @@
 ---
 title: Class ImageDescription
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageDescription class. 
+description: Aspose.Pdf.AI.ImageDescription class. Represents an image description
 type: docs
 weight: 610
 url: /net/aspose.pdf.ai/imagedescription/
 ---
 ## ImageDescription class
+
+Represents an image description.
 
 ```csharp
 public class ImageDescription
@@ -22,11 +24,11 @@ public class ImageDescription
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } |  |
-| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } |  |
-| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } |  |
-| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } |  |
-| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } |  |
+| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | Gets or sets the description associated with the image. |
+| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | Gets or sets the byte array representing the image. |
+| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | Gets or sets the name of the image. |
+| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | Gets or sets the page number where the image is located. |
+| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | Gets or sets the rectangle information of the image. |
 
 ### See Also
 

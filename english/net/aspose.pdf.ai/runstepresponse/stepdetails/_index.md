@@ -1,12 +1,14 @@
 ---
 title: RunStepResponse.StepDetails
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse property. 
+description: RunStepResponse property. Gets or sets the details of the run step
 type: docs
 weight: 150
 url: /net/aspose.pdf.ai/runstepresponse/stepdetails/
 ---
 ## RunStepResponse.StepDetails property
+
+Gets or sets the details of the run step.
 
 ```csharp
 public RunStepDetails StepDetails { get; set; }

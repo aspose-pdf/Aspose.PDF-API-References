@@ -3,7 +3,7 @@ title: Class RadioButtonField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.RadioButtonField class. Class representing radio button field
 type: docs
-weight: 3840
+weight: 5200
 url: /net/aspose.pdf.forms/radiobuttonfield/
 ---
 ## RadioButtonField class
@@ -92,10 +92,15 @@ public sealed class RadioButtonField : ChoiceField
 | [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | virtual [DeleteOption](../../aspose.pdf.forms/choicefield/deleteoption/)(string) | Deletes option by its name. |
 | [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Executes a specified JavaScript action for the field. |
+| [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(Stream, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the provided stream. |
+| [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(string, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the specified file. |
+| [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exports the content of the specified field into a JSON stream. Button field value are not exported. |
 | [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator/)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream) | Imports data into the specified fields from a JSON stream, based on an exact match of the fields' full names. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream, string) | Imports data into the specified field from a JSON stream, using the full name specified in the 'fieldFullNameInJSON' variable for matching. |
 | [Recalculate](../../aspose.pdf.forms/field/recalculate/)() | Recaculates all calculated fields on the form. |
 | override [SetPosition](../../aspose.pdf.forms/radiobuttonfield/setposition/)(Point) | Move all subitems of radio button to specified positins on the page. |
 

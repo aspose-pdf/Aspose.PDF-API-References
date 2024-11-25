@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 2450
+weight: 3810
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -154,7 +154,14 @@ public sealed class Document : IDisposable
 | [Save](../../aspose.pdf/document/save/#save_4)(Stream, SaveOptions) | Saves the document to a stream with a save options. |
 | [Save](../../aspose.pdf/document/save/#save_6)(string, SaveFormat) | Saves the document with a new name along with a file format. |
 | [Save](../../aspose.pdf/document/save/#save_7)(string, SaveOptions) | Saves the document with a new name setting its save options. |
-| [Save](../../aspose.pdf/document/save/#save_8)(HttpResponse, string, ContentDisposition, SaveOptions) | Saves the document to a response stream with a save options. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_7)(CancellationToken) | Save document incrementally (i.e. using incremental update technique). |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync)(SaveOptions, CancellationToken) | Saves the document with save options. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_3)(Stream, CancellationToken) | Stores document into stream. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_6)(string, CancellationToken) | Saves document into the specified file. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_1)(Stream, SaveFormat, CancellationToken) | Saves the document with a new name along with a file format. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_2)(Stream, SaveOptions, CancellationToken) | Saves the document to a stream with a save options. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_4)(string, SaveFormat, CancellationToken) | Saves the document with a new name along with a file format. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_5)(string, SaveOptions, CancellationToken) | Saves the document with a new name setting its save options. |
 | [SaveXml](../../aspose.pdf/document/savexml/)(string) | Save document to XML. |
 | [SendTo](../../aspose.pdf/document/sendto/#sendto_2)(DocumentDevice, Stream) | Sends the whole document to the document device for processing. |
 | [SendTo](../../aspose.pdf/document/sendto/#sendto_3)(DocumentDevice, string) | Sends the whole document to the document device for processing. |

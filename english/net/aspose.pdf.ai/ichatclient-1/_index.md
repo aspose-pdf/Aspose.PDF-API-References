@@ -22,7 +22,7 @@ public interface IChatClient<in TOptions> : IAIClient
 
 | Name | Description |
 | --- | --- |
-| [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) |  |
+| [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`IChatCopilot`](../ichatcopilot/) with the specified options. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ResponseFormat.StringValue
 second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat property. 
+description: ResponseFormat property. Gets or sets the string value of the response format
 type: docs
 weight: 50
 url: /net/aspose.pdf.ai/responseformat/stringvalue/
 ---
 ## ResponseFormat.StringValue property
+
+Gets or sets the string value of the response format.
 
 ```csharp
 public string StringValue { get; set; }

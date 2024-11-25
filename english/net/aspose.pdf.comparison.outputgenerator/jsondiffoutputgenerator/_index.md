@@ -1,12 +1,14 @@
 ---
 title: Class JsonDiffOutputGenerator
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.OutputGenerator.JsonDiffOutputGenerator class. 
+description: Aspose.Pdf.Comparison.OutputGenerator.JsonDiffOutputGenerator class. Represents a class for displaying the results of comparing PDF documents or pages in JSON format
 type: docs
 weight: 3360
 url: /net/aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/
 ---
 ## JsonDiffOutputGenerator class
+
+Represents a class for displaying the results of comparing PDF documents or pages in JSON format.
 
 ```csharp
 public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -22,10 +24,10 @@ public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) |  |
-| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) |  |
-| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_2)(List&lt;DiffOperation&gt;, string) |  |
-| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_3)(List&lt;List&lt;DiffOperation&gt;&gt;, string) |  |
+| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_2)(List&lt;DiffOperation&gt;, string) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison.outputgenerator/jsondiffoutputgenerator/generateoutput/#generateoutput_3)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | Generates the output of the differences between texts and saves it to a file. |
 
 ### See Also
 

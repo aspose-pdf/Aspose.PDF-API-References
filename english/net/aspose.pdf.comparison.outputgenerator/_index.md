@@ -3,7 +3,7 @@ title: Aspose.Pdf.Comparison.OutputGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.comparison.outputgenerator/
 ---
 
@@ -13,6 +13,7 @@ url: /net/aspose.pdf.comparison.outputgenerator/
 | Class | Description |
 | --- | --- |
 | [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Represents a class for generating html representation of texts differences. Deleted line breaks are indicated by paragraph mark. |
+| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/) | Represents a class for displaying the results of comparing PDF documents or pages in JSON format. |
 | [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/) | Represents a class for generating markdown representation of texts differences. Because of the markdown syntax, it is not possible to show changes to whitespace characters. Selection of changes makes adding whitespace characters around formatting, otherwise markdown viewer will not correctly display the text. Deleted line breaks are indicated by - paragraph mark. |
 | [OutputTextStyle](./outputtextstyle/) | Represents a style set class for marking text changes. |
 | [PdfOutputGenerator](./pdfoutputgenerator/) | Represents a class for generating PDF representation of texts differences. |

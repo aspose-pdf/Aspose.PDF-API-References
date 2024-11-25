@@ -22,7 +22,7 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) |  |
+| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`ISummaryCopilot`](../isummarycopilot/) with the specified options. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Class FileSearch
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileSearch class. 
+description: Aspose.Pdf.AI.FileSearch class. Represents the file search tool resources
 type: docs
 weight: 410
 url: /net/aspose.pdf.ai/filesearch/
 ---
 ## FileSearch class
+
+Represents the file search tool resources.
 
 ```csharp
 public class FileSearch
@@ -22,8 +24,8 @@ public class FileSearch
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } |  |
-| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } |  |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Gets or sets the helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread. |
 
 ### See Also
 

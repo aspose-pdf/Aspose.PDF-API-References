@@ -1,12 +1,14 @@
 ---
 title: Function.Name
 second_title: Aspose.PDF for .NET API Reference
-description: Function property. 
+description: Function property. Gets or sets the name of the function to call
 type: docs
 weight: 30
 url: /net/aspose.pdf.ai/function/name/
 ---
 ## Function.Name property
+
+Gets or sets the name of the function to call.
 
 ```csharp
 public string Name { get; set; }

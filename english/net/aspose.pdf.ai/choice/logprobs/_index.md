@@ -1,12 +1,14 @@
 ---
 title: Choice.Logprobs
 second_title: Aspose.PDF for .NET API Reference
-description: Choice property. 
+description: Choice property. Gets or sets log probability information for the choice
 type: docs
 weight: 40
 url: /net/aspose.pdf.ai/choice/logprobs/
 ---
 ## Choice.Logprobs property
+
+Gets or sets log probability information for the choice.
 
 ```csharp
 public Logprobs Logprobs { get; set; }
