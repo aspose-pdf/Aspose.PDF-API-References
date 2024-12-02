@@ -23,7 +23,7 @@ is_root: true
 | [Aspose.Pdf.Generator](./aspose.pdf.generator/) | The **Aspose.Pdf.Generator** namespace provides classes used to add various types of content to PDF page. |
 | [Aspose.Pdf.GroupProcessor](./aspose.pdf.groupprocessor/) | The **Aspose.Pdf.GroupProcessor** namespace provides classes used to work text and fonts. |
 | [Aspose.Pdf.GroupProcessor.Creators](./aspose.pdf.groupprocessor.creators/) | The **Aspose.Pdf.GroupProcessor.Creators** namespace provides classes used to create instances of GroupProcessor classes. |
-| [Aspose.Pdf.LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes. |
+| [Aspose.Pdf.LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.LogicalStructure** is a namespace for PDF Logical Structure classes. |
 | [Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/) | The **Aspose.Pdf.Multithreading** is a namespace for thread interruption implementations. |
 | [Aspose.Pdf.Operators](./aspose.pdf.operators/) | The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents. |
 | [Aspose.Pdf.Optimization](./aspose.pdf.optimization/) | The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process. |
