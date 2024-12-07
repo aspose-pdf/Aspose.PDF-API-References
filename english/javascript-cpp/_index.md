@@ -85,6 +85,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfAddWatermark](./organize/asposepdfaddwatermark/) | Add watermark to a PDF-file. |
 | [AsposePdfDeleteWatermarks](./organize/asposepdfdeletewatermarks/) | Delete watermarks from a PDF-file. |
 | [AsposePdfMergeLayers](./organize/asposepdfmergelayers/) | Merge layers a PDF-file. |
+| [AsposePdfFlatten](./organize/asposepdfflatten/) | Flatten a PDF-file. |
 
 
 ## Metadata PDF functions
