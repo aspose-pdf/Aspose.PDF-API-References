@@ -3,7 +3,7 @@ title: PdfFileStamp.AddFooter
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp method. Adds footer to the pages of the document
 type: docs
-weight: 150
+weight: 110
 url: /net/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
 ## AddFooter(FormattedText, float) {#addfooter}

@@ -3,7 +3,7 @@ title: Class PdfFormatConversionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfFormatConversionOptions class. represents set of options for convert PDF document
 type: docs
-weight: 6860
+weight: 8290
 url: /net/aspose.pdf/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions class
@@ -45,6 +45,7 @@ public class PdfFormatConversionOptions
 | [NonSpecificationCases](../../aspose.pdf/pdfformatconversionoptions/nonspecificationcases/) { get; } | Holds flags to control PDF/A conversion process for cases when source document doesn't correspond to PDF/A specification. |
 | [NotAccessibleFonts](../../aspose.pdf/pdfformatconversionoptions/notaccessiblefonts/) { get; } | This property is out-property. It holds all the fonts(font names) which were not found on computer at last PDF/A conversion. |
 | [OptimizeFileSize](../../aspose.pdf/pdfformatconversionoptions/optimizefilesize/) { get; set; } | Gets or sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
+| [OutputIntent](../../aspose.pdf/pdfformatconversionoptions/outputintent/) { get; set; } | Gets or sets the [`OutputIntent`](../outputintent/) for the PDF format conversion. |
 | [PuaTextProcessingStrategy](../../aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/) { get; set; } | Strategy to process symbols from unicode Private Use Area (PUA). |
 | [SymbolicFontEncodingStrategy](../../aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/) { get; set; } | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [TransparencyAction](../../aspose.pdf/pdfformatconversionoptions/transparencyaction/) { get; set; } | Action for image masked objects |

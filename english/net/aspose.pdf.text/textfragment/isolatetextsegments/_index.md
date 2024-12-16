@@ -3,7 +3,7 @@ title: TextFragment.IsolateTextSegments
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragment method. Gets TextSegments representing specified part of the TextFragment text
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
 ## TextFragment.IsolateTextSegments method

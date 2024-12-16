@@ -3,7 +3,7 @@ title: FormEditor.GetFieldAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Get field flags
 type: docs
-weight: 230
+weight: 190
 url: /net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
 ## FormEditor.GetFieldAppearance method

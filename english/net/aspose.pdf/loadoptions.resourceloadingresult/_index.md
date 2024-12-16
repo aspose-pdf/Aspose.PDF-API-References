@@ -3,7 +3,7 @@ title: Class LoadOptions.ResourceLoadingResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LoadOptionsResourceLoadingResult class. Result of custom loading of resource
 type: docs
-weight: 4730
+weight: 6080
 url: /net/aspose.pdf/loadoptions.resourceloadingresult/
 ---
 ## LoadOptions.ResourceLoadingResult class

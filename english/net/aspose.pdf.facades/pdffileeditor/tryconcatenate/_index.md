@@ -3,10 +3,10 @@ title: PdfFileEditor.TryConcatenate
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Concatenates two files
 type: docs
-weight: 420
+weight: 390
 url: /net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
 ---
-## TryConcatenate(string, string, string) {#tryconcatenate_4}
+## TryConcatenate(string, string, string) {#tryconcatenate_3}
 
 Concatenates two files.
 
@@ -73,7 +73,7 @@ The TryConcatenate method is like the Concatenate method, except the TryConcaten
 
 ---
 
-## TryConcatenate(string[], string) {#tryconcatenate_6}
+## TryConcatenate(string[], string) {#tryconcatenate_5}
 
 Concatenates files into one file.
 
@@ -148,7 +148,7 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ---
 
-## TryConcatenate(string, string, string, string) {#tryconcatenate_5}
+## TryConcatenate(string, string, string, string) {#tryconcatenate_4}
 
 Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
@@ -228,7 +228,6 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outs
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TryConcatenate(string[], HttpResponse) {#tryconcatenate_7}
 

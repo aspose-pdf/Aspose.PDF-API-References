@@ -3,7 +3,7 @@ title: Class FdfReader
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FdfReader class. Class which performes reading of FDF format
 type: docs
-weight: 350
+weight: 1700
 url: /net/aspose.pdf.annotations/fdfreader/
 ---
 ## FdfReader class

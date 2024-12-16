@@ -3,7 +3,7 @@ title: TextStamp.TextAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: TextStamp property. Alignment of the text inside the stamp
 type: docs
-weight: 90
+weight: 120
 url: /net/aspose.pdf/textstamp/textalignment/
 ---
 ## TextStamp.TextAlignment property

@@ -1,11 +1,51 @@
 ---
 title: Document.Save
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Save document incrementally i.e. using incremental update technique
+description: Document method. Stores document into stream
 type: docs
 weight: 830
 url: /net/aspose.pdf/document/save/
 ---
+## Save(Stream) {#save_2}
+
+Stores document into stream.
+
+```csharp
+public void Save(Stream output)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| output | Stream | Stream where document shell be stored. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string) {#save_5}
+
+Saves document into the specified file.
+
+```csharp
+public void Save(string outputFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Save() {#save}
 
 Save document incrementally (i.e. using incremental update technique).
@@ -141,72 +181,6 @@ public void Save(Stream outputStream, SaveOptions options)
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
-
-Saves the document to a response stream with a save options.
-
-```csharp
-public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
-    SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| response | HttpResponse | Encapsulates HTTP-response information. |
-| outputFileName | String | Simple file name, i.e. without path. |
-| disposition | ContentDisposition | Represents a MIME protocol Content-Disposition header. |
-| options | SaveOptions | Save options. |
-
-### See Also
-
-* enum [ContentDisposition](../../contentdisposition/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(Stream) {#save_2}
-
-Stores document into stream.
-
-```csharp
-public void Save(Stream output)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_5}
-
-Saves document into the specified file.
-
-```csharp
-public void Save(string outputFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-
-### See Also
-
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

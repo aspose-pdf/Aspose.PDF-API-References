@@ -3,7 +3,7 @@ title: PdfFileStamp.PosUpperRight
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp field. Right upper position
 type: docs
-weight: 280
+weight: 240
 url: /net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
 ## PdfFileStamp.PosUpperRight field

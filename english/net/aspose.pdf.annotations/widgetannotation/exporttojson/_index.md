@@ -22,7 +22,7 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 
 ### Return Value
 
-A collection of [`FieldSerializationResult`](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/) indicating the result of the export operation for the specified form field and its child elements, if present.
+A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for the specified form field and its child elements, if present.
 
 ## Examples
 
@@ -36,8 +36,8 @@ fs.Close();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/exportfieldstojsonoptions/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -60,7 +60,7 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 
 ### Return Value
 
-A collection of [`FieldSerializationResult`](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/) indicating the result of the export operation for the specified form field and its child elements, if present.
+A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for the specified form field and its child elements, if present.
 
 ## Examples
 
@@ -73,8 +73,8 @@ annotation.ExportToJson(jsonPath);
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/exportfieldstojsonoptions/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

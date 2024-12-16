@@ -3,7 +3,7 @@ title: FormEditor.AddField
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Add field of specified type to the form
 type: docs
-weight: 140
+weight: 100
 url: /net/aspose.pdf.facades/formeditor/addfield/
 ---
 ## AddField(FieldType, string, int, float, float, float, float) {#addfield}

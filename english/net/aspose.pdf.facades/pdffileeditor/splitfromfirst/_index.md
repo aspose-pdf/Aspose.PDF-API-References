@@ -3,10 +3,10 @@ title: PdfFileEditor.SplitFromFirst
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Splits Pdf file from first page to specified locationand saves the front part as a new file
 type: docs
-weight: 370
+weight: 340
 url: /net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
-## SplitFromFirst(string, int, string) {#splitfromfirst_2}
+## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
 Splits Pdf file from first page to specified location,and saves the front part as a new file.
 
@@ -76,7 +76,6 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## SplitFromFirst(string, int, HttpResponse) {#splitfromfirst_3}
 

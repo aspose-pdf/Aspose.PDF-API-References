@@ -3,7 +3,7 @@ title: Class LaunchAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.LaunchAction class. Represents a launch action that launches an application or opens or prints a document
 type: docs
-weight: 600
+weight: 1950
 url: /net/aspose.pdf.annotations/launchaction/
 ---
 ## LaunchAction class

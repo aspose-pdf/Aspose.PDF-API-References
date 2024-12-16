@@ -3,7 +3,7 @@ title: Class ComparisonOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.ComparisonOptions class. Represents a PDF document comparison options class
 type: docs
-weight: 1910
+weight: 3140
 url: /net/aspose.pdf.comparison/comparisonoptions/
 ---
 ## ComparisonOptions class

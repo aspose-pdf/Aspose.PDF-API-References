@@ -3,7 +3,7 @@ title: Form.MakeFormAnnotationsIndependent
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Makes form fields annotations independent
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
 ## Form.MakeFormAnnotationsIndependent method

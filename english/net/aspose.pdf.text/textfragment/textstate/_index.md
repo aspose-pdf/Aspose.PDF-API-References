@@ -3,7 +3,7 @@ title: TextFragment.TextState
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragment property. Gets or sets text state for the text that TextFragment object represents
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf.text/textfragment/textstate/
 ---
 ## TextFragment.TextState property

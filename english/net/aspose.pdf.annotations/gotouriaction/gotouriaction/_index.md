@@ -1,14 +1,14 @@
 ---
 title: GoToURIAction.GoToURIAction
 second_title: Aspose.PDF for .NET API Reference
-description: GoToURIAction constructor. Constructor
+description: GoToURIAction constructor. Creates an instance of GoToURIAction class
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
 ## GoToURIAction constructor
 
-Constructor.
+Creates an instance of [`GoToURIAction`](../) class.
 
 ```csharp
 public GoToURIAction(string uri)

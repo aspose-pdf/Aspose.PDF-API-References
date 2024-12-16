@@ -3,7 +3,7 @@ title: Enum CollectionFieldSubtype
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CollectionFieldSubtype enum. Represents the subtype parameter of a field in a sceme collection
 type: docs
-weight: 1810
+weight: 3030
 url: /net/aspose.pdf/collectionfieldsubtype/
 ---
 ## CollectionFieldSubtype enumeration

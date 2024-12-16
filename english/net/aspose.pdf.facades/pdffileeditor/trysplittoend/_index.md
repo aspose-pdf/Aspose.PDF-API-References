@@ -3,10 +3,10 @@ title: PdfFileEditor.TrySplitToEnd
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Splits from location and saves the rear part as a new file
 type: docs
-weight: 500
+weight: 470
 url: /net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_2}
+## TrySplitToEnd(string, int, string) {#trysplittoend_1}
 
 Splits from location, and saves the rear part as a new file.
 
@@ -80,7 +80,6 @@ bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
 

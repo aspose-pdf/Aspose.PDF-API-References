@@ -3,7 +3,7 @@ title: TextFragment.CloneWithSegments
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragment method. Clone the fragment with all segments
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
 ## TextFragment.CloneWithSegments method

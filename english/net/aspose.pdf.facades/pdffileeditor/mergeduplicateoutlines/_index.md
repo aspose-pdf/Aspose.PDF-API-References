@@ -3,7 +3,7 @@ title: PdfFileEditor.MergeDuplicateOutlines
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor property. If true duplicate outlines are merged
 type: docs
-weight: 170
+weight: 150
 url: /net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
 ## PdfFileEditor.MergeDuplicateOutlines property

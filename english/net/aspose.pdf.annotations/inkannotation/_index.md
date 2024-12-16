@@ -3,7 +3,7 @@ title: Class InkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.InkAnnotation class. Represents a freehand scribble composed of one or more disjoint paths
 type: docs
-weight: 570
+weight: 1920
 url: /net/aspose.pdf.annotations/inkannotation/
 ---
 ## InkAnnotation class

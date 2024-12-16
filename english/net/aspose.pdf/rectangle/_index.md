@@ -3,7 +3,7 @@ title: Class Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Rectangle class. Class represents rectangle
 type: docs
-weight: 7310
+weight: 8730
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -51,6 +51,7 @@ public sealed class Rectangle : ICloneable
 | [Intersect](../../aspose.pdf/rectangle/intersect/)(Rectangle) | Intersects to rectangles. |
 | [IsIntersect](../../aspose.pdf/rectangle/isintersect/)(Rectangle) | Determines whether this rectangle intersects with other rectangle. |
 | [Join](../../aspose.pdf/rectangle/join/)(Rectangle) | Joins rectangles. |
+| [MoveBy](../../aspose.pdf/rectangle/moveby/)(double, double) | Shift rectangle by the specified deltas. |
 | [NearEquals](../../aspose.pdf/rectangle/nearequals/)(Rectangle, double) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
 | [Rotate](../../aspose.pdf/rectangle/rotate/#rotate_1)(int) | Rotate rectangle by the specified angle. |
 | [Rotate](../../aspose.pdf/rectangle/rotate/#rotate)(Rotation) | Rotate rectangle by the specified angle. |

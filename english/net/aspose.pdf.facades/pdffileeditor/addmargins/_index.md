@@ -3,7 +3,7 @@ title: PdfFileEditor.AddMargins
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Resizes page contents and add specifed margins. Margins are specified in default space units
 type: docs
-weight: 250
+weight: 220
 url: /net/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}

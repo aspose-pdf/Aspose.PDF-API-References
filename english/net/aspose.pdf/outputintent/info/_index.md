@@ -1,17 +1,17 @@
 ---
 title: OutputIntent.Info
 second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent property. Gets a humanreadable text that contains additional information or comments about the intended target device or production condition
+description: OutputIntent property. Gets or sets a humanreadable text that contains additional information or comments about the intended target device or production condition
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.pdf/outputintent/info/
 ---
 ## OutputIntent.Info property
 
-Gets a human-readable text that contains additional information or comments about the intended target device or production condition.
+Gets or sets a human-readable text that contains additional information or comments about the intended target device or production condition.
 
 ```csharp
-public string Info { get; }
+public string Info { get; set; }
 ```
 
 ### See Also

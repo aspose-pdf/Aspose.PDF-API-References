@@ -3,7 +3,7 @@ title: Class SoundAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundAnnotation class. Represents a sound annotation that contains sound recorded from the computers microphone or imported from a file
 type: docs
-weight: 1180
+weight: 2530
 url: /net/aspose.pdf.annotations/soundannotation/
 ---
 ## SoundAnnotation class

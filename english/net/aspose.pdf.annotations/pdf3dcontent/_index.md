@@ -3,7 +3,7 @@ title: Class PDF3DContent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DContent class. Class PDF3DContent
 type: docs
-weight: 820
+weight: 2170
 url: /net/aspose.pdf.annotations/pdf3dcontent/
 ---
 ## PDF3DContent class

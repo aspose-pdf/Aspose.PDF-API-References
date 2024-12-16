@@ -3,7 +3,7 @@ title: Class TableTFootElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableTFootElement class. Represents TFoot structure element in logical structure of the table
 type: docs
-weight: 5400
+weight: 6750
 url: /net/aspose.pdf.logicalstructure/tabletfootelement/
 ---
 ## TableTFootElement class

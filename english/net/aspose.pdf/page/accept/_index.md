@@ -1,32 +1,11 @@
 ---
 title: Page.Accept
 second_title: Aspose.PDF for .NET API Reference
-description: Page method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations
+description: Page method. Accepts TextFragmentAbsorber visitor object that provides functionality to work with text objects
 type: docs
 weight: 330
 url: /net/aspose.pdf/page/accept/
 ---
-## Accept(AnnotationSelector) {#accept}
-
-Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
-
-```csharp
-public void Accept(AnnotationSelector visitor)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | AnnotationSelector | Annotation selector sobject. |
-
-### See Also
-
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
 Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
@@ -84,6 +63,27 @@ public void Accept(TextAbsorber visitor)
 ### See Also
 
 * class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Accept(AnnotationSelector) {#accept}
+
+Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
+
+```csharp
+public void Accept(AnnotationSelector visitor)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | AnnotationSelector | Annotation selector sobject. |
+
+### See Also
+
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

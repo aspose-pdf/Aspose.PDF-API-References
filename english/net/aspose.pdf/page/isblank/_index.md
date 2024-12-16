@@ -3,7 +3,7 @@ title: Page.IsBlank
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Gets the flag whether page is blank or not
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.pdf/page/isblank/
 ---
 ## Page.IsBlank method

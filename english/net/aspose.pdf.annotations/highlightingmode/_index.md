@@ -3,7 +3,7 @@ title: Enum HighlightingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.HighlightingMode enum. Enumerates the annotations highlighting mode the visual effect to be used when the mouse button is pressed or held down inside its active area
 type: docs
-weight: 530
+weight: 1880
 url: /net/aspose.pdf.annotations/highlightingmode/
 ---
 ## HighlightingMode enumeration

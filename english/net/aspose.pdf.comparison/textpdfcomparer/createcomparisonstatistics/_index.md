@@ -25,7 +25,7 @@ The statistics.
 ### See Also
 
 * class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +52,7 @@ The statistics.
 ### See Also
 
 * class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
-* class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

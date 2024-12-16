@@ -3,7 +3,7 @@ title: Page.SendTo
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Sends page to process with given page device
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.pdf/page/sendto/
 ---
 ## SendTo(PageDevice, Stream) {#sendto}

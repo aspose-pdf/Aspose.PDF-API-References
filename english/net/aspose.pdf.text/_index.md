@@ -3,7 +3,7 @@ title: Aspose.Pdf.Text
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Text namespace provides classes that allow to extract text add text manipulate existing text of a document. It also contain classes that allow to extract replace substitute fonts of a document
 type: docs
-weight: 310
+weight: 240
 url: /net/aspose.pdf.text/
 ---
 The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that allow to extract, replace, substitute fonts of a document.
@@ -35,6 +35,7 @@ The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, a
 | [ParagraphAbsorber](./paragraphabsorber/) | Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides access for rectangles and polydons that describes it in text coordinate space. Also performs text segments search and provides access to search results via !:TextFragments collections grouped by structure elements. |
 | [ParagraphAbsorberOptions](./paragraphabsorberoptions/) | Represents options for the [`ParagraphAbsorber`](../aspose.pdf.text/paragraphabsorber/). |
 | [Position](./position/) | Represents a position object |
+| [RegexManager](./regexmanager/) | Provides a wrapper for regular expression operations with configurable timeout settings. |
 | [SimpleFontSubstitution](./simplefontsubstitution/) | Represents a class for simple font substitution strategy. |
 | [SystemFontSource](./systemfontsource/) | Represents all fonts installed to the system. |
 | [SystemFontsSubstitution](./systemfontssubstitution/) | Represents a class for font substitution strategy that substitutes fonts with system fonts. |

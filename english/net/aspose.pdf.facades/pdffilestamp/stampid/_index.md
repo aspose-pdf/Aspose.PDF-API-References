@@ -3,7 +3,7 @@ title: PdfFileStamp.StampId
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp property. Stamp ID of next added stamp incluiding page headers/hooters/page numbers
 type: docs
-weight: 130
+weight: 90
 url: /net/aspose.pdf.facades/pdffilestamp/stampid/
 ---
 ## PdfFileStamp.StampId property

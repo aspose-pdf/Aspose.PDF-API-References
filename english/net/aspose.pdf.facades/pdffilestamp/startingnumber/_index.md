@@ -3,7 +3,7 @@ title: PdfFileStamp.StartingNumber
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp property. Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100 document pages will have numbers 100 101 102
 type: docs
-weight: 140
+weight: 100
 url: /net/aspose.pdf.facades/pdffilestamp/startingnumber/
 ---
 ## PdfFileStamp.StartingNumber property

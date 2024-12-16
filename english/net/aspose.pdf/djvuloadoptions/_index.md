@@ -3,7 +3,7 @@ title: Class DjvuLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DjvuLoadOptions class. Class describes DJVU load options
 type: docs
-weight: 2410
+weight: 3720
 url: /net/aspose.pdf/djvuloadoptions/
 ---
 ## DjvuLoadOptions class

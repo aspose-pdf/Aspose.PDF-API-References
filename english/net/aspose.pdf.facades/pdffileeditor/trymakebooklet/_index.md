@@ -1,12 +1,12 @@
 ---
 title: PdfFileEditor.TryMakeBooklet
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Makes booklet from source file and stores result into HttpResponse objects
+description: PdfFileEditor method. Makes booklet from the input file to output file
 type: docs
-weight: 460
+weight: 430
 url: /net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## TryMakeBooklet(string, PageSize, int[], int[], HttpResponse) {#trymakebooklet_6}
+## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
 Makes booklet from source file and stores result into HttpResponse objects.
 
@@ -172,7 +172,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 
 ---
 
-## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
+## TryMakeBooklet(Stream, Stream) {#trymakebooklet}
 
 Makes booklet from the InputStream to outputStream.
 
@@ -210,7 +210,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 
 ---
 
-## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
+## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_5}
 
 Makes booklet from the inputFile to outputFile.
 
@@ -248,7 +248,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_3}
+## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_1}
 
 Makes booklet from the input stream and save result into output stream.
 
@@ -288,7 +288,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ---
 
-## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
+## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -326,7 +326,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 
 
 ---
 
-## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_5}
+## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
 Makes customized booklet from the firstInputStream to outputStream.
 
@@ -367,7 +367,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 
 
 ---
 
-## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
+## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -408,7 +408,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
+## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_2}
 
 Makes booklet from the firstInputStream to outputStream.
 

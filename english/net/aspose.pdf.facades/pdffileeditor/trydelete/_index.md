@@ -3,10 +3,10 @@ title: PdfFileEditor.TryDelete
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Deletes pages specified by number array from input file saves as a new Pdf file
 type: docs
-weight: 430
+weight: 400
 url: /net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
-## TryDelete(string, int[], string) {#trydelete_2}
+## TryDelete(string, int[], string) {#trydelete_1}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -80,7 +80,6 @@ bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TryDelete(string, int[], HttpResponse) {#trydelete_3}
 

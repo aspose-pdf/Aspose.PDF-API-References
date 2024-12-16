@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.AI
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Aspose.Pdf.AI namespace provides classes for AI functionalities including API clients and intelligent assistants
 type: docs
 weight: 40
 url: /net/aspose.pdf.ai/
 ---
-
+The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, including API clients and intelligent assistants.
 
 ## Classes
 

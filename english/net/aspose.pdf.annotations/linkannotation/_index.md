@@ -3,7 +3,7 @@ title: Class LinkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.LinkAnnotation class. Represents either a hypertext link to a destination elsewhere in the document or an action to be performed
 type: docs
-weight: 660
+weight: 2010
 url: /net/aspose.pdf.annotations/linkannotation/
 ---
 ## LinkAnnotation class

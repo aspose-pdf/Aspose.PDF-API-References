@@ -3,7 +3,7 @@ title: Enum AnnotationStateModel
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.AnnotationStateModel enum. The state model corresponding to state of annotation
 type: docs
-weight: 120
+weight: 1470
 url: /net/aspose.pdf.annotations/annotationstatemodel/
 ---
 ## AnnotationStateModel enumeration

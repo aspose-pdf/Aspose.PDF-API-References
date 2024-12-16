@@ -3,7 +3,7 @@ title: Class DocumentPrivilege
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.DocumentPrivilege class. Represents the privileges for accessing Pdf file. Refer toPdfFileSecurity. There are 4 ways using this class 1.Using predefined privilege directly. 2.Based on a predefined privilege and change some specifical permissions. 3.Based on a predefined privilege and change some specifical Adobe Professional permissions combination. 4.Mixes the way2 and way3
 type: docs
-weight: 2910
+weight: 4200
 url: /net/aspose.pdf.facades/documentprivilege/
 ---
 ## DocumentPrivilege class
@@ -36,9 +36,9 @@ public sealed class DocumentPrivilege : IComparable<object>
 | [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
 | [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | Sets the permission which allow print or not. true is allow and false is forbidden. |
 | [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
-| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { set; } | Sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages. |
-| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { set; } | Sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content. |
-| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { set; } | Sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
+| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | Gets and sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages. |
+| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content. |
+| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | Gets and sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
 
 ## Methods
 

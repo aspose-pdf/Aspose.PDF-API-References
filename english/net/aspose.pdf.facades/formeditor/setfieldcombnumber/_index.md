@@ -3,7 +3,7 @@ title: FormEditor.SetFieldCombNumber
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Sets number of combs for a regular singleline text field the field is automatically divided into as many equally spaced positions or combs as the value of combNumber parameter
 type: docs
-weight: 340
+weight: 300
 url: /net/aspose.pdf.facades/formeditor/setfieldcombnumber/
 ---
 ## FormEditor.SetFieldCombNumber method

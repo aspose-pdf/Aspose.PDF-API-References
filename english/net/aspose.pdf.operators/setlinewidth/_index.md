@@ -3,7 +3,7 @@ title: Class SetLineWidth
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetLineWidth class. Class representing w operator set line width
 type: docs
-weight: 6330
+weight: 7700
 url: /net/aspose.pdf.operators/setlinewidth/
 ---
 ## SetLineWidth class

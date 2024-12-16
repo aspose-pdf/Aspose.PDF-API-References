@@ -3,7 +3,7 @@ title: Document.Validate
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Validate document into the specified file
 type: docs
-weight: 880
+weight: 890
 url: /net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}

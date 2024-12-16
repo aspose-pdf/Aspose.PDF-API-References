@@ -3,7 +3,7 @@ title: Class SelectFont
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SelectFont class. Class representing Tf operator set text font and size
 type: docs
-weight: 6110
+weight: 7480
 url: /net/aspose.pdf.operators/selectfont/
 ---
 ## SelectFont class

@@ -3,7 +3,7 @@ title: Class ArtifactCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ArtifactCollection class. Class represents artifact collection
 type: docs
-weight: 1450
+weight: 2800
 url: /net/aspose.pdf/artifactcollection/
 ---
 ## ArtifactCollection class

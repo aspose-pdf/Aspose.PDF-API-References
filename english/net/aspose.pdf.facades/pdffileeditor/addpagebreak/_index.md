@@ -3,7 +3,7 @@ title: PdfFileEditor.AddPageBreak
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Adds page breaks into document pages
 type: docs
-weight: 270
+weight: 240
 url: /net/aspose.pdf.facades/pdffileeditor/addpagebreak/
 ---
 ## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}

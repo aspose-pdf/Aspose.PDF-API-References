@@ -3,7 +3,7 @@ title: TextFragment.Clone
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragment method. Clone the fragment
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pdf.text/textfragment/clone/
 ---
 ## TextFragment.Clone method

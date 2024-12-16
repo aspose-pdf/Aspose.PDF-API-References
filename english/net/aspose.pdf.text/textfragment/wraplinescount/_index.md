@@ -3,7 +3,7 @@ title: TextFragment.WrapLinesCount
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragment property. Gets or sets wrap lines count for this paragraphfor pdf generation only
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.text/textfragment/wraplinescount/
 ---
 ## TextFragment.WrapLinesCount property

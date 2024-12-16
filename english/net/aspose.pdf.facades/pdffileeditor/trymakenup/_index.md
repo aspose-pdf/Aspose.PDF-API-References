@@ -1,12 +1,12 @@
 ---
 title: PdfFileEditor.TryMakeNUp
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Makes Nup document and stores result into HttpResponse object
+description: PdfFileEditor method. Makes NUp document from the firstInputFile to outputFile
 type: docs
-weight: 470
+weight: 440
 url: /net/aspose.pdf.facades/pdffileeditor/trymakenup/
 ---
-## TryMakeNUp(string, int, int, PageSize, HttpResponse) {#trymakenup_6}
+## TryMakeNUp(string, string, int, int) {#trymakenup_4}
 
 Makes N-up document and stores result into HttpResponse object.
 
@@ -172,7 +172,7 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int) {#trymakenup_2}
+## TryMakeNUp(Stream, Stream, int, int) {#trymakenup}
 
 Makes N-Up document from the input stream and saves result into output stream.
 
@@ -212,7 +212,7 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_3}
+## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_1}
 
 Makes N-Up document from the first input stream to output stream.
 
@@ -254,7 +254,7 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ---
 
-## TryMakeNUp(string, string, string) {#trymakenup_10}
+## TryMakeNUp(string, string, string) {#trymakenup_6}
 
 Makes N-Up document from the two input PDF files to outputFile. Each page of outputFile will contain two pages, one page is from the first input file and another is from the second input file. The two pages are piled up horizontally.
 
@@ -291,7 +291,7 @@ bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ---
 
-## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_4}
+## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_2}
 
 Makes N-Up document from the two input PDF streams to outputStream.
 
@@ -331,7 +331,7 @@ bool result = pfe.TryMakeNUp(input1, input2, output);
 
 ---
 
-## TryMakeNUp(string[], string, bool) {#trymakenup_11}
+## TryMakeNUp(string[], string, bool) {#trymakenup_7}
 
 Makes N-Up document from the multi input PDF files to outputFile. Each page of outputFile will contain multi pages, which are combination with pages in the input files of the same page number. The multi pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
 
@@ -368,7 +368,7 @@ bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.
 
 ---
 
-## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_5}
+## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_3}
 
 Makes N-Up document from the multi input PDF streams to outputStream. Each page of outputStream will contain multi pages, which are combination with pages in the input streams of the same page number. The multi-pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
 
@@ -409,7 +409,7 @@ bool result = pfe.TryMakeNUp(new Stream[] { stream1, stream2, stream3 }, output,
 
 ---
 
-## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_9}
+## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_5}
 
 Makes N-Up document from the input file to outputFile.
 

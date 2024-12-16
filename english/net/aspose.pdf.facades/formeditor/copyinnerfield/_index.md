@@ -3,7 +3,7 @@ title: FormEditor.CopyInnerField
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Copies an existing field to the same position in specified page number. A new document will be produced which contains everything the source document has except for the newly copied field
 type: docs
-weight: 190
+weight: 150
 url: /net/aspose.pdf.facades/formeditor/copyinnerfield/
 ---
 ## CopyInnerField(string, string, int) {#copyinnerfield}

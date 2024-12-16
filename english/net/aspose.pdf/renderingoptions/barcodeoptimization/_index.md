@@ -3,7 +3,7 @@ title: RenderingOptions.BarcodeOptimization
 second_title: Aspose.PDF for .NET API Reference
 description: RenderingOptions property. Gets or sets barcode optimization mode
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/renderingoptions/barcodeoptimization/
 ---
 ## RenderingOptions.BarcodeOptimization property

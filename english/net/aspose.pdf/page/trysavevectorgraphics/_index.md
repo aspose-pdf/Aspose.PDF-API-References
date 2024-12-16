@@ -3,7 +3,7 @@ title: Page.TrySaveVectorGraphics
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Tries to save vector graphics if they are present on the page. The save format is SVG
 type: docs
-weight: 540
+weight: 550
 url: /net/aspose.pdf/page/trysavevectorgraphics/
 ---
 ## Page.TrySaveVectorGraphics method

@@ -3,10 +3,10 @@ title: PdfFileEditor.Extract
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Extracts pages from input filesaves as a new Pdf file
 type: docs
-weight: 310
+weight: 280
 url: /net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_3}
+## Extract(string, int, int, string) {#extract_2}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -40,7 +40,7 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ---
 
-## Extract(string, int[], string) {#extract_4}
+## Extract(string, int[], string) {#extract_3}
 
 Extracts pages specified by number array, saves as a new PDF file.
 
@@ -142,7 +142,6 @@ pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## Extract(Stream, int[], HttpResponse) {#extract_2}
 

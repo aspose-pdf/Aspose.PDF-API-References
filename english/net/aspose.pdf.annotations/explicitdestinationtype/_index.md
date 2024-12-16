@@ -3,7 +3,7 @@ title: Enum ExplicitDestinationType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.ExplicitDestinationType enum. Enumerates the types of explicit destinations
 type: docs
-weight: 340
+weight: 1690
 url: /net/aspose.pdf.annotations/explicitdestinationtype/
 ---
 ## ExplicitDestinationType enumeration

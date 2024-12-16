@@ -3,7 +3,7 @@ title: Class Measure
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.Measure class. Class which describes Measure coordinate system
 type: docs
-weight: 680
+weight: 2030
 url: /net/aspose.pdf.annotations/measure/
 ---
 ## Measure class

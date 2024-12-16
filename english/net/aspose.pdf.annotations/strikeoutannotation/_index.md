@@ -3,7 +3,7 @@ title: Class StrikeOutAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.StrikeOutAnnotation class. Represents a strikeout annotation that appears as a strikeout in the text of the document
 type: docs
-weight: 1280
+weight: 2630
 url: /net/aspose.pdf.annotations/strikeoutannotation/
 ---
 ## StrikeOutAnnotation class

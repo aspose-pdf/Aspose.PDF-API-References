@@ -3,7 +3,7 @@ title: FormEditor.RemoveField
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Remove field from the form
 type: docs
-weight: 250
+weight: 210
 url: /net/aspose.pdf.facades/formeditor/removefield/
 ---
 ## FormEditor.RemoveField method

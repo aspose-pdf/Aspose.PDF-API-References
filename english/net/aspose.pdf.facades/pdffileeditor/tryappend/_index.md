@@ -3,7 +3,7 @@ title: PdfFileEditor.TryAppend
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Appends pages which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage
 type: docs
-weight: 410
+weight: 380
 url: /net/aspose.pdf.facades/pdffileeditor/tryappend/
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
@@ -50,7 +50,7 @@ bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3
 
 ---
 
-## TryAppend(string, string[], int, int, string) {#tryappend_2}
+## TryAppend(string, string[], int, int, string) {#tryappend_1}
 
 Appends pages, which are chosen from portFiles documents. The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
 
@@ -88,7 +88,6 @@ bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "fil
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TryAppend(Stream, Stream[], int, int, HttpResponse) {#tryappend_1}
 

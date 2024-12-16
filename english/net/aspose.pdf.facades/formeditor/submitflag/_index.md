@@ -3,7 +3,7 @@ title: FormEditor.SubmitFlag
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor property. Set the submit buttons submission flags
 type: docs
-weight: 130
+weight: 90
 url: /net/aspose.pdf.facades/formeditor/submitflag/
 ---
 ## FormEditor.SubmitFlag property

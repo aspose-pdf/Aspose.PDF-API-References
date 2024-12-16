@@ -3,7 +3,7 @@ title: FormEditor.RadioButtonItemSize
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor property. Gets or sets size of radio button item size when new radio button field is added
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
 ## FormEditor.RadioButtonItemSize property

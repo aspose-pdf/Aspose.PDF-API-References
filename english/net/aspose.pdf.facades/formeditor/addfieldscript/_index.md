@@ -3,7 +3,7 @@ title: FormEditor.AddFieldScript
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Add JavaScript for a PushButton field. If old event exists new event is added after it
 type: docs
-weight: 150
+weight: 110
 url: /net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
 ## FormEditor.AddFieldScript method

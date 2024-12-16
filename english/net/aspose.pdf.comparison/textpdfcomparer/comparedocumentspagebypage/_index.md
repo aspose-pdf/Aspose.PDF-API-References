@@ -27,7 +27,7 @@ List of changes by page.
 
 ### See Also
 
-* class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
 * class [ComparisonOptions](../../comparisonoptions/)
 * class [TextPdfComparer](../)
@@ -58,7 +58,7 @@ List of changes by page.
 
 ### See Also
 
-* class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
 * class [ComparisonOptions](../../comparisonoptions/)
 * class [TextPdfComparer](../)

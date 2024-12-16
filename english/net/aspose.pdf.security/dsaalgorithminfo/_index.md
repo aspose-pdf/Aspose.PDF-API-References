@@ -3,7 +3,7 @@ title: Class DsaAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.DsaAlgorithmInfo class. Represents a class for the information about the DSA signature algorithm
 type: docs
-weight: 7520
+weight: 8940
 url: /net/aspose.pdf.security/dsaalgorithminfo/
 ---
 ## DsaAlgorithmInfo class

@@ -3,10 +3,10 @@ title: PdfFileEditor.TrySplitFromFirst
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Splits Pdf file from first page to specified locationand saves the front part as a new file
 type: docs
-weight: 490
+weight: 460
 url: /net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
-## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
+## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
 
 Splits Pdf file from first page to specified location,and saves the front part as a new file.
 
@@ -80,7 +80,6 @@ pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 

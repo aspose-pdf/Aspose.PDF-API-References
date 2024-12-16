@@ -3,7 +3,7 @@ title: Class HighlightAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.HighlightAnnotation class. Represents a highlight annotation that highlights a range of text in the document
 type: docs
-weight: 520
+weight: 1870
 url: /net/aspose.pdf.annotations/highlightannotation/
 ---
 ## HighlightAnnotation class

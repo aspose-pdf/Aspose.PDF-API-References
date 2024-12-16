@@ -3,7 +3,7 @@ title: Form.FormSubmitButtonNames
 second_title: Aspose.PDF for .NET API Reference
 description: Form property. Gets all form submit button names
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
 ## Form.FormSubmitButtonNames property

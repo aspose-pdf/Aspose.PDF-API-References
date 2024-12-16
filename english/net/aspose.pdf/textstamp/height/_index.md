@@ -3,7 +3,7 @@ title: TextStamp.Height
 second_title: Aspose.PDF for .NET API Reference
 description: TextStamp property. Desired height of the stamp on the page
 type: docs
-weight: 30
+weight: 60
 url: /net/aspose.pdf/textstamp/height/
 ---
 ## TextStamp.Height property

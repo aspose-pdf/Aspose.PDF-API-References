@@ -3,7 +3,7 @@ title: Class RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.RenderingOptions class. Represents rendering options
 type: docs
-weight: 7330
+weight: 8740
 url: /net/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
@@ -24,6 +24,7 @@ public sealed class RenderingOptions
 
 | Name | Description |
 | --- | --- |
+| [AnalyzeFonts](../../aspose.pdf/renderingoptions/analyzefonts/) { get; set; } | Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: 1. If the user explicitly sets the DefaultFontName property, check if the specified font can display the desired characters. 2. If no user-defined font is set, search through fonts added via the !:FontRepository.Sources. 3. Analyze the text to identify its alphabet or script and suggest font names accordingly. Attempt to locate and use these fonts from the system. 4. As a fallback, search the system for any font capable of displaying the required characters. |
 | [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization/) { get; set; } | Gets or sets barcode optimization mode. |
 | [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf/) { get; set; } | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
 | [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname/) { get; set; } | Gets/sets the default name of font used to substitute of missing fonts. |

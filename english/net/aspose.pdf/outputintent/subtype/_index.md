@@ -3,7 +3,7 @@ title: OutputIntent.Subtype
 second_title: Aspose.PDF for .NET API Reference
 description: OutputIntent property. Gets the output intent subtype
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/outputintent/subtype/
 ---
 ## OutputIntent.Subtype property

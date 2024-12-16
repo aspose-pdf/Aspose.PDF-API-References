@@ -3,7 +3,7 @@ title: Enum ConvertSoftMaskAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ConvertSoftMaskAction enum. This action represents actions for conversion of images with soft mask
 type: docs
-weight: 2130
+weight: 3360
 url: /net/aspose.pdf/convertsoftmaskaction/
 ---
 ## ConvertSoftMaskAction enumeration

@@ -24,7 +24,7 @@ Original text.
 
 ### See Also
 
-* class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

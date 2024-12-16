@@ -3,7 +3,7 @@ title: Class Shape
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Shape class. Represents shape  the base graphics object
 type: docs
-weight: 2670
+weight: 3980
 url: /net/aspose.pdf.drawing/shape/
 ---
 ## Shape class
@@ -29,7 +29,7 @@ public abstract class Shape : IBoundsCheckableItem
 
 ### See Also
 
-* interface [IBoundsCheckableItem](../../aspose.pdf.generator/iboundscheckableitem/)
+* interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
 

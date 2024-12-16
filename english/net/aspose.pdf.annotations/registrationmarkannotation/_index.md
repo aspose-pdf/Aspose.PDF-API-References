@@ -3,7 +3,7 @@ title: Class RegistrationMarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RegistrationMarkAnnotation class. Represents a Registration Mark annotation
 type: docs
-weight: 1060
+weight: 2410
 url: /net/aspose.pdf.annotations/registrationmarkannotation/
 ---
 ## RegistrationMarkAnnotation class

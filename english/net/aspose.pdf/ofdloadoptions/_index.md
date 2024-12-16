@@ -3,7 +3,7 @@ title: Class OfdLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OfdLoadOptions class. Load options for OFD format
 type: docs
-weight: 5620
+weight: 6990
 url: /net/aspose.pdf/ofdloadoptions/
 ---
 ## OfdLoadOptions class

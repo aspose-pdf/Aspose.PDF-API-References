@@ -3,10 +3,10 @@ title: PdfFileEditor.TryInsert
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Inserts pages from an other file into the input Pdf file
 type: docs
-weight: 450
+weight: 420
 url: /net/aspose.pdf.facades/pdffileeditor/tryinsert/
 ---
-## TryInsert(string, int, string, int[], string) {#tryinsert_2}
+## TryInsert(string, int, string, int[], string) {#tryinsert_1}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -87,7 +87,6 @@ bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TryInsert(string, int, string, int[], HttpResponse) {#tryinsert_3}
 

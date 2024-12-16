@@ -1,173 +1,11 @@
 ---
 title: Document.Convert
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Convert document by applying the Fixup
+description: Document method. Convert document and save errors into the specified file
 type: docs
 weight: 580
 url: /net/aspose.pdf/document/convert/
 ---
-## Convert(Fixup, Stream, bool, object[]) {#convert}
-
-Convert document by applying the Fixup.
-
-```csharp
-public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
-    object[] parameters = null)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
-| outputLog | Stream | The log of process. |
-| onlyValidation | Boolean | Only document validation. |
-| parameters | Object[] | Properties for Fixup that can not be set. |
-
-### Return Value
-
-The operation result.
-
-### See Also
-
-* enum [Fixup](../../fixup/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(Fixup, string, bool, object[]) {#convert_1}
-
-Convert document by applying the Fixup.
-
-```csharp
-public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
-    object[] parameters = null)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
-| outputLog | String | The log of process. |
-| onlyValidation | Boolean | Only document validation. |
-| parameters | Object[] | Properties for Fixup that can not be set. |
-
-### Return Value
-
-The operation result.
-
-### See Also
-
-* enum [Fixup](../../fixup/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
-
-Converts source file in source format into destination file in destination format.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFileName | String | The source file name. |
-| loadOptions | LoadOptions | The source file format. |
-| dstFileName | String | The destination file name. |
-| saveOptions | SaveOptions | The destination file format. |
-
-### See Also
-
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
-
-Converts stream in source format into destination file in destination format.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | Stream | The source stream. |
-| loadOptions | LoadOptions | The source stream format. |
-| dstFileName | String | The destination file name. |
-| saveOptions | SaveOptions | The destination file format. |
-
-### See Also
-
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
-
-Converts source file in source format into stream in destination format.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFileName | String | The source file name. |
-| loadOptions | LoadOptions | The source file format. |
-| dstStream | Stream | The destination stream. |
-| saveOptions | SaveOptions | The destination stream format. |
-
-### See Also
-
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
-
-Converts stream in source format into stream in destination format.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | Stream | The source stream. |
-| loadOptions | LoadOptions | The source stream format. |
-| dstStream | Stream | The destination stream. |
-| saveOptions | SaveOptions | The destination file format. |
-
-### See Also
-
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
 
 Convert document and save errors into the specified file.
@@ -357,6 +195,168 @@ The operation result
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Fixup, Stream, bool, object[]) {#convert}
+
+Convert document by applying the Fixup.
+
+```csharp
+public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixup | Fixup | The Fixup type. |
+| outputLog | Stream | The log of process. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
+
+### Return Value
+
+The operation result.
+
+### See Also
+
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Fixup, string, bool, object[]) {#convert_1}
+
+Convert document by applying the Fixup.
+
+```csharp
+public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixup | Fixup | The Fixup type. |
+| outputLog | String | The log of process. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
+
+### Return Value
+
+The operation result.
+
+### See Also
+
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
+
+Converts source file in source format into destination file in destination format.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFileName | String | The source file name. |
+| loadOptions | LoadOptions | The source file format. |
+| dstFileName | String | The destination file name. |
+| saveOptions | SaveOptions | The destination file format. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
+
+Converts stream in source format into destination file in destination format.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | The source stream. |
+| loadOptions | LoadOptions | The source stream format. |
+| dstFileName | String | The destination file name. |
+| saveOptions | SaveOptions | The destination file format. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
+
+Converts source file in source format into stream in destination format.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFileName | String | The source file name. |
+| loadOptions | LoadOptions | The source file format. |
+| dstStream | Stream | The destination stream. |
+| saveOptions | SaveOptions | The destination stream format. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
+
+Converts stream in source format into stream in destination format.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | The source stream. |
+| loadOptions | LoadOptions | The source stream format. |
+| dstStream | Stream | The destination stream. |
+| saveOptions | SaveOptions | The destination file format. |
+
+### See Also
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
