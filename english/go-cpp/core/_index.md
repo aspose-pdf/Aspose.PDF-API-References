@@ -20,6 +20,7 @@ url: /go-cpp/core/
 | [PageInsert](./pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./pagedelete/) | Delete specified page in PDF-document. |
 | [PageCount](./pagecount/) | Return page count in PDF-document. |
+| [ExtractText](./extracttext/) | Return the PDF-document contents as plain text. |
 
 
 ## Detailed Description

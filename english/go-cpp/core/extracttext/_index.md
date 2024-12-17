@@ -3,7 +3,7 @@ title: "ExtractText"
 second_title: Aspose.PDF for Go via C++
 description: "Return the PDF-document contents as plain text."
 type: docs
-url: /go-cpp/convert/extracttext/
+url: /go-cpp/core/extracttext/
 ---
 
 _Return the PDF-document contents as plain text._

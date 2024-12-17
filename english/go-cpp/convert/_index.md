@@ -10,7 +10,6 @@ url: /go-cpp/convert/
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [ExtractText](./extracttext/) | Return the PDF-document contents as plain text. |
 | [SaveDocX](./savedocx/) | Convert and save the previously opened PDF-document as DocX-document. |
 | [SaveDoc](./savedoc/) | Convert and save the previously opened PDF-document as Doc-document. |
 | [SaveXlsX](./savexlsx/) | Convert and save the previously opened PDF-document as XlsX-document. |
