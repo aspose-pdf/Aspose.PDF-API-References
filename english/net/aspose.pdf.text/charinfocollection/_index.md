@@ -3,7 +3,7 @@ title: Class CharInfoCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.CharInfoCollection class. Represents CharInfo objects collection
 type: docs
-weight: 7890
+weight: 9310
 url: /net/aspose.pdf.text/charinfocollection/
 ---
 ## CharInfoCollection class

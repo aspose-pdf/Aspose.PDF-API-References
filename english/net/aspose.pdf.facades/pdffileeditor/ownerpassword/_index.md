@@ -3,7 +3,7 @@ title: PdfFileEditor.OwnerPassword
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor property. Sets owners password if the source input Pdf file is encrypted. This property is not implemented yet
 type: docs
-weight: 190
+weight: 170
 url: /net/aspose.pdf.facades/pdffileeditor/ownerpassword/
 ---
 ## PdfFileEditor.OwnerPassword property

@@ -3,7 +3,7 @@ title: Class Heading
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Heading class. Represents heading
 type: docs
-weight: 4100
+weight: 5430
 url: /net/aspose.pdf/heading/
 ---
 ## Heading class
@@ -47,6 +47,7 @@ public sealed class Heading : TextFragment
 | [StartNumber](../../aspose.pdf/heading/startnumber/) { get; set; } | Gets the heading start number. |
 | [Style](../../aspose.pdf/heading/style/) { get; set; } | Gets or sets style. |
 | [Text](../../aspose.pdf.text/textfragment/text/) { get; set; } | Gets or sets String text object that the [`TextFragment`](../../aspose.pdf.text/textfragment/) object represents. |
+| [TextEditOptions](../../aspose.pdf.text/textfragment/texteditoptions/) { get; set; } | Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [TextState](../../aspose.pdf.text/textfragment/textstate/) { get; } | Gets or sets text state for the text that [`TextFragment`](../../aspose.pdf.text/textfragment/) object represents. |
 | [TocPage](../../aspose.pdf/heading/tocpage/) { get; set; } | Gets the page that contains this heading. |
 | [Top](../../aspose.pdf/heading/top/) { get; set; } | Gets the top Y of this headings. |

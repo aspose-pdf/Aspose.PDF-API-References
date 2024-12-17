@@ -3,7 +3,7 @@ title: Class RichMediaAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RichMediaAnnotation class. Class describes RichMediaAnnotation which allows embed video/audio data into PDF document
 type: docs
-weight: 1130
+weight: 2480
 url: /net/aspose.pdf.annotations/richmediaannotation/
 ---
 ## RichMediaAnnotation class

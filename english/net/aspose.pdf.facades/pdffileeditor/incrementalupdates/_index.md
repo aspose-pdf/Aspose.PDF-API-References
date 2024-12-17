@@ -3,7 +3,7 @@ title: PdfFileEditor.IncrementalUpdates
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor property. If true incremental updates are made during concatenation
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
 ## PdfFileEditor.IncrementalUpdates property

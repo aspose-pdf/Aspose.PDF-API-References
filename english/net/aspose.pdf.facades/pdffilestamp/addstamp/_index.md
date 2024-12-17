@@ -3,7 +3,7 @@ title: PdfFileStamp.AddStamp
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp method. Adds stamp to the file
 type: docs
-weight: 180
+weight: 140
 url: /net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
 ## PdfFileStamp.AddStamp method

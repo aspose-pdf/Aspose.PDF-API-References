@@ -3,7 +3,7 @@ title: FormEditor.Single2Multiple
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Change a singlelined text field to a multiplelined one
 type: docs
-weight: 390
+weight: 350
 url: /net/aspose.pdf.facades/formeditor/single2multiple/
 ---
 ## FormEditor.Single2Multiple method

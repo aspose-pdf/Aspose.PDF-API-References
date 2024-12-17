@@ -3,7 +3,7 @@ title: Enum SoundSampleDataEncodingFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. The encoding format for the sound sample data
 type: docs
-weight: 1230
+weight: 2580
 url: /net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
 ## SoundSampleDataEncodingFormat enumeration

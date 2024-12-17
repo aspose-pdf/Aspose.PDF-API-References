@@ -3,7 +3,7 @@ title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice Only be applied to Text Box. Both the fields name and values are case sensitive
 type: docs
-weight: 170
+weight: 140
 url: /net/aspose.pdf.facades/form/fillfields/
 ---
 ## Form.FillFields method

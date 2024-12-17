@@ -3,7 +3,7 @@ title: Class PDF3DViewArray
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DViewArray class. Class PDF3DViewArray
 type: docs
-weight: 900
+weight: 2250
 url: /net/aspose.pdf.annotations/pdf3dviewarray/
 ---
 ## PDF3DViewArray class

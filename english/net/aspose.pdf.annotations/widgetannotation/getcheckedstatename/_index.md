@@ -3,7 +3,7 @@ title: WidgetAnnotation.GetCheckedStateName
 second_title: Aspose.PDF for .NET API Reference
 description: WidgetAnnotation method. Returns name of checked state according to existing state names
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 ---
 ## WidgetAnnotation.GetCheckedStateName method

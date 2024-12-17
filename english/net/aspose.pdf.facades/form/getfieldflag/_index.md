@@ -3,7 +3,7 @@ title: Form.GetFieldFlag
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Returns flags of the field
 type: docs
-weight: 250
+weight: 220
 url: /net/aspose.pdf.facades/form/getfieldflag/
 ---
 ## Form.GetFieldFlag method

@@ -3,7 +3,7 @@ title: Class CircleAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CircleAnnotation class. Class representing Circle annotation
 type: docs
-weight: 240
+weight: 1590
 url: /net/aspose.pdf.annotations/circleannotation/
 ---
 ## CircleAnnotation class

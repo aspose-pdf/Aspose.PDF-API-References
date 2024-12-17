@@ -3,7 +3,7 @@ title: Rectangle.ToPoints
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Converts rectangle into array of points QuadPoints
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.pdf/rectangle/topoints/
 ---
 ## Rectangle.ToPoints method

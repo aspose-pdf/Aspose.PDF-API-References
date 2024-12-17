@@ -3,7 +3,7 @@ title: Class Image
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Image class. Represents image
 type: docs
-weight: 4460
+weight: 5800
 url: /net/aspose.pdf/image/
 ---
 ## Image class

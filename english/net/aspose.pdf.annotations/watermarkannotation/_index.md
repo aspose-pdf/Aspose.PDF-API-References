@@ -3,7 +3,7 @@ title: Class WatermarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.WatermarkAnnotation class. Class describes Watermark annotation object
 type: docs
-weight: 1360
+weight: 2710
 url: /net/aspose.pdf.annotations/watermarkannotation/
 ---
 ## WatermarkAnnotation class

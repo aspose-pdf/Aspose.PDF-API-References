@@ -3,7 +3,7 @@ title: Enum CapStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CapStyle enum. Style of line ending of Ink annotation line
 type: docs
-weight: 190
+weight: 1540
 url: /net/aspose.pdf.annotations/capstyle/
 ---
 ## CapStyle enumeration

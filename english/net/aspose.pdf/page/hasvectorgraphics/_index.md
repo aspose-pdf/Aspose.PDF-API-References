@@ -3,7 +3,7 @@ title: Page.HasVectorGraphics
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Detect of the presence of vector graphics if it is present on the page
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.pdf/page/hasvectorgraphics/
 ---
 ## Page.HasVectorGraphics method

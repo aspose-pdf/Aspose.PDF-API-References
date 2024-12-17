@@ -3,12 +3,12 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 3810
+weight: 3760
 url: /net/aspose.pdf/document/
 ---
 ## Document class
 
-Class representing PDF document
+Class representing PDF document.
 
 ```csharp
 public sealed class Document : IDisposable

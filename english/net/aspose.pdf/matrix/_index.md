@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Matrix class. Class represents transformation matrix
 type: docs
-weight: 5490
+weight: 6850
 url: /net/aspose.pdf/matrix/
 ---
 ## Matrix class

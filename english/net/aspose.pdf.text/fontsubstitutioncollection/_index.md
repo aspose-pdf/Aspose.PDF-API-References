@@ -3,7 +3,7 @@ title: Class FontSubstitutionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.FontSubstitutionCollection class. Represents font substitution strategies collection
 type: docs
-weight: 8030
+weight: 9450
 url: /net/aspose.pdf.text/fontsubstitutioncollection/
 ---
 ## FontSubstitutionCollection class

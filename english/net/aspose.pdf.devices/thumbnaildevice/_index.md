@@ -3,7 +3,7 @@ title: Class ThumbnailDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.ThumbnailDevice class. Represents image device that save pdf document pages into Thumbnail image
 type: docs
-weight: 2360
+weight: 3670
 url: /net/aspose.pdf.devices/thumbnaildevice/
 ---
 ## ThumbnailDevice class

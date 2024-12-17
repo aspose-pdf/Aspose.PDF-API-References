@@ -3,7 +3,7 @@ title: Class TextFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragment class. Represents fragment of Pdf text
 type: docs
-weight: 8370
+weight: 9800
 url: /net/aspose.pdf.text/textfragment/
 ---
 ## TextFragment class
@@ -44,6 +44,7 @@ public class TextFragment : BaseParagraph
 | [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions/) { get; } | Gets text replace options. The options define behavior when fragment text is replaced to more short/long. |
 | [Segments](../../aspose.pdf.text/textfragment/segments/) { get; set; } | Gets text segments for current `TextFragment`. |
 | [Text](../../aspose.pdf.text/textfragment/text/) { get; set; } | Gets or sets String text object that the `TextFragment` object represents. |
+| [TextEditOptions](../../aspose.pdf.text/textfragment/texteditoptions/) { get; set; } | Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [TextState](../../aspose.pdf.text/textfragment/textstate/) { get; } | Gets or sets text state for the text that `TextFragment` object represents. |
 | override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of text fragment. |
 | [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount/) { get; set; } | Gets or sets wrap lines count for this paragraph(for pdf generation only) |

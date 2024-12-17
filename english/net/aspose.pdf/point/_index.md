@@ -3,7 +3,7 @@ title: Class Point
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Point class. Represent point with fractional coordinates
 type: docs
-weight: 7020
+weight: 8440
 url: /net/aspose.pdf/point/
 ---
 ## Point class

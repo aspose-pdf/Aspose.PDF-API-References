@@ -3,7 +3,7 @@ title: Class Dash
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.Dash class. Class representing line dash pattern
 type: docs
-weight: 300
+weight: 1650
 url: /net/aspose.pdf.annotations/dash/
 ---
 ## Dash class

@@ -3,7 +3,7 @@ title: Class OptimizationOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Optimization.OptimizationOptions class. Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources method
 type: docs
-weight: 6540
+weight: 7910
 url: /net/aspose.pdf.optimization/optimizationoptions/
 ---
 ## OptimizationOptions class
@@ -29,6 +29,7 @@ public class OptimizationOptions
 | [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions/) { get; } | Set of options which describe will images in the document be compressed and parameters of the compression. |
 | [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding/) { get; set; } | Image encodre which will be used. |
 | [LinkDuplicateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplicatestreams/) { get; set; } | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |
+| [LinkDuplicateStreamsScanLevel](../../aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/) { get; set; } | Level of scanning. Deeper scans (higher value) take longer but may produce smaller result files. Default value: 10. |
 | [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion/) { get; set; } | Specifies maximum resolution of images. If image has higher resolition it will be scaled |
 | [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo/) { get; set; } | Remove private information (page piece info). |
 | [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects/) { get; set; } | If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document. |

@@ -3,7 +3,7 @@ title: Class GoToURIAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.GoToURIAction class. Represents a URI action causes a URI to be resolved
 type: docs
-weight: 500
+weight: 1850
 url: /net/aspose.pdf.annotations/gotouriaction/
 ---
 ## GoToURIAction class
@@ -18,7 +18,7 @@ public sealed class GoToURIAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToURIAction](gotouriaction/)(string) | Constructor. |
+| [GoToURIAction](gotouriaction/)(string) | Creates an instance of `GoToURIAction` class. |
 
 ## Properties
 

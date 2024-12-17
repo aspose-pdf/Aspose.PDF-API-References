@@ -3,7 +3,7 @@ title: Class PrinterMarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PrinterMarkAnnotation class. Abstract class representing printer mark annotation
 type: docs
-weight: 1000
+weight: 2350
 url: /net/aspose.pdf.annotations/printermarkannotation/
 ---
 ## PrinterMarkAnnotation class

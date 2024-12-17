@@ -1,12 +1,12 @@
 ---
 title: PdfFileEditor.SplitToEnd
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits from specified location and saves the rear part as a new file Stream
+description: PdfFileEditor method. Splits from location and saves the rear part as a new file
 type: docs
-weight: 390
+weight: 360
 url: /net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
-## SplitToEnd(Stream, int, Stream) {#splittoend}
+## SplitToEnd(string, int, string) {#splittoend_1}
 
 Splits from specified location, and saves the rear part as a new file Stream.
 
@@ -78,49 +78,36 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ---
 
-## SplitToEnd(Stream, int, HttpResponse) {#splittoend_1}
+## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Splits from specified location, and saves the rear part into HttpResponse object.
+Splits from specified location, and saves the rear part as a new file Stream.
 
 ```csharp
-public bool SplitToEnd(Stream inputStream, int location, HttpResponse response)
+public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Source document stream. |
-| location | Int32 | Split point. |
-| response | HttpResponse | HttpResponse object. |
+| inputStream | Stream | Source Pdf file Stream. |
+| location | Int32 | The splitting position. |
+| outputStream | Stream | Output Pdf file Stream. |
 
 ### Return Value
 
-true if splitting was successful.
+True for success, or false.
 
-### See Also
+## Remarks
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+The streams are NOT closed after this operation unless CloseConcatedStreams is specified.
 
----
-
-## SplitToEnd(string, int, HttpResponse) {#splittoend_3}
-
-Splits from specified location, and saves the rear part into HttpResponse object.
+## Examples
 
 ```csharp
-public bool SplitToEnd(string inputFile, int location, HttpResponse response)
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | source file name. |
-| location | Int32 | Split point. |
-| response | HttpResponse | HttpResponse objects. |
-
-### Return Value
-
-True if operation was succeeded.
 
 ### See Also
 

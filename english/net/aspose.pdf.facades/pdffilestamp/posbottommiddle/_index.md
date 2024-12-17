@@ -3,7 +3,7 @@ title: PdfFileStamp.PosBottomMiddle
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileStamp field. Bottom middle position
 type: docs
-weight: 220
+weight: 180
 url: /net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
 ## PdfFileStamp.PosBottomMiddle field

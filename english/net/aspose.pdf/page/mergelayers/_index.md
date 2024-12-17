@@ -3,7 +3,7 @@ title: Page.MergeLayers
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Merges all layers on the page into a single layer with the specified new layer name
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.pdf/page/mergelayers/
 ---
 ## MergeLayers(string) {#mergelayers}

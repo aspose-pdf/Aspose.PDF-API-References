@@ -3,7 +3,7 @@ title: PdfFileEditor.Append
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Appends pages which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage
 type: docs
-weight: 280
+weight: 250
 url: /net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
@@ -46,7 +46,7 @@ fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 
 ---
 
-## Append(string, string[], int, int, string) {#append_4}
+## Append(string, string[], int, int, string) {#append_3}
 
 Appends pages, which are chosen from portFiles documents. The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
 
@@ -82,7 +82,7 @@ fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "
 
 ---
 
-## Append(string, string, int, int, string) {#append_3}
+## Append(string, string, int, int, string) {#append_2}
 
 Appends pages, which are chosen from portFile within the range from startPage to endPage, in portFile at the end of firstInputFile.
 
@@ -154,7 +154,6 @@ fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## Append(Stream, Stream[], int, int, HttpResponse) {#append_2}
 

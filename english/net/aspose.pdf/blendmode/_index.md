@@ -3,7 +3,7 @@ title: Enum BlendMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BlendMode enum. The blend modes enumeration
 type: docs
-weight: 1690
+weight: 2870
 url: /net/aspose.pdf/blendmode/
 ---
 ## BlendMode enumeration

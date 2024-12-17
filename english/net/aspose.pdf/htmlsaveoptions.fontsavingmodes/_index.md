@@ -3,7 +3,7 @@ title: Enum HtmlSaveOptions.FontSavingModes
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptionsFontSavingModes enum. Enumerates modes that can be used for saving of fonts referenced in saved PDF
 type: docs
-weight: 4240
+weight: 5570
 url: /net/aspose.pdf/htmlsaveoptions.fontsavingmodes/
 ---
 ## HtmlSaveOptions.FontSavingModes enumeration

@@ -3,7 +3,7 @@ title: PdfFileEditor.ResizeContentsPct
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents
 type: docs
-weight: 360
+weight: 330
 url: /net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}

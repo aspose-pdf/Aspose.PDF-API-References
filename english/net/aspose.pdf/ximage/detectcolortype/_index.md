@@ -3,7 +3,7 @@ title: XImage.DetectColorType
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. 
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf/ximage/detectcolortype/
 ---
 ## XImage.DetectColorType method

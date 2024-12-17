@@ -3,7 +3,7 @@ title: Delegate PdfQueryPageSettingsEventHandler
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the method that handles the PdfQueryPageSettings event of a PdfViewer
 type: docs
-weight: 3300
+weight: 4590
 url: /net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
 ## PdfQueryPageSettingsEventHandler delegate

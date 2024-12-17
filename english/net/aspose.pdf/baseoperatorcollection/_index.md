@@ -3,7 +3,7 @@ title: Class BaseOperatorCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BaseOperatorCollection class. Represents base class for operator collection
 type: docs
-weight: 1650
+weight: 2830
 url: /net/aspose.pdf/baseoperatorcollection/
 ---
 ## BaseOperatorCollection class

@@ -3,7 +3,7 @@ title: Enum HtmlDocumentType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlDocumentType enum. Represents enumeration of the Html document types
 type: docs
-weight: 4120
+weight: 5450
 url: /net/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enumeration

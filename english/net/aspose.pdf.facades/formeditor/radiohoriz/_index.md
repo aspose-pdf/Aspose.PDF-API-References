@@ -3,7 +3,7 @@ title: FormEditor.RadioHoriz
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor property. The flag to indicate whether the radios are arranged horizontally or vertically default value is true
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
 ## FormEditor.RadioHoriz property

@@ -3,7 +3,7 @@ title: Class TextStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TextStamp class. Represents textual stamp
 type: docs
-weight: 8510
+weight: 9940
 url: /net/aspose.pdf/textstamp/
 ---
 ## TextStamp class
@@ -26,9 +26,12 @@ public class TextStamp : Stamp
 
 | Name | Description |
 | --- | --- |
+| [AutoAdjustFontSizePrecision](../../aspose.pdf/textstamp/autoadjustfontsizeprecision/) { get; set; } | Automatically adjust font size precision. Default value: 0.1; |
+| [AutoAdjustFontSizeToFitStampRectangle](../../aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/) { get; set; } | If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: [`Width`](./width/) and [`Height`](./height/). Default width and height are derived from the page rectangle. |
 | [Background](../../aspose.pdf/stamp/background/) { get; set; } | Sets or gets a bool value that indicates the content is stamped as background. If the value is true, the stamp content is layed at the bottom. By defalt, the value is false, the stamp content is layed at the top. |
 | [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Gets or sets bottom margin of stamp. |
 | [Draw](../../aspose.pdf/textstamp/draw/) { get; set; } | This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text. |
+| [FontSize](../../aspose.pdf/textstamp/fontsize/) { get; } | Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.) |
 | override [Height](../../aspose.pdf/textstamp/height/) { get; set; } | Desired height of the stamp on the page. |
 | [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Gets or sets Horizontal alignment of stamp on the page. |
 | [Justify](../../aspose.pdf/textstamp/justify/) { get; set; } | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |

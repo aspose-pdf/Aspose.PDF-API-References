@@ -3,7 +3,7 @@ title: FormEditor.SetFieldScript
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor method. Set JavaScript for a PushButton field. If old JavaScript existed it will be replaced by the new one
 type: docs
-weight: 360
+weight: 320
 url: /net/aspose.pdf.facades/formeditor/setfieldscript/
 ---
 ## FormEditor.SetFieldScript method

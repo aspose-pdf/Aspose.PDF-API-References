@@ -3,10 +3,10 @@ title: PdfFileEditor.Delete
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Deletes pages specified by number array from input file saves as a new Pdf file
 type: docs
-weight: 300
+weight: 270
 url: /net/aspose.pdf.facades/pdffileeditor/delete/
 ---
-## Delete(string, int[], string) {#delete_2}
+## Delete(string, int[], string) {#delete_1}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -72,7 +72,6 @@ pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## Delete(string, int[], HttpResponse) {#delete_3}
 

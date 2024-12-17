@@ -3,7 +3,7 @@ title: Form.FlattenField
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid all the fields will remain unchangable
 type: docs
-weight: 200
+weight: 170
 url: /net/aspose.pdf.facades/form/flattenfield/
 ---
 ## Form.FlattenField method

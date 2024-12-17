@@ -3,10 +3,10 @@ title: PdfFileEditor.TryExtract
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Extracts pages from input filesaves as a new Pdf file
 type: docs
-weight: 440
+weight: 410
 url: /net/aspose.pdf.facades/pdffileeditor/tryextract/
 ---
-## TryExtract(string, int, int, string) {#tryextract_2}
+## TryExtract(string, int, int, string) {#tryextract_1}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -44,7 +44,7 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ---
 
-## TryExtract(string, int[], string) {#tryextract_3}
+## TryExtract(string, int[], string) {#tryextract_2}
 
 Extracts pages specified by number array, saves as a new PDF file.
 
@@ -118,7 +118,6 @@ bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
 

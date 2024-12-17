@@ -3,7 +3,7 @@ title: Class CurveTo2
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.CurveTo2 class. Class representing y operator append curve to path final point replicated
 type: docs
-weight: 5820
+weight: 7190
 url: /net/aspose.pdf.operators/curveto2/
 ---
 ## CurveTo2 class

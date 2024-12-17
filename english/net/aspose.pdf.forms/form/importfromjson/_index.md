@@ -20,7 +20,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 ### Return Value
 
-A collection of [`FieldSerializationResult`](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/) indicating the result of the import operation for each form field.
+A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
 
 ## Examples
 
@@ -34,7 +34,7 @@ document.Save();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -55,7 +55,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 ### Return Value
 
-A collection of [`FieldSerializationResult`](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/) indicating the result of the import operation for each form field.
+A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
 
 ## Examples
 
@@ -68,7 +68,7 @@ document.Save();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationresult/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

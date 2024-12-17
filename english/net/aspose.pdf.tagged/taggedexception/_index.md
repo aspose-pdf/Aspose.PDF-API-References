@@ -3,7 +3,7 @@ title: Class TaggedException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Tagged.TaggedException class. Represents exception for TaggedPDF content of document
 type: docs
-weight: 7770
+weight: 9190
 url: /net/aspose.pdf.tagged/taggedexception/
 ---
 ## TaggedException class

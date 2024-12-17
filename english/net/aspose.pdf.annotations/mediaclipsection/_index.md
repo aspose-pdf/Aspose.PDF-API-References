@@ -3,7 +3,7 @@ title: Class MediaClipSection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.MediaClipSection class. This class descibes Media clip section
 type: docs
-weight: 740
+weight: 2090
 url: /net/aspose.pdf.annotations/mediaclipsection/
 ---
 ## MediaClipSection class

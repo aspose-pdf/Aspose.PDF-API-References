@@ -3,7 +3,7 @@ title: Form.GetFieldType
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Returns type of field
 type: docs
-weight: 270
+weight: 240
 url: /net/aspose.pdf.facades/form/getfieldtype/
 ---
 ## Form.GetFieldType method

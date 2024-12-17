@@ -3,7 +3,7 @@ title: Aspose.Pdf.Security
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 210
 url: /net/aspose.pdf.security/
 ---
 

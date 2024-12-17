@@ -3,7 +3,7 @@ title: XImage.Save
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Saves image data into stream as JPEG image
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}

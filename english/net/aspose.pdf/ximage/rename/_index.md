@@ -3,7 +3,7 @@ title: XImage.Rename
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Renames image and replaces all references to the image with the new name
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/ximage/rename/
 ---
 ## XImage.Rename method

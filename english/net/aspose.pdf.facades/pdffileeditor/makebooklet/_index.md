@@ -3,10 +3,10 @@ title: PdfFileEditor.MakeBooklet
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Makes booklet from the input file to output file
 type: docs
-weight: 330
+weight: 300
 url: /net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
 Makes booklet from the input file to output file.
 
@@ -38,7 +38,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
 Makes booklet from the InputStream to outputStream.
 
@@ -72,7 +72,7 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
 Makes booklet from the inputFile to outputFile.
 
@@ -106,7 +106,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
 Makes booklet from the input stream and save result into output stream.
 
@@ -142,7 +142,7 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -176,7 +176,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
 Makes customized booklet from the firstInputStream to outputStream.
 
@@ -212,7 +212,7 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -249,7 +249,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
 Makes booklet from the firstInputStream to outputStream.
 
@@ -286,7 +286,6 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
 

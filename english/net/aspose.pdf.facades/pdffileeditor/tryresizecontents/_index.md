@@ -1,12 +1,12 @@
 ---
 title: PdfFileEditor.TryResizeContents
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes contents of pages in document. If page is shrinked blank margins are added around the page. Result is stored into HttpResponse object
+description: PdfFileEditor method. Resizes contents of pages of the document
 type: docs
-weight: 480
+weight: 450
 url: /net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
-## TryResizeContents(string, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents_3}
+## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page. Result is stored into HttpResponse object.
 
@@ -129,7 +129,7 @@ dest.Close();
 
 ---
 
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_2}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
 Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
 
@@ -178,7 +178,7 @@ null,
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_4}
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
 

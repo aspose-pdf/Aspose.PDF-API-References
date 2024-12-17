@@ -3,7 +3,7 @@ title: TextStamp.WordWrapMode
 second_title: Aspose.PDF for .NET API Reference
 description: TextStamp property. Gets or sets the word wrap mode for text rendering
 type: docs
-weight: 140
+weight: 170
 url: /net/aspose.pdf/textstamp/wordwrapmode/
 ---
 ## TextStamp.WordWrapMode property

@@ -16,7 +16,7 @@ public BoundsCheckableList<Shape> Shapes { get; set; }
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf.generator/boundscheckablelist-1/)
+* class [BoundsCheckableList&lt;T&gt;](../../../aspose.pdf/boundscheckablelist-1/)
 * class [Shape](../../shape/)
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)

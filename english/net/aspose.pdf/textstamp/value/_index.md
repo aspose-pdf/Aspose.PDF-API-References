@@ -3,7 +3,7 @@ title: TextStamp.Value
 second_title: Aspose.PDF for .NET API Reference
 description: TextStamp property. Gets or sets string value which is used as stamp on the page
 type: docs
-weight: 120
+weight: 150
 url: /net/aspose.pdf/textstamp/value/
 ---
 ## TextStamp.Value property

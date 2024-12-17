@@ -3,7 +3,7 @@ title: Class FileAttachmentAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FileAttachmentAnnotation class. Class describes file attachment annotation
 type: docs
-weight: 360
+weight: 1710
 url: /net/aspose.pdf.annotations/fileattachmentannotation/
 ---
 ## FileAttachmentAnnotation class

@@ -16,7 +16,7 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 
 ### See Also
 
-* class [FontEmbeddingOptions](../../../aspose.pdf.pdfaoptionclasses/fontembeddingoptions/)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

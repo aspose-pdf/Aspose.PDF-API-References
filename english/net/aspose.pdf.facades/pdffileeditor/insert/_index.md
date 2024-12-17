@@ -3,10 +3,10 @@ title: PdfFileEditor.Insert
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileEditor method. Inserts pages from an other file into the Pdf file at a position
 type: docs
-weight: 320
+weight: 290
 url: /net/aspose.pdf.facades/pdffileeditor/insert/
 ---
-## Insert(string, int, string, int, int, string) {#insert_3}
+## Insert(string, int, string, int, int, string) {#insert_2}
 
 Inserts pages from an other file into the Pdf file at a position.
 
@@ -83,7 +83,7 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ---
 
-## Insert(string, int, string, int[], string) {#insert_4}
+## Insert(string, int, string, int[], string) {#insert_3}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -156,7 +156,6 @@ pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
----
 
 ## Insert(string, int, string, int[], HttpResponse) {#insert_5}
 

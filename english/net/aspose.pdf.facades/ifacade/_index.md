@@ -3,7 +3,7 @@ title: Interface IFacade
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.IFacade interface. General facade interface that defines common facades methods
 type: docs
-weight: 3040
+weight: 4330
 url: /net/aspose.pdf.facades/ifacade/
 ---
 ## IFacade interface

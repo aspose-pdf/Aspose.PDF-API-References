@@ -3,7 +3,7 @@ title: Class LevelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LevelFormat class. Represents format of the table of contents
 type: docs
-weight: 4670
+weight: 6020
 url: /net/aspose.pdf/levelformat/
 ---
 ## LevelFormat class

@@ -3,7 +3,7 @@ title: FormEditor.RadioGap
 second_title: Aspose.PDF for .NET API Reference
 description: FormEditor property. The member to record the gap between two neighboring radio buttons in pixelsdefault is 50
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.pdf.facades/formeditor/radiogap/
 ---
 ## FormEditor.RadioGap property

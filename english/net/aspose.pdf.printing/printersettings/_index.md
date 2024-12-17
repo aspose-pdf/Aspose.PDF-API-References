@@ -3,7 +3,7 @@ title: Class PrinterSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PrinterSettings class. Specifies information about how a document is printed including the printer that prints it
 type: docs
-weight: 7260
+weight: 8670
 url: /net/aspose.pdf.printing/printersettings/
 ---
 ## PrinterSettings class

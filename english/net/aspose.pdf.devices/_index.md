@@ -3,7 +3,7 @@ title: Aspose.Pdf.Devices
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Devices namespace provides classes which are used for representing document as images or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation
 type: docs
-weight: 110
+weight: 80
 url: /net/aspose.pdf.devices/
 ---
 The **Aspose.Pdf.Devices** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation.

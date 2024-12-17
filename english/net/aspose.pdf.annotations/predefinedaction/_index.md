@@ -3,7 +3,7 @@ title: Enum PredefinedAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PredefinedAction enum. Defines different actions which can be triggered from a PDF file
 type: docs
-weight: 990
+weight: 2340
 url: /net/aspose.pdf.annotations/predefinedaction/
 ---
 ## PredefinedAction enumeration

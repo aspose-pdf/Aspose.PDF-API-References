@@ -3,7 +3,7 @@ title: Form.GetField
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Gets the fields value according to its field name
 type: docs
-weight: 230
+weight: 200
 url: /net/aspose.pdf.facades/form/getfield/
 ---
 ## Form.GetField method

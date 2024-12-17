@@ -3,7 +3,7 @@ title: Enum Form.ImportStatus
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FormImportStatus enum. Status of imported field
 type: docs
-weight: 2990
+weight: 4280
 url: /net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration

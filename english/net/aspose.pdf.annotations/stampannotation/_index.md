@@ -3,7 +3,7 @@ title: Class StampAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.StampAnnotation class. Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp
 type: docs
-weight: 1260
+weight: 2610
 url: /net/aspose.pdf.annotations/stampannotation/
 ---
 ## StampAnnotation class

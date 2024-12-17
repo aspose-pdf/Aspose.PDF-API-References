@@ -22,10 +22,13 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
+| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Represents BoundsCheckableList - wrapper around System.Collections.Generic.List. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Represents an exception which occurs when an item doesn't fit within the given container dimensions. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
 | [Cell](./cell/) | Represents a cell of the table's row. |
 | [Cells](./cells/) | Represents a cells collection of row. |
+| [Center](./center/) | Represents the center alignment settings for header and footer data. |
 | [CgmImportOptions](./cgmimportoptions/) | Import option for import from Computer Graphics Metafile(CGM) format. |
 | [CgmLoadOptions](./cgmloadoptions/) | Contains options for loading/importing CGM file into pdf document. |
 | [Collection](./collection/) | Represents class for Collection(12.3.5 Collections). |
@@ -37,11 +40,12 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ComHelper](./comhelper/) | Provides methods for COM clients to load a document into Aspose.Pdf. |
 | [CompositingParameters](./compositingparameters/) | Represents an object containing graphics compositing parameters of current graphics state. |
 | [CrashReportOptions](./crashreportoptions/) | Options for crash report generating. |
+| [DateComponent](./datecomponent/) | Represents a base class for date components with a format attribute. |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) | The exception that is thrown when a feature is deprecated in current pdf version. |
 | [DestinationCollection](./destinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
 | [DocSaveOptions](./docsaveoptions/) | Save options for export to Doc format |
-| [Document](./document/) | Class representing PDF document |
+| [Document](./document/) | Class representing PDF document. |
 | [DocumentExtensions](./documentextensions/) | Provides additional capabilities for the Document class. |
 | [DocumentFactory](./documentfactory/) | Class which allows to create/load documents of different types. |
 | [DocumentInfo](./documentinfo/) | Represents meta information of PDF document. |
@@ -51,18 +55,26 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [EpubLoadOptions](./epubloadoptions/) | Contains options for loading/importing EPUB file into pdf document. |
 | [EpubSaveOptions](./epubsaveoptions/) | Save options for export to EPUB format |
 | [ExcelSaveOptions](./excelsaveoptions/) | Save options for export to Excel format |
+| [ExportFieldsOptions](./exportfieldsoptions/) | Represents base class of options for exporting form fields. |
+| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Represents options for exporting form fields to Json format. |
+| [FieldSerializationResult](./fieldserializationresult/) | Represents the result of a form field serialization process. |
 | [FileHyperlink](./filehyperlink/) | Represents file hyperlink object. |
 | [FileParams](./fileparams/) | Defines an embedded file parameter dictionary that shall contain additional file-specific information. |
 | [FileSpecification](./filespecification/) | Class representing embedded file. |
 | [FloatingBox](./floatingbox/) |  |
 | [FontEmbeddingException](./fontembeddingexception/) | The exception that is thrown when an attempt to embed font became failed |
+| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause this font is absent on destination PC. |
 | [FontNotFoundException](./fontnotfoundexception/) | The exception that is thrown when a font is not found. |
+| [Footer](./footer/) | Represents the footer settings. |
 | [FooterArtifact](./footerartifact/) | Describes footer artifact. This may be used to set footer of the page. |
 | [FormattedFragment](./formattedfragment/) | Represents abstract formatted fragment. |
 | [GraphInfo](./graphinfo/) | Represents graphics info. |
 | [Group](./group/) | A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
+| [Header](./header/) | Represents the header settings. |
 | [HeaderArtifact](./headerartifact/) | Class describes Heaader artifact. This artifacgt may be used to set heading of the page. |
 | [HeaderFooter](./headerfooter/) | Class represents header or footer pdf page. |
+| [HeaderFooterData](./headerfooterdata/) | Represents the pagination data for header and footer. |
+| [HeaderFooterSettings](./headerfootersettings/) | Represents the settings for header and footer artifacts. |
 | [Heading](./heading/) | Represents heading. |
 | [HtmlFragment](./htmlfragment/) | Represents html fragment. |
 | [HtmlLoadOptions](./htmlloadoptions/) | Represents options for loading/importing html file into pdf document. |
@@ -86,11 +98,13 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [JavaScriptCollection](./javascriptcollection/) | This class represents collection of JavaScript. |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) | The exception that is thrown on errors when working with JavascriptExtensions. |
 | [Layer](./layer/) | Represents a layer within a PDF page. |
+| [Left](./left/) | Represents the left alignment settings for header and footer data. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
 | [LoadOptions](./loadoptions/) | LoadOptions type holds level of abstraction on individual load options |
 | [LocalHyperlink](./localhyperlink/) | Represents local hyperlink object. |
 | [MarginInfo](./margininfo/) | This class represents a margin for different objects. |
+| [MarkdownSaveOptions](./markdownsaveoptions/) | Represents the document save option class in the markdown format. |
 | [Matrix](./matrix/) | Class represents transformation matrix. |
 | [Matrix3D](./matrix3d/) | Class represents transformation matrix. |
 | [MdLoadOptions](./mdloadoptions/) | Load options for Markdown format conversion. |
@@ -100,6 +114,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Save options for export to Xml format |
 | [NamedDestinationCollection](./nameddestinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [Note](./note/) | This class represents generator paragraph note. |
+| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Represents an exception that is thrown when an object reference in a PDF document is found to be corrupted. That means there is no object pointed to by the link. |
 | [OcspSettings](./ocspsettings/) | Represents the ocsp settings using during signing process. |
 | [OfdLoadOptions](./ofdloadoptions/) | Load options for OFD format. |
 | [Operator](./operator/) | Abstract class representing operator. |
@@ -116,10 +131,13 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PageActionCollection](./pageactioncollection/) | This class describes page actions |
 | [PageCollection](./pagecollection/) | Collection of PDF document pages. |
 | [PageCollectionExtension](./pagecollectionextension/) | Represents the extension method for updating header and footer pagination. |
+| [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing Page Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
+| [PageNumber](./pagenumber/) | Represents a page number format that includes an index, total number of pages, and a delimiter. |
 | [PageNumberStamp](./pagenumberstamp/) | Represents page number stamp and used to number pages. |
+| [PageRange](./pagerange/) | Represents the range of pages for header and footer settings. |
 | [PageSize](./pagesize/) | Class representing size of page in PDF document. |
 | [Paragraphs](./paragraphs/) | This class represents paragraph collection. |
 | [PclLoadOptions](./pclloadoptions/) | Represents options for loading(import) PCL file into pdf document. |
@@ -138,10 +156,10 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PsLoadOptions](./psloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
 | [PsSaveOptions](./pssaveoptions/) | Save options for export to PS (PostScript) or EPS format. |
 | [Rectangle](./rectangle/) | Class represents rectangle. |
-| [RegexManager](./regexmanager/) | Provides a wrapper for regular expression operations with configurable timeout settings. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [Resources](./resources/) | Class representing page resources. |
 | [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Represents rgb to device gray color spaces conversion strategy. |
+| [Right](./right/) | Represents the right alignment settings for header and footer data. |
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
 | [SaveOptions](./saveoptions/) | SaveOptions type hold level of abstraction on individual save options |
@@ -158,6 +176,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [TextStamp](./textstamp/) | Represents textual stamp. |
 | [TimestampSettings](./timestampsettings/) | Represents the ocsp settings using during signing process. |
 | [TocInfo](./tocinfo/) | Represents table of contents info. |
+| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode". |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |
 | [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model) |
 | [UnsupportedFontTypeException](./unsupportedfonttypeexception/) | The exception that is thrown when a font type is not supported. |
@@ -186,6 +205,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 
 | Interface | Description |
 | --- | --- |
+| [IBoundsCheckableItem](./iboundscheckableitem/) |  |
 | [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Interface for color space conversion strategies. |
 | [IIndexBitmapConverter](./iindexbitmapconverter/) | This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code). |
 | [INamedDestinationCollection](./inameddestinationcollection/) | Collection of Named Destinations. |
@@ -203,6 +223,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BlendMode](./blendmode/) | The blend modes enumeration. |
 | [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
 | [BorderSide](./borderside/) | Enumerates the border sides. |
+| [BoundsCheckMode](./boundscheckmode/) | Specifies the behavior for bounds checking when adding items to a collection. |
 | [CollectionFieldSubtype](./collectionfieldsubtype/) | Represents the subtype parameter of a field in a sceme collection. |
 | [ColorSpace](./colorspace/) | The color spaces enumeration. |
 | [ColorType](./colortype/) | Specifies color type of elements on page. |
@@ -216,6 +237,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Direction](./direction/) | Text direction. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
+| [FieldSerializationStatus](./fieldserializationstatus/) | Represents the status of the form field serialization. |
 | [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
 | [Fixup](./fixup/) | This enum represents an type of Fixup. |

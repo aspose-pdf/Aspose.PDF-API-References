@@ -3,7 +3,7 @@ title: Class AnnotationSelector
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.AnnotationSelector class. This class is used for selecting annotations using Visitor template idea
 type: docs
-weight: 100
+weight: 1450
 url: /net/aspose.pdf.annotations/annotationselector/
 ---
 ## AnnotationSelector class
