@@ -4,7 +4,7 @@ linktitle: TextFragmentState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState class. Represents a text state of a text fragment in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.pdf.text/textfragmentstate/
 ---
 ## TextFragmentState class

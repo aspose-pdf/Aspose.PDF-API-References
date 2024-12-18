@@ -4,7 +4,7 @@ linktitle: set_ReplacementFont
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_ReplacementFont method. Sets font used for replacing if user font does not contain required character in C++.'
 type: docs
-weight: 2200
+weight: 2700
 url: /cpp/aspose.pdf/textstamp/set_replacementfont/
 ---
 ## TextStamp::set_ReplacementFont method

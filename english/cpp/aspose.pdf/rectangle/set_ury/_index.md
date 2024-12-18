@@ -4,7 +4,7 @@ linktitle: set_URY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::set_URY method. Y - coordinate of upper-right corner in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.pdf/rectangle/set_ury/
 ---
 ## Rectangle::set_URY method

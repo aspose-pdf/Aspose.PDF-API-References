@@ -4,7 +4,7 @@ linktitle: XImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage class. Class representing image X-Object in C++.'
 type: docs
-weight: 16600
+weight: 18700
 url: /cpp/aspose.pdf/ximage/
 ---
 ## XImage class
@@ -32,6 +32,7 @@ class XImage : public System::Object
 | [get_Width](./get_width/)() | Gets width of the image. |
 | [GetColorType](./getcolortype/)() | Returns color type of image. |
 | [GetNameInCollection](./getnameincollection/)() | Returns the name of the image in its collection. |
+| [GetRawImageData](./getrawimagedata/)() | Retrieves the raw image data from the source image. |
 | [IsTheSameObject](./isthesameobject/)(System::SharedPtr\<Aspose::Pdf::XImage\>) | Returns true if both images references to the same object. |
 | [Rename](./rename/)(System::String) | Renames image and replaces all references to the image with the new name. |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves image data into stream as JPEG image. |

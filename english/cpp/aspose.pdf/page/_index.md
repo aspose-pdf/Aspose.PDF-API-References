@@ -4,7 +4,7 @@ linktitle: Page
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page class. Class representing page of PDF document in C++.'
 type: docs
-weight: 10900
+weight: 12600
 url: /cpp/aspose.pdf/page/
 ---
 ## Page class
@@ -73,6 +73,7 @@ class Page : public System::IDisposable,
 | [get_Watermark](./get_watermark/)() | Gets the watermark of the page. |
 | [GetNotifications](./getnotifications/)() | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) |
 | [GetPageRect](./getpagerect/)(bool) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
+| [GetResources](./getresources/)() override | Retrieves the resources associated with the page. |
 | [HasVectorGraphics](./hasvectorgraphics/)() | Detect of the presence of vector graphics, if it is present on the page. |
 | static [IntToRotation](./inttorotation/)(int32_t) | Translates integer value into corresponding rotation enumeration member. |
 | [IsBlank](./isblank/)(double) | Gets the flag whether page is blank or not. |

@@ -47,7 +47,7 @@ class AttributeName : public System::Object
 | static [Checked_on](./checked_on/) | Attribute checked: On - The state of a radio button or check box field. |
 | static [GlyphOrientationVertical_Auto](./glyphorientationvertical_auto/) | Attribute GlyphOrientationVertical: Auto - Specifies a default orientation for text, depending on whether it is fullwidth (as wide as it is high). |
 | static [Height_Auto](./height_auto/) | Attribute Height: Auto - The element's height shall be determined by the intrinsic height of its content. |
-| static [InlineAlign_Center](./inlinealign_center/) | Attribute InlineAlign: Center - Each child centered within the table cell. The distance between the start edges of the child's allocation rectangle and the table cell's content rectangle shall be the same as the distance between their end edges. |
+| static [InlineAlign_Center](./inlinealign_center/) | Attribute InlineAlign: [Center](../../aspose.pdf/center/) - Each child centered within the table cell. The distance between the start edges of the child's allocation rectangle and the table cell's content rectangle shall be the same as the distance between their end edges. |
 | static [InlineAlign_End](./inlinealign_end/) | Attribute InlineAlign: End - End edge of each child's allocation rectangle aligned with that of the table cell's content rectangle. |
 | static [InlineAlign_Start](./inlinealign_start/) | Attribute InlineAlign: Start - Start edge of each child's allocation rectangle aligned with that of the table cell's content rectangle. |
 | static [LineHeight_Auto](./lineheight_auto/) | Attribute LineHeight: Auto - Adjustment for the value of BaselineShift shall not be made. |
@@ -70,7 +70,7 @@ class AttributeName : public System::Object
 | static [Role_pb](./role_pb/) | Attribute Role: pb - Push button. |
 | static [Role_rb](./role_rb/) | Attribute Role: rb - Radio button. |
 | static [Role_tv](./role_tv/) | Attribute Role: tv - Text-value field. |
-| static [RubyAlign_Center](./rubyalign_center/) | Attribute RubyAlign: Center - The content shall be centered in the inline-progression direction. |
+| static [RubyAlign_Center](./rubyalign_center/) | Attribute RubyAlign: [Center](../../aspose.pdf/center/) - The content shall be centered in the inline-progression direction. |
 | static [RubyAlign_Distribute](./rubyalign_distribute/) | Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However, space shall also be inserted at the start edge and end edge of the text. The spacing shall be distributed using a 1:2:1 (start:infix:end) ratio. It shall be changed to a 0:1:1 ratio if the ruby appears at the start of a text line or to a 1:1:0 ratio if the ruby appears at the end of the text line. |
 | static [RubyAlign_End](./rubyalign_end/) | Attribute RubyAlign: End - The content shall be aligned on the end edge in the inline-progression direction. |
 | static [RubyAlign_Justify](./rubyalign_justify/) | Attribute RubyAlign: Justify - The content shall be expanded to fill the available width in the inline-progression direction. |
@@ -82,7 +82,7 @@ class AttributeName : public System::Object
 | static [Scope_Both](./scope_both/) | Attribute Scope: Both. |
 | static [Scope_Column](./scope_column/) | Attribute Scope: Column. |
 | static [Scope_Row](./scope_row/) | Attribute Scope: [Row](../../aspose.pdf/row/). |
-| static [TextAlign_Center](./textalign_center/) | Attribute TextAlign: Center - Centered between the start and end edges. |
+| static [TextAlign_Center](./textalign_center/) | Attribute TextAlign: [Center](../../aspose.pdf/center/) - Centered between the start and end edges. |
 | static [TextAlign_End](./textalign_end/) | Attribute TextAlign: End - Aligned with the end edge. |
 | static [TextAlign_Justify](./textalign_justify/) | Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary, to achieve such alignment. The last (or only) line shall be aligned with the start edge only. |
 | static [TextAlign_Start](./textalign_start/) | Attribute TextAlign: Start - Aligned with the start edge. |

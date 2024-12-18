@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/possidesright/
 ## PosSidesRight field
 
 
-Right position.
+[Right](../../../aspose.pdf/right/) position.
 
 ```cpp
 static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosSidesRight

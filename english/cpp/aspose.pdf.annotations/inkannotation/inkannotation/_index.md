@@ -37,7 +37,7 @@ Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Aspose:
 ## InkAnnotation::InkAnnotation(System::SharedPtr\<Document\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) constructor
 
 
-Constructor for Ink annotation for [Generator](../../../aspose.pdf.generator/).
+Constructor for Ink annotation for Generator.
 
 ```cpp
 Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Document> document, System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> inkList)

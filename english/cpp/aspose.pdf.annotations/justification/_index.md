@@ -20,9 +20,9 @@ enum class Justification
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | 0 | Left justification. |
-| Center | 1 | Center justification. |
-| Right | 2 | Right justification. |
+| Left | 0 | [Left](../../aspose.pdf/left/) justification. |
+| Center | 1 | [Center](../../aspose.pdf/center/) justification. |
+| Right | 2 | [Right](../../aspose.pdf/right/) justification. |
 
 ## See Also
 

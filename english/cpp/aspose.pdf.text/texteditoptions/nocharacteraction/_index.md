@@ -23,7 +23,8 @@ enum class NoCharacterAction
 | ThrowException | 0 | Throw exception. |
 | UseStandardFont | 1 | Repalce font to standard font which contains required character. |
 | ReplaceAnyway | 2 | Replace text anyway without font substitution. |
-| UseCustomReplacementFont | 3 | Repalce font to defined replacement font. |
+| ReplaceFonts | 3 | Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: |
+| UseCustomReplacementFont | 4 | Repalce font to defined replacement font. |
 
 ## See Also
 

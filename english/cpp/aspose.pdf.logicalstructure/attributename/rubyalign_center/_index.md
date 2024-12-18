@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/rubyalign_center/
 ## RubyAlign_Center field
 
 
-Attribute RubyAlign: Center - The content shall be centered in the inline-progression direction.
+Attribute RubyAlign: [Center](../../../aspose.pdf/center/) - The content shall be centered in the inline-progression direction.
 
 ```cpp
 static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyAlign_Center

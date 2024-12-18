@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_action/
 ## Bookmark::get_Action method
 
 
-Gets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named".
+Gets the action bound with the bookmark. If [PageNumber](../../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named".
 
 ```cpp
 System::String Aspose::Pdf::Facades::Bookmark::get_Action() const

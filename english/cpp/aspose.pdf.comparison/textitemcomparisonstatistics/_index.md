@@ -4,7 +4,7 @@ linktitle: TextItemComparisonStatistics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::TextItemComparisonStatistics class. Represents a text comparison ststistics class in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/
 ---
 ## TextItemComparisonStatistics class

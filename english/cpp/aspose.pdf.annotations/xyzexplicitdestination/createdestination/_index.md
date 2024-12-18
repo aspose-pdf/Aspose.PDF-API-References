@@ -20,7 +20,7 @@ static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZEx
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | System::SharedPtr\<Aspose::Pdf::Page\> | Destination page. |
-| left | double | Left position on the page. |
+| left | double | [Left](../../../aspose.pdf/left/) position on the page. |
 | top | double | Top position on the page. |
 | zoom | double | Zoom factor (0 for default). |
 | considerRotation | bool | If true position will be recalculated according to page rotation. |

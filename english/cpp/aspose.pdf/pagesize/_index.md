@@ -4,7 +4,7 @@ linktitle: PageSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageSize class. Class representing size of page in PDF document in C++.'
 type: docs
-weight: 11900
+weight: 13900
 url: /cpp/aspose.pdf/pagesize/
 ---
 ## PageSize class

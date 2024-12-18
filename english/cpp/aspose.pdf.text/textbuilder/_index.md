@@ -4,7 +4,7 @@ linktitle: TextBuilder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextBuilder class. Appends text object to Pdf page in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf.text/textbuilder/
 ---
 ## TextBuilder class

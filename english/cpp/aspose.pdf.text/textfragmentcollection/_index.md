@@ -4,7 +4,7 @@ linktitle: TextFragmentCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentCollection class. Represents a text fragments collection in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/aspose.pdf.text/textfragmentcollection/
 ---
 ## TextFragmentCollection class

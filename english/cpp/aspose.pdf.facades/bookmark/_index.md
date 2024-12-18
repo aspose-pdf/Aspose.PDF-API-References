@@ -22,7 +22,7 @@ class Bookmark : public System::Object
 | --- | --- |
 | [Bookmark](./bookmark/)() | Initializes a new instance of the [Bookmark](./) class. |
 | [CompareTo](./compareto/)(const System::SharedPtr\<Bookmark\>\&) |  |
-| [get_Action](./get_action/)() const | Gets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
+| [get_Action](./get_action/)() const | Gets the action bound with the bookmark. If [PageNumber](../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
 | [get_BoldFlag](./get_boldflag/)() const | Gets the bold flag of bookmark's title. |
 | [get_ChildItem](./get_childitem/)() | Gets bookmark's children. |
 | [get_ChildItems](./get_childitems/)() const | Gets bookmark's children. |
@@ -40,7 +40,7 @@ class Bookmark : public System::Object
 | [get_RemoteFile](./get_remotefile/)() const | Gets the file (path) which is required for "GoToR" action of bookmark. |
 | [get_Title](./get_title/)() const | Gets bookmark's title. |
 | [get_TitleColor](./get_titlecolor/)() const | Gets the color of bookmark's title. |
-| [set_Action](./set_action/)(System::String) | Sets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
+| [set_Action](./set_action/)(System::String) | Sets the action bound with the bookmark. If [PageNumber](../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
 | [set_BoldFlag](./set_boldflag/)(bool) | Sets the bold flag of bookmark's title. |
 | [set_ChildItem](./set_childitem/)(System::SharedPtr\<Bookmarks\>) | Sets bookmark's children. |
 | [set_ChildItems](./set_childitems/)(System::SharedPtr\<Bookmarks\>) | Sets bookmark's children. |

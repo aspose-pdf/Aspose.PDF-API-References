@@ -4,7 +4,7 @@ linktitle: SimpleFontSubstitution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SimpleFontSubstitution class. Represents a class for simple font substitution strategy in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.pdf.text/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution class

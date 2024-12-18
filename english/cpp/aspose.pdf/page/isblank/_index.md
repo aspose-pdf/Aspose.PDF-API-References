@@ -4,7 +4,7 @@ linktitle: IsBlank
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::IsBlank method. Gets the flag whether page is blank or not in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/aspose.pdf/page/isblank/
 ---
 ## Page::IsBlank method

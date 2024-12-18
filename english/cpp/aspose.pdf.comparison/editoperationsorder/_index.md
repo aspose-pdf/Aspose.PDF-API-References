@@ -4,7 +4,7 @@ linktitle: EditOperationsOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::EditOperationsOrder enum. Specifies the order of edit operations in C++.'
 type: docs
-weight: 600
+weight: 1900
 url: /cpp/aspose.pdf.comparison/editoperationsorder/
 ---
 ## EditOperationsOrder enum

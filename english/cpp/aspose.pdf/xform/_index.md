@@ -4,7 +4,7 @@ linktitle: XForm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm class. Class represent XForm in C++.'
 type: docs
-weight: 16400
+weight: 18500
 url: /cpp/aspose.pdf/xform/
 ---
 ## XForm class
@@ -35,7 +35,7 @@ class XForm : public System::IDisposable,
 | [get_Resources](./get_resources/)() override | Gets Form XObject resources. |
 | [get_Subtype](./get_subtype/)() | Gets form Subtype. |
 | [GetResources](./getresources/)(bool) | Returns resources of Form X-Object. |
-| [GetResources](./getresources/)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, [Resources](../resources/) will be automatically created for the form. |
+| [GetResources](./getresources/)() override | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, [Resources](../resources/) will be automatically created for the form. |
 | [set_BBox](./set_bbox/)(System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Sets form bounding box. |
 | [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Sets matrix of the form. |
 | [set_Name](./set_name/)(System::String) | Sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |

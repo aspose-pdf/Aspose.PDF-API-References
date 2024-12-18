@@ -39,12 +39,12 @@ class Artifact : public System::IDisposable
 | [get_Form](./get_form/)() | Gets [XForm](../xform/) of the artifact (if [XForm](../xform/) is used). |
 | [get_Image](./get_image/)() | Gets image of the artifact (if presents). |
 | [get_IsBackground](./get_isbackground/)() const | If true [Artifact](./) is placed behind page contents. |
-| [get_LeftMargin](./get_leftmargin/)() const | Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [get_LeftMargin](./get_leftmargin/)() const | [Left](../left/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [get_Lines](./get_lines/)() | Lines of multiline text artifact. |
 | [get_Opacity](./get_opacity/)() const | Gets opacity of the artifact. Possible values are in range 0..1. |
 | [get_Position](./get_position/)() const | Gets artifact position. If this property is specified, then margins and alignments are ignored. |
 | [get_Rectangle](./get_rectangle/)() | Gets rectangle of the artifact. |
-| [get_RightMargin](./get_rightmargin/)() const | Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [get_RightMargin](./get_rightmargin/)() const | [Right](../right/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [get_Rotation](./get_rotation/)() | Gets artifact rotation angle. |
 | [get_Subtype](./get_subtype/)() | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
 | [get_Text](./get_text/)() | Gets text of the artifact. |
@@ -60,10 +60,10 @@ class Artifact : public System::IDisposable
 | [set_CustomSubtype](./set_customsubtype/)(System::String) | Gets name of artifact subtype. May be used if artifact subtype is not standard subtype. |
 | [set_CustomType](./set_customtype/)(System::String) | Gets name of artifact type. May be used if artifact type is non standard. |
 | [set_IsBackground](./set_isbackground/)(bool) | If true [Artifact](./) is placed behind page contents. |
-| [set_LeftMargin](./set_leftmargin/)(double) | Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [set_LeftMargin](./set_leftmargin/)(double) | [Left](../left/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [set_Opacity](./set_opacity/)(double) | Sets opacity of the artifact. Possible values are in range 0..1. |
 | [set_Position](./set_position/)(System::SharedPtr\<Point\>) | Sets artifact position. If this property is specified, then margins and alignments are ignored. |
-| [set_RightMargin](./set_rightmargin/)(double) | Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [set_RightMargin](./set_rightmargin/)(double) | [Right](../right/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [set_Rotation](./set_rotation/)(double) | Sets artifact rotation angle. |
 | [set_Subtype](./set_subtype/)(Artifact::ArtifactSubtype) | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
 | [set_Text](./set_text/)(System::String) | Gets text of the artifact. |

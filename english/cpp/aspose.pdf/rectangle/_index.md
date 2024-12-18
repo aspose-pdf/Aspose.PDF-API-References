@@ -4,7 +4,7 @@ linktitle: Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle class. Class represents rectangle in C++.'
 type: docs
-weight: 13700
+weight: 15700
 url: /cpp/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -41,6 +41,7 @@ class Rectangle : public System::ICloneable
 | [Intersect](./intersect/)(System::SharedPtr\<Rectangle\>) | Intersects to rectangles. |
 | [IsIntersect](./isintersect/)(System::SharedPtr\<Rectangle\>) | Determines whether this rectangle intersects with other rectangle. |
 | [Join](./join/)(System::SharedPtr\<Rectangle\>) | Joins rectangles. |
+| [MoveBy](./moveby/)(double, double) | Shift rectangle by the specified deltas. |
 | [NearEquals](./nearequals/)(System::SharedPtr\<Rectangle\>, double) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
 | static [Parse](./parse/)(System::String) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [Rectangle](./rectangle/)(double, double, double, double, bool) | Constructor of [Rectangle](./). |

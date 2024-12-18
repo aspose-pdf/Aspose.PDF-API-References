@@ -21,7 +21,7 @@ class GoToURIAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_URI](./get_uri/)() | Gets the uniform resource identifier to resolve. |
-| [GoToURIAction](./gotouriaction/)(System::String) | Constructor. |
+| [GoToURIAction](./gotouriaction/)(System::String) | Creates an instance of [GoToURIAction](./) class. |
 | [set_URI](./set_uri/)(System::String) | Sets the uniform resource identifier to resolve. |
 ## See Also
 

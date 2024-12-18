@@ -4,7 +4,7 @@ linktitle: WarningType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WarningType enum. Enum represented warning type in C++.'
 type: docs
-weight: 23300
+weight: 25600
 url: /cpp/aspose.pdf/warningtype/
 ---
 ## WarningType enum

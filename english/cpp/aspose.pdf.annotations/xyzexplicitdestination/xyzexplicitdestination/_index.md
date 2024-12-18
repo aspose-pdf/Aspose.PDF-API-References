@@ -20,7 +20,7 @@ Aspose::Pdf::Annotations::XYZExplicitDestination::XYZExplicitDestination(int32_t
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of the upper-left corner of the window. |
 | top | double | Top vertical coordinate of the upper-left corner of the window. |
 | zoom | double | Zoom factor. |
 
@@ -42,7 +42,7 @@ Aspose::Pdf::Annotations::XYZExplicitDestination::XYZExplicitDestination(System:
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | System::SharedPtr\<Aspose::Pdf::Page\> | The destination page object. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of the upper-left corner of the window. |
 | top | double | Top vertical coordinate of the upper-left corner of the window. |
 | zoom | double | Zoom factor. |
 
@@ -67,7 +67,7 @@ Aspose::Pdf::Annotations::XYZExplicitDestination::XYZExplicitDestination(System:
 | --- | --- | --- |
 | document | System::SharedPtr\<Document\> | The parent document that contains this object. |
 | pageNumber | int32_t | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of the upper-left corner of the window. |
 | top | double | Top vertical coordinate of the upper-left corner of the window. |
 | zoom | double | Zoom factor. |
 

@@ -19,8 +19,8 @@ static System::SharedPtr<PdfFileEditor::ContentsResizeParameters> Aspose::Pdf::F
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | Left margin. |
-| right | double | Right margin. |
+| left | double | [Left](../../../../aspose.pdf/left/) margin. |
+| right | double | [Right](../../../../aspose.pdf/right/) margin. |
 | top | double | Top margin. |
 | bottom | double | Bottom margin. |
 

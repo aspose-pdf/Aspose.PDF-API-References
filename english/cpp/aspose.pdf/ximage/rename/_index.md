@@ -4,7 +4,7 @@ linktitle: Rename
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::Rename method. Renames image and replaces all references to the image with the new name in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf/ximage/rename/
 ---
 ## XImage::Rename method

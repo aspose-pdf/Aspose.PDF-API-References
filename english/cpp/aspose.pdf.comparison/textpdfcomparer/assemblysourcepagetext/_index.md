@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
 Restores the original text from the list of changes.
 
 ```cpp
-static System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblySourcePageText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> diffs)
+static System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblySourcePageText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> diffs)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\> | The list of changes. |
+| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\> | The list of changes. |
 
 ### ReturnValue
 
@@ -30,7 +30,7 @@ Original text.
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)

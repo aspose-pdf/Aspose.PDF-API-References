@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_Position method. Sets text position for text, represented with TextFragment object in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.pdf.text/textfragment/set_position/
 ---
 ## TextFragment::set_Position method

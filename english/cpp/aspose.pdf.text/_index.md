@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Text namespace in C++.'
 type: docs
-weight: 2700
+weight: 2100
 url: /cpp/aspose.pdf.text/
 ---
 
@@ -42,6 +42,7 @@ url: /cpp/aspose.pdf.text/
 | [ParagraphAbsorber](./paragraphabsorber/) | Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides access for rectangles and polydons that describes it in text coordinate space. Also performs text segments search and provides access to search results via [TextFragments](../) collections grouped by structure elements. |
 | [ParagraphAbsorberOptions](./paragraphabsorberoptions/) | Represents options for the [ParagraphAbsorber](./paragraphabsorber/). |
 | [Position](./position/) | Represents a position object. |
+| [RegexManager](./regexmanager/) | Provides a wrapper for regular expression operations with configurable timeout settings. |
 | [SimpleFontSubstitution](./simplefontsubstitution/) | Represents a class for simple font substitution strategy. |
 | [SystemFontSource](./systemfontsource/) | Represents all fonts installed to the system. |
 | [SystemFontsSubstitution](./systemfontssubstitution/) | Represents a class for font substitution strategy that substitutes fonts with system fonts. |

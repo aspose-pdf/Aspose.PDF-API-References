@@ -34,9 +34,9 @@ Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentsResizePar
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| leftMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Left margin value. |
+| leftMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | [Left](../../../../aspose.pdf/left/) margin value. |
 | contentsWidth | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Contents width. |
-| rightMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Right margin. |
+| rightMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | [Right](../../../../aspose.pdf/right/) margin. |
 | topMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Top margin. |
 | contentsHeight | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Contents height. |
 | bottomMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Bottom margin. |

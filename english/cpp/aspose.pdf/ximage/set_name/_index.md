@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::set_Name method. Sets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use XImage.Rename method in this case in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf/ximage/set_name/
 ---
 ## XImage::set_Name method

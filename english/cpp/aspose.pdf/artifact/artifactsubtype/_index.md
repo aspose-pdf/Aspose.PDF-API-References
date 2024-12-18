@@ -20,8 +20,8 @@ enum class ArtifactSubtype
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Header | 0 | Header artifact. |
-| Footer | 1 | Footer artifact. |
+| Header | 0 | [Header](../../header/) artifact. |
+| Footer | 1 | [Footer](../../footer/) artifact. |
 | Watermark | 2 | [Watermark](../../watermark/) artifact. |
 | Background | 3 | Background artifact. |
 | Undefined | 4 | [Artifact](../) subtype is not defined or unknown. |

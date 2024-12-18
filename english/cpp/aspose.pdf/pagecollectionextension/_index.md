@@ -4,7 +4,7 @@ linktitle: PageCollectionExtension
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollectionExtension class. Represents the extension method for updating header and footer pagination in C++.'
 type: docs
-weight: 11200
+weight: 12900
 url: /cpp/aspose.pdf/pagecollectionextension/
 ---
 ## PageCollectionExtension class

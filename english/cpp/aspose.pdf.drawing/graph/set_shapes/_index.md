@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.drawing/graph/set_shapes/
 Sets a [Shapes](../) collection that indicates all shapes in the graph.
 
 ```cpp
-void Aspose::Pdf::Drawing::Graph::set_Shapes(System::SharedPtr<Aspose::Pdf::Generator::BoundsCheckableList<System::SharedPtr<Shape>>> value)
+void Aspose::Pdf::Drawing::Graph::set_Shapes(System::SharedPtr<BoundsCheckableList<System::SharedPtr<Shape>>> value)
 ```
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [BoundsCheckableList](../../../aspose.pdf.generator/boundscheckablelist/)
+* Class [BoundsCheckableList](../../../aspose.pdf/boundscheckablelist/)
 * Class [Shape](../../shape/)
 * Class [Graph](../)
 * Namespace [Aspose::Pdf::Drawing](../../)

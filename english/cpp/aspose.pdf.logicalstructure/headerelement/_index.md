@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.logicalstructure/headerelement/
 ## HeaderElement class
 
 
-Represents Header structure element in logical structure.
+Represents [Header](../../aspose.pdf/header/) structure element in logical structure.
 
 ```cpp
 class HeaderElement : public Aspose::Pdf::LogicalStructure::BLSTextElement

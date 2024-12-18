@@ -4,7 +4,7 @@ linktitle: LatexFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LatexFragment class. Represents TeX fragment in C++.'
 type: docs
-weight: 7900
+weight: 9400
 url: /cpp/aspose.pdf/latexfragment/
 ---
 ## LatexFragment class

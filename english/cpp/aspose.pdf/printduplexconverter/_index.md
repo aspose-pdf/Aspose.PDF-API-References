@@ -4,7 +4,7 @@ linktitle: PrintDuplexConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::PrintDuplexConverter class in C++.'
 type: docs
-weight: 13300
+weight: 15300
 url: /cpp/aspose.pdf/printduplexconverter/
 ---
 ## PrintDuplexConverter class

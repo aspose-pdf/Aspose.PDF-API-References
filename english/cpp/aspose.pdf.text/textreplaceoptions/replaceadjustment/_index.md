@@ -23,8 +23,8 @@ enum class ReplaceAdjustment
 | None | 0 | No action, replaced text may overlaps rest of the line. |
 | AdjustSpaceWidth | 1 | Tries adjust spaces between words to keep line length. |
 | WholeWordsHyphenation | 2 | Tries distribute words between paragraph lines to keep paragraph's right field. |
-| IsFormFillingMode | 3 | Tries to spread the words in the available white space using the paragraph width. If the text overflows, it will be hidden. |
-| ShiftRestOfLine | 4 | (Default) Shifts rest of the line according to changing length of text, length of the line may be changed |
+| IsFormFillingMode | 4 | Tries to spread the words in the available white space using the paragraph width. If the text overflows, it will be hidden. |
+| ShiftRestOfLine | 8 | (Default) Shifts rest of the line according to changing length of text, length of the line may be changed |
 
 ## See Also
 

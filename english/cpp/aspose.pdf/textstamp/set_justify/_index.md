@@ -4,7 +4,7 @@ linktitle: set_Justify
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_Justify method. Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false in C++.'
 type: docs
-weight: 1900
+weight: 2400
 url: /cpp/aspose.pdf/textstamp/set_justify/
 ---
 ## TextStamp::set_Justify method

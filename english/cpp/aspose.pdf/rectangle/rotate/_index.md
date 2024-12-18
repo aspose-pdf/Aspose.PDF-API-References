@@ -4,7 +4,7 @@ linktitle: Rotate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Rotate method. Rotate rectangle by the specified angle in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf/rectangle/rotate/
 ---
 ## Rectangle::Rotate(int32_t) method

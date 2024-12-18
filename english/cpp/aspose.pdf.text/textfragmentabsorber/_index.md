@@ -4,7 +4,7 @@ linktitle: TextFragmentAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentAbsorber class. Represents an absorber object of text fragments. Performs text search and provides access to search results via TextFragmentAbsorber::TextFragments collection in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.pdf.text/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber class

@@ -4,7 +4,7 @@ linktitle: set_Header
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Header method. Sets page header in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.pdf/page/set_header/
 ---
 ## Page::set_Header method

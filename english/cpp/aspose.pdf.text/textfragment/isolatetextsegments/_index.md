@@ -4,7 +4,7 @@ linktitle: IsolateTextSegments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::IsolateTextSegments method. Gets TextSegment(s) representing specified part of the TextFragment text in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
 ## TextFragment::IsolateTextSegments method

@@ -25,10 +25,12 @@ url: /cpp/aspose.pdf/
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
+| [BoundsCheckableList](./boundscheckablelist/) | Represents [BoundsCheckableList](./boundscheckablelist/) - wrapper around [System.Collections.Generic.List](../system.collections.generic/list/). |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
 | [Cell](./cell/) | Represents a cell of the table's row. |
 | [Cells](./cells/) | Represents a cells collection of row. |
+| [Center](./center/) | Represents the center alignment settings for header and footer data. |
 | [CgmImportOptions](./cgmimportoptions/) | Import option for import from Computer Graphics Metafile(CGM) format. |
 | [CgmLoadOptions](./cgmloadoptions/) | Contains options for loading/importing CGM file into pdf document. |
 | [Collection](./collection/) | Represents class for [Collection](./collection/)(12.3.5 [Collections](../aspose.pdf.collections/)). |
@@ -43,6 +45,7 @@ url: /cpp/aspose.pdf/
 | [ComHelper](./comhelper/) | Provides methods for COM clients to load a document into [Aspose.Pdf](./). |
 | [CompositingParameters](./compositingparameters/) | Represents an object containing graphics compositing parameters of current graphics state. |
 | [CrashReportOptions](./crashreportoptions/) | Options for crash report generating. |
+| [DateComponent](./datecomponent/) | Represents a base class for date components with a format attribute. |
 | [DestinationCollection](./destinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [DirectionConverter](./directionconverter/) |  |
 | [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
@@ -56,23 +59,33 @@ url: /cpp/aspose.pdf/
 | [EpubLoadOptions](./epubloadoptions/) | Contains options for loading/importing EPUB file into pdf document. |
 | [EpubSaveOptions](./epubsaveoptions/) | Save options for export to EPUB format. |
 | [ExcelSaveOptions](./excelsaveoptions/) | Save options for export to Excel format. |
+| [ExportFieldsOptions](./exportfieldsoptions/) | Represents base class of options for exporting form fields. |
+| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Represents options for exporting form fields to Json format. |
+| [ExportImportMessages](./exportimportmessages/) | Contains various error messages for export and import operations of form fields. |
+| [FieldSerializationResult](./fieldserializationresult/) | Represents the result of a form field serialization process. |
 | [FileChecker](./filechecker/) | Represents a class for checking file security. |
 | [FileHyperlink](./filehyperlink/) | Represents file hyperlink object. |
 | [FileParams](./fileparams/) | Defines an embedded file parameter dictionary that shall contain additional file-specific information. |
 | [FileSpecification](./filespecification/) | Class representing embedded file. |
 | [FileSpecificationComparer](./filespecificationcomparer/) | Represents a comparator class for a file specification. The comparator compares according to the specification, using the list of fields to sort in the collection definition. According to the specification, sorting is done by collection items values. If there is no collection items dictionary, then sorting is done by Params values. |
 | [FloatingBox](./floatingbox/) | Represents a [FloatingBox](./floatingbox/) in a [Pdf](./) document. [FloatingBox](./floatingbox/) is custom positioned. |
+| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause this font is absent on destination PC. |
+| [Footer](./footer/) | Represents the footer settings. |
 | [FooterArtifact](./footerartifact/) | Describes footer artifact. This may be used to set footer of the page. |
 | [FormattedFragment](./formattedfragment/) | Represents abstract formatted fragment. |
 | [GraphInfo](./graphinfo/) | Represents graphics info. |
 | [Group](./group/) | A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
+| [Header](./header/) | Represents the header settings. |
 | [HeaderArtifact](./headerartifact/) | Class describes Heaader artifact. This artifacgt may be used to set heading of the page. |
 | [HeaderFooter](./headerfooter/) | Class represents header or footer pdf page. |
+| [HeaderFooterData](./headerfooterdata/) | Represents the pagination data for header and footer. |
+| [HeaderFooterSettings](./headerfootersettings/) | Represents the settings for header and footer artifacts. |
 | [Heading](./heading/) | Represents heading. |
 | [HtmlFragment](./htmlfragment/) | Represents html fragment. |
 | [HtmlLoadOptions](./htmlloadoptions/) | Represents options for loading/importing html file into pdf document. |
 | [HtmlSaveOptions](./htmlsaveoptions/) | Save options for export to Html format. |
 | [Hyperlink](./hyperlink/) | Represents abstract hyperlink. |
+| [IBoundsCheckableItem](./iboundscheckableitem/) |  |
 | [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Interface for color space conversion strategies. |
 | [Id](./id/) | Represents file identifier structure. |
 | [IIndexBitmapConverter](./iindexbitmapconverter/) | This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code). |
@@ -81,6 +94,8 @@ url: /cpp/aspose.pdf/
 | [ImagePlacementAbsorber](./imageplacementabsorber/) | Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via [ImagePlacementAbsorber::ImagePlacements](../) collection. |
 | [ImagePlacementCollection](./imageplacementcollection/) | Represents an image placements collection. |
 | [ImageStamp](./imagestamp/) | Reresents graphic stamp. |
+| [ImportFieldsOptions](./importfieldsoptions/) | Represents base class of options for importing form fields. |
+| [ImportFieldsToJsonOptions](./importfieldstojsonoptions/) | Represents options for importing form fields to Json format. |
 | [ImportOptions](./importoptions/) | [ImportOptions](./importoptions/) type hold level of abstraction on individual import options. |
 | [INamedDestinationCollection](./inameddestinationcollection/) | [Collection](./collection/) of Named Destinations. |
 | [IOperatorContainer](./ioperatorcontainer/) | Represents objects that contain a collection of operators as their contents. |
@@ -96,11 +111,13 @@ url: /cpp/aspose.pdf/
 | [LatexLoadOptions](./latexloadoptions/) | Represents options for loading/importing TeX file into PDF document. |
 | [LaTeXSaveOptions](./latexsaveoptions/) | Save options for export to TeX format. |
 | [Layer](./layer/) | Represents a layer within a PDF page. |
+| [Left](./left/) | Represents the left alignment settings for header and footer data. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
 | [LoadOptions](./loadoptions/) | [LoadOptions](./loadoptions/) type holds level of abstraction on individual load options. |
 | [LocalHyperlink](./localhyperlink/) | Represents local hyperlink object. |
 | [MarginInfo](./margininfo/) | This class represents a margin for different objects. |
+| [MarkdownSaveOptions](./markdownsaveoptions/) | Represents the document save option class in the markdown format. |
 | [Matrix](./matrix/) | Class represents transformation matrix. |
 | [Matrix3D](./matrix3d/) | Class represents transformation matrix. |
 | [MdLoadOptions](./mdloadoptions/) | Load options for Markdown format conversion. |
@@ -126,12 +143,15 @@ url: /cpp/aspose.pdf/
 | [PageActionCollection](./pageactioncollection/) | This class describes page actions. |
 | [PageCollection](./pagecollection/) | [Collection](./collection/) of PDF document pages. |
 | [PageCollectionExtension](./pagecollectionextension/) | Represents the extension method for updating header and footer pagination. |
+| [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing [Page](./page/) Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
 | [PageLayoutConverter](./pagelayoutconverter/) |  |
 | [PageModeConverter](./pagemodeconverter/) |  |
+| [PageNumber](./pagenumber/) | Represents a page number format that includes an index, total number of pages, and a delimiter. |
 | [PageNumberStamp](./pagenumberstamp/) | Represents page number stamp and used to number pages. |
+| [PageRange](./pagerange/) | Represents the range of pages for header and footer settings. |
 | [PageSize](./pagesize/) | Class representing size of page in PDF document. |
 | [Paragraphs](./paragraphs/) | This class represents paragraph collection. |
 | [PclLoadOptions](./pclloadoptions/) | Represents options for loading(import) PCL file into pdf document. |
@@ -151,10 +171,10 @@ url: /cpp/aspose.pdf/
 | [PsLoadOptions](./psloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
 | [PsSaveOptions](./pssaveoptions/) | Save options for export to PS (PostScript) or EPS format. |
 | [Rectangle](./rectangle/) | Class represents rectangle. |
-| [RegexManager](./regexmanager/) | Provides a wrapper for regular expression operations with configurable timeout settings. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [Resources](./resources/) | Class representing page resources. |
 | [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Represents rgb to device gray color spaces conversion strategy. |
+| [Right](./right/) | Represents the right alignment settings for header and footer data. |
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
 | [SaveOptions](./saveoptions/) | [SaveOptions](./saveoptions/) type hold level of abstraction on individual save options. |
@@ -171,6 +191,7 @@ url: /cpp/aspose.pdf/
 | [TextStamp](./textstamp/) | Represents textual stamp. |
 | [TimestampSettings](./timestampsettings/) | Represents the ocsp settings using during signing process. |
 | [TocInfo](./tocinfo/) | Represents table of contents info. |
+| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode". |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |
 | [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model) |
 | [WarningInfo](./warninginfo/) | Immutable object for encapsulating warning information. |
@@ -203,6 +224,7 @@ url: /cpp/aspose.pdf/
 | [BlendMode](./blendmode/) | The blend modes enumeration. |
 | [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
 | [BorderSide](./borderside/) | Enumerates the border sides. |
+| [BoundsCheckMode](./boundscheckmode/) | Specifies the behavior for bounds checking when adding items to a collection. |
 | [CollectionFieldSubtype](./collectionfieldsubtype/) | Represents the subtype parameter of a field in a sceme collection. |
 | [ColorSpace](./colorspace/) | The color spaces enumeration. |
 | [ColorType](./colortype/) | Specifies color type of elements on page. |
@@ -217,6 +239,7 @@ url: /cpp/aspose.pdf/
 | [EditionType](./editiontype/) | Specifies the edition type of the license. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
+| [FieldSerializationStatus](./fieldserializationstatus/) | Represents the status of the form field serialization. |
 | [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
 | [Fixup](./fixup/) | This enum represents an type of Fixup. |
@@ -241,7 +264,7 @@ url: /cpp/aspose.pdf/
 | [Permissions](./permissions/) | This enum represents user's permissions for a pdf. |
 | [PrintDuplex](./printduplex/) | The paper handling option to use when printing the file from the print dialog.. |
 | [PrintScaling](./printscaling/) | The page scaling option that shall be selected when a print dialog is displayed for this document. |
-| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate, Market. |
+| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate, Documentize. |
 | [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types that can occure during conversion. |
 | [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [IWarningCallback::Warning(Aspose::Pdf::WarningInfo)](../) method. |
 | [Rotation](./rotation/) | Enumeration of possible rotation values. |
@@ -258,6 +281,7 @@ url: /cpp/aspose.pdf/
 
 | Typedef | Description |
 | --- | --- |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) |  |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) |  |
 | [EmbeddedFilesDoesNotExists](./embeddedfilesdoesnotexists/) |  |
 | [EmptyValueException](./emptyvalueexception/) |  |
@@ -272,6 +296,7 @@ url: /cpp/aspose.pdf/
 | [InvalidPdfFileFormatException](./invalidpdffileformatexception/) |  |
 | [InvalidValueFormatException](./invalidvalueformatexception/) |  |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) |  |
+| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) |  |
 | [PdfException](./pdfexception/) |  |
 | [UnsupportedFontTypeException](./unsupportedfonttypeexception/) |  |
 ## Functions

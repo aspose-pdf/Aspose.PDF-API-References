@@ -4,7 +4,7 @@ linktitle: RgbToDeviceGrayConversionStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RgbToDeviceGrayConversionStrategy class. Represents rgb to device gray color spaces conversion strategy in C++.'
 type: docs
-weight: 14100
+weight: 16000
 url: /cpp/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
 ## RgbToDeviceGrayConversionStrategy class

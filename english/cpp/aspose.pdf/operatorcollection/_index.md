@@ -4,7 +4,7 @@ linktitle: OperatorCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OperatorCollection class. Class represents collection of operators in C++.'
 type: docs
-weight: 10000
+weight: 11700
 url: /cpp/aspose.pdf/operatorcollection/
 ---
 ## OperatorCollection class

@@ -92,11 +92,11 @@ class PdfFileStamp : public Aspose::Pdf::Facades::SaveableFacade
 | static [PosBottomLeft](./posbottomleft/) | Bottom left position. |
 | static [PosBottomMiddle](./posbottommiddle/) | Bottom middle position. |
 | static [PosBottomRight](./posbottomright/) | Bottom right position. |
-| static [PosSidesLeft](./possidesleft/) | Left position. |
-| static [PosSidesRight](./possidesright/) | Right position. |
+| static [PosSidesLeft](./possidesleft/) | [Left](../../aspose.pdf/left/) position. |
+| static [PosSidesRight](./possidesright/) | [Right](../../aspose.pdf/right/) position. |
 | static [PosUpperLeft](./posupperleft/) | Upper let position. |
 | static [PosUpperMiddle](./posuppermiddle/) | Upper middle position. |
-| static [PosUpperRight](./posupperright/) | Right upper position. |
+| static [PosUpperRight](./posupperright/) | [Right](../../aspose.pdf/right/) upper position. |
 ## See Also
 
 * Class [SaveableFacade](../saveablefacade/)

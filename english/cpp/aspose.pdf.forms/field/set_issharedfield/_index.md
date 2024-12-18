@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/field/set_issharedfield/
 ## Field::set_IsSharedField method
 
 
-Property for [Generator](../../../aspose.pdf.generator/) support. Used when field is added to header or footer. If true, this field will created once and it's appearance will be visible on all pages of the document. If false, separated field will be created for every document page.
+Property for Generator support. Used when field is added to header or footer. If true, this field will created once and it's appearance will be visible on all pages of the document. If false, separated field will be created for every document page.
 
 ```cpp
 void Aspose::Pdf::Forms::Field::set_IsSharedField(bool value)

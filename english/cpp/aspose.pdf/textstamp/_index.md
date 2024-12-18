@@ -4,7 +4,7 @@ linktitle: TextStamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp class. Represents textual stamp in C++.'
 type: docs
-weight: 15500
+weight: 17500
 url: /cpp/aspose.pdf/textstamp/
 ---
 ## TextStamp class
@@ -25,7 +25,10 @@ class TextStamp : public Aspose::Pdf::Stamp
 
 | Method | Description |
 | --- | --- |
+| [get_AutoAdjustFontSizePrecision](./get_autoadjustfontsizeprecision/)() const | Automatically adjust font size precision. Default value: 0.1;. |
+| [get_AutoAdjustFontSizeToFitStampRectangle](./get_autoadjustfontsizetofitstamprectangle/)() const | If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: [Width](../) and [Height](../). Default width and height are derived from the page rectangle. |
 | [get_Draw](./get_draw/)() const | This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text. |
+| [get_FontSize](./get_fontsize/)() | Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.) |
 | [get_Height](./get_height/)() override | Desired height of the stamp on the page. |
 | [get_Justify](./get_justify/)() | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |
 | [get_MaxRowWidth](./get_maxrowwidth/)() const | Max row height for WordWrap option. |
@@ -40,6 +43,8 @@ class TextStamp : public Aspose::Pdf::Stamp
 | [get_WordWrap](./get_wordwrap/)() const | Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false. |
 | [get_WordWrapMode](./get_wordwrapmode/)() const | Gets the word wrap mode for text rendering. |
 | [Put](./put/)(System::SharedPtr\<Page\>) override | Adds textual stamp on the page. |
+| [set_AutoAdjustFontSizePrecision](./set_autoadjustfontsizeprecision/)(float) | Automatically adjust font size precision. Default value: 0.1;. |
+| [set_AutoAdjustFontSizeToFitStampRectangle](./set_autoadjustfontsizetofitstamprectangle/)(bool) | If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: [Width](../) and [Height](../). Default width and height are derived from the page rectangle. |
 | [set_Draw](./set_draw/)(bool) | This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text. |
 | [set_Height](./set_height/)(double) override | Desired height of the stamp on the page. |
 | [set_Justify](./set_justify/)(bool) | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |

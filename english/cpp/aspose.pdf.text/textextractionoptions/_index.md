@@ -4,7 +4,7 @@ linktitle: TextExtractionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionOptions class. Represents text extraction options in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.pdf.text/textextractionoptions/
 ---
 ## TextExtractionOptions class

@@ -4,7 +4,7 @@ linktitle: set_Paragraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Paragraphs method. Gets the paragraphs in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/aspose.pdf/page/set_paragraphs/
 ---
 ## Page::set_Paragraphs method

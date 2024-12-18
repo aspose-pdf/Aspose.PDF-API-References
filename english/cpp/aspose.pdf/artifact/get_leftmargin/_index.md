@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/artifact/get_leftmargin/
 ## Artifact::get_LeftMargin method
 
 
-Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
+[Left](../../left/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```cpp
 double Aspose::Pdf::Artifact::get_LeftMargin() const

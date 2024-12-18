@@ -4,7 +4,7 @@ linktitle: MakeGrayscale
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::MakeGrayscale method. Converts the page to grayscale in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.pdf/page/makegrayscale/
 ---
 ## Page::MakeGrayscale method

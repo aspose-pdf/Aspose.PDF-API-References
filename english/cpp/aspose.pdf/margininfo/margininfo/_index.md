@@ -33,9 +33,9 @@ Aspose::Pdf::MarginInfo::MarginInfo(double left, double bottom, double right, do
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | Left margin. |
+| left | double | [Left](../../left/) margin. |
 | bottom | double | Bottom margin |
-| right | double | Right margin. |
+| right | double | [Right](../../right/) margin. |
 | top | double | Top margin. |
 
 

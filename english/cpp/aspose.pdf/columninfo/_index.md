@@ -4,7 +4,7 @@ linktitle: ColumnInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ColumnInfo class. This class represents a columns info in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.pdf/columninfo/
 ---
 ## ColumnInfo class

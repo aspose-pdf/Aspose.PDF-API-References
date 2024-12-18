@@ -4,7 +4,7 @@ linktitle: TabStops
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabStops class. Represents a collection of TabStop objects in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.pdf.text/tabstops/
 ---
 ## TabStops class

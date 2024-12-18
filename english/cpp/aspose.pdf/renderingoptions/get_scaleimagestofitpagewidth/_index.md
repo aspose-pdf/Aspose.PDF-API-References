@@ -4,7 +4,7 @@ linktitle: get_ScaleImagesToFitPageWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_ScaleImagesToFitPageWidth method. Gets a values used to scale all images on the page to fit page''s width in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf/renderingoptions/get_scaleimagestofitpagewidth/
 ---
 ## RenderingOptions::get_ScaleImagesToFitPageWidth method

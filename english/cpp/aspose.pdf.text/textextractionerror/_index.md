@@ -4,7 +4,7 @@ linktitle: TextExtractionError
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionError class. Describes the text extraction error has appeared in the PDF document in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.pdf.text/textextractionerror/
 ---
 ## TextExtractionError class

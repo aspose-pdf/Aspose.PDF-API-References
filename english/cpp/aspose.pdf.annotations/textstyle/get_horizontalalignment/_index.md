@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/textstyle/get_horizontalalignment/
 ## TextStyle::get_HorizontalAlignment method
 
 
-[Text](../../../aspose.pdf.text/) alignment. Valid values are: Left, Center, Rigth.
+[Text](../../../aspose.pdf.text/) alignment. Valid values are: [Left](../../../aspose.pdf/left/), [Center](../../../aspose.pdf/center/), Rigth.
 
 ```cpp
 Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Annotations::TextStyle::get_HorizontalAlignment()

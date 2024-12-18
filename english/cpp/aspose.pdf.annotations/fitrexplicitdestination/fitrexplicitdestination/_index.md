@@ -20,9 +20,9 @@ Aspose::Pdf::Annotations::FitRExplicitDestination::FitRExplicitDestination(int32
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of visible rectangle. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of visible rectangle. |
 | bottom | double | Bottom vertical coordinate of visible rectangle. |
-| right | double | Right horizontal coordinate of visible rectangle. |
+| right | double | [Right](../../../aspose.pdf/right/) horizontal coordinate of visible rectangle. |
 | top | double | Top vertical coordinate of visible rectangle. |
 
 ## See Also
@@ -43,9 +43,9 @@ Aspose::Pdf::Annotations::FitRExplicitDestination::FitRExplicitDestination(Syste
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | System::SharedPtr\<Aspose::Pdf::Page\> | The destination page object. |
-| left | double | Left horizontal coordinate of visible rectangle. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of visible rectangle. |
 | bottom | double | Bottom vertical coordinate of visible rectangle. |
-| right | double | Right horizontal coordinate of visible rectangle. |
+| right | double | [Right](../../../aspose.pdf/right/) horizontal coordinate of visible rectangle. |
 | top | double | Top vertical coordinate of visible rectangle. |
 
 ## See Also
@@ -69,9 +69,9 @@ Aspose::Pdf::Annotations::FitRExplicitDestination::FitRExplicitDestination(Syste
 | --- | --- | --- |
 | document | System::SharedPtr\<Document\> | The parent document that contains this object. |
 | pageNumber | int32_t | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of visible rectangle. |
+| left | double | [Left](../../../aspose.pdf/left/) horizontal coordinate of visible rectangle. |
 | bottom | double | Bottom vertical coordinate of visible rectangle. |
-| right | double | Right horizontal coordinate of visible rectangle. |
+| right | double | [Right](../../../aspose.pdf/right/) horizontal coordinate of visible rectangle. |
 | top | double | Top vertical coordinate of visible rectangle. |
 
 ## Deprecated

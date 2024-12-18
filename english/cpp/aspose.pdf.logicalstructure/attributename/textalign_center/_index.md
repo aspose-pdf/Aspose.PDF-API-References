@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/textalign_center/
 ## TextAlign_Center field
 
 
-Attribute TextAlign: Center - Centered between the start and end edges.
+Attribute TextAlign: [Center](../../../aspose.pdf/center/) - Centered between the start and end edges.
 
 ```cpp
 static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_Center

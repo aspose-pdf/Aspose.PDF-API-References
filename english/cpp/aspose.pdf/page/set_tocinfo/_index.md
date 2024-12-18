@@ -4,7 +4,7 @@ linktitle: set_TocInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_TocInfo method. Sets table of contents info in C++.'
 type: docs
-weight: 7000
+weight: 7100
 url: /cpp/aspose.pdf/page/set_tocinfo/
 ---
 ## Page::set_TocInfo method

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/posupperright/
 ## PosUpperRight field
 
 
-Right upper position.
+[Right](../../../aspose.pdf/right/) upper position.
 
 ```cpp
 static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperRight

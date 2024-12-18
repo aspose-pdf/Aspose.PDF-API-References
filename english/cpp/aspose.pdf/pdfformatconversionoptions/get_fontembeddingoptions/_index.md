@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_fontembeddingoptions/
 Options for cases when it's not possible to embed some fonts into PDF document.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions> Aspose::Pdf::PdfFormatConversionOptions::get_FontEmbeddingOptions() const
+System::SharedPtr<Aspose::Pdf::FontEmbeddingOptions> Aspose::Pdf::PdfFormatConversionOptions::get_FontEmbeddingOptions() const
 ```
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FontEmbeddingOptions](../../../aspose.pdf.pdfaoptionclasses/fontembeddingoptions/)
+* Class [FontEmbeddingOptions](../../fontembeddingoptions/)
 * Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

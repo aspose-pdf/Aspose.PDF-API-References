@@ -4,7 +4,7 @@ linktitle: TextOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextOptions class. Represents text processing options in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/aspose.pdf.text/textoptions/
 ---
 ## TextOptions class

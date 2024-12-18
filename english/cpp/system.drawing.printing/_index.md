@@ -4,7 +4,7 @@ linktitle: System::Drawing::Printing
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Drawing::Printing namespace in C++.'
 type: docs
-weight: 4800
+weight: 3900
 url: /cpp/system.drawing.printing/
 ---
 

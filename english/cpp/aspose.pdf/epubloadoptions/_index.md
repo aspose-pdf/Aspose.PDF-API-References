@@ -4,7 +4,7 @@ linktitle: EpubLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EpubLoadOptions class. Contains options for loading/importing EPUB file into pdf document in C++.'
 type: docs
-weight: 4000
+weight: 4300
 url: /cpp/aspose.pdf/epubloadoptions/
 ---
 ## EpubLoadOptions class

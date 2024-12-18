@@ -4,7 +4,7 @@ linktitle: EmphasisStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::EmphasisStyle enum. Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.pdftomarkdown/emphasisstyle/
 ---
 ## EmphasisStyle enum

@@ -47,7 +47,7 @@ Aspose::Pdf::Forms::CheckboxField::CheckboxField(System::SharedPtr<Aspose::Pdf::
 ## CheckboxField::CheckboxField(System::SharedPtr\<Document\>) constructor
 
 
-Constructor to use with [Generator](../../../aspose.pdf.generator/).
+Constructor to use with Generator.
 
 ```cpp
 Aspose::Pdf::Forms::CheckboxField::CheckboxField(System::SharedPtr<Document> doc)

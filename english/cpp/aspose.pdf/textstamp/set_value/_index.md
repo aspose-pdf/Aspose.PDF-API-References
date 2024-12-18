@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_Value method. Sets string value which is used as stamp on the page in C++.'
 type: docs
-weight: 2600
+weight: 3100
 url: /cpp/aspose.pdf/textstamp/set_value/
 ---
 ## TextStamp::set_Value method

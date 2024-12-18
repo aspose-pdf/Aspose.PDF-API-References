@@ -4,7 +4,7 @@ linktitle: SystemFontsSubstitution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SystemFontsSubstitution class. Represents a class for font substitution strategy that substitutes fonts with system fonts in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.pdf.text/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution class

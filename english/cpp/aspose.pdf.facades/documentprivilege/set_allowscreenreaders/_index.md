@@ -4,7 +4,7 @@ linktitle: set_AllowScreenReaders
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::set_AllowScreenReaders method. Sets the permission which allow screen readers or not. true is allow and false is forbidden in C++.'
 type: docs
-weight: 1700
+weight: 2000
 url: /cpp/aspose.pdf.facades/documentprivilege/set_allowscreenreaders/
 ---
 ## DocumentPrivilege::set_AllowScreenReaders method

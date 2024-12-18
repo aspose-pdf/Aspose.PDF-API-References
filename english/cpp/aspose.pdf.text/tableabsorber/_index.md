@@ -4,7 +4,7 @@ linktitle: TableAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TableAbsorber class. Represents an absorber object of table elements. Performs search and provides access to search results via TableAbsorber::TableList collection in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.pdf.text/tableabsorber/
 ---
 ## TableAbsorber class

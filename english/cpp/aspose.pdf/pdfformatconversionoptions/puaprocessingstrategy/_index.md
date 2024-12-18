@@ -4,7 +4,7 @@ linktitle: PuaProcessingStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::PuaProcessingStrategy enum. Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA), see description at . This symbols cause an PDF/A compliant errors like "Text is mapped to Unicode Private Use Area but no ActualText entry is present". This enumeration declares a strategies which can be used to handle PUA symbols in C++.'
 type: docs
-weight: 3800
+weight: 4000
 url: /cpp/aspose.pdf/pdfformatconversionoptions/puaprocessingstrategy/
 ---
 ## PuaProcessingStrategy enum

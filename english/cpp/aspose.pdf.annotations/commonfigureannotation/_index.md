@@ -20,7 +20,7 @@ class CommonFigureAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [CommonFigureAnnotation](./commonfigureannotation/)(System::SharedPtr\<Document\>) | Constructor for using in [Generator](../../aspose.pdf.generator/). |
+| [CommonFigureAnnotation](./commonfigureannotation/)(System::SharedPtr\<Document\>) | Constructor for using in Generator. |
 | [get_Frame](./get_frame/)() | The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual boundaries of the underlying square or circle. |
 | [get_InteriorColor](./get_interiorcolor/)() | Interior color with which to fill the annotation's rectangle or ellipse. |
 | [set_Frame](./set_frame/)(System::SharedPtr\<Rectangle\>) | The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual boundaries of the underlying square or circle. |

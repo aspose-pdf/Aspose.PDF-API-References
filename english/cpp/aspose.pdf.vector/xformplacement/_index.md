@@ -4,7 +4,7 @@ linktitle: XFormPlacement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::XFormPlacement class. Represents XForm placement. If the XForm is displayed on the page more than 1 time, all XformPlacements associated with this XForm will have common graphical elements, but different graphical states in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.pdf.vector/xformplacement/
 ---
 ## XFormPlacement class
