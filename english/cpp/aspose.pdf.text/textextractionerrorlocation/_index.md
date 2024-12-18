@@ -4,7 +4,7 @@ linktitle: TextExtractionErrorLocation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionErrorLocation class. Represents the location in the PDF document where text extraction error has appeared in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/aspose.pdf.text/textextractionerrorlocation/
 ---
 ## TextExtractionErrorLocation class

@@ -4,7 +4,7 @@ linktitle: License
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::License class. Provides methods to license the component in C++.'
 type: docs
-weight: 8400
+weight: 10000
 url: /cpp/aspose.pdf/license/
 ---
 ## License class

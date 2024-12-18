@@ -4,7 +4,7 @@ linktitle: TrySaveVectorGraphics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::TrySaveVectorGraphics method. Tries to save vector graphics if they are present on the page. The save format is SVG in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/aspose.pdf/page/trysavevectorgraphics/
 ---
 ## Page::TrySaveVectorGraphics method

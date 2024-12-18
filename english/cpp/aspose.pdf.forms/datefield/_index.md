@@ -22,7 +22,7 @@ class DateField : public Aspose::Pdf::Forms::TextBoxField
 | --- | --- |
 | [AddImage](./addimage/)(System::SharedPtr\<Image\>) | [Image](../../aspose.pdf/image/) adding denied for this field. |
 | [DateField](./datefield/)() | Initializes a new instance of the [DateField](./) |
-| [DateField](./datefield/)(System::SharedPtr\<Document\>) | Constructor which should be used with [Generator](../../aspose.pdf.generator/). |
+| [DateField](./datefield/)(System::SharedPtr\<Document\>) | Constructor which should be used with Generator. |
 | [DateField](./datefield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [DateField](./) |
 | [DateField](./datefield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [DateField](./) |
 | [get_DateFormat](./get_dateformat/)() const | Gets the date format. |

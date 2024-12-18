@@ -4,7 +4,7 @@ linktitle: get_ModifyContents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_ModifyContents method. Allows modifying file in C++.'
 type: docs
-weight: 2800
+weight: 3100
 url: /cpp/aspose.pdf.facades/documentprivilege/get_modifycontents/
 ---
 ## DocumentPrivilege::get_ModifyContents method

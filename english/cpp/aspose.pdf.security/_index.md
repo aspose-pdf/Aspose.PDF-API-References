@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Security
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Security namespace in C++.'
 type: docs
-weight: 2400
+weight: 1800
 url: /cpp/aspose.pdf.security/
 ---
 

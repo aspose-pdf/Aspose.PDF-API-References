@@ -4,7 +4,7 @@ linktitle: GetECMAScriptString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PdfAction::GetECMAScriptString method. Gets string for ECMAScript Action in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 ---
 ## PdfAction::GetECMAScriptString method

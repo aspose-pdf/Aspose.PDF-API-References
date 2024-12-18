@@ -16,35 +16,26 @@ is_root: true
 | --- | --- |
 | [Aspose::Pdf](./aspose.pdf/) |  |
 | [Aspose::Pdf::Annotations](./aspose.pdf.annotations/) |  |
-| [Aspose::Pdf::Artifacts::Pagination](./aspose.pdf.artifacts.pagination/) |  |
 | [Aspose::Pdf::Collections](./aspose.pdf.collections/) |  |
 | [Aspose::Pdf::Comparison](./aspose.pdf.comparison/) |  |
-| [Aspose::Pdf::Comparison::Diff](./aspose.pdf.comparison.diff/) |  |
-| [Aspose::Pdf::Comparison::GraphicalComparison](./aspose.pdf.comparison.graphicalcomparison/) |  |
-| [Aspose::Pdf::Comparison::OutputGenerator](./aspose.pdf.comparison.outputgenerator/) |  |
-| [Aspose::Pdf::Comparison::SideBySideComparison](./aspose.pdf.comparison.sidebysidecomparison/) |  |
+| [Aspose::Pdf::DataEditor](./aspose.pdf.dataeditor/) | The **[Aspose.Pdf.DataEditor](./aspose.pdf.dataeditor/)** contains tools for editing data within a document. |
 | [Aspose::Pdf::Devices](./aspose.pdf.devices/) |  |
 | [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) |  |
 | [Aspose::Pdf::Facades](./aspose.pdf.facades/) |  |
 | [Aspose::Pdf::Forms](./aspose.pdf.forms/) |  |
-| [Aspose::Pdf::Generator](./aspose.pdf.generator/) |  |
 | [Aspose::Pdf::GroupProcessor](./aspose.pdf.groupprocessor/) |  |
 | [Aspose::Pdf::GroupProcessor::Creators](./aspose.pdf.groupprocessor.creators/) |  |
 | [Aspose::Pdf::LogicalStructure](./aspose.pdf.logicalstructure/) |  |
-| [Aspose::Pdf::Multithreading](./aspose.pdf.multithreading/) |  |
+| [Aspose::Pdf::Multithreading](./aspose.pdf.multithreading/) | The **[Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/)** namespace provides classes that are meant to be used in multi-threaded scenarios. |
 | [Aspose::Pdf::Operators](./aspose.pdf.operators/) |  |
 | [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) |  |
-| [Aspose::Pdf::PdfAOptionClasses](./aspose.pdf.pdfaoptionclasses/) |  |
 | [Aspose::Pdf::PdfToMarkdown](./aspose.pdf.pdftomarkdown/) |  |
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) |  |
 | [Aspose::Pdf::Security](./aspose.pdf.security/) |  |
 | [Aspose::Pdf::Structure](./aspose.pdf.structure/) |  |
 | [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) |  |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |
-| [Aspose::Pdf::Utils](./aspose.pdf.utils/) |  |
-| [Aspose::Pdf::Utils::PublicData](./aspose.pdf.utils.publicdata/) |  |
 | [Aspose::Pdf::Vector](./aspose.pdf.vector/) | The **[Aspose.Pdf.Vector](./aspose.pdf.vector/)** is a root namespace for graphics operations. |
-| [Aspose::Pdf::Vector::Extraction](./aspose.pdf.vector.extraction/) |  |
 | [Aspose::Pdf::XfaConverter](./aspose.pdf.xfaconverter/) |  |
 | [System](./system/) |  |
 | [System::Collections](./system.collections/) |  |

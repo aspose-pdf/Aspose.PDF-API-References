@@ -4,7 +4,7 @@ linktitle: set_BaselinePosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_BaselinePosition method. Gets text position for text, represented with TextFragment object. The YIndent of the Position structure represents baseline coordinate of the text fragment in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/aspose.pdf.text/textfragment/set_baselineposition/
 ---
 ## TextFragment::set_BaselinePosition method

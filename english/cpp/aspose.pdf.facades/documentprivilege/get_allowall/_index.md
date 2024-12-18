@@ -4,7 +4,7 @@ linktitle: get_AllowAll
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_AllowAll method. All allowed in C++.'
 type: docs
-weight: 2100
+weight: 2400
 url: /cpp/aspose.pdf.facades/documentprivilege/get_allowall/
 ---
 ## DocumentPrivilege::get_AllowAll method

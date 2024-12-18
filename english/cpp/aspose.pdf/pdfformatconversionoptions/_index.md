@@ -4,7 +4,7 @@ linktitle: PdfFormatConversionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions class. represents set of options for convert PDF document in C++.'
 type: docs
-weight: 12400
+weight: 14400
 url: /cpp/aspose.pdf/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions class
@@ -45,6 +45,7 @@ class PdfFormatConversionOptions : public System::Object
 | [get_OptimizeFileSize](./get_optimizefilesize/)() const | Gets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. 
 
  Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
+| [get_OutputIntent](./get_outputintent/)() const | Gets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
 | [get_PuaTextProcessingStrategy](./get_puatextprocessingstrategy/)() const | Strategy to process symbols from unicode Private Use Area (PUA). |
 | [get_SymbolicFontEncodingStrategy](./get_symbolicfontencodingstrategy/)() const | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [get_TransparencyAction](./get_transparencyaction/)() const | Action for image masked objects. |
@@ -69,10 +70,11 @@ class PdfFormatConversionOptions : public System::Object
 | [set_OptimizeFileSize](./set_optimizefilesize/)(bool) | Sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. 
 
  Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
+| [set_OutputIntent](./set_outputintent/)(System::SharedPtr\<Aspose::Pdf::OutputIntent\>) | Sets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
 | [set_PuaTextProcessingStrategy](./set_puatextprocessingstrategy/)(PdfFormatConversionOptions::PuaProcessingStrategy) | Strategy to process symbols from unicode Private Use Area (PUA). |
 | [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [set_TransparencyAction](./set_transparencyaction/)(ConvertTransparencyAction) | Action for image masked objects. |
-| [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(System::SharedPtr\<PdfAOptionClasses::ToUnicodeProcessingRules\>) | Rules to solve problems with unicode mapping. Can be null. |
+| [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(System::SharedPtr\<ToUnicodeProcessingRules\>) | Rules to solve problems with unicode mapping. Can be null. |
 ## See Also
 
 * Class [Object](../../system/object/)

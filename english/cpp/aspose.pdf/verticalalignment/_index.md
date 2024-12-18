@@ -4,7 +4,7 @@ linktitle: VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::VerticalAlignment enum. Enumeration of possible vertical alignment values in C++.'
 type: docs
-weight: 23200
+weight: 25500
 url: /cpp/aspose.pdf/verticalalignment/
 ---
 ## VerticalAlignment enum
@@ -22,7 +22,7 @@ enum class VerticalAlignment
 | --- | --- | --- |
 | None | 0 | No alignment (use specified position). |
 | Top | 1 | Align to top. |
-| Center | 2 | Center alignment. |
+| Center | 2 | [Center](../center/) alignment. |
 | Bottom | 3 | Align to bottom. |
 
 ## See Also

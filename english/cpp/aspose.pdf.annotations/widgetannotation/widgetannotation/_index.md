@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ## WidgetAnnotation::WidgetAnnotation constructor
 
 
-Create annotation (used for [Generator](../../../aspose.pdf.generator/))
+Create annotation (used for Generator)
 
 ```cpp
 Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(System::SharedPtr<Document> doc)

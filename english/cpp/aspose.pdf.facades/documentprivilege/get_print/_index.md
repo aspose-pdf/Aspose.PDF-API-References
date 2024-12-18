@@ -4,7 +4,7 @@ linktitle: get_Print
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_Print method. Allows printing file in C++.'
 type: docs
-weight: 2900
+weight: 3200
 url: /cpp/aspose.pdf.facades/documentprivilege/get_print/
 ---
 ## DocumentPrivilege::get_Print method

@@ -4,7 +4,7 @@ linktitle: Put
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::Put method. Adds textual stamp on the page in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/aspose.pdf/textstamp/put/
 ---
 ## TextStamp::Put method

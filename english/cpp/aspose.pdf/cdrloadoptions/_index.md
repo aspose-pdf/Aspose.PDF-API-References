@@ -4,7 +4,7 @@ linktitle: CdrLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CdrLoadOptions class. Class describes CDR load options in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf/cdrloadoptions/
 ---
 ## CdrLoadOptions class

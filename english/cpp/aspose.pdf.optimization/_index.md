@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Optimization
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Optimization namespace in C++.'
 type: docs
-weight: 2000
+weight: 1500
 url: /cpp/aspose.pdf.optimization/
 ---
 

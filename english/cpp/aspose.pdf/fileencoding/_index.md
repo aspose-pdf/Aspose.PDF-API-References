@@ -4,7 +4,7 @@ linktitle: FileEncoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileEncoding enum. Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed in C++.'
 type: docs
-weight: 20100
+weight: 22400
 url: /cpp/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enum

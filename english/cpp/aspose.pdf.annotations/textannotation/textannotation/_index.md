@@ -33,7 +33,7 @@ Aspose::Pdf::Annotations::TextAnnotation::TextAnnotation(System::SharedPtr<Aspos
 ## TextAnnotation::TextAnnotation(System::SharedPtr\<Document\>) constructor
 
 
-Constructor for annotation when used in [Generator](../../../aspose.pdf.generator/).
+Constructor for annotation when used in Generator.
 
 ```cpp
 Aspose::Pdf::Annotations::TextAnnotation::TextAnnotation(System::SharedPtr<Document> document)

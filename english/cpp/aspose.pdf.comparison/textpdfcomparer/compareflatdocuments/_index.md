@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/
 Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::CompareFlatDocuments(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::SharedPtr<ComparisonOptions> options)
+static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::CompareFlatDocuments(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::SharedPtr<ComparisonOptions> options)
 ```
 
 
@@ -31,7 +31,7 @@ List of changes.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ComparisonOptions](../../comparisonoptions/)
 * Class [TextPdfComparer](../)
@@ -43,7 +43,7 @@ List of changes.
 Compares two documents page by page. The result is saved in a PDF file. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::CompareFlatDocuments(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::SharedPtr<ComparisonOptions> options, System::String resultPdfDocumentPath)
+static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::CompareFlatDocuments(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::SharedPtr<ComparisonOptions> options, System::String resultPdfDocumentPath)
 ```
 
 
@@ -62,7 +62,7 @@ List of changes.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [ComparisonOptions](../../comparisonoptions/)
 * Class [String](../../../system/string/)

@@ -20,8 +20,8 @@ class ComparisonStatisticsBuilder : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [BuildStatistics](./buildstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>) | Creates a statistics object for the result of comparing PDF pages or flat document comparison in which entire documents are compared. |
-| static [BuildStatistics](./buildstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>\>\>) | Creates a statistics object for the result of a page comparison of a PDF document. |
+| static [BuildStatistics](./buildstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>) | Creates a statistics object for the result of comparing PDF pages or flat document comparison in which entire documents are compared. |
+| static [BuildStatistics](./buildstatistics/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>) | Creates a statistics object for the result of a page comparison of a PDF document. |
 ## See Also
 
 * Class [Object](../../system/object/)

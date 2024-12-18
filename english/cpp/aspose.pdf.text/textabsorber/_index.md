@@ -4,7 +4,7 @@ linktitle: TextAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextAbsorber class. Represents an absorber object of a text. Performs text extraction and provides access to the result via TextAbsorber::Text object in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.pdf.text/textabsorber/
 ---
 ## TextAbsorber class

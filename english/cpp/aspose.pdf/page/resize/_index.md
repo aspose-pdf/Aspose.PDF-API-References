@@ -4,7 +4,7 @@ linktitle: Resize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::Resize method. Resizes the page in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/aspose.pdf/page/resize/
 ---
 ## Page::Resize method

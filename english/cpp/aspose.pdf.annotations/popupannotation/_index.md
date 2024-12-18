@@ -24,7 +24,7 @@ class PopupAnnotation : public Aspose::Pdf::Annotations::Annotation
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Open](./get_open/)() | Gets a flag specifying whether the pop-up annotation should initially be displayed open. |
 | [get_Parent](./get_parent/)() | Gets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, and T entries shall override those of the pop-up annotation itself. |
-| [PopupAnnotation](./popupannotation/)(System::SharedPtr\<Document\>) | Constructor. for using in [Generator](../../aspose.pdf.generator/). |
+| [PopupAnnotation](./popupannotation/)(System::SharedPtr\<Document\>) | Constructor. for using in Generator. |
 | [PopupAnnotation](./popupannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new Popup annotation on the specified page. |
 | [set_Open](./set_open/)(bool) | Sets a flag specifying whether the pop-up annotation should initially be displayed open. |
 | [set_Parent](./set_parent/)(System::SharedPtr\<Annotation\>) | Sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, and T entries shall override those of the pop-up annotation itself. |

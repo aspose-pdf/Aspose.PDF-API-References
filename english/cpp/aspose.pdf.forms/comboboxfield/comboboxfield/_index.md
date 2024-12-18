@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/comboboxfield/comboboxfield/
 ## ComboBoxField::ComboBoxField() constructor
 
 
-Constructor for [ComboBoxField](../) to be used in [Generator](../../../aspose.pdf.generator/).
+Constructor for [ComboBoxField](../) to be used in Generator.
 
 ```cpp
 Aspose::Pdf::Forms::ComboBoxField::ComboBoxField()
@@ -47,7 +47,7 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Aspose::Pdf::
 ## ComboBoxField::ComboBoxField(System::SharedPtr\<Document\>) constructor
 
 
-Creates CombBox field to work with [Generator](../../../aspose.pdf.generator/).
+Creates CombBox field to work with Generator.
 
 ```cpp
 Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc)

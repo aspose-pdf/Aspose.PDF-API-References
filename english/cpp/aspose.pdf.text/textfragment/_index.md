@@ -4,7 +4,7 @@ linktitle: TextFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment class. Represents fragment of Pdf text in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf.text/textfragment/
 ---
 ## TextFragment class
@@ -33,6 +33,7 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [get_ReplaceOptions](./get_replaceoptions/)() const | Gets text replace options. The options define behavior when fragment text is replaced to more short/long. |
 | [get_Segments](./get_segments/)() const | Gets text segments for current [TextFragment](./). |
 | [get_Text](./get_text/)() | Gets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
+| [get_TextEditOptions](./get_texteditoptions/)() const | Gets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [get_TextState](./get_textstate/)() | Gets text state for the text that [TextFragment](./) object represents. |
 | [get_VerticalAlignment](./get_verticalalignment/)() override | Gets a vertical alignment of text fragment. |
 | [get_WrapLinesCount](./get_wraplinescount/)() const | Gets wrap lines count for this paragraph(for pdf generation only) |
@@ -45,6 +46,7 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Sets text position for text, represented with [TextFragment](./) object. |
 | [set_Segments](./set_segments/)(System::SharedPtr\<TextSegmentCollection\>) | Gets text segments for current [TextFragment](./). |
 | [set_Text](./set_text/)(System::String) | Sets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
+| [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) override | Sets a vertical alignment of text fragment. |
 | [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only) |
 | [TextFragment](./textfragment/)() | Initializes new instance of the [TextFragment](./) object. |

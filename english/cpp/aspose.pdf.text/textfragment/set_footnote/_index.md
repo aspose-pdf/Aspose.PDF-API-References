@@ -4,7 +4,7 @@ linktitle: set_FootNote
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_FootNote method. Sets the paragraph foot note.(for pdf generation only) in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.text/textfragment/set_footnote/
 ---
 ## TextFragment::set_FootNote method

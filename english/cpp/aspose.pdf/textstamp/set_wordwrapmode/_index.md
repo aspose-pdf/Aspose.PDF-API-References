@@ -4,7 +4,7 @@ linktitle: set_WordWrapMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_WordWrapMode method. Sets the word wrap mode for text rendering in C++.'
 type: docs
-weight: 2900
+weight: 3400
 url: /cpp/aspose.pdf/textstamp/set_wordwrapmode/
 ---
 ## TextStamp::set_WordWrapMode method

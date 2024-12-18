@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/getresources/
 Returns resources of Form X-Object. If For does not have resources and allowCreate is true, [Resources](../../resources/) will be automatically created for the form.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::GetResources()
+System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::XForm::GetResources() override
 ```
 
 

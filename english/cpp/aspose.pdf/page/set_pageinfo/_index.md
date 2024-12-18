@@ -4,7 +4,7 @@ linktitle: set_PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_PageInfo method. Sets the page info (for generator only, not filled in when reading document) in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/aspose.pdf/page/set_pageinfo/
 ---
 ## Page::set_PageInfo method

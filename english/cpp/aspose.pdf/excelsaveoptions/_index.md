@@ -4,7 +4,7 @@ linktitle: ExcelSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExcelSaveOptions class. Save options for export to Excel format in C++.'
 type: docs
-weight: 4200
+weight: 4500
 url: /cpp/aspose.pdf/excelsaveoptions/
 ---
 ## ExcelSaveOptions class

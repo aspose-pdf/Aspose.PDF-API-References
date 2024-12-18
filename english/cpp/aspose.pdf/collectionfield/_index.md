@@ -4,7 +4,7 @@ linktitle: CollectionField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionField class. Represents a document collection schema field class in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/aspose.pdf/collectionfield/
 ---
 ## CollectionField class

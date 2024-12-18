@@ -36,7 +36,7 @@ Aspose::Pdf::Annotations::PolygonAnnotation::PolygonAnnotation(System::SharedPtr
 ## PolygonAnnotation::PolygonAnnotation(System::SharedPtr\<Document\>, System::ArrayPtr\<System::SharedPtr\<Point\>\>) constructor
 
 
-Constructor for using with [Generator](../../../aspose.pdf.generator/).
+Constructor for using with Generator.
 
 ```cpp
 Aspose::Pdf::Annotations::PolygonAnnotation::PolygonAnnotation(System::SharedPtr<Document> document, System::ArrayPtr<System::SharedPtr<Point>> vertices)

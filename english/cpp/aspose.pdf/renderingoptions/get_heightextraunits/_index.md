@@ -4,7 +4,7 @@ linktitle: get_HeightExtraUnits
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_HeightExtraUnits method. Gets a value used to increase or decrease the width of rectangle for AppendRectangle operator in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf/renderingoptions/get_heightextraunits/
 ---
 ## RenderingOptions::get_HeightExtraUnits method

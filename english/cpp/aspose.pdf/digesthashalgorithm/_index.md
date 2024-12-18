@@ -4,7 +4,7 @@ linktitle: DigestHashAlgorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DigestHashAlgorithm enum. Represent type of algorithm that maps data to a "hash" in C++.'
 type: docs
-weight: 19500
+weight: 21700
 url: /cpp/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enum
@@ -25,6 +25,9 @@ enum class DigestHashAlgorithm
 | Sha256 | 2 | SHA-256. Secure Hash Algorithm 2 It is a default value for a detached PKCS7. |
 | Sha384 | 3 | SHA-384. Secure Hash Algorithm 2. |
 | Sha512 | 4 | SHA-512. Secure Hash Algorithm 2. |
+| Sha3_256 | 5 | SHA3-256. Secure Hash Algorithm 3. |
+| Sha3_384 | 6 | SHA3-384. Secure Hash Algorithm 3. |
+| Sha3_512 | 7 | SHA3-512. Secure Hash Algorithm 3. |
 
 ## See Also
 

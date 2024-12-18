@@ -4,7 +4,7 @@ linktitle: SystemFontSource
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SystemFontSource class. Represents all fonts installed to the system in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pdf.text/systemfontsource/
 ---
 ## SystemFontSource class

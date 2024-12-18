@@ -7,19 +7,19 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
 ---
-## TextPdfComparer::CreateComparisonStatistics(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>) method
+## TextPdfComparer::CreateComparisonStatistics(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>) method
 
 
 Gets comparison statistics.
 
 ```cpp
-static System::SharedPtr<TextItemComparisonStatistics> Aspose::Pdf::Comparison::TextPdfComparer::CreateComparisonStatistics(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> diffs)
+static System::SharedPtr<TextItemComparisonStatistics> Aspose::Pdf::Comparison::TextPdfComparer::CreateComparisonStatistics(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> diffs)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\> | The list of changes. |
+| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\> | The list of changes. |
 
 ### ReturnValue
 
@@ -30,23 +30,23 @@ The statistics.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextPdfComparer::CreateComparisonStatistics(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>\>\>) method
+## TextPdfComparer::CreateComparisonStatistics(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>) method
 
 
 Gets documents comparison statistics.
 
 ```cpp
-static System::SharedPtr<DocumentComparisonStatistics> Aspose::Pdf::Comparison::TextPdfComparer::CreateComparisonStatistics(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>>>> diffs)
+static System::SharedPtr<DocumentComparisonStatistics> Aspose::Pdf::Comparison::TextPdfComparer::CreateComparisonStatistics(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>>>> diffs)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Diff::DiffOperation\>\>\>\>\> | The list of changes. |
+| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\> | The list of changes. |
 
 ### ReturnValue
 
@@ -57,7 +57,7 @@ The statistics.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [TextPdfComparer](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)

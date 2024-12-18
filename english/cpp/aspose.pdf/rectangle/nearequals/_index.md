@@ -4,7 +4,7 @@ linktitle: NearEquals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::NearEquals method. Check if rectangles are near equal i.e. have near same (up to delta) position and sizes in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf/rectangle/nearequals/
 ---
 ## Rectangle::NearEquals method

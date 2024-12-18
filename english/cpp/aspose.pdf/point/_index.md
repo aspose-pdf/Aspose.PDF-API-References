@@ -4,7 +4,7 @@ linktitle: Point
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Point class. Represent point with fractional coordinates in C++.'
 type: docs
-weight: 13000
+weight: 15000
 url: /cpp/aspose.pdf/point/
 ---
 ## Point class

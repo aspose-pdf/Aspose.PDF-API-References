@@ -2,7 +2,7 @@
 title: Aspose::Pdf::HeaderArtifact::HeaderArtifact constructor
 linktitle: HeaderArtifact
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::HeaderArtifact::HeaderArtifact constructor. Creates Header Artifact instance in C++.'
+description: 'Aspose::Pdf::HeaderArtifact::HeaderArtifact constructor. Creates HeaderArtifact instance in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf/headerartifact/headerartifact/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/headerartifact/headerartifact/
 ## HeaderArtifact::HeaderArtifact constructor
 
 
-Creates Header [Artifact](../../artifact/) instance.
+Creates [Header](../../header/)[Artifact](../../artifact/) instance.
 
 ```cpp
 Aspose::Pdf::HeaderArtifact::HeaderArtifact()

@@ -4,7 +4,7 @@ linktitle: get_BarcodeOptimization
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_BarcodeOptimization method. Gets barcode optimization mode in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/renderingoptions/get_barcodeoptimization/
 ---
 ## RenderingOptions::get_BarcodeOptimization method

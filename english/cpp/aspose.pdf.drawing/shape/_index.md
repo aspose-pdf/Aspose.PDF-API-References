@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/shape/
 Represents shape - the base graphics object.
 
 ```cpp
-class Shape : public Aspose::Pdf::Generator::IBoundsCheckableItem
+class Shape : public Aspose::Pdf::IBoundsCheckableItem
 ```
 
 ## Methods
@@ -28,6 +28,6 @@ class Shape : public Aspose::Pdf::Generator::IBoundsCheckableItem
 | [Shape](./shape/)() |  |
 ## See Also
 
-* Class [IBoundsCheckableItem](../../aspose.pdf.generator/iboundscheckableitem/)
+* Class [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
 * Namespace [Aspose::Pdf::Drawing](../)
 * Library [Aspose.PDF for C++](../../)

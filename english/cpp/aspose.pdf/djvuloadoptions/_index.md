@@ -4,7 +4,7 @@ linktitle: DjvuLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DjvuLoadOptions class. Class describes DJVU load options in C++.'
 type: docs
-weight: 3200
+weight: 3500
 url: /cpp/aspose.pdf/djvuloadoptions/
 ---
 ## DjvuLoadOptions class

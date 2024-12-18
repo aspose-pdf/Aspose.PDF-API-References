@@ -4,7 +4,7 @@ linktitle: set_AllowDegradedPrinting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::set_AllowDegradedPrinting method. Sets the permission which allow degraded printing or not. true is allow and false is forbidden in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/aspose.pdf.facades/documentprivilege/set_allowdegradedprinting/
 ---
 ## DocumentPrivilege::set_AllowDegradedPrinting method

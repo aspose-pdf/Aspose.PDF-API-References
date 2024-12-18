@@ -4,7 +4,7 @@ linktitle: set_MediaBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_MediaBox method. Sets media box of the page in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/aspose.pdf/page/set_mediabox/
 ---
 ## Page::set_MediaBox method

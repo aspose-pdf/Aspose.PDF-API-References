@@ -4,7 +4,7 @@ linktitle: Collection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Collection class. Represents class for Collection(12.3.5 Collections) in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/aspose.pdf/collection/
 ---
 ## Collection class

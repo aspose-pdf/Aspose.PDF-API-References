@@ -37,7 +37,7 @@ class WidgetAnnotation : public Aspose::Pdf::Annotations::Annotation
 | [set_OnActivated](./set_onactivated/)(System::SharedPtr\<PdfAction\>) | An action which shall be performed when the annotation is activated. |
 | [set_ReadOnly](./set_readonly/)(bool) | Sets read only status of the field. |
 | [set_Required](./set_required/)(bool) | Sets required status of the field. |
-| [WidgetAnnotation](./widgetannotation/)(System::SharedPtr\<Document\>) | Create annotation (used for [Generator](../../aspose.pdf.generator/)) |
+| [WidgetAnnotation](./widgetannotation/)(System::SharedPtr\<Document\>) | Create annotation (used for Generator) |
 ## See Also
 
 * Class [Annotation](../annotation/)

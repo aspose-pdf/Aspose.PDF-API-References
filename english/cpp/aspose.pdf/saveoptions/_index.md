@@ -4,7 +4,7 @@ linktitle: SaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions class. SaveOptions type hold level of abstraction on individual save options in C++.'
 type: docs
-weight: 14400
+weight: 16400
 url: /cpp/aspose.pdf/saveoptions/
 ---
 ## SaveOptions class

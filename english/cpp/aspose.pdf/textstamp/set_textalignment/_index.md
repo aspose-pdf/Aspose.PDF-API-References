@@ -4,7 +4,7 @@ linktitle: set_TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_TextAlignment method. Alignment of the text inside the stamp in C++.'
 type: docs
-weight: 2400
+weight: 2900
 url: /cpp/aspose.pdf/textstamp/set_textalignment/
 ---
 ## TextStamp::set_TextAlignment method

@@ -4,7 +4,7 @@ linktitle: set_SystemFontsNativeRendering
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::set_SystemFontsNativeRendering method. Sets a mode where system fonts are rendered natively in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.pdf/renderingoptions/set_systemfontsnativerendering/
 ---
 ## RenderingOptions::set_SystemFontsNativeRendering method

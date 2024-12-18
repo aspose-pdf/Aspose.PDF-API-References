@@ -4,7 +4,7 @@ linktitle: JavascriptExtensionsException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::JavascriptExtensionsException typedef in C++.'
 type: docs
-weight: 25000
+weight: 27400
 url: /cpp/aspose.pdf/javascriptextensionsexception/
 ---
 ## JavascriptExtensionsException typedef

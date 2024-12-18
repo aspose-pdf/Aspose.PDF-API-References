@@ -4,7 +4,7 @@ linktitle: get_WrapLinesCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_WrapLinesCount method. Gets wrap lines count for this paragraph(for pdf generation only) in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.pdf.text/textfragment/get_wraplinescount/
 ---
 ## TextFragment::get_WrapLinesCount method

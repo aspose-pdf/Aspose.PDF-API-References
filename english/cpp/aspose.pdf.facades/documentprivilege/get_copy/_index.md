@@ -4,7 +4,7 @@ linktitle: get_Copy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_Copy method. Allows copying file in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/aspose.pdf.facades/documentprivilege/get_copy/
 ---
 ## DocumentPrivilege::get_Copy method

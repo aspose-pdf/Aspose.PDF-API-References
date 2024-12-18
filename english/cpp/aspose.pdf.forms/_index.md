@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Forms
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Forms namespace in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/aspose.pdf.forms/
 ---
 

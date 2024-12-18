@@ -35,7 +35,7 @@ Aspose::Pdf::Annotations::MovieAnnotation::MovieAnnotation(System::SharedPtr<Asp
 ## MovieAnnotation::MovieAnnotation(System::SharedPtr\<Document\>, System::String) constructor
 
 
-Constructor for using with [Generator](../../../aspose.pdf.generator/).
+Constructor for using with Generator.
 
 ```cpp
 Aspose::Pdf::Annotations::MovieAnnotation::MovieAnnotation(System::SharedPtr<Document> document, System::String movieFile)

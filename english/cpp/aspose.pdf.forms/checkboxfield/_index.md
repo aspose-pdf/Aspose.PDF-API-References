@@ -26,7 +26,7 @@ class CheckboxField : public Aspose::Pdf::Forms::Field
 | [CheckboxField](./checkboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor for [CheckboxField](./) class. |
 | [CheckboxField](./checkboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor for [CheckboxField](./) class. |
 | [CheckboxField](./checkboxfield/)() | Create instance of [CheckboxField](./). |
-| [CheckboxField](./checkboxfield/)(System::SharedPtr\<Document\>) | Constructor to use with [Generator](../../aspose.pdf.generator/). |
+| [CheckboxField](./checkboxfield/)(System::SharedPtr\<Document\>) | Constructor to use with Generator. |
 | [Clone](./clone/)() override | Clone the checkbox. |
 | [get_ActiveState](./get_activestate/)() override | Gets current annotation appearance state. |
 | [get_AllowedStates](./get_allowedstates/)() | Returns list of allowed states. |

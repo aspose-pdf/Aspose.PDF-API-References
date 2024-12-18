@@ -4,7 +4,7 @@ linktitle: RenderingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions class. Represents rendering options in C++.'
 type: docs
-weight: 13900
+weight: 15800
 url: /cpp/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
@@ -20,6 +20,7 @@ class RenderingOptions : public System::Object
 
 | Method | Description |
 | --- | --- |
+| [get_AnalyzeFonts](./get_analyzefonts/)() const | Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: |
 | [get_BarcodeOptimization](./get_barcodeoptimization/)() const | Gets barcode optimization mode. |
 | [get_ConvertFontsToUnicodeTTF](./get_convertfontstounicodettf/)() const | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
 | [get_DefaultFontName](./get_defaultfontname/)() const | Gets/sets the default name of font used to substitute of missing fonts. |
@@ -35,6 +36,7 @@ class RenderingOptions : public System::Object
 | [get_UseNewImagingEngine](./get_usenewimagingengine/)() const | Gets a flag determines whether new imaging engine is used or not. |
 | [get_WidthExtraUnits](./get_widthextraunits/)() const | Gets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
 | [RenderingOptions](./renderingoptions/)() | Initializes new instance of the [RenderingOptions](./) object. |
+| [set_AnalyzeFonts](./set_analyzefonts/)(bool) | Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: |
 | [set_BarcodeOptimization](./set_barcodeoptimization/)(bool) | Sets barcode optimization mode. |
 | [set_ConvertFontsToUnicodeTTF](./set_convertfontstounicodettf/)(bool) | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
 | [set_DefaultFontName](./set_defaultfontname/)(System::String) | Gets/sets the default name of font used to substitute of missing fonts. |

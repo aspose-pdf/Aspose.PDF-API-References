@@ -4,7 +4,7 @@ linktitle: Parse
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Parse method. Try to parse string and extract from it rectangle components llx, lly, urx, ury in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.pdf/rectangle/parse/
 ---
 ## Rectangle::Parse method

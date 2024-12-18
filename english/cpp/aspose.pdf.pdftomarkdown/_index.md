@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::PdfToMarkdown
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::PdfToMarkdown namespace in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/aspose.pdf.pdftomarkdown/
 ---
 
@@ -15,7 +15,6 @@ url: /cpp/aspose.pdf.pdftomarkdown/
 | Class | Description |
 | --- | --- |
 | [HeadingLevels](./headinglevels/) | Represents a class to work with header levels based on font size. |
-| [MarkdownSaveOptions](./markdownsaveoptions/) | Represents the document save option class in the markdown format. |
 ## Enums
 
 | Enum | Description |

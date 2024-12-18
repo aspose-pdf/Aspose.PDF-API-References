@@ -22,8 +22,8 @@ bool Aspose::Pdf::Facades::PdfFileEditor::AddMarginsPct(System::SharedPtr<System
 | source | System::SharedPtr\<System::IO::Stream\> | Stream which contains source document. |
 | destination | System::SharedPtr\<System::IO::Stream\> | Stream where resultant document will be saved. |
 | pages | System::ArrayPtr\<int32_t\> | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin in percents of initial page size. |
-| rightMargin | double | Right margin in percents of initial page size. |
+| leftMargin | double | [Left](../../../aspose.pdf/left/) margin in percents of initial page size. |
+| rightMargin | double | [Right](../../../aspose.pdf/right/) margin in percents of initial page size. |
 | topMargin | double | Top margin in percents of initial page size. |
 | bottomMargin | double | Bottom margin in percents of initial page size. |
 
@@ -54,8 +54,8 @@ bool Aspose::Pdf::Facades::PdfFileEditor::AddMarginsPct(System::String source, S
 | source | System::String | Path to source document. |
 | destination | System::String | Path where resultant document will be saved. |
 | pages | System::ArrayPtr\<int32_t\> | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin in percents of initial page size. |
-| rightMargin | double | Right margin in percents of initial page size. |
+| leftMargin | double | [Left](../../../aspose.pdf/left/) margin in percents of initial page size. |
+| rightMargin | double | [Right](../../../aspose.pdf/right/) margin in percents of initial page size. |
 | topMargin | double | Top margin in percents of initial page size. |
 | bottomMargin | double | Bottom margin in percents of initial page size. |
 

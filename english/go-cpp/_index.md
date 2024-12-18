@@ -27,7 +27,6 @@ type Document struct {
 
 | Function | Description |
 | -------- | ----------- |
-| [ExtractText](./convert/extracttext/) | Return the PDF-document contents as plain text. |
 | [SaveDocX](./convert/savedocx/) | Convert and save the previously opened PDF-document as DocX-document. |
 | [SaveDoc](./convert/savedoc/) | Convert and save the previously opened PDF-document as Doc-document. |
 | [SaveXlsX](./convert/savexlsx/) | Convert and save the previously opened PDF-document as XlsX-document. |
@@ -75,6 +74,7 @@ type Document struct {
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./core/pagedelete/) | Delete specified page in PDF-document. |
 | [PageCount](./core/pagecount/) | Return page count in PDF-document. |
+| [ExtractText](./core/extracttext/) | Return the PDF-document contents as plain text. |
 
 
 # Constants

@@ -4,7 +4,7 @@ linktitle: SetPageSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::SetPageSize method. Sets page size for page in C++.'
 type: docs
-weight: 7400
+weight: 7500
 url: /cpp/aspose.pdf/page/setpagesize/
 ---
 ## Page::SetPageSize method

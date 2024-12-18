@@ -44,7 +44,7 @@ virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::HeaderElement> Aspose::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | int32_t | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
+| level | int32_t | The level of [Header](../../../aspose.pdf/header/). Must be 1, 2, 3, 4, 5 or 6. |
 
 ### ReturnValue
 

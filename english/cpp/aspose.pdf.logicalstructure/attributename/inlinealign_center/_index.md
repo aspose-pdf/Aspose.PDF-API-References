@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/inlinealign_center/
 ## InlineAlign_Center field
 
 
-Attribute InlineAlign: Center - Each child centered within the table cell. The distance between the start edges of the child's allocation rectangle and the table cell's content rectangle shall be the same as the distance between their end edges.
+Attribute InlineAlign: [Center](../../../aspose.pdf/center/) - Each child centered within the table cell. The distance between the start edges of the child's allocation rectangle and the table cell's content rectangle shall be the same as the distance between their end edges.
 
 ```cpp
 static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::InlineAlign_Center

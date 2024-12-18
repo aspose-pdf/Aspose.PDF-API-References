@@ -4,7 +4,7 @@ linktitle: set_Background
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Background method. Sets the background color of the page in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/aspose.pdf/page/set_background/
 ---
 ## Page::set_Background method

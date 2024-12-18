@@ -4,7 +4,7 @@ linktitle: System::Collections
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections namespace in C++.'
 type: docs
-weight: 3400
+weight: 2500
 url: /cpp/system.collections/
 ---
 

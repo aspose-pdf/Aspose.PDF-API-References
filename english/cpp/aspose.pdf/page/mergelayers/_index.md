@@ -4,7 +4,7 @@ linktitle: MergeLayers
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::MergeLayers method. Merges all layers on the page into a single layer with the specified new layer name in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/aspose.pdf/page/mergelayers/
 ---
 ## Page::MergeLayers(System::String) method

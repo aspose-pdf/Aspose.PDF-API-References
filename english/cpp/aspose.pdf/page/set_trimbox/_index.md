@@ -4,7 +4,7 @@ linktitle: set_TrimBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_TrimBox method. Sets trim box of the page in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/aspose.pdf/page/set_trimbox/
 ---
 ## Page::set_TrimBox method

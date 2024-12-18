@@ -4,7 +4,7 @@ linktitle: ComHelper
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ComHelper class. Provides methods for COM clients to load a document into Aspose.Pdf in C++.'
 type: docs
-weight: 2700
+weight: 2900
 url: /cpp/aspose.pdf/comhelper/
 ---
 ## ComHelper class

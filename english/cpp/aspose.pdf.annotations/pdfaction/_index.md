@@ -22,6 +22,7 @@ class PdfAction : public Aspose::Pdf::Annotations::IAppointment
 | --- | --- |
 | [get_Next](./get_next/)() | Next actions in sequence. |
 | [GetECMAScriptString](./getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [PdfAction](./pdfaction/)() |  |
 | [ToString](./tostring/)() const override | Returns string representation of [ExplicitDestination](../explicitdestination/) object. |
 ## See Also
 

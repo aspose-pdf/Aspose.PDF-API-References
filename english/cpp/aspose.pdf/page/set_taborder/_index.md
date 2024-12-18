@@ -4,7 +4,7 @@ linktitle: set_TabOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_TabOrder method. Sets tab order of the page. Possible values: Row, Column. Default, Manual in C++.'
 type: docs
-weight: 6900
+weight: 7000
 url: /cpp/aspose.pdf/page/set_taborder/
 ---
 ## Page::set_TabOrder method

@@ -4,7 +4,7 @@ linktitle: Hyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Hyperlink class. Represents abstract hyperlink in C++.'
 type: docs
-weight: 5900
+weight: 7100
 url: /cpp/aspose.pdf/hyperlink/
 ---
 ## Hyperlink class

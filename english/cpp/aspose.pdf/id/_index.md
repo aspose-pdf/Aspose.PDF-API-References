@@ -4,7 +4,7 @@ linktitle: Id
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Id class. Represents file identifier structure in C++.'
 type: docs
-weight: 6100
+weight: 7400
 url: /cpp/aspose.pdf/id/
 ---
 ## Id class

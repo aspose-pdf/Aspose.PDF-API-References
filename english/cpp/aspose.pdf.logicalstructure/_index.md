@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::LogicalStructure
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::LogicalStructure namespace in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/
 ---
 
@@ -35,7 +35,7 @@ url: /cpp/aspose.pdf.logicalstructure/
 | [FormElement](./formelement/) | Represents Form structure element in logical structure. |
 | [FormulaElement](./formulaelement/) | Represents Formula structure element in logical structure. |
 | [GroupingElement](./groupingelement/) | Represents a base class for grouping structure elements in logical structure. |
-| [HeaderElement](./headerelement/) | Represents Header structure element in logical structure. |
+| [HeaderElement](./headerelement/) | Represents [Header](../aspose.pdf/header/) structure element in logical structure. |
 | [IllustrationElement](./illustrationelement/) | Represents a base class for illustration structure elements in logical structure. |
 | [ILSElement](./ilselement/) | Represents a base class for inline-level structure elements in logical structure. |
 | [ILSTextElement](./ilstextelement/) | Represents a base class for inline-level text structure elements in logical structure. |

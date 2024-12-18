@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/comparepages/
 Compares document pages.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Diff::DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::ComparePages(System::SharedPtr<Page> page1, System::SharedPtr<Page> page2, System::SharedPtr<ComparisonOptions> options)
+static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::ComparePages(System::SharedPtr<Page> page1, System::SharedPtr<Page> page2, System::SharedPtr<ComparisonOptions> options)
 ```
 
 
@@ -31,7 +31,7 @@ The list of changes.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
+* Class [DiffOperation](../../diffoperation/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [ComparisonOptions](../../comparisonoptions/)
 * Class [TextPdfComparer](../)

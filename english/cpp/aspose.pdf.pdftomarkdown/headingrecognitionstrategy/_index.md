@@ -4,7 +4,7 @@ linktitle: HeadingRecognitionStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::HeadingRecognitionStrategy enum. Represents types of header recognition strategies in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.pdftomarkdown/headingrecognitionstrategy/
 ---
 ## HeadingRecognitionStrategy enum

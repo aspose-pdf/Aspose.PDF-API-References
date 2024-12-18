@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::ToString method. Gets rectangle string representation in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.pdf/rectangle/tostring/
 ---
 ## Rectangle::ToString method

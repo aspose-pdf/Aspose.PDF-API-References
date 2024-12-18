@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Multithreading namespace
 linktitle: Aspose::Pdf::Multithreading
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Multithreading namespace in C++.'
+description: 'Aspose::Pdf::Multithreading namespace. The Aspose.Pdf.Multithreading namespace provides classes that are meant to be used in multi-threaded scenarios in C++.'
 type: docs
-weight: 1800
+weight: 1300
 url: /cpp/aspose.pdf.multithreading/
 ---
 
-
+The **[Aspose.Pdf.Multithreading](./)** namespace provides classes that are meant to be used in multi-threaded scenarios.
 
 ## Classes
 

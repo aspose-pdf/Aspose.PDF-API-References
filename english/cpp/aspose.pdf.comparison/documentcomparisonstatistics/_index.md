@@ -4,7 +4,7 @@ linktitle: DocumentComparisonStatistics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::DocumentComparisonStatistics class. Represents a document comparison statistics class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.comparison/documentcomparisonstatistics/
 ---
 ## DocumentComparisonStatistics class

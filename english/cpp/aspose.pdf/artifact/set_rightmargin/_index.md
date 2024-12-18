@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/artifact/set_rightmargin/
 ## Artifact::set_RightMargin method
 
 
-Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
+[Right](../../right/) margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```cpp
 void Aspose::Pdf::Artifact::set_RightMargin(double value)

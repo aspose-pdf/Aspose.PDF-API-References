@@ -4,7 +4,7 @@ linktitle: set_Footer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Footer method. Sets page footer in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/aspose.pdf/page/set_footer/
 ---
 ## Page::set_Footer method
