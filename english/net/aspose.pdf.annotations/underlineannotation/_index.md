@@ -68,7 +68,7 @@ public sealed class UnderlineAnnotation : TextMarkupAnnotation
 | override [ChangeAfterResize](../../aspose.pdf.annotations/textmarkupannotation/changeafterresize/)(Matrix) | Updates the QuadPoints, according to the matrix transform. |
 | [ClearState](../../aspose.pdf.annotations/markupannotation/clearstate/)() | Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
-| [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetMarkedText](../../aspose.pdf.annotations/textmarkupannotation/getmarkedtext/)() | Gets text under markup annotation as string. |
 | [GetMarkedTextFragments](../../aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/)() | Gets text under markup annotation as [`TextFragmentCollection`](../../aspose.pdf.text/textfragmentcollection/). |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |

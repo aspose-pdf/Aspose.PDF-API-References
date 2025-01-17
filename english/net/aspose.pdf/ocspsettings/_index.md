@@ -24,7 +24,8 @@ public class OcspSettings
 
 | Name | Description |
 | --- | --- |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Gets/sets the ocsp server url. |
+| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Gets and sets the ocsp server url. |
 
 ### See Also
 

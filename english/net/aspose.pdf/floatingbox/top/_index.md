@@ -3,7 +3,7 @@ title: FloatingBox.Top
 second_title: Aspose.PDF for .NET API Reference
 description: FloatingBox property. Gets or sets the table top coordinate
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf/floatingbox/top/
 ---
 ## FloatingBox.Top property

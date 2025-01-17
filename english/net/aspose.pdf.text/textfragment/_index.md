@@ -3,7 +3,7 @@ title: Class TextFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragment class. Represents fragment of Pdf text
 type: docs
-weight: 9800
+weight: 9860
 url: /net/aspose.pdf.text/textfragment/
 ---
 ## TextFragment class

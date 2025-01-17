@@ -3,7 +3,7 @@ title: Class PsSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PsSaveOptions class. Save options for export to PS PostScript or EPS format
 type: docs
-weight: 8720
+weight: 8730
 url: /net/aspose.pdf/pssaveoptions/
 ---
 ## PsSaveOptions class

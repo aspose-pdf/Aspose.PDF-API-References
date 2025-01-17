@@ -52,7 +52,7 @@ public abstract class PrinterMarkAnnotation : Annotation
 | abstract [Accept](../../aspose.pdf.annotations/annotation/accept/)(AnnotationSelector) | Accepts visitor for annotation processing. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
-| [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | static [AddPrinterMarks](../../aspose.pdf.annotations/printermarkannotation/addprintermarks/#addprintermarks)(Document, PrinterMarksKind) | Adds printer's marks to all pages in the specified document. |
 | static [AddPrinterMarks](../../aspose.pdf.annotations/printermarkannotation/addprintermarks/#addprintermarks_1)(Page, PrinterMarksKind) | Adds printer's marks to the specified page. |

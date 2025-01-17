@@ -3,7 +3,7 @@ title: Class ToUnicodeProcessingRules
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ToUnicodeProcessingRules class. This class describes rules which can be used to solve Adobe Preflight error Text cannot be mapped to Unicode
 type: docs
-weight: 9970
+weight: 10030
 url: /net/aspose.pdf/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class

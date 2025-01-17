@@ -3,7 +3,7 @@ title: Class TextReplaceOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextReplaceOptions class. Represents text replace options
 type: docs
-weight: 9870
+weight: 9930
 url: /net/aspose.pdf.text/textreplaceoptions/
 ---
 ## TextReplaceOptions class
