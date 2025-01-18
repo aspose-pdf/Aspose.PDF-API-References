@@ -4,7 +4,7 @@ linktitle: set_Paragraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::set_Paragraphs method. Sets a Paragraphs collection that indicates all paragraphs in the cell in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf/floatingbox/set_paragraphs/
 ---
 ## FloatingBox::set_Paragraphs method

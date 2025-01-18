@@ -4,7 +4,7 @@ linktitle: get_QuadPoint
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::get_QuadPoint method. An array of 8xN numbers specifying the coordinates of content region that is intended to be removed in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.annotations/redactionannotation/get_quadpoint/
 ---
 ## RedactionAnnotation::get_QuadPoint method

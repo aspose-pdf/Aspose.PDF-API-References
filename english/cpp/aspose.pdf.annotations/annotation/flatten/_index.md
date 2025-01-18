@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/flatten/
 Places annotation contents directly on the page, annotation object will be removed.
 
 ```cpp
-void Aspose::Pdf::Annotations::Annotation::Flatten()
+virtual void Aspose::Pdf::Annotations::Annotation::Flatten()
 ```
 
 ## See Also

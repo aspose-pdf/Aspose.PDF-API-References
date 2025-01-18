@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturefield/get_signature/
 Gets signature object. This object contains signature data regarding public-key cryptographic standards. Classes [PKCS1](../../pkcs1/), [PKCS7](../../pkcs7/) and [PKCS7Detached](../../pkcs7detached/) represent all supported types of signature objects.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Forms::Signature> Aspose::Pdf::Forms::SignatureField::get_Signature() const
+System::SharedPtr<Aspose::Pdf::Forms::Signature> Aspose::Pdf::Forms::SignatureField::get_Signature()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::set_TextAlignment method. Sets. Alignment of Overlay Text in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf.annotations/redactionannotation/set_textalignment/
 ---
 ## RedactionAnnotation::set_TextAlignment method

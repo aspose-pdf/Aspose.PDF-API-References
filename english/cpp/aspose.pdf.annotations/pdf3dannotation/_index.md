@@ -25,7 +25,7 @@ class PDF3DAnnotation : public Aspose::Pdf::Annotations::Annotation
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Content](./get_content/)() | Gets the content. |
 | [get_LightingScheme](./get_lightingscheme/)() | Gets the lighting scheme. |
-| [get_Pdf3DArtwork](./get_pdf3dartwork/)() const | Gets the 3D Artwork. |
+| [get_Pdf3DArtwork](./get_pdf3dartwork/)() | Gets the 3D Artwork. |
 | [get_RenderMode](./get_rendermode/)() | Gets the render mode. |
 | [get_ViewArray](./get_viewarray/)() | Gets the view array. |
 | [GetImagePreview](./getimagepreview/)() | Gets the image preview. |

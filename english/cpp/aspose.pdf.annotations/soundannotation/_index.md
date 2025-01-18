@@ -23,7 +23,7 @@ class SoundAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Icon](./get_icon/)() | Gets an icon to be used in displaying the annotation. |
-| [get_SoundData](./get_sounddata/)() const | Gets a sound object defining the sound to be played when the annotation is activated. |
+| [get_SoundData](./get_sounddata/)() | Gets a sound object defining the sound to be played when the annotation is activated. |
 | [set_Icon](./set_icon/)(SoundIcon) | Sets an icon to be used in displaying the annotation. |
 | [SoundAnnotation](./soundannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::String) | Creates new Sound annotation on the specified page. |
 | [SoundAnnotation](./soundannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::String, System::SharedPtr\<SoundSampleData\>) | Creates new Sound annotation on the specified page. |

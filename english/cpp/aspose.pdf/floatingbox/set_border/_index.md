@@ -4,7 +4,7 @@ linktitle: set_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::set_Border method. Sets a BorderInfo object that indicates the border info of the floating box in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf/floatingbox/set_border/
 ---
 ## FloatingBox::set_Border method

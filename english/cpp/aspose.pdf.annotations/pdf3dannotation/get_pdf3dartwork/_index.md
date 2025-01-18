@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_pdf3dartwork/
 Gets the 3D Artwork.
 
 ```cpp
-System::SharedPtr<PDF3DArtwork> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Pdf3DArtwork() const
+System::SharedPtr<PDF3DArtwork> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Pdf3DArtwork()
 ```
 
 ## Remarks
