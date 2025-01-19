@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Security
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
 type: docs
 weight: 210
 url: /net/aspose.pdf.security/
 ---
-
+The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.
 
 ## Classes
 
@@ -19,11 +19,16 @@ url: /net/aspose.pdf.security/
 | [SignatureAlgorithmInfo](./signaturealgorithminfo/) | Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm. |
 | [TimestampAlgorithmInfo](./timestampalgorithminfo/) | Represents a class for the information about the timestamp signature algorithm. |
 | [UnknownSignatureAlgorithmInfo](./unknownsignaturealgorithminfo/) | Represents a class for the unknown signature algorithm information. |
+| [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
+| [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [CryptographicStandard](./cryptographicstandard/) | Represents the available cryptographic standards for securing PDF documents. |
 | [SignatureAlgorithmType](./signaturealgorithmtype/) | Enumerates the types of signature algorithms used for digital signatures. |
+| [ValidationMethod](./validationmethod/) | Represents an enum defined the method used for certificate validation. |
+| [ValidationMode](./validationmode/) | Specifies the validation mode for PDF signature validation processes. |
+| [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
 
 

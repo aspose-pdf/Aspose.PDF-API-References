@@ -11,7 +11,7 @@ url: /net/aspose.pdf.annotations/annotation/flatten/
 Places annotation contents directly on the page, annotation object will be removed.
 
 ```csharp
-public void Flatten()
+public virtual void Flatten()
 ```
 
 ### See Also

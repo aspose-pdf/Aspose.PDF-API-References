@@ -77,6 +77,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfAddAttachment](./organize/asposepdfaddattachment/) | Add attachment to a PDF-file. |
 | [AsposePdfGetAttachment](./organize/asposepdfgetattachment/) | Get attachment from a PDF-file. |
 | [AsposePdfReplaceText](./organize/asposepdfreplacetext/) | Replace text in a PDF-file. |
+| [AsposePdfReplaceTextPages](./organize/asposepdfreplacetextpages/) | Replace text on pages in a PDF-file. |
 | [AsposePdfFindText](./organize/asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./organize/asposepdfreplacefont/) | Replace font in a PDF-file. |
 | [AsposePdfValidatePDFA](./organize/asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |

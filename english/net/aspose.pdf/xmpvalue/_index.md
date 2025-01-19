@@ -3,7 +3,7 @@ title: Class XmpValue
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpValue class. Represents XMP value
 type: docs
-weight: 10360
+weight: 10420
 url: /net/aspose.pdf/xmpvalue/
 ---
 ## XmpValue class

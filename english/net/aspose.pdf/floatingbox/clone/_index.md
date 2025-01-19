@@ -3,7 +3,7 @@ title: FloatingBox.Clone
 second_title: Aspose.PDF for .NET API Reference
 description: FloatingBox method. Clones a new FloatingBox object. Paragraphs in the floating box are not cloned
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/floatingbox/clone/
 ---
 ## FloatingBox.Clone method

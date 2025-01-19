@@ -4,7 +4,7 @@ linktitle: get_AnnotationIndex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_AnnotationIndex method. Gets index of this anotation on the page in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.forms/field/get_annotationindex/
 ---
 ## Field::get_AnnotationIndex method

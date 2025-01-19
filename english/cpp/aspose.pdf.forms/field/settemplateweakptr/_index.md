@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::SetTemplateWeakPtr method. Set n''th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pdf.forms/field/settemplateweakptr/
 ---
 ## Field::SetTemplateWeakPtr method

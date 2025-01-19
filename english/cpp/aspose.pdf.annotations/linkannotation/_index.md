@@ -21,9 +21,9 @@ class LinkAnnotation : public Aspose::Pdf::Annotations::Annotation
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
-| [get_Action](./get_action/)() const | An action to be performed when the link annotation is activated. |
+| [get_Action](./get_action/)() | An action to be performed when the link annotation is activated. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
-| [get_Destination](./get_destination/)() const | A destination to be displayed when the annotation is activated. |
+| [get_Destination](./get_destination/)() | A destination to be displayed when the annotation is activated. |
 | [get_Highlighting](./get_highlighting/)() | The visual effect to be used when the mouse button is pressed or held down inside its active area. |
 | [LinkAnnotation](./linkannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new Link annotation on the specified page. |
 | [set_Action](./set_action/)(System::SharedPtr\<PdfAction\>) | An action to be performed when the link annotation is activated. |

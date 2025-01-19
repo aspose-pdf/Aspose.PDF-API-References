@@ -3,7 +3,7 @@ title: Field.ImportValueFromJson
 second_title: Aspose.PDF for .NET API Reference
 description: Field method. Imports data into the specified fields from a JSON stream based on an exact match of the fields full names
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}

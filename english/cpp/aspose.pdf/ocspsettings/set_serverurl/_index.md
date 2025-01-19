@@ -2,15 +2,15 @@
 title: Aspose::Pdf::OcspSettings::set_ServerUrl method
 linktitle: set_ServerUrl
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::OcspSettings::set_ServerUrl method. Gets/sets the ocsp server url in C++.'
+description: 'Aspose::Pdf::OcspSettings::set_ServerUrl method. Gets and sets the ocsp server url in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf/ocspsettings/set_serverurl/
 ---
 ## OcspSettings::set_ServerUrl method
 
 
-Gets/sets the ocsp server url.
+Gets and sets the ocsp server url.
 
 ```cpp
 void Aspose::Pdf::OcspSettings::set_ServerUrl(System::String value)

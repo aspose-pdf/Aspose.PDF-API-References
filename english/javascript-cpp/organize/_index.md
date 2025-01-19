@@ -31,6 +31,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfAddAttachment](./asposepdfaddattachment/) | Add attachment to a PDF-file. |
 | [AsposePdfGetAttachment](./asposepdfgetattachment/) | Get attachment from a PDF-file. |
 | [AsposePdfReplaceText](./asposepdfreplacetext/) | Replace text in a PDF-file. |
+| [AsposePdfReplaceTextPages](./asposepdfreplacetextpages/) | Replace text on pages in a PDF-file. |
 | [AsposePdfFindText](./asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./asposepdfreplacefont/) | Replace font in a PDF-file. |
 | [AsposePdfValidatePDFA](./asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |

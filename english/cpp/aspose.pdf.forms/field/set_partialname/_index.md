@@ -4,7 +4,7 @@ linktitle: set_PartialName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::set_PartialName method. Sets partial name of the field in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.pdf.forms/field/set_partialname/
 ---
 ## Field::set_PartialName method

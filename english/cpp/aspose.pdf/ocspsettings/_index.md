@@ -20,9 +20,11 @@ class OcspSettings : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [get_ServerUrl](./get_serverurl/)() const | Gets/sets the ocsp server url. |
+| [get_RequestTimeout](./get_requesttimeout/)() const | Gets the request timeout duration in milliseconds for the OCSP request. |
+| [get_ServerUrl](./get_serverurl/)() const | Gets and sets the ocsp server url. |
 | [OcspSettings](./ocspsettings/)(System::String) | Initializes a new instance of the [OcspSettings](./) class. |
-| [set_ServerUrl](./set_serverurl/)(System::String) | Gets/sets the ocsp server url. |
+| [set_RequestTimeout](./set_requesttimeout/)(int32_t) | Sets the request timeout duration in milliseconds for the OCSP request. |
+| [set_ServerUrl](./set_serverurl/)(System::String) | Gets and sets the ocsp server url. |
 ## See Also
 
 * Class [Object](../../system/object/)

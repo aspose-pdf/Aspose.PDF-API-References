@@ -6,7 +6,7 @@ type: docs
 weight: 150
 url: /net/aspose.pdf.forms/signature/verify/
 ---
-## Signature.Verify method
+## Verify() {#verify}
 
 Verify the document regarding this signature and return true if document is valid or otherwise false.
 
@@ -20,6 +20,33 @@ true if document is valid.
 
 ### See Also
 
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Verify(ValidationOptions, out ValidationResult) {#verify_1}
+
+Verify the document regarding this signature and return true if document is valid or otherwise false.
+
+```csharp
+public bool Verify(ValidationOptions options, out ValidationResult validationResult)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | ValidationOptions | The verification options. |
+| validationResult | ValidationResult& | The certificate validation result. |
+
+### Return Value
+
+true if document is valid.
+
+### See Also
+
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

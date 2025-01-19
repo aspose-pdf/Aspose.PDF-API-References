@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::set_BackgroundColor method. Sets a Aspose::Pdf::Color object that indicates the background color of the floating box in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf/floatingbox/set_backgroundcolor/
 ---
 ## FloatingBox::set_BackgroundColor method

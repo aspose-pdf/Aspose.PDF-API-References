@@ -3,7 +3,7 @@ title: Class Position
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.Position class. Represents a position object
 type: docs
-weight: 9550
+weight: 9610
 url: /net/aspose.pdf.text/position/
 ---
 ## Position class

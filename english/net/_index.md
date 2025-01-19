@@ -25,9 +25,9 @@ is_root: true
 | [Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/) | The **Aspose.Pdf.Multithreading** namespace provides classes that are meant to be used in multi-threaded scenarios. |
 | [Aspose.Pdf.Operators](./aspose.pdf.operators/) | The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents. |
 | [Aspose.Pdf.Optimization](./aspose.pdf.optimization/) | The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process. |
-| [Aspose.Pdf.Printing](./aspose.pdf.printing/) | The **Aspose.Pdf.Printing** is a namespace for printing operations. |
+| [Aspose.Pdf.Printing](./aspose.pdf.printing/) | The **Aspose.Pdf.Printing** namespace provides classes and functionalities for handling PDF printing operations, including printer settings, page settings, and extensions for managing print-related configurations. |
 | [Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/) | The **Aspose.Pdf.Sanitization** is a namespace for sanitization operations. |
-| [Aspose.Pdf.Security](./aspose.pdf.security/) | The **Aspose.Pdf.Security** namespace provides classes that allow the use of signatures and encryption. |
+| [Aspose.Pdf.Security](./aspose.pdf.security/) | The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing. |
 | [Aspose.Pdf.Structure](./aspose.pdf.structure/) | The **Aspose.Pdf.Structure** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose.Pdf.Tagged](./aspose.pdf.tagged/) | The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents. |
 | [Aspose.Pdf.Text](./aspose.pdf.text/) | The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that allow to extract, replace, substitute fonts of a document. |

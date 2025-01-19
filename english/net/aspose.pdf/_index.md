@@ -255,6 +255,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PageCoordinateType](./pagecoordinatetype/) | Describes page coordinate type. |
 | [PageLayout](./pagelayout/) | Descibes page layout. |
 | [PageMode](./pagemode/) | Class descibes used components of the document page. |
+| [ParagraphPositioningMode](./paragraphpositioningmode/) | Specifies variant for determining the location of the element on the page. |
 | [PasswordType](./passwordtype/) | This enum represents known password types used for password protected pdf documents. |
 | [PdfFormat](./pdfformat/) | This class represents an pdf format. |
 | [PdfVersion](./pdfversion/) | This enum represents version of pdf file. |

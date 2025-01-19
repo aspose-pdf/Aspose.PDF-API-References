@@ -3,7 +3,7 @@ title: Field.GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
 description: Field method. Returns enumerator of contained fields
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.forms/field/getenumerator/
 ---
 ## Field.GetEnumerator method

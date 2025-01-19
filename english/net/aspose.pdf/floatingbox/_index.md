@@ -39,6 +39,7 @@ public class FloatingBox : BaseParagraph
 | [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Gets or sets a outer margin for paragraph (for pdf generation) |
 | [Padding](../../aspose.pdf/floatingbox/padding/) { get; set; } | Gets or sets a [`MarginInfo`](../margininfo/) object that indicates the padding of the floating box. |
 | [Paragraphs](../../aspose.pdf/floatingbox/paragraphs/) { get; set; } | Gets or sets a [`Paragraphs`](./paragraphs/) collection that indicates all paragraphs in the cell. |
+| [PositioningMode](../../aspose.pdf/floatingbox/positioningmode/) { get; set; } | Specifies variant for determining the location of the FloatingBox on the page. |
 | [Top](../../aspose.pdf/floatingbox/top/) { get; set; } | Gets or sets the table top coordinate. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph |
 | [Width](../../aspose.pdf/floatingbox/width/) { get; set; } | Gets or sets a float value that indicates the width of the floating box. |

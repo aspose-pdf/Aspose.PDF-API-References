@@ -4,7 +4,7 @@ linktitle: set_BackgroundImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::set_BackgroundImage method. Sets background image for page (for generator only, not filled in when reading document) in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf/floatingbox/set_backgroundimage/
 ---
 ## FloatingBox::set_BackgroundImage method

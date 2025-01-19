@@ -31,7 +31,7 @@ is_root: true
 | [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) |  |
 | [Aspose::Pdf::PdfToMarkdown](./aspose.pdf.pdftomarkdown/) |  |
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) |  |
-| [Aspose::Pdf::Security](./aspose.pdf.security/) |  |
+| [Aspose::Pdf::Security](./aspose.pdf.security/) | The **[Aspose.Pdf.Security](./aspose.pdf.security/)** namespace contains classes used for encryption and digital signing. |
 | [Aspose::Pdf::Structure](./aspose.pdf.structure/) |  |
 | [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) |  |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |

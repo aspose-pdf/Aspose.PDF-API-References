@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fileattachmentannotation/get_file/
 The specification of the file associated with this annotation.
 
 ```cpp
-System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::FileAttachmentAnnotation::get_File() const
+System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::FileAttachmentAnnotation::get_File()
 ```
 
 ## See Also

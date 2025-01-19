@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundannotation/get_sounddata/
 Gets a sound object defining the sound to be played when the annotation is activated.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::SoundData> Aspose::Pdf::Annotations::SoundAnnotation::get_SoundData() const
+System::SharedPtr<Aspose::Pdf::Annotations::SoundData> Aspose::Pdf::Annotations::SoundAnnotation::get_SoundData()
 ```
 
 ## See Also

@@ -22,7 +22,7 @@ class Annotation : public Aspose::Pdf::BaseParagraph
 | --- | --- |
 | virtual [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) | Accepts visitor for annotation processing. |
 | virtual [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) | Update parameters and appearance, according to the matrix transform. |
-| [Flatten](./flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
+| virtual [Flatten](./flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [get_Actions](./get_actions/)() | Gets list of annotatation actions. |
 | virtual [get_ActiveState](./get_activestate/)() | Gets current annotation appearance state. |
 | [get_Alignment](./get_alignment/)() | [Annotation](./) alignment. This property is obsolete. Use HorizontalAligment instead. |

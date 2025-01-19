@@ -25,6 +25,7 @@ class Field : public Aspose::Pdf::Annotations::WidgetAnnotation,
 | [CopyToWidgetArray](./copytowidgetarray/)(System::ArrayPtr\<System::SharedPtr\<Aspose::Pdf::Annotations::WidgetAnnotation\>\>, int32_t) | Copies subfields of this field into array starting from specified index. |
 | [ExecuteFieldJavaScript](./executefieldjavascript/)(System::SharedPtr\<Aspose::Pdf::Annotations::JavascriptAction\>) | Executes a specified JavaScript action for the field. |
 | [Field](./field/)(System::SharedPtr\<Document\>) | Creates field for use in Generator. |
+| [Flatten](./flatten/)() override | Removes this field and place its value directly on the page. |
 | [get_AlternateName](./get_alternatename/)() | Gets alternate name of the field (An alternate field name that shall be used in place of the actual field name wherever the field shall be identified in the user interface). Alternate name is used as field tooltip in Adobe Acrobat. |
 | [get_AnnotationIndex](./get_annotationindex/)() | Gets index of this anotation on the page. |
 | [get_Count](./get_count/)() const override | Gets number of subfields in this field. (For example number of items in radio button field). |

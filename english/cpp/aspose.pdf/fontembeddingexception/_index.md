@@ -4,7 +4,7 @@ linktitle: FontEmbeddingException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::FontEmbeddingException typedef in C++.'
 type: docs
-weight: 26400
+weight: 26500
 url: /cpp/aspose.pdf/fontembeddingexception/
 ---
 ## FontEmbeddingException typedef

@@ -48,6 +48,7 @@ class Signature : public System::Object
 | [Signature](./signature/)(System::String, System::String) | Inititalizes new instance of the [Signature](./) class. |
 | [Signature](./signature/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Inititalizes new instance of the [Signature](./) class. |
 | [Verify](./verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [Verify](./verify/)(System::SharedPtr\<Aspose::Pdf::Security::ValidationOptions\>, System::SharedPtr\<Aspose::Pdf::Security::ValidationResult\>\&) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 ## See Also
 
 * Class [Object](../../system/object/)

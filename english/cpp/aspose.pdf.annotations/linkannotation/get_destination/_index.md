@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/linkannotation/get_destination/
 A destination to be displayed when the annotation is activated.
 
 ```cpp
-System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::LinkAnnotation::get_Destination() const
+System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::LinkAnnotation::get_Destination()
 ```
 
 ## See Also
