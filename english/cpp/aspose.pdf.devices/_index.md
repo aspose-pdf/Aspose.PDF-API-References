@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Devices namespace
 linktitle: Aspose::Pdf::Devices
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Devices namespace in C++.'
+description: 'Aspose::Pdf::Devices namespace. The Aspose.Pdf.Devices namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.pdf.devices/
 ---
 
-
+The **[Aspose.Pdf.Devices](./)** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation.
 
 ## Classes
 

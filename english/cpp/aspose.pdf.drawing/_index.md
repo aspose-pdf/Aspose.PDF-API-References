@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Drawing namespace
 linktitle: Aspose::Pdf::Drawing
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Drawing namespace in C++.'
+description: 'Aspose::Pdf::Drawing namespace. The Aspose.Pdf.Drawing namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.pdf.drawing/
 ---
 
-
+The **[Aspose.Pdf.Drawing](./)** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents.
 
 ## Classes
 

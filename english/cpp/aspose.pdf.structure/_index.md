@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Structure namespace
 linktitle: Aspose::Pdf::Structure
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Structure namespace in C++.'
+description: 'Aspose::Pdf::Structure namespace. The Aspose.Pdf.Structure namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.pdf.structure/
 ---
 
-
+The **[Aspose.Pdf.Structure](./)** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes.
 
 ## Classes
 

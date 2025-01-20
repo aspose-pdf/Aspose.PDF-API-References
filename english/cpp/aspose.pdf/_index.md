@@ -2,13 +2,13 @@
 title: Aspose::Pdf namespace
 linktitle: Aspose::Pdf
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf namespace in C++.'
+description: 'Aspose::Pdf namespace. The Aspose.Pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf/
 ---
 
-
+The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./) library which are either directly in it like **[Document](./document/)** or indirectly through several subnamespaces.
 
 ## Classes
 
