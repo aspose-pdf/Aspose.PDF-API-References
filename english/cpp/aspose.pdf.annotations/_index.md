@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Annotations namespace
 linktitle: Aspose::Pdf::Annotations
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Annotations namespace in C++.'
+description: 'Aspose::Pdf::Annotations namespace. The Aspose.Pdf.Annotations namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.pdf.annotations/
 ---
 
-
+The **[Aspose.Pdf.Annotations](./)** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it.
 
 ## Classes
 

@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Facades namespace
 linktitle: Aspose::Pdf::Facades
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Facades namespace in C++.'
+description: 'Aspose::Pdf::Facades namespace. The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document''s inner structure in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.pdf.facades/
 ---
 
-
+The **[Aspose.Pdf.Facades](./)** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
 
 ## Classes
 

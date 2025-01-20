@@ -2,13 +2,13 @@
 title: Aspose::Pdf::LogicalStructure namespace
 linktitle: Aspose::Pdf::LogicalStructure
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::LogicalStructure namespace in C++.'
+description: 'Aspose::Pdf::LogicalStructure namespace. The Aspose.Pdf.Tagged.LogicalStructure  is a namespace for PDF Logical Structure classes in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/
 ---
 
-
+The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Structure](../aspose.pdf.structure/) classes.
 
 ## Classes
 

@@ -14,26 +14,26 @@ is_root: true
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose::Pdf](./aspose.pdf/) |  |
-| [Aspose::Pdf::Annotations](./aspose.pdf.annotations/) |  |
+| [Aspose::Pdf](./aspose.pdf/) | The **[Aspose.Pdf](./aspose.pdf/)** is a root namespace for all classes of [Aspose.Pdf](./aspose.pdf/) library which are either directly in it like **[Document](./aspose.pdf/document/)** or indirectly through several subnamespaces. |
+| [Aspose::Pdf::Annotations](./aspose.pdf.annotations/) | The **[Aspose.Pdf.Annotations](./aspose.pdf.annotations/)** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose::Pdf::Collections](./aspose.pdf.collections/) |  |
 | [Aspose::Pdf::Comparison](./aspose.pdf.comparison/) |  |
 | [Aspose::Pdf::DataEditor](./aspose.pdf.dataeditor/) | The **[Aspose.Pdf.DataEditor](./aspose.pdf.dataeditor/)** contains tools for editing data within a document. |
-| [Aspose::Pdf::Devices](./aspose.pdf.devices/) |  |
-| [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) |  |
-| [Aspose::Pdf::Facades](./aspose.pdf.facades/) |  |
-| [Aspose::Pdf::Forms](./aspose.pdf.forms/) |  |
+| [Aspose::Pdf::Devices](./aspose.pdf.devices/) | The **[Aspose.Pdf.Devices](./aspose.pdf.devices/)** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation. |
+| [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) | The **[Aspose.Pdf.Drawing](./aspose.pdf.drawing/)** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents. |
+| [Aspose::Pdf::Facades](./aspose.pdf.facades/) | The **[Aspose.Pdf.Facades](./aspose.pdf.facades/)** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure. |
+| [Aspose::Pdf::Forms](./aspose.pdf.forms/) | The **[Aspose.Pdf.Forms](./aspose.pdf.forms/)** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc. |
 | [Aspose::Pdf::GroupProcessor](./aspose.pdf.groupprocessor/) |  |
 | [Aspose::Pdf::GroupProcessor::Creators](./aspose.pdf.groupprocessor.creators/) |  |
-| [Aspose::Pdf::LogicalStructure](./aspose.pdf.logicalstructure/) |  |
+| [Aspose::Pdf::LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Structure](./aspose.pdf.structure/) classes. |
 | [Aspose::Pdf::Multithreading](./aspose.pdf.multithreading/) | The **[Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/)** namespace provides classes that are meant to be used in multi-threaded scenarios. |
-| [Aspose::Pdf::Operators](./aspose.pdf.operators/) |  |
-| [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) |  |
+| [Aspose::Pdf::Operators](./aspose.pdf.operators/) | The **[Aspose.Pdf.Operators](./aspose.pdf.operators/)** is a namespace for [Operator](./aspose.pdf/operator/) implementations. These classes describes operators used in PDF page contents. |
+| [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) | The **[Aspose.Pdf.Optimization](./aspose.pdf.optimization/)** is a namespace for classes for managing of document optimization process. |
 | [Aspose::Pdf::PdfToMarkdown](./aspose.pdf.pdftomarkdown/) |  |
-| [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) |  |
+| [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) | The **[Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/)** is a namespace for sanitization operations. |
 | [Aspose::Pdf::Security](./aspose.pdf.security/) | The **[Aspose.Pdf.Security](./aspose.pdf.security/)** namespace contains classes used for encryption and digital signing. |
-| [Aspose::Pdf::Structure](./aspose.pdf.structure/) |  |
-| [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) |  |
+| [Aspose::Pdf::Structure](./aspose.pdf.structure/) | The **[Aspose.Pdf.Structure](./aspose.pdf.structure/)** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
+| [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) | The **[Aspose.Pdf.Tagged](./aspose.pdf.tagged/)** is a namespace for classes for support of [Tagged](./aspose.pdf.tagged/) PDF documents. |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |
 | [Aspose::Pdf::Vector](./aspose.pdf.vector/) | The **[Aspose.Pdf.Vector](./aspose.pdf.vector/)** is a root namespace for graphics operations. |
 | [Aspose::Pdf::XfaConverter](./aspose.pdf.xfaconverter/) |  |

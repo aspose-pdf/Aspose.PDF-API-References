@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Operators namespace
 linktitle: Aspose::Pdf::Operators
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Operators namespace in C++.'
+description: 'Aspose::Pdf::Operators namespace. The Aspose.Pdf.Operators is a namespace for Operator implementations. These classes describes operators used in PDF page contents in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.pdf.operators/
 ---
 
-
+The **[Aspose.Pdf.Operators](./)** is a namespace for [Operator](../aspose.pdf/operator/) implementations. These classes describes operators used in PDF page contents.
 
 ## Classes
 
