@@ -15,8 +15,8 @@ func (document *Document) PageCount() (int32, error)
 **Parameters**: 
 
 **Return**: 
-  * **error** - contains an error or nil if absent
   * **int32** - page count of the PDF-document
+  * **error** - contains an error or nil if absent
 
 
 **Example**:
@@ -32,7 +32,6 @@ func main() {
 	pdf, err := asposepdf.Open("sample.pdf")
 	if err != nil {
 		log.Fatal(err)
-
 	}
 	// PageCount() returns page count in PDF-document
 	count, err := pdf.PageCount()

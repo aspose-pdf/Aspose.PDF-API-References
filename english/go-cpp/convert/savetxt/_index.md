@@ -13,6 +13,7 @@ func (document *Document) SaveTxt(filename string) error
 ```
 
 **Parameters**: 
+  * **filename** - new filename
 
 **Return**: 
   * **error** - contains an error or nil if absent

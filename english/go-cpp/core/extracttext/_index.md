@@ -32,7 +32,6 @@ func main() {
 	pdf, err := asposepdf.Open("sample.pdf")
 	if err != nil {
 		log.Fatal(err)
-
 	}
 	// ExtractText() returns PDF-document contents as plain text
 	txt, err := pdf.ExtractText()

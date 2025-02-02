@@ -15,6 +15,7 @@ func (document *Document) PageToJpg(num int32, resolution_dpi int32, filename st
 **Parameters**: 
   * **num** - page number of the PDF-document
   * **resolution_dpi** - resolution in DPI of the resulting file
+  * **filename** - new filename
 
 **Return**: 
   * **error** - contains an error or nil if absent

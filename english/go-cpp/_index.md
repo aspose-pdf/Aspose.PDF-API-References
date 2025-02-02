@@ -70,11 +70,16 @@ type Document struct {
 | [SaveAs](./core/saveas/) | Save the previously opened PDF-document with new filename. |
 | [Close](./core/close/) | Release allocated resources for PDF-document. |
 | [SetLicense](./core/setlicense/) | Set license with filename. |
+| [ExtractText](./core/extracttext/) | Return the PDF-document contents as plain text. |
+| [WordCount](./core/wordcount/) | Return word count in PDF-document. |
+| [CharacterCount](./core/charactercount/) | Return character count in PDF-document. |
 | [PageAdd](./core/pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./core/pagedelete/) | Delete specified page in PDF-document. |
 | [PageCount](./core/pagecount/) | Return page count in PDF-document. |
-| [ExtractText](./core/extracttext/) | Return the PDF-document contents as plain text. |
+| [PageWordCount](./core/pagewordcount/) | Return word count on specified page in PDF-document. |
+| [PageCharacterCount](./core/pagecharactercount/) | Return character count on specified page in PDF-document. |
+| [PageIsBlank](./core/pageisblank/) | Return page is blank in PDF-document. |
 
 
 # Constants
