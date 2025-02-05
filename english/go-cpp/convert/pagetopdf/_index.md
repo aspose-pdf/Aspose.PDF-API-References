@@ -14,6 +14,7 @@ func (document *Document) PageToPdf(num int32, filename string) error
 
 **Parameters**: 
   * **num** - page number of the PDF-document
+  * **filename** - new filename
 
 **Return**: 
   * **error** - contains an error or nil if absent

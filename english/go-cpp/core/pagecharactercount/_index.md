@@ -1,22 +1,22 @@
 ---
-title: "PageToSvg"
+title: "PageCharacterCount"
 second_title: Aspose.PDF for Go via C++
-description: "Convert and save the specified page as Svg-image."
+description: "Return character count on specified page in PDF-document."
 type: docs
-url: /go-cpp/convert/pagetosvg/
+url: /go-cpp/core/pagecharactercount/
 ---
 
-_Convert and save the specified page as Svg-image._
+_Return character count on specified page in PDF-document._
 
 ```go
-func (document *Document) PageToSvg(num int32, filename string) error
+func (document *Document) PageCharacterCount(num int32) (int32, error)
 ```
 
 **Parameters**: 
   * **num** - page number of the PDF-document
-  * **filename** - new filename
 
 **Return**: 
+  * **int32** - character count on the page
   * **error** - contains an error or nil if absent
 
 
@@ -26,6 +26,7 @@ package main
 
 import "github.com/aspose-pdf/aspose-pdf-go-cpp"
 import "log"
+import "fmt"
 
 func main() {
 	// Open(filename string) opens a PDF-document with filename
@@ -33,11 +34,13 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// PageToSvg(num int32, filename string) saves the specified page as Svg-image file
-	err = pdf.PageToSvg(1, "sample_page1.svg")
+	// PageCharacterCount(num int32) returns character count on specified page in PDF-document.
+	page_character_count, err := pdf.PageCharacterCount(1)
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Print
+	fmt.Println("Character count on the first page:", page_character_count)
 	// Close() releases allocated resources for PDF-document
 	defer pdf.Close()
 }
