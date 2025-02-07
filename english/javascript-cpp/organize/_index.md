@@ -41,6 +41,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfDeleteWatermarks](./asposepdfdeletewatermarks/) | Delete watermarks from a PDF-file. |
 | [AsposePdfMergeLayers](./asposepdfmergelayers/) | Merge layers a PDF-file. |
 | [AsposePdfFlatten](./asposepdfflatten/) | Flatten a PDF-file. |
+| [AsposePdfMakeBooklet](./asposepdfmakebooklet/) | Make booklet from a PDF-file. |
 
 
 ## Detailed Description
