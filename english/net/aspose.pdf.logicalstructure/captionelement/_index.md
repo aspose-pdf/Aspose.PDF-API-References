@@ -3,7 +3,7 @@ title: Class CaptionElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.CaptionElement class. Represents Caption structure element in logical structure
 type: docs
-weight: 6210
+weight: 6270
 url: /net/aspose.pdf.logicalstructure/captionelement/
 ---
 ## CaptionElement class

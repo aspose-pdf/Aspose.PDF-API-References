@@ -3,7 +3,7 @@ title: Enum FieldType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FieldType enum. Enumeration of possible field types
 type: docs
-weight: 4230
+weight: 4250
 url: /net/aspose.pdf.facades/fieldtype/
 ---
 ## FieldType enumeration

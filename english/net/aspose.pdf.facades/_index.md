@@ -46,6 +46,7 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [PdfXmpMetadata](./pdfxmpmetadata/) | Class for manipulation with XMP metadata. |
 | [ReplaceTextStrategy](./replacetextstrategy/) | This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed. |
 | [SaveableFacade](./saveablefacade/) | Base class for all saveable facades. |
+| [SignatureName](./signaturename/) | Represents a class for a signature name. |
 | [Stamp](./stamp/) | Class represeting stamp. |
 | [StampInfo](./stampinfo/) | Class representing stamp information. |
 | [TextProperties](./textproperties/) | Represents text properties such as: text size, color, style etc. |

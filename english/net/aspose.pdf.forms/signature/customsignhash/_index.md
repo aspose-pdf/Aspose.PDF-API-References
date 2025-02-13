@@ -3,7 +3,7 @@ title: Signature.CustomSignHash
 second_title: Aspose.PDF for .NET API Reference
 description: Signature property. The delegate for custom sign the document hash
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.forms/signature/customsignhash/
 ---
 ## Signature.CustomSignHash property

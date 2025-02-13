@@ -6,17 +6,17 @@ type: docs
 weight: 310
 url: /net/aspose.pdf.facades/pdffilesignature/verifysignature/
 ---
-## VerifySignature(string) {#verifysignature}
+## VerifySignature(SignatureName) {#verifysignature}
 
 Checks the validity of a signature.
 
 ```csharp
-public bool VerifySignature(string signName)
+public bool VerifySignature(SignatureName signName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 
 ### Return Value
 
@@ -24,24 +24,25 @@ Return a result of bool type.
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## VerifySignature(string, ValidationOptions, out ValidationResult) {#verifysignature_1}
+## VerifySignature(SignatureName, ValidationOptions, out ValidationResult) {#verifysignature_1}
 
 Checks the validity of a signature.
 
 ```csharp
-public bool VerifySignature(string signName, ValidationOptions options, 
+public bool VerifySignature(SignatureName signName, ValidationOptions options, 
     out ValidationResult validationResult)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 | options | ValidationOptions | The verification options. |
 | validationResult | ValidationResult& | The certificate validation result. |
 
@@ -55,6 +56,7 @@ This method allows you to check the signing certificate using OCSP and/or CRL (c
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
 * class [ValidationResult](../../../aspose.pdf.security/validationresult/)
 * class [PdfFileSignature](../)

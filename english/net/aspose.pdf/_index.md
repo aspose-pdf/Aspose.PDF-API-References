@@ -85,7 +85,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ImagePlacement](./imageplacement/) | Represents characteristics of an image placed to Pdf document page. |
 | [ImagePlacementAbsorber](./imageplacementabsorber/) | Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/) collection. |
 | [ImagePlacementCollection](./imageplacementcollection/) | Represents an image placements collection |
-| [ImageStamp](./imagestamp/) | Reresents graphic stamp. |
+| [ImageStamp](./imagestamp/) | Represents a graphic stamp. |
 | [ImportOptions](./importoptions/) | ImportOptions type hold level of abstraction on individual import options. |
 | [IncorrectCMapUsageException](./incorrectcmapusageexception/) | The exception that is thrown when font usage is incorrect. |
 | [IncorrectFontUsageException](./incorrectfontusageexception/) | The exception that is thrown when font usage is incorrect. |
@@ -235,6 +235,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
 | [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash" |
 | [Direction](./direction/) | Text direction. |
+| [EmphasisStyle](./emphasisstyle/) | Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
 | [FieldSerializationStatus](./fieldserializationstatus/) | Represents the status of the form field serialization. |
@@ -242,6 +243,8 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
 | [Fixup](./fixup/) | This enum represents an type of Fixup. |
 | [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |
+| [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Represents types of header recognition strategies. |
+| [HeadingStyle](./headingstyle/) | Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings. |
 | [HorizontalAlignment](./horizontalalignment/) | Describes horizontal alignment. |
 | [HtmlDocumentType](./htmldocumenttype/) | Represents enumeration of the Html document types. |
 | [HtmlMediaType](./htmlmediatype/) | Specifies possible media types used during rendering. |
@@ -250,6 +253,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ImageFileType](./imagefiletype/) | Enumerates the image file types. |
 | [ImageFilterType](./imagefiltertype/) | Enumeration representing image filter type. |
 | [ImportFormat](./importformat/) | Specifies import format. |
+| [LineBreakStyle](./linebreakstyle/) | Represents the possible line break styles for a file. |
 | [LoadFormat](./loadformat/) | Specifies load format. |
 | [NumberingStyle](./numberingstyle/) | Enumeration of supported page numbering style for PageLabel class. |
 | [PageCoordinateType](./pagecoordinatetype/) | Describes page coordinate type. |

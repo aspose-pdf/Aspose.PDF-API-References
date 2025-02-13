@@ -3,7 +3,7 @@ title: Class ReferenceElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ReferenceElement class. Represents Reference structure element in logical structure
 type: docs
-weight: 6510
+weight: 6570
 url: /net/aspose.pdf.logicalstructure/referenceelement/
 ---
 ## ReferenceElement class

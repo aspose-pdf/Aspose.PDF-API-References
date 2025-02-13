@@ -33,6 +33,7 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 | override [Equals](../../aspose.pdf.dataeditor/cospdfboolean/equals/)(object) | Determines that the specified object is equal to the current object. |
 | override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | Get hashcode for current object. |
 | override [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/)() | Tries cast this instance to `CosPdfBoolean`. |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tries cast this instance to [`CosPdfDictionary`](../cospdfdictionary/). |
 | virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../cospdfname/). |
 | virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Tries cast this instance to [`CosPdfNumber`](../cospdfnumber/). |
 | virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Tries cast this instance to [`CosPdfString`](../cospdfstring/). |

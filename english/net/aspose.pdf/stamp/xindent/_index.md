@@ -11,7 +11,7 @@ url: /net/aspose.pdf/stamp/xindent/
 Horizontal stamp coordinate, starting from the left.
 
 ```csharp
-public double XIndent { get; set; }
+public virtual double XIndent { get; set; }
 ```
 
 ### See Also

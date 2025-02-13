@@ -3,7 +3,7 @@ title: Enum TeXLoadResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling
 type: docs
-weight: 9300
+weight: 9330
 url: /net/aspose.pdf/texloadresult/
 ---
 ## TeXLoadResult enumeration

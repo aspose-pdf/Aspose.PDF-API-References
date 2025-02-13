@@ -3,7 +3,7 @@ title: Class GradientAxialShading
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.GradientAxialShading class. Represents gradient axial shading class
 type: docs
-weight: 3900
+weight: 3910
 url: /net/aspose.pdf.drawing/gradientaxialshading/
 ---
 ## GradientAxialShading class

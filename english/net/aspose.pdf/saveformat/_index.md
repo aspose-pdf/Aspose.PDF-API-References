@@ -3,7 +3,7 @@ title: Enum SaveFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SaveFormat enum. Specifies format
 type: docs
-weight: 8850
+weight: 8870
 url: /net/aspose.pdf/saveformat/
 ---
 ## SaveFormat enumeration

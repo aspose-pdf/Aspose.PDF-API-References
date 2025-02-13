@@ -3,7 +3,7 @@ title: Class InterruptMonitor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Multithreading.InterruptMonitor class. Represents information about interruption
 type: docs
-weight: 6930
+weight: 6990
 url: /net/aspose.pdf.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class

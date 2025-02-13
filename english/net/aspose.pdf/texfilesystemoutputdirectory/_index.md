@@ -3,7 +3,7 @@ title: Class TeXFileSystemOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXFileSystemOutputDirectory class. Implements the regular file systems method for getting a file stream to write to
 type: docs
-weight: 9270
+weight: 9300
 url: /net/aspose.pdf/texfilesystemoutputdirectory/
 ---
 ## TeXFileSystemOutputDirectory class

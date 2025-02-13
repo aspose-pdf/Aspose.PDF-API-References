@@ -3,7 +3,7 @@ title: Class PdfFileSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileSignature class. Represents a class to sign a pdf file with a certificate
 type: docs
-weight: 4530
+weight: 4550
 url: /net/aspose.pdf.facades/pdffilesignature/
 ---
 ## PdfFileSignature class
@@ -43,23 +43,23 @@ public sealed class PdfFileSignature : SaveableFacade
 | override [Close](../../aspose.pdf.facades/pdffilesignature/close/)() | Closes the facade. |
 | [ContainsSignature](../../aspose.pdf.facades/pdffilesignature/containssignature/)() | Checks if the pdf has a digital signature or not. |
 | [ContainsUsageRights](../../aspose.pdf.facades/pdffilesignature/containsusagerights/)() | Checks if the pdf has a usage rights or not. |
-| [CoversWholeDocument](../../aspose.pdf.facades/pdffilesignature/coverswholedocument/)(string) | Checks if the signature covers the whole document. |
+| [CoversWholeDocument](../../aspose.pdf.facades/pdffilesignature/coverswholedocument/#coverswholedocument)(SignatureName) | Checks if the signature covers the whole document. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
-| [ExtractCertificate](../../aspose.pdf.facades/pdffilesignature/extractcertificate/)(string) | Extracts signature's single X.509 certificate as a stream. |
-| [ExtractImage](../../aspose.pdf.facades/pdffilesignature/extractimage/)(string) | Extracts signature's image. |
+| [ExtractCertificate](../../aspose.pdf.facades/pdffilesignature/extractcertificate/#extractcertificate)(SignatureName) | Extracts signature's single X.509 certificate as a stream. |
+| [ExtractImage](../../aspose.pdf.facades/pdffilesignature/extractimage/#extractimage)(SignatureName) | Extracts signature's image. |
 | [GetAccessPermissions](../../aspose.pdf.facades/pdffilesignature/getaccesspermissions/)() | Returns the access permissions value of certified document by the MDP signature type. |
-| [GetBlankSignNames](../../aspose.pdf.facades/pdffilesignature/getblanksignnames/)() | Gets the names of all empty signature fields. |
-| [GetContactInfo](../../aspose.pdf.facades/pdffilesignature/getcontactinfo/)(string) | Gets the contact information of a signature. |
-| [GetDateTime](../../aspose.pdf.facades/pdffilesignature/getdatetime/)(string) | Gets the signature's datetime. |
-| [GetLocation](../../aspose.pdf.facades/pdffilesignature/getlocation/)(string) | Gets the location of a signature. |
-| [GetReason](../../aspose.pdf.facades/pdffilesignature/getreason/)(string) | Gets the reason of a signature. |
-| [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision/)(string) | Gets the revision of a signature. |
+| [GetBlankSignatureNames](../../aspose.pdf.facades/pdffilesignature/getblanksignaturenames/)() | Gets the names of all empty signature fields. |
+| [GetContactInfo](../../aspose.pdf.facades/pdffilesignature/getcontactinfo/#getcontactinfo)(SignatureName) | Gets the contact information of a signature. |
+| [GetDateTime](../../aspose.pdf.facades/pdffilesignature/getdatetime/#getdatetime)(SignatureName) | Gets the signature's datetime. |
+| [GetLocation](../../aspose.pdf.facades/pdffilesignature/getlocation/#getlocation)(SignatureName) | Gets the location of a signature. |
+| [GetReason](../../aspose.pdf.facades/pdffilesignature/getreason/#getreason)(SignatureName) | Gets the reason of a signature. |
+| [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision/#getrevision)(SignatureName) | Gets the revision of a signature. |
+| [GetSignatureNames](../../aspose.pdf.facades/pdffilesignature/getsignaturenames/)(bool) | Gets the names of all not empty signatures. |
 | [GetSignaturesInfo](../../aspose.pdf.facades/pdffilesignature/getsignaturesinfo/)() | Retrieves information about all signatures algorithm present in the PDF document. |
-| [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername/)(string) | Gets the name of person or organization who signing the pdf document. |
-| [GetSignNames](../../aspose.pdf.facades/pdffilesignature/getsignnames/)(bool) | Gets the names of all not empty signatures. |
+| [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername/#getsignername)(SignatureName) | Gets the name of person or organization who signing the pdf document. |
 | [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision/)() | Gets the toltal revision. |
-| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature)(string) | Remove the signature according to the name of the signature. |
-| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature_1)(string, bool) | Removes the signature according to the name of the signature. |
+| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature)(SignatureName) | Remove the signature according to the name of the signature. |
+| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature_1)(SignatureName, bool) | Removes the signature according to the name of the signature. |
 | [RemoveSignatures](../../aspose.pdf.facades/pdffilesignature/removesignatures/)() | Removes all signatures. |
 | [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights/)() | Removes the usage rights entry. |
 | override [Save](../../aspose.pdf.facades/pdffilesignature/save/#save_1)(Stream) | Saves the result PDF to stream. |
@@ -71,8 +71,8 @@ public sealed class PdfFileSignature : SaveableFacade
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_1)(int, string, string, string, bool, Rectangle) | Make a signature on the pdf document. |
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_2)(int, string, string, string, bool, Rectangle, Signature) | Sign the document with the given type signature. |
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Sign the document with the given type signature which is placed in already presented signature field. Before signing pdf document should already has signature field, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter). |
-| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature)(string) | Checks the validity of a signature. |
-| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature_1)(string, ValidationOptions, out ValidationResult) | Checks the validity of a signature. |
+| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature)(SignatureName) | Checks the validity of a signature. |
+| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature_1)(SignatureName, ValidationOptions, out ValidationResult) | Checks the validity of a signature. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class TableElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableElement class. Represents Table structure element in logical structure
 type: docs
-weight: 6710
+weight: 6770
 url: /net/aspose.pdf.logicalstructure/tableelement/
 ---
 ## TableElement class

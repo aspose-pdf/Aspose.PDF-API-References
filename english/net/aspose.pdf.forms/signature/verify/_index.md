@@ -3,7 +3,7 @@ title: Signature.Verify
 second_title: Aspose.PDF for .NET API Reference
 description: Signature method. Verify the document regarding this signature and return true if document is valid or otherwise false
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.pdf.forms/signature/verify/
 ---
 ## Verify() {#verify}

@@ -3,7 +3,7 @@ title: Class NumberField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.NumberField class. Text Field with specified valid chars
 type: docs
-weight: 5100
+weight: 5130
 url: /net/aspose.pdf.forms/numberfield/
 ---
 ## NumberField class

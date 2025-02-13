@@ -11,7 +11,7 @@ url: /net/aspose.pdf/imagestamp/height/
 Gets or sets image height. Setting this image allows to scale image vertically.
 
 ```csharp
-public double Height { get; set; }
+public override double Height { get; set; }
 ```
 
 ### See Also

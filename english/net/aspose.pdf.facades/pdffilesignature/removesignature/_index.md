@@ -6,17 +6,17 @@ type: docs
 weight: 250
 url: /net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
-## RemoveSignature(string) {#removesignature}
+## RemoveSignature(SignatureName) {#removesignature}
 
 Remove the signature according to the name of the signature.
 
 ```csharp
-public void RemoveSignature(string signName)
+public void RemoveSignature(SignatureName signName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 
 ## Examples
 
@@ -25,42 +25,43 @@ public void RemoveSignature(string signName)
 string inFile = TestPath + "example1.pdf";
 PdfFileSignature pdfSign = new PdfFileSignature();
 pdfSign.BindPdf(inFile); 
-IList names = pdfSign.GetSignNames();
+IList<SignatureName> names = pdfSign.GetSignatureNames();
 for(int i = 0; i < names.Count; i++)
 {
-   pdfSign.RemoveSignature((string)names[i]);
+   pdfSign.RemoveSignature(names[i]);
 }
 pdfSign.Save(TestPath + "signed_removed.pdf");
 [Visual Basic]
 Dim pdfSign as PdfFileSignature = new PdfFileSignature
 pdfSign.BindPdf(inFile)
 Dim names as IList
-names = pdfSign.GetSignNames()
+names = pdfSign.GetSignatureNames()
 For i = 0 To names.Count
- pdfSign.RemoveSignature((string)names[i])
+ pdfSign.RemoveSignature((SignatureName)names[i])
 Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## RemoveSignature(string, bool) {#removesignature_1}
+## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
 Removes the signature according to the name of the signature.
 
 ```csharp
-public void RemoveSignature(string signName, bool removeField)
+public void RemoveSignature(SignatureName signName, bool removeField)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 | removeField | Boolean | If set to true, than removes both of signature and field from document; otherwise, signature only. |
 
 ## Examples
@@ -70,10 +71,10 @@ public void RemoveSignature(string signName, bool removeField)
 string inFile = TestPath + "example1.pdf";
 PdfFileSignature pdfSign = new PdfFileSignature();
 pdfSign.BindPdf(inFile); 
-IList names = pdfSign.GetSignNames();
+IList<SignatureName> names = pdfSign.GetSignatureNames();
 for(int i = 0; i < names.Count; i++)
 {
-   pdfSign.RemoveSignature((string)names[i], false);
+   pdfSign.RemoveSignature(names[i], false);
 }
 pdfSign.Save(TestPath + "signed_removed.pdf");
 [Visual Basic]
@@ -82,13 +83,14 @@ pdfSign.BindPdf(inFile)
 Dim names as IList
 names = pdfSign.GetSignNames()
 For i = 0 To names.Count
- pdfSign.RemoveSignature((string)names[i], false)
+ pdfSign.RemoveSignature((SignatureName)names[i], false)
 Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -16,7 +16,7 @@ public LineBreakStyle LineBreakStyle { get; set; }
 
 ### See Also
 
-* enum [LineBreakStyle](../../../aspose.pdf.pdftomarkdown/linebreakstyle/)
+* enum [LineBreakStyle](../../linebreakstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

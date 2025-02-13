@@ -3,7 +3,7 @@ title: Enum TextStamp.NoCharacterAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TextStampNoCharacterAction enum. Action to perform if font does not contain required character
 type: docs
-weight: 10010
+weight: 10040
 url: /net/aspose.pdf/textstamp.nocharacteraction/
 ---
 ## TextStamp.NoCharacterAction enumeration

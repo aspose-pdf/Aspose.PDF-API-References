@@ -3,7 +3,7 @@ title: Class CosPdfString
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DataEditor.CosPdfString class. This class represents Pdf String object
 type: docs
-weight: 3440
+weight: 3450
 url: /net/aspose.pdf.dataeditor/cospdfstring/
 ---
 ## CosPdfString class
@@ -35,6 +35,7 @@ public sealed class CosPdfString : CosPdfPrimitive
 | override [Equals](../../aspose.pdf.dataeditor/cospdfstring/equals/)(object) | Determines that the specified object is equal to the current object. |
 | override [GetHashCode](../../aspose.pdf.dataeditor/cospdfstring/gethashcode/)() | Get hashcode for current object. |
 | virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Tries cast this instance to [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tries cast this instance to [`CosPdfDictionary`](../cospdfdictionary/). |
 | virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../cospdfname/). |
 | virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Tries cast this instance to [`CosPdfNumber`](../cospdfnumber/). |
 | override [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfstring/tocospdfstring/)() | Tries cast this instance to `CosPdfString`. |

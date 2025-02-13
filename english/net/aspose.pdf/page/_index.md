@@ -3,7 +3,7 @@ title: Class Page
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Page class. Class representing page of PDF document
 type: docs
-weight: 7980
+weight: 8040
 url: /net/aspose.pdf/page/
 ---
 ## Page class

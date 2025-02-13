@@ -3,7 +3,7 @@ title: Class SetColorRenderingIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetColorRenderingIntent class. Class representing ri operator set color rendering intent
 type: docs
-weight: 7580
+weight: 7640
 url: /net/aspose.pdf.operators/setcolorrenderingintent/
 ---
 ## SetColorRenderingIntent class

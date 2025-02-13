@@ -54,4 +54,29 @@ public DictionaryEditor(Document document)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
+---
+
+## DictionaryEditor(Resources) {#constructor_2}
+
+```csharp
+public DictionaryEditor(Resources resources)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resources | Resources | Resources with a dictionary for work. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The resources are null. |
+
+### See Also
+
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
 

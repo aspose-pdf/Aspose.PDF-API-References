@@ -3,7 +3,7 @@ title: Class Metadata
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Metadata class. Provides access to XMP metadata stream
 type: docs
-weight: 6880
+weight: 6940
 url: /net/aspose.pdf/metadata/
 ---
 ## Metadata class

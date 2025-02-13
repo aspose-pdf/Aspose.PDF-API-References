@@ -11,12 +11,12 @@ url: /net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 Extracts signature's single X.509 certificate as a stream.
 
 ```csharp
-public Stream ExtractCertificate(string signName)
+public Stream ExtractCertificate(SignatureName signName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 
 ### Return Value
 
@@ -24,6 +24,7 @@ If certificate was found returns X.509 single certificate; otherwise, null.
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

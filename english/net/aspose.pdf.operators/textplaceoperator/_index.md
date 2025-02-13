@@ -3,7 +3,7 @@ title: Class TextPlaceOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.TextPlaceOperator class. Abstract base class for operators which changes text position Tm Td etc
 type: docs
-weight: 7840
+weight: 7900
 url: /net/aspose.pdf.operators/textplaceoperator/
 ---
 ## TextPlaceOperator class

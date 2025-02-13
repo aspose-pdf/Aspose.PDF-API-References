@@ -3,7 +3,7 @@ title: Enum PageMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageMode enum. Class descibes used components of the document page
 type: docs
-weight: 8120
+weight: 8180
 url: /net/aspose.pdf/pagemode/
 ---
 ## PageMode enumeration

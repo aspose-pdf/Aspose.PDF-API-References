@@ -3,7 +3,7 @@ title: Class MoveToNextLineShowText
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.MoveToNextLineShowText class. Class representing  operator move to next line and show text
 type: docs
-weight: 7450
+weight: 7510
 url: /net/aspose.pdf.operators/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText class

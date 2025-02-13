@@ -3,7 +3,7 @@ title: Signature.TimestampSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Signature property. Gets/sets timestamp settings
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.pdf.forms/signature/timestampsettings/
 ---
 ## Signature.TimestampSettings property

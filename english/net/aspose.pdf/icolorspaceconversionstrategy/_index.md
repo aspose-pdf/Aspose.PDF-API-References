@@ -3,7 +3,7 @@ title: Interface IColorSpaceConversionStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.IColorSpaceConversionStrategy interface. Interface for color space conversion strategies
 type: docs
-weight: 5700
+weight: 5750
 url: /net/aspose.pdf/icolorspaceconversionstrategy/
 ---
 ## IColorSpaceConversionStrategy interface

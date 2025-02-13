@@ -3,7 +3,7 @@ title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters class. Class for specifing page resize parameters. Allow to set the following parameters Size of result page width height in default space units or in percents of initial pages size Left Top Bottom and Right margins in default space units or in percents of initial page size Some values may be left null for automatic calculation. These values will be calculated from rest of page size after calculation explicitly specified values. For example if page width  100 and new page width specified 60 units then left and right margins are automatically calculated 100  60 / 2  15. This class is used in ResizeContents method
 type: docs
-weight: 4450
+weight: 4470
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
 ## PdfFileEditor.ContentsResizeParameters class

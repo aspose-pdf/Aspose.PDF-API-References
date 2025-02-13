@@ -3,7 +3,7 @@ title: Class Table
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Table class. Represents a table that can be added to the page
 type: docs
-weight: 9220
+weight: 9250
 url: /net/aspose.pdf/table/
 ---
 ## Table class

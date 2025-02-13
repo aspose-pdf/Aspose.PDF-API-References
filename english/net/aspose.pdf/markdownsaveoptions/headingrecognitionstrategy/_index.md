@@ -16,7 +16,7 @@ public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 
 ### See Also
 
-* enum [HeadingRecognitionStrategy](../../../aspose.pdf.pdftomarkdown/headingrecognitionstrategy/)
+* enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
 title: Class ImageStamp
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageStamp class. Reresents graphic stamp
+description: Aspose.Pdf.ImageStamp class. Represents a graphic stamp
 type: docs
-weight: 5870
+weight: 5920
 url: /net/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class
 
-Reresents graphic stamp.
+Represents a graphic stamp.
 
 ```csharp
 public sealed class ImageStamp : Stamp
@@ -28,7 +28,7 @@ public sealed class ImageStamp : Stamp
 | [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | Gets or sets Alternative Text for image stamp. |
 | [Background](../../aspose.pdf/stamp/background/) { get; set; } | Sets or gets a bool value that indicates the content is stamped as background. If the value is true, the stamp content is layed at the bottom. By defalt, the value is false, the stamp content is layed at the top. |
 | [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Gets or sets bottom margin of stamp. |
-| [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Gets or sets image height. Setting this image allows to scale image vertically. |
+| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Gets or sets image height. Setting this image allows to scale image vertically. |
 | [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Gets or sets Horizontal alignment of stamp on the page. |
 | [Image](../../aspose.pdf/imagestamp/image/) { get; } | Gets image stream used for stamping. |
 | [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Gets or sets left margin of stamp. |
@@ -41,9 +41,9 @@ public sealed class ImageStamp : Stamp
 | [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Gets or sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle. |
 | [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Gets or sets top margin of stamp. |
 | [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Gets or sets vertical alignment of stamp on page. |
-| [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | Gets or sets image width. Setting this property allos to scal image horizontally. |
-| [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | Horizontal stamp coordinate, starting from the left. |
-| [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | Vertical stamp coordinate, starting from the bottom. |
+| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | Gets or sets image width. Setting this property allos to scal image horizontally. |
+| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | Gets and sets horizontal stamp coordinate, starting from the left. |
+| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | Gets and sets vertical stamp coordinate, starting from the bottom. |
 | [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value. |
 | [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Horizontal zooming factor of the stamp. Allows to scale stamp horizontally. |
 | [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Vertical zooming factor of the stamp. Allows to scale stamp vertically. |

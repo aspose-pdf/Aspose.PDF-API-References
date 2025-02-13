@@ -3,7 +3,7 @@ title: Class TextBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.TextBoxField class. Class representing text box field
 type: docs
-weight: 5280
+weight: 5310
 url: /net/aspose.pdf.forms/textboxfield/
 ---
 ## TextBoxField class
@@ -18,10 +18,10 @@ public class TextBoxField : Field
 
 | Name | Description |
 | --- | --- |
-| [TextBoxField](textboxfield/#constructor)() | Create instance of TextBoxField. |
 | [TextBoxField](textboxfield/#constructor_1)(Document) | Constructor which should be used with Generator. |
 | [TextBoxField](textboxfield/#constructor_2)(Document, Rectangle) | Constructor of TextBox field. |
 | [TextBoxField](textboxfield/#constructor_3)(Page, Rectangle) | Constructor of TextBox field. |
+| [TextBoxField](textboxfield/#constructor_4)(Page, Rectangle[]) | Constructor of TextBox field. |
 
 ## Properties
 

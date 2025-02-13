@@ -1,14 +1,14 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.DictionaryEditor class. A class for accessing an objects dictionary
+description: Aspose.Pdf.DataEditor.DictionaryEditor class. A class for accessing an documents tree dictionary document dictionary page dictionary resources dictionary
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.pdf.dataeditor/dictionaryeditor/
 ---
 ## DictionaryEditor class
 
-A class for accessing an object's dictionary.
+A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary).
 
 ```csharp
 public class DictionaryEditor : IDictionary<string, ICosPdfPrimitive>
@@ -20,6 +20,7 @@ public class DictionaryEditor : IDictionary<string, ICosPdfPrimitive>
 | --- | --- |
 | [DictionaryEditor](dictionaryeditor/#constructor)(Document) |  |
 | [DictionaryEditor](dictionaryeditor/#constructor_1)(Page) |  |
+| [DictionaryEditor](dictionaryeditor/#constructor_2)(Resources) |  |
 
 ## Properties
 
