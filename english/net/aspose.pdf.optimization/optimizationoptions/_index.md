@@ -3,7 +3,7 @@ title: Class OptimizationOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Optimization.OptimizationOptions class. Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources method
 type: docs
-weight: 7910
+weight: 7970
 url: /net/aspose.pdf.optimization/optimizationoptions/
 ---
 ## OptimizationOptions class

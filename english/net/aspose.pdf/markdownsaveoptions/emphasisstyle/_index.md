@@ -16,7 +16,7 @@ public EmphasisStyle EmphasisStyle { get; set; }
 
 ### See Also
 
-* enum [EmphasisStyle](../../../aspose.pdf.pdftomarkdown/emphasisstyle/)
+* enum [EmphasisStyle](../../emphasisstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

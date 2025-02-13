@@ -3,7 +3,7 @@ title: Class SignatureAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.SignatureAlgorithmInfo class. Represents a class for information about a signature algorithm including its type cryptographic standard and digest hash algorithm
 type: docs
-weight: 8990
+weight: 9010
 url: /net/aspose.pdf.security/signaturealgorithminfo/
 ---
 ## SignatureAlgorithmInfo class

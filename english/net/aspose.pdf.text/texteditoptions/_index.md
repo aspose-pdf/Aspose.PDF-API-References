@@ -3,7 +3,7 @@ title: Class TextEditOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextEditOptions class. Descubes options of text edit operations
 type: docs
-weight: 9740
+weight: 9770
 url: /net/aspose.pdf.text/texteditoptions/
 ---
 ## TextEditOptions class

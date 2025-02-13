@@ -3,7 +3,7 @@ title: CosPdfPrimitive.ToCosPdfNumber
 second_title: Aspose.PDF for .NET API Reference
 description: CosPdfPrimitive method. Tries cast this instance to CosPdfNumber
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/
 ---
 ## CosPdfPrimitive.ToCosPdfNumber method

@@ -3,7 +3,7 @@ title: Class OutputIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OutputIntent class. Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which the document will be printed
 type: docs
-weight: 7960
+weight: 8020
 url: /net/aspose.pdf/outputintent/
 ---
 ## OutputIntent class

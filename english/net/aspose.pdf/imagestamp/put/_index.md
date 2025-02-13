@@ -3,7 +3,7 @@ title: ImageStamp.Put
 second_title: Aspose.PDF for .NET API Reference
 description: ImageStamp method. Adds graphic stamp on the page
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.pdf/imagestamp/put/
 ---
 ## ImageStamp.Put method

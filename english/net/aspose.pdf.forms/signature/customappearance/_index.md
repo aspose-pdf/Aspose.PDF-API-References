@@ -3,7 +3,7 @@ title: Signature.CustomAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: Signature property. Gets/sets the custom appearance
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.forms/signature/customappearance/
 ---
 ## Signature.CustomAppearance property

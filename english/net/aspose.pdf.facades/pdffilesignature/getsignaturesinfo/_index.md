@@ -3,7 +3,7 @@ title: PdfFileSignature.GetSignaturesInfo
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Retrieves information about all signatures algorithm present in the PDF document
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/
 ---
 ## PdfFileSignature.GetSignaturesInfo method

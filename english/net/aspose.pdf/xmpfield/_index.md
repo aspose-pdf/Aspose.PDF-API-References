@@ -3,7 +3,7 @@ title: Class XmpField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpField class. Represents XMP field
 type: docs
-weight: 10330
+weight: 10360
 url: /net/aspose.pdf/xmpfield/
 ---
 ## XmpField class

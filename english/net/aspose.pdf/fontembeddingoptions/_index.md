@@ -3,7 +3,7 @@ title: Class FontEmbeddingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FontEmbeddingOptions class. PDF/A standard requires that all fonts must be embedded into document. This class includes flags for cases when its not possible to embed some font cause this font is absent on destination PC
 type: docs
-weight: 4850
+weight: 4880
 url: /net/aspose.pdf/fontembeddingoptions/
 ---
 ## FontEmbeddingOptions class

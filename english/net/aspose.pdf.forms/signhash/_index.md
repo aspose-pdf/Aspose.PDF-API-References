@@ -3,7 +3,7 @@ title: Delegate SignHash
 second_title: Aspose.PDF for .NET API Reference
 description: Delegate for custom sign the document hash
 type: docs
-weight: 5220
+weight: 5250
 url: /net/aspose.pdf.forms/signhash/
 ---
 ## SignHash delegate

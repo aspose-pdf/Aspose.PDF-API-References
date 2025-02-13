@@ -3,7 +3,7 @@ title: Class Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Rectangle class. Class represents rectangle
 type: docs
-weight: 8740
+weight: 8760
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -24,6 +24,7 @@ public sealed class Rectangle : ICloneable
 
 | Name | Description |
 | --- | --- |
+| static [Empty](../../aspose.pdf/rectangle/empty/) { get; } | Empty rectangle |
 | static [Trivial](../../aspose.pdf/rectangle/trivial/) { get; } | Initializes trivial rectangle i.e. rectangle with zero position and size. |
 | [Height](../../aspose.pdf/rectangle/height/) { get; } | Height of rectangle. |
 | [IsEmpty](../../aspose.pdf/rectangle/isempty/) { get; } | Checks if rectangle is empty. |
@@ -58,12 +59,6 @@ public sealed class Rectangle : ICloneable
 | [ToPoints](../../aspose.pdf/rectangle/topoints/)() | Converts rectangle into array of points ("QuadPoints"). |
 | [ToRect](../../aspose.pdf/rectangle/torect/)() | Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated. |
 | override [ToString](../../aspose.pdf/rectangle/tostring/)() | Gets rectangle string representation. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| static [Empty](../../aspose.pdf/rectangle/empty/) | Empty rectangle |
 
 ### See Also
 

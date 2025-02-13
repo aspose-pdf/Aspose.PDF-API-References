@@ -3,7 +3,7 @@ title: Class BarcodeField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.BarcodeField class. Class represents barcode field
 type: docs
-weight: 4910
+weight: 4940
 url: /net/aspose.pdf.forms/barcodefield/
 ---
 ## BarcodeField class

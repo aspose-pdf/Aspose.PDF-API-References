@@ -3,7 +3,7 @@ title: Class SetTextLeading
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetTextLeading class. Class represenging TL operator set text leading
 type: docs
-weight: 7750
+weight: 7810
 url: /net/aspose.pdf.operators/settextleading/
 ---
 ## SetTextLeading class

@@ -3,7 +3,7 @@ title: Signature.OcspSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Signature property. Gets/sets ocsp settings
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.pdf.forms/signature/ocspsettings/
 ---
 ## Signature.OcspSettings property

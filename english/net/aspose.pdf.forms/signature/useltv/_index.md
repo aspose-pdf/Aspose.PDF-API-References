@@ -3,7 +3,7 @@ title: Signature.UseLtv
 second_title: Aspose.PDF for .NET API Reference
 description: Signature property. Gets/sets ltv validation flag
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.pdf.forms/signature/useltv/
 ---
 ## Signature.UseLtv property

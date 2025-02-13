@@ -3,7 +3,7 @@ title: Class ExportFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ExportFieldsOptions class. Represents base class of options for exporting form fields
 type: docs
-weight: 4070
+weight: 4090
 url: /net/aspose.pdf/exportfieldsoptions/
 ---
 ## ExportFieldsOptions class

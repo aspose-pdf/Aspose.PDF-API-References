@@ -11,12 +11,12 @@ url: /net/aspose.pdf.facades/pdffilesignature/extractimage/
 Extracts signature's image.
 
 ```csharp
-public Stream ExtractImage(string signName)
+public Stream ExtractImage(SignatureName signName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | String | The name of signature. |
+| signName | SignatureName | The name of signature. |
 
 ### Return Value
 
@@ -24,6 +24,7 @@ If image was successfully found than returns stream object; otherwise, null.
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

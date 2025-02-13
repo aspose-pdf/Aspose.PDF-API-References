@@ -3,7 +3,7 @@ title: Class Resources
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Resources class. Class representing page resources
 type: docs
-weight: 8760
+weight: 8780
 url: /net/aspose.pdf/resources/
 ---
 ## Resources class

@@ -3,7 +3,7 @@ title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SaveOptionsBorderPartStyle class. Represents information of one part of bordertop bottom left side or right side
 type: docs
-weight: 8880
+weight: 8900
 url: /net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class

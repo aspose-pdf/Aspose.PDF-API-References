@@ -11,7 +11,7 @@ url: /net/aspose.pdf/stamp/yindent/
 Vertical stamp coordinate, starting from the bottom.
 
 ```csharp
-public double YIndent { get; set; }
+public virtual double YIndent { get; set; }
 ```
 
 ### See Also

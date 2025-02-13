@@ -3,7 +3,7 @@ title: Class CheckboxField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.CheckboxField class. Class representing checkbox field
 type: docs
-weight: 4940
+weight: 4970
 url: /net/aspose.pdf.forms/checkboxfield/
 ---
 ## CheckboxField class
@@ -18,7 +18,6 @@ public class CheckboxField : Field
 
 | Name | Description |
 | --- | --- |
-| [CheckboxField](checkboxfield/#constructor)() | Create instance of CheckboxField. |
 | [CheckboxField](checkboxfield/#constructor_1)(Document) | Constructor to use with Generator. |
 | [CheckboxField](checkboxfield/#constructor_2)(Document, Rectangle) | Constructor for CheckboxField class. |
 | [CheckboxField](checkboxfield/#constructor_3)(Page, Rectangle) | Constructor for CheckboxField class. |

@@ -3,7 +3,7 @@ title: Signature.GetSignatureAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Signature method. Retrieves information about the signature algorithm used in the signature
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
 ## Signature.GetSignatureAlgorithmInfo method

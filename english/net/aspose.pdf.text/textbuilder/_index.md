@@ -3,7 +3,7 @@ title: Class TextBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextBuilder class. Appends text object to Pdf page
 type: docs
-weight: 9730
+weight: 9760
 url: /net/aspose.pdf.text/textbuilder/
 ---
 ## TextBuilder class

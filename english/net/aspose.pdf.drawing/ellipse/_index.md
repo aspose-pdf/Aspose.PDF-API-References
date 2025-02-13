@@ -3,7 +3,7 @@ title: Class Ellipse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Ellipse class. Represents ellipse
 type: docs
-weight: 3890
+weight: 3900
 url: /net/aspose.pdf.drawing/ellipse/
 ---
 ## Ellipse class

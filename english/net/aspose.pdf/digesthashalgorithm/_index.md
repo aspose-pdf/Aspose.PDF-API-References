@@ -3,7 +3,7 @@ title: Enum DigestHashAlgorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algorithm that maps data to a hash
 type: docs
-weight: 3700
+weight: 3710
 url: /net/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enumeration

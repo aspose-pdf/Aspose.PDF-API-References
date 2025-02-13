@@ -3,7 +3,7 @@ title: Class UnknownSignatureAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo class. Represents a class for the unknown signature algorithm information
 type: docs
-weight: 9020
+weight: 9050
 url: /net/aspose.pdf.security/unknownsignaturealgorithminfo/
 ---
 ## UnknownSignatureAlgorithmInfo class

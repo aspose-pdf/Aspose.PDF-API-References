@@ -3,7 +3,7 @@ title: Enum PaperSourceKind
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperSourceKind enum. Standard paper sources
 type: docs
-weight: 8610
+weight: 8630
 url: /net/aspose.pdf.printing/papersourcekind/
 ---
 ## PaperSourceKind enumeration

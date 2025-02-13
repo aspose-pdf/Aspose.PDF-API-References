@@ -3,7 +3,7 @@ title: Class MarkdownSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MarkdownSaveOptions class. Represents the document save option class in the markdown format
 type: docs
-weight: 6840
+weight: 6900
 url: /net/aspose.pdf/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class
@@ -30,7 +30,7 @@ public class MarkdownSaveOptions : UnifiedSaveOptions
 | [EmphasisStyle](../../aspose.pdf/markdownsaveoptions/emphasisstyle/) { get; set; } | Gets or sets the style of emphasis for generated document. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [ExtractVectorGraphics](../../aspose.pdf/markdownsaveoptions/extractvectorgraphics/) { get; set; } | Gets and sets a property indicating whether vector graphics should be extracted. |
-| [HeadingLevels](../../aspose.pdf/markdownsaveoptions/headinglevels/) { get; set; } | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition Heuristic strategy will be selected when set Auto strategies even if the document contains bookmarks. |
+| [HeadingLevels](../../aspose.pdf/markdownsaveoptions/headinglevels/) { get; set; } | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition !:PdfToMarkdown.HeadingRecognitionStrategy.Heuristic strategy will be selected when set !:PdfToMarkdown.HeadingRecognitionStrategy.Auto strategies even if the document contains bookmarks. |
 | [HeadingRecognitionStrategy](../../aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/) { get; set; } | Gets or sets the heading recognition strategy. |
 | [HeadingStyle](../../aspose.pdf/markdownsaveoptions/headingstyle/) { get; set; } | Gets or sets the heading style for generated document. |
 | [LineBreakStyle](../../aspose.pdf/markdownsaveoptions/linebreakstyle/) { get; set; } | Gets or sets the line break style for generated document. |

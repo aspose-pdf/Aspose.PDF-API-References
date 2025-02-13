@@ -3,7 +3,7 @@ title: Enum ShapeType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.ShapeType enum. This enum represents shape type for the extracted images
 type: docs
-weight: 3650
+weight: 3660
 url: /net/aspose.pdf.devices/shapetype/
 ---
 ## ShapeType enumeration

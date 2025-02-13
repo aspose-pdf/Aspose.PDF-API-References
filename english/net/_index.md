@@ -20,7 +20,6 @@ is_root: true
 | [Aspose.Pdf.Drawing](./aspose.pdf.drawing/) | The **Aspose.Pdf.Drawing** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents. |
 | [Aspose.Pdf.Facades](./aspose.pdf.facades/) | The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure. |
 | [Aspose.Pdf.Forms](./aspose.pdf.forms/) | The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc. |
-| [Aspose.Pdf.Generator](./aspose.pdf.generator/) | The **Aspose.Pdf.Generator** namespace provides classes used to add various types of content to PDF page. |
 | [Aspose.Pdf.LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.LogicalStructure** is a namespace for PDF Logical Structure classes. |
 | [Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/) | The **Aspose.Pdf.Multithreading** namespace provides classes that are meant to be used in multi-threaded scenarios. |
 | [Aspose.Pdf.Operators](./aspose.pdf.operators/) | The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents. |
