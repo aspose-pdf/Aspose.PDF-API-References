@@ -16,10 +16,18 @@ url: /go-cpp/organize/
 | [Rotate](./rotate/) | Rotate PDF-document. |
 | [SetBackground](./setbackground/) | Set PDF-document background color. |
 | [Repair](./repair/) | Repaire PDF-document. |
+| [ReplaceText](./replacetext/) | Replace text in PDF-document. |
+| [AddPageNum](./addpagenum/) | Add page number to a PDF-document. |
+| [AddTextHeader](./addtextheader/) | Add text in Header of a PDF-document. |
+| [AddTextFooter](./addtextfooter/) | Add text in Footer of a PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
 | [PageAddText](./pageaddtext/) | Add text on page. |
+| [PageReplaceText](./pagereplacetext/) | Replace text on page. |
+| [PageAddPageNum](./pageaddpagenum/) | Add page number on page. |
+| [PageAddTextHeader](./pageaddtextheader/) | Add text in page header. |
+| [PageAddTextFooter](./pageaddtextfooter/) | Add text in page footer. |
 
 
 ## Detailed Description
