@@ -4,7 +4,7 @@ linktitle: FieldSerializationStatus
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FieldSerializationStatus enum. Represents the status of the form field serialization in C++.'
 type: docs
-weight: 22200
+weight: 22300
 url: /cpp/aspose.pdf/fieldserializationstatus/
 ---
 ## FieldSerializationStatus enum

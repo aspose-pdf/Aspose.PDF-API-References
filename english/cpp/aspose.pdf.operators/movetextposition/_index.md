@@ -20,7 +20,7 @@ class MoveTextPosition : public Aspose::Pdf::Operators::TextPlaceOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_X](./get_x/)() const | X coordinate of text position. |
 | [get_Y](./get_y/)() const | Y coordinate of text position. |
 | [MoveTextPosition](./movetextposition/)(double, double) | Initializes operator. |

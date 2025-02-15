@@ -4,7 +4,7 @@ linktitle: Put
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageStamp::Put method. Adds graphic stamp on the page in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf/imagestamp/put/
 ---
 ## ImageStamp::Put method

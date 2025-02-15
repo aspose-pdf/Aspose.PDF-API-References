@@ -4,7 +4,7 @@ linktitle: PdfFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormat enum. This class represents an pdf format in C++.'
 type: docs
-weight: 24300
+weight: 24700
 url: /cpp/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enum
@@ -45,6 +45,7 @@ enum class PdfFormat
 | PDF_A_4 | 22 | PDF/A-4 format. |
 | PDF_A_4E | 23 | PDF/A-4e format. |
 | PDF_A_4F | 24 | PDF/A-4f format. |
+| PDF_X_4 | 25 | PDF/X-4 format. |
 
 ## See Also
 

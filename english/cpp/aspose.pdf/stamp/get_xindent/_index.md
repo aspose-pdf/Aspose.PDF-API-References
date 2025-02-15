@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/get_xindent/
 Horizontal stamp coordinate, starting from the left.
 
 ```cpp
-double Aspose::Pdf::Stamp::get_XIndent() const
+virtual double Aspose::Pdf::Stamp::get_XIndent()
 ```
 
 ## See Also

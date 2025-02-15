@@ -4,7 +4,7 @@ linktitle: GetSignatureAlgorithmInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::GetSignatureAlgorithmInfo method. Retrieves information about the signature algorithm used in the signature in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
 ## Signature::GetSignatureAlgorithmInfo method

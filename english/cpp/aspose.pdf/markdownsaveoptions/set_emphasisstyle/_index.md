@@ -13,12 +13,12 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_emphasisstyle/
 Sets the style of emphasis for generated document.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_EmphasisStyle(Aspose::Pdf::PdfToMarkdown::EmphasisStyle value)
+void Aspose::Pdf::MarkdownSaveOptions::set_EmphasisStyle(Aspose::Pdf::EmphasisStyle value)
 ```
 
 ## See Also
 
-* Enum [EmphasisStyle](../../../aspose.pdf.pdftomarkdown/emphasisstyle/)
+* Enum [EmphasisStyle](../../emphasisstyle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

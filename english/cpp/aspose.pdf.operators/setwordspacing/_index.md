@@ -20,7 +20,7 @@ class SetWordSpacing : public Aspose::Pdf::Operators::TextStateOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_WordSpacing](./get_wordspacing/)() const | Gets the word spacing. |
 | [set_WordSpacing](./set_wordspacing/)(double) | Sets the word spacing. |
 | [SetWordSpacing](./setwordspacing/)(double) | Initializes operator. |

@@ -4,7 +4,7 @@ linktitle: CosPdfNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfNumber class. This class represents Pdf Number type in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.dataeditor/cospdfnumber/
 ---
 ## CosPdfNumber class

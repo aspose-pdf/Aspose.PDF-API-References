@@ -20,7 +20,7 @@ class LineTo : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_X](./get_x/)() const | X coordinate of line point. |
 | [get_Y](./get_y/)() const | Y coordinate of line point. |
 | [LineTo](./lineto/)(double, double) | Initializes line operator. |

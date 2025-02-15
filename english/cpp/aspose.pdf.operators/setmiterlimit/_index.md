@@ -20,7 +20,7 @@ class SetMiterLimit : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_MiterLimit](./get_miterlimit/)() const | Gets the miter limit. |
 | [set_MiterLimit](./set_miterlimit/)(double) | Sets the miter limit. |
 | [SetMiterLimit](./setmiterlimit/)(double) | Initializes operator. |

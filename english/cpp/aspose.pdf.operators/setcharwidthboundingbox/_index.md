@@ -20,7 +20,7 @@ class SetCharWidthBoundingBox : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Llx](./get_llx/)() const | Lower-left horizontal coordinate of bounding rectangle. |
 | [get_Lly](./get_lly/)() const | Lower-left vertical coordinate of bounding rectangle. |
 | [get_Urx](./get_urx/)() const | Upper-right horizontal coordinate of bounding rectangle. |

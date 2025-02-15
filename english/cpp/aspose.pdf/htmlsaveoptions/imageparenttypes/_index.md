@@ -4,7 +4,7 @@ linktitle: ImageParentTypes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::ImageParentTypes enum. Enumerates possible types of image''s parents Image can pertain to HTML page or to SVG parent image in C++.'
 type: docs
-weight: 5400
+weight: 5600
 url: /cpp/aspose.pdf/htmlsaveoptions/imageparenttypes/
 ---
 ## ImageParentTypes enum

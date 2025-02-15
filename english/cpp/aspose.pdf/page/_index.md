@@ -22,10 +22,10 @@ class Page : public System::IDisposable,
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<Annotations::AnnotationSelector\>) | Accepts [AnnotationSelector](../) visitor object that provides functionality to work with annotations. |
-| [Accept](./accept/)(System::SharedPtr\<Text::TextFragmentAbsorber\>) | Accepts **TextFragmentAbsorber** visitor object that provides functionality to work with text objects. |
-| [Accept](./accept/)(System::SharedPtr\<ImagePlacementAbsorber\>) | Accepts [ImagePlacementAbsorber](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
-| [Accept](./accept/)(System::SharedPtr\<Text::TextAbsorber\>) | Accepts **TextAbsorber** visitor object that provides functionality to work with text objects. |
+| [Accept](./accept/)(const System::SharedPtr\<Annotations::AnnotationSelector\>\&) | Accepts [AnnotationSelector](../) visitor object that provides functionality to work with annotations. |
+| [Accept](./accept/)(const System::SharedPtr\<Text::TextFragmentAbsorber\>\&) | Accepts **TextFragmentAbsorber** visitor object that provides functionality to work with text objects. |
+| [Accept](./accept/)(const System::SharedPtr\<ImagePlacementAbsorber\>\&) | Accepts [ImagePlacementAbsorber](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
+| [Accept](./accept/)(const System::SharedPtr\<Text::TextAbsorber\>\&) | Accepts **TextAbsorber** visitor object that provides functionality to work with text objects. |
 | [AddGraphics](./addgraphics/)(System::SharedPtr\<Vector::GraphicElementCollection\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds graphics to the page. Works faster than adding elements one by one with [GraphicElement::AddOnPage(Page)](../) method. |
 | [AddImage](./addimage/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, bool) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](./addimage/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |

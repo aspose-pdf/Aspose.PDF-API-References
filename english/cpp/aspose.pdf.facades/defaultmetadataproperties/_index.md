@@ -4,7 +4,7 @@ linktitle: DefaultMetadataProperties
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DefaultMetadataProperties enum. Enumeration of standard XMP properties in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf.facades/defaultmetadataproperties/
 ---
 ## DefaultMetadataProperties enum

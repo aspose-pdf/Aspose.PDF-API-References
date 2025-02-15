@@ -20,7 +20,7 @@ class SetTextRise : public Aspose::Pdf::Operators::TextStateOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_TextRise](./get_textrise/)() const | Gets the text rise. |
 | [set_TextRise](./set_textrise/)(double) | Sets the text rise. |
 | [SetTextRise](./settextrise/)(double) | Initializes operator. |

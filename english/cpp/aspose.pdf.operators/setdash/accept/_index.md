@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setdash/accept/
 Accepts visitor object to process operator.
 
 ```cpp
-void Aspose::Pdf::Operators::SetDash::Accept(System::SharedPtr<IOperatorSelector> visitor) override
+void Aspose::Pdf::Operators::SetDash::Accept(const System::SharedPtr<IOperatorSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<IOperatorSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<IOperatorSelector\>\& | Visitor object. |
 
 ## See Also
 

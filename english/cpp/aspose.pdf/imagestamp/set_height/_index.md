@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageStamp::set_Height method. Sets image height. Setting this image allows to scale image vertically in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/aspose.pdf/imagestamp/set_height/
 ---
 ## ImageStamp::set_Height method

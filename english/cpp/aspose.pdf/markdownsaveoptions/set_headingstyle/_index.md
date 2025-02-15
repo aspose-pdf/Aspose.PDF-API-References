@@ -13,12 +13,12 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_headingstyle/
 Sets the heading style for generated document.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_HeadingStyle(Aspose::Pdf::PdfToMarkdown::HeadingStyle value)
+void Aspose::Pdf::MarkdownSaveOptions::set_HeadingStyle(Aspose::Pdf::HeadingStyle value)
 ```
 
 ## See Also
 
-* Enum [HeadingStyle](../../../aspose.pdf.pdftomarkdown/headingstyle/)
+* Enum [HeadingStyle](../../headingstyle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: CosPdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfString class. This class represents Pdf String object in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.dataeditor/cospdfstring/
 ---
 ## CosPdfString class

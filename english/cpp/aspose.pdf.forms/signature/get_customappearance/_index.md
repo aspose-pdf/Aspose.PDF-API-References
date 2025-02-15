@@ -4,7 +4,7 @@ linktitle: get_CustomAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_CustomAppearance method. Gets/sets the custom appearance in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.forms/signature/get_customappearance/
 ---
 ## Signature::get_CustomAppearance method

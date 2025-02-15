@@ -20,12 +20,12 @@ class ImagePlacementAbsorber : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [get_ImagePlacements](./get_imageplacements/)() | Gets collection of image placement occurrences that are presented with [ImagePlacement](../imageplacement/) objects. |
+| [get_ImagePlacements](./get_imageplacements/)() const | Gets collection of image placement occurrences that are presented with [ImagePlacement](../imageplacement/) objects. |
 | [get_IsReadOnlyMode](./get_isreadonlymode/)() const | Gets/sets read only mode for parsing operations collection. It may help against out of memory exceptions. |
 | [ImagePlacementAbsorber](./imageplacementabsorber/)() | Initializes new instance of the [ImagePlacementAbsorber](./) object. |
 | [set_IsReadOnlyMode](./set_isreadonlymode/)(bool) | Gets/sets read only mode for parsing operations collection. It may help against out of memory exceptions. |
-| [Visit](./visit/)(System::SharedPtr\<Page\>) | Performs search on the specified page. |
-| [Visit](./visit/)(System::SharedPtr\<Document\>) | Performs search on the specified document. |
+| [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Performs search on the specified page. |
+| [Visit](./visit/)(const System::SharedPtr\<Document\>\&) | Performs search on the specified document. |
 ## Remarks
 
 

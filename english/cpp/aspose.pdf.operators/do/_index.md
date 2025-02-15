@@ -20,7 +20,7 @@ class Do : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [Do](./do/)(System::String) | Constructs new [Do](./) operator. |
 | [Do](./do/)() | Constructs new [Do](./) operator. Used for retrieving all [Do](./) operators, i.e. without checking their argument names. |
 | [get_Name](./get_name/)() const | Name of XObject argument of the operator. |

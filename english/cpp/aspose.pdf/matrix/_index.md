@@ -35,7 +35,7 @@ class Matrix : public System::Object
 | [GetHashCode](./gethashcode/)() const override | Hash-code for object. |
 | [Matrix](./matrix/)() | Constructor creates stanrard 1 to 1 matrix: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]. |
 | [Matrix](./matrix/)(System::ArrayPtr\<double\>) | Constructor accepts a matrix with following array representation: [ A B C D E F ]. |
-| [Matrix](./matrix/)(System::Details::ArrayView\<float\>) | Constructor accepts a matrix with following array representation: [ A B C D E F ]. |
+| [Matrix](./matrix/)(const System::Details::ArrayView\<float\>\&) | Constructor accepts a matrix with following array representation: [ A B C D E F ]. |
 | [Matrix](./matrix/)(System::SharedPtr\<Matrix\>) | Constructor accepts a matrix to create a copy. |
 | [Matrix](./matrix/)(double, double, double, double, double, double) | Initializes transformation matrix with specified coefficients. |
 | [Multiply](./multiply/)(System::SharedPtr\<Matrix\>) | Multiplies the matrix by other matrix. |

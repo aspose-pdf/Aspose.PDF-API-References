@@ -20,7 +20,7 @@ class SetFlat : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Flatness](./get_flatness/)() const | Gets the flatness. |
 | [set_Flatness](./set_flatness/)(double) | Sets the flatness. |
 | [SetFlat](./setflat/)(double) | Initializes operator. |

@@ -7,19 +7,19 @@ type: docs
 weight: 1100
 url: /cpp/aspose.pdf/imageplacement/save/
 ---
-## ImagePlacement::Save(System::SharedPtr\<System::IO::Stream\>) method
+## ImagePlacement::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
 ```cpp
-void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::ImagePlacement::Save(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream where image will be saved |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where image will be saved |
 
 ## See Also
 
@@ -28,20 +28,20 @@ void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> str
 * Class [ImagePlacement](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ImagePlacement::Save(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) method
+## ImagePlacement::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) method
 
 
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
 ```cpp
-void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+void Aspose::Pdf::ImagePlacement::Save(const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<System::Drawing::Imaging::ImageFormat> &format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream where image will be saved |
-| format | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | Format which will be used for image enconding. [ImageFormat](../) |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where image will be saved |
+| format | const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\& | Format which will be used for image enconding. [ImageFormat](../) |
 
 ## See Also
 

@@ -34,8 +34,8 @@ class Stamp : public System::Object
 | [get_TopMargin](./get_topmargin/)() const | Gets top margin of stamp. |
 | [get_VerticalAlignment](./get_verticalalignment/)() const | Gets vertical alignment of stamp on page. |
 | virtual [get_Width](./get_width/)() | Desired width of the stamp on the page. |
-| [get_XIndent](./get_xindent/)() const | Horizontal stamp coordinate, starting from the left. |
-| [get_YIndent](./get_yindent/)() const | Vertical stamp coordinate, starting from the bottom. |
+| virtual [get_XIndent](./get_xindent/)() | Horizontal stamp coordinate, starting from the left. |
+| virtual [get_YIndent](./get_yindent/)() | Vertical stamp coordinate, starting from the bottom. |
 | [get_Zoom](./get_zoom/)() const | Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value. |
 | [get_ZoomX](./get_zoomx/)() const | Horizontal zooming factor of the stamp. Allows to scale stamp horizontally. |
 | [get_ZoomY](./get_zoomy/)() const | Vertical zooming factor of the stamp. Allows to scale stamp vertically. |
@@ -55,8 +55,8 @@ class Stamp : public System::Object
 | [set_TopMargin](./set_topmargin/)(double) | Sets top margin of stamp. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets vertical alignment of stamp on page. |
 | virtual [set_Width](./set_width/)(double) | Desired width of the stamp on the page. |
-| [set_XIndent](./set_xindent/)(double) | Horizontal stamp coordinate, starting from the left. |
-| [set_YIndent](./set_yindent/)(double) | Vertical stamp coordinate, starting from the bottom. |
+| virtual [set_XIndent](./set_xindent/)(double) | Horizontal stamp coordinate, starting from the left. |
+| virtual [set_YIndent](./set_yindent/)(double) | Vertical stamp coordinate, starting from the bottom. |
 | [set_Zoom](./set_zoom/)(double) | Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value. |
 | [set_ZoomX](./set_zoomx/)(double) | Horizontal zooming factor of the stamp. Allows to scale stamp horizontally. |
 | [set_ZoomY](./set_zoomy/)(double) | Vertical zooming factor of the stamp. Allows to scale stamp vertically. |

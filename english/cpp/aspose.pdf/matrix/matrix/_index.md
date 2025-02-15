@@ -21,6 +21,25 @@ Aspose::Pdf::Matrix::Matrix()
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Matrix::Matrix(const System::Details::ArrayView\<float\>\&) constructor
+
+
+Constructor accepts a matrix with following array representation: [ A B C D E F ].
+
+```cpp
+Aspose::Pdf::Matrix::Matrix(const System::Details::ArrayView<float> &matrixArray)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrixArray | const System::Details::ArrayView\<float\>\& | [Matrix](../) data array. |
+
+## See Also
+
+* Class [Matrix](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Matrix::Matrix(double, double, double, double, double, double) constructor
 
 
@@ -62,25 +81,6 @@ Aspose::Pdf::Matrix::Matrix(System::ArrayPtr<double> matrixArray)
 ## See Also
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Matrix](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Matrix::Matrix(System::Details::ArrayView\<float\>) constructor
-
-
-Constructor accepts a matrix with following array representation: [ A B C D E F ].
-
-```cpp
-Aspose::Pdf::Matrix::Matrix(System::Details::ArrayView<float> matrixArray)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrixArray | System::Details::ArrayView\<float\> | [Matrix](../) data array. |
-
-## See Also
-
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: WordWrapMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::WordWrapMode enum. Defines word wrapping strategies in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/aspose.pdf.facades/wordwrapmode/
 ---
 ## WordWrapMode enum

@@ -4,7 +4,7 @@ linktitle: Verify
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::Verify method. Verify the document regarding this signature and return true if document is valid or otherwise false in C++.'
 type: docs
-weight: 2600
+weight: 3000
 url: /cpp/aspose.pdf.forms/signature/verify/
 ---
 ## Signature::Verify() method

@@ -4,7 +4,7 @@ linktitle: SetCertificate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::SetCertificate method. Set certificate file and password for signing routine in C++.'
 type: docs
-weight: 3300
+weight: 3500
 url: /cpp/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
 ## PdfFileSignature::SetCertificate method

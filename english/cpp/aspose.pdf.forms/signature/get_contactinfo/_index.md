@@ -4,7 +4,7 @@ linktitle: get_ContactInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_ContactInfo method. Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.forms/signature/get_contactinfo/
 ---
 ## Signature::get_ContactInfo method

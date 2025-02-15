@@ -2,15 +2,15 @@
 title: Aspose::Pdf::DataEditor::DictionaryEditor class
 linktitle: DictionaryEditor
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::DataEditor::DictionaryEditor class. A class for accessing an object''s dictionary in C++.'
+description: 'Aspose::Pdf::DataEditor::DictionaryEditor class. A class for accessing an document''s tree dictionary (document dictionary, page dictionary, resources dictionary) in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf.dataeditor/dictionaryeditor/
 ---
 ## DictionaryEditor class
 
 
-A class for accessing an object's dictionary.
+A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary).
 
 ```cpp
 class DictionaryEditor : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::DataEditor::ICosPdfPrimitive>>
@@ -28,6 +28,7 @@ class DictionaryEditor : public System::Collections::Generic::IDictionary<System
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [DictionaryEditor](./) to an [Array](../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../aspose.pdf/xmpfieldtype/) index. |
 | [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Page\>) | ArgumentNullException |
 | [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Document\>) | ArgumentNullException |
+| [DictionaryEditor](./dictionaryeditor/)(System::SharedPtr\<Resources\>) | ArgumentNullException |
 | [get_AllKeys](./get_allkeys/)() const | Full collection of keys. Contains editable and not editable keys. |
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the [DictionaryEditor](./). |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the [DictionaryEditor](./) is read-only. |

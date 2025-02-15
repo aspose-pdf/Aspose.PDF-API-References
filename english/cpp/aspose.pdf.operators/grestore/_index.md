@@ -20,7 +20,7 @@ class GRestore : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [GRestore](./grestore/)() | Initializes Q operator. |
 | [ToString](./tostring/)() const override | Returns text of the operator. |
 ## See Also

@@ -4,7 +4,7 @@ linktitle: FontEncodingRules
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::FontEncodingRules enum. This enumeration defines rules which tune encoding logic in C++.'
 type: docs
-weight: 5000
+weight: 5200
 url: /cpp/aspose.pdf/htmlsaveoptions/fontencodingrules/
 ---
 ## FontEncodingRules enum

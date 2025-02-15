@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximage/rename/
 Renames image and replaces all references to the image with the new name.
 
 ```cpp
-void Aspose::Pdf::XImage::Rename(System::String name)
+void Aspose::Pdf::XImage::Rename(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | New image name. |
+| name | const System::String\& | New image name. |
 
 ## See Also
 

@@ -20,7 +20,7 @@ class ConcatenateMatrix : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [ConcatenateMatrix](./concatenatematrix/)(double, double, double, double, double, double) | Initializes operator. |
 | [ConcatenateMatrix](./concatenatematrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Initializes operator by matrix. |
 | [get_Matrix](./get_matrix/)() const | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |

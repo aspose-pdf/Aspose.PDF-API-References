@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/operator/valueequals/
 Compares this instance with the given object.
 
 ```cpp
-bool Aspose::Pdf::Operator::ValueEquals(System::SharedPtr<Operator> op)
+bool Aspose::Pdf::Operator::ValueEquals(const System::SharedPtr<Operator> &op)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| op | System::SharedPtr\<Operator\> | [Operator](../) to compare. |
+| op | const System::SharedPtr\<Operator\>\& | [Operator](../) to compare. |
 
 ### ReturnValue
 

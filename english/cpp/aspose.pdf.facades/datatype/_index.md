@@ -4,7 +4,7 @@ linktitle: DataType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DataType enum. Enumerates field types definitions in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.pdf.facades/datatype/
 ---
 ## DataType enum

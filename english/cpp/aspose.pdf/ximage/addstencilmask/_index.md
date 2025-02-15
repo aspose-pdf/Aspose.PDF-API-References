@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximage/addstencilmask/
 Adds a stencil mask to the [XImage](../).
 
 ```cpp
-void Aspose::Pdf::XImage::AddStencilMask(System::SharedPtr<System::IO::Stream> maskStream)
+void Aspose::Pdf::XImage::AddStencilMask(const System::SharedPtr<System::IO::Stream> &maskStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| maskStream | System::SharedPtr\<System::IO::Stream\> | Stencil mask bitmap stream. |
+| maskStream | const System::SharedPtr\<System::IO::Stream\>\& | Stencil mask bitmap stream. |
 
 ## See Also
 

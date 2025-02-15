@@ -20,12 +20,12 @@ class Operator : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) | Accepts visitor [IOperatorSelector](../ioperatorselector/) which provides operators processing. |
+| virtual [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) | Accepts visitor [IOperatorSelector](../ioperatorselector/) which provides operators processing. |
 | [get_Index](./get_index/)() | [Operator](./) index in page operators list. |
-| static [IsTextShowOperator](./istextshowoperator/)(System::SharedPtr\<Operator\>) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| static [IsTextShowOperator](./istextshowoperator/)(const System::SharedPtr\<Operator\>\&) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | [set_Index](./set_index/)(int32_t) | [Operator](./) index in page operators list. |
 | [ToString](./tostring/)() const override | Returns text of operator and its parameters. |
-| [ValueEquals](./valueequals/)(System::SharedPtr\<Operator\>) | Compares this instance with the given object. |
+| [ValueEquals](./valueequals/)(const System::SharedPtr\<Operator\>\&) | Compares this instance with the given object. |
 ## See Also
 
 * Class [Object](../../system/object/)

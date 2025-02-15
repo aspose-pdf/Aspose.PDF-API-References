@@ -4,7 +4,7 @@ linktitle: set_CustomSignHash
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::set_CustomSignHash method. The delegate for custom sign the document hash in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/aspose.pdf.forms/signature/set_customsignhash/
 ---
 ## Signature::set_CustomSignHash method

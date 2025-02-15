@@ -32,3 +32,8 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 | [ValidationMethod](./validationmethod/) | Represents an enum defined the method used for certificate validation. |
 | [ValidationMode](./validationmode/) | Specifies the validation mode for PDF signature validation processes. |
 | [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [SignatureLengthMismatchException](./signaturelengthmismatchexception/) |  |

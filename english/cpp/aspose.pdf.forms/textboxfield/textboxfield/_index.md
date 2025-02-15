@@ -16,8 +16,36 @@ Create instance of [TextBoxField](../).
 Aspose::Pdf::Forms::TextBoxField::TextBoxField()
 ```
 
+
+## Deprecated
+For full field functionality, a binding to the document is required - use TextBoxField(Document doc)
+
 ## See Also
 
+* Class [TextBoxField](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TextBoxField::TextBoxField(System::SharedPtr\<Aspose::Pdf::Page\>, System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>) constructor
+
+
+Constructor of TextBox field.
+
+```cpp
+Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::ArrayPtr<System::SharedPtr<Rectangle>> rects)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where text field is placed. |
+| rects | System::ArrayPtr\<System::SharedPtr\<Rectangle\>\> | Rectangles defining the placement of [TextBoxField](../) widget annotations on the page. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Page](../../../aspose.pdf/page/)
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

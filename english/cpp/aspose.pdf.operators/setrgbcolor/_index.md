@@ -20,7 +20,7 @@ class SetRGBColor : public Aspose::Pdf::Operators::SetColorOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_B](./get_b/)() const | Gets the blue component. |
 | [get_G](./get_g/)() const | Gets the green component. |
 | [get_R](./get_r/)() const | Gets the red component. |

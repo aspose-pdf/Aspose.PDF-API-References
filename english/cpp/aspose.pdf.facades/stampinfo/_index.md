@@ -4,7 +4,7 @@ linktitle: StampInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::StampInfo class. Class representing stamp information in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.pdf.facades/stampinfo/
 ---
 ## StampInfo class

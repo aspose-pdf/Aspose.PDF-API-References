@@ -4,7 +4,7 @@ linktitle: StaticCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StaticCast method. Performs static cast on non-pointer objects in C++.'
 type: docs
-weight: 39000
+weight: 39100
 url: /cpp/system/staticcast/
 ---
 ## System::StaticCast(const TFrom\&) method

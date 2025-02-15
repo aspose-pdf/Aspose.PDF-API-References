@@ -4,7 +4,7 @@ linktitle: FieldType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FieldType enum. Enumeration of possible field types in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/aspose.pdf.facades/fieldtype/
 ---
 ## FieldType enum

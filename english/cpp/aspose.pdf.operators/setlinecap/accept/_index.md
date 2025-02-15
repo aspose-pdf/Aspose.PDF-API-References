@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setlinecap/accept/
 Accepts visitor object to process operator.
 
 ```cpp
-void Aspose::Pdf::Operators::SetLineCap::Accept(System::SharedPtr<IOperatorSelector> visitor) override
+void Aspose::Pdf::Operators::SetLineCap::Accept(const System::SharedPtr<IOperatorSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<IOperatorSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<IOperatorSelector\>\& | Visitor object. |
 
 ## See Also
 

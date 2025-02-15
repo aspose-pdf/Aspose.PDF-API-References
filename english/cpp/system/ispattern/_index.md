@@ -4,7 +4,7 @@ linktitle: IsPattern
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IsPattern method. Implements ''is'' pattern translation in C++.'
 type: docs
-weight: 20400
+weight: 20500
 url: /cpp/system/ispattern/
 ---
 ## System::IsPattern method

@@ -4,7 +4,7 @@ linktitle: SubmitFormFlag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::SubmitFormFlag enum. Enumeration of possible submit form flags in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.pdf.facades/submitformflag/
 ---
 ## SubmitFormFlag enum

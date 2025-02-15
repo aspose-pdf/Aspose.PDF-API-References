@@ -20,7 +20,7 @@ class SetLineWidth : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Width](./get_width/)() const | Gets width of the line. |
 | [set_Width](./set_width/)(double) | Sets width of the line. |
 | [SetLineWidth](./setlinewidth/)(double) | Initializes operator with width value. |

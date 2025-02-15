@@ -20,7 +20,7 @@ class SetAdvancedColor : public Aspose::Pdf::Operators::BasicSetColorAndPatternO
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [getColor](./getcolor/)() override | Returns color specified by operator. |
 | [SetAdvancedColor](./setadvancedcolor/)() | Initializes operator. |
 | [SetAdvancedColor](./setadvancedcolor/)(double, System::String) | Constructor for scn operator. |

@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::Save method. Save signed pdf file. Output filename must be provided before with the help of coresponding PdfFileSignature constructor in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## PdfFileSignature::Save() method

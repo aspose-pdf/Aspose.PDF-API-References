@@ -20,7 +20,7 @@ class SetTextLeading : public Aspose::Pdf::Operators::TextStateOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Leading](./get_leading/)() const | Gets the text leading. |
 | [set_Leading](./set_leading/)(double) | Sets the text leading. |
 | [SetTextLeading](./settextleading/)(double) | Initializes text leading operator. |

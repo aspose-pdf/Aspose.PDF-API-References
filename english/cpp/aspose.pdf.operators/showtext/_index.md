@@ -20,7 +20,7 @@ class ShowText : public Aspose::Pdf::Operators::TextShowOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Text](./get_text/)() override | [Text](../../aspose.pdf.text/) of operator. |
 | [set_Text](./set_text/)(System::String) override | [Text](../../aspose.pdf.text/) of operator. |
 | [ShowText](./showtext/)(int32_t, System::String) | Initializes Tj opearor. |

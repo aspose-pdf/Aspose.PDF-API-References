@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/operator/istextshowoperator/
 Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
 
 ```cpp
-static bool Aspose::Pdf::Operator::IsTextShowOperator(System::SharedPtr<Operator> op)
+static bool Aspose::Pdf::Operator::IsTextShowOperator(const System::SharedPtr<Operator> &op)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| op | System::SharedPtr\<Operator\> | [Operator](../) object |
+| op | const System::SharedPtr\<Operator\>\& | [Operator](../) object |
 
 ### ReturnValue
 
