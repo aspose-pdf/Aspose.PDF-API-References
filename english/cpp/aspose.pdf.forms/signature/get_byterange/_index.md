@@ -4,7 +4,7 @@ linktitle: get_ByteRange
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_ByteRange method. An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.forms/signature/get_byterange/
 ---
 ## Signature::get_ByteRange method

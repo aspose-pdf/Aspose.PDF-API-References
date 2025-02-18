@@ -4,7 +4,7 @@ linktitle: Algorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Algorithm enum. Represents algorithms which can be used to encrypt pdf document in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.pdf.facades/algorithm/
 ---
 ## Algorithm enum

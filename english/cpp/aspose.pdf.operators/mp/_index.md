@@ -20,7 +20,7 @@ class MP : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Tag](./get_tag/)() const | Gets marked content tag. |
 | [MP](./mp/)(System::String) | Initializes operator. |
 | [set_Tag](./set_tag/)(System::String) | Sets marked content tag. |

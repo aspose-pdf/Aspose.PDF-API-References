@@ -20,7 +20,7 @@ class SetGray : public Aspose::Pdf::Operators::SetColorOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Gray](./get_gray/)() const | Gets the level of gray value. |
 | [getColor](./getcolor/)() override | Returns color specified by operator. |
 | [set_Gray](./set_gray/)(double) | Sets the level of gray value. |

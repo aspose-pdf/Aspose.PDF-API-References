@@ -4,7 +4,7 @@ linktitle: BoundsOutOfRangeException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::BoundsOutOfRangeException typedef in C++.'
 type: docs
-weight: 26100
+weight: 26500
 url: /cpp/aspose.pdf/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException typedef

@@ -20,7 +20,7 @@ class SetCharacterSpacing : public Aspose::Pdf::Operators::TextStateOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_CharSpacing](./get_charspacing/)() const | Gets the character spacing. |
 | [set_CharSpacing](./set_charspacing/)(double) | Sets the character spacing. |
 | [SetCharacterSpacing](./setcharacterspacing/)(double) | Initializes operator. |

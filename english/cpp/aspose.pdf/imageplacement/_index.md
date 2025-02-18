@@ -29,9 +29,9 @@ class ImagePlacement : public System::Object
 | [get_Resolution](./get_resolution/)() const | Gets resolution of the [Image](../image/). |
 | [get_Rotation](./get_rotation/)() const | Gets rotation angle of the [Image](../image/). |
 | [Hide](./hide/)() | Delete image from the page. |
-| [Replace](./replace/)(System::SharedPtr\<System::IO::Stream\>) | Replace image in collection with another image. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves image with corresponding transformations: scaling, rotation and resolution. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) | Saves image with corresponding transformations: scaling, rotation and resolution. |
+| [Replace](./replace/)(const System::SharedPtr\<System::IO::Stream\>\&) | Replace image in collection with another image. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves image with corresponding transformations: scaling, rotation and resolution. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) | Saves image with corresponding transformations: scaling, rotation and resolution. |
 ## Remarks
 
 

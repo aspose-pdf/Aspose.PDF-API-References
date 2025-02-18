@@ -20,7 +20,7 @@ class SetLineCap : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Cap](./get_cap/)() | Gets line caps style. |
 | [set_Cap](./set_cap/)(LineCap) | Sets line caps style. |
 | [SetLineCap](./setlinecap/)(LineCap) | Initializes [SetLineCap](./) operator. |

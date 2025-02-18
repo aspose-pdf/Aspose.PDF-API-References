@@ -54,10 +54,18 @@ type Document struct {
 | [Rotate](./organize/rotate/) | Rotate PDF-document. |
 | [SetBackground](./organize/setbackground/) | Set PDF-document background color. |
 | [Repair](./organize/repair/) | Repaire PDF-document. |
+| [ReplaceText](./organize/replacetext/) | Replace text in PDF-document. |
+| [AddPageNum](./organize/addpagenum/) | Add page number to a PDF-document. |
+| [AddTextHeader](./organize/addtextheader/) | Add text in Header of a PDF-document. |
+| [AddTextFooter](./organize/addtextfooter/) | Add text in Footer of a PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
 | [PageAddText](./organize/pageaddtext/) | Add text on page. |
+| [PageReplaceText](./organize/pagereplacetext/) | Replace text on page. |
+| [PageAddPageNum](./organize/pageaddpagenum/) | Add page number on page. |
+| [PageAddTextHeader](./organize/pageaddtextheader/) | Add text in page header. |
+| [PageAddTextFooter](./organize/pageaddtextfooter/) | Add text in page footer. |
 
 
 ## Core PDF functions

@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/page/accept/
 ---
-## Page::Accept(System::SharedPtr\<Annotations::AnnotationSelector\>) method
+## Page::Accept(const System::SharedPtr\<Annotations::AnnotationSelector\>\&) method
 
 
 Accepts [AnnotationSelector](../) visitor object that provides functionality to work with annotations.
 
 ```cpp
-void Aspose::Pdf::Page::Accept(System::SharedPtr<Annotations::AnnotationSelector> visitor)
+void Aspose::Pdf::Page::Accept(const System::SharedPtr<Annotations::AnnotationSelector> &visitor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<Annotations::AnnotationSelector\> | Annotation selector sobject. |
+| visitor | const System::SharedPtr\<Annotations::AnnotationSelector\>\& | Annotation selector sobject. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Page::Accept(System::SharedPtr<Annotations::AnnotationSelector
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::Accept(System::SharedPtr\<ImagePlacementAbsorber\>) method
+## Page::Accept(const System::SharedPtr\<ImagePlacementAbsorber\>\&) method
 
 
 Accepts [ImagePlacementAbsorber](../../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects.
 
 ```cpp
-void Aspose::Pdf::Page::Accept(System::SharedPtr<ImagePlacementAbsorber> visitor)
+void Aspose::Pdf::Page::Accept(const System::SharedPtr<ImagePlacementAbsorber> &visitor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<ImagePlacementAbsorber\> | [Image](../../image/) placement absorber object. |
+| visitor | const System::SharedPtr\<ImagePlacementAbsorber\>\& | [Image](../../image/) placement absorber object. |
 
 ## See Also
 
@@ -49,19 +49,19 @@ void Aspose::Pdf::Page::Accept(System::SharedPtr<ImagePlacementAbsorber> visitor
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::Accept(System::SharedPtr\<Text::TextAbsorber\>) method
+## Page::Accept(const System::SharedPtr\<Text::TextAbsorber\>\&) method
 
 
 Accepts **TextAbsorber** visitor object that provides functionality to work with text objects.
 
 ```cpp
-void Aspose::Pdf::Page::Accept(System::SharedPtr<Text::TextAbsorber> visitor)
+void Aspose::Pdf::Page::Accept(const System::SharedPtr<Text::TextAbsorber> &visitor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<Text::TextAbsorber\> | [Text](../../../aspose.pdf.text/) absorber object. |
+| visitor | const System::SharedPtr\<Text::TextAbsorber\>\& | [Text](../../../aspose.pdf.text/) absorber object. |
 
 ## See Also
 
@@ -70,19 +70,19 @@ void Aspose::Pdf::Page::Accept(System::SharedPtr<Text::TextAbsorber> visitor)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::Accept(System::SharedPtr\<Text::TextFragmentAbsorber\>) method
+## Page::Accept(const System::SharedPtr\<Text::TextFragmentAbsorber\>\&) method
 
 
 Accepts **TextFragmentAbsorber** visitor object that provides functionality to work with text objects.
 
 ```cpp
-void Aspose::Pdf::Page::Accept(System::SharedPtr<Text::TextFragmentAbsorber> visitor)
+void Aspose::Pdf::Page::Accept(const System::SharedPtr<Text::TextFragmentAbsorber> &visitor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<Text::TextFragmentAbsorber\> | [Text](../../../aspose.pdf.text/) absorber object. |
+| visitor | const System::SharedPtr\<Text::TextFragmentAbsorber\>\& | [Text](../../../aspose.pdf.text/) absorber object. |
 
 ## See Also
 

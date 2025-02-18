@@ -4,7 +4,7 @@ linktitle: PositioningMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PositioningMode enum. Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method) in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.pdf.facades/positioningmode/
 ---
 ## PositioningMode enum

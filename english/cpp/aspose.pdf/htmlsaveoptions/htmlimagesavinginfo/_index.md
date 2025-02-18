@@ -4,7 +4,7 @@ linktitle: HtmlImageSavingInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::HtmlImageSavingInfo class. This class represents set of data that related to external resource image file''s saving during PDF to HTML conversion in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/aspose.pdf/htmlsaveoptions/htmlimagesavinginfo/
 ---
 ## HtmlImageSavingInfo class

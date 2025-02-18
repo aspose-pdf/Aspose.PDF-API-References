@@ -13,12 +13,12 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_linebreakstyle/
 Sets the line break style for generated document.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_LineBreakStyle(Aspose::Pdf::PdfToMarkdown::LineBreakStyle value)
+void Aspose::Pdf::MarkdownSaveOptions::set_LineBreakStyle(Aspose::Pdf::LineBreakStyle value)
 ```
 
 ## See Also
 
-* Enum [LineBreakStyle](../../../aspose.pdf.pdftomarkdown/linebreakstyle/)
+* Enum [LineBreakStyle](../../linebreakstyle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

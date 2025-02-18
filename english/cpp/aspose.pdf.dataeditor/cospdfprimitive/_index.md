@@ -4,7 +4,7 @@ linktitle: CosPdfPrimitive
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfPrimitive class. This class represents base public type CosPdfPrimitive in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.dataeditor/cospdfprimitive/
 ---
 ## CosPdfPrimitive class
@@ -21,6 +21,7 @@ class CosPdfPrimitive : public Aspose::Pdf::DataEditor::ICosPdfPrimitive
 | Method | Description |
 | --- | --- |
 | [ToCosPdfBoolean](./tocospdfboolean/)() override | Tries cast this instance to [CosPdfBoolean](../cospdfboolean/). |
+| [ToCosPdfDictionary](./tocospdfdictionary/)() override | Tries cast this instance to [CosPdfDictionary](../cospdfdictionary/). |
 | [ToCosPdfName](./tocospdfname/)() override | Tries cast this instance to [CosPdfName](../cospdfname/). |
 | [ToCosPdfNumber](./tocospdfnumber/)() override | Tries cast this instance to [CosPdfNumber](../cospdfnumber/). |
 | [ToCosPdfString](./tocospdfstring/)() override | Tries cast this instance to [CosPdfString](../cospdfstring/). |

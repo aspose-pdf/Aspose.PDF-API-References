@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/imageplacement/replace/
 Replace image in collection with another image.
 
 ```cpp
-void Aspose::Pdf::ImagePlacement::Replace(System::SharedPtr<System::IO::Stream> image)
+void Aspose::Pdf::ImagePlacement::Replace(const System::SharedPtr<System::IO::Stream> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | Stream containing image data. |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing image data. |
 
 ## See Also
 

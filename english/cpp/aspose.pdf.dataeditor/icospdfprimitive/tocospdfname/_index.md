@@ -4,7 +4,7 @@ linktitle: ToCosPdfName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::ICosPdfPrimitive::ToCosPdfName method. Tries cast this instance to CosPdfName in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/
 ---
 ## ICosPdfPrimitive::ToCosPdfName method

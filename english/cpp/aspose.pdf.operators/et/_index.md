@@ -20,7 +20,7 @@ class ET : public Aspose::Pdf::Operators::BlockTextOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [ET](./et/)() | Initializes operator. |
 | [ToString](./tostring/)() const override | Produces text code of operator. |
 ## See Also

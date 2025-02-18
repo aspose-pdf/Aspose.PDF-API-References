@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_yindent/
 Vertical stamp coordinate, starting from the bottom.
 
 ```cpp
-void Aspose::Pdf::Stamp::set_YIndent(double value)
+virtual void Aspose::Pdf::Stamp::set_YIndent(double value)
 ```
 
 ## See Also

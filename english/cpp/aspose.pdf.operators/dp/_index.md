@@ -20,7 +20,7 @@ class DP : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [DP](./dp/)(System::String) | Initializes operator. |
 | [get_Tag](./get_tag/)() const | Gets marked content tag. |
 | [set_Tag](./set_tag/)(System::String) | Sets marked content tag. |

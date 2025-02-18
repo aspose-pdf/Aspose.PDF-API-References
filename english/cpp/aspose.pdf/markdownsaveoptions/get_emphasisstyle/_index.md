@@ -13,12 +13,12 @@ url: /cpp/aspose.pdf/markdownsaveoptions/get_emphasisstyle/
 Gets the style of emphasis for generated document.
 
 ```cpp
-Aspose::Pdf::PdfToMarkdown::EmphasisStyle Aspose::Pdf::MarkdownSaveOptions::get_EmphasisStyle() const
+Aspose::Pdf::EmphasisStyle Aspose::Pdf::MarkdownSaveOptions::get_EmphasisStyle() const
 ```
 
 ## See Also
 
-* Enum [EmphasisStyle](../../../aspose.pdf.pdftomarkdown/emphasisstyle/)
+* Enum [EmphasisStyle](../../emphasisstyle/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

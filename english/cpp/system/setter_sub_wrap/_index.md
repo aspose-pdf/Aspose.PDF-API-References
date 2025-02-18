@@ -4,7 +4,7 @@ linktitle: setter_sub_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_sub_wrap method of  class in C++.'
 type: docs
-weight: 38300
+weight: 38400
 url: /cpp/system/setter_sub_wrap/
 ---
 ## System::setter_sub_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

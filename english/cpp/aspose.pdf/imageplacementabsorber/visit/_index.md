@@ -7,19 +7,19 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf/imageplacementabsorber/visit/
 ---
-## ImagePlacementAbsorber::Visit(System::SharedPtr\<Document\>) method
+## ImagePlacementAbsorber::Visit(const System::SharedPtr\<Document\>\&) method
 
 
 Performs search on the specified document.
 
 ```cpp
-void Aspose::Pdf::ImagePlacementAbsorber::Visit(System::SharedPtr<Document> pdf)
+void Aspose::Pdf::ImagePlacementAbsorber::Visit(const System::SharedPtr<Document> &pdf)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf | System::SharedPtr\<Document\> | [Pdf](../../) pocument object. |
+| pdf | const System::SharedPtr\<Document\>\& | [Pdf](../../) pocument object. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::ImagePlacementAbsorber::Visit(System::SharedPtr<Document> pdf)
 * Class [ImagePlacementAbsorber](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ImagePlacementAbsorber::Visit(System::SharedPtr\<Page\>) method
+## ImagePlacementAbsorber::Visit(const System::SharedPtr\<Page\>\&) method
 
 
 Performs search on the specified page.
 
 ```cpp
-void Aspose::Pdf::ImagePlacementAbsorber::Visit(System::SharedPtr<Page> page)
+void Aspose::Pdf::ImagePlacementAbsorber::Visit(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../) pocument page object. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../) pocument page object. |
 
 ## See Also
 

@@ -20,7 +20,7 @@ class SetGlyphsPositionShowText : public Aspose::Pdf::Operators::TextShowOperato
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_GlyphPositions](./get_glyphpositions/)() const | Returns positions of glyphs. |
 | [get_Text](./get_text/)() override | Gets text from operator argument (glyph positioning is ignored). |
 | [SetGlyphsPositionShowText](./setglyphspositionshowtext/)(System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GlyphPosition\>\>\>) | Constructor for TJ operator. |

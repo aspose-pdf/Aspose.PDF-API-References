@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::set_Title method. Sets HTML page title in C++.'
 type: docs
-weight: 4200
+weight: 4400
 url: /cpp/aspose.pdf/htmlsaveoptions/set_title/
 ---
 ## HtmlSaveOptions::set_Title method

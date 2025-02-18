@@ -4,7 +4,7 @@ linktitle: KeySize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::KeySize enum. Defines different key sizes which can be used to encrypt pdf documents in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/aspose.pdf.facades/keysize/
 ---
 ## KeySize enum

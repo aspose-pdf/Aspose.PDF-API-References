@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/curveto/accept/
 Accepts visitor object to process operator.
 
 ```cpp
-void Aspose::Pdf::Operators::CurveTo::Accept(System::SharedPtr<IOperatorSelector> visitor) override
+void Aspose::Pdf::Operators::CurveTo::Accept(const System::SharedPtr<IOperatorSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<IOperatorSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<IOperatorSelector\>\& | Visitor object. |
 
 ## See Also
 

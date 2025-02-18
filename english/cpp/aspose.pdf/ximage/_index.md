@@ -20,8 +20,8 @@ class XImage : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [AddStencilMask](./addstencilmask/)(System::SharedPtr\<System::IO::Stream\>) | Adds a stencil mask to the [XImage](./). |
-| static [DetectColorType](./detectcolortype/)(System::SharedPtr\<System::Drawing::Bitmap\>) | Returns color type of image. |
+| [AddStencilMask](./addstencilmask/)(const System::SharedPtr\<System::IO::Stream\>\&) | Adds a stencil mask to the [XImage](./). |
+| static [DetectColorType](./detectcolortype/)(const System::SharedPtr\<System::Drawing::Bitmap\>\&) | Returns color type of image. |
 | [get_ContainsTransparency](./get_containstransparency/)() | If the image contains transparancy than return true; otherwise, false. |
 | [get_FilterType](./get_filtertype/)() | Gets image filter type. |
 | [get_Grayscaled](./get_grayscaled/)() | Gets grayscaled version of image. |
@@ -34,11 +34,11 @@ class XImage : public System::Object
 | [GetNameInCollection](./getnameincollection/)() | Returns the name of the image in its collection. |
 | [GetRawImageData](./getrawimagedata/)() | Retrieves the raw image data from the source image. |
 | [IsTheSameObject](./isthesameobject/)(System::SharedPtr\<Aspose::Pdf::XImage\>) | Returns true if both images references to the same object. |
-| [Rename](./rename/)(System::String) | Renames image and replaces all references to the image with the new name. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves image data into stream as JPEG image. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) | Saves image into stream with requested format. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, int32_t) | Saves image data into stream as JPEG image with specified resolution. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>, int32_t) | Saves image into stream with requested format with specified resolution. |
+| [Rename](./rename/)(const System::String\&) | Renames image and replaces all references to the image with the new name. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves image data into stream as JPEG image. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) | Saves image into stream with requested format. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, int32_t) | Saves image data into stream as JPEG image with specified resolution. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&, int32_t) | Saves image into stream with requested format with specified resolution. |
 | [set_Name](./set_name/)(System::String) | Sets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use [XImage.Rename](./rename/) method in this case. |
 | [ToStream](./tostream/)() | Returns the original image stream. |
 ## See Also

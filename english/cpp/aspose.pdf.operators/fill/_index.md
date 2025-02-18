@@ -20,7 +20,7 @@ class Fill : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [Fill](./fill/)() | Initilizes new f operator. |
 | [ToString](./tostring/)() const override | Returns text representation of operator. |
 ## See Also

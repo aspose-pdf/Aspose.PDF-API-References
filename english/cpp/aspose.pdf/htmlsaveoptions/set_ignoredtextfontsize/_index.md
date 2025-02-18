@@ -4,7 +4,7 @@ linktitle: set_IgnoredTextFontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::set_IgnoredTextFontSize method. Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfer it to the output file in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.pdf/htmlsaveoptions/set_ignoredtextfontsize/
 ---
 ## HtmlSaveOptions::set_IgnoredTextFontSize method

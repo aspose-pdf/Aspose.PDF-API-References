@@ -20,7 +20,7 @@ class SetTextMatrix : public Aspose::Pdf::Operators::TextPlaceOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Matrix](./get_matrix/)() const | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |
 | [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |
 | [SetTextMatrix](./settextmatrix/)(double, double, double, double, double, double) | Initializes operator. |

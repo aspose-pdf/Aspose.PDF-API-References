@@ -20,7 +20,7 @@ class Re : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Height](./get_height/)() const | Height of the rectangle. |
 | [get_Width](./get_width/)() const | Width of the rectangle. |
 | [get_X](./get_x/)() const | X coordinate of most left side of rectangle. |

@@ -4,7 +4,7 @@ linktitle: LicenseState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LicenseState enum. Represents possible license states in C++.'
 type: docs
-weight: 23500
+weight: 23800
 url: /cpp/aspose.pdf/licensestate/
 ---
 ## LicenseState enum

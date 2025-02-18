@@ -20,7 +20,7 @@ class SetHorizontalTextScaling : public Aspose::Pdf::Operators::TextStateOperato
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_HorizontalScaling](./get_horizontalscaling/)() const | Gets the horizontal scaling. |
 | [set_HorizontalScaling](./set_horizontalscaling/)(double) | Sets the horizontal scaling. |
 | [SetHorizontalTextScaling](./sethorizontaltextscaling/)(double) | Initializes operator. |

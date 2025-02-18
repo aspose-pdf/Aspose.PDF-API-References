@@ -20,7 +20,7 @@ class SetAdvancedColorStroke : public Aspose::Pdf::Operators::BasicSetColorAndPa
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [getColor](./getcolor/)() override | Returns color specified by operator. |
 | [SetAdvancedColorStroke](./setadvancedcolorstroke/)() | Initializes operator. |
 | [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double) | Constructor for scn operator. |

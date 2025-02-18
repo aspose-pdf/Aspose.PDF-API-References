@@ -4,7 +4,7 @@ linktitle: set_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageStamp::set_Width method. Sets image width. Setting this property allos to scal image horizontally in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf/imagestamp/set_width/
 ---
 ## ImageStamp::set_Width method

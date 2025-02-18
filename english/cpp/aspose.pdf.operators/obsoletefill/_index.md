@@ -20,7 +20,7 @@ class ObsoleteFill : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [ObsoleteFill](./obsoletefill/)() | Initializes operator. |
 ## See Also
 

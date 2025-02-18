@@ -4,7 +4,7 @@ linktitle: CssUrlRequestInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::CssUrlRequestInfo class. Represents set of data that related to request from converter to custom code aimed to get desirable URL (or URL template)of subject CSS in C++.'
 type: docs
-weight: 5900
+weight: 6100
 url: /cpp/aspose.pdf/htmlsaveoptions/cssurlrequestinfo/
 ---
 ## CssUrlRequestInfo class

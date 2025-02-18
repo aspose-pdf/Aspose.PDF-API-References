@@ -4,7 +4,7 @@ linktitle: GetSignaturesInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetSignaturesInfo method. Retrieves information about all signatures algorithm present in the PDF document in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/
 ---
 ## PdfFileSignature::GetSignaturesInfo method

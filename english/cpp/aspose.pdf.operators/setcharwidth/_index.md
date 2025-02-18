@@ -20,7 +20,7 @@ class SetCharWidth : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Wx](./get_wx/)() const | Horizontal displacement of glyph coordinate. |
 | [get_Wy](./get_wy/)() const | Vertical displacement of glyph coordinate. |
 | [SetCharWidth](./setcharwidth/)(double, double) | Constructor. |

@@ -20,7 +20,7 @@ class ClosePathEOFillStroke : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [ClosePathEOFillStroke](./closepatheofillstroke/)() | Initializes operator. |
 | [ToString](./tostring/)() const override | Returns text representation of operator. |
 ## See Also

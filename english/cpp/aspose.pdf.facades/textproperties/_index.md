@@ -4,7 +4,7 @@ linktitle: TextProperties
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::TextProperties class. Represents text properties such as: text size, color, style etc in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf.facades/textproperties/
 ---
 ## TextProperties class

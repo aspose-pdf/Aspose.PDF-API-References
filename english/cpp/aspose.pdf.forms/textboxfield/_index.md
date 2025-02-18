@@ -39,6 +39,7 @@ class TextBoxField : public Aspose::Pdf::Forms::Field
 | [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>) | Constructor which should be used with Generator. |
 | [TextBoxField](./textboxfield/)() | Create instance of [TextBoxField](./). |
 | [TextBoxField](./textboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |
+| [TextBoxField](./textboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>) | Constructor of TextBox field. |
 | [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |
 ## See Also
 

@@ -15,11 +15,3 @@ url: /cpp/aspose.pdf.pdftomarkdown/
 | Class | Description |
 | --- | --- |
 | [HeadingLevels](./headinglevels/) | Represents a class to work with header levels based on font size. |
-## Enums
-
-| Enum | Description |
-| --- | --- |
-| [EmphasisStyle](./emphasisstyle/) | Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis. |
-| [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Represents types of header recognition strategies. |
-| [HeadingStyle](./headingstyle/) | Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings. |
-| [LineBreakStyle](./linebreakstyle/) | Represents the possible line break styles for a file. |

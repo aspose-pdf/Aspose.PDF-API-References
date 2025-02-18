@@ -4,7 +4,7 @@ linktitle: get_ShowProperties
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_ShowProperties method. Force to show/hide signature properties in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf.forms/signature/get_showproperties/
 ---
 ## Signature::get_ShowProperties method

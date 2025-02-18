@@ -4,7 +4,7 @@ linktitle: StaticCastArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StaticCastArray method. Performs casting of elements of the specified array to different type. Override for cases then From is SmartPtr obj in C++.'
 type: docs
-weight: 40300
+weight: 40400
 url: /cpp/system/staticcastarray/
 ---
 ## System::StaticCastArray(const System::SharedPtr\<System::Array\<From\>\>\&) method

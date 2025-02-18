@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/ioperatorselector/visit/
 ---
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::BDC\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::BDC\>\&) method
 
 
 Visit/select BDC operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::BDC> BDC)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::BDC> &BDC)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| BDC | System::SharedPtr\<Operators::BDC\> | Begin marked-content sequence operator (with property list). |
+| BDC | const System::SharedPtr\<Operators::BDC\>\& | Begin marked-content sequence operator (with property list). |
 
 ## See Also
 
@@ -28,19 +28,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::BI\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::BI\>\&) method
 
 
 Visit/select BI operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::BI> BI)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::BI> &BI)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| BI | System::SharedPtr\<Operators::BI\> | Begin inline image object operator. |
+| BI | const System::SharedPtr\<Operators::BI\>\& | Begin inline image object operator. |
 
 ## See Also
 
@@ -49,19 +49,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::BMC\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::BMC\>\&) method
 
 
 Visit/select BMC operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::BMC> BMC)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::BMC> &BMC)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| BMC | System::SharedPtr\<Operators::BMC\> | Begin marked-content sequence operator. |
+| BMC | const System::SharedPtr\<Operators::BMC\>\& | Begin marked-content sequence operator. |
 
 ## See Also
 
@@ -70,19 +70,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::BT\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::BT\>\&) method
 
 
 Visit/select BT operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::BT> BT)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::BT> &BT)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| BT | System::SharedPtr\<Operators::BT\> | Begin text object operator. |
+| BT | const System::SharedPtr\<Operators::BT\>\& | Begin text object operator. |
 
 ## See Also
 
@@ -91,19 +91,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::BX\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::BX\>\&) method
 
 
 Visit/select BX operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::BX> BX)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::BX> &BX)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| BX | System::SharedPtr\<Operators::BX\> | Begin compatibility section operator. |
+| BX | const System::SharedPtr\<Operators::BX\>\& | Begin compatibility section operator. |
 
 ## See Also
 
@@ -112,19 +112,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::Clip\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::Clip\>\&) method
 
 
 Visit/select W operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::Clip> W)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::Clip> &W)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| W | System::SharedPtr\<Operators::Clip\> | Set clipping path operator (nonzero winding number rule). |
+| W | const System::SharedPtr\<Operators::Clip\>\& | Set clipping path operator (nonzero winding number rule). |
 
 ## See Also
 
@@ -133,19 +133,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ClosePath\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ClosePath\>\&) method
 
 
 Visit/select h operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ClosePath> h)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ClosePath> &h)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| h | System::SharedPtr\<Operators::ClosePath\> | Close subpath operator. |
+| h | const System::SharedPtr\<Operators::ClosePath\>\& | Close subpath operator. |
 
 ## See Also
 
@@ -154,19 +154,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ClosePathEOFillStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ClosePathEOFillStroke\>\&) method
 
 
 Visit/select b* operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ClosePathEOFillStroke> b_)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ClosePathEOFillStroke> &b_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| b_ | System::SharedPtr\<Operators::ClosePathEOFillStroke\> | Close, fill, and stroke path operator (even-odd rule). |
+| b_ | const System::SharedPtr\<Operators::ClosePathEOFillStroke\>\& | Close, fill, and stroke path operator (even-odd rule). |
 
 ## See Also
 
@@ -175,19 +175,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ClosePathFillStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ClosePathFillStroke\>\&) method
 
 
 Visit/select b operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ClosePathFillStroke> b)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ClosePathFillStroke> &b)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| b | System::SharedPtr\<Operators::ClosePathFillStroke\> | Close, fill, and stroke path operator (nonzero winding number rule). |
+| b | const System::SharedPtr\<Operators::ClosePathFillStroke\>\& | Close, fill, and stroke path operator (nonzero winding number rule). |
 
 ## See Also
 
@@ -196,19 +196,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ClosePathStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ClosePathStroke\>\&) method
 
 
 Visit/select s operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ClosePathStroke> s)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ClosePathStroke> &s)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| s | System::SharedPtr\<Operators::ClosePathStroke\> | Close and stroke path operator. |
+| s | const System::SharedPtr\<Operators::ClosePathStroke\>\& | Close and stroke path operator. |
 
 ## See Also
 
@@ -217,19 +217,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ConcatenateMatrix\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ConcatenateMatrix\>\&) method
 
 
 Visit/select cm operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ConcatenateMatrix> cm)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ConcatenateMatrix> &cm)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cm | System::SharedPtr\<Operators::ConcatenateMatrix\> | Concatenate matrix to current transformation matrix operator. |
+| cm | const System::SharedPtr\<Operators::ConcatenateMatrix\>\& | Concatenate matrix to current transformation matrix operator. |
 
 ## See Also
 
@@ -238,19 +238,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::CurveTo\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::CurveTo\>\&) method
 
 
 Visit/select c operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::CurveTo> c)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::CurveTo> &c)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | System::SharedPtr\<Operators::CurveTo\> | Append curved segment to path operator (three control points). |
+| c | const System::SharedPtr\<Operators::CurveTo\>\& | Append curved segment to path operator (three control points). |
 
 ## See Also
 
@@ -259,19 +259,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::CurveTo1\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::CurveTo1\>\&) method
 
 
 Visit/select v operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::CurveTo1> v)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::CurveTo1> &v)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| v | System::SharedPtr\<Operators::CurveTo1\> | Append curved segment to path operator (initial point replicated). |
+| v | const System::SharedPtr\<Operators::CurveTo1\>\& | Append curved segment to path operator (initial point replicated). |
 
 ## See Also
 
@@ -280,19 +280,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::CurveTo2\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::CurveTo2\>\&) method
 
 
 Visit/select y operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::CurveTo2> y)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::CurveTo2> &y)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| y | System::SharedPtr\<Operators::CurveTo2\> | Append curved segment to path operator (final point replicated). |
+| y | const System::SharedPtr\<Operators::CurveTo2\>\& | Append curved segment to path operator (final point replicated). |
 
 ## See Also
 
@@ -301,19 +301,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::Do\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::Do\>\&) method
 
 
 Visit/select Do operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::Do> Do)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::Do> &Do)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Do | System::SharedPtr\<Operators::Do\> | Invoke named XObject operator. |
+| Do | const System::SharedPtr\<Operators::Do\>\& | Invoke named XObject operator. |
 
 ## See Also
 
@@ -322,19 +322,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::DP\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::DP\>\&) method
 
 
 Visit/select DP operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::DP> DP)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::DP> &DP)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| DP | System::SharedPtr\<Operators::DP\> | Define marked-content point operator (with property list). |
+| DP | const System::SharedPtr\<Operators::DP\>\& | Define marked-content point operator (with property list). |
 
 ## See Also
 
@@ -343,19 +343,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EI\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EI\>\&) method
 
 
 Visit/select EI operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EI> EI)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EI> &EI)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| EI | System::SharedPtr\<Operators::EI\> | End inline image object operator. |
+| EI | const System::SharedPtr\<Operators::EI\>\& | End inline image object operator. |
 
 ## See Also
 
@@ -364,19 +364,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EMC\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EMC\>\&) method
 
 
 Visit/select EMC operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EMC> EMC)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EMC> &EMC)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| EMC | System::SharedPtr\<Operators::EMC\> | End marked-content sequence operator. |
+| EMC | const System::SharedPtr\<Operators::EMC\>\& | End marked-content sequence operator. |
 
 ## See Also
 
@@ -385,19 +385,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EndPath\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EndPath\>\&) method
 
 
 Visit/select n operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EndPath> n)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EndPath> &n)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| n | System::SharedPtr\<Operators::EndPath\> | End path operator (without filling or stroking). |
+| n | const System::SharedPtr\<Operators::EndPath\>\& | End path operator (without filling or stroking). |
 
 ## See Also
 
@@ -406,19 +406,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EOClip\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EOClip\>\&) method
 
 
 Visit/select W* operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EOClip> W_)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EOClip> &W_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| W_ | System::SharedPtr\<Operators::EOClip\> | Set clipping path operator (even-odd rule). |
+| W_ | const System::SharedPtr\<Operators::EOClip\>\& | Set clipping path operator (even-odd rule). |
 
 ## See Also
 
@@ -427,19 +427,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EOFill\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EOFill\>\&) method
 
 
 Visit/select operator f*.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EOFill> f_)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EOFill> &f_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| f_ | System::SharedPtr\<Operators::EOFill\> | Fill path operator (even-odd rule). |
+| f_ | const System::SharedPtr\<Operators::EOFill\>\& | Fill path operator (even-odd rule). |
 
 ## See Also
 
@@ -448,19 +448,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EOFillStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EOFillStroke\>\&) method
 
 
 Visit/select B* operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EOFillStroke> B_)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EOFillStroke> &B_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| B_ | System::SharedPtr\<Operators::EOFillStroke\> | Fill and stroke path operator (even-odd rule). |
+| B_ | const System::SharedPtr\<Operators::EOFillStroke\>\& | Fill and stroke path operator (even-odd rule). |
 
 ## See Also
 
@@ -469,19 +469,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ET\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ET\>\&) method
 
 
 Visit/select ET operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ET> ET)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ET> &ET)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ET | System::SharedPtr\<Operators::ET\> | End text object operator. |
+| ET | const System::SharedPtr\<Operators::ET\>\& | End text object operator. |
 
 ## See Also
 
@@ -490,19 +490,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::EX\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::EX\>\&) method
 
 
 Visit/select EX operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::EX> EX)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::EX> &EX)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| EX | System::SharedPtr\<Operators::EX\> | End compatibility section operator. |
+| EX | const System::SharedPtr\<Operators::EX\>\& | End compatibility section operator. |
 
 ## See Also
 
@@ -511,19 +511,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::Fill\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::Fill\>\&) method
 
 
 Visit/select f operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::Fill> f)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::Fill> &f)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| f | System::SharedPtr\<Operators::Fill\> | Fill path operator (nonzero winding number rule). |
+| f | const System::SharedPtr\<Operators::Fill\>\& | Fill path operator (nonzero winding number rule). |
 
 ## See Also
 
@@ -532,19 +532,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::FillStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::FillStroke\>\&) method
 
 
 Visit/select B operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::FillStroke> B)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::FillStroke> &B)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| B | System::SharedPtr\<Operators::FillStroke\> | Fill and stroke path operator (nonzero winding number rule). |
+| B | const System::SharedPtr\<Operators::FillStroke\>\& | Fill and stroke path operator (nonzero winding number rule). |
 
 ## See Also
 
@@ -553,19 +553,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::GRestore\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::GRestore\>\&) method
 
 
 Visit/select Q operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::GRestore> Q)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::GRestore> &Q)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Q | System::SharedPtr\<Operators::GRestore\> | Restore graphics state operator. |
+| Q | const System::SharedPtr\<Operators::GRestore\>\& | Restore graphics state operator. |
 
 ## See Also
 
@@ -574,19 +574,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::GS\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::GS\>\&) method
 
 
 Visit/select gs operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::GS> gs)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::GS> &gs)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gs | System::SharedPtr\<Operators::GS\> | Set graphics state operator. |
+| gs | const System::SharedPtr\<Operators::GS\>\& | Set graphics state operator. |
 
 ## See Also
 
@@ -595,19 +595,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::GSave\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::GSave\>\&) method
 
 
 Visit/select q operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::GSave> q)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::GSave> &q)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| q | System::SharedPtr\<Operators::GSave\> | Save graphics state operator. |
+| q | const System::SharedPtr\<Operators::GSave\>\& | Save graphics state operator. |
 
 ## See Also
 
@@ -616,19 +616,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ID\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ID\>\&) method
 
 
 Visit/select ID operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ID> ID)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ID> &ID)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ID | System::SharedPtr\<Operators::ID\> | Begin inline image data operator. |
+| ID | const System::SharedPtr\<Operators::ID\>\& | Begin inline image data operator. |
 
 ## See Also
 
@@ -637,19 +637,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::LineTo\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::LineTo\>\&) method
 
 
 Visit/select l operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::LineTo> l)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::LineTo> &l)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| l | System::SharedPtr\<Operators::LineTo\> | Append straight line segment to path operator. |
+| l | const System::SharedPtr\<Operators::LineTo\>\& | Append straight line segment to path operator. |
 
 ## See Also
 
@@ -658,19 +658,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MoveTextPosition\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MoveTextPosition\>\&) method
 
 
 Visit/select Td operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MoveTextPosition> Td)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MoveTextPosition> &Td)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Td | System::SharedPtr\<Operators::MoveTextPosition\> | Move text position operator. |
+| Td | const System::SharedPtr\<Operators::MoveTextPosition\>\& | Move text position operator. |
 
 ## See Also
 
@@ -679,19 +679,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MoveTextPositionSetLeading\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MoveTextPositionSetLeading\>\&) method
 
 
 Visit/select TD operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MoveTextPositionSetLeading> TD)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MoveTextPositionSetLeading> &TD)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| TD | System::SharedPtr\<Operators::MoveTextPositionSetLeading\> | Move text position and set leading operator. |
+| TD | const System::SharedPtr\<Operators::MoveTextPositionSetLeading\>\& | Move text position and set leading operator. |
 
 ## See Also
 
@@ -700,19 +700,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MoveTo\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MoveTo\>\&) method
 
 
 Visit/select m operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MoveTo> m)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MoveTo> &m)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| m | System::SharedPtr\<Operators::MoveTo\> | Begin new subpath operator. |
+| m | const System::SharedPtr\<Operators::MoveTo\>\& | Begin new subpath operator. |
 
 ## See Also
 
@@ -721,19 +721,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MoveToNextLine\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MoveToNextLine\>\&) method
 
 
 Visit/select T* operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MoveToNextLine> T_)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MoveToNextLine> &T_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| T_ | System::SharedPtr\<Operators::MoveToNextLine\> | Move to start of next text line operator. |
+| T_ | const System::SharedPtr\<Operators::MoveToNextLine\>\& | Move to start of next text line operator. |
 
 ## See Also
 
@@ -742,19 +742,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MoveToNextLineShowText\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MoveToNextLineShowText\>\&) method
 
 
 Visit/select ' operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MoveToNextLineShowText> _)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MoveToNextLineShowText> &_)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| _ | System::SharedPtr\<Operators::MoveToNextLineShowText\> | Move to next line and show text operator. |
+| _ | const System::SharedPtr\<Operators::MoveToNextLineShowText\>\& | Move to next line and show text operator. |
 
 ## See Also
 
@@ -763,19 +763,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::MP\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::MP\>\&) method
 
 
 Visit/select MP operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::MP> MP)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::MP> &MP)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| MP | System::SharedPtr\<Operators::MP\> | Define marked-content point operator. |
+| MP | const System::SharedPtr\<Operators::MP\>\& | Define marked-content point operator. |
 
 ## See Also
 
@@ -784,19 +784,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ObsoleteFill\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ObsoleteFill\>\&) method
 
 
 Visit/select F operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ObsoleteFill> F)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ObsoleteFill> &F)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| F | System::SharedPtr\<Operators::ObsoleteFill\> | Fill path operator (nonzero winding number rule). |
+| F | const System::SharedPtr\<Operators::ObsoleteFill\>\& | Fill path operator (nonzero winding number rule). |
 
 ## See Also
 
@@ -805,19 +805,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::Re\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::Re\>\&) method
 
 
 Visit/select re operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::Re> re)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::Re> &re)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| re | System::SharedPtr\<Operators::Re\> | Append rectangle to path operator. |
+| re | const System::SharedPtr\<Operators::Re\>\& | Append rectangle to path operator. |
 
 ## See Also
 
@@ -826,19 +826,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SelectFont\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SelectFont\>\&) method
 
 
 Visit/select Tf operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SelectFont> Tf)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SelectFont> &Tf)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tf | System::SharedPtr\<Operators::SelectFont\> | Set text font and size operator. |
+| Tf | const System::SharedPtr\<Operators::SelectFont\>\& | Set text font and size operator. |
 
 ## See Also
 
@@ -847,19 +847,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetAdvancedColor\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetAdvancedColor\>\&) method
 
 
 Visit/select scn operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetAdvancedColor> scn)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetAdvancedColor> &scn)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scn | System::SharedPtr\<Operators::SetAdvancedColor\> | Set color operator (for nonstroking operations, ICCBased and special colour spaces). |
+| scn | const System::SharedPtr\<Operators::SetAdvancedColor\>\& | Set color operator (for nonstroking operations, ICCBased and special colour spaces). |
 
 ## See Also
 
@@ -868,19 +868,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetAdvancedColorStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetAdvancedColorStroke\>\&) method
 
 
 Visit/select SCN operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetAdvancedColorStroke> SCN)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetAdvancedColorStroke> &SCN)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| SCN | System::SharedPtr\<Operators::SetAdvancedColorStroke\> | Set color operator (for stroking operations, ICCBasedand special colour spaces). |
+| SCN | const System::SharedPtr\<Operators::SetAdvancedColorStroke\>\& | Set color operator (for stroking operations, ICCBasedand special colour spaces). |
 
 ## See Also
 
@@ -889,19 +889,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetCharacterSpacing\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetCharacterSpacing\>\&) method
 
 
 Visit/select Tc operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetCharacterSpacing> Tc)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetCharacterSpacing> &Tc)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tc | System::SharedPtr\<Operators::SetCharacterSpacing\> | Set character spacing operator. |
+| Tc | const System::SharedPtr\<Operators::SetCharacterSpacing\>\& | Set character spacing operator. |
 
 ## See Also
 
@@ -910,19 +910,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetCharWidth\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetCharWidth\>\&) method
 
 
 Visit/select d0 operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetCharWidth> d0)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetCharWidth> &d0)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| d0 | System::SharedPtr\<Operators::SetCharWidth\> | Set glyph width in Type 3 font operator. |
+| d0 | const System::SharedPtr\<Operators::SetCharWidth\>\& | Set glyph width in Type 3 font operator. |
 
 ## See Also
 
@@ -931,19 +931,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetCharWidthBoundingBox\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetCharWidthBoundingBox\>\&) method
 
 
 Visit/select d1 operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetCharWidthBoundingBox> d1)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetCharWidthBoundingBox> &d1)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| d1 | System::SharedPtr\<Operators::SetCharWidthBoundingBox\> | Set glyph width and bounding box in Type 3 font operator. |
+| d1 | const System::SharedPtr\<Operators::SetCharWidthBoundingBox\>\& | Set glyph width and bounding box in Type 3 font operator. |
 
 ## See Also
 
@@ -952,19 +952,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetCMYKColor\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetCMYKColor\>\&) method
 
 
 Visit/select k operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetCMYKColor> k)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetCMYKColor> &k)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| k | System::SharedPtr\<Operators::SetCMYKColor\> | Set CMYK color operator (for nonstroking operations). |
+| k | const System::SharedPtr\<Operators::SetCMYKColor\>\& | Set CMYK color operator (for nonstroking operations). |
 
 ## See Also
 
@@ -973,19 +973,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetCMYKColorStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetCMYKColorStroke\>\&) method
 
 
 Visit/select K operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetCMYKColorStroke> K)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetCMYKColorStroke> &K)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| K | System::SharedPtr\<Operators::SetCMYKColorStroke\> | Set CMYK color operator (for stroking operations). |
+| K | const System::SharedPtr\<Operators::SetCMYKColorStroke\>\& | Set CMYK color operator (for stroking operations). |
 
 ## See Also
 
@@ -994,19 +994,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetColor\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetColor\>\&) method
 
 
 Visit/select sc operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetColor> sc)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetColor> &sc)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sc | System::SharedPtr\<Operators::SetColor\> | Set color operator (for nonstroking operations). |
+| sc | const System::SharedPtr\<Operators::SetColor\>\& | Set color operator (for nonstroking operations). |
 
 ## See Also
 
@@ -1015,19 +1015,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetColorRenderingIntent\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetColorRenderingIntent\>\&) method
 
 
 Visit/select ri operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetColorRenderingIntent> ri)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetColorRenderingIntent> &ri)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ri | System::SharedPtr\<Operators::SetColorRenderingIntent\> | Set color rendering intent operator. |
+| ri | const System::SharedPtr\<Operators::SetColorRenderingIntent\>\& | Set color rendering intent operator. |
 
 ## See Also
 
@@ -1036,19 +1036,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetColorSpace\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetColorSpace\>\&) method
 
 
 Visit/select cs operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetColorSpace> cs)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetColorSpace> &cs)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cs | System::SharedPtr\<Operators::SetColorSpace\> | Set color space operator (for nonstroking operations). |
+| cs | const System::SharedPtr\<Operators::SetColorSpace\>\& | Set color space operator (for nonstroking operations). |
 
 ## See Also
 
@@ -1057,19 +1057,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetColorSpaceStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetColorSpaceStroke\>\&) method
 
 
 Visit/select CS operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetColorSpaceStroke> CS)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetColorSpaceStroke> &CS)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| CS | System::SharedPtr\<Operators::SetColorSpaceStroke\> | Set color space operator (for stroking operations). |
+| CS | const System::SharedPtr\<Operators::SetColorSpaceStroke\>\& | Set color space operator (for stroking operations). |
 
 ## See Also
 
@@ -1078,19 +1078,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetColorStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetColorStroke\>\&) method
 
 
 Visit/select SC operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetColorStroke> SC)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetColorStroke> &SC)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| SC | System::SharedPtr\<Operators::SetColorStroke\> | Set color operator (for stroking operations). |
+| SC | const System::SharedPtr\<Operators::SetColorStroke\>\& | Set color operator (for stroking operations). |
 
 ## See Also
 
@@ -1099,19 +1099,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetDash\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetDash\>\&) method
 
 
 Visit/select d operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetDash> d)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetDash> &d)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| d | System::SharedPtr\<Operators::SetDash\> | Set line dash pattern operator. |
+| d | const System::SharedPtr\<Operators::SetDash\>\& | Set line dash pattern operator. |
 
 ## See Also
 
@@ -1120,19 +1120,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetFlat\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetFlat\>\&) method
 
 
 Visit/select i operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetFlat> i)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetFlat> &i)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | System::SharedPtr\<Operators::SetFlat\> | Set flatness tolerance operator. |
+| i | const System::SharedPtr\<Operators::SetFlat\>\& | Set flatness tolerance operator. |
 
 ## See Also
 
@@ -1141,19 +1141,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetGlyphsPositionShowText\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetGlyphsPositionShowText\>\&) method
 
 
 Visit/select TJ operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetGlyphsPositionShowText> TJ)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetGlyphsPositionShowText> &TJ)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| TJ | System::SharedPtr\<Operators::SetGlyphsPositionShowText\> | Show text operator (allowing individual glyph positioning). |
+| TJ | const System::SharedPtr\<Operators::SetGlyphsPositionShowText\>\& | Show text operator (allowing individual glyph positioning). |
 
 ## See Also
 
@@ -1162,19 +1162,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetGray\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetGray\>\&) method
 
 
 Visit/select g operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetGray> g)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetGray> &g)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | System::SharedPtr\<Operators::SetGray\> | Set gray level operator (for nonstroking operations). |
+| g | const System::SharedPtr\<Operators::SetGray\>\& | Set gray level operator (for nonstroking operations). |
 
 ## See Also
 
@@ -1183,19 +1183,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetGrayStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetGrayStroke\>\&) method
 
 
 Visit/select G operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetGrayStroke> G)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetGrayStroke> &G)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| G | System::SharedPtr\<Operators::SetGrayStroke\> | Set gray level operator (for stroking operations). |
+| G | const System::SharedPtr\<Operators::SetGrayStroke\>\& | Set gray level operator (for stroking operations). |
 
 ## See Also
 
@@ -1204,19 +1204,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetHorizontalTextScaling\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetHorizontalTextScaling\>\&) method
 
 
 Visit/select Tz operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetHorizontalTextScaling> Tz)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetHorizontalTextScaling> &Tz)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tz | System::SharedPtr\<Operators::SetHorizontalTextScaling\> | Set horizontal text scaling operator. |
+| Tz | const System::SharedPtr\<Operators::SetHorizontalTextScaling\>\& | Set horizontal text scaling operator. |
 
 ## See Also
 
@@ -1225,19 +1225,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetLineCap\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetLineCap\>\&) method
 
 
 Visit/select J operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetLineCap> J)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetLineCap> &J)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| J | System::SharedPtr\<Operators::SetLineCap\> | Set line cap style operator. |
+| J | const System::SharedPtr\<Operators::SetLineCap\>\& | Set line cap style operator. |
 
 ## See Also
 
@@ -1246,19 +1246,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetLineJoin\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetLineJoin\>\&) method
 
 
 Visit/select j operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetLineJoin> j)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetLineJoin> &j)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| j | System::SharedPtr\<Operators::SetLineJoin\> | Set line join style operator. |
+| j | const System::SharedPtr\<Operators::SetLineJoin\>\& | Set line join style operator. |
 
 ## See Also
 
@@ -1267,19 +1267,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetLineWidth\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetLineWidth\>\&) method
 
 
 Visit/select w operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetLineWidth> w)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetLineWidth> &w)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| w | System::SharedPtr\<Operators::SetLineWidth\> | Set line width operator. |
+| w | const System::SharedPtr\<Operators::SetLineWidth\>\& | Set line width operator. |
 
 ## See Also
 
@@ -1288,19 +1288,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetMiterLimit\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetMiterLimit\>\&) method
 
 
 Visit/select M operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetMiterLimit> M)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetMiterLimit> &M)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| M | System::SharedPtr\<Operators::SetMiterLimit\> | Set miter limit operator. |
+| M | const System::SharedPtr\<Operators::SetMiterLimit\>\& | Set miter limit operator. |
 
 ## See Also
 
@@ -1309,19 +1309,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetRGBColor\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetRGBColor\>\&) method
 
 
 Visit/select rg operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetRGBColor> rg)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetRGBColor> &rg)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rg | System::SharedPtr\<Operators::SetRGBColor\> | Set RGB color operator (for nonstroking operations). |
+| rg | const System::SharedPtr\<Operators::SetRGBColor\>\& | Set RGB color operator (for nonstroking operations). |
 
 ## See Also
 
@@ -1330,19 +1330,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetRGBColorStroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetRGBColorStroke\>\&) method
 
 
 Visit/select RG operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetRGBColorStroke> RG)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetRGBColorStroke> &RG)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| RG | System::SharedPtr\<Operators::SetRGBColorStroke\> | Set RGB color operator (for stroking operations). |
+| RG | const System::SharedPtr\<Operators::SetRGBColorStroke\>\& | Set RGB color operator (for stroking operations). |
 
 ## See Also
 
@@ -1351,19 +1351,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetSpacingMoveToNextLineShowText\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetSpacingMoveToNextLineShowText\>\&) method
 
 
 Visit/select '' operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetSpacingMoveToNextLineShowText> __)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetSpacingMoveToNextLineShowText> &__)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| __ | System::SharedPtr\<Operators::SetSpacingMoveToNextLineShowText\> | Set word and character spacing, move to next line, and show text operator. |
+| __ | const System::SharedPtr\<Operators::SetSpacingMoveToNextLineShowText\>\& | Set word and character spacing, move to next line, and show text operator. |
 
 ## See Also
 
@@ -1372,19 +1372,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetTextLeading\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetTextLeading\>\&) method
 
 
 Visit/select TL operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetTextLeading> TL)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetTextLeading> &TL)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| TL | System::SharedPtr\<Operators::SetTextLeading\> | Set text leading operator. |
+| TL | const System::SharedPtr\<Operators::SetTextLeading\>\& | Set text leading operator. |
 
 ## See Also
 
@@ -1393,19 +1393,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetTextMatrix\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetTextMatrix\>\&) method
 
 
 Visit/select Tm operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetTextMatrix> Tm)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetTextMatrix> &Tm)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tm | System::SharedPtr\<Operators::SetTextMatrix\> | Set text matrix and text line matrix operator. |
+| Tm | const System::SharedPtr\<Operators::SetTextMatrix\>\& | Set text matrix and text line matrix operator. |
 
 ## See Also
 
@@ -1414,19 +1414,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetTextRenderingMode\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetTextRenderingMode\>\&) method
 
 
 Visit/select Tr operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetTextRenderingMode> Tr)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetTextRenderingMode> &Tr)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tr | System::SharedPtr\<Operators::SetTextRenderingMode\> | Set text rendering mode operator. |
+| Tr | const System::SharedPtr\<Operators::SetTextRenderingMode\>\& | Set text rendering mode operator. |
 
 ## See Also
 
@@ -1435,19 +1435,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetTextRise\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetTextRise\>\&) method
 
 
 Visit/select Ts operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetTextRise> Ts)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetTextRise> &Ts)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Ts | System::SharedPtr\<Operators::SetTextRise\> | Set text rise operator. |
+| Ts | const System::SharedPtr\<Operators::SetTextRise\>\& | Set text rise operator. |
 
 ## See Also
 
@@ -1456,19 +1456,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::SetWordSpacing\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::SetWordSpacing\>\&) method
 
 
 Visit/select Tw operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::SetWordSpacing> Tw)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::SetWordSpacing> &Tw)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tw | System::SharedPtr\<Operators::SetWordSpacing\> | Set word spacing operator. |
+| Tw | const System::SharedPtr\<Operators::SetWordSpacing\>\& | Set word spacing operator. |
 
 ## See Also
 
@@ -1477,19 +1477,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ShFill\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ShFill\>\&) method
 
 
 Visit/select sh operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ShFill> sh)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ShFill> &sh)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sh | System::SharedPtr\<Operators::ShFill\> | Paint area defined by shading pattern operator. |
+| sh | const System::SharedPtr\<Operators::ShFill\>\& | Paint area defined by shading pattern operator. |
 
 ## See Also
 
@@ -1498,19 +1498,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::ShowText\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::ShowText\>\&) method
 
 
 Visit/select Tj operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::ShowText> Tj)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::ShowText> &Tj)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tj | System::SharedPtr\<Operators::ShowText\> | Show text operator. |
+| Tj | const System::SharedPtr\<Operators::ShowText\>\& | Show text operator. |
 
 ## See Also
 
@@ -1519,19 +1519,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::Stroke\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::Stroke\>\&) method
 
 
 Visit/select S operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::Stroke> S)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::Stroke> &S)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| S | System::SharedPtr\<Operators::Stroke\> | Stroke path operator. |
+| S | const System::SharedPtr\<Operators::Stroke\>\& | Stroke path operator. |
 
 ## See Also
 
@@ -1540,19 +1540,19 @@ virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::
 * Class [IOperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IOperatorSelector::Visit(System::SharedPtr\<Operators::TextOperator\>) method
+## IOperatorSelector::Visit(const System::SharedPtr\<Operators::TextOperator\>\&) method
 
 
 Visit/select any text operator operator.
 
 ```cpp
-virtual void Aspose::Pdf::IOperatorSelector::Visit(System::SharedPtr<Operators::TextOperator> textOperator)=0
+virtual void Aspose::Pdf::IOperatorSelector::Visit(const System::SharedPtr<Operators::TextOperator> &textOperator)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textOperator | System::SharedPtr\<Operators::TextOperator\> | General text operator which is used to select the set of corresponding pdf operators. |
+| textOperator | const System::SharedPtr\<Operators::TextOperator\>\& | General text operator which is used to select the set of corresponding pdf operators. |
 
 ## See Also
 

@@ -20,7 +20,7 @@ class SetCMYKColor : public Aspose::Pdf::Operators::SetColorOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_C](./get_c/)() const | Gets the cyan component. |
 | [get_K](./get_k/)() const | Gets the black component. |
 | [get_M](./get_m/)() const | Gets the magenta component. |

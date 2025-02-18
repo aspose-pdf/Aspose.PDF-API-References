@@ -20,7 +20,7 @@ class MoveToNextLine : public Aspose::Pdf::Operators::TextPlaceOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [MoveToNextLine](./movetonextline/)() | Initializes operator. |
 | [ToString](./tostring/)() const override | Returns text of the operator. |
 ## See Also

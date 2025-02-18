@@ -4,7 +4,7 @@ linktitle: CosPdfName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfName class. This class represents Pdf Name object in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.dataeditor/cospdfname/
 ---
 ## CosPdfName class

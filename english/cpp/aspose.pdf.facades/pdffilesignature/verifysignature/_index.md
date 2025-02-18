@@ -4,9 +4,67 @@ linktitle: VerifySignature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySignature method. Checks the validity of a signature in C++.'
 type: docs
-weight: 3500
+weight: 3700
 url: /cpp/aspose.pdf.facades/pdffilesignature/verifysignature/
 ---
+## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>) method
+
+
+Checks the validity of a signature.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+
+### ReturnValue
+
+Return a result of bool type.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SignatureName](../../signaturename/)
+* Class [PdfFileSignature](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>, System::SharedPtr\<Aspose::Pdf::Security::ValidationOptions\>, System::SharedPtr\<Aspose::Pdf::Security::ValidationResult\>\&) method
+
+
+Checks the validity of a signature.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName, System::SharedPtr<Aspose::Pdf::Security::ValidationOptions> options, System::SharedPtr<Aspose::Pdf::Security::ValidationResult> &validationResult)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| options | System::SharedPtr\<Aspose::Pdf::Security::ValidationOptions\> | The verification options. |
+| validationResult | System::SharedPtr\<Aspose::Pdf::Security::ValidationResult\>\& | The certificate validation result. |
+
+### ReturnValue
+
+Return a result of bool type.
+## Remarks
+
+
+
+This method allows you to check the signing certificate using OCSP and/or CRL (certificate revocation list) for revocation. This method does not check the certificate chain and its validity, but it does check whether the end certificate has been revoked. 
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [SignatureName](../../signaturename/)
+* Class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* Class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* Class [PdfFileSignature](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PdfFileSignature::VerifySignature(System::String) method
 
 
@@ -24,6 +82,9 @@ bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::String sign
 ### ReturnValue
 
 Return a result of bool type.
+
+## Deprecated
+Use VerifySignature(SignatureName) method instead. 
 
 ## See Also
 
@@ -52,6 +113,9 @@ bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::String sign
 Return a result of bool type.
 ## Remarks
 
+
+## Deprecated
+Use VerifySignature(SignatureName, ValidationOptions, out ValidationResult) method instead. 
 
 
 This method allows you to check the signing certificate using OCSP and/or CRL (certificate revocation list) for revocation. This method does not check the certificate chain and its validity, but it does check whether the end certificate has been revoked. 

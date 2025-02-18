@@ -20,7 +20,7 @@ class SetTextRenderingMode : public Aspose::Pdf::Operators::TextStateOperator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [SetTextRenderingMode](./settextrenderingmode/)() | Initializes operator. |
 ## See Also
 

@@ -20,7 +20,7 @@ class CurveTo1 : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts operator selector. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts operator selector. |
 | [CurveTo1](./curveto1/)(double, double, double, double) | Initializes curve operator. |
 | [get_Points](./get_points/)() const | Points of the curve. |
 ## See Also

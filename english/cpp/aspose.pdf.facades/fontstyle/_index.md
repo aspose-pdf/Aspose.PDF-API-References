@@ -4,7 +4,7 @@ linktitle: FontStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FontStyle enum. Enumerates 14 types of font in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.pdf.facades/fontstyle/
 ---
 ## FontStyle enum

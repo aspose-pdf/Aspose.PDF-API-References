@@ -20,7 +20,7 @@ class SetColorSpaceStroke : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Name](./get_name/)() const | Gets color space name. |
 | [set_Name](./set_name/)(System::String) | Sets color space name. |
 | [SetColorSpaceStroke](./setcolorspacestroke/)(System::String) | Initializes operator. |

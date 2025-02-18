@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imageplacementabsorber/get_imageplacements/
 Gets collection of image placement occurrences that are presented with [ImagePlacement](../../imageplacement/) objects.
 
 ```cpp
-System::SharedPtr<ImagePlacementCollection> Aspose::Pdf::ImagePlacementAbsorber::get_ImagePlacements()
+System::SharedPtr<ImagePlacementCollection> Aspose::Pdf::ImagePlacementAbsorber::get_ImagePlacements() const
 ```
 
 ## See Also

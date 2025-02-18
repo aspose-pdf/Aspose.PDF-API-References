@@ -4,7 +4,7 @@ linktitle: ToCosPdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfPrimitive::ToCosPdfString method. Tries cast this instance to CosPdfString in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/
 ---
 ## CosPdfPrimitive::ToCosPdfString method

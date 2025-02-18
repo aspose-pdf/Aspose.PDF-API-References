@@ -13,12 +13,12 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_headingrecognitionstrategy/
 Sets the heading recognition strategy.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_HeadingRecognitionStrategy(Aspose::Pdf::PdfToMarkdown::HeadingRecognitionStrategy value)
+void Aspose::Pdf::MarkdownSaveOptions::set_HeadingRecognitionStrategy(Aspose::Pdf::HeadingRecognitionStrategy value)
 ```
 
 ## See Also
 
-* Enum [HeadingRecognitionStrategy](../../../aspose.pdf.pdftomarkdown/headingrecognitionstrategy/)
+* Enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

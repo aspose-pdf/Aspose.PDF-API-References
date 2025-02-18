@@ -4,7 +4,7 @@ linktitle: get_Date
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_Date method. The time of signing in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.forms/signature/get_date/
 ---
 ## Signature::get_Date method

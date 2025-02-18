@@ -20,7 +20,7 @@ class SetSpacingMoveToNextLineShowText : public Aspose::Pdf::Operators::TextShow
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Ac](./get_ac/)() const | Get character spacing. |
 | [get_Aw](./get_aw/)() const | Gets word spacing. |
 | [get_Text](./get_text/)() override | Gets text of operator. |

@@ -4,7 +4,7 @@ linktitle: EncodingType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::EncodingType enum. Enumerates encoding types of the text using in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enum

@@ -4,7 +4,7 @@ linktitle: get_TimestampSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_TimestampSettings method. Gets/sets timestamp settings in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.pdf.forms/signature/get_timestampsettings/
 ---
 ## Signature::get_TimestampSettings method

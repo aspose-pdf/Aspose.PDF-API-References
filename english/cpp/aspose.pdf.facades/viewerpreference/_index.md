@@ -4,7 +4,7 @@ linktitle: ViewerPreference
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference class. Describes viewer prefereces (page mode, non full screen page mode, page layout) in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/aspose.pdf.facades/viewerpreference/
 ---
 ## ViewerPreference class

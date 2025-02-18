@@ -15,9 +15,10 @@ The **[Aspose.Pdf.DataEditor](./)** contains tools for editing data within a doc
 | Class | Description |
 | --- | --- |
 | [CosPdfBoolean](./cospdfboolean/) | This class represents boolean type. |
+| [CosPdfDictionary](./cospdfdictionary/) | A class for accessing an object's dictionary. |
 | [CosPdfName](./cospdfname/) | This class represents [Pdf](../aspose.pdf/) Name object. |
 | [CosPdfNumber](./cospdfnumber/) | This class represents [Pdf](../aspose.pdf/) Number type. |
 | [CosPdfPrimitive](./cospdfprimitive/) | This class represents base public type [CosPdfPrimitive](./cospdfprimitive/). |
 | [CosPdfString](./cospdfstring/) | This class represents [Pdf](../aspose.pdf/) String object. |
-| [DictionaryEditor](./dictionaryeditor/) | A class for accessing an object's dictionary. |
+| [DictionaryEditor](./dictionaryeditor/) | A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary). |
 | [ICosPdfPrimitive](./icospdfprimitive/) | Interface for work with PDF data entity. |

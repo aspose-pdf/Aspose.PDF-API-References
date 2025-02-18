@@ -4,7 +4,7 @@ linktitle: FontSavingModes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::FontSavingModes enum. Enumerates modes that can be used for saving of fonts referenced in saved PDF in C++.'
 type: docs
-weight: 5100
+weight: 5300
 url: /cpp/aspose.pdf/htmlsaveoptions/fontsavingmodes/
 ---
 ## FontSavingModes enum

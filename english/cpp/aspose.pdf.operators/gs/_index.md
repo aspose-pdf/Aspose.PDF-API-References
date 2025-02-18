@@ -20,7 +20,7 @@ class GS : public Aspose::Pdf::Operator
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<IOperatorSelector\>) override | Accepts visitor object to process operator. |
+| [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Name](./get_name/)() const | Gets name of graphic state resource. |
 | [GS](./gs/)(System::String) | Initializes gs operator. |
 | [set_Name](./set_name/)(System::String) | Sets name of graphic state resource. |

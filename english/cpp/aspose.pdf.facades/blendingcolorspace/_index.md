@@ -4,7 +4,7 @@ linktitle: BlendingColorSpace
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::BlendingColorSpace enum. Class represents blending color space in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.pdf.facades/blendingcolorspace/
 ---
 ## BlendingColorSpace enum

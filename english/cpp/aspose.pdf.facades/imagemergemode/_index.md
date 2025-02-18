@@ -4,7 +4,7 @@ linktitle: ImageMergeMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ImageMergeMode enum. Represents modes for merging images in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/aspose.pdf.facades/imagemergemode/
 ---
 ## ImageMergeMode enum
