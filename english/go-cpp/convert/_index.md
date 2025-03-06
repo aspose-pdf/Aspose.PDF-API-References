@@ -18,6 +18,12 @@ url: /go-cpp/convert/
 | [SaveXps](./savexps/) | Convert and save the previously opened PDF-document as Xps-document. |
 | [SaveTeX](./savetex/) | Convert and save the previously opened PDF-document as TeX-document. |
 | [SaveEpub](./saveepub/) | Convert and save the previously opened PDF-document as Epub-document. |
+| [SaveBooklet](./savebooklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
+| [SaveNUp](./savenup/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
+| [SaveMarkdown](./savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [ExportFdf](./exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
+| [ExportXfdf](./exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
+| [ExportXml](./exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
 | [PageToJpg](./pagetojpg/) | Convert and save the specified page as Jpg-image. |
 | [PageToPng](./pagetopng/) | Convert and save the specified page as Png-image. |
 | [PageToBmp](./pagetobmp/) | Convert and save the specified page as Bmp-image. |
