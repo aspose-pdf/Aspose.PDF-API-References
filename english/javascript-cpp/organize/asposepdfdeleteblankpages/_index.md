@@ -3,7 +3,7 @@ title: "AsposePdfDeleteBlankPages"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Delete blank pages from a PDF-file."
 type: docs
-url: /javascript-cpp/organize/asposepdfdeleteblankpage/
+url: /javascript-cpp/organize/asposepdfdeleteblankpages/
 ---
 
 _Delete blank pages from a PDF-file_
