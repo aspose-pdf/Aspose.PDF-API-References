@@ -42,6 +42,8 @@ url: /nodejs-cpp/organize/
 | [AsposePdfMergeLayers](./asposepdfmergelayers/) | Merge layers a PDF-file. |
 | [AsposePdfFlatten](./asposepdfflatten/) | Flatten a PDF-file. |
 | [AsposePdfMakeBooklet](./asposepdfmakebooklet/) | Make booklet from a PDF-file. |
+| [AsposePdfMakeNUp](./asposepdfmakenup/) | Make N-Up document from a PDF-file. |
+| [AsposePdfDeleteBlankPages](./asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
 
 
 ## Detailed Description
