@@ -21,7 +21,7 @@ class Artifact : public System::IDisposable
 | Enum | Description |
 | --- | --- |
 | [ArtifactSubtype](./artifactsubtype/) | Enumeration of possible artifacts subtype. |
-| [ArtifactType](./artifacttype/) | Enumeration of possuble artifact types. |
+| [ArtifactType](./artifacttype/) | Enumeration of possible artifact types. |
 ## Methods
 
 | Method | Description |

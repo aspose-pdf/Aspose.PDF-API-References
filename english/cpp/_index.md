@@ -30,8 +30,10 @@ is_root: true
 | [Aspose::Pdf::Operators](./aspose.pdf.operators/) | The **[Aspose.Pdf.Operators](./aspose.pdf.operators/)** is a namespace for [Operator](./aspose.pdf/operator/) implementations. These classes describes operators used in PDF page contents. |
 | [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) | The **[Aspose.Pdf.Optimization](./aspose.pdf.optimization/)** is a namespace for classes for managing of document optimization process. |
 | [Aspose::Pdf::PdfToMarkdown](./aspose.pdf.pdftomarkdown/) |  |
+| [Aspose::Pdf::Plugins](./aspose.pdf.plugins/) |  |
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) | The **[Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/)** is a namespace for sanitization operations. |
 | [Aspose::Pdf::Security](./aspose.pdf.security/) | The **[Aspose.Pdf.Security](./aspose.pdf.security/)** namespace contains classes used for encryption and digital signing. |
+| [Aspose::Pdf::Signatures](./aspose.pdf.signatures/) |  |
 | [Aspose::Pdf::Structure](./aspose.pdf.structure/) | The **[Aspose.Pdf.Structure](./aspose.pdf.structure/)** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) | The **[Aspose.Pdf.Tagged](./aspose.pdf.tagged/)** is a namespace for classes for support of [Tagged](./aspose.pdf.tagged/) PDF documents. |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |

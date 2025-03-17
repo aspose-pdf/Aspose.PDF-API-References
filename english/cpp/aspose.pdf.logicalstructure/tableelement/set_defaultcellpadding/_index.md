@@ -4,7 +4,7 @@ linktitle: set_DefaultCellPadding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_DefaultCellPadding method. Sets the default cell padding in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_defaultcellpadding/
 ---
 ## TableElement::set_DefaultCellPadding method

@@ -4,7 +4,7 @@ linktitle: DirectionConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::DirectionConverter class in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.pdf/directionconverter/
 ---
 ## DirectionConverter class

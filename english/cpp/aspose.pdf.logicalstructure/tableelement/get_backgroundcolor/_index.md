@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_BackgroundColor method. Gets the table background color in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_backgroundcolor/
 ---
 ## TableElement::get_BackgroundColor method

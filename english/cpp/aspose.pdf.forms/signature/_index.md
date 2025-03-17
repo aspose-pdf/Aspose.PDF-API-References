@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/signature/
 ## Signature class
 
 
-An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the document validity.
+An abstract class which represents signature object in the pdf document. [Signatures](../../aspose.pdf.signatures/) are fields with values of signature objects, the last contain data which is used to verify the document validity.
 
 ```cpp
 class Signature : public System::Object

@@ -4,7 +4,7 @@ linktitle: set_RepeatingRowsCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_RepeatingRowsCount method. Gets the first rows count repeated for several pages in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_repeatingrowscount/
 ---
 ## TableElement::set_RepeatingRowsCount method

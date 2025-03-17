@@ -4,7 +4,7 @@ linktitle: TableCellElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement class. Represents a base class for table cell elements (TH and TD) in logical structure in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/
 ---
 ## TableCellElement class
@@ -14,13 +14,15 @@ Represents a base class for table cell elements (TH and TD) in logical structure
 
 ```cpp
 class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement,
-                         public Aspose::Pdf::LogicalStructure::ITextElement
+                         public Aspose::Pdf::LogicalStructure::ITextElement,
+                         public Aspose::Pdf::Tagged::IAdjustPosition
 ```
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
 | [get_Alignment](./get_alignment/)() const | Gets the cell alignment. |
 | [get_BackgroundColor](./get_backgroundcolor/)() const | Gets the cell background color. |
 | [get_Border](./get_border/)() const | Gets the cell border. |
@@ -47,5 +49,6 @@ class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 
 * Class [TableChildElement](../tablechildelement/)
 * Class [ITextElement](../itextelement/)
+* Class [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

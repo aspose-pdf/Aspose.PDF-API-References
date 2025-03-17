@@ -4,7 +4,7 @@ linktitle: TOCElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TOCElement class. Represents TOC structure element in logical structure in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.pdf.logicalstructure/tocelement/
 ---
 ## TOCElement class

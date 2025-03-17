@@ -4,7 +4,7 @@ linktitle: ITaggedContent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Tagged::ITaggedContent class. Represents interface for work with TaggedPdf content of document in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.tagged/itaggedcontent/
 ---
 ## ITaggedContent class

@@ -4,7 +4,7 @@ linktitle: get_IsBroken
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_IsBroken method. Gets the table is broken - will be truncated for next page in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_isbroken/
 ---
 ## TableElement::get_IsBroken method

@@ -1,0 +1,35 @@
+---
+title: Aspose::Pdf::Plugins::PdfExtractor class
+linktitle: PdfExtractor
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Plugins::PdfExtractor class. Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents in C++.'
+type: docs
+weight: 5700
+url: /cpp/aspose.pdf.plugins/pdfextractor/
+---
+## PdfExtractor class
+
+
+Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents.
+
+```cpp
+class PdfExtractor : public Aspose::Pdf::Plugins::IPlugin,
+                     public System::IDisposable
+```
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [Dispose](./dispose/)() override | Implementation of IDisposable. Actually, it is not necessary for [PdfExtractor](./). |
+| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts [PdfExtractor](./) processing with the specified parameters. |
+## Remarks
+
+
+The [TextExtractor](../textextractor/) object is used to extract text, or [ImageExtractor](../imageextractor/) to extract images. 
+## See Also
+
+* Class [IPlugin](../iplugin/)
+* Class [IDisposable](../../system/idisposable/)
+* Namespace [Aspose::Pdf::Plugins](../)
+* Library [Aspose.PDF for C++](../../)

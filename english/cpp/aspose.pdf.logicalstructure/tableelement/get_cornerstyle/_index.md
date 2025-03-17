@@ -4,7 +4,7 @@ linktitle: get_CornerStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_CornerStyle method. Gets the styles of the border corners in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_cornerstyle/
 ---
 ## TableElement::get_CornerStyle method

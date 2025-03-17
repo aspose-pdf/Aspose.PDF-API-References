@@ -4,7 +4,7 @@ linktitle: set_CornerStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_CornerStyle method. Sets the styles of the border corners in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_cornerstyle/
 ---
 ## TableElement::set_CornerStyle method

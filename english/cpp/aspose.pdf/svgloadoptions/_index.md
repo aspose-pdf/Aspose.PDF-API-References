@@ -4,7 +4,7 @@ linktitle: SvgLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SvgLoadOptions class. Represents options for loading/importing SVG file into pdf document in C++.'
 type: docs
-weight: 16600
+weight: 16900
 url: /cpp/aspose.pdf/svgloadoptions/
 ---
 ## SvgLoadOptions class

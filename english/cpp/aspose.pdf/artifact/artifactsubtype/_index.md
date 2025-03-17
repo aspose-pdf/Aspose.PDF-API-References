@@ -25,6 +25,7 @@ enum class ArtifactSubtype
 | Watermark | 2 | [Watermark](../../watermark/) artifact. |
 | Background | 3 | Background artifact. |
 | Undefined | 4 | [Artifact](../) subtype is not defined or unknown. |
+| BatesN | 5 | Bates Numbering artifact. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: HtmlFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment class. Represents html fragment in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.pdf/htmlfragment/
 ---
 ## HtmlFragment class

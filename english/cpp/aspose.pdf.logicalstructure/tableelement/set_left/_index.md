@@ -4,7 +4,7 @@ linktitle: set_Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_Left method. Sets the table left coordinate in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_left/
 ---
 ## TableElement::set_Left method

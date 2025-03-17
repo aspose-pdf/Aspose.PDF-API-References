@@ -4,7 +4,7 @@ linktitle: HeaderFooterSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderFooterSettings class. Represents the settings for header and footer artifacts in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/aspose.pdf/headerfootersettings/
 ---
 ## HeaderFooterSettings class

@@ -4,7 +4,7 @@ linktitle: SetText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::LinkElement::SetText method. Appends text content to current text element in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.logicalstructure/linkelement/settext/
 ---
 ## LinkElement::SetText method
@@ -19,7 +19,7 @@ void Aspose::Pdf::LogicalStructure::LinkElement::SetText(System::String text) ov
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) content. |
+| text | System::String | [Text](../../../aspose.pdf.text/) content |
 
 ## See Also
 

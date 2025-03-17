@@ -4,7 +4,7 @@ linktitle: WarichuElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::WarichuElement class. Represents Warichu structure element in logical structure in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/aspose.pdf.logicalstructure/warichuelement/
 ---
 ## WarichuElement class

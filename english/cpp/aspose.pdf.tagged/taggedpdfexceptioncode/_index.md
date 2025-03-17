@@ -4,7 +4,7 @@ linktitle: TaggedPdfExceptionCode
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Tagged::TaggedPdfExceptionCode class in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.tagged/taggedpdfexceptioncode/
 ---
 ## TaggedPdfExceptionCode class

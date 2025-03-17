@@ -19,7 +19,7 @@ void Aspose::Pdf::ArtifactCollection::Add(const System::SharedPtr<Artifact> &art
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | const System::SharedPtr\<Artifact\>\& | [Artifact](../../artifact/) which sould be added to collection. |
+| artifact | const System::SharedPtr\<Artifact\>\& | [Artifact](../../artifact/) which should be added to collection. |
 
 ## See Also
 

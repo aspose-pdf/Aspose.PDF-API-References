@@ -20,8 +20,6 @@ class MCRElement : public Aspose::Pdf::LogicalStructure::Element
 
 | Method | Description |
 | --- | --- |
-| [get_Content](./get_content/)() const |  |
-| [get_ImageSrc](./get_imagesrc/)() const |  |
 | [get_MCID](./get_mcid/)() | Gets MCID of marked-content reference object. |
 | [Tag](./tag/)(System::SharedPtr\<Aspose::Pdf::Operators::BDC\>) override | Bind a structure element to the content stream BDC operator. |
 | [Tag](./tag/)(System::SharedPtr\<XForm\>) override | Bind a structure element to the content stream [XForm](../../aspose.pdf/xform/). |

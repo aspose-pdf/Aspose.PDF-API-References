@@ -4,7 +4,7 @@ linktitle: get_DefaultCellTextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::get_DefaultCellTextState method. Gets the default cell text state in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_defaultcelltextstate/
 ---
 ## TableCellElement::get_DefaultCellTextState method

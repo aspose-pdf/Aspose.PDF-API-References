@@ -4,7 +4,7 @@ linktitle: ConvertSoftMaskAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ConvertSoftMaskAction enum. This action represents actions for conversion of images with soft mask in C++.'
 type: docs
-weight: 21400
+weight: 21700
 url: /cpp/aspose.pdf/convertsoftmaskaction/
 ---
 ## ConvertSoftMaskAction enum

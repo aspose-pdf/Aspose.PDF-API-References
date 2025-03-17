@@ -4,7 +4,7 @@ linktitle: BuildVersionInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BuildVersionInfo class. This class provides information about current product build in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf/buildversioninfo/
 ---
 ## BuildVersionInfo class

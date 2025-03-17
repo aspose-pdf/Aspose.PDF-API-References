@@ -37,7 +37,7 @@ The **[Aspose.Pdf.Forms](./)** namespace has classes which describes forms (stan
 | [RadioButtonField](./radiobuttonfield/) | Class representing radio button field. |
 | [RadioButtonOptionField](./radiobuttonoptionfield/) | Class represents item of RadioButton field. |
 | [RichTextBoxField](./richtextboxfield/) | Class describes rich text editor component. |
-| [Signature](./signature/) | An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the document validity. |
+| [Signature](./signature/) | An abstract class which represents signature object in the pdf document. [Signatures](../aspose.pdf.signatures/) are fields with values of signature objects, the last contain data which is used to verify the document validity. |
 | [SignatureCustomAppearance](./signaturecustomappearance/) | An abstract class which represents signature custon appearance object. |
 | [SignatureField](./signaturefield/) | Represents signature form field. |
 | [SignatureSubjectFormatter](./signaturesubjectformatter/) |  |

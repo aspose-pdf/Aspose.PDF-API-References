@@ -4,7 +4,7 @@ linktitle: set_IsBordersIncluded
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_IsBordersIncluded method. Sets border included in column widhts in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_isbordersincluded/
 ---
 ## TableElement::set_IsBordersIncluded method

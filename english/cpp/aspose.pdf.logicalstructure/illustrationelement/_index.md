@@ -13,17 +13,20 @@ url: /cpp/aspose.pdf.logicalstructure/illustrationelement/
 Represents a base class for illustration structure elements in logical structure.
 
 ```cpp
-class IllustrationElement : public Aspose::Pdf::LogicalStructure::StructureElement
+class IllustrationElement : public Aspose::Pdf::LogicalStructure::StructureElement,
+                            public Aspose::Pdf::Tagged::IAdjustPosition
 ```
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
 | virtual [SetImage](./setimage/)(System::String, double) | Appends image to current illustration element. |
 | virtual [SetImage](./setimage/)(System::String, double, double) | Appends image to current illustration element. |
 ## See Also
 
 * Class [StructureElement](../structureelement/)
+* Class [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

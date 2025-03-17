@@ -4,7 +4,7 @@ linktitle: HtmlLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions class. Represents options for loading/importing html file into pdf document in C++.'
 type: docs
-weight: 6900
+weight: 7000
 url: /cpp/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class

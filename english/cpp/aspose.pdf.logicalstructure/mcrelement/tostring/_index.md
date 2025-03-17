@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::MCRElement::ToString method. Returns a string that represents the current object in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
 ## MCRElement::ToString method

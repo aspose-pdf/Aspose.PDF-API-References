@@ -14,18 +14,21 @@ Represents a base class for inline-level text structure elements in logical stru
 
 ```cpp
 class ILSTextElement : public Aspose::Pdf::LogicalStructure::ILSElement,
-                       public Aspose::Pdf::LogicalStructure::ITextElement
+                       public Aspose::Pdf::LogicalStructure::ITextElement,
+                       public Aspose::Pdf::Tagged::IAdjustPosition
 ```
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
 | [get_StructureTextState](./get_structuretextstate/)() override | Gets [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for current element. |
 | [SetText](./settext/)(System::String) override | Appends text content to current text element. |
 ## See Also
 
 * Class [ILSElement](../ilselement/)
 * Class [ITextElement](../itextelement/)
+* Class [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

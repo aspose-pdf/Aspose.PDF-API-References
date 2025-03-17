@@ -4,7 +4,7 @@ linktitle: FileHyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileHyperlink class. Represents file hyperlink object in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.pdf/filehyperlink/
 ---
 ## FileHyperlink class

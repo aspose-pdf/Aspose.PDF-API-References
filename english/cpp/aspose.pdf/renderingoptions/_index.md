@@ -4,7 +4,7 @@ linktitle: RenderingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions class. Represents rendering options in C++.'
 type: docs
-weight: 15800
+weight: 16000
 url: /cpp/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
