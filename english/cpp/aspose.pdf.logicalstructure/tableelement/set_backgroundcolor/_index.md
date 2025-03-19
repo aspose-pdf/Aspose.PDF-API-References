@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_BackgroundColor method. Sets the table background color in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_backgroundcolor/
 ---
 ## TableElement::set_BackgroundColor method

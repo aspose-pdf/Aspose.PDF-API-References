@@ -4,7 +4,7 @@ linktitle: get_Hyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::LinkElement::get_Hyperlink method. Gets or Sets Hyperlink for Link Element in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/linkelement/get_hyperlink/
 ---
 ## LinkElement::get_Hyperlink method

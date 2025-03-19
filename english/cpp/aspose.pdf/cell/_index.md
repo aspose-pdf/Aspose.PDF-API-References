@@ -4,7 +4,7 @@ linktitle: Cell
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell class. Represents a cell of the table''s row in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf/cell/
 ---
 ## Cell class

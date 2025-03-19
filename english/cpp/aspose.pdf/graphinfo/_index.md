@@ -4,7 +4,7 @@ linktitle: GraphInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo class. Represents graphics info in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.pdf/graphinfo/
 ---
 ## GraphInfo class

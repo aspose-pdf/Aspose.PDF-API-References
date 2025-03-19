@@ -69,6 +69,7 @@ The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Stru
 | [StructureAttributes](./structureattributes/) | Represents attributes of structure element for standard attribute owners. |
 | [StructureElement](./structureelement/) | Represents a base class for structure elements in logical structure. |
 | [StructureTextState](./structuretextstate/) | Represents text state settings for [Text](../aspose.pdf.text/)[Structure](../aspose.pdf.structure/) Elements and TaggedContent ([ITextElement](./itextelement/), ITaggedContent) |
+| [StructureTextStateExtensions](./structuretextstateextensions/) |  |
 | [StructureTypeCategory](./structuretypecategory/) | Represents Categories of Standard [Structure](../aspose.pdf.structure/) Types. |
 | [StructureTypeStandard](./structuretypestandard/) | Represents Standard [Structure](../aspose.pdf.structure/) Types. |
 | [TableCellElement](./tablecellelement/) | Represents a base class for table cell elements (TH and TD) in logical structure. |

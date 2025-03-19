@@ -4,7 +4,7 @@ linktitle: get_MCID
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::MCRElement::get_MCID method. Gets MCID of marked-content reference object in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/mcrelement/get_mcid/
 ---
 ## MCRElement::get_MCID method

@@ -20,7 +20,9 @@ class SignatureName : public System::Object
 
 | Method | Description |
 | --- | --- |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines whether this instance and a specified object are equal. |
 | [get_HasSignature](./get_hassignature/)() | Indicates whether the signature is present or not. |
+| [GetHashCode](./gethashcode/)() const override | Returns a hash code for this instance based on the FullName property. |
 | [ToString](./tostring/)() const override | Returns a string representation of the [SignatureName](./) instance, primarily using its name. |
 ## Remarks
 

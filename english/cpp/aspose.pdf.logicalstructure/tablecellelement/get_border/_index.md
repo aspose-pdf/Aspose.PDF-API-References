@@ -4,7 +4,7 @@ linktitle: get_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::get_Border method. Gets the cell border in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_border/
 ---
 ## TableCellElement::get_Border method

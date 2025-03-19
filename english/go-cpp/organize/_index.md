@@ -20,6 +20,7 @@ url: /go-cpp/organize/
 | [AddPageNum](./addpagenum/) | Add page number to a PDF-document. |
 | [AddTextHeader](./addtextheader/) | Add text in Header of a PDF-document. |
 | [AddTextFooter](./addtextfooter/) | Add text in Footer of a PDF-document. |
+| [Flatten](./flatten/) | Flatten PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |

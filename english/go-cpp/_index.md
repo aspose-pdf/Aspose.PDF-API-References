@@ -35,6 +35,12 @@ type Document struct {
 | [SaveXps](./convert/savexps/) | Convert and save the previously opened PDF-document as Xps-document. |
 | [SaveTeX](./convert/savetex/) | Convert and save the previously opened PDF-document as TeX-document. |
 | [SaveEpub](./convert/saveepub/) | Convert and save the previously opened PDF-document as Epub-document. |
+| [SaveBooklet](./convert/savebooklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
+| [SaveNUp](./convert/savenup/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
+| [SaveMarkdown](./convert/savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [ExportFdf](./convert/exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
+| [ExportXfdf](./convert/exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
+| [ExportXml](./convert/exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
 | [PageToJpg](./convert/pagetojpg/) | Convert and save the specified page as Jpg-image. |
 | [PageToPng](./convert/pagetopng/) | Convert and save the specified page as Png-image. |
 | [PageToBmp](./convert/pagetobmp/) | Convert and save the specified page as Bmp-image. |
@@ -58,6 +64,7 @@ type Document struct {
 | [AddPageNum](./organize/addpagenum/) | Add page number to a PDF-document. |
 | [AddTextHeader](./organize/addtextheader/) | Add text in Header of a PDF-document. |
 | [AddTextFooter](./organize/addtextfooter/) | Add text in Footer of a PDF-document. |
+| [Flatten](./organize/flatten/) | Flatten PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |

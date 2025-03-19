@@ -4,7 +4,7 @@ linktitle: PsSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PsSaveOptions class. Save options for export to PS (PostScript) or EPS format in C++.'
 type: docs
-weight: 15600
+weight: 15800
 url: /cpp/aspose.pdf/pssaveoptions/
 ---
 ## PsSaveOptions class

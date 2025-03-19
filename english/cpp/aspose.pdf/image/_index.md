@@ -4,7 +4,7 @@ linktitle: Image
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image class. Represents image in C++.'
 type: docs
-weight: 7600
+weight: 7700
 url: /cpp/aspose.pdf/image/
 ---
 ## Image class

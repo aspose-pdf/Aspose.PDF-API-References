@@ -29,7 +29,6 @@ class OptimizationOptions : public System::Object
 | [get_ImageCompressionOptions](./get_imagecompressionoptions/)() const | Set of options which describe will images in the document be compressed and parameters of the compression. |
 | [get_ImageEncoding](./get_imageencoding/)() const | [Image](../../aspose.pdf/image/) encodre which will be used. |
 | [get_ImageQuality](./get_imagequality/)() | Specifies level of image compression when CompressIamges flag is used. |
-| [get_LinkDuplcateStreams](./get_linkduplcatestreams/)() const | Obsolete! Use LinkDuplicateStreams instead. |
 | [get_LinkDuplicateStreams](./get_linkduplicatestreams/)() const | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |
 | [get_LinkDuplicateStreamsScanLevel](./get_linkduplicatestreamsscanlevel/)() const | Level of scanning. Deeper scans (higher value) take longer but may produce smaller result files. Default value: 10. |
 | [get_MaxResoultion](./get_maxresoultion/)() | Specifies maximum resolution of images. If image has higher resolition it will be scaled. |
@@ -47,7 +46,6 @@ class OptimizationOptions : public System::Object
 , [Pdf](../../aspose.pdf/) objects will be packed into Objest Streams and compressed to reduce pdf file size. |
 | [set_ImageEncoding](./set_imageencoding/)(Aspose::Pdf::Optimization::ImageEncoding) | [Image](../../aspose.pdf/image/) encodre which will be used. |
 | [set_ImageQuality](./set_imagequality/)(int32_t) | Specifies level of image compression when CompressIamges flag is used. |
-| [set_LinkDuplcateStreams](./set_linkduplcatestreams/)(bool) | Obsolete! Use LinkDuplicateStreams instead. |
 | [set_LinkDuplicateStreams](./set_linkduplicatestreams/)(bool) | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |
 | [set_LinkDuplicateStreamsScanLevel](./set_linkduplicatestreamsscanlevel/)(int32_t) | Level of scanning. Deeper scans (higher value) take longer but may produce smaller result files. Default value: 10. |
 | [set_MaxResoultion](./set_maxresoultion/)(int32_t) | Specifies maximum resolution of images. If image has higher resolition it will be scaled. |

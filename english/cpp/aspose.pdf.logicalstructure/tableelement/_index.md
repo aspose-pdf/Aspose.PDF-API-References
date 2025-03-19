@@ -4,7 +4,7 @@ linktitle: TableElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement class. Represents Table structure element in logical structure in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/aspose.pdf.logicalstructure/tableelement/
 ---
 ## TableElement class
@@ -13,13 +13,15 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/
 Represents [Table](../../aspose.pdf/table/) structure element in logical structure.
 
 ```cpp
-class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement
+class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement,
+                     public Aspose::Pdf::Tagged::IAdjustPosition
 ```
 
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
 | [CreateTBody](./createtbody/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |
 | [CreateTFoot](./createtfoot/)() | Creates [Aspose::Pdf::LogicalStructure::TableTFootElement](../tabletfootelement/) and added it to current table. |
 | [CreateTHead](./createthead/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |
@@ -62,5 +64,6 @@ class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement
 ## See Also
 
 * Class [BLSElement](../blselement/)
+* Class [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * Namespace [Aspose::Pdf::LogicalStructure](../)
 * Library [Aspose.PDF for C++](../../)

@@ -4,7 +4,7 @@ linktitle: CreateTHead
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::CreateTHead method. Creates Aspose::Pdf::LogicalStructure::TableTHeadElement and added it to current table in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
 ## TableElement::CreateTHead method

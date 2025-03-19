@@ -4,7 +4,7 @@ linktitle: SaveFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveFormat enum. Specifies format in C++.'
 type: docs
-weight: 25600
+weight: 25900
 url: /cpp/aspose.pdf/saveformat/
 ---
 ## SaveFormat enum

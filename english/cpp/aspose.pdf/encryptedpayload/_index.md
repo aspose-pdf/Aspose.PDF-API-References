@@ -4,7 +4,7 @@ linktitle: EncryptedPayload
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EncryptedPayload class. Represents encrypted payload in file specification in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf/encryptedpayload/
 ---
 ## EncryptedPayload class

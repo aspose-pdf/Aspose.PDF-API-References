@@ -4,7 +4,7 @@ linktitle: EmptyValueException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::EmptyValueException typedef in C++.'
 type: docs
-weight: 26800
+weight: 27200
 url: /cpp/aspose.pdf/emptyvalueexception/
 ---
 ## EmptyValueException typedef

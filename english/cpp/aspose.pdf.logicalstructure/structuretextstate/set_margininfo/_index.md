@@ -16,6 +16,10 @@ Sets margin for block structure element.
 void Aspose::Pdf::LogicalStructure::StructureTextState::set_MarginInfo(System::SharedPtr<Aspose::Pdf::MarginInfo> value)
 ```
 
+
+## Deprecated
+Use IAdjustPosition.AdjustPosition(PositionSettings positionSettings) method to set position settings 
+
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

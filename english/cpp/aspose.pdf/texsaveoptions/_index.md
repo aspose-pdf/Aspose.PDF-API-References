@@ -4,7 +4,7 @@ linktitle: TeXSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXSaveOptions class. Save options for export to TeX format in C++.'
 type: docs
-weight: 17400
+weight: 17700
 url: /cpp/aspose.pdf/texsaveoptions/
 ---
 ## TeXSaveOptions class

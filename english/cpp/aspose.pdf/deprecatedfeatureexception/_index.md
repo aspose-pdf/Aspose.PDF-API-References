@@ -4,7 +4,7 @@ linktitle: DeprecatedFeatureException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::DeprecatedFeatureException typedef in C++.'
 type: docs
-weight: 26600
+weight: 27000
 url: /cpp/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException typedef

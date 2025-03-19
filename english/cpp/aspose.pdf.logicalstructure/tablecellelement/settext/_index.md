@@ -4,7 +4,7 @@ linktitle: SetText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::SetText method. Appends text content to current text element in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/settext/
 ---
 ## TableCellElement::SetText method

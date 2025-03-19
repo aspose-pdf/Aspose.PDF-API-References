@@ -4,7 +4,7 @@ linktitle: get_Margin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::get_Margin method. Gets the padding in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/get_margin/
 ---
 ## TableCellElement::get_Margin method

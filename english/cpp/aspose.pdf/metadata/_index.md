@@ -4,7 +4,7 @@ linktitle: Metadata
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metadata class. Provides access to XMP metadata stream in C++.'
 type: docs
-weight: 10800
+weight: 10900
 url: /cpp/aspose.pdf/metadata/
 ---
 ## Metadata class

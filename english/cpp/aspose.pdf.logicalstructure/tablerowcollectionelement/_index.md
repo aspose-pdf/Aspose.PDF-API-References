@@ -4,7 +4,7 @@ linktitle: TableRowCollectionElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableRowCollectionElement class. Represents a base class for children elements of the Table Head, Body and Foot in logical structure in C++.'
 type: docs
-weight: 6100
+weight: 6200
 url: /cpp/aspose.pdf.logicalstructure/tablerowcollectionelement/
 ---
 ## TableRowCollectionElement class

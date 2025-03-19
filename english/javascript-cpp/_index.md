@@ -88,6 +88,8 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfMergeLayers](./organize/asposepdfmergelayers/) | Merge layers a PDF-file. |
 | [AsposePdfFlatten](./organize/asposepdfflatten/) | Flatten a PDF-file. |
 | [AsposePdfMakeBooklet](./organize/asposepdfmakebooklet/) | Make booklet from a PDF-file. |
+| [AsposePdfMakeNUp](./organize/asposepdfmakenup/) | Make N-Up document from a PDF-file. |
+| [AsposePdfDeleteBlankPages](./organize/asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
 
 
 ## Metadata PDF functions

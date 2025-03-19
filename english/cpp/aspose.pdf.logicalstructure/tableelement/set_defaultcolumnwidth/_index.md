@@ -4,7 +4,7 @@ linktitle: set_DefaultColumnWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_DefaultColumnWidth method. Sets default column width in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_defaultcolumnwidth/
 ---
 ## TableElement::set_DefaultColumnWidth method

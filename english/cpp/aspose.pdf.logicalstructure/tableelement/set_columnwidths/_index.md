@@ -4,7 +4,7 @@ linktitle: set_ColumnWidths
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::set_ColumnWidths method. Gets the column widths of the table in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.pdf.logicalstructure/tableelement/set_columnwidths/
 ---
 ## TableElement::set_ColumnWidths method

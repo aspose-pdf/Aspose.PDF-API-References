@@ -4,7 +4,7 @@ linktitle: CreateTFoot
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::CreateTFoot method. Creates Aspose::Pdf::LogicalStructure::TableTFootElement and added it to current table in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
 ## TableElement::CreateTFoot method

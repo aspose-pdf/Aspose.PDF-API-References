@@ -4,7 +4,7 @@ linktitle: PropertyChangedEventHandler
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ComponentModel::PropertyChangedEventHandler typedef. Handler type to handle PropertyChanged event in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.componentmodel/propertychangedeventhandler/
 ---
 ## PropertyChangedEventHandler typedef
