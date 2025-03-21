@@ -3,7 +3,7 @@ title: Class SetWordSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetWordSpacing class. Class representing Tw operator set word spacing
 type: docs
-weight: 7850
+weight: 7860
 url: /net/aspose.pdf.operators/setwordspacing/
 ---
 ## SetWordSpacing class

@@ -3,7 +3,7 @@ title: Class TableTHElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableTHElement class. Represents TH structure element in logical structure of the table
 type: docs
-weight: 6820
+weight: 6830
 url: /net/aspose.pdf.logicalstructure/tablethelement/
 ---
 ## TableTHElement class
@@ -46,6 +46,7 @@ public sealed class TableTHElement : TableCellElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -58,7 +59,7 @@ public sealed class TableTHElement : TableCellElement
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sets ID for structure element. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sets custom tag for structure element. |
-| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Bind a structure element to the Annotation. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Bind a structure element to the Artifact. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Bind a structure element to the content stream BDC operator. |

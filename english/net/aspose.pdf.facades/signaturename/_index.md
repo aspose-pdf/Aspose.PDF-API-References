@@ -3,7 +3,7 @@ title: Class SignatureName
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.SignatureName class. Represents a class for a signature name
 type: docs
-weight: 4700
+weight: 4710
 url: /net/aspose.pdf.facades/signaturename/
 ---
 ## SignatureName class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.facades/signaturename/
 Represents a class for a signature name.
 
 ```csharp
-public class SignatureName
+public sealed class SignatureName
 ```
 
 ## Properties
@@ -24,6 +24,8 @@ public class SignatureName
 
 | Name | Description |
 | --- | --- |
+| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Determines whether this instance and a specified object are equal. |
+| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Returns a hash code for this instance based on the FullName property. |
 | override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Returns a string representation of the `SignatureName` instance, primarily using its name. |
 
 ## Fields

@@ -3,7 +3,7 @@ title: Class PdfOutputGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.PdfOutputGenerator class. Represents a class for generating PDF representation of texts differences
 type: docs
-weight: 3270
+weight: 3280
 url: /net/aspose.pdf.comparison/pdfoutputgenerator/
 ---
 ## PdfOutputGenerator class

@@ -3,7 +3,7 @@ title: Class OBJRElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.OBJRElement class. Represents object reference entity in logical structure
 type: docs
-weight: 6520
+weight: 6530
 url: /net/aspose.pdf.logicalstructure/objrelement/
 ---
 ## OBJRElement class

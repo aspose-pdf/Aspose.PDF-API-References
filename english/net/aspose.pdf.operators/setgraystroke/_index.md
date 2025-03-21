@@ -3,7 +3,7 @@ title: Class SetGrayStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetGrayStroke class. Class representing gray level for stroking operations
 type: docs
-weight: 7720
+weight: 7730
 url: /net/aspose.pdf.operators/setgraystroke/
 ---
 ## SetGrayStroke class

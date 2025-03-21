@@ -3,7 +3,7 @@ title: Class SideBySideComparisonOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.SideBySideComparisonOptions class. Represents an options class for comparing documents with sidebyside output
 type: docs
-weight: 3280
+weight: 3290
 url: /net/aspose.pdf.comparison/sidebysidecomparisonoptions/
 ---
 ## SideBySideComparisonOptions class

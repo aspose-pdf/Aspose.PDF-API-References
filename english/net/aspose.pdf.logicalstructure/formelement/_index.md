@@ -3,7 +3,7 @@ title: Class FormElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.FormElement class. Represents Form structure element in logical structure
 type: docs
-weight: 6340
+weight: 6350
 url: /net/aspose.pdf.logicalstructure/formelement/
 ---
 ## FormElement class
@@ -35,6 +35,7 @@ public sealed class FormElement : IllustrationElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/illustrationelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |

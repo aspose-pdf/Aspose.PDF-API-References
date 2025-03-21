@@ -3,7 +3,7 @@ title: Class HtmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptions class. Save options for export to Html format
 type: docs
-weight: 5550
+weight: 5560
 url: /net/aspose.pdf/htmlsaveoptions/
 ---
 ## HtmlSaveOptions class

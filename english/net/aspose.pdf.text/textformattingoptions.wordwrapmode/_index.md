@@ -3,7 +3,7 @@ title: Enum TextFormattingOptions.WordWrapMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. Defines word wrapping strategies
 type: docs
-weight: 9880
+weight: 10930
 url: /net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
 ## TextFormattingOptions.WordWrapMode enumeration

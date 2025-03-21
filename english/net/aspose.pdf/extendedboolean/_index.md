@@ -3,7 +3,7 @@ title: Enum ExtendedBoolean
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ExtendedBoolean enum. Represents boolean type that supports Undefined value
 type: docs
-weight: 4110
+weight: 4120
 url: /net/aspose.pdf/extendedboolean/
 ---
 ## ExtendedBoolean enumeration

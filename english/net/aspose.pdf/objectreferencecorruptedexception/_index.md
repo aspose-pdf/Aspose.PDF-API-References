@@ -3,7 +3,7 @@ title: Class ObjectReferenceCorruptedException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ObjectReferenceCorruptedException class. Represents an exception that is thrown when an object reference in a PDF document is found to be corrupted. That means there is no object pointed to by the link
 type: docs
-weight: 7030
+weight: 7040
 url: /net/aspose.pdf/objectreferencecorruptedexception/
 ---
 ## ObjectReferenceCorruptedException class

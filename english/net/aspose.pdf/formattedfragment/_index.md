@@ -3,7 +3,7 @@ title: Class FormattedFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FormattedFragment class. Represents abstract formatted fragment
 type: docs
-weight: 4930
+weight: 4940
 url: /net/aspose.pdf/formattedfragment/
 ---
 ## FormattedFragment class

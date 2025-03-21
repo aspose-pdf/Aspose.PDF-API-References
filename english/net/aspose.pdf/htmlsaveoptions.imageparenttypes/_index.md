@@ -3,7 +3,7 @@ title: Enum HtmlSaveOptions.ImageParentTypes
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptionsImageParentTypes enum. Enumerates possible types of images parents Image can pertain to HTML page or to SVG parent image
 type: docs
-weight: 5680
+weight: 5690
 url: /net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
 ## HtmlSaveOptions.ImageParentTypes enumeration

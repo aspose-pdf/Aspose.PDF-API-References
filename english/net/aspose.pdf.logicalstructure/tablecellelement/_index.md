@@ -3,7 +3,7 @@ title: Class TableCellElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableCellElement class. Represents a base class for table cell elements TH and TD in logical structure
 type: docs
-weight: 6750
+weight: 6760
 url: /net/aspose.pdf.logicalstructure/tablecellelement/
 ---
 ## TableCellElement class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.logicalstructure/tablecellelement/
 Represents a base class for table cell elements (TH and TD) in logical structure.
 
 ```csharp
-public abstract class TableCellElement : TableChildElement, ITextElement
+public abstract class TableCellElement : TableChildElement, IAdjustPosition, ITextElement
 ```
 
 ## Properties
@@ -46,6 +46,7 @@ public abstract class TableCellElement : TableChildElement, ITextElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -58,7 +59,7 @@ public abstract class TableCellElement : TableChildElement, ITextElement
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sets ID for structure element. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sets custom tag for structure element. |
-| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Bind a structure element to the Annotation. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Bind a structure element to the Artifact. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Bind a structure element to the content stream BDC operator. |
@@ -69,6 +70,7 @@ public abstract class TableCellElement : TableChildElement, ITextElement
 ### See Also
 
 * class [TableChildElement](../tablechildelement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * interface [ITextElement](../itextelement/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)

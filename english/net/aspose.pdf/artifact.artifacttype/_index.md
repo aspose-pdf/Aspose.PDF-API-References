@@ -1,14 +1,14 @@
 ---
 title: Enum Artifact.ArtifactType
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactType enum. Enumeration of possuble artifact types
+description: Aspose.Pdf.ArtifactArtifactType enum. Enumeration of possible artifact types
 type: docs
 weight: 2790
 url: /net/aspose.pdf/artifact.artifacttype/
 ---
 ## Artifact.ArtifactType enumeration
 
-Enumeration of possuble artifact types.
+Enumeration of possible artifact types.
 
 ```csharp
 public enum ArtifactType

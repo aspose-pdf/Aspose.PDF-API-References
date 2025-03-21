@@ -3,7 +3,7 @@ title: Class CrashReportOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CrashReportOptions class. Options for crash report generating
 type: docs
-weight: 3380
+weight: 3390
 url: /net/aspose.pdf/crashreportoptions/
 ---
 ## CrashReportOptions class

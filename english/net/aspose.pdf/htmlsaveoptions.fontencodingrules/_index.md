@@ -3,7 +3,7 @@ title: Enum HtmlSaveOptions.FontEncodingRules
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptionsFontEncodingRules enum. This enumeration defines rules which tune encoding logic
 type: docs
-weight: 5610
+weight: 5620
 url: /net/aspose.pdf/htmlsaveoptions.fontencodingrules/
 ---
 ## HtmlSaveOptions.FontEncodingRules enumeration

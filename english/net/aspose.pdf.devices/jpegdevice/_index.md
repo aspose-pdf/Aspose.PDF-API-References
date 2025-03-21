@@ -3,7 +3,7 @@ title: Class JpegDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.JpegDevice class. Represents image device that helps to save pdf document pages into jpeg
 type: docs
-weight: 3610
+weight: 3620
 url: /net/aspose.pdf.devices/jpegdevice/
 ---
 ## JpegDevice class

@@ -3,7 +3,7 @@ title: Class Document.RepairOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocumentRepairOptions class. Represents options for repairing a PDF document
 type: docs
-weight: 3830
+weight: 3840
 url: /net/aspose.pdf/document.repairoptions/
 ---
 ## Document.RepairOptions class

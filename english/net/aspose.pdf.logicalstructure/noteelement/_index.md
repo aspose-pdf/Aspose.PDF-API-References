@@ -3,7 +3,7 @@ title: Class NoteElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.NoteElement class. Represents Note structure element in logical structure
 type: docs
-weight: 6510
+weight: 6520
 url: /net/aspose.pdf.logicalstructure/noteelement/
 ---
 ## NoteElement class
@@ -36,6 +36,7 @@ public sealed class NoteElement : ILSTextElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/ilstextelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -48,7 +49,7 @@ public sealed class NoteElement : ILSTextElement
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sets ID for structure element. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sets custom tag for structure element. |
-| [SetText](../../aspose.pdf.logicalstructure/ilstextelement/settext/)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/ilstextelement/settext/)(string) |  |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Bind a structure element to the Annotation. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Bind a structure element to the Artifact. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Bind a structure element to the content stream BDC operator. |

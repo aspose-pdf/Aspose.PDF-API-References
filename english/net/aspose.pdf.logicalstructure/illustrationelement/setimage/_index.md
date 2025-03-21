@@ -3,7 +3,7 @@ title: IllustrationElement.SetImage
 second_title: Aspose.PDF for .NET API Reference
 description: IllustrationElement method. Appends image to current illustration element
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.pdf.logicalstructure/illustrationelement/setimage/
 ---
 ## SetImage(string, double) {#setimage}

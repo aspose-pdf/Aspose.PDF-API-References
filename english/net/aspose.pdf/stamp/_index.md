@@ -3,7 +3,7 @@ title: Class Stamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Stamp class. An abstract class for various kinds of stamps which come as descendants
 type: docs
-weight: 9110
+weight: 10130
 url: /net/aspose.pdf/stamp/
 ---
 ## Stamp class

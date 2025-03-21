@@ -3,7 +3,7 @@ title: Class KeyedSignatureAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo class. Represents a class for information about a keyed signature algorithm
 type: docs
-weight: 8990
+weight: 9980
 url: /net/aspose.pdf.security/keyedsignaturealgorithminfo/
 ---
 ## KeyedSignatureAlgorithmInfo class

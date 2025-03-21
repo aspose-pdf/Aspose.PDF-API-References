@@ -3,7 +3,7 @@ title: Class TableElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableElement class. Represents Table structure element in logical structure
 type: docs
-weight: 6770
+weight: 6780
 url: /net/aspose.pdf.logicalstructure/tableelement/
 ---
 ## TableElement class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.logicalstructure/tableelement/
 Represents Table structure element in logical structure.
 
 ```csharp
-public sealed class TableElement : BLSElement
+public sealed class TableElement : BLSElement, IAdjustPosition
 ```
 
 ## Properties
@@ -53,6 +53,7 @@ public sealed class TableElement : BLSElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/tableelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -78,6 +79,7 @@ public sealed class TableElement : BLSElement
 ### See Also
 
 * class [BLSElement](../blselement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
 
