@@ -3,7 +3,7 @@ title: Class DocumentFactory
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocumentFactory class. Class which allows to create/load documents of different types
 type: docs
-weight: 3850
+weight: 3860
 url: /net/aspose.pdf/documentfactory/
 ---
 ## DocumentFactory class

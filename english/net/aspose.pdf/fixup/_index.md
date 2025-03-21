@@ -3,7 +3,7 @@ title: Enum Fixup
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Fixup enum. This enum represents an type of Fixup
 type: docs
-weight: 4850
+weight: 4860
 url: /net/aspose.pdf/fixup/
 ---
 ## Fixup enumeration

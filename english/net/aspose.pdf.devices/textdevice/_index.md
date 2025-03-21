@@ -3,7 +3,7 @@ title: Class TextDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.TextDevice class. Represents class for converting pdf document pages into text
 type: docs
-weight: 3670
+weight: 3680
 url: /net/aspose.pdf.devices/textdevice/
 ---
 ## TextDevice class

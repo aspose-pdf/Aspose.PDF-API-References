@@ -16,7 +16,7 @@ public void Add(Artifact artifact)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | Artifact | Artifact which sould be added to collection. |
+| artifact | Artifact | Artifact which should be added to collection. |
 
 ### See Also
 

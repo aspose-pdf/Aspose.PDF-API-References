@@ -3,7 +3,7 @@ title: Enum PdfFileEditor.ConcatenateCorruptedFileAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction enum. Action performed when corrupted file was met in concatenation process
 type: docs
-weight: 4460
+weight: 4470
 url: /net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration

@@ -3,7 +3,7 @@ title: Class WarningInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.WarningInfo class. Immutable object for encapsulating warning information
 type: docs
-weight: 10230
+weight: 11280
 url: /net/aspose.pdf/warninginfo/
 ---
 ## WarningInfo class

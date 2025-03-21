@@ -3,7 +3,7 @@ title: Class SvgExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.SvgExtractor class. Represents a class to SVGimages extraction from page
 type: docs
-weight: 10200
+weight: 11250
 url: /net/aspose.pdf.vector/svgextractor/
 ---
 ## SvgExtractor class

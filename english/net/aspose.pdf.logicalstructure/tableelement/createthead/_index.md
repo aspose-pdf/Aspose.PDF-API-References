@@ -3,7 +3,7 @@ title: TableElement.CreateTHead
 second_title: Aspose.PDF for .NET API Reference
 description: TableElement method. Creates TableTHeadElement and added it to current table
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
 ## TableElement.CreateTHead method

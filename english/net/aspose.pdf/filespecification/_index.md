@@ -3,7 +3,7 @@ title: Class FileSpecification
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FileSpecification class. Class representing embedded file
 type: docs
-weight: 4840
+weight: 4850
 url: /net/aspose.pdf/filespecification/
 ---
 ## FileSpecification class

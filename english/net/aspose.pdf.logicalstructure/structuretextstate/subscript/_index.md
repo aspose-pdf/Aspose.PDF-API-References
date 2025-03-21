@@ -3,7 +3,7 @@ title: StructureTextState.Subscript
 second_title: Aspose.PDF for .NET API Reference
 description: StructureTextState property. Gets or sets subscript of the text
 type: docs
-weight: 110
+weight: 100
 url: /net/aspose.pdf.logicalstructure/structuretextstate/subscript/
 ---
 ## StructureTextState.Subscript property

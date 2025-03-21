@@ -3,7 +3,7 @@ title: Class SignatureLengthMismatchException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.SignatureLengthMismatchException class. Represents errors that occur during PDF signing. Occurs if SignHash is used to sign a document and the actual length of the signature is greater than that specified in the DefaultSignatureLength option
 type: docs
-weight: 9030
+weight: 10020
 url: /net/aspose.pdf.security/signaturelengthmismatchexception/
 ---
 ## SignatureLengthMismatchException class

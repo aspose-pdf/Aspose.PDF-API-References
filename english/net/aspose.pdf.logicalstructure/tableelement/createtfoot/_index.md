@@ -3,7 +3,7 @@ title: TableElement.CreateTFoot
 second_title: Aspose.PDF for .NET API Reference
 description: TableElement method. Creates TableTFootElement and added it to current table
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
 ## TableElement.CreateTFoot method

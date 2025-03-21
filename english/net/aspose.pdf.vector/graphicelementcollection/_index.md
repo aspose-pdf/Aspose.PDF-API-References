@@ -3,7 +3,7 @@ title: Class GraphicElementCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.GraphicElementCollection class. Represents GraphicElement collection
 type: docs
-weight: 10140
+weight: 11190
 url: /net/aspose.pdf.vector/graphicelementcollection/
 ---
 ## GraphicElementCollection class

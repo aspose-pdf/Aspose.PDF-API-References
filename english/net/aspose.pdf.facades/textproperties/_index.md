@@ -3,7 +3,7 @@ title: Class TextProperties
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.TextProperties class. Represents text properties such as text size color style etc
 type: docs
-weight: 4750
+weight: 4760
 url: /net/aspose.pdf.facades/textproperties/
 ---
 ## TextProperties class

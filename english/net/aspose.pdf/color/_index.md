@@ -3,7 +3,7 @@ title: Class Color
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Color class. Represents class for color value which can be expressed in different color space
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.pdf/color/
 ---
 ## Color class

@@ -3,7 +3,7 @@ title: Class FormulaElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.FormulaElement class. Represents Formula structure element in logical structure
 type: docs
-weight: 6350
+weight: 6360
 url: /net/aspose.pdf.logicalstructure/formulaelement/
 ---
 ## FormulaElement class
@@ -35,6 +35,7 @@ public sealed class FormulaElement : IllustrationElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/illustrationelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |

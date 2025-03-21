@@ -3,7 +3,7 @@ title: Class PatternColorSpace
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.PatternColorSpace class. Represents base pattern class
 type: docs
-weight: 3970
+weight: 3980
 url: /net/aspose.pdf.drawing/patterncolorspace/
 ---
 ## PatternColorSpace class

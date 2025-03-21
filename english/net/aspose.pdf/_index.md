@@ -20,6 +20,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Represents base class for operator collection. |
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
+| [BatesNArtifact](./batesnartifact/) | Class describes Bates Numbering artifact. |
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
 | [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Represents BoundsCheckableList - wrapper around System.Collections.Generic.List. |
@@ -130,7 +131,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Page](./page/) | Class representing page of PDF document. |
 | [PageActionCollection](./pageactioncollection/) | This class describes page actions |
 | [PageCollection](./pagecollection/) | Collection of PDF document pages. |
-| [PageCollectionExtension](./pagecollectionextension/) | Represents the extension method for updating header and footer pagination. |
+| [PageCollectionExtensions](./pagecollectionextensions/) | Represents the extension method for updating header and footer pagination. |
 | [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing Page Label range. |
@@ -139,6 +140,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PageNumberStamp](./pagenumberstamp/) | Represents page number stamp and used to number pages. |
 | [PageRange](./pagerange/) | Represents the range of pages for header and footer settings. |
 | [PageSize](./pagesize/) | Class representing size of page in PDF document. |
+| [PaginationArtifact](./paginationartifact/) | Represents an abstract base class for pagination artifacts in a document. |
 | [Paragraphs](./paragraphs/) | This class represents paragraph collection. |
 | [PclLoadOptions](./pclloadoptions/) | Represents options for loading(import) PCL file into pdf document. |
 | [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF specification. If flags of this clas are used it decreases performance but it's necessary when source PDF document can't be convert into PDF/A format by usual way. By default all flags are set to false. |
@@ -163,6 +165,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
 | [SaveOptions](./saveoptions/) | SaveOptions type hold level of abstraction on individual save options |
+| [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Represents a class for checking compromising signatures of the document. |
 | [Stamp](./stamp/) | An abstract class for various kinds of stamps which come as descendants. |
 | [SvgLoadOptions](./svgloadoptions/) | Represents options for loading/importing SVG file into pdf document. |
 | [SvgSaveOptions](./svgsaveoptions/) | Save options for export to SVG format |
@@ -270,6 +273,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [`Warning`](../aspose.pdf/iwarningcallback/warning/) method. |
 | [Rotation](./rotation/) | Enumeration of possible rotation values. |
 | [SaveFormat](./saveformat/) | Specifies format |
+| [Subset](./subset/) | Represents the subset of pages to which a pagination artifact can apply. |
 | [TableBroken](./tablebroken/) | Enumerates the table broken. |
 | [TabOrder](./taborder/) | Tab order on the page |
 | [TeXLoadResult](./texloadresult/) | Results for TeX load and compiling. |

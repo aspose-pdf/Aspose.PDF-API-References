@@ -3,7 +3,7 @@ title: Enum FileEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FileEncoding enum. Encoding of the attached file. Possible values Zip  file is compressed with ZIP None  file is non compressed
 type: docs
-weight: 4810
+weight: 4820
 url: /net/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enumeration

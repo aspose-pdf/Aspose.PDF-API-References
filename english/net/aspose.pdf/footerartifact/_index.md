@@ -3,7 +3,7 @@ title: Class FooterArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FooterArtifact class. Describes footer artifact. This may be used to set footer of the page
 type: docs
-weight: 4920
+weight: 4930
 url: /net/aspose.pdf/footerartifact/
 ---
 ## FooterArtifact class

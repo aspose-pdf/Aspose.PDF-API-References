@@ -3,7 +3,7 @@ title: Aspose.Pdf.Security
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.security/
 ---
 The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.

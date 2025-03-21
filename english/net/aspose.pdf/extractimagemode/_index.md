@@ -3,7 +3,7 @@ title: Enum ExtractImageMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ExtractImageMode enum. Defines different modes which can be used while extracting images from documents
 type: docs
-weight: 4120
+weight: 4130
 url: /net/aspose.pdf/extractimagemode/
 ---
 ## ExtractImageMode enumeration

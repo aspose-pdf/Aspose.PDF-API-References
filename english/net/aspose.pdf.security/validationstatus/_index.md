@@ -3,7 +3,7 @@ title: Enum ValidationStatus
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.ValidationStatus enum. Represents the validation status of a certificate validation
 type: docs
-weight: 9100
+weight: 10090
 url: /net/aspose.pdf.security/validationstatus/
 ---
 ## ValidationStatus enumeration

@@ -3,7 +3,7 @@ title: Class MCRElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.MCRElement class. Represents markedcontent reference object in logical structure
 type: docs
-weight: 6490
+weight: 6500
 url: /net/aspose.pdf.logicalstructure/mcrelement/
 ---
 ## MCRElement class
@@ -19,8 +19,6 @@ public sealed class MCRElement : Element
 | Name | Description |
 | --- | --- |
 | [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Gets children collection of Element objects. |
-| [Content](../../aspose.pdf.logicalstructure/mcrelement/content/) { get; } | Gets text content for marked-content reference element. |
-| [ImageSrc](../../aspose.pdf.logicalstructure/mcrelement/imagesrc/) { get; } | Gets image source for marked-content reference element. |
 | [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid/) { get; } | Gets MCID of marked-content reference object. |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Get parent element. |
 

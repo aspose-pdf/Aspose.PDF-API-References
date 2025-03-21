@@ -70,7 +70,7 @@ public class Artifact : IDisposable
 | Name | Description |
 | --- | --- |
 | enum [ArtifactSubtype](../../aspose.pdf/artifact.artifactsubtype) | Enumeration of possible artifacts subtype. |
-| enum [ArtifactType](../../aspose.pdf/artifact.artifacttype) | Enumeration of possuble artifact types. |
+| enum [ArtifactType](../../aspose.pdf/artifact.artifacttype) | Enumeration of possible artifact types. |
 
 ### See Also
 

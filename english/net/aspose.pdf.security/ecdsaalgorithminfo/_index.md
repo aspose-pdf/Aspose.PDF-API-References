@@ -3,7 +3,7 @@ title: Class EcdsaAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.EcdsaAlgorithmInfo class. Represents a class for the information about the ECDSA signature algorithm
 type: docs
-weight: 8980
+weight: 9970
 url: /net/aspose.pdf.security/ecdsaalgorithminfo/
 ---
 ## EcdsaAlgorithmInfo class

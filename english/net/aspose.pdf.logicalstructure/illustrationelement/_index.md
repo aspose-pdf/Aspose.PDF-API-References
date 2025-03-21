@@ -3,7 +3,7 @@ title: Class IllustrationElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.IllustrationElement class. Represents a base class for illustration structure elements in logical structure
 type: docs
-weight: 6410
+weight: 6420
 url: /net/aspose.pdf.logicalstructure/illustrationelement/
 ---
 ## IllustrationElement class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.logicalstructure/illustrationelement/
 Represents a base class for illustration structure elements in logical structure.
 
 ```csharp
-public abstract class IllustrationElement : StructureElement
+public abstract class IllustrationElement : StructureElement, IAdjustPosition
 ```
 
 ## Properties
@@ -35,6 +35,7 @@ public abstract class IllustrationElement : StructureElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/illustrationelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -59,6 +60,7 @@ public abstract class IllustrationElement : StructureElement
 ### See Also
 
 * class [StructureElement](../structureelement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
 

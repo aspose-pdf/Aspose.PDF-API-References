@@ -1,22 +1,16 @@
 ---
 title: LinkElement.SetText
 second_title: Aspose.PDF for .NET API Reference
-description: LinkElement method. Appends text content to current text element
+description: LinkElement method. 
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.logicalstructure/linkelement/settext/
 ---
 ## LinkElement.SetText method
 
-Appends text content to current text element.
-
 ```csharp
 public void SetText(string text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String | Text content. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class TeXMemoryOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXMemoryOutputDirectory class. Implements fetching an output stream from memory. You can use it for example when you dont want the accompanying output like a log file to be written to disk but youd like to read it afterwards from memory
 type: docs
-weight: 9340
+weight: 10390
 url: /net/aspose.pdf/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory class

@@ -3,7 +3,7 @@ title: Class TOCElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TOCElement class. Represents TOC structure element in logical structure
 type: docs
-weight: 6730
+weight: 6740
 url: /net/aspose.pdf.logicalstructure/tocelement/
 ---
 ## TOCElement class

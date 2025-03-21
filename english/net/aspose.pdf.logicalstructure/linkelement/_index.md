@@ -3,7 +3,7 @@ title: Class LinkElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.LinkElement class. Represents Link structure element in logical structure
 type: docs
-weight: 6430
+weight: 6440
 url: /net/aspose.pdf.logicalstructure/linkelement/
 ---
 ## LinkElement class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.logicalstructure/linkelement/
 Represents Link structure element in logical structure.
 
 ```csharp
-public sealed class LinkElement : AnnotationElement, ITextElement
+public sealed class LinkElement : AnnotationElement, IAdjustPosition, ITextElement
 ```
 
 ## Properties
@@ -38,6 +38,7 @@ public sealed class LinkElement : AnnotationElement, ITextElement
 
 | Name | Description |
 | --- | --- |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/linkelement/adjustposition/)(PositionSettings) |  |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
@@ -50,7 +51,7 @@ public sealed class LinkElement : AnnotationElement, ITextElement
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sets ID for structure element. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sets custom tag for structure element. |
-| [SetText](../../aspose.pdf.logicalstructure/linkelement/settext/)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/linkelement/settext/)(string) |  |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Bind a structure element to the Annotation. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Bind a structure element to the Artifact. |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Bind a structure element to the content stream BDC operator. |
@@ -61,6 +62,7 @@ public sealed class LinkElement : AnnotationElement, ITextElement
 ### See Also
 
 * class [AnnotationElement](../annotationelement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
 * interface [ITextElement](../itextelement/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)

@@ -3,7 +3,7 @@ title: Class ElementCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Structure.ElementCollection class. Collection of base logical structure elements
 type: docs
-weight: 9130
+weight: 10150
 url: /net/aspose.pdf.structure/elementcollection/
 ---
 ## ElementCollection class

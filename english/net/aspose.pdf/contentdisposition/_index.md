@@ -3,7 +3,7 @@ title: Enum ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ContentDisposition enum. MIME protocol ContentDisposition header
 type: docs
-weight: 3340
+weight: 3350
 url: /net/aspose.pdf/contentdisposition/
 ---
 ## ContentDisposition enumeration
