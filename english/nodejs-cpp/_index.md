@@ -61,6 +61,7 @@ is_root: true
 | [AsposePdfRotateAllPages](./organize/asposepdfrotateallpages/) | Rotate PDF-pages. |
 | [AsposePdfDeletePages](./organize/asposepdfdeletepages/) | Delete pages from a PDF-file. |
 | [AsposePdfAddStamp](./organize/asposepdfaddstamp/) | Add stamp to a PDF-file. |
+| [AsposePdfAddStampPages](./organize/asposepdfaddstamppages/) | Add stamp to specific pages in a PDF-file. |
 | [AsposePdfAddImage](./organize/asposepdfaddimage/) | Add an image to end a PDF-file. |
 | [AsposePdfAddPageNum](./organize/asposepdfaddpagenum/) | Add page number to a PDF-file. |
 | [AsposePdfAddBackgroundImage](./organize/asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |

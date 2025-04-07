@@ -1,0 +1,140 @@
+---
+title: "AsposePdfAddStampPages"
+second_title: Aspose.PDF for JavaScript via C++
+description: "Add stamp to specific pages in a PDF-file."
+type: docs
+url: /javascript-cpp/organize/asposepdfaddstamppages/
+---
+
+_Add stamp to specific pages in a PDF-file._
+
+```js
+function AsposePdfAddStampPages(
+    fileBlob,
+    fileName,
+    fileStamp,
+    setBackground,
+    setXIndent,
+    setYIndent,
+    setHeight,
+    setWidth,
+    rotation,
+    setOpacity,
+    numPages,
+    fileNameResult
+)
+```
+
+**Parameters**:
+
+* **fileBlob** Blob object
+* **fileName** file name 
+* **fileStamp** stamp (image) file name 
+* **setBackground** background (1 or 0) 
+* **setXIndent** x indent stamp 
+* **setYIndent** y indent stamp 
+* **setHeight** height stamp 
+* **setWidth** width stamp 
+* **rotation** stamp rotation:
+  * Module.Rotation.None
+  * Module.Rotation.on90
+  * Module.Rotation.on180
+  * Module.Rotation.on270 
+* **setOpacity** opacity stamp (decimal) 
+* **numPages** page numbers:
+  * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
+  * array, array of page numbers, such as [1,3]
+  * number, page number as 2
+* **fileNameResult** result file name
+
+**Return**: 
+
+JSON object 
+
+* **errorCode** - code error (0 no error)
+* **errorText** - text error ("" no error)
+* **fileNameResult** - result file name
+
+
+**Web Worker example**:
+```js
+  /*Create Web Worker*/
+  const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+  AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 'loaded!' :
+      (evt.data.json.errorCode == 0) ? `Result:\n${(evt.data.operation == 'AsposePdfPrepare') ? 'image prepared!': DownloadFile(evt.data.json.fileNameResult, "application/pdf", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
+
+  /*Set the default stamp filename: 'Aspose.jpg' already loaded, see settings in 'settings.json'*/
+  var fileStamp = "Aspose.jpg";
+
+  /*Event handler*/
+  const ffileAddStampPages = e => {
+    const file_reader = new FileReader();
+    file_reader.onload = event => {
+      const setBackground = 0;
+      const setXIndent_ = 15;
+      const setYIndent_ = 15;
+      const setHeight_ = 50;
+      const setWidth_ = 50;
+      const rotation_ = 'Module.Rotation.on90';
+      const setOpacity = 0.7;
+      const numPage = 1;
+      /*Add stamp to a PDF-file on page #1 and save the "ResultStampPages.pdf" - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfAddStampPages', "params": [event.target.result, e.target.files[0].name, fileStamp, setBackground, setXIndent_, setYIndent_, setHeight_, setWidth_, rotation_, setOpacity, numPage, "ResultStampPages.pdf"] }, [event.target.result]);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  const ffileStamp = e => {
+    const file_reader = new FileReader();
+    /*Set the stamp filename*/
+    fileStamp = e.target.files[0].name;
+    file_reader.onload = event => {
+      /*Save the BLOB in the Memory FS for processing*/
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfPrepare', "params": [event.target.result, e.target.files[0].name] }, [event.target.result]);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  /*Make a link to download the result file*/
+  const DownloadFile = (filename, mime, content) => {
+      mime = mime || "application/octet-stream";
+      var link = document.createElement("a"); 
+      link.href = URL.createObjectURL(new Blob([content], {type: mime}));
+      link.download = filename;
+      link.innerHTML = "Click here to download the file " + filename;
+      document.body.appendChild(link); 
+      document.body.appendChild(document.createElement("br"));
+      return filename;
+    }
+```
+**Simple example**:
+```js
+  /*Set the default stamp filename*/
+  var fileStamp = "/Aspose.jpg";
+
+  var ffileStamp = function (e) {
+    const file_reader = new FileReader();
+    /*Set the stamp filename*/
+    fileStamp = e.target.files[0].name;
+    file_reader.onload = (event) => {
+      /*Save the BLOB in the Memory FS for processing*/
+      AsposePdfPrepare(event.target.result, fileStamp);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  var ffileAddStampPages = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Add stamp to a PDF-file on page #1 and save the "ResultStampPages.pdf"*/
+      const json = AsposePdfAddStampPages(event.target.result, e.target.files[0].name, fileStamp, 0, 15, 15, 50, 50, Module.Rotation.on90, 0.7, 1, "ResultStampPages.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+```
