@@ -151,7 +151,7 @@ evt.data.json.errorCode !== 0
         + "\nAttachment count  : " + json.attachmentcount
         + "\nMetadata count    : " + json.metadatacount
         + "\nJavaScript count  : " + json.javascriptcount
-        + "\nImage count       : " + json.imagecount;
+        + "\nImage count       : " + json.imagecount
       else document.getElementById('output').textContent = json.errorText;
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

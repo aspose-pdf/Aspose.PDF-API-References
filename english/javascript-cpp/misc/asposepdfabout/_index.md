@@ -65,7 +65,7 @@ JSON object
                                                                          + "\nVersion      : " + json.version
                                                                          + "\nRelease date : " + json.releasedate
                                                                          + "\nProducer     : " + json.producer
-                                                                         + "\nIs licensed  : " + json.islicensed;
+                                                                         + "\nIs licensed  : " + json.islicensed
     else document.getElementById('output').textContent = json.errorText;
   }
 ```

@@ -130,7 +130,7 @@ JSON object
     file_reader.onload = (event) => {
       /*Add stamp to a PDF-file on page #1 and save the "ResultStampPages.pdf"*/
       const json = AsposePdfAddStampPages(event.target.result, e.target.files[0].name, fileStamp, 0, 15, 15, 50, 50, Module.Rotation.on90, 0.7, 1, "ResultStampPages.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
       else document.getElementById('output').textContent = json.errorText;
       /*Make a link to download the result file*/
       DownloadFile(json.fileNameResult, "application/pdf");

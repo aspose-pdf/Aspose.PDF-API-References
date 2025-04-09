@@ -66,7 +66,7 @@ JSON object
     file_reader.onload = (event) => {
       /*Convert a PDF-file to SVG(zip) and save the "ResultPdfToSvgZip.zip"*/
       const json = AsposePdfPagesToSvgZip(event.target.result, e.target.files[0].name, "ResultPdfToSvgZip.zip");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
       else document.getElementById('output').textContent = json.errorText;
       /*Make a link to download the result file*/
       DownloadFile(json.fileNameResult, "application/zip");
