@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Cette classe représente un ensemble de données liées à lenregistrement du fichier image de ressource externe lors de la conversion PDF en HTML.
+title: Class HtmlSaveOptions.HtmlImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo. Cette classe représente un ensemble de données liées à la sauvegarde des fichiers d'image de ressources externes lors de la conversion de PDF en HTML
 type: docs
-weight: 3510
+weight: 5640
 url: /fr/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo class
+## Classe HtmlSaveOptions.HtmlImageSavingInfo
 
-Cette classe représente un ensemble de données liées à l'enregistrement du fichier image de ressource externe lors de la conversion PDF en HTML.
+Cette classe représente un ensemble de données liées à la sauvegarde des fichiers d'image de ressources externes lors de la conversion de PDF en HTML.
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
@@ -16,33 +16,31 @@ public class HtmlImageSavingInfo : ResourceSavingInfo
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | Default_Constructor |
+| [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/.ctor)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Défini par le convertisseur. Nom de fichier supposé qui va du convertisseur au code de la méthode personnalisée Peut être utilisé dans le code personnalisé pour décider comment traiter ou où enregistrer ce fichier |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Défini par le convertisseur. Nom de fichier supposé qui passe du convertisseur au code de la méthode personnalisée. Peut être utilisé dans le code personnalisé pour décider comment traiter ou où sauvegarder ce fichier. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Défini par le convertisseur. Représente le contenu binaire du fichier enregistré. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | cet indicateur doit être défini sur "true" dans le code personnalisé si, pour certaines raisons, le fichier proposé doit être traité non pas avec un code personnalisé mais avec le code du convertisseur lui-même en standard pour le convertisseur. Ainsi, ce paramètre défini sur true signifie que le code personnalisé n'a pas traité le fichier référencé et que le convertisseur doit le gérer lui-même (dans les deux sens - pour enregistrer quelque part et pour nommer dans le fichier de référence). |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/htmlhostpagenumber) | Indique au code personnalisé à quelle page de l'ensemble généré de fichiers de page HTML appartient l'image enregistrée. Si le fractionnement sur les pages est désactivé, cette valeur contient toujours '1' puisque dans ce cas Une seule page HTML est générée. |
-| [ImageType](../../aspose.pdf/htmlimagesavinginfo/imagetype) | Représente le type d'image enregistrée référencé dans HTML. Défini par le convertisseur et peut être utilisé dans le code personnalisé pour décider de ce qui doit être fait |
-| [ParentType](../../aspose.pdf/htmlimagesavinginfo/parenttype) | L'image enregistrée peut appartenir au HTML lui-même ou peut être extraite. du SVG intégré au HTML. Cette propriété peut indiquer au code personnalisé quel est ce type de parent de l'image traitée. Il est défini par le convertisseur et peut être utilisé dans le code personnalisé pour décider de ce qui doit être fait avec cette image (par exemple, le code personnalisé peut décider où enregistrer l'image ou comment elle doit être référencée dans le contenu du parent). |
-| [PdfHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/pdfhostpagenumber) | Indique au code personnalisé à quelle page du document PDF original appartient l'image enregistrée Puisqu'il est possible que toutes les pages du document original ne soient pas enregistrées, cette valeur nous indique le numéro de page hôte dans le PDF original. Si le numéro de page d'origine pour une raison quelconque est inconnu, il renvoie toujours '1' |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Défini par le convertisseur. Nom de fichier supposé qui va du convertisseur au code de la méthode personnalisée Peut être utilisé dans le code personnalisé pour décider comment traiter ou où enregistrer ce fichier |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Défini par le convertisseur. Représente le contenu binaire du fichier sauvegardé. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Ce drapeau doit être défini sur "true" dans le code personnalisé si, pour une raison quelconque, le fichier proposé doit être traité non pas avec le code personnalisé mais avec le code du convertisseur lui-même de manière standard pour le convertisseur. Ainsi, le fait de le définir sur true signifie que le code personnalisé n'a pas traité le fichier référencé et que le convertisseur doit le gérer lui-même (dans les deux sens - pour le sauvegarder quelque part et pour le nommer dans le fichier référencé). |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | Indique au code personnalisé à quelle page de l'ensemble généré de fichiers HTML la sauvegarde de l'image se rapporte. Si le fractionnement en pages est désactivé, cette valeur contient toujours '1' car dans ce cas, une seule page HTML est générée. |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | Représente le type d'image sauvegardée référencée dans HTML. Défini par le convertisseur et peut être utilisé dans le code personnalisé pour décider ce qui doit être fait. |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | L'image sauvegardée peut se rapporter à HTML lui-même ou peut être extraite d'un SVG intégré dans HTML. Cette propriété peut indiquer au code personnalisé quel est le type de parent de l'image traitée. Elle est définie par le convertisseur et peut être utilisée dans le code personnalisé pour décider ce qui doit être fait avec cette image (par exemple, le code personnalisé peut décider où sauvegarder l'image ou comment elle doit être référencée dans le contenu parent). |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | Indique au code personnalisé à quelle page du document PDF original l'image sauvegardée se rapporte. Étant donné qu'il est possible que toutes les pages du document original ne soient pas sauvegardées, cette valeur nous indique le numéro de page hôte dans le PDF original. Si le numéro de page original est inconnu pour une raison quelconque, il renvoie toujours '1'. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Défini par le convertisseur. Nom de fichier supposé qui passe du convertisseur au code de la méthode personnalisée. Peut être utilisé dans le code personnalisé pour décider comment traiter ou où sauvegarder ce fichier. |
 
-### Voir également
+### Voir aussi
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,45 +1,43 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Esta clase representa un conjunto de datos relacionados con el archivo de imagen de recurso externo guardado durante la conversión de PDF a HTML.
+title: Class SvgSaveOptions.SvgImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo. Esta clase representa un conjunto de datos relacionados con el guardado de archivos de imagen de recursos externos durante la conversión de PDF a HTML.
 type: docs
-weight: 6480
+weight: 10260
 url: /es/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo class
 
-Esta clase representa un conjunto de datos relacionados con el archivo de imagen de recurso externo guardado durante la conversión de PDF a HTML.
+Esta clase representa un conjunto de datos relacionados con el guardado de archivos de imagen de recursos externos durante la conversión de PDF a HTML.
 
 ```csharp
 public class SvgImageSavingInfo : ResourceSavingInfo
 ```
 
-## Constructores
+## Constructors
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [SvgImageSavingInfo](svgimagesavinginfo)() | Constructor predeterminado |
+| [SvgImageSavingInfo](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/.ctor)() | El constructor predeterminado. |
 
-## Propiedades
+## Properties
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Establecido por convertidor. Supuesto nombre de archivo que va del convertidor al código del método personalizado Se puede usar en código personalizado para decidir cómo procesar o dónde guardar ese archivo |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Establecido por el convertidor. Nombre de archivo supuesto que va del convertidor al código del método personalizado. Puede usarse en el código personalizado para decidir cómo procesar o dónde guardar ese archivo. |
 
-## Campos
+## Fields
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Establecido por convertidor. Representa el contenido binario del archivo guardado. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | este indicador debe establecerse en "verdadero" en el código personalizado si, por alguna razón, el archivo propuesto debe procesarse no con el código personalizado sino con el propio código del convertidor de forma estándar para el convertidor. Por lo tanto, su configuración establecida en verdadero significa que el código personalizado no procesó el archivo de referencia y el convertidor debe manejarlo por sí mismo (en ambos sentidos, para guardar en algún lugar y para nombrar en el archivo de referencia). |
-| [ImageType](../../aspose.pdf/svgimagesavinginfo/imagetype) | representa el tipo de imagen guardada a la que se hace referencia en HTML. Establecido por el convertidor y se puede usar en el código personalizado para decidir qué se debe hacer |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Establecido por convertidor. Supuesto nombre de archivo que va del convertidor al código del método personalizado Se puede usar en código personalizado para decidir cómo procesar o dónde guardar ese archivo |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Establecido por el convertidor. Representa el contenido binario del archivo guardado. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Esta bandera debe establecerse en "true" en el código personalizado si por alguna razón el archivo propuesto debe ser procesado no con código personalizado, sino con el código del convertidor en su forma estándar. Por lo tanto, establecerlo en true significa que el código personalizado no procesó el archivo referenciado y el convertidor debe manejarlo por sí mismo (en ambos sentidos: para guardarlo en algún lugar y para nombrarlo en el archivo de referencia). |
+| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | Representa el tipo de imagen guardada referenciada en HTML. Establecido por el convertidor y puede ser utilizado en el código personalizado para decidir qué se debe hacer. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Establecido por el convertidor. Nombre de archivo supuesto que va del convertidor al código del método personalizado. Puede usarse en el código personalizado para decidir cómo procesar o dónde guardar ese archivo. |
 
-### Ver también
+### See Also
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [SvgSaveOptions](../svgsaveoptions)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* class [SvgSaveOptions](../svgsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,39 +1,37 @@
 ---
-title: AnnotationFlags
-second_title: Aspose.PDF for .NET API Referansı
-description: Açıklamanın çeşitli özelliklerini belirten bir dizi işaret.
+title: Enum AnnotationFlags
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.AnnotationFlags enum. Notun çeşitli özelliklerini belirten bir dizi bayrak
 type: docs
-weight: 110
+weight: 1440
 url: /tr/net/aspose.pdf.annotations/annotationflags/
 ---
-## AnnotationFlags enumeration
+## AnnotationFlags enumerasyonu
 
-Açıklamanın çeşitli özelliklerini belirten bir dizi işaret.
+Notun çeşitli özelliklerini belirten bir dizi bayrak.
 
 ```csharp
 [Flags]
 public enum AnnotationFlags
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Default | `0` | Varsayılan değer. |
-| Invisible | `1` | Ayarlanırsa, standart açıklama türlerinden birine ait değilse ve açıklama işleyicisi yoksa açıklamayı görüntülemeyin. Temizse, böyle bir bilinmeyen annotation varsa, görünüm sözlüğü tarafından belirtilen bir görünüm akışını kullanarak görüntüleyin. |
-| Hidden | `2` | Ayarlanırsa, açıklamayı görüntüleme veya yazdırma veya kullanıcı ile etkileşime girmesine izin vermeyin, açıklama türü veya bir açıklama işleyicisi olup olmadığına bakılmaksızın. Ekran alanının sınırlı olduğu durumlarda, açıklamaları gizleme ve gösterme yeteneği selectly , işlev olarak çevrimiçi yardım sistemlerine benzer yardımcı açılır bilgileri görüntülemek için görünüm akışlarıyla birlikte kullanılabilir . |
-| Print | `4` | Ayarlanırsa, sayfa yazdırıldığında ek açıklamayı yazdırın. Temizse, ekranda görüntülenip görüntülenmediğine bakılmaksızın, ek açıklamasını asla yazdırmayın. Bu, örneğin, yazdırılan sayfada anlamlı bir amaca hizmet etmeyecek etkileşimli butonları temsil eden ek açıklamalar için yararlı olabilir. |
-| NoZoom | `8` | Ayarlanırsa, ek açıklamanın görünümünü sayfanın büyütme oranıyla eşleşecek şekilde ölçeklendirmeyin. Ek açıklamanın sayfadaki konumu (açıklama dikdörtgeninin sol üst köşesiyle tanımlanır) sayfadan bağımsız olarak sabit kalır büyütme. |
-| NoRotate | `10` | Ayarlanırsa, ek açıklamanın görünümünü sayfanın dönüşüyle eşleşecek şekilde döndürmeyin. Ek açıklama dikdörtgeninin sol üst köşesi, sayfa dönüşünden bağımsız olarak, sayfada sabit bir konumda kalır. |
-| NoView | `20` | Ayarlanırsa, ek açıklamayı ekranda görüntülemeyin veya kullanıcı ile etkileşime girmesine izin vermeyin. Açıklama yazdırılabilir (Yazdır bayrağının ayarına bağlı olarak) ancak ekranda görüntüleme amacıyla gizli olarak kabul edilmelidir. ve kullanıcı etkileşimi. |
-| ReadOnly | `40` | Ayarlanırsa, ek açıklamanın kullanıcıyla etkileşime girmesine izin vermeyin. Açıklama, görüntülenebilir veya yazdırılabilir (NoView ve Print bayraklarının ayarlarına bağlı olarak), ancak mouse tıklamalarına yanıt vermemeli veya fare hareketlerine yanıt olarak görünümünü değiştirmemelidir. Bu bayrak, pencere öğesi açıklamaları için yok sayılır; işlevi, ilişkili form alanının ReadOnly bayrağı tarafından toplanır. |
-| Locked | `80` | Ayarlanırsa, notun silinmesine veya özelliklerinin (konum ve boyut dahil) kullanıcı tarafından değiştirilmesine izin vermeyin. Ancak bu bayrak, ek açıklamanın içeriğindeki değişiklikleri kısıtlamaz, , örneğin bir form alanının değeri gibi. |
-| ToggleNoView | `100` | Ayarlanırsa, belirli olaylar için NoView bayrağının yorumunu tersine çevirin. Tipik bir kullanım, yalnızca fare imleci üzerinde tutulduğunda görünen bir ek açıklama kullanmaktır. |
-| LockedContents | `200` | Ayarlanırsa, not içeriğinin kullanıcı tarafından değiştirilmesine izin vermeyin. Bu işaret, notun silinmesini veya konum ve boyut gibi diğer not özelliklerinde yapılan değişiklikleri kısıtlamaz. |
+| Varsayılan | `0` | Varsayılan değer. |
+| Görünmez | `1` | Ayarlandığında, not standart not türlerinden birine ait değilse ve hiçbir not işleyici mevcut değilse notu görüntüleme. Temizse, böyle bir bilinmeyen notu, varsa görünüm sözlüğü tarafından belirtilen bir görünüm akışı kullanarak görüntüle. |
+| Gizli | `2` | Ayarlandığında, notu görüntüleme veya yazdırma veya kullanıcının etkileşimde bulunmasına izin verme, not türüne veya bir not işleyicisinin mevcut olup olmadığına bakılmaksızın. Ekran alanı sınırlı olduğunda, notları seçici olarak gizleme ve gösterme yeteneği, çevrimiçi yardım sistemlerine benzer işlevsellikte yardımcı açılır bilgileri görüntülemek için görünüm akışları ile birleştirilebilir. |
+| Yazdır | `4` | Ayarlandığında, sayfa yazdırıldığında notu yazdır. Temizse, not ekran üzerinde görüntülense bile asla yazdırma. Bu, örneğin, yazdırılmış sayfada anlamlı bir amaç taşımayan etkileşimli butonları temsil eden notlar için yararlı olabilir. |
+| Yakınlaştırma Yok | `8` | Ayarlandığında, notun görünümünü sayfanın büyütmesiyle eşleşecek şekilde ölçeklendirme. Notun sayfadaki yeri (not dikdörtgeninin sol üst köşesi tarafından tanımlanır) sabit kalır, sayfa büyütmesine bakılmaksızın. |
+| Döndürme Yok | `10` | Ayarlandığında, notun görünümünü sayfanın döndürmesine eşleşecek şekilde döndürme. Not dikdörtgeninin sol üst köşesi, sayfa döndürmesine bakılmaksızın sayfada sabit bir konumda kalır. |
+| Görünüm Yok | `20` | Ayarlandığında, notu ekranda görüntüleme veya kullanıcının etkileşimde bulunmasına izin verme. Not yazdırılabilir (Yazdır bayrağının ayarına bağlı olarak) ancak ekran görüntüleme ve kullanıcı etkileşimi açısından gizli olarak kabul edilmelidir. |
+| Sadece Okunur | `40` | Ayarlandığında, notun kullanıcı ile etkileşimde bulunmasına izin verme. Not görüntülenebilir veya yazdırılabilir (Görünüm Yok ve Yazdır bayraklarının ayarlarına bağlı olarak) ancak fare tıklamalarına yanıt vermemeli veya fare hareketlerine yanıt olarak görünümünü değiştirmemelidir. Bu bayrak, widget notları için göz ardı edilir; işlevi, ilişkili form alanının Sadece Okunur bayrağı tarafından kapsanır. |
+| Kilitli | `80` | Ayarlandığında, notun silinmesine veya özelliklerinin (konum ve boyut dahil) kullanıcı tarafından değiştirilmesine izin verme. Ancak, bu bayrak, bir form alanının değeri gibi notun içeriğinde değişiklikleri kısıtlamaz. |
+| Görünüm Yok Değiştir | `100` | Ayarlandığında, belirli olaylar için Görünüm Yok bayrağının yorumunu tersine çevir. Tipik bir kullanım, üzerine fare imleci tutulduğunda yalnızca görünen bir not olmaktır. |
+| Kilitli İçerikler | `200` | Ayarlandığında, notun içeriğinin kullanıcı tarafından değiştirilmesine izin verme. Bu bayrak, notun silinmesini veya diğer not özelliklerinde (konum ve boyut gibi) değişiklikleri kısıtlamaz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../)

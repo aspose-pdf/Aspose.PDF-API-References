@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment
-second_title: Aspose.PDF for .NET API Referansı
-description: Html parçasını temsil eder.
+title: Class HtmlFragment
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlFragment sınıfı. Html parçasını temsil eder
 type: docs
-weight: 3390
+weight: 5520
 url: /tr/net/aspose.pdf/htmlfragment/
 ---
-## HtmlFragment class
+## HtmlFragment Sınıfı
 
 Html parçasını temsil eder.
 
@@ -14,41 +14,39 @@ Html parçasını temsil eder.
 public sealed class HtmlFragment : FormattedFragment
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [HtmlFragment](htmlfragment)(string) | HtmlFragment sınıfının yeni bir örneğini başlatır. |
+| [HtmlFragment](htmlfragment/)(string) | HtmlFragment sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | paragrafının yatay hizalamasını alır veya ayarlar |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | HTML'nin bu sınıf örneğine yüklenmesi (ve işlenmesi) için kullanılacak HtmlLoadOptions'ı alır veya ayarlar. Lütfen gerektiğinde bunu kullanın Şu veya bu örnek için HTML içe aktarmak için özel ayarı kullanın instance (bu veya bu örnek gerektiğinde fe içe aktarılan HTML için belirli BasePath kullanın veya harici kaynakların belirli yükleyicisini kullanmalısınız) Parametre varsayılan (boş) ise, standart HTML yükleme seçenekleri kullanılacaktır. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Parça köprüsünü alır veya ayarlar (pdf oluşturucu için). |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | break sözcüklerini alır veya ayarlar |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Bu paragrafın sonraki sütunda olup olmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Satır içi bir paragraf alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Bu paragrafı yeni sayfada oluşturmaya zorlayan bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Geçerli paragrafın sonraki paragrafla birlikte aynı sayfada kalıp kalmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin) { get; set; } | Alır veya ayarlar paragrafın varsayılan marjı vardır, aksi halde marj 0 |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Paragraf için bir dış kenar boşluğu alır veya ayarlar (pdf oluşturma için) |
-| [Rectangle](../../aspose.pdf/htmlfragment/rectangle) { get; } | HtmlFragment 'nin dikdörtgenini alır |
-| [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | font alır veya ayarlar |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | paragrafının dikey hizalamasını alır veya ayarlar |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Grafiğin Z sırasını gösteren bir int değeri alır veya ayarlar. Daha büyük ZIndex içeren bir grafik, daha küçük ZIndex içeren grafiğin üzerine yerleştirilecektir. ZIndex negatif olabilir. Negatif ZIndex içeren grafik, sayfadaki metnin arkasına yerleştirilecektir. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Paragrafın yatay hizalamasını alır veya ayarlar |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions/) { get; set; } | Bu sınıfın örneğine HTML yüklemek (ve render etmek) için kullanılacak HtmlLoadOptions'ı alır veya ayarlar. Bu veya şu örnek için HTML içe aktarmak için belirli bir ayar kullanmak gerektiğinde kullanın (örneğin, bu veya şu örneğin içe aktarılan HTML için belirli bir BasePath kullanması gerektiğinde veya dış kaynakların belirli bir yükleyicisini kullanması gerektiğinde). Parametre varsayılan ise (null), standart HTML yükleme seçenekleri kullanılacaktır. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Parça hiperlinkini alır veya ayarlar (pdf oluşturucu için). |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords/) { get; set; } | Kelimelerin kırılmasını alır veya ayarlar |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Bu paragrafın bir sonraki sütunda olup olmadığını belirten bir bool değerini alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Paragrafın satır içi olup olmadığını alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Bu paragrafın yeni bir sayfada oluşturulmasını zorlayan bir bool değerini alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mevcut paragrafın bir sonraki paragrafla aynı sayfada kalıp kalmayacağını belirten bir bool değerini alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin/) { get; set; } | Paragrafın varsayılan bir kenar boşluğuna sahip olup olmadığını alır veya ayarlar, aksi takdirde kenar boşluğu 0'dır |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Paragraf için dış kenar boşluğunu alır veya ayarlar (pdf oluşturma için) |
+| [Rectangle](../../aspose.pdf/htmlfragment/rectangle/) { get; } | HtmlFragment'in dikdörtgenini alır |
+| [TextState](../../aspose.pdf/htmlfragment/textstate/) { get; set; } | Fontu alır veya ayarlar |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Paragrafın dikey hizalamasını alır veya ayarlar |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Grafiğin Z-sırasını belirten bir int değerini alır veya ayarlar. Daha büyük ZIndex'e sahip bir grafik, daha küçük ZIndex'e sahip grafiğin üzerine yerleştirilecektir. ZIndex negatif olabilir. Negatif ZIndex'e sahip grafik, sayfadaki metnin arkasına yerleştirilecektir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Clone](../../aspose.pdf/htmlfragment/clone)() | html parçasını klonlar. |
+| override [Clone](../../aspose.pdf/htmlfragment/clone/)() | Html parçasını kopyalar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedFragment](../formattedfragment)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [FormattedFragment](../formattedfragment/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

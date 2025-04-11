@@ -1,58 +1,58 @@
 ---
-title: ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Referansı
-description: Görüntü yerleştirme nesnelerinin bir emici nesnesini temsil eder. Görüntü kullanımlarında arama yapar ve aracılığıyla arama sonuçlarına erişim sağlar.ImagePlacements./imageplacementabsorber/imageplacements koleksiyon.
+title: Class ImagePlacementAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImagePlacementAbsorber sınıfı. Görüntü yerleştirme nesnelerinin bir emici nesnesini temsil eder. Görüntü kullanımlarını arar ve arama sonuçlarına [`ImagePlacements`](./imageplacements/) koleksiyonu aracılığıyla erişim sağlar.
 type: docs
-weight: 3770
+weight: 5910
 url: /tr/net/aspose.pdf/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber class
+## ImagePlacementAbsorber sınıfı
 
-Görüntü yerleştirme nesnelerinin bir emici nesnesini temsil eder. Görüntü kullanımlarında arama yapar ve aracılığıyla arama sonuçlarına erişim sağlar.[`ImagePlacements`](./imageplacements) koleksiyon.
+Görüntü yerleştirme nesnelerinin bir emici nesnesini temsil eder. Görüntü kullanımlarını arar ve arama sonuçlarına [`ImagePlacements`](./imageplacements/) koleksiyonu aracılığıyla erişim sağlar.
 
 ```csharp
 public sealed class ImagePlacementAbsorber
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImagePlacementAbsorber](imageplacementabsorber)() | Default_Constructor |
+| [ImagePlacementAbsorber](imageplacementabsorber/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | ile sunulan resim yerleştirme olaylarının koleksiyonunu alır[`ImagePlacement`](../imageplacement) nesneler. |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode) { get; set; } | İşlem koleksiyonunu ayrıştırmak için salt okunur modu alır/ayarlar. Yetersiz bellek istisnalarına karşı yardımcı olabilir. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | [`ImagePlacement`](../imageplacement/) nesneleri ile sunulan görüntü yerleştirme olaylarının koleksiyonunu alır. |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Ayrıştırma işlemleri koleksiyonu için yalnızca okunur modu alır/ayarlar. Bellek yetersizliği istisnalarına karşı yardımcı olabilir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit)(Document) | Belirtilen belge üzerinde arama yapar. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit_1)(Page) | Belirtilen sayfada arama yapar. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Belirtilen belgede arama yapar. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Belirtilen sayfada arama yapar. |
 
-### Notlar
+## Açıklamalar
 
-[`ImagePlacementAbsorber`](../imageplacementabsorber) nesne temel olarak resim arama senaryosunda kullanılır. Arama tamamlandığında, oluşumlar ile gösterilir.[`ImagePlacement`](../imageplacement) olan nesneler[`ImagePlacements`](./imageplacements) koleksiyon şunları içerir. [`ImagePlacement`](../imageplacement) nesne, görüntü yerleştirme özelliklerine erişim sağlar: boyutlar, çözünürlük vb.
+`ImagePlacementAbsorber` nesnesi esasen görüntü arama senaryosunda kullanılır. Arama tamamlandığında, olaylar [`ImagePlacement`](../imageplacement/) nesneleri ile temsil edilir ve [`ImagePlacements`](./imageplacements/) koleksiyonunu içerir. [`ImagePlacement`](../imageplacement/) nesnesi, görüntü yerleştirme özelliklerine erişim sağlar: boyutlar, çözünürlük vb. Görüntü pozitif rotasyonu saat yönünün tersine, sayfa için ise saat yönündedir. Burada, görüntü döndürme açısını temsil etmemiz gerekiyor, bu nedenle sayfa açısını görüntü açısından çıkarıyoruz.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belge sayfasındaki resimlerin nasıl bulunacağını ve resim yerleştirme özelliklerinin nasıl alınacağını gösterir.
+Örnek, ilk PDF belgesi sayfasındaki görüntüleri bulmayı ve görüntü yerleştirme özelliklerini almayı gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Görüntü yerleştirme araması yapmak için ImagePlacementAbsorber nesnesi oluşturun
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Tüm yerleşimler için resim yerleştirme özelliklerini görüntüle
+// Display image placement properties for all placements
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -64,9 +64,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

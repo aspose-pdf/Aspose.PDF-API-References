@@ -1,48 +1,46 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Aspose.PDF لمرجع .NET API
-description: تمثل هذه الفئة مجموعة من البيانات التي تتعلق بحفظ ملف صورة المصدر الخارجي أثناء تحويل PDF إلى HTML.
+title: Class HtmlSaveOptions.HtmlImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo class. هذه الفئة تمثل مجموعة من البيانات المتعلقة بحفظ ملفات الصور الخاصة بالموارد الخارجية أثناء تحويل PDF إلى HTML
 type: docs
-weight: 3510
+weight: 5640
 url: /ar/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo class
 
-تمثل هذه الفئة مجموعة من البيانات التي تتعلق بحفظ ملف صورة المصدر الخارجي أثناء تحويل PDF إلى HTML.
+هذه الفئة تمثل مجموعة من البيانات المتعلقة بحفظ ملفات الصور الخاصة بالموارد الخارجية أثناء تحويل PDF إلى HTML.
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | Default_Constructor |
+| [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/.ctor)() | المُنشئ الافتراضي. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | تعيين بواسطة المحول. اسم الملف المفترض الذي ينتقل من المحول إلى رمز الأسلوب المخصص يمكن استخدامه في التعليمات البرمجية المخصصة لتحديد كيفية المعالجة أو مكان حفظ هذا الملف |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | يتم تعيينه بواسطة المحول. اسم الملف المفترض الذي ينتقل من المحول إلى كود الطريقة المخصصة. يمكن استخدامه في الكود المخصص لتحديد كيفية المعالجة أو أين يتم حفظ هذا الملف. |
 
-## مجالات
+## Fields
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | تعيين بواسطة المحول. يمثل المحتوى الثنائي للملف المحفوظ. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | يجب تعيين هذه العلامة على "true" في التعليمات البرمجية المخصصة إذا كان يجب معالجة الملف المقترح ، وليس باستخدام رمز مخصص ، ولكن مع رمز المحول نفسه وفقًا لطريقة المحول القياسية. لذا ، فإن إعداده على "صحيح" يعني أن الكود المخصص لم يعالج الملف المشار إليه وأن المحول يجب أن يتعامل معه بنفسه (في كلا المنطقتين - للحفظ في مكان ما وللتسمية في الملف المرجعي) . |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/htmlhostpagenumber) | يخبرنا عن التعليمات البرمجية المخصصة لصفحة مجموعة ملفات صفحات HTML التي تتعلق بالصورة المحفوظة. |
-| [ImageType](../../aspose.pdf/htmlimagesavinginfo/imagetype) | يمثل نوع الصورة المحفوظة المشار إليها في HTML. يتم تعيينها بواسطة المحول ويمكن استخدامها في التعليمات البرمجية المخصصة لتحديد ما يجب القيام به |
-| [ParentType](../../aspose.pdf/htmlimagesavinginfo/parenttype) | يمكن أن تتعلق الصورة المحفوظة بتنسيق HTML نفسه أو يمكن استخراجها. من SVG مضمن في HTML. يمكن لهذه الخاصية أن تخبر الكود المخصص عن هذا النوع من أصل الصورة المعالجة. يتم تعيينه بواسطة المحول ويمكن استخدامه في الكود المخصص لتحديد ما يجب فعله بهذه الصورة (يمكن أن يحدد رمز مخصص لـ fe مكان حفظ image أو كيف يجب الإشارة إليه في محتوى الوالدين). |
-| [PdfHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/pdfhostpagenumber) | يخبرنا عن التعليمات البرمجية المخصصة لأي صفحة من مستند PDF الأصلي تتعلق بالصورة المحفوظة نظرًا لأنه من الممكن ألا يتم حفظ جميع صفحات المستند الأصلي ، تخبرنا هذه القيمة عن رقم صفحة المضيف في ملف PDF الأصلي. إذا كان رقم الصفحة الأصلي لسبب ما غير معروف ، فسيتم إرجاعه دائمًا '1' |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | تعيين بواسطة المحول. اسم الملف المفترض الذي ينتقل من المحول إلى رمز الأسلوب المخصص يمكن استخدامه في التعليمات البرمجية المخصصة لتحديد كيفية المعالجة أو مكان حفظ هذا الملف |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | يتم تعيينه بواسطة المحول. يمثل المحتوى الثنائي للملف المحفوظ. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | يجب تعيين هذه العلامة إلى "true" في الكود المخصص إذا كان لأسباب معينة يجب معالجة الملف المقترح ليس بواسطة الكود المخصص ولكن بواسطة كود المحول نفسه بالطريقة القياسية للمحول. لذا، تعني تعيينها إلى true أن الكود المخصص لم يعالج الملف المرجعي ويجب على المحول التعامل معه بنفسه (في كلا المعنيين - للحفظ في مكان ما ولتسمية في الملف المرجعي). |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | يخبر الكود المخصص إلى أي صفحة من مجموعة صفحات HTML المولدة تنتمي الصورة المحفوظة. إذا تم إيقاف تقسيم الصفحات، فإن هذه القيمة تحتوي دائمًا على '1' لأنه في هذه الحالة يتم إنشاء صفحة HTML واحدة فقط. |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | يمثل نوع الصورة المحفوظة المشار إليها في HTML. يتم تعيينه بواسطة المحول ويمكن استخدامه في الكود المخصص لتحديد ما يجب القيام به. |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | يمكن أن تنتمي الصورة المحفوظة إلى HTML نفسه أو يمكن استخراجها من SVG المضمن في HTML. يمكن أن تخبر هذه الخاصية الكود المخصص بنوع الوالد للصورة المعالجة. يتم تعيينها بواسطة المحول ويمكن استخدامها في الكود المخصص لتحديد ما يجب القيام به مع تلك الصورة (على سبيل المثال، يمكن أن يقرر الكود المخصص أين يتم حفظ الصورة أو كيف يجب الإشارة إليها في محتوى الوالد). |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | يخبر الكود المخصص إلى أي صفحة من مستند PDF الأصلي تنتمي الصورة المحفوظة. نظرًا لأنه من الممكن ألا يتم حفظ جميع صفحات المستند الأصلي، فإن هذه القيمة تخبرنا عن رقم الصفحة المضيفة في PDF الأصلي. إذا كان رقم الصفحة الأصلي غير معروف لسبب ما، فإنه دائمًا ما يرجع '1'. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | يتم تعيينه بواسطة المحول. اسم الملف المفترض الذي ينتقل من المحول إلى كود الطريقة المخصصة. يمكن استخدامه في الكود المخصص لتحديد كيفية المعالجة أو أين يتم حفظ هذا الملف. |
 
-### أنظر أيضا
+### See Also
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

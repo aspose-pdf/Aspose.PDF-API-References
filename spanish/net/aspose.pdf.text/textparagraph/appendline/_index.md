@@ -1,7 +1,7 @@
 ---
-title: AppendLine
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Agrega línea de texto
+title: TextParagraph.AppendLine
+second_title: Aspose.PDF for .NET API Reference
+description: Método TextParagraph. Agrega línea de texto
 type: docs
 weight: 130
 url: /es/net/aspose.pdf.text/textparagraph/appendline/
@@ -14,15 +14,15 @@ Agrega línea de texto
 public void AppendLine(string line)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | String | El texto de la nueva línea. |
 
-### Ver también
+### Ver También
 
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,16 +34,16 @@ Agrega línea de texto.
 public void AppendLine(string line, float lineSpacing)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | String | El texto de la nueva línea. |
-| lineSpacing | Single | Espaciado adicional (0.0 es predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se agrega al espaciado de línea predeterminado para la línea en particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con una fuente de 12 puntos. |
+| lineSpacing | Single | Espaciado adicional (0.0 es el valor predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se suma al espaciado de línea predeterminado para la línea particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con fuente de 12pt. |
 
-### Ver también
+### Ver También
 
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,17 +55,17 @@ Agrega línea de texto con parámetros de estado de texto.
 public void AppendLine(string line, TextState textState)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | String | El texto de la nueva línea. |
-| textState | TextState | Estado del texto de la nueva línea. |
+| textState | TextState | Estado de texto de la nueva línea. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../../textstate/)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -77,18 +77,18 @@ Agrega línea de texto con parámetros de estado de texto
 public void AppendLine(string line, TextState textState, float lineSpacing)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | String | El texto de la nueva línea. |
-| textState | TextState | Estado del texto de la nueva línea. |
-| lineSpacing | Single | Espaciado adicional (0.0 es predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se agrega al espaciado de línea predeterminado para la línea en particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con una fuente de 12 puntos. |
+| textState | TextState | Estado de texto de la nueva línea. |
+| lineSpacing | Single | Espaciado adicional (0.0 es el valor predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se suma al espaciado de línea predeterminado para la línea particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con fuente de 12pt. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../../textstate/)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -100,16 +100,16 @@ Agrega línea de texto con parámetros de estado de texto.
 public void AppendLine(TextFragment line)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | TextFragment | El texto de la nueva línea. |
 
-### Ver también
+### Ver También
 
-* class [TextFragment](../../textfragment)
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextFragment](../../textfragment/)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -121,18 +121,18 @@ Agrega línea de texto con parámetros de estado de texto.
 public void AppendLine(TextFragment line, TextState textState)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | TextFragment | El texto de la nueva línea. |
-| textState | TextState | Estado del texto de la nueva línea. |
+| textState | TextState | Estado de texto de la nueva línea. |
 
-### Ver también
+### Ver También
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextFragment](../../textfragment/)
+* clase [TextState](../../textstate/)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -144,18 +144,16 @@ Agrega línea de texto con parámetros de estado de texto
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | TextFragment | El texto de la nueva línea. |
-| textState | TextState | Estado del texto de la nueva línea. |
-| lineSpacing | Single | Espaciado adicional (0.0 es predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se agrega al espaciado de línea predeterminado para la línea en particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con una fuente de 12 puntos. |
+| textState | TextState | Estado de texto de la nueva línea. |
+| lineSpacing | Single | Espaciado adicional (0.0 es el valor predeterminado y corresponde a la altura de línea de texto predeterminada). El valor de espaciado se suma al espaciado de línea predeterminado para la línea particular, por lo que puede especificar 12.0 para obtener una fila vacía DESPUÉS de una línea de texto dibujada con fuente de 12pt. |
 
-### Ver también
+### Ver También
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* espacio de nombres [Aspose.Pdf.Text](../../textparagraph)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [TextFragment](../../textfragment/)
+* clase [TextState](../../textstate/)
+* clase [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

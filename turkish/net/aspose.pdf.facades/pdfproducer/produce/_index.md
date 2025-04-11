@@ -1,14 +1,14 @@
 ---
-title: Produce
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen içe aktarma biçimini kullanarak PDF akışını oluşturun.  Bu örnek CGM akışından Pdf akışının nasıl üretileceğini gösterir.
+title: PdfProducer.Produce
+second_title: Aspose.PDF for .NET API Reference
+description: PdfProducer metodu. Belirtilen içe aktarma formatını kullanarak PDF akışını üretin. Bu örnek, CGM akışından Pdf akışı nasıl üretilir gösterir.
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Belirtilen içe aktarma biçimini kullanarak PDF akışını oluşturun.  Bu örnek, CGM akışından Pdf akışının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma formatını kullanarak PDF akışını üretin. Bu örnek, CGM akışından Pdf akışı nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -24,31 +24,31 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
-| format | ImportFormat | İçe aktarma biçimi. |
-| outputStream | Stream | Çıktı PDF akışı. |
+| format | ImportFormat | İçe aktarma formatı. |
+| outputStream | Stream | Çıkış PDF akışı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Giriş veya çıkış akışı boş |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Giriş veya çıkış akışı null |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Belirtilen içe aktarma biçimini kullanarak PDF akışını oluşturun.  Bu örnek, CGM dosyasından Pdf akışının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma formatını kullanarak PDF akışını üretin. Bu örnek, CGM dosyasından Pdf akışı nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -63,32 +63,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportFormat format, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFileName | String | Dosya adını girin. |
-| format | ImportFormat | İçe aktarma biçimi. |
-| outputStream | Stream | Çıktı PDF akışı. |
+| inputFileName | String | Giriş dosya adı. |
+| format | ImportFormat | İçe aktarma formatı. |
+| outputStream | Stream | Çıkış PDF akışı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Çıkış akışı boş |
-| ArgumentException | Girdi dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Çıkış akışı null |
+| ArgumentException | Giriş dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Belirtilen içe aktarma biçimini kullanarak PDF dosyasını oluşturun.  Bu örnek, CGM akışından Pdf dosyasının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma formatını kullanarak PDF dosyasını üretin. Bu örnek, CGM akışından Pdf dosyası nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -104,32 +104,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, string outputFileName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
-| format | ImportFormat | İçe aktarma biçimi. |
-| outputFileName | String | Çıktı PDF dosyası |
+| format | ImportFormat | İçe aktarma formatı. |
+| outputFileName | String | Çıkış PDF dosyası |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Giriş akışı boş |
-| ArgumentException | Çıktı dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Giriş akışı null |
+| ArgumentException | Çıkış dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Belirtilen içe aktarma biçimini kullanarak PDF dosyasını oluşturun.  Bu örnek, CGM dosyasından Pdf dosyasının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma formatını kullanarak PDF dosyasını üretin. Bu örnek, CGM dosyasından Pdf dosyası nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -141,31 +141,31 @@ PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
 public static void Produce(string inputFileName, ImportFormat format, string outputFileName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFileName | String | Dosya adını girin. |
-| format | ImportFormat | İçe aktarma biçimi. |
-| outputFileName | String | Çıktı PDF dosyası |
+| inputFileName | String | Giriş dosya adı. |
+| format | ImportFormat | İçe aktarma formatı. |
+| outputFileName | String | Çıkış PDF dosyası |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentException | Giriş veya çıkış dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentException | Giriş veya çıkış dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Belirtilen içe aktarma seçeneğini kullanarak PDF akışını oluşturun.  Bu örnek, CGM dosyasından Pdf akışının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma seçeneğini kullanarak PDF akışını üretin. Bu örnek, CGM dosyasından Pdf akışı nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -181,32 +181,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportOptions options, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFileName | String | Dosya adını girin. |
+| inputFileName | String | Giriş dosya adı. |
 | options | ImportOptions | İçe aktarma seçeneği. |
-| outputStream | Stream | Çıktı PDF akışı. |
+| outputStream | Stream | Çıkış PDF akışı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Çıkış akışı boş |
-| ArgumentException | Girdi dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Çıkış akışı null |
+| ArgumentException | Giriş dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını oluşturun.  Bu örnek, CGM akışından Pdf dosyasının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını üretin. Bu örnek, CGM akışından Pdf dosyası nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -222,32 +222,32 @@ using (FileStream inputStream = File.OpenRead(inputFile))
 public static void Produce(Stream inputStream, ImportOptions options, string outputFileName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | options | ImportOptions | İçe aktarma seçeneği. |
-| outputFileName | String | Çıktı PDF dosyası. |
+| outputFileName | String | Çıkış PDF dosyası. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Giriş akışı boş |
-| ArgumentException | Çıktı dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Giriş akışı null |
+| ArgumentException | Çıkış dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını oluşturun.  Bu örnek, CGM dosyasından Pdf dosyasının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını üretin. Bu örnek, CGM dosyasından Pdf dosyası nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -260,31 +260,31 @@ PdfProducer.Produce(inputStream, importOptions, outputStream);
 public static void Produce(string inputFileName, ImportOptions options, string outputFileName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFileName | String | Dosya adını girin. |
+| inputFileName | String | Giriş dosya adı. |
 | options | ImportOptions | İçe aktarma seçeneği. |
-| outputFileName | String | Çıktı PDF akışı. |
+| outputFileName | String | Çıkış PDF akışı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentException | Giriş veya çıkış dosyası adı boş bir dizedir |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentException | Giriş veya çıkış dosya adı boş bir dizedir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını oluşturun.  Bu örnek, CGM akışından Pdf akışının nasıl üretileceğini gösterir.
+Belirtilen içe aktarma seçeneğini kullanarak PDF dosyasını üretin. Bu örnek, CGM akışından Pdf akışı nasıl üretilir gösterir.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -301,24 +301,22 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportOptions options, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | options | ImportOptions | İçe aktarma seçeneği. |
-| outputStream | Stream | Çıktı PDF akışı. |
+| outputStream | Stream | Çıkış PDF akışı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | durum |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Bir dosya geçersiz olduğunda istisna atılır. |
-| ArgumentNullException | Giriş veya çıkış akışı boş. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Bir dosya geçersiz olduğunda istisna fırlatılır. |
+| ArgumentNullException | Giriş veya çıkış akışı null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfproducer)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

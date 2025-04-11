@@ -1,47 +1,94 @@
 ---
-title: XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: XSL-FO dosyasını pdf belgesine yükleme/içe aktarma seçeneklerini temsil eder.
+title: Class XslFoLoadOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XslFoLoadOptions sınıfı. PDF belgesine XSLFO dosyasını yüklemek/içeri aktarmak için seçenekleri temsil eder.
 type: docs
-weight: 7580
+weight: 11530
 url: /tr/net/aspose.pdf/xslfoloadoptions/
 ---
-## XslFoLoadOptions class
+## XslFoLoadOptions sınıfı
 
-XSL-FO dosyasını pdf belgesine yükleme/içe aktarma seçeneklerini temsil eder.
+PDF belgesine XSL-FO dosyasını yüklemek/içeri aktarmak için seçenekleri temsil eder.
 
 ```csharp
 public sealed class XslFoLoadOptions : XmlLoadOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [XslFoLoadOptions](xslfoloadoptions#constructor)() | Oluşturur[`XslFoLoadOptions`](../xslfoloadoptions) xsl verisi olmayan nesne. |
-| [XslFoLoadOptions](xslfoloadoptions#constructor_1)(Stream) | Oluşturur[`XslFoLoadOptions`](../xslfoloadoptions) xsl verili nesne. |
-| [XslFoLoadOptions](xslfoloadoptions#constructor_2)(string) | Oluşturur[`XslFoLoadOptions`](../xslfoloadoptions) xsl verili nesne. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor)() | Xsl verisi olmadan `XslFoLoadOptions` nesnesi oluşturur. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | Xsl verisi ile `XslFoLoadOptions` nesnesi oluşturur. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | Xsl verisi ile `XslFoLoadOptions` nesnesi oluşturur. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath) { get; set; } | Yüklenen SVG dosyasında başvurulan harici kaynaklara (varsa) göreli yolların arandığı temel yol/url. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Hangi dosya biçimini temsil eder?[`LoadOptions`](../loadoptions) tanımlar. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Yükleme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Yükleme işlemi sona ermelidir. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } | xml'yi pdf belgesine dönüştürmek için xsl verilerini alır. |
-| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist) { get; set; } | Var olan xls parametrelerine değer eklemek için XsltArgumentList  XLS dosyası, değeri olmayan 'animal' parametresine sahip: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); artık bir dönüştürücü olduğunu varsayar ' parametre XLS dosyasında 'cat' değerine sahip. |
+| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | Yüklenen SVG dosyasında referans verilen dış kaynaklara (varsa) göre göreceli yolların arandığı temel yol/url. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Dosyayı yüklerken tüm fontlar için lisans kısıtlamalarını devre dışı bırakma bayrağını alır veya ayarlar. `true` olduğunda, bu fontun lisansı tarafından yasaklanan fontlarla işlemler gerçekleştirilmesine izin verir; örneğin, bu font için gömme kuralları devre dışı bırakılmış olsa bile bir fontun PDF belgesine gömülmesine izin verir. Varsayılan `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) tarafından tanımlanan dosya formatını temsil eder. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Oluşan herhangi bir uyarıyı işlemek için geri çağırma. WarningHandler, devam etme veya durdurma belirten ReturnAction enum öğesini döndürür. Devam etme varsayılan eylemdir ve Yükleme işlemi devam eder, ancak kullanıcı durdurmayı da döndürebilir; bu durumda Yükleme işlemi durmalıdır. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | XML'i PDF belgesine dönüştürmek için xsl verisini alır. |
+| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | Mevcut xls parametrelerine değer eklemek için XsltArgumentList. XLS dosyasında değeri olmayan 'animal' parametresi var: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); şimdi dönüştürücü, XLS dosyasında 'cat' değerine sahip bir 'animal' parametresi olduğunu varsayıyor. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype) | Kaynak XSLFO belgesi, biçimlendirme hataları içerebilir. Bu numaralandırma, bu hataların olası dağıtım stratejilerini sıralar |
+| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | Kaynak XSLFO belgesi biçimlendirme hataları içerebilir. Bu enum, bu hataların işlenmesi için olası stratejileri sıralar. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [XmlLoadOptions](../xmlloadoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, XSL-FO dosyasını PDF dosyasına dönüştürmenin nasıl yapılacağını gösterir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+
+// The path to your XSL-FO File.
+string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
+
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
+
+// Initialize XslFoLoadOptions	
+XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
+    
+using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
+{
+ 
+    // Save PDF file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your XSL-FO File.
+    Dim xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf")
+ 
+    ' Initialize XslFoLoadOptions  
+    Dim xslFoLoadOptions As XslFoLoadOptions = New XslFoLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(xslFoFile, xslFoLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [XmlLoadOptions](../xmlloadoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

@@ -1,7 +1,7 @@
 ---
-title: SaveAsTIFFClassF
-second_title: Aspose.PDF for .NET API Referansı
-description: Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntüleri tek bir TIFF ClassF dosyasına kaydeder.
+title: PdfConverter.SaveAsTIFFClassF
+second_title: Aspose.PDF for .NET API Reference
+description: PdfConverter metodu. Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntüleri tek bir TIFF ClassF dosyasına kaydeder
 type: docs
 weight: 170
 url: /tr/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
@@ -14,13 +14,13 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputFile | String | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -36,11 +36,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -52,17 +52,17 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputFile | String | TIFF görüntüsünü kaydetmek için akış. |
-| pageSize | PageSize | Resmin sayfa boyutu. |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -74,17 +74,17 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -96,17 +96,17 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| pageSize | PageSize | Resmin sayfa boyutu. |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -118,11 +118,11 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputFile | String | TIFF görüntüsünü kaydetmek için akış. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -138,11 +138,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -154,14 +154,12 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFFClassF(Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

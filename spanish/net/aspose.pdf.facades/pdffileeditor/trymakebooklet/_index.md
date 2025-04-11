@@ -1,199 +1,199 @@
 ---
-title: TryMakeBooklet
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Crea un folleto a partir del archivo de origen y almacena el resultado en objetos HttpResponse.
+title: PdfFileEditor.TryMakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Crea un folleto a partir del archivo de entrada al archivo de salida
 type: docs
-weight: 460
+weight: 430
 url: /es/net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## TryMakeBooklet(string, PageSize, int[], int[], HttpResponse) {#trymakebooklet_6}
+## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
-Crea un folleto a partir del archivo de origen y almacena el resultado en objetos HttpResponse.
+Crea un folleto a partir del archivo fuente y almacena el resultado en objetos HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Ruta del archivo de origen. |
+| inputFile | String | Ruta del archivo fuente. |
 | pageSize | PageSize | Tamaño de página deseado. |
-| leftPages | Int32[] | Una serie de números de página que se colocarán a la izquierda. |
-| rightPages | Int32[] | Matriz de números de página que se colocarán a la derecha. |
+| leftPages | Int32[] | Arreglo de números de página que se colocarán a la izquierda. |
+| rightPages | Int32[] | Arreglo de números de página que se colocarán a la derecha. |
 | response | HttpResponse | Objeto HttpResponse donde se almacenará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
 
-Crea un folleto a partir de un archivo PDF y lo almacena en HttpResponse.
+Crea un folleto a partir del archivo PDF y lo almacena en HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
     int[] rightPages, HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de documentos de entrada. |
+| inputStream | Stream | Flujo del documento de entrada. |
 | pageSize | PageSize | Tamaño de página deseado. |
-| leftPages | Int32[] | Matriz de números de página que se colocarán a la izquierda. |
-| rightPages | Int32[] | Matriz de números de página que se colocarán a la derecha. |
+| leftPages | Int32[] | Arreglo de números de página que se colocarán a la izquierda. |
+| rightPages | Int32[] | Arreglo de números de página que se colocarán a la derecha. |
 | response | HttpResponse | Objeto HttpResponse. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
 
-Crea un folleto a partir del archivo de origen y almacena el resultado en objetos HttpResponse.
+Crea un folleto a partir del archivo fuente y almacena el resultado en objetos HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Ruta del archivo de origen. |
+| inputFile | String | Ruta del archivo fuente. |
 | pageSize | PageSize | Tamaño de página deseado en el archivo de salida. |
 | response | HttpResponse | Objeto HttpResponse donde se almacenará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero si la operación se realiza correctamente.
+True si la operación tuvo éxito.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
 
-Crea un folleto a partir del archivo de origen y almacena el resultado en HttpResponse.
+Crea un folleto a partir del archivo fuente y almacena el resultado en HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de documentos de entrada. |
+| inputStream | Stream | Flujo del documento de entrada. |
 | pageSize | PageSize | Tamaño de página deseado en el archivo de salida. |
-| response | HttpResponse | Objeto de respuesta donde se guardará el resultado. |
+| response | HttpResponse | Objeto donde se guardará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-true si el folleto se creó correctamente.
+true si el folleto se construyó con éxito.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
-Hace un folleto desde el archivo de entrada hasta el archivo de salida.
+Crea un folleto a partir del archivo de entrada al archivo de salida.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Ingrese la ruta y el nombre del archivo pdf. |
-| outputFile | String | Nombre y ruta del archivo pdf de salida. |
+| inputFile | String | Ruta y nombre del archivo pdf de entrada. |
+| outputFile | String | Ruta y nombre del archivo pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
+## TryMakeBooklet(Stream, Stream) {#trymakebooklet}
 
-Hace un folleto desde InputStream hasta outputStream.
+Crea un folleto a partir del InputStream al outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Entrada pdf stream. |
-| outputStream | Stream | flujo de salida pdf. |
+| inputStream | Stream | Flujo pdf de entrada. |
+| outputStream | Stream | flujo pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -202,53 +202,53 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
+## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_5}
 
-Crea un folleto desde el archivo de entrada hasta el archivo de salida.
+Crea un folleto a partir del inputFile al outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Ingrese la ruta y el nombre del archivo pdf. |
-| outputFile | String | Nombre y ruta del archivo pdf de salida. |
+| inputFile | String | Ruta y nombre del archivo pdf de entrada. |
+| outputFile | String | Ruta y nombre del archivo pdf de salida. |
 | pageSize | PageSize | El tamaño de página del archivo pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero si la operación se realiza correctamente.
+True si la operación tuvo éxito.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_3}
+## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_1}
 
 Crea un folleto a partir del flujo de entrada y guarda el resultado en el flujo de salida.
 
@@ -256,21 +256,21 @@ Crea un folleto a partir del flujo de entrada y guarda el resultado en el flujo 
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputStream | Stream | Flujo PDF de entrada. |
-| outputStream | Stream | flujo de salida pdf. |
+| outputStream | Stream | flujo pdf de salida. |
 | pageSize | PageSize | El tamaño de página del archivo pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,78 +279,78 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
+## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
-Crea un folleto personalizado desde el primer archivo de entrada hasta el archivo de salida.
+Crea un folleto personalizado a partir del firstInputFile al outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputFile | String | El archivo de entrada. |
-| outputFile | String | Nombre y ruta del archivo pdf de salida. |
-| leftPages | Int32[] | Las páginas de la izquierda del folleto. |
-| rightPages | Int32[] | Las páginas correctas del folleto. |
+| outputFile | String | Ruta y nombre del archivo pdf de salida. |
+| leftPages | Int32[] | Las páginas izquierdas del folleto. |
+| rightPages | Int32[] | Las páginas derechas del folleto. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_5}
+## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
-Crea un folleto personalizado desde el primer flujo de entrada hasta el flujo de salida.
+Crea un folleto personalizado a partir del firstInputStream al outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, 
     int[] rightPages)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputStream | Stream | El flujo de entrada. |
-| outputStream | Stream | flujo de salida en pdf. |
-| leftPages | Int32[] | Las páginas de la izquierda. |
-| rightPages | Int32[] | Las páginas correctas. |
+| outputStream | Stream | flujo pdf de salida. |
+| leftPages | Int32[] | Las páginas izquierdas. |
+| rightPages | Int32[] | Las páginas derechas. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -359,81 +359,81 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
+## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
-Crea un folleto personalizado desde el primer archivo de entrada hasta el archivo de salida.
+Crea un folleto personalizado a partir del firstInputFile al outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
     int[] rightPages)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputFile | String | El archivo de entrada. |
-| outputFile | String | Nombre y ruta del archivo pdf de salida. |
+| outputFile | String | Ruta y nombre del archivo pdf de salida. |
 | pageSize | PageSize | El tamaño de página del archivo pdf de salida. |
-| leftPages | Int32[] | Las páginas de la izquierda. |
-| rightPages | Int32[] | Las páginas correctas. |
+| leftPages | Int32[] | Las páginas izquierdas. |
+| rightPages | Int32[] | Las páginas derechas. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
+## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_2}
 
-Crea un folleto desde el primer flujo de entrada hasta el flujo de salida.
+Crea un folleto a partir del firstInputStream al outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
     int[] leftPages, int[] rightPages)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputStream | Stream | El flujo de entrada. |
-| outputStream | Stream | flujo de salida en pdf. |
+| outputStream | Stream | flujo pdf de salida. |
 | pageSize | PageSize | El tamaño de página del archivo pdf de salida. |
-| leftPages | Int32[] | Las páginas de la izquierda. |
-| rightPages | Int32[] | Las páginas correctas. |
+| leftPages | Int32[] | Las páginas izquierdas. |
+| rightPages | Int32[] | Las páginas derechas. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+true si la operación se completó con éxito; de lo contrario, false.
 
-### Observaciones
+## Observaciones
 
 El método TryMakeBooklet es como el método MakeBooklet, excepto que el método TryMakeBooklet no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -442,11 +442,9 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ver también
+### Véase También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

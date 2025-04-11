@@ -1,214 +1,186 @@
 ---
-title: Save
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Enregistrer le document de manière incrémentielle cest-à-dire en utilisant la technique de mise à jour incrémentielle.
+title: Document.Save
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode Document. Stocke le document dans un flux
 type: docs
-weight: 720
+weight: 830
 url: /fr/net/aspose.pdf/document/save/
 ---
-## Save() {#save}
-
-Enregistrer le document de manière incrémentielle (c'est-à-dire en utilisant la technique de mise à jour incrémentielle).
-
-```csharp
-public void Save()
-```
-
-### Remarques
-
-Afin d'enregistrer le document de manière incrémentielle, nous devons ouvrir le fichier du document pour l'écriture. Par conséquent, le document doit être initialisé avec un flux inscriptible comme dans l'extrait de code suivant : Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // apportez quelques modifications et enregistrez le document par incrémentation doc.Save();
-
-### Voir également
-
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(SaveOptions) {#save_1}
-
-Enregistre le document avec les options d'enregistrement.
-
-```csharp
-public void Save(SaveOptions options)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| options | SaveOptions | Enregistrer les options. |
-
-### Voir également
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(string, SaveFormat) {#save_6}
-
-Enregistre le document sous un nouveau nom avec un format de fichier.
-
-```csharp
-public void Save(string outputFileName, SaveFormat format)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| outputFileName | String | Chemin d'accès au fichier où le document sera stocké. |
-| format | SaveFormat | Options de mise en forme. |
-
-### Voir également
-
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(Stream, SaveFormat) {#save_3}
-
-Enregistre le document sous un nouveau nom avec un format de fichier.
-
-```csharp
-public void Save(Stream outputStream, SaveFormat format)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| outputStream | Stream | Flux où le document sera stocké. |
-| format | SaveFormat | Options de mise en forme. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | ArgumentException lorsque[`HtmlSaveOptions`](../../htmlsaveoptions) est passé à une méthode. L'enregistrement d'un document dans le flux html n'est pas pris en charge. Veuillez utiliser la méthode d'enregistrement dans le fichier. |
-
-### Voir également
-
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(string, SaveOptions) {#save_7}
-
-Enregistre le document avec un nouveau nom en définissant ses options d'enregistrement.
-
-```csharp
-public void Save(string outputFileName, SaveOptions options)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| outputFileName | String | Chemin d'accès au fichier où le document sera stocké. |
-| options | SaveOptions | Enregistrer les options. |
-
-### Voir également
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(Stream, SaveOptions) {#save_4}
-
-Enregistre le document dans un flux avec des options d'enregistrement.
-
-```csharp
-public void Save(Stream outputStream, SaveOptions options)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| outputStream | Stream | Flux où le document sera stocké. |
-| options | SaveOptions | Enregistrer les options. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | ArgumentException lorsque[`HtmlSaveOptions`](../../htmlsaveoptions) est passé à une méthode. L'enregistrement d'un document dans le flux html n'est pas pris en charge. Veuillez utiliser la méthode d'enregistrement dans le fichier. |
-
-### Voir également
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
-
-Enregistre le document dans un flux de réponse avec des options d'enregistrement.
-
-```csharp
-public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
-    SaveOptions options)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| response | HttpResponse | Encapsule les informations de réponse HTTP. |
-| outputFileName | String | Nom de fichier simple, c'est-à-dire sans chemin. |
-| disposition | ContentDisposition | Représente un en-tête Content-Disposition du protocole MIME. |
-| options | SaveOptions | Enregistrer les options. |
-
-### Voir également
-
-* enum [ContentDisposition](../../contentdisposition)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
 ## Save(Stream) {#save_2}
 
-Stocke le document dans le flux.
+Stocke le document dans un flux.
 
 ```csharp
 public void Save(Stream output)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| output | Stream | Flux où le shell du document doit être stocké. |
+| output | Stream | Flux où le document sera stocké. |
 
-### Voir également
+### Voir aussi
 
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string) {#save_5}
 
-Enregistre le document dans le fichier spécifié.
+Sauvegarde le document dans le fichier spécifié.
 
 ```csharp
 public void Save(string outputFileName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFileName | String | Chemin d'accès au fichier où le document sera stocké. |
+| outputFileName | String | Chemin vers le fichier où le document sera stocké. |
 
-### Voir également
+### Voir aussi
 
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Save() {#save}
+
+Sauvegarde le document de manière incrémentielle (c'est-à-dire en utilisant la technique de mise à jour incrémentielle).
+
+```csharp
+public void Save()
+```
+
+## Remarques
+
+Pour sauvegarder le document de manière incrémentielle, nous devons ouvrir le fichier du document en écriture. Par conséquent, le Document doit être initialisé avec un flux écrivable comme dans l'extrait de code suivant : Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // apporter des modifications et sauvegarder le document de manière incrémentielle doc.Save();
+
+### Voir aussi
+
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(SaveOptions) {#save_1}
+
+Sauvegarde le document avec des options de sauvegarde.
+
+```csharp
+public void Save(SaveOptions options)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| options | SaveOptions | Options de sauvegarde. |
+
+### Voir aussi
+
+* classe [SaveOptions](../../saveoptions/)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, SaveFormat) {#save_6}
+
+Sauvegarde le document avec un nouveau nom ainsi qu'un format de fichier.
+
+```csharp
+public void Save(string outputFileName, SaveFormat format)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Chemin vers le fichier où le document sera stocké. |
+| format | SaveFormat | Options de format. |
+
+### Voir aussi
+
+* enum [SaveFormat](../../saveformat/)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream, SaveFormat) {#save_3}
+
+Sauvegarde le document avec un nouveau nom ainsi qu'un format de fichier.
+
+```csharp
+public void Save(Stream outputStream, SaveFormat format)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | Flux où le document sera stocké. |
+| format | SaveFormat | Options de format. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | ArgumentException lorsque [`HtmlSaveOptions`](../../htmlsaveoptions/) est passé à une méthode. Sauvegarder un document dans le flux html n'est pas supporté. Veuillez utiliser la méthode de sauvegarde dans le fichier. |
+
+### Voir aussi
+
+* enum [SaveFormat](../../saveformat/)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_7}
+
+Sauvegarde le document avec un nouveau nom en définissant ses options de sauvegarde.
+
+```csharp
+public void Save(string outputFileName, SaveOptions options)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Chemin vers le fichier où le document sera stocké. |
+| options | SaveOptions | Options de sauvegarde. |
+
+### Voir aussi
+
+* classe [SaveOptions](../../saveoptions/)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_4}
+
+Sauvegarde le document dans un flux avec des options de sauvegarde.
+
+```csharp
+public void Save(Stream outputStream, SaveOptions options)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | Flux où le document sera stocké. |
+| options | SaveOptions | Options de sauvegarde. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | ArgumentException lorsque [`HtmlSaveOptions`](../../htmlsaveoptions/) est passé à une méthode. Sauvegarder un document dans le flux html n'est pas supporté. Veuillez utiliser la méthode de sauvegarde dans le fichier. |
+
+### Voir aussi
+
+* classe [SaveOptions](../../saveoptions/)
+* classe [Document](../)
+* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

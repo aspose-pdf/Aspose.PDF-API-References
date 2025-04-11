@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestinationType
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Listet die Arten expliziter Ziele auf.
+title: Enum ExplicitDestinationType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.ExplicitDestinationType Enum. Enumeriert die Typen von expliziten Zielen
 type: docs
-weight: 320
+weight: 1690
 url: /de/net/aspose.pdf.annotations/explicitdestinationtype/
 ---
-## ExplicitDestinationType enumeration
+## ExplicitDestinationType Aufzählung
 
-Listet die Arten expliziter Ziele auf.
+Enumeriert die Typen von expliziten Zielen.
 
 ```csharp
 public enum ExplicitDestinationType
@@ -18,18 +18,16 @@ public enum ExplicitDestinationType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| XYZ | `0` | Zeigt die Seite mit den Koordinaten (links,�oben) in der oberen linken Ecke des Fensters und den Inhalt der Seite um den Faktor Zoom vergrößert an. Ein Nullwert für einen der Parameter „parameters left“, „top“ oder „zoom“ gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. Ein Zoomwert von 0 hat dieselbe Bedeutung wie ein Nullwert. |
-| Fit | `1` | Zeigen Sie die Seite mit ihrem Inhalt gerade so weit vergrößert an, dass die gesamte Seite sowohl horizontal als auch vertikal in das Fenster passt. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren der beiden und zentrieren Sie die Seite innerhalb des Fensters in der anderen Dimension. |
-| FitH | `2` | Zeigen Sie die Seite mit der vertikalen Koordinate oben am oberen Rand des Fensters an und der Inhalt der Seite wird gerade so weit vergrößert, dass er die gesamte Breite der Seite in das Fenster einfügt. Ein Nullwert für oben gibt an, dass der aktuelle Wert von dieser Parameter soll unverändert beibehalten werden. |
-| FitV | `3` | Zeigen Sie die Seite mit der horizontalen Koordinate left am linken Rand des Fensters an und der Inhalt der Seite gerade genug vergrößert, um die gesamte Höhe der Seite in das Fenster einzupassen. Ein Nullwert für left gibt an, dass der aktuelle Wert von dieser Parameter soll unverändert beibehalten werden. |
-| FitR | `4` | Zeigen Sie die Seite mit gerade genug vergrößertem Inhalt an, damit sie in das Rechteck passt, das durch die Koordinaten links, unten, rechts und oben ganz innerhalb des Fensters sowohl horizontal als auch vertikal angegeben ist. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren von die beiden, wobei das Rechteck innerhalb des Fensters in der anderen Dimension zentriert wird. Ein Nullwert für einen der Parameter kann zu unvorhersehbarem Verhalten führen. |
-| FitB | `5` | Zeigen Sie die Seite mit gerade genug vergrößertem Inhalt an, damit der Begrenzungsrahmen sowohl horizontal als auch vertikal vollständig in das Fenster passt. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren der beiden und zentrieren Sie den Begrenzungsrahmen innerhalb des Fensters in der anderen Dimension. |
-| FitBH | `6` | Zeigt die Seite mit der vertikalen Koordinatenoberseite am oberen Rand des Fensters an und der Inhalt der Seite wird gerade genug vergrößert, um die gesamte Breite des Begrenzungsrahmens in das Fenster einzupassen. Ein Nullwert für oben gibt den aktuellen Wert an dieses Parameters soll unverändert beibehalten werden. |
-| FitBV | `7` | Zeigen Sie die Seite mit der horizontalen Koordinate links am linken Rand des Fensters an, und der Inhalt der Seite wird gerade so weit vergrößert, dass die gesamte Höhe des Begrenzungsrahmens in das Fenster passt. Ein Nullwert für links gibt den aktuellen Wert an dieses Parameters soll unverändert beibehalten werden. |
+| XYZ | `0` | Zeigt die Seite mit den Koordinaten (links, oben) an, die in der oberen linken Ecke des Fensters positioniert sind, und der Inhalt der Seite wird um den Faktor Zoom vergrößert. Ein Nullwert für einen der Parameter links, oben oder Zoom gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. Ein Zoomwert von 0 hat die gleiche Bedeutung wie ein Nullwert. |
+| Fit | `1` | Zeigt die Seite an, deren Inhalt gerade so vergrößert wird, dass die gesamte Seite sowohl horizontal als auch vertikal im Fenster passt. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren der beiden und zentrieren Sie die Seite im anderen Maßstab innerhalb des Fensters. |
+| FitH | `2` | Zeigt die Seite an, wobei die vertikale Koordinate oben am oberen Rand des Fensters positioniert ist und der Inhalt der Seite gerade so vergrößert wird, dass die gesamte Breite der Seite im Fenster passt. Ein Nullwert für oben gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. |
+| FitV | `3` | Zeigt die Seite an, wobei die horizontale Koordinate links am linken Rand des Fensters positioniert ist und der Inhalt der Seite gerade so vergrößert wird, dass die gesamte Höhe der Seite im Fenster passt. Ein Nullwert für links gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. |
+| FitR | `4` | Zeigt die Seite an, deren Inhalt gerade so vergrößert wird, dass das durch die Koordinaten links, unten, rechts und oben angegebene Rechteck vollständig sowohl horizontal als auch vertikal im Fenster passt. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren der beiden und zentrieren Sie das Rechteck im anderen Maßstab innerhalb des Fensters. Ein Nullwert für einen der Parameter kann zu unvorhersehbarem Verhalten führen. |
+| FitB | `5` | Zeigt die Seite an, deren Inhalt gerade so vergrößert wird, dass die gesamte Begrenzungsbox vollständig sowohl horizontal als auch vertikal im Fenster passt. Wenn die erforderlichen horizontalen und vertikalen Vergrößerungsfaktoren unterschiedlich sind, verwenden Sie den kleineren der beiden und zentrieren Sie die Begrenzungsbox im anderen Maßstab innerhalb des Fensters. |
+| FitBH | `6` | Zeigt die Seite an, wobei die vertikale Koordinate oben am oberen Rand des Fensters positioniert ist und der Inhalt der Seite gerade so vergrößert wird, dass die gesamte Breite seiner Begrenzungsbox im Fenster passt. Ein Nullwert für oben gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. |
+| FitBV | `7` | Zeigt die Seite an, wobei die horizontale Koordinate links am linken Rand des Fensters positioniert ist und der Inhalt der Seite gerade so vergrößert wird, dass die gesamte Höhe seiner Begrenzungsbox im Fenster passt. Ein Nullwert für links gibt an, dass der aktuelle Wert dieses Parameters unverändert beibehalten werden soll. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

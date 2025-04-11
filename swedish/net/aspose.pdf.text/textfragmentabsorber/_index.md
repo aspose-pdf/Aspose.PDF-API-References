@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar ett absorberande objekt av textfragment. Utför textsökning och ger tillgång till sökresultat viaTextFragments./textfragmentabsorber/textfragments samling.
+title: Class TextFragmentAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextFragmentAbsorber klass. Representerar ett absorberobjekt för textfragment. Utför textsökning och ger åtkomst till sökresultat via TextFragments-samlingen
 type: docs
-weight: 7110
+weight: 10950
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/
 ---
-## TextFragmentAbsorber class
+## TextFragmentAbsorber klass
 
-Representerar ett absorberande objekt av textfragment. Utför textsökning och ger tillgång till sökresultat via[`TextFragments`](./textfragments) samling.
+Representerar ett absorberobjekt för textfragment. Utför textsökning och ger åtkomst till sökresultat via [`TextFragments`](./textfragments/) samlingen.
 
 ```csharp
 public sealed class TextFragmentAbsorber : TextAbsorber
@@ -16,81 +16,81 @@ public sealed class TextFragmentAbsorber : TextAbsorber
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor)() | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) som utför sökning av alla textsegment i dokumentet eller sidan. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_6)(Regex) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för det angivna System.Text.RegularExpressions.Regex klassobjektet. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_2)(string) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för den angivna textfrasen. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_1)(TextEditOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber)med textredigeringsalternativ, som utför sökning av alla textsegment i dokumentet eller sidan. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_7)(Regex, TextEditOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för den angivna textfrasen och textredigeringsalternativ. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_8)(Regex, TextSearchOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för den angivna textfrasen och textsökningsalternativ. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_3)(string, TextEditOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för den angivna textfrasen och textredigeringsalternativ. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_4)(string, TextSearchOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber)klass för den angivna textfrasen och textsökningsalternativ. |
-| [TextFragmentAbsorber](textfragmentabsorber#constructor_5)(string, TextSearchOptions, TextEditOptions) | Initierar en ny instans av[`TextFragmentAbsorber`](../textfragmentabsorber) klass för den angivna textfrasen, textsökningsalternativ och textredigeringsalternativ. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor)() | Initierar en ny instans av `TextFragmentAbsorber` som utför sökning av alla textsegment i dokumentet eller sidan. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_6)(Regex) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för det angivna System.Text.RegularExpressions.Regex-klassobjektet. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_2)(string) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_1)(TextEditOptions) | Initierar en ny instans av `TextFragmentAbsorber` med textredigeringsalternativ, som utför sökning av alla textsegment i dokumentet eller sidan. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_7)(Regex, TextEditOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen och textredigeringsalternativen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_8)(Regex, TextSearchOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen och textsökalternativen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_9)(Regex[], TextSearchOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen och textsökalternativen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_3)(string, TextEditOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen och textredigeringsalternativen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_4)(string, TextSearchOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen och textsökalternativen. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_5)(string, TextSearchOptions, TextEditOptions) | Initierar en ny instans av `TextFragmentAbsorber`-klassen för den angivna textfrasen, textsökalternativen och textredigeringsalternativen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textfragmentabsorber/errors) { get; } | Lista över[`TextExtractionError`](../textextractionerror) objekt. Den innehåller information om fel som hittades under textextraktion. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors = true; Och det kan minska prestandan. |
-| override [ExtractionOptions](../../aspose.pdf.text/textfragmentabsorber/extractionoptions) { get; set; } | Hämtar eller ställer in alternativ för textextraktion. |
-| [HasErrors](../../aspose.pdf.text/textfragmentabsorber/haserrors) { get; } | Värde anger om fel hittades under textextrahering. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors = true; Och det kan minska prestandan. |
-| [Phrase](../../aspose.pdf.text/textfragmentabsorber/phrase) { get; set; } | Hämtar eller ställer in en fras som[`TextFragmentAbsorber`](../textfragmentabsorber) sökningar på PDF-dokumentet eller sidan. |
-| override [Text](../../aspose.pdf.text/textfragmentabsorber/text) { get; } | Får extraherad text som[`TextAbsorber`](../textabsorber) utdrag på PDF-dokumentet eller sidan. |
-| [TextEditOptions](../../aspose.pdf.text/textfragmentabsorber/texteditoptions) { get; set; } | Hämtar eller ställer in textredigeringsalternativ. Alternativen definierar speciellt beteende när den begärda symbolen inte kan skrivas med font. |
-| [TextFragments](../../aspose.pdf.text/textfragmentabsorber/textfragments) { get; set; } | Hämtar samling av sökförekomster som presenteras med[`TextFragment`](../textfragment) objekt. |
-| [TextReplaceOptions](../../aspose.pdf.text/textfragmentabsorber/textreplaceoptions) { get; set; } | Hämtar eller ställer in alternativ för textersättning. Alternativen definierar beteende när fragmenterad text ersätts till mer kort/lång. |
-| [TextSearchOptions](../../aspose.pdf.text/textfragmentabsorber/textsearchoptions) { get; set; } | Hämtar eller ställer in sökalternativ. Alternativen möjliggör sökning med reguljära uttryck. |
+| [Errors](../../aspose.pdf.text/textfragmentabsorber/errors/) { get; } | Lista över [`TextExtractionError`](../textextractionerror/) objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestanda. |
+| override [ExtractionOptions](../../aspose.pdf.text/textfragmentabsorber/extractionoptions/) { get; set; } | Hämtar eller ställer in textutvinningsalternativ. |
+| [HasErrors](../../aspose.pdf.text/textfragmentabsorber/haserrors/) { get; } | Värdet indikerar om fel hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestanda. |
+| [Phrase](../../aspose.pdf.text/textfragmentabsorber/phrase/) { get; set; } | Hämtar eller ställer in frasen som `TextFragmentAbsorber` söker på PDF-dokumentet eller sidan. |
+| [RegexResults](../../aspose.pdf.text/textfragmentabsorber/regexresults/) { get; } | Hämtar en ordbok över sökförekomster som presenteras med System.Text.RegularExpressions.Regex-klass som nyckel och [`TextFragment`](../textfragment/) som värde. |
+| override [Text](../../aspose.pdf.text/textfragmentabsorber/text/) { get; } | Hämtar den extraherade text som [`TextAbsorber`](../textabsorber/) extraherar på PDF-dokumentet eller sidan. |
+| [TextEditOptions](../../aspose.pdf.text/textfragmentabsorber/texteditoptions/) { get; set; } | Hämtar eller ställer in textredigeringsalternativ. Alternativen definierar speciellt beteende när den begärda symbolen inte kan skrivas med typsnitt. |
+| [TextFragments](../../aspose.pdf.text/textfragmentabsorber/textfragments/) { get; set; } | Hämtar samlingen av sökförekomster som presenteras med [`TextFragment`](../textfragment/) objekt. |
+| [TextReplaceOptions](../../aspose.pdf.text/textfragmentabsorber/textreplaceoptions/) { get; set; } | Hämtar eller ställer in textutbytesalternativ. Alternativen definierar beteende när fragmenttext ersätts med kortare/längre. |
+| [TextSearchOptions](../../aspose.pdf.text/textfragmentabsorber/textsearchoptions/) { get; set; } | Hämtar eller ställer in sökalternativ. Alternativen möjliggör sökning med hjälp av reguljära uttryck. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments#applyforallfragments_2)(float) | Tillämpar teckenstorlek för alla textfragment som har absorberats. Det fungerar snabbare än att gå igenom fragmenten om alla fragment på sidan/sidorna absorberades. Annars fungerar det liknande med looping. |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments#applyforallfragments)(Font) | Tillämpar teckensnitt för alla textfragment som har absorberats. Det fungerar snabbare än att gå igenom fragmenten om alla fragment på sidan/sidorna absorberades. Annars fungerar det liknande med looping. |
-| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments#applyforallfragments_1)(Font, float) | Tillämpar teckensnitt och storlek för alla textfragment som absorberades. Det fungerar snabbare än att gå igenom fragmenten om alla fragment på sidan/sidorna absorberades. Annars fungerar det liknande med looping. |
-| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext#removealltext)(Document) | Tar bort all text från dokumentet. |
-| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext#removealltext_1)(Page) | Tar bort all text från den angivna sidan. |
-| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext#removealltext_2)(Page, Rectangle) | Tar bort text inuti den angivna rektangeln från den angivna sidan. |
-| [Reset](../../aspose.pdf.text/textfragmentabsorber/reset)() | Rensar TextFragments-samlingen av detta[`TextFragmentAbsorber`](../textfragmentabsorber) objekt. |
-| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit#visit)(Document) | Utför sökning på det angivna dokumentet. |
-| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit#visit_1)(Page) | Utför sökning på den angivna sidan. |
-| [Visit](../../aspose.pdf.text/textfragmentabsorber/visit#visit_2)(XForm) | Utför sökning på det angivna formulärobjektet. |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit)(XForm) | Extraherar text på den angivna XForm. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_2)(float) | Tillämpa teckenstorlek för alla textfragment som har absorberats. Det fungerar snabbare än att loopa genom fragmenten om alla fragment på sidan/erna har absorberats. Annars fungerar det liknande med loopning. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments)(Font) | Tillämpa typsnitt för alla textfragment som har absorberats. Det fungerar snabbare än att loopa genom fragmenten om alla fragment på sidan/erna har absorberats. Annars fungerar det liknande med loopning. |
+| [ApplyForAllFragments](../../aspose.pdf.text/textfragmentabsorber/applyforallfragments/#applyforallfragments_1)(Font, float) | Tillämpa typsnitt och storlek för alla textfragment som har absorberats. Det fungerar snabbare än att loopa genom fragmenten om alla fragment på sidan/erna har absorberats. Annars fungerar det liknande med loopning. |
+| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext)(Document) | Tar bort all text från dokumentet. |
+| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext_1)(Page) | Tar bort all text från den angivna sidan. |
+| [RemoveAllText](../../aspose.pdf.text/textfragmentabsorber/removealltext/#removealltext_2)(Page, Rectangle) | Tar bort text inuti den angivna rektangeln från den angivna sidan. |
+| [Reset](../../aspose.pdf.text/textfragmentabsorber/reset/)() | Rensar TextFragments-samlingen av detta `TextFragmentAbsorber`-objekt. |
+| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit)(Document) | Utför sökning på det angivna dokumentet. |
+| override [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_1)(Page) | Utför sökning på den angivna sidan. |
+| [Visit](../../aspose.pdf.text/textfragmentabsorber/visit/#visit_2)(XForm) | Utför sökning på det angivna formulärobjektet. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/)(XForm) | Extraherar text på den angivna XForm. |
 
-### Anmärkningar
+## Kommentarer
 
-Den[`TextFragmentAbsorber`](../textfragmentabsorber) objekt används i princip i textsökningsscenario. När sökningen är klar representeras förekomsterna med[`TextFragment`](../textfragment) objekt som[`TextFragments`](./textfragments) samlingen innehåller. Den[`TextFragment`](../textfragment) objekt ger tillgång till sökhändelsens text, textegenskaper och gör det möjligt att redigera text och ändra texttillståndet (typsnitt, teckenstorlek, färg etc).
+`TextFragmentAbsorber`-objektet används i grund och botten i textsökningsscenarier. När sökningen är slutförd representeras förekomsterna med [`TextFragment`](../textfragment/) objekt som [`TextFragments`](./textfragments/) samlingen innehåller. [`TextFragment`](../textfragment/) objektet ger åtkomst till den sökta förekomstens text, textens egenskaper och möjliggör redigering av text och ändring av textens tillstånd (typsnitt, teckenstorlek, färg etc).
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text på den första PDF-dokumentsidan och ersätter texten och dess teckensnitt.
+Exemplet visar hur man hittar text på den första sidan av PDF-dokumentet och ersätter texten och dess typsnitt.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Hitta teckensnitt som kommer att användas för att ändra teckensnitt för dokumenttext
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra text och teckensnitt för den första textförekomsten
+// Change text and font of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* class [TextAbsorber](../textabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextAbsorber](../textabsorber/)
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* sammansättning [Aspose.PDF](../../)

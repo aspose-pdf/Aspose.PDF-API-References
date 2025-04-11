@@ -1,14 +1,14 @@
 ---
-title: TextParagraph
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Représente les paragraphes de texte sous la forme dun objet texte multiligne.
+title: Class TextParagraph
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Text.TextParagraph. Représente des paragraphes de texte en tant qu'objet de texte multiligne
 type: docs
-weight: 7150
+weight: 10990
 url: /fr/net/aspose.pdf.text/textparagraph/
 ---
-## TextParagraph class
+## Classe TextParagraph
 
-Représente les paragraphes de texte sous la forme d'un objet texte multiligne.
+Représente des paragraphes de texte en tant qu'objet de texte multiligne.
 
 ```csharp
 public sealed class TextParagraph
@@ -16,74 +16,72 @@ public sealed class TextParagraph
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [TextParagraph](textparagraph)() | Default_Constructor |
+| [TextParagraph](textparagraph/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent) { get; set; } | Obtient ou définit la valeur de retrait des lignes suivantes. S'il est défini sur une valeur différente de zéro, il présente un avantage par rapport à la valeur FormattingOptions.SubsequentLinesIndent. |
-| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions) { get; set; } | Récupère ou définit les options de formatage. |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment) { get; set; } | Obtient ou définit l'alignement horizontal du texte à l'intérieur des paragraphes[`Rectangle`](./rectangle) . |
-| [Justify](../../aspose.pdf.text/textparagraph/justify) { get; set; } | Obtient ou définit la valeur si le texte est justifié. |
-| [Margin](../../aspose.pdf.text/textparagraph/margin) { get; set; } | Obtient ou définit le rembourrage. |
-| [Position](../../aspose.pdf.text/textparagraph/position) { get; set; } | Obtient ou définit la position du paragraphe. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle) { get; set; } | Obtient ou définit le rectangle du paragraphe. |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation) { get; set; } | Obtient ou définit l'angle de rotation en degrés. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent) { get; set; } | Obtient ou définit la valeur de retrait des lignes suivantes. S'il est défini sur une valeur différente de zéro, il présente un avantage par rapport à la valeur FormattingOptions.SubsequentLinesIndent. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle) { get; } | Obtient le rectangle du texte placé dans le paragraphe. |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment) { get; set; } | Obtient ou définit l'alignement vertical du texte à l'intérieur des paragraphes[`Rectangle`](./rectangle) . |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Obtient ou définit la valeur d'indentation des lignes suivantes. Si défini sur une valeur non nulle, il a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Obtient ou définit les options de formatage. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Obtient ou définit l'alignement horizontal pour le texte à l'intérieur du [`Rectangle`](./rectangle/) du paragraphe. |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Obtient ou définit la valeur indiquant si le texte est justifié. |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Obtient ou définit le rembourrage. |
+| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Obtient ou définit la position du paragraphe. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Obtient ou définit le rectangle du paragraphe. |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Obtient ou définit l'angle de rotation en degrés. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Obtient ou définit la valeur d'indentation des lignes suivantes. Si défini sur une valeur non nulle, il a un avantage sur la valeur FormattingOptions.SubsequentLinesIndent. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Obtient le rectangle du texte placé dans le paragraphe. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Obtient ou définit l'alignement vertical pour le texte à l'intérieur du [`Rectangle`](./rectangle/) du paragraphe. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_3)(string) | Ajoute la ligne de texte |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline)(TextFragment) | Ajoute une ligne de texte avec les paramètres d'état du texte. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_6)(string, float) | Ajoute une ligne de texte. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_4)(string, TextState) | Ajoute une ligne de texte avec les paramètres d'état du texte. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_1)(TextFragment, TextState) | Ajoute une ligne de texte avec les paramètres d'état du texte. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_5)(string, TextState, float) | Ajoute une ligne de texte avec les paramètres d'état du texte |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_2)(TextFragment, TextState, float) | Ajoute une ligne de texte avec les paramètres d'état du texte |
-| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit)() | Commence l'édition du TextParagraph. |
-| [EndEdit](../../aspose.pdf.text/textparagraph/endedit)() | Termine l'édition du TextParagraph. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_3)(string) | Ajoute une ligne de texte |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(TextFragment) | Ajoute une ligne de texte avec des paramètres d'état de texte. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_6)(string, float) | Ajoute une ligne de texte. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(string, TextState) | Ajoute une ligne de texte avec des paramètres d'état de texte. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | Ajoute une ligne de texte avec des paramètres d'état de texte. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | Ajoute une ligne de texte avec des paramètres d'état de texte |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | Ajoute une ligne de texte avec des paramètres d'état de texte |
+| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | Commence l'édition du TextParagraph. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | Termine l'édition du TextParagraph. |
 
-### Exemples
+## Exemples
 
-L'exemple montre comment créer un objet de paragraphe de texte et l'ajouter à la page Pdf.
+L'exemple démontre comment créer un objet de paragraphe de texte et l'ajouter à la page Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// crée un paragraphe de texte
+// create text paragraph
 TextParagraph paragraph = new TextParagraph();
            
-// définit le rectangle du paragraphe
+// set the paragraph rectangle
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// définit les options d'habillage des mots
+// set word wrapping options
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// ajoute des lignes de chaîne
+// append string lines
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// ajoute le paragraphe à la page Pdf avec le TextBuilder
+// append the paragraph to the Pdf page with the TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// enregistre le document PDF
+// save Pdf document
 doc.Save(outFile);
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

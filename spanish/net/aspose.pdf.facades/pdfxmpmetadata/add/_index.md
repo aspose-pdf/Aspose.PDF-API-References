@@ -1,7 +1,7 @@
 ---
-title: Add
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Agrega valor a los metadatos XMP.
+title: PdfXmpMetadata.Add
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfXmpMetadata. Agrega valor a los metadatos XMP
 type: docs
 weight: 110
 url: /es/net/aspose.pdf.facades/pdfxmpmetadata/add/
@@ -14,12 +14,12 @@ Agrega valor a los metadatos XMP.
 public void Add(DefaultMetadataProperties key, XmpValue value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | key | DefaultMetadataProperties | El nombre de la clave. |
 | value | XmpValue | Valor que se agregará. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -28,55 +28,55 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### Ver también
+### Ver También
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties)
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* asamblea [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Añade un campo de extensión a los metadatos.
+Agrega campo de extensión a los metadatos.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
     string namespaceUri, string schemaDescription)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | El objeto de extensión pdf para agregar. |
-| namespacePrefix | String | El prefijo de esquema. |
-| namespaceUri | String | El espacio de nombres uri del esquema. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | El objeto de extensión pdf a agregar. |
+| namespacePrefix | String | El prefijo del esquema. |
+| namespaceUri | String | La URI del espacio de nombres del esquema. |
 | schemaDescription | String | La descripción opcional del esquema. |
 
-### Ver también
+### Ver También
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* asamblea [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, XmpValue) {#add_3}
 
-Agrega un nuevo elemento al objeto del diccionario.
+Agrega un nuevo elemento al objeto diccionario.
 
 ```csharp
 public void Add(string key, XmpValue value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | Clave de nuevo elemento. |
+| key | String | Clave del nuevo elemento. |
 | value | XmpValue | Valor del elemento. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -84,53 +84,51 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### Ver también
+### Ver También
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* asamblea [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, object) {#add_4}
 
-Agrega un nuevo elemento al objeto del diccionario.
+Agrega un nuevo elemento al objeto diccionario.
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | Clave de nuevo elemento. |
+| key | String | Clave del nuevo elemento. |
 | value | Object | Valor del elemento. |
 
-### Ver también
+### Ver También
 
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* asamblea [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Agrega par con clave y valor en el diccionario.
+Agrega un par con clave y valor al diccionario.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | item | KeyValuePair`2 | Elemento a agregar. |
 
-### Ver también
+### Ver También
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,136 +1,134 @@
 ---
-title: BorderInfo
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفBorderInfoaspose.pdf/borderinfo فئة .
+title: BorderInfo.BorderInfo
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ BorderInfo. يقوم بتهيئة مثيل جديد من فئة BorderInfo
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (int) (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | لون الحدود. |
 
-### أنظر أيضا
+### See Also
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo()
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### أنظر أيضا
+### See Also
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | عرض الحد. |
+| borderWidth | Single | عرض الحدود. |
 
-### أنظر أيضا
+### See Also
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | عرض الحد. |
+| borderWidth | Single | عرض الحدود. |
 | borderColor | Color | لون الحدود. |
 
-### أنظر أيضا
+### See Also
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`BorderInfo`](../../borderinfo) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | يشير إلى معلومات جوانب الحدود. على سبيل المثال: (BorderSide.Left &#x7C; BorderSide.Top). |
 | info | GraphInfo | معلومات الحدود. |
 
-### أنظر أيضا
+### See Also
 
-* enum [BorderSide](../../borderside)
-* class [GraphInfo](../../graphinfo)
-* class [BorderInfo](../../borderinfo)
-* مساحة الاسم [Aspose.Pdf](../../borderinfo)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

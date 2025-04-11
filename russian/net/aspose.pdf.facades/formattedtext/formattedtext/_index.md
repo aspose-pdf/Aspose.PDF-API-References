@@ -1,7 +1,7 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует FormattedText.
+title: FormattedText.FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: Конструктор FormattedText. Инициализирует FormattedText
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -14,10 +14,10 @@ url: /ru/net/aspose.pdf.facades/formattedtext/formattedtext/
 public FormattedText()
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -34,10 +34,10 @@ public FormattedText(string text)
 | --- | --- | --- |
 | text | String | Текст, содержащийся в FormattedText. |
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -53,27 +53,27 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | fontColor | FontColor | Цвет текста. |
 | fontStyle | FontStyle | Стиль текста. |
-| encodingType | EncodingType | Тип кодировки (значение перечисления EncodingType). |
-| embedded | Boolean | Истинно, если шрифт будет встроен. |
+| encodingType | EncodingType | Тип кодирования (значение перечисления EncodingType). |
+| embedded | Boolean | True, если шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FontColor](../../fontcolor/)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Инициализировать форматированный текст.
+Инициализирует FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,21 +82,21 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | fontColor | FontColor | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Истинно, если текст будет встроен. |
+| embedded | Boolean | True, если текст будет встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
-### Смотрите также
+### См. также
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FontColor](../../fontcolor/)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -112,19 +112,19 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | color | Color | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Истинно, если текст будет встроен. |
+| embedded | Boolean | True, если текст будет встроен. |
 | textSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -140,20 +140,20 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | textColor | Color | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет встроен. |
+| embedded | Boolean | Если true, шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
-### Смотрите также
+### См. также
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -169,21 +169,21 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | textColor | FontColor | Цвет текста. |
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет встроен. |
+| embedded | Boolean | Если true, шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FontColor](../../fontcolor/)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -199,22 +199,22 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержание. |
+| text | String | Содержимое текста. |
 | textColor | FontColor | Цвет текста. |
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет встроен. |
+| embedded | Boolean | Если true, шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
-### Смотрите также
+### См. также
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FontColor](../../fontcolor/)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -230,20 +230,20 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | encoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Истинно, если шрифт будет встроен. |
+| embedded | Boolean | True, если шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -259,21 +259,21 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое строки. |
+| text | String | Содержимое текста строки. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если истинный шрифт встроен. |
+| embedded | Boolean | Если true, шрифт встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
-### Смотрите также
+### См. также
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [FontStyle](../../fontstyle/)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -289,19 +289,19 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержание. |
+| text | String | Содержимое текста. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | fontName | String | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет встроен. |
+| embedded | Boolean | Если true, шрифт будет встроен. |
 | fontSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -316,14 +316,14 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержание. |
+| text | String | Содержимое текста. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -339,18 +339,16 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержание. |
+| text | String | Содержимое текста. |
 | textColor | Color | Цвет текста. |
 | fontName | String | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет встроен. |
+| embedded | Boolean | Если true, шрифт будет встроен. |
 | fontSize | Single | Размер текста. |
 
-### Смотрите также
+### См. также
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* пространство имен [Aspose.Pdf.Facades](../../formattedtext)
+* перечисление [EncodingType](../../encodingtype/)
+* класс [FormattedText](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

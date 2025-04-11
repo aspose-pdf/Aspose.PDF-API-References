@@ -1,89 +1,91 @@
 ---
-title: PrintDocumentWithSettings
-second_title: Aspose.PDF لمرجع .NET API
-description: يطبع مستند Pdf بالإعدادات. إذا كان حجم المستند غير متوافق مع حجم الصفحة  فسيقوم pdf.kit بتمديده ليلائم حجم الصفحة.
+title: PdfViewer.PrintDocumentWithSettings
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfViewer. تطبع مستند Pdf مع الإعدادات. إذا كان حجم المستند لا يتوافق مع حجم الصفحة، فسيتم تمديده ليتناسب مع حجم الصفحة
 type: docs
-weight: 300
+weight: 330
 url: /ar/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-يطبع مستند Pdf بالإعدادات. إذا كان حجم المستند غير متوافق مع حجم الصفحة ، فسيقوم pdf.kit بتمديده ليلائم حجم الصفحة.
+تطبع مستند Pdf مع الإعدادات. إذا كان حجم المستند لا يتوافق مع حجم الصفحة، فسيتم تمديده ليتناسب مع حجم الصفحة.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSettings | PageSettings | إعداد صفحة مستند الطباعة. |
-| printerSettings | PrinterSettings | إعداد الطابعة لمستند الطباعة. |
+| pageSettings | PageSettings | إعداد الصفحة للمستند المطبوع. |
+| printerSettings | PrinterSettings | إعداد الطابعة للمستند المطبوع. |
 
-### أمثلة
-
-printerSettings يتم استخدام الكائن لطباعة المستند. pageSettings.PrinterSettings يتم تجاهل الكائن.
+## أمثلة
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         // طباعة الملف بالحجم المعدل
-iewer.AutoRotate = true;         // طباعة الملف مع التدوير المعدل
-iewer.PrintPageDialog=false;// لا تنتج مربع حوار رقم الصفحة عند الطباعة
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.BindPdf(@"d:\test.pdf");
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog = false;   //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintDocumentWithSettings(pgs, ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer()
-iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;           'اطبع الملف بالحجم المعدل
-iewer.AutoRotate = true;           'اطبع الملف مع التدوير المعدل
-iewer.PrintPageDialog=false;// لا تنتج مربع حوار رقم الصفحة عند الطباعة
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.BindPdf(@"d:\test.pdf")
+iewer.AutoResize = True            'print the file with adjusted size
+iewer.AutoRotate = True            'print the file with adjusted rotation
+iewer.PrintPageDialog = False      'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintDocumentWithSettings(pgs, ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### أنظر أيضا
+يتم استخدام كائن printerSettings لطباعة المستند. يتم تجاهل كائن pageSettings.PrinterSettings.
 
-* class [PdfViewer](../../pdfviewer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfviewer)
-* المجسم [Aspose.PDF](../../../)
+### انظر أيضًا
+
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-يطبع مستند Pdf بإعدادات الطابعة. سيتناسب حجم صفحة الإخراج مع حجم الصفحة الأولى للمستند.
+تطبع مستند Pdf مع إعدادات الطابعة. سيكون حجم الصفحة الناتجة متناسبًا مع حجم الصفحة الأولى من المستند.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | إعداد الطابعة لمستند الطباعة. |
+| printerSettings | PrinterSettings | إعداد الطابعة للمستند المطبوع. |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         // طباعة الملف بالحجم المعدل
-iewer.AutoRotate = true;         // طباعة الملف مع التدوير المعدل
-iewer.PrintPageDialog=false;// لا تنتج مربع حوار رقم الصفحة عند الطباعة
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -93,9 +95,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;        'اطبع الملف بالحجم المعدل
-iewer.AutoRotate = true;        'اطبع الملف مع التدوير المعدل
-iewer.PrintPageDialog=false;// لا تنتج مربع حوار رقم الصفحة عند الطباعة
+iewer.AutoResize = true;        'print the file with adjusted size
+iewer.AutoRotate = true;        'print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -103,10 +105,9 @@ iewer.PrintDocumentWithSettings(ps);
 iewer.ClosePdfFile()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfViewer](../../pdfviewer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfviewer)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

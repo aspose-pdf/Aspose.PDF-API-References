@@ -1,29 +1,29 @@
 ---
-title: Visit
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Visitar/seleccionar j operador.
+title: OperatorSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: Método OperatorSelector. Visitar/seleccionar operador j
 type: docs
 weight: 30
 url: /es/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-Visitar/seleccionar j operador.
+Visitar/seleccionar operador j.
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| j | SetLineJoin | Establecer operador de estilo de unión de línea. |
+| j | SetLineJoin | Operador para establecer el estilo de unión de líneas. |
 
-### Ver también
+### Ver También
 
-* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,16 +35,16 @@ Visitar/seleccionar operador EX.
 public void Visit(EX EX)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| EX | EX | Finalizar operador de sección de compatibilidad. |
+| EX | EX | Operador para finalizar la sección de compatibilidad. |
 
-### Ver también
+### Ver También
 
-* class [EX](../../../aspose.pdf.operators/ex)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EX](../../../aspose.pdf.operators/ex/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,16 +56,16 @@ Visitar/seleccionar operador ET.
 public void Visit(ET ET)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| ET | ET | Operador de objeto de texto final. |
+| ET | ET | Operador para finalizar el objeto de texto. |
 
-### Ver también
+### Ver También
 
-* class [ET](../../../aspose.pdf.operators/et)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ET](../../../aspose.pdf.operators/et/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -77,16 +77,16 @@ Visitar/seleccionar operador EMC.
 public void Visit(EMC EMC)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| EMC | EMC | Finalizar operador de secuencia de contenido marcado. |
+| EMC | EMC | Operador para finalizar la secuencia de contenido marcado. |
 
-### Ver también
+### Ver También
 
-* class [EMC](../../../aspose.pdf.operators/emc)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EMC](../../../aspose.pdf.operators/emc/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -98,16 +98,16 @@ Visitar/seleccionar operador EI.
 public void Visit(EI EI)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| EI | EI | Finalizar operador de objeto de imagen en línea. |
+| EI | EI | Operador para finalizar el objeto de imagen en línea. |
 
-### Ver también
+### Ver También
 
-* class [EI](../../../aspose.pdf.operators/ei)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EI](../../../aspose.pdf.operators/ei/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -119,37 +119,37 @@ Visitar/seleccionar operador DP.
 public void Visit(DP DP)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| DP | DP | Definir operador de punto de contenido marcado (con lista de propiedades). |
+| DP | DP | Operador para definir el punto de contenido marcado (con lista de propiedades). |
 
-### Ver también
+### Ver También
 
-* class [DP](../../../aspose.pdf.operators/dp)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [DP](../../../aspose.pdf.operators/dp/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Do) {#visit_14}
 
-Visitar/seleccionar Hacer operador.
+Visitar/seleccionar operador Do.
 
 ```csharp
 public void Visit(Do Do)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Do | Do | Invocar operador XObject con nombre. |
+| Do | Do | Operador para invocar un XObject nombrado. |
 
-### Ver también
+### Ver También
 
-* class [Do](../../../aspose.pdf.operators/do)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [Do](../../../aspose.pdf.operators/do/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -161,16 +161,16 @@ Visitar/seleccionar operador d1.
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Establezca el ancho del glifo y el cuadro delimitador en el operador de fuente Tipo 3. |
+| d1 | SetCharWidthBoundingBox | Operador para establecer el ancho del glifo y el cuadro delimitador en la fuente de tipo 3. |
 
-### Ver también
+### Ver También
 
-* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -182,37 +182,37 @@ Visitar/seleccionar operador d0.
 public void Visit(SetCharWidth d0)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| d0 | SetCharWidth | Establezca el ancho del glifo en el operador de fuente Tipo 3. |
+| d0 | SetCharWidth | Operador para establecer el ancho del glifo en la fuente de tipo 3. |
 
-### Ver también
+### Ver También
 
-* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-Visitar/seleccionar d operador.
+Visitar/seleccionar operador d.
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| d | SetDash | Establecer operador de patrón de línea y guiones. |
+| d | SetDash | Operador para establecer el patrón de guiones de línea. |
 
-### Ver también
+### Ver También
 
-* class [SetDash](../../../aspose.pdf.operators/setdash)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetDash](../../../aspose.pdf.operators/setdash/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -224,16 +224,16 @@ Visitar/seleccionar operador CS.
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Establecer operador de espacio de color (para operaciones de trazo). |
+| CS | SetColorSpaceStroke | Operador para establecer el espacio de color (para operaciones de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -245,58 +245,58 @@ Visitar/seleccionar operador cs.
 public void Visit(SetColorSpace cs)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| cs | SetColorSpace | Establecer operador de espacio de color (para operaciones sin trazos). |
+| cs | SetColorSpace | Operador para establecer el espacio de color (para operaciones no de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-Visitar/seleccionar cm operador.
+Visitar/seleccionar operador cm.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Concatenar matriz al operador de matriz de transformación actual. |
+| cm | ConcatenateMatrix | Operador para concatenar la matriz al operador de matriz de transformación actual. |
 
-### Ver también
+### Ver También
 
-* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo) {#visit_11}
 
-Visitar/seleccionar c operador.
+Visitar/seleccionar operador c.
 
 ```csharp
 public void Visit(CurveTo c)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| c | CurveTo | Agregar segmento curvo al operador de ruta (tres puntos de control). |
+| c | CurveTo | Operador para agregar un segmento curvado al camino (tres puntos de control). |
 
-### Ver también
+### Ver También
 
-* class [CurveTo](../../../aspose.pdf.operators/curveto)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [CurveTo](../../../aspose.pdf.operators/curveto/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -308,16 +308,16 @@ Visitar/seleccionar operador BX.
 public void Visit(BX BX)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| BX | BX | Comenzar operador de sección de compatibilidad. |
+| BX | BX | Operador para iniciar la sección de compatibilidad. |
 
-### Ver también
+### Ver También
 
-* class [BX](../../../aspose.pdf.operators/bx)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [BX](../../../aspose.pdf.operators/bx/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -329,16 +329,16 @@ Visitar/seleccionar operador BT.
 public void Visit(BT BT)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| BT | BT | Comenzar operador de objeto de texto. |
+| BT | BT | Operador para iniciar el objeto de texto. |
 
-### Ver también
+### Ver También
 
-* class [BT](../../../aspose.pdf.operators/bt)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [BT](../../../aspose.pdf.operators/bt/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -350,16 +350,16 @@ Visitar/seleccionar operador BMC.
 public void Visit(BMC BMC)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| BMC | BMC | Comenzar operador de secuencia de contenido marcado. |
+| BMC | BMC | Operador para iniciar la secuencia de contenido marcado. |
 
-### Ver también
+### Ver También
 
-* class [BMC](../../../aspose.pdf.operators/bmc)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [BMC](../../../aspose.pdf.operators/bmc/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -371,16 +371,16 @@ Visitar/seleccionar operador BI.
 public void Visit(BI BI)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| BI | BI | Comenzar operador de objeto de imagen en línea. |
+| BI | BI | Operador para iniciar el objeto de imagen en línea. |
 
-### Ver también
+### Ver También
 
-* class [BI](../../../aspose.pdf.operators/bi)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [BI](../../../aspose.pdf.operators/bi/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -392,16 +392,16 @@ Visitar/seleccionar operador BDC.
 public void Visit(BDC BDC)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| BDC | BDC | Comenzar operador de secuencia de contenido marcado (con lista de propiedades). |
+| BDC | BDC | Operador para iniciar la secuencia de contenido marcado (con lista de propiedades). |
 
-### Ver también
+### Ver También
 
-* class [BDC](../../../aspose.pdf.operators/bdc)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [BDC](../../../aspose.pdf.operators/bdc/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -413,37 +413,37 @@ Visitar/seleccionar operador B.
 public void Visit(FillStroke B)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| B | FillStroke | Operador de ruta de trazo y relleno (regla de número de devanado distinto de cero). |
+| B | FillStroke | Operador para llenar y trazar el camino (regla de número de vueltas no cero). |
 
-### Ver también
+### Ver También
 
-* class [FillStroke](../../../aspose.pdf.operators/fillstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-Visitar/seleccionar b operador.
+Visitar/seleccionar operador b.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Operador de cerrar, rellenar y trazar la ruta (regla del número de devanado distinto de cero). |
+| b | ClosePathFillStroke | Operador para cerrar, llenar y trazar el camino (regla de número de vueltas no cero). |
 
-### Ver también
+### Ver También
 
-* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -455,79 +455,79 @@ Visitar/seleccionar operador B*.
 public void Visit(EOFillStroke B_)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| B_ | EOFillStroke | Operador de ruta de relleno y trazo (regla par-impar). |
+| B_ | EOFillStroke | Operador para llenar y trazar el camino (regla par-impar). |
 
-### Ver también
+### Ver También
 
-* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-Visitar/seleccionar b* operador.
+Visitar/seleccionar operador b*.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Operador de cierre, relleno y trazado de trazo (regla par-impar). |
+| b_ | ClosePathEOFillStroke | Operador para cerrar, llenar y trazar el camino (regla par-impar). |
 
-### Ver también
+### Ver También
 
-* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-Visitar/seleccionar 'operador.
+Visitar/seleccionar operador '.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Ir a la línea siguiente y mostrar el operador de texto. |
+| _ | MoveToNextLineShowText | Operador para moverse a la siguiente línea y mostrar texto. |
 
-### Ver también
+### Ver También
 
-* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-Visitar/seleccionar '' operador.
+Visitar/seleccionar operador ''.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Establecer espaciado entre palabras y caracteres, pasar a la línea siguiente y mostrar el operador de texto. |
+| __ | SetSpacingMoveToNextLineShowText | Operador para establecer el espaciado de palabras y caracteres, moverse a la siguiente línea y mostrar texto. |
 
-### Ver también
+### Ver También
 
-* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -539,37 +539,37 @@ Visitar/seleccionar operador f*.
 public void Visit(EOFill f_)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| f_ | EOFill | Operador de ruta de relleno (regla par-impar). |
+| f_ | EOFill | Operador para llenar el camino (regla par-impar). |
 
-### Ver también
+### Ver También
 
-* class [EOFill](../../../aspose.pdf.operators/eofill)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EOFill](../../../aspose.pdf.operators/eofill/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Fill) {#visit_24}
 
-Visitar/seleccionar f operador.
+Visitar/seleccionar operador f.
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| f | Fill | Operador de ruta de relleno (regla de número de devanado distinto de cero). |
+| f | Fill | Operador para llenar el camino (regla de número de vueltas no cero). |
 
-### Ver también
+### Ver También
 
-* class [Fill](../../../aspose.pdf.operators/fill)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [Fill](../../../aspose.pdf.operators/fill/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -581,37 +581,37 @@ Visitar/seleccionar operador F.
 public void Visit(ObsoleteFill F)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| F | ObsoleteFill | Operador de ruta de relleno (regla de número de devanado distinto de cero). |
+| F | ObsoleteFill | Operador para llenar el camino (regla de número de vueltas no cero). |
 
-### Ver también
+### Ver También
 
-* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-Visitar/seleccionar g operador.
+Visitar/seleccionar operador g.
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| g | SetGray | Establecer operador de nivel de gris (para operaciones sin trazos). |
+| g | SetGray | Operador para establecer el nivel de gris (para operaciones no de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetGray](../../../aspose.pdf.operators/setgray)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetGray](../../../aspose.pdf.operators/setgray/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -623,16 +623,16 @@ Visitar/seleccionar operador G.
 public void Visit(SetGrayStroke G)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| G | SetGrayStroke | Establecer operador de nivel de gris (para operaciones de trazo). |
+| G | SetGrayStroke | Operador para establecer el nivel de gris (para operaciones de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -644,79 +644,79 @@ Visitar/seleccionar operador gs.
 public void Visit(GS gs)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| gs | GS | Establecer operador de estado de gráficos. |
+| gs | GS | Operador para establecer el estado gráfico. |
 
-### Ver también
+### Ver También
 
-* class [GS](../../../aspose.pdf.operators/gs)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [GS](../../../aspose.pdf.operators/gs/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePath) {#visit_6}
 
-Visitar/seleccionar h operador.
+Visitar/seleccionar operador h.
 
 ```csharp
 public void Visit(ClosePath h)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| h | ClosePath | Cerrar operador de subtrayecto. |
+| h | ClosePath | Operador para cerrar el subcamino. |
 
-### Ver también
+### Ver También
 
-* class [ClosePath](../../../aspose.pdf.operators/closepath)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ClosePath](../../../aspose.pdf.operators/closepath/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-Visitar/seleccionar i operador.
+Visitar/seleccionar operador i.
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| i | SetFlat | Establecer operador de tolerancia de planitud. |
+| i | SetFlat | Operador para establecer la tolerancia de planitud. |
 
-### Ver también
+### Ver También
 
-* class [SetFlat](../../../aspose.pdf.operators/setflat)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetFlat](../../../aspose.pdf.operators/setflat/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ID) {#visit_29}
 
-Visitar/seleccionar ID operador.
+Visitar/seleccionar operador ID.
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| ID | ID | Comenzar operador de datos de imagen en línea. |
+| ID | ID | Operador para iniciar los datos de imagen en línea. |
 
-### Ver también
+### Ver También
 
-* class [ID](../../../aspose.pdf.operators/id)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ID](../../../aspose.pdf.operators/id/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -728,37 +728,37 @@ Visitar/seleccionar operador J.
 public void Visit(SetLineCap J)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| J | SetLineCap | Establecer operador de estilo de límite de línea. |
+| J | SetLineCap | Operador para establecer el estilo de tapa de línea. |
 
-### Ver también
+### Ver También
 
-* class [SetLineCap](../../../aspose.pdf.operators/setlinecap)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-Visitar/seleccionar k operador.
+Visitar/seleccionar operador k.
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| k | SetCMYKColor | Establecer operador de color CMYK (para operaciones sin trazos). |
+| k | SetCMYKColor | Operador para establecer el color CMYK (para operaciones no de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -770,58 +770,58 @@ Visitar/seleccionar operador K.
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Establecer operador de color CMYK (para operaciones de trazo). |
+| K | SetCMYKColorStroke | Operador para establecer el color CMYK (para operaciones de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineTo) {#visit_30}
 
-Visitar/seleccionar l operador.
+Visitar/seleccionar operador l.
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| l | LineTo | Agregar segmento de línea recta al operador de ruta. |
+| l | LineTo | Operador para agregar un segmento de línea recta al camino. |
 
-### Ver también
+### Ver También
 
-* class [LineTo](../../../aspose.pdf.operators/lineto)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [LineTo](../../../aspose.pdf.operators/lineto/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTo) {#visit_33}
 
-Visitar/seleccionar m operador.
+Visitar/seleccionar operador m.
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| m | MoveTo | Comenzar nuevo operador de subruta. |
+| m | MoveTo | Operador para iniciar un nuevo subcamino. |
 
-### Ver también
+### Ver También
 
-* class [MoveTo](../../../aspose.pdf.operators/moveto)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MoveTo](../../../aspose.pdf.operators/moveto/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -833,16 +833,16 @@ Visitar/seleccionar operador M.
 public void Visit(SetMiterLimit M)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| M | SetMiterLimit | Configurar operador de límite de inglete. |
+| M | SetMiterLimit | Operador para establecer el límite de bisel. |
 
-### Ver también
+### Ver También
 
-* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -854,58 +854,58 @@ Visitar/seleccionar operador MP.
 public void Visit(MP MP)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| MP | MP | Definir operador de punto de contenido marcado. |
+| MP | MP | Operador para definir el punto de contenido marcado. |
 
-### Ver también
+### Ver También
 
-* class [MP](../../../aspose.pdf.operators/mp)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MP](../../../aspose.pdf.operators/mp/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EndPath) {#visit_18}
 
-Visitar/seleccionar n operador.
+Visitar/seleccionar operador n.
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| n | EndPath | Operador de final de trayecto (sin relleno ni trazo). |
+| n | EndPath | Operador para finalizar el camino (sin llenar ni trazar). |
 
-### Ver también
+### Ver También
 
-* class [EndPath](../../../aspose.pdf.operators/endpath)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EndPath](../../../aspose.pdf.operators/endpath/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GSave) {#visit_28}
 
-Visitar/seleccionar q operador.
+Visitar/seleccionar operador q.
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| q | GSave | Guardar operador de estado de gráficos. |
+| q | GSave | Operador para guardar el estado gráfico. |
 
-### Ver también
+### Ver También
 
-* class [GSave](../../../aspose.pdf.operators/gsave)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [GSave](../../../aspose.pdf.operators/gsave/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -917,37 +917,37 @@ Visitar/seleccionar operador Q.
 public void Visit(GRestore Q)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Q | GRestore | Restaurar operador de estado de gráficos. |
+| Q | GRestore | Operador para restaurar el estado gráfico. |
 
-### Ver también
+### Ver También
 
-* class [GRestore](../../../aspose.pdf.operators/grestore)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [GRestore](../../../aspose.pdf.operators/grestore/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Re) {#visit_38}
 
-Visitar/seleccionar reoperador.
+Visitar/seleccionar operador re.
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| re | Re | Agregar rectángulo al operador de ruta. |
+| re | Re | Operador para agregar un rectángulo al camino. |
 
-### Ver también
+### Ver También
 
-* class [Re](../../../aspose.pdf.operators/re)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [Re](../../../aspose.pdf.operators/re/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -959,16 +959,16 @@ Visitar/seleccionar operador rg.
 public void Visit(SetRGBColor rg)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rg | SetRGBColor | Establecer operador de color RGB (para operaciones sin trazos). |
+| rg | SetRGBColor | Operador para establecer el color RGB (para operaciones no de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -980,16 +980,16 @@ Visitar/seleccionar operador RG.
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Establecer operador de color RGB (para operaciones de trazo). |
+| RG | SetRGBColorStroke | Operador para establecer el color RGB (para operaciones de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1001,16 +1001,16 @@ Visitar/seleccionar operador ri.
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Establecer operador de intento de reproducción de color. |
+| ri | SetColorRenderingIntent | Operador para establecer la intención de renderizado de color. |
 
-### Ver también
+### Ver También
 
-* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1022,16 +1022,16 @@ Visitar/seleccionar operador s.
 public void Visit(ClosePathStroke s)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| s | ClosePathStroke | Operador de cierre y trazo de recorrido. |
+| s | ClosePathStroke | Operador para cerrar y trazar el camino. |
 
-### Ver también
+### Ver También
 
-* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1043,16 +1043,16 @@ Visitar/seleccionar operador S.
 public void Visit(Stroke S)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| S | Stroke | Operador de trayectoria de carrera. |
+| S | Stroke | Operador para trazar el camino. |
 
-### Ver también
+### Ver También
 
-* class [Stroke](../../../aspose.pdf.operators/stroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [Stroke](../../../aspose.pdf.operators/stroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1064,16 +1064,16 @@ Visitar/seleccionar operador sc.
 public void Visit(SetColor sc)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| sc | SetColor | Establecer operador de color (para operaciones sin trazos). |
+| sc | SetColor | Operador para establecer el color (para operaciones no de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetColor](../../../aspose.pdf.operators/setcolor)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetColor](../../../aspose.pdf.operators/setcolor/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1085,37 +1085,37 @@ Visitar/seleccionar operador SC.
 public void Visit(SetColorStroke SC)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| SC | SetColorStroke | Establecer operador de color (para operaciones de trazo). |
+| SC | SetColorStroke | Operador para establecer el color (para operaciones de trazo). |
 
-### Ver también
+### Ver También
 
-* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-Visitar/seleccionar operador de escaneo.
+Visitar/seleccionar operador scn.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Establecer operador de color (para operaciones sin trazo, espacios de color especiales y basados en ICC). |
+| scn | SetAdvancedColor | Operador para establecer el color (para operaciones no de trazo, espacios de color ICCBased y especiales). |
 
-### Ver también
+### Ver También
 
-* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1127,16 +1127,16 @@ Visitar/seleccionar operador SCN.
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Establecer operador de color (para operaciones de trazado, espacios de color especiales y basados en ICC). |
+| SCN | SetAdvancedColorStroke | Operador para establecer el color (para operaciones de trazo, espacios de color ICCBased y especiales). |
 
-### Ver también
+### Ver También
 
-* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1148,16 +1148,16 @@ Visitar/seleccionar operador sh.
 public void Visit(ShFill sh)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| sh | ShFill | Área de pintura definida por el operador de patrón de sombreado. |
+| sh | ShFill | Operador para pintar el área definida por el patrón de sombreado. |
 
-### Ver también
+### Ver También
 
-* class [ShFill](../../../aspose.pdf.operators/shfill)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ShFill](../../../aspose.pdf.operators/shfill/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1169,16 +1169,16 @@ Visitar/seleccionar operador T*.
 public void Visit(MoveToNextLine T_)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Mover al inicio del siguiente operador de línea de texto. |
+| T_ | MoveToNextLine | Operador para moverse al inicio de la siguiente línea de texto. |
 
-### Ver también
+### Ver También
 
-* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1190,16 +1190,16 @@ Visitar/seleccionar operador Tc.
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Establecer operador de espacio entre caracteres. |
+| Tc | SetCharacterSpacing | Operador para establecer el espaciado de caracteres. |
 
-### Ver también
+### Ver También
 
-* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1211,16 +1211,16 @@ Visitar/seleccionar operador Td.
 public void Visit(MoveTextPosition Td)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Td | MoveTextPosition | Operador Mover posición de texto. |
+| Td | MoveTextPosition | Operador para mover la posición del texto. |
 
-### Ver también
+### Ver También
 
-* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1232,16 +1232,16 @@ Visitar/seleccionar operador TD.
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Mover la posición del texto y establecer el operador principal. |
+| TD | MoveTextPositionSetLeading | Operador para mover la posición del texto y establecer el interlineado. |
 
-### Ver también
+### Ver También
 
-* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1253,16 +1253,16 @@ Visitar/seleccionar operador Tf.
 public void Visit(SelectFont Tf)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tf | SelectFont | Establecer fuente de texto y operador de tamaño. |
+| Tf | SelectFont | Operador para establecer la fuente y el tamaño del texto. |
 
-### Ver también
+### Ver También
 
-* class [SelectFont](../../../aspose.pdf.operators/selectfont)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1274,16 +1274,16 @@ Visitar/seleccionar operador Tj.
 public void Visit(ShowText Tj)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tj | ShowText | Mostrar operador de texto. |
+| Tj | ShowText | Operador para mostrar texto. |
 
-### Ver también
+### Ver También
 
-* class [ShowText](../../../aspose.pdf.operators/showtext)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [ShowText](../../../aspose.pdf.operators/showtext/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1295,16 +1295,16 @@ Visitar/seleccionar operador TJ.
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Mostrar operador de texto (permitiendo posicionamiento de glifo individual). |
+| TJ | SetGlyphsPositionShowText | Operador para mostrar texto (permitiendo la posición individual de los glifos). |
 
-### Ver también
+### Ver También
 
-* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1316,16 +1316,16 @@ Visitar/seleccionar operador TL.
 public void Visit(SetTextLeading TL)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| TL | SetTextLeading | Establecer operador principal de texto. |
+| TL | SetTextLeading | Operador para establecer el interlineado del texto. |
 
-### Ver también
+### Ver También
 
-* class [SetTextLeading](../../../aspose.pdf.operators/settextleading)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1337,16 +1337,16 @@ Visitar/seleccionar operador Tm.
 public void Visit(SetTextMatrix Tm)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Establecer matriz de texto y operador de matriz de líneas de texto. |
+| Tm | SetTextMatrix | Operador para establecer la matriz de texto y la matriz de línea de texto. |
 
-### Ver también
+### Ver También
 
-* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1358,16 +1358,16 @@ Visitar/seleccionar operador Tr.
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Establecer operador de modo de representación de texto. |
+| Tr | SetTextRenderingMode | Operador para establecer el modo de renderizado de texto. |
 
-### Ver también
+### Ver También
 
-* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1379,16 +1379,16 @@ Visitar/seleccionar operador Ts.
 public void Visit(SetTextRise Ts)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Ts | SetTextRise | Establecer operador de subida de texto. |
+| Ts | SetTextRise | Operador para establecer el aumento del texto. |
 
-### Ver también
+### Ver También
 
-* class [SetTextRise](../../../aspose.pdf.operators/settextrise)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1400,16 +1400,16 @@ Visitar/seleccionar operador Tw.
 public void Visit(SetWordSpacing Tw)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Establecer operador de espaciado entre palabras. |
+| Tw | SetWordSpacing | Operador para establecer el espaciado de palabras. |
 
-### Ver también
+### Ver También
 
-* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1421,37 +1421,37 @@ Visitar/seleccionar operador Tz.
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Establecer operador de escala de texto horizontal. |
+| Tz | SetHorizontalTextScaling | Operador para establecer la escala horizontal del texto. |
 
-### Ver también
+### Ver También
 
-* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo1) {#visit_12}
 
-Visitar/seleccionar v operador.
+Visitar/seleccionar operador v.
 
 ```csharp
 public void Visit(CurveTo1 v)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| v | CurveTo1 | Agregar segmento curvo al operador de ruta (punto inicial replicado). |
+| v | CurveTo1 | Operador para agregar un segmento curvado al camino (punto inicial replicado). |
 
-### Ver también
+### Ver También
 
-* class [CurveTo1](../../../aspose.pdf.operators/curveto1)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1463,37 +1463,37 @@ Visitar/seleccionar operador W*.
 public void Visit(EOClip W_)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| W_ | EOClip | Establecer operador de ruta de recorte (regla par-impar). |
+| W_ | EOClip | Operador para establecer el camino de recorte (regla par-impar). |
 
-### Ver también
+### Ver También
 
-* class [EOClip](../../../aspose.pdf.operators/eoclip)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [EOClip](../../../aspose.pdf.operators/eoclip/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-Visitar/seleccionar w operador.
+Visitar/seleccionar operador w.
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| w | SetLineWidth | Establecer operador de ancho de línea. |
+| w | SetLineWidth | Operador para establecer el ancho de línea. |
 
-### Ver también
+### Ver También
 
-* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1505,57 +1505,57 @@ Visitar/seleccionar operador W.
 public void Visit(Clip W)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| W | Clip | Establecer operador de ruta de recorte (regla de número de devanado distinto de cero). |
+| W | Clip | Operador para establecer el camino de recorte (regla de número de vueltas no cero). |
 
-### Ver también
+### Ver También
 
-* class [Clip](../../../aspose.pdf.operators/clip)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [Clip](../../../aspose.pdf.operators/clip/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo2) {#visit_13}
 
-Visitar/seleccionar y operador.
+Visitar/seleccionar operador y.
 
 ```csharp
 public void Visit(CurveTo2 y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| y | CurveTo2 | Agregar segmento curvo al operador de ruta (punto final replicado). |
+| y | CurveTo2 | Operador para agregar un segmento curvado al camino (punto final replicado). |
 
-### Ver también
+### Ver También
 
-* class [CurveTo2](../../../aspose.pdf.operators/curveto2)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(TextOperator) {#visit_73}
 
-Visita/selecciona cualquier operador de texto operator.
+Visitar/seleccionar cualquier operador de texto.
 
 ```csharp
 public void Visit(TextOperator textOperator)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| textOperator | TextOperator | Operador de texto general que se utiliza para seleccionar el conjunto de operadores de pdf correspondientes. |
+| textOperator | TextOperator | Operador de texto general que se utiliza para seleccionar el conjunto de operadores PDF correspondientes. |
 
-### Ver también
+### Ver También
 
-* class [TextOperator](../../../aspose.pdf.operators/textoperator)
-* class [OperatorSelector](../../operatorselector)
-* espacio de nombres [Aspose.Pdf](../../operatorselector)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* clase [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---

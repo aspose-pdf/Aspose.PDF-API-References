@@ -1,175 +1,173 @@
 ---
-title: HideAction
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفHideActionaspose.pdf.annotations/hideaction فئة التعليق التوضيحي المحدد.
+title: HideAction.HideAction
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ HideAction. يقوم بتهيئة مثيل جديد من فئة HideAction للتعليق المحدد
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة التعليق التوضيحي المحدد.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليق المحدد.
 
 ```csharp
 public HideAction(Annotation annotation)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | تعليق توضيحي يجب إخفاؤه. |
+| annotation | Annotation | تعليق يجب إخفاؤه. |
 
-### أنظر أيضا
+### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة للتعليق التوضيحي المحدد وعلامة الاختفاء.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليق المحدد وعلم عدم الظهور.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | تعليق توضيحي ليتم إخفاؤه أو إظهاره. |
-| isHidden | Boolean | علامة تشير إلى إخفاء التعليق التوضيحي (صواب) أو إظهاره (خطأ). |
+| annotation | Annotation | تعليق يجب إخفاؤه أو إظهاره. |
+| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء التعليق (true) أو إظهاره (false). |
 
-### أنظر أيضا
+### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة لاسم الحقل المحدد.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لاسم الحقل المحدد.
 
 ```csharp
 public HideAction(string fieldName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | سلسلة نصية تعطي اسم الحقل المؤهل بالكامل لحقل نموذج تفاعلي. |
+| fieldName | String | سلسلة نصية تعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
 
-### أنظر أيضا
+### See Also
 
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string, bool) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction)فئة لاسم الحقل المحدد وعلامة الاختفاء.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لاسم الحقل المحدد وعلم عدم الظهور.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | سلسلة نصية تعطي اسم الحقل المؤهل بالكامل لحقل نموذج تفاعلي. |
-| isHidden | Boolean | علامة تشير إلى إخفاء الحقل (صواب) أو إظهاره (خطأ). |
+| fieldName | String | سلسلة نصية تعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
+| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء الحقل (true) أو إظهاره (false). |
 
-### أنظر أيضا
+### See Also
 
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة للتعليقات التوضيحية المحددة.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليقات المحددة.
 
 ```csharp
 public HideAction(Annotation[] annotations)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotations | Annotation[] | يجب إخفاء مجموعة من التعليقات التوضيحية. |
+| annotations | Annotation[] | مصفوفة من التعليقات التي يجب إخفاؤها. |
 
-### أنظر أيضا
+### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة للتعليقات التوضيحية المحددة وعلامة الاختفاء.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليقات المحددة وعلم عدم الظهور.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotations | Annotation[] | مجموعة من التعليقات التوضيحية لإخفائها أو إظهارها. |
-| isHidden | Boolean | علامة تشير إلى إخفاء التعليقات التوضيحية (صواب) أو إظهارها (خطأ). |
+| annotations | Annotation[] | مصفوفة من التعليقات التي يجب إخفاؤها أو إظهارها. |
+| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء التعليقات (true) أو إظهارها (false). |
 
-### أنظر أيضا
+### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[]) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة لأسماء الحقول المحددة.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لأسماء الحقول المحددة.
 
 ```csharp
 public HideAction(string[] names)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| names | String[] | مصفوفة من السلاسل تعطي أسماء الحقول المؤهلة بالكامل لحقول النموذج التفاعلية. |
+| names | String[] | مصفوفة من السلاسل النصية التي تعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلي. |
 
-### أنظر أيضا
+### See Also
 
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[], bool) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`HideAction`](../../hideaction) فئة لأسماء الحقول المحددة ولعلامة الاختفاء.
+يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لأسماء الحقول المحددة وعلم عدم الظهور.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| names | String[] | مصفوفة من السلاسل تعطي أسماء الحقول المؤهلة بالكامل لحقول النموذج التفاعلية. |
-| isHidden | Boolean | علامة تشير إلى إخفاء الحقول (صواب) أو إظهارها (خطأ). |
+| names | String[] | مصفوفة من السلاسل النصية التي تعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلي. |
+| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء الحقول (true) أو إظهارها (false). |
 
-### أنظر أيضا
+### See Also
 
-* class [HideAction](../../hideaction)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../hideaction)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

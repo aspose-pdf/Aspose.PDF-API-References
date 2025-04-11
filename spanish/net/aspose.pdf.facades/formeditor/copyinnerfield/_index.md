@@ -1,70 +1,68 @@
 ---
-title: CopyInnerField
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Copia un campo existente en la misma posición en el número de página especificado. Se producirá un nuevo documento que contiene todo lo que tiene el documento de origen excepto el campo recién copiado.
+title: FormEditor.CopyInnerField
+second_title: Aspose.PDF for .NET API Reference
+description: Método FormEditor. Copia un campo existente a la misma posición en el número de página especificado. Se producirá un nuevo documento que contiene todo lo que tiene el documento fuente, excepto por el campo copiado recientemente.
 type: docs
-weight: 190
+weight: 150
 url: /es/net/aspose.pdf.facades/formeditor/copyinnerfield/
 ---
 ## CopyInnerField(string, string, int) {#copyinnerfield}
 
-Copia un campo existente en la misma posición en el número de página especificado. Se producirá un nuevo documento, que contiene todo lo que tiene el documento de origen excepto el campo recién copiado.
+Copia un campo existente a la misma posición en el número de página especificado. Se producirá un nuevo documento, que contiene todo lo que tiene el documento fuente, excepto por el campo copiado recientemente.
 
 ```csharp
 public void CopyInnerField(string fieldName, string newFieldName, int pageNum)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fieldName | String | El antiguo nombre de campo completo. |
-| newFieldName | String | El nuevo nombre de campo completo. Si es nulo, se establecerá como fieldName + "~". |
-| pageNum | Int32 | El número de página para contener el nuevo campo. Si -1, el nuevo campo se copiará en la misma página que el antiguo alojado. |
+| fieldName | String | El antiguo nombre de campo completamente calificado. |
+| newFieldName | String | El nuevo nombre de campo completamente calificado. Si es nulo, se establecerá como fieldName + "~". |
+| pageNum | Int32 | El número de página para contener el nuevo campo. Si es -1, el nuevo campo se copiará a la misma página que el antiguo. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
-//Crea una copia del campo de texto en la segunda página.
+//Creates copy of text field on psecond page.
 formEditor.CopyInnerField("textField", "textFieldCopy", 2);
 ```
 
-### Ver también
+### Ver También
 
-* class [FormEditor](../../formeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../formeditor)
-* asamblea [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CopyInnerField(string, string, int, float, float) {#copyinnerfield_1}
 
-Copia un campo existente en una nueva posición especificada tanto por el número de página como por las ordenadas. Se producirá un nuevo documento, que contiene todo lo que tiene el documento de origen excepto el campo recién copiado.
+Copia un campo existente a una nueva posición especificada por el número de página y las coordenadas. Se producirá un nuevo documento, que contiene todo lo que tiene el documento fuente, excepto por el campo copiado recientemente.
 
 ```csharp
 public void CopyInnerField(string fieldName, string newFieldName, int pageNum, float abscissa, 
     float ordinate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fieldName | String | El antiguo nombre de campo completo. |
-| newFieldName | String | El nuevo nombre de campo completo. Si es nulo, se establecerá como fieldName + "~". |
-| pageNum | Int32 | El número de página para contener el nuevo campo. Si -1, el nuevo campo se copiará en la misma página que el antiguo alojado. |
-| abscissa | Single | La abscisa del nuevo campo. Si -1, la abscisa se igualará a la original. |
-| ordinate | Single | La ordenada del nuevo campo. Si -1, la ordenada se igualará a la original. |
+| fieldName | String | El antiguo nombre de campo completamente calificado. |
+| newFieldName | String | El nuevo nombre de campo completamente calificado. Si es nulo, se establecerá como fieldName + "~". |
+| pageNum | Int32 | El número de página para contener el nuevo campo. Si es -1, el nuevo campo se copiará a la misma página que el antiguo. |
+| abscissa | Single | La abscisa del nuevo campo. Si es -1, la abscisa será igual a la original. |
+| ordinate | Single | La ordenada del nuevo campo. Si es -1, la ordenada será igual a la original. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
-//Crea una copia del campo de texto en la segunda página.
+//Creates copy of text field on psecond page.
 formEditor.CopyInnerField("textField", "textFieldCopy", 2, 100, 200);
 ```
 
-### Ver también
+### Ver También
 
-* class [FormEditor](../../formeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../formeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

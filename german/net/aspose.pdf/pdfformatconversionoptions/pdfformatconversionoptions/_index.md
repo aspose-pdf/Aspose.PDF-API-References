@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Konstruktor
+title: PdfFormatConversionOptions.PdfFormatConversionOptions
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFormatConversionOptions Konstruktor. Konstruktor
 type: docs
 weight: 10
 url: /de/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -18,16 +18,16 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | outputLogFileName | String | Pfad zur Datei, in der Kommentare gespeichert werden. |
-| format | PdfFormat | Das pdf-Format. |
+| format | PdfFormat | Das PDF-Format. |
 | action | ConvertErrorAction | Aktion für Objekte, die nicht konvertiert werden können |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,14 +42,14 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | outputLogFileName | String | Pfad zur Datei, in der Kommentare gespeichert werden. |
-| format | PdfFormat | Das pdf-Format. |
+| format | PdfFormat | Das PDF-Format. |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -63,14 +63,14 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| format | PdfFormat | Das pdf-Format. |
+| format | PdfFormat | Das PDF-Format. |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -84,16 +84,16 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| format | PdfFormat | Das pdf-Format. |
+| format | PdfFormat | Das PDF-Format. |
 | action | ConvertErrorAction | Aktion für Objekte, die nicht konvertiert werden können |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -109,18 +109,18 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | outputLogFileName | String | Pfad zur Datei, in der Kommentare gespeichert werden. |
-| format | PdfFormat | Das pdf-Format. |
+| format | PdfFormat | Das PDF-Format. |
 | action | ConvertErrorAction | Aktion für Objekte, die nicht konvertiert werden können |
 | transparencyAction | ConvertTransparencyAction | Aktion für bildmaskierte Objekte |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -135,16 +135,14 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream, wo Kommentare gespeichert werden |
-| format | PdfFormat | Das pdf-Format |
+| outputLogStream | Stream | Stream, in dem Kommentare gespeichert werden |
+| format | PdfFormat | Das PDF-Format |
 | action | ConvertErrorAction | Aktion für Objekte, die nicht konvertiert werden können |
 
 ### Siehe auch
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* namensraum [Aspose.Pdf](../../pdfformatconversionoptions)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

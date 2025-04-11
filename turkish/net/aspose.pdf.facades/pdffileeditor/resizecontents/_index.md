@@ -1,349 +1,289 @@
 ---
-title: ResizeContents
-second_title: Aspose.PDF for .NET API Referansı
-description: Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse sayfanın etrafına boş kenar boşlukları eklenir.
+title: PdfFileEditor.ResizeContents
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Belgenin sayfalarının içeriklerini yeniden boyutlandırır
 type: docs
-weight: 350
+weight: 320
 url: /tr/net/aspose.pdf.facades/pdffileeditor/resizecontents/
 ---
-## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_4}
+## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir.
-
-```csharp
-public bool ResizeContents(string source, string destination, int[] pages, 
-    ContentsResizeParameters parameters)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| source | String | Kaynak belge yolu. |
-| destination | String | Hedef belge yolu. |
-| pages | Int32[] | Sayfa dizinleri dizisi (sayfa dizini 1'den başlar). |
-| parameters | ContentsResizeParameters | Sayfa yeniden boyutlandırma parametreleri. |
-
-### Geri dönüş değeri
-
-yeniden boyutlandırma başarılı olduysa true .
-
-### Örnekler
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
-    null,
-    //sağ kenar boşluğu sayfanın %10'udur 
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
-    null,
-    //alt marj %10
-    PdfFileEditor.ContentsResizeValue.Percents(10)
-       );
-fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
-```
-
-### Ayrıca bakınız
-
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_7}
-
-Belgenin sayfalarını yeniden boyutlandırır. Küçülen sayfanın çevresine boş kenar boşlukları eklendi.
-
-```csharp
-public void ResizeContents(Document source, int[] pages, ContentsResizeParameters parameters)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| source | Document | Kaynak dosyası. |
-| pages | Int32[] | Sayfa dizinlerinin listesi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
-
-### Örnekler
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-Document doc = new Document("input.pdf");
-PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
-    null,
-    //sağ kenar boşluğu sayfanın %10'udur 
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
-    null,
-    //alt marj %10
-    PdfFileEditor.ContentsResizeValue.Percents(10)
-       );
-fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
-doc.Save("output.pdf");
-```
-
-### Ayrıca bakınız
-
-* class [Document](../../../aspose.pdf/document)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_6}
-
-Belgenin sayfalarını yeniden boyutlandırır. Küçülen sayfanın çevresine boş kenar boşlukları eklendi.
-
-```csharp
-public void ResizeContents(Document source, ContentsResizeParameters parameters)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| source | Document | Kaynak dosyası. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
-
-### Örnekler
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-Document doc = new Document("input.pdf");
-PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
-    null,
-    //sağ kenar boşluğu sayfanın %10'udur 
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
-    PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
-    null,
-    //alt marj %10
-    PdfFileEditor.ContentsResizeValue.Percents(10)
-       );
-fileEditor.ResizeContents(doc, parameters);
-doc.Save("output.pdf");
-```
-
-### Ayrıca bakınız
-
-* class [Document](../../../aspose.pdf/document)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents_1}
-
-Belgenin sayfalarının içeriğini yeniden boyutlandırır.
+Belgenin sayfalarının içeriklerini yeniden boyutlandırır.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| source | Stream | Kaynak belge ile akış. |
-| destination | Stream | Hedef belgeyle akış yapın. |
-| pages | Int32[] | Sayfa dizinleri dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
+| source | Stream | Kaynak belge ile stream. |
+| destination | Stream | Hedef belge ile stream. |
+| pages | Int32[] | Sayfa indeksleri dizisi. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarılı olursa true döndürür.
+Başarılıysa true döner.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
+    //left margin = 10% of page width
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
     null,
-    //sağ kenar boşluğu sayfanın %10'udur 
+    //right margin is 10% of page 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
+    //top margin = 10% of height
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
+    //new contents height is calculated automatically (similar to width)
     null,
-    //alt marj %10
+    //bottom margin is 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
 dest.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_2}
+## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_1}
 
-Belge sayfalarının içeriğini yeniden boyutlandırır. Sayfanın içeriğini küçültür ve kenar boşlukları ekler. Yeni içerik boyutu varsayılan alan birimlerinde belirtilir.
+Belge sayfalarının içeriklerini yeniden boyutlandırır. Sayfa içeriğini küçültür ve kenar boşlukları ekler. İçeriklerin yeni boyutu varsayılan alan birimlerinde belirtilir.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| source | Stream | Kaynak belgeyi içeren akış. |
-| destination | Stream | Ortaya çıkan belgenin kaydedileceği akış. |
-| pages | Int32[] | Sayfa dizinleri dizisi. Null ise tüm belge sayfaları işlenir. |
-| newWidth | Double | Varsayılan alan birimlerinde yeni sayfa içeriği genişliği. |
-| newHeight | Double | Varsayılan alan birimlerinde sayfa içeriğinin yeni yüksekliği. |
+| source | Stream | Kaynak belgeyi içeren stream. |
+| destination | Stream | Sonuç belgesinin kaydedileceği stream. |
+| pages | Int32[] | Sayfa indeksleri dizisi. Null ise tüm belge sayfaları işlenecektir. |
+| newWidth | Double | Sayfa içeriklerinin varsayılan alan birimlerinde yeni genişliği. |
+| newHeight | Double | Sayfa içeriklerinin varsayılan alan birimlerinde yeni yüksekliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeniden boyutlandırma başarılı olduysa doğrudur.
+Yeniden boyutlandırma başarılıysa true döner.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-// belgenin tüm sayfalarını yeniden boyutlandır
+//resize all pages of document
 null, 
-//yeni içerik genişliği = 200
+//new contents width = 200
 200, 
-//yeni içerik yüksekliği = 300
+//new contents height = 300
 300);
-// sayfanın dinlenme alanı boş olacak
+// rest area of page will be empty
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(string, string, int[], double, double) {#resizecontents_5}
+## ResizeContents(string, string, int[], double, double) {#resizecontents_3}
 
-Belge sayfalarının içeriğini yeniden boyutlandırır. Sayfanın içeriğini küçültür ve kenar boşlukları ekler. Yeni içerik boyutu varsayılan alan birimlerinde belirtilir.
+Belge sayfalarının içeriklerini yeniden boyutlandırır. Sayfa içeriğini küçültür ve kenar boşlukları ekler. İçeriklerin yeni boyutu varsayılan alan birimlerinde belirtilir.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | String | Kaynak belgeye giden yol. |
-| destination | String | Ortaya çıkan belgenin kaydedileceği yol. |
-| pages | Int32[] | Sayfa dizinleri dizisi. Null ise tüm belge sayfaları işlenir. |
-| newWidth | Double | Varsayılan alan birimlerinde yeni sayfa içeriği genişliği. |
-| newHeight | Double | Varsayılan alan birimlerinde sayfa içeriğinin yeni yüksekliği. |
+| destination | String | Sonuç belgesinin kaydedileceği yol. |
+| pages | Int32[] | Sayfa indeksleri dizisi. Null ise tüm belge sayfaları işlenecektir. |
+| newWidth | Double | Sayfa içeriklerinin varsayılan alan birimlerinde yeni genişliği. |
+| newHeight | Double | Sayfa içeriklerinin varsayılan alan birimlerinde yeni yüksekliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeniden boyutlandırma başarılı olduysa true .
+Yeniden boyutlandırma başarılıysa true döner.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-// belgenin tüm sayfalarını yeniden boyutlandır
+//resize all pages of document
 null, 
-//yeni içerik genişliği = 200
+//new contents width = 200
 200, 
-//yeni içerik yüksekliği = 300
+//new contents height = 300
 300);
-// sayfanın dinlenme alanı boş olacak
+// rest area of page will be empty
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(string, int[], ContentsResizeParameters, HttpResponse) {#resizecontents_3}
+## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir. Sonuç, HttpResponse nesnesinde saklanır.
+Belgedeki sayfaların içeriklerini yeniden boyutlandırır. Sayfa küçültüldüğünde etrafına boş kenar boşlukları eklenir.
 
 ```csharp
-public bool ResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
+public bool ResizeContents(string source, string destination, int[] pages, 
+    ContentsResizeParameters parameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| source | String | Kaynak dosyanın yolu. |
-| pages | Int32[] | Yeniden boyutlandırılacak sayfa dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
-| response | HttpResponse | Sonucun kaydedildiği HttpResponse nesnesi. |
+| source | String | Kaynak belge yolu. |
+| destination | String | Hedef belge yolu. |
+| pages | Int32[] | Sayfa indeksleri dizisi (sayfa indeksi 1'den başlar). |
+| parameters | ContentsResizeParameters | Sayfa yeniden boyutlandırma parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+Yeniden boyutlandırma başarılıysa true döner.
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
+```
+
+### Ayrıca Bakınız
+
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#resizecontents}
+## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_5}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir. Sonuç, HttpResponse nesnesinde saklanır.
+Belgenin sayfalarını yeniden boyutlandırır. Küçültülen sayfanın etrafına boş kenar boşlukları eklenir.
 
 ```csharp
-public bool ResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
+public void ResizeContents(Document source, int[] pages, ContentsResizeParameters parameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| source | Stream | Kaynak dosya akışı. |
-| pages | Int32[] | Yeniden boyutlandırılacak sayfa dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
-| response | HttpResponse | Sonucun kaydedildiği HttpResponse nesnesi. |
+| source | Document | Kaynak belge. |
+| pages | Int32[] | Sayfa indeksleri listesi. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
 
-### Geri dönüş değeri
+## Örnekler
 
-İşlem başarılı olduysa doğrudur.
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Document doc = new Document("input.pdf");
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
+doc.Save("output.pdf");
+```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_4}
+
+Belgenin sayfalarını yeniden boyutlandırır. Küçültülen sayfanın etrafına boş kenar boşlukları eklenir.
+
+```csharp
+public void ResizeContents(Document source, ContentsResizeParameters parameters)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| source | Document | Kaynak belge. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
+
+## Örnekler
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Document doc = new Document("input.pdf");
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents(doc, parameters);
+doc.Save("output.pdf");
+```
+
+### Ayrıca Bakınız
+
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

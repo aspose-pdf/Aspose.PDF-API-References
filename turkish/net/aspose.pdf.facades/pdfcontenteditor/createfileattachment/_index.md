@@ -1,29 +1,29 @@
 ---
-title: CreateFileAttachment
-second_title: Aspose.PDF for .NET API Referansı
-description: Dosya eki açıklamasını oluşturur.
+title: PdfContentEditor.CreateFileAttachment
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor metodu. Dosya ekleme notasyonu oluşturur
 type: docs
 weight: 150
 url: /tr/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Dosya eki açıklamasını oluşturur.
+Dosya ekleme notasyonu oluşturur.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| contents | String | Açıklamanın içeriği. |
-| filePath | String | Dosyanın yolu eklenecektir. |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| name | String | Açıklamanın görüntülenmesinde bir simgenin adı kullanılacaktır. Bu değer şunlar olabilir: "Grafik", "PushPin", "Ataş", "Etiket". |
+| rect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| contents | String | Notasyonun içeriği. |
+| filePath | String | Eklenecek dosyanın yolu. |
+| page | Int32 | Notasyonun oluşturulacağı orijinal sayfa numarası. |
+| name | String | Notasyonu görüntülemede kullanılacak simgenin adı. Bu değer şunlar olabilir: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,33 +33,33 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Dosya eki açıklamasını oluşturur.
+Dosya ekleme notasyonu oluşturur.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name, double opacity)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| contents | String | Açıklamanın içeriği. |
-| filePath | String | Dosyanın yolu eklenecektir. |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| name | String | Açıklamanın görüntülenmesinde bir simgenin adı kullanılacaktır. Bu değer şunlar olabilir: "Grafik", "PushPin", "Ataş", "Etiket". |
-| opacity | Double | 0'dan 1: 0'a kadar simgenin opaklığı - tamamen şeffaf, 1 - tamamen opak. |
+| rect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| contents | String | Notasyonun içeriği. |
+| filePath | String | Eklenecek dosyanın yolu. |
+| page | Int32 | Notasyonun oluşturulacağı orijinal sayfa numarası. |
+| name | String | Notasyonu görüntülemede kullanılacak simgenin adı. Bu değer şunlar olabilir: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Simgenin opaklığı 0 ile 1 arasında: 0 - tamamen şeffaf, 1 - tamamen opak. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -69,33 +69,33 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Dosya eki açıklamasını oluşturur.
+Dosya ekleme notasyonu oluşturur.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| contents | String | Açıklamanın içeriği. |
-| attachmentStream | Stream | Ek dosya akışı. |
-| attachmentName | String | Ek adı. |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| name | String | Açıklamanın görüntülenmesinde bir simgenin adı kullanılacaktır. Bu değer şunlar olabilir: "Grafik", "PushPin", "Ataş", "Etiket". |
+| rect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| contents | String | Notasyonun içeriği. |
+| attachmentStream | Stream | Ekleme dosya akışı. |
+| attachmentName | String | Ekleme adı. |
+| page | Int32 | Notasyonun oluşturulacağı orijinal sayfa numarası. |
+| name | String | Notasyonu görüntülemede kullanılacak simgenin adı. Bu değer şunlar olabilir: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -108,34 +108,34 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Dosya eki açıklamasını oluşturur.
+Dosya ekleme notasyonu oluşturur.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name, double opacity)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| contents | String | Açıklamanın içeriği. |
-| attachmentStream | Stream | Ek dosya akışı. |
-| attachmentName | String | Ek adı. |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| name | String | Açıklamanın görüntülenmesinde bir simgenin adı kullanılacaktır. Bu değer şunlar olabilir: "Grafik", "PushPin", "Ataş", "Etiket". |
-| opacity | Double | 0'dan 1: 0'a kadar simgenin opaklığı - tamamen şeffaf, 1 - tamamen opak. |
+| rect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| contents | String | Notasyonun içeriği. |
+| attachmentStream | Stream | Ekleme dosya akışı. |
+| attachmentName | String | Ekleme adı. |
+| page | Int32 | Notasyonun oluşturulacağı orijinal sayfa numarası. |
+| name | String | Notasyonu görüntülemede kullanılacak simgenin adı. Bu değer şunlar olabilir: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Simgenin opaklığı 0 ile 1 arasında: 0 - tamamen şeffaf, 1 - tamamen opak. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -148,10 +148,8 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

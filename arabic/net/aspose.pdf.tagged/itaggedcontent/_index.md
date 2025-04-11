@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل واجهة للعمل مع محتوى TaggedPdf الخاص بالوثيقة.
+title: Interface ITaggedContent
+second_title: Aspose.PDF for .NET API Reference
+description: واجهة Aspose.Pdf.Tagged.ITaggedContent. تمثل واجهة للعمل مع محتوى TaggedPdf من الوثيقة
 type: docs
-weight: 6520
+weight: 10310
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## ITaggedContent interface
+## واجهة ITaggedContent
 
-يمثل واجهة للعمل مع محتوى TaggedPdf الخاص بالوثيقة.
+تمثل واجهة للعمل مع محتوى TaggedPdf من الوثيقة.
 
 ```csharp
 public interface ITaggedContent
@@ -16,57 +16,55 @@ public interface ITaggedContent
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } | يحصل على الجذر[`StructureElement`](../../aspose.pdf.logicalstructure/structureelement) للهيكل المنطقي لوثيقة PDF. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } | يحصل على[`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement) من وثيقة PDF. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } | احصل على[`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate) إعدادات المستند بأكمله. |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | يحصل على الجذر [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) للبنية المنطقية لوثيقة PDF. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | يحصل على [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) لوثيقة PDF. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | يحصل على إعدادات [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) للوثيقة بأكملها. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement)() | يخلق[`AnnotElement`](../../aspose.pdf.logicalstructure/annotelement). |
-| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement)() | يخلق[`ArtElement`](../../aspose.pdf.logicalstructure/artelement). |
-| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement)() | يخلق[`BibEntryElement`](../../aspose.pdf.logicalstructure/bibentryelement). |
-| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement)() | يخلق[`BlockQuoteElement`](../../aspose.pdf.logicalstructure/blockquoteelement). |
-| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement)() | يخلق[`CaptionElement`](../../aspose.pdf.logicalstructure/captionelement). |
-| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement)() | يخلق[`CodeElement`](../../aspose.pdf.logicalstructure/codeelement). |
-| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement)() | يخلق[`DivElement`](../../aspose.pdf.logicalstructure/divelement). |
-| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement)() | يخلق[`FigureElement`](../../aspose.pdf.logicalstructure/figureelement). |
-| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement)() | يخلق[`FormElement`](../../aspose.pdf.logicalstructure/formelement). |
-| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement)() | يخلق[`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement)() | يخلق[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) | يخلق[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement) مع المستوى. |
-| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement)() | يخلق[`IndexElement`](../../aspose.pdf.logicalstructure/indexelement). |
-| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement)() | يخلق[`LinkElement`](../../aspose.pdf.logicalstructure/linkelement). |
-| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement)() | يخلق[`ListElement`](../../aspose.pdf.logicalstructure/listelement). |
-| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement)() | يخلق[`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement). |
-| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement)() | يخلق[`NoteElement`](../../aspose.pdf.logicalstructure/noteelement). |
-| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement)() | يخلق[`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement). |
-| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement)() | يخلق[`PartElement`](../../aspose.pdf.logicalstructure/partelement). |
-| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement)() | يخلق[`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement). |
-| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement)() | يخلق[`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement). |
-| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement)() | يخلق[`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement). |
-| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement)() | يخلق[`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement). |
-| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement)() | يخلق[`SectElement`](../../aspose.pdf.logicalstructure/sectelement). |
-| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement)() | يخلق[`SpanElement`](../../aspose.pdf.logicalstructure/spanelement). |
-| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement)() | يخلق[`TableElement`](../../aspose.pdf.logicalstructure/tableelement). |
-| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement)() | يخلق[`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
-| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement)() | يخلق[`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement). |
-| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement)() | يخلق[`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement). |
-| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement)() | يخلق[`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
-| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement)() | يخلق[`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement). |
-| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement)() | يخلق[`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement). |
-| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement)() | يخلق[`TOCElement`](../../aspose.pdf.logicalstructure/tocelement). |
-| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement)() | يخلق[`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement). |
-| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement)() | يخلق[`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) | يضبط اللغة الطبيعية لمستند pdf. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) | يعين عنوان وثيقة PDF. |
+| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement/)() | ينشئ [`AnnotElement`](../../aspose.pdf.logicalstructure/annotelement/). |
+| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement/)() | ينشئ [`ArtElement`](../../aspose.pdf.logicalstructure/artelement/). |
+| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement/)() | ينشئ [`BibEntryElement`](../../aspose.pdf.logicalstructure/bibentryelement/). |
+| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement/)() | ينشئ [`BlockQuoteElement`](../../aspose.pdf.logicalstructure/blockquoteelement/). |
+| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement/)() | ينشئ [`CaptionElement`](../../aspose.pdf.logicalstructure/captionelement/). |
+| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement/)() | ينشئ [`CodeElement`](../../aspose.pdf.logicalstructure/codeelement/). |
+| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement/)() | ينشئ [`DivElement`](../../aspose.pdf.logicalstructure/divelement/). |
+| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement/)() | ينشئ [`FigureElement`](../../aspose.pdf.logicalstructure/figureelement/). |
+| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement/)() | ينشئ [`FormElement`](../../aspose.pdf.logicalstructure/formelement/). |
+| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement/)() | ينشئ [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement)() | ينشئ [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | ينشئ [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) بمستوى. |
+| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | ينشئ [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
+| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | ينشئ [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
+| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | ينشئ [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | ينشئ [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
+| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | ينشئ [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
+| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | ينشئ [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |
+| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement/)() | ينشئ [`PartElement`](../../aspose.pdf.logicalstructure/partelement/). |
+| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement/)() | ينشئ [`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement/). |
+| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement/)() | ينشئ [`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement/). |
+| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement/)() | ينشئ [`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement/). |
+| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement/)() | ينشئ [`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement/). |
+| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement/)() | ينشئ [`SectElement`](../../aspose.pdf.logicalstructure/sectelement/). |
+| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement/)() | ينشئ [`SpanElement`](../../aspose.pdf.logicalstructure/spanelement/). |
+| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement/)() | ينشئ [`TableElement`](../../aspose.pdf.logicalstructure/tableelement/). |
+| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/)() | ينشئ [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/). |
+| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement/)() | ينشئ [`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement/). |
+| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement/)() | ينشئ [`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement/). |
+| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement/)() | ينشئ [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/). |
+| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement/)() | ينشئ [`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement/). |
+| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement/)() | ينشئ [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement/). |
+| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | ينشئ [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/). |
+| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | ينشئ [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/). |
+| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | ينشئ [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | يحدد اللغة الطبيعية لوثيقة PDF. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | يحدد العنوان لوثيقة PDF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Tagged](../../aspose.pdf.tagged)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* مساحة الاسم [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* التجميع [Aspose.PDF](../../)

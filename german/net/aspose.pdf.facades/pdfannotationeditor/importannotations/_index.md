@@ -1,14 +1,14 @@
 ---
-title: ImportAnnotations
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Importiert die angegebenen Anmerkungen aus dem Array anderer PDF-Dokumente in das Dokument.
+title: PdfAnnotationEditor.ImportAnnotations
+second_title: Aspose.PDF for .NET API Reference
+description: PdfAnnotationEditor-Methode. Importiert die angegebenen Anmerkungen in das Dokument aus einem Array von anderen PDF-Dokumenten
 type: docs
 weight: 90
 url: /de/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Importiert die angegebenen Anmerkungen aus dem Array anderer PDF-Dokumente in das Dokument.
+Importiert die angegebenen Anmerkungen in das Dokument aus einem Array von anderen PDF-Dokumenten.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -16,10 +16,10 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| annotFile | String[] | Das Array von Pfaden von PDF-Dokumenten, die Quellanmerkungen enthalten. |
-| annotType | AnnotationType[] | Das Array der zu importierenden Anmerkungstypen. |
+| annotFile | String[] | Das Array von Pfaden zu PDF-Dokumenten, die Quellanmerkungen enthalten. |
+| annotType | AnnotationType[] | Das Array von Anmerkungstypen, die importiert werden sollen. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -32,16 +32,16 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* Montage [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Importiert Anmerkungen aus einem Array anderer PDF-Dokumente in das Dokument.
+Importiert Anmerkungen in das Dokument aus einem Array von anderen PDF-Dokumenten.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -49,9 +49,9 @@ public void ImportAnnotations(string[] annotFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| annotFile | String[] | Das Array von Pfaden von PDF-Dokumenten, die Quellanmerkungen enthalten. |
+| annotFile | String[] | Das Array von Pfaden zu PDF-Dokumenten, die Quellanmerkungen enthalten. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -63,15 +63,15 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* Montage [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Importiert die angegebenen Anmerkungen aus dem Array anderer PDF-Dokumentstreams in das Dokument.
+Importiert die angegebenen Anmerkungen in das Dokument aus einem Array von anderen PDF-Dokumenten-Streams.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -80,9 +80,9 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | annotFileStream | Stream[] | Das Array von Streams von PDF-Dokumenten, die Quellanmerkungen enthalten. |
-| annotType | AnnotationType[] | Die zu importierenden Anmerkungstypen. |
+| annotType | AnnotationType[] | Die Anmerkungstypen, die importiert werden sollen. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -99,16 +99,16 @@ stream[1].Close();
 
 ### Siehe auch
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* Montage [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Importiert Anmerkungen in das Dokument aus einem Array anderer PDF-Dokument-Streams.
+Importiert Anmerkungen in das Dokument aus einem Array von anderen PDF-Dokumenten-Streams.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -118,7 +118,7 @@ public void ImportAnnotations(Stream[] annotFileStream)
 | --- | --- | --- |
 | annotFileStream | Stream[] | Das Array von Streams von PDF-Dokumenten, die Quellanmerkungen enthalten. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -134,8 +134,6 @@ streams[1].Close();
 
 ### Siehe auch
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

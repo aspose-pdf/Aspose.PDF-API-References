@@ -1,14 +1,14 @@
 ---
-title: MakeBooklet
-second_title: Aspose.PDF för .NET API Referens
-description: Gör häfte från indatafilen till utdatafilen.
+title: PdfFileEditor.MakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metod. Gör ett häfte från indatafilen till utdatafilen
 type: docs
-weight: 330
+weight: 300
 url: /sv/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
-Gör häfte från indatafilen till utdatafilen.
+Gör ett häfte från indatafilen till utdatafilen.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
@@ -16,31 +16,31 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Ange sökväg och namn för pdf-fil. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
+| inputFile | Sträng | Sökväg och namn på indata pdf-fil. |
+| outputFile | Sträng | Sökväg och namn på utdata pdf-fil. |
 
 ### Returvärde
 
 boolean - Sant för framgång, eller falskt.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
-Gör häfte från InputStream till outputStream.
+Gör ett häfte från InputStream till outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
@@ -48,14 +48,14 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in pdf-ström. |
+| inputStream | Stream | Indata pdf-ström. |
 | outputStream | Stream | utdata pdf-ström. |
 
 ### Returvärde
 
 Sant om operationen lyckades.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -64,17 +64,17 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream);
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-Gör häfte från inputFile till outputFile.
+Gör ett häfte från inputFile till outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -82,33 +82,33 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Ange sökväg och namn för pdf-fil. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputFile | Sträng | Sökväg och namn på indata pdf-fil. |
+| outputFile | Sträng | Sökväg och namn på utdata pdf-fil. |
+| pageSize | PageSize | Sidstorleken på utdata pdf-fil. |
 
 ### Returvärde
 
-Sant om operationen lyckas.
+Sant om operationen lyckades.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
-Gör häfte från ingångsströmmen och sparar resultatet i utmatningsström.
+Gör ett häfte från indataströmmen och spara resultatet i utdataströmmen.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
@@ -116,15 +116,15 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in PDF-ström. |
+| inputStream | Stream | Indata PDF-ström. |
 | outputStream | Stream | utdata pdf-ström. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| pageSize | PageSize | Sidstorleken på utdata pdf-fil. |
 
 ### Returvärde
 
 Sant om operationen lyckades.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -133,16 +133,16 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
 Gör ett anpassat häfte från firstInputFile till outputFile.
 
@@ -152,31 +152,31 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatningsfilen. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| leftPages | Int32[] | Häftets vänstra sidor. |
-| rightPages | Int32[] | De högra sidorna i häftet. |
+| inputFile | Sträng | Indatafilen. |
+| outputFile | Sträng | Sökväg och namn på utdata pdf-fil. |
+| leftPages | Int32[] | De vänstra sidorna av häftet. |
+| rightPages | Int32[] | De högra sidorna av häftet. |
 
 ### Returvärde
 
 boolean - Sant för framgång, eller falskt.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
 Gör ett anpassat häfte från firstInputStream till outputStream.
 
@@ -186,16 +186,16 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Ingångsströmmen. |
-| outputStream | Stream | output pdf-ström. |
+| inputStream | Stream | Indataströmmen. |
+| outputStream | Stream | utdata pdf-ström. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
 boolean - Sant för framgång, eller falskt.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -204,15 +204,15 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
 Gör ett anpassat häfte från firstInputFile till outputFile.
 
@@ -223,35 +223,35 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatningsfilen. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputFile | Sträng | Indatafilen. |
+| outputFile | Sträng | Sökväg och namn på utdata pdf-fil. |
+| pageSize | PageSize | Sidstorleken på utdata pdf-fil. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
 boolean - Sant för framgång, eller falskt.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-Gör häfte från firstInputStream till outputStream.
+Gör ett häfte från firstInputStream till outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -260,17 +260,17 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Ingångsströmmen. |
-| outputStream | Stream | output pdf-ström. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputStream | Stream | Indataströmmen. |
+| outputStream | Stream | utdata pdf-ström. |
+| pageSize | PageSize | Sidstorleken på utdata pdf-fil. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
 boolean - Sant för framgång, eller falskt.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,18 +279,17 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
----
 
 ## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
 
-Gör häfte från källfil och lagrar resultat i HttpResponse-objekt.
+Gör ett häfte från källfilen och lagrar resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
@@ -299,9 +298,9 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källfilens sökväg. |
+| inputFile | Sträng | Sökväg till källfilen. |
 | pageSize | PageSize | Önskad sidstorlek. |
-| leftPages | Int32[] | En rad sidnummer som ska placeras till vänster. |
+| leftPages | Int32[] | Array av sidnummer som ska placeras till vänster. |
 | rightPages | Int32[] | Array av sidnummer som ska placeras till höger. |
 | response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
 
@@ -309,18 +308,18 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, in
 
 Sant om operationen lyckades.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
 
-Skapa häfte från PDF-fil och lagra den i HttpResponse.
+Gör ett häfte från PDF-filen och lagrar det i HttpResponse.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
@@ -329,28 +328,28 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in dokumentström. |
+| inputStream | Stream | Indata dokumentström. |
 | pageSize | PageSize | Önskad sidstorlek. |
 | leftPages | Int32[] | Array av sidnummer som kommer att placeras till vänster. |
-| rightPages | Int32[] | Array av sidnummer som kommer att ersättas till höger. |
+| rightPages | Int32[] | Array av sidnummer som kommer att placeras till höger. |
 | response | HttpResponse | HttpResponse-objekt. |
 
 ### Returvärde
 
 Sant om operationen lyckades.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
 
-Gör häfte från källfil och lagrar resultat i HttpResponse-objekt.
+Gör ett häfte från källfilen och lagrar resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
@@ -358,26 +357,26 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse respon
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källfilens sökväg. |
-| pageSize | PageSize | Önskad sidstorlek i utdatafil. |
+| inputFile | Sträng | Sökväg till källfilen. |
+| pageSize | PageSize | Önskad sidstorlek i utdatafilen. |
 | response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
 
 ### Returvärde
 
-Sant om operationen lyckas.
+Sant om operationen lyckades.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
 
-Gör häfte från källfil och lagrar resultatet i HttpResponse.
+Gör ett häfte från källfilen och lagrar resultatet i HttpResponse.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
@@ -385,19 +384,17 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse resp
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in dokumentström. |
-| pageSize | PageSize | Önskad sidstorlek i utdatafil. |
-| response | HttpResponse | Responera objekt där resut kommer att sparas. |
+| inputStream | Stream | Indata dokumentström. |
+| pageSize | PageSize | Önskad sidstorlek i utdatafilen. |
+| response | HttpResponse | Respose-objekt där resultatet kommer att sparas. |
 
 ### Returvärde
 
 sant om häftet byggdes framgångsrikt.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)

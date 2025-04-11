@@ -1,14 +1,14 @@
 ---
-title: PKCS7Detached
-second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярPKCS7Detachedaspose.pdf.forms/pkcs7detached класс.
+title: PKCS7Detached.PKCS7Detached
+second_title: Aspose.PDF for .NET API Reference
+description: Конструктор PKCS7Detached. Инициализирует новый экземпляр класса PKCS7Detached
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
-## PKCS7Detached(Stream) {#constructor_1}
+## PKCS7Detached(Stream) {#constructor_2}
 
-Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
 
 ```csharp
 public PKCS7Detached(Stream image)
@@ -16,35 +16,78 @@ public PKCS7Detached(Stream image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Stream | Это изображение будет определять внешний вид подписи на странице. |
+| image | Stream | Это изображение определит внешний вид подписи на странице. |
 
-### Смотрите также
+### См. также
 
-* class [PKCS7Detached](../../pkcs7detached)
-* пространство имен [Aspose.Pdf.Forms](../../pkcs7detached)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_3}
+
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
+
+```csharp
+public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| image | Stream | Это изображение определит внешний вид подписи на странице. |
+| digestHashAlgorithm | DigestHashAlgorithm | Алгоритм хеширования для подписи документа. |
+
+### См. также
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PKCS7Detached() {#constructor}
 
-Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
 
 ```csharp
 public PKCS7Detached()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PKCS7Detached](../../pkcs7detached)
-* пространство имен [Aspose.Pdf.Forms](../../pkcs7detached)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(string, string) {#constructor_3}
+## PKCS7Detached(DigestHashAlgorithm) {#constructor_1}
 
-Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
+
+```csharp
+public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| digestHashAlgorithm | DigestHashAlgorithm | Алгоритм хеширования для подписи документа. |
+
+### См. также
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(string, string) {#constructor_6}
+
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
 
 ```csharp
 public PKCS7Detached(string pfx, string password)
@@ -52,20 +95,43 @@ public PKCS7Detached(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Pfx-файл, содержащий сертификат для подписи. |
+| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
 | password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
-### Смотрите также
+### См. также
 
-* class [PKCS7Detached](../../pkcs7detached)
-* пространство имен [Aspose.Pdf.Forms](../../pkcs7detached)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(Stream, string) {#constructor_2}
+## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_7}
 
-Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
+
+```csharp
+public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
+| digestHashAlgorithm | DigestHashAlgorithm | Алгоритм хеширования для подписи документа. |
+
+### См. также
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(Stream, string) {#constructor_4}
+
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
 
 ```csharp
 public PKCS7Detached(Stream pfx, string password)
@@ -76,10 +142,31 @@ public PKCS7Detached(Stream pfx, string password)
 | pfx | Stream | Поток с данными сертификата, организованными как pfx. |
 | password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
-### Смотрите также
+### См. также
 
-* class [PKCS7Detached](../../pkcs7detached)
-* пространство имен [Aspose.Pdf.Forms](../../pkcs7detached)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * сборка [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_5}
+
+Инициализирует новый экземпляр класса [`PKCS7Detached`](../).
+
+```csharp
+public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| pfx | Stream | Поток с данными сертификата, организованными как pfx. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
+| digestHashAlgorithm | DigestHashAlgorithm | Алгоритм хеширования для подписи документа. |
+
+### См. также
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* класс [PKCS7Detached](../)
+* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* сборка [Aspose.PDF](../../../)

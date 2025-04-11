@@ -1,14 +1,14 @@
 ---
-title: FontCollection
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa la colección de fuentes.
+title: Class FontCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Text.FontCollection. Representa una colección de fuentes
 type: docs
-weight: 6710
+weight: 10530
 url: /es/net/aspose.pdf.text/fontcollection/
 ---
-## FontCollection class
+## Clase FontCollection
 
-Representa la colección de fuentes.
+Representa una colección de fuentes.
 
 ```csharp
 public sealed class FontCollection : ICollection<Font>
@@ -18,37 +18,37 @@ public sealed class FontCollection : ICollection<Font>
 
 | Nombre | Descripción |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | Obtiene el número de[`Font`](../font) elementos de objeto realmente contenidos en la colección. |
-| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly) { get; } | Obtiene un valor que indica si la colección es de solo lectura |
-| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized) { get; } | Obtiene un valor que indica si el acceso a la colección está sincronizado (seguro para subprocesos). |
-| [Item](../../aspose.pdf.text/fontcollection/item) { get; } | Obtiene el elemento de fuente en el índice especificado. (2 indexers) |
-| [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot) { get; } | Obtiene un objeto que se puede usar para sincronizar el acceso a la colección. |
+| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | Obtiene el número de elementos de objeto [`Font`](../font/) que realmente están contenidos en la colección. |
+| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | Obtiene un valor que indica si la colección es de solo lectura. |
+| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | Obtiene un valor que indica si el acceso a la colección está sincronizado (seguro para hilos). |
+| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | Obtiene el elemento de fuente en el índice especificado. (2 indexadores) |
+| [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot/) { get; } | Obtiene un objeto que se puede usar para sincronizar el acceso a la colección. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontcollection/add)(Font, out string) | Agrega una nueva fuente a los recursos de fuente y devuelve automáticamente el nombre asignado del recurso de fuente. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains#contains)(Font) | Determina si la colección contiene un valor específico. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains#contains_1)(string) | Comprueba si la fuente existe en la colección de fuentes. |
-| [CopyTo](../../aspose.pdf.text/fontcollection/copyto)(Font[], int) | Copia la colección completa en un Array unidimensional compatible, comenzando en el índice especificado del array de destino |
-| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator)() | Devuelve un enumerador para toda la colección. |
-| [Remove](../../aspose.pdf.text/fontcollection/remove)(Font) | Elimina el elemento especificado de la colección. |
+| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | Agrega una nueva fuente a los recursos de fuentes y devuelve el nombre asignado automáticamente del recurso de fuente. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | Determina si la colección contiene un valor específico. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains_1)(string) | Verifica si la fuente existe en la colección de fuentes. |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | Copia toda la colección a un Array unidimensional compatible, comenzando en el índice especificado del array de destino. |
+| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | Devuelve un enumerador para toda la colección. |
+| [Remove](../../aspose.pdf.text/fontcollection/remove/)(Font) | Elimina el elemento especificado de la colección. |
 
-### Observaciones
+## Observaciones
 
-Colecciones de fuentes representadas por[`FontCollection`](../fontcollection) class se utilizan en varios escenarios. Por ejemplo, en recursos con[`Fonts`](../../aspose.pdf/resources/fonts) propiedad.
+Las colecciones de fuentes representadas por la clase `FontCollection` se utilizan en varios escenarios. Por ejemplo, en recursos con la propiedad [`Fonts`](../../aspose.pdf/resources/fonts/).
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo hacer que todas las fuentes declaradas en la página estén incrustadas.
+El ejemplo demuestra cómo hacer que todas las fuentes declaradas en la página estén incrustadas.
 
 ```csharp
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// asegúrese de que todas las fuentes declaradas en los recursos de la página estén incrustadas
-// tenga en cuenta que si las fuentes se declaran en los recursos del formulario, no se puede acceder a ellas desde los recursos de la página
+// ensure all fonts declared on page resources are embedded
+// note that if fonts are declared on form resources they are not accessible from page resources
 foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 {
     if(!font.IsEmbedded)
@@ -58,10 +58,8 @@ foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 doc.Save(@"D:\Tests\input.pdf");
 ```
 
-### Ver también
+### Véase también
 
-* class [Font](../font)
-* espacio de nombres [Aspose.Pdf.Text](../../aspose.pdf.text)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [Font](../font/)
+* espacio de nombres [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../)

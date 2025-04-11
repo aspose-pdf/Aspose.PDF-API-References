@@ -1,337 +1,362 @@
 ---
-title: Convert
-second_title: Aspose.PDF for .NET API Referansı
-description: Kaynak biçimindeki kaynak dosyayı hedef biçimindeki hedef dosyaya dönüştürür.
+title: Document.Convert
+second_title: Aspose.PDF for .NET API Reference
+description: Belge yöntemi. Belgeyi dönüştür ve hataları belirtilen dosyaya kaydet
 type: docs
-weight: 790
+weight: 580
 url: /tr/net/aspose.pdf/document/convert/
 ---
-## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
+## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
 
-Kaynak biçimindeki kaynak dosyayı, hedef biçimindeki hedef dosyaya dönüştürür.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| srcFileName | String | Kaynak dosya adı. |
-| loadOptions | LoadOptions | Kaynak dosya biçimi. |
-| dstFileName | String | Hedef dosya adı. |
-| saveOptions | SaveOptions | Hedef dosya biçimi. |
-
-### Ayrıca bakınız
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
-
-Kaynak biçimindeki akışı hedef biçimindeki hedef dosyaya dönüştürür.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| srcStream | Stream | Kaynak akışı. |
-| loadOptions | LoadOptions | Kaynak akış biçimi. |
-| dstFileName | String | Hedef dosya adı. |
-| saveOptions | SaveOptions | Hedef dosya biçimi. |
-
-### Ayrıca bakınız
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
-
-Kaynak biçimindeki kaynak dosyayı hedef biçimindeki akışa dönüştürür.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| srcFileName | String | Kaynak dosya adı. |
-| loadOptions | LoadOptions | Kaynak dosya biçimi. |
-| dstStream | Stream | Hedef akışı. |
-| saveOptions | SaveOptions | Hedef akış biçimi. |
-
-### Ayrıca bakınız
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
-
-Kaynak biçimindeki akışı hedef biçimindeki akışa dönüştürür.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| srcStream | Stream | Kaynak akışı. |
-| loadOptions | LoadOptions | Kaynak akış biçimi. |
-| dstStream | Stream | Hedef akışı. |
-| saveOptions | SaveOptions | Hedef dosya biçimi. |
-
-### Ayrıca bakınız
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_7}
-
-Belgeyi dönüştürün ve hataları belirtilen dosyaya kaydedin.
+Belgeyi dönüştür ve hataları belirtilen dosyaya kaydet.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action, 
     ConvertTransparencyAction transparencyAction)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputLogFileName | String | Yorumların saklanacağı dosyanın yolu. |
 | format | PdfFormat | Pdf formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
-| transparencyAction | ConvertTransparencyAction | Görüntü maskeli nesneler için eylem |
+| transparencyAction | ConvertTransparencyAction | Resim maskeli nesneler için eylem |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_5}
+## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_6}
 
-Belgeyi dönüştürün ve hataları belirtilen dosyaya kaydedin.
+Belgeyi dönüştür ve hataları belirtilen dosyaya kaydet.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action, 
     ConvertTransparencyAction transparencyAction)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputLogStream | Stream | Yorumların depolanacağı akış. |
+| outputLogStream | Stream | Yorumların saklanacağı akış. |
 | format | PdfFormat | Pdf formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
-| transparencyAction | ConvertTransparencyAction | Görüntü maskeli nesneler için eylem |
+| transparencyAction | ConvertTransparencyAction | Resim maskeli nesneler için eylem |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(string, PdfFormat, ConvertErrorAction) {#convert_6}
+## Convert(string, PdfFormat, ConvertErrorAction) {#convert_7}
 
-Belgeyi dönüştürün ve hataları belirtilen dosyaya kaydedin.
+Belgeyi dönüştür ve hataları belirtilen dosyaya kaydet.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputLogFileName | String | Yorumların saklanacağı dosyanın yolu. |
 | format | PdfFormat | Pdf formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Convert(PdfFormatConversionOptions) {#convert_2}
 
-Belirtilen dönüştürme seçeneklerini kullanarak belgeyi dönüştürün
+Belgeyi belirtilen dönüştürme seçeneklerini kullanarak dönüştür
 
 ```csharp
 public bool Convert(PdfFormatConversionOptions options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | PDF belgesini dönüştürmek için bir dizi seçenek |
+| options | PdfFormatConversionOptions | PDF belgesini dönüştürmek için seçenekler seti |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(CallBackGetHocr) {#convert_3}
+## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-Belgeyi dönüştürün ve hataları belirtilen dosyaya kaydedin.
+Belge içindeki resimleri tanıyın ve üzerine hocr dizeleri ekleyin.
 
 ```csharp
-public bool Convert(CallBackGetHocr callback)
+public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| callback | CallBackGetHocr | Dönüştürülemeyen nesneler için eylem |
+| callback | CallBackGetHocrWithPage | Hocr tanıma ile işlenecek resimler için eylem. |
+| flattenImages | Boolean | PDF resimlerindeki metin maskelerin mekanizması kullanılarak boyanabilir, bu durumda resimler düzleştirilmelidir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu. Belge içinde resim yoksa !:false döner.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* delegate [CallBackGetHocr](../../document.callbackgethocr)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_4}
+## Convert(CallBackGetHocr, bool) {#convert_3}
 
-Belgeyi dönüştürün ve hataları belirtilen akışa kaydedin.
+Belge içindeki resimleri tanıyın ve üzerine hocr dizeleri ekleyin.
+
+```csharp
+public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| callback | CallBackGetHocr | Hocr tanıma ile işlenecek resimler için eylem. |
+| flattenImages | Boolean | PDF resimlerindeki metin maskelerin mekanizması kullanılarak boyanabilir, bu durumda resimler düzleştirilmelidir. |
+
+### Dönüş Değeri
+
+İşlem sonucu. Belge içinde resim yoksa !:false döner.
+
+### Ayrıca Bakınız
+
+* delegate [CallBackGetHocr](../../document.callbackgethocr/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_5}
+
+Belgeyi dönüştür ve hataları belirtilen akışa kaydet.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputLogStream | Stream | Yorumların depolanacağı akış. |
+| outputLogStream | Stream | Yorumların saklanacağı akış. |
 | format | PdfFormat | Pdf formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-operasyon sonucu
+İşlem sonucu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Convert(Fixup, Stream, bool, object[]) {#convert}
 
-Düzeltmeyi uygulayarak belgeyi dönüştürün.
+Düzeltme uygulayarak belgeyi dönüştür.
 
 ```csharp
 public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
     object[] parameters = null)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fixup | Fixup | Düzeltme türü. |
-| outputLog | Stream | İşlem günlüğü. |
-| onlyValidation | Boolean | Yalnızca belge doğrulama. |
+| outputLog | Stream | Sürecin kaydı. |
+| onlyValidation | Boolean | Sadece belge doğrulaması. |
 | parameters | Object[] | Ayarlanamayan Düzeltme özellikleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 İşlem sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [Fixup](../../fixup)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Convert(Fixup, string, bool, object[]) {#convert_1}
 
-Düzeltmeyi uygulayarak belgeyi dönüştürün.
+Düzeltme uygulayarak belgeyi dönüştür.
 
 ```csharp
 public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
     object[] parameters = null)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fixup | Fixup | Düzeltme türü. |
-| outputLog | String | İşlem günlüğü. |
-| onlyValidation | Boolean | Yalnızca belge doğrulama. |
+| outputLog | String | Sürecin kaydı. |
+| onlyValidation | Boolean | Sadece belge doğrulaması. |
 | parameters | Object[] | Ayarlanamayan Düzeltme özellikleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 İşlem sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [Fixup](../../fixup)
-* class [Document](../../document)
-* ad alanı [Aspose.Pdf](../../document)
-* toplantı [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
+
+Kaynak dosyayı kaynak formatında hedef dosyaya hedef formatında dönüştür.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| srcFileName | String | Kaynak dosya adı. |
+| loadOptions | LoadOptions | Kaynak dosya formatı. |
+| dstFileName | String | Hedef dosya adı. |
+| saveOptions | SaveOptions | Hedef dosya formatı. |
+
+### Ayrıca Bakınız
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
+
+Kaynak formatındaki akışı hedef dosyaya hedef formatında dönüştür.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| srcStream | Stream | Kaynak akış. |
+| loadOptions | LoadOptions | Kaynak akış formatı. |
+| dstFileName | String | Hedef dosya adı. |
+| saveOptions | SaveOptions | Hedef dosya formatı. |
+
+### Ayrıca Bakınız
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
+
+Kaynak dosyayı kaynak formatında hedef akışta hedef formatında dönüştür.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| srcFileName | String | Kaynak dosya adı. |
+| loadOptions | LoadOptions | Kaynak dosya formatı. |
+| dstStream | Stream | Hedef akış. |
+| saveOptions | SaveOptions | Hedef akış formatı. |
+
+### Ayrıca Bakınız
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
+
+Kaynak formatındaki akışı hedef formatındaki akışa dönüştür.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| srcStream | Stream | Kaynak akış. |
+| loadOptions | LoadOptions | Kaynak akış formatı. |
+| dstStream | Stream | Hedef akış. |
+| saveOptions | SaveOptions | Hedef dosya formatı. |
+
+### Ayrıca Bakınız
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

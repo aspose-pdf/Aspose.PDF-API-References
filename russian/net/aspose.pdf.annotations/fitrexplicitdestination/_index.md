@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет явный пункт назначения который отображает страницу с ее содержимым увеличенным настолько чтобы соответствовать прямоугольнику заданному координатами слева снизу справа и вверху внутри окна как по горизонтали так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются используйте меньший из двух центрируя прямоугольник внутри окна в другом измерении. Нулевое значение любого из параметров может привести к непредсказуемому поведению.
+title: Class FitRExplicitDestination
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Annotations.FitRExplicitDestination. Представляет явное назначение, которое отображает страницу с её содержимым, увеличенным ровно настолько, чтобы поместить прямоугольник, заданный координатами слева, снизу, справа и сверху, полностью в окне как по горизонтали, так и по вертикали. Если требуемые горизонтальные и вертикальные коэффициенты увеличения различаются, используйте меньший из двух, центрируя прямоугольник в окне в другом измерении. Нулевое значение для любого из параметров может привести к непредсказуемому поведению.
 type: docs
-weight: 400
+weight: 1780
 url: /ru/net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
-## FitRExplicitDestination class
+## Класс FitRExplicitDestination
 
-Представляет явный пункт назначения, который отображает страницу с ее содержимым, увеличенным настолько, чтобы соответствовать прямоугольнику, заданному координатами слева, снизу, справа и вверху внутри окна как по горизонтали, так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются, используйте меньший из двух, центрируя прямоугольник внутри окна в другом измерении. Нулевое значение любого из параметров может привести к непредсказуемому поведению.
+Представляет явное назначение, которое отображает страницу с её содержимым, увеличенным ровно настолько, чтобы поместить прямоугольник, заданный координатами слева, снизу, справа и сверху, полностью в окне как по горизонтали, так и по вертикали. Если требуемые горизонтальные и вертикальные коэффициенты увеличения различаются, используйте меньший из двух, центрируя прямоугольник в окне в другом измерении. Нулевое значение для любого из параметров может привести к непредсказуемому поведению.
 
 ```csharp
 public sealed class FitRExplicitDestination : ExplicitDestination
@@ -18,30 +18,28 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitRExplicitDestination](fitrexplicitdestination#constructor_2)(int, double, double, double, double) | Создает удаленный явный пункт назначения. |
-| [FitRExplicitDestination](fitrexplicitdestination#constructor_1)(Page, double, double, double, double) | Создает локальный явный пункт назначения. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor_2)(int, double, double, double, double) | Создает удаленное явное назначение. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor_1)(Page, double, double, double, double) | Создает локальное явное назначение. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom) { get; } | Получает нижнюю вертикальную координату видимого прямоугольника. |
-| [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left) { get; } | Получает левую горизонтальную координату видимого прямоугольника. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
-| [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right) { get; } | Получает правую горизонтальную координату видимого прямоугольника. |
-| [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top) { get; } | Получает верхнюю вертикальную координату видимого прямоугольника. |
+| [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom/) { get; } | Получает нижнюю вертикальную координату видимого прямоугольника. |
+| [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left/) { get; } | Получает левую горизонтальную координату видимого прямоугольника. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект страницы назначения |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер страницы назначения |
+| [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right/) { get; } | Получает правую горизонтальную координату видимого прямоугольника. |
+| [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top/) { get; } | Получает верхнюю вертикальную координату видимого прямоугольника. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример: «1 FitR 100 200 300 400». |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | Преобразует состояние объекта в строковое значение. Пример: "1 FitR 100 200 300 400". |
 
-### Смотрите также
+### См. также
 
-* class [ExplicitDestination](../explicitdestination)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
+* класс [ExplicitDestination](../explicitdestination/)
+* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

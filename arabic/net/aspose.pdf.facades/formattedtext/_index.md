@@ -1,54 +1,54 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة تمثل نصًا منسقًا. يحتوي على معلومات حول النص ولونه وحجمه ونمطه.
+title: Class FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.FormattedText. فئة تمثل النص المنسق. تحتوي على معلومات حول النص ولونه وحجمه وأسلوبه
 type: docs
-weight: 2360
+weight: 4350
 url: /ar/net/aspose.pdf.facades/formattedtext/
 ---
 ## FormattedText class
 
-فئة تمثل نصًا منسقًا. يحتوي على معلومات حول النص ولونه وحجمه ونمطه.
+فئة تمثل النص المنسق. تحتوي على معلومات حول النص ولونه وحجمه وأسلوبه.
 
 ```csharp
 public sealed class FormattedText
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [FormattedText](formattedtext#constructor)() | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_1)(string) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_8)(string, Color, Color) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_6)(string, Color, FontStyle, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_12)(string, Color, string, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_4)(string, FontColor, FontStyle, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_9)(string, Color, Color, FontStyle, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | تهيئة النص المنسق . |
-| [FormattedText](formattedtext#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | تهيئة النص المنسق . |
+| [FormattedText](formattedtext/#constructor)() | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_1)(string) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_8)(string, Color, Color) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_6)(string, Color, FontStyle, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_12)(string, Color, string, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_4)(string, FontColor, FontStyle, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_9)(string, Color, Color, FontStyle, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Initialize FormattedText. |
+| [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | Initializes FormattedText. |
+| [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | Initializes FormattedText. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [TextHeight](../../aspose.pdf.facades/formattedtext/textheight) { get; } | الحصول على ارتفاع النص. |
-| [TextWidth](../../aspose.pdf.facades/formattedtext/textwidth) { get; } | الحصول على عرض النص. |
+| [TextHeight](../../aspose.pdf.facades/formattedtext/textheight/) { get; } | يحصل على ارتفاع النص. |
+| [TextWidth](../../aspose.pdf.facades/formattedtext/textwidth/) { get; } | يحصل على عرض النص. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext)(string) | يضيف سطرًا جديدًا إلى كائن FormattedText ويعين newLineText إلى نص السطر التالي. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext_1)(string, float) | يضيف سطرًا جديدًا إلى كائن FormattedText ويعين newLineText إلى نص السطر التالي. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | يضيف سطرًا جديدًا إلى كائن FormattedText ويضبط newLineText على نص السطر التالي. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | يضيف سطرًا جديدًا إلى كائن FormattedText ويضبط newLineText على نص السطر التالي. |
+| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | يتحقق مما إذا كان النص CJK (صيني، ياباني، أو كوري). |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | يغير أسلوب خط FormattedText لخط CJK (صيني، ياباني، أو كوري). |
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor
-second_title: Aspose.PDF för .NET API Referens
-description: Definierar besökare för att besöka olika dokumentkommentarer.
+title: Interface IAnnotationVisitor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.IAnnotationVisitor-gränssnitt. Definierar besökare för att besöka olika dokumentanteckningar
 type: docs
-weight: 510
+weight: 1890
 url: /sv/net/aspose.pdf.annotations/iannotationvisitor/
 ---
-## IAnnotationVisitor interface
+## IAnnotationVisitor-gränssnitt
 
-Definierar besökare för att besöka olika dokumentkommentarer.
+Definierar besökare för att besöka olika dokumentanteckningar.
 
 ```csharp
 public interface IAnnotationVisitor
@@ -16,32 +16,34 @@ public interface IAnnotationVisitor
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit)(CaretAnnotation) | Besök/välj markeringskommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_1)(CircleAnnotation) | Besök/välj cirkelkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_2)(FileAttachmentAnnotation) | Besök/välj anteckning för bilaga. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_3)(FreeTextAnnotation) | Besök/välj fritextkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_4)(HighlightAnnotation) | Besök/välj markeringskommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_5)(InkAnnotation) | Besök/välj bläckanteckning. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_6)(LineAnnotation) | Besök/välj radkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_7)(LinkAnnotation) | Besök/välj länkkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_8)(MovieAnnotation) | Besök/välj filmkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_9)(PolygonAnnotation) | Besök/välj polygonkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_10)(PolylineAnnotation) | Besök/välj polylinjekommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_11)(PopupAnnotation) | Besök/välj popup-kommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_12)(ScreenAnnotation) | Besök/välj skärmkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_13)(SquareAnnotation) | Besök/välj kvadratisk anteckning. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_14)(SquigglyAnnotation) | Besök/välj snirklig anteckning. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | Besök/välj stämpelkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | Besök/välj strykkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_17)(TextAnnotation) | Besök/välj textkommentar. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_18)(UnderlineAnnotation) | Besök/välj understrykningsanteckning. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_19)(WidgetAnnotation) | Besök/välj widgetkommentar. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit)(BleedMarkAnnotation) | Besök/välj en bleed mark-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_1)(CaretAnnotation) | Besök/välj en caret-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_2)(CircleAnnotation) | Besök/välj en cirkel-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_3)(FileAttachmentAnnotation) | Besök/välj en bilaga-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_4)(FreeTextAnnotation) | Besök/välj en fri text-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_5)(HighlightAnnotation) | Besök/välj en markerings-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_6)(InkAnnotation) | Besök/välj en bläck-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_7)(LineAnnotation) | Besök/välj en linje-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_8)(LinkAnnotation) | Besök/välj en länk-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_9)(MovieAnnotation) | Besök/välj en film-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_10)(PageInformationAnnotation) | Besök/välj en sida informations-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_11)(PolygonAnnotation) | Besök/välj en polygon-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_12)(PolylineAnnotation) | Besök/välj en polyline-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_13)(PopupAnnotation) | Besök/välj en popup-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_14)(RegistrationMarkAnnotation) | Besök/välj en registreringsmark-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_15)(ScreenAnnotation) | Besök/välj en skärm-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_16)(SquareAnnotation) | Besök/välj en fyrkant-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_17)(SquigglyAnnotation) | Besök/välj en vågig-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_18)(StampAnnotation) | Besök/välj en stämpel-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_19)(StrikeOutAnnotation) | Besök/välj en genomstruken-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_20)(TextAnnotation) | Besök/välj en text-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_21)(TrimMarkAnnotation) | Besök/välj en trim mark-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_22)(UnderlineAnnotation) | Besök/välj en understruken-anteckning. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_23)(WidgetAnnotation) | Besök/välj en widget-anteckning. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

@@ -1,81 +1,79 @@
 ---
-title: PDF3DAnnotation
-second_title: Aspose.PDF for .NET API Referansı
-description: Sınıf PDF3DA Açıklama. Bu sınıf devralınamaz.
+title: Class PDF3DAnnotation
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.PDF3DAnnotation sınıfı. PDF3DAnnotation Sınıfı. Bu sınıf miras alınamaz
 type: docs
-weight: 770
+weight: 2150
 url: /tr/net/aspose.pdf.annotations/pdf3dannotation/
 ---
-## PDF3DAnnotation class
+## PDF3DAnnotation sınıfı
 
-Sınıf PDF3DA Açıklama. Bu sınıf devralınamaz.
+PDF3DAnnotation Sınıfı. Bu sınıf miras alınamaz.
 
 ```csharp
 public sealed class PDF3DAnnotation : Annotation
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [PDF3DAnnotation](pdf3dannotation#constructor)(Page, Rectangle, PDF3DArtwork) | Yeni bir örneğini başlatır[`PDF3DAnnotation`](../pdf3dannotation) sınıf. |
-| [PDF3DAnnotation](pdf3dannotation#constructor_1)(Page, Rectangle, PDF3DArtwork, PDF3DActivation) | Yeni bir örneğini başlatır[`PDF3DAnnotation`](../pdf3dannotation) sınıf. |
+| [PDF3DAnnotation](pdf3dannotation/#constructor)(Sayfa, Dikdörtgen, PDF3DSanat) | `PDF3DAnnotation` sınıfının yeni bir örneğini başlatır. |
+| [PDF3DAnnotation](pdf3dannotation/#constructor_1)(Sayfa, Dikdörtgen, PDF3DSanat, PDF3DEtkinleştirme) | `PDF3DAnnotation` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } | Açıklama eylemlerinin listesini alır. |
-| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } | Geçerli ek açıklama görünüm durumunu alır veya ayarlar. |
-| override [AnnotationType](../../aspose.pdf.annotations/pdf3dannotation/annotationtype) { get; } | Açıklama türünü alır. |
-| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } | Açıklamanın görünüm sözlüğünü alır. |
-| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } | Açıklama kenarlığı özelliklerini alır veya ayarlar.[`Border`](../annotation/border) |
-| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | Açıklama özelliklerini alır. |
-| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Açıklama rengini alır veya ayarlar. |
-| [Content](../../aspose.pdf.annotations/pdf3dannotation/content) { get; set; } | İçeriği alır veya ayarlar. |
-| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Ek açıklama metnini alır veya ayarlar. |
-| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Ek açıklamanın bayrakları. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Açıklamanın tam nitelikli adını alır. |
-| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Açıklamanın yüksekliğini alır veya ayarlar. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Parça köprüsünü alır veya ayarlar (pdf oluşturucu için). |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Bu paragrafın sonraki sütunda olup olmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Satır içi bir paragraf alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Bu paragrafı yeni sayfada oluşturmaya zorlayan bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Geçerli paragrafın sonraki paragrafla birlikte aynı sayfada kalıp kalmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [LightingScheme](../../aspose.pdf.annotations/pdf3dannotation/lightingscheme) { get; } | Aydınlatma düzenini alır. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Paragraf için bir dış kenar boşluğu alır veya ayarlar (pdf oluşturma için) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Açıklamanın yakın zamanda değiştirildiği tarih ve saati alır veya ayarlar. |
-| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Sayfadaki ek açıklama adını alır veya ayarlar. |
-| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Açıklama içeren sayfanın dizinini alır. |
-| [Pdf3DArtwork](../../aspose.pdf.annotations/pdf3dannotation/pdf3dartwork) { get; } | 3B Resmi Alır. |
-| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | Açıklama dikdörtgenini alır veya ayarlar. |
-| [RenderMode](../../aspose.pdf.annotations/pdf3dannotation/rendermode) { get; } | Oluşturma modunu alır. |
-| [States](../../aspose.pdf.annotations/annotation/states) { get; } | Açıklamanın görünüm sözlüğünü alır. |
-| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | Açıklama için metin hizalamasını alır veya ayarlar. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | paragrafının dikey hizalamasını alır veya ayarlar |
-| [ViewArray](../../aspose.pdf.annotations/pdf3dannotation/viewarray) { get; } | Görünüm dizisini alır. |
-| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } | Açıklamanın genişliğini alır veya ayarlar. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Grafiğin Z sırasını gösteren bir int değeri alır veya ayarlar. Daha büyük ZIndex içeren bir grafik, daha küçük ZIndex içeren grafiğin üzerine yerleştirilecektir. ZIndex negatif olabilir. Negatif ZIndex içeren grafik, sayfadaki metnin arkasına yerleştirilecektir. |
+| [Eylemler](../../aspose.pdf.annotations/annotation/actions/) { get; } | Not eylemleri listesini alır. |
+| sanal [AktifDurum](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Mevcut not görünüm durumunu alır veya ayarlar. |
+| geçersiz [NotTürü](../../aspose.pdf.annotations/pdf3dannotation/annotationtype/) { get; } | Not türünü alır. |
+| [Görünüm](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Notun görünüm sözlüğünü alır. |
+| [Sınır](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Not sınır özelliklerini alır veya ayarlar. [`Sınır`](../annotation/border/) |
+| [Özellikler](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Not özelliklerini alır. |
+| [Renk](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Not rengini alır veya ayarlar. |
+| [İçerik](../../aspose.pdf.annotations/pdf3dannotation/content/) { get; set; } | İçeriği alır veya ayarlar. |
+| [İçerikler](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Not metnini alır veya ayarlar. |
+| [Bayraklar](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Notun bayrakları. |
+| [TamAd](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Notun tam nitelikli adını alır. |
+| sanal [Yükseklik](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Notun yüksekliğini alır veya ayarlar. |
+| sanal [Bağlantı](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Parça bağlantısını alır veya ayarlar (pdf oluşturucu için). |
+| [SütundakiİlkParagraf](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Bu paragrafın bir sonraki sütunda olup olmadığını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [SatırİçiParagraf](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Bir paragrafın satır içi olup olmadığını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [YeniSayfada](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Bu paragrafın yeni bir sayfada oluşturulmasını zorlayan bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [SonrakiyleBirlikteTut](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mevcut paragrafın bir sonraki paragraf ile aynı sayfada kalıp kalmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [AydınlatmaŞeması](../../aspose.pdf.annotations/pdf3dannotation/lightingscheme/) { get; } | Aydınlatma şemasını alır. |
+| [KenarBoşluğu](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Paragraf için dış kenar boşluğunu alır veya ayarlar (pdf oluşturma için) |
+| [Değiştirildi](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Notun en son ne zaman değiştirildiğini belirten tarih ve saati alır veya ayarlar. |
+| [İsim](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Sayfadaki not adını alır veya ayarlar. |
+| sanal [Sayfaİndeksi](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Notu içeren sayfanın indeksini alır. |
+| [Pdf3DSanat](../../aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/) { get; } | 3D Sanatı alır. |
+| sanal [Dikdörtgen](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Not dikdörtgenini alır veya ayarlar. |
+| [RenderModu](../../aspose.pdf.annotations/pdf3dannotation/rendermode/) { get; } | Render modunu alır. |
+| [Durumlar](../../aspose.pdf.annotations/annotation/states/) { get; } | Notun görünüm sözlüğünü alır. |
+| [MetinYatayHizalama](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Not için metin hizalamasını alır veya ayarlar. |
+| sanal [DikeyHizalama](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Paragrafın dikey hizalamasını alır veya ayarlar. |
+| [GörünümDizisi](../../aspose.pdf.annotations/pdf3dannotation/viewarray/) { get; } | Görünüm dizisini alır. |
+| sanal [Genişlik](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Notun genişliğini alır veya ayarlar. |
+| [ZIndeksi](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Grafiğin Z-sırasını belirten bir int değeri alır veya ayarlar. Daha büyük ZIndeksi olan bir grafik, daha küçük ZIndeksi olan grafiğin üzerine yerleştirilecektir. ZIndeksi negatif olabilir. Negatif ZIndeksi olan grafik, sayfadaki metnin arkasına yerleştirilecektir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Accept](../../aspose.pdf.annotations/pdf3dannotation/accept)(AnnotationSelector) | Ek açıklama işleme için ziyaretçiyi kabul eder. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Matris dönüşümüne göre parametreleri ve görünümü güncelleyin. |
-| [ClearImagePreview](../../aspose.pdf.annotations/pdf3dannotation/clearimagepreview)() | Görüntü önizlemesini temizler. |
-| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Bu örneği klonlar. Sanal yöntem. Her zaman null. döndür |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Açıklama içeriğini doğrudan sayfaya yerleştirir, açıklama nesnesi kaldırılır. |
-| [GetImagePreview](../../aspose.pdf.annotations/pdf3dannotation/getimagepreview)() | Görüntü önizlemesini alır. |
-| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Sayfa döndürmeyi dikkate alarak açıklamanın dikdörtgenini döndürür. |
-| [SetDefaultViewIndex](../../aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex)(int) | Varsayılan görünümün dizinini ayarlar. |
-| [SetImagePreview](../../aspose.pdf.annotations/pdf3dannotation/setimagepreview#setimagepreview)(Stream) | Görüntü önizlemesini ayarlar. |
-| [SetImagePreview](../../aspose.pdf.annotations/pdf3dannotation/setimagepreview#setimagepreview_1)(string) | Görüntü önizlemesini ayarlar. |
+| geçersiz [KabulEt](../../aspose.pdf.annotations/pdf3dannotation/accept/)(NotSeçici) | Not işleme için ziyaretçiyi kabul eder. |
+| sanal [BoyutlandırmadanSonraDeğiştir](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matris) | Matris dönüşümüne göre parametreleri ve görünümü günceller. |
+| [ResimÖnizlemesiniTemizle](../../aspose.pdf.annotations/pdf3dannotation/clearimagepreview/)() | Resim önizlemesini temizler. |
+| sanal [Klonla](../../aspose.pdf/baseparagraph/clone/)() | Bu örneği klonlar. Sanal yöntem. Her zaman null döner. |
+| sanal [Düzleştir](../../aspose.pdf.annotations/annotation/flatten/)() | Not içeriklerini doğrudan sayfaya yerleştirir, not nesnesi kaldırılacaktır. |
+| [ResimÖnizlemesiniAl](../../aspose.pdf.annotations/pdf3dannotation/getimagepreview/)() | Resim önizlemesini alır. |
+| [DikdörtgeniAl](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Sayfa döndürmesini dikkate alarak notun dikdörtgenini döndürür. |
+| [VarsayılanGörünümİndeksiniAyarla](../../aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/)(int) | Varsayılan görünümün indeksini ayarlar. |
+| [ResimÖnizlemesiniAyarla](../../aspose.pdf.annotations/pdf3dannotation/setimagepreview/#setimagepreview)(Akış) | Resim önizlemesini ayarlar. |
+| [ResimÖnizlemesiniAyarla](../../aspose.pdf.annotations/pdf3dannotation/setimagepreview/#setimagepreview_1)(string) | Resim önizlemesini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../annotation)
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Not](../annotation/)
+* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../)

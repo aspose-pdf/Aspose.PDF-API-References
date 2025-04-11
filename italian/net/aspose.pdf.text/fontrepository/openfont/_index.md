@@ -1,7 +1,7 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF per .NET API Reference
-description: Apre il font con il flusso di font specificato.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo FontRepository. Apre il font con il flusso di font specificato
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/fontrepository/openfont/
@@ -14,147 +14,145 @@ Apre il font con il flusso di font specificato.
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fontStream | Stream | Flusso di caratteri. |
-| fontType | FontTypes | Valore del tipo di carattere. |
+| fontStream | Stream | Flusso di font. |
+| fontType | FontTypes | Valore del tipo di font. |
 
-### Valore di ritorno
+### Return Value
 
-Oggetto carattere.
+Oggetto Font.
 
-### Esempi
+## Examples
 
-L'esempio mostra come aprire il font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come aprire un font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Cambia il carattere della prima occorrenza del testo
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Apri documento
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Cambia il carattere della prima occorrenza del testo
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Apri documento
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // Apri carattere
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Apri documento
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### Guarda anche
+### See Also
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* spazio dei nomi [Aspose.Pdf.Text](../../fontrepository)
-* assemblea [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontTypes](../../fonttypes/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-Apre il font con il percorso del file del font specificato.
+Apre il font con il percorso del file di font specificato.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fontFilePath | String | Percorso del file dei caratteri. |
+| fontFilePath | String | Percorso del file di font. |
 
-### Valore di ritorno
+### Return Value
 
-Oggetto carattere.
+Oggetto Font.
 
-### Esempi
+## Examples
 
-L'esempio mostra come aprire il font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come aprire un font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Apri carattere
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Apri documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Apri carattere
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Apri documento
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Apri carattere
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Apri documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Guarda anche
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* spazio dei nomi [Aspose.Pdf.Text](../../fontrepository)
-* assemblea [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Apre il font con il percorso del file del font e il percorso del file delle metriche specificati.
+Apre il font con il percorso del file di font specificato e il percorso del file di metriche.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fontFilePath | String | Percorso del file dei caratteri. |
-| metricsFilePath | String | File delle metriche dei caratteri patrh. |
+| fontFilePath | String | Percorso del file di font. |
+| metricsFilePath | String | Percorso del file di metriche del font. |
 
-### Valore di ritorno
+### Return Value
 
-Oggetto carattere.
+Oggetto Font.
 
-### Esempi
+## Examples
 
-L'esempio mostra come aprire il font Type1 con le metriche e sostituire il font del testo della prima pagina.
+L'esempio dimostra come aprire un font Type1 con metriche e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Apri carattere
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Apri documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Apri carattere
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Apri documento
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Apri carattere
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Apri documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Guarda anche
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* spazio dei nomi [Aspose.Pdf.Text](../../fontrepository)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

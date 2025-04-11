@@ -1,45 +1,94 @@
 ---
-title: EpubSaveOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: EPUB formatına dışa aktarma seçeneklerini kaydedin
+title: Class EpubSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.EpubSaveOptions sınıfı. EPUB formatına dışa aktarma için kaydetme seçenekleri
 type: docs
-weight: 2100
+weight: 4060
 url: /tr/net/aspose.pdf/epubsaveoptions/
 ---
-## EpubSaveOptions class
+## EpubSaveOptions sınıfı
 
-EPUB formatına dışa aktarma seçeneklerini kaydedin
+EPUB formatına dışa aktarma için kaydetme seçenekleri
 
 ```csharp
 public class EpubSaveOptions : UnifiedSaveOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [EpubSaveOptions](epubsaveoptions)() | Default_Constructor |
+| [EpubSaveOptions](epubsaveoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Belge yanıta kaydedildikten sonra Response nesnesinin kapatılacağını belirten boole değerini alır veya ayarlar. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için resim veya metin çıkarma işlevini açtı . |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Veri kaydetme biçimi. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Kaydetme işlemi sona ermelidir. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Aps sayfaları hazırlanırken yazı tipi gliflerinin önbelleğe alınıp alınmayacağını belirten boolean değeri alır veya ayarlar. PDF'nin diğer formatlara dönüştürülmesi performansını artırır ancak bellek tüketimini artırır. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Belge yanıt olarak kaydedildikten sonra Yanıt nesnesinin kapatılıp kapatılmayacağını belirten boolean değeri alır veya ayarlar. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için görüntü veya metin çıkarma işlevselliğini etkinleştirir. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Veri kaydetme formatı. |
+| [Title](../../aspose.pdf/epubsaveoptions/title/) { get; set; } | EPUB belgesinin başlığını alır veya ayarlar. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Oluşan uyarıları işlemek için geri çağırma. WarningHandler, devam etme veya iptal etme belirten ReturnAction enum öğesini döndürür. Devam etme varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı iptal etmeyi de döndürebilir; bu durumda Kaydetme işlemi durmalıdır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode) | PDF dosyası (genellikle sabit bir düzene sahiptir) dönüştürülürken, dönüştürme motoru, orijinal belge yazarının amacını geri yüklemek ve akış düzeninde sonuç üretmek için gruplandırma ve çok düzeyli analiz gerçekleştirmeye çalışır. Bu özellik, bu dönüşümü bunun için ayarlar. veya that içeriğin tanınması için istenen yöntem. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Bazen PDF'ler arka plan görüntülerini (sayfaların veya tablo hücrelerinin) içerir , birbirinin yanına yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşturulmuştur. Bu durumda hedef biçimlerin oluşturucuları (DOCS biçimi için fe MsWord) bazen arka plan görüntülerinin bölümleri arasında görünür sınırlar oluşturur , görüntü kenar yumuşatma (anti-aliasing) tekniklerinin Acrobat Reader'dan farklı olmasına neden olur. Dışa aktarılan belge, aynı arka plan görüntülerinin bölümleri arasında bu tür görünür sınırlar içeriyor gibi görünüyorsa, bundan kurtulmak için lütfen bu ayarı kullanmayı deneyin istenmeyen etki. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
+| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | PDF dosyası (genellikle sabit düzenli olan) dönüştürülürken, dönüştürme motoru, orijinal belge yazarının niyetini geri yüklemek ve sonucu akış düzeninde üretmek için gruplama ve çok seviyeli analiz yapmaya çalışır. Bu özellik, içeriğin tanınması için istenen yöntemi ayarlar. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Sayfaları birkaç iş parçacığında işleme. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Bazen PDF'ler, yan yana yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşan arka plan görüntüleri içerir (sayfalar veya tablo hücreleri için). Bu durumda, hedef formatların (örneğin, DOCS formatı için MsWord) renderleyicileri bazen arka plan görüntülerinin parçaları arasında görünür sınırlar oluşturur; çünkü görüntü kenar yumuşatma (anti-aliasing) teknikleri Acrobat Reader'dan farklıdır. Eğer dışa aktarılan belgede aynı arka plan görüntülerinin parçaları arasında görünür sınırlar varsa, bu ayarı kullanarak istenmeyen etkiden kurtulmayı deneyin. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü önemli ölçüde yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, PDF dosyasını EPUB dosyasına dönüştürmeyi göstermektedir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+	[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
+
+	// The path to output EPUB File.
+	var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+
+		// Initialize EpubSaveOptions 	
+		EpubSaveOptions saveOptions = new EpubSaveOptions();
+		
+		// Save EPUB file
+		pdfDocument.Save(epubFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf")
+
+    ' The path to output EPUB File.
+    Dim epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+
+        ' Initialize EpubSaveOptions    
+        Dim saveOptions As EpubSaveOptions = New EpubSaveOptions()
+ 
+        ' Save EPUB file
+        pdfDocument.Save(epubFile, saveOptions)
+    End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [UnifiedSaveOptions](../unifiedsaveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

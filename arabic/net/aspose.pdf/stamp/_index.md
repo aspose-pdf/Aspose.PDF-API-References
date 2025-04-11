@@ -1,14 +1,14 @@
 ---
-title: Stamp
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة مجردة لأنواع مختلفة من الطوابع التي تأتي كأحفاد.
+title: Class Stamp
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Stamp. فئة مجردة لمختلف أنواع الطوابع التي تأتي كأبناء
 type: docs
-weight: 6370
+weight: 10130
 url: /ar/net/aspose.pdf/stamp/
 ---
-## Stamp class
+## فئة الطابع
 
-فئة مجردة لأنواع مختلفة من الطوابع التي تأتي كأحفاد.
+فئة مجردة لمختلف أنواع الطوابع التي تأتي كأبناء.
 
 ```csharp
 public abstract class Stamp
@@ -16,39 +16,37 @@ public abstract class Stamp
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Background](../../aspose.pdf/stamp/background) { get; set; } | تعيين أو الحصول على قيمة منطقية تشير إلى أن المحتوى مختوم كخلفية. إذا كانت القيمة صحيحة ، يتم وضع محتوى الختم في الأسفل. بالقيمة غير صحيحة ، يتم وضع محتوى الختم في الأعلى. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin) { get; set; } | الحصول على الهامش السفلي للطوابع أو تعيينه. |
-| virtual [Height](../../aspose.pdf/stamp/height) { get; set; } | الارتفاع المطلوب للختم على الصفحة. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment) { get; set; } | الحصول على أو تعيين المحاذاة الأفقية للطابع على الصفحة. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin) { get; set; } | الحصول على الهامش الأيسر للطوابع أو تعيينه. |
-| [Opacity](../../aspose.pdf/stamp/opacity) { get; set; } | الحصول على أو تعيين قيمة للإشارة إلى عتامة الختم. القيمة من 0.0 إلى 1.0. القيمة الافتراضية هي 1.0. |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity) { get; set; } | الحصول على أو تعيين قيمة للإشارة إلى تعتيم مخطط الختم. القيمة من 0.0 إلى 1.0. القيمة الافتراضية هي 1.0. |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth) { get; set; } | الحصول على قيمة عرض المخطط التفصيلي للطابع أو تعيينها. القيمة الافتراضية هي 1.0. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin) { get; set; } | الحصول على الهامش الأيمن للطوابع أو تعيينه. |
-| [Rotate](../../aspose.pdf/stamp/rotate) { get; set; } | يضبط أو يحصل على تدوير محتوى الطوابع وفقًا[`Rotation`](../rotation) القيم . ملاحظة. هذه الخاصية مخصصة للزوايا المحددة التي تكون مضاعفات 90 درجة (0 ، 90 ، 180 ، 270 درجة) . لتعيين زاوية عشوائية ، استخدم خاصية RotateAngle. إذا كانت الزاوية التي تم تعيينها بواسطة ArbitraryAngle ليست من مضاعفات 90 ، فإن خاصية Rotate ترجع Rotation. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle) { get; set; } | الحصول على أو تعيين زاوية تدوير الختم بالدرجات . تسمح هذه الخاصية بتعيين زاوية تدوير عشوائية. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin) { get; set; } | الحصول على الهامش العلوي للطوابع أو تعيينه. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment) { get; set; } | الحصول على أو تعيين المحاذاة الرأسية للطابع على الصفحة. |
-| virtual [Width](../../aspose.pdf/stamp/width) { get; set; } | العرض المرغوب للختم على الصفحة. |
-| [XIndent](../../aspose.pdf/stamp/xindent) { get; set; } | إحداثيات ختم أفقي ، تبدأ من اليسار. |
-| [YIndent](../../aspose.pdf/stamp/yindent) { get; set; } | إحداثيات الختم العمودي ، بدءًا من الأسفل. |
-| [Zoom](../../aspose.pdf/stamp/zoom) { get; set; } | عامل تكبير الختم. يسمح بقياس الختم . يرجى ملاحظة أن زوجًا من الخصائص ZoomX و ZoomY يسمحان بتعيين عامل التكبير لكل فأس على حدة. يغير إعداد هذه الخاصية كلاً من خصائص ZoomX و ZoomY. إذا كانت ZoomX و ZoomY مختلفة ، فإن خاصية Zoom تقوم بإرجاع قيمة ZoomX. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx) { get; set; } | عامل التكبير الأفقي للختم. يسمح بقياس الطوابع أفقيًا. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy) { get; set; } | عامل التكبير الرأسي للختم. يسمح بقياس الطوابع عموديًا. |
+| [الخلفية](../../aspose.pdf/stamp/background/) { get; set; } | تعيين أو الحصول على قيمة بوليانية تشير إلى أن المحتوى تم ختمه كخلفية. إذا كانت القيمة صحيحة، يتم وضع محتوى الطابع في الأسفل. بشكل افتراضي، تكون القيمة خاطئة، يتم وضع محتوى الطابع في الأعلى. |
+| [هامش السفلي](../../aspose.pdf/stamp/bottommargin/) { get; set; } | الحصول على أو تعيين الهامش السفلي للطابع. |
+| virtual [الارتفاع](../../aspose.pdf/stamp/height/) { get; set; } | الارتفاع المرغوب للطابع على الصفحة. |
+| [محاذاة أفقية](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | الحصول على أو تعيين المحاذاة الأفقية للطابع على الصفحة. |
+| [هامش الأيسر](../../aspose.pdf/stamp/leftmargin/) { get; set; } | الحصول على أو تعيين الهامش الأيسر للطابع. |
+| [الشفافية](../../aspose.pdf/stamp/opacity/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى شفافية الطابع. القيمة تتراوح من 0.0 إلى 1.0. بشكل افتراضي، تكون القيمة 1.0. |
+| [شفافية الحدود](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى شفافية حدود الطابع. القيمة تتراوح من 0.0 إلى 1.0. بشكل افتراضي، تكون القيمة 1.0. |
+| [عرض الحدود](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | الحصول على أو تعيين قيمة عرض حدود الطابع. بشكل افتراضي، تكون القيمة 1.0. |
+| [هامش الأيمن](../../aspose.pdf/stamp/rightmargin/) { get; set; } | الحصول على أو تعيين الهامش الأيمن للطابع. |
+| [تدوير](../../aspose.pdf/stamp/rotate/) { get; set; } | تعيين أو الحصول على تدوير محتوى الطابع وفقًا لقيم [`Rotation`](../rotation/). ملاحظة. هذه الخاصية مخصصة لتعيين الزوايا التي هي مضاعفات 90 درجة (0، 90، 180، 270 درجة). لتعيين زاوية عشوائية، استخدم خاصية RotateAngle. إذا كانت الزاوية المعينة بواسطة ArbitraryAngle ليست مضاعفًا لـ 90، فإن خاصية Rotate تعيد Rotation.None. |
+| [زاوية التدوير](../../aspose.pdf/stamp/rotateangle/) { get; set; } | الحصول على أو تعيين زاوية التدوير للطابع بالدرجات. هذه الخاصية تسمح بتعيين زاوية تدوير عشوائية. |
+| [هامش العلوي](../../aspose.pdf/stamp/topmargin/) { get; set; } | الحصول على أو تعيين الهامش العلوي للطابع. |
+| [محاذاة عمودية](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | الحصول على أو تعيين المحاذاة العمودية للطابع على الصفحة. |
+| virtual [العرض](../../aspose.pdf/stamp/width/) { get; set; } | العرض المرغوب للطابع على الصفحة. |
+| virtual [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | إحداثي الطابع الأفقي، بدءًا من اليسار. |
+| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | إحداثي الطابع العمودي، بدءًا من الأسفل. |
+| [تكبير](../../aspose.pdf/stamp/zoom/) { get; set; } | عامل تكبير الطابع. يسمح بتغيير حجم الطابع. يرجى ملاحظة أن زوج الخصائص ZoomX و ZoomY يسمح بتعيين عامل التكبير لكل محور بشكل منفصل. تعيين هذه الخاصية يغير كل من خصائص ZoomX و ZoomY. إذا كانت ZoomX و ZoomY مختلفتين، فإن خاصية Zoom تعيد قيمة ZoomX. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | عامل التكبير الأفقي للطابع. يسمح بتغيير حجم الطابع أفقيًا. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | عامل التكبير العمودي للطابع. يسمح بتغيير حجم الطابع عموديًا. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid)() | إرجاع معرف الطابع . |
-| abstract [Put](../../aspose.pdf/stamp/put)(Page) | يضيف طابعًا على الصفحة . |
-| [setStampId](../../aspose.pdf/stamp/setstampid)(int) | تعيين معرف الختم. |
+| [getStampId](../../aspose.pdf/stamp/getstampid/)() | يعيد معرف الطابع. |
+| abstract [Put](../../aspose.pdf/stamp/put/)(Page) | يضيف الطابع على الصفحة. |
+| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | يعين معرف الطابع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

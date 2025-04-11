@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke
-second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий цвет набора операторов SC для операторов цвета штриховки.
+title: Class SetColorStroke
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Operators.SetColorStroke. Класс, представляющий оператор SC, устанавливающий цвет для операторов обводки
 type: docs
-weight: 5440
+weight: 7680
 url: /ru/net/aspose.pdf.operators/setcolorstroke/
 ---
-## SetColorStroke class
+## Класс SetColorStroke
 
-Класс, представляющий цвет набора операторов SC для операторов цвета штриховки.
+Класс, представляющий оператор SC, устанавливающий цвет для операторов обводки.
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
@@ -18,39 +18,38 @@ public class SetColorStroke : BasicSetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| [SetColorStroke](setcolorstroke#constructor)() | Инициализирует оператор. |
-| [SetColorStroke](setcolorstroke#constructor_1)(double) | Установить цвет для обводки операторов для цветовых пространств DeviceGrey, CalGrey и Indexed. |
-| [SetColorStroke](setcolorstroke#constructor_4)(double[]) | Конструктор, позволяющий задавать цвет компонентов. |
-| [SetColorStroke](setcolorstroke#constructor_2)(double, double, double) | Установить цвет для обводки оператора для цветовых пространств DeviceRGB, CalRGB и Lab |
-| [SetColorStroke](setcolorstroke#constructor_3)(double, double, double, double) | Установить цвет оператора штриховки для цветового пространства CMYK |
+| [SetColorStroke](setcolorstroke/#constructor)() | Инициализирует оператор. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Устанавливает цвет для операторов обводки для цветовых пространств DeviceGray, CalGray и Indexed. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | Конструктор, который позволяет установить компоненты цвета. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Устанавливает цвет для оператора обводки для цветовых пространств DeviceRGB, CalRGB и Lab. |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | Устанавливает цвет для оператора обводки для цветового пространства CMYK. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Получает красный компонент color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Получает голубой компонент цвета CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Получает массив компонентов цвета. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Получает зеленый компонент цвета |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Получает черную составляющую серого цвета. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Получает черный компонент цвета CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Получает пурпурный компонент цвета CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Получает красный компонент color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Получает желтый компонент цвета CMYK. |
+| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | Получает или устанавливает синюю компоненту. |
+| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | Получает или устанавливает циановую компоненту. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Получает массив компонентов цвета. |
+| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | Получает или устанавливает зеленую компоненту. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Получает черную компоненту серого цвета. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
+| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | Получает или устанавливает черную компоненту. |
+| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | Получает или устанавливает пурпурную компоненту. |
+| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | Получает или устанавливает красную компоненту. |
+| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | Получает или устанавливает желтую компоненту. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
-| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor)() | Возвращает цвет, указанный оператором. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | Возвращает цвет, указанный оператором. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
-### Смотрите также
+### См. также
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators)
+* класс [BasicSetColorOperator](../basicsetcoloroperator/)
+* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

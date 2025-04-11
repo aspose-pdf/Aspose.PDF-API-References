@@ -1,14 +1,14 @@
 ---
-title: TiffSettings
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Esta clase representa la configuración para importar pdf a Tiff.
+title: Class TiffSettings
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Devices.TiffSettings. Esta clase representa configuraciones para importar pdf a Tiff
 type: docs
-weight: 1810
+weight: 3710
 url: /es/net/aspose.pdf.devices/tiffsettings/
 ---
-## TiffSettings class
+## Clase TiffSettings
 
-Esta clase representa la configuración para importar pdf a Tiff.
+Esta clase representa configuraciones para importar pdf a Tiff.
 
 ```csharp
 public sealed class TiffSettings
@@ -18,31 +18,29 @@ public sealed class TiffSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [TiffSettings](tiffsettings#constructor)() | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_8)(bool) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_1)(ColorDepth) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_2)(CompressionType) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_6)(Margins) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_7)(ShapeType) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_3)(CompressionType, ColorDepth, Margins) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_4)(CompressionType, ColorDepth, Margins, bool) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
-| [TiffSettings](tiffsettings#constructor_5)(CompressionType, ColorDepth, Margins, bool, ShapeType) | Inicializa una nueva instancia del[`TiffSettings`](../tiffsettings) clase. |
+| [TiffSettings](tiffsettings/#constructor)() | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_8)(bool) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_1)(ColorDepth) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_2)(CompressionType) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_6)(Margins) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_7)(ShapeType) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_3)(CompressionType, ColorDepth, Margins) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_4)(CompressionType, ColorDepth, Margins, bool) | Inicializa una nueva instancia de la clase `TiffSettings`. |
+| [TiffSettings](tiffsettings/#constructor_5)(CompressionType, ColorDepth, Margins, bool, ShapeType) | Inicializa una nueva instancia de la clase `TiffSettings`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness) { get; set; } | Obtiene o establece un límite de valor de la transformación de colores en blanco y negro. Este parámetro se puede aplicar con EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle o ColorDepth.Format1bpp == 1 |
-| [Compression](../../aspose.pdf.devices/tiffsettings/compression) { get; set; } | Obtiene o establece el tipo de compresión. |
-| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype) { get; set; } | Obtiene o establece el tipo de coordenada de la página (Medios/Cuadros de recorte). El valor de CropBox se utiliza de forma predeterminada. |
-| [Depth](../../aspose.pdf.devices/tiffsettings/depth) { get; set; } | Obtiene o establece la profundidad de color. |
-| [Margins](../../aspose.pdf.devices/tiffsettings/margins) { get; } | Obtiene los márgenes. |
-| [Shape](../../aspose.pdf.devices/tiffsettings/shape) { get; set; } | Obtiene o establece el tipo de la forma. |
-| [SkipBlankPages](../../aspose.pdf.devices/tiffsettings/skipblankpages) { get; set; } | Obtiene o establece un valor que indica si se saltan las páginas en blanco. |
+| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | Obtiene o establece un valor límite de la transformación de colores en blanco y negro. Este parámetro puede aplicarse con EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle o ColorDepth.Format1bpp == 1 |
+| [Compression](../../aspose.pdf.devices/tiffsettings/compression/) { get; set; } | Obtiene o establece el tipo de compresión. |
+| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Obtiene o establece el tipo de coordenadas de la página (Media/Crop boxes). El valor CropBox se utiliza por defecto. |
+| [Depth](../../aspose.pdf.devices/tiffsettings/depth/) { get; set; } | Obtiene o establece la profundidad de color. |
+| [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | Obtiene los márgenes. |
+| [Shape](../../aspose.pdf.devices/tiffsettings/shape/) { get; set; } | Obtiene o establece el tipo de forma. |
+| [SkipBlankPages](../../aspose.pdf.devices/tiffsettings/skipblankpages/) { get; set; } | Obtiene o establece un valor que indica si se deben omitir las páginas en blanco. |
 
-### Ver también
+### Véase también
 
-* espacio de nombres [Aspose.Pdf.Devices](../../aspose.pdf.devices)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)

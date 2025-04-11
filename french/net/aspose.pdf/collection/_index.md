@@ -1,14 +1,14 @@
 ---
-title: Collection
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Représente la classe pour Collection 12.3.5 Collections.
+title: Class Collection
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Collection. Représente la classe pour Collection12.3.5 Collections
 type: docs
-weight: 1480
+weight: 3020
 url: /fr/net/aspose.pdf/collection/
 ---
-## Collection class
+## Classe Collection
 
-Représente la classe pour Collection (12.3.5 Collections).
+Représente la classe pour Collection(12.3.5 Collections).
 
 ```csharp
 public class Collection : EmbeddedFileCollection
@@ -16,38 +16,38 @@ public class Collection : EmbeddedFileCollection
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Collection](collection)() | Initialise le nouvel objet Collection. |
+| [Collection](collection/)() | Initialise un nouvel objet Collection. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/embeddedfilecollection/count) { get; } | Obtient le nombre de fichiers intégrés dans la collection. |
-| [DefaultEntry](../../aspose.pdf/collection/defaultentry) { get; } | Nom du fichier intégré par défaut. |
-| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized) { get; } | Obtient une valeur indiquant si l'accès à cette collection est synchronisé (thread safe). |
-| [Item](../../aspose.pdf/embeddedfilecollection/item) { get; } | Obtient le fichier intégré par son index. (2 indexers) |
-| [Keys](../../aspose.pdf/embeddedfilecollection/keys) { get; } | Renvoie la liste des clés de pièces jointes. |
-| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot) { get; } | Obtient un objet qui peut être utilisé pour synchroniser l'accès à cette collection. |
+| [Count](../../aspose.pdf/embeddedfilecollection/count/) { get; } | Obtient le nombre de fichiers intégrés dans la collection. |
+| [DefaultEntry](../../aspose.pdf/collection/defaultentry/) { get; } | Nom de fichier intégré par défaut. |
+| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Obtient une valeur indiquant si l'accès à cette collection est synchronisé (sécurisé pour les threads). |
+| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Obtient le fichier intégré par son index. (2 indexeurs) |
+| [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Renvoie la liste des clés de fichiers joints. |
+| [Schema](../../aspose.pdf/collection/schema/) { get; } | Obtient un "Schéma" d'une collection de documents. |
+| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Obtient un objet qui peut être utilisé pour synchroniser l'accès à cette collection. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(FileSpecification) | Ajoute une spécification de fichier intégré dans la collection. |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(string, FileSpecification) | Ajoute un fichier aux fichiers intégrés avec la clé spécifiée. |
-| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto)(FileSpecification[], int) | Copie le tableau de l'objet FileSpecification dans la collection. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)() | Supprimer tous les fichiers intégrés du document. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)(string) | Supprimer le fichier intégré par nom. |
-| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey)(string) | Supprime le fichier de la collection par sa clé dans la collection. |
-| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname)(string) | Renvoie le fichier intégré par son nom. |
-| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator)() | Renvoie l'énumérateur de collection. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(FileSpecification) | Ajoute une spécification de fichier intégré dans la collection. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(string, FileSpecification) | Ajoute un fichier aux fichiers intégrés avec la clé spécifiée. |
+| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto/)(FileSpecification[], int) | Copie un tableau d'objets FileSpecification dans la collection. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)() | Supprime tous les fichiers intégrés du document. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)(string) | Supprime un fichier intégré par son nom. |
+| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey/)(string) | Supprime un fichier de la collection par sa clé dans la collection. |
+| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname/)(string) | Renvoie le fichier intégré par son nom. |
+| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator/)() | Renvoie l'énumérateur de la collection. |
+| [GetSortedCollection](../../aspose.pdf/collection/getsortedcollection/)() | Obtient une collection de fichiers triés selon la spécification. |
 
-### Voir également
+### Voir aussi
 
-* class [EmbeddedFileCollection](../embeddedfilecollection)
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [EmbeddedFileCollection](../embeddedfilecollection/)
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

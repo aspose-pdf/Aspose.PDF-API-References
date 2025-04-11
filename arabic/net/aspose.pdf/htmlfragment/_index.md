@@ -1,54 +1,52 @@
 ---
-title: HtmlFragment
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل جزء html .
+title: Class HtmlFragment
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.HtmlFragment. تمثل جزء HTML
 type: docs
-weight: 3390
+weight: 5520
 url: /ar/net/aspose.pdf/htmlfragment/
 ---
-## HtmlFragment class
+## فئة HtmlFragment
 
-يمثل جزء html .
+تمثل جزء HTML.
 
 ```csharp
 public sealed class HtmlFragment : FormattedFragment
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HtmlFragment](htmlfragment)(string) | تهيئة مثيل جديد لفئة HtmlFragment. |
+| [HtmlFragment](htmlfragment/)(string) | يقوم بتهيئة مثيل جديد من فئة HtmlFragment. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية للفقرة أو تعيينها |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | الحصول على أو تعيين HtmlLoadOptions التي سيتم استخدامها لتحميل (وعرض) HTML في مثيل الفئة هذا. استخدم BasePath محددًا لاستيراد HTML أو يجب استخدام أداة تحميل محددة للموارد الخارجية) إذا كانت المعلمة افتراضية (خالية) ، فسيتم استخدام خيارات تحميل HTML القياسية. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | الحصول على أو تعيين الكلمات break |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin) { get; set; } | يحصل أو يحدد هو أن الفقرة بها هامش افتراضي ، وإلا يكون الهامش 0 |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [Rectangle](../../aspose.pdf/htmlfragment/rectangle) { get; } | يحصل على مستطيل HtmlFragment |
-| [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | الحصول على أو تعيين font |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions/) { get; set; } | يحصل أو يحدد HtmlLoadOptions التي ستستخدم لتحميل (ورسم) HTML في هذا المثيل من الفئة. يرجى استخدامه عند الحاجة إلى استخدام إعدادات محددة لاستيراد HTML لهذا أو ذاك المثيل (على سبيل المثال، عندما يجب أن يستخدم هذا أو ذاك المثيل مسار قاعدة محدد لـ HTML المستورد أو يجب أن يستخدم محمل محدد للموارد الخارجية) إذا كان المعامل هو الافتراضي (null)، فسيتم استخدام خيارات تحميل HTML القياسية. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الجزء (لإنشاء PDF). |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords/) { get; set; } | يحصل أو يحدد كسر الكلمات |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. الافتراضي هو false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. الافتراضي هو false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على التوليد في صفحة جديدة. الافتراضي هو false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. الافتراضي هو false. (لإنشاء PDF) |
+| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة تحتوي على هامش افتراضي، وإلا فإن الهامش هو 0 |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [Rectangle](../../aspose.pdf/htmlfragment/rectangle/) { get; } | يحصل على مستطيل HtmlFragment |
+| [TextState](../../aspose.pdf/htmlfragment/textstate/) { get; set; } | يحصل أو يحدد الخط |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم مع ZIndex أكبر فوق الرسم مع ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم مع ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf/htmlfragment/clone)() | جزء مستنسخ html . |
+| override [Clone](../../aspose.pdf/htmlfragment/clone/)() | يقوم باستنساخ جزء HTML. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedFragment](../formattedfragment)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [FormattedFragment](../formattedfragment/)
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

@@ -1,511 +1,614 @@
 ---
-title: Visit
-second_title: Aspose.PDF لمرجع .NET API
-description: حدد التعليق التوضيحي للرابط إذا تمت تهيئة AnnotationSelector باستخدام كائن LinkAnnotation .
+title: AnnotationSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة AnnotationSelector. اختر رابط التعليق إذا تم تهيئة AnnotationSelector باستخدام كائن LinkAnnotation
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_9}
 
-حدد التعليق التوضيحي للرابط إذا تمت تهيئة AnnotationSelector باستخدام كائن LinkAnnotation .
+اختر رابط التعليق إذا تم تهيئة AnnotationSelector باستخدام كائن LinkAnnotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| link | LinkAnnotation | كائن LinkAnnotation للاختيار . |
+| link | LinkAnnotation | كائن LinkAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [LinkAnnotation](../../linkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [LinkAnnotation](../../linkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
-حدد التعليق التوضيحي للمرفق إذا تمت تهيئة AnnotationSelector باستخدام كائن FileAttachmentAnnotation.
+اختر تعليق المرفق إذا تم تهيئة AnnotationSelector باستخدام كائن FileAttachmentAnnotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | كائن FileAttachmentAnnotation للتحديد. |
+| attachment | FileAttachmentAnnotation | كائن FileAttachmentAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_20}
+## Visit(TextAnnotation) {#visit_24}
 
-حدد تعليقًا توضيحيًا نصيًا إذا تمت تهيئة AnnotationSelector باستخدام كائن TextAnnotation.
+اختر تعليق النص إذا تم تهيئة AnnotationSelector باستخدام كائن TextAnnotation.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | TextAnnotation | كائن تعليق نصي للاختيار . |
+| text | TextAnnotation | كائن TextAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [TextAnnotation](../../textannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [TextAnnotation](../../textannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_13}
+## Visit(RedactionAnnotation) {#visit_16}
 
-حدد التعليق التوضيحي المنقح إذا تمت تهيئة AnnotationSelector باستخدام كائن RedactAnnotation.
+اختر تعليق الحذف إذا تم تهيئة AnnotationSelector باستخدام كائن RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | redact | RedactionAnnotation | كائن RedactAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [RedactionAnnotation](../../redactionannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../../redactionannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_5}
 
-حدد تعليقًا توضيحيًا نصيًا مجانيًا إذا تمت تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
+اختر تعليق النص الحر إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | كائن FreeTextAnnotation للاختيار . |
+| freetext | FreeTextAnnotation | كائن FreeTextAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_6}
 
-حدد التعليق التوضيحي للمرفق إذا تمت تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
+اختر تعليق التمييز إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | كائن HighlightAnnotation للاختيار . |
+| highlight | HighlightAnnotation | كائن HighlightAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [HighlightAnnotation](../../highlightannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_21}
+## Visit(UnderlineAnnotation) {#visit_26}
 
-حدد التعليق التوضيحي المسطر إذا تمت تهيئة AnnotationSelector باستخدام كائن UnderlineAnnotation .
+اختر تعليق التسطير إذا تم تهيئة AnnotationSelector باستخدام كائن UnderlineAnnotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | كائن UnderlineAnnotation للاختيار . |
+| underline | UnderlineAnnotation | كائن UnderlineAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_19}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
-حدد التعليق التوضيحي للخطأ إذا تمت تهيئة AnnotationSelector باستخدام كائن StrikeOutAnnotation .
+اختر تعليق الشطب إذا تم تهيئة AnnotationSelector باستخدام كائن StrikeOutAnnotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | كائن StrikeOutAnnotation للاختيار . |
+| strikeOut | StrikeOutAnnotation | كائن StrikeOutAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_17}
+## Visit(SquigglyAnnotation) {#visit_21}
 
-حدد تعليقًا توضيحيًا متعرجًا إذا تمت تهيئة AnnotationSelector باستخدام كائن SquigglyAnnotation .
+اختر تعليق الموجات إذا تم تهيئة AnnotationSelector باستخدام كائن SquigglyAnnotation.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | كائن تعليق Squiggly للاختيار . |
+| squiggly | SquigglyAnnotation | كائن SquigglyAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_12}
+## Visit(PopupAnnotation) {#visit_15}
 
-حدد التعليق التوضيحي المنبثق إذا تمت تهيئة AnnotationSelector باستخدام كائن PopupAnnotation .
+اختر تعليق النافذة المنبثقة إذا تم تهيئة AnnotationSelector باستخدام كائن PopupAnnotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| popup | PopupAnnotation | كائن PopupAnnotation للاختيار . |
+| popup | PopupAnnotation | كائن PopupAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [PopupAnnotation](../../popupannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [PopupAnnotation](../../popupannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_8}
 
-حدد التعليق التوضيحي للسطر إذا تمت تهيئة AnnotationSelector باستخدام كائن LineAnnotation .
+اختر تعليق الخط إذا تم تهيئة AnnotationSelector باستخدام كائن LineAnnotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| line | LineAnnotation | كائن LineAnnotation للاختيار . |
+| line | LineAnnotation | كائن LineAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [LineAnnotation](../../lineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [LineAnnotation](../../lineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-حدد التعليق التوضيحي للدائرة إذا تمت تهيئة AnnotationSelector باستخدام كائن CircleAnnotation .
+اختر تعليق الدائرة إذا تم تهيئة AnnotationSelector باستخدام كائن CircleAnnotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| circle | CircleAnnotation | كائن تعليق دائري للاختيار . |
+| circle | CircleAnnotation | كائن CircleAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [CircleAnnotation](../../circleannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [CircleAnnotation](../../circleannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_16}
+## Visit(SquareAnnotation) {#visit_20}
 
-حدد التعليق التوضيحي المربع إذا تمت تهيئة AnnotationSelector باستخدام كائن SquareAnnotation.
+اختر تعليق المربع إذا تم تهيئة AnnotationSelector باستخدام كائن SquareAnnotation.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| square | SquareAnnotation | كائن SquareAnnotation للاختيار . |
+| square | SquareAnnotation | كائن SquareAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [SquareAnnotation](../../squareannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SquareAnnotation](../../squareannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_7}
 
-حدد التعليق التوضيحي بالحبر إذا تمت تهيئة AnnotationSelector باستخدام كائن InkAnnotation.
+اختر تعليق الحبر إذا تم تهيئة AnnotationSelector باستخدام كائن InkAnnotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| ink | InkAnnotation | كائن InkAnnotation للاختيار . |
+| ink | InkAnnotation | كائن InkAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [InkAnnotation](../../inkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [InkAnnotation](../../inkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_11}
+## Visit(PolylineAnnotation) {#visit_14}
 
-حدد التعليق التوضيحي متعدد الخطوط إذا تمت تهيئة AnnotationSelector باستخدام كائن PolylineAnnotation .
+اختر تعليق الخط المتعدد إذا تم تهيئة AnnotationSelector باستخدام كائن PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | كائن PolylineAnnotation للاختيار . |
+| polyline | PolylineAnnotation | كائن PolylineAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [PolylineAnnotation](../../polylineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_10}
+## Visit(PolygonAnnotation) {#visit_13}
 
-حدد التعليق التوضيحي المضلع إذا تمت تهيئة AnnotationSelector باستخدام كائن PolygonAnnotation .
+اختر تعليق المضلع إذا تم تهيئة AnnotationSelector باستخدام كائن PolygonAnnotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | كائن PolygonAnnotation للاختيار . |
+| polygon | PolygonAnnotation | كائن PolygonAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [PolygonAnnotation](../../polygonannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-حدد تعليقًا توضيحيًا بمؤشر الإقحام إذا تمت تهيئة AnnotationSelector باستخدام كائن CaretAnnotation .
+اختر تعليق المؤشر إذا تم تهيئة AnnotationSelector باستخدام كائن CaretAnnotation.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| caret | CaretAnnotation | كائن CaretAnnotation للاختيار . |
+| caret | CaretAnnotation | كائن CaretAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [CaretAnnotation](../../caretannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [CaretAnnotation](../../caretannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_18}
+## Visit(StampAnnotation) {#visit_22}
 
-حدد التعليق التوضيحي للطوابع إذا تمت تهيئة AnnotationSelector باستخدام كائن StampAnnotation.
+اختر تعليق الختم إذا تم تهيئة AnnotationSelector باستخدام كائن StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | StampAnnotation | كائن StampAnnotation للاختيار . |
+| stamp | StampAnnotation | كائن StampAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [StampAnnotation](../../stampannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [StampAnnotation](../../stampannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_23}
+## Visit(WidgetAnnotation) {#visit_28}
 
-حدد التعليق التوضيحي لعنصر واجهة المستخدم إذا تمت تهيئة AnnotationSelector باستخدام عنصر WidgetAnnotation .
+اختر تعليق الودجت إذا تم تهيئة AnnotationSelector باستخدام كائن WidgetAnnotation.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| widget | WidgetAnnotation | عنصر واجهة المستخدم تعليق كائن للاختيار . |
+| widget | WidgetAnnotation | كائن WidgetAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [WidgetAnnotation](../../widgetannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_22}
+## Visit(WatermarkAnnotation) {#visit_27}
 
-حدد التعليق التوضيحي للعلامة المائية إذا تمت تهيئة AnnotationSelector باستخدام عنصر WatermarkAnnotation .
+اختر تعليق العلامة المائية إذا تم تهيئة AnnotationSelector باستخدام كائن WatermarkAnnotation.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | علامة مائية: تعليق خاص بالتحديد. |
+| watermark | WatermarkAnnotation | كائن WatermarkAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [WatermarkAnnotation](../../watermarkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [WatermarkAnnotation](../../watermarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_10}
 
-حدد التعليق التوضيحي للفيلم إذا تمت تهيئة AnnotationSelector باستخدام كائن MovieAnnotation.
+اختر تعليق الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن MovieAnnotation.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | movie | MovieAnnotation | كائن MovieAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [MovieAnnotation](../../movieannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MovieAnnotation](../../movieannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_14}
+## Visit(RichMediaAnnotation) {#visit_18}
 
-حدد التعليق التوضيحي للفيلم إذا تمت تهيئة AnnotationSelector باستخدام كائن التعليق التوضيحي RichMedia.
+اختر تعليق الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن RichMedia annotation.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | شرح RichMedia. |
+| richMedia | RichMediaAnnotation | تعليق RichMedia. |
 
-### أنظر أيضا
+### See Also
 
-* class [RichMediaAnnotation](../../richmediaannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../../richmediaannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_15}
+## Visit(ScreenAnnotation) {#visit_19}
 
-حدد التعليق التوضيحي للشاشة إذا تمت تهيئة AnnotationSelector باستخدام كائن ScreenAnnotation .
+اختر تعليق الشاشة إذا تم تهيئة AnnotationSelector باستخدام كائن ScreenAnnotation.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | screen | ScreenAnnotation | كائن ScreenAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [ScreenAnnotation](../../screenannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../../screenannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_9}
+## Visit(PDF3DAnnotation) {#visit_12}
 
-حدد التعليق التوضيحي بتنسيق PDF ثلاثي الأبعاد إذا تمت تهيئة محدد التعليقات التوضيحية باستخدام كائن التعليق PDF3DA.
+اختر تعليق PDF3D إذا تم تهيئة AnnotationSelector باستخدام كائن PDF3DAnnotation.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | PDF3DA كائن تعليق للتحديد. |
+| pdf3D | PDF3DAnnotation | كائن PDF3DAnnotation للاختيار. |
 
-### أنظر أيضا
+### See Also
 
-* class [PDF3DAnnotation](../../pdf3dannotation)
-* class [AnnotationSelector](../../annotationselector)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../annotationselector)
-* المجسم [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../../pdf3dannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(ColorBarAnnotation) {#visit_3}
+
+اختر تعليق ColorBar إذا تم تهيئة AnnotationSelector باستخدام كائن ColorBar.
+
+```csharp
+public void Visit(ColorBarAnnotation colorBar)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorBar | ColorBarAnnotation | كائن PDF3DAnnotation للاختيار. |
+
+### See Also
+
+* class [ColorBarAnnotation](../../colorbarannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+يختار *علامة القص* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`TrimMarkAnnotation`](../../trimmarkannotation/) .
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | كائن [`TrimMarkAnnotation`](../../trimmarkannotation/) للاختيار. |
+
+### See Also
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+يختار *علامة النزيف* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/) .
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/) للاختيار. |
+
+### See Also
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+يختار *علامة التسجيل* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) .
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) للاختيار. |
+
+### See Also
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+يختار *معلومات الصفحة* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`PageInformationAnnotation`](../../pageinformationannotation/) .
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | كائن [`PageInformationAnnotation`](../../pageinformationannotation/) للاختيار. |
+
+### See Also
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

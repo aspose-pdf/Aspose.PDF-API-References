@@ -1,65 +1,63 @@
 ---
-title: PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Referansı
-description: Oluşturma değiştirme dışa aktarma içe aktarma ve silme dahil olmak üzere PDF dosyasının yer imleriyle çalışacak bir sınıfı temsil eder.
+title: Class PdfBookmarkEditor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfBookmarkEditor sınıfı. PDF dosyalarının yer imleri ile çalışmak için bir sınıfı temsil eder; oluşturma, değiştirme, dışa aktarma, içe aktarma ve silme işlemlerini içerir.
 type: docs
-weight: 2430
+weight: 4420
 url: /tr/net/aspose.pdf.facades/pdfbookmarkeditor/
 ---
-## PdfBookmarkEditor class
+## PdfBookmarkEditor Sınıfı
 
-Oluşturma, değiştirme, dışa aktarma, içe aktarma ve silme dahil olmak üzere PDF dosyasının yer imleriyle çalışacak bir sınıfı temsil eder.
+PDF dosyasının yer imleri ile çalışmak için bir sınıfı temsil eder; oluşturma, değiştirme, dışa aktarma, içe aktarma ve silme işlemlerini içerir.
 
 ```csharp
 public sealed class PdfBookmarkEditor : SaveableFacade
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | Yeniyi başlatır[`PdfBookmarkEditor`](../pdfbookmarkeditor) nesne. |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | Yeniyi başlatır[`PdfBookmarkEditor`](../pdfbookmarkeditor) temelinde nesne*document* . |
+| [PdfBookmarkEditor](pdfbookmarkeditor/#constructor)() | Yeni bir `PdfBookmarkEditor` nesnesi başlatır. |
+| [PdfBookmarkEditor](pdfbookmarkeditor/#constructor_1)(Document) | *document* temelinde yeni bir `PdfBookmarkEditor` nesnesi başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Üzerinde çalıştığı belge cephesini alır. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Üzerinde çalışılan belge yüzeyini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Cepheyi başlatır. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Cepheyi başlatır. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Cepheyi başlatır. |
-| virtual [Close](../../aspose.pdf.facades/facade/close)() | Aspose.Pdf.Document'ı bir cepheye bağlı olarak imha eder. |
-| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage)(string, int) | Belirtilen sayfa için yer imi oluşturur. |
-| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage_1)(string[], int[]) | Belirtilen sayfalar için yer imleri oluşturur. |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks)() | Tüm sayfalar için yer imleri oluşturur. |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | Belgede belirtilen yer imini oluşturur. Yöntem, iç içe yer imleri hiyerarşisi oluşturmak için kullanılabilir. |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_2)(Color, bool, bool) | Belirtilen renk ve stille (kalın, italik) tüm sayfalar için yer imleri oluşturun. |
-| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks)() | PDF belgesinin tüm yer imlerini siler. |
-| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks_1)(string) | PDF belgesinin yer imini siler. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Cepheyi ortadan kaldırır. |
-| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml)(Stream) | Yer imlerini XML akışına aktarır. |
-| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml_1)(string) | Yer imlerini XML dosyasına aktarır. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | Belgeden tüm düzeylerdeki yer imlerini çıkarır. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_1)(Bookmark) | Belirtilen bookamrk'taki gibi bir başlığa sahip bir yer iminin alt öğelerini çıkarır. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | Belgeden tüm düzeylerdeki yer imlerini çıkarır. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_3)(string) | Belirtilen başlığa sahip yer imlerini çıkarır. |
-| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml)(Stream) | Yer imlerini XML dosyasından belgeye aktarır. |
-| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml_1)(string) | Yer imlerini XML dosyasından belgeye aktarır. |
-| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks)(string, string) | Yer imi başlığını belirtilen yer imi başlığına göre değiştirir. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | PDF belgesini belirtilen akışa kaydeder. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | PDF belgesini belirtilen dosyaya kaydeder. |
-| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml)(string, string) | Yer imlerini HTML dosyasına aktarır. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Yüzeyi başlatır. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Yüzeyi başlatır. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Yüzeyi başlatır. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Bir yüzeye bağlı Aspose.Pdf.Document nesnesini yok eder. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/#createbookmarkofpage)(string, int) | Belirtilen sayfa için yer imi oluşturur. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/#createbookmarkofpage_1)(string[], int[]) | Belirtilen sayfalar için yer imleri oluşturur. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks)() | Tüm sayfalar için yer imleri oluşturur. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks_1)(Bookmark) | Belgedeki belirtilen yer imini oluşturur. Bu yöntem, iç içe yer imleri hiyerarşisi oluşturmak için kullanılabilir. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks_2)(Color, bool, bool) | Belirtilen renk ve stil (kalın, italik) ile tüm sayfalar için yer imleri oluşturur. |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/#deletebookmarks)() | PDF belgesinin tüm yer imlerini siler. |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/#deletebookmarks_1)(string) | PDF belgesinin yer imini siler. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Yüzeyi yok eder. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/#exportbookmarkstoxml)(Stream) | Yer imlerini XML akışına dışa aktarır. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/#exportbookmarkstoxml_1)(string) | Yer imlerini XML dosyasına dışa aktarır. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks)() | Belgedeki tüm seviyelerden yer imlerini çıkarır. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_1)(Bookmark) | Belirtilen yer imindeki başlık gibi bir başlığa sahip yer iminin çocuklarını çıkarır. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_2)(bool) | Belgedeki tüm seviyelerden yer imlerini çıkarır. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_3)(string) | Belirtilen başlığa sahip yer imlerini çıkarır. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/#importbookmarkswithxml)(Stream) | XML dosyasından belgeye yer imleri içe aktarır. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/#importbookmarkswithxml_1)(string) | XML dosyasından belgeye yer imleri içe aktarır. |
+| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/)(string, string) | Belirtilen yer imi başlığına göre yer imi başlığını değiştirir. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | PDF belgesini belirtilen akışa kaydeder. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | PDF belgesini belirtilen dosyaya kaydeder. |
+| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/)(string, string) | Yer imlerini HTML dosyasına dışa aktarır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SaveableFacade](../saveablefacade)
-* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [SaveableFacade](../saveablefacade/)
+* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../)

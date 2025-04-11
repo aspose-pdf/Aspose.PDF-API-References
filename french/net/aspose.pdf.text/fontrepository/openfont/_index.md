@@ -1,160 +1,158 @@
 ---
-title: OpenFont
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Ouvre la police avec le flux de police spécifié.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode FontRepository. Ouvre une police avec le flux de police spécifié
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-Ouvre la police avec le flux de police spécifié.
+Ouvre une police avec le flux de police spécifié.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontStream | Stream | Flux de polices. |
+| fontStream | Stream | Flux de police. |
 | fontType | FontTypes | Valeur du type de police. |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police.
+Objet Font.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment ouvrir la police et remplacer la police du texte de la première page.
+L'exemple démontre comment ouvrir une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Ouvrir la police
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Ouvrir le document
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Crée un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Accepte l'absorbeur pour la première page
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // Change la police de la première occurrence de texte
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Enregistrer le document
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
+* classe [Font](../../font/)
+* énum [FontTypes](../../fonttypes/)
+* classe [FontRepository](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-Ouvre la police avec le chemin du fichier de police spécifié.
+Ouvre une police avec le chemin de fichier de police spécifié.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontFilePath | String | Chemin du fichier de police. |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police.
+Objet Font.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment ouvrir la police et remplacer la police du texte de la première page.
+L'exemple démontre comment ouvrir une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Ouvrir la police
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crée un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
+* classe [Font](../../font/)
+* classe [FontRepository](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Ouvre la police avec le chemin du fichier de police et le chemin du fichier de mesures spécifiés.
+Ouvre une police avec le chemin de fichier de police spécifié et le chemin de fichier de métriques.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontFilePath | String | Chemin du fichier de police. |
-| metricsFilePath | String | Chemin du fichier de métriques de polices. |
+| metricsFilePath | String | Chemin du fichier de métriques de police. |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police.
+Objet Font.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment ouvrir la police Type1 avec des mesures et remplacer la police du texte de la première page.
+L'exemple démontre comment ouvrir une police Type1 avec des métriques et remplacer la police du texte de la première page.
 
 ```csharp
-// Ouvrir la police
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crée un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [Font](../../font/)
+* classe [FontRepository](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

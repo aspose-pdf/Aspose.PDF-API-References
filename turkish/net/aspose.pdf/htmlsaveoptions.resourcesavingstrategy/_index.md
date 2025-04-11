@@ -1,32 +1,30 @@
 ---
-title: HtmlSaveOptions.ResourceSavingStrategy
-second_title: Aspose.PDF for .NET API Referansı
-description: Bu özelliğe PDFden çıkarılan ve PDFnin HTMLye dönüştürülmesi sırasında harici kaynak olarak kaydedilmesi gereken harici kaynağın Yazı Tipi veya Görüntü işlenmesini uygulayan özel yöntemden oluşturulan temsilciyi atayabilirsiniz. Bu durumda işleme  akışta veya diskte kaydetme gibi bu özel kodda yapılabilir ve bu özel kodun yolu veya tırnak işaretleri olmadan başka bir dize döndürmesi gerekir bu daha sonra o görüntü kaynağının orijinal varsayılan yolu yerine oluşturulan HTMLye dahil edilecektir. Böyle bir durumda görüntünün kaydedilmesi için gerekli tüm eylemler sağlanan yöntemin kodunda gerçekleştirilmelidir çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu dosyanın işlenmesi özel kodda değil dönüştürücünün kodunun kendisi tarafından yapılmalıysa lütfen resourceSavingInfo parametresinin değişkeninin CustomProcessingCancelled özel kod bayrağına ayarlayın. kaynağının işlenmesi herhangi bir harici özel kod yokmuş gibi dönüştürücünün kendisinde yapılmalıdır .
+title: Delegate HtmlSaveOptions.ResourceSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Bu özelliğe, PDF'den çıkarılan ve PDF'den HTML'ye dönüştürme sırasında harici kaynak olarak kaydedilmesi gereken dış kaynak (Font veya Resim) işleme uygulayan özel bir yöntemden oluşturulmuş bir delege atayabilirsiniz. Bu durumda, akışta veya diskte kaydetme gibi işlemler bu özel kodda yapılabilir ve bu özel kod, daha sonra oluşturulan HTML'ye dahil edilecek olan, o resim kaynağı için varsayılan yolun yerine geçecek bir yol (veya tırnak işareti olmadan başka bir dize) döndürmelidir. Bu durumda, resmin kaydedilmesi için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonuçların dönüştürücü kodunda kaydedilmesi kullanılmayacaktır. Eğer bu veya o dosya için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'resourceSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın. Bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde yapılması gerektiğini, sanki dış bir özel kod yokmuş gibi sinyal eder.
 type: docs
-weight: 3600
+weight: 5730
 url: /tr/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/
 ---
-## HtmlSaveOptions.ResourceSavingStrategy delegate
+## HtmlSaveOptions.ResourceSavingStrategy delegesi
 
-Bu özelliğe, PDF'den çıkarılan ve PDF'nin HTML'ye dönüştürülmesi sırasında harici kaynak olarak kaydedilmesi gereken harici kaynağın (Yazı Tipi veya Görüntü) işlenmesini uygulayan özel yöntemden oluşturulan temsilciyi atayabilirsiniz. Bu durumda işleme ( akışta veya diskte kaydetme gibi) bu özel kodda yapılabilir ve bu özel kodun yolu (veya tırnak işaretleri olmadan başka bir dize) döndürmesi gerekir; bu, daha sonra o görüntü kaynağının orijinal varsayılan yolu yerine oluşturulan HTML'ye dahil edilecektir. Böyle bir durumda, görüntünün kaydedilmesi için gerekli tüm eylemler, sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu dosyanın işlenmesi özel kodda değil, dönüştürücünün kodunun kendisi tarafından yapılmalıysa, lütfen 'resourceSavingInfo' parametresinin değişkeninin 'CustomProcessingCancelled' özel kod bayrağına ayarlayın. kaynağının işlenmesi, herhangi bir harici özel kod yokmuş gibi dönüştürücünün kendisinde yapılmalıdır .
+Bu özelliğe, PDF'den çıkarılan ve PDF'den HTML'ye dönüştürme sırasında harici kaynak olarak kaydedilmesi gereken dış kaynak (Font veya Resim) işleme uygulayan özel bir yöntemden oluşturulmuş bir delege atayabilirsiniz. Bu durumda, akışta veya diskte kaydetme gibi işlemler bu özel kodda yapılabilir ve bu özel kod, daha sonra oluşturulan HTML'ye dahil edilecek olan, o resim kaynağı için varsayılan yolun yerine geçecek bir yol (veya tırnak işareti olmadan başka bir dize) döndürmelidir. Bu durumda, resmin kaydedilmesi için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonuçların dönüştürücü kodunda kaydedilmesi kullanılmayacaktır. Eğer bu veya o dosya için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'resourceSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın. Bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde yapılması gerektiğini, sanki dış bir özel kod yokmuş gibi sinyal eder.
 
 ```csharp
 public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingInfo);
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| resourceSavingInfo | ResourceSavingInfo | kaynak tasarrufu için veri kümesini temsil eder |
+| resourceSavingInfo | ResourceSavingInfo | kaynağın kaydedilmesi için veri kümesini temsil eder |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-URL'yi HTML oluşturma sırasında kullanılacak kayıtlı kaynağa döndürmelidir
+HTML oluşturma sırasında kullanılacak kaydedilen kaynağın URL'sini döndürmelidir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* sınıf [HtmlSaveOptions](../htmlsaveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

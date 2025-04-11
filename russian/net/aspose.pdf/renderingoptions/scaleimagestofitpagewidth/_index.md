@@ -1,22 +1,22 @@
 ---
 title: ScaleImagesToFitPageWidth
-second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значения используемые для масштабирования всех изображений на странице по ширине страницы.
+second_title: Aspose.PDF for .NET API Reference
+description: Получает или устанавливает значения, используемые для масштабирования всех изображений на странице, чтобы они соответствовали ширине страницы.
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.pdf/renderingoptions/scaleimagestofitpagewidth/
 ---
-## RenderingOptions.ScaleImagesToFitPageWidth property
+## RenderingOptions.ScaleImagesToFitPageWidth свойство
 
-Получает или задает значения, используемые для масштабирования всех изображений на странице по ширине страницы.
+Получает или устанавливает значения, используемые для масштабирования всех изображений на странице, чтобы они соответствовали ширине страницы.
 
 ```csharp
 public bool ScaleImagesToFitPageWidth { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
-* class [RenderingOptions](../../renderingoptions)
+* класс [RenderingOptions](../../renderingoptions)
 * пространство имен [Aspose.Pdf](../../renderingoptions)
 * сборка [Aspose.PDF](../../../)
 

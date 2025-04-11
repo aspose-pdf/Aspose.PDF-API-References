@@ -1,12 +1,12 @@
 ---
-title: Concatenate
-second_title: Aspose.PDF для справочника API .NET
-description: Объединяет два файла.
+title: PdfFileEditor.Concatenate
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileEditor. Объединяет два файла
 type: docs
-weight: 290
+weight: 260
 url: /ru/net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
-## Concatenate(string, string, string) {#concatenate_5}
+## Concatenate(string, string, string) {#concatenate_4}
 
 Объединяет два файла.
 
@@ -22,19 +22,19 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -51,15 +51,15 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 | --- | --- | --- |
 | firstInputStream | Stream | Поток первого файла. |
 | secInputStream | Stream | Поток второго файла. |
-| outputStream | Stream | Поток, в котором будет храниться файл результатов. |
+| outputStream | Stream | Поток, в который будет сохранен результирующий файл. |
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -69,10 +69,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(stream1, stream2, outstream);
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -88,22 +88,22 @@ public bool Concatenate(Document[] src, Document dest)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | src | Document[] | Массив исходных документов. |
-| dest | Document | Документ назначения. |
+| dest | Document | Целевой документ. |
 
 ### Возвращаемое значение
 
-Истинно, если конкатенация прошла успешно.
+True, если объединение прошло успешно.
 
-### Смотрите также
+### См. также
 
-* class [Document](../../../aspose.pdf/document)
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [Document](../../../aspose.pdf/document/)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string[], string) {#concatenate_7}
+## Concatenate(string[], string) {#concatenate_6}
 
 Объединяет файлы в один файл.
 
@@ -118,19 +118,19 @@ public bool Concatenate(string[] inputFiles, string outputFile)
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -146,13 +146,13 @@ public bool Concatenate(Stream[] inputStream, Stream outputStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream[] | Массив потоков для объединения. |
-| outputStream | Stream | Поток, в котором будет храниться файл результатов. |
+| outputStream | Stream | Поток, в который будет сохранен результирующий файл. |
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -162,17 +162,17 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string, string, string, string) {#concatenate_6}
+## Concatenate(string, string, string, string) {#concatenate_5}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
+Объединяет два документа Pdf в новый документ Pdf с чередующимися страницами и заполняет пустые места пустыми страницами. Например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf приведет к созданию результирующего документа со страницами: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -183,31 +183,31 @@ public bool Concatenate(string firstInputFile, string secInputFile, string blank
 | --- | --- | --- |
 | firstInputFile | String | Первый файл. |
 | secInputFile | String | Второй файл. |
-| blankPageFile | String | PDF-файл с пустой страницей. |
-| outputFile | String | Файл результата. |
+| blankPageFile | String | PDF файл с пустой страницей. |
+| outputFile | String | Результирующий файл. |
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
+Объединяет два документа Pdf в новый документ Pdf с чередующимися страницами и заполняет пустые места пустыми страницами. Например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf приведет к созданию результирующего документа со страницами: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -216,16 +216,16 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| firstInputStream | Stream | Первый Pdf-поток. |
-| secInputStream | Stream | Второй поток PDF. |
-| blankPageStream | Stream | Поток Pdf с пустой страницей. |
-| outputStream | Stream | Выходной поток PDF. |
+| firstInputStream | Stream | Первый Pdf поток. |
+| secInputStream | Stream | Второй Pdf поток. |
+| blankPageStream | Stream | Pdf поток с пустой страницей. |
+| outputStream | Stream | Выходной Pdf поток. |
 
 ### Возвращаемое значение
 
-Истинно, если операция прошла успешно.
+True, если операция прошла успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -236,17 +236,16 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
----
 
 ## Concatenate(string[], HttpResponse) {#concatenate_8}
 
-Объединяет файлы и сохраняет результат в объекте HttpResposnse.
+Объединяет файлы и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool Concatenate(string[] inputFiles, HttpResponse response)
@@ -259,12 +258,12 @@ public bool Concatenate(string[] inputFiles, HttpResponse response)
 
 ### Возвращаемое значение
 
-true, если конкатенация прошла успешно.
+true, если объединение прошло успешно.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -279,17 +278,15 @@ public bool Concatenate(Stream[] inputStream, HttpResponse response)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream[] | Массив потоков, содержащий файлы для объединения. |
-| response | HttpResponse | Объект ответа/ |
+| inputStream | Stream[] | Массив потоков, содержащих файлы для объединения. |
+| response | HttpResponse | Объект ответа. |
 
 ### Возвращаемое значение
 
 true, если операция прошла успешно.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

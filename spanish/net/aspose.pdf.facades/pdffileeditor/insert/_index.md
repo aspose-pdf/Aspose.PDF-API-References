@@ -1,45 +1,45 @@
 ---
-title: Insert
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inserta páginas de otro archivo en el archivo PDF en una posición.
+title: PdfFileEditor.Insert
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Inserta páginas de otro archivo en el archivo Pdf en una posición
 type: docs
-weight: 320
+weight: 290
 url: /es/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
-## Insert(string, int, string, int, int, string) {#insert_3}
+## Insert(string, int, string, int, int, string) {#insert_2}
 
-Inserta páginas de otro archivo en el archivo PDF en una posición.
+Inserta páginas de otro archivo en el archivo Pdf en una posición.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
     int endPage, string outputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Archivo PDF de entrada. |
+| inputFile | String | Archivo Pdf de entrada. |
 | insertLocation | Int32 | Posición en el archivo de entrada. |
-| portFile | String | El archivo Pdf de la portabilidad. |
+| portFile | String | El archivo Pdf de portación. |
 | startPage | Int32 | Posición de inicio en portFile. |
 | endPage | Int32 | Posición final en portFile. |
-| outputFile | String | Archivo PDF de salida. |
+| outputFile | String | Archivo Pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero para éxito, o falso.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,20 +52,20 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
     int endPage, Stream outputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de entrada del archivo PDF. |
-| insertLocation | Int32 | Insertar posición en el archivo de entrada. |
-| portStream | Stream | Secuencia de archivo Pdf para páginas. |
-| startPage | Int32 | Desde qué página empezar. |
-| endPage | Int32 | A qué página terminar. |
-| outputStream | Stream | Salida de corriente. |
+| inputStream | Stream | Flujo de entrada del archivo Pdf. |
+| insertLocation | Int32 | Posición de inserción en el archivo de entrada. |
+| portStream | Stream | Flujo del archivo Pdf para páginas. |
+| startPage | Int32 | Desde qué página comenzar. |
+| endPage | Int32 | Hasta qué página terminar. |
+| outputStream | Stream | Flujo de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero para éxito, o falso.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -75,15 +75,15 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(string, int, string, int[], string) {#insert_4}
+## Insert(string, int, string, int[], string) {#insert_3}
 
 Inserta páginas de otro archivo en el archivo Pdf de entrada.
 
@@ -92,30 +92,30 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
     string outputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Archivo PDF de entrada. |
-| insertLocation | Int32 | Insertar posición en el archivo de entrada. |
+| inputFile | String | Archivo Pdf de entrada. |
+| insertLocation | Int32 | Posición de inserción en el archivo de entrada. |
 | portFile | String | Páginas del archivo Pdf. |
-| pageNumber | Int32[] | El número de página del archivo portado en portFile. |
-| outputFile | String | Archivo PDF de salida. |
+| pageNumber | Int32[] | El número de página de la portación en portFile. |
+| outputFile | String | Archivo Pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero para éxito, o falso.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -128,19 +128,19 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
     Stream outputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de entrada del archivo PDF. |
-| insertLocation | Int32 | Insertar posición en el archivo de entrada. |
-| portStream | Stream | Secuencia de archivo Pdf para páginas. |
-| pageNumber | Int32[] | El número de página del archivo portado en portFile. |
-| outputStream | Stream | Salida de corriente. |
+| inputStream | Stream | Flujo de entrada del archivo Pdf. |
+| insertLocation | Int32 | Posición de inserción en el archivo de entrada. |
+| portStream | Stream | Flujo del archivo Pdf para páginas. |
+| pageNumber | Int32[] | El número de página de la portación en portFile. |
+| outputStream | Stream | Flujo de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero si la operación se realizó correctamente.
+Verdadero si la operación fue exitosa.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -150,68 +150,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
----
-
-## Insert(string, int, string, int[], HttpResponse) {#insert_5}
-
-Inserta el contenido del archivo en el archivo de origen y almacena el resultado en el objeto HttpResponse.
-
-```csharp
-public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parámetro | Escribe | Descripción |
-| --- | --- | --- |
-| inputFile | String | Nombre del archivo de origen. |
-| insertLocation | Int32 | Número de página donde se insertará el segundo archivo. |
-| portFile | String | Ruta al archivo que se insertará. |
-| pageNumber | Int32[] | Matriz de números de página en el archivo de origen que se insertará. |
-| response | HttpResponse | Objeto de respuesta donde se almacenará el resultado. |
-
-### Valor_devuelto
-
-verdadero de la inserción fue exitosa.
-
-### Ver también
-
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
----
-
-## Insert(Stream, int, Stream, int[], HttpResponse) {#insert_2}
-
-Inserta un documento en otro documento y almacena el resultado en el objeto de respuesta.
-
-```csharp
-public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parámetro | Escribe | Descripción |
-| --- | --- | --- |
-| inputStream | Stream | Transmisión con documento de origen |
-| insertLocation | Int32 | Ubicación donde se insertará otro documento. |
-| portStream | Stream | Documento a insertar. |
-| pageNumber | Int32[] | Matriz de números de página en el segundo documento que se insertará. |
-| response | HttpResponse | Objeto de respuesta donde se almacenará el resultado. |
-
-### Valor_devuelto
-
-Verdadero si la operación se realizó correctamente.
-
-### Ver también
-
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Font
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل كائن الخط .
+title: Class Font
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.Font. تمثل كائن الخط
 type: docs
-weight: 6690
+weight: 10510
 url: /ar/net/aspose.pdf.text/font/
 ---
-## Font class
+## فئة الخط
 
-يمثل كائن الخط .
+تمثل كائن الخط.
 
 ```csharp
 public sealed class Font
@@ -16,56 +16,54 @@ public sealed class Font
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BaseFont](../../aspose.pdf.text/font/basefont) { get; } | يحصل على قيمة BaseFont لكائن خط PDF. يُعرف أيضًا باسم PostScript للخط. |
-| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname) { get; } | في بعض الأحيان ، قد يكون لخطوط PDF (عادةً الخطوط الصينية / اليابانية / الكورية) اسم خط محدد . هذا الاسم هو قيمة خاصية خط PDF "BaseFont" وأحيانًا يمكن تمثيل هذه property في شكل سداسي. إذا قرأت هذا الاسم مباشرة ، فيمكن تمثيله في شكل غير مقروء. للحصول على نموذج قابل للقراءة ، من الضروري فك شفرة اسم الخط عن طريق القواعد المحددة لهذا الخط. تقوم هذه الخاصية بإرجاع اسم الخط الذي تم فك ترميزه ، لذا استخدمه للحالات التي تقابل فيها بعلامة غير قابلة للقراءة[`FontName`](./fontname) . إذا كانت الخاصية[`FontName`](./fontname) له شكل قابل للقراءة ، ستكون هذه الخاصية مماثلة لـ [`FontName`](./fontname) ، لذلك يمكنك استخدام هذه الخاصية لأية حالات عندما تحتاج إلى الحصول على اسم الخط في شكل يمكن قراءته . |
-| [FontName](../../aspose.pdf.text/font/fontname) { get; } | يحصل على اسم خط ملف[`Font`](../font) الكائن . |
-| [FontOptions](../../aspose.pdf.text/font/fontoptions) { get; } | خصائص مفيدة لضبط سلوك الخط |
-| [IsAccessible](../../aspose.pdf.text/font/isaccessible) { get; } | الحصول على إشارة إلى ما إذا كان الخط موجودًا (مثبتًا) في النظام. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الخط مضمنًا. |
-| [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. |
+| [BaseFont](../../aspose.pdf.text/font/basefont/) { get; } | يحصل على قيمة BaseFont لكائن الخط PDF. يُعرف أيضًا باسم اسم PostScript للخط. |
+| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname/) { get; } | أحيانًا قد تحتوي خطوط PDF (عادةً الخطوط الصينية/اليابانية/الكورية) على اسم خط محدد. هذا الاسم هو قيمة خاصية الخط PDF "BaseFont" وأحيانًا يمكن تمثيل هذه الخاصية بشكل سداسي. إذا تم قراءة هذا الاسم مباشرة، فقد يتم تمثيله بشكل غير قابل للقراءة. للحصول على شكل قابل للقراءة، من الضروري فك تشفير اسم الخط وفقًا للقواعد المحددة لهذا الخط. تعيد هذه الخاصية اسم الخط المفكوك، لذا استخدمها في الحالات التي تواجه فيها اسم [`FontName`](./fontname/) غير قابل للقراءة. إذا كانت الخاصية [`FontName`](./fontname/) لها شكل قابل للقراءة، فستكون هذه الخاصية هي نفسها [`FontName`](./fontname/)، لذا يمكنك استخدام هذه الخاصية في أي حالات تحتاج فيها إلى الحصول على اسم الخط بشكل قابل للقراءة. |
+| [FontName](../../aspose.pdf.text/font/fontname/) { get; } | يحصل على اسم الخط لكائن `Font`. |
+| [FontOptions](../../aspose.pdf.text/font/fontoptions/) { get; } | خصائص مفيدة لضبط سلوك الخط |
+| [IsAccessible](../../aspose.pdf.text/font/isaccessible/) { get; } | يحصل على مؤشر يوضح ما إذا كان الخط موجودًا (مثبتًا) في النظام. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded/) { get; set; } | يحصل أو يحدد قيمة تشير إلى ما إذا كان الخط مضمنًا. سيتم تلقائيًا تقسيم الخط القائم على IFont وإدراجه |
+| [IsSubset](../../aspose.pdf.text/font/issubset/) { get; set; } | يحصل أو يحدد قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. سيتم تلقائيًا تقسيم الخط القائم على IFont وإدراجه |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror)() | أحد أهداف هذه الطريقة - لإرجاع وصف الخطأ إذا فشلت محاولة لتضمين الخط. في حالة عدم وجود حالات خطأ ، يتم إرجاع سلسلة فارغة. |
-| [MeasureString](../../aspose.pdf.text/font/measurestring)(string, float) | يقيس السلسلة . |
-| [Save](../../aspose.pdf.text/font/save)(Stream) | يحفظ الخط في الدفق. لاحظ أنه يتم حفظ الخط بتنسيق TTF المتوسط المقصود استخدامه في نسخة محولة من المستند الأصلي فقط. ملف الخط غير مخصص للاستخدام خارج سياق المستند الأصلي. |
+| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror/)() | الهدف من هذه الطريقة هو إرجاع وصف الخطأ إذا فشلت محاولة تضمين الخط. إذا لم تكن هناك حالات خطأ، فإنها تعيد سلسلة فارغة. |
+| [MeasureString](../../aspose.pdf.text/font/measurestring/)(string, float) | يقيس السلسلة. |
+| [Save](../../aspose.pdf.text/font/save/)(Stream) | يحفظ الخط في الدفق. لاحظ أن الخط يتم حفظه في تنسيق TTF الوسيط الذي يهدف إلى استخدامه في نسخة محولة من الوثيقة الأصلية فقط. ملف الخط غير مخصص للاستخدام خارج سياق الوثيقة الأصلية. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص في الصفحة الأولى وتغيير الخط عند ورود أول بحث .
+توضح المثال كيفية البحث عن نص في الصفحة الأولى وتغيير خط أول ظهور للبحث.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// إنشاء الخط ووضع علامة عليه ليتم تضمينه
+// Create font and mark it to be embedded
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [FontRepository](../fontrepository)
-* class [Document](../../aspose.pdf/document)
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [TextFragmentAbsorber](../textfragmentabsorber/)
+* فئة [FontRepository](../fontrepository/)
+* فئة [Document](../../aspose.pdf/document/)
+* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* التجميع [Aspose.PDF](../../)

@@ -1,59 +1,115 @@
 ---
-title: Image
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل الصورة .
+title: Class Image
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Image. تمثل الصورة
 type: docs
-weight: 3720
+weight: 5860
 url: /ar/net/aspose.pdf/image/
 ---
-## Image class
+## فئة الصورة
 
-يمثل الصورة .
+تمثل الصورة.
 
 ```csharp
 public sealed class Image : BaseParagraph
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Image](image)() | Default_Constructor |
+| [Image](image/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [File](../../aspose.pdf/image/file) { get; set; } | الحصول على ملف الصورة أو تعيينه . |
-| [FileType](../../aspose.pdf/image/filetype) { get; set; } | الحصول على نوع ملف الصورة أو تحديده. |
-| [FixHeight](../../aspose.pdf/image/fixheight) { get; set; } | الحصول على أو تحديد ارتفاع الصورة . |
-| [FixWidth](../../aspose.pdf/image/fixwidth) { get; set; } | الحصول على عرض الصورة أو تحديده . |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية للفقرة أو تعيينها |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
-| [ImageScale](../../aspose.pdf/image/imagescale) { get; set; } | الحصول على مقياس الصورة أو تحديده . |
-| [ImageStream](../../aspose.pdf/image/imagestream) { get; set; } | الحصول على دفق الصورة أو تعيينه. |
-| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت دقة الصورة تستخدم أثناء التوليد |
-| [IsBlackWhite](../../aspose.pdf/image/isblackwhite) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الصورة مجبرة على أن تكون أبيض وأسود. إذا تم استخدام TIFF صورة بتنسيق CCITT الفرعي ، فيجب تعيين هذه الخاصية على "صحيح". |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [Title](../../aspose.pdf/image/title) { get; set; } | الحصول على أو تعيين قيمة سلسلة تشير إلى عنوان الصورة. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| [BitmapInfo](../../aspose.pdf/image/bitmapinfo/) { get; set; } | يحصل أو يحدد بايت الصورة غير المضغوطة. |
+| [BitmapSize](../../aspose.pdf/image/bitmapsize/) { get; } | يحصل على حجم صورة البت ماب. |
+| [File](../../aspose.pdf/image/file/) { get; set; } | يحصل أو يحدد ملف الصورة. |
+| [FileType](../../aspose.pdf/image/filetype/) { get; set; } | يحصل أو يحدد نوع ملف الصورة. |
+| [FixHeight](../../aspose.pdf/image/fixheight/) { get; set; } | يحصل أو يحدد ارتفاع الصورة. |
+| [FixWidth](../../aspose.pdf/image/fixwidth/) { get; set; } | يحصل أو يحدد عرض الصورة. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الفقرة (لإنشاء PDF). |
+| [ImageScale](../../aspose.pdf/image/imagescale/) { get; set; } | يحصل أو يحدد مقياس الصورة. |
+| [ImageStream](../../aspose.pdf/image/imagestream/) { get; set; } | يحصل أو يحدد تدفق الصورة. |
+| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الصورة تستخدم الدقة أثناء الإنشاء |
+| [IsBlackWhite](../../aspose.pdf/image/isblackwhite/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الصورة مجبرة على أن تكون بالأبيض والأسود. إذا تم استخدام صورة TIFF من نوع CCITT الفرعي، يجب تعيين هذه الخاصية إلى true. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [Title](../../aspose.pdf/image/title/) { get; set; } | يحصل أو يحدد قيمة سلسلة تشير إلى عنوان الصورة. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم ذو ZIndex أكبر فوق الرسم ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم ذو ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf/image/clone)() | استنساخ الصورة . |
-| static [GetMimeType](../../aspose.pdf/image/getmimetype)(Image) | إرجاع نوع mime للصورة. |
+| override [Clone](../../aspose.pdf/image/clone/)() | استنساخ الصورة. |
+| static [GetMimeType](../../aspose.pdf/image/getmimetype/)(Image) | يعيد نوع MIME للصورة. |
 
-### أنظر أيضا
+## أمثلة
 
-* class [BaseParagraph](../baseparagraph)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
+تظهر المثال التالي كيفية تحويل الصور (PNG، JPEG، GIF، BMP، أو تنسيقات الصور الأخرى) إلى ملف PDF.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your image (bmp, png, gif, jpeg, etc.) File.
+	string imageFile = Path.Combine(dataDir, "Image-to-PDF.png");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf");
+
+	//Initialize empty PDF document
+	using(Document pdfDocument = new Document()) 
+	{
+	  pdfDocument.Pages.Add();
+	  Image image = new Image();
+
+	  // Load sample image file
+	  image.File = imageFile;
+	  pdfDocument.Pages[1].Paragraphs.Add(image);
+
+	  // Save output PDF document
+	  pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your image (bmp, png, gif, jpeg, etc.) File.
+    Dim imageFile = Path.Combine(dataDir, "Image-to-PDF.png")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf")
+ 
+    'Initialize empty PDF document
+    Using pdfDocument As Document = New Document()
+        pdfDocument.Pages.Add()
+        Dim image As Image = New Image()
+ 
+        ' Load sample image file
+        image.File = imageFile
+        pdfDocument.Pages(1).Paragraphs.Add(image)
+ 
+        ' Save output PDF document
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
+### انظر أيضًا
+
+* فئة [BaseParagraph](../baseparagraph/)
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

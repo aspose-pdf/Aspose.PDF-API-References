@@ -1,14 +1,14 @@
 ---
-title: OpenStream
-second_title: Aspose.PDF för .NET API Referens
-description: Initiera och returnera ny dokumentinstans fråninput stream.
+title: ComHelper.OpenStream
+second_title: Aspose.PDF for .NET API Reference
+description: ComHelper-metod. Initiera och returnera en ny Document-instans från inmatningsströmmen
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Initiera och returnera ny dokumentinstans från*input* stream.
+Initiera och returnera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,24 +16,24 @@ public Document OpenStream(Stream input)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
+| input | Stream | Ström med pdf-dokument. |
 
 ### Returvärde
 
-Dokumentobjekt
+Document-objekt
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* namnutrymme [Aspose.Pdf](../../comhelper)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../../document/)
+* klass [ComHelper](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Initiera och returnera ny dokumentinstans från*input* stream.
+Initiera och returnera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -41,25 +41,25 @@ public Document OpenStream(Stream input, string password)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Indataströmobjekt, motsvarande pdf är lösenordsskyddat. |
+| input | Stream | Inmatningsströmobjekt, motsvarande pdf är lösenordsskyddad. |
 | password | String | Användar- eller ägarlösenord. |
 
 ### Returvärde
 
-Dokumentobjekt
+Document-objekt
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* namnutrymme [Aspose.Pdf](../../comhelper)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../../document/)
+* klass [ComHelper](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Initiera och returnera ny dokumentinstans från*input* stream.
+Initiera och returnera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,25 +67,25 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
-| isManagedStream | Boolean | om inställt på`Sann` inre bäcken stängs före utgång; annars är det inte. |
+| input | Stream | Ström med pdf-dokument. |
+| isManagedStream | Boolean | om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
 
 ### Returvärde
 
-Dokumentobjekt
+Document-objekt
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* namnutrymme [Aspose.Pdf](../../comhelper)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../../document/)
+* klass [ComHelper](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Initiera och returnera ny dokumentinstans från*input* stream.
+Initiera och returnera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,26 +93,26 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
+| input | Stream | Ström med pdf-dokument. |
 | password | String | Användar- eller ägarlösenord. |
-| isManagedStream | Boolean | om inställt på`Sann` inre bäcken stängs före utgång; annars är det inte. |
+| isManagedStream | Boolean | om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
 
 ### Returvärde
 
-Dokumentobjekt
+Document-objekt
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* namnutrymme [Aspose.Pdf](../../comhelper)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../../document/)
+* klass [ComHelper](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-Öppna och returnera ett befintligt dokument från en ström som ger nödvändig konvertering för att få pdf-dokument.
+Öppna och returnera ett befintligt dokument från en ström som tillhandahåller nödvändig konvertering för att få pdf-dokument.
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
@@ -120,19 +120,17 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Indataström för att konvertera till pdf-dokument. |
-| options | LoadOptions | Representerar egenskaper för konvertering*input* till pdf-dokument. |
+| input | Stream | Inmatningsström att konvertera till pdf-dokument. |
+| options | LoadOptions | Representerar egenskaper för att konvertera *inmatning* till pdf-dokument. |
 
 ### Returvärde
 
-Dokumentobjekt
+Document-objekt
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* class [LoadOptions](../../loadoptions)
-* class [ComHelper](../../comhelper)
-* namnutrymme [Aspose.Pdf](../../comhelper)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Document](../../document/)
+* klass [LoadOptions](../../loadoptions/)
+* klass [ComHelper](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)

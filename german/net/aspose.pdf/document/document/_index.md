@@ -1,14 +1,14 @@
 ---
-title: Document
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Neue Dokumentinstanz aus der initialisiereninput stream.
+title: Document.Document
+second_title: Aspose.PDF for .NET API Reference
+description: Dokumentenkonstruktor. Initialisieren Sie eine neue Dokumentinstanz aus dem Eingabestrom
 type: docs
 weight: 10
 url: /de/net/aspose.pdf/document/document/
 ---
-## Document(Stream) {#constructor_1}
+## Dokument(Stream) {#constructor_2}
 
-Neue Dokumentinstanz aus der initialisieren*input* stream.
+Initialisieren Sie eine neue Dokumentinstanz aus dem *Eingabe*strom.
 
 ```csharp
 public Document(Stream input)
@@ -16,41 +16,19 @@ public Document(Stream input)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| input | Stream | Stream mit pdf-Dokument. |
+| input | Stream | Stream mit PDF-Dokument. |
 
 ### Siehe auch
 
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_5}
+## Dokument(Stream, bool) {#constructor_4}
 
-Neue Dokumentinstanz aus der initialisieren*input* stream.
-
-```csharp
-public Document(Stream input, string password, bool isManagedStream)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| input | Stream | Stream mit pdf-Dokument. |
-| password | String | Benutzer- oder Eigentümerkennwort. |
-| isManagedStream | Boolean | wenn eingestellt`Stimmt` innerer Strom wird vor dem Ausgang geschlossen; ansonsten nicht. |
-
-### Siehe auch
-
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## Document(Stream, bool) {#constructor_3}
-
-Neue Dokumentinstanz aus der initialisieren*input* stream.
+Initialisieren Sie eine neue Dokumentinstanz aus dem *Eingabe*strom.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -58,20 +36,63 @@ public Document(Stream input, bool isManagedStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| input | Stream | Stream mit pdf-Dokument. |
-| isManagedStream | Boolean | wenn eingestellt`Stimmt` innerer Strom wird vor dem Ausgang geschlossen; ansonsten nicht. |
+| input | Stream | Stream mit PDF-Dokument. |
+| isManagedStream | Boolean | Wenn auf `true` gesetzt, wird der innere Stream vor dem Verlassen geschlossen; andernfalls nicht. |
 
 ### Siehe auch
 
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string) {#constructor_6}
+## Dokument(Stream, string) {#constructor_5}
 
-Einfach Dokument mit initieren*filename* . Das Gleiche wie[`Document`](../document) .
+Initialisieren Sie eine neue Dokumentinstanz aus dem *Eingabe*strom.
+
+```csharp
+public Document(Stream input, string password)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| input | Stream | Eingabestreamobjekt, das entsprechende PDF ist passwortgeschützt. |
+| password | String | Benutzer- oder Eigentümerpasswort. |
+
+### Siehe auch
+
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Dokument(Stream, string, bool) {#constructor_6}
+
+Initialisieren Sie eine neue Dokumentinstanz aus dem *Eingabe*strom.
+
+```csharp
+public Document(Stream input, string password, bool isManagedStream)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| input | Stream | Stream mit PDF-Dokument. |
+| password | String | Benutzer- oder Eigentümerpasswort. |
+| isManagedStream | Boolean | Wenn auf `true` gesetzt, wird der innere Stream vor dem Verlassen geschlossen; andernfalls nicht. |
+
+### Siehe auch
+
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Dokument(string) {#constructor_7}
+
+Initialisieren Sie einfach das Dokument mit *Dateiname*. Dasselbe wie `Document`.
 
 ```csharp
 public Document(string filename)
@@ -83,36 +104,79 @@ public Document(string filename)
 
 ### Siehe auch
 
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string) {#constructor_4}
+## Dokument(string, bool) {#constructor_9}
 
-Neue Dokumentinstanz aus der initialisieren*input* stream.
+Initialisieren Sie einfach das Dokument mit *Dateiname*. Dasselbe wie `Document`.
 
 ```csharp
-public Document(Stream input, string password)
+public Document(string filename, bool isManagedStream)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| input | Stream | Input-Stream-Objekt, entsprechendes PDF ist passwortgeschützt. |
-| password | String | Benutzer- oder Eigentümerkennwort. |
+| filename | String | Der Name der PDF-Dokumentdatei. |
+| isManagedStream | Boolean | Wenn auf `true` gesetzt, wird der innere Stream vor dem Verlassen geschlossen; andernfalls nicht. |
 
 ### Siehe auch
 
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document() {#constructor}
+## Dokument(string, string) {#constructor_10}
 
-Initialisiert leeres Dokument.
+Initialisiert eine neue Instanz der [`Document`](../) Klasse zum Arbeiten mit verschlüsseltem Dokument.
+
+```csharp
+public Document(string filename, string password)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| filename | String | Dokumentdateiname. |
+| password | String | Benutzer- oder Eigentümerpasswort. |
+
+### Siehe auch
+
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Dokument(string, string, bool) {#constructor_11}
+
+Initialisiert eine neue Instanz der [`Document`](../) Klasse zum Arbeiten mit verschlüsseltem Dokument.
+
+```csharp
+public Document(string filename, string password, bool isManagedStream)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| filename | String | Dokumentdateiname. |
+| password | String | Benutzer- oder Eigentümerpasswort. |
+| isManagedStream | Boolean | Wenn auf `true` gesetzt, wird der innere Stream vor dem Verlassen geschlossen; andernfalls nicht. |
+
+### Siehe auch
+
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Dokument() {#constructor}
+
+Initialisiert ein leeres Dokument.
 
 ```csharp
 public Document()
@@ -120,13 +184,34 @@ public Document()
 
 ### Siehe auch
 
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_7}
+## Dokument(PdfVersion) {#constructor_1}
+
+Initialisiert ein leeres Dokument nach Version.
+
+```csharp
+public Document(PdfVersion version)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| version | PdfVersion | Die PDF-Version. |
+
+### Siehe auch
+
+* Enum [PdfVersion](../../pdfversion/)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Dokument(string, LoadOptions) {#constructor_8}
 
 Öffnet ein vorhandenes Dokument aus einer Datei und bietet die erforderlichen Konvertierungsoptionen, um ein PDF-Dokument zu erhalten.
 
@@ -136,21 +221,21 @@ public Document(string filename, LoadOptions options)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filename | String | Eingabedatei zum Konvertieren in ein PDF-Dokument. |
-| options | LoadOptions | Repräsentiert Eigenschaften zum Konvertieren*filename* in pdf-Dokument. |
+| filename | String | Eingabedatei, die in ein PDF-Dokument konvertiert werden soll. |
+| options | LoadOptions | Stellt Eigenschaften für die Konvertierung von *filename* in ein PDF-Dokument dar. |
 
 ### Siehe auch
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
+* Klasse [LoadOptions](../../loadoptions/)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, LoadOptions) {#constructor_2}
+## Dokument(Stream, LoadOptions) {#constructor_3}
 
-Öffnet ein vorhandenes Dokument aus einem Stream und stellt die erforderliche Konvertierung bereit, um ein PDF-Dokument zu erhalten.
+Öffnet ein vorhandenes Dokument aus einem Stream und bietet die erforderliche Konvertierung, um ein PDF-Dokument zu erhalten.
 
 ```csharp
 public Document(Stream input, LoadOptions options)
@@ -158,57 +243,12 @@ public Document(Stream input, LoadOptions options)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| input | Stream | Eingabestrom zum Konvertieren in ein PDF-Dokument. |
-| options | LoadOptions | Repräsentiert Eigenschaften zum Konvertieren*input* in pdf-Dokument. |
+| input | Stream | Eingabestream, der in ein PDF-Dokument konvertiert werden soll. |
+| options | LoadOptions | Stellt Eigenschaften für die Konvertierung von *input* in ein PDF-Dokument dar. |
 
 ### Siehe auch
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## Document(string, string) {#constructor_8}
-
-Initialisiert eine neue Instanz von[`Document`](../../document) Klasse zum Arbeiten mit verschlüsselten Dokumenten.
-
-```csharp
-public Document(string filename, string password)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| filename | String | Dateiname des Dokuments. |
-| password | String | Benutzer- oder Eigentümerkennwort. |
-
-### Siehe auch
-
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## Document(string, string, bool) {#constructor_9}
-
-Initialisiert eine neue Instanz von[`Document`](../../document) Klasse zum Arbeiten mit verschlüsselten Dokumenten.
-
-```csharp
-public Document(string filename, string password, bool isManagedStream)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| filename | String | Dateiname des Dokuments. |
-| password | String | Benutzer- oder Eigentümerkennwort. |
-| isManagedStream | Boolean | wenn eingestellt`Stimmt` innerer Strom wird vor dem Ausgang geschlossen; ansonsten nicht. |
-
-### Siehe auch
-
-* class [Document](../../document)
-* namensraum [Aspose.Pdf](../../document)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [LoadOptions](../../loadoptions/)
+* Klasse [Document](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)

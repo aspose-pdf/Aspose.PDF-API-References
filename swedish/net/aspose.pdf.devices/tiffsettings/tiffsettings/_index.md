@@ -1,30 +1,30 @@
 ---
-title: TiffSettings
-second_title: Aspose.PDF för .NET API Referens
-description: Initierar en ny instans avTiffSettingsaspose.pdf.devices/tiffsettings class.
+title: TiffSettings.TiffSettings
+second_title: Aspose.PDF for .NET API Reference
+description: TiffSettings-konstruktorn. Initierar en ny instans av TiffSettings-klassen
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings()
 ```
 
-### Se även
+### Se Även
 
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
@@ -32,20 +32,20 @@ public TiffSettings(ShapeType shapeType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| shapeType | ShapeType | Typ av form. |
+| shapeType | ShapeType | Typ av formen. |
 
-### Se även
+### Se Även
 
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [ShapeType](../../shapetype/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
@@ -55,18 +55,18 @@ public TiffSettings(CompressionType compressionType)
 | --- | --- | --- |
 | compressionType | CompressionType | Typ av kompression. |
 
-### Se även
+### Se Även
 
-* enum [CompressionType](../../compressiontype)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
@@ -76,18 +76,18 @@ public TiffSettings(ColorDepth colorDepth)
 | --- | --- | --- |
 | colorDepth | ColorDepth | Färgdjupet. |
 
-### Se även
+### Se Även
 
-* enum [ColorDepth](../../colordepth)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [ColorDepth](../../colordepth/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(Margins) {#constructor_6}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(Margins margins)
@@ -97,18 +97,18 @@ public TiffSettings(Margins margins)
 | --- | --- | --- |
 | margins | Margins | Marginalerna. |
 
-### Se även
+### Se Även
 
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Margins](../../margins/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
@@ -120,20 +120,20 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | colorDepth | ColorDepth | Färgdjupet. |
 | margins | Margins | Marginalerna. |
 
-### Se även
+### Se Även
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* klass [Margins](../../margins/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -145,22 +145,22 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | Typ av kompression. |
 | colorDepth | ColorDepth | Färgdjupet. |
 | margins | Margins | Marginalerna. |
-| skipBlankPages | Boolean | om inställt på`Sann` måste hoppa över tomma sidor. |
+| skipBlankPages | Boolean | om inställt på `true` behöver hoppa över tomma sidor. |
 
-### Se även
+### Se Även
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* klass [Margins](../../margins/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -172,24 +172,24 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | Typ av kompression. |
 | colorDepth | ColorDepth | Färgdjupet. |
 | margins | Margins | Marginalerna. |
-| skipBlankPages | Boolean | om inställt på`Sann` måste hoppa över tomma sidor. |
-| shapeType | ShapeType | Typ av form. |
+| skipBlankPages | Boolean | om inställt på `true` behöver hoppa över tomma sidor. |
+| shapeType | ShapeType | Typ av formen. |
 
-### Se även
+### Se Även
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* klass [Margins](../../margins/)
+* enum [ShapeType](../../shapetype/)
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(bool) {#constructor_8}
 
-Initierar en ny instans av[`TiffSettings`](../../tiffsettings) class.
+Initierar en ny instans av [`TiffSettings`](../) klassen.
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
@@ -197,12 +197,10 @@ public TiffSettings(bool skipBlankPages)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| skipBlankPages | Boolean | om inställt på`Sann` [hoppa över tomma sidor]. |
+| skipBlankPages | Boolean | om inställt på `true` [hoppa över tomma sidor]. |
 
-### Se även
+### Se Även
 
-* class [TiffSettings](../../tiffsettings)
-* namnutrymme [Aspose.Pdf.Devices](../../tiffsettings)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TiffSettings](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)

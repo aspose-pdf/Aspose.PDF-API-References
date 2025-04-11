@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters
-second_title: Aspose.PDF для справочника API .NET
-description: Класс для задания параметров изменения размера страницы. Позволяет задавать следующие параметры Размер результирующей страницы ширина высота в пространственных единицах по умолчанию или в процентах от размера начальных страниц Левое верхнее нижнее и правое поля в пространственных единицах по умолчанию или в процентах от исходного размера страницы Некоторые значения могут быть оставлены нулевыми для автоматического расчета. Эти значения будут рассчитаны из остального размера страницы после вычисления явно указанных значений. Например если ширина страницы  100 и новая ширина страницы указана в 60 единицах то автоматически вычисляются левое и правое поля 100 - 60 / 2  15. Этот класс используется в методе ResizeContents.
+title: Class PdfFileEditor.ContentsResizeParameters
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Класс для задания параметров изменения размера страницы. Позволяет установить следующие параметры: Размер результирующей страницы (ширина, высота) в стандартных единицах пространства или в процентах от начального размера страниц; Левые, Верхние, Нижние и Правые поля в стандартных единицах пространства или в процентах от начального размера страницы; Некоторые значения могут быть оставлены пустыми для автоматического расчета. Эти значения будут рассчитаны из остатка размера страницы после явного указания значений. Например, если ширина страницы = 100 и новая ширина страницы указана как 60 единиц, то левые и правые поля автоматически рассчитываются: (100 - 60) / 2 = 15. Этот класс используется в методе ResizeContents.
 type: docs
-weight: 2490
+weight: 4480
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
-## PdfFileEditor.ContentsResizeParameters class
+## Класс PdfFileEditor.ContentsResizeParameters
 
-Класс для задания параметров изменения размера страницы. Позволяет задавать следующие параметры: Размер результирующей страницы (ширина, высота) в пространственных единицах по умолчанию или в процентах от размера начальных страниц; Левое, верхнее, нижнее и правое поля в пространственных единицах по умолчанию или в процентах от исходного размера страницы; Некоторые значения могут быть оставлены нулевыми для автоматического расчета. Эти значения будут рассчитаны из остального размера страницы после вычисления явно указанных значений. Например: если ширина страницы = 100 и новая ширина страницы указана в 60 единицах, то автоматически вычисляются левое и правое поля: (100 - 60) / 2 = 15. Этот класс используется в методе ResizeContents.
+Класс для задания параметров изменения размера страницы. Позволяет установить следующие параметры: Размер результирующей страницы (ширина, высота) в стандартных единицах пространства или в процентах от начального размера страниц; Левые, Верхние, Нижние и Правые поля в стандартных единицах пространства или в процентах от начального размера страницы; Некоторые значения могут быть оставлены пустыми для автоматического расчета. Эти значения будут рассчитаны из остатка размера страницы после явного указания значений. Например: если ширина страницы = 100 и новая ширина страницы указана как 60 единиц, то левые и правые поля автоматически рассчитываются: (100 - 60) / 2 = 15. Этот класс используется в методе ResizeContents.
 
 ```csharp
 public class ContentsResizeParameters
@@ -18,35 +18,33 @@ public class ContentsResizeParameters
 
 | Имя | Описание |
 | --- | --- |
-| [ContentsResizeParameters](contentsresizeparameters#constructor)() | Создает параметры изменения размера, где для всех значений установлено значение «авто». При необходимости можно указать более поздние поля и размер содержимого. |
-| [ContentsResizeParameters](contentsresizeparameters#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Создает параметры изменения размера с указанными значениями полей и размером содержимого. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Создает параметры изменения размера, где все значения установлены в "авто". Позже поля и размер содержимого могут быть указаны при необходимости. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Создает параметры изменения размера с указанными значениями полей и размером содержимого. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BottomMargin](../../aspose.pdf.facades/contentsresizeparameters/bottommargin) { get; set; } | Получает или задает нижнее поле результирующей страницы. |
-| [ContentsHeight](../../aspose.pdf.facades/contentsresizeparameters/contentsheight) { get; set; } | Получает или задает высоту содержимого исходной страницы на результирующей странице. |
-| [ContentsWidth](../../aspose.pdf.facades/contentsresizeparameters/contentswidth) { get; set; } | Получает или задает ширину содержимого исходной страницы на результирующей странице. |
-| [LeftMargin](../../aspose.pdf.facades/contentsresizeparameters/leftmargin) { get; set; } | Получает или задает левое поле результирующей страницы. |
-| [RightMargin](../../aspose.pdf.facades/contentsresizeparameters/rightmargin) { get; set; } | Получает или задает правое поле результирующей страницы. |
-| [TopMargin](../../aspose.pdf.facades/contentsresizeparameters/topmargin) { get; set; } | Получает или задает верхнее поле результирующей страницы. |
+| [BottomMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin) { get; set; } | Получает или задает нижнее поле на результирующей странице. |
+| [ContentsHeight](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight) { get; set; } | Получает или задает высоту содержимого исходной страницы на результирующей странице. |
+| [ContentsWidth](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth) { get; set; } | Получает или задает ширину содержимого исходной страницы на результирующей странице. |
+| [LeftMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin) { get; set; } | Получает или задает левое поле на результирующей странице. |
+| [RightMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin) { get; set; } | Получает или задает правое поле на результирующей странице. |
+| [TopMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin) { get; set; } | Получает или задает верхнее поле на результирующей странице. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [ContentSize](../../aspose.pdf.facades/contentsresizeparameters/contentsize)(double, double) | Создает параметры изменения размера с указанным размером содержимого. |
-| static [ContentSizePercent](../../aspose.pdf.facades/contentsresizeparameters/contentsizepercent)(double, double) | Создает параметры изменения размера с указанным размером содержимого в процентах от исходного размера страницы. Поля вычисляются автоматически. |
-| static [Margins](../../aspose.pdf.facades/contentsresizeparameters/margins)(double, double, double, double) | Создает параметры изменения размера с указанным значением полей. Размер содержимого рассчитывается автоматически. |
-| static [MarginsPercent](../../aspose.pdf.facades/contentsresizeparameters/marginspercent)(double, double, double, double) | Создает параметры изменения размера. Поля указываются в процентах от исходного размера страницы. |
-| static [PageResize](../../aspose.pdf.facades/contentsresizeparameters/pageresize)(double, double) | Создает параметры изменения размера страницы. |
-| static [PageResizePct](../../aspose.pdf.facades/contentsresizeparameters/pageresizepct)(double, double) | Создает параметры изменения размера страницы. Новые размеры указаны в процентах. |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Создает параметры изменения размера с указанным размером содержимого. |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Создает параметры изменения размера с указанным размером содержимого в процентах от начального размера страницы. Параметры полей рассчитываются автоматически. |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Создает параметры изменения размера с указанными значениями полей. Размер содержимого рассчитывается автоматически. |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Создает параметры изменения размера. Параметры полей указаны в процентах от начального размера страницы. |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Создает параметры изменения размера для изменения размера страницы. |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Создает параметры изменения размера для изменения размера страницы. Новые размеры указаны в процентах. |
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades)
+* класс [PdfFileEditor](../pdffileeditor/)
+* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,20 +1,20 @@
 ---
-title: Extract
-second_title: Aspose.PDF for .NET API 参考
-description: 从输入文件中提取页面另存为新的 Pdf 文件
+title: PdfFileEditor.Extract
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor 方法。 从输入文件中提取页面并保存为新的 Pdf 文件
 type: docs
-weight: 310
+weight: 280
 url: /zh/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_3}
+## Extract(string, int, int, string) {#extract_2}
 
-从输入文件中提取页面，另存为新的 Pdf 文件。
+从输入文件中提取页面，保存为新的 Pdf 文件。
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入 Pdf 文件路径。 |
 | startPage | Int32 | 起始页码。 |
@@ -23,76 +23,76 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 ### 返回值
 
-真为成功，或为假。
+成功返回 true，失败返回 false。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(string, int[], string) {#extract_4}
+## Extract(string, int[], string) {#extract_3}
 
-提取数字数组指定的页面，另存为新的 PDF 文件。
+提取由数字数组指定的页面，保存为新的 PDF 文件。
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件路径。 |
-| pageNumber | Int32[] | 输入文件的页面索引。 |
+| pageNumber | Int32[] | 输入文件中的页面索引。 |
 | outputFile | String | 输出文件路径。 |
 
 ### 返回值
 
-如果操作成功则为真。
+操作成功返回 true。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-从输入文件中提取页面，另存为新的 Pdf 文件。
+从输入文件中提取页面，保存为新的 Pdf 文件。
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入文件流。 |
 | startPage | Int32 | 起始页码。 |
 | endPage | Int32 | 结束页码。 |
-| outputStream | Stream | 输出 PDF 文件流。 |
+| outputStream | Stream | 输出 Pdf 文件流。 |
 
 ### 返回值
 
-真为成功，或为假。
+成功返回 true，失败返回 false。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -101,33 +101,33 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-提取数字数组指定的页面，另存为新的 Pdf 文件。
+提取由数字数组指定的页面，保存为新的 Pdf 文件。
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入文件流。 |
-| pageNumber | Int32[] | 输入文件的页面索引。 |
+| pageNumber | Int32[] | 输入文件中的页面索引。 |
 | outputStream | Stream | 输出文件流。 |
 
 ### 返回值
 
-真为成功，或为假。
+成功返回 true，失败返回 false。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -136,62 +136,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
-
----
-
-## Extract(Stream, int[], HttpResponse) {#extract_2}
-
-从源文件中提取指定页面并将结果存储到 HttpResponse 对象中。
-
-```csharp
-public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| inputStream | Stream | 源文档流。 |
-| pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
-
-### 返回值
-
-如果操作成功则为真。
-
-### 也可以看看
-
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
-
----
-
-## Extract(string, int[], HttpResponse) {#extract_5}
-
-从源文件中提取指定页面并将结果存储到 HttpResponse 对象中。
-
-```csharp
-public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| inputFile | String | 源文件路径。 |
-| pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
-
-### 返回值
-
-如果页面被成功提取，则为 true。
-
-### 也可以看看
-
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

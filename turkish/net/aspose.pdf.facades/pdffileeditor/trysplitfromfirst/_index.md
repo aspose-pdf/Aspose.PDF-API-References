@@ -1,12 +1,12 @@
 ---
-title: TrySplitFromFirst
-second_title: Aspose.PDF for .NET API Referansı
-description: Pdf dosyasını ilk sayfadan belirtilen konuma böler ve ön kısmı yeni bir dosya olarak kaydeder.
+title: PdfFileEditor.TrySplitFromFirst
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Pdf dosyasını ilk sayfadan belirtilen konuma böler ve ön kısmı yeni bir dosya olarak kaydeder
 type: docs
-weight: 490
+weight: 460
 url: /tr/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
-## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
+## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
 
 Pdf dosyasını ilk sayfadan belirtilen konuma böler ve ön kısmı yeni bir dosya olarak kaydeder.
 
@@ -14,58 +14,58 @@ Pdf dosyasını ilk sayfadan belirtilen konuma böler ve ön kısmı yeni bir do
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak Pdf dosyası. |
-| location | Int32 | Bölünme noktası. |
-| outputFile | String | Çıktı pdf dosyası. |
+| location | Int32 | Bölme noktası. |
+| outputFile | String | Çıktı Pdf dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitFromFirst yöntemi, SplitFromFirst yöntemine benzer, ancak TrySplitFromFirst yönteminin işlem başarısız olursa bir istisna oluşturmaması dışında.
+TrySplitFromFirst metodu, SplitFromFirst metoduna benzer, ancak TrySplitFromFirst metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst}
 
-Başlangıçtan belirtilen konuma böler ve ön kısmı çıktı Akışına kaydeder.
+Başlangıçtan belirtilen konuma böler ve ön kısmı çıktı Stream'inde kaydeder.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Kaynak Pdf dosyası Akışı. |
-| location | Int32 | Bölünme noktası. |
-| outputStream | Stream | Çıkış dosyası Akış. |
+| inputStream | Stream | Kaynak Pdf dosyası Stream'i. |
+| location | Int32 | Bölme noktası. |
+| outputStream | Stream | Çıktı dosyası Stream'i. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-Bu işlemden sonra akışlar KAPALI DEĞİLDİR. TrySplitFromFirst yöntemi, işlem başarısız olursa TrySplitFromFirst yönteminin bir istisna oluşturmaması dışında, SplitFromFirst yöntemine benzer.
+Stream'ler bu işlemden sonra KAPATILMAZ. TrySplitFromFirst metodu, SplitFromFirst metoduna benzer, ancak TrySplitFromFirst metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,70 +74,67 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 
-Belgeyi ilk sayfadan konuma böler ve sonucu HttpResponse nesnelerine kaydeder.
+Belgeden ilk sayfadan belirtilen konuma böler ve sonucu HttpResponse nesnelerine kaydeder.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya adı. |
-| location | Int32 | Bölünme noktası. |
+| location | Int32 | Bölme noktası. |
 | response | HttpResponse | HttpResponse nesneleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitFromFirst yöntemi, SplitFromFirst yöntemine benzer, ancak TrySplitFromFirst yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+TrySplitFromFirst metodu, SplitFromFirst metoduna benzer, ancak TrySplitFromFirst metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitFromFirst(Stream, int, HttpResponse) {#trysplitfromfirst_1}
 
-Belgeyi başlangıçtan belirtilen konuma böler ve sonucu HttpResponse nesnesine depolar.
+Belgeden başlangıçtan belirtilen konuma böler ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Kaynak belge akışı. |
-| location | Int32 | Bölünme noktası. |
+| inputStream | Stream | Kaynak belgenin Stream'i. |
+| location | Int32 | Bölme noktası. |
 | response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitFromFirst yöntemi, SplitFromFirst yöntemine benzer, ancak TrySplitFromFirst yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+TrySplitFromFirst metodu, SplitFromFirst metoduna benzer, ancak TrySplitFromFirst metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

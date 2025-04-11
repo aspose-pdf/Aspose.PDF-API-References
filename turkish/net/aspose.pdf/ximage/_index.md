@@ -1,49 +1,50 @@
 ---
-title: XImage
-second_title: Aspose.PDF for .NET API Referansı
-description: X-Object görüntüsünü temsil eden sınıf.
+title: Class XImage
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XImage sınıfı. Resim XObject'i temsil eden sınıf
 type: docs
-weight: 7400
+weight: 11350
 url: /tr/net/aspose.pdf/ximage/
 ---
-## XImage class
+## XImage sınıfı
 
-X-Object görüntüsünü temsil eden sınıf.
+Resim X-Object'i temsil eden sınıf.
 
 ```csharp
 public sealed class XImage
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ContainsTransparency](../../aspose.pdf/ximage/containstransparency) { get; } | Görüntü, true döndürmekten daha şeffaflık içeriyorsa; aksi takdirde, false. |
-| [FilterType](../../aspose.pdf/ximage/filtertype) { get; } | Görüntü filtresi türünü alır. |
-| [Grayscaled](../../aspose.pdf/ximage/grayscaled) { get; } | Resmin gri tonlamalı sürümünü alır. |
-| [Height](../../aspose.pdf/ximage/height) { get; } | Resmin yüksekliğini alır. |
-| [Metadata](../../aspose.pdf/ximage/metadata) { get; } | Resmin meta verileri. |
-| [Name](../../aspose.pdf/ximage/name) { get; set; } | Görüntü adını alır veya ayarlar. Sayfa içeriğinde referansları olan görselin adını değiştirirseniz belgenin hatalı olabileceğini lütfen unutmayınız. Lütfen bu durumda XImage.Rename yöntemini kullanın. |
-| [Width](../../aspose.pdf/ximage/width) { get; } | Resmin genişliğini alır. |
+| [ContainsTransparency](../../aspose.pdf/ximage/containstransparency/) { get; } | Resim transparan içeriyorsa true; aksi takdirde false döner. |
+| [FilterType](../../aspose.pdf/ximage/filtertype/) { get; } | Resim filtre türünü alır. |
+| [Grayscaled](../../aspose.pdf/ximage/grayscaled/) { get; } | Resmin gri tonlamalı versiyonunu alır. |
+| [Height](../../aspose.pdf/ximage/height/) { get; } | Resmin yüksekliğini alır. |
+| [ImageMask](../../aspose.pdf/ximage/imagemask/) { get; } | Resmin bir resim maskesi olarak muamele edilip edilmeyeceğini belirten bir bayrak alır (bkz. 8.9.6, "Maskelenmiş Resimler"). Bu bayrak true ise, BitsPerComponent değeri 1 olmalı ve Mask ve ColorSpace belirtilmemelidir; maskelenmemiş alanlar mevcut nonstroking renk ile boyanmalıdır. Varsayılan değer: false. |
+| [Metadata](../../aspose.pdf/ximage/metadata/) { get; } | Resmin meta verileri. |
+| [Name](../../aspose.pdf/ximage/name/) { get; set; } | Resim adını alır veya ayarlar. Lütfen, sayfa içeriklerinde referansları olan bir resmin adını değiştirirseniz, belgenin yanlış hale gelebileceğini unutmayın. Bu durumda XImage.Rename yöntemini kullanın. |
+| [Width](../../aspose.pdf/ximage/width/) { get; } | Resmin genişliğini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [GetColorType](../../aspose.pdf/ximage/getcolortype)() | Resmin renk türünü döndürür. |
-| [GetNameInCollection](../../aspose.pdf/ximage/getnameincollection)() | ints koleksiyonundaki görüntünün adını döndürür. |
-| [IsTheSameObject](../../aspose.pdf/ximage/isthesameobject)(XImage) | Her iki görüntü de aynı nesneye başvuruyorsa true değerini döndürür. |
-| [Rename](../../aspose.pdf/ximage/rename)(string) | Resmi yeniden adlandırır ve resme yapılan tüm referansları yeni ad ile değiştirir |
-| [Save](../../aspose.pdf/ximage/save#save)(Stream) | Görüntü verilerini akışa JPEG görüntüsü olarak kaydeder. |
-| [Save](../../aspose.pdf/ximage/save#save_2)(Stream, ImageFormat) | Görüntüyü istenen formatta akışa kaydeder. |
-| [Save](../../aspose.pdf/ximage/save#save_1)(Stream, int) | Görüntü verilerini belirtilen çözünürlükte JPEG görüntüsü olarak akışa kaydeder. |
-| [Save](../../aspose.pdf/ximage/save#save_3)(Stream, ImageFormat, int) | Görüntüyü belirtilen çözünürlükte istenen formatta akışa kaydeder. |
-| [ToStream](../../aspose.pdf/ximage/tostream)() | Orijinal görüntü akışını döndürür. |
-| static [DetectColorType](../../aspose.pdf/ximage/detectcolortype)(Bitmap) | Resmin renk türünü döndürür. |
+| [AddStencilMask](../../aspose.pdf/ximage/addstencilmask/)(Stream) | XImage'e bir stencil maskesi ekler. |
+| [GetColorType](../../aspose.pdf/ximage/getcolortype/)() | Resmin renk türünü döner. |
+| [GetNameInCollection](../../aspose.pdf/ximage/getnameincollection/)() | Koleksiyonundaki resmin adını döner. |
+| [GetRawImageData](../../aspose.pdf/ximage/getrawimagedata/)() | Kaynak resimden ham resim verilerini alır. |
+| [IsTheSameObject](../../aspose.pdf/ximage/isthesameobject/)(XImage) | Her iki resim aynı nesneye referans veriyorsa true döner. |
+| [Rename](../../aspose.pdf/ximage/rename/)(string) | Resmi yeniden adlandırır ve resmi yeni ad ile tüm referansları değiştirir. |
+| [Save](../../aspose.pdf/ximage/save/#save)(Stream) | Resim verilerini akışa JPEG resmi olarak kaydeder. |
+| [Save](../../aspose.pdf/ximage/save/#save_2)(Stream, ImageFormat) | Resmi istenen formatta akışa kaydeder. |
+| [Save](../../aspose.pdf/ximage/save/#save_1)(Stream, int) | Belirtilen çözünürlükte JPEG resmi olarak akışa resim verilerini kaydeder. |
+| [Save](../../aspose.pdf/ximage/save/#save_3)(Stream, ImageFormat, int) | Belirtilen çözünürlükte istenen formatta akışa resmi kaydeder. |
+| [ToStream](../../aspose.pdf/ximage/tostream/)() | Orijinal resim akışını döner. |
+| static [DetectColorType](../../aspose.pdf/ximage/detectcolortype/)(Bitmap) |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

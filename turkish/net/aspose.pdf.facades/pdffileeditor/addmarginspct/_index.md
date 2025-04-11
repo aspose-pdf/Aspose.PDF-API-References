@@ -1,106 +1,104 @@
 ---
-title: AddMarginsPct
-second_title: Aspose.PDF for .NET API Referansı
-description: Sayfa içeriğini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları ilk sayfa boyutunun yüzdeleri olarak belirtilir.
+title: PdfFileEditor.AddMarginsPct
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Sayfa içeriklerini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları, başlangıç sayfa boyutunun yüzdesi olarak belirtilir.
 type: docs
-weight: 260
+weight: 230
 url: /tr/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
-## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
-
-Sayfa içeriğini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları, ilk sayfa boyutunun yüzdeleri olarak belirtilir.
-
-```csharp
-public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
-    double rightMargin, double topMargin, double bottomMargin)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| source | String | Kaynak belgeye giden yol. |
-| destination | String | Ortaya çıkan belgenin kaydedileceği yol. |
-| pages | Int32[] | Sayfa dizinleri dizisi. Null ise tüm belge sayfaları işlenir. |
-| leftMargin | Double | İlk sayfa boyutunun yüzdeleri olarak sol kenar boşluğu. |
-| rightMargin | Double | İlk sayfa boyutunun yüzdeleri olarak sağ kenar boşluğu. |
-| topMargin | Double | İlk sayfa boyutunun yüzdeleri olarak üst kenar boşluğu. |
-| bottomMargin | Double | İlk sayfa boyutunun yüzdeleri olarak alt kenar boşluğu. |
-
-### Geri dönüş değeri
-
-yeniden boyutlandırma başarılı olduysa true
-
-### Örnekler
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //sayfa 1, 2, 3'ü işle
-    new int[] { 1, 2, 3}, 
-    //sol kenar boşluğu sayfa genişliğinin %15'idir 
-    15, 
-    //sağ kenar boşluğu sayfa genişliğinin %10'udur
-    10, 
-    //üst kenar boşluğu, sayfa genişliğinin %20'sidir
-    20, 
-    //alt kenar boşluğu sayfa genişliğinin %5'idir
-    5);
-```
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Sayfa içeriğini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları, ilk sayfa boyutunun yüzdeleri olarak belirtilir.
+Sayfa içeriklerini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları, başlangıç sayfa boyutunun yüzdesi olarak belirtilir.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | Stream | Kaynak belgeyi içeren akış. |
-| destination | Stream | Ortaya çıkan belgenin kaydedileceği akış. |
-| pages | Int32[] | Sayfa dizinleri dizisi. Null ise tüm belge sayfaları işlenir. |
-| leftMargin | Double | İlk sayfa boyutunun yüzdeleri olarak sol kenar boşluğu. |
-| rightMargin | Double | İlk sayfa boyutunun yüzdeleri olarak sağ kenar boşluğu. |
-| topMargin | Double | İlk sayfa boyutunun yüzdeleri olarak üst kenar boşluğu. |
-| bottomMargin | Double | İlk sayfa boyutunun yüzdeleri olarak alt kenar boşluğu. |
+| destination | Stream | Sonuç belgesinin kaydedileceği akış. |
+| pages | Int32[] | Sayfa indekslerinin dizisi. Null ise tüm belge sayfaları işlenecektir. |
+| leftMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak sol kenar boşluğu. |
+| rightMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak sağ kenar boşluğu. |
+| topMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak üst kenar boşluğu. |
+| bottomMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak alt kenar boşluğu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-eylem başarıyla gerçekleştirildiyse true .
+İşlem başarılı bir şekilde gerçekleştirildiyse true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //sayfa 1, 2, 3'ü işle
+    //process pages 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //sol kenar boşluğu sayfa genişliğinin %15'idir 
+    //left margin is 15% of page width 
     15, 
-    //sağ kenar boşluğu sayfa genişliğinin %10'udur
+    //right margin is 10% of page width
     10, 
-    //üst kenar boşluğu, sayfa genişliğinin %20'sidir
+    //top margin is 20% of page width
     20, 
-    //alt kenar boşluğu sayfa genişliğinin %5'idir
+    //bottom margin is 5% of page width
     5);
     dest.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
+
+Sayfa içeriklerini yeniden boyutlandırır ve belirtilen kenar boşluklarını ekler. Kenar boşlukları, başlangıç sayfa boyutunun yüzdesi olarak belirtilir.
+
+```csharp
+public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
+    double rightMargin, double topMargin, double bottomMargin)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| source | String | Kaynak belgeye giden yol. |
+| destination | String | Sonuç belgesinin kaydedileceği yol. |
+| pages | Int32[] | Sayfa indekslerinin dizisi. Null ise tüm belge sayfaları işlenecektir. |
+| leftMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak sol kenar boşluğu. |
+| rightMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak sağ kenar boşluğu. |
+| topMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak üst kenar boşluğu. |
+| bottomMargin | Double | Başlangıç sayfa boyutunun yüzdesi olarak alt kenar boşluğu. |
+
+### Dönüş Değeri
+
+Yeniden boyutlandırma başarılıysa true
+
+## Örnekler
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
+    //process pages 1, 2, 3
+    new int[] { 1, 2, 3}, 
+    //left margin is 15% of page width 
+    15, 
+    //right margin is 10% of page width
+    10, 
+    //top margin is 20% of page width
+    20, 
+    //bottom margin is 5% of page width
+    5);
+```
+
+### Ayrıca Bakınız
+
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

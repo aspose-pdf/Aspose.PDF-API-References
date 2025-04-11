@@ -1,30 +1,30 @@
 ---
-title: CreatePdfDocumentLink
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Crea un enlace a otra página del documento PDF.
+title: PdfContentEditor.CreatePdfDocumentLink
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfContentEditor. Crea un enlace a otra página de documento PDF
 type: docs
 weight: 220
 url: /es/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color, Enum[]) {#createpdfdocumentlink_2}
 
-Crea un enlace a otra página del documento PDF.
+Crea un enlace a otra página de documento PDF.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage, Color clr, Enum[] actionName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El rectángulo para el clic activo. |
+| rect | Rectangle | El rectángulo para clic activo. |
 | remotePdf | String | El documento PDF cuya página se abrirá. |
-| originalPage | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| originalPage | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 | destinationPage | Int32 | La página de destino. |
-| clr | Color | El color del rectángulo para el clic activo. |
-| actionName | Enum[] | La matriz de acciones (miembros de la enumeración PredefinedAction) correspondiente a la ejecución de elementos de menú en el visor de Acrobat. |
+| clr | Color | El color del rectángulo para clic activo. |
+| actionName | Enum[] | El arreglo de acciones (miembros del enum PredefinedAction) correspondientes a la ejecución de elementos de menú en el visor de Acrobat. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -35,32 +35,32 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Véase también
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color) {#createpdfdocumentlink_1}
 
-Crea un enlace a otra página del documento PDF.
+Crea un enlace a otra página de documento PDF.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage, Color clr)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El rectángulo para el clic activo. |
+| rect | Rectangle | El rectángulo para clic activo. |
 | remotePdf | String | El documento PDF cuya página se abrirá. |
-| originalPage | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| originalPage | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 | destinationPage | Int32 | La página de destino. |
-| clr | Color | El color del rectángulo para el clic activo. |
+| clr | Color | El color del rectángulo para clic activo. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -70,31 +70,31 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Véase también
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int) {#createpdfdocumentlink}
 
-Crea un enlace a otra página del documento PDF.
+Crea un enlace a otra página de documento PDF.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El rectángulo para el clic activo. |
+| rect | Rectangle | El rectángulo para clic activo. |
 | remotePdf | String | El documento PDF cuya página se abrirá. |
-| originalPage | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| originalPage | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 | destinationPage | Int32 | La página de destino. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -103,10 +103,8 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "anot
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Véase también
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

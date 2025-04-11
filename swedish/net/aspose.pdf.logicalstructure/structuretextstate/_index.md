@@ -1,14 +1,14 @@
 ---
-title: StructureTextState
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar texttillståndsinställningar för textstrukturelement och TaggedContent ITextElement ITaggedContent
+title: Class StructureTextState
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.StructureTextState klass. Representerar textstatusinställningar för Textstruktur Element och TaggedContent ITextElement ITaggedContent
 type: docs
-weight: 4540
+weight: 6710
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## StructureTextState class
+## StrukturTextState klass
 
-Representerar texttillståndsinställningar för textstrukturelement och TaggedContent (ITextElement, ITaggedContent)
+Representerar textstatusinställningar för Textstruktur Element och TaggedContent (ITextElement, ITaggedContent)
 
 ```csharp
 public class StructureTextState
@@ -16,26 +16,23 @@ public class StructureTextState
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor) { get; set; } | Hämtar eller ställer in bakgrundsfärg för texten. |
-| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing) { get; set; } | Hämtar eller ställer in teckenavstånd i texten. |
-| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font) { get; set; } | Hämtar eller ställer in teckensnitt för text. |
-| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize) { get; set; } | Hämtar eller ställer in teckenstorlek för texten. |
-| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle) { get; set; } | Hämtar eller ställer in teckensnitt för texten. |
-| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor) { get; set; } | Hämtar eller ställer in förgrundsfärgen på texten. |
-| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling) { get; set; } | Hämtar eller ställer in horisontell skalning av texten. |
-| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing) { get; set; } | Hämtar eller ställer in radavstånd för texten. |
-| [MarginInfo](../../aspose.pdf.logicalstructure/structuretextstate/margininfo) { get; set; } | Hämtar eller ställer in marginal för blockstrukturelement. |
-| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout) { get; set; } | Får eller stryker texten. |
-| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript) { get; set; } | Hämtar eller ställer in subscript av texten. |
-| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript) { get; set; } | Hämtar eller ställer in upphöjd text av texten. |
-| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline) { get; set; } | Får eller sätter understrykning för texten. |
-| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing) { get; set; } | Hämtar eller ställer in ordavstånd för texten. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/) { get; set; } | Hämtar eller ställer in bakgrundsfärgen för texten. |
+| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing/) { get; set; } | Hämtar eller ställer in teckenavståndet för texten. |
+| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font/) { get; set; } | Hämtar eller ställer in teckensnittet för texten. |
+| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | Hämtar eller ställer in teckensnittsstorleken för texten. |
+| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | Hämtar eller ställer in teckensnittsstilen för texten. |
+| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | Hämtar eller ställer in förgrundsfärgen för texten. |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | Hämtar eller ställer in horisontell skalning av texten. |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | Hämtar eller ställer in radavståndet för texten. |
+| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | Hämtar eller ställer in genomstrykning för texten. |
+| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | Hämtar eller ställer in nedsänkt text för texten. |
+| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | Hämtar eller ställer in upphöjd text för texten. |
+| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | Hämtar eller ställer in understrykning för texten. |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | Hämtar eller ställer in ordavståndet för texten. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

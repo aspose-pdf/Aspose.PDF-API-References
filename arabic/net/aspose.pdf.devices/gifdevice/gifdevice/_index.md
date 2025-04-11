@@ -1,128 +1,126 @@
 ---
-title: GifDevice
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفGifDeviceaspose.pdf.devices/gifdevice فئة ذات الدقة الافتراضية.
+title: GifDevice.GifDevice
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ GifDevice. يقوم بتهيئة مثيل جديد من فئة GifDevice بدقة افتراضية
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/gifdevice/gifdevice/
 ---
 ## GifDevice() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice) فئة ذات الدقة الافتراضية.
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../) بدقة افتراضية.
 
 ```csharp
 public GifDevice()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(Resolution) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice) فئة .  دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../).  الدقة لملف الصورة الناتجة، انظر فئة [`Resolution`](../../resolution/) .
 
 ```csharp
 public GifDevice(Resolution resolution)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int, Resolution) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice) فئة بأبعاد الصورة المقدمة و الدقة .
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../) مع أبعاد الصورة والدقة المقدمة.
 
 ```csharp
 public GifDevice(int width, int height, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | Resolution | الدقة لملف الصورة الناتجة، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize, Resolution) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice)فئة بحجم الصفحة المقدم ودقة .
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../) مع حجم الصفحة والدقة المقدمة.
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
+| resolution | Resolution | الدقة لملف الصورة الناتجة، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [Resolution](../../resolution/)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice) فئة بأبعاد الصورة المقدمة ، الدقة الافتراضية (= 150) .
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../) مع أبعاد الصورة المقدمة، دقة افتراضية (=150).
 
 ```csharp
 public GifDevice(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`GifDevice`](../../gifdevice) فئة بحجم الصفحة المقدم ، الدقة الافتراضية (= 150) .
+يقوم بتهيئة مثيل جديد من فئة [`GifDevice`](../) مع حجم الصفحة المقدمة، دقة افتراضية (=150).
 
 ```csharp
 public GifDevice(PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [GifDevice](../../gifdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../gifdevice)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [GifDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)

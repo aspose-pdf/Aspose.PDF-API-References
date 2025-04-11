@@ -1,14 +1,14 @@
 ---
-title: CreateFileAttachment
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Erstellt Anmerkungen zu Dateianhängen.
+title: PdfContentEditor.CreateFileAttachment
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor-Methode. Erstellt eine Dateianhang-Anmerkung
 type: docs
 weight: 150
 url: /de/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Erstellt Anmerkungen zu Dateianhängen.
+Erstellt eine Dateianhang-Anmerkung.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -17,13 +17,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
+| rect | Rectangle | Das Anmerkungsrechteck, das den Standort der Anmerkung auf der Seite definiert. |
 | contents | String | Der Inhalt der Anmerkung. |
-| filePath | String | Der Pfad der Datei wird angehängt. |
+| filePath | String | Der Pfad der Datei, die angehängt wird. |
 | page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| name | String | Der Name eines Symbols wird beim Anzeigen der Anmerkung verwendet. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
+| name | String | Der Name eines Symbols, das zur Anzeige der Anmerkung verwendet wird. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -35,15 +35,15 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Erstellt Anmerkungen zu Dateianhängen.
+Erstellt eine Dateianhang-Anmerkung.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -52,14 +52,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
+| rect | Rectangle | Das Anmerkungsrechteck, das den Standort der Anmerkung auf der Seite definiert. |
 | contents | String | Der Inhalt der Anmerkung. |
-| filePath | String | Der Pfad der Datei wird angehängt. |
+| filePath | String | Der Pfad der Datei, die angehängt wird. |
 | page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| name | String | Der Name eines Symbols wird beim Anzeigen der Anmerkung verwendet. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Deckkraft des Symbols von 0 bis 1: 0 – vollständig transparent, 1 – vollständig undurchsichtig. |
+| name | String | Der Name eines Symbols, das zur Anzeige der Anmerkung verwendet wird. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Die Opazität des Symbols von 0 bis 1: 0 - vollständig transparent, 1 - vollständig undurchsichtig. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -71,15 +71,15 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Erstellt Anmerkungen zu Dateianhängen.
+Erstellt eine Dateianhang-Anmerkung.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -88,14 +88,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
+| rect | Rectangle | Das Anmerkungsrechteck, das den Standort der Anmerkung auf der Seite definiert. |
 | contents | String | Der Inhalt der Anmerkung. |
-| attachmentStream | Stream | Der Anhangdateistream. |
+| attachmentStream | Stream | Der Anhang-Dateistream. |
 | attachmentName | String | Der Name des Anhangs. |
 | page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| name | String | Der Name eines Symbols wird beim Anzeigen der Anmerkung verwendet. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
+| name | String | Der Name eines Symbols, das zur Anzeige der Anmerkung verwendet wird. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -110,15 +110,15 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Erstellt Anmerkungen zu Dateianhängen.
+Erstellt eine Dateianhang-Anmerkung.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -127,15 +127,15 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
+| rect | Rectangle | Das Anmerkungsrechteck, das den Standort der Anmerkung auf der Seite definiert. |
 | contents | String | Der Inhalt der Anmerkung. |
-| attachmentStream | Stream | Der Anhangdateistream. |
+| attachmentStream | Stream | Der Anhang-Dateistream. |
 | attachmentName | String | Der Name des Anhangs. |
 | page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| name | String | Der Name eines Symbols wird beim Anzeigen der Anmerkung verwendet. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Deckkraft des Symbols von 0 bis 1: 0 – vollständig transparent, 1 – vollständig undurchsichtig. |
+| name | String | Der Name eines Symbols, das zur Anzeige der Anmerkung verwendet wird. Dieser Wert kann sein: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Die Opazität des Symbols von 0 bis 1: 0 - vollständig transparent, 1 - vollständig undurchsichtig. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -150,8 +150,6 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,44 +1,44 @@
 ---
-title: MobiXmlSaveOptions
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Speicheroptionen für den Export in das XML-Format
+title: Class MobiXmlSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.MobiXmlSaveOptions-Klasse. Speicheroptionen für den Export im Xml-Format
 type: docs
-weight: 4800
+weight: 6980
 url: /de/net/aspose.pdf/mobixmlsaveoptions/
 ---
-## MobiXmlSaveOptions class
+## MobiXmlSaveOptions-Klasse
 
-Speicheroptionen für den Export in das XML-Format
+Speicheroptionen für den Export im Xml-Format
 
 ```csharp
 public class MobiXmlSaveOptions : UnifiedSaveOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [MobiXmlSaveOptions](mobixmlsaveoptions)() | Default_Constructor |
+| [MobiXmlSaveOptions](mobixmlsaveoptions/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Ruft einen booleschen Wert ab oder legt ihn fest, der angibt, dass das Antwortobjekt geschlossen wird, nachdem das Dokument in der Antwort gespeichert wurde. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Dieses Attribut aktiviert die Funktionalität zum Extrahieren von Bild oder Text für PDF-Dokumente mit OCR-Unterebene. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format der Datenspeicherung. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Rückruf zur Behandlung von generierten Warnungen. Der WarningHandler gibt das ReturnAction-Aufzählungselement zurück, das entweder Continue oder Abort angibt. Continue ist die Standardaktion und der Speichervorgang wird fortgesetzt, der Benutzer kann jedoch auch Abbrechen zurückgeben, in diesem Fall sollte der Speichervorgang beendet werden. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ruft einen booleschen Wert ab oder legt ihn fest, der angibt, ob Schriftart-Glyphen während der Vorbereitung von APS-Seiten zwischengespeichert werden. Verbessert die Leistung der Konvertierung von PDF in andere Formate, erhöht jedoch den Speicherverbrauch. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Ruft einen booleschen Wert ab oder legt ihn fest, der angibt, ob das Response-Objekt nach dem Speichern des Dokuments in die Antwort geschlossen wird. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Dieses Attribut aktiviert die Funktion zum Extrahieren von Bildern oder Text für PDF-Dokumente mit OCR-Unterlayer. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format der Datenspeicherung. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback zur Behandlung von Warnungen, die generiert werden. Der WarningHandler gibt ein Element des ReturnAction-Enums zurück, das entweder Continue oder Abort angibt. Continue ist die Standardaktion und der Speicherprozess wird fortgesetzt, der Benutzer kann jedoch auch Abort zurückgeben, in diesem Fall sollte der Speicherprozess eingestellt werden. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Manchmal enthalten PDFs Hintergrundbilder (von Seiten oder Tabellenzellen) die aus mehreren, nebeneinander angeordneten, gleichen Hintergrundbildern bestehen. In solchen Fällen erzeugen Renderer von Zielformaten (z. B. MsWord für DOCS-Format) manchmal sichtbare Grenzen zwischen Teilen von Hintergrundbildern , weil sich ihre Techniken der Bildkantenglättung (Anti-Aliasing) von Acrobat Reader unterscheiden. Wenn es so aussieht, als ob das exportierte Dokument solche sichtbaren Grenzen zwischen Teilen derselben Hintergrundbilder enthält, versuchen Sie bitte, diese Einstellung zu verwenden, um davon zu befreien unerwünschte Wirkung. ACHTUNG! Diese Qualitätsoptimierung verlangsamt normalerweise die Konvertierung erheblich, also verwenden Sie diese Option bitte nur, wenn es wirklich notwendig ist. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Verarbeitet Seiten in mehreren Threads. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Manchmal enthalten PDFs Hintergrundbilder (von Seiten oder Tabellenzellen), die aus mehreren gleichen Kachel-Hintergrundbildern bestehen, die nebeneinander platziert sind. In solchen Fällen erzeugen Renderer der Zielformate (z. B. MsWord für das DOCS-Format) manchmal sichtbare Grenzen zwischen Teilen der Hintergrundbilder, da ihre Techniken zur Glättung von Bildkanten (Anti-Aliasing) sich von Acrobat Reader unterscheiden. Wenn es so aussieht, als ob das exportierte Dokument sichtbare Grenzen zwischen Teilen der gleichen Hintergrundbilder enthält, versuchen Sie bitte, diese Einstellung zu verwenden, um diesen unerwünschten Effekt zu beseitigen. ACHTUNG! Diese Qualitätsoptimierung verlangsamt in der Regel die Konvertierung erheblich, verwenden Sie diese Option daher bitte nur, wenn es wirklich notwendig ist. |
 
 ### Siehe auch
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [UnifiedSaveOptions](../unifiedsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

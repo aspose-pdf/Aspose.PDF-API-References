@@ -1,53 +1,53 @@
 ---
-title: Collection
-second_title: Aspose.PDF for .NET API Referansı
-description: Collection12.3.5 Collections için sınıfı temsil eder.
+title: Class Collection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Collection sınıfı. Collection12.3.5 Koleksiyonları için sınıfı temsil eder.
 type: docs
-weight: 1480
+weight: 3020
 url: /tr/net/aspose.pdf/collection/
 ---
-## Collection class
+## Koleksiyon sınıfı
 
-Collection(12.3.5 Collections) için sınıfı temsil eder.
+Collection(12.3.5 Koleksiyonları) için sınıfı temsil eder.
 
 ```csharp
 public class Collection : EmbeddedFileCollection
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Collection](collection)() | Yeni Koleksiyon nesnesini başlatır. |
+| [Collection](collection/)() | Yeni bir Koleksiyon nesnesi başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Count](../../aspose.pdf/embeddedfilecollection/count) { get; } | Koleksiyondaki gömülü dosya sayısını alır. |
-| [DefaultEntry](../../aspose.pdf/collection/defaultentry) { get; } | Varsayılan gömülü dosya adı. |
-| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized) { get; } | Bu koleksiyona erişimin senkronize edilip edilmediğini gösteren bir değer alır (iş parçacığı güvenli). |
-| [Item](../../aspose.pdf/embeddedfilecollection/item) { get; } | Dizinine göre gömülü dosyayı alır. (2 indexers) |
-| [Keys](../../aspose.pdf/embeddedfilecollection/keys) { get; } | Dosya eki anahtarlarının listesini döndürür. |
-| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot) { get; } | Bu koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
+| [Count](../../aspose.pdf/embeddedfilecollection/count/) { get; } | Koleksiyondaki gömülü dosya sayısını alır. |
+| [DefaultEntry](../../aspose.pdf/collection/defaultentry/) { get; } | Varsayılan gömülü dosya adı. |
+| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Bu koleksiyona erişimin senkronize olup olmadığını (iş parçacığı güvenli) belirten bir değer alır. |
+| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Gömülü dosyayı indeksine göre alır. (2 indeksleyici) |
+| [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Dosya ekleme anahtarlarının listesini döndürür. |
+| [Schema](../../aspose.pdf/collection/schema/) { get; } | Bir belge koleksiyonunun "Şemasını" alır. |
+| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Bu koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
 
-## yöntemler
+## Metotlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(FileSpecification) | Koleksiyona gömülü dosya belirtimi ekler. |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(string, FileSpecification) | Belirtilen anahtarla gömülü dosyalara dosya ekler. |
-| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto)(FileSpecification[], int) | FileSpecification nesnesinin dizisini koleksiyona kopyalar. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)() | Tüm katıştırılmış dosyaları belgeden kaldırın. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)(string) | Katıştırılmış dosyayı ada göre silin. |
-| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey)(string) | Koleksiyondaki anahtarıyla dosyayı koleksiyondan siler. |
-| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname)(string) | Katıştırılmış dosyayı adına göre döndürür. |
-| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator)() | Koleksiyon numaralandırıcısını döndürür. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(FileSpecification) | Gömülü dosya spesifikasyonunu koleksiyona ekler. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(string, FileSpecification) | Belirtilen anahtar ile gömülü dosyalara dosya ekler. |
+| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto/)(FileSpecification[], int) | FileSpecification nesnesinin dizisini koleksiyona kopyalar. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)() | Belgeden tüm gömülü dosyaları kaldırır. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)(string) | Adına göre gömülü dosyayı siler. |
+| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey/)(string) | Koleksiyondaki anahtarına göre dosyayı siler. |
+| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname/)(string) | Adına göre gömülü dosyayı döndürür. |
+| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator/)() | Koleksiyon enumeratörünü döndürür. |
+| [GetSortedCollection](../../aspose.pdf/collection/getsortedcollection/)() | Spesifikasyona göre sıralanmış dosyalar koleksiyonunu alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EmbeddedFileCollection](../embeddedfilecollection)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [EmbeddedFileCollection](../embeddedfilecollection/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

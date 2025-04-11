@@ -1,14 +1,14 @@
 ---
-title: Produce
-second_title: Aspose.PDF для справочника API .NET
-description: Создать поток PDF используя указанный формат импорта.  В этом примере показано как создать поток Pdf из потока CGM.
+title: PdfProducer.Produce
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfProducer. Создайте PDF поток, используя указанный формат импорта. Этот пример показывает, как создать Pdf поток из CGM потока
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Создать поток PDF, используя указанный формат импорта.  В этом примере показано, как создать поток Pdf из потока CGM.
+Создайте PDF поток, используя указанный формат импорта. Этот пример показывает, как создать Pdf поток из CGM потока.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -28,27 +28,27 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
 | format | ImportFormat | Формат импорта. |
-| outputStream | Stream | Выходной PDF-поток. |
+| outputStream | Stream | Выходной PDF поток. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Входной или выходной поток равен нулю |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Входной или выходной поток равен null |
 
-### Смотрите также
+### См. также
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Создать поток PDF, используя указанный формат импорта.  В этом примере показано, как создать поток Pdf из файла CGM.
+Создайте PDF поток, используя указанный формат импорта. Этот пример показывает, как создать Pdf поток из CGM файла.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -65,30 +65,30 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFileName | String | Введите имя файла. |
+| inputFileName | String | Имя входного файла. |
 | format | ImportFormat | Формат импорта. |
-| outputStream | Stream | Выходной PDF-поток. |
+| outputStream | Stream | Выходной PDF поток. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Выходной поток равен нулю |
-| ArgumentException | Имя входного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Выходной поток равен null |
+| ArgumentException | Имя входного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Создать PDF-файл, используя указанный формат импорта.  В этом примере показано, как создать файл Pdf из потока CGM.
+Создайте PDF файл, используя указанный формат импорта. Этот пример показывает, как создать Pdf файл из CGM потока.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -108,28 +108,28 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
 | format | ImportFormat | Формат импорта. |
-| outputFileName | String | Выходной PDF-файл |
+| outputFileName | String | Выходной PDF файл |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Входной поток равен нулю |
-| ArgumentException | Имя выходного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Входной поток равен null |
+| ArgumentException | Имя выходного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Создать PDF-файл, используя указанный формат импорта.  В этом примере показано, как создать файл Pdf из файла CGM.
+Создайте PDF файл, используя указанный формат импорта. Этот пример показывает, как создать Pdf файл из CGM файла.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -143,29 +143,29 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFileName | String | Введите имя файла. |
+| inputFileName | String | Имя входного файла. |
 | format | ImportFormat | Формат импорта. |
-| outputFileName | String | Выходной PDF-файл |
+| outputFileName | String | Выходной PDF файл |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentException | Имя входного или выходного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentException | Имя входного или выходного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Создать поток PDF, используя указанный параметр импорта.  В этом примере показано, как создать поток Pdf из файла CGM.
+Создайте PDF поток, используя указанный вариант импорта. Этот пример показывает, как создать Pdf поток из CGM файла.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -183,30 +183,30 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFileName | String | Введите имя файла. |
+| inputFileName | String | Имя входного файла. |
 | options | ImportOptions | Вариант импорта. |
-| outputStream | Stream | Выходной PDF-поток. |
+| outputStream | Stream | Выходной PDF поток. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Выходной поток равен нулю |
-| ArgumentException | Имя входного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Выходной поток равен null |
+| ArgumentException | Имя входного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать файл Pdf из потока CGM.
+Создайте PDF файл, используя указанный вариант импорта. Этот пример показывает, как создать Pdf файл из CGM потока.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -226,28 +226,28 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
 | options | ImportOptions | Вариант импорта. |
-| outputFileName | String | Выходной файл PDF. |
+| outputFileName | String | Выходной PDF файл. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Входной поток равен нулю |
-| ArgumentException | Имя выходного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Входной поток равен null |
+| ArgumentException | Имя выходного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать файл Pdf из файла CGM.
+Создайте PDF файл, используя указанный вариант импорта. Этот пример показывает, как создать Pdf файл из CGM файла.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -262,29 +262,29 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFileName | String | Введите имя файла. |
+| inputFileName | String | Имя входного файла. |
 | options | ImportOptions | Вариант импорта. |
-| outputFileName | String | Выходной PDF-поток. |
+| outputFileName | String | Выходной PDF поток. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentException | Имя входного или выходного файла — пустая строка |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentException | Имя входного или выходного файла является пустой строкой |
 
-### Смотрите также
+### См. также
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать поток Pdf из потока CGM.
+Создайте PDF файл, используя указанный вариант импорта. Этот пример показывает, как создать Pdf поток из CGM потока.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -305,20 +305,18 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
 | options | ImportOptions | Вариант импорта. |
-| outputStream | Stream | Выходной PDF-поток. |
+| outputStream | Stream | Выходной PDF поток. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | Исключение выдается, когда файл недействителен. |
-| ArgumentNullException | Входной или выходной поток равен нулю. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | Исключение выбрасывается, когда файл недействителен. |
+| ArgumentNullException | Входной или выходной поток равен null. |
 
-### Смотрите также
+### См. также
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfproducer)
-* сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

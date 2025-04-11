@@ -1,44 +1,42 @@
 ---
-title: TextEditOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Metin düzenleme işlemlerinin seçeneklerini çözer.
+title: Class TextEditOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextEditOptions sınıfı. Metin düzenleme işlemlerinin seçeneklerini açıklar.
 type: docs
-weight: 6980
+weight: 10820
 url: /tr/net/aspose.pdf.text/texteditoptions/
 ---
-## TextEditOptions class
+## TextEditOptions sınıfı
 
-Metin düzenleme işlemlerinin seçeneklerini çözer.
+Metin düzenleme işlemlerinin seçeneklerini açıklar.
 
 ```csharp
 public sealed class TextEditOptions : TextOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TextEditOptions](texteditoptions#constructor)(bool) | Yeni örneğini başlatır[`TextEditOptions`](../texteditoptions) belirtilen dil dönüştürme izni için nesne. |
-| [TextEditOptions](texteditoptions#constructor_1)(FontReplace) | Yeni örneğini başlatır[`TextEditOptions`](../texteditoptions) belirtilen yazı tipi değiştirme davranışı modu için nesne. |
-| [TextEditOptions](texteditoptions#constructor_2)(LanguageTransformation) | Yeni örneğini başlatır[`TextEditOptions`](../texteditoptions) belirtilen dil dönüştürme davranışı modu için nesne. |
-| [TextEditOptions](texteditoptions#constructor_3)(NoCharacterAction) | Yeni örneğini başlatır[`TextEditOptions`](../texteditoptions) belirtilen karaktersiz davranış modu için nesne. |
+| [TextEditOptions](texteditoptions/#constructor)(bool) | Belirtilen dil dönüşüm izni için `TextEditOptions` nesnesinin yeni bir örneğini başlatır. |
+| [TextEditOptions](texteditoptions/#constructor_1)(FontReplace) | Belirtilen yazı tipi değiştirme davranış modu için `TextEditOptions` nesnesinin yeni bir örneğini başlatır. |
+| [TextEditOptions](texteditoptions/#constructor_2)(LanguageTransformation) | Belirtilen dil dönüşüm davranış modu için `TextEditOptions` nesnesinin yeni bir örneğini başlatır. |
+| [TextEditOptions](texteditoptions/#constructor_3)(NoCharacterAction) | Belirtilen karakter yok davranış modu için `TextEditOptions` nesnesinin yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation) { get; set; } | Metin ekleme veya düzenleme sırasında dil dönüşümünün kullanımına izin veren değeri alır veya ayarlar. true - gerekirse dil dönüşümü uygulanır (varsayılan değer). false - dil dönüşümü uygulanmaz. |
-| [ClippingPathsProcessing](../../aspose.pdf.text/texteditoptions/clippingpathsprocessing) { get; set; } | Düzenlenen metnin kırpma yolunu işleme modunu alır. |
-| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior) { get; set; } | Yazı tipi değiştirme senaryoları için davranışı tanımlayan modu alır. |
-| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior) { get; set; } | Dil dönüştürme senaryoları için davranışı tanımlayan modu alır. |
-| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior) { get; set; } | Yazı tiplerinin istenen karakterleri içermemesi durumunda davranışı tanımlayan modu alır veya ayarlar. |
-| [ReplacementFont](../../aspose.pdf.text/texteditoptions/replacementfont) { get; set; } | Kullanıcı yazı tipi gerekli karakteri içermiyorsa, değiştirilmek üzere kullanılan yazı tipini alır veya ayarlar |
-| [ToAttemptGetUnderlineFromSource](../../aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource) { get; set; } | Kaynak belge sayfasında altı çizili metin aramaya izin veren değeri alır veya ayarlar. (Eski) Lütfen bunun yerine TextSearchOptions.SearchForTextRelatedGraphics kullanın. |
+| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation/) { get; set; } | Metin ekleme veya düzenleme sırasında dil dönüşümünün kullanımına izin veren değeri alır veya ayarlar. true - gerekli olduğunda dil dönüşümü uygulanacaktır (varsayılan değer). false - dil dönüşümü uygulanmayacaktır. |
+| [ClippingPathsProcessing](../../aspose.pdf.text/texteditoptions/clippingpathsprocessing/) { get; set; } | Düzenlenen metnin kesme yolunu işleme modunu alır. |
+| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior/) { get; set; } | Yazı tipi değiştirme senaryoları için davranışı tanımlayan modu alır. |
+| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior/) { get; set; } | Dil dönüşüm senaryoları için davranışı tanımlayan modu alır. |
+| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior/) { get; set; } | Yazı tiplerinin istenen karakterleri içermediği durumlarda davranışı tanımlayan modu alır veya ayarlar. |
+| [ReplacementFont](../../aspose.pdf.text/texteditoptions/replacementfont/) { get; set; } | Kullanıcı yazı tipi gerekli karakteri içermediğinde kullanılacak yazı tipini alır veya ayarlar. |
+| [ToAttemptGetUnderlineFromSource](../../aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/) { get; set; } | Kaynak belgenin sayfasında metin altı çizgisi aramaya izin veren değeri alır veya ayarlar. (Eski) Bunun yerine TextSearchOptions.SearchForTextRelatedGraphics kullanın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextOptions](../textoptions)
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TextOptions](../textoptions/)
+* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../)

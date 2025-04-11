@@ -1,14 +1,14 @@
 ---
-title: AppendLine
-second_title: Aspose.PDF för .NET API Referens
-description: Lägger till textrad
+title: TextParagraph.AppendLine
+second_title: Aspose.PDF for .NET API Reference
+description: TextParagraph metod. Lägger till text rad
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.text/textparagraph/appendline/
 ---
 ## AppendLine(string) {#appendline_3}
 
-Lägger till textrad
+Lägger till text rad
 
 ```csharp
 public void AppendLine(string line)
@@ -16,19 +16,19 @@ public void AppendLine(string line)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | String | Den nya radens text. |
+| line | Sträng | Texten för den nya raden. |
 
-### Se även
+### Se Även
 
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, float) {#appendline_6}
 
-Lägger till textrad.
+Lägger till text rad.
 
 ```csharp
 public void AppendLine(string line, float lineSpacing)
@@ -36,20 +36,20 @@ public void AppendLine(string line, float lineSpacing)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | String | Den nya radens text. |
-| lineSpacing | Single | Ytterligare avstånd (0.0 är standard och motsvarar standard textradhöjd). Avståndsvärdet läggs till standardradavståndet för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en textrad ritad med 12 pkt teckensnitt. |
+| line | Sträng | Texten för den nya raden. |
+| lineSpacing | Enkel | Ytterligare avstånd (0.0 är standard och motsvarar standardhöjd för textlinje). Avståndsvärdet läggs till standard radavstånd för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en text rad ritad med 12pt teckensnitt. |
 
-### Se även
+### Se Även
 
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, TextState) {#appendline_4}
 
-Lägger till textrad med texttillståndsparametrar.
+Lägger till text rad med text tillstånd parametrar.
 
 ```csharp
 public void AppendLine(string line, TextState textState)
@@ -57,21 +57,21 @@ public void AppendLine(string line, TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | String | Den nya radens text. |
-| textState | TextState | Textstatus för den nya raden. |
+| line | Sträng | Texten för den nya raden. |
+| textState | TextState | Text tillstånd för den nya raden. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../../textstate/)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, TextState, float) {#appendline_5}
 
-Lägger till textrad med texttillståndsparametrar
+Lägger till text rad med text tillstånd parametrar
 
 ```csharp
 public void AppendLine(string line, TextState textState, float lineSpacing)
@@ -79,22 +79,22 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | String | Den nya radens text. |
-| textState | TextState | Textstatus för den nya raden. |
-| lineSpacing | Single | Ytterligare avstånd (0.0 är standard och motsvarar standard textradhöjd). Avståndsvärdet läggs till standardradavståndet för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en textrad ritad med 12 pkt teckensnitt. |
+| line | Sträng | Texten för den nya raden. |
+| textState | TextState | Text tillstånd för den nya raden. |
+| lineSpacing | Enkel | Ytterligare avstånd (0.0 är standard och motsvarar standardhöjd för textlinje). Avståndsvärdet läggs till standard radavstånd för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en text rad ritad med 12pt teckensnitt. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../../textstate/)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment) {#appendline}
 
-Lägger till textrad med texttillståndsparametrar.
+Lägger till text rad med text tillstånd parametrar.
 
 ```csharp
 public void AppendLine(TextFragment line)
@@ -102,20 +102,20 @@ public void AppendLine(TextFragment line)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | TextFragment | Den nya radens text. |
+| line | TextFragment | Texten för den nya raden. |
 
-### Se även
+### Se Även
 
-* class [TextFragment](../../textfragment)
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextFragment](../../textfragment/)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment, TextState) {#appendline_1}
 
-Lägger till textrad med texttillståndsparametrar.
+Lägger till text rad med text tillstånd parametrar.
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState)
@@ -123,22 +123,22 @@ public void AppendLine(TextFragment line, TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | TextFragment | Den nya radens text. |
-| textState | TextState | Textstatus för den nya raden. |
+| line | TextFragment | Texten för den nya raden. |
+| textState | TextState | Text tillstånd för den nya raden. |
 
-### Se även
+### Se Även
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextFragment](../../textfragment/)
+* klass [TextState](../../textstate/)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment, TextState, float) {#appendline_2}
 
-Lägger till textrad med texttillståndsparametrar
+Lägger till text rad med text tillstånd parametrar
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
@@ -146,16 +146,14 @@ public void AppendLine(TextFragment line, TextState textState, float lineSpacing
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | TextFragment | Den nya radens text. |
-| textState | TextState | Textstatus för den nya raden. |
-| lineSpacing | Single | Ytterligare avstånd (0.0 är standard och motsvarar standard textradhöjd). Avståndsvärdet läggs till standardradavståndet för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en textrad ritad med 12 pkt teckensnitt. |
+| line | TextFragment | Texten för den nya raden. |
+| textState | TextState | Text tillstånd för den nya raden. |
+| lineSpacing | Enkel | Ytterligare avstånd (0.0 är standard och motsvarar standardhöjd för textlinje). Avståndsvärdet läggs till standard radavstånd för den specifika raden, så du kan ange 12.0 för att få en tom rad EFTER en text rad ritad med 12pt teckensnitt. |
 
-### Se även
+### Se Även
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* namnutrymme [Aspose.Pdf.Text](../../textparagraph)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextFragment](../../textfragment/)
+* klass [TextState](../../textstate/)
+* klass [TextParagraph](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

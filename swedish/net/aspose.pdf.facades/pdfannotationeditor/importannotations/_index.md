@@ -1,14 +1,14 @@
 ---
-title: ImportAnnotations
-second_title: Aspose.PDF för .NET API Referens
-description: Importerar de angivna anteckningarna till dokument från en rad andra PDF-dokument.
+title: PdfAnnotationEditor.ImportAnnotations
+second_title: Aspose.PDF for .NET API Reference
+description: PdfAnnotationEditor metod. Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokument
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Importerar de angivna anteckningarna till dokument från en rad andra PDF-dokument.
+Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokument.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -16,10 +16,10 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFile | String[] | Uppsättningen av sökvägar för PDF-dokument som innehåller källkommentarer. |
-| annotType | AnnotationType[] | Uppsättningen av anteckningstyper som ska importeras. |
+| annotFile | String[] | Arrayen av sökvägar till PDF-dokument som innehåller källanteckningar. |
+| annotType | AnnotationType[] | Arrayen av anteckningstyper som ska importeras. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -30,18 +30,18 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* hopsättning [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Importerar kommentarer till dokument från en mängd andra PDF-dokument.
+Importerar anteckningar till dokumentet från en array av andra PDF-dokument.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -49,9 +49,9 @@ public void ImportAnnotations(string[] annotFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFile | String[] | Uppsättningen av sökvägar för PDF-dokument som innehåller källkommentarer. |
+| annotFile | String[] | Arrayen av sökvägar till PDF-dokument som innehåller källanteckningar. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -61,17 +61,17 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* hopsättning [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Importerar de angivna anteckningarna till dokument från en rad andra PDF-dokumentströmmar.
+Importerar de angivna anteckningarna till dokumentet från en array av andra PDF-dokumentströmmar.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -79,10 +79,10 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Mängden strömmar av PDF-dokument som innehåller källkommentarer. |
+| annotFileStream | Stream[] | Arrayen av strömmar av PDF-dokument som innehåller källanteckningar. |
 | annotType | AnnotationType[] | Anteckningstyperna som ska importeras. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -97,18 +97,18 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### Se även
+### Se Även
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* hopsättning [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Importerar kommentarer till dokument från en mängd andra PDF-dokumentströmmar.
+Importerar anteckningar till dokumentet från en array av andra PDF-dokumentströmmar.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -116,9 +116,9 @@ public void ImportAnnotations(Stream[] annotFileStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Mängden strömmar av PDF-dokument som innehåller källkommentarer. |
+| annotFileStream | Stream[] | Arrayen av strömmar av PDF-dokument som innehåller källanteckningar. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -132,10 +132,8 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

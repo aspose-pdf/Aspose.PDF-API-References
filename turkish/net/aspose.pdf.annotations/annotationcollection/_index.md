@@ -1,50 +1,48 @@
 ---
-title: AnnotationCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: Açıklama koleksiyonunu temsil eden sınıf.
+title: Class AnnotationCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.AnnotationCollection sınıfı. Notasyon koleksiyonunu temsil eden sınıf
 type: docs
-weight: 100
+weight: 1430
 url: /tr/net/aspose.pdf.annotations/annotationcollection/
 ---
-## AnnotationCollection class
+## AnnotationCollection sınıfı
 
-Açıklama koleksiyonunu temsil eden sınıf.
+Notasyon koleksiyonunu temsil eden sınıf.
 
 ```csharp
 public sealed class AnnotationCollection : ICollection<Annotation>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/annotationcollection/count) { get; } | Koleksiyondaki ek açıklamaların sayısını alır. |
-| [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly) { get; } | Koleksiyonun salt okunur olup olmadığını gösteren bir değer alır. |
-| [IsSynchronized](../../aspose.pdf.annotations/annotationcollection/issynchronized) { get; } | Aspose.Pdf.Annotations.AnnotationCollection'a erişimin senkronize olup olmadığını gösteren bir değer alır (iş parçacığı güvenli). |
-| [Item](../../aspose.pdf.annotations/annotationcollection/item) { get; } | Alınacak öğenin dizini. |
-| [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot) { get; } | Aspose.Pdf.Annotations.AnnotationCollection. erişimini senkronize etmek için kullanılabilecek bir nesne alır |
+| [Count](../../aspose.pdf.annotations/annotationcollection/count/) { get; } | Koleksiyondaki notasyonların sayısını alır. |
+| [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly/) { get; } | Koleksiyonun yalnızca okunabilir olup olmadığını belirten bir değer alır. |
+| [IsSynchronized](../../aspose.pdf.annotations/annotationcollection/issynchronized/) { get; } | Aspose.Pdf.Annotations.AnnotationCollection'a erişimin senkronize olup olmadığını (iş parçacığı güvenli) belirten bir değer alır. |
+| [Item](../../aspose.pdf.annotations/annotationcollection/item/) { get; } | Alınacak öğenin indeksini belirtir. |
+| [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot/) { get; } | Aspose.Pdf.Annotations.AnnotationCollection'a erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Accept](../../aspose.pdf.annotations/annotationcollection/accept)(AnnotationSelector) | Ziyaretçinin ek açıklamayı işlemesini kabul eder. |
-| [Add](../../aspose.pdf.annotations/annotationcollection/add#add)(Annotation) | Koleksiyona açıklama ekler. |
-| [Add](../../aspose.pdf.annotations/annotationcollection/add#add_1)(Annotation, bool) | Koleksiyona açıklama ekler. Sayfa döndürülürse, açıklama dikdörtgeni buna göre yeniden hesaplanır. |
-| [Clear](../../aspose.pdf.annotations/annotationcollection/clear)() | Koleksiyondaki tüm açıklamaları siler. |
-| [Contains](../../aspose.pdf.annotations/annotationcollection/contains)(Annotation) | Belirtilen ek açıklamanın koleksiyona ait olup olmadığını kontrol eder. |
-| [CopyTo](../../aspose.pdf.annotations/annotationcollection/copyto)(Annotation[], int) | Açıklama dizisini koleksiyona kopyalar. |
-| [Delete](../../aspose.pdf.annotations/annotationcollection/delete#delete)() | Koleksiyondaki tüm açıklamaları siler. |
-| [Delete](../../aspose.pdf.annotations/annotationcollection/delete#delete_1)(Annotation) | Belirtilen açıklamayı koleksiyondan siler. |
-| [Delete](../../aspose.pdf.annotations/annotationcollection/delete#delete_2)(int) | Ek açıklamayı dizine göre koleksiyondan siler. |
-| [FindByName](../../aspose.pdf.annotations/annotationcollection/findbyname)(string) | Adına göre açıklama döndürür. |
-| [GetEnumerator](../../aspose.pdf.annotations/annotationcollection/getenumerator)() | Koleksiyon numaralandırıcısını döndürür. |
-| [Remove](../../aspose.pdf.annotations/annotationcollection/remove)(Annotation) | Koleksiyondan belirtilen ek açıklamayı siler. |
+| [Accept](../../aspose.pdf.annotations/annotationcollection/accept/)(AnnotationSelector) | Notasyonu işlemek için ziyaretçiyi kabul eder. |
+| [Add](../../aspose.pdf.annotations/annotationcollection/add/#add)(Annotation) | Notasyonu koleksiyona ekler. |
+| [Add](../../aspose.pdf.annotations/annotationcollection/add/#add_1)(Annotation, bool) | Notasyonu koleksiyona ekler. Sayfa döndürüldüğünde notasyon dikdörtgeni buna göre yeniden hesaplanacaktır. |
+| [Clear](../../aspose.pdf.annotations/annotationcollection/clear/)() | Koleksiyondaki tüm notasyonları siler. |
+| [Contains](../../aspose.pdf.annotations/annotationcollection/contains/)(Annotation) | Belirtilen notasyonun koleksiyona ait olup olmadığını kontrol eder. |
+| [CopyTo](../../aspose.pdf.annotations/annotationcollection/copyto/)(Annotation[], int) | Notasyonlar dizisini koleksiyona kopyalar. |
+| [Delete](../../aspose.pdf.annotations/annotationcollection/delete/#delete)() | Koleksiyondaki tüm notasyonları siler. |
+| [Delete](../../aspose.pdf.annotations/annotationcollection/delete/#delete_1)(Annotation) | Belirtilen notasyonu koleksiyondan siler. |
+| [Delete](../../aspose.pdf.annotations/annotationcollection/delete/#delete_2)(int) | İndex ile koleksiyondan notasyonu siler. |
+| [FindByName](../../aspose.pdf.annotations/annotationcollection/findbyname/)(string) | Notasyonu adına göre döndürür. |
+| [GetEnumerator](../../aspose.pdf.annotations/annotationcollection/getenumerator/)() | Koleksiyonun enumerator'ünü döndürür. |
+| [Remove](../../aspose.pdf.annotations/annotationcollection/remove/)(Annotation) | Belirtilen notasyonu koleksiyondan siler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../annotation)
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Annotation](../annotation/)
+* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../)

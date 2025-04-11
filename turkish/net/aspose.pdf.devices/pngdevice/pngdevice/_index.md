@@ -1,128 +1,126 @@
 ---
-title: PngDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırPngDeviceaspose.pdf.devices/pngdevice varsayılan çözünürlüğe sahip sınıf.
+title: PngDevice.PngDevice
+second_title: Aspose.PDF for .NET API Reference
+description: PngDevice yapıcısı. Varsayılan çözünürlük ile PngDevice sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/pngdevice/pngdevice/
 ---
 ## PngDevice() {#constructor}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice) varsayılan çözünürlüğe sahip sınıf.
+Varsayılan çözünürlük ile [`PngDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(Resolution) {#constructor_1}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice) sınıf.  Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf.
+[`PngDevice`](../) sınıfının yeni bir örneğini başlatır. Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın.
 
 ```csharp
 public PngDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice) sağlanan görüntü boyutlarına ve çözünürlüğe sahip sınıf.
+Sağlanan görüntü boyutları ve çözünürlük ile [`PngDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice)sağlanan sayfa boyutu ve çözünürlüğe sahip sınıf.
+Sağlanan sayfa boyutu ve çözünürlük ile [`PngDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(int, int) {#constructor_4}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice) sağlanan görüntü boyutlarına sahip sınıf, varsayılan çözünürlük (=150).
+Sağlanan görüntü boyutları ile, varsayılan çözünürlük (=150) ile [`PngDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(PageSize) {#constructor_2}
 
-Yeni bir örneğini başlatır[`PngDevice`](../../pngdevice) sağlanan sayfa boyutuna sahip sınıf, varsayılan çözünürlük (=150).
+Sağlanan sayfa boyutu ile, varsayılan çözünürlük (=150) ile [`PngDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PngDevice](../../pngdevice)
-* ad alanı [Aspose.Pdf.Devices](../../pngdevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PngDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

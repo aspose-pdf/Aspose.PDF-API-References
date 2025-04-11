@@ -1,44 +1,44 @@
 ---
-title: UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Bu sınıf nin birleşik dönüştürme yolunu kullandığı birleşik dahili belge modeliyle kaydetmeye yönelik kaydetme seçeneklerini temsil eder
+title: Class UnifiedSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.UnifiedSaveOptions sınıfı. Bu sınıf, birleşik iç belge modeli ile birleşik dönüşüm yolu kullanan kaydetme seçeneklerini temsil eder.
 type: docs
-weight: 7280
+weight: 11140
 url: /tr/net/aspose.pdf/unifiedsaveoptions/
 ---
-## UnifiedSaveOptions class
+## UnifiedSaveOptions sınıfı
 
-Bu sınıf, 'nin birleşik dönüştürme yolunu kullandığı (birleşik dahili belge modeliyle) kaydetmeye yönelik kaydetme seçeneklerini temsil eder
+Bu sınıf, birleşik dönüşüm yolu (birleşik iç belge modeli ile) kullanan kaydetme seçeneklerini temsil eder.
 
 ```csharp
 public class UnifiedSaveOptions : SaveOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [UnifiedSaveOptions](unifiedsaveoptions)() | Default_Constructor |
+| [UnifiedSaveOptions](unifiedsaveoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Belge yanıta kaydedildikten sonra Response nesnesinin kapatılacağını belirten boole değerini alır veya ayarlar. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için resim veya metin çıkarma işlevini açtı . |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Veri kaydetme biçimi. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Kaydetme işlemi sona ermelidir. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Aps sayfaları hazırlanırken font gliflerinin önbelleğe alınıp alınmayacağını belirten boolean değeri alır veya ayarlar. PDF'nin diğer formatlara dönüştürülmesi performansını artırır ancak bellek tüketimini artırır. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Belgenin yanıt içine kaydedildikten sonra Yanıt nesnesinin kapatılıp kapatılmayacağını belirten boolean değeri alır veya ayarlar. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için görüntü veya metin çıkarma işlevselliğini etkinleştirir. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Veri kaydetme formatı. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Oluşan uyarıları işlemek için geri çağırma. WarningHandler, devam etme veya iptal etme belirten ReturnAction enum öğesini döndürür. Devam etme varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı iptal etmeyi de döndürebilir; bu durumda Kaydetme işlemi durmalıdır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Bazen PDF'ler arka plan görüntülerini (sayfaların veya tablo hücrelerinin) içerir , birbirinin yanına yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşturulmuştur. Bu durumda hedef biçimlerin oluşturucuları (DOCS biçimi için fe MsWord) bazen arka plan görüntülerinin bölümleri arasında görünür sınırlar oluşturur , görüntü kenar yumuşatma (anti-aliasing) tekniklerinin Acrobat Reader'dan farklı olmasına neden olur. Dışa aktarılan belge, aynı arka plan görüntülerinin bölümleri arasında bu tür görünür sınırlar içeriyor gibi görünüyorsa, bundan kurtulmak için lütfen bu ayarı kullanmayı deneyin istenmeyen etki. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Sayfaları birkaç iş parçacığında işleme. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Bazen PDF'ler, yan yana yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşan arka plan görüntüleri (sayfaların veya tablo hücrelerinin) içerir. Bu durumda, hedef formatların (örneğin, DOCS formatı için MsWord) renderlayıcıları bazen arka plan görüntülerinin parçaları arasında görünür sınırlar oluşturur; çünkü görüntü kenar yumuşatma (anti-aliasing) teknikleri Acrobat Reader'dan farklıdır. Eğer dışa aktarılan belgede aynı arka plan görüntülerinin parçaları arasında böyle görünür sınırlar varsa, bu ayarı kullanarak istenmeyen etkiden kurtulmayı deneyin. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü önemli ölçüde yavaşlatır, bu nedenle lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SaveOptions](../saveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [SaveOptions](../saveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

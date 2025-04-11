@@ -1,511 +1,614 @@
 ---
-title: Visit
-second_title: Aspose.PDF for .NET API Referansı
-description: AnnotationSelector LinkAnnotation nesnesiyle başlatıldıysa bağlantı açıklamasını seçin.
+title: AnnotationSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: AnnotationSelector metodu. AnnotationSelector, LinkAnnotation nesnesi ile başlatıldıysa bağlantı anotasyonunu seçin
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_9}
 
-AnnotationSelector, LinkAnnotation nesnesiyle başlatıldıysa, bağlantı açıklamasını seçin.
+AnnotationSelector, LinkAnnotation nesnesi ile başlatıldıysa bağlantı anotasyonunu seçin.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | link | LinkAnnotation | Seçim için LinkAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LinkAnnotation](../../linkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [LinkAnnotation](../../linkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
-AnnotationSelector, FileAttachmentAnnotation nesnesiyle başlatıldıysa ek açıklamasını seçin.
+AnnotationSelector, FileAttachmentAnnotation nesnesi ile başlatıldıysa ekleme anotasyonunu seçin.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | Seçim için FileAttachmentAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_20}
+## Visit(TextAnnotation) {#visit_24}
 
-AnnotationSelector, TextAnnotation nesnesiyle başlatıldıysa metin ek açıklamasını seçin.
+AnnotationSelector, TextAnnotation nesnesi ile başlatıldıysa metin anotasyonunu seçin.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | TextAnnotation | Seçmek için TextAnnotation nesnesi. |
+| text | TextAnnotation | Seçim için TextAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextAnnotation](../../textannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextAnnotation](../../textannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_13}
+## Visit(RedactionAnnotation) {#visit_16}
 
-AnnotationSelector, RedactAnnotation nesnesiyle başlatıldıysa, redaksiyon ek açıklamasını seçin.
+AnnotationSelector, RedactAnnotation nesnesi ile başlatıldıysa redaksiyon anotasyonunu seçin.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| redact | RedactionAnnotation | Seçmek için RedactAnnotation nesnesi. |
+| redact | RedactionAnnotation | Seçim için RedactAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [RedactionAnnotation](../../redactionannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [RedactionAnnotation](../../redactionannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_5}
 
-AnnotationSelector, FreeTextAnnotation nesnesiyle başlatıldıysa serbest metin ek açıklamasını seçin.
+AnnotationSelector, FreeTextAnnotation nesnesi ile başlatıldıysa serbest metin anotasyonunu seçin.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | freetext | FreeTextAnnotation | Seçim için FreeTextAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [FreeTextAnnotation](../../freetextannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_6}
 
-AnnotationSelector, FreeTextAnnotation nesnesiyle başlatıldıysa ek açıklamasını seçin.
+AnnotationSelector, FreeTextAnnotation nesnesi ile başlatıldıysa vurgulama anotasyonunu seçin.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | Seçmek için HighlightAnnotation nesnesi. |
+| highlight | HighlightAnnotation | Seçim için HighlightAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HighlightAnnotation](../../highlightannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [HighlightAnnotation](../../highlightannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_21}
+## Visit(UnderlineAnnotation) {#visit_26}
 
-AnnotationSelector, UnderlineAnnotation nesnesiyle başlatıldıysa alt çizgi ek açıklamasını seçin.
+AnnotationSelector, UnderlineAnnotation nesnesi ile başlatıldıysa altı çizili anotasyonu seçin.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | underline | UnderlineAnnotation | Seçim için UnderlineAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [UnderlineAnnotation](../../underlineannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_19}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
-AnnotationSelector, StrikeOutAnnotation nesnesiyle başlatıldıysa, strikeOut notunu seçin.
+AnnotationSelector, StrikeOutAnnotation nesnesi ile başlatıldıysa üstü çizili anotasyonu seçin.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | strikeOut | StrikeOutAnnotation | Seçim için StrikeOutAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [StrikeOutAnnotation](../../strikeoutannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_17}
+## Visit(SquigglyAnnotation) {#visit_21}
 
-AnnotationSelector, SquigglyAnnotation nesnesiyle başlatıldıysa dalgalı açıklama seçin.
+AnnotationSelector, SquigglyAnnotation nesnesi ile başlatıldıysa dalgalı anotasyonu seçin.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | squiggly | SquigglyAnnotation | Seçim için SquigglyAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [SquigglyAnnotation](../../squigglyannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_12}
+## Visit(PopupAnnotation) {#visit_15}
 
-AnnotationSelector, PopupAnnotation nesnesiyle başlatıldıysa, açılır açıklamayı seçin.
+AnnotationSelector, PopupAnnotation nesnesi ile başlatıldıysa açılır anotasyonu seçin.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | popup | PopupAnnotation | Seçim için PopupAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PopupAnnotation](../../popupannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PopupAnnotation](../../popupannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_8}
 
-AnnotationSelector LineAnnotation nesnesiyle başlatıldıysa, satır açıklamasını seçin.
+AnnotationSelector, LineAnnotation nesnesi ile başlatıldıysa çizgi anotasyonunu seçin.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | LineAnnotation | Seçim için LineAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LineAnnotation](../../lineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [LineAnnotation](../../lineannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-AnnotationSelector, CircleAnnotation nesnesiyle başlatıldıysa, daire açıklamasını seçin.
+AnnotationSelector, CircleAnnotation nesnesi ile başlatıldıysa daire anotasyonunu seçin.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | circle | CircleAnnotation | Seçim için CircleAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CircleAnnotation](../../circleannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [CircleAnnotation](../../circleannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_16}
+## Visit(SquareAnnotation) {#visit_20}
 
-AnnotationSelector, SquareAnnotation nesnesiyle başlatıldıysa kare notu seçin.
+AnnotationSelector, SquareAnnotation nesnesi ile başlatıldıysa kare anotasyonunu seçin.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | square | SquareAnnotation | Seçim için SquareAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SquareAnnotation](../../squareannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [SquareAnnotation](../../squareannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_7}
 
-AnnotationSelector, InkAnnotation nesnesiyle başlatıldıysa, mürekkep açıklamasını seçin.
+AnnotationSelector, InkAnnotation nesnesi ile başlatıldıysa mürekkep anotasyonunu seçin.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | ink | InkAnnotation | Seçim için InkAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [InkAnnotation](../../inkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [InkAnnotation](../../inkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_11}
+## Visit(PolylineAnnotation) {#visit_14}
 
-AnnotationSelector PolylineAnnotation nesnesiyle başlatıldıysa, çoklu çizgi ek açıklamasını seçin.
+AnnotationSelector, PolylineAnnotation nesnesi ile başlatıldıysa poligon çizgi anotasyonunu seçin.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | polyline | PolylineAnnotation | Seçim için PolylineAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PolylineAnnotation](../../polylineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PolylineAnnotation](../../polylineannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_10}
+## Visit(PolygonAnnotation) {#visit_13}
 
-AnnotationSelector, PolygonAnnotation nesnesiyle başlatıldıysa çokgen açıklamasını seçin.
+AnnotationSelector, PolygonAnnotation nesnesi ile başlatıldıysa çokgen anotasyonunu seçin.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | polygon | PolygonAnnotation | Seçim için PolygonAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PolygonAnnotation](../../polygonannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PolygonAnnotation](../../polygonannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-AnnotationSelector, CaretAnnotation nesnesiyle başlatıldıysa, düzeltme işareti ek açıklamasını seçin.
+AnnotationSelector, CaretAnnotation nesnesi ile başlatıldıysa im anotasyonunu seçin.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | caret | CaretAnnotation | Seçim için CaretAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CaretAnnotation](../../caretannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [CaretAnnotation](../../caretannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_18}
+## Visit(StampAnnotation) {#visit_22}
 
-AnnotationSelector, StampAnnotation nesnesiyle başlatıldıysa damga açıklamasını seçin.
+AnnotationSelector, StampAnnotation nesnesi ile başlatıldıysa damga anotasyonunu seçin.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stamp | StampAnnotation | Seçmek için StampAnnotation nesnesi. |
+| stamp | StampAnnotation | Seçim için StampAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [StampAnnotation](../../stampannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [StampAnnotation](../../stampannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_23}
+## Visit(WidgetAnnotation) {#visit_28}
 
-AnnotationSelector, WidgetAnnotation nesnesiyle başlatıldıysa, widget ek açıklamasını seçin.
+AnnotationSelector, WidgetAnnotation nesnesi ile başlatıldıysa widget anotasyonunu seçin.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Seçmek için WidgetAnnotation nesnesi. |
+| widget | WidgetAnnotation | Seçim için WidgetAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [WidgetAnnotation](../../widgetannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [WidgetAnnotation](../../widgetannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_22}
+## Visit(WatermarkAnnotation) {#visit_27}
 
-AnnotationSelector, WatermarkAnnotation nesnesiyle başlatıldıysa filigran ek açıklamasını seçin.
+AnnotationSelector, WatermarkAnnotation nesnesi ile başlatıldıysa filigran anotasyonunu seçin.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | Filigran Seçim için açıklama. |
+| watermark | WatermarkAnnotation | Seçim için WatermarkAnnotation. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [WatermarkAnnotation](../../watermarkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [WatermarkAnnotation](../../watermarkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_10}
 
-AnnotationSelector, MovieAnnotation nesnesiyle başlatıldıysa film ek açıklamasını seçin.
+AnnotationSelector, MovieAnnotation nesnesi ile başlatıldıysa film anotasyonunu seçin.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | movie | MovieAnnotation | Seçim için MovieAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MovieAnnotation](../../movieannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [MovieAnnotation](../../movieannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_14}
+## Visit(RichMediaAnnotation) {#visit_18}
 
-AnnotationSelector, RichMedia açıklama nesnesiyle başlatıldıysa film açıklamasını seçin.
+AnnotationSelector, RichMedia anotasyon nesnesi ile başlatıldıysa film anotasyonunu seçin.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia ek açıklaması. |
+| richMedia | RichMediaAnnotation | RichMedia anotasyonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [RichMediaAnnotation](../../richmediaannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [RichMediaAnnotation](../../richmediaannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_15}
+## Visit(ScreenAnnotation) {#visit_19}
 
-AnnotationSelector, ScreenAnnotation nesnesiyle başlatıldıysa ekran açıklamasını seçin.
+AnnotationSelector, ScreenAnnotation nesnesi ile başlatıldıysa ekran anotasyonunu seçin.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | screen | ScreenAnnotation | Seçim için ScreenAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ScreenAnnotation](../../screenannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [ScreenAnnotation](../../screenannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_9}
+## Visit(PDF3DAnnotation) {#visit_12}
 
-AnnotationSelector, PDF3DAnnotation nesnesiyle başlatıldıysa PDF3D ek açıklamasını seçin.
+AnnotationSelector, PDF3DAnnotation nesnesi ile başlatıldıysa PDF3D anotasyonunu seçin.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | Seçmek için PDF3DAnnotation nesnesi. |
+| pdf3D | PDF3DAnnotation | Seçim için PDF3DAnnotation nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PDF3DAnnotation](../../pdf3dannotation)
-* class [AnnotationSelector](../../annotationselector)
-* ad alanı [Aspose.Pdf.Annotations](../../annotationselector)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PDF3DAnnotation](../../pdf3dannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(ColorBarAnnotation) {#visit_3}
+
+AnnotationSelector, ColorBar nesnesi ile başlatıldıysa ColorBar anotasyonunu seçin.
+
+```csharp
+public void Visit(ColorBarAnnotation colorBar)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| colorBar | ColorBarAnnotation | Seçim için PDF3DAnnotation nesnesi. |
+
+### Ayrıca Bakınız
+
+* sınıf [ColorBarAnnotation](../../colorbarannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+[`AnnotationSelector`](../) bir [`TrimMarkAnnotation`](../../trimmarkannotation/) nesnesi ile başlatıldıysa *trimMark*'ı seçer.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | Seçim için [`TrimMarkAnnotation`](../../trimmarkannotation/) nesnesi. |
+
+### Ayrıca Bakınız
+
+* sınıf [TrimMarkAnnotation](../../trimmarkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+[`AnnotationSelector`](../) bir [`BleedMarkAnnotation`](../../bleedmarkannotation/) nesnesi ile başlatıldıysa *bleedMark*'ı seçer.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | Seçim için [`BleedMarkAnnotation`](../../bleedmarkannotation/) nesnesi. |
+
+### Ayrıca Bakınız
+
+* sınıf [BleedMarkAnnotation](../../bleedmarkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+[`AnnotationSelector`](../) bir [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) nesnesi ile başlatıldıysa *registrationMark*'ı seçer.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | Seçim için [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) nesnesi. |
+
+### Ayrıca Bakınız
+
+* sınıf [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+[`AnnotationSelector`](../) bir [`PageInformationAnnotation`](../../pageinformationannotation/) nesnesi ile başlatıldıysa *pageInformation*'ı seçer.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | Seçim için [`PageInformationAnnotation`](../../pageinformationannotation/) nesnesi. |
+
+### Ayrıca Bakınız
+
+* sınıf [PageInformationAnnotation](../../pageinformationannotation/)
+* sınıf [AnnotationSelector](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)

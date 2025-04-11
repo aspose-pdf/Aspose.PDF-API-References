@@ -1,52 +1,116 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Pdf belge sayfalarını emfye kaydetmeye yardımcı olan görüntü aygıtını temsil eder.
+title: Class EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Devices.EmfDevice sınıfı. PDF belge sayfalarını emf formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder.
 type: docs
-weight: 1680
+weight: 3580
 url: /tr/net/aspose.pdf.devices/emfdevice/
 ---
-## EmfDevice class
+## EmfDevice sınıfı
 
-Pdf belge sayfalarını emf'ye kaydetmeye yardımcı olan görüntü aygıtını temsil eder.
+PDF belge sayfalarını emf formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder.
 
 ```csharp
 public sealed class EmfDevice : ImageDevice
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [EmfDevice](emfdevice#constructor)() | Yeni bir örneğini başlatır[`EmfDevice`](../emfdevice) emf. 'ye yazılan raster görüntünün varsayılan çözünürlüğüne sahip sınıf |
-| [EmfDevice](emfdevice#constructor_2)(PageSize) | Yeni bir örneğini başlatır[`EmfDevice`](../emfdevice) emf (=150) 'ye yazılan raster görüntü için sağlanan sayfa boyutu, ve varsayılan çözünürlük ile sınıf |
-| [EmfDevice](emfdevice#constructor_1)(Resolution) | Yeni bir örneğini başlatır[`EmfDevice`](../emfdevice) sınıf.  emf'ye yazılan raster görüntü için çözünürlük, bkz.[`Resolution`](../resolution) sınıf. |
-| [EmfDevice](emfdevice#constructor_4)(int, int) | Yeni bir örneğini başlatır[`EmfDevice`](../emfdevice) emf (=150) 'ye yazılan raster görüntü için sağlanan görüntü boyutları, ve varsayılan çözünürlük ile sınıf |
-| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | Yeni bir örneğini başlatır[`JpegDevice`](../jpegdevice)emf. öğesine yazılan tarama görüntüsü için sağlanan sayfa boyutu, ve çözünürlük ile sınıf |
-| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | Yeni bir örneğini başlatır[`JpegDevice`](../jpegdevice) emf. öğesine yazılan raster görüntü için sağlanan görüntü boyutları, ve çözünürlük ile sınıf |
+| [EmfDevice](emfdevice/#constructor)() | Varsayılan çözünürlükte emf'ye yazılan raster görüntü ile `EmfDevice` sınıfının yeni bir örneğini başlatır. |
+| [EmfDevice](emfdevice/#constructor_2)(PageSize) | Sağlanan sayfa boyutu ile ve emf'ye yazılan raster görüntü için varsayılan çözünürlük (=150) ile `EmfDevice` sınıfının yeni bir örneğini başlatır. |
+| [EmfDevice](emfdevice/#constructor_1)(Resolution) | `EmfDevice` sınıfının yeni bir örneğini başlatır. Emf'ye yazılan raster görüntü için çözünürlük, [`Resolution`](../resolution/) sınıfına bakın. |
+| [EmfDevice](emfdevice/#constructor_4)(int, int) | Sağlanan görüntü boyutları ile ve emf'ye yazılan raster görüntü için varsayılan çözünürlük (=150) ile `EmfDevice` sınıfının yeni bir örneğini başlatır. |
+| [EmfDevice](emfdevice/#constructor_3)(PageSize, Resolution) | Sağlanan sayfa boyutu ile ve emf'ye yazılan raster görüntü için çözünürlük ile [`JpegDevice`](../jpegdevice/) sınıfının yeni bir örneğini başlatır. |
+| [EmfDevice](emfdevice/#constructor_5)(int, int, Resolution) | Sağlanan görüntü boyutları ile ve emf'ye yazılan raster görüntü için çözünürlük ile [`JpegDevice`](../jpegdevice/) sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Sayfa koordinat türünü alır veya ayarlar (Medya/Kırpma kutuları). CropBox değeri varsayılan olarak kullanılır. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Form sunum modunu alır veya ayarlar. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Görüntü çıktı yüksekliğini alır. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Oluşturma seçeneklerini alır veya ayarlar. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Görüntü çözünürlüğünü alır. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Görüntü çıktı genişliğini alır. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Sayfa koordinat türünü alır veya ayarlar (Medya/Kırpma kutuları). Varsayılan olarak CropBox değeri kullanılır. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Form sunum modunu alır veya ayarlar. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Görüntü çıktı yüksekliğini alır. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | İşleme seçeneklerini alır veya ayarlar. |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Görüntü çözünürlüğünü alır. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Görüntü çıktı genişliğini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/emfdevice/process#process)(Page, Stream) | Sayfayı emf'ye dönüştürür ve çıktı akışına kaydeder. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Verilen sayfada bazı işlemler gerçekleştirir ve sonuçları dosyaya kaydeder. |
+| override [Process](../../aspose.pdf.devices/emfdevice/process/#process)(Page, Stream) | Sayfayı emf'ye dönüştürür ve çıktıyı akışta kaydeder. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Verilen sayfa üzerinde bazı işlemler gerçekleştirir ve sonuçları dosyaya kaydeder. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [ImageDevice](../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../aspose.pdf.devices)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, PDF dosyasını EMF Görüntülerine dönüştürmeyi göstermektedir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
+
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
+
+		// Initialize EmfDevice 	
+		EmfDevice emfDevice = new EmfDevice(resolution);
+		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
+		{
+			using (FileStream emfStream =
+			new FileStream($"{dataDir}image{pageCount}_out.emf",
+			FileMode.Create))
+			{
+				// Convert a particular page and save the image to stream
+				emfDevice.Process(pdfDocument.Pages[pageCount], emfStream);
+
+				// Close stream
+				emfStream.Close();
+			}
+		}
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF Directory
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
+    ' The file name of the PDF
+    Dim pdfFile As String = "YOUR_PDF_FILE"
+ 
+    ' Initialize instance of Document class 
+	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+		
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+	
+		' Initialize EmfDevice   
+		Dim emfDevice As EmfDevice = New EmfDevice(resolution)
+		For pageCount As Integer = 1 To pdfDocument.Pages.Count
+			Using emfStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.emf", FileMode.Create)
+			
+				' Convert a particular page and save the image to stream
+				emfDevice.Process(pdfDocument.Pages(pageCount), emfStream)
+
+				' Close stream
+				emfStream.Close()
+			End Using
+		Next
+	End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [ImageDevice](../imagedevice/)
+* ad alanı [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../)

@@ -1,7 +1,7 @@
 ---
-title: AppendLine
-second_title: Aspose.PDF for .NET API Referansı
-description: Metin satırı ekler
+title: TextParagraph.AppendLine
+second_title: Aspose.PDF for .NET API Reference
+description: TextParagraph metodu. Metin satırı ekler
 type: docs
 weight: 130
 url: /tr/net/aspose.pdf.text/textparagraph/appendline/
@@ -14,15 +14,15 @@ Metin satırı ekler
 public void AppendLine(string line)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | String | Yeni satırın metni. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -34,128 +34,126 @@ Metin satırı ekler.
 public void AppendLine(string line, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | String | Yeni satırın metni. |
-| lineSpacing | Single | Ek boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Belirli bir satır için varsayılan satır aralığına boşluk değeri eklenir, bu nedenle 12pt yazı tipiyle çizilmiş bir metin satırından SONRA boş satır almak için 12.0 belirtebilirsiniz. |
+| lineSpacing | Single | Ekstra boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Boşluk değeri, belirli satır için varsayılan satır boşluğuna eklenir, bu nedenle 12.0 belirterek 12pt font ile çizilmiş bir metin satırından SONRA boş bir satır elde edebilirsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, TextState) {#appendline_4}
 
-Metin durumu parametreleriyle metin satırı ekler.
+Metin durumu parametreleri ile metin satırı ekler.
 
 ```csharp
 public void AppendLine(string line, TextState textState)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | String | Yeni satırın metni. |
 | textState | TextState | Yeni satırın metin durumu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextState](../../textstate/)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, TextState, float) {#appendline_5}
 
-Metin durumu parametreleriyle metin satırı ekler
+Metin durumu parametreleri ile metin satırı ekler
 
 ```csharp
 public void AppendLine(string line, TextState textState, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | String | Yeni satırın metni. |
 | textState | TextState | Yeni satırın metin durumu. |
-| lineSpacing | Single | Ek boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Belirli bir satır için varsayılan satır aralığına boşluk değeri eklenir, bu nedenle 12pt yazı tipiyle çizilmiş bir metin satırından SONRA boş satır almak için 12.0 belirtebilirsiniz. |
+| lineSpacing | Single | Ekstra boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Boşluk değeri, belirli satır için varsayılan satır boşluğuna eklenir, bu nedenle 12.0 belirterek 12pt font ile çizilmiş bir metin satırından SONRA boş bir satır elde edebilirsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextState](../../textstate/)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment) {#appendline}
 
-Metin durumu parametreleriyle metin satırı ekler.
+Metin durumu parametreleri ile metin satırı ekler.
 
 ```csharp
 public void AppendLine(TextFragment line)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | TextFragment | Yeni satırın metni. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragment](../../textfragment)
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextFragment](../../textfragment/)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment, TextState) {#appendline_1}
 
-Metin durumu parametreleriyle metin satırı ekler.
+Metin durumu parametreleri ile metin satırı ekler.
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | TextFragment | Yeni satırın metni. |
 | textState | TextState | Yeni satırın metin durumu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextFragment](../../textfragment/)
+* sınıf [TextState](../../textstate/)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment, TextState, float) {#appendline_2}
 
-Metin durumu parametreleriyle metin satırı ekler
+Metin durumu parametreleri ile metin satırı ekler
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | line | TextFragment | Yeni satırın metni. |
 | textState | TextState | Yeni satırın metin durumu. |
-| lineSpacing | Single | Ek boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Belirli bir satır için varsayılan satır aralığına boşluk değeri eklenir, bu nedenle 12pt yazı tipiyle çizilmiş bir metin satırından SONRA boş satır almak için 12.0 belirtebilirsiniz. |
+| lineSpacing | Single | Ekstra boşluk (0.0 varsayılandır ve varsayılan metin satırı yüksekliğine karşılık gelir). Boşluk değeri, belirli satır için varsayılan satır boşluğuna eklenir, bu nedenle 12.0 belirterek 12pt font ile çizilmiş bir metin satırından SONRA boş bir satır elde edebilirsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* ad alanı [Aspose.Pdf.Text](../../textparagraph)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TextFragment](../../textfragment/)
+* sınıf [TextState](../../textstate/)
+* sınıf [TextParagraph](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)

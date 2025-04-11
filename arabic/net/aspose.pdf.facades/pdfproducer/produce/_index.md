@@ -1,14 +1,14 @@
 ---
-title: Produce
-second_title: Aspose.PDF لمرجع .NET API
-description: قم بإنتاج دفق PDF باستخدام تنسيق الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج دفق Pdf من دفق CGM.
+title: PdfProducer.Produce
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfProducer. إنتاج تدفق PDF باستخدام تنسيق الاستيراد المحدد. توضح هذه العينة كيفية إنتاج تدفق Pdf من تدفق CGM
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-قم بإنتاج دفق PDF باستخدام تنسيق الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج دفق Pdf من دفق CGM.
+إنتاج تدفق PDF باستخدام تنسيق الاستيراد المحدد. توضح هذه العينة كيفية إنتاج تدفق Pdf من تدفق CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -24,31 +24,31 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
+| inputStream | Stream | تدفق الإدخال. |
 | format | ImportFormat | تنسيق الاستيراد. |
-| outputStream | Stream | إخراج دفق PDF. |
+| outputStream | Stream | تدفق PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإدخال أو الإخراج فارغ |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإدخال أو الإخراج هو null |
 
-### أنظر أيضا
+### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-قم بإنتاج دفق PDF باستخدام تنسيق الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج دفق Pdf من ملف CGM.
+إنتاج تدفق PDF باستخدام تنسيق الاستيراد المحدد. توضح هذه العينة كيفية إنتاج تدفق Pdf من ملف CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -63,32 +63,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportFormat format, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | اسم ملف الإدخال. |
 | format | ImportFormat | تنسيق الاستيراد. |
-| outputStream | Stream | إخراج دفق PDF. |
+| outputStream | Stream | تدفق PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإخراج فارغ |
-| ArgumentException | اسم ملف الإدخال عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإخراج هو null |
+| ArgumentException | اسم ملف الإدخال هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-قم بإنتاج ملف PDF باستخدام تنسيق الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج ملف Pdf من دفق CGM.
+إنتاج ملف PDF باستخدام تنسيق الاستيراد المحدد. توضح هذه العينة كيفية إنتاج ملف Pdf من تدفق CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -104,32 +104,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportFormat format, string outputFileName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
+| inputStream | Stream | تدفق الإدخال. |
 | format | ImportFormat | تنسيق الاستيراد. |
-| outputFileName | String | إخراج ملف PDF |
+| outputFileName | String | اسم ملف PDF الناتج |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإدخال فارغ |
-| ArgumentException | اسم ملف الإخراج عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإدخال هو null |
+| ArgumentException | اسم ملف الإخراج هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-قم بإنتاج ملف PDF باستخدام تنسيق الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج ملف Pdf من ملف CGM.
+إنتاج ملف PDF باستخدام تنسيق الاستيراد المحدد. توضح هذه العينة كيفية إنتاج ملف Pdf من ملف CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -141,31 +141,31 @@ PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
 public static void Produce(string inputFileName, ImportFormat format, string outputFileName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | اسم ملف الإدخال. |
 | format | ImportFormat | تنسيق الاستيراد. |
-| outputFileName | String | إخراج ملف PDF |
+| outputFileName | String | اسم ملف PDF الناتج |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentException | اسم ملف الإدخال أو الإخراج عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentException | اسم ملف الإدخال أو الإخراج هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-قم بإنتاج دفق PDF باستخدام خيار الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج دفق Pdf من ملف CGM.
+إنتاج تدفق PDF باستخدام خيار الاستيراد المحدد. توضح هذه العينة كيفية إنتاج تدفق Pdf من ملف CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -181,32 +181,32 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(string inputFileName, ImportOptions options, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | اسم ملف الإدخال. |
 | options | ImportOptions | خيار الاستيراد. |
-| outputStream | Stream | إخراج دفق PDF. |
+| outputStream | Stream | تدفق PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإخراج فارغ |
-| ArgumentException | اسم ملف الإدخال عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإخراج هو null |
+| ArgumentException | اسم ملف الإدخال هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-قم بإنتاج ملف PDF باستخدام خيار الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج ملف Pdf من دفق CGM.
+إنتاج ملف PDF باستخدام خيار الاستيراد المحدد. توضح هذه العينة كيفية إنتاج ملف Pdf من تدفق CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -222,32 +222,32 @@ using (FileStream inputStream = File.OpenRead(inputFile))
 public static void Produce(Stream inputStream, ImportOptions options, string outputFileName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
+| inputStream | Stream | تدفق الإدخال. |
 | options | ImportOptions | خيار الاستيراد. |
-| outputFileName | String | إخراج ملف PDF. |
+| outputFileName | String | اسم ملف PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإدخال فارغ |
-| ArgumentException | اسم ملف الإخراج عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإدخال هو null |
+| ArgumentException | اسم ملف الإخراج هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-قم بإنتاج ملف PDF باستخدام خيار الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج ملف Pdf من ملف CGM.
+إنتاج ملف PDF باستخدام خيار الاستيراد المحدد. توضح هذه العينة كيفية إنتاج ملف Pdf من ملف CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -260,31 +260,31 @@ PdfProducer.Produce(inputStream, importOptions, outputStream);
 public static void Produce(string inputFileName, ImportOptions options, string outputFileName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | اسم ملف الإدخال. |
 | options | ImportOptions | خيار الاستيراد. |
-| outputFileName | String | إخراج دفق PDF. |
+| outputFileName | String | اسم ملف PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentException | اسم ملف الإدخال أو الإخراج عبارة عن سلسلة فارغة |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentException | اسم ملف الإدخال أو الإخراج هو سلسلة فارغة |
 
-### أنظر أيضا
+### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-قم بإنتاج ملف PDF باستخدام خيار الاستيراد المحدد. يوضح هذا النموذج كيفية إنتاج دفق Pdf من دفق CGM.
+إنتاج ملف PDF باستخدام خيار الاستيراد المحدد. توضح هذه العينة كيفية إنتاج تدفق Pdf من تدفق CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -301,24 +301,22 @@ using (FileStream outputStream = File.Create(outputFile))
 public static void Produce(Stream inputStream, ImportOptions options, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
+| inputStream | Stream | تدفق الإدخال. |
 | options | ImportOptions | خيار الاستيراد. |
-| outputStream | Stream | إخراج دفق PDF. |
+| outputStream | Stream | تدفق PDF الناتج. |
 
-### استثناءات
+### Exceptions
 
-| استثناء | حالة |
+| exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
-| ArgumentNullException | دفق الإدخال أو الإخراج فارغ. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | يتم طرح الاستثناء عندما يكون الملف غير صالح. |
+| ArgumentNullException | تدفق الإدخال أو الإخراج هو null. |
 
-### أنظر أيضا
+### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfproducer)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

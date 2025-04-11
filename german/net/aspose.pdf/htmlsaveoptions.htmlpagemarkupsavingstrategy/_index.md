@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingStrategy
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten die auch auf externe Dateien wie Bilder oder Schriftarten verweisen können Sie können dieser aus einer benutzerdefinierten Methode erstellten Eigenschaft einen Delegaten zuweisen der die Verarbeitung der erhaltenen HTML-Seite HTML selbst implementiert wurde während der Konvertierung erstellt. In diesem Fall kann die Verarbeitung wie das Speichern im Stream oder auf der Festplatte in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Markups der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden  da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund durch den Code des Konverters selbst erfolgen muss nicht im benutzerdefinierten Code setzen Sie bitte im benutzerdefinierten Code das Flag CustomProcessingCancelled der Variablen des htmlSavingInfo-Parameters Es signalisiert dem Konverter dass alle notwendigen Schritte zur Verarbeitung dieser Ressource müssen im Konverter selbst auf die gleiche Weise ausgeführt werden als ob es keinen externen benutzerdefinierten Speichercode gäbe.
+title: Delegate HtmlSaveOptions.HtmlPageMarkupSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten, die auch externe Dateien wie Bilder oder Schriftarten referenzieren können. Sie können dieser Eigenschaft einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung der erhaltenen HTML-Seite (HTML selbst), die während der Konvertierung erstellt wurde, implementiert. In diesem Fall kann die Verarbeitung (wie das Speichern im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Markups der HTML-Seiten im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund im Code des Konverters selbst und nicht im benutzerdefinierten Code durchgeführt werden muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen des Parameters 'htmlSavingInfo': es signalisiert dem Konverter, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Speichercode gäbe.
 type: docs
-weight: 3550
+weight: 5680
 url: /de/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate
+## HtmlSaveOptions.HtmlPageMarkupSavingStrategy-Delegat
 
-Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten (die auch auf externe Dateien wie Bilder oder Schriftarten verweisen können) Sie können dieser aus einer benutzerdefinierten Methode erstellten Eigenschaft einen Delegaten zuweisen, der die Verarbeitung der erhaltenen HTML-Seite (HTML selbst) implementiert wurde während der Konvertierung erstellt. In diesem Fall kann die Verarbeitung (wie das Speichern im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Markups der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden , da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund durch den Code des Konverters selbst erfolgen muss, nicht im benutzerdefinierten Code, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen des 'htmlSavingInfo'-Parameters: Es signalisiert dem Konverter, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource müssen im Konverter selbst auf die gleiche Weise ausgeführt werden, als ob es keinen externen benutzerdefinierten Speichercode gäbe.
+Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten (die auch externe Dateien wie Bilder oder Schriftarten referenzieren können) enthalten. Sie können dieser Eigenschaft einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung der erhaltenen HTML-Seite (HTML selbst), die während der Konvertierung erstellt wurde, implementiert. In diesem Fall kann die Verarbeitung (wie das Speichern im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Markups der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund im Code des Konverters selbst und nicht im benutzerdefinierten Code durchgeführt werden muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen des Parameters 'htmlSavingInfo': es signalisiert dem Konverter, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Speichercode gäbe.
 
 ```csharp
 public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlSavingInfo);
@@ -16,13 +16,11 @@ public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlS
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| htmlSavingInfo | HtmlPageMarkupSavingInfo | stellt Daten dar, die zum Speichern oder Verarbeiten der bereitgestellten HTML-Seite verwendet werden können |
+| htmlSavingInfo | HtmlPageMarkupSavingInfo | repräsentiert Daten, die zum Speichern oder Verarbeiten der bereitgestellten HTML-Seite verwendet werden können |
 
 ### Siehe auch
 
-* class [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
+* Klasse [HtmlSaveOptions](../htmlsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

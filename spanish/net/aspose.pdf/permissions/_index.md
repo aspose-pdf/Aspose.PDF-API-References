@@ -1,14 +1,14 @@
 ---
-title: Permissions
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Esta enumeración representa los permisos del usuario para un pdf.
+title: Enum Permissions
+second_title: Aspose.PDF for .NET API Reference
+description: Enum de Aspose.Pdf.Permissions. Este enum representa los permisos de los usuarios para un pdf
 type: docs
-weight: 6110
+weight: 8480
 url: /es/net/aspose.pdf/permissions/
 ---
-## Permissions enumeration
+## Enumeración de permisos
 
-Esta enumeración representa los permisos del usuario para un pdf.
+Este enum representa los permisos del usuario para un pdf.
 
 ```csharp
 [Flags]
@@ -19,18 +19,16 @@ public enum Permissions
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| PrintDocument | `4` | (Controladores de seguridad de revisión 2) Imprima el documento. (Controladores de seguridad de revisión 3 o superior) Imprima el documento (posiblemente no con el nivel de calidad más alto, dependiendo de siPrintingQualitytambién está configurado). |
-| ModifyContent | `8` | Modificar el contenido del documento mediante operaciones distintas a las controladas porModifyTextAnnotations , FillForm y 11. |
-| ExtractContent | `10` | (Controladores de seguridad de revisión 2) Copiar o extraer de otro modo texto y gráficos del documento, incluida la extracción de texto y gráficos (en apoyo de la accesibilidad para usuarios con discapacidades o para otros fines). (Controladores de seguridad de revisión 3 o mayor) Copiar o de otro modo extraer texto y gráficos del documento mediante operaciones distintas a las controladas porExtractContentWithDisabilities . |
-| ModifyTextAnnotations | `20` | Agregar o modificar anotaciones de texto, completar campos de formulario interactivo, y, siModifyContent también está configurado, cree o modifique campos de formulario interactivo (incluidos los campos de firma). |
-| FillForm | `100` | (controladores de seguridad de revisión 3 o superior) Complete los campos de formulario interactivo existentes (incluidos los campos de firma), incluso si ModifyTextAnnotations está claro. |
-| ExtractContentWithDisabilities | `200` | (controladores de seguridad de revisión 3 o superior) Extraer texto y gráficos (en apoyo de la accesibilidad para usuarios con discapacidades o para otros fines). |
-| AssembleDocument | `400` | (controladores de seguridad de revisión 3 o superior) ensamblar el documento (insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura ), incluso siModifyContent está claro. |
-| PrintingQuality | `800` | (controladores de seguridad de revisión 3 o superior) Imprima el documento en una representación a partir de la cual se podría generar una copia digital fiel del contenido del PDF . Cuando este bit está en blanco (y el bit 3 está establecido), la impresión se limita a una representación de bajo nivel de la apariencia, posiblemente de calidad degradada. |
+| PrintDocument | `4` | (Controladores de seguridad de la revisión 2) Imprimir el documento. (Controladores de seguridad de la revisión 3 o superior) Imprimir el documento (posiblemente no en el nivel de calidad más alto, dependiendo de si PrintingQuality también está configurado). |
+| ModifyContent | `8` | Modificar el contenido del documento mediante operaciones distintas de las controladas por ModifyTextAnnotations, FillForm y 11. |
+| ExtractContent | `10` | (Controladores de seguridad de la revisión 2) Copiar o extraer de otro modo texto y gráficos del documento, incluyendo la extracción de texto y gráficos (en apoyo a la accesibilidad para usuarios con discapacidades u otros propósitos). (Controladores de seguridad de la revisión 3 o superior) Copiar o extraer de otro modo texto y gráficos del documento mediante operaciones distintas de las controladas por ExtractContentWithDisabilities. |
+| ModifyTextAnnotations | `20` | Agregar o modificar anotaciones de texto, completar campos de formularios interactivos y, si ModifyContent también está configurado, crear o modificar campos de formularios interactivos (incluidos los campos de firma). |
+| FillForm | `100` | (Controladores de seguridad de la revisión 3 o superior) Completar campos de formularios interactivos existentes (incluidos los campos de firma), incluso si ModifyTextAnnotations está claro. |
+| ExtractContentWithDisabilities | `200` | (Controladores de seguridad de la revisión 3 o superior) Extraer texto y gráficos (en apoyo a la accesibilidad para usuarios con discapacidades u otros propósitos). |
+| AssembleDocument | `400` | (Controladores de seguridad de la revisión 3 o superior) Ensamblar el documento (insertar, rotar o eliminar páginas y crear marcadores o imágenes en miniatura), incluso si ModifyContent está claro. |
+| PrintingQuality | `800` | (Controladores de seguridad de la revisión 3 o superior) Imprimir el documento en una representación de la cual se podría generar una copia digital fiel del contenido PDF. Cuando este bit está claro (y el bit 3 está configurado), la impresión se limita a una representación de bajo nivel de la apariencia, posiblemente de calidad degradada. |
 
-### Ver también
+### Ver También
 
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Definiert den Besucher zum Aufrufen verschiedener Dokumentanmerkungen.
+title: Interface IAnnotationVisitor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.IAnnotationVisitor-Schnittstelle. Definiert Visitor zum Besuchen verschiedener Dokumentannotationen
 type: docs
-weight: 510
+weight: 1890
 url: /de/net/aspose.pdf.annotations/iannotationvisitor/
 ---
-## IAnnotationVisitor interface
+## IAnnotationVisitor-Schnittstelle
 
-Definiert den Besucher zum Aufrufen verschiedener Dokumentanmerkungen.
+Definiert Visitor zum Besuchen verschiedener Dokumentannotationen.
 
 ```csharp
 public interface IAnnotationVisitor
@@ -18,30 +18,32 @@ public interface IAnnotationVisitor
 
 | Name | Beschreibung |
 | --- | --- |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit)(CaretAnnotation) | Caret-Anmerkung aufrufen/wählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_1)(CircleAnnotation) | Kreisanmerkung besuchen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_2)(FileAttachmentAnnotation) | Aufrufen/Anhangsanmerkung auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_3)(FreeTextAnnotation) | Freitextanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_4)(HighlightAnnotation) | Highlight-Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_5)(InkAnnotation) | Freihandanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_6)(LineAnnotation) | Zeilenanmerkung besuchen/wählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_7)(LinkAnnotation) | Link-Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_8)(MovieAnnotation) | Filmanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_9)(PolygonAnnotation) | Polygon-Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_10)(PolylineAnnotation) | Polylinienanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_11)(PopupAnnotation) | Popup-Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_12)(ScreenAnnotation) | Bildschirmanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_13)(SquareAnnotation) | Quadratische Anmerkung besuchen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_14)(SquigglyAnnotation) | Rufen Sie die verschnörkelte Anmerkung auf/wählen Sie sie aus. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | Stempelanmerkung besuchen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | Durchgestrichene Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_17)(TextAnnotation) | Textanmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_18)(UnderlineAnnotation) | Unterstrichene Anmerkung aufrufen/auswählen. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_19)(WidgetAnnotation) | Widget-Anmerkung aufrufen/auswählen. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit)(BleedMarkAnnotation) | Besuchen/auswählen einer Beschnittmarkierungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_1)(CaretAnnotation) | Besuchen/auswählen einer Einfügemarkierungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_2)(CircleAnnotation) | Besuchen/auswählen einer Kreisannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_3)(FileAttachmentAnnotation) | Besuchen/auswählen einer Anhangannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_4)(FreeTextAnnotation) | Besuchen/auswählen einer Freitextannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_5)(HighlightAnnotation) | Besuchen/auswählen einer Hervorhebungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_6)(InkAnnotation) | Besuchen/auswählen einer Tintenannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_7)(LineAnnotation) | Besuchen/auswählen einer Linienannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_8)(LinkAnnotation) | Besuchen/auswählen einer Linkannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_9)(MovieAnnotation) | Besuchen/auswählen einer Filmannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_10)(PageInformationAnnotation) | Besuchen/auswählen einer Seiteninformationsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_11)(PolygonAnnotation) | Besuchen/auswählen einer Polygonannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_12)(PolylineAnnotation) | Besuchen/auswählen einer Polylinienannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_13)(PopupAnnotation) | Besuchen/auswählen einer Popupannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_14)(RegistrationMarkAnnotation) | Besuchen/auswählen einer Registrierungsmarkierungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_15)(ScreenAnnotation) | Besuchen/auswählen einer Bildschirmannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_16)(SquareAnnotation) | Besuchen/auswählen einer Quadratannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_17)(SquigglyAnnotation) | Besuchen/auswählen einer gewellten Annotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_18)(StampAnnotation) | Besuchen/auswählen einer Stempelannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_19)(StrikeOutAnnotation) | Besuchen/auswählen einer Durchstreichannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_20)(TextAnnotation) | Besuchen/auswählen einer Textannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_21)(TrimMarkAnnotation) | Besuchen/auswählen einer Schnittmarkierungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_22)(UnderlineAnnotation) | Besuchen/auswählen einer Unterstreichungsannotation. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_23)(WidgetAnnotation) | Besuchen/auswählen einer Widgetannotation. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

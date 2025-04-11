@@ -1,12 +1,12 @@
 ---
-title: ImageDevice
-second_title: Aspose.PDF för .NET API Referens
-description: En abstrakt klass för bildenheter.
+title: Class ImageDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Devices.ImageDevice klass. En abstrakt klass för bildenheter
 type: docs
-weight: 1710
+weight: 3610
 url: /sv/net/aspose.pdf.devices/imagedevice/
 ---
-## ImageDevice class
+## ImageDevice klass
 
 En abstrakt klass för bildenheter.
 
@@ -16,37 +16,35 @@ public abstract class ImageDevice : PageDevice
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageDevice](imagedevice#constructor)() | Abstrakt initialiserare för[`ImageDevice`](../imagedevice) ättlingar, ställ in upplösningen till 150x150. |
-| [ImageDevice](imagedevice#constructor_2)(PageSize) | Initierar en ny instans av[`JpegDevice`](../jpegdevice) klass med angivna bildmått och standardupplösning (=150). |
-| [ImageDevice](imagedevice#constructor_1)(Resolution) | Abstrakt initialiserare för[`ImageDevice`](../imagedevice) ättlingar.  Upplösning för resultatbildfilen, se[`Resolution`](./resolution) class. |
-| [ImageDevice](imagedevice#constructor_4)(int, int) | Initierar en ny instans av[`JpegDevice`](../jpegdevice) klass med angivna bildmått och standardupplösning (=150). |
-| [ImageDevice](imagedevice#constructor_3)(PageSize, Resolution) | Initierar en ny instans av[`JpegDevice`](../jpegdevice) klass med angivna bildmått och upplösning. |
-| [ImageDevice](imagedevice#constructor_5)(int, int, Resolution) | Initierar en ny instans av[`JpegDevice`](../jpegdevice) klass med angivna bildmått och upplösning. |
+| [ImageDevice](imagedevice/#constructor)() | Abstrakt initialiserare för `ImageDevice`-avkommor, sätter upplösning till 150x150. |
+| [ImageDevice](imagedevice/#constructor_2)(PageSize) | Initierar en ny instans av [`JpegDevice`](../jpegdevice/) klassen med angivna bilddimensioner och standardupplösning (=150). |
+| [ImageDevice](imagedevice/#constructor_1)(Resolution) | Abstrakt initialiserare för `ImageDevice`-avkommor. Upplösning för den resulterande bildfilen, se [`Resolution`](./resolution/) klass. |
+| [ImageDevice](imagedevice/#constructor_4)(int, int) | Initierar en ny instans av [`JpegDevice`](../jpegdevice/) klassen med angivna bilddimensioner och standardupplösning (=150). |
+| [ImageDevice](imagedevice/#constructor_3)(PageSize, Resolution) | Initierar en ny instans av [`JpegDevice`](../jpegdevice/) klassen med angivna bilddimensioner och upplösning. |
+| [ImageDevice](imagedevice/#constructor_5)(int, int, Resolution) | Initierar en ny instans av [`JpegDevice`](../jpegdevice/) klassen med angivna bilddimensioner och upplösning. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Hämtar eller ställer in sidkoordinattypen (Media/Crop-rutor). CropBox-värdet används som standard. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Hämtar eller ställer in formulärpresentationsläge. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Får bildutgångshöjd. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Hämtar eller ställer in renderingsalternativ. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Får bildupplösning. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Får bildutdatabredd. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Hämtar eller sätter sidkoordinattyp (Media/Crop-boxar). CropBox-värdet används som standard. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Hämtar eller sätter formulärpresentationläge. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Hämtar bildens utgångshöjd. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Hämtar eller sätter renderingalternativ. |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Hämtar bildens upplösning. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Hämtar bildens utgångsbred. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process)(Page, Stream) | Utför någon operation på den givna sidan, t.ex. omvandlar sidan till grafisk bild. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Utför någon operation på den givna sidan och sparar resultat i filen. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Utför en operation på den angivna sidan, t.ex. konverterar sidan till en grafisk bild. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Utför en operation på den angivna sidan och sparar resultaten i filen. |
 
-### Se även
+### Se Även
 
-* class [PageDevice](../pagedevice)
-* namnutrymme [Aspose.Pdf.Devices](../../aspose.pdf.devices)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PageDevice](../pagedevice/)
+* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)

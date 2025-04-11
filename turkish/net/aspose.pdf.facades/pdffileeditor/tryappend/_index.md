@@ -1,37 +1,37 @@
 ---
-title: TryAppend
-second_title: Aspose.PDF for .NET API Referansı
-description: portStreams içindeki belge dizisinden seçilen sayfaları ekler. Sonuç belgesi firstInputFile ve startPage - endPage aralığındaki tüm portStreams belge sayfalarını içerir.
+title: PdfFileEditor.TryAppend
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor yöntemi. portStreams içindeki belgeler dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portStreams belgelerinin sayfalarını içerir.
 type: docs
-weight: 410
+weight: 380
 url: /tr/net/aspose.pdf.facades/pdffileeditor/tryappend/
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
-portStreams içindeki belge dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage - endPage aralığındaki tüm portStreams belge sayfalarını içerir.
+portStreams içindeki belgeler dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portStreams belgelerinin sayfalarını içerir.
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş Pdf akışı. |
+| inputStream | Stream | Girdi Pdf akışı. |
 | portStreams | Stream[] | Sayfaların kopyalanacağı belgeler. |
-| startPage | Int32 | Sayfa, portStreams belgelerinde başlar. |
-| endPage | Int32 | Sayfa, portStreams belgelerinde biter. |
-| outputStream | Stream | Çıktı pdf akışı. |
+| startPage | Int32 | portStreams belgelerinde sayfanın başladığı yer. |
+| endPage | Int32 | portStreams belgelerinde sayfanın bittiği yer. |
+| outputStream | Stream | Çıktı Pdf akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryAppend yöntemi, İşlem başarısız olursa TryAppend yönteminin bir istisna oluşturmaması dışında, Append yöntemine benzer.
+TryAppend yöntemi, Append yöntemine benzer, ancak TryAppend yöntemi işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -42,97 +42,96 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryAppend(string, string[], int, int, string) {#tryappend_2}
+## TryAppend(string, string[], int, int, string) {#tryappend_1}
 
-portFiles belgelerinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage - endPage aralığındaki tüm portFiles belge sayfalarını içerir.
+portFiles belgelerinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portFiles belgelerinin sayfalarını içerir.
 
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
     string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
+| inputFile | String | Girdi Pdf dosyası. |
 | portFiles | String[] | Sayfaların kopyalanacağı belgeler. |
-| startPage | Int32 | Sayfa, portFiles belgelerinde başlar. |
-| endPage | Int32 | PortFiles belgelerinde sayfa biter. |
-| outputFile | String | Çıktı pdf belgesi. |
+| startPage | Int32 | portFiles belgelerinde sayfanın başladığı yer. |
+| endPage | Int32 | portFiles belgelerinde sayfanın bittiği yer. |
+| outputFile | String | Çıktı Pdf belgesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryAppend yöntemi, İşlem başarısız olursa TryAppend yönteminin bir istisna oluşturmaması dışında, Append yöntemine benzer.
+TryAppend yöntemi, Append yöntemine benzer, ancak TryAppend yöntemi işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
----
 
 ## TryAppend(Stream, Stream[], int, int, HttpResponse) {#tryappend_1}
 
-Belgeleri kaynak belgeye ekler ve sonucu yanıt nesnesine kaydeder.
+Kaynak belgeye belgeleri ekler ve sonucu yanıt nesnesine kaydeder.
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Kaynak belgeyi içeren akış. |
-| portStreams | Stream[] | Eklenecek belgelerle akış dizisi. |
+| portStreams | Stream[] | Eklenecek belgelerle birlikte akışlar dizisi. |
 | startPage | Int32 | Eklenen sayfanın başlangıç sayfası. |
 | endPage | Int32 | Eklenen sayfaların bitiş sayfası. |
 | response | HttpResponse | Belgenin kaydedileceği yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryAppend yöntemi, İşlem başarısız olursa TryAppend yönteminin bir istisna oluşturmaması dışında, Append yöntemine benzer.
+TryAppend yöntemi, Append yöntemine benzer, ancak TryAppend yöntemi işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryAppend(string, string[], int, int, HttpResponse) {#tryappend_3}
 
-Belgeleri kaynak belgeye ekler ve sonucu HttpResponse nesnesine kaydeder.
+Kaynak belgeye belgeleri ekler ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak belgeyi içeren dosyanın adı. |
 | portFiles | String[] | Eklenen belgeleri içeren dosya adları dizisi. |
@@ -140,18 +139,16 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 | endPage | Int32 | Eklenen sayfaların bitiş sayfası. |
 | response | HttpResponse | Belgenin kaydedileceği yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryAppend yöntemi, İşlem başarısız olursa TryAppend yönteminin bir istisna oluşturmaması dışında, Append yöntemine benzer.
+TryAppend yöntemi, Append yöntemine benzer, ancak TryAppend yöntemi işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

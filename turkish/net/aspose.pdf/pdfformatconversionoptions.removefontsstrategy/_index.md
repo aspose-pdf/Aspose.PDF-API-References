@@ -1,32 +1,30 @@
 ---
-title: PdfFormatConversionOptions.RemoveFontsStrategy
-second_title: Aspose.PDF for .NET API Referansı
-description: Bazı belgelerin PDF/A biçimine dönüştürüldükten sonra büyük boyutu vardır. this belgelerinin dosya boyutunu küçültmek için bir yazı tipi kaldırma stratejisi tanımlamanız gerekir. Bu numaralandırma yazı tipi kullanımını optimize etmek için kullanılabilecek bir strateji bildirir. Bu numaralandırmadaki her strateji yalnızca bayrak işaretlendiğinde anlamlıdır.OptimizeFileSize./pdfformatconversionoptions/optimizefilesize ayarlandı.
+title: Enum PdfFormatConversionOptions.RemoveFontsStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.PdfFormatConversionOptionsRemoveFontsStrategy enum. Bazı belgeler PDF/A formatına dönüştürüldüğünde büyük boyutlara sahip olmaktadır. Bu belgelerin dosya boyutunu azaltmak için bir yazı tipi kaldırma stratejisi tanımlamak gereklidir. Bu enumerasyon, yazı tipi kullanımını optimize etmek için kullanılabilecek stratejileri bildirir. Bu enumerasyondaki her strateji, OptimizeFileSize bayrağı ayarlandığında anlam kazanır.
 type: docs
-weight: 6050
+weight: 8400
 url: /tr/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/
 ---
-## PdfFormatConversionOptions.RemoveFontsStrategy enumeration
+## PdfFormatConversionOptions.RemoveFontsStrategy enumerasyonu
 
-Bazı belgelerin PDF/A biçimine dönüştürüldükten sonra büyük boyutu vardır. this belgelerinin dosya boyutunu küçültmek için bir yazı tipi kaldırma stratejisi tanımlamanız gerekir. Bu numaralandırma, yazı tipi kullanımını optimize etmek için kullanılabilecek bir strateji bildirir. Bu numaralandırmadaki her strateji, yalnızca bayrak işaretlendiğinde anlamlıdır.[`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize) ayarlandı.
+Bazı belgeler PDF/A formatına dönüştürüldüğünde büyük boyutlara sahip olmaktadır. Bu belgelerin dosya boyutunu azaltmak için bir yazı tipi kaldırma stratejisi tanımlamak gereklidir. Bu enumerasyon, yazı tipi kullanımını optimize etmek için kullanılabilecek stratejileri bildirir. Bu enumerasyondaki her strateji, [`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize/) bayrağı ayarlandığında anlam kazanır.
 
 ```csharp
 [Flags]
 public enum RemoveFontsStrategy : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| İsim | Değer | Açıklama |
 | --- | --- | --- |
-| RemoveDuplicatedFonts | `4` | Bu strateji, belgede yinelenen tüm yazı tiplerini kaldırır. belgesi, yinelenen yazı tipleri grubu içeriyorsa, bu gruptan yalnızca bir yazı tipi belgeye gömülür. Bu gruptaki diğer tüm fontlar belgeden kaldırılır, kaldırılan her font zaten gömülü analogla değiştirilir. |
-| RemoveSimilarFontsWithDifferentWidths | `1` | Bu strateji şuna benzer:RemoveDuplicatedFontsancak tamamen yinelenen yazı tiplerini değil, birbirine benzeyen ve yalnızca "Genişlikler" parametresi ile farklılık gösteren yazı tiplerini kaldırır. Bu parametre, belirtilen yazı tipi simgeleri için bazı genişlikler kümesi içerir. Bu "Genişlikler" kümesindeki her genişlik değeri, sembolün (glifin) gerçek genişliği değildir, bu sembol için gerçek genişlik zaten yazı tipinin ikili verilerinde tanımlanmıştır. "Genişlikler" kümesindeki genişlik değeri, bu sembolü için görsel genişlik anlamına gelir - yazı tipinde tanımlanan gerçek genişlik yerine PDF görüntüleyici yazılımının görüntüleme sembolünde ayarlaması gereken genişlik. Daha doğru belirtim şunları söyler: Acrobat 5.0 ve sonraki sürümler görüntüleyiciler, yazı tipi programının kendisindeki glif genişliklerini geçersiz kılmak için yazı tipi sözlüğünde saklanan glif genişliklerini kullanır, bu da görüntünün tutarlılığını ve belgenin yazdırılmasını geliştirir. Bu strateji daha etkilidirRemoveDuplicatedFontsancak bu stratejisinin bazı durumlarda teorik olarak kullanılması dönüştürülen belgenin görsel sunumuna zarar verebilir. Bu kusur, aynı sembolü için ilan edilen yazı tiplerinin genişliklerinin farklı olabileceği ve bu durumda bu sembolün genişliğinin, yazı tipi değiştirildikten sonra yenisiyle değiştirileceğinden dolayı mümkündür - kaldırıldığında, yazı tipi belgede önceden gömülü olanla değiştirilecektir one. Ve eğer sembolün görsel genişliği değiştirilirse - yanlış gösterilecektir ve bu ayrımı, metin çakışması veya başka problemler gibi görsel kusurlara neden olabilir. Ancak açıklanan görsel kusur çok nadir görülen bir durumdur ve bu strateji belgenin boyutunu daha etkili bir şekilde azaltır. |
-| SubsetFonts | `2` | Bu, belgenin boyutunu küçültmek için en etkili stratejidir. Tamamen gömülü yazı tipi kümelerini alır ve bunları yalnızca kullanılan alt kümelere indirger. Bu stratejiyi kombinasyon ile birlikte kullanmanız önerilir.RemoveDuplicatedFonts veyaRemoveSimilarFontsWithDifferentWidths to dosya boyutu için çoklu sıkıştırma efekti elde eder. Her üç stratejinin de aynı anda kullanılması hiçbir anlam ve stratejiye sahip değildirRemoveSimilarFontsWithDifferentWidths bu durumda kullanılmayacaktır. |
+| RemoveDuplicatedFonts | `4` | Bu strateji, belgede tekrar eden tüm yazı tiplerini kaldırır. Eğer belge bir grup tekrar eden yazı tipi içeriyorsa, bu gruptan yalnızca bir yazı tipi belgede gömülüdür. Bu gruptaki diğer tüm yazı tipleri belgeden kaldırılır, her kaldırılan yazı tipi, zaten gömülü olan bir analoğu ile değiştirilir. |
+| RemoveSimilarFontsWithDifferentWidths | `1` | Bu strateji, RemoveDuplicatedFonts'a benzer ancak tamamen tekrar eden yazı tiplerini değil, birbirine benzer ve yalnızca "Widths" parametresi ile farklılık gösteren yazı tiplerini kaldırır. Bu parametre, belirli yazı tipi sembollerinin bazı genişliklerini içeren bir kümedir. Bu "Widths" kümesindeki her genişlik değeri, sembolün (glyph) gerçek genişliği değildir; bu sembol için gerçek genişlik, yazı tipinin ikili verilerinde zaten tanımlanmıştır. "Widths" kümesindeki genişlik değeri, bu sembol için görsel genişliği ifade eder - PDF görüntüleme yazılımının sembolü görüntülemesi sırasında gerçek genişlik yerine ayarlaması gereken genişliktir. Daha doğru bir şekilde belirtmek gerekirse: Acrobat 5.0 ve sonraki görüntüleyiciler, yazı tipi sözlüğünde saklanan glyph genişliklerini kullanarak yazı tipi programındaki glyph genişliklerini geçersiz kılar, bu da belgenin görüntülenmesi ve yazdırılmasındaki tutarlılığı artırır. Bu strateji, RemoveDuplicatedFonts'tan daha etkilidir ancak bu stratejinin bazı durumlarda teorik olarak dönüştürülmüş belgenin görsel sunumuna zarar verebileceği durumlar vardır. Bu kusur, yazı tiplerinin tanımlanan genişliklerinin aynı sembol için farklı olabileceğinden kaynaklanabilir ve bu durumda bu sembolün genişliği, kaldırılan yazı tipi belgede zaten gömülü olan bir yazı tipi ile değiştirildiğinde yeni bir genişliğe değişecektir. Ve eğer sembolün görsel genişliği değişirse - yanlış gösterilecektir ve bu farklılık, metin üst üste binmesi veya başka sorunlar gibi görsel kusurlara neden olabilir. Ancak tanımlanan görsel kusur çok nadir bir durumdur ve bu strateji, belgenin boyutunu daha etkili bir şekilde azaltır. |
+| SubsetFonts | `2` | Bu, belgenin boyutunu azaltmak için en etkili stratejidir. Tamamen gömülü yazı tipi setlerini alır ve yalnızca kullanılan alt kümelere indirger. Bu stratejinin, dosya boyutu için çoklu sıkıştırma etkisi elde etmek amacıyla RemoveDuplicatedFonts veya RemoveSimilarFontsWithDifferentWidths ile birleştirilmesi önerilir. Üç stratejinin aynı anda kullanılması mantıklı değildir ve bu durumda RemoveSimilarFontsWithDifferentWidths stratejisi kullanılmayacaktır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFormatConversionOptions](../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

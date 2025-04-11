@@ -1,72 +1,70 @@
 ---
-title: ITaggedContent
-second_title: Aspose.PDF for .NET API Referansı
-description: Belgenin TaggedPdf içeriğiyle çalışmak için arabirimi temsil eder.
+title: Interface ITaggedContent
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Tagged.ITaggedContent arayüzü. Belgenin TaggedPdf içeriği ile çalışmak için arayüzü temsil eder
 type: docs
-weight: 6520
+weight: 10310
 url: /tr/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## ITaggedContent interface
+## ITaggedContent arayüzü
 
-Belgenin TaggedPdf içeriğiyle çalışmak için arabirimi temsil eder.
+Belgenin TaggedPdf içeriği ile çalışmak için arayüzü temsil eder.
 
 ```csharp
 public interface ITaggedContent
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } | Kök alır[`StructureElement`](../../aspose.pdf.logicalstructure/structureelement) PDF belgesinin mantıksal yapısı. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } | alır[`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement) PDF belgesinin. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } | Almak[`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate) tüm belge için ayarlar. |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | PDF belgesinin mantıksal yapısının kök [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) nesnesini alır. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | PDF belgesinin [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) nesnesini alır. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | Tüm belge için [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) ayarlarını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement)() | oluşturur[`AnnotElement`](../../aspose.pdf.logicalstructure/annotelement). |
-| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement)() | oluşturur[`ArtElement`](../../aspose.pdf.logicalstructure/artelement). |
-| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement)() | oluşturur[`BibEntryElement`](../../aspose.pdf.logicalstructure/bibentryelement). |
-| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement)() | oluşturur[`BlockQuoteElement`](../../aspose.pdf.logicalstructure/blockquoteelement). |
-| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement)() | oluşturur[`CaptionElement`](../../aspose.pdf.logicalstructure/captionelement). |
-| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement)() | oluşturur[`CodeElement`](../../aspose.pdf.logicalstructure/codeelement). |
-| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement)() | oluşturur[`DivElement`](../../aspose.pdf.logicalstructure/divelement). |
-| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement)() | oluşturur[`FigureElement`](../../aspose.pdf.logicalstructure/figureelement). |
-| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement)() | oluşturur[`FormElement`](../../aspose.pdf.logicalstructure/formelement). |
-| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement)() | oluşturur[`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement)() | oluşturur[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) | oluşturur[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement) seviye ile. |
-| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement)() | oluşturur[`IndexElement`](../../aspose.pdf.logicalstructure/indexelement). |
-| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement)() | oluşturur[`LinkElement`](../../aspose.pdf.logicalstructure/linkelement). |
-| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement)() | oluşturur[`ListElement`](../../aspose.pdf.logicalstructure/listelement). |
-| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement)() | oluşturur[`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement). |
-| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement)() | oluşturur[`NoteElement`](../../aspose.pdf.logicalstructure/noteelement). |
-| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement)() | oluşturur[`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement). |
-| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement)() | oluşturur[`PartElement`](../../aspose.pdf.logicalstructure/partelement). |
-| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement)() | oluşturur[`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement). |
-| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement)() | oluşturur[`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement). |
-| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement)() | oluşturur[`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement). |
-| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement)() | oluşturur[`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement). |
-| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement)() | oluşturur[`SectElement`](../../aspose.pdf.logicalstructure/sectelement). |
-| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement)() | oluşturur[`SpanElement`](../../aspose.pdf.logicalstructure/spanelement). |
-| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement)() | oluşturur[`TableElement`](../../aspose.pdf.logicalstructure/tableelement). |
-| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement)() | oluşturur[`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
-| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement)() | oluşturur[`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement). |
-| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement)() | oluşturur[`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement). |
-| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement)() | oluşturur[`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
-| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement)() | oluşturur[`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement). |
-| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement)() | oluşturur[`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement). |
-| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement)() | oluşturur[`TOCElement`](../../aspose.pdf.logicalstructure/tocelement). |
-| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement)() | oluşturur[`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement). |
-| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement)() | oluşturur[`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) | Pdf belgesi için doğal dili ayarlar. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) | PDF belgesinin başlığını ayarlar. |
+| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement/)() | [`AnnotElement`](../../aspose.pdf.logicalstructure/annotelement/) oluşturur. |
+| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement/)() | [`ArtElement`](../../aspose.pdf.logicalstructure/artelement/) oluşturur. |
+| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement/)() | [`BibEntryElement`](../../aspose.pdf.logicalstructure/bibentryelement/) oluşturur. |
+| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement/)() | [`BlockQuoteElement`](../../aspose.pdf.logicalstructure/blockquoteelement/) oluşturur. |
+| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement/)() | [`CaptionElement`](../../aspose.pdf.logicalstructure/captionelement/) oluşturur. |
+| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement/)() | [`CodeElement`](../../aspose.pdf.logicalstructure/codeelement/) oluşturur. |
+| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement/)() | [`DivElement`](../../aspose.pdf.logicalstructure/divelement/) oluşturur. |
+| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement/)() | [`FigureElement`](../../aspose.pdf.logicalstructure/figureelement/) oluşturur. |
+| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement/)() | [`FormElement`](../../aspose.pdf.logicalstructure/formelement/) oluşturur. |
+| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement/)() | [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/) oluşturur. |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement)() | [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) oluşturur. |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | Seviye ile [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) oluşturur. |
+| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/) oluşturur. |
+| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/) oluşturur. |
+| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | [`ListElement`](../../aspose.pdf.logicalstructure/listelement/) oluşturur. |
+| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/) oluşturur. |
+| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/) oluşturur. |
+| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/) oluşturur. |
+| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement/)() | [`PartElement`](../../aspose.pdf.logicalstructure/partelement/) oluşturur. |
+| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement/)() | [`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement/) oluşturur. |
+| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement/)() | [`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement/) oluşturur. |
+| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement/)() | [`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement/) oluşturur. |
+| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement/)() | [`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement/) oluşturur. |
+| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement/)() | [`SectElement`](../../aspose.pdf.logicalstructure/sectelement/) oluşturur. |
+| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement/)() | [`SpanElement`](../../aspose.pdf.logicalstructure/spanelement/) oluşturur. |
+| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement/)() | [`TableElement`](../../aspose.pdf.logicalstructure/tableelement/) oluşturur. |
+| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/)() | [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/) oluşturur. |
+| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement/)() | [`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement/) oluşturur. |
+| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement/)() | [`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement/) oluşturur. |
+| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement/)() | [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/) oluşturur. |
+| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement/)() | [`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement/) oluşturur. |
+| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement/)() | [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement/) oluşturur. |
+| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/) oluşturur. |
+| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/) oluşturur. |
+| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/) oluşturur. |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | PDF belgesi için doğal dili ayarlar. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | PDF belgesi için başlık ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Tagged](../../aspose.pdf.tagged)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)

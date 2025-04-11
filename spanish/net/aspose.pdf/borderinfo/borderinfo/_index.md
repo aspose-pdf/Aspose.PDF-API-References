@@ -1,136 +1,134 @@
 ---
-title: BorderInfo
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inicializa una nueva instancia delBorderInfoaspose.pdf/borderinfo clase.
+title: BorderInfo.BorderInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Constructor de BorderInfo. Inicializa una nueva instancia de la clase BorderInfo
 type: docs
 weight: 10
 url: /es/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | borderSide | BorderSide | Indica la información de los lados del borde. Por ejemplo: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | El color del borde. |
 
-### Ver también
+### Ver También
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo() {#constructor}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo()
 ```
 
-### Ver también
+### Ver También
 
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | borderSide | BorderSide | Indica la información de los lados del borde. Por ejemplo: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Ver también
+### Ver También
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | borderSide | BorderSide | Indica la información de los lados del borde. Por ejemplo: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | El ancho del borde. |
 
-### Ver también
+### Ver También
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | borderSide | BorderSide | Indica la información de los lados del borde. Por ejemplo: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | El ancho del borde. |
 | borderColor | Color | El color del borde. |
 
-### Ver también
+### Ver También
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Inicializa una nueva instancia del[`BorderInfo`](../../borderinfo) clase.
+Inicializa una nueva instancia de la clase [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | borderSide | BorderSide | Indica la información de los lados del borde. Por ejemplo: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | La información de la frontera. |
+| info | GraphInfo | La información del borde. |
 
-### Ver también
+### Ver También
 
-* enum [BorderSide](../../borderside)
-* class [GraphInfo](../../graphinfo)
-* class [BorderInfo](../../borderinfo)
-* espacio de nombres [Aspose.Pdf](../../borderinfo)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

@@ -1,51 +1,98 @@
 ---
-title: HtmlLoadOptions
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل خيارات تحميل / استيراد ملف html إلى مستند pdf.
+title: Class HtmlLoadOptions
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.HtmlLoadOptions. تمثل الخيارات لتحميل/استيراد ملف HTML إلى مستند PDF
 type: docs
-weight: 3400
+weight: 5530
 url: /ar/net/aspose.pdf/htmlloadoptions/
 ---
-## HtmlLoadOptions class
+## فئة HtmlLoadOptions
 
-يمثل خيارات تحميل / استيراد ملف html إلى مستند pdf.
+تمثل الخيارات لتحميل/استيراد ملف HTML إلى مستند PDF.
 
 ```csharp
 public sealed class HtmlLoadOptions : LoadOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions#constructor)() | ينشئ خيارات تحميل لتحويل html إلى مستند pdf بمسار أساسي فارغ. |
-| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | ينشئ خيارات تحميل لتحويل html إلى مستند pdf بمسار أساسي محدد. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor)() | ينشئ خيارات تحميل لتحويل HTML إلى مستند PDF مع مسار أساسي فارغ. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | ينشئ خيارات تحميل لتحويل HTML إلى مستند PDF مع مسار أساسي محدد. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | المسار الأساسي / عنوان url لملف html. |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | الحصول على أو تعيين أنواع الوسائط المحتملة المستخدمة أثناء العرض. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | الحصول على أو تعيين السمة التي تحدد الترميز المستخدم لهذا المستند في وقت التحليل. إذا كانت هذه السمة فارغة ، فسيحدد الترميز من سمة مجموعة أحرف المستند. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | الحصول على دمج الخطوط أو تعيينه للنتيجة document |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } | الحصول على أو تعيين عرض كل المستند على صفحة واحدة |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | يمثل تنسيق الملف الذي[`LoadOptions`](../loadoptions) يصف . |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | الحصول على أو تعيين معلومات صفحة المستند |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } | الحصول على خيار التخطيط أو تعيينه. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | رد الاتصال للتعامل مع أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر التعداد ReturnAction الذي يحدد إما متابعة أو إحباط. المتابعة هو الإجراء الافتراضي وتستمر عملية التحميل ، ومع ذلك قد يقوم المستخدم أيضًا بإرجاع "إحباط" وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | المسار/الرابط الأساسي لملف HTML. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | يحصل أو يحدد أنواع الوسائط الممكنة المستخدمة أثناء العرض. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | يحصل أو يحدد السمة التي تحدد الترميز المستخدم لهذا المستند في وقت التحليل. إذا كانت هذه السمة فارغة، سيتم تحديد الترميز من سمة مجموعة أحرف المستند. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | يحصل أو يحدد إدراج الخطوط في المستند الناتج |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | يحصل أو يحدد العلامة التي تحدد أن قواعد @page المعرفة في CSS ستتجاوز القيم المعرفة في PageInfo. |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | يحصل أو يحدد عرض المستند بالكامل في صفحة واحدة |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | يحصل أو يحدد معلومات صفحة المستند |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | يحصل أو يحدد خيار التخطيط. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | في بعض الأحيان يكون من الضروري تجنب استخدام أداة التحميل الداخلية للموارد الخارجية (مثل الصور أو CSSes) وتوفير طريقة مخصصة ستحصل على الموارد المطلوبة من مكان ما. على سبيل المثال ، أثناء الاستخدام لـ Aspose.PDF في cloude ، من المستحيل الوصول المباشر إلى الملفات المرجعية: في مثل هذه الحالة ، يجب استخدام بعض التعليمات البرمجية الخاصة put في طريقة خاصة ، ويجب تفويض تلك الطريقة إلى هذه السمة. |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | إذا كان تحميل البيانات الخارجية المشار إليها في HTML يتطلب بيانات اعتماد ، فيمكنك وضعها في هذه المعلمة - سيتم استخدامها أثناء تحميل الموارد الخارجية |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | أحيانًا يكون من الضروري تجنب استخدام محمل الموارد الخارجية الداخلي (مثل الصور أو CSS) وتوفير طريقة مخصصة ستحصل على الموارد المطلوبة من مكان ما. على سبيل المثال، أثناء استخدام Aspose.PDF في السحابة، يكون الوصول المباشر إلى الملفات المرجعية مستحيلًا: في هذه الحالة يجب استخدام بعض التعليمات البرمجية المخصصة الموضوعة في طريقة خاصة، ويجب تعيين المفوض الذي يشير إلى تلك الطريقة إلى هذه السمة. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | إذا كان تحميل البيانات الخارجية المشار إليها في HTML يتطلب بيانات اعتماد، يمكنك وضعها في هذه المعلمة - سيتم استخدامها أثناء تحميل الموارد الخارجية |
 
-### أنظر أيضا
+## أمثلة
 
-* class [LoadOptions](../loadoptions)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
+يوضح المثال التالي كيفية تحويل ملف HTML إلى ملف PDF
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The path to your HTML File.
+	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
+
+	// Initialize HtmlLoadOptions	
+	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
+		
+	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
+	{ 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your HTML File.
+    Dim htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf")
+ 
+    ' Initialize HtmlLoadOptions    
+    Dim htmlLoadOptions As HtmlLoadOptions = New HtmlLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(htmlFile, htmlLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
+### انظر أيضًا
+
+* فئة [LoadOptions](../loadoptions/)
+* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

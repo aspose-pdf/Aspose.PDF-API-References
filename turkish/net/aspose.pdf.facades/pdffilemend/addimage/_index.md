@@ -1,7 +1,7 @@
 ---
-title: AddImage
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler.
+title: PdfFileMend.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileMend metodu. Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.facades/pdffilemend/addimage/
@@ -15,20 +15,20 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
     float upperRightX, float upperRightY)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Giriş görüntü akışı. |
-| pageNum | Int32 | Resmi alacak sayfa sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
+| imageStream | Stream | Girdi resim akışı. |
+| pageNum | Int32 | Resmi alacak sayfanın numarası. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -39,11 +39,11 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,21 +56,21 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Giriş görüntü akışı. |
-| pageNum | Int32 | Resmi alacak sayfa sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
-| compositingParameters | CompositingParameters | Görüntü için grafik birleştirme parametreleri. |
+| imageStream | Stream | Girdi resim akışı. |
+| pageNum | Int32 | Resmi alacak sayfanın numarası. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
+| compositingParameters | CompositingParameters | Resim için grafik bileşen parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -81,12 +81,12 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -99,20 +99,20 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
     float upperRightX, float upperRightY)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Giriş görüntü akışı. |
-| pageNums | Int32[] | Resmi alacak sayfaların sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
+| imageStream | Stream | Girdi resim akışı. |
+| pageNums | Int32[] | Resmi alacak sayfaların numaraları. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -123,11 +123,11 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,21 +140,21 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Giriş görüntü akışı. |
-| pageNums | Int32[] | Resmi alacak sayfaların sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
-| compositingParameters | CompositingParameters | Görüntüler için grafik birleştirme parametreleri. |
+| imageStream | Stream | Girdi resim akışı. |
+| pageNums | Int32[] | Resmi alacak sayfaların numaraları. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
+| compositingParameters | CompositingParameters | Resimler için grafik bileşen parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -165,12 +165,12 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -183,20 +183,20 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
     float upperRightX, float upperRightY)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageName | String | Girdi görüntü dosyasının yolu. |
-| pageNum | Int32 | Resmi alacak sayfa sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
+| imageName | String | Girdi resim dosyasının yolu. |
+| pageNum | Int32 | Resmi alacak sayfanın numarası. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -204,11 +204,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -221,21 +221,21 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageName | String | Girdi görüntü dosyasının yolu. |
-| pageNum | Int32 | Resmi alacak sayfa sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
-| compositingParameters | CompositingParameters | Görüntüler için grafik birleştirme parametreleri. |
+| imageName | String | Girdi resim dosyasının yolu. |
+| pageNum | Int32 | Resmi alacak sayfanın numarası. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
+| compositingParameters | CompositingParameters | Resimler için grafik bileşen parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -243,12 +243,12 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -261,20 +261,20 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
     float upperRightX, float upperRightY)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageName | String | Girdi görüntü dosyasının yolu. |
-| pageNums | Int32[] | Resmi alacak sayfaların sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
+| imageName | String | Girdi resim dosyasının yolu. |
+| pageNums | Int32[] | Resmi alacak sayfaların numaraları. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -282,11 +282,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -299,21 +299,21 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageName | String | Girdi görüntü dosyasının yolu. |
-| pageNums | Int32[] | Resmi alacak sayfaların sayısı. |
-| lowerLeftX | Single | Görüntü dikdörtgeninin sol alt x'i. |
-| lowerLeftY | Single | Görüntü dikdörtgeninin sol alt y. |
-| upperRightX | Single | Görüntü dikdörtgeninin sağ üst x'i. |
-| upperRightY | Single | Görüntü dikdörtgeninin sağ üst y. |
-| compositingParameters | CompositingParameters | Görüntüler için grafik birleştirme parametreleri. |
+| imageName | String | Girdi resim dosyasının yolu. |
+| pageNums | Int32[] | Resmi alacak sayfaların numaraları. |
+| lowerLeftX | Single | Resim dikdörtgeninin sol alt x koordinatı. |
+| lowerLeftY | Single | Resim dikdörtgeninin sol alt y koordinatı. |
+| upperRightX | Single | Resim dikdörtgeninin sağ üst x koordinatı. |
+| upperRightY | Single | Resim dikdörtgeninin sağ üst y koordinatı. |
+| compositingParameters | CompositingParameters | Resimler için grafik bileşen parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı yanlışsa doğrudur, aksi halde yanlıştır.
+Başarılıysa true, aksi takdirde false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -321,11 +321,9 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilemend)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

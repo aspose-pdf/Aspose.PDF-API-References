@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.PageSizeAdjustmentModes
-second_title: Referencia de API de Aspose.PDF para .NET
-description: ATENCIÓN La función se implementó pero aún no se colocó en la API pública desde que se reveló un problema de bloqueo en la capa OSHARED para el documento de muestra. Representa el modo de uso del tamaño de la página durante la conversión. Formatos como HTML EPUB etc. por lo general tienen un diseño flotante  por lo tanto permite ajustar el tamaño de página requerido . Pero a veces el contenido tiene posiciones horizontales específicas o un tamaño que no permite colocar el contenido en el tamaño de página requerido. En tal caso podemos definir qué se debe hacer en este caso es decir cuando el tamaño del contenido no se ajusta al tamaño de página inicial requerido de resultado documento PDF.
+title: Enum LoadOptions.PageSizeAdjustmentModes
+second_title: Aspose.PDF for .NET API Reference
+description: Enum LoadOptionsPageSizeAdjustmentModes de Aspose.Pdf. ATENCIÓN La función está implementada pero aún no se ha puesto en la API pública debido a un problema bloqueador en la capa OSHARED revelado para el documento de muestra. Representa el modo de uso del tamaño de página durante la conversión. Formatos como HTML, EPUB, etc., generalmente tienen un diseño flotante, por lo que permite ajustar el tamaño de página requerido. Pero a veces el contenido tiene posiciones o tamaños horizontales específicos que no permiten colocar el contenido en el tamaño de página requerido. En tal caso, podemos definir qué se debe hacer en este caso, es decir, cuando el tamaño del contenido no se ajusta al tamaño de página inicial requerido del documento PDF resultante.
 type: docs
-weight: 3970
+weight: 6140
 url: /es/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
 ---
-## LoadOptions.PageSizeAdjustmentModes enumeration
+## Enumeración LoadOptions.PageSizeAdjustmentModes
 
-¡ATENCIÓN! La función se implementó pero aún no se colocó en la API pública desde que se reveló un problema de bloqueo en la capa OSHARED para el documento de muestra. Representa el modo de uso del tamaño de la página durante la conversión. Formatos (como HTML, EPUB, etc.), por lo general tienen un diseño flotante , por lo tanto, permite ajustar el tamaño de página requerido . Pero a veces el contenido tiene posiciones horizontales específicas o un tamaño que no permite colocar el contenido en el tamaño de página requerido. En tal caso, podemos definir qué se debe hacer en este caso (es decir, cuando el tamaño del contenido no se ajusta al tamaño de página inicial requerido de resultado documento PDF).
+¡ATENCIÓN! La función está implementada pero aún no se ha puesto en la API pública debido a un problema bloqueador en la capa OSHARED revelado para el documento de muestra. Representa el modo de uso del tamaño de página durante la conversión. Los formatos (como HTML, EPUB, etc.), generalmente tienen un diseño flotante, por lo que permite ajustar el tamaño de página requerido. Pero a veces el contenido tiene posiciones o tamaños horizontales específicos que no permiten colocar el contenido en el tamaño de página requerido. En tal caso, podemos definir qué se debe hacer en este caso (es decir, cuando el tamaño del contenido no se ajusta al tamaño de página inicial requerido del documento PDF resultante).
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -18,13 +18,11 @@ public enum PageSizeAdjustmentModes
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| NoAjustmentAllwaysUsePredefinedSize | `0` | En este modo, las páginas de resultados tendrán el tamaño de página requerido definido en LoadOptions, sin importar si el contenido después de la conversión sale de los límites de la página o no. |
-| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Este modo define dicho comportamiento: después de obtener el resultado de la conversión, y detectar el hecho de que parte del contenido se ha truncado, el ancho de la vista de puerto se amplía para ajustarse al contenido y la conversión se repite. Este modo permite obtener menos páginas como resultado tal caso, pero requiere renderizado repetido (y por lo tanto más tiempo de procesamiento). |
+| NoAjustmentAllwaysUsePredefinedSize | `0` | En este modo, las páginas resultantes tendrán el tamaño de página requerido definido en LoadOptions, sin importar si el contenido después de la conversión sale de los límites de la página o no. |
+| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Este modo define el siguiente comportamiento: después de obtener el resultado de la conversión y detectar que algún contenido ha sido truncado, se amplía el ancho del puerto para ajustar el contenido y se repite la conversión. Este modo permite obtener menos páginas en el resultado en tal caso, pero requiere un renderizado repetido (y, por lo tanto, más tiempo de procesamiento). |
 
-### Ver también
+### Ver También
 
-* class [LoadOptions](../loadoptions)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [LoadOptions](../loadoptions/)
+* espacio de nombres [Aspose.Pdf](../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../)

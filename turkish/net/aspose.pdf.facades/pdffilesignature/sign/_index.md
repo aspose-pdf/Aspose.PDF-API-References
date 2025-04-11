@@ -1,30 +1,30 @@
 ---
-title: Sign
-second_title: Aspose.PDF for .NET API Referansı
-description: PDF belgesine bir imza atın.
+title: PdfFileSignature.Sign
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileSignature metodu. PDF belgesine imza atın
 type: docs
-weight: 280
+weight: 300
 url: /tr/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-PDF belgesine bir imza atın.
+PDF belgesine imza atın.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
     Rectangle annotRect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | İmzanın yapıldığı sayfa numarası. |
+| page | Int32 | İmzanın atıldığı sayfa numarası. |
 | SigReason | String | İmza nedeni. |
-| SigContact | String | İmza iletişim. |
-| SigLocation | String | İmzanın yeri. |
+| SigContact | String | İmza iletişimi. |
+| SigLocation | String | İmza yeri. |
 | visible | Boolean | İmzanın görünürlüğü. |
-| annotRect | Rectangle | İmza hakkı. |
+| annotRect | Rectangle | İmzanın dikdörtgeni. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -48,34 +48,34 @@ pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
 pdfSign.Save(outFile)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Belgeyi verilen tür imzasıyla imzalayın.
+Belirtilen türde imza ile belgeyi imzalayın.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
     Rectangle annotRect, Signature sig)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | İmzanın yapıldığı sayfa numarası. |
+| page | Int32 | İmzanın atıldığı sayfa numarası. |
 | SigReason | String | İmza nedeni. |
-| SigContact | String | İmza iletişim. |
-| SigLocation | String | İmzanın yeri. |
+| SigContact | String | İmza iletişimi. |
+| SigLocation | String | İmza yeri. |
 | visible | Boolean | İmzanın görünürlüğü. |
-| annotRect | Rectangle | İmza hakkı. |
-| sig | Signature | İmza türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
+| annotRect | Rectangle | İmzanın dikdörtgeni. |
+| sig | Signature | İmzanın türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -98,31 +98,31 @@ pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
 pdfSign.Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Belgeyi verilen tür imzasıyla imzalayın.
+Belirtilen türde imza ile belgeyi imzalayın.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | İmzanın yapıldığı sayfa numarası. |
+| page | Int32 | İmzanın atıldığı sayfa numarası. |
 | visible | Boolean | İmzanın görünürlüğü. |
-| annotRect | Rectangle | İmza hakkı. |
-| sig | Signature | İmza türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. İmza nedeni, iletişim ve konum gibi veriler bu nesnede zaten mevcut olmalıdır (ilgili özelliklere bakın). |
+| annotRect | Rectangle | İmzanın dikdörtgeni. |
+| sig | Signature | İmzanın türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. İmza nedeni, iletişim ve yer gibi veriler bu nesnede zaten mevcut olmalıdır (ilgili özelliklere bakın). |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -152,33 +152,33 @@ pdfSign.Sign(2, true, rect, sig)
 pdfSign.Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Halihazırda sunulan imza alanına yerleştirilen belgeyi verilen tip imza ile imzalayın. İmzalamadan önce imza alanı boş olmalıdır, yani alan imza sözlüğü içermemelidir. Bu nedenle pdf belgesinde zaten imza alanı var, yeri belirtmemelisiniz. imzayı damgalamak için, imza adıyla bulunan imza alanından ilgili sayfa ve dikdörtgen alınır (bkz. SigName parametresi).
+Belirtilen türde imza ile belgeyi imzalayın, bu imza zaten mevcut olan imza alanına yerleştirilmiştir. İmza atmadan önce imza alanı boş olmalıdır, yani alan imza sözlüğü içermemelidir. Böylece PDF belgesi zaten imza alanına sahiptir, imzayı damgalamak için yeri sağlamanız gerekmez, ilgili sayfa ve dikdörtgen imza adı ile bulunan imza alanından alınır (bkz. SigName parametresi).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
     Signature sig)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | SigName | String | İmza alanının adı. |
 | SigReason | String | İmza nedeni. |
-| SigContact | String | İmza iletişim. |
-| SigLocation | String | İmzanın yeri. |
-| sig | Signature | İmza türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
+| SigContact | String | İmza iletişimi. |
+| SigLocation | String | İmza yeri. |
+| sig | Signature | İmzanın türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -200,36 +200,36 @@ pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
 pdfSign.Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Belgeyi, zaten sunulan imza alanına yerleştirilmiş olan imza türüyle imzalayın. İmzalamadan önce pdf belgesinin imza alanı olmalıdır, ilgili sayfa ve dikdörtgen, imza adıyla bulunan imza alanından alınır (bkz. SigName parametresi) .
+Belirtilen türde imza ile belgeyi imzalayın, bu imza zaten mevcut olan imza alanına yerleştirilmiştir. İmza atmadan önce PDF belgesinin zaten imza alanına sahip olması gerekir, ilgili sayfa ve dikdörtgen imza adı ile bulunan imza alanından alınır (bkz. SigName parametresi).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
     bool visible, Rectangle annotRect, Signature sig)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | İmzanın yapıldığı sayfa numarası. |
+| page | Int32 | İmzanın atıldığı sayfa numarası. |
 | SigName | String | İmza alanının adı. |
 | SigReason | String | İmza nedeni. |
-| SigContact | String | İmza iletişim. |
-| SigLocation | String | İmzanın yeri. |
+| SigContact | String | İmza iletişimi. |
+| SigLocation | String | İmza yeri. |
 | visible | Boolean | İmzanın görünürlüğü. |
-| annotRect | Rectangle | İmza hakkı. |
-| sig | Signature | İmza türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
+| annotRect | Rectangle | İmzanın dikdörtgeni. |
+| sig | Signature | İmzanın türü, PKCS1, PKCS7 ve PKCS7Detached olabilir. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -252,29 +252,29 @@ pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, r
 pdfSign.Save(outFile)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, Signature) {#sign_4}
 
-Halihazırda sunulan imza alanına yerleştirilen belgeyi verilen tip imza ile imzalayın. İmzalamadan önce imza alanı boş olmalıdır, yani alan imza sözlüğü içermemelidir. Bu nedenle pdf belgesinde zaten imza alanı var, yeri belirtmemelisiniz. imzayı damgalamak için, imza adıyla bulunan imza alanından ilgili sayfa ve dikdörtgen alınır (bkz. SigName parametresi). İmza nedeni, iletişim ve konum gibi veriler Signature nesnesinin karşılık gelen özellikleri tarafından sağlanmalıdır sig.
+Belirtilen türde imza ile belgeyi imzalayın, bu imza zaten mevcut olan imza alanına yerleştirilmiştir. İmza atmadan önce imza alanı boş olmalıdır, yani alan imza sözlüğü içermemelidir. Böylece PDF belgesi zaten imza alanına sahiptir, imzayı damgalamak için yeri sağlamanız gerekmez, ilgili sayfa ve dikdörtgen imza adı ile bulunan imza alanından alınır (bkz. SigName parametresi). İmza nedeni, iletişim ve yer gibi veriler, Signature nesnesinin sig ile ilgili özellikleri tarafından sağlanmalıdır.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | SigName | String | İmza alanının adı. |
-| sig | Signature | İmza türü, PKCS1 (Pkcs1Signature nesnesi), PKCS7 ve PKCS7 müstakil (Pkcs7Signature nesnesi) olabilir. |
+| sig | Signature | İmzanın türü, PKCS1 (Pkcs1Signature nesnesi), PKCS7 ve PKCS7 detached (Pkcs7Signature nesnesi) olabilir. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -302,11 +302,9 @@ pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilesignature)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: Page
-second_title: Aspose.PDF för .NET API Referens
-description: Klass som representerar sidan i PDF-dokument.
+title: Class Page
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Page klass. Klass som representerar sidan av PDF-dokumentet
 type: docs
-weight: 5790
+weight: 8050
 url: /sv/net/aspose.pdf/page/
 ---
-## Page class
+## Sida klass
 
-Klass som representerar sidan i PDF-dokument.
+Klass som representerar sidan av PDF-dokumentet.
 
 ```csharp
 public sealed class Page : IDisposable
@@ -16,79 +16,91 @@ public sealed class Page : IDisposable
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Actions](../../aspose.pdf/page/actions) { get; } | Får samling av sidegenskaper. |
-| [Annotations](../../aspose.pdf/page/annotations) { get; } | Får en samling sidkommentarer. [`Annotations`](./annotations) |
-| [ArtBox](../../aspose.pdf/page/artbox) { get; set; } | Hämtar eller ställer in konstrutan för sidan. |
-| [Artifacts](../../aspose.pdf/page/artifacts) { get; } | Hämtar en samling av artefakter på sidan. |
-| [Background](../../aspose.pdf/page/background) { get; set; } | Hämtar eller ställer in bakgrundsfärgen på sidan. |
-| [BackgroundImage](../../aspose.pdf/page/backgroundimage) { get; set; } | Hämtar eller ställer in bakgrundsbild för sidan (endast för generator). |
-| [BleedBox](../../aspose.pdf/page/bleedbox) { get; set; } | Hämtar eller ställer in utfallningsrutan för sidan. |
-| [ColorType](../../aspose.pdf/page/colortype) { get; } | Ställer in färgtyp för sidorna baserat på information från operatörerna SetColor, bilder och formulär. |
-| [Contents](../../aspose.pdf/page/contents) { get; } | Får samling av operatorer i innehållsströmmen på sidan. [`OperatorCollection`](../operatorcollection) |
-| [CropBox](../../aspose.pdf/page/cropbox) { get; set; } | Hämtar eller ställer in beskärningsrutan för sidan. |
-| [Duration](../../aspose.pdf/page/duration) { get; set; } | Får inställd sidvisningstid. Detta är tiden i sekunder som sidan ska visas under presentationen. Returnerar -1 om varaktigheten inte är definierad. |
-| [FieldsInTabOrder](../../aspose.pdf/page/fieldsintaborder) { get; } | Hämtar lista över fältobjekt i tabbordning på den här sidan. |
-| [Footer](../../aspose.pdf/page/footer) { get; set; } | Hämtar eller ställer in sidfot. |
-| [Group](../../aspose.pdf/page/group) { get; set; } | Hämtar eller ställer in en gruppattributklass som anger attributen för sidans sidgrupp för användning i den transparenta bildmodellen. |
-| [Header](../../aspose.pdf/page/header) { get; set; } | Hämtar eller ställer in sidhuvud. |
-| [IsAddParagraphsAfterLast](../../aspose.pdf/page/isaddparagraphsafterlast) { get; set; } | Hämtar eller ställer in tillägg av stycken efter det sista stycket på sidan |
-| [Layers](../../aspose.pdf/page/layers) { get; set; } | Hämtar eller ställer in lagersamling. |
-| [MediaBox](../../aspose.pdf/page/mediabox) { get; set; } | Hämtar eller ställer in mediabox för sidan. |
-| [NoteLineStyle](../../aspose.pdf/page/notelinestyle) { get; set; } | Hämtar eller ställer in linjestilen för noter.(endast för generator) |
-| [Number](../../aspose.pdf/page/number) { get; } | Få sidans nummer. |
-| [PageInfo](../../aspose.pdf/page/pageinfo) { get; set; } | Hämtar eller ställer in sidinformationen (endast för generator, fylls inte i vid läsning av fil). |
-| [Paragraphs](../../aspose.pdf/page/paragraphs) { get; set; } | Hämtar styckena. |
-| [Rect](../../aspose.pdf/page/rect) { get; set; } | Hämtar eller ställer in sidans rektangel. Sidbeskärningsruta returneras om det anges, annars returneras sidmediabox. Observera att den här egenskapen inte tar hänsyn till sidrotation. För att få sidrektangel med tanke på rotation använd ActualRect. |
-| [Resources](../../aspose.pdf/page/resources) { get; } | Hämtar sidresurser. Resursobjekt innehåller samlingar av bilder, formulär och typsnitt. [`Resources`](./resources) |
-| [Rotate](../../aspose.pdf/page/rotate) { get; set; } | Hämtar eller ställer in rotation av sidan. |
-| [RotationMatrix](../../aspose.pdf/page/rotationmatrix) { get; } | Hämtar transofmationsmatris för sidan. |
-| [TabOrder](../../aspose.pdf/page/taborder) { get; set; } | Hämtar eller ställer in tabbordning på sidan. Möjliga värden: Rad, Kolumn. Standard, Manual |
-| [TocInfo](../../aspose.pdf/page/tocinfo) { get; set; } | Hämtar eller ställer in innehållsförteckningsinformation. |
-| [TrimBox](../../aspose.pdf/page/trimbox) { get; set; } | Hämtar eller ställer in trimruta för sidan. |
-| [UserUnit](../../aspose.pdf/page/userunit) { get; set; } | Hämtar eller ställer in UserUnit-värdet. Ett positivt tal som anger storleken på standardanvändarutrymmesenheter, i multipler av 1 ⁄ 72 tum. Standardvärdet är 1. Ange noll eller negativt värde för att radera denna post på page. |
-| [Watermark](../../aspose.pdf/page/watermark) { get; set; } | Hämtar eller ställer in sidans vattenstämpel. |
+| [Actions](../../aspose.pdf/page/actions/) { get; } | Hämtar samling av sidans egenskaper. |
+| [Annotations](../../aspose.pdf/page/annotations/) { get; } | Hämtar samling av sidans anteckningar. [`Annotations`](./annotations/) |
+| [ArtBox](../../aspose.pdf/page/artbox/) { get; set; } | Hämtar eller ställer in konstlådan för sidan. |
+| [Artifacts](../../aspose.pdf/page/artifacts/) { get; } | Hämtar samling av artefakter på sidan. |
+| [Background](../../aspose.pdf/page/background/) { get; set; } | Hämtar eller ställer in bakgrundsfärgen för sidan. |
+| [BackgroundImage](../../aspose.pdf/page/backgroundimage/) { get; set; } | Hämtar eller ställer in bakgrundsbild för sidan (endast för generator, inte ifyllt vid läsning av dokument). |
+| [BleedBox](../../aspose.pdf/page/bleedbox/) { get; set; } | Hämtar eller ställer in bleed-boxen för sidan. |
+| [ColorType](../../aspose.pdf/page/colortype/) { get; } | Ställer in färgtyp för sidor baserat på information som erhålls från operatörerna SetColor, bilder och formulär. |
+| [Contents](../../aspose.pdf/page/contents/) { get; } | Hämtar samling av operatörer i innehållsströmmen för sidan. [`OperatorCollection`](../operatorcollection/) |
+| [CropBox](../../aspose.pdf/page/cropbox/) { get; set; } | Hämtar eller ställer in crop-boxen för sidan. |
+| [Duration](../../aspose.pdf/page/duration/) { get; set; } | Hämtar eller ställer in sidans visningstid. Detta är tiden i sekunder som sidan ska visas under presentationen. Returnerar -1 om varaktigheten inte är definierad. |
+| [FieldsInTabOrder](../../aspose.pdf/page/fieldsintaborder/) { get; } | Hämtar lista över fältobjekt i tabordning på denna sida. |
+| [Footer](../../aspose.pdf/page/footer/) { get; set; } | Hämtar eller ställer in sidfoten. |
+| [Group](../../aspose.pdf/page/group/) { get; set; } | Hämtar eller ställer in en gruppattributklass som specificerar attributen för sidans sidgrupp för användning i den transparenta bildmodellen. |
+| [Header](../../aspose.pdf/page/header/) { get; set; } | Hämtar eller ställer in sidhuvudet. |
+| [IsAddParagraphsAfterLast](../../aspose.pdf/page/isaddparagraphsafterlast/) { get; set; } | Hämtar eller ställer in tillägget av stycken efter det sista stycket på sidan. |
+| [Layers](../../aspose.pdf/page/layers/) { get; set; } | Hämtar eller ställer in samlingen av lager. |
+| [MediaBox](../../aspose.pdf/page/mediabox/) { get; set; } | Hämtar eller ställer in mediaboxen för sidan. |
+| [NoteLineStyle](../../aspose.pdf/page/notelinestyle/) { get; set; } | Hämtar eller ställer in linjestilen för anteckningar. (endast för generator, inte ifyllt vid läsning av dokument) |
+| [Number](../../aspose.pdf/page/number/) { get; } | Hämtar sidnumret. |
+| [PageInfo](../../aspose.pdf/page/pageinfo/) { get; set; } | Hämtar eller ställer in sidinformationen (endast för generator, inte ifyllt vid läsning av dokument). |
+| [Paragraphs](../../aspose.pdf/page/paragraphs/) { get; set; } | Hämtar styckena. |
+| [Rect](../../aspose.pdf/page/rect/) { get; set; } | Hämtar eller ställer in rektangeln för sidan. För get: sidans crop-box returneras om den anges, annars returneras sidans mediabox. För set: sidans mediabox ställs alltid in. Observera att denna egenskap inte tar hänsyn till sidrotation. För att få sidrektangeln med hänsyn till rotation, vänligen använd ActualRect. |
+| [Resources](../../aspose.pdf/page/resources/) { get; } | Hämtar sidresurser. Resursobjektet innehåller samlingar av bilder, formulär och typsnitt. [`Resources`](./resources/) |
+| [Rotate](../../aspose.pdf/page/rotate/) { get; set; } | Hämtar eller ställer in rotationen av sidan. |
+| [RotationMatrix](../../aspose.pdf/page/rotationmatrix/) { get; } | Hämtar transformationsmatrisen för sidan. |
+| [TabOrder](../../aspose.pdf/page/taborder/) { get; set; } | Hämtar eller ställer in tabordningen för sidan. Möjliga värden: Rad, Kolumn. Standard, Manuell |
+| [TocInfo](../../aspose.pdf/page/tocinfo/) { get; set; } | Hämtar eller ställer in information om innehållsförteckningen. |
+| [TrimBox](../../aspose.pdf/page/trimbox/) { get; set; } | Hämtar eller ställer in trim-boxen för sidan. |
+| [UserUnit](../../aspose.pdf/page/userunit/) { get; set; } | Hämtar eller ställer in UserUnit-värdet. Ett positivt tal som ger storleken på standardanvändarutrymmesenheter, i multiplar av 1 / 72 tum. Standardvärdet är 1. Vänligen ställ in noll eller negativt värde för att rensa denna post på sidan. |
+| [Watermark](../../aspose.pdf/page/watermark/) { get; set; } | Hämtar eller ställer in vattenstämpeln för sidan. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Accept](../../aspose.pdf/page/accept#accept)(AnnotationSelector) | Accepterar[`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector) besöksobjekt som ger funktionalitet för att arbeta med anteckningar. |
-| [Accept](../../aspose.pdf/page/accept#accept_1)(ImagePlacementAbsorber) | Accepterar[`ImagePlacementAbsorber`](../imageplacementabsorber) besöksobjekt som ger funktionalitet för att arbeta med bildplaceringsobjekt. |
-| [Accept](../../aspose.pdf/page/accept#accept_2)(TextAbsorber) | Accepterar[`TextAbsorber`](../../aspose.pdf.text/textabsorber) besöksobjekt som ger funktionalitet för att arbeta med textobjekt. |
-| [Accept](../../aspose.pdf/page/accept#accept_3)(TextFragmentAbsorber) | Accepterar[`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber) besöksobjekt som ger funktionalitet för att arbeta med textobjekt. |
-| [AddImage](../../aspose.pdf/page/addimage#addimage)(Stream, Rectangle) | Lägger till bild på sidan och placerar den i mitten av specificerad rektangel och sparar bildens proportion. |
-| [AddImage](../../aspose.pdf/page/addimage#addimage_2)(string, Rectangle) | Lägger till bild på sidan och placerar den i mitten av specificerad rektangel och sparar bildens proportion. |
-| [AddImage](../../aspose.pdf/page/addimage#addimage_3)(string, Stream, Rectangle) | Lägger till sökbar bild på sidan och placerar den i mitten av den angivna rektangeln och sparar bildens proportion. |
-| [AddImage](../../aspose.pdf/page/addimage#addimage_1)(Stream, Rectangle, int, int, bool) | Lägger till bild på sidan och placerar den beroende på bildens rektangelposition. |
-| [AddStamp](../../aspose.pdf/page/addstamp)(Stamp) | Sätt stämpel på sidan. Stämpeln kan vara sidnummer, bild eller enkel text, t.ex. någon logotyp. |
-| [AsByteArray](../../aspose.pdf/page/asbytearray)(Resolution) | Konverterar aktuell sida som bitmapp och returnerar sedan en array av byte. |
-| [AsXml](../../aspose.pdf/page/asxml)() | Konverterar aktuell sida som xml i utf8-kodning. |
-| [CalculateContentBBox](../../aspose.pdf/page/calculatecontentbbox)() | Beräknar bbox-värde - rektangel som innehåller innehåll utan synliga marginaler. |
-| [ConvertToPNGMemoryStream](../../aspose.pdf/page/converttopngmemorystream)() | Konvertera sida till PNG för DSR, OMR, OCR bildström. |
-| [Dispose](../../aspose.pdf/page/dispose)() | Frigör minne |
-| [Flatten](../../aspose.pdf/page/flatten)() | Tar bort alla fält på sidan och placerar deras värden istället. |
-| [FreeMemory](../../aspose.pdf/page/freememory)() | Rensar cachad data |
-| [GetNotifications](../../aspose.pdf/page/getnotifications)() | Returnerar meddelanden om interna operationer med sidinnehåll. (Endast meddelanden om styckehändelser i texttilläggsscenarier stöds nu.) |
-| [GetPageRect](../../aspose.pdf/page/getpagerect)(bool) | Returnerar sidans rektangel. |
-| [IsBlank](../../aspose.pdf/page/isblank)(double) | Får flaggan oavsett om sidan är tom eller inte. |
-| [MakeGrayscale](../../aspose.pdf/page/makegrayscale)() | Konverterar sidan till gråskala. |
-| [SendTo](../../aspose.pdf/page/sendto#sendto)(PageDevice, Stream) | Skickar sida att bearbeta med given sidenhet. |
-| [SendTo](../../aspose.pdf/page/sendto#sendto_1)(PageDevice, string) | Skickar sida att bearbeta med given sidenhet. |
-| [SetPageSize](../../aspose.pdf/page/setpagesize)(double, double) | Anger sidstorlek för sidan. |
-| static [IntToRotation](../../aspose.pdf/page/inttorotation)(int) | Översätter heltalsvärde till motsvarande rotationsuppräkningsmedlem. |
-| static [RotationToInt](../../aspose.pdf/page/rotationtoint)(Rotation) | Översätter rotationsuppräkningsmedlem till heltalsvärde. |
+| [Accept](../../aspose.pdf/page/accept/#accept)(AnnotationSelector) | Accepterar [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med anteckningar. |
+| [Accept](../../aspose.pdf/page/accept/#accept_1)(ImagePlacementAbsorber) | Accepterar [`ImagePlacementAbsorber`](../imageplacementabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med bildplaceringselement. |
+| [Accept](../../aspose.pdf/page/accept/#accept_2)(TextAbsorber) | Accepterar [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt. |
+| [Accept](../../aspose.pdf/page/accept/#accept_3)(TextFragmentAbsorber) | Accepterar [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt. |
+| [AddGraphics](../../aspose.pdf/page/addgraphics/)(GraphicElementCollection, Rectangle) | Lägger till grafik på sidan. Fungerar snabbare än att lägga till element ett och ett med [`AddOnPage`](../../aspose.pdf.vector/graphicelement/addonpage/) metoden. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage_2)(string, Rectangle) | Lägger till bild på sidan och placerar den i mitten av den angivna rektangeln och bevarar bildens proportioner. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage)(Stream, Rectangle, Rectangle, bool) | Lägger till bild på sidan och placerar den i mitten av den angivna rektangeln och bevarar bildens proportioner. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage_3)(string, Stream, Rectangle, Rectangle) | Lägger till sökbar bild på sidan och placerar den i mitten av den angivna rektangeln och bevarar bildens proportioner. |
+| [AddImage](../../aspose.pdf/page/addimage/#addimage_1)(Stream, Rectangle, int, int, bool, Rectangle) | Lägger till bild på sidan och placerar den beroende på bildrektangelns position. |
+| [AddStamp](../../aspose.pdf/page/addstamp/)(Stamp) | Sätter stämpel på sidan. Stämpeln kan vara sidnummer, bild eller enkel text, t.ex. en logotyp. |
+| [AsByteArray](../../aspose.pdf/page/asbytearray/)(Resolution) | Konverterar nuvarande sida till bitmap och returnerar sedan en byte-array. |
+| [AsXml](../../aspose.pdf/page/asxml/)() | Konverterar nuvarande sida till xml i utf8-kodning. |
+| [CalculateContentBBox](../../aspose.pdf/page/calculatecontentbbox/)() | Beräknar bbox-värdet - rektangel som innehåller innehållet utan synliga marginaler. |
+| [ConvertToPNGMemoryStream](../../aspose.pdf/page/converttopngmemorystream/)() | Konverterar sidan till PNG för DSR, OMR, OCR bildström. |
+| [DeleteGraphics](../../aspose.pdf/page/deletegraphics/)(GraphicElementCollection) | Tar bort grafik från sidan. Fungerar snabbare än att ta bort element ett och ett med [`Remove`](../../aspose.pdf.vector/graphicelement/remove/) metoden. |
+| [Dispose](../../aspose.pdf/page/dispose/)() | Frigör minne |
+| [Flatten](../../aspose.pdf/page/flatten/)() | Tar bort alla fält som finns på sidan och placerar deras värden istället. |
+| [FreeMemory](../../aspose.pdf/page/freememory/)() | Rensar cachelagrad data |
+| [GetNotifications](../../aspose.pdf/page/getnotifications/)() | Returnerar meddelanden om interna operationer med sidinnehållet. (Endast meddelanden om stycke-händelser i texttilläggsscenarier stöds nu.) |
+| [GetPageRect](../../aspose.pdf/page/getpagerect/)(bool) | Returnerar rektangeln för sidan enligt dess CropBox (eller MediaBox om CropBox är null). |
+| [GetResources](../../aspose.pdf/page/getresources/)() | Hämtar resurser kopplade till sidan. |
+| [HasVectorGraphics](../../aspose.pdf/page/hasvectorgraphics/)() | Upptäck närvaron av vektorgrafik, om den finns på sidan. |
+| [IsBlank](../../aspose.pdf/page/isblank/)(double) | Hämtar flaggan om sidan är tom eller inte. |
+| [MakeGrayscale](../../aspose.pdf/page/makegrayscale/)() | Konverterar sidan till gråskala. |
+| [MergeLayers](../../aspose.pdf/page/mergelayers/#mergelayers)(string) | Slår samman alla lager på sidan till ett enda lager med det angivna nya lagernamnet. |
+| [MergeLayers](../../aspose.pdf/page/mergelayers/#mergelayers_1)(string, string) | Slår samman alla lager på sidan till ett enda lager med det angivna nya lagernamnet och valfritt innehållsgrupp-ID. |
+| [Resize](../../aspose.pdf/page/resize/)(PageSize) | Ändrar storlek på sidan. |
+| [SendTo](../../aspose.pdf/page/sendto/#sendto)(PageDevice, Stream) | Skickar sidan för att bearbeta med angiven sidapparat. |
+| [SendTo](../../aspose.pdf/page/sendto/#sendto_1)(PageDevice, string) | Skickar sidan för att bearbeta med angiven sidapparat. |
+| [SetPageSize](../../aspose.pdf/page/setpagesize/)(double, double) | Ställer in sidstorlek för sidan. |
+| [TrySaveVectorGraphics](../../aspose.pdf/page/trysavevectorgraphics/)(string) | Försöker spara vektorgrafik om de finns på sidan. Sparaformatet är SVG. |
+| static [IntToRotation](../../aspose.pdf/page/inttorotation/)(int) | Översätter heltalsvärde till motsvarande rotationsenumerationsmedlem. |
+| static [RotationToInt](../../aspose.pdf/page/rotationtoint/)(Rotation) | Översätter rotationsenumerationsmedlem till heltalsvärde. |
 
-## Andra medlemmar
+## Händelser
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| delegate [BeforePageGenerate](page.beforepagegenerate) | Procedur för att anpassa sidhuvud och sidfot. |
+| event [OnBeforePageGenerate](../../aspose.pdf/page/onbeforepagegenerate/) | Händelse för att anpassa sidhuvud och sidfot. |
 
-### Se även
+## Andra Medlemmar
 
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
+| Namn | Beskrivning |
+| --- | --- |
+| delegate [BeforePageGenerate](../../aspose.pdf/page.beforepagegenerate) | Procedur för att anpassa sidhuvud och sidfot. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+### Se Även
+
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

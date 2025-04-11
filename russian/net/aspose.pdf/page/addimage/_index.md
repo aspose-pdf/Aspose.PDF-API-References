@@ -1,85 +1,90 @@
 ---
-title: AddImage
-second_title: Aspose.PDF для справочника API .NET
-description: Добавляет изображение на страницу и размещает его в середине указанного прямоугольника сохраняя пропорции изображения.
+title: Page.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: Метод Page. Добавляет изображение на страницу и размещает его в центре указанного прямоугольника, сохраняя пропорции изображения
 type: docs
-weight: 340
+weight: 350
 url: /ru/net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-Добавляет изображение на страницу и размещает его в середине указанного прямоугольника, сохраняя пропорции изображения.
+Добавляет изображение на страницу и размещает его в центре указанного прямоугольника, сохраняя пропорции изображения.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
+    bool autoAdjustRectangle = true)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток изображения. |
-| imageRect | Rectangle | Положение изображения. |
+| imageRect | Rectangle | Позиция изображения. |
+| bbox | Rectangle | Ограничивающий прямоугольник изображения. |
+| autoAdjustRectangle | Boolean | Центрировать изображение в пределах входного прямоугольника. |
 
-### Смотрите также
+### См. также
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* пространство имен [Aspose.Pdf](../../page)
+* класс [Rectangle](../../rectangle/)
+* класс [Page](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, Stream, Rectangle) {#addimage_3}
+## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-Добавляет доступное для поиска изображение на страницу и размещает его в середине указанного прямоугольника, сохраняя пропорции изображения.
+Добавляет поисковое изображение на страницу и размещает его в центре указанного прямоугольника, сохраняя пропорции изображения.
 
 ```csharp
-public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
+public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hocr | String | Хокр изображения. |
+| hocr | String | HOCR изображения. |
 | imageStream | Stream | Поток изображения. |
-| imageRect | Rectangle | Положение изображения. |
+| imageRect | Rectangle | Позиция изображения. |
+| bbox | Rectangle | Ограничивающий прямоугольник изображения. |
 
-### Смотрите также
+### См. также
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* пространство имен [Aspose.Pdf](../../page)
+* класс [Rectangle](../../rectangle/)
+* класс [Page](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, Rectangle, int, int, bool) {#addimage_1}
+## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-Добавляет изображение на страницу и размещает его в зависимости от положения прямоугольника изображения.
+Добавляет изображение на страницу и размещает его в зависимости от позиции прямоугольника изображения.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
-    bool saveImageProportions)
+    bool saveImageProportions, Rectangle bbox = null)
 ```
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток изображения. |
-| imageRect | Rectangle | Положение изображения на странице по умолчанию. |
+| imageRect | Rectangle | Позиция изображения по умолчанию на странице. |
 | imageWidth | Int32 | Ширина изображения. |
 | imageHeight | Int32 | Высота изображения. |
-| saveImageProportions | Boolean | Если для флага установлено значение true, то изображение помещается в прямоугольную позицию; в противном случае размер прямоугольника становится равным размеру изображения. |
+| saveImageProportions | Boolean | Если флаг установлен в true, изображение размещается в позиции прямоугольника; в противном случае размер прямоугольника становится равным размеру изображения. |
+| bbox | Rectangle | Ограничивающий прямоугольник изображения. |
 
-### Смотрите также
+### См. также
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* пространство имен [Aspose.Pdf](../../page)
+* класс [Rectangle](../../rectangle/)
+* класс [Page](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-Добавляет изображение на страницу и размещает его в середине указанного прямоугольника, сохраняя пропорции изображения.
+Добавляет изображение на страницу и размещает его в центре указанного прямоугольника, сохраняя пропорции изображения.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
@@ -88,13 +93,11 @@ public void AddImage(string imagePath, Rectangle rectangle)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imagePath | String | Путь к изображению. |
-| rectangle | Rectangle | Положение изображения. |
+| rectangle | Rectangle | Позиция изображения. |
 
-### Смотрите также
+### См. также
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* пространство имен [Aspose.Pdf](../../page)
+* класс [Rectangle](../../rectangle/)
+* класс [Page](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

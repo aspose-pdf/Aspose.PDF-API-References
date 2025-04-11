@@ -1,14 +1,14 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Initialisiert formatierten Text.
+title: FormattedText.FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: FormattedText-Konstruktor. Initialisiert FormattedText
 type: docs
 weight: 10
 url: /de/net/aspose.pdf.facades/formattedtext/formattedtext/
 ---
 ## FormattedText() {#constructor}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText()
@@ -16,15 +16,15 @@ public FormattedText()
 
 ### Siehe auch
 
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string) {#constructor_1}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text)
@@ -36,15 +36,15 @@ public FormattedText(string text)
 
 ### Siehe auch
 
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float) {#constructor_4}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle fontStyle, 
@@ -53,27 +53,27 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | fontColor | FontColor | Farbe des Textes. |
 | fontStyle | FontStyle | Stil des Textes. |
-| encodingType | EncodingType | Codierungstyp (Wert der EncodingType-Enumeration). |
-| embedded | Boolean | True, wenn die Schriftart eingebettet wird. |
+| encodingType | EncodingType | Kodierungstyp (Wert der Enumeration EncodingType). |
+| embedded | Boolean | Wahr, wenn die Schriftart eingebettet wird. |
 | textSize | Single | Größe des Textes. |
 
 ### Siehe auch
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FontColor](../../fontcolor/)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Formatierten Text initialisieren.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,28 +82,28 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | fontColor | FontColor | Farbe des Textes. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
-| embedded | Boolean | True, wenn Text eingebettet wird. |
+| embedded | Boolean | Wahr, wenn der Text eingebettet wird. |
 | textSize | Single | Größe des Textes. |
 | lineSpacing | Single | Zusätzlicher Abstand. |
 
 ### Siehe auch
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FontColor](../../fontcolor/)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float) {#constructor_6}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color color, FontStyle textFont, EncodingType textEncoding, 
@@ -112,26 +112,26 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | color | Color | Farbe des Textes. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
-| embedded | Boolean | True, wenn Text eingebettet wird. |
+| embedded | Boolean | Wahr, wenn der Text eingebettet wird. |
 | textSize | Single | Größe des Textes. |
 
 ### Siehe auch
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float, float) {#constructor_7}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, FontStyle textFont, EncodingType textEncoding, 
@@ -140,7 +140,7 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | textColor | Color | Farbe des Textes. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
@@ -150,17 +150,17 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 ### Siehe auch
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) {#constructor_2}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
@@ -169,9 +169,9 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | textColor | FontColor | Farbe des Textes. |
-| backColor | FontColor | Farbe des Hintergrunds. |
+| backColor | FontColor | Hintergrundfarbe. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
 | embedded | Boolean | Wenn wahr, wird die Schriftart eingebettet. |
@@ -179,18 +179,18 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### Siehe auch
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FontColor](../../fontcolor/)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_3}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
@@ -201,7 +201,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 | --- | --- | --- |
 | text | String | Textinhalt. |
 | textColor | FontColor | Farbe des Textes. |
-| backColor | FontColor | Farbe des Hintergrunds. |
+| backColor | FontColor | Hintergrundfarbe. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
 | embedded | Boolean | Wenn wahr, wird die Schriftart eingebettet. |
@@ -210,18 +210,18 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### Siehe auch
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FontColor](../../fontcolor/)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float) {#constructor_9}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
@@ -230,27 +230,27 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | textColor | Color | Farbe des Textes. |
-| backColor | Color | Farbe des Hintergrunds. |
+| backColor | Color | Hintergrundfarbe. |
 | textFont | FontStyle | Schriftart des Textes. |
 | encoding | EncodingType | Kodierung des Textes. |
-| embedded | Boolean | True, wenn die Schriftart eingebettet wird. |
+| embedded | Boolean | Wahr, wenn die Schriftart eingebettet wird. |
 | textSize | Single | Größe des Textes. |
 
 ### Siehe auch
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float, float) {#constructor_10}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
@@ -259,28 +259,28 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Textinhalt der Zeichenfolge. |
+| text | String | Textinhalt des Strings. |
 | textColor | Color | Farbe des Textes. |
-| backColor | Color | Farbe des Hintergrunds. |
+| backColor | Color | Hintergrundfarbe. |
 | textFont | FontStyle | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
-| embedded | Boolean | Wenn True Font eingebettet ist. |
+| embedded | Boolean | Wenn wahr, ist die Schriftart eingebettet. |
 | textSize | Single | Größe des Textes. |
 | lineSpacing | Single | Zusätzlicher Abstand. |
 
 ### Siehe auch
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Enum [FontStyle](../../fontstyle/)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, string, EncodingType, bool, float) {#constructor_11}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, string fontName, 
@@ -291,7 +291,7 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 | --- | --- | --- |
 | text | String | Textinhalt. |
 | textColor | Color | Farbe des Textes. |
-| backColor | Color | Farbe des Hintergrunds. |
+| backColor | Color | Hintergrundfarbe. |
 | fontName | String | Schriftart des Textes. |
 | textEncoding | EncodingType | Kodierung des Textes. |
 | embedded | Boolean | Wenn wahr, wird die Schriftart eingebettet. |
@@ -299,16 +299,16 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 ### Siehe auch
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color) {#constructor_8}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor)
@@ -318,19 +318,19 @@ public FormattedText(string text, Color textColor, Color backColor)
 | --- | --- | --- |
 | text | String | Textinhalt. |
 | textColor | Color | Farbe des Textes. |
-| backColor | Color | Farbe des Hintergrunds. |
+| backColor | Color | Hintergrundfarbe. |
 
 ### Siehe auch
 
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, string, EncodingType, bool, float) {#constructor_12}
 
-Initialisiert formatierten Text.
+Initialisiert FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, string fontName, EncodingType textEncoding, 
@@ -348,9 +348,7 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 ### Siehe auch
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namensraum [Aspose.Pdf.Facades](../../formattedtext)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Enum [EncodingType](../../encodingtype/)
+* Klasse [FormattedText](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

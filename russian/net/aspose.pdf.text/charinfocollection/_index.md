@@ -1,9 +1,9 @@
 ---
-title: CharInfoCollection
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет коллекцию объектов CharInfo.
+title: Class CharInfoCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Text.CharInfoCollection. Представляет коллекцию объектов CharInfo
 type: docs
-weight: 6640
+weight: 10450
 url: /ru/net/aspose.pdf.text/charinfocollection/
 ---
 ## CharInfoCollection class
@@ -14,57 +14,57 @@ url: /ru/net/aspose.pdf.text/charinfocollection/
 public sealed class CharInfoCollection : ICollection<CharInfo>
 ```
 
-## Характеристики
+## Properties
 
-| Имя | Описание |
+| Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | Получает количество[`CharInfo`](../charinfo) элементы объекта, фактически содержащиеся в коллекции. |
-| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения |
-| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
-| [Item](../../aspose.pdf.text/charinfocollection/item) { get; } | Получает элемент CharInfo по указанному индексу. |
-| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к коллекции. |
+| [Count](../../aspose.pdf.text/charinfocollection/count/) { get; } | Получает количество элементов объекта [`CharInfo`](../charinfo/) фактически содержащихся в коллекции. |
+| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly/) { get; } | Получает значение, указывающее, является ли коллекция только для чтения |
+| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized/) { get; } | Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасно для потоков). |
+| [Item](../../aspose.pdf.text/charinfocollection/item/) { get; } | Получает элемент CharInfo по указанному индексу. |
+| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к коллекции. |
 
-## Методы
+## Methods
 
-| Имя | Описание |
+| Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | Коллекция доступна только для чтения, выдаетНереализованное исключение . |
-| [Clear](../../aspose.pdf.text/charinfocollection/clear)() | Коллекция доступна только для чтения. Всегда выдает NotImplementedException. |
-| [Contains](../../aspose.pdf.text/charinfocollection/contains)(CharInfo) | Определяет, содержит ли коллекция определенное значение. |
-| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
-| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator)() | Возвращает перечислитель для всей коллекции. |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | Коллекция доступна только для чтения, выдаетНереализованное исключение . |
+| [Add](../../aspose.pdf.text/charinfocollection/add/)(CharInfo) | Коллекция только для чтения, вызывает NotImplementedException. |
+| [Clear](../../aspose.pdf.text/charinfocollection/clear/)() | Коллекция только для чтения. Всегда вызывает NotImplementedException. |
+| [Contains](../../aspose.pdf.text/charinfocollection/contains/)(CharInfo) | Определяет, содержит ли коллекция конкретное значение. |
+| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto/)(CharInfo[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
+| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator/)() | Возвращает перечислитель для всей коллекции. |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove/)(CharInfo) | Коллекция только для чтения, вызывает NotImplementedException. |
 
-### Примечания
+## Remarks
 
-Предоставляет доступ к информации о расположении символов текстового сегмента.
+Предоставляет доступ к информации о позиционировании символов текстового сегмента.
 
-### Примеры
+## Examples
 
-Пример демонстрирует, как пройтись по всем символам и получить charact
+Пример демонстрирует, как перебрать все символы и получить символ
 
 ```csharp
-//открыть документ
+//open document
 Document pdfDocument = new Document(inFile);
-//создаем объект TextFragmentAbsorber для сбора всех текстовых объектов страницы
+//create TextFragmentAbsorber object to collect all the text objects of the page
 TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
-//принимаем поглотитель для всех страниц
+//accept the absorber for all the pages
 pdfDocument.Pages[1].Accept(textFragmentAbsorber);
-//получаем извлеченные фрагменты текста
+//get the extracted text fragments
 TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
             
-//перебираем фрагменты
+//loop through the fragments
 foreach (TextFragment textFragment in textFragmentCollection)
 {
-    //перебираем сегменты
+    //loop through the segments
     foreach (TextSegment textSegment in textFragment.Segments)
     {
-        //проходим по символам
+        //loop through the characters
         for (int i = 1; i <= textSegment.Text.Length; i++)
         {
             CharInfo charInfo = textSegment.Characters[i];
 
-            // вывести положение символа и информацию о прямоугольнике
+            // print character position and rectangle info
             Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
             Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
             Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
@@ -74,10 +74,8 @@ foreach (TextFragment textFragment in textFragmentCollection)
 }
 ```
 
-### Смотрите также
+### See Also
 
-* class [CharInfo](../charinfo)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text)
-* сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [CharInfo](../charinfo/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

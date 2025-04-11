@@ -1,14 +1,14 @@
 ---
-title: AddFooter
-second_title: Aspose.PDF för .NET API Referens
-description: Lägger till sidfot på dokumentets sidor.
+title: PdfFileStamp.AddFooter
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileStamp-metod. Lägger till sidfot på sidorna av dokumentet
 type: docs
-weight: 150
+weight: 110
 url: /sv/net/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
 ## AddFooter(FormattedText, float) {#addfooter}
 
-Lägger till sidfot på dokumentets sidor.
+Lägger till sidfot på sidorna av dokumentet.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin)
@@ -16,28 +16,28 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som innehåller text i sidfoten och textegenskaper. |
-| bottomMargin | Single | Marginal överst på sidan. |
+| formattedText | FormattedText | FormattedText-objekt som innehåller texten för sidfoten och textens egenskaper. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-### Se även
+### Se Även
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormattedText](../../formattedtext/)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(FormattedText, float, float, float) {#addfooter_1}
 
-Lägger till sidfot på dokumentets sidor.
+Lägger till sidfot på sidorna av dokumentet.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin, float leftMargin, 
@@ -46,30 +46,30 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som innehåller sidfotstext och textegenskaper. |
-| bottomMargin | Single | Marginal längst ner på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| formattedText | FormattedText | FormattedText-objekt som innehåller sidfotstext och textens egenskaper. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
+| leftMargin | Single | Marginalen på vänster sida av sidan. |
+| rightMargin | Single | Marginalen på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-### Se även
+### Se Även
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormattedText](../../formattedtext/)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float) {#addfooter_4}
 
-Lägger till bild som sidfot på dokumentets sidor.
+Lägger till bild som sidfot på sidorna av dokumentet.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin)
@@ -78,9 +78,9 @@ public void AddFooter(string imageFile, float bottomMargin)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | imageFile | String | Bildfilens namn och sökväg. |
-| bottomMargin | Single | Marginal längst ner på sidan. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -89,11 +89,11 @@ fileStamp.AddFooter("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -107,12 +107,12 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageFile | String | Iamge filnamn och sökväg. |
-| bottomMargin | Single | Marginal längst ner på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| imageFile | String | Bildfilens namn och sökväg. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
+| leftMargin | Single | Marginalen på vänster sida av sidan. |
+| rightMargin | Single | Marginalen på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -121,11 +121,11 @@ fileStamp.AddFooter("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -139,10 +139,10 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Stream innehåller bilddata. |
-| bottomMargin | Single | Marginal längst ner på sidan. |
+| imageStream | Stream | Stream som innehåller bilddata. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -151,11 +151,11 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -169,12 +169,12 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Stream innehåller bilddata. |
-| bottomMargin | Single | Marginal längst ner på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| imageStream | Stream | Stream som innehåller bilddata. |
+| bottomMargin | Single | Marginalen längst ner på sidan. |
+| leftMargin | Single | Marginalen på vänster sida av sidan. |
+| rightMargin | Single | Marginalen på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -183,10 +183,8 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

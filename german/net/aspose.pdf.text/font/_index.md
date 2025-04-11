@@ -1,14 +1,14 @@
 ---
-title: Font
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt das Schriftobjekt dar.
+title: Class Font
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.Font-Klasse. Stellt Schriftartobjekt dar
 type: docs
-weight: 6690
+weight: 10510
 url: /de/net/aspose.pdf.text/font/
 ---
-## Font class
+## Schriftartklasse
 
-Stellt das Schriftobjekt dar.
+Stellt Schriftartobjekt dar.
 
 ```csharp
 public sealed class Font
@@ -18,54 +18,52 @@ public sealed class Font
 
 | Name | Beschreibung |
 | --- | --- |
-| [BaseFont](../../aspose.pdf.text/font/basefont) { get; } | Ruft den BaseFont-Wert des PDF-Schriftartenobjekts ab. Auch bekannt als PostScript-Name der Schriftart. |
-| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname) { get; } | Manchmal können PDF-Schriftarten (normalerweise chinesische/japanische/koreanische Schriftarten) einen bestimmten Schriftartnamen haben. Dieser Name ist der Wert der PDF-Schriftarteneigenschaft "BaseFont", und manchmal könnte diese Eigenschaft in hexadezimaler Form dargestellt werden. Wenn dieser Name direkt gelesen wird, könnte er in nicht lesbarer Form dargestellt werden. Um eine lesbare Form zu erhalten, ist es notwendig, den Namen der Schriftart nach Regeln zu entschlüsseln, die für diese Schriftart spezifisch sind. Diese Eigenschaft gibt den decodierten Schriftartnamen zurück, also verwenden Sie sie für Fälle, in denen Sie mit einem nicht lesbaren treffen[`FontName`](./fontname) . Wenn Eigenschaft[`FontName`](./fontname) hat eine lesbare Form, diese Eigenschaft ist die gleiche wie [`FontName`](./fontname) , sodass Sie diese Eigenschaft für alle Fälle verwenden können, in denen Sie den Schriftartnamen in lesbarer Form erhalten müssen. |
-| [FontName](../../aspose.pdf.text/font/fontname) { get; } | Ruft den Namen der Schriftart ab[`Font`](../font) Objekt. |
-| [FontOptions](../../aspose.pdf.text/font/fontoptions) { get; } | Nützliche Eigenschaften zum Optimieren des Schriftverhaltens |
-| [IsAccessible](../../aspose.pdf.text/font/isaccessible) { get; } | Ruft ab, ob die Schriftart im System vorhanden (installiert) ist. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Schriftart eingebettet ist. |
-| [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Schriftart eine Teilmenge ist. |
+| [BaseFont](../../aspose.pdf.text/font/basefont/) { get; } | Gibt den BaseFont-Wert des PDF-Schriftartobjekts zurück. Auch bekannt als PostScript-Name der Schriftart. |
+| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname/) { get; } | Manchmal können PDF-Schriftarten (normalerweise chinesische/japanische/koreanische Schriftarten) einen spezifischen Schriftartnamen haben. Dieser Name ist der Wert der PDF-Schriftarteigenschaft "BaseFont" und manchmal kann diese Eigenschaft in hexadezimaler Form dargestellt werden. Wenn man diesen Namen direkt liest, kann er in nicht lesbarer Form dargestellt werden. Um eine lesbare Form zu erhalten, ist es notwendig, den Namen der Schriftart nach Regeln zu dekodieren, die spezifisch für diese Schriftart sind. Diese Eigenschaft gibt den dekodierten Schriftartnamen zurück, verwenden Sie ihn also für Fälle, in denen Sie auf einen nicht lesbaren [`FontName`](./fontname/) stoßen. Wenn die Eigenschaft [`FontName`](./fontname/) eine lesbare Form hat, wird diese Eigenschaft die gleiche wie [`FontName`](./fontname/) sein, sodass Sie diese Eigenschaft in allen Fällen verwenden können, in denen Sie den Schriftartnamen in lesbarer Form benötigen. |
+| [FontName](../../aspose.pdf.text/font/fontname/) { get; } | Gibt den Schriftartnamen des `Font`-Objekts zurück. |
+| [FontOptions](../../aspose.pdf.text/font/fontoptions/) { get; } | Nützliche Eigenschaften zur Anpassung des Verhaltens der Schriftart |
+| [IsAccessible](../../aspose.pdf.text/font/isaccessible/) { get; } | Gibt an, ob die Schriftart im System vorhanden (installiert) ist. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded/) { get; set; } | Gibt einen Wert zurück oder legt einen Wert fest, der angibt, ob die Schriftart eingebettet ist. Schriftarten, die auf IFont basieren, werden automatisch unterteilt und eingebettet. |
+| [IsSubset](../../aspose.pdf.text/font/issubset/) { get; set; } | Gibt einen Wert zurück oder legt einen Wert fest, der angibt, ob die Schriftart ein Subset ist. Schriftarten, die auf IFont basieren, werden automatisch unterteilt und eingebettet. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror)() | Ein Ziel dieser Methode - Fehlerbeschreibung zurückzugeben, wenn ein Versuch zum Einbetten einer Schriftart fehlgeschlagen ist. Wenn es keine Fehlerfälle gibt, wird eine leere Zeichenfolge zurückgegeben. |
-| [MeasureString](../../aspose.pdf.text/font/measurestring)(string, float) | Misst die Zeichenfolge. |
-| [Save](../../aspose.pdf.text/font/save)(Stream) | Speichert die Schriftart im Stream. Beachten Sie, dass die Schriftart im TTF-Zwischenformat gespeichert wird, das nur für die Verwendung in einer konvertierten Kopie des Originaldokuments vorgesehen ist. Die Schriftartdatei ist nicht für die Verwendung außerhalb des Kontexts des Originaldokuments vorgesehen. |
+| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror/)() | Ziel dieser Methode ist es, eine Beschreibung des Fehlers zurückzugeben, wenn der Versuch, die Schriftart einzubetten, fehlgeschlagen ist. Wenn es keine Fehlerfälle gibt, wird ein leerer String zurückgegeben. |
+| [MeasureString](../../aspose.pdf.text/font/measurestring/)(string, float) | Misst den String. |
+| [Save](../../aspose.pdf.text/font/save/)(Stream) | Speichert die Schriftart im Stream. Beachten Sie, dass die Schriftart im Zwischenformat TTF gespeichert wird, das nur für eine konvertierte Kopie des ursprünglichen Dokuments verwendet werden soll. Die Schriftartdatei ist nicht dafür gedacht, außerhalb des Kontexts des ursprünglichen Dokuments verwendet zu werden. |
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie Text auf der ersten Seite gesucht und die Schriftart eines ersten Suchvorkommens geändert wird.
+Das Beispiel zeigt, wie man Text auf der ersten Seite sucht und die Schriftart des ersten Suchvorkommens ändert.
 
 ```csharp
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// TextFragmentAbsorber-Objekt erstellen, um alle "Hello World"-Textvorkommen zu finden
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Schriftart erstellen und zum Einbetten markieren
+// Create font and mark it to be embedded
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// Schriftart des ersten Textvorkommens ändern
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
 
-// Dokument speichern
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Siehe auch
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [FontRepository](../fontrepository)
-* class [Document](../../aspose.pdf/document)
-* namensraum [Aspose.Pdf.Text](../../aspose.pdf.text)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [TextFragmentAbsorber](../textfragmentabsorber/)
+* Klasse [FontRepository](../fontrepository/)
+* Klasse [Document](../../aspose.pdf/document/)
+* Namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../)

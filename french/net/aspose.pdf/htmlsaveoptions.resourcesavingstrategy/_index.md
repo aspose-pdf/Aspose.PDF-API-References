@@ -1,32 +1,21 @@
 ---
-title: HtmlSaveOptions.ResourceSavingStrategy
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: À cette propriété vous pouvez affecter un délégué créé à partir dune méthode personnalisée qui implémente le traitement de la ressource externe police ou image qui a été extraite du PDF et doit être enregistrée en tant que ressource externe lors de la conversion du PDF en HTML. Dans ce cas le traitement  comme lenregistrement dans le flux ou le disque peut être fait dans ce code personnalisé et ce code personnalisé doit renvoyer le chemin ou toute autre chaîne sans guillemets qui sera ensuite incorporé dans le code HTML généré au lieu du chemin supposé dorigine vers cette ressource dimage. Dans ce cas toutes les actions nécessaires à la sauvegarde de limage doivent être entreprises dans le code de la méthode fournie car la sauvegarde du résultat dans le code du convertisseur ne sera pas utilisée. Si le traitement de tel ou tel fichier pour une raison quelconque doit être effectué par le code du convertisseur lui-même pas dans le code personnalisé veuillez définir dans le code personnalisé lindicateur CustomProcessingCancelled de la variable resourceSavingInfo du paramètre Il signale au convertisseur que toutes les étapes nécessaires pour le traitement de cette ressource doit être effectué dans le convertisseur lui-même comme sil ny avait pas de code personnalisé externe .
+title: Delegate HtmlSaveOptions.ResourceSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Pour cette propriété, vous pouvez assigner un délégué créé à partir d'une méthode personnalisée qui implémente le traitement de la ressource externe, police ou image, qui a été extraite du PDF et doit être enregistrée en tant que ressource externe lors de la conversion du PDF en HTML. Dans ce cas, le traitement tel que l'enregistrement dans un flux ou sur un disque peut être effectué dans ce code personnalisé et ce code personnalisé doit retourner un chemin ou toute autre chaîne sans guillemets qui sera ensuite incorporée dans le HTML généré au lieu du chemin supposé d'origine vers cette ressource image. Dans ce cas, toutes les actions nécessaires pour l'enregistrement de l'image doivent être entreprises dans le code de la méthode fournie car l'enregistrement du résultat dans le code du convertisseur ne sera pas utilisé. Si le traitement pour ce fichier ou cet autre fichier doit, pour une raison quelconque, être effectué par le code du convertisseur lui-même et non dans le code personnalisé, veuillez définir dans le code personnalisé le drapeau CustomProcessingCancelled de la variable paramètres resourceSavingInfo. Cela signale au convertisseur que toutes les étapes nécessaires pour le traitement de cette ressource doivent être effectuées dans le convertisseur lui-même comme s'il n'y avait pas de code personnalisé externe.
 type: docs
-weight: 3600
+weight: 5730
 url: /fr/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/
 ---
-## HtmlSaveOptions.ResourceSavingStrategy delegate
+| --- | --- |
+| resourceSavingInfo | ResourceSavingInfo | représente un ensemble de données pour l'enregistrement de la ressource |
 
-À cette propriété, vous pouvez affecter un délégué créé à partir d'une méthode personnalisée qui implémente le traitement de la ressource externe (police ou image) qui a été extraite du PDF et doit être enregistrée en tant que ressource externe lors de la conversion du PDF en HTML. Dans ce cas, le traitement ( comme l'enregistrement dans le flux ou le disque) peut être fait dans ce code personnalisé et ce code personnalisé doit renvoyer le chemin (ou toute autre chaîne sans guillemets) qui sera ensuite incorporé dans le code HTML généré au lieu du chemin supposé d'origine vers cette ressource d'image. Dans ce cas, toutes les actions nécessaires à la sauvegarde de l'image doivent être entreprises dans le code de la méthode fournie, car la sauvegarde du résultat dans le code du convertisseur ne sera pas utilisée. Si le traitement de tel ou tel fichier pour une raison quelconque doit être effectué par le code du convertisseur lui-même, pas dans le code personnalisé, veuillez définir dans le code personnalisé l'indicateur 'CustomProcessingCancelled' de la variable 'resourceSavingInfo' du paramètre Il signale au convertisseur que toutes les étapes nécessaires pour le traitement de cette ressource doit être effectué dans le convertisseur lui-même comme s'il n'y avait pas de code personnalisé externe .
+### Valeur de retour
 
-```csharp
-public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingInfo);
-```
+doit retourner l'URL de la ressource enregistrée qui sera utilisée lors de la génération du HTML
 
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| resourceSavingInfo | ResourceSavingInfo | représente un ensemble de données pour l'économie de ressources |
+### Voir aussi
 
-### Return_Value
-
-doit renvoyer l'URL de la ressource enregistrée qui sera utilisée lors de la génération du HTML
-
-### Voir également
-
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

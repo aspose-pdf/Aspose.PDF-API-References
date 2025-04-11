@@ -1,80 +1,82 @@
 ---
-title: ParagraphAbsorber
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert ein Absorberobjekt von Seitenstrukturobjekten wie Abschnitten und Absätzen. Führt eine Suche nach Textabschnitten und -absätzen durch und bietet Zugriff auf Rechtecke und Polydone die ihn im Textkoordinatenraum beschreiben. Führt auch eine Suche nach Textsegmenten durch und bietet Zugriff auf Suchergebnisse überTextFragments Sammlungen gruppiert nach Strukturelementen.
+title: Class ParagraphAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.ParagraphAbsorber-Klasse. Stellt ein Absorberobjekt von Seitenstrukturobjekten wie Abschnitten und Absätzen dar. Führt die Suche nach Abschnitten und Absätzen von Text durch und bietet Zugriff auf Rechtecke und Polygone, die es im Textkoordinatenraum beschreiben. Führt auch die Suche nach Textsegmenten durch und bietet Zugriff auf die Suchergebnisse über TextFragments-Sammlungen, die nach Strukturelementen gruppiert sind.
 type: docs
-weight: 6850
+weight: 10670
 url: /de/net/aspose.pdf.text/paragraphabsorber/
 ---
-## ParagraphAbsorber class
+## ParagraphAbsorber-Klasse
 
-Repräsentiert ein Absorberobjekt von Seitenstrukturobjekten wie Abschnitten und Absätzen. Führt eine Suche nach Textabschnitten und -absätzen durch und bietet Zugriff auf Rechtecke und Polydone, die ihn im Textkoordinatenraum beschreiben. Führt auch eine Suche nach Textsegmenten durch und bietet Zugriff auf Suchergebnisse über!:TextFragments Sammlungen gruppiert nach Strukturelementen.
+Stellt ein Absorberobjekt von Seitenstrukturobjekten wie Abschnitten und Absätzen dar. Führt die Suche nach Abschnitten und Absätzen von Text durch und bietet Zugriff auf Rechtecke und Polygone, die es im Textkoordinatenraum beschreiben. Führt auch die Suche nach Textsegmenten durch und bietet Zugriff auf die Suchergebnisse über !:TextFragments-Sammlungen, die nach Strukturelementen gruppiert sind.
 
 ```csharp
 public class ParagraphAbsorber
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ParagraphAbsorber](paragraphabsorber#constructor)() | Initialisiert eine neue Instanz von[`ParagraphAbsorber`](../paragraphabsorber) das die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite durchführt. |
-| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | Initialisiert eine neue Instanz von[`ParagraphAbsorber`](../paragraphabsorber) das die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite durchführt. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor)() | Initialisiert eine neue Instanz des `ParagraphAbsorber`, die die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite durchführt. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_2)(int) | Initialisiert eine neue Instanz des `ParagraphAbsorber`, die die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite durchführt. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_1)(ParagraphAbsorberOptions) | Initialisiert eine neue Instanz des `ParagraphAbsorber`, die die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite mit den angegebenen Parametern durchführt. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_3)(int, ParagraphAbsorberOptions) | Initialisiert eine neue Instanz des `ParagraphAbsorber`, die die Suche nach Abschnitten/Absätzen des Dokuments oder der Seite mit den angegebenen Parametern durchführt. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | Ruft einen Wert ab oder legt ihn fest, der angibt, ob beginnende Textzeilen eines nächsten Abschnitts als Fortsetzung des letzten Absatzes eines vorherigen Abschnitts behandelt werden können. |
-| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | Ruft eine Sammlung von ab[`PageMarkup`](../pagemarkup) die absorbiert wurden. |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | Erhält oder setzt einen Wert, der angibt, wie oft sequentielle Suchen nach feineren Strukturelementen durchgeführt werden. Die Standardsuchtiefe ist 3. Dies bedeutet drei Suchen nach horizontal geteilten Abschnitten (Überschriften, Absätze usw.) und drei Suchen nach vertikal geteilten Einsen (Spalten). |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, ob die Anfangstextzeilen eines nächsten Abschnitts als Fortsetzung des letzten Absatzes eines vorherigen Abschnitts behandelt werden dürfen. |
+| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups/) { get; } | Ruft die Sammlung von [`PageMarkup`](../pagemarkup/) ab, die absorbiert wurden. |
+| [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | Ruft die ParagraphAbsorberOptions ab oder legt sie fest. |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, wie oft aufeinanderfolgende Suchen nach feineren Strukturelementen durchgeführt werden. Die Standard-Suchtiefe beträgt 3. Das bedeutet drei Suchen nach horizontal geteilten Abschnitten (Kopfzeilen, Absätze usw.) und drei Suchen nach vertikal geteilten (Spalten). |
+| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | Ruft die TextReplaceOptions ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | Führt die Suche nach Abschnitten und Absätzen zu den angegebenen durch[`Document`](../../aspose.pdf/document) . |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | Führt die Suche nach dem angegebenen durch[`Page`](../../aspose.pdf/page) . |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit)(Document) | Führt die Suche nach Abschnitten und Absätzen im angegebenen [`Document`](../../aspose.pdf/document/) durch. |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit_1)(Page) | Führt die Suche auf der angegebenen [`Page`](../../aspose.pdf/page/) durch. |
 
-### Bemerkungen
+## Anmerkungen
 
-Wenn die Suche abgeschlossen ist, wird die[`PageMarkups`](./pagemarkups) Sammlung enthält[`PageMarkup`](../pagemarkup) Objekte, die die Seitenstruktur durch Sammlungen von darstellen[`MarkupSection`](../markupsection) und[`MarkupParagraph`](../markupparagraph) . Die[`TextFragment`](../textfragment) Das Objekt bietet Zugriff auf den Text des Suchvorkommens und die Texteigenschaften und ermöglicht das Bearbeiten von Text und das Ändern des Textstatus (Schriftart, Schriftgröße, Farbe usw.).
+Wenn die Suche abgeschlossen ist, enthält die [`PageMarkups`](./pagemarkups/) Sammlung [`PageMarkup`](../pagemarkup/) Objekte, die die Seitenstruktur durch Sammlungen von [`MarkupSection`](../markupsection/) und [`MarkupParagraph`](../markupparagraph/) darstellen. Das [`TextFragment`](../textfragment/) Objekt bietet Zugriff auf den Suchvorkommen-Text, die Text-Eigenschaften und ermöglicht das Bearbeiten von Text und das Ändern des Textzustands (Schriftart, Schriftgröße, Farbe usw.).
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie das erste Textsegment jedes Absatzes auf der ersten PDF-Dokumentseite gefunden und hervorgehoben wird.
+Das Beispiel zeigt, wie man das erste Textsegment jedes Absatzes auf der ersten PDF-Dokumentseite findet und hervorhebt.
 
 ```csharp
-// Dokument öffnen
+// Open document
 Document doc = new Document("input.pdf");
 
-// ParagraphAbsorber-Objekt erstellen
+// Create ParagraphAbsorber object
 ParagraphAbsorber absorber = new ParagraphAbsorber();
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 absorber.Visit(doc.Pages[1]);
 
-// Markup-Objekt der ersten Seite abrufen
+// Get markup object of first page
 PageMarkup markup = absorber.PageMarkups[0];
 
-// Strukturelemente des Seitentextes durchlaufen, um das erste Textfragment jedes Absatzes zu finden
+// Loop through structure elements of the page text to find first text fragment of each paragraph
 foreach (MarkupSection section in markup.Sections)
 {
     foreach (MarkupParagraph paragraph in section.Paragraphs)
     {
         TextFragment fragment = paragraph.Fragments[0];
-        // Texteigenschaften aktualisieren
+        // Update text properties
         fragment.TextState.BackgroundColor = Color.LightBlue;
     }
 }
 
-// Dokument speichern
+// Save document
 doc.Save(GetOutputPath("output.pdf"));
 ```
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.Text](../../aspose.pdf.text)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../)

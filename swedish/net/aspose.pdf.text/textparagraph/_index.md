@@ -1,14 +1,14 @@
 ---
-title: TextParagraph
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar textstycken som flerradstextobjekt.
+title: Class TextParagraph
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextParagraph klass. Representerar textparagrafer som ett flerlinjigt textobjekt
 type: docs
-weight: 7150
+weight: 10990
 url: /sv/net/aspose.pdf.text/textparagraph/
 ---
-## TextParagraph class
+## TextParagraph klass
 
-Representerar textstycken som flerradstextobjekt.
+Representerar textparagrafer som ett flerlinjigt textobjekt.
 
 ```csharp
 public sealed class TextParagraph
@@ -16,74 +16,72 @@ public sealed class TextParagraph
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TextParagraph](textparagraph)() | Default_Constructor |
+| [TextParagraph](textparagraph/)() | Standardkonstruktören. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent) { get; set; } | Hämtar eller ställer in efterföljande raders indragsvärde. Om det ställs in på ett värde som inte är noll, har det en fördel jämfört med FormattingOptions.SubsequentLinesIndent value. |
-| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions) { get; set; } | Hämtar eller ställer in formateringsalternativ. |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment) { get; set; } | Hämtar eller ställer in horisontell justering för texten i paragrafer[`Rectangle`](./rectangle) . |
-| [Justify](../../aspose.pdf.text/textparagraph/justify) { get; set; } | Hämtar eller ställer in värde oavsett om texten är motiverad. |
-| [Margin](../../aspose.pdf.text/textparagraph/margin) { get; set; } | Hämtar eller ställer in stoppningen. |
-| [Position](../../aspose.pdf.text/textparagraph/position) { get; set; } | Hämtar eller ställer in positionen för stycket. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle) { get; set; } | Hämtar eller ställer in rektangel för stycket. |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation) { get; set; } | Hämtar eller ställer in rotationsvinkeln i grader. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent) { get; set; } | Hämtar eller ställer in efterföljande raders indragsvärde. Om det ställs in på ett värde som inte är noll, har det en fördel jämfört med FormattingOptions.SubsequentLinesIndent value. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle) { get; } | Får rektangel av texten placerad till stycket. |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment) { get; set; } | Hämtar eller ställer in vertikal justering för texten i paragrafer[`Rectangle`](./rectangle) . |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Hämtar eller sätter indenteringsvärdet för efterföljande rader. Om det sätts till ett icke-nollvärde har det en fördel över värdet FormattingOptions.SubsequentLinesIndent. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Hämtar eller sätter formateringsalternativ. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Hämtar eller sätter horisontell justering för texten inuti paragrafens [`Rectangle`](./rectangle/). |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Hämtar eller sätter värdet om texten är rättjusterad. |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Hämtar eller sätter marginalen. |
+| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Hämtar eller sätter positionen för paragrafen. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Hämtar eller sätter rektangeln för paragrafen. |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Hämtar eller sätter rotationsvinkeln i grader. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Hämtar eller sätter indenteringsvärdet för efterföljande rader. Om det sätts till ett icke-nollvärde har det en fördel över värdet FormattingOptions.SubsequentLinesIndent. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Hämtar rektangeln för texten placerad i paragrafen. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Hämtar eller sätter vertikal justering för texten inuti paragrafens [`Rectangle`](./rectangle/). |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_3)(string) | Lägger till textrad |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline)(TextFragment) | Lägger till textrad med texttillståndsparametrar. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_6)(string, float) | Lägger till textrad. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_4)(string, TextState) | Lägger till textrad med texttillståndsparametrar. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_1)(TextFragment, TextState) | Lägger till textrad med texttillståndsparametrar. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_5)(string, TextState, float) | Lägger till textrad med texttillståndsparametrar |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_2)(TextFragment, TextState, float) | Lägger till textrad med texttillståndsparametrar |
-| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit)() | Börjar redigeringen av TextParagraph. |
-| [EndEdit](../../aspose.pdf.text/textparagraph/endedit)() | Avslutar redigeringen av TextParagraph. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_3)(string) | Lägger till en textrad |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(TextFragment) | Lägger till en textrad med textstatusparametrar. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_6)(string, float) | Lägger till en textrad. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(string, TextState) | Lägger till en textrad med textstatusparametrar. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | Lägger till en textrad med textstatusparametrar. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | Lägger till en textrad med textstatusparametrar |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | Lägger till en textrad med textstatusparametrar |
+| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | Börjar redigera TextParagraph. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | Avslutar redigeringen av TextParagraph. |
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man skapar textstyckeobjekt och lägger till det på pdf-sidan.
+Exemplet visar hur man skapar ett textparagrafobjekt och lägger till det på Pdf-sidan.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// skapa textstycke
+// create text paragraph
 TextParagraph paragraph = new TextParagraph();
            
-// ställ in styckerektangeln
+// set the paragraph rectangle
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// ställ in radbrytningsalternativ
+// set word wrapping options
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// lägg till strängrader
+// append string lines
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// lägg till stycket på Pdf-sidan med TextBuilder
+// append the paragraph to the Pdf page with the TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// spara pdf-dokument
+// save Pdf document
 doc.Save(outFile);
 ```
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* sammansättning [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: SaveAsTIFF
-second_title: Aspose.PDF для справочника API .NET
-description: Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+title: PdfConverter.SaveAsTIFF
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfConverter. Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdfconverter/saveastiff/
 ---
 ## SaveAsTIFF(string) {#saveastiff_10}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile)
@@ -16,9 +16,9 @@ public void SaveAsTIFF(string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Файл для сохранения изображения TIFF. |
+| outputFile | String | Файл для сохранения TIFF-изображения. |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -34,17 +34,17 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, CompressionType) {#saveastiff_11}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, CompressionType compressionType)
@@ -55,7 +55,7 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 | outputFile | String | Выходной файл. |
 | compressionType | CompressionType | Тип сжатия. |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -70,18 +70,18 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### Смотрите также
+### См. также
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* перечисление [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
@@ -89,21 +89,21 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, PageSize) {#saveastiff_14}
 
-Преобразует каждую страницу документа PDF в изображения с размером страницы и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с размером страницы и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize)
@@ -111,21 +111,21 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
 | pageSize | PageSize | Размер страницы изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, PageSize, TiffSettings) {#saveastiff_15}
 
-Преобразует каждую страницу документа PDF в изображения с размером страницы и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с размером страницы и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settings)
@@ -133,23 +133,23 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
 | pageSize | PageSize | Размер страницы изображения. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
@@ -158,23 +158,23 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 | compressionType | CompressionType | Тип сжатия. |
 
-### Смотрите также
+### См. также
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* перечисление [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
@@ -182,23 +182,23 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -207,25 +207,25 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| converter | IIndexBitmapConverter | Внешний преобразователь |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
+| converter | IIndexBitmapConverter | Внешний конвертер |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream) {#saveastiff}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream)
@@ -233,19 +233,19 @@ public void SaveAsTIFF(Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, CompressionType) {#saveastiff_1}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
@@ -256,18 +256,18 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 | outputStream | Stream | Выходной поток. |
 | compressionType | CompressionType | Тип сжатия. |
 
-### Смотрите также
+### См. также
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* перечисление [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, PageSize) {#saveastiff_4}
 
-Преобразует каждую страницу pdf-документа в изображения с размером страницы и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с размером страницы и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
@@ -275,21 +275,21 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, PageSize, TiffSettings) {#saveastiff_5}
 
-Преобразует каждую страницу pdf-документа в изображения с размером страницы и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с размером страницы и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings settings)
@@ -297,23 +297,23 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
@@ -321,21 +321,21 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
@@ -344,23 +344,23 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 | compressionType | CompressionType | Тип сжатия. |
 
-### Смотрите также
+### См. также
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* перечисление [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
@@ -368,23 +368,23 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения с заданными размерами и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -393,25 +393,25 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| converter | IIndexBitmapConverter | Внешний преобразователь |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
+| converter | IIndexBitmapConverter | Внешний конвертер |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, TiffSettings) {#saveastiff_12}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings)
@@ -419,21 +419,21 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, TiffSettings, IIndexBitmapConverter) {#saveastiff_13}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один файл TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-файл.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapConverter converter)
@@ -441,23 +441,23 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Имя файла для сохранения изображения TIFF |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| converter | IIndexBitmapConverter | Внешний преобразователь |
+| outputFile | String | Имя файла для сохранения TIFF-изображения |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
+| converter | IIndexBitmapConverter | Внешний конвертер |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, TiffSettings) {#saveastiff_2}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
@@ -465,21 +465,21 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, TiffSettings, IIndexBitmapConverter) {#saveastiff_3}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу PDF-документа в изображения и сохраняет изображения в один TIFF-поток.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapConverter converter)
@@ -487,16 +487,14 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток для сохранения изображения TIFF. |
-| settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| converter | IIndexBitmapConverter | Внешний преобразователь |
+| outputStream | Stream | Поток для сохранения TIFF-изображения. |
+| settings | TiffSettings | Объект настроек, который определяет параметры TIFF. |
+| converter | IIndexBitmapConverter | Внешний конвертер |
 
-### Смотрите также
+### См. также
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* интерфейс [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,72 +1,70 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt ein Absorberobjekt eines Textes dar. Führt eine Textextraktion durch und bietet Zugriff auf das Ergebnis überText./textabsorber/text Objekt.
+title: Class TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextAbsorber-Klasse. Stellt ein Absorberobjekt eines Textes dar. Führt die Textextraktion durch und bietet Zugriff auf das Ergebnis über das [`Text`](./text/) Objekt
 type: docs
-weight: 6960
+weight: 10800
 url: /de/net/aspose.pdf.text/textabsorber/
 ---
-## TextAbsorber class
+## TextAbsorber-Klasse
 
-Stellt ein Absorberobjekt eines Textes dar. Führt eine Textextraktion durch und bietet Zugriff auf das Ergebnis über[`Text`](./text) Objekt.
+Stellt ein Absorberobjekt eines Textes dar. Führt die Textextraktion durch und bietet Zugriff auf das Ergebnis über das [`Text`](./text/) Objekt.
 
 ```csharp
 public class TextAbsorber
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | Initialisiert eine neue Instanz von[`TextAbsorber`](../textabsorber) . |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Initialisiert eine neue Instanz von[`TextAbsorber`](../textabsorber) mit Extraktionsoptionen. |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Initialisiert eine neue Instanz von[`TextAbsorber`](../textabsorber) mit Textsuchoptionen. |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Initialisiert eine neue Instanz von[`TextAbsorber`](../textabsorber) mit Extraktions- und Textsuchoptionen. |
+| [TextAbsorber](textabsorber/#constructor)() | Initialisiert eine neue Instanz des `TextAbsorber`. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | Initialisiert eine neue Instanz des `TextAbsorber` mit Extraktionsoptionen. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | Initialisiert eine neue Instanz des `TextAbsorber` mit Textsuchoptionen. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | Initialisiert eine neue Instanz des `TextAbsorber` mit Extraktions- und Textsuchoptionen. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Liste von[`TextExtractionError`](../textextractionerror) Objekte. Es enthält Informationen über Fehler, die während der Textextraktion gefunden wurden. Die Suche nach Fehlern wird nur durchgeführt, wenn TextSearchOptions.LogTextExtractionErrors = true; Und es kann die Leistung beeinträchtigen. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | Ruft Textextraktionsoptionen ab oder legt sie fest. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Wert gibt an, ob bei der Textextraktion Fehler gefunden wurden. Die Suche nach Fehlern wird nur durchgeführt, wenn TextSearchOptions.LogTextExtractionErrors = true; Und es kann die Leistung beeinträchtigen. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | Ruft extrahierten Text ab, der die[`TextAbsorber`](../textabsorber) Auszüge auf dem PDF-Dokument oder der Seite. |
-| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | Ruft Textsuchoptionen ab oder legt sie fest. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Liste von [`TextExtractionError`](../textextractionerror/) Objekten. Sie enthält Informationen über Fehler, die während der Textextraktion gefunden wurden. Die Fehlersuche wird nur durchgeführt, wenn TextSearchOptions.LogTextExtractionErrors = true; und kann die Leistung verringern. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Ruft die Textextraktionsoptionen ab oder legt sie fest. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Wert, der angibt, ob während der Textextraktion Fehler gefunden wurden. Die Fehlersuche wird nur durchgeführt, wenn TextSearchOptions.LogTextExtractionErrors = true; und kann die Leistung verringern. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Ruft den extrahierten Text ab, den der `TextAbsorber` aus dem PDF-Dokument oder der Seite extrahiert. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Ruft die Textsuchoptionen ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit)(Document) | Extrahiert Text aus dem angegebenen Dokument |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_1)(Page) | Extrahiert Text auf der angegebenen Seite |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_2)(XForm) | Extrahiert Text aus dem angegebenen XForm. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | Extrahiert Text im angegebenen Dokument |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | Extrahiert Text auf der angegebenen Seite |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | Extrahiert Text im angegebenen XForm. |
 
-### Bemerkungen
+## Bemerkungen
 
-Die[`TextAbsorber`](../textabsorber) Objekt wird verwendet, um Text aus einem PDF-Dokument oder der Seite des Dokuments zu extrahieren.
+Das `TextAbsorber`-Objekt wird verwendet, um Text aus einem PDF-Dokument oder der Seite des Dokuments zu extrahieren.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie Text auf der ersten PDF-Dokumentseite extrahiert wird.
+Das Beispiel zeigt, wie man Text auf der ersten Seite des PDF-Dokuments extrahiert.
 
 ```csharp
-// Dokument öffnen
+// open document
 Document doc = new Document(inFile);
 
-// TextAbsorber-Objekt erstellen, um Text zu extrahieren
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// Akzeptiere den Absorber für die erste Seite
+// accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Holen Sie sich den extrahierten Text
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.Text](../../aspose.pdf.text)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../)

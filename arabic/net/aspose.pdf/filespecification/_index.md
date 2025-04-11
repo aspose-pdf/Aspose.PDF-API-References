@@ -1,9 +1,9 @@
 ---
-title: FileSpecification
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة تمثل الملف المضمن.
+title: Class FileSpecification
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.FileSpecification. فئة تمثل الملف المضمن
 type: docs
-weight: 2820
+weight: 4850
 url: /ar/net/aspose.pdf/filespecification/
 ---
 ## FileSpecification class
@@ -14,45 +14,44 @@ url: /ar/net/aspose.pdf/filespecification/
 public sealed class FileSpecification : IDisposable
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [FileSpecification](filespecification#constructor)() | إنشاء مواصفات ملف فارغ جديد. |
-| [FileSpecification](filespecification#constructor_3)(string) | مُنشئ مواصفات الملف |
-| [FileSpecification](filespecification#constructor_1)(Stream, string) | مُنشئ لمواصفات الملف . |
-| [FileSpecification](filespecification#constructor_4)(string, Annotation) | مُنشئ مواصفات الملف . |
-| [FileSpecification](filespecification#constructor_5)(string, string) | مُنشئ مواصفات الملف . |
-| [FileSpecification](filespecification#constructor_2)(Stream, string, string) | مُنشئ مواصفات الملف . |
+| [FileSpecification](filespecification/#constructor)() | إنشاء مواصفة ملف فارغة جديدة. |
+| [FileSpecification](filespecification/#constructor_3)(string) | مُنشئ لفئة FileSpecification |
+| [FileSpecification](filespecification/#constructor_1)(Stream, string) | مُنشئ لمواصفة الملف. |
+| [FileSpecification](filespecification/#constructor_4)(string, Annotation) | مُنشئ لفئة FileSpecification. |
+| [FileSpecification](filespecification/#constructor_5)(string, string) | مُنشئ لفئة FileSpecification. |
+| [FileSpecification](filespecification/#constructor_2)(Stream, string, string) | مُنشئ لفئة FileSpecification. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [AFRelationship](../../aspose.pdf/filespecification/afrelationship) { get; set; } | علاقة الملف المرتبط . |
-| [Contents](../../aspose.pdf/filespecification/contents) { get; set; } | الحصول على ملف المحتويات أو تعيينه. تقوم هذه الخاصية بإرجاع البيانات التي تم تحميلها في الذاكرة والتي قد تتسبب في استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استخدام الذاكرة ، يرجى استخدام StreamContents. |
-| [Description](../../aspose.pdf/filespecification/description) { get; set; } | الحصول على أو تعيين النص المرتبط بمواصفات الملف. |
-| [Encoding](../../aspose.pdf/filespecification/encoding) { get; set; } | الحصول على تنسيق الترميز أو تعيينه. القيم المحتملة: Zip - يتم ضغط الملف باستخدام ZIP ، بلا - الملف غير مضغوط . |
-| [EncryptedPayload](../../aspose.pdf/filespecification/encryptedpayload) { get; } | الحصول على حمولة مشفرة . |
-| [FileSystem](../../aspose.pdf/filespecification/filesystem) { get; set; } | الحصول على أو تعيين اسم نظام الملفات. |
-| [IncludeContents](../../aspose.pdf/filespecification/includecontents) { get; set; } | إذا كان صحيحًا ، سيتم تضمين محتويات الملف في مواصفات الملف. |
-| [MIMEType](../../aspose.pdf/filespecification/mimetype) { get; set; } | يحصل على النوع الفرعي للملف المضمن |
-| [Name](../../aspose.pdf/filespecification/name) { get; set; } | الحصول على اسم مواصفات الملف أو تعيينه. |
-| [Params](../../aspose.pdf/filespecification/params) { get; set; } | يحصل على معلمات الملف. |
-| [StreamContents](../../aspose.pdf/filespecification/streamcontents) { get; } | يحصل على محتويات الملف كتدفق. لا يتم تحميل المحتويات في الذاكرة مما يسمح بتقليل استخدام الذاكرة . لكن هذا الدفق لا يدعم خاصية تحديد المواقع والطول. إذا كنت بحاجة إلى هذه الميزات ، فيرجى استخدام خاصية المحتويات بدلاً من ذلك. |
-| [UnicodeName](../../aspose.pdf/filespecification/unicodename) { get; set; } | الحصول على اسم يونيكود لمواصفات الملف أو تعيينه. |
+| [AFRelationship](../../aspose.pdf/filespecification/afrelationship/) { get; set; } | علاقة الملف المرتبطة. |
+| [CollectionItem](../../aspose.pdf/filespecification/collectionitem/) { get; } | يحصل على عنصر مجموعة من مواصفة الملف. |
+| [Contents](../../aspose.pdf/filespecification/contents/) { get; set; } | يحصل أو يحدد محتويات الملف. هذه الخاصية تعيد البيانات المحملة في الذاكرة والتي قد تسبب استثناء نفاد الذاكرة للبيانات الكبيرة. لتقليل استخدام الذاكرة، يرجى استخدام StreamContents. |
+| [Description](../../aspose.pdf/filespecification/description/) { get; set; } | يحصل أو يحدد النص المرتبط بمواصفة الملف. |
+| [Encoding](../../aspose.pdf/filespecification/encoding/) { get; set; } | يحصل أو يحدد تنسيق الترميز. القيم الممكنة: Zip - الملف مضغوط باستخدام ZIP، None - الملف غير مضغوط. |
+| [EncryptedPayload](../../aspose.pdf/filespecification/encryptedpayload/) { get; } | يحصل على الحمولة المشفرة. |
+| [FileSystem](../../aspose.pdf/filespecification/filesystem/) { get; set; } | يحصل أو يحدد اسم نظام الملفات. |
+| [IncludeContents](../../aspose.pdf/filespecification/includecontents/) { get; set; } | إذا كانت صحيحة، سيتم تضمين محتويات الملف في مواصفة الملف. |
+| [MIMEType](../../aspose.pdf/filespecification/mimetype/) { get; set; } | يحصل على نوع فرعي من الملف المضمن |
+| [Name](../../aspose.pdf/filespecification/name/) { get; set; } | يحصل أو يحدد اسم مواصفة الملف. |
+| [Params](../../aspose.pdf/filespecification/params/) { get; set; } | يحصل على معلمات الملف. |
+| [StreamContents](../../aspose.pdf/filespecification/streamcontents/) { get; } | يحصل على محتويات الملف كتيار. المحتويات لا تُحمّل في الذاكرة مما يسمح بتقليل استخدام الذاكرة. لكن هذا التيار لا يدعم التمركز وخصائص الطول. إذا كنت بحاجة إلى هذه الميزات، يرجى استخدام خاصية Contents بدلاً من ذلك. |
+| [UnicodeName](../../aspose.pdf/filespecification/unicodename/) { get; set; } | يحصل أو يحدد اسم مواصفة الملف بالترميز الموحد. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf/filespecification/dispose)() | التخلص من المحتويات . |
-| [GetValue](../../aspose.pdf/filespecification/getvalue)(string) | الحصول على المعلمة الخاصة بالتطبيق . |
-| [SetValue](../../aspose.pdf/filespecification/setvalue)(string, string) | تعيين المعلمة الخاصة بالتطبيق . |
+| [Dispose](../../aspose.pdf/filespecification/dispose/)() | التخلص من المحتويات. |
+| [GetValue](../../aspose.pdf/filespecification/getvalue/)(string) | يحصل على معلمة محددة للتطبيق. |
+| [SetValue](../../aspose.pdf/filespecification/setvalue/)(string, string) | يحدد معلمة محددة للتطبيق. |
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

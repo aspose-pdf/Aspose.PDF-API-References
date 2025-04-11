@@ -1,12 +1,12 @@
 ---
-title: Concatenate
-second_title: Aspose.PDF for .NET API Referansı
-description: İki dosyayı birleştirir.
+title: PdfFileEditor.Concatenate
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. İki dosyayı birleştirir
 type: docs
-weight: 290
+weight: 260
 url: /tr/net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
-## Concatenate(string, string, string) {#concatenate_5}
+## Birleştir(string, string, string) {#concatenate_4}
 
 İki dosyayı birleştirir.
 
@@ -14,32 +14,32 @@ url: /tr/net/aspose.pdf.facades/pdffileeditor/concatenate/
 public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | firstInputFile | String | Birleştirilecek ilk dosya. |
 | secInputFile | String | Birleştirilecek ikinci dosya. |
 | outputFile | String | Çıktı dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(Stream, Stream, Stream) {#concatenate_1}
+## Birleştir(Stream, Stream, Stream) {#concatenate_1}
 
 İki dosyayı birleştirir.
 
@@ -47,19 +47,17 @@ fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | firstInputStream | Stream | İlk dosyanın akışı. |
 | secInputStream | Stream | İkinci dosyanın akışı. |
-| outputStream | Stream | Sonuç dosyasının depolanacağı akış. |
+| outputStream | Stream | Sonuç dosyasının saklanacağı akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-İşlem başarılı olduysa doğrudur.
-
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -69,15 +67,15 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(stream1, stream2, outstream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(Document[], Document) {#concatenate}
+## Birleştir(Document[], Document) {#concatenate}
 
 Belgeleri birleştirir.
 
@@ -85,25 +83,25 @@ Belgeleri birleştirir.
 public bool Concatenate(Document[] src, Document dest)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| src | Document[] | Kaynak belgeler dizisi. |
+| src | Document[] | Kaynak belgelerin dizisi. |
 | dest | Document | Hedef belge. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Birleştirme başarılıysa doğrudur.
+Birleştirme başarılıysa doğru.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../../aspose.pdf/document)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Document](../../../aspose.pdf/document/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string[], string) {#concatenate_7}
+## Birleştir(string[], string) {#concatenate_6}
 
 Dosyaları tek bir dosyada birleştirir.
 
@@ -111,48 +109,48 @@ Dosyaları tek bir dosyada birleştirir.
 public bool Concatenate(string[] inputFiles, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFiles | String[] | Birleştirilecek dosya dizisi. |
+| inputFiles | String[] | Birleştirilecek dosyaların dizisi. |
 | outputFile | String | Çıktı dosyasının adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(Stream[], Stream) {#concatenate_3}
+## Birleştir(Stream[], Stream) {#concatenate_3}
 
-Dosyaları birleştirir
+Dosyaları birleştirir.
 
 ```csharp
 public bool Concatenate(Stream[] inputStream, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream[] | Birleştirilecek akış dizisi. |
-| outputStream | Stream | Sonuç dosyasının depolanacağı akış. |
+| inputStream | Stream[] | Birleştirilecek akışların dizisi. |
+| outputStream | Stream | Sonuç dosyasının saklanacağı akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -162,70 +160,70 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string, string, string, string) {#concatenate_6}
+## Birleştir(string, string, string, string) {#concatenate_5}
 
-İki Pdf belgesini alternatif yollarla sayfaları olan yeni bir Pdf belgesinde birleştirir ve boş yerleri boş sayfalarla doldurur. örneğin: belge1'in 5 sayfası vardır: p1, p2, p3, p4, p5. belge2'nin 3 sayfası vardır: p1', p2', p3'. İki Pdf belgesinin birleştirilmesi, sayfalarla sonuç belgesini üretecektir:p1, p1', p2, p2', p3, p3', p4, boş sayfa, p5, boş sayfa .
+İki Pdf belgesini yeni bir Pdf belgesinde sayfaları alternatif yollarla birleştirir ve boş yerleri boş sayfalarla doldurur. örneğin: belge1'in 5 sayfası var: p1, p2, p3, p4, p5. belge2'nin 3 sayfası var: p1', p2', p3'. İki Pdf belgesinin birleştirilmesi, sayfaları içeren sonuç belgesini üretecektir: p1, p1', p2, p2', p3, p3', p4, boşsayfa, p5, boşsayfa.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
     string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | firstInputFile | String | İlk dosya. |
 | secInputFile | String | İkinci dosya. |
 | blankPageFile | String | Boş sayfa içeren PDF dosyası. |
 | outputFile | String | Sonuç dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
+## Birleştir(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-İki Pdf belgesini alternatif yollarla sayfaları olan yeni bir Pdf belgesinde birleştirir ve boş yerleri boş sayfalarla doldurur. örneğin: belge1'in 5 sayfası vardır: p1, p2, p3, p4, p5. belge2'nin 3 sayfası vardır: p1', p2', p3'. İki Pdf belgesinin birleştirilmesi, sayfalarla sonuç belgesini üretecektir:p1, p1', p2, p2', p3, p3', p4, boş sayfa, p5, boş sayfa .
+İki Pdf belgesini yeni bir Pdf belgesinde sayfaları alternatif yollarla birleştirir ve boş yerleri boş sayfalarla doldurur. örneğin: belge1'in 5 sayfası var: p1, p2, p3, p4, p5. belge2'nin 3 sayfası var: p1', p2', p3'. İki Pdf belgesinin birleştirilmesi, sayfaları içeren sonuç belgesini üretecektir: p1, p1', p2, p2', p3, p3', p4, boşsayfa, p5, boşsayfa.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | firstInputStream | Stream | İlk Pdf Akışı. |
 | secInputStream | Stream | İkinci Pdf Akışı. |
-| blankPageStream | Stream | Boş sayfa ile Pdf Akışı. |
+| blankPageStream | Stream | Boş sayfa içeren Pdf Akışı. |
 | outputStream | Stream | Çıktı Pdf Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -236,60 +234,57 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
----
 
-## Concatenate(string[], HttpResponse) {#concatenate_8}
+## Birleştir(string[], HttpResponse) {#concatenate_8}
 
-Dosyaları birleştirir ve reslt'yi HttpResposnse nesnesine kaydeder.
+Dosyaları birleştirir ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool Concatenate(string[] inputFiles, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFiles | String[] | Birleştirilecek dosya dizisi. |
+| inputFiles | String[] | Birleştirilecek dosyaların dizisi. |
 | response | HttpResponse | Yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birleştirme başarılıysa true .
+Birleştirme başarılıysa doğru.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(Stream[], HttpResponse) {#concatenate_4}
+## Birleştir(Stream[], HttpResponse) {#concatenate_4}
 
-Dosyaları birleştirir ve sonucu HttpResponse nesnesinde saklar.
+Dosyaları birleştirir ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool Concatenate(Stream[] inputStream, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream[] | Birleştirilecek dosyaları içeren akış dizisi. |
-| response | HttpResponse | Yanıt nesnesi/ |
+| inputStream | Stream[] | Birleştirilecek dosyaları içeren akışlar dizisi. |
+| response | HttpResponse | Yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarılı olduysa true .
+İşlem başarılıysa doğru.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

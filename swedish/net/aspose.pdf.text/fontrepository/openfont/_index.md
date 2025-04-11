@@ -1,7 +1,7 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF för .NET API Referens
-description: Öppnar teckensnitt med angiven teckensnittsström.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: FontRepository-metod. Öppnar teckensnitt med angiven teckensnittsström
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/fontrepository/openfont/
@@ -16,53 +16,53 @@ public static Font OpenFont(Stream fontStream, FontTypes fontType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontStream | Stream | Fontström. |
-| fontType | FontTypes | Typsnittsvärde. |
+| fontStream | Stream | Teckensnittsström. |
+| fontType | FontTypes | Värde för teckensnittstyp. |
 
 ### Returvärde
 
 Teckensnittsobjekt.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man öppnar teckensnitt och ersätter teckensnitt för text på första sidan.
+Exemplet visar hur man öppnar teckensnitt och ersätter teckensnittet för texten på första sidan.
 
 ```csharp
-// Öppna teckensnitt
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Öppna dokument
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Acceptera absorbenten för första sidan
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // Ändra teckensnitt för den första textförekomsten
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Spara dokument
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### Se även
+### Se Även
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* namnutrymme [Aspose.Pdf.Text](../../fontrepository)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Font](../../font/)
+* enum [FontTypes](../../fonttypes/)
+* klass [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-Öppnar teckensnitt med angiven sökväg för teckensnittsfil.
+Öppnar teckensnitt med angiven teckensnittsfilväg.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
@@ -70,48 +70,48 @@ public static Font OpenFont(string fontFilePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFilePath | String | Sökväg för teckensnittsfil. |
+| fontFilePath | String | Teckensnittsfilväg. |
 
 ### Returvärde
 
 Teckensnittsobjekt.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man öppnar teckensnitt och ersätter teckensnitt för text på första sidan.
+Exemplet visar hur man öppnar teckensnitt och ersätter teckensnittet för texten på första sidan.
 
 ```csharp
-// Öppna teckensnitt
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra teckensnitt för den första textförekomsten
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se även
+### Se Även
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* namnutrymme [Aspose.Pdf.Text](../../fontrepository)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Font](../../font/)
+* klass [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Öppnar teckensnitt med angiven teckensnittsfilsökväg och metrikfilsökväg.
+Öppnar teckensnitt med angiven teckensnittsfilväg och metrikfilväg.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
@@ -119,42 +119,40 @@ public static Font OpenFont(string fontFilePath, string metricsFilePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFilePath | String | Sökväg för teckensnittsfil. |
-| metricsFilePath | String | Font metrics file patrh. |
+| fontFilePath | String | Teckensnittsfilväg. |
+| metricsFilePath | String | Teckensnittsmetrikfilväg. |
 
 ### Returvärde
 
 Teckensnittsobjekt.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man öppnar typsnitt 1 med mätvärden och ersätter teckensnittet i texten på första sidan.
+Exemplet visar hur man öppnar Type1-teckensnitt med metrik och ersätter teckensnittet för texten på första sidan.
 
 ```csharp
-// Öppna teckensnitt
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra teckensnitt för den första textförekomsten
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se även
+### Se Även
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* namnutrymme [Aspose.Pdf.Text](../../fontrepository)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Font](../../font/)
+* klass [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

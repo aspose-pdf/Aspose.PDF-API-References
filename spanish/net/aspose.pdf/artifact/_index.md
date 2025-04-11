@@ -1,14 +1,14 @@
 ---
-title: Artifact
-second_title: Referencia de API de Aspose.PDF para .NET
-description: La clase representa el objeto PDF Artifact.
+title: Class Artifact
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Artifact. La clase representa el objeto Artifact de PDF
 type: docs
-weight: 1310
+weight: 2770
 url: /es/net/aspose.pdf/artifact/
 ---
-## Artifact class
+## Clase Artifact
 
-La clase representa el objeto PDF Artifact.
+La clase representa el objeto Artifact de PDF.
 
 ```csharp
 public class Artifact : IDisposable
@@ -18,62 +18,61 @@ public class Artifact : IDisposable
 
 | Nombre | Descripción |
 | --- | --- |
-| [Artifact](artifact#constructor)(ArtifactType, ArtifactSubtype) | Constructor de artefacto con tipo y subtipo especificado |
-| [Artifact](artifact#constructor_1)(string, string) | Constructor de artefacto con tipo y subtipo especificado |
+| [Artifact](artifact/#constructor)(ArtifactType, ArtifactSubtype) | Constructor de artifact con tipo y subtipo especificados |
+| [Artifact](artifact/#constructor_1)(string, string) | Constructor de artifact con tipo y subtipo especificados |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment) { get; set; } | Alineación horizontal del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment) { get; set; } | Alineación vertical del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin) { get; set; } | Margen inferior del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [Contents](../../aspose.pdf/artifact/contents) { get; } | Obtiene la colección de operadores internos de artefactos. |
-| [CustomSubtype](../../aspose.pdf/artifact/customsubtype) { get; set; } | Obtiene el nombre del subtipo de artefacto. Puede usarse si el subtipo de artefacto no es un subtipo estándar. |
-| [CustomType](../../aspose.pdf/artifact/customtype) { get; set; } | Obtiene el nombre del tipo de artefacto. Puede usarse si el tipo de artefacto no es estándar. |
-| [Form](../../aspose.pdf/artifact/form) { get; } | Obtiene XForm del artefacto (si se usa XForm). |
-| [Image](../../aspose.pdf/artifact/image) { get; } | Obtiene la imagen del artefacto (si está presente). |
-| [IsBackground](../../aspose.pdf/artifact/isbackground) { get; set; } | Si es verdadero Artefacto se coloca detrás del contenido de la página. |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin) { get; set; } | Margen izquierdo del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [Lines](../../aspose.pdf/artifact/lines) { get; } | Líneas de artefacto de texto multilínea. |
-| [Opacity](../../aspose.pdf/artifact/opacity) { get; set; } | Obtiene o establece la opacidad del artefacto. Los valores posibles están en el rango 0..1. |
-| [Position](../../aspose.pdf/artifact/position) { get; set; } | Obtiene o establece la posición del artefacto. Si se especifica esta propiedad, se ignoran los márgenes y las alineaciones. |
-| [Rectangle](../../aspose.pdf/artifact/rectangle) { get; } | Obtiene el rectángulo del artefacto. |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin) { get; set; } | Margen derecho del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [Rotation](../../aspose.pdf/artifact/rotation) { get; set; } | Obtiene o establece el ángulo de rotación del artefacto. |
-| [Subtype](../../aspose.pdf/artifact/subtype) { get; set; } | Obtiene el subtipo de artefacto. Si el artefacto tiene un subtipo no estándar, el nombre del subtipo se puede leer a través de CustomSubtype. |
-| [Text](../../aspose.pdf/artifact/text) { get; set; } | Obtiene el texto del artefacto. |
-| [TextState](../../aspose.pdf/artifact/textstate) { get; set; } | Estado de texto para texto de artefacto. |
-| [TopMargin](../../aspose.pdf/artifact/topmargin) { get; set; } | Margen superior del artefacto. Si la posición se especifica explícitamente (en la propiedad Posición), este valor se ignora. |
-| [Type](../../aspose.pdf/artifact/type) { get; set; } | Obtiene el tipo de artefacto. |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Alineación horizontal del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Alineación vertical del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Margen inferior del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [Contents](../../aspose.pdf/artifact/contents/) { get; } | Obtiene la colección de operadores internos del artifact. |
+| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Obtiene el nombre del subtipo de artifact. Puede ser utilizado si el subtipo de artifact no es un subtipo estándar. |
+| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Obtiene el nombre del tipo de artifact. Puede ser utilizado si el tipo de artifact no es estándar. |
+| [Form](../../aspose.pdf/artifact/form/) { get; } | Obtiene el XForm del artifact (si se utiliza XForm). |
+| [Image](../../aspose.pdf/artifact/image/) { get; } | Obtiene la imagen del artifact (si está presente). |
+| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | Si es verdadero, el Artifact se coloca detrás del contenido de la página. |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Margen izquierdo del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [Lines](../../aspose.pdf/artifact/lines/) { get; } | Líneas del artifact de texto multilinea. |
+| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Obtiene o establece la opacidad del artifact. Los valores posibles están en el rango de 0..1. |
+| [Position](../../aspose.pdf/artifact/position/) { get; set; } | Obtiene o establece la posición del artifact. Si esta propiedad se especifica, entonces los márgenes y alineaciones se ignoran. |
+| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Obtiene el rectángulo del artifact. |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Margen derecho del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Obtiene o establece el ángulo de rotación del artifact. |
+| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Obtiene el subtipo del artifact. Si el artifact tiene un subtipo no estándar, el nombre del subtipo puede ser leído a través de CustomSubtype. |
+| [Text](../../aspose.pdf/artifact/text/) { get; set; } | Obtiene el texto del artifact. |
+| [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Estado del texto para el texto del artifact. |
+| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Margen superior del artifact. Si la posición se especifica explícitamente (en la propiedad Position), este valor se ignora. |
+| [Type](../../aspose.pdf/artifact/type/) { get; set; } | Obtiene el tipo de artifact. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates)() | Iniciar actualizaciones retrasadas. Utilice esta función si necesita realizar varios cambios en el mismo artefacto para mejorar el rendimiento. Por lo general, los operadores de artefactos se cambian en cualquier momento cuando se cambia la propiedad del artefacto. Esto provoca el cambio del contenido de la página cada vez que se cambia el artefacto. Para evitar este efecto, coloque todas las actualizaciones de artefactos entre las llamadas StartUpdates/SaveUpdates. Esto permite cambiar el contenido de la página solo una vez. |
-| [Dispose](../../aspose.pdf/artifact/dispose)() | Desechar el artefacto. |
-| [GetValue](../../aspose.pdf/artifact/getvalue)(string) | Obtiene el valor personalizado del artefacto. |
-| [RemoveValue](../../aspose.pdf/artifact/removevalue)(string) | Eliminar valor personalizado del artefacto. |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates)() | Guarda todas las actualizaciones en el artefacto que se realizaron después de la llamada BeginUpdates(). |
-| [SetImage](../../aspose.pdf/artifact/setimage#setimage)(Stream) | Establece la imagen del artefacto. |
-| [SetImage](../../aspose.pdf/artifact/setimage#setimage_1)(string) | Establece la imagen del artefacto. |
-| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate)(string[], TextState) | Establecer texto y propiedades de texto del artefacto. Permite especificar múltiples líneas. |
-| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage)(Page) | Establece la página PDF que se coloca en la página del documento como artefacto. |
-| [SetText](../../aspose.pdf/artifact/settext)(FormattedText) | Establece el texto del artefacto. |
-| [SetTextAndState](../../aspose.pdf/artifact/settextandstate)(string, TextState) | Establecer texto y propiedades de texto del artefacto. |
-| [SetValue](../../aspose.pdf/artifact/setvalue)(string, string) | Establece el valor personalizado del artefacto. |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | Comienza las actualizaciones retrasadas. Utiliza esta función si necesitas hacer varios cambios en el mismo artifact para mejorar el rendimiento. Normalmente, los operadores del artifact se cambian cada vez que se cambia una propiedad del artifact. Esto causa que el contenido de la página cambie cada vez que se modifica el artifact. Para evitar este efecto, coloca todas las actualizaciones del artifact entre las llamadas a StartUpdates/SaveUpdates. Esto permite cambiar el contenido de la página solo una vez. |
+| [Dispose](../../aspose.pdf/artifact/dispose/)() | Desecha el artifact. |
+| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | Obtiene el valor personalizado del artifact. |
+| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Elimina el valor personalizado del artifact. |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Guarda todas las actualizaciones en el artifact que se realizaron después de la llamada a BeginUpdates(). |
+| [SetImage](../../aspose.pdf/artifact/setimage/#setimage)(Stream) | Establece la imagen del artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/#setimage_1)(string) | Establece la imagen del artifact. |
+| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Establece el texto y las propiedades del texto del artifact. Permite especificar múltiples líneas. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Establece qué cadena será reemplazada por el número de página. El valor predeterminado es #. |
+| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Establece la página PDF que se coloca en la página del documento como artifact. |
+| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | Establece el texto del artifact. |
+| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | Establece el texto y las propiedades del texto del artifact. |
+| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | Establece el valor personalizado del artifact. |
 
-## Otros miembros
+## Otros Miembros
 
 | Nombre | Descripción |
 | --- | --- |
-| enum [ArtifactSubtype](artifact.artifactsubtype) | Enumeración de posibles artefactos subtipo. |
-| enum [ArtifactType](artifact.artifacttype) | Enumeración de posibles tipos de artefactos. |
+| enum [ArtifactSubtype](../../aspose.pdf/artifact.artifactsubtype) | Enumeración de posibles subtipos de artifacts. |
+| enum [ArtifactType](../../aspose.pdf/artifact.artifacttype) | Enumeración de posibles tipos de artifacts. |
 
-### Ver también
+### Ver También
 
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

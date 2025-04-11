@@ -1,128 +1,126 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırEmfDeviceaspose.pdf.devices/emfdevice emf. ye yazılan raster görüntünün varsayılan çözünürlüğüne sahip sınıf
+title: EmfDevice.EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: EmfDevice yapıcısı. emf'ye yazılan raster görüntünün varsayılan çözünürlüğü ile EmfDevice sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-Yeni bir örneğini başlatır[`EmfDevice`](../../emfdevice) emf. 'ye yazılan raster görüntünün varsayılan çözünürlüğüne sahip sınıf
+[`EmfDevice`](../) sınıfının varsayılan çözünürlüğe sahip yeni bir örneğini başlatır.
 
 ```csharp
 public EmfDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-Yeni bir örneğini başlatır[`EmfDevice`](../../emfdevice) sınıf.  emf'ye yazılan raster görüntü için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf.
+[`EmfDevice`](../) sınıfının yeni bir örneğini başlatır. emf'ye yazılan raster görüntü için çözümleme, [`Resolution`](../../resolution/) sınıfına bakın.
 
 ```csharp
 public EmfDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int) {#constructor_4}
 
-Yeni bir örneğini başlatır[`EmfDevice`](../../emfdevice) emf (=150) 'ye yazılan raster görüntü için sağlanan görüntü boyutları, ve varsayılan çözünürlük ile sınıf
+Verilen görüntü boyutları ile [`EmfDevice`](../) sınıfının yeni bir örneğini başlatır ve emf'ye yazılan raster görüntü için varsayılan çözünürlüğü (=150) kullanır.
 
 ```csharp
 public EmfDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-Yeni bir örneğini başlatır[`EmfDevice`](../../emfdevice) emf (=150) 'ye yazılan raster görüntü için sağlanan sayfa boyutu, ve varsayılan çözünürlük ile sınıf
+Verilen sayfa boyutu ile [`EmfDevice`](../) sınıfının yeni bir örneğini başlatır ve emf'ye yazılan raster görüntü için varsayılan çözünürlüğü (=150) kullanır.
 
 ```csharp
 public EmfDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) emf. öğesine yazılan raster görüntü için sağlanan görüntü boyutları, ve çözünürlük ile sınıf
+Verilen görüntü boyutları ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır ve emf'ye yazılan raster görüntü için çözümleme sağlar.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | emf'ye yazılan raster görüntü için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
+| resolution | Resolution | emf'ye yazılan raster görüntü için çözümleme, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice)emf. öğesine yazılan tarama görüntüsü için sağlanan sayfa boyutu, ve çözünürlük ile sınıf
+Verilen sayfa boyutu ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır ve emf'ye yazılan raster görüntü için çözümleme sağlar.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | emf'ye yazılan raster görüntü için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | emf'ye yazılan raster görüntü için çözümleme, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* ad alanı [Aspose.Pdf.Devices](../../emfdevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [EmfDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

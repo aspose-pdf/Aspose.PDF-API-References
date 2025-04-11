@@ -1,14 +1,60 @@
 ---
-title: ResizeContentsPct
-second_title: Aspose.PDF для справочника API .NET
-description: Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Размер нового содержимого указывается в процентах.
+title: PdfFileEditor.ResizeContentsPct
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileEditor. Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в процентах
 type: docs
-weight: 360
+weight: 330
 url: /ru/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
+## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
+
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в процентах.
+
+```csharp
+public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
+    double newHeight)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | Stream | Поток, содержащий исходный документ. |
+| destination | Stream | Поток, в который будет сохранен результирующий документ. |
+| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| newWidth | Double | Новая ширина содержимого страницы в процентах. |
+| newHeight | Double | Новая высота содержимого страницы в процентах. |
+
+### Возвращаемое значение
+
+true, если изменение размера прошло успешно.
+
+## Примеры
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+fileEditor.ResizePct(src, dest, 
+//resize all pages of document
+null, 
+//new contents width = 60% of initial size
+60, 
+//new contents height = 60% of initial size
+60);
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
+```
+
+### См. также
+
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
 ## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
 
-Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Размер нового содержимого указывается в процентах.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в процентах.
 
 ```csharp
 public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
@@ -27,71 +73,23 @@ public bool ResizeContentsPct(string source, string destination, int[] pages, do
 
 true, если изменение размера прошло успешно.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizePct("input.pdf", "output.pdf",
-//изменить размер всех страниц документа
+//resize all pages of document
 null, 
-//ширина нового содержимого = 60% от исходного размера
+//new contents width = 60% of initial size
 60, 
-//высота нового содержимого = 60% от исходного размера
+//new contents height = 60% of initial size
 60);
-// Остальная часть страницы будет пустой (поля страницы). Размер левого и правого полей (100% - 60%) / 2 = 20%
-// То же самое для верхнего и нижнего полей.
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
----
-
-## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
-
-Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Размер нового содержимого указывается в процентах.
-
-```csharp
-public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
-    double newHeight)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, где результирующий документ будет сохранен. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
-| newWidth | Double | Новая ширина содержимого страницы в процентах. |
-| newHeight | Double | Новая высота содержимого страницы в процентах. |
-
-### Возвращаемое значение
-
-true, если размер изменен успешно.
-
-### Примеры
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-Stream src = new Stream("input.pdf", FileMode.Open);
-Stream dest = new Stream("output.pdf", FileMode.Create);
-fileEditor.ResizePct(src, dest, 
-//изменить размер всех страниц документа
-null, 
-//ширина нового содержимого = 60% от исходного размера
-60, 
-//высота нового содержимого = 60% от исходного размера
-60);
-// Остальная часть страницы будет пустой (поля страницы). Размер левого и правого полей (100% - 60%) / 2 = 20%
-// То же самое для верхнего и нижнего полей.
-```
-
-### Смотрите также
-
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
-* сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

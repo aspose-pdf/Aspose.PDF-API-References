@@ -1,34 +1,74 @@
 ---
-title: Save
-second_title: Aspose.PDF för .NET API Referens
-description: Spara dokument stegvis dvs. med inkrementell uppdateringsteknik.
+title: Document.Save
+second_title: Aspose.PDF for .NET API Reference
+description: Dokumentmetod. Lagrar dokument i ström
 type: docs
-weight: 720
+weight: 830
 url: /sv/net/aspose.pdf/document/save/
 ---
+## Save(Stream) {#save_2}
+
+Lagrar dokument i ström.
+
+```csharp
+public void Save(Stream output)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| output | Stream | Ström där dokumentet ska lagras. |
+
+### Se Även
+
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string) {#save_5}
+
+Sparar dokumentet i den angivna filen.
+
+```csharp
+public void Save(string outputFileName)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
+
+### Se Även
+
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Save() {#save}
 
-Spara dokument stegvis (dvs. med inkrementell uppdateringsteknik).
+Spara dokumentet inkrementellt (dvs. med hjälp av inkrementell uppdateringsteknik).
 
 ```csharp
 public void Save()
 ```
 
-### Anmärkningar
+## Kommentarer
 
-För att spara dokument stegvis bör vi öppna dokumentfilen för skrivning. Därför måste dokument initieras med skrivbar ström som i nästa kodavsnitt: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // gör några ändringar och spara dokumentet inkrementellt doc.Save();
+För att spara dokumentet inkrementellt måste vi öppna dokumentfilen för skrivning. Därför måste Document initialiseras med en skrivbar ström som i nästa kodsnutt: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // gör några ändringar och spara dokumentet inkrementellt doc.Save();
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(SaveOptions) {#save_1}
 
-Sparar dokumentet med sparalternativ.
+Sparar dokumentet med spara alternativ.
 
 ```csharp
 public void Save(SaveOptions options)
@@ -38,12 +78,12 @@ public void Save(SaveOptions options)
 | --- | --- | --- |
 | options | SaveOptions | Spara alternativ. |
 
-### Se även
+### Se Även
 
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SaveOptions](../../saveoptions/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -57,15 +97,15 @@ public void Save(string outputFileName, SaveFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | String | Sökväg till fil där dokumentet kommer att lagras. |
-| format | SaveFormat | Formatalternativ. |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
+| format | SaveFormat | Format alternativ. |
 
-### Se även
+### Se Även
 
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -79,27 +119,27 @@ public void Save(Stream outputStream, SaveFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Stream | Streama var dokumentet kommer att lagras. |
-| format | SaveFormat | Formatalternativ. |
+| outputStream | Stream | Ström där dokumentet kommer att lagras. |
+| format | SaveFormat | Format alternativ. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | tillstånd |
 | --- | --- |
-| ArgumentException | ArgumentException när[`HtmlSaveOptions`](../../htmlsaveoptions) överförs till en metod. Spara ett dokument till HTML-strömmen stöds inte. Använd metoden spara till filen. |
+| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till html-ström stöds inte. Vänligen använd metoden spara till filen. |
 
-### Se även
+### Se Även
 
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string, SaveOptions) {#save_7}
 
-Sparar dokumentet med ett nytt namn och ställer in dess sparalternativ.
+Sparar dokumentet med ett nytt namn och ställer in dess spara alternativ.
 
 ```csharp
 public void Save(string outputFileName, SaveOptions options)
@@ -107,21 +147,21 @@ public void Save(string outputFileName, SaveOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | String | Sökväg till fil där dokumentet kommer att lagras. |
+| outputFileName | String | Sökväg till filen där dokumentet kommer att lagras. |
 | options | SaveOptions | Spara alternativ. |
 
-### Se även
+### Se Även
 
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SaveOptions](../../saveoptions/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, SaveOptions) {#save_4}
 
-Sparar dokumentet i en ström med ett sparalternativ.
+Sparar dokumentet till en ström med spara alternativ.
 
 ```csharp
 public void Save(Stream outputStream, SaveOptions options)
@@ -129,86 +169,18 @@ public void Save(Stream outputStream, SaveOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Stream | Streama var dokumentet kommer att lagras. |
+| outputStream | Stream | Ström där dokumentet kommer att lagras. |
 | options | SaveOptions | Spara alternativ. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | tillstånd |
 | --- | --- |
-| ArgumentException | ArgumentException när[`HtmlSaveOptions`](../../htmlsaveoptions) överförs till en metod. Spara ett dokument till HTML-strömmen stöds inte. Använd metoden spara till filen. |
+| ArgumentException | ArgumentException när [`HtmlSaveOptions`](../../htmlsaveoptions/) skickas till en metod. Att spara ett dokument till html-ström stöds inte. Vänligen använd metoden spara till filen. |
 
-### Se även
+### Se Även
 
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
-
-Sparar dokumentet i en svarsström med ett sparalternativ.
-
-```csharp
-public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
-    SaveOptions options)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| response | HttpResponse | Kapslar in HTTP-svarsinformation. |
-| outputFileName | String | Enkelt filnamn, dvs utan sökväg. |
-| disposition | ContentDisposition | Representerar ett MIME-protokoll Content-Disposition-huvud. |
-| options | SaveOptions | Spara alternativ. |
-
-### Se även
-
-* enum [ContentDisposition](../../contentdisposition)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Save(Stream) {#save_2}
-
-Lagrar dokument i stream.
-
-```csharp
-public void Save(Stream output)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| output | Stream | Streama där dokumentskalet lagras. |
-
-### Se även
-
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_5}
-
-Sparar dokument i den angivna filen.
-
-```csharp
-public void Save(string outputFileName)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| outputFileName | String | Sökväg till fil där dokumentet kommer att lagras. |
-
-### Se även
-
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [SaveOptions](../../saveoptions/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

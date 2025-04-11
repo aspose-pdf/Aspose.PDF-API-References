@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingStrategy
-second_title: Aspose.PDF per .NET API Reference
-description: Risultato della conversione può contenere una o più pagine HTML che possono anche fare riferimento a file esterni come immagini o caratteri È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa lelaborazione della pagina HTML ottenuta HTML stesso che è stato creato durante la conversione. In tal caso lelaborazione come il salvataggio nello stream o nel disco può essere eseguita in quel codice personalizzato. In tal caso Tutte le azioni necessarie per salvare il markup della pagina HTML devono essere eseguite nel codice del metodo fornito perché il salvataggio del risultato nel codice del convertitore non sarà in uso. Se lelaborazione per questo o quel caso per qualche motivo deve essere eseguita dal codice del convertitore stesso non nel codice personalizzato impostare nel codice personalizzato il flag CustomProcessingCancelled della variabile del parametro htmlSavingInfo segnala al convertitore che tutto il necessario i passaggi per lelaborazione di quella risorsa devono essere eseguiti nel convertitore stesso allo stesso modo come se non ci fosse alcun codice di salvataggio personalizzato esterno .
+title: Delegate HtmlSaveOptions.HtmlPageMarkupSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Il risultato della conversione può contenere una o più pagine HTML che possono anche fare riferimento a file esterni come immagini o font. Puoi assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione della pagina HTML ricevuta (HTML stesso) che è stata creata durante la conversione. In tal caso, l'elaborazione (come il salvataggio in stream o su disco) può essere eseguita in quel codice personalizzato. In tal caso, tutte le azioni necessarie per il salvataggio del markup delle pagine HTML devono essere intraprese nel codice del metodo fornito, perché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se l'elaborazione per questo o quel caso deve essere eseguita per qualche motivo dal codice del convertitore stesso, non nel codice personalizzato, si prega di impostare nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': segnala al convertitore che tutti i passaggi necessari per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso, nello stesso modo in cui se non ci fosse alcun codice di salvataggio personalizzato esterno.
 type: docs
-weight: 3550
+weight: 5680
 url: /it/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate
+## Delegate HtmlSaveOptions.HtmlPageMarkupSavingStrategy
 
-Risultato della conversione può contenere una o più pagine HTML (che possono anche fare riferimento a file esterni come immagini o caratteri) È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione della pagina HTML ottenuta (HTML stesso) che è stato creato durante la conversione. In tal caso l'elaborazione (come il salvataggio nello stream o nel disco) può essere eseguita in quel codice personalizzato. In tal caso Tutte le azioni necessarie per salvare il markup della pagina HTML devono essere eseguite nel codice del metodo fornito, perché il salvataggio del risultato nel codice del convertitore non sarà in uso. Se l'elaborazione per questo o quel caso per qualche motivo deve essere eseguita dal codice del convertitore stesso, non nel codice personalizzato, impostare nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': segnala al convertitore che tutto il necessario i passaggi per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso allo stesso modo come se non ci fosse alcun codice di salvataggio personalizzato esterno .
+Il risultato della conversione può contenere una o più pagine HTML (che possono anche fare riferimento a file esterni come immagini o font). Puoi assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione della pagina HTML ricevuta (HTML stesso) che è stata creata durante la conversione. In tal caso, l'elaborazione (come il salvataggio in stream o su disco) può essere eseguita in quel codice personalizzato. In tal caso, tutte le azioni necessarie per il salvataggio del markup della pagina HTML devono essere intraprese nel codice del metodo fornito, perché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se l'elaborazione per questo o quel caso deve essere eseguita per qualche motivo dal codice del convertitore stesso, non nel codice personalizzato, si prega di impostare nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': segnala al convertitore che tutti i passaggi necessari per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso, nello stesso modo in cui se non ci fosse alcun codice di salvataggio personalizzato esterno.
 
 ```csharp
 public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlSavingInfo);
@@ -18,11 +18,9 @@ public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlS
 | --- | --- | --- |
 | htmlSavingInfo | HtmlPageMarkupSavingInfo | rappresenta i dati che possono essere utilizzati per il salvataggio o l'elaborazione della pagina HTML fornita |
 
-### Guarda anche
+### Vedi Anche
 
-* class [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* spazio dei nomi [Aspose.Pdf](../../aspose.pdf)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
+* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

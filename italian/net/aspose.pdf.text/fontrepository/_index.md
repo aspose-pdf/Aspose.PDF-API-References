@@ -1,14 +1,14 @@
 ---
-title: FontRepository
-second_title: Aspose.PDF per .NET API Reference
-description: Esegue la ricerca dei caratteri. Cerca nei font installati dal sistema e nei font Pdf standard. Fornisce anche funzionalità per aprire font personalizzati.
+title: Class FontRepository
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Text.FontRepository. Esegue la ricerca di font. Cerca nei font installati nel sistema e nei font Pdf standard. Fornisce anche funzionalità per aprire font personalizzati.
 type: docs
-weight: 6720
+weight: 10540
 url: /it/net/aspose.pdf.text/fontrepository/
 ---
-## FontRepository class
+## Classe FontRepository
 
-Esegue la ricerca dei caratteri. Cerca nei font installati dal sistema e nei font Pdf standard. Fornisce anche funzionalità per aprire font personalizzati.
+Esegue la ricerca di font. Cerca nei font installati nel sistema e nei font Pdf standard. Fornisce anche funzionalità per aprire font personalizzati.
 
 ```csharp
 public sealed class FontRepository
@@ -18,58 +18,56 @@ public sealed class FontRepository
 
 | Nome | Descrizione |
 | --- | --- |
-| [FontRepository](fontrepository)() | Default_Costruttore |
+| [FontRepository](fontrepository/)() | Il costruttore predefinito. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| static [Sources](../../aspose.pdf.text/fontrepository/sources) { get; } | Ottiene la raccolta delle fonti dei caratteri. |
-| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions) { get; } | Ottiene la raccolta delle strategie di sostituzione dei caratteri. |
+| static [Sources](../../aspose.pdf.text/fontrepository/sources/) { get; } | Ottiene la collezione di font sources. |
+| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions/) { get; } | Ottiene la collezione di strategie di sostituzione dei font. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | Cerca e restituisce il font con il nome del font specificato. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | Cerca e restituisce il font con il nome del font specificato ignorando o rispettando la distinzione tra maiuscole e minuscole. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | Cerca e restituisce il carattere con il nome del carattere e lo stile del carattere specificati. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | Cerca e restituisce il carattere con il nome del carattere e lo stile del carattere specificati ignorando o rispettando la distinzione tra maiuscole e minuscole. |
-| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | Carica i font installati dal sistema e i font Pdf standard. Questo metodo è stato progettato per accelerare il processo di caricamento dei caratteri. Per impostazione predefinita, i caratteri vengono caricati alla prima richiesta per qualsiasi carattere. L'uso di questo metodo carica i font Pdf di sistema e standard immediatamente prima dell'apertura di qualsiasi documento Pdf. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | Apre il font con il percorso del file del font specificato. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | Apre il font con il flusso di font specificato. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | Apre il font con il percorso del file del font e il percorso del file delle metriche specificati. |
-| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts)() | Ricarica tutti i font specificati dalla proprietà[`Sources`](./sources) |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont)(string) | Cerca e restituisce il font con il nome specificato. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_3)(string, bool) | Cerca e restituisce il font con il nome specificato ignorando o rispettando la sensibilità al maiuscolo/minuscolo. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_1)(string, FontStyles) | Cerca e restituisce il font con il nome e lo stile di font specificati. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_2)(string, FontStyles, bool) | Cerca e restituisce il font con il nome e lo stile di font specificati ignorando o rispettando la sensibilità al maiuscolo/minuscolo. |
+| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts/)() | Carica i font installati nel sistema e i font Pdf standard. Questo metodo è stato progettato per accelerare il processo di caricamento dei font. Per impostazione predefinita, i font vengono caricati alla prima richiesta per qualsiasi font. L'uso di questo metodo carica immediatamente i font di sistema e i font Pdf standard prima che venga aperto qualsiasi documento Pdf. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_1)(string) | Apre il font con il percorso del file font specificato. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont)(Stream, FontTypes) | Apre il font con lo stream di font specificato. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_2)(string, string) | Apre il font con il percorso del file font specificato e il percorso del file metriche. |
+| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts/)() | Ricarica tutti i font specificati dalla proprietà [`Sources`](./sources/) |
 
-### Esempi
+## Esempi
 
-L'esempio mostra come trovare il font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come trovare un font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Visualizza il valore IsSubset del carattere della prima occorrenza del testo
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Apri documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// assicurati che tutti i caratteri dichiarati nelle risorse della pagina siano incorporati
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// nota che se i caratteri sono dichiarati nelle risorse del modulo non sono accessibili dalle risorse della pagina
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Trova carattere
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Apri documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [Document](../../aspose.pdf/document)
-* spazio dei nomi [Aspose.Pdf.Text](../../aspose.pdf.text)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [TextFragmentAbsorber](../textfragmentabsorber/)
+* classe [Document](../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

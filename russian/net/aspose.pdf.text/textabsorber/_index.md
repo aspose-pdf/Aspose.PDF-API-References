@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату черезText./textabsorber/text объект.
+title: Class TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Text.TextAbsorber. Представляет объект-абсорбер текста. Выполняет извлечение текста и предоставляет доступ к результату через объект [`Text`](./text/).
 type: docs
-weight: 6960
+weight: 10800
 url: /ru/net/aspose.pdf.text/textabsorber/
 ---
-## TextAbsorber class
+## Класс TextAbsorber
 
-Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через[`Text`](./text) объект.
+Представляет объект-абсорбер текста. Выполняет извлечение текста и предоставляет доступ к результату через объект [`Text`](./text/).
 
 ```csharp
 public class TextAbsorber
@@ -18,55 +18,53 @@ public class TextAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) . |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с опциями извлечения. |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с параметрами текстового поиска. |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с возможностью извлечения и текстового поиска. |
+| [TextAbsorber](textabsorber/#constructor)() | Инициализирует новый экземпляр `TextAbsorber`. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр `TextAbsorber` с параметрами извлечения. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | Инициализирует новый экземпляр `TextAbsorber` с параметрами поиска текста. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | Инициализирует новый экземпляр `TextAbsorber` с параметрами извлечения и поиска текста. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Список[`TextExtractionError`](../textextractionerror) объекты. Содержит информацию об ошибках, обнаруженных при извлечении текста. Поиск ошибок будет производиться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | Получает или задает параметры извлечения текста. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Значение указывает, были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет выполняться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | Получает извлеченный текст,[`TextAbsorber`](../textabsorber) выдержки из документа PDF или страницы. |
-| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | Получает или задает параметры текстового поиска. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Список объектов [`TextExtractionError`](../textextractionerror/). Содержит информацию об ошибках, найденных во время извлечения текста. Поиск ошибок будет выполняться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Получает или задает параметры извлечения текста. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Значение указывает, были ли найдены ошибки во время извлечения текста. Поиск ошибок будет выполняться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Получает извлеченный текст, который `TextAbsorber` извлекает из PDF-документа или страницы. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Получает или задает параметры поиска текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit)(Document) | Извлекает текст из указанного документа |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_1)(Page) | Извлекает текст на указанной странице |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_2)(XForm) | Извлекает текст из указанной формы XForm. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | Извлекает текст из указанного документа |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | Извлекает текст из указанной страницы |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | Извлекает текст из указанного XForm. |
 
-### Примечания
+## Замечания
 
-[`TextAbsorber`](../textabsorber) объект используется для извлечения текста из документа Pdf или страницы документа.
+Объект `TextAbsorber` используется для извлечения текста из PDF-документа или страницы документа.
 
-### Примеры
+## Примеры
 
-В примере показано, как извлечь текст на первой странице документа PDF.
+Пример демонстрирует, как извлечь текст на первой странице PDF-документа.
 
 ```csharp
-// открыть документ
+// open document
 Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения текста
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для первой страницы
+// accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// получаем извлеченный текст
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text)
+* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

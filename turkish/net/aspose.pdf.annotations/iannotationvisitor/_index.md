@@ -1,47 +1,49 @@
 ---
-title: IAnnotationVisitor
-second_title: Aspose.PDF for .NET API Referansı
-description: Ziyaretçiyi farklı belge açıklamalarını ziyaret etmesi için tanımlar.
+title: Interface IAnnotationVisitor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.IAnnotationVisitor arayüzü. Farklı belge notlarını ziyaret etmek için Ziyaretçi tanımlar
 type: docs
-weight: 510
+weight: 1890
 url: /tr/net/aspose.pdf.annotations/iannotationvisitor/
 ---
-## IAnnotationVisitor interface
+## IAnnotationVisitor arayüzü
 
-Ziyaretçiyi farklı belge açıklamalarını ziyaret etmesi için tanımlar.
+Farklı belge notlarını ziyaret etmek için Ziyaretçi tanımlar.
 
 ```csharp
 public interface IAnnotationVisitor
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit)(CaretAnnotation) | Şapka ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_1)(CircleAnnotation) | Çevre ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_2)(FileAttachmentAnnotation) | Ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_3)(FreeTextAnnotation) | Serbest metin ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_4)(HighlightAnnotation) | Vurgu açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_5)(InkAnnotation) | Mürekkep ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_6)(LineAnnotation) | Satır açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_7)(LinkAnnotation) | Bağlantı ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_8)(MovieAnnotation) | Film ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_9)(PolygonAnnotation) | Çokgen açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_10)(PolylineAnnotation) | Çoklu çizgi ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_11)(PopupAnnotation) | Açılır pencere ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_12)(ScreenAnnotation) | Ekran açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_13)(SquareAnnotation) | Kare ek açıklamayı ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_14)(SquigglyAnnotation) | Dalgalı ek açıklamayı ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | Damga ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | StrikeOut ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_17)(TextAnnotation) | Metin ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_18)(UnderlineAnnotation) | Alt çizgi ek açıklamasını ziyaret edin/seçin. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_19)(WidgetAnnotation) | Widget ek açıklamasını ziyaret edin/seçin. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit)(BleedMarkAnnotation) | Bir bleed mark notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_1)(CaretAnnotation) | Bir caret notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_2)(CircleAnnotation) | Bir daire notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_3)(FileAttachmentAnnotation) | Bir ek notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_4)(FreeTextAnnotation) | Bir serbest metin notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_5)(HighlightAnnotation) | Bir vurgulama notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_6)(InkAnnotation) | Bir mürekkep notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_7)(LineAnnotation) | Bir çizgi notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_8)(LinkAnnotation) | Bir bağlantı notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_9)(MovieAnnotation) | Bir film notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_10)(PageInformationAnnotation) | Bir sayfa bilgi notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_11)(PolygonAnnotation) | Bir çokgen notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_12)(PolylineAnnotation) | Bir poligon notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_13)(PopupAnnotation) | Bir açılır notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_14)(RegistrationMarkAnnotation) | Bir kayıt markası notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_15)(ScreenAnnotation) | Bir ekran notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_16)(SquareAnnotation) | Bir kare notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_17)(SquigglyAnnotation) | Bir kıvrımlı notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_18)(StampAnnotation) | Bir damga notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_19)(StrikeOutAnnotation) | Bir üstü çizili notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_20)(TextAnnotation) | Bir metin notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_21)(TrimMarkAnnotation) | Bir trim markası notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_22)(UnderlineAnnotation) | Bir altı çizili notunu ziyaret/ seç. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit/#visit_23)(WidgetAnnotation) | Bir widget notunu ziyaret/ seç. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

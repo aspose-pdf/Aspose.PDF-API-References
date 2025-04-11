@@ -1,50 +1,48 @@
 ---
-title: XmpPdfAExtensionValueType
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Das PDF/A-ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich die nicht in der XMP 2004-Spezifikation definiert sind dh für Werttypen außerhalb der folgenden Liste - Array-Typen dies sind Containertypen die ein oder mehrere Felder enthalten können  Alt Bag Seq  Grundlegende Werttypen Boolesch offen und geschlossen Auswahl Datum Dimensionen Ganzzahl Lang Alt Gebietsschema MIMEType ProperName Real Text Miniaturbild URI URL XPath  Medienverwaltung Werttypen AgentName RenditionClass ResourceEvent ResourceRef Version  Einfacher Job/Workflow Werttyp Job  EXIF-Schema-Werttypen Flash CFAPattern DeviceSettings GPSCoordinate OECF/SFR Rational Schema-Namespace-URI http//www. aiim.org/pdfa/ns/type Erforderliches Schema-Namespace-Präfix pdfaType
+title: Class XmpPdfAExtensionValueType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XmpPdfAExtensionValueType-Klasse. Das PDF/A ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich, die in der XMP 2004-Spezifikation nicht definiert sind, d.h. für Werttypen außerhalb der folgenden Liste: - Array-Typen (dies sind Containertypen, die ein oder mehrere Felder enthalten können): Alt, Bag, Seq - Grundlegende Werttypen: Boolean, (offene und geschlossene) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Medienverwaltungswerttypen: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundlegender Job/Workflow-Werttyp: Job - EXIF-Schema-Werttypen: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema-Namespace-URI: http://www.aiim.org/pdfa/ns/type# Erforderlicher Schema-Namespace-Präfix: pdfaType
 type: docs
-weight: 7540
+weight: 11490
 url: /de/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType class
+## Klasse XmpPdfAExtensionValueType
 
-Das PDF/A-ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich, die nicht in der XMP 2004-Spezifikation definiert sind, dh für Werttypen außerhalb der folgenden Liste: - Array-Typen (dies sind Containertypen, die ein oder mehrere Felder enthalten können ): Alt, Bag, Seq – Grundlegende Werttypen: Boolesch, (offen und geschlossen) Auswahl, Datum, Dimensionen, Ganzzahl, Lang Alt, Gebietsschema, MIMEType, ProperName, Real, Text, Miniaturbild, URI, URL, XPath – Medienverwaltung Werttypen: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version – Einfacher Job/Workflow Werttyp: Job – EXIF-Schema-Werttypen: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema-Namespace-URI: http://www. aiim.org/pdfa/ns/type# Erforderliches Schema-Namespace-Präfix: pdfaType
+Das PDF/A ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich, die in der XMP 2004-Spezifikation nicht definiert sind, d.h. für Werttypen außerhalb der folgenden Liste: - Array-Typen (dies sind Containertypen, die ein oder mehrere Felder enthalten können): Alt, Bag, Seq - Grundlegende Werttypen: Boolean, (offene und geschlossene) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Medienverwaltungswerttypen: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundlegender Job/Workflow-Werttyp: Job - EXIF-Schema-Werttypen: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema-Namespace-URI: http://www.aiim.org/pdfa/ns/type# Erforderlicher Schema-Namespace-Präfix: pdfaType
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype)(string, string, string, string) | Initialisiert neues Objekt. |
+| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype/)(string, string, string, string) | Initialisiert ein neues Objekt. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | Ruft die Beschreibung ab. |
-| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields) { get; } | Ruft die Liste der Felder ab. |
-| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri) { get; } | Ruft den Namespace-URI ab. |
-| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix) { get; } | Ruft das Präfix ab. |
-| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type) { get; } | Ruft den Werttyp ab. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | Ruft den Wert ab oder legt ihn fest. |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gibt die Beschreibung zurück. |
+| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields/) { get; } | Gibt die Liste der Felder zurück. |
+| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/) { get; } | Gibt die Namespace-URI zurück. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix/) { get; } | Gibt das Präfix zurück. |
+| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type/) { get; } | Gibt den Werttyp zurück. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gibt den Wert zurück oder setzt ihn. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add)(XmpPdfAExtensionField) | Neues Feld hinzufügen. |
-| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange)(XmpPdfAExtensionField[]) | Fügt den Feldbereich hinzu. |
-| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear)() | Löscht alle Felder. |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml)(XmlDocument) | Gibt die Liste der XML-Elemente zurück, die den Werttyp in der XML-Struktur darstellen. |
-| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove)(XmpPdfAExtensionField) | Entfernt das Feld aus der Liste der Felder. |
+| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Fügt ein neues Feld hinzu. |
+| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Fügt den Bereich von Feldern hinzu. |
+| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Löscht alle Felder. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Gibt die Liste der XML-Elemente zurück, die den Werttyp im XML-Baum darstellen. |
+| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove/)(XmpPdfAExtensionField) | Entfernt das Feld aus der Liste der Felder. |
 
 ### Siehe auch
 
-* class [XmpPdfAExtensionObject](../xmppdfaextensionobject)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

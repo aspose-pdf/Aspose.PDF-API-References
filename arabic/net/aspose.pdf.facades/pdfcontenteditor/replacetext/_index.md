@@ -1,258 +1,256 @@
 ---
-title: ReplaceText
-second_title: Aspose.PDF لمرجع .NET API
-description: يستبدل النص في ملف PDF بالصفحة المحددة.TextStateaspose.pdf.text/textstate يمكن تحديد الكائن عائلة الخط  اللون لاستبدال النص.
+title: PdfContentEditor.ReplaceText
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfContentEditor. تستبدل النص في ملف PDF في الصفحة المحددة. يمكن تحديد لون عائلة خط كائن TextState للنص المستبدل
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/replacetext/
 ---
 ## ReplaceText(string, int, string, TextState) {#replacetext_1}
 
-يستبدل النص في ملف PDF بالصفحة المحددة.[`TextState`](../../../aspose.pdf.text/textstate) يمكن تحديد الكائن (عائلة الخط ، اللون) لاستبدال النص.
+تستبدل النص في ملف PDF في الصفحة المحددة. يمكن تحديد كائن [`TextState`](../../../aspose.pdf.text/textstate/) (عائلة الخط، اللون) للنص المستبدل.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | السلسلة المراد استبدالها. |
-| thePage | Int32 | رقم الصفحة (0 تعني "كل الصفحات"). |
+| srcString | String | السلسلة التي سيتم استبدالها. |
+| thePage | Int32 | رقم الصفحة (0 يعني "جميع الصفحات"). |
 | destString | String | السلسلة المستبدلة. |
-| textState | TextState | حالة النص (لون النص ، الخط ، إلخ). |
+| textState | TextState | حالة النص (لون النص، الخط، إلخ). |
 
-### قيمة الإرجاع
+### Return Value
 
-يعود صحيحا إذا تم الاستبدال.
+ترجع true إذا تم الاستبدال.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استبدال النص في الصفحة الأولى من مستند PDF وتعيينه[`TextState`](../../../aspose.pdf.text/textstate) خصائص النص للنص الجديد.
+توضح المثال كيفية استبدال النص في الصفحة الأولى من مستند PDF وتعيين خصائص نص [`TextState`](../../../aspose.pdf.text/textstate/) للنص الجديد.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء الخط ووضع علامة عليه ليتم تضمينه
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// إنشاء كائن PdfContentEditor لتحرير النص
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// إنشاء كائن حالة النص
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontSize = 17;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 textState.ForegroundColor = Color.Red;
 
-// تغيير النص بالخط المحدد
+// change text with specified font
 editor.ReplaceText("hello world", 1, "hi world", textState);
 
-// حفظ الوثيقة
+// save document
 doc.Save(outFile);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* المجسم [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string) {#replacetext_2}
 
-يستبدل النص في ملف PDF .
+تستبدل النص في ملف PDF.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | السلسلة المراد استبدالها. |
-| destString | String | استبدال السلسلة. |
+| srcString | String | السلسلة التي سيتم استبدالها. |
+| destString | String | السلسلة المستبدلة. |
 
-### قيمة الإرجاع
+### Return Value
 
-يعود صحيحا إذا تم الاستبدال.
+ترجع true إذا تم الاستبدال.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استبدال النص في مستند PDF.
+توضح المثال كيفية استبدال النص في مستند PDF.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء كائن PdfContentEditor لتحرير النص
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// تغيير النص 
+// change text 
 editor.ReplaceText("hello world", "hi world");
 
-// حفظ الوثيقة
+// save document
 doc.Save(outFile);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, int, string) {#replacetext}
 
-يستبدل النص في ملف PDF بالصفحة المحددة.
+تستبدل النص في ملف PDF في الصفحة المحددة.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | اللدغة المراد استبدالها. |
+| srcString | String | السلسلة التي سيتم استبدالها. |
 | thePage | Int32 | رقم الصفحة (0 لجميع الصفحات) |
-| destString | String | استبدال السلسلة. |
+| destString | String | السلسلة المستبدلة. |
 
-### قيمة الإرجاع
+### Return Value
 
-يعود صحيحا إذا تم الاستبدال.
+ترجع true إذا تم الاستبدال.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استبدال النص في مستند PDF على الصفحة المحددة.
+توضح المثال كيفية استبدال النص في مستند PDF في الصفحة المحددة.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء كائن PdfContentEditor لتحرير النص
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// تغيير النص 
+// change text 
 editor.ReplaceText("hello world", 1, "hi world");
 
-// حفظ الوثيقة
+// save document
 doc.Save(outFile);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string, TextState) {#replacetext_3}
 
-يستبدل النص في ملف PDF باستخدام المحدد[`TextState`](../../../aspose.pdf.text/textstate) الكائن .
+تستبدل النص في ملف PDF باستخدام كائن [`TextState`](../../../aspose.pdf.text/textstate/) المحدد.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, TextState textState)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | سيتم استبدال السلسلة |
-| destString | String | استبدال السلسلة |
-| textState | TextState | حالة النص (لون النص ، الخط ، إلخ) |
+| srcString | String | السلسلة التي سيتم استبدالها |
+| destString | String | السلسلة المستبدلة |
+| textState | TextState | حالة النص (لون النص، الخط، إلخ) |
 
-### قيمة الإرجاع
+### Return Value
 
-يعود صحيحا إذا تم الاستبدال.
+ترجع true إذا تم الاستبدال.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استبدال النص والتعيين[`TextState`](../../../aspose.pdf.text/textstate) خصائص النص للنص الجديد.
+توضح المثال كيفية استبدال النص وتعيين خصائص نص [`TextState`](../../../aspose.pdf.text/textstate/) للنص الجديد.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء الخط ووضع علامة عليه ليتم تضمينه
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// إنشاء كائن PdfContentEditor لتحرير النص
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// إنشاء كائن حالة النص
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 
-// تغيير النص بالخط المحدد
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", textState);
 
-// حفظ الوثيقة
+// save document
 doc.Save(outFile);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* المجسم [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string, int) {#replacetext_4}
 
-يستبدل النص في ملف PDF ويعين حجم الخط.
+تستبدل النص في ملف PDF وتحدد حجم الخط.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, int fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | سيتم استبدال السلسلة. |
-| destString | String | استبدال السلسلة. |
+| srcString | String | السلسلة التي سيتم استبدالها. |
+| destString | String | السلسلة المستبدلة. |
 | fontSize | Int32 | حجم الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
-يعود صحيحا إذا تم الاستبدال.
+ترجع true إذا تم الاستبدال.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استبدال النص وتعيين حجم الخط للنص الجديد.
+توضح المثال كيفية استبدال النص وتحديد حجم الخط للنص الجديد.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء الخط ووضع علامة عليه ليتم تضمينه
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// إنشاء كائن PdfContentEditor لتحرير النص
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// تغيير النص بالخط المحدد
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", 14);
 
-// حفظ الوثيقة
+// save document
 doc.Save(outFile);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

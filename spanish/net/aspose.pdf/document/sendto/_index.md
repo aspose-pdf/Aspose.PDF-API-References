@@ -1,99 +1,97 @@
 ---
-title: SendTo
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Envía el documento completo al dispositivo de documentos para su procesamiento.
+title: Document.SendTo
+second_title: Aspose.PDF for .NET API Reference
+description: Método Document. Envía todo el documento al dispositivo de documentos para su procesamiento
 type: docs
-weight: 740
+weight: 860
 url: /es/net/aspose.pdf/document/sendto/
 ---
 ## SendTo(DocumentDevice, Stream) {#sendto_2}
 
-Envía el documento completo al dispositivo de documentos para su procesamiento.
+Envía todo el documento al dispositivo de documentos para su procesamiento.
 
 ```csharp
 public void SendTo(DocumentDevice device, Stream output)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| device | DocumentDevice | Dispositivo de documento que se utiliza para procesar el documento. |
+| device | DocumentDevice | Dispositivo de documentos que se utiliza para procesar el documento. |
 | output | Stream | El flujo de salida contiene los resultados del procesamiento del documento con el dispositivo dado. |
 
-### Ver también
+### Ver También
 
-* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice)
-* class [Document](../../document)
-* espacio de nombres [Aspose.Pdf](../../document)
-* asamblea [Aspose.PDF](../../../)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SendTo(DocumentDevice, int, int, Stream) {#sendto}
 
-Envía determinadas páginas del documento al dispositivo de documentos para su procesamiento.
+Envía ciertas páginas del documento al dispositivo de documentos para su procesamiento.
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream output)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| device | DocumentDevice | Dispositivo de documento que se utiliza para procesar el documento. |
-| fromPage | Int32 | La primera página para procesar. |
-| toPage | Int32 | La última página para procesar. |
-| output | Stream | El flujo de salida contiene los resultados del procesamiento de las páginas del documento con un dispositivo determinado. |
+| device | DocumentDevice | Dispositivo de documentos que se utiliza para procesar el documento. |
+| fromPage | Int32 | La primera página para el procesamiento. |
+| toPage | Int32 | La última página para el procesamiento. |
+| output | Stream | El flujo de salida contiene los resultados del procesamiento de las páginas del documento con el dispositivo dado. |
 
-### Ver también
+### Ver También
 
-* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice)
-* class [Document](../../document)
-* espacio de nombres [Aspose.Pdf](../../document)
-* asamblea [Aspose.PDF](../../../)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SendTo(DocumentDevice, string) {#sendto_3}
 
-Envía el documento completo al dispositivo de documentos para su procesamiento.
+Envía todo el documento al dispositivo de documentos para su procesamiento.
 
 ```csharp
 public void SendTo(DocumentDevice device, string outputFileName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| device | DocumentDevice | Dispositivo de documento que se utiliza para procesar el documento. |
+| device | DocumentDevice | Dispositivo de documentos que se utiliza para procesar el documento. |
 | outputFileName | String | Nombre del archivo de salida con los resultados del procesamiento. |
 
-### Ver también
+### Ver También
 
-* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice)
-* class [Document](../../document)
-* espacio de nombres [Aspose.Pdf](../../document)
-* asamblea [Aspose.PDF](../../../)
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SendTo(DocumentDevice, int, int, string) {#sendto_1}
 
-Envía el documento completo al dispositivo de documentos para su procesamiento.
+Envía todo el documento al dispositivo de documentos para su procesamiento.
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, string outputFileName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| device | DocumentDevice | Dispositivo de documento que se utiliza para procesar el documento. |
-| fromPage | Int32 | La primera página para procesar. |
-| toPage | Int32 | La última página para procesar. |
+| device | DocumentDevice | Dispositivo de documentos que se utiliza para procesar el documento. |
+| fromPage | Int32 | La primera página para el procesamiento. |
+| toPage | Int32 | La última página para el procesamiento. |
 | outputFileName | String | Nombre del archivo de salida con los resultados del procesamiento. |
 
-### Ver también
+### Ver También
 
-* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice)
-* class [Document](../../document)
-* espacio de nombres [Aspose.Pdf](../../document)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

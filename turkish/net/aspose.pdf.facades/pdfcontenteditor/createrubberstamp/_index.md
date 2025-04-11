@@ -1,29 +1,29 @@
 ---
-title: CreateRubberStamp
-second_title: Aspose.PDF for .NET API Referansı
-description: Bir lastik damga ek açıklaması oluşturur.
+title: PdfContentEditor.CreateRubberStamp
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor metodu. Bir kauçuk damga notasyonu oluşturur
 type: docs
 weight: 260
 url: /tr/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
 ## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
 
-Bir lastik damga ek açıklaması oluşturur.
+Bir kauçuk damga notasyonu oluşturur.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
     Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| annotRect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| icon | String | Açıklamanın görüntülenmesinde bir simge kullanılacaktır. Varsayılan değer: 'Taslak'." |
-| annotContents | String | Açıklamanın içeriği. |
-| color | Color | Açıklamanın rengi. |
+| sayfa | Int32 | Notasyonun oluşturulacağı orijinal sayfanın numarası. |
+| annotRect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| simge | String | Notasyonu görüntülemek için kullanılacak bir simge. Varsayılan değer: 'Taslak'. |
+| annotContents | String | Notasyonun içeriği. |
+| renk | Color | Notasyonun rengi. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,32 +33,32 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
-Bir lastik damga ek açıklaması oluşturur.
+Bir kauçuk damga notasyonu oluşturur.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
     string appearanceFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| annotRect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| annotContents | String | Açıklamanın içeriği. |
-| color | Color | Açıklamanın rengi. |
+| sayfa | Int32 | Notasyonun oluşturulacağı orijinal sayfanın numarası. |
+| annotRect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| annotContents | String | Notasyonun içeriği. |
+| renk | Color | Notasyonun rengi. |
 | appearanceFile | String | Görünüm dosyasının yolu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -68,32 +68,32 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
 
-Bir lastik damga ek açıklaması oluşturur.
+Bir kauçuk damga notasyonu oluşturur.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
     Stream appearanceStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| page | Int32 | Ek açıklamanın oluşturulacağı orijinal sayfanın sayısı. |
-| annotRect | Rectangle | Ek açıklamanın sayfadaki konumunu tanımlayan açıklama dikdörtgeni. |
-| annotContents | String | Açıklamanın içeriği. |
-| color | Color | Açıklamanın rengi. |
+| sayfa | Int32 | Notasyonun oluşturulacağı orijinal sayfanın numarası. |
+| annotRect | Rectangle | Notasyonun sayfadaki konumunu tanımlayan notasyon dikdörtgeni. |
+| annotContents | String | Notasyonun içeriği. |
+| renk | Color | Notasyonun rengi. |
 | appearanceStream | Stream | Görünüm dosyasının akışı. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -106,10 +106,8 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 }    
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

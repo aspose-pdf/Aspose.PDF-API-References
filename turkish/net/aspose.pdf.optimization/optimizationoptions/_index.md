@@ -1,49 +1,49 @@
 ---
-title: OptimizationOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Belge optimizasyon algoritmasını tanımlayan sınıf. Bu sınıfın örneği OptimizeResources yönteminin parametresi olarak kullanılabilir.
+title: Class OptimizationOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Optimization.OptimizationOptions sınıfı. Belge optimizasyon algoritmasını tanımlayan sınıf. Bu sınıfın bir örneği OptimizeResources yönteminin parametresi olarak kullanılabilir.
 type: docs
-weight: 5740
+weight: 7980
 url: /tr/net/aspose.pdf.optimization/optimizationoptions/
 ---
-## OptimizationOptions class
+## OptimizationOptions sınıfı
 
-Belge optimizasyon algoritmasını tanımlayan sınıf. Bu sınıfın örneği, OptimizeResources() yönteminin parametresi olarak kullanılabilir.
+Belge optimizasyon algoritmasını tanımlayan sınıf. Bu sınıfın bir örneği OptimizeResources() yönteminin parametresi olarak kullanılabilir.
 
 ```csharp
 public class OptimizationOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [OptimizationOptions](optimizationoptions)() | Default_Constructor |
+| [OptimizationOptions](optimizationoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | Belge eşit sayfalar için optimize edildiğinde gerçek sayfa içeriği yeniden kullanılacaksa. |
-| [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions) { get; } | Belgedeki görüntülerin sıkıştırılıp sıkıştırılmayacağını ve sıkıştırmanın parametrelerini açıklayan bir dizi seçenek. |
-| [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding) { get; set; } | Kullanılacak resim kodlaması. |
-| [LinkDuplcateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplcatestreams) { get; set; } | Bu işaret true olarak ayarlanırsa Kaynak akışları analiz edilir. Yinelenen akışlar bulunursa (yani akış içerikleri eşitse), akışlar tek bir nesne olarak depolanır. Bu, bazı durumlarda belge boyutunu küçültmeyi sağlar (örneğin, aynı belge birden çok kez birleştirildiğinde). |
-| [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion) { get; set; } | Görüntülerin maksimum çözünürlüğünü belirtir. Görüntü daha yüksek çözünürlüğe sahipse, ölçeklenir |
-| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo) { get; set; } | Özel bilgileri kaldırın (sayfa parçası bilgisi). |
-| [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects) { get; set; } | Bu işaret true olarak ayarlanırsa, tüm belge nesneleri kontrol edilir ve kullanılmayan nesneler (yani herhangi bir referansı olmayan nesneler) belgeden kaldırılır. |
-| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams) { get; set; } | Bu işaret true olarak ayarlanırsa, her kaynak kullanımında kontrol edilir. Kaynak hiç kullanılmazsa, kaynaklar kaldırılır. Bu, örneğin sayfalar belgeden çıkarıldığında belge boyutunu azaltabilir. |
-| [SubsetFonts](../../aspose.pdf.optimization/optimizationoptions/subsetfonts) { get; set; } | Yazı tipleri, true olarak ayarlanırsa alt kümelere dönüştürülür. |
-| [UnembedFonts](../../aspose.pdf.optimization/optimizationoptions/unembedfonts) { get; set; } | True olarak ayarlanırsa yazı tiplerinin gömülü olmamasını sağlar. |
+| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/) { get; set; } | Eğer true ise, belge eşit sayfalar için optimize edildiğinde sayfa içerikleri yeniden kullanılacaktır. |
+| [CompressObjects](../../aspose.pdf.optimization/optimizationoptions/compressobjects/) { get; set; } | Bu bayrak `true` olarak ayarlandığında, Pdf nesneleri Objest Akışlarına paketlenecek ve pdf dosya boyutunu azaltmak için sıkıştırılacaktır. |
+| [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions/) { get; } | Belgedeki görüntülerin sıkıştırılıp sıkıştırılmayacağını ve sıkıştırma parametrelerini tanımlayan seçenekler seti. |
+| [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding/) { get; set; } | Kullanılacak görüntü kodlayıcısı. |
+| [LinkDuplicateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplicatestreams/) { get; set; } | Bu bayrak true olarak ayarlandığında, Kaynak akışları analiz edilecektir. Eğer kopya akışlar bulunursa (yani akış içerikleri eşitse), bu akışlar bir nesne olarak saklanacaktır. Bu, bazı durumlarda belge boyutunu azaltmaya olanak tanır (örneğin, aynı belge birden fazla kez birleştirildiğinde). |
+| [LinkDuplicateStreamsScanLevel](../../aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/) { get; set; } | Tarama seviyesi. Daha derin taramalar (daha yüksek değer) daha uzun sürer ancak daha küçük sonuç dosyaları üretebilir. Varsayılan değer: 10. |
+| [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion/) { get; set; } | Görüntülerin maksimum çözünürlüğünü belirtir. Eğer görüntü daha yüksek bir çözünürlüğe sahipse, ölçeklendirilecektir. |
+| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo/) { get; set; } | Özel bilgileri kaldırır (sayfa parça bilgisi). |
+| [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects/) { get; set; } | Bu bayrak true olarak ayarlandığında, tüm belge nesneleri kontrol edilecek ve kullanılmayan nesneler (yani herhangi bir referansı olmayan nesneler) belgelerden kaldırılacaktır. |
+| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams/) { get; set; } | Bu bayrak true olarak ayarlandığında, her kaynak kullanım açısından kontrol edilecektir. Eğer kaynak hiç kullanılmadıysa, o zaman kaynak kaldırılacaktır. Bu, örneğin sayfalar belgeden çıkarıldığında belge boyutunu azaltabilir. |
+| [SubsetFonts](../../aspose.pdf.optimization/optimizationoptions/subsetfonts/) { get; set; } | Yazı tipleri, true olarak ayarlandığında alt kümelere dönüştürülecektir. |
+| [UnembedFonts](../../aspose.pdf.optimization/optimizationoptions/unembedfonts/) { get; set; } | Yazı tipleri, true olarak ayarlandığında gömülü olmayacaktır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [All](../../aspose.pdf.optimization/optimizationoptions/all)() | Optimizasyon stratejisi oluşturur, tüm seçenekler etkinleştirilir. Lütfen, yalnızca belgenin herhangi bir işlevini değiştirmeyen seçeneklerin etkinleştirildiğini unutmayın. Yani, resim sıkıştırma ve yazı tiplerini yerleştirmeyi kaldırma etkinleştirilmeyecektir (ve manuel olarak gömülebilir). |
+| static [All](../../aspose.pdf.optimization/optimizationoptions/all/)() | Tüm seçeneklerin etkin olduğu bir optimizasyon stratejisi oluşturur. Lütfen, yalnızca belgenin herhangi bir işlevselliğini değiştirmeyen etkinleştirilen seçeneklerin olduğunu unutmayın. Yani, görüntü sıkıştırma ve yazı tiplerinin gömülmesi etkinleştirilmeyecek (ve manuel olarak gömülebilir). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Optimization](../../aspose.pdf.optimization)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)

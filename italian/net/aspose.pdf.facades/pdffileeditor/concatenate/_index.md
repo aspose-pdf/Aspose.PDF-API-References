@@ -1,14 +1,14 @@
 ---
-title: Concatenate
-second_title: Aspose.PDF per .NET API Reference
-description: Concatena due file.
+title: PdfFileEditor.Concatenate
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfFileEditor. Concatenare due file
 type: docs
-weight: 290
+weight: 260
 url: /it/net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
-## Concatenate(string, string, string) {#concatenate_5}
+## Concatenate(string, string, string) {#concatenate_4}
 
-Concatena due file.
+Concatenare due file.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
@@ -18,30 +18,30 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 | --- | --- | --- |
 | firstInputFile | String | Primo file da concatenare. |
 | secInputFile | String | Secondo file da concatenare. |
-| outputFile | String | File di uscita. |
+| outputFile | String | File di output. |
 
 ### Valore di ritorno
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream) {#concatenate_1}
 
-Concatena due file.
+Concatenare due file.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream outputStream)
@@ -49,9 +49,9 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| firstInputStream | Stream | Flusso del primo file. |
-| secInputStream | Stream | Flusso del secondo file. |
-| outputStream | Stream | Stream in cui verrà archiviato il file dei risultati. |
+| firstInputStream | Stream | Stream del primo file. |
+| secInputStream | Stream | Stream del secondo file. |
+| outputStream | Stream | Stream dove il file risultante sarà memorizzato. |
 
 ### Valore di ritorno
 
@@ -59,7 +59,7 @@ Vero se l'operazione è riuscita.
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -69,17 +69,17 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(stream1, stream2, outstream);
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Document[], Document) {#concatenate}
 
-Concatena i documenti.
+Concatenare documenti.
 
 ```csharp
 public bool Concatenate(Document[] src, Document dest)
@@ -87,25 +87,25 @@ public bool Concatenate(Document[] src, Document dest)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Document[] | Matrice di documenti di origine. |
+| src | Document[] | Array di documenti sorgente. |
 | dest | Document | Documento di destinazione. |
 
 ### Valore di ritorno
 
-Vero se la concatenazione ha esito positivo.
+Vero se la concatenazione ha avuto successo.
 
-### Guarda anche
+### Vedi anche
 
-* class [Document](../../../aspose.pdf/document)
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [Document](../../../aspose.pdf/document/)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string[], string) {#concatenate_7}
+## Concatenate(string[], string) {#concatenate_6}
 
-Concatena i file in un unico file.
+Concatenare file in un unico file.
 
 ```csharp
 public bool Concatenate(string[] inputFiles, string outputFile)
@@ -113,31 +113,31 @@ public bool Concatenate(string[] inputFiles, string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFiles | String[] | Matrice di file da concatenare. |
+| inputFiles | String[] | Array di file da concatenare. |
 | outputFile | String | Nome del file di output. |
 
 ### Valore di ritorno
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream[], Stream) {#concatenate_3}
 
-Concatena i file
+Concatenare file
 
 ```csharp
 public bool Concatenate(Stream[] inputStream, Stream outputStream)
@@ -145,14 +145,14 @@ public bool Concatenate(Stream[] inputStream, Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream[] | Matrice di flussi da concatenare. |
-| outputStream | Stream | Stream in cui verrà archiviato il file dei risultati. |
+| inputStream | Stream[] | Array di stream da concatenare. |
+| outputStream | Stream | Stream dove il file risultante sarà memorizzato. |
 
 ### Valore di ritorno
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -162,17 +162,17 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Concatenate(string, string, string, string) {#concatenate_6}
+## Concatenate(string, string, string, string) {#concatenate_5}
 
-Unisce due documenti Pdf in un nuovo documento Pdf con pagine in modi alternativi e riempie gli spazi vuoti con pagine vuote. es: il documento1 ha 5 pagine: p1, p2, p3, p4, p5. document2 ha 3 pagine: p1', p2', p3'. L'unione dei due documenti Pdf produrrà il documento risultante con le pagine: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage .
+Unisce due documenti Pdf in un nuovo documento Pdf con pagine in modi alternati e riempie i posti vuoti con pagine vuote. ad es.: document1 ha 5 pagine: p1, p2, p3, p4, p5. document2 ha 3 pagine: p1', p2', p3'. Unendo i due documenti Pdf si otterrà il documento risultante con pagine: p1, p1', p2, p2', p3, p3', p4, pagina vuota, p5, pagina vuota.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -181,33 +181,33 @@ public bool Concatenate(string firstInputFile, string secInputFile, string blank
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| firstInputFile | String | Primo fascicolo. |
-| secInputFile | String | Secondo fascicolo. |
+| firstInputFile | String | Primo file. |
+| secInputFile | String | Secondo file. |
 | blankPageFile | String | File PDF con pagina vuota. |
-| outputFile | String | File dei risultati. |
+| outputFile | String | File risultante. |
 
 ### Valore di ritorno
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-Unisce due documenti Pdf in un nuovo documento Pdf con pagine in modi alternativi e riempie gli spazi vuoti con pagine vuote. es: il documento1 ha 5 pagine: p1, p2, p3, p4, p5. document2 ha 3 pagine: p1', p2', p3'. L'unione dei due documenti Pdf produrrà il documento risultante con le pagine: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage .
+Unisce due documenti Pdf in un nuovo documento Pdf con pagine in modi alternati e riempie i posti vuoti con pagine vuote. ad es.: document1 ha 5 pagine: p1, p2, p3, p4, p5. document2 ha 3 pagine: p1', p2', p3'. Unendo i due documenti Pdf si otterrà il documento risultante con pagine: p1, p1', p2, p2', p3, p3', p4, pagina vuota, p5, pagina vuota.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -218,14 +218,14 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 | --- | --- | --- |
 | firstInputStream | Stream | Il primo Stream Pdf. |
 | secInputStream | Stream | Il secondo Stream Pdf. |
-| blankPageStream | Stream | Il flusso Pdf con pagina vuota. |
-| outputStream | Stream | Flusso Pdf di output. |
+| blankPageStream | Stream | Lo Stream Pdf con pagina vuota. |
+| outputStream | Stream | Stream Pdf di output. |
 
 ### Valore di ritorno
 
 Vero se l'operazione è riuscita.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -236,17 +236,16 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## Concatenate(string[], HttpResponse) {#concatenate_8}
 
-Concatena i file e salva il risultato nell'oggetto HttpResposnse.
+Concatenare file e salvare il risultato nell'oggetto HttpResponse.
 
 ```csharp
 public bool Concatenate(string[] inputFiles, HttpResponse response)
@@ -254,24 +253,24 @@ public bool Concatenate(string[] inputFiles, HttpResponse response)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFiles | String[] | Matrice di file da concatenare. |
-| response | HttpResponse | Oggetto risposta. |
+| inputFiles | String[] | Array di file da concatenare. |
+| response | HttpResponse | Oggetto di risposta. |
 
 ### Valore di ritorno
 
-true se la concatenazione è riuscita.
+vero se la concatenazione ha avuto successo.
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream[], HttpResponse) {#concatenate_4}
 
-Concatena i file e memorizza i risultati nell'oggetto HttpResponse.
+Concatenare file e memorizzare il risultato nell'oggetto HttpResponse.
 
 ```csharp
 public bool Concatenate(Stream[] inputStream, HttpResponse response)
@@ -279,17 +278,15 @@ public bool Concatenate(Stream[] inputStream, HttpResponse response)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream[] | Streams array che contiene i file da concatenare. |
-| response | HttpResponse | Oggetto risposta/ |
+| inputStream | Stream[] | Array di stream che contengono file da concatenare. |
+| response | HttpResponse | Oggetto di risposta. |
 
 ### Valore di ritorno
 
-true se l'operazione è riuscita.
+vero se l'operazione è riuscita.
 
-### Guarda anche
+### Vedi anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,67 +1,65 @@
 ---
-title: XmpValue
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل قيمة XMP
+title: Class XmpValue
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.XmpValue. تمثل قيمة XMP
 type: docs
-weight: 7550
+weight: 11500
 url: /ar/net/aspose.pdf/xmpvalue/
 ---
 ## XmpValue class
 
-يمثل قيمة XMP
+تمثل قيمة XMP
 
 ```csharp
 public class XmpValue
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [XmpValue](xmpvalue#constructor_3)(DateTime) | مُنشئ قيمة وقت التاريخ . |
-| [XmpValue](xmpvalue#constructor_1)(double) | مُنشئ قيمة النقطة العائمة . |
-| [XmpValue](xmpvalue#constructor_2)(int) | وحدة تكوين لقيمة عدد صحيح . |
-| [XmpValue](xmpvalue#constructor_4)(string) | مُنشئ قيمة السلسلة . |
-| [XmpValue](xmpvalue#constructor)(XmpValue[]) | مُنشئ قيمة المصفوفة . |
+| [XmpValue](xmpvalue/#constructor_3)(DateTime) | مُنشئ لقيمة التاريخ والوقت. |
+| [XmpValue](xmpvalue/#constructor_1)(double) | مُنشئ لقيمة النقطة العائمة. |
+| [XmpValue](xmpvalue/#constructor_2)(int) | مُنشئ لقيمة صحيحة. |
+| [XmpValue](xmpvalue/#constructor_4)(string) | مُنشئ لقيمة سلسلة. |
+| [XmpValue](xmpvalue/#constructor)(XmpValue[]) | مُنشئ لقيمة مصفوفة. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [IsArray](../../aspose.pdf/xmpvalue/isarray) { get; } | العائد صحيح هو XmpValue عبارة عن مجموعة . |
-| [IsDateTime](../../aspose.pdf/xmpvalue/isdatetime) { get; } | إرجاع صحيح إذا كانت القيمة هي DateTime . |
-| [IsDouble](../../aspose.pdf/xmpvalue/isdouble) { get; } | إرجاع صحيح إذا كانت القيمة هي قيمة فاصلة عائمة. |
-| [IsField](../../aspose.pdf/xmpvalue/isfield) { get; } | يعود صحيحًا إذا كانت قيمة XmpValue عبارة عن حقل. |
-| [IsInteger](../../aspose.pdf/xmpvalue/isinteger) { get; } | إرجاع صحيح إذا كانت القيمة عددًا صحيحًا. |
-| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue) { get; } | إرجاع صحيح إذا تم تسمية XmpValue بقيمة. |
-| [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues) { get; } | إرجاع صحيح هو XmpValue يمثل القيم المسماة. |
-| [IsRaw](../../aspose.pdf/xmpvalue/israw) { get; } | القيمة غير مدعومة / غير معروفة ويتم توفير كود XML خام. |
-| [IsString](../../aspose.pdf/xmpvalue/isstring) { get; } | إرجاع صحيح إذا كانت القيمة عبارة عن سلسلة. |
-| [IsStructure](../../aspose.pdf/xmpvalue/isstructure) { get; } | العوائد الصحيحة هي أن XmpValue تمثل البنية. |
+| [IsArray](../../aspose.pdf/xmpvalue/isarray/) { get; } | تُرجع true إذا كانت XmpValue مصفوفة. |
+| [IsDateTime](../../aspose.pdf/xmpvalue/isdatetime/) { get; } | تُرجع true إذا كانت القيمة هي DateTime. |
+| [IsDouble](../../aspose.pdf/xmpvalue/isdouble/) { get; } | تُرجع true إذا كانت القيمة هي قيمة نقطة عائمة. |
+| [IsField](../../aspose.pdf/xmpvalue/isfield/) { get; } | تُرجع true إذا كانت XmpValue حقل. |
+| [IsInteger](../../aspose.pdf/xmpvalue/isinteger/) { get; } | تُرجع true إذا كانت القيمة صحيحة. |
+| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue/) { get; } | تُرجع true إذا كانت XmpValue قيمة مسماة. |
+| [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues/) { get; } | تُرجع true إذا كانت XmpValue تمثل قيم مسماة. |
+| [IsRaw](../../aspose.pdf/xmpvalue/israw/) { get; } | القيمة غير مدعومة/غير معروفة ويتم توفير كود XML الخام. |
+| [IsString](../../aspose.pdf/xmpvalue/isstring/) { get; } | تُرجع true إذا كانت القيمة سلسلة. |
+| [IsStructure](../../aspose.pdf/xmpvalue/isstructure/) { get; } | تُرجع true إذا كانت XmpValue تمثل هيكل. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ToArray](../../aspose.pdf/xmpvalue/toarray)() | مجموعة إرجاع . |
-| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime)() | تحويل إلى وقت التاريخ . |
-| [ToDictionary](../../aspose.pdf/xmpvalue/todictionary)() | إرجاع قاموس يحتوي على قيم مسماة. |
-| [ToDouble](../../aspose.pdf/xmpvalue/todouble)() | تحويل إلى مضاعفة . |
-| [ToField](../../aspose.pdf/xmpvalue/tofield)() | إرجاع قيمة XMP كحقل XMP. |
-| [ToInteger](../../aspose.pdf/xmpvalue/tointeger)() | تحويل إلى عدد صحيح . |
-| [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue)() | إرجاع قيمة XMP كقيمة مسماة. |
-| [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues)() | إرجاع قيمة XMP كمجموعة قيمة مسماة. |
-| [ToRaw](../../aspose.pdf/xmpvalue/toraw)() | رمز XML الأولي لقيم غير معروفة / غير مدعومة. |
-| override [ToString](../../aspose.pdf/xmpvalue/tostring#tostring)() | إرجاع تمثيل سلسلة XmpValue. |
-| [ToString](../../aspose.pdf/xmpvalue/tostring#tostring_1)(IFormatProvider) | إرجاع تمثيل السلسلة . |
-| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue)() | تحويل إلى سلسلة . |
-| [ToStructure](../../aspose.pdf/xmpvalue/tostructure)() | إرجاع قيمة XMP كهيكل (مجموعة من الحقول). |
-| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit#op_explicit) | تحويل XmpValue إلى مجموعة . (5 operators) |
-| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit#op_implicit_4) | تحويل السلسلة إلى XmpValue. (5 operators) |
+| [ToArray](../../aspose.pdf/xmpvalue/toarray/)() | تُرجع مصفوفة. |
+| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime/)() | تُحول إلى تاريخ ووقت. |
+| [ToDictionary](../../aspose.pdf/xmpvalue/todictionary/)() | تُرجع قاموس يحتوي على قيم مسماة. |
+| [ToDouble](../../aspose.pdf/xmpvalue/todouble/)() | تُحول إلى قيمة مزدوجة. |
+| [ToField](../../aspose.pdf/xmpvalue/tofield/)() | تُرجع قيمة XMP كحقل XMP. |
+| [ToInteger](../../aspose.pdf/xmpvalue/tointeger/)() | تُحول إلى قيمة صحيحة. |
+| [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue/)() | تُرجع قيمة XMP كقيمة مسماة. |
+| [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues/)() | تُرجع قيمة XMP كمجموعة من القيم المسماة. |
+| [ToRaw](../../aspose.pdf/xmpvalue/toraw/)() | كود XML الخام للقيم غير المعروفة/غير المدعومة. |
+| override [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring)() | تُرجع تمثيل سلسلة لـ XmpValue. |
+| [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring_1)(IFormatProvider) | تُرجع تمثيل سلسلة. |
+| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue/)() | تُحول إلى سلسلة. |
+| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | تُرجع قيمة XMP كهيكل (مجموعة من الحقول). |
+| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit/#op_explicit) | تُحول XmpValue إلى مصفوفة. (5 مشغلين) |
+| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit/#op_implicit_4) | تُحول سلسلة إلى XmpValue. (5 مشغلين) |
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Öffnet die Schriftart mit dem angegebenen Schriftartstream.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: FontRepository-Methode. Öffnet Schriftart mit angegebenem Schriftstrom
 type: docs
 weight: 60
 url: /de/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-Öffnet die Schriftart mit dem angegebenen Schriftartstream.
+Öffnet Schriftart mit angegebenem Schriftstrom.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
@@ -16,53 +16,53 @@ public static Font OpenFont(Stream fontStream, FontTypes fontType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontStream | Stream | Font-Stream. |
-| fontType | FontTypes | Schriftartwert. |
+| fontStream | Stream | Schriftstrom. |
+| fontType | FontTypes | Schriftarttyp-Wert. |
 
 ### Rückgabewert
 
-Font-Objekt.
+Schriftartobjekt.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie die Schriftart geöffnet und die Schriftart des Textes der ersten Seite ersetzt wird.
+Das Beispiel zeigt, wie man eine Schriftart öffnet und die Schriftart des Textes der ersten Seite ersetzt.
 
 ```csharp
-// Schriftart öffnen
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Dokument öffnen
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // TextFragmentAbsorber-Objekt erstellen, um alle "Hello World"-Textvorkommen zu finden
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Akzeptiere den Absorber für die erste Seite
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // Schriftart des ersten Textvorkommens ändern
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Dokument speichern
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
 ### Siehe auch
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* namensraum [Aspose.Pdf.Text](../../fontrepository)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Font](../../font/)
+* Enum [FontTypes](../../fonttypes/)
+* Klasse [FontRepository](../)
+* Namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-Öffnet die Schriftart mit dem angegebenen Schriftartdateipfad.
+Öffnet Schriftart mit angegebenem Schriftdateipfad.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
@@ -70,48 +70,48 @@ public static Font OpenFont(string fontFilePath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontFilePath | String | Pfad der Schriftartdatei. |
+| fontFilePath | String | Schriftdateipfad. |
 
 ### Rückgabewert
 
-Font-Objekt.
+Schriftartobjekt.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie die Schriftart geöffnet und die Schriftart des Textes der ersten Seite ersetzt wird.
+Das Beispiel zeigt, wie man eine Schriftart öffnet und die Schriftart des Textes der ersten Seite ersetzt.
 
 ```csharp
-// Schriftart öffnen
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// TextFragmentAbsorber-Objekt erstellen, um alle "Hello World"-Textvorkommen zu finden
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Schriftart des ersten Textvorkommens ändern
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Dokument speichern
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Siehe auch
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* namensraum [Aspose.Pdf.Text](../../fontrepository)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Font](../../font/)
+* Klasse [FontRepository](../)
+* Namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Öffnet die Schriftart mit dem angegebenen Schriftartdateipfad und Metrikdateipfad.
+Öffnet Schriftart mit angegebenem Schriftdateipfad und Metrikdateipfad.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
@@ -119,42 +119,40 @@ public static Font OpenFont(string fontFilePath, string metricsFilePath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontFilePath | String | Pfad der Schriftartdatei. |
-| metricsFilePath | String | Pfad der Schriftartmetrikdatei. |
+| fontFilePath | String | Schriftdateipfad. |
+| metricsFilePath | String | Schriftmetrikdateipfad. |
 
 ### Rückgabewert
 
-Font-Objekt.
+Schriftartobjekt.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie Sie die Type1-Schriftart mit Metriken öffnen und die Schriftart des Textes der ersten Seite ersetzen.
+Das Beispiel zeigt, wie man eine Type1-Schriftart mit Metriken öffnet und die Schriftart des Textes der ersten Seite ersetzt.
 
 ```csharp
-// Schriftart öffnen
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// TextFragmentAbsorber-Objekt erstellen, um alle "Hello World"-Textvorkommen zu finden
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Schriftart des ersten Textvorkommens ändern
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Dokument speichern
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Siehe auch
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* namensraum [Aspose.Pdf.Text](../../fontrepository)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [Font](../../font/)
+* Klasse [FontRepository](../)
+* Namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../../)

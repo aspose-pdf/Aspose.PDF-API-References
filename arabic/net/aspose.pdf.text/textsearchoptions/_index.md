@@ -1,45 +1,44 @@
 ---
-title: TextSearchOptions
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل خيارات البحث عن النص
+title: Class TextSearchOptions
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.TextSearchOptions. تمثل خيارات بحث النص
 type: docs
-weight: 7200
+weight: 11040
 url: /ar/net/aspose.pdf.text/textsearchoptions/
 ---
-## TextSearchOptions class
+## فئة خيارات بحث النص
 
-يمثل خيارات البحث عن النص
+تمثل خيارات بحث النص
 
 ```csharp
 public sealed class TextSearchOptions : TextOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TextSearchOptions](textsearchoptions#constructor_2)(bool) | تهيئة مثيل جديد لملف[`TextSearchOptions`](../textsearchoptions) object. يحدد وضع استخدام التعبير العادي. |
-| [TextSearchOptions](textsearchoptions#constructor)(Rectangle) | تهيئة مثيل جديد لملف[`TextSearchOptions`](../textsearchoptions)object. يحدد المستطيل الذي يحدد النص الذي تم البحث عنه. |
-| [TextSearchOptions](textsearchoptions#constructor_1)(Rectangle, bool) | تهيئة مثيل جديد لملف[`TextSearchOptions`](../textsearchoptions) object. يحدد المستطيل الذي يحدد النص الذي تم البحث عنه ووضع استخدام التعبير العادي. |
+| [TextSearchOptions](textsearchoptions/#constructor_2)(bool) | يقوم بتهيئة مثيل جديد من كائن `TextSearchOptions`. يحدد وضع استخدام التعبير العادي. |
+| [TextSearchOptions](textsearchoptions/#constructor)(Rectangle) | يقوم بتهيئة مثيل جديد من كائن `TextSearchOptions`. يحدد المستطيل الذي يحدد النص الذي سيتم البحث عنه. |
+| [TextSearchOptions](textsearchoptions/#constructor_1)(Rectangle, bool) | يقوم بتهيئة مثيل جديد من كائن `TextSearchOptions`. يحدد المستطيل الذي يحدد النص الذي سيتم البحث عنه ووضع استخدام التعبير العادي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors) { get; set; } | الحصول على أو تعيين إشارة إلى أن الأخطاء المتعلقة بغياب الخط سيتم تجاهلها بواسطة ممتص النص (الجزء) . true - يعني أنه سيتم تجاهل أخطاء غياب الخط. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة . false (افتراضي) - سيؤدي عدم وجود خطأ في الخط إلى إنهاء المعالجة عن طريق طرح الاستثناء. |
-| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext) { get; set; } | الحصول على أو تعيين إشارة إلى أن أجزاء النص التي تمثل ظل النص العادي سيتم تجاهلها أثناء البحث . true - يعني أنه لن يتم العثور على نص الظل (جرب هذا إذا كان البحث النصي يعيد أجزاء مكررة في مواضع الإغلاق) false - يعني ذلك الظل سيتم العثور على النص بالإضافة إلى النص العادي (القيمة الافتراضية) |
-| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused) { get; set; } | الحصول على أو تعيين إشارة إلى استخدام التعبير العادي. |
-| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds) { get; set; } | الحصول على أو تعيين إشارة إلى أن النص يتم البحث عنه داخل حدود الصفحة. |
-| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors) { get; set; } | الحصول على أو تعيين إشارة إلى أن أخطاء استخراج النص (فك التشفير) سيتم تسجيلها في ممتص النص (الجزء). صحيح - يعني أنه سيتم تسجيل أخطاء استخراج النص (فك التشفير). قد يقلل من الأداء. خطأ (افتراضي) - لا يوجد تسجيل خطأ. |
-| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle) { get; set; } | الحصول على أو تعيين المستطيل الذي يحد النص الذي تم البحث عنه. |
-| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics) { get; set; } | الحصول على أو تعيين القيمة التي تسمح بالبحث عن الرسومات المتعلقة بالنص (التسطير والخلفية وما إلى ذلك) أثناء البحث عن النص. صحيح - سيتم إجراء البحث عن الرسومات المتعلقة بالنص (القيمة الافتراضية). سيتم تجاهله. قم بتعيين هذا في حالة وجود مشكلات في الأداء أو لا داعي للتعامل مع التسطير أو الخلفية أو القطع. |
-| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount) { get; set; } | الحصول على أو تعيين قيمة تحد من البحث عن الرسومات المتعلقة بالنص (التسطير والخلفية وما إلى ذلك) على صفحة لعدد محدد من العناصر. القيمة الافتراضية هي 250. قم بتعيين قيمة أقل في حالة وجود مشكلات في الأداء ، جرب قيمة أكبر في حالة عدم العثور على بعض العناصر الرسومية. |
-| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding) { get; set; } | الحصول على أو تعيين إشارة إلى أنه سيتم البحث عن النص باستخدام ترميز محرك الخط. صحيح - يعني أنه سيتم استخدام ترميز محرك الخط (جرب هذا إذا فشل البحث عن النص بسبب الترميز غير الكامل في المستند) خطأ - يعني أن تشفير خط المستند سوف يمكن استخدامها (القيمة الافتراضية) |
+| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors/) { get; set; } | يحصل أو يحدد الإشارة إلى أن الأخطاء المتعلقة بغياب الخط سيتم تجاهلها بواسطة ماص النص (الجزء). true - يعني أن أخطاء غياب الخط سيتم تجاهلها. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة. false (افتراضي) - ستؤدي أخطاء غياب الخط إلى إنهاء المعالجة بإلقاء استثناء. |
+| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext/) { get; set; } | يحصل أو يحدد الإشارة إلى أن مقاطع النص التي تمثل ظل النص العادي سيتم تجاهلها أثناء البحث. true - يعني أن النص الظلي لن يتم العثور عليه (جرب هذا إذا كانت عملية بحث النص تعيد مقاطع مكررة في مواقع قريبة) false - يعني أن النص الظلي سيتم العثور عليه بالإضافة إلى النص العادي (القيمة الافتراضية) |
+| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused/) { get; set; } | يحصل أو يحدد الإشارة إلى أنه يتم استخدام التعبير العادي. |
+| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds/) { get; set; } | يحصل أو يحدد الإشارة إلى أنه يتم البحث عن النص داخل حدود الصفحة. |
+| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors/) { get; set; } | يحصل أو يحدد الإشارة إلى أن أخطاء استخراج النص (فك التشفير) سيتم تسجيلها في ماص النص (الجزء). true - يعني أن أخطاء استخراج النص (فك التشفير) سيتم تسجيلها. قد يؤدي ذلك إلى تقليل الأداء. false (افتراضي) - لا يوجد تسجيل للأخطاء. |
+| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle/) { get; set; } | يحصل أو يحدد المستطيل الذي يحدد النص الذي سيتم البحث عنه. |
+| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/) { get; set; } | يحصل أو يحدد القيمة التي تسمح بالبحث عن الرسوم البيانية المتعلقة بالنص (التسطير، الخلفية، إلخ) أثناء بحث النص. true - سيتم إجراء البحث عن الرسوم البيانية المتعلقة بالنص (القيمة الافتراضية). false - سيتم تجاهل العناصر الرسومية التي قد تكون موجودة في المستند المصدر. قم بتعيين هذا في حالة وجود مشاكل في الأداء أو عدم الحاجة للتعامل مع التسطير أو الخلفية أو القص. |
+| [SearchInAnnotations](../../aspose.pdf.text/textsearchoptions/searchinannotations/) { get; set; } | يحصل أو يحدد القيمة التي تسمح بالبحث عن النص في التعليقات. true - سيتم البحث عن النص في التعليقات. false - لن يتم تحليل النص في التعليقات بواسطة ماص النص. |
+| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/) { get; set; } | يحصل أو يحدد القيمة التي تحد من البحث عن الرسوم البيانية المتعلقة بالنص (التسطير، الخلفية، إلخ) على الصفحة لعدد محدد من العناصر. القيمة الافتراضية هي 250. قم بتعيين قيمة أقل في حالة وجود مشاكل في الأداء، جرب قيمة أكبر في حالة عدم العثور على بعض العناصر الرسومية. |
+| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding/) { get; set; } | يحصل أو يحدد الإشارة إلى أنه سيتم البحث عن النص باستخدام ترميز محرك الخط. true - يعني أنه سيتم استخدام ترميز محرك الخط (جرب هذا إذا فشلت عملية بحث النص بسبب ترميز غير مثالي في المستند) false - يعني أنه سيتم استخدام ترميز خط المستند (القيمة الافتراضية) |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextOptions](../textoptions)
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [TextOptions](../textoptions/)
+* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* التجميع [Aspose.PDF](../../)

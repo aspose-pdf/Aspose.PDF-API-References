@@ -1,160 +1,158 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen yazı tipi akışıyla yazı tipini açar.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: FontRepository metodu. Belirtilen font akışı ile font açar
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-Belirtilen yazı tipi akışıyla yazı tipini açar.
+Belirtilen font akışı ile font açar.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontStream | Stream | Yazı tipi akışı. |
-| fontType | FontTypes | Yazı tipi değeri. |
+| fontStream | Stream | Font akışı. |
+| fontType | FontTypes | Font türü değeri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi nesnesi.
+Font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl açılacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, fontun nasıl açılacağını ve ilk sayfadaki metnin fontunun nasıl değiştirileceğini gösterir.
 
 ```csharp
-// Yazı tipini aç
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Belgeyi aç
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // İlk sayfa için emiciyi kabul et
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // İlk metin oluşumunun yazı tipini değiştir
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Belgeyi kaydet
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontTypes](../../fonttypes/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-Belirtilen yazı tipi dosya yolu ile yazı tipini açar.
+Belirtilen font dosyası yolu ile font açar.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontFilePath | String | Yazı tipi dosyası yolu. |
+| fontFilePath | String | Font dosyası yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi nesnesi.
+Font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl açılacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, fontun nasıl açılacağını ve ilk sayfadaki metnin fontunun nasıl değiştirileceğini gösterir.
 
 ```csharp
-// Yazı tipini aç
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Belirtilen yazı tipi dosya yolu ve metrik dosya yolu ile yazı tipini açar.
+Belirtilen font dosyası yolu ve metrik dosyası yolu ile font açar.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontFilePath | String | Yazı tipi dosyası yolu. |
-| metricsFilePath | String | Yazı tipi metrikleri dosya yolu. |
+| fontFilePath | String | Font dosyası yolu. |
+| metricsFilePath | String | Font metrik dosyası yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi nesnesi.
+Font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, Type1 yazı tipinin metriklerle nasıl açılacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, metriklerle Type1 fontunun nasıl açılacağını ve ilk sayfadaki metnin fontunun nasıl değiştirileceğini gösterir.
 
 ```csharp
-// Yazı tipini aç
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

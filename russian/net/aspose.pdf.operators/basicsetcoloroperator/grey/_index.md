@@ -1,22 +1,22 @@
 ---
 title: Grey
-second_title: Aspose.PDF для справочника API .NET
-description: Получает черную составляющую серого цвета.
+second_title: Aspose.PDF for .NET API Reference
+description: Получает черный компонент серого цвета.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/grey/
 ---
-## BasicSetColorOperator.Grey property
+## BasicSetColorOperator.Grey свойство
 
-Получает черную составляющую серого цвета.
+Получает черный компонент серого цвета.
 
 ```csharp
 public double Grey { get; }
 ```
 
-### Смотрите также
+### См. также
 
-* class [BasicSetColorOperator](../../basicsetcoloroperator)
+* класс [BasicSetColorOperator](../../basicsetcoloroperator)
 * пространство имен [Aspose.Pdf.Operators](../../basicsetcoloroperator)
 * сборка [Aspose.PDF](../../../)
 

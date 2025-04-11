@@ -1,64 +1,63 @@
 ---
-title: ImageStamp
-second_title: Aspose.PDF for .NET API Referansı
-description: Grafik damgasını yeniden gönderir.
+title: Class ImageStamp
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImageStamp sınıfı. Grafik damga temsil eder
 type: docs
-weight: 3790
+weight: 5930
 url: /tr/net/aspose.pdf/imagestamp/
 ---
-## ImageStamp class
+## ImageStamp sınıfı
 
-Grafik damgasını yeniden gönderir.
+Grafik damga temsil eder.
 
 ```csharp
 public sealed class ImageStamp : Stamp
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ImageStamp](imagestamp#constructor)(Stream) | Yeni bir örneğini başlatır[`ImageStamp`](../imagestamp) sınıf. |
-| [ImageStamp](imagestamp#constructor_1)(string) | Belirtilen dosyada görüntüye göre görüntü damgası oluşturur. |
+| [ImageStamp](imagestamp/#constructor)(Stream) | `ImageStamp` sınıfının yeni bir örneğini başlatır. |
+| [ImageStamp](imagestamp/#constructor_1)(string) | Belirtilen dosyadaki resim ile resim damgası oluşturur. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Background](../../aspose.pdf/stamp/background) { get; set; } | İçeriğin arka plan olarak damgalandığını gösteren bir bool değeri ayarlar veya alır. Değer doğruysa, damga içeriği en alta yerleştirilir. Varsayılan olarak değer false'tur, damga içeriği en üste yerleştirilir. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin) { get; set; } | Damganın alt kenar boşluğunu alır veya ayarlar. |
-| [Height](../../aspose.pdf/imagestamp/height) { get; set; } | Görüntü yüksekliğini alır veya ayarlar. Bu görüntünün ayarlanması, görüntünün dikey olarak ölçeklenmesini sağlar. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment) { get; set; } | Sayfadaki damganın Yatay hizalamasını alır veya ayarlar. |
-| [Image](../../aspose.pdf/imagestamp/image) { get; } | Damgalama için kullanılan görüntü akışını alır. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin) { get; set; } | Damganın sol kenar boşluğunu alır veya ayarlar. |
-| [Opacity](../../aspose.pdf/stamp/opacity) { get; set; } | Damga opaklığını belirtmek için bir değer alır veya ayarlar. Değer 0.0 ile 1.0. arasındadır Varsayılan olarak değer 1.0. 'dir |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity) { get; set; } | Damga anahat opaklığını belirtmek için bir değer alır veya ayarlar. Değer 0.0 ile 1.0. arasındadır Varsayılan olarak değer 1.0. 'dir |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth) { get; set; } | Damga anahat genişliğinin bir değerini alır veya ayarlar. Varsayılan olarak değer 1.0'dır. |
-| [Quality](../../aspose.pdf/imagestamp/quality) { get; set; } | Yüzde olarak görüntü damgasının kalitesini alır veya ayarlar. Geçerli değerler %0,..100'dür. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin) { get; set; } | Damganın sağ kenar boşluğunu alır veya ayarlar. |
-| [Rotate](../../aspose.pdf/stamp/rotate) { get; set; } | Damga içeriğinin dönüşünü buna göre ayarlar veya alır[`Rotation`](../rotation) değerler. Not. Bu özellik, 90 derecenin (0, 90, 180, 270 derece) katları olan açıları ayarlamak içindir. İsteğe bağlı açıyı ayarlamak için RotateAngle özelliğini kullanın. ArbitraryAngle tarafından ayarlanan açı 90'ın katı değilse, Rotate özelliği Rotation.None. değerini döndürür. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle) { get; set; } | Derece olarak damganın döndürme açısını alır veya ayarlar. Bu özellik, isteğe bağlı döndürme açısının ayarlanmasına izin verir. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin) { get; set; } | Damganın üst kenar boşluğunu alır veya ayarlar. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment) { get; set; } | Sayfadaki damganın dikey hizalamasını alır veya ayarlar. |
-| [Width](../../aspose.pdf/imagestamp/width) { get; set; } | Görüntü genişliğini alır veya ayarlar. Bu özelliğin ayarlanması, görüntüyü yatay olarak ölçeklendirir. |
-| [XIndent](../../aspose.pdf/stamp/xindent) { get; set; } | Soldan başlayarak yatay damga koordinatı. |
-| [YIndent](../../aspose.pdf/stamp/yindent) { get; set; } | Alttan başlayarak dikey damga koordinatı. |
-| [Zoom](../../aspose.pdf/stamp/zoom) { get; set; } | Damganın yakınlaştırma faktörü. Damganın ölçeklenmesine izin verir. ZoomX ve ZoomY özelliklerinin her bir eksen için ayrı ayrı yakınlaştırma faktörü ayarlamasına izin verdiğini lütfen unutmayın. Bu özelliğin ayarlanması hem ZoomX hem de ZoomY özelliklerini değiştirir. ZoomX ve ZoomY farklıysa Zoom özelliği ZoomX değerini döndürür. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx) { get; set; } | Damganın yatay yakınlaştırma faktörü. Damganın yatay olarak ölçeklenmesini sağlar. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy) { get; set; } | Damganın dikey yakınlaştırma faktörü. Damgayı dikey olarak ölçeklendirmeye izin verir. |
+| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | Resim damgası için Alternatif Metni alır veya ayarlar. |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | İçeriğin arka plan olarak damgalandığını belirten bir bool değeri ayarlar veya alır. Değer true ise, damga içeriği en altta yer alır. Varsayılan olarak, değer false'tur, damga içeriği en üstte yer alır. |
+| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Damganın alt kenar boşluğunu alır veya ayarlar. |
+| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Resim yüksekliğini alır veya ayarlar. Bu resmi ayarlamak, resmi dikey olarak ölçeklendirmeye olanak tanır. |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Sayfadaki damganın yatay hizalamasını alır veya ayarlar. |
+| [Image](../../aspose.pdf/imagestamp/image/) { get; } | Damgalama için kullanılan resim akışını alır. |
+| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Damganın sol kenar boşluğunu alır veya ayarlar. |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Damga opaklığını belirtmek için bir değer alır veya ayarlar. Değer 0.0 ile 1.0 arasındadır. Varsayılan olarak değer 1.0'dır. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Damga dış hat opaklığını belirtmek için bir değer alır veya ayarlar. Değer 0.0 ile 1.0 arasındadır. Varsayılan olarak değer 1.0'dır. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Damga dış hat genişliğinin bir değerini alır veya ayarlar. Varsayılan olarak değer 1.0'dır. |
+| [Quality](../../aspose.pdf/imagestamp/quality/) { get; set; } | Resim damgasının kalitesini yüzde olarak alır veya ayarlar. Geçerli değerler 0..100%'dir. |
+| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Damganın sağ kenar boşluğunu alır veya ayarlar. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Damga içeriğinin [`Rotation`](../rotation/) değerlerine göre döndürülmesini ayarlar veya alır. Not. Bu özellik, 90 derece (0, 90, 180, 270 derece) katları olan açıları ayarlamak içindir. Keyfi bir açı ayarlamak için RotateAngle özelliğini kullanın. Eğer KeyfiAçı ile ayarlanan açı 90'ın katı değilse, Rotate özelliği Rotation.None döner. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Damganın derece cinsinden döndürme açısını alır veya ayarlar. Bu özellik, keyfi bir döndürme açısı ayarlamaya olanak tanır. |
+| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Damganın üst kenar boşluğunu alır veya ayarlar. |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Sayfadaki damganın dikey hizalamasını alır veya ayarlar. |
+| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | Resim genişliğini alır veya ayarlar. Bu özelliği ayarlamak, resmi yatay olarak ölçeklendirmeye olanak tanır. |
+| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | Soldan başlayarak yatay damga koordinatını alır ve ayarlar. |
+| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | Aşağıdan başlayarak dikey damga koordinatını alır ve ayarlar. |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Damganın zoom faktörü. Damgayı ölçeklendirmeye olanak tanır. Lütfen ZoomX ve ZoomY çiftinin her eksen için ayrı zoom faktörü ayarlamaya olanak tanıdığını unutmayın. Bu özelliğin ayarlanması hem ZoomX hem de ZoomY özelliklerini değiştirir. Eğer ZoomX ve ZoomY farklıysa, Zoom özelliği ZoomX değerini döner. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Damganın yatay zoom faktörü. Damgayı yatay olarak ölçeklendirmeye olanak tanır. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Damganın dikey zoom faktörü. Damgayı dikey olarak ölçeklendirmeye olanak tanır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid)() | Damga kimliğini döndürür. |
-| override [Put](../../aspose.pdf/imagestamp/put)(Page) | Sayfaya grafik damgası ekler. |
-| [setStampId](../../aspose.pdf/stamp/setstampid)(int) | Damga kimliğini ayarlar. |
+| [getStampId](../../aspose.pdf/stamp/getstampid/)() | Damga ID'sini döner. |
+| override [Put](../../aspose.pdf/imagestamp/put/)(Page) | Sayfaya grafik damga ekler. |
+| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Damga Id'sini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Stamp](../stamp)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Stamp](../stamp/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

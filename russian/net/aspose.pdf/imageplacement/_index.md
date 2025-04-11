@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет характеристики изображения размещенного на странице документа Pdf.
+title: Class ImagePlacement
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.ImagePlacement. Представляет характеристики изображения, размещенного на странице документа Pdf
 type: docs
-weight: 3760
+weight: 5900
 url: /ru/net/aspose.pdf/imageplacement/
 ---
-## ImagePlacement class
+## Класс ImagePlacement
 
 Представляет характеристики изображения, размещенного на странице документа Pdf.
 
@@ -14,64 +14,62 @@ url: /ru/net/aspose.pdf/imageplacement/
 public sealed class ImagePlacement
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Получает параметры компоновки графического состояния, активного для изображения, размещенного на странице. |
-| [Image](../../aspose.pdf/imageplacement/image) { get; } | Получает связанный объект ресурса XImage. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | Текущая матрица преобразования для этого изображения. |
-| [Operator](../../aspose.pdf/imageplacement/operator) { get; } | Оператор, используемый для отображения изображения. |
-| [Page](../../aspose.pdf/imageplacement/page) { get; } | Получает страницу, содержащую изображение. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle) { get; } | Получает прямоугольник изображения. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution) { get; } | Получает разрешение изображения. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation) { get; } | Получает угол поворота изображения. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Получает параметры композитинга графического состояния, активного для изображения, размещенного на странице. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Получает связанный объект ресурса XImage. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Текущая матрица преобразования для этого изображения. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Оператор, используемый для отображения изображения. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Получает страницу, содержащую изображение. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Получает прямоугольник изображения. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Получает разрешение изображения. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Получает угол поворота изображения. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide)() | Удалить изображение со страницы. |
-| [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | Заменить изображение в коллекции другим изображением. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, поворот и разрешение. |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, поворот и разрешение. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Удаляет изображение со страницы. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Заменяет изображение в коллекции другим изображением. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями: масштабированием, поворотом и разрешением. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями: масштабированием, поворотом и разрешением. |
 
-### Примечания
+## Замечания
 
-Когда изображение помещается на страницу, оно может иметь размеры, отличные от физических размеров, определенных в[`Resources`](../resources) . Объект[`ImagePlacement`](../imageplacement) предназначен для предоставления такой информации, как размеры, разрешение и т. д.
+Когда изображение размещается на странице, оно может иметь размеры, отличные от физических размеров, определенных в [`Resources`](../resources/). Объект `ImagePlacement` предназначен для предоставления такой информации, как размеры, разрешение и так далее.
 
-### Примеры
+## Примеры
 
-Пример демонстрирует, как найти изображения на первой странице документа PDF и получить изображения в виде растровых изображений с видимыми размерами.
+Пример демонстрирует, как найти изображения на первой странице PDF-документа и получить изображения в виде битмапов с видимыми размерами.
 
 ```csharp
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект ImagePlacementAbsorber для выполнения поиска размещения изображения
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Получаем изображения с видимыми размерами
+// Retrieve images with visible dimensions
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Получить изображение из ресурсов
+        // Retrieve image from resources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Создаем новое растровое изображение с реальными размерами
+        // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,39 +1,38 @@
 ---
 title: Aspose.Pdf.Devices
-second_title: Aspose.PDF for .NET API Referansı
-description: Aspose.Pdf.Cihazlarad alanı belgeyi resimler veya düz metin olarak temsil etmek için kullanılan sınıfları sağlar. Böylece belge metinsel veya çeşitli grafik aygıtlara gönderilebilir bu da onu metinsel veya grafik temsilini elde etmek istediğimiz anlamına gelir.
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Devices ad alanı, belgeleri görüntü veya düz metin olarak temsil etmek için kullanılan sınıfları sağlar. Böylece belge, metin veya çeşitli grafik cihazlarına gönderilebilir; bu da metin veya grafik temsilini almak istediğimiz anlamına gelir.
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/aspose.pdf.devices/
 ---
-**Aspose.Pdf.Cihazlar**ad alanı, belgeyi resim(ler) veya düz metin olarak temsil etmek için kullanılan sınıfları sağlar. Böylece belge metinsel veya çeşitli grafik aygıtlara gönderilebilir, bu da onu metinsel veya grafik temsilini elde etmek istediğimiz anlamına gelir.
+**Aspose.Pdf.Devices** ad alanı, belgeleri görüntü(ler) veya düz metin olarak temsil etmek için kullanılan sınıfları sağlar. Böylece belge, metin veya çeşitli grafik cihazlarına gönderilebilir; bu da metin veya grafik temsilini almak istediğimiz anlamına gelir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [BmpDevice](./bmpdevice) | Pdf belge sayfalarını bmp'ye kaydetmeye yardımcı olan görüntü aygıtını temsil eder. |
-| [Device](./device) | Tüm aygıt türleri için soyut sınıf. Cihaz, pdf belgesini bazı formatlarda temsil etmek için kullanılır. Örneğin, belge sayfası resim veya metin olarak gösterilebilir. |
-| [DocumentDevice](./documentdevice) | Tüm pdf belgesini işlemek için kullanılan tüm cihazlar için soyut sınıf. |
-| [EmfDevice](./emfdevice) | Pdf belge sayfalarını emf'ye kaydetmeye yardımcı olan görüntü aygıtını temsil eder. |
-| [GifDevice](./gifdevice) | Pdf belge sayfalarını gif'e kaydetmeye yardımcı olan görüntü aygıtını temsil eder. |
-| [ImageDevice](./imagedevice) | Görüntü aygıtları için soyut bir sınıf. |
-| [JpegDevice](./jpegdevice) | Pdf belge sayfalarını jpeg'e kaydetmeye yardımcı olan görüntü aygıtını temsil eder. |
-| [Margins](./margins) | Bu sınıf, bir görüntünün kenar boşluklarını temsil eder. |
-| [PageDevice](./pagedevice) | pdf belgesinin belirli bir sayfasını işlemek için kullanılan tüm cihazlar için soyut sınıf. |
-| [PngDevice](./pngdevice) | Pdf belge sayfalarını png'ye kaydetmeye yardımcı olan görüntü aygıtını temsil eder. |
-| [Resolution](./resolution) | Görüntü çözünürlüğü tutma sınıfını temsil eder. |
-| [TextDevice](./textdevice) | Pdf belge sayfalarını metne dönüştürmek için sınıfı temsil eder. |
-| [ThumbnailDevice](./thumbnaildevice) | Pdf belge sayfalarını Küçük Resim görüntüsüne kaydeden görüntü aygıtını temsil eder. |
-| [TiffDevice](./tiffdevice) | Bu sınıf, pdf belgesinin sayfa sayfa tek bir görüntüye kaydedilmesine yardımcı olur. |
-| [TiffSettings](./tiffsettings) | Bu sınıf, pdf'yi Tiff'e aktarmak için ayarları temsil eder. |
-## numaralandırma
+| [BmpDevice](./bmpdevice/) | Pdf belge sayfalarını bmp formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [Device](./device/) | Tüm cihaz türleri için soyut sınıf. Cihaz, pdf belgesini belirli bir formatta temsil etmek için kullanılır. Örneğin, belge sayfası görüntü veya metin olarak temsil edilebilir. |
+| [DicomDevice](./dicomdevice/) | Pdf belge sayfalarını Dicom formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [DocumentDevice](./documentdevice/) | Tüm pdf belgelerini işlemek için kullanılan cihazlar için soyut sınıf. |
+| [EmfDevice](./emfdevice/) | Pdf belge sayfalarını emf formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [GifDevice](./gifdevice/) | Pdf belge sayfalarını gif formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [ImageDevice](./imagedevice/) | Görüntü cihazları için soyut sınıf. |
+| [JpegDevice](./jpegdevice/) | Pdf belge sayfalarını jpeg formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [Margins](./margins/) | Bu sınıf, bir görüntünün kenar boşluklarını temsil eder. |
+| [PageDevice](./pagedevice/) | Belirli bir pdf belge sayfasını işlemek için kullanılan tüm cihazlar için soyut sınıf. |
+| [PngDevice](./pngdevice/) | Pdf belge sayfalarını png formatında kaydetmeye yardımcı olan görüntü cihazını temsil eder. |
+| [Resolution](./resolution/) | Görüntü çözünürlüğünü tutan sınıfı temsil eder. |
+| [TextDevice](./textdevice/) | Pdf belge sayfalarını metne dönüştüren sınıfı temsil eder. |
+| [ThumbnailDevice](./thumbnaildevice/) | Pdf belge sayfalarını küçük resim görüntüsüne kaydeden görüntü cihazını temsil eder. |
+| [TiffDevice](./tiffdevice/) | Pdf belgeyi sayfa sayfa tek bir tiff görüntüsüne kaydetmeye yardımcı olan sınıf. |
+| [TiffSettings](./tiffsettings/) | Pdf'yi Tiff'e aktarmak için ayarları temsil eden sınıf. |
+## Enumerasyon
 
-| numaralandırma | Tanım |
+| Enumerasyon | Açıklama |
 | --- | --- |
-| [ColorDepth](./colordepth) | Bir Tiff görüntü aygıtına geçirilen parametre değerini belirtmek için kullanılır. |
-| [CompressionType](./compressiontype) | Bir Tiff görüntü aygıtına geçirilen parametre değerini belirtmek için kullanılır. |
-| [FormPresentationMode](./formpresentationmode) | Yazdırırken veya görüntü pdf belgelerine dönüştürürken form sunum modunu belirtmek için kullanılır. |
-| [ShapeType](./shapetype) | Bu numaralandırma, ayıklanan görüntüler için şekil türünü temsil eder. |
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+| [ColorDepth](./colordepth/) | Bir Tiff görüntü cihazına geçirilen parametre değerini belirtmek için kullanılır. |
+| [CompressionType](./compressiontype/) | Bir Tiff görüntü cihazına geçirilen parametre değerini belirtmek için kullanılır. |
+| [FormPresentationMode](./formpresentationmode/) | Pdf belgelerini yazdırırken veya görüntüye dönüştürürken form sunum modunu belirtmek için kullanılır. |
+| [ShapeType](./shapetype/) | Bu enum, çıkarılan görüntüler için şekil türünü temsil eder. |

@@ -1,14 +1,14 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF для справочника API .NET
-description: Открывает шрифт с указанным потоком шрифтов.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: Метод FontRepository. Открывает шрифт с указанным потоком шрифта
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-Открывает шрифт с указанным потоком шрифтов.
+Открывает шрифт с указанным потоком шрифта.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
@@ -16,46 +16,46 @@ public static Font OpenFont(Stream fontStream, FontTypes fontType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontStream | Stream | Поток шрифтов. |
+| fontStream | Stream | Поток шрифта. |
 | fontType | FontTypes | Значение типа шрифта. |
 
 ### Возвращаемое значение
 
 Объект шрифта.
 
-### Примеры
+## Примеры
 
-В примере показано, как открыть шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как открыть шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Открыть шрифт
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Открыть документ
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Принять поглотитель для первой страницы
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // Изменяем шрифт первого вхождения текста
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Сохранить документ
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* перечисление [FontTypes](../../fonttypes/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -76,42 +76,42 @@ public static Font OpenFont(string fontFilePath)
 
 Объект шрифта.
 
-### Примеры
+## Примеры
 
-В примере показано, как открыть шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как открыть шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Открыть шрифт
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-Открывает шрифт с указанным путем к файлу шрифта и пути к файлу метрик.
+Открывает шрифт с указанным путем к файлу шрифта и путем к файлу метрик.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
@@ -126,35 +126,33 @@ public static Font OpenFont(string fontFilePath, string metricsFilePath)
 
 Объект шрифта.
 
-### Примеры
+## Примеры
 
-В примере показано, как открыть шрифт Type1 с метриками и заменить шрифт текста первой страницы.
+Пример демонстрирует, как открыть шрифт Type1 с метриками и заменить шрифт текста на первой странице.
 
 ```csharp
-// Открыть шрифт
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,52 +1,61 @@
 ---
-title: ListLblElement
-second_title: Aspose.PDF per .NET API Reference
-description: Rappresenta lelemento della struttura Lbl nella struttura logica della lista.
+title: Class ListLblElement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.ListLblElement classe. Rappresenta Lbl elemento struttura del elenco in.
 type: docs
-weight: 4320
+weight: 6490
 url: /it/net/aspose.pdf.logicalstructure/listlblelement/
 ---
 ## ListLblElement class
 
-Rappresenta l'elemento della struttura Lbl nella struttura logica della lista.
+Rappresenta l'elemento di struttura Lbl nella struttura logica dell'elenco.
 
 ```csharp
 public sealed class ListLblElement : ListChildElement
 ```
 
-## Proprietà
+## Properties
 
-| Nome | Descrizione |
+| Name | Description |
 | --- | --- |
-| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | Ottiene o imposta il testo effettivo per l'elemento della struttura. |
-| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | Ottiene o imposta il testo alternativo per l'elemento struttura. |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | OttieneStructureAttributeCollection oggetto. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Ottiene la raccolta dei bambini diElement oggetti. |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | OttieneAttributeOwnerStandard oggetto. |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | Ottiene o imposta il testo di espansione per l'elemento struttura. |
-| [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | Ottiene l'ID per l'elemento struttura. |
-| [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | Ottiene o imposta la lingua per l'elemento struttura. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Ottieni elemento padre. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | Ottiene il tipo di elemento della struttura. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Ottiene o imposta il titolo per l'elemento struttura. |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | Ottiene o imposta il testo effettivo per l'elemento di struttura. |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | Ottiene o imposta il testo alternativo per l'elemento di struttura. |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Ottiene l'oggetto StructureAttributeCollection. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Ottiene la collezione di elementi figli di oggetti Element. |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | Ottiene l'oggetto AttributeOwnerStandard. |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | Ottiene o imposta il testo di espansione per l'elemento di struttura. |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | Ottiene l'ID per l'elemento di struttura. |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Ottiene o imposta la lingua per l'elemento di struttura. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Ottiene la pagina su cui alcuni o tutti gli elementi figli verranno renderizzati. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Ottiene l'elemento padre. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Ottiene il tipo di elemento di struttura. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | Ottiene o imposta il titolo per l'elemento di struttura. |
 
-## Metodi
+## Methods
 
-| Nome | Descrizione |
+| Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | AggiungiElement alla raccolta dei bambini. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Modifica elemento padre per elemento struttura corrente |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | Cancella ID per elemento struttura. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Trova elementi di un determinato tipo |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | Genera ID per elemento struttura. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Imposta l'ID per l'elemento della struttura. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | Imposta tag personalizzati per l'elemento struttura. |
-| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | Restituisce una stringa che rappresenta l'oggetto corrente. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Aggiunge l'Element alla collezione di figli. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Cambia l'elemento padre per l'elemento di struttura corrente |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Pulisce tutti i figli. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Pulisce l'ID per l'elemento di struttura. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Trova gli elementi di un dato tipo |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Genera l'ID per l'elemento di struttura. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Inserisce l'Element nella collezione di figli all'indice specificato. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Rimuove: un elemento dalla struttura, un riferimento ad esso dall'oggetto padre, riferimenti ad esso dagli oggetti figli, l'oggetto corrispondente dal documento. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Rimuove un elemento dalla struttura, un riferimento ad esso dall'oggetto padre, riferimenti ad esso dagli oggetti figli, e l'oggetto corrispondente dal documento. Inserisce gli oggetti figli dell'oggetto rimosso nella collezione di oggetti figli del suo precedente genitore a partire dall'indice dell'oggetto rimosso. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Rimuove il figlio a. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Imposta l'ID per l'elemento di struttura. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Imposta un tag personalizzato per l'elemento di struttura. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Collega un elemento di struttura all'Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Collega un elemento di struttura all'Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Collega un elemento di struttura all'operatore BDC del flusso di contenuto. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Collega un elemento di struttura all'XForm del flusso di contenuto. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Collega un elemento di struttura all'XImage. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Restituisce una stringa che rappresenta l'oggetto corrente. |
 
-### Guarda anche
+### See Also
 
-* class [ListChildElement](../listchildelement)
-* spazio dei nomi [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ListChildElement](../listchildelement/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

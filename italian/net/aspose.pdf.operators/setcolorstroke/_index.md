@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke
-second_title: Aspose.PDF per .NET API Reference
-description: Classe che rappresenta il colore del set delloperatore SC per la tracciatura degli operatori del colore.
+title: Class SetColorStroke
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Operators.SetColorStroke. Classe che rappresenta l'operatore SC per impostare il colore per gli operatori di colore di tracciamento
 type: docs
-weight: 5440
+weight: 7680
 url: /it/net/aspose.pdf.operators/setcolorstroke/
 ---
-## SetColorStroke class
+## Classe SetColorStroke
 
-Classe che rappresenta il colore del set dell'operatore SC per la tracciatura degli operatori del colore.
+Classe che rappresenta l'operatore SC per impostare il colore per gli operatori di colore di tracciamento.
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
@@ -18,39 +18,38 @@ public class SetColorStroke : BasicSetColorOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| [SetColorStroke](setcolorstroke#constructor)() | Inizializza l'operatore. |
-| [SetColorStroke](setcolorstroke#constructor_1)(double) | Imposta il colore per gli operatori di tracciatura per gli spazi colore DeviceGrey, CalGrey e Indexed. |
-| [SetColorStroke](setcolorstroke#constructor_4)(double[]) | Costruttore che permette di impostare le componenti del colore. |
-| [SetColorStroke](setcolorstroke#constructor_2)(double, double, double) | Imposta il colore per l'operatore di tratti per gli spazi colore DeviceRGB, CalRGB e Lab |
-| [SetColorStroke](setcolorstroke#constructor_3)(double, double, double, double) | Imposta il colore per l'operatore del tratto per lo spazio colore CMYK |
+| [SetColorStroke](setcolorstroke/#constructor)() | Inizializza l'operatore. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Imposta il colore per gli operatori di tracciamento per gli spazi colore DeviceGray, CalGray e Indexed. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | Costruttore che consente di impostare i componenti di colore. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Imposta il colore per l'operatore di tracciamento per gli spazi colore DeviceRGB, CalRGB e Lab. |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | Imposta il colore per l'operatore di tracciamento per lo spazio colore CMYK. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Ottiene il componente rosso di color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Ottiene il componente ciano del colore CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Ottiene una matrice di componenti di colore. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Ottiene il componente verde di color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Ottiene la componente nera del colore grigio. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Indice degli operatori nell'elenco degli operatori di pagina. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Ottiene la componente nera del colore CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Ottiene il componente magenta del colore CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Ottiene il componente rosso di color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Ottiene il componente giallo del colore CMYK. |
+| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | Ottiene o imposta il componente blu. |
+| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | Ottiene o imposta il componente ciano. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Ottiene l'array dei componenti di colore. |
+| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | Ottiene o imposta il componente verde. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Ottiene il componente nero del colore grigio. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | Ottiene o imposta il componente nero. |
+| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | Ottiene o imposta il componente magenta. |
+| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | Ottiene o imposta il componente rosso. |
+| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | Ottiene o imposta il componente giallo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor)() | Restituisce il colore specificato dall'operatore. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Restituisce il testo dell'operatore e i suoi parametri. |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | Restituisce il colore specificato dall'operatore. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* spazio dei nomi [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [BasicSetColorOperator](../basicsetcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)

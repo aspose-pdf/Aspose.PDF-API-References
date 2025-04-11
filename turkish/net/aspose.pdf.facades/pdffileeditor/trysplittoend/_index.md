@@ -1,71 +1,71 @@
 ---
-title: TrySplitToEnd
-second_title: Aspose.PDF for .NET API Referansı
-description: Konumdan ayrılır ve arka kısmı yeni bir dosya olarak kaydeder.
+title: PdfFileEditor.TrySplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Belirtilen yerden ayırır ve arka kısmı yeni bir dosya olarak kaydeder
 type: docs
-weight: 500
+weight: 470
 url: /tr/net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_2}
+## TrySplitToEnd(string, int, string) {#trysplittoend_1}
 
-Konumdan ayrılır ve arka kısmı yeni bir dosya olarak kaydeder.
+Belirtilen yerden ayırır ve arka kısmı yeni bir dosya olarak kaydeder.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak Pdf dosyası. |
-| location | Int32 | Bölme pozisyonu. |
-| outputFile | String | Çıktı Pdf dosya yolu. |
+| location | Int32 | Ayırma pozisyonu. |
+| outputFile | String | Çıktı Pdf dosyası yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitToEnd yöntemi, SplitToEnd yöntemine benzer, ancak TrySplitToEnd yöntemi, işlem başarısız olursa bir istisna atmaz.
+TrySplitToEnd metodu, SplitToEnd metoduna benzer, ancak TrySplitToEnd metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-Belirtilen konumdan ayrılır ve arka kısmı yeni bir dosya olarak kaydeder Stream.
+Belirtilen yerden ayırır ve arka kısmı yeni bir dosya akışı olarak kaydeder.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Kaynak Pdf dosyası Akışı. |
-| location | Int32 | Bölme pozisyonu. |
-| outputStream | Stream | Çıktı Pdf dosyası Akışı. |
+| inputStream | Stream | Kaynak Pdf dosyası akışı. |
+| location | Int32 | Ayırma pozisyonu. |
+| outputStream | Stream | Çıktı Pdf dosyası akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-CloseConcatedStreams belirtilmediği sürece bu işlemden sonra akışlar KAPALI DEĞİLDİR. TrySplitToEnd yöntemi, SplitToEnd yöntemine benzer, ancak TrySplitToEnd yöntemi, işlem başarısız olursa bir istisna atmaz.
+Akışlar bu işlemden sonra KAPANMAZ, CloseConcatedStreams belirtilmedikçe. TrySplitToEnd metodu, SplitToEnd metoduna benzer, ancak TrySplitToEnd metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,70 +74,67 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
----
 
 ## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
 
-Belirtilen konumdan ayrılır ve arka kısmı HttpResponse nesnesine kaydeder.
+Belirtilen yerden ayırır ve arka kısmı HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Kaynak belge akışı. |
-| location | Int32 | Bölünme noktası. |
+| location | Int32 | Ayırma noktası. |
 | response | HttpResponse | HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitToEnd yöntemi, SplitToEnd yöntemine benzer, ancak TrySplitToEnd yöntemi, işlem başarısız olursa bir istisna atmaz.
+TrySplitToEnd metodu, SplitToEnd metoduna benzer, ancak TrySplitToEnd metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(string, int, HttpResponse) {#trysplittoend_3}
 
-Belirtilen konumdan ayrılır ve arka kısmı HttpResponse nesnesine kaydeder.
+Belirtilen yerden ayırır ve arka kısmı HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | kaynak dosya adı. |
-| location | Int32 | Bölünme noktası. |
+| location | Int32 | Ayırma noktası. |
 | response | HttpResponse | HttpResponse nesneleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TrySplitToEnd yöntemi, SplitToEnd yöntemine benzer, ancak TrySplitToEnd yöntemi, işlem başarısız olursa bir istisna atmaz.
+TrySplitToEnd metodu, SplitToEnd metoduna benzer, ancak TrySplitToEnd metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt die Sammlung von Anmerkungsaktionen dar.
+title: Class AnnotationActionCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.AnnotationActionCollection-Klasse. Stellt die Sammlung von Annotationsaktionen dar
 type: docs
-weight: 90
+weight: 1420
 url: /de/net/aspose.pdf.annotations/annotationactioncollection/
 ---
-## AnnotationActionCollection class
+## AnnotationActionCollection-Klasse
 
-Stellt die Sammlung von Anmerkungsaktionen dar.
+Stellt die Sammlung von Annotationsaktionen dar.
 
 ```csharp
 public sealed class AnnotationActionCollection : BaseActionCollection
@@ -18,31 +18,29 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 
 | Name | Beschreibung |
 | --- | --- |
-| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate) { get; set; } | Ruft eine Aktion zum Berechnen des Feldwerts ab oder legt sie fest. |
-| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Seite mit der Anmerkung geschlossen wird. |
-| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | Ruft eine Aktion ab oder legt sie fest, die ausgeführt werden soll, wenn der Cursor in den aktiven Bereich der Anmerkung eintritt. |
-| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | Ruft eine Aktion ab oder legt sie fest, die ausgeführt werden soll, wenn der Cursor den aktiven Bereich der Anmerkung verlässt. |
-| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die zum Formatieren des Feldwerts ausgeführt werden soll. |
-| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Seite mit der Anmerkung nicht mehr in der Benutzeroberfläche der Viewer-Anwendung sichtbar ist. |
-| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Anmerkung den Eingabefokus verliert. |
-| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter) { get; set; } | Ruft eine Aktion ab oder legt sie fest, die ausgeführt werden soll, wenn der Benutzer das Zeichen des Felds ändert. |
-| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Seite mit der Anmerkung geöffnet wird. |
-| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn) { get; set; } | Ruft eine Aktion ab oder legt sie fest, die ausgeführt werden soll, wenn die Maustaste innerhalb des aktiven Bereichs der Anmerkung gedrückt wird. |
-| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Anmerkung den Eingabefokus erhält. |
-| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | Ruft eine Aktion ab oder legt sie fest, die ausgeführt werden soll, wenn die Maustaste innerhalb des aktiven Bereichs der Anmerkung losgelassen wird. |
-| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn die Seite mit der Anmerkung in der Benutzeroberfläche der Viewer-Anwendung sichtbar wird. |
-| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate) { get; set; } | Ruft eine Aktion ab oder legt diese fest, die ausgeführt werden soll, wenn der Benutzer den Inhalt des Felds ändert. |
+| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, um den Feldwert zu berechnen. |
+| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Seite, die die Annotation enthält, geschlossen wird. |
+| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn der Cursor in den aktiven Bereich der Annotation eintritt. |
+| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn der Cursor den aktiven Bereich der Annotation verlässt. |
+| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, um den Feldwert zu formatieren. |
+| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Seite, die die Annotation enthält, im Benutzerinterface der Viewer-Anwendung nicht mehr sichtbar ist. |
+| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Annotation den Eingabefokus verliert. |
+| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn der Benutzer ein Zeichen des Feldes ändert. |
+| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Seite, die die Annotation enthält, geöffnet wird. |
+| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Maustaste im aktiven Bereich der Annotation gedrückt wird. |
+| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Annotation den Eingabefokus erhält. |
+| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Maustaste im aktiven Bereich der Annotation losgelassen wird. |
+| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn die Seite, die die Annotation enthält, im Benutzerinterface der Viewer-Anwendung sichtbar wird. |
+| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate/) { get; set; } | Ruft eine Aktion ab oder legt eine Aktion fest, die ausgeführt wird, wenn der Benutzer den Inhalt des Feldes ändert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() | Entfernt alle Aktionen der Anmerkung. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Entfernt alle Aktionen der Annotation. |
 
 ### Siehe auch
 
-* class [BaseActionCollection](../../aspose.pdf/baseactioncollection)
-* namensraum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [BaseActionCollection](../../aspose.pdf/baseactioncollection/)
+* Namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* Assembly [Aspose.PDF](../../)

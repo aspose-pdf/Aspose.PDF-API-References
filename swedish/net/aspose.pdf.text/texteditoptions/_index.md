@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions
-second_title: Aspose.PDF för .NET API Referens
-description: Deskuberar alternativen för textredigeringsoperationer.
+title: Class TextEditOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextEditOptions klass. Beskriver alternativ för textredigeringsoperationer
 type: docs
-weight: 6980
+weight: 10820
 url: /sv/net/aspose.pdf.text/texteditoptions/
 ---
-## TextEditOptions class
+## TextEditOptions klass
 
-Deskuberar alternativen för textredigeringsoperationer.
+Beskriver alternativ för textredigeringsoperationer.
 
 ```csharp
 public sealed class TextEditOptions : TextOptions
@@ -16,29 +16,27 @@ public sealed class TextEditOptions : TextOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TextEditOptions](texteditoptions#constructor)(bool) | Initierar ny instans av[`TextEditOptions`](../texteditoptions) objekt för den angivna språkomvandlingsbehörigheten. |
-| [TextEditOptions](texteditoptions#constructor_1)(FontReplace) | Initierar ny instans av[`TextEditOptions`](../texteditoptions) objekt för det angivna beteendeläget för teckensnittsersättning. |
-| [TextEditOptions](texteditoptions#constructor_2)(LanguageTransformation) | Initierar ny instans av[`TextEditOptions`](../texteditoptions) objekt för det angivna beteendeläget för språktransformation. |
-| [TextEditOptions](texteditoptions#constructor_3)(NoCharacterAction) | Initierar ny instans av[`TextEditOptions`](../texteditoptions) objekt för det angivna beteendeläget utan tecken. |
+| [TextEditOptions](texteditoptions/#constructor)(bool) | Initierar en ny instans av `TextEditOptions`-objektet för den angivna språktransformationstillståndet. |
+| [TextEditOptions](texteditoptions/#constructor_1)(FontReplace) | Initierar en ny instans av `TextEditOptions`-objektet för den angivna teckensnittsersättningsbeteendemodellen. |
+| [TextEditOptions](texteditoptions/#constructor_2)(LanguageTransformation) | Initierar en ny instans av `TextEditOptions`-objektet för den angivna språktransformationbeteendemodellen. |
+| [TextEditOptions](texteditoptions/#constructor_3)(NoCharacterAction) | Initierar en ny instans av `TextEditOptions`-objektet för den angivna ingen-teckenbeteendemodellen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation) { get; set; } | Hämtar eller ställer in värde som tillåter användning av språktransformation under tillägg eller redigering av text. true - språktransformation kommer att tillämpas vid behov (standardvärde). false - språktransformation kommer INTE att tillämpas. |
-| [ClippingPathsProcessing](../../aspose.pdf.text/texteditoptions/clippingpathsprocessing) { get; set; } | Hämtar läge för bearbetning av urklippsbanan för den redigerade texten. |
-| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior) { get; set; } | Hämtar läge som definierar beteende för scenarier för teckensnittsersättning. |
-| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior) { get; set; } | Hämtar läge som definierar beteende för språktransformationsscenarier. |
-| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior) { get; set; } | Hämtar eller ställer in läge som definierar beteende om teckensnitt inte innehåller begärda tecken. |
-| [ReplacementFont](../../aspose.pdf.text/texteditoptions/replacementfont) { get; set; } | Hämtar eller ställer in teckensnitt som används för att ersätta om användarteckensnittet inte innehåller obligatoriskt tecken |
-| [ToAttemptGetUnderlineFromSource](../../aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource) { get; set; } | Hämtar eller ställer in värde som tillåter sökning efter textunderstrykningar på sidan i källdokumentet. (Föråldrad) Använd TextSearchOptions.SearchForTextRelatedGraphics istället this. |
+| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation/) { get; set; } | Hämtar eller ställer in värde som tillåter användning av språktransformation vid tillägg eller redigering av text. true - språktransformation kommer att tillämpas om det behövs (standardvärde). false - språktransformation kommer INTE att tillämpas. |
+| [ClippingPathsProcessing](../../aspose.pdf.text/texteditoptions/clippingpathsprocessing/) { get; set; } | Hämtar läget för bearbetning av klippväg för den redigerade texten. |
+| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior/) { get; set; } | Hämtar läget som definierar beteende för teckensnittsersättningsscenarier. |
+| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior/) { get; set; } | Hämtar läget som definierar beteende för språktransformation scenarier. |
+| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior/) { get; set; } | Hämtar eller ställer in läget som definierar beteende om teckensnitt inte innehåller begärda tecken. |
+| [ReplacementFont](../../aspose.pdf.text/texteditoptions/replacementfont/) { get; set; } | Hämtar eller ställer in teckensnitt som används för att ersätta om användarteckensnittet inte innehåller nödvändigt tecken |
+| [ToAttemptGetUnderlineFromSource](../../aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/) { get; set; } | Hämtar eller ställer in värde som tillåter sökning efter textunderstrykning på sidan av källdokumentet. (Föråldrad) Vänligen använd TextSearchOptions.SearchForTextRelatedGraphics istället för detta. |
 
-### Se även
+### Se Även
 
-* class [TextOptions](../textoptions)
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextOptions](../textoptions/)
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* sammansättning [Aspose.PDF](../../)

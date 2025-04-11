@@ -1,7 +1,7 @@
 ---
-title: AddImage
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Ajoute une image à la page spécifiée du document PDF aux coordonnées spécifiées.
+title: PdfFileMend.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode PdfFileMend. Ajoute une image à la page spécifiée du document PDF aux coordonnées spécifiées
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/pdffilemend/addimage/
@@ -15,20 +15,20 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
     float upperRightX, float upperRightY)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| imageStream | Stream | Flux d'images d'entrée. |
-| pageNum | Int32 | Le nombre de page qui recevra l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
+| imageStream | Stream | Flux d'image d'entrée. |
+| pageNum | Int32 | Le numéro de la page qui recevra l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -39,11 +39,11 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,21 +56,21 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| imageStream | Stream | Flux d'images d'entrée. |
-| pageNum | Int32 | Le nombre de page qui recevra l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
+| imageStream | Stream | Flux d'image d'entrée. |
+| pageNum | Int32 | Le numéro de la page qui recevra l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
 | compositingParameters | CompositingParameters | Les paramètres de composition graphique pour l'image. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -81,12 +81,12 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -99,20 +99,20 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
     float upperRightX, float upperRightY)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| imageStream | Stream | Flux d'images d'entrée. |
-| pageNums | Int32[] | Le nombre de pages qui recevront l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
+| imageStream | Stream | Flux d'image d'entrée. |
+| pageNums | Int32[] | Les numéros des pages qui recevront l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -123,11 +123,11 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,21 +140,21 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| imageStream | Stream | Flux d'images d'entrée. |
-| pageNums | Int32[] | Le nombre de pages qui recevront l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
-| compositingParameters | CompositingParameters | Les paramètres de composition graphique des images. |
+| imageStream | Stream | Flux d'image d'entrée. |
+| pageNums | Int32[] | Les numéros des pages qui recevront l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
+| compositingParameters | CompositingParameters | Les paramètres de composition graphique pour les images. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -165,12 +165,12 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -183,20 +183,20 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
     float upperRightX, float upperRightY)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | imageName | String | Le chemin du fichier image d'entrée. |
-| pageNum | Int32 | Le nombre de page qui recevra l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
+| pageNum | Int32 | Le numéro de la page qui recevra l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -204,11 +204,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -221,21 +221,21 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | imageName | String | Le chemin du fichier image d'entrée. |
-| pageNum | Int32 | Le nombre de page qui recevra l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
-| compositingParameters | CompositingParameters | Les paramètres de composition graphique des images. |
+| pageNum | Int32 | Le numéro de la page qui recevra l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
+| compositingParameters | CompositingParameters | Les paramètres de composition graphique pour les images. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -243,12 +243,12 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -261,20 +261,20 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
     float upperRightX, float upperRightY)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | imageName | String | Le chemin du fichier image d'entrée. |
-| pageNums | Int32[] | Le nombre de pages qui recevront l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
+| pageNums | Int32[] | Les numéros des pages qui recevront l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -282,11 +282,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -299,21 +299,21 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
     float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | imageName | String | Le chemin du fichier image d'entrée. |
-| pageNums | Int32[] | Le nombre de pages qui recevront l'image. |
-| lowerLeftX | Single | Le x inférieur gauche du rectangle de l'image. |
-| lowerLeftY | Single | Le y inférieur gauche du rectangle de l'image. |
-| upperRightX | Single | Le x supérieur droit du rectangle de l'image. |
-| upperRightY | Single | Le coin supérieur droit du rectangle de l'image. |
-| compositingParameters | CompositingParameters | Les paramètres de composition graphique des images. |
+| pageNums | Int32[] | Les numéros des pages qui recevront l'image. |
+| lowerLeftX | Single | Le coin inférieur gauche x du rectangle de l'image. |
+| lowerLeftY | Single | Le coin inférieur gauche y du rectangle de l'image. |
+| upperRightX | Single | Le coin supérieur droit x du rectangle de l'image. |
+| upperRightY | Single | Le coin supérieur droit y du rectangle de l'image. |
+| compositingParameters | CompositingParameters | Les paramètres de composition graphique pour les images. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si succès faux sinon.
+Vrai si succès, faux sinon.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -321,11 +321,9 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* espace de noms [Aspose.Pdf.Facades](../../pdffilemend)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

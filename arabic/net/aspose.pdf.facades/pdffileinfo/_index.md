@@ -1,81 +1,79 @@
 ---
-title: PdfFileInfo
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة للوصول إلى المعلومات الوصفية لمستند PDF.
+title: Class PdfFileInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileInfo class. يمثل فئة للوصول إلى المعلومات الوصفية لوثيقة PDF
 type: docs
-weight: 2530
+weight: 4520
 url: /ar/net/aspose.pdf.facades/pdffileinfo/
 ---
 ## PdfFileInfo class
 
-يمثل فئة للوصول إلى المعلومات الوصفية لمستند PDF.
+يمثل فئة للوصول إلى المعلومات الوصفية لوثيقة PDF.
 
 ```csharp
 public sealed class PdfFileInfo : SaveableFacade
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [PdfFileInfo](pdffileinfo#constructor)() | يقوم بتهيئة مثيل جديد لفئة Aspose.Pdf.Facades.PdfFileInfo بالقيم الافتراضية. |
-| [PdfFileInfo](pdffileinfo#constructor_1)(Document) | تهيئة جديد[`PdfFileInfo`](../pdffileinfo) كائن على قاعدة*document* . |
-| [PdfFileInfo](pdffileinfo#constructor_2)(Stream) | تهيئة نسخة جديدة من فئة Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_4)(string) | تهيئة نسخة جديدة من فئة Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_3)(Stream, string) | تهيئة نسخة جديدة من فئة Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_5)(string, string) | تهيئة نسخة جديدة من فئة Aspose.Pdf.Facades.PdfFileInfo. |
+| [PdfFileInfo](pdffileinfo/#constructor)() | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values. |
+| [PdfFileInfo](pdffileinfo/#constructor_1)(Document) | Initializes new `PdfFileInfo` object on base of the *document*. |
+| [PdfFileInfo](pdffileinfo/#constructor_2)(Stream) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_4)(string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_3)(Stream, string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_5)(string, string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Author](../../aspose.pdf.facades/pdffileinfo/author) { get; set; } | الحصول على أو تعيين معلومات المؤلف لمستند PDF . |
-| [CreationDate](../../aspose.pdf.facades/pdffileinfo/creationdate) { get; set; } | الحصول على أو تعيين معلومات تاريخ الإنشاء لمستند PDF. |
-| [Creator](../../aspose.pdf.facades/pdffileinfo/creator) { get; set; } | الحصول على أو تعيين معلومات المنشئ لمستند PDF . |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | الحصول على واجهة المستند التي تعمل عليها. |
-| [HasCollection](../../aspose.pdf.facades/pdffileinfo/hascollection) { get; } | يعود صحيحًا إذا كان ملف الإدخال الحالي عبارة عن ملف "Portfolio" يحتوي على مجموعة من ملفات PDF فيه. |
-| [HasEditPassword](../../aspose.pdf.facades/pdffileinfo/haseditpassword) { get; } | إرجاع صحيح إذا كانت هناك حاجة إلى كلمة مرور لتعديل الأذونات أو خاصية أمان المستند. انتبه إلى أنه لا يمكن قراءة هذه الخاصية إلا إذا تم توفير كلمة مرور صالحة في[`PdfFileInfo`](../pdffileinfo) منشئ . في حالة تعذر الوصول إلى PasswordType (يعني أنه تم توفير كلمة مرور غير صالحة) ستفشل قراءة هذه الخاصية مع[`InvalidPasswordException`](../../aspose.pdf/invalidpasswordexception) . |
-| [HasOpenPassword](../../aspose.pdf.facades/pdffileinfo/hasopenpassword) { get; } | يتم إرجاع صحيح إذا كانت كلمة المرور مطلوبة لفتح مستند pdf محمي بكلمة مرور. |
-| [Header](../../aspose.pdf.facades/pdffileinfo/header) { get; set; } | الحصول على المعلومات المخصصة لمستند PDF أو تعيينها. |
-| [IsEncrypted](../../aspose.pdf.facades/pdffileinfo/isencrypted) { get; } | للتحقق مما إذا كان مستند PDF مشفرًا. |
-| [IsPdfFile](../../aspose.pdf.facades/pdffileinfo/ispdffile) { get; } | للتحقق مما إذا كان إدخال المصدر هو ملف PDF صالح. |
-| [Keywords](../../aspose.pdf.facades/pdffileinfo/keywords) { get; set; } | الحصول على أو تعيين معلومات الكلمات الرئيسية لوثيقة PDF. |
-| [ModDate](../../aspose.pdf.facades/pdffileinfo/moddate) { get; set; } | الحصول على أو تعيين معلومات تاريخ التعديل لمستند PDF. |
-| [NumberOfPages](../../aspose.pdf.facades/pdffileinfo/numberofpages) { get; } | الحصول على عدد صفحات المستند. |
-| [PasswordType](../../aspose.pdf.facades/pdffileinfo/passwordtype) { get; } | إرجاع نوع كلمة المرور التي تم تمريرها لإنشاء مثيل PdfFileInfo. انظر القيم الممكنة في[`PasswordType`](./passwordtype) . انتبه إلى أنه يمكن فتح مستند pdf باستخدام كلمة مرور المستخدم (أو فتح) والمالك (أو أذونات التحرير). |
-| [Producer](../../aspose.pdf.facades/pdffileinfo/producer) { get; } | الحصول على معلومات المُنتِج لمستند PDF . |
-| [Subject](../../aspose.pdf.facades/pdffileinfo/subject) { get; set; } | الحصول على أو تعيين معلومات الموضوع لمستند PDF . |
-| [Title](../../aspose.pdf.facades/pdffileinfo/title) { get; set; } | الحصول على أو تعيين معلومات العنوان لمستند PDF . |
-| [UseStrictValidation](../../aspose.pdf.facades/pdffileinfo/usestrictvalidation) { get; set; } | تستخدم قواعد تحقق صارمة من خلال استخدام[`IsPdfFile`](./ispdffile) الملكية . |
+| [Author](../../aspose.pdf.facades/pdffileinfo/author/) { get; set; } | يحصل على أو يحدد معلومات المؤلف لوثيقة PDF. |
+| [CreationDate](../../aspose.pdf.facades/pdffileinfo/creationdate/) { get; set; } | يحصل على أو يحدد معلومات تاريخ الإنشاء لوثيقة PDF. |
+| [Creator](../../aspose.pdf.facades/pdffileinfo/creator/) { get; set; } | يحصل على أو يحدد معلومات المنشئ لوثيقة PDF. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة الوثيقة التي يعمل عليها. |
+| [HasCollection](../../aspose.pdf.facades/pdffileinfo/hascollection/) { get; } | يرجع true إذا كانت ملف الإدخال الحالي هو ملف 'محفظة' يحتوي على مجموعة من ملفات PDF. |
+| [HasEditPassword](../../aspose.pdf.facades/pdffileinfo/haseditpassword/) { get; } | يرجع true إذا كانت كلمة المرور مطلوبة لتعديل الأذونات أو خاصية أمان الوثيقة. انتبه إلى أن هذه الخاصية يمكن قراءتها فقط إذا تم توفير كلمة مرور صالحة في مُنشئ `PdfFileInfo`. في حالة أن نوع كلمة المرور هو غير قابل للوصول (يعني أنه تم توفير كلمة مرور غير صالحة) ستفشل قراءة هذه الخاصية مع [`InvalidPasswordException`](../../aspose.pdf/invalidpasswordexception/). |
+| [HasOpenPassword](../../aspose.pdf.facades/pdffileinfo/hasopenpassword/) { get; } | يرجع true إذا كانت كلمة المرور مطلوبة لفتح وثيقة PDF محمية بكلمة مرور. |
+| [Header](../../aspose.pdf.facades/pdffileinfo/header/) { get; set; } | يحصل على أو يحدد المعلومات المخصصة لوثيقة PDF. |
+| [IsEncrypted](../../aspose.pdf.facades/pdffileinfo/isencrypted/) { get; } | يتحقق مما إذا كانت وثيقة PDF مشفرة. |
+| [IsPdfFile](../../aspose.pdf.facades/pdffileinfo/ispdffile/) { get; } | يتحقق مما إذا كانت المدخلات المصدر هي ملف PDF صالح. |
+| [Keywords](../../aspose.pdf.facades/pdffileinfo/keywords/) { get; set; } | يحصل على أو يحدد معلومات الكلمات الرئيسية لوثيقة PDF. |
+| [ModDate](../../aspose.pdf.facades/pdffileinfo/moddate/) { get; set; } | يحصل على أو يحدد معلومات تاريخ التعديل لوثيقة PDF. |
+| [NumberOfPages](../../aspose.pdf.facades/pdffileinfo/numberofpages/) { get; } | يحصل على عدد صفحات الوثيقة. |
+| [PasswordType](../../aspose.pdf.facades/pdffileinfo/passwordtype/) { get; } | يرجع نوع كلمة المرور التي تم تمريرها لإنشاء مثيل PdfFileInfo. انظر القيم الممكنة في [`PasswordType`](./passwordtype/). انتبه إلى أن وثيقة PDF يمكن فتحها باستخدام كل من كلمة مرور المستخدم (أو كلمة المرور المفتوحة) وكلمة مرور المالك (أو الأذونات، التعديل). |
+| [Producer](../../aspose.pdf.facades/pdffileinfo/producer/) { get; } | يحصل على معلومات المنتج لوثيقة PDF. |
+| [Subject](../../aspose.pdf.facades/pdffileinfo/subject/) { get; set; } | يحصل على أو يحدد معلومات الموضوع لوثيقة PDF. |
+| [Title](../../aspose.pdf.facades/pdffileinfo/title/) { get; set; } | يحصل على أو يحدد معلومات العنوان لوثيقة PDF. |
+| [UseStrictValidation](../../aspose.pdf.facades/pdffileinfo/usestrictvalidation/) { get; set; } | يستخدم قواعد التحقق الصارمة عبر استخدام خاصية [`IsPdfFile`](./ispdffile/). |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| override [BindPdf](../../aspose.pdf.facades/pdffileinfo/bindpdf#bindpdf)(Document) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | تهيئة الواجهة . |
-| [ClearInfo](../../aspose.pdf.facades/pdffileinfo/clearinfo)() | مسح كافة المعلومات الوصفية لمستند PDF . |
-| override [Close](../../aspose.pdf.facades/pdffileinfo/close)() | إلغاء تهيئة المثيل. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | التخلص من الواجهة . |
-| [GetDocumentPrivilege](../../aspose.pdf.facades/pdffileinfo/getdocumentprivilege)() | الحصول على إعدادات امتياز مستند PDF . |
-| [GetMetaInfo](../../aspose.pdf.facades/pdffileinfo/getmetainfo)(string) | الحصول على معلومات مخصصة لمستند PDF باسم الخاصية. إذا لم تكن هناك خاصية تطابق الاسم ، فستُرجع سلسلة فارغة. |
-| [GetPageHeight](../../aspose.pdf.facades/pdffileinfo/getpageheight)(int) | الحصول على ارتفاع الصفحة المحددة. |
-| [GetPageRotation](../../aspose.pdf.facades/pdffileinfo/getpagerotation)(int) | الحصول على تدوير للصفحة المحددة. |
-| [GetPageWidth](../../aspose.pdf.facades/pdffileinfo/getpagewidth)(int) | الحصول على عرض الصفحة المحددة. |
-| [GetPageXOffset](../../aspose.pdf.facades/pdffileinfo/getpagexoffset)(int) | الحصول على الإزاحة الأفقية لمنطقة عرض الصفحة المحددة. |
-| [GetPageYOffset](../../aspose.pdf.facades/pdffileinfo/getpageyoffset)(int) | الحصول على الإزاحة الرأسية لمنطقة عرض الصفحة المحددة. |
-| [GetPdfVersion](../../aspose.pdf.facades/pdffileinfo/getpdfversion)() | الحصول على معلومات إصدار مستند PDF . |
-| override [Save](../../aspose.pdf.facades/pdffileinfo/save#save)(Stream) | يحفظ مستند PDF في الملف المحدد. |
-| override [Save](../../aspose.pdf.facades/pdffileinfo/save#save_1)(string) | يحفظ مستند PDF في الملف المحدد. |
-| [SaveNewInfo](../../aspose.pdf.facades/pdffileinfo/savenewinfo#savenewinfo_1)(string) | احفظ مستند PDF المحدث في الملف المحدد. |
-| [SaveNewInfoWithXmp](../../aspose.pdf.facades/pdffileinfo/savenewinfowithxmp)(string) | يغير الخصائص المحددة صراحة عن طريق تعيين معلومات الملف ، وتبقى الخصائص الأخرى. |
-| [SetMetaInfo](../../aspose.pdf.facades/pdffileinfo/setmetainfo)(string, string) | لتعيين المعلومات المخصصة لمستند PDF . |
+| override [BindPdf](../../aspose.pdf.facades/pdffileinfo/bindpdf/#bindpdf)(Document) | Initializes the facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Initializes the facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Initializes the facade. |
+| [ClearInfo](../../aspose.pdf.facades/pdffileinfo/clearinfo/)() | Clears all meta information of PDF document. |
+| override [Close](../../aspose.pdf.facades/pdffileinfo/close/)() | Deinitializes the instance. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
+| [GetDocumentPrivilege](../../aspose.pdf.facades/pdffileinfo/getdocumentprivilege/)() | يحصل على إعدادات أذونات وثيقة PDF. |
+| [GetMetaInfo](../../aspose.pdf.facades/pdffileinfo/getmetainfo/)(string) | يحصل على المعلومات المخصصة لوثيقة PDF مع اسم الخاصية. إذا لم يكن هناك تطابق مع الاسم، فسيتم إرجاع سلسلة فارغة. |
+| [GetPageHeight](../../aspose.pdf.facades/pdffileinfo/getpageheight/)(int) | يحصل على ارتفاع الصفحة المحددة. |
+| [GetPageRotation](../../aspose.pdf.facades/pdffileinfo/getpagerotation/)(int) | يحصل على دوران الصفحة المحددة. |
+| [GetPageWidth](../../aspose.pdf.facades/pdffileinfo/getpagewidth/)(int) | يحصل على عرض الصفحة المحددة. |
+| [GetPageXOffset](../../aspose.pdf.facades/pdffileinfo/getpagexoffset/)(int) | يحصل على الإزاحة الأفقية لمنطقة عرض الصفحة المحددة. |
+| [GetPageYOffset](../../aspose.pdf.facades/pdffileinfo/getpageyoffset/)(int) | يحصل على الإزاحة الرأسية لمنطقة عرض الصفحة المحددة. |
+| [GetPdfVersion](../../aspose.pdf.facades/pdffileinfo/getpdfversion/)() | يحصل على معلومات إصدار وثيقة PDF. |
+| override [Save](../../aspose.pdf.facades/pdffileinfo/save/#save)(Stream) | Saves the PDF document to the specified file. |
+| override [Save](../../aspose.pdf.facades/pdffileinfo/save/#save_1)(string) | Saves the PDF document to the specified file. |
+| [SaveNewInfo](../../aspose.pdf.facades/pdffileinfo/savenewinfo/#savenewinfo_1)(string) | Save updated PDF document into specified file. |
+| [SaveNewInfoWithXmp](../../aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/)(string) | Changes the properties specified explicitly by setting file information, other properties remain. |
+| [SetMetaInfo](../../aspose.pdf.facades/pdffileinfo/setmetainfo/)(string, string) | Sets customized information of PDF document. |
 
-### أنظر أيضا
+### See Also
 
-* class [SaveableFacade](../saveablefacade)
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

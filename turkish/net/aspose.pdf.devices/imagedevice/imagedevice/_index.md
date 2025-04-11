@@ -1,128 +1,126 @@
 ---
-title: ImageDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: için soyut başlatıcıImageDeviceaspose.pdf.devices/imagedevice torunları çözünürlüğü 150x150. olarak ayarlayın
+title: ImageDevice.ImageDevice
+second_title: Aspose.PDF for .NET API Reference
+description: ImageDevice yapıcı. ImageDevice alt sınıfları için soyut başlatıcı, çözünürlüğü 150x150 olarak ayarlar
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-için soyut başlatıcı[`ImageDevice`](../../imagedevice) torunları, çözünürlüğü 150x150. olarak ayarlayın
+[`ImageDevice`](../) alt sınıfları için soyut başlatıcı, çözünürlüğü 150x150 olarak ayarlar.
 
 ```csharp
 public ImageDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-için soyut başlatıcı[`ImageDevice`](../../imagedevice) torunları.  Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../resolution) sınıf.
+[`ImageDevice`](../) alt sınıfları için soyut başlatıcı. Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../resolution/) sınıfına bakın.
 
 ```csharp
 public ImageDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(int, int) {#constructor_4}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları ve varsayılan çözünürlük (=150) ile sınıf.
+Verilen görüntü boyutları ve varsayılan çözünürlük (=150) ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ImageDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları ve varsayılan çözünürlük (=150) ile sınıf.
+Verilen görüntü boyutları ve varsayılan çözünürlük (=150) ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ImageDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları ve çözünürlüğü ile sınıf.
+Verilen görüntü boyutları ve çözünürlük ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../resolution) sınıf. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları ve çözünürlüğü ile sınıf.
+Verilen görüntü boyutları ve çözünürlük ile [`JpegDevice`](../../jpegdevice/) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* ad alanı [Aspose.Pdf.Devices](../../imagedevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [ImageDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

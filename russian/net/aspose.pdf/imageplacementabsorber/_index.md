@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель объектов размещения изображений. Выполняет поиск использований изображений и предоставляет доступ к результатам поиска черезImagePlacements./imageplacementabsorber/imageplacements коллекция.
+title: Class ImagePlacementAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.ImagePlacementAbsorber. Представляет объект-абсорбер объектов размещения изображений. Выполняет поиск использования изображений и предоставляет доступ к результатам поиска через коллекцию ImagePlacements
 type: docs
-weight: 3770
+weight: 5910
 url: /ru/net/aspose.pdf/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber class
+## Класс ImagePlacementAbsorber
 
-Представляет объект-поглотитель объектов размещения изображений. Выполняет поиск использований изображений и предоставляет доступ к результатам поиска через[`ImagePlacements`](./imageplacements) коллекция.
+Представляет объект-абсорбер объектов размещения изображений. Выполняет поиск использования изображений и предоставляет доступ к результатам поиска через коллекцию [`ImagePlacements`](./imageplacements/).
 
 ```csharp
 public sealed class ImagePlacementAbsorber
@@ -18,41 +18,41 @@ public sealed class ImagePlacementAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [ImagePlacementAbsorber](imageplacementabsorber)() | Конструктор по умолчанию. |
+| [ImagePlacementAbsorber](imageplacementabsorber/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | Получает коллекцию вхождений размещения изображений, представленных[`ImagePlacement`](../imageplacement) объекты. |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode) { get; set; } | Получает/устанавливает режим только для чтения для коллекции операций синтаксического анализа. Это может помочь против нехватки памяти исключений. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | Получает коллекцию случаев размещения изображений, которые представлены объектами [`ImagePlacement`](../imageplacement/). |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Получает/устанавливает режим только для чтения для коллекции операций парсинга. Это может помочь избежать исключений недостатка памяти. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit)(Document) | Выполняет поиск в указанном документе. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit_1)(Page) | Выполняет поиск на указанной странице. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Выполняет поиск в указанном документе. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Выполняет поиск на указанной странице. |
 
-### Примечания
+## Замечания
 
-[`ImagePlacementAbsorber`](../imageplacementabsorber) объект в основном используется в сценарии поиска изображений. Когда поиск завершен, вхождения представлены с[`ImagePlacement`](../imageplacement) объекты, которые[`ImagePlacements`](./imageplacements) коллекция содержит. [`ImagePlacement`](../imageplacement) объект предоставляет доступ к свойствам размещения изображения: размеру, разрешению и т. д.
+Объект `ImagePlacementAbsorber` в основном используется в сценарии поиска изображений. Когда поиск завершен, случаи представлены объектами [`ImagePlacement`](../imageplacement/), которые содержит коллекция [`ImagePlacements`](./imageplacements/). Объект [`ImagePlacement`](../imageplacement/) предоставляет доступ к свойствам размещения изображения: размеры, разрешение и т.д. Положительное вращение изображения против часовой стрелки, для страницы - по часовой стрелке. Здесь нам нужно представить угол вращения изображения, поэтому мы вычитаем угол страницы из угла изображения.
 
-### Примеры
+## Примеры
 
-В примере показано, как найти изображения на первой странице документа PDF и получить свойства размещения изображения.
+Пример демонстрирует, как найти изображения на первой странице PDF-документа и получить свойства размещения изображения.
 
 ```csharp
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект ImagePlacementAbsorber для выполнения поиска размещения изображения
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Показать свойства размещения изображения для всех мест размещения
+// Display image placement properties for all placements
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -64,9 +64,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

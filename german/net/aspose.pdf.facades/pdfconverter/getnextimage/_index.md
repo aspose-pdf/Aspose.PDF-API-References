@@ -1,14 +1,14 @@
 ---
-title: GetNextImage
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Speichert das Bild in einer Datei mit dem Standardbildformat - jpeg.
+title: PdfConverter.GetNextImage
+second_title: Aspose.PDF for .NET API Reference
+description: PdfConverter-Methode. Speichert das Bild in einer Datei im Standardbildformat jpeg
 type: docs
 weight: 140
 url: /de/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-Speichert das Bild in einer Datei mit dem Standardbildformat - jpeg.
+Speichert das Bild in einer Datei im Standardbildformat - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile)
@@ -16,13 +16,13 @@ public void GetNextImage(string outputFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,21 +36,21 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_13}
 
-Speichert das Bild in einer Datei mit dem angegebenen Bildformat.
+Speichert das Bild in einer Datei im angegebenen Bildformat.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format)
@@ -58,10 +58,10 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -92,15 +92,15 @@ End While
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-Speichert Bild in Datei mit gegebener Seitengröße und Bildformat.
+Speichert das Bild in einer Datei mit der angegebenen Seitengröße und dem Bildformat.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
@@ -108,22 +108,22 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 | format | ImageFormat | Das Format des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Speichert das Bild im Stream mit dem Standardbildformat - jpeg.
+Speichert das Bild im Stream im Standardbildformat - jpeg.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
@@ -131,13 +131,13 @@ public void GetNextImage(Stream outputStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -151,21 +151,21 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
 
-Speichert das Bild im Stream mit dem angegebenen Bildformat.
+Speichert das Bild im Stream im angegebenen Bildformat.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format)
@@ -173,14 +173,14 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -194,22 +194,22 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 | format | ImageFormat | Das Format des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-Speichert das Bild mit dem angegebenen Bildformat, den Abmessungen und der Qualität in einer Datei.
+Speichert das Bild in einer Datei mit dem angegebenen Bildformat, den Abmessungen und der Qualität.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
@@ -218,13 +218,13 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -255,15 +255,15 @@ End While
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-Speichert das Bild im Stream mit dem angegebenen Bildformat, den Abmessungen und der Qualität.
+Speichert das Bild im Stream im angegebenen Bildformat, den Abmessungen und der Qualität.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
@@ -272,23 +272,23 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-Speichert das Bild in einer Datei mit dem angegebenen Bildformat, Bildgröße und Qualität.
+Speichert das Bild in einer Datei mit dem angegebenen Bildformat, der Bildgröße und der Qualität.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
@@ -297,13 +297,13 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Double | Die Bildbreite, die Einheit ist Pixel. |
-| imageHeight | Double | Die Bildhöhe, die Einheit ist Pixel.. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| imageHeight | Double | Die Bildhöhe, die Einheit ist Pixel. |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -338,15 +338,15 @@ End While
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-Speichert das Bild im Stream mit dem angegebenen Bildformat, der angegebenen Größe und Qualität.
+Speichert das Bild im Stream im angegebenen Bildformat, der Größe und der Qualität.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
@@ -355,23 +355,23 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Double | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Double | Die Bildhöhe, die Einheit ist Pixel. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-Speichert das Bild in einer Datei mit dem angegebenen Bildformat und den angegebenen Abmessungen.
+Speichert das Bild in einer Datei mit dem angegebenen Bildformat und den Abmessungen.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
@@ -379,12 +379,12 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -415,15 +415,15 @@ End While
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-Speichert das Bild im Stream mit dem angegebenen Bildformat, der angegebenen Größe und Qualität.
+Speichert das Bild im Stream im angegebenen Bildformat, der Größe und der Qualität.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
@@ -431,22 +431,22 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-Speichert Bild im Stream mit gegebenem Bildformat und Qualität.
+Speichert das Bild im Stream im angegebenen Bildformat und der Qualität.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
@@ -454,21 +454,21 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-Speichert das Bild mit gegebener Seitengröße, Bildformat und Qualität im Stream.
+Speichert das Bild im Stream mit der angegebenen Seitengröße, dem Bildformat und der Qualität.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
@@ -476,23 +476,23 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des Bildes. |
+| outputStream | Stream | Der Stream, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 | format | ImageFormat | Das Format des Bildes. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-Speichert Bild in Datei mit vorgegebenem Bildformat und Qualität.
+Speichert das Bild in einer Datei mit dem angegebenen Bildformat und der Qualität.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
@@ -500,21 +500,21 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | format | ImageFormat | Das Format des Bildes. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-Speichert Bild in Datei mit gegebener Seitengröße, Bildformat und Qualität.
+Speichert das Bild in einer Datei mit der angegebenen Seitengröße, dem Bildformat und der Qualität.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
@@ -522,16 +522,14 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Dateipfad und -name zum Speichern des Bildes. |
+| outputFile | String | Der Dateipfad und Name, um das Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 | format | ImageFormat | Das Format des Bildes. |
-| quality | Int32 | Die Qualität der JPEG-Datei (0~100), 0 ist die niedrigste und 100 die höchste |
+| quality | Int32 | Die Qualität der Jpeg-Datei (0~100), 0 ist am niedrigsten und 100 ist am höchsten |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

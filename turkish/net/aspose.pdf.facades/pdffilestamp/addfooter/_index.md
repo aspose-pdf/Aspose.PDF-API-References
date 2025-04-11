@@ -1,86 +1,86 @@
 ---
-title: AddFooter
-second_title: Aspose.PDF for .NET API Referansı
-description: Belgenin sayfalarına altbilgi ekler.
+title: PdfFileStamp.AddFooter
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileStamp metodu. Belgenin sayfalarına alt bilgi ekler
 type: docs
-weight: 150
+weight: 110
 url: /tr/net/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
 ## AddFooter(FormattedText, float) {#addfooter}
 
-Belgenin sayfalarına altbilgi ekler.
+Belgenin sayfalarına alt bilgi ekler.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| formattedText | FormattedText | Altbilgi metnini ve metin özelliklerini içeren FormattedText nesnesi. |
-| bottomMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
+| formattedText | FormattedText | Alt bilgi metnini ve metin özelliklerini içeren FormattedText nesnesi. |
+| bottomMargin | Single | Sayfanın üstündeki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(FormattedText, float, float, float) {#addfooter_1}
 
-Belgenin sayfalarına altbilgi ekler.
+Belgenin sayfalarına alt bilgi ekler.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin, float leftMargin, 
     float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| formattedText | FormattedText | Altbilgi metni ve metin özelliklerini içeren FormattedText nesnesi. |
-| bottomMargin | Single | Sayfanın alt kısmındaki kenar boşluğu. |
-| leftMargin | Single | Sayfanın sol tarafında kenar boşluğu. |
-| rightMargin | Single | Sayfanın sağ tarafında kenar boşluğu. |
+| formattedText | FormattedText | Alt bilgi metnini ve metin özelliklerini içeren FormattedText nesnesi. |
+| bottomMargin | Single | Sayfanın altındaki kenar boşluğu. |
+| leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
+| rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float) {#addfooter_4}
 
-Belgenin sayfalarına alt bilgi olarak resim ekler.
+Sayfalara alt bilgi olarak resim ekler.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageFile | String | Görüntü dosyası adı ve yolu. |
-| bottomMargin | Single | Sayfanın alt kısmındaki kenar boşluğu. |
+| imageFile | String | Resim dosyası adı ve yolu. |
+| bottomMargin | Single | Sayfanın altındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -89,30 +89,30 @@ fileStamp.AddFooter("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float, float, float) {#addfooter_5}
 
-Sayfaların altbilgisi olarak resim ekler.
+Sayfaların alt bilgisine resim ekler.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageFile | String | Iamge dosya adı ve yolu. |
-| bottomMargin | Single | Sayfanın alt kısmındaki kenar boşluğu. |
-| leftMargin | Single | Sayfanın sol tarafında kenar boşluğu. |
-| rightMargin | Single | Sayfanın sağ tarafında kenar boşluğu. |
+| imageFile | String | Resim dosyası adı ve yolu. |
+| bottomMargin | Single | Sayfanın altındaki kenar boşluğu. |
+| leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
+| rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -121,28 +121,28 @@ fileStamp.AddFooter("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float) {#addfooter_2}
 
-Sayfanın altbilgisi olarak resim ekler.
+Sayfanın alt bilgisine resim ekler.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Akış, görüntü verilerini içerir. |
-| bottomMargin | Single | Sayfanın alt kısmındaki kenar boşluğu. |
+| imageStream | Stream | Resim verilerini içeren akış. |
+| bottomMargin | Single | Sayfanın altındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -151,30 +151,30 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float, float, float) {#addfooter_3}
 
-Sayfanın altbilgisi olarak resim ekler.
+Sayfanın alt bilgisine resim ekler.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Akış, görüntü verilerini içerir. |
-| bottomMargin | Single | Sayfanın alt kısmındaki kenar boşluğu. |
-| leftMargin | Single | Sayfanın sol tarafında kenar boşluğu. |
-| rightMargin | Single | Sayfanın sağ tarafında kenar boşluğu. |
+| imageStream | Stream | Resim verilerini içeren akış. |
+| bottomMargin | Single | Sayfanın altındaki kenar boşluğu. |
+| leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
+| rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -183,10 +183,8 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

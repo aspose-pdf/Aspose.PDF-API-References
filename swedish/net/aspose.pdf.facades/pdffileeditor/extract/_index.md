@@ -1,14 +1,14 @@
 ---
-title: Extract
-second_title: Aspose.PDF för .NET API Referens
-description: Extraherar sidor från indatafilen sparar som en ny pdf-fil.
+title: PdfFileEditor.Extract
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-metod. Extraherar sidor från indatafiler och sparar som en ny Pdf-fil
 type: docs
-weight: 310
+weight: 280
 url: /sv/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_3}
+## Extract(string, int, int, string) {#extract_2}
 
-Extraherar sidor från indatafilen, sparar som en ny pdf-fil.
+Extraherar sidor från indatafil, sparar som en ny Pdf-fil.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,33 +16,33 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatning av pdf-filsökväg. |
-| startPage | Int32 | Startsidans nummer. |
-| endPage | Int32 | Slutsidans nummer. |
-| outputFile | String | Utdata pdf-fil sökväg. |
+| inputFile | Sträng | Sökväg till indata Pdf-fil. |
+| startPage | Int32 | Start sidnummer. |
+| endPage | Int32 | Slut sidnummer. |
+| outputFile | Sträng | Sökväg till utdata Pdf-fil. |
 
-### Returvärde
+### Return Value
 
-Sant för framgång, eller falskt.
+True för framgång, eller false.
 
-### Exempel
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### Se även
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(string, int[], string) {#extract_4}
+## Extract(string, int[], string) {#extract_3}
 
-Extraherar sidor specificerade av nummermatris, sparar som en ny PDF-fil.
+Extraherar sidor specificerade av nummerarray, sparar som en ny PDF-fil.
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
@@ -50,32 +50,32 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Indatafilsökväg. |
+| inputFile | Sträng | Sökväg till indatafil. |
 | pageNumber | Int32[] | Index av sidan från indatafilen. |
-| outputFile | String | Utdatafilens sökväg. |
+| outputFile | Sträng | Sökväg till utdatafil. |
 
-### Returvärde
+### Return Value
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
-### Exempel
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### Se även
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-Extraherar sidor från indatafilen, sparar som en ny pdf-fil.
+Extraherar sidor från indatafil, sparar som en ny Pdf-fil.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -84,15 +84,15 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | inputStream | Stream | Indatafil Stream. |
-| startPage | Int32 | Startsidans nummer. |
-| endPage | Int32 | Slutsidans nummer. |
-| outputStream | Stream | Utdata pdf-fil Stream. |
+| startPage | Int32 | Start sidnummer. |
+| endPage | Int32 | Slut sidnummer. |
+| outputStream | Stream | Utdata Pdf-fil Stream. |
 
-### Returvärde
+### Return Value
 
-Sant för framgång, eller falskt.
+True för framgång, eller false.
 
-### Exempel
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -101,17 +101,17 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### Se även
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-Extraherar sidor specificerade av nummermatris, sparar som en ny pdf-fil.
+Extraherar sidor specificerade av nummerarray, sparar som en ny Pdf-fil.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -121,13 +121,13 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 | --- | --- | --- |
 | inputStream | Stream | Indatafil Stream. |
 | pageNumber | Int32[] | Index av sidan från indatafilen. |
-| outputStream | Stream | Utdatafilström. |
+| outputStream | Stream | Utdatafil stream. |
 
-### Returvärde
+### Return Value
 
-Sant för framgång, eller falskt.
+True för framgång, eller false.
 
-### Exempel
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -136,62 +136,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### Se även
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Extract(Stream, int[], HttpResponse) {#extract_2}
-
-Extraherar specificerade sidor från källfilen och lagrar resultatet i HttpResponse-objekt.
-
-```csharp
-public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| inputStream | Stream | Ström av källdokument. |
-| pageNumber | Int32[] | Array av sidnummer som kommer att extraheras. |
-| response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
-
-### Returvärde
-
-Sant om operationen lyckades.
-
-### Se även
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Extract(string, int[], HttpResponse) {#extract_5}
-
-Extraherar specificerade sidor från källfilen och lagrar resultatet i HttpResponse-objekt.
-
-```csharp
-public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| inputFile | String | Källfilens sökväg. |
-| pageNumber | Int32[] | Array av sidnummer som kommer att extraheras. |
-| response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
-
-### Returvärde
-
-sant om sidor extraherades framgångsrikt.
-
-### Se även
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

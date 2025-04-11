@@ -1,128 +1,126 @@
 ---
-title: GifDevice
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inicializa una nueva instancia delGifDeviceaspose.pdf.devices/gifdevice clase con resolución por defecto.
+title: GifDevice.GifDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Constructor de GifDevice. Inicializa una nueva instancia de la clase GifDevice con resolución predeterminada
 type: docs
 weight: 10
 url: /es/net/aspose.pdf.devices/gifdevice/gifdevice/
 ---
 ## GifDevice() {#constructor}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice) clase con resolución por defecto.
+Inicializa una nueva instancia de la clase [`GifDevice`](../) con resolución predeterminada.
 
 ```csharp
 public GifDevice()
 ```
 
-### Ver también
+### Ver También
 
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(Resolution) {#constructor_1}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice) clase.  Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase.
+Inicializa una nueva instancia de la clase [`GifDevice`](../). Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/).
 
 ```csharp
 public GifDevice(Resolution resolution)
 ```
 
-### Ver también
+### Ver También
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [Resolution](../../resolution/)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int, Resolution) {#constructor_5}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice) clase con dimensiones de imagen proporcionadas y resolución.
+Inicializa una nueva instancia de la clase [`GifDevice`](../) con las dimensiones de imagen y resolución proporcionadas.
 
 ```csharp
 public GifDevice(int width, int height, Resolution resolution)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | width | Int32 | Ancho de salida de la imagen. |
-| height | Int32 | Altura de salida de la imagen. |
-| resolution | Resolution | Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase. |
+| height | Int32 | Alto de salida de la imagen. |
+| resolution | Resolution | Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/). |
 
-### Ver también
+### Ver También
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [Resolution](../../resolution/)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize, Resolution) {#constructor_3}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice)clase con tamaño de página proporcionado y resolución.
+Inicializa una nueva instancia de la clase [`GifDevice`](../) con el tamaño de página y la resolución proporcionados.
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pageSize | PageSize | Tamaño de página de la imagen de salida. |
-| resolution | Resolution | Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase. |
+| resolution | Resolution | Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/). |
 
-### Ver también
+### Ver También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [Resolution](../../resolution/)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int) {#constructor_4}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice) clase con dimensiones de imagen proporcionadas, resolución predeterminada (=150).
+Inicializa una nueva instancia de la clase [`GifDevice`](../) con las dimensiones de imagen proporcionadas, resolución predeterminada (=150).
 
 ```csharp
 public GifDevice(int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | width | Int32 | Ancho de salida de la imagen. |
-| height | Int32 | Altura de salida de la imagen. |
+| height | Int32 | Alto de salida de la imagen. |
 
-### Ver también
+### Ver También
 
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize) {#constructor_2}
 
-Inicializa una nueva instancia del[`GifDevice`](../../gifdevice) clase con tamaño de página proporcionado, resolución predeterminada (=150).
+Inicializa una nueva instancia de la clase [`GifDevice`](../) con el tamaño de página proporcionado, resolución predeterminada (=150).
 
 ```csharp
 public GifDevice(PageSize pageSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pageSize | PageSize | Tamaño de página de la imagen de salida. |
 
-### Ver también
+### Ver También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [GifDevice](../../gifdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../gifdevice)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [GifDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: BorderInfo
-second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярBorderInfoaspose.pdf/borderinfo класс.
+title: BorderInfo.BorderInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Конструктор BorderInfo. Инициализирует новый экземпляр класса BorderInfo
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
@@ -19,35 +19,35 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 | borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | Цвет границы. |
 
-### Смотрите также
+### См. также
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo() {#constructor}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo()
 ```
 
-### Смотрите также
+### См. также
 
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
@@ -55,20 +55,20 @@ public BorderInfo(BorderSide borderSide)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Смотрите также
+### См. также
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
@@ -76,21 +76,21 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | Ширина границы. |
 
-### Смотрите также
+### См. также
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
@@ -98,23 +98,23 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (BorderSide.Left &#x7C; BorderSide.Top). |
 | borderWidth | Single | Ширина границы. |
 | borderColor | Color | Цвет границы. |
 
-### Смотрите также
+### См. также
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
+Инициализирует новый экземпляр класса [`BorderInfo`](../).
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
@@ -122,15 +122,13 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (BorderSide.Left &#x7C; BorderSide.Top). |
 | info | GraphInfo | Информация о границе. |
 
-### Смотрите также
+### См. также
 
-* enum [BorderSide](../../borderside)
-* class [GraphInfo](../../graphinfo)
-* class [BorderInfo](../../borderinfo)
-* пространство имен [Aspose.Pdf](../../borderinfo)
-* сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

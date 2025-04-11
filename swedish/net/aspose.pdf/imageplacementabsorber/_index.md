@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar ett absorberande objekt av bildplaceringsobjekt. Utför sökning av bildanvändningar och ger tillgång till sökresultat viaImagePlacements./imageplacementabsorber/imageplacements samling.
+title: Class ImagePlacementAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImagePlacementAbsorber klass. Representerar ett absorberobjekt av bildplaceringsobjekt. Utför sökning av bildanvändningar och ger åtkomst till sökresultat via ImagePlacements-samlingen
 type: docs
-weight: 3770
+weight: 5910
 url: /sv/net/aspose.pdf/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber class
+## ImagePlacementAbsorber klass
 
-Representerar ett absorberande objekt av bildplaceringsobjekt. Utför sökning av bildanvändningar och ger tillgång till sökresultat via[`ImagePlacements`](./imageplacements) samling.
+Representerar ett absorberobjekt av bildplaceringsobjekt. Utför sökning av bildanvändningar och ger åtkomst till sökresultat via [`ImagePlacements`](./imageplacements/) samlingen.
 
 ```csharp
 public sealed class ImagePlacementAbsorber
@@ -16,43 +16,43 @@ public sealed class ImagePlacementAbsorber
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImagePlacementAbsorber](imageplacementabsorber)() | Default_Constructor |
+| [ImagePlacementAbsorber](imageplacementabsorber/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | Hämtar en samling av bildplaceringsförekomster som presenteras med[`ImagePlacement`](../imageplacement) objekt. |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode) { get; set; } | Hämtar/ställer in skrivskyddat läge för insamling av analysoperationer. Det kan hjälpa mot undantag. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | Hämtar samlingen av bildplaceringsförekomster som presenteras med [`ImagePlacement`](../imageplacement/) objekt. |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Hämtar/anger skrivskyddat läge för parsning av operationssamlingen. Det kan hjälpa mot minnesöverskridande undantag. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit)(Document) | Utför sökning på det angivna dokumentet. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit_1)(Page) | Utför sökning på den angivna sidan. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Utför sökning på det angivna dokumentet. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Utför sökning på den angivna sidan. |
 
-### Anmärkningar
+## Kommentarer
 
-Den[`ImagePlacementAbsorber`](../imageplacementabsorber) objekt används i princip i bildsökningsscenario. När sökningen är klar representeras förekomsterna med[`ImagePlacement`](../imageplacement) objekt som[`ImagePlacements`](./imageplacements) samlingen innehåller. Den[`ImagePlacement`](../imageplacement) objekt ger tillgång till bildplaceringsegenskaperna: dimensioner, upplösning etc.
+`ImagePlacementAbsorber` objektet används i grund och botten i bildsökningsscenarier. När sökningen är slutförd representeras förekomsterna med [`ImagePlacement`](../imageplacement/) objekt som [`ImagePlacements`](./imageplacements/) samlingen innehåller. [`ImagePlacement`](../imageplacement/) objektet ger åtkomst till bildplaceringsegenskaper: dimensioner, upplösning etc. Positiv bildrotation är moturs, för sidan är den medurs. Här behöver vi representera bildens rotationsvinkel, så vi drar sidans vinkel från bildens vinkel.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur du hittar bilder på den första PDF-dokumentsidan och får egenskaperna för bildplacering.
+Exemplet visar hur man hittar bilder på den första PDF-dokumentets sida och får bildplaceringsegenskaperna.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa ImagePlacementAbsorber-objekt för att utföra bildplaceringssökning
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Visa bildplaceringsegenskaper för alla placeringar
+// Display image placement properties for all placements
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -64,9 +64,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 }
 ```
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* samling [Aspose.PDF](../../)

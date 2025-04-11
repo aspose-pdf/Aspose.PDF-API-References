@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar en klass för åtkomst av metainformation för PDF-dokument.
+title: Class PdfFileInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileInfo klass. Representerar en klass för att få åtkomst till meta-information om PDF-dokument
 type: docs
-weight: 2530
+weight: 4520
 url: /sv/net/aspose.pdf.facades/pdffileinfo/
 ---
-## PdfFileInfo class
+## PdfFileInfo klass
 
-Representerar en klass för åtkomst av metainformation för PDF-dokument.
+Representerar en klass för att få åtkomst till meta-information om PDF-dokument.
 
 ```csharp
 public sealed class PdfFileInfo : SaveableFacade
@@ -16,66 +16,64 @@ public sealed class PdfFileInfo : SaveableFacade
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PdfFileInfo](pdffileinfo#constructor)() | Initierar en ny instans av klassen Aspose.Pdf.Facades.PdfFileInfo med standardvärden. |
-| [PdfFileInfo](pdffileinfo#constructor_1)(Document) | Initierar ny[`PdfFileInfo`](../pdffileinfo) objekt på basen av*document* . |
-| [PdfFileInfo](pdffileinfo#constructor_2)(Stream) | Initierar en ny instans av klassen Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_4)(string) | Initierar en ny instans av klassen Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_3)(Stream, string) | Initierar en ny instans av klassen Aspose.Pdf.Facades.PdfFileInfo. |
-| [PdfFileInfo](pdffileinfo#constructor_5)(string, string) | Initierar en ny instans av klassen Aspose.Pdf.Facades.PdfFileInfo. |
+| [PdfFileInfo](pdffileinfo/#constructor)() | Initierar en ny instans av Aspose.Pdf.Facades.PdfFileInfo-klassen med standardvärden. |
+| [PdfFileInfo](pdffileinfo/#constructor_1)(Document) | Initierar ett nytt `PdfFileInfo`-objekt baserat på *dokumentet*. |
+| [PdfFileInfo](pdffileinfo/#constructor_2)(Stream) | Initierar en ny instans av Aspose.Pdf.Facades.PdfFileInfo-klassen. |
+| [PdfFileInfo](pdffileinfo/#constructor_4)(string) | Initierar en ny instans av Aspose.Pdf.Facades.PdfFileInfo-klassen. |
+| [PdfFileInfo](pdffileinfo/#constructor_3)(Stream, string) | Initierar en ny instans av Aspose.Pdf.Facades.PdfFileInfo-klassen. |
+| [PdfFileInfo](pdffileinfo/#constructor_5)(string, string) | Initierar en ny instans av Aspose.Pdf.Facades.PdfFileInfo-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Author](../../aspose.pdf.facades/pdffileinfo/author) { get; set; } | Hämtar eller ställer in författarinformation för PDF-dokument. |
-| [CreationDate](../../aspose.pdf.facades/pdffileinfo/creationdate) { get; set; } | Hämtar eller ställer in CreationDate-informationen för PDF-dokument. |
-| [Creator](../../aspose.pdf.facades/pdffileinfo/creator) { get; set; } | Hämtar eller ställer in skaparinformationen för PDF-dokument. |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Får dokumentfasaden arbetar på. |
-| [HasCollection](../../aspose.pdf.facades/pdffileinfo/hascollection) { get; } | Returnerar sant om den aktuella indatafilen är en "Portfolio"-fil som innehåller en samling PDF-filer. |
-| [HasEditPassword](../../aspose.pdf.facades/pdffileinfo/haseditpassword) { get; } | Returnerar sant om lösenord behövs för att ändra behörigheter eller dokumentsäkerhetsegenskap. Var uppmärksam på att den här egenskapen endast kan läsas om ett giltigt lösenord angavs i[`PdfFileInfo`](../pdffileinfo) constructor. Om PasswordType är otillgänglig (betyder att ogiltigt lösenord angavs) kommer läsning av denna egenskap att misslyckas med[`InvalidPasswordException`](../../aspose.pdf/invalidpasswordexception) . |
-| [HasOpenPassword](../../aspose.pdf.facades/pdffileinfo/hasopenpassword) { get; } | Returnerar sant om lösenord behövs för att öppna ett lösenordsskyddat pdf-dokument. |
-| [Header](../../aspose.pdf.facades/pdffileinfo/header) { get; set; } | Hämtar eller ställer in den anpassade informationen för PDF-dokument. |
-| [IsEncrypted](../../aspose.pdf.facades/pdffileinfo/isencrypted) { get; } | Kontrollerar om PDF-dokumentet är krypterat. |
-| [IsPdfFile](../../aspose.pdf.facades/pdffileinfo/ispdffile) { get; } | Kontrollerar om källingången är en giltig PDF-fil. |
-| [Keywords](../../aspose.pdf.facades/pdffileinfo/keywords) { get; set; } | Hämtar eller ställer in nyckelordsinformation för PDF-dokument. |
-| [ModDate](../../aspose.pdf.facades/pdffileinfo/moddate) { get; set; } | Hämtar eller ställer in ModDate-datuminformation för PDF-dokument. |
-| [NumberOfPages](../../aspose.pdf.facades/pdffileinfo/numberofpages) { get; } | Hämtar antalet dokumentsidor. |
-| [PasswordType](../../aspose.pdf.facades/pdffileinfo/passwordtype) { get; } | Returnerar den typ av lösenord som skickades för att skapa PdfFileInfo-instanser. Se möjliga värden i[`PasswordType`](./passwordtype) . Var uppmärksam på att pdf-dokument kan öppnas med både användarlösenord (eller öppet) och ägarens (eller behörigheter, redigera) lösenord. |
-| [Producer](../../aspose.pdf.facades/pdffileinfo/producer) { get; } | Hämtar producentinformation för PDF-dokument. |
-| [Subject](../../aspose.pdf.facades/pdffileinfo/subject) { get; set; } | Hämtar eller ställer in ämnesinformationen för PDF-dokumentet. |
-| [Title](../../aspose.pdf.facades/pdffileinfo/title) { get; set; } | Hämtar eller ställer in titelinformation för PDF-dokument. |
-| [UseStrictValidation](../../aspose.pdf.facades/pdffileinfo/usestrictvalidation) { get; set; } | Använder strikta valideringsregler genom att använda[`IsPdfFile`](./ispdffile) egenskap. |
+| [Author](../../aspose.pdf.facades/pdffileinfo/author/) { get; set; } | Hämtar eller sätter författarinformationen för PDF-dokumentet. |
+| [CreationDate](../../aspose.pdf.facades/pdffileinfo/creationdate/) { get; set; } | Hämtar eller sätter skapelsedatuminformationen för PDF-dokumentet. |
+| [Creator](../../aspose.pdf.facades/pdffileinfo/creator/) { get; set; } | Hämtar eller sätter skaparinformationen för PDF-dokumentet. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Hämtar det dokument som fasaden arbetar med. |
+| [HasCollection](../../aspose.pdf.facades/pdffileinfo/hascollection/) { get; } | Returnerar sant om den aktuella inmatningsfilen är en 'Portfolio'-fil som innehåller en samling av PDF-filer. |
+| [HasEditPassword](../../aspose.pdf.facades/pdffileinfo/haseditpassword/) { get; } | Returnerar sant om ett lösenord behövs för att ändra behörigheter eller dokumentets säkerhetsegenskap. Observera att denna egenskap endast kan läsas om ett giltigt lösenord angavs i `PdfFileInfo`-konstruktorn. Om PasswordType är Inaccessible (betyder att ett ogiltigt lösenord angavs) kommer läsning av denna egenskap att misslyckas med [`InvalidPasswordException`](../../aspose.pdf/invalidpasswordexception/). |
+| [HasOpenPassword](../../aspose.pdf.facades/pdffileinfo/hasopenpassword/) { get; } | Returnerar sant om ett lösenord behövs för att öppna ett lösenordsskyddat PDF-dokument. |
+| [Header](../../aspose.pdf.facades/pdffileinfo/header/) { get; set; } | Hämtar eller sätter den anpassade informationen för PDF-dokumentet. |
+| [IsEncrypted](../../aspose.pdf.facades/pdffileinfo/isencrypted/) { get; } | Kontrollerar om PDF-dokumentet är krypterat. |
+| [IsPdfFile](../../aspose.pdf.facades/pdffileinfo/ispdffile/) { get; } | Kontrollerar om den källinmatning är en giltig PDF-fil. |
+| [Keywords](../../aspose.pdf.facades/pdffileinfo/keywords/) { get; set; } | Hämtar eller sätter nyckelordsinformationen för PDF-dokumentet. |
+| [ModDate](../../aspose.pdf.facades/pdffileinfo/moddate/) { get; set; } | Hämtar eller sätter ModDate-datuminformationen för PDF-dokumentet. |
+| [NumberOfPages](../../aspose.pdf.facades/pdffileinfo/numberofpages/) { get; } | Hämtar antalet sidor i dokumentet. |
+| [PasswordType](../../aspose.pdf.facades/pdffileinfo/passwordtype/) { get; } | Returnerar typen av lösenord som angavs för att skapa PdfFileInfo-instansen. Se möjliga värden i [`PasswordType`](./passwordtype/). Observera att PDF-dokumentet kan öppnas med både användar- (eller öppet) lösenord och ägar- (eller behörigheter, redigera) lösenord. |
+| [Producer](../../aspose.pdf.facades/pdffileinfo/producer/) { get; } | Hämtar producentinformationen för PDF-dokumentet. |
+| [Subject](../../aspose.pdf.facades/pdffileinfo/subject/) { get; set; } | Hämtar eller sätter ämnesinformationen för PDF-dokumentet. |
+| [Title](../../aspose.pdf.facades/pdffileinfo/title/) { get; set; } | Hämtar eller sätter titelinformationen för PDF-dokumentet. |
+| [UseStrictValidation](../../aspose.pdf.facades/pdffileinfo/usestrictvalidation/) { get; set; } | Använder strikta valideringsregler genom att använda [`IsPdfFile`](./ispdffile/) egenskapen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [BindPdf](../../aspose.pdf.facades/pdffileinfo/bindpdf#bindpdf)(Document) | Initierar fasaden. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Initierar fasaden. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Initierar fasaden. |
-| [ClearInfo](../../aspose.pdf.facades/pdffileinfo/clearinfo)() | Rensar all metainformation i PDF-dokument. |
-| override [Close](../../aspose.pdf.facades/pdffileinfo/close)() | Avinitialiserar instansen. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disponerar fasaden. |
-| [GetDocumentPrivilege](../../aspose.pdf.facades/pdffileinfo/getdocumentprivilege)() | Hämtar behörighetsinställningarna för PDF-dokument. |
-| [GetMetaInfo](../../aspose.pdf.facades/pdffileinfo/getmetainfo)(string) | Får anpassad information om PDF-dokument med egenskapsnamn. Om det inte finns någon egenskap som matchar namnet kommer den att returnera en tom sträng. |
-| [GetPageHeight](../../aspose.pdf.facades/pdffileinfo/getpageheight)(int) | Hämtar höjden på den angivna sidan. |
-| [GetPageRotation](../../aspose.pdf.facades/pdffileinfo/getpagerotation)(int) | Hämtar rotationen av den angivna sidan. |
-| [GetPageWidth](../../aspose.pdf.facades/pdffileinfo/getpagewidth)(int) | Hämtar bredden på den angivna sidan. |
-| [GetPageXOffset](../../aspose.pdf.facades/pdffileinfo/getpagexoffset)(int) | Får den horisontella förskjutningen av det angivna sidvisningsområdet. |
-| [GetPageYOffset](../../aspose.pdf.facades/pdffileinfo/getpageyoffset)(int) | Hämtar den vertikala förskjutningen av det angivna sidvisningsområdet. |
-| [GetPdfVersion](../../aspose.pdf.facades/pdffileinfo/getpdfversion)() | Hämtar versionsinformation för PDF-dokument. |
-| override [Save](../../aspose.pdf.facades/pdffileinfo/save#save)(Stream) | Sparar PDF-dokumentet till den angivna filen. |
-| override [Save](../../aspose.pdf.facades/pdffileinfo/save#save_1)(string) | Sparar PDF-dokumentet till den angivna filen. |
-| [SaveNewInfo](../../aspose.pdf.facades/pdffileinfo/savenewinfo#savenewinfo_1)(string) | Spara uppdaterat PDF-dokument i angiven fil. |
-| [SaveNewInfoWithXmp](../../aspose.pdf.facades/pdffileinfo/savenewinfowithxmp)(string) | Ändrar de egenskaper som anges explicit genom att ställa in filinformation, andra egenskaper kvarstår. |
-| [SetMetaInfo](../../aspose.pdf.facades/pdffileinfo/setmetainfo)(string, string) | Ställer in anpassad information för PDF-dokument. |
+| override [BindPdf](../../aspose.pdf.facades/pdffileinfo/bindpdf/#bindpdf)(Document) | Initierar fasaden. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Initierar fasaden. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Initierar fasaden. |
+| [ClearInfo](../../aspose.pdf.facades/pdffileinfo/clearinfo/)() | Rensar all meta-information om PDF-dokumentet. |
+| override [Close](../../aspose.pdf.facades/pdffileinfo/close/)() | Avinitialiserar instansen. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Avsätter fasaden. |
+| [GetDocumentPrivilege](../../aspose.pdf.facades/pdffileinfo/getdocumentprivilege/)() | Hämtar inställningarna för PDF-dokumentets privilegier. |
+| [GetMetaInfo](../../aspose.pdf.facades/pdffileinfo/getmetainfo/)(string) | Hämtar anpassad information om PDF-dokumentet med egenskapsnamnet. Om det inte finns någon egenskap som matchar namnet returneras en tom sträng. |
+| [GetPageHeight](../../aspose.pdf.facades/pdffileinfo/getpageheight/)(int) | Hämtar höjden på den angivna sidan. |
+| [GetPageRotation](../../aspose.pdf.facades/pdffileinfo/getpagerotation/)(int) | Hämtar rotationen av den angivna sidan. |
+| [GetPageWidth](../../aspose.pdf.facades/pdffileinfo/getpagewidth/)(int) | Hämtar bredden på den angivna sidan. |
+| [GetPageXOffset](../../aspose.pdf.facades/pdffileinfo/getpagexoffset/)(int) | Hämtar den horisontella förskjutningen av det angivna sidvisningsområdet. |
+| [GetPageYOffset](../../aspose.pdf.facades/pdffileinfo/getpageyoffset/)(int) | Hämtar den vertikala förskjutningen av det angivna sidvisningsområdet. |
+| [GetPdfVersion](../../aspose.pdf.facades/pdffileinfo/getpdfversion/)() | Hämtar versionsinformationen för PDF-dokumentet. |
+| override [Save](../../aspose.pdf.facades/pdffileinfo/save/#save)(Stream) | Sparar PDF-dokumentet till den angivna filen. |
+| override [Save](../../aspose.pdf.facades/pdffileinfo/save/#save_1)(string) | Sparar PDF-dokumentet till den angivna filen. |
+| [SaveNewInfo](../../aspose.pdf.facades/pdffileinfo/savenewinfo/#savenewinfo_1)(string) | Sparar det uppdaterade PDF-dokumentet i den angivna filen. |
+| [SaveNewInfoWithXmp](../../aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/)(string) | Ändrar de egenskaper som anges uttryckligen genom att ställa in filinformationen, andra egenskaper förblir oförändrade. |
+| [SetMetaInfo](../../aspose.pdf.facades/pdffileinfo/setmetainfo/)(string, string) | Sätter anpassad information om PDF-dokumentet. |
 
-### Se även
+### Se Även
 
-* class [SaveableFacade](../saveablefacade)
-* namnutrymme [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [SaveableFacade](../saveablefacade/)
+* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

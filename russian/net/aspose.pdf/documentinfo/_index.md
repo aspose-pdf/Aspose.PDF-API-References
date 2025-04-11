@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет метаинформацию документа PDF.
+title: Class DocumentInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.DocumentInfo. Представляет метаинформацию PDF-документа
 type: docs
-weight: 1920
+weight: 3870
 url: /ru/net/aspose.pdf/documentinfo/
 ---
-## DocumentInfo class
+## Класс DocumentInfo
 
-Представляет метаинформацию документа PDF.
+Представляет метаинформацию PDF-документа.
 
 ```csharp
 public sealed class DocumentInfo : Dictionary<string, string>
@@ -18,38 +18,36 @@ public sealed class DocumentInfo : Dictionary<string, string>
 
 | Имя | Описание |
 | --- | --- |
-| [DocumentInfo](documentinfo)(Document) | Инициализировать экземпляр DocumentInfo. |
+| [DocumentInfo](documentinfo/)(Document) | Инициализирует экземпляр DocumentInfo. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Author](../../aspose.pdf/documentinfo/author) { get; set; } | Получает или устанавливает автора документа. |
-| [CreationDate](../../aspose.pdf/documentinfo/creationdate) { get; set; } | Получает или задает дату создания документа. |
-| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } | Часовой пояс даты создания. |
-| [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } | Получает или задает создателя документа. |
-| [Item](../../aspose.pdf/documentinfo/item) { get; set; } | Получает или задает значение, связанное с указанным ключом. |
-| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | Получает или устанавливает ключевые слова документа. |
-| [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } | Получает или задает дату модификации документа. |
-| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | Часовой пояс даты модификации. |
-| [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | Получает или задает производителя документа. |
-| [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } | Получает или задает тему документа. |
-| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Получает или задает заголовок документа. |
-| [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } | Получает или устанавливает флаг захвата. |
+| [Author](../../aspose.pdf/documentinfo/author/) { get; set; } | Получает или задает автора документа. |
+| [CreationDate](../../aspose.pdf/documentinfo/creationdate/) { get; set; } | Получает или задает дату создания документа. |
+| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone/) { get; set; } | Часовой пояс даты создания. |
+| [Creator](../../aspose.pdf/documentinfo/creator/) { get; set; } | Получает или задает создателя документа. |
+| [Item](../../aspose.pdf/documentinfo/item/) { get; set; } | Получает или задает значение, связанное с указанным ключом. |
+| [Keywords](../../aspose.pdf/documentinfo/keywords/) { get; set; } | Получает или задает ключевые слова документа. |
+| [ModDate](../../aspose.pdf/documentinfo/moddate/) { get; set; } | Получает или задает дату изменения документа. |
+| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone/) { get; set; } | Часовой пояс даты изменения. |
+| [Producer](../../aspose.pdf/documentinfo/producer/) { get; set; } | Получает или задает производителя документа. |
+| [Subject](../../aspose.pdf/documentinfo/subject/) { get; set; } | Получает или задает тему документа. |
+| [Title](../../aspose.pdf/documentinfo/title/) { get; set; } | Получает или задает заголовок документа. |
+| [Trapped](../../aspose.pdf/documentinfo/trapped/) { get; set; } | Получает или задает флаг захвата. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Добавляет элемент с указанным ключом и значением в коллекцию. |
-| [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Очищает информацию о документе. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Очищает только пользовательские данные, оставляет все другие предопределенные значения (название, автор и т. д.). |
-| [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Удаляет элемент с указанным ключом из коллекции. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Определяет, является ли ключ предопределенным (название, автор и т. д.), а не настраиваемым. |
+| [Add](../../aspose.pdf/documentinfo/add/#add)(string, string) | Добавляет элемент с указанным ключом и значением в коллекцию. |
+| [Clear](../../aspose.pdf/documentinfo/clear/#clear)() | Очищает информацию о документе. |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Очищает только пользовательские данные, оставляя все другие предопределенные значения (Заголовок, Автор и т.д.). |
+| [Remove](../../aspose.pdf/documentinfo/remove/#remove_2)(string) | Удаляет элемент с указанным ключом из коллекции. |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Определяет, является ли ключ предопределенным (Заголовок, Автор и т.д.), а не пользовательским. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

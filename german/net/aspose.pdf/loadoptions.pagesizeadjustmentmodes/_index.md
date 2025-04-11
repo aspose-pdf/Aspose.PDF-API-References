@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.PageSizeAdjustmentModes
-second_title: Aspose.PDF für .NET-API-Referenz
-description: ACHTUNG Die Funktion wurde implementiert aber noch nicht in die öffentliche API gestellt da ein Blockerproblem in der OSHARED-Schicht für das Beispieldokument aufgedeckt wurde. Stellt den Verwendungsmodus der Seitengröße während der Konvertierung dar. Formate wie HTML EPUB usw. haben normalerweise ein Float-Design  so dass die erforderliche Seitengröße angepasst werden kann. Aber manchmal hat Inhalt horizontale Positionen oder Größen angegeben die es nicht zulassen Inhalt in die erforderliche Seitengröße zu bringen. In einem solchen Fall können wir definieren was in diesem Fall getan werden soll dh wenn die Größe des Inhalts nicht zu der erforderlichen anfänglichen Seitengröße passt. Ergebnis PDF-Dokument.
+title: Enum LoadOptions.PageSizeAdjustmentModes
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes Enum. ACHTUNG Die Funktion wurde implementiert, aber noch nicht in die öffentliche API aufgenommen, da ein Blockierungsproblem in der OSHARED-Schicht für das Beispiel-Dokument aufgetreten ist. Stellt den Modus der Verwendung der Seitengröße während der Konvertierung dar. Formate wie HTML, EPUB usw. haben normalerweise ein flexibles Design, sodass sie die erforderliche Seitengröße anpassen können. Aber manchmal hat der Inhalt spezifische horizontale Positionen oder Größen, die es nicht erlauben, den Inhalt in die erforderliche Seitengröße zu bringen. In diesem Fall können wir definieren, was in diesem Fall zu tun ist, d.h. wenn die Größe des Inhalts nicht in die erforderliche ursprüngliche Seitengröße des resultierenden PDF-Dokuments passt.
 type: docs
-weight: 3970
+weight: 6140
 url: /de/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
 ---
-## LoadOptions.PageSizeAdjustmentModes enumeration
+## LoadOptions.PageSizeAdjustmentModes Aufzählung
 
-ACHTUNG! Die Funktion wurde implementiert, aber noch nicht in die öffentliche API gestellt, da ein Blockerproblem in der OSHARED-Schicht für das Beispieldokument aufgedeckt wurde. Stellt den Verwendungsmodus der Seitengröße während der Konvertierung dar. Formate (wie HTML, EPUB usw.) haben normalerweise ein Float-Design , so dass die erforderliche Seitengröße angepasst werden kann. Aber manchmal hat Inhalt horizontale Positionen oder Größen angegeben, die es nicht zulassen, Inhalt in die erforderliche Seitengröße zu bringen. In einem solchen Fall können wir definieren, was in diesem Fall getan werden soll (dh wenn die Größe des Inhalts nicht zu der erforderlichen anfänglichen Seitengröße passt). Ergebnis PDF-Dokument).
+ACHTUNG! Die Funktion wurde implementiert, aber noch nicht in die öffentliche API aufgenommen, da ein Blockierungsproblem in der OSHARED-Schicht für das Beispiel-Dokument aufgetreten ist. Stellt den Modus der Verwendung der Seitengröße während der Konvertierung dar. Formate (wie HTML, EPUB usw.) haben normalerweise ein flexibles Design, sodass sie die erforderliche Seitengröße anpassen können. Aber manchmal hat der Inhalt spezifische horizontale Positionen oder Größen, die es nicht erlauben, den Inhalt in die erforderliche Seitengröße zu bringen. In diesem Fall können wir definieren, was in diesem Fall zu tun ist (d.h. wenn die Größe des Inhalts nicht in die erforderliche ursprüngliche Seitengröße des resultierenden PDF-Dokuments passt).
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -18,13 +18,11 @@ public enum PageSizeAdjustmentModes
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| NoAjustmentAllwaysUsePredefinedSize | `0` | In diesem Modus haben Ergebnisseiten die erforderliche Seitengröße, die in LoadOptions definiert ist, unabhängig davon, ob der Inhalt nach der Konvertierung die Seitengrenzen überschreitet oder nicht. |
-| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Dieser Modus definiert ein solches Verhalten: Nach dem Erhalt des Konvertierungsergebnisses , und der Feststellung, dass einige Inhalte abgeschnitten wurden, wird die Breite der Portansicht vergrößert, um sie an den Inhalt anzupassen, und die Konvertierung wird wiederholt. Dieser Modus ermöglicht es, weniger Seiten als Ergebnis zu erhalten Dieser Fall erfordert jedoch wiederholtes Rendering (und daher mehr Verarbeitungszeit). |
+| NoAjustmentAllwaysUsePredefinedSize | `0` | In diesem Modus haben die Ergebnisseiten die erforderliche Seitengröße, die in LoadOptions definiert ist, unabhängig davon, ob der Inhalt nach der Konvertierung über die Seitenränder hinausgeht oder nicht. |
+| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Dieser Modus definiert folgendes Verhalten: Nach Erhalt des Konvertergebnisses und der Feststellung, dass ein Teil des Inhalts abgeschnitten wurde, wird die Breite des Ansichtsfensters vergrößert, um den Inhalt anzupassen, und die Konvertierung wird wiederholt. Dieser Modus ermöglicht es, in einem solchen Fall weniger Seiten im Ergebnis zu erhalten, erfordert jedoch eine wiederholte Darstellung (und damit mehr Verarbeitungszeit). |
 
 ### Siehe auch
 
-* class [LoadOptions](../loadoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [LoadOptions](../loadoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

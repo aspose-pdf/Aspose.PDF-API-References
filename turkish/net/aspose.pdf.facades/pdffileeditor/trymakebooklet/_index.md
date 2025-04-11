@@ -1,199 +1,199 @@
 ---
-title: TryMakeBooklet
-second_title: Aspose.PDF for .NET API Referansı
-description: Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse nesnelerine kaydeder.
+title: PdfFileEditor.TryMakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Giriş dosyasından çıkış dosyasına broşür oluşturur
 type: docs
-weight: 460
+weight: 430
 url: /tr/net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## TryMakeBooklet(string, PageSize, int[], int[], HttpResponse) {#trymakebooklet_6}
+## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse nesnelerine kaydeder.
+Kaynak dosyadan broşür oluşturur ve sonucu HttpResponse nesnelerine kaydeder.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya yolu. |
-| pageSize | PageSize | İstenilen sayfa boyutu. |
-| leftPages | Int32[] | Sola yerleştirilecek sayfa numaraları dizisi. |
-| rightPages | Int32[] | Sağa yerleştirilecek sayfa numaraları dizisi. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+| pageSize | PageSize | İstenen sayfa boyutu. |
+| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaralarının dizisi. |
+| rightPages | Int32[] | Sağ tarafa yerleştirilecek sayfa numaralarının dizisi. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
 
-PDF dosyasından kitapçık yapın ve onu HttpResponse. içine depolayın
+PDF dosyasından broşür oluşturur ve bunu HttpResponse'a kaydeder.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
     int[] rightPages, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş belgesi akışı. |
-| pageSize | PageSize | İstenilen sayfa boyutu. |
-| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaraları dizisi. |
-| rightPages | Int32[] | Sağda yer alacak sayfa numaraları dizisi. |
+| inputStream | Stream | Giriş belge akışı. |
+| pageSize | PageSize | İstenen sayfa boyutu. |
+| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaralarının dizisi. |
+| rightPages | Int32[] | Sağ tarafa yerleştirilecek sayfa numaralarının dizisi. |
 | response | HttpResponse | HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse nesnelerine kaydeder.
+Kaynak dosyadan broşür oluşturur ve sonucu HttpResponse nesnelerine kaydeder.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya yolu. |
-| pageSize | PageSize | Çıktı dosyasında istenen sayfa boyutu. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+| pageSize | PageSize | Çıkış dosyasındaki istenen sayfa boyutu. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olursa doğrudur.
+İşlem başarılıysa true.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse. içinde saklar
+Kaynak dosyadan broşür oluşturur ve sonucu HttpResponse'a kaydeder.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş belgesi akışı. |
-| pageSize | PageSize | Çıktı dosyasında istenen sayfa boyutu. |
-| response | HttpResponse | Sonucun kaydedileceği nesneyi yanıtlayın. |
+| inputStream | Stream | Giriş belge akışı. |
+| pageSize | PageSize | Çıkış dosyasındaki istenen sayfa boyutu. |
+| response | HttpResponse | Sonucun kaydedileceği nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-kitapçık başarıyla oluşturulduysa true .
+Broşür başarıyla oluşturulduysa true.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
-Girdi dosyasından çıktı dosyasına kitapçık yapar.
+Giriş dosyasından çıkış dosyasına broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
+| inputFile | String | Giriş pdf dosya yolu ve adı. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
+## TryMakeBooklet(Stream, Stream) {#trymakebooklet}
 
-InputStream'den outputStream. 'ye kitapçık yapar
+InputStream'den outputStream'e broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | pdf akışını girin. |
-| outputStream | Stream | çıktı pdf akışı. |
+| inputStream | Stream | Giriş pdf akışı. |
+| outputStream | Stream | çıkış pdf akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -202,75 +202,75 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
+## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_5}
 
-inputFile'dan outputFile. 'ye kitapçık yapar
+inputFile'dan outputFile'a broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| inputFile | String | Giriş pdf dosya yolu ve adı. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olursa doğrudur.
+İşlem başarılıysa true.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_3}
+## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_1}
 
-Giriş akışından kitapçık yapar ve sonucu çıkış akışına kaydeder.
+Giriş akışından broşür oluşturur ve sonucu çıkış akışına kaydeder.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | PDF akışını girin. |
-| outputStream | Stream | çıktı pdf akışı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| inputStream | Stream | Giriş PDF akışı. |
+| outputStream | Stream | çıkış pdf akışı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,78 +279,78 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
+## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
-FirstInputFile'dan outputFile'a özelleştirilmiş kitapçık yapar.
+firstInputFile'dan outputFile'a özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Giriş dosyası. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| leftPages | Int32[] | Kitapçığın sol sayfaları. |
-| rightPages | Int32[] | Kitapçığın sağ sayfaları. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| leftPages | Int32[] | Broşürün sol sayfaları. |
+| rightPages | Int32[] | Broşürün sağ sayfaları. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_5}
+## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
-FirstInputStream'den outputStream'e özelleştirilmiş kitapçık oluşturur.
+firstInputStream'den outputStream'e özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, 
     int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | outputStream | Stream | çıkış pdf akışı. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -359,81 +359,81 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
+## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
-FirstInputFile'dan outputFile'a özelleştirilmiş kitapçık yapar.
+firstInputFile'dan outputFile'a özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
     int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Giriş dosyası. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
+## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_2}
 
-FirstInputStream'den outputStream'e kitapçık oluşturur.
+firstInputStream'den outputStream'e broşür oluşturur.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
     int[] leftPages, int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | outputStream | Stream | çıkış pdf akışı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeBooklet yöntemi, MakeBooklet yöntemine benzer, ancak TryMakeBooklet yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeBooklet metodu, MakeBooklet metoduna benzer, ancak TryMakeBooklet metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -442,11 +442,9 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

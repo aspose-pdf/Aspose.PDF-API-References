@@ -1,45 +1,94 @@
 ---
-title: EpubSaveOptions
-second_title: Aspose.PDF لمرجع .NET API
-description: حفظ الخيارات للتصدير إلى تنسيق EPUB
+title: Class EpubSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.EpubSaveOptions. خيارات الحفظ للتصدير إلى تنسيق EPUB
 type: docs
-weight: 2100
+weight: 4060
 url: /ar/net/aspose.pdf/epubsaveoptions/
 ---
-## EpubSaveOptions class
+## فئة EpubSaveOptions
 
-حفظ الخيارات للتصدير إلى تنسيق EPUB
+خيارات الحفظ للتصدير إلى تنسيق EPUB
 
 ```csharp
 public class EpubSaveOptions : UnifiedSaveOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EpubSaveOptions](epubsaveoptions)() | Default_Constructor |
+| [EpubSaveOptions](epubsaveoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى أنه سيتم إغلاق كائن الاستجابة بعد حفظ المستند في الاستجابة. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | هذا السمة شغّل وظيفة استخراج صورة أو نص لمستندات PDF ذات الطبقة الفرعية OCR . |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | تنسيق حفظ البيانات . |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | رد الاتصال للتعامل مع أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر التعداد ReturnAction الذي يحدد إما متابعة أو إحباط. متابعة هو الإجراء الافتراضي وتستمر عملية "حفظ" ، ومع ذلك قد يقوم المستخدم أيضًا بإرجاع "إحباط" وفي هذه الحالة يجب أن تتوقف عملية "حفظ". |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم تخزين رموز الخط أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى تنسيقات أخرى ولكنه يزيد من استهلاك الذاكرة. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم إغلاق كائن الاستجابة بعد حفظ المستند في الاستجابة. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | هذه السمة تشغل وظيفة استخراج الصورة أو النص لمستندات PDF مع طبقة OCR فرعية. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | تنسيق حفظ البيانات. |
+| [Title](../../aspose.pdf/epubsaveoptions/title/) { get; set; } | يحصل أو يحدد عنوان مستند EPUB. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | رد الاتصال لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما الاستمرار أو الإنهاء. الاستمرار هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع الإنهاء، وفي هذه الحالة يجب أن تتوقف عملية الحفظ. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode) | عندما يتم تحويل ملف PDF (الذي يحتوي عادةً على تخطيط ثابت) ، يحاول محرك التحويل إجراء التجميع والتحليل متعدد المستويات لاستعادة نية مؤلف المستند الأصلي وإنتاج النتيجة في تخطيط التدفق . هذه الخاصية تضبط هذا التحويل لهذا التحويل. أو that طريقة مرغوبة للتعرف على المحتوى. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | في بعض الأحيان تحتوي ملفات PDF على صور خلفية (لصفحات أو خلايا جدول) تم إنشاؤها من عدة صور خلفية متشابهة ، ضع واحدة بالقرب من الأخرى. في مثل هذه الحالة ، تنشئ عارضات التنسيقات المستهدفة (fe MsWord لتنسيق DOCS) أحيانًا حدودًا مرئية بين أجزاء من صور الخلفية ، لأن تقنيات تجانس حافة الصورة (الصقل) تختلف عن Acrobat Reader . إذا بدا أن المستند المُصدَّر يحتوي على حدود مرئية بين أجزاء من نفس صور الخلفية ، يرجى محاولة استخدام هذا الإعداد للتخلص من من ذلك تأثير غير مرغوب فيه. انتبه! عادةً ما يؤدي هذا التحسين للجودة إلى إبطاء عملية التحويل ، لذا ، من فضلك ، استخدم هذا الخيار فقط عندما يكون ضروريًا حقًا. |
+| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | عند تحويل ملف PDF (الذي عادة ما يكون له تخطيط ثابت)، تحاول محرك التحويل إجراء تجميع وتحليل متعدد المستويات لاستعادة نية مؤلف المستند الأصلي وإنتاج نتيجة بتخطيط متدفق. تضبط هذه الخاصية ذلك التحويل لهذه الطريقة أو تلك من التعرف المرغوب على المحتوى. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | معالجة الصفحات في عدة خيوط. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | أحيانًا تحتوي ملفات PDF على صور خلفية (للصفحات أو خلايا الجدول) تم بناؤها من عدة صور خلفية متطابقة موضوعة بجانب بعضها البعض. في هذه الحالة، تقوم محركات التنسيقات المستهدفة (مثل MsWord لتنسيق DOCS) أحيانًا بإنشاء حدود مرئية بين أجزاء الصور الخلفية، لأن تقنياتها في تنعيم حواف الصور (مضاد التعرج) تختلف عن Acrobat Reader. إذا بدا أن المستند المصدر يحتوي على مثل هذه الحدود المرئية بين أجزاء من نفس الصور الخلفية، يرجى محاولة استخدام هذا الإعداد للتخلص من هذا التأثير غير المرغوب فيه. انتبه! عادةً ما تؤدي هذه التحسينات في الجودة إلى إبطاء التحويل بشكل كبير، لذا، يرجى استخدام هذا الخيار فقط عندما يكون ذلك ضروريًا حقًا. |
 
-### أنظر أيضا
+## أمثلة
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
+يوضح المثال التالي كيفية تحويل ملف PDF إلى ملف EPUB
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+	[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
+
+	// The path to output EPUB File.
+	var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+
+		// Initialize EpubSaveOptions 	
+		EpubSaveOptions saveOptions = new EpubSaveOptions();
+		
+		// Save EPUB file
+		pdfDocument.Save(epubFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf")
+
+    ' The path to output EPUB File.
+    Dim epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+
+        ' Initialize EpubSaveOptions    
+        Dim saveOptions As EpubSaveOptions = New EpubSaveOptions()
+ 
+        ' Save EPUB file
+        pdfDocument.Save(epubFile, saveOptions)
+    End Using
+```
+
+### انظر أيضًا
+
+* فئة [UnifiedSaveOptions](../unifiedsaveoptions/)
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

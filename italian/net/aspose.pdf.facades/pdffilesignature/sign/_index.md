@@ -1,14 +1,14 @@
 ---
-title: Sign
-second_title: Aspose.PDF per .NET API Reference
-description: Apporta una firma sul documento pdf.
+title: PdfFileSignature.Sign
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfFileSignature. Fai una firma sul documento pdf
 type: docs
-weight: 280
+weight: 300
 url: /it/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Apporta una firma sul documento pdf.
+Fai una firma sul documento pdf.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,14 +17,14 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Il numero di pagina su cui viene eseguita la firma. |
+| page | Int32 | Il numero di pagina su cui viene effettuata la firma. |
 | SigReason | String | Il motivo della firma. |
 | SigContact | String | Il contatto della firma. |
-| SigLocation | String | Il luogo della firma. |
+| SigLocation | String | La posizione della firma. |
 | visible | Boolean | La visibilità della firma. |
-| annotRect | Rectangle | Il diritto di firma. |
+| annotRect | Rectangle | Il rettangolo della firma. |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -48,17 +48,17 @@ pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
 pdfSign.Save(outFile)
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Firma il documento con la firma di tipo specificata.
+Firma il documento con il tipo di firma fornito.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,15 +67,15 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Il numero di pagina su cui viene eseguita la firma. |
+| page | Int32 | Il numero di pagina su cui viene effettuata la firma. |
 | SigReason | String | Il motivo della firma. |
 | SigContact | String | Il contatto della firma. |
-| SigLocation | String | Il luogo della firma. |
+| SigLocation | String | La posizione della firma. |
 | visible | Boolean | La visibilità della firma. |
-| annotRect | Rectangle | Il diritto di firma. |
-| sig | Signature | Il tipo di firma, potrebbe essere PKCS1, PKCS7 e PKCS7Detached. |
+| annotRect | Rectangle | Il rettangolo della firma. |
+| sig | Signature | Il tipo della firma, può essere PKCS1, PKCS7 e PKCS7Detached. |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -98,18 +98,18 @@ pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
 pdfSign.Save()
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Firma il documento con la firma di tipo specificata.
+Firma il documento con il tipo di firma fornito.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,12 +117,12 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Il numero di pagina su cui viene eseguita la firma. |
+| page | Int32 | Il numero di pagina su cui viene effettuata la firma. |
 | visible | Boolean | La visibilità della firma. |
-| annotRect | Rectangle | Il diritto di firma. |
-| sig | Signature | Il tipo della firma, potrebbe essere PKCS1, PKCS7 e PKCS7Detached. Tali dati come motivo firma, contatto e posizione devono essere già presenti in questo oggetto (vedi proprietà corrispondenti). |
+| annotRect | Rectangle | Il rettangolo della firma. |
+| sig | Signature | Il tipo della firma, può essere PKCS1, PKCS7 e PKCS7Detached. I dati come il motivo della firma, il contatto e la posizione devono essere già presenti in questo oggetto (vedi le proprietà corrispondenti). |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -152,18 +152,18 @@ pdfSign.Sign(2, true, rect, sig)
 pdfSign.Save()
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Firma il documento con il tipo specificato firma che è posto nel campo firma già presentato. Prima di firmare il campo firma deve essere vuoto, cioè il campo non deve contenere dizionario firme. Quindi il documento pdf ha già il campo firma, non dovresti fornire il luogo per apporre la firma, la pagina e il rettangolo corrispondenti sono presi dal campo della firma che si trova per nome della firma (vedi parametro SigName).
+Firma il documento con il tipo di firma fornito che è posizionato nel campo di firma già presentato. Prima di firmare, il campo di firma deve essere vuoto, cioè il campo non deve contenere un dizionario di firma. Pertanto, il documento pdf ha già un campo di firma, non è necessario fornire il luogo per apporre la firma, la pagina corrispondente e il rettangolo sono presi dal campo di firma che si trova per nome della firma (vedi parametro SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -172,13 +172,13 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| SigName | String | Il nome del campo della firma. |
+| SigName | String | Il nome del campo di firma. |
 | SigReason | String | Il motivo della firma. |
 | SigContact | String | Il contatto della firma. |
-| SigLocation | String | Il luogo della firma. |
-| sig | Signature | Il tipo di firma, potrebbe essere PKCS1, PKCS7 e PKCS7Detached. |
+| SigLocation | String | La posizione della firma. |
+| sig | Signature | Il tipo della firma, può essere PKCS1, PKCS7 e PKCS7Detached. |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -200,18 +200,18 @@ pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
 pdfSign.Save()
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Firma il documento con la firma del tipo specificata che è inserita nel campo della firma già presentato. Prima di firmare il documento pdf dovrebbe avere già il campo della firma, la pagina e il rettangolo corrispondenti sono presi dal campo della firma che si trova dal nome della firma (vedi parametro SigName) .
+Firma il documento con il tipo di firma fornito che è posizionato nel campo di firma già presentato. Prima di firmare, il documento pdf deve già avere un campo di firma, la pagina corrispondente e il rettangolo sono presi dal campo di firma che si trova per nome della firma (vedi parametro SigName).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,16 +220,16 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Il numero di pagina su cui viene eseguita la firma. |
-| SigName | String | Il nome del campo della firma. |
+| page | Int32 | Il numero di pagina su cui viene effettuata la firma. |
+| SigName | String | Il nome del campo di firma. |
 | SigReason | String | Il motivo della firma. |
 | SigContact | String | Il contatto della firma. |
-| SigLocation | String | Il luogo della firma. |
+| SigLocation | String | La posizione della firma. |
 | visible | Boolean | La visibilità della firma. |
-| annotRect | Rectangle | Il diritto di firma. |
-| sig | Signature | Il tipo di firma, potrebbe essere PKCS1, PKCS7 e PKCS7Detached. |
+| annotRect | Rectangle | Il rettangolo della firma. |
+| sig | Signature | Il tipo della firma, può essere PKCS1, PKCS7 e PKCS7Detached. |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -252,18 +252,18 @@ pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, r
 pdfSign.Save(outFile)
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, Signature) {#sign_4}
 
-Firma il documento con il tipo specificato firma che è posto nel campo firma già presentato. Prima di firmare il campo firma deve essere vuoto, cioè il campo non deve contenere dizionario firme. Quindi il documento pdf ha già il campo firma, non dovresti fornire il luogo per apporre la firma, pagina e rettangolo corrispondenti sono presi dal campo firma che si trova per nome firma (vedi parametro SigName). Tali dati come motivo firma, contatto e posizione devono essere forniti dalle proprietà corrispondenti dell'oggetto Firma sig.
+Firma il documento con il tipo di firma fornito che è posizionato nel campo di firma già presentato. Prima di firmare, il campo di firma deve essere vuoto, cioè il campo non deve contenere un dizionario di firma. Pertanto, il documento pdf ha già un campo di firma, non è necessario fornire il luogo per apporre la firma, la pagina corrispondente e il rettangolo sono presi dal campo di firma che si trova per nome della firma (vedi parametro SigName). I dati come il motivo della firma, il contatto e la posizione devono essere forniti dalle proprietà corrispondenti dell'oggetto Signature sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -271,10 +271,10 @@ public void Sign(string SigName, Signature sig)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| SigName | String | Il nome del campo della firma. |
-| sig | Signature | Il tipo di firma, potrebbe essere PKCS1 (oggetto Pkcs1Signature), PKCS7 e PKCS7 staccato (oggetto Pkcs7Signature) |
+| SigName | String | Il nome del campo di firma. |
+| sig | Signature | Il tipo della firma, può essere PKCS1 (oggetto Pkcs1Signature), PKCS7 e PKCS7 detached (oggetto Pkcs7Signature) |
 
-### Esempi
+## Esempi
 
 ```csharp
 [C#]
@@ -302,11 +302,9 @@ pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffilesignature)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

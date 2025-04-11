@@ -1,48 +1,46 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Diese Klasse stellt einen Satz von Daten dar die sich auf das Speichern einer externen Ressourcenbilddatei während der PDF-zu-HTML-Konvertierung beziehen.
+title: Class HtmlSaveOptions.HtmlImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo-Klasse. Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern von externen Ressourcenbilddateien während der PDF-zu-HTML-Konvertierung verbunden sind.
 type: docs
-weight: 3510
+weight: 5640
 url: /de/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo class
+## HtmlSaveOptions.HtmlImageSavingInfo-Klasse
 
-Diese Klasse stellt einen Satz von Daten dar, die sich auf das Speichern einer externen Ressourcenbilddatei während der PDF-zu-HTML-Konvertierung beziehen.
+Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern von externen Ressourcenbilddateien während der PDF-zu-HTML-Konvertierung verbunden sind.
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | Default_Constructor |
+| [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/.ctor)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Wird vom Konverter festgelegt. Angenommener Dateiname, der vom Konverter zum Code der benutzerdefinierten Methode geht Kann in benutzerdefiniertem Code verwendet werden, um zu entscheiden, wie diese Datei verarbeitet oder wo gespeichert werden soll |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Vom Konverter festgelegt. Vorgeschlagener Dateiname, der vom Konverter an den Code der benutzerdefinierten Methode übergeben wird. Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie die Datei verarbeitet oder wo sie gespeichert werden soll. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Vom Konverter festgelegt. Stellt den binären Inhalt der gespeicherten Datei dar. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen die vorgeschlagene Datei nicht mit benutzerdefiniertem Code verarbeitet werden soll, sondern mit dem Konvertercode selbst in Standard-für-Konverter-Weise. Wenn die Einstellung „it“ auf „true“ gesetzt ist, bedeutet dies, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der -Konverter selbst damit umgehen muss (in beiden Richtungen – zum Speichern irgendwo und zum Benennen in der referenzierenden Datei). |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/htmlhostpagenumber) | Teilt dem benutzerdefinierten Code mit, zu welcher Seite des generierten Satzes von HTML-Seitendateien das gespeicherte Bild gehört. Wenn das Aufteilen auf Seiten ausgeschaltet ist, enthält dieser Wert immer '1', da in diesem Fall nur eine HTML-Seite generiert wird. |
-| [ImageType](../../aspose.pdf/htmlimagesavinginfo/imagetype) | Stellt den Typ des gespeicherten Bildes dar, auf das in HTML verwiesen wird. Wird vom Konverter festgelegt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was getan werden soll |
-| [ParentType](../../aspose.pdf/htmlimagesavinginfo/parenttype) | Das gespeicherte Bild kann zu HTML selbst gehören oder extrahiert werden. aus in HTML eingebettetem SVG. Diese Eigenschaft kann dem benutzerdefinierten Code mitteilen, welcher Elterntyp das verarbeitete Bild ist. Es wird vom Konverter festgelegt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was mit diesem Bild geschehen soll (z. B. kann benutzerdefinierter Code entscheiden, wo image gespeichert wird oder wie es im übergeordneten Inhalt referenziert werden muss). |
-| [PdfHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/pdfhostpagenumber) | Teilt dem benutzerdefinierten Code mit, zu welcher Seite des Original-PDF-Dokuments das gespeicherte Bild gehört. Da es möglich ist, dass nicht alle Seiten des Originaldokuments gespeichert werden, gibt uns dieser Wert Auskunft über die Seitennummer des Hosts im Original-PDF. Wenn die ursprüngliche Seitennummer aus irgendeinem Grund unbekannt ist, wird immer '1' zurückgegeben. |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Wird vom Konverter festgelegt. Angenommener Dateiname, der vom Konverter zum Code der benutzerdefinierten Methode geht Kann in benutzerdefiniertem Code verwendet werden, um zu entscheiden, wie diese Datei verarbeitet oder wo gespeichert werden soll |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Vom Konverter festgelegt. Stellt den binären Inhalt der gespeicherten Datei dar. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen die vorgeschlagene Datei nicht mit benutzerdefiniertem Code, sondern mit dem Code des Konverters selbst auf die Standardweise des Konverters verarbeitet werden soll. Das Setzen auf true bedeutet, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der Konverter sie selbst behandeln muss (in beiden Sinne - zum Speichern irgendwo und zum Benennen in der referenzierenden Datei). |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | Teilt dem benutzerdefinierten Code mit, zu welcher Seite des generierten Satzes von HTML-Seitendateien das gespeicherte Bild gehört. Wenn das Aufteilen in Seiten deaktiviert ist, enthält dieser Wert immer '1', da in diesem Fall nur eine HTML-Seite generiert wird. |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | Stellt den Typ des in HTML referenzierten gespeicherten Bildes dar. Vom Konverter festgelegt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was zu tun ist. |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | Das gespeicherte Bild kann zu HTML selbst gehören oder aus SVG extrahiert werden, das in HTML eingebettet ist. Diese Eigenschaft kann dem benutzerdefinierten Code mitteilen, welcher Typ von Elternteil des verarbeiteten Bildes vorliegt. Sie wird vom Konverter festgelegt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was mit diesem Bild geschehen soll (z. B. kann der benutzerdefinierte Code entscheiden, wo das Bild gespeichert werden soll oder wie es im Inhalt des Elternteils referenziert werden muss). |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | Teilt dem benutzerdefinierten Code mit, zu welcher Seite des ursprünglichen PDF-Dokuments das gespeicherte Bild gehört. Da es möglich ist, dass nicht alle Seiten des ursprünglichen Dokuments gespeichert werden, gibt dieser Wert die Host-Seitennummer im ursprünglichen PDF an. Wenn die ursprüngliche Seitennummer aus irgendeinem Grund unbekannt ist, wird immer '1' zurückgegeben. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Vom Konverter festgelegt. Vorgeschlagener Dateiname, der vom Konverter an den Code der benutzerdefinierten Methode übergeben wird. Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie die Datei verarbeitet oder wo sie gespeichert werden soll. |
 
 ### Siehe auch
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* Klasse [HtmlSaveOptions](../htmlsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

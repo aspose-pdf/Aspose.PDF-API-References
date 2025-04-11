@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет параметры рендеринга.
+title: Class RenderingOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.RenderingOptions. Представляет параметры рендеринга
 type: docs
-weight: 6200
+weight: 9760
 url: /ru/net/aspose.pdf/renderingoptions/
 ---
-## RenderingOptions class
+## Класс RenderingOptions
 
 Представляет параметры рендеринга.
 
@@ -18,29 +18,27 @@ public sealed class RenderingOptions
 
 | Имя | Описание |
 | --- | --- |
-| [RenderingOptions](renderingoptions)() | Конструктор по умолчанию. |
+| [RenderingOptions](renderingoptions/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization) { get; set; } | Получает или задает режим оптимизации штрих-кода. |
-| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Указывает, что все шрифты будут преобразованы в версии Unicode TTF. Это полезно для совместимости и для оптимизации использования шрифта, потому что каждый новый шрифт TTF будет содержать не все символы из исходного шрифта, а только символы, которые используются в тексте. |
-| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | Получает/устанавливает имя шрифта по умолчанию, используемое для замены отсутствующих шрифтов. |
-| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle. |
-| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | Получает или устанавливает режим высокого качества для интерполяции. |
-| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию: 10. . |
-| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Максимальное количество символов в кэше символов. Значение по умолчанию: 100. . |
-| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Получает или задает режим оптимизации размеров. |
-| [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | Получает или задает значения, используемые для масштабирования всех изображений на странице по ширине страницы. |
-| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Получает или задает режим, в котором системные шрифты отображаются изначально. |
-| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | Использование этого флага включает механизм подсказки шрифта. Подсказка шрифта — это использование математических инструкций для настройки отображения контурного шрифта. В некоторых случаях включение этого флага может решить проблемы с читаемостью текста. В настоящий момент использование этого флага может дать эффект только для шрифтов TTF, если эти шрифты используются в исходном документе. |
-| [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | Получает или задает флаг, определяющий, используется ли новый механизм обработки изображений. |
-| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } | Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle. |
+| [AnalyzeFonts](../../aspose.pdf/renderingoptions/analyzefonts/) { get; set; } | Заменяет шрифты по мере необходимости, чтобы гарантировать, что все символы в тексте могут быть отображены. Алгоритм замены шрифтов выполняет следующие шаги: 1. Если пользователь явно устанавливает свойство DefaultFontName, проверьте, может ли указанный шрифт отображать желаемые символы. 2. Если шрифт, заданный пользователем, не установлен, ищите шрифты, добавленные через !:FontRepository.Sources. 3. Анализируйте текст, чтобы определить его алфавит или письменность и предложить имена шрифтов соответственно. Попытайтесь найти и использовать эти шрифты из системы. 4. В качестве резервного варианта ищите в системе любой шрифт, способный отображать необходимые символы. |
+| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization/) { get; set; } | Получает или устанавливает режим оптимизации штрих-кодов. |
+| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf/) { get; set; } | Указывает, что все шрифты будут конвертированы в версии TTF unicode. Это полезно по причинам совместимости и для оптимизации использования шрифтов, так как каждый новый шрифт TTF будет содержать не все символы из исходного шрифта, а только символы, которые используются в тексте. |
+| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname/) { get; set; } | Получает/устанавливает имя шрифта по умолчанию, используемое для замены отсутствующих шрифтов. |
+| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits/) { get; set; } | Получает или устанавливает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle. |
+| [IgnoreResourceFontErrors](../../aspose.pdf/renderingoptions/ignoreresourcefonterrors/) { get; set; } | Получает или устанавливает указание на то, что ошибки, связанные с отсутствием шрифта, будут игнорироваться. true - означает, что ошибки отсутствия шрифта будут игнорироваться. Сегменты текста, которые ссылаются на некорректные ресурсы, будут пропущены во время обработки. по умолчанию false |
+| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality/) { get; set; } | Получает или устанавливает режим высокого качества для интерполяции. |
+| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize/) { get; set; } | Максимальное количество шрифтов в кэше шрифтов. Значение по умолчанию - 10. |
+| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize/) { get; set; } | Максимальное количество символов в кэше символов. Значение по умолчанию - 100. |
+| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions/) { get; set; } | Получает или устанавливает режим оптимизации размеров. |
+| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering/) { get; set; } | Получает или устанавливает режим, в котором системные шрифты рендерятся нативно. |
+| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting/) { get; set; } | Использование этого флага включает механизм подсказки шрифтов. Подсказка шрифтов - это использование математических инструкций для настройки отображения шрифта с контуром. В некоторых случаях включение этого флага может решить проблемы с читаемостью текста. В данный момент использование этого флага может дать эффект только для шрифтов TTF, если эти шрифты используются в исходном документе. |
+| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits/) { get; set; } | Получает или устанавливает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,12 +1,12 @@
 ---
-title: FontCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: Yazı tipi koleksiyonunu temsil eder.
+title: Class FontCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.FontCollection sınıfı. Yazı tipi koleksiyonunu temsil eder
 type: docs
-weight: 6710
+weight: 10530
 url: /tr/net/aspose.pdf.text/fontcollection/
 ---
-## FontCollection class
+## FontCollection Sınıfı
 
 Yazı tipi koleksiyonunu temsil eder.
 
@@ -14,41 +14,41 @@ Yazı tipi koleksiyonunu temsil eder.
 public sealed class FontCollection : ICollection<Font>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | Sayısını alır[`Font`](../font) aslında koleksiyonda bulunan nesne öğeleri. |
-| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly) { get; } | Koleksiyonun salt okunur olup olmadığını gösteren bir değer alır |
-| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized) { get; } | Koleksiyona erişimin eşitlenip eşitlenmediğini gösteren bir değer alır (iş parçacığı güvenli). |
-| [Item](../../aspose.pdf.text/fontcollection/item) { get; } | Belirtilen dizindeki yazı tipi öğesini alır. (2 indexers) |
-| [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot) { get; } | Koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
+| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | Koleksiyonda gerçekten bulunan [`Font`](../font/) nesne elemanlarının sayısını alır. |
+| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | Koleksiyonun salt okunur olup olmadığını belirten bir değer alır. |
+| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | Koleksiyona erişimin senkronize olup olmadığını (iş parçacığı güvenli) belirten bir değer alır. |
+| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | Belirtilen indeksteki yazı tipi elemanını alır. (2 indeksleyici) |
+| [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot/) { get; } | Koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontcollection/add)(Font, out string) | Yazı tipi kaynaklarına yeni yazı tipi ekler ve yazı tipi kaynağının otomatik olarak atanan adını döndürür. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains#contains)(Font) | Koleksiyonun belirli bir değer içerip içermediğini belirler. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains#contains_1)(string) | Yazı tipi koleksiyonunda yazı tipi olup olmadığını kontrol eder. |
-| [CopyTo](../../aspose.pdf.text/fontcollection/copyto)(Font[], int) | Hedef dizinin belirtilen dizininden başlayarak koleksiyonun tamamını uyumlu bir tek boyutlu Diziye kopyalar |
-| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator)() | Koleksiyonun tamamı için bir numaralandırıcı döndürür. |
-| [Remove](../../aspose.pdf.text/fontcollection/remove)(Font) | Belirtilen öğeyi koleksiyondan siler. |
+| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | Yeni bir yazı tipini yazı tipi kaynaklarına ekler ve yazı tipi kaynağının otomatik olarak atanmış adını döner. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | Koleksiyonun belirli bir değeri içerip içermediğini belirler. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains_1)(string) | Yazı tipinin yazı tipi koleksiyonunda mevcut olup olmadığını kontrol eder. |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | Tüm koleksiyonu, hedef dizinin belirtilen indeksinden başlayarak uyumlu bir boyutsal diziye kopyalar. |
+| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | Tüm koleksiyon için bir enumeratör döner. |
+| [Remove](../../aspose.pdf.text/fontcollection/remove/)(Font) | Belirtilen öğeyi koleksiyondan siler. |
 
-### Notlar
+## Açıklamalar
 
-ile temsil edilen yazı tipi koleksiyonları[`FontCollection`](../fontcollection) class birkaç senaryoda kullanılır. Örneğin, kaynaklarda[`Fonts`](../../aspose.pdf/resources/fonts) Emlak.
+`FontCollection` sınıfı tarafından temsil edilen yazı tipi koleksiyonları çeşitli senaryolarda kullanılır. Örneğin, [`Fonts`](../../aspose.pdf/resources/fonts/) özelliği ile kaynaklarda.
 
-### Örnekler
+## Örnekler
 
-Örnek, sayfada bildirilen tüm yazı tiplerinin gömülü olarak nasıl yapılacağını gösterir.
+Örnek, sayfada tanımlanan tüm yazı tiplerini gömülü hale getirmenin nasıl yapılacağını gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// sayfa kaynaklarında bildirilen tüm yazı tiplerinin gömülü olduğundan emin olun
-// eğer fontlar form kaynaklarında bildirilmişse, sayfa kaynaklarından erişilemediğini unutmayın
+// ensure all fonts declared on page resources are embedded
+// note that if fonts are declared on form resources they are not accessible from page resources
 foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 {
     if(!font.IsEmbedded)
@@ -58,10 +58,8 @@ foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 doc.Save(@"D:\Tests\input.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../font)
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Font](../font/)
+* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../)

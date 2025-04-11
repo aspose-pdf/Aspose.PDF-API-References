@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa las características de una imagen colocada en la página del documento PDF.
+title: Class ImagePlacement
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.ImagePlacement. Representa las características de una imagen colocada en la página del documento Pdf
 type: docs
-weight: 3760
+weight: 5900
 url: /es/net/aspose.pdf/imageplacement/
 ---
-## ImagePlacement class
+## Clase ImagePlacement
 
-Representa las características de una imagen colocada en la página del documento PDF.
+Representa las características de una imagen colocada en la página del documento Pdf.
 
 ```csharp
 public sealed class ImagePlacement
@@ -18,60 +18,58 @@ public sealed class ImagePlacement
 
 | Nombre | Descripción |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Obtiene los parámetros de composición del estado de los gráficos activos para la imagen colocada en la página. |
-| [Image](../../aspose.pdf/imageplacement/image) { get; } | Obtiene el objeto de recurso XImage relacionado. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | Matriz de transformación actual para esta imagen. |
-| [Operator](../../aspose.pdf/imageplacement/operator) { get; } | Operador utilizado para mostrar la imagen. |
-| [Page](../../aspose.pdf/imageplacement/page) { get; } | Obtiene la página que contiene la imagen. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle) { get; } | Obtiene el rectángulo de la Imagen. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution) { get; } | Obtiene la resolución de la Imagen. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation) { get; } | Obtiene el ángulo de rotación de la Imagen. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Obtiene los parámetros de composición del estado gráfico activo para la imagen colocada en la página. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Obtiene el objeto de recurso XImage relacionado. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Matriz de transformación actual para esta imagen. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Operador utilizado para mostrar la imagen. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Obtiene la página que contiene la imagen. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Obtiene el rectángulo de la imagen. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Obtiene la resolución de la imagen. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Obtiene el ángulo de rotación de la imagen. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide)() | Eliminar imagen de la página. |
-| [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | Reemplazar imagen en colección con otra imagen. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Guarda la imagen con las transformaciones correspondientes: escalado, rotación y resolución. |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Guarda la imagen con las transformaciones correspondientes: escalado, rotación y resolución. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Elimina la imagen de la página. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Reemplaza la imagen en la colección con otra imagen. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Guarda la imagen con las transformaciones correspondientes: escalado, rotación y resolución. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Guarda la imagen con las transformaciones correspondientes: escalado, rotación y resolución. |
 
-### Observaciones
+## Observaciones
 
-Cuando se coloca una imagen en una página, puede tener dimensiones distintas de las dimensiones físicas definidas en[`Resources`](../resources) . El objeto[`ImagePlacement`](../imageplacement) está destinado a proporcionar información como dimensiones, resolución, etc.
+Cuando una imagen se coloca en una página, puede tener dimensiones diferentes a las dimensiones físicas definidas en [`Resources`](../resources/). El objeto `ImagePlacement` está destinado a proporcionar información como dimensiones, resolución, etc.
 
-### Ejemplos
+## Ejemplos
 
 El ejemplo demuestra cómo encontrar imágenes en la primera página del documento PDF y obtener imágenes como mapas de bits con dimensiones visibles.
 
 ```csharp
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crear objeto ImagePlacementAbsorber para realizar la búsqueda de ubicación de imágenes
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Recuperar imágenes con dimensiones visibles
+// Retrieve images with visible dimensions
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Recuperar imagen de recursos
+        // Retrieve image from resources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Crear un nuevo mapa de bits con dimensiones reales
+        // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
 ```
 
-### Ver también
+### Véase También
 
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* espacio de nombres [Aspose.Pdf](../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../)

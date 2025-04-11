@@ -1,14 +1,14 @@
 ---
-title: TextSegment
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar segment av PDF-text.
+title: Class TextSegment
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextSegment klass. Representerar segment av Pdf-text
 type: docs
-weight: 7210
+weight: 11050
 url: /sv/net/aspose.pdf.text/textsegment/
 ---
-## TextSegment class
+## TextSegment klass
 
-Representerar segment av PDF-text.
+Representerar segment av Pdf-text.
 
 ```csharp
 public sealed class TextSegment
@@ -16,35 +16,35 @@ public sealed class TextSegment
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TextSegment](textsegment#constructor)() | Skapar TextSegment-objekt. |
-| [TextSegment](textsegment#constructor_1)(string) | Skapar TextSegment-objekt. |
+| [TextSegment](textsegment/#constructor)() | Skapar TextSegment-objekt. |
+| [TextSegment](textsegment/#constructor_1)(string) | Skapar TextSegment-objekt. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BaselinePosition](../../aspose.pdf.text/textsegment/baselineposition) { get; set; } | Får textposition för text, representerad med[`TextSegment`](../textsegment) object. YIndent av positionsstrukturen representerar baslinjekoordinaten för textsegmentet. |
-| [Characters](../../aspose.pdf.text/textsegment/characters) { get; } | Får samling av CharInfo-objekt som representerar information om tecken i textsegmentet. |
-| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex) { get; } | Hämtar slutteckenindex för aktuellt segment i segmentet showtextoperator (Tj, TJ). |
-| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink) { get; set; } | Hämtar eller ställer in segmentets hyperlänk (för pdf-generator). |
-| [Position](../../aspose.pdf.text/textsegment/position) { get; set; } | Får textposition för text, representerad med[`TextSegment`](../textsegment) objekt. |
-| [Rectangle](../../aspose.pdf.text/textsegment/rectangle) { get; } | Får rektangel av TextSegment |
-| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex) { get; } | Hämtar startteckenindex för aktuellt segment i segmentet showtextoperator (Tj, TJ). |
-| [Text](../../aspose.pdf.text/textsegment/text) { get; set; } | Hämtar eller sätterString textobjekt som[`TextSegment`](../textsegment) objekt representerar. |
-| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions) { get; set; } | Hämtar eller ställer in textredigeringsalternativ. Alternativen definierar speciellt beteende när den begärda symbolen inte kan skrivas med font. |
-| [TextState](../../aspose.pdf.text/textsegment/textstate) { get; set; } | Hämtar eller ställer in texttillstånd för texten som[`TextSegment`](../textsegment) objekt representerar. |
+| [BaselinePosition](../../aspose.pdf.text/textsegment/baselineposition/) { get; set; } | Hämtar textposition för text, representerad med `TextSegment`-objekt. YIndent i Position-strukturen representerar baslinjekoordinaten för textsegmentet. |
+| [Characters](../../aspose.pdf.text/textsegment/characters/) { get; } | Hämtar samling av CharInfo-objekt som representerar information om tecken i textsegmentet. |
+| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex/) { get; } | Hämtar slutteckenindex för nuvarande segment i show text-operatorn (Tj, TJ) segment. |
+| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink/) { get; set; } | Hämtar eller ställer in segmentets hyperlänk (för pdf-generator). |
+| [Position](../../aspose.pdf.text/textsegment/position/) { get; set; } | Hämtar textposition för text, representerad med `TextSegment`-objekt. |
+| [Rectangle](../../aspose.pdf.text/textsegment/rectangle/) { get; } | Hämtar rektangeln för TextSegment |
+| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex/) { get; } | Hämtar startteckenindex för nuvarande segment i show text-operatorn (Tj, TJ) segment. |
+| [Text](../../aspose.pdf.text/textsegment/text/) { get; set; } | Hämtar eller ställer in String textobjekt som `TextSegment`-objektet representerar. |
+| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions/) { get; set; } | Hämtar eller ställer in textredigeringsalternativ. Alternativen definierar speciellt beteende när begärt symbol inte kan skrivas med typsnitt. |
+| [TextState](../../aspose.pdf.text/textsegment/textstate/) { get; set; } | Hämtar eller ställer in textstatus för den text som `TextSegment`-objektet representerar. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [MyHtmlEncode](../../aspose.pdf.text/textsegment/myhtmlencode)(string) | Kodar sträng som html. |
+| static [MyHtmlEncode](../../aspose.pdf.text/textsegment/myhtmlencode/)(string) | Kodar sträng som html. |
 
-### Anmärkningar
+## Kommentarer
 
-Med några få ord,[`TextSegment`](../textsegment) föremål är barn till[`TextFragment`](../textfragment) objekt. I detaljer: Text i pdf-dokument iPdf representeras av två grundläggande objekt:[`TextFragment`](../textfragment) och[`TextSegment`](../textsegment) Skillnaderna mellan dem är mestadels kontextberoende. Låt oss överväga följande scenario. Användaren söker efter texten "hej världen" för att arbeta med den, ändra dess egenskaper, utseende etc. Fysiskt sett är pdf-textens representation mycket komplex. Texten "hej världen" kan bestå av flera fysiskt oberoende textsegment. Aspose.Pdf-textmodellen slår i grunden fast att[`TextFragment`](../textfragment) object tillhandahåller en enda logisk operation satt över fysisk[`TextSegment`](../textsegment) objektuppsättning som representerar användarens fråga. I textsökningsscenario,[`TextFragment`](../textfragment) är logisk "hej världen" textrepresentation, och[`TextSegment`](../textsegment)objektsamling representerar alla fysiska segment som konstruerar "hej världen" textobjekt. Så,[`TextFragment`](../textfragment) är nära logisk textrepresentation. And[`TextSegment`](../textsegment) är nära fysisk textrepresentation. Uppenbarligen var och en[`TextSegment`](../textsegment) objektet kan ha sitt eget typsnitt, färg, positioneringsegenskaper. [`TextFragment`](../textfragment) ger ett enkelt sätt att ändra text med dess egenskaper: ställ in teckensnitt, ställ in teckenstorlek, ställ in teckensnittsfärg etc. Under tiden[`TextSegment`](../textsegment) objekt är tillgängliga och användare kan arbeta med[`TextSegment`](../textsegment) objekt oberoende.
+Med några få ord är `TextSegment`-objekt barn till [`TextFragment`](../textfragment/) objekt. I detalj: Texten i pdf-dokumentet i Pdf representeras av två grundläggande objekt: [`TextFragment`](../textfragment/) och `TextSegment`. Skillnaderna mellan dem är mestadels kontextberoende. Låt oss överväga följande scenario. Användaren söker texten "hello world" för att arbeta med den, ändra dess egenskaper, titta osv.
 
 ```csharp
 Document doc = new Document(docFile);
@@ -52,32 +52,32 @@ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 doc.Pages[1].Accept(absorber);
 ```
 
-### Exempel
+Den fysiska representationen av pdf-text är mycket komplex. Texten "hello world" kan bestå av flera fysiskt oberoende textsegment. Aspose.Pdf textmodell fastställer i grunden att [`TextFragment`](../textfragment/) objektet tillhandahåller en enda logisk uppsättning operationer över den fysiska uppsättningen av `TextSegment`-objekt som representerar användarens fråga. I textsökningsscenariot är [`TextFragment`](../textfragment/) den logiska representationen av texten "hello world", och samlingen av `TextSegment`-objekt representerar alla fysiska segment som konstruerar textobjektet "hello world". Så, [`TextFragment`](../textfragment/) ligger nära den logiska textrepresentationen. Och `TextSegment` ligger nära den fysiska textrepresentationen. Uppenbarligen kan varje `TextSegment`-objekt ha sitt eget typsnitt, färg, positioneringsegenskaper. [`TextFragment`](../textfragment/) tillhandahåller ett enkelt sätt att ändra text med dess egenskaper: ställa in typsnitt, ställa in typsnittsstorlek, ställa in typsnittsfärg osv. Under tiden är `TextSegment`-objekt tillgängliga och användare kan arbeta med `TextSegment`-objekt oberoende.
 
-Exemplet visar hur man ändrar textfärg och teckenstorlek på texten med[`TextState`](./textstate) föremål för[`TextSegment`](../textsegment) objekt.
+## Exempel
+
+Exemplet visar hur man ändrar textfärg och typsnittsstorlek för texten med [`TextState`](./textstate/) objektet av `TextSegment`-objekt.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra förgrundsfärgen för det första textsegmentet i den första textförekomsten
+// Change foreground color of the first text segment of the first text occurrence
 absorber.TextFragments[1].Segments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-// Ändra teckenstorlek för det första textsegmentet i den första textförekomsten
+// Change font size of the first text segment of the first text occurrence
 absorber.TextFragments[1].Segments[1].TextState.FontSize = 15;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* sammansättning [Aspose.PDF](../../)

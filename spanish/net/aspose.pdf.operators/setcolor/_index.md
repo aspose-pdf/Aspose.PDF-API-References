@@ -1,14 +1,14 @@
 ---
-title: SetColor
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa la clase para el operador sc fija el color para operaciones sin trazos.
+title: Class SetColor
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Operators.SetColor. Representa la clase para el operador sc que establece el color para operaciones no de trazo
 type: docs
-weight: 5390
+weight: 7630
 url: /es/net/aspose.pdf.operators/setcolor/
 ---
-## SetColor class
+## Clase SetColor
 
-Representa la clase para el operador sc (fija el color para operaciones sin trazos).
+Representa la clase para el operador sc (establecer color para operaciones no de trazo).
 
 ```csharp
 public class SetColor : BasicSetColorOperator
@@ -18,39 +18,38 @@ public class SetColor : BasicSetColorOperator
 
 | Nombre | Descripción |
 | --- | --- |
-| [SetColor](setcolor#constructor)() | Inicializa operador. |
-| [SetColor](setcolor#constructor_1)(double) | Establezca el color para los operadores de trazo para los espacios de color DeviceGrey, CalGrey e Indexed. |
-| [SetColor](setcolor#constructor_4)(double[]) | Constructor que permite especificar componentes de color. |
-| [SetColor](setcolor#constructor_2)(double, double, double) | Establezca el color para el operador de trazado para los espacios de color DeviceRGB, CalRGB y Lab |
-| [SetColor](setcolor#constructor_3)(double, double, double, double) | Establecer el color para el operador sin trazos para el espacio de color CMYK |
+| [SetColor](setcolor/#constructor)() | Inicializa el operador. |
+| [SetColor](setcolor/#constructor_1)(double) | Establece el color para los operadores de trazo para los espacios de color DeviceGray, CalGray e Indexed. |
+| [SetColor](setcolor/#constructor_4)(double[]) | Constructor que permite especificar los componentes de color. |
+| [SetColor](setcolor/#constructor_2)(double, double, double) | Establece el color para el operador de trazo para los espacios de color DeviceRGB, CalRGB y Lab. |
+| [SetColor](setcolor/#constructor_3)(double, double, double, double) | Establece el color para el operador no de trazo para el espacio de color CMYK. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Obtiene el componente rojo de color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Obtiene el componente cian del color CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Obtiene una matriz de componentes de color. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Obtiene el componente verde de color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Obtiene el componente negro del color gris. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Índice de operadores en la lista de operadores de página. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Obtiene el componente negro del color CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Obtiene el componente magenta del color CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Obtiene el componente rojo de color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Obtiene el componente amarillo del color CMYK. |
+| [B](../../aspose.pdf.operators/setcolor/b/) { get; set; } | Obtiene o establece el componente azul. |
+| [C](../../aspose.pdf.operators/setcolor/c/) { get; set; } | Obtiene o establece el componente cian. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Obtiene el arreglo de componentes de color. |
+| [G](../../aspose.pdf.operators/setcolor/g/) { get; set; } | Obtiene o establece el componente verde. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Obtiene el componente negro del color gris. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Índice del operador en la lista de operadores de página. |
+| [K](../../aspose.pdf.operators/setcolor/k/) { get; set; } | Obtiene o establece el componente negro. |
+| [M](../../aspose.pdf.operators/setcolor/m/) { get; set; } | Obtiene o establece el componente magenta. |
+| [R](../../aspose.pdf.operators/setcolor/r/) { get; set; } | Obtiene o establece el componente rojo. |
+| [Y](../../aspose.pdf.operators/setcolor/y/) { get; set; } | Obtiene o establece el componente amarillo. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | Acepta objeto visitante para procesar operador. |
-| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | Devuelve el color especificado por el operador. |
-| override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | Devuelve la representación de cadena de color. |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept/)(IOperatorSelector) | Acepta el objeto visitante para procesar el operador. |
+| override [getColor](../../aspose.pdf.operators/setcolor/getcolor/)() | Devuelve el color especificado por el operador. |
+| override [ToString](../../aspose.pdf.operators/setcolor/tostring/)() | Devuelve la representación en cadena del color. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compara esta instancia con el objeto dado. |
 
-### Ver también
+### Véase también
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* espacio de nombres [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [BasicSetColorOperator](../basicsetcoloroperator/)
+* espacio de nombres [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* ensamblaje [Aspose.PDF](../../)

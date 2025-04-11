@@ -1,11 +1,50 @@
 ---
-title: SplitToEnd
-second_title: Aspose.PDF per .NET API Reference
-description: Divide dalla posizione e salva la parte posteriore come un nuovo file.
+title: PdfFileEditor.SplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfFileEditor. Spartisce dal punto di location e salva la parte posteriore in un nuovo file.
 type: docs
-weight: 390
+weight: 360
 url: /it/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
+## SplitToEnd(string, int, string) {#splittoend_1}
+
+Divide dalla posizione specificata e salva la parte posteriore come un nuovo file Stream.
+
+```csharp
+public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| inputStream | Stream | Stream del file Pdf sorgente. |
+| location | Int32 | La posizione di divisione. |
+| outputStream | Stream | Stream del file Pdf di output. |
+
+### Valore di ritorno
+
+True per successo, o false.
+
+## Osservazioni
+
+I flussi NON vengono chiusi dopo questa operazione a meno che non venga specificato CloseConcatedStreams.
+
+## Esempi
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.SplitToEnd(sourceStream, 5, outStream);
+```
+
+### Vedi Anche
+
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SplitToEnd(string, int, string) {#splittoend_2}
 
 Divide dalla posizione e salva la parte posteriore come un nuovo file.
@@ -16,32 +55,32 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFile | String | File PDF di origine. |
-| location | Int32 | La posizione di scissione. |
+| inputFile | String | File Pdf sorgente. |
+| location | Int32 | La posizione di divisione. |
 | outputFile | String | Percorso del file Pdf di output. |
 
 ### Valore di ritorno
 
-Vero per il successo o falso.
+True per successo, o false.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Divide dalla posizione specificata e salva la parte posteriore come nuovo file Stream.
+Divide dalla posizione specificata e salva la parte posteriore come un nuovo file Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -49,19 +88,19 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Flusso di file Pdf di origine. |
-| location | Int32 | La posizione di scissione. |
-| outputStream | Stream | Output di file Pdf Stream. |
+| inputStream | Stream | Stream del file Pdf sorgente. |
+| location | Int32 | La posizione di divisione. |
+| outputStream | Stream | Stream del file Pdf di output. |
 
 ### Valore di ritorno
 
-Vero per il successo o falso.
+True per successo, o false.
 
-### Osservazioni
+## Osservazioni
 
-I flussi NON vengono chiusi dopo questa operazione a meno che non sia specificato CloseConcatedStreams.
+I flussi NON vengono chiusi dopo questa operazione a meno che non venga specificato CloseConcatedStreams.
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -70,62 +109,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
-
----
-
-## SplitToEnd(Stream, int, HttpResponse) {#splittoend_1}
-
-Divide dalla posizione specificata e salva la parte posteriore nell'oggetto HttpResponse.
-
-```csharp
-public bool SplitToEnd(Stream inputStream, int location, HttpResponse response)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| inputStream | Stream | Flusso di documenti di origine. |
-| location | Int32 | Punto di divisione. |
-| response | HttpResponse | Oggetto HTTPResponse. |
-
-### Valore di ritorno
-
-true se la divisione è riuscita.
-
-### Guarda anche
-
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
-
----
-
-## SplitToEnd(string, int, HttpResponse) {#splittoend_3}
-
-Divide dalla posizione specificata e salva la parte posteriore nell'oggetto HttpResponse.
-
-```csharp
-public bool SplitToEnd(string inputFile, int location, HttpResponse response)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| inputFile | String | nome del file di origine. |
-| location | Int32 | Punto di divisione. |
-| response | HttpResponse | Oggetti HTTPResponse. |
-
-### Valore di ritorno
-
-Vero se l'operazione è riuscita.
-
-### Guarda anche
-
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

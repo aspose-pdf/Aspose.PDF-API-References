@@ -1,128 +1,126 @@
 ---
-title: BmpDevice
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفBmpDeviceaspose.pdf.devices/bmpdevice فئة ذات الدقة الافتراضية.
+title: BmpDevice.BmpDevice
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ BmpDevice. يقوم بتهيئة مثيل جديد من فئة BmpDevice بدقة افتراضية
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice) فئة ذات الدقة الافتراضية.
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../) بدقة افتراضية.
 
 ```csharp
 public BmpDevice()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice) فئة .  دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../).  الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/).
 
 ```csharp
 public BmpDevice(Resolution resolution)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice) فئة بأبعاد الصورة المقدمة و الدقة .
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../) مع أبعاد الصورة والدقة المقدمة.
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice)فئة بحجم الصفحة المقدم ودقة .
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../) مع حجم الصفحة والدقة المقدمة.
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
+| resolution | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [Resolution](../../resolution/)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice) فئة بأبعاد الصورة المقدمة ، الدقة الافتراضية (= 150) .
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../) مع أبعاد الصورة المقدمة، دقة افتراضية (=150).
 
 ```csharp
 public BmpDevice(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpDevice`](../../bmpdevice) فئة بحجم الصفحة المقدم ، الدقة الافتراضية (= 150) .
+يقوم بتهيئة مثيل جديد من فئة [`BmpDevice`](../) مع حجم الصفحة المقدمة، دقة افتراضية (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [BmpDevice](../../bmpdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../bmpdevice)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [BmpDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)

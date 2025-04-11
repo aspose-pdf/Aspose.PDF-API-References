@@ -1,33 +1,33 @@
 ---
-title: Append
-second_title: Aspose.PDF for .NET API Referansı
-description: portStreams içindeki belge dizisinden seçilen sayfaları ekler. Sonuç belgesi firstInputFile ve startPage - endPage aralığındaki tüm portStreams belge sayfalarını içerir.
+title: PdfFileEditor.Append
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. portStreams içindeki belgeler dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portStreams belgelerinin sayfalarını içerir.
 type: docs
-weight: 280
+weight: 250
 url: /tr/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-portStreams içindeki belge dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage - endPage aralığındaki tüm portStreams belge sayfalarını içerir.
+portStreams içindeki belgeler dizisinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portStreams belgelerinin sayfalarını içerir.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş Pdf akışı. |
+| inputStream | Stream | Girdi Pdf akışı. |
 | portStreams | Stream[] | Sayfaların kopyalanacağı belgeler. |
-| startPage | Int32 | Sayfa, portStreams belgelerinde başlar. |
-| endPage | Int32 | Sayfa, portStreams belgelerinde biter. |
-| outputStream | Stream | Çıktı pdf akışı. |
+| startPage | Int32 | portStreams belgelerinde sayfanın başladığı yer. |
+| endPage | Int32 | portStreams belgelerinde sayfanın bittiği yer. |
+| outputStream | Stream | Çıktı Pdf akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -38,107 +38,107 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Append(string, string[], int, int, string) {#append_4}
+## Append(string, string[], int, int, string) {#append_3}
 
-portFiles belgelerinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage - endPage aralığındaki tüm portFiles belge sayfalarını içerir.
+portFiles belgelerinden seçilen sayfaları ekler. Sonuç belgesi, firstInputFile ve startPage ile endPage aralığındaki tüm portFiles belgelerinin sayfalarını içerir.
 
 ```csharp
 public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
     string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
+| inputFile | String | Girdi Pdf dosyası. |
 | portFiles | String[] | Sayfaların kopyalanacağı belgeler. |
-| startPage | Int32 | Sayfa, portFiles belgelerinde başlar. |
-| endPage | Int32 | PortFiles belgelerinde sayfa biter. |
-| outputFile | String | Çıktı pdf belgesi. |
+| startPage | Int32 | portFiles belgelerinde sayfanın başladığı yer. |
+| endPage | Int32 | portFiles belgelerinde sayfanın bittiği yer. |
+| outputFile | String | Çıktı Pdf belgesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Append(string, string, int, int, string) {#append_3}
+## Append(string, string, int, int, string) {#append_2}
 
-startPage ile endPage aralığındaki portFile'dan seçilen sayfaları, firstInputFile. 'nin sonundaki portFile'a ekler.
+startPage ile endPage aralığında portFile'dan seçilen sayfaları, firstInputFile'ın sonuna portFile'da ekler.
 
 ```csharp
 public bool Append(string inputFile, string portFile, int startPage, int endPage, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
+| inputFile | String | Girdi Pdf dosyası. |
 | portFile | String | Pdf dosyasından sayfalar. |
-| startPage | Int32 | Sayfa portFile'da başlar. |
-| endPage | Int32 | Sayfa portFile'da biter. |
-| outputFile | String | Çıktı pdf belgesi. |
+| startPage | Int32 | portFile'da sayfanın başladığı yer. |
+| endPage | Int32 | portFile'da sayfanın bittiği yer. |
+| outputFile | String | Çıktı Pdf belgesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## Append(Stream, Stream, int, int, Stream) {#append}
 
-startPage ile endPage aralığında portStream'den seçilen sayfaları, firstInputStream'in sonunda portStream'e ekler.
+startPage ile endPage aralığında portStream'dan seçilen sayfaları, firstInputStream'ın sonuna portStream'da ekler.
 
 ```csharp
 public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Girdi dosyası Akış. |
-| portStream | Stream | Pdf dosyasından sayfalar Akış. |
-| startPage | Int32 | Sayfa, portFile Stream'de başlar. |
-| endPage | Int32 | Sayfa, portFile Stream'de biter. |
+| inputStream | Stream | Girdi dosyası Akışı. |
+| portStream | Stream | Pdf dosyası Akışından sayfalar. |
+| startPage | Int32 | portFile Akışında sayfanın başladığı yer. |
+| endPage | Int32 | portFile Akışında sayfanın bittiği yer. |
 | outputStream | Stream | Çıktı Pdf dosyası Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -148,68 +148,8 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Append(Stream, Stream[], int, int, HttpResponse) {#append_2}
-
-Belgeleri kaynak belgeye ekler ve sonucu yanıt nesnesine kaydeder.
-
-```csharp
-public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputStream | Stream | Kaynak belgeyi içeren akış. |
-| portStreams | Stream[] | Eklenecek belgelerle akış dizisi. |
-| startPage | Int32 | Eklenen sayfanın başlangıç sayfası. |
-| endPage | Int32 | Eklenen sayfaların bitiş sayfası. |
-| response | HttpResponse | Belgenin kaydedileceği yanıt nesnesi. |
-
-### Geri dönüş değeri
-
-işlem başarılıysa true .
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Append(string, string[], int, int, HttpResponse) {#append_5}
-
-Belgeleri kaynak belgeye ekler ve sonucu HttpResponse nesnesine kaydeder.
-
-```csharp
-public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputFile | String | Kaynak belgeyi içeren dosyanın adı. |
-| portFiles | String[] | Eklenen belgeleri içeren dosya adları dizisi. |
-| startPage | Int32 | Eklenen sayfaların başlangıç sayfası. |
-| endPage | Int32 | Eklenen sayfaların bitiş sayfası. |
-| response | HttpResponse | Belgenin kaydedileceği yanıt nesnesi. |
-
-### Geri dönüş değeri
-
-işlem başarılı olduysa true .
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

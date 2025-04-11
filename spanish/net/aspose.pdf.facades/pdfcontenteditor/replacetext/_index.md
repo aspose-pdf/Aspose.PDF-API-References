@@ -1,66 +1,66 @@
 ---
-title: ReplaceText
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Reemplaza el texto del archivo PDF en la página especificada.TextStateaspose.pdf.text/textstate El objeto familia de fuentes color se puede especificar para reemplazar el texto.
+title: PdfContentEditor.ReplaceText
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfContentEditor. Reemplaza texto en el archivo PDF en la página especificada. Se puede especificar el color de la familia de fuentes del objeto TextState para el texto reemplazado.
 type: docs
 weight: 450
 url: /es/net/aspose.pdf.facades/pdfcontenteditor/replacetext/
 ---
 ## ReplaceText(string, int, string, TextState) {#replacetext_1}
 
-Reemplaza el texto del archivo PDF en la página especificada.[`TextState`](../../../aspose.pdf.text/textstate) El objeto (familia de fuentes, color) se puede especificar para reemplazar el texto.
+Reemplaza texto en el archivo PDF en la página especificada. Se puede especificar el objeto [`TextState`](../../../aspose.pdf.text/textstate/) (familia de fuentes, color) para el texto reemplazado.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | srcString | String | La cadena a ser reemplazada. |
 | thePage | Int32 | Número de página (0 significa "todas las páginas"). |
 | destString | String | La cadena reemplazada. |
-| textState | TextState | Estado del texto (color del texto, fuente, etc.). |
+| textState | TextState | Estado del texto (Color del texto, Fuente, etc.). |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Devuelve verdadero si se realizó un reemplazo.
+Devuelve verdadero si se realizó el reemplazo.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo reemplazar texto en la primera página del documento PDF y establecer[`TextState`](../../../aspose.pdf.text/textstate) propiedades de texto para el nuevo texto.
+El ejemplo demuestra cómo reemplazar texto en la primera página del documento PDF y establecer propiedades de texto [`TextState`](../../../aspose.pdf.text/textstate/) para el nuevo texto.
 
 ```csharp
-// abrir documento
+// open document
 Document doc = new Document(inFile);
 
-// Crear fuente y marcarla para incrustarla
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// crear objeto PdfContentEditor para editar texto
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// crear objeto de estado de texto
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontSize = 17;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 textState.ForegroundColor = Color.Red;
 
-// cambia el texto con la fuente especificada
+// change text with specified font
 editor.ReplaceText("hello world", 1, "hi world", textState);
 
-// guardar documento
+// save document
 doc.Save(outFile);
 ```
 
-### Ver también
+### Véase También
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../../../aspose.pdf.text/textstate/)
+* clase [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -72,187 +72,185 @@ Reemplaza texto en el archivo PDF.
 public bool ReplaceText(string srcString, string destString)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | srcString | String | La cadena a ser reemplazada. |
-| destString | String | Reemplazo de cuerda. |
+| destString | String | Cadena de reemplazo. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Devuelve verdadero si se realizó un reemplazo.
+Devuelve verdadero si se realizó el reemplazo.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo reemplazar texto en un documento PDF.
+El ejemplo demuestra cómo reemplazar texto en el documento PDF.
 
 ```csharp
-// abrir documento
+// open document
 Document doc = new Document(inFile);
 
-// crear objeto PdfContentEditor para editar texto
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// cambiar texto 
+// change text 
 editor.ReplaceText("hello world", "hi world");
 
-// guardar documento
+// save document
 doc.Save(outFile);
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, int, string) {#replacetext}
 
-Reemplaza el texto en el archivo PDF en la página especificada.
+Reemplaza texto en el archivo PDF en la página especificada.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| srcString | String | La picadura a ser reemplazada. |
+| srcString | String | La cadena a ser reemplazada. |
 | thePage | Int32 | Número de página (0 para todas las páginas) |
-| destString | String | Reemplazo de cuerda. |
+| destString | String | Cadena de reemplazo. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Devuelve verdadero si se realizó un reemplazo.
+Devuelve verdadero si se realizó el reemplazo.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo reemplazar texto en un documento PDF en la página especificada.
+El ejemplo demuestra cómo reemplazar texto en el documento PDF en la página especificada.
 
 ```csharp
-// abrir documento
+// open document
 Document doc = new Document(inFile);
 
-// crear objeto PdfContentEditor para editar texto
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// cambiar texto 
+// change text 
 editor.ReplaceText("hello world", 1, "hi world");
 
-// guardar documento
+// save document
 doc.Save(outFile);
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string, TextState) {#replacetext_3}
 
-Reemplaza el texto en el archivo PDF utilizando[`TextState`](../../../aspose.pdf.text/textstate) objeto.
+Reemplaza texto en el archivo PDF utilizando el objeto [`TextState`](../../../aspose.pdf.text/textstate/) especificado.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, TextState textState)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| srcString | String | Cadena a reemplazar |
-| destString | String | Reemplazo de cuerda |
-| textState | TextState | Estado del texto (color del texto, fuente, etc.) |
+| srcString | String | Cadena a ser reemplazada |
+| destString | String | Cadena de reemplazo |
+| textState | TextState | Estado del texto (Color del texto, Fuente, etc.) |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Devuelve verdadero si se realizó un reemplazo.
+Devuelve verdadero si se realizó el reemplazo.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo reemplazar texto y establecer[`TextState`](../../../aspose.pdf.text/textstate) propiedades de texto para el nuevo texto.
+El ejemplo demuestra cómo reemplazar texto y establecer propiedades de texto [`TextState`](../../../aspose.pdf.text/textstate/) para el nuevo texto.
 
 ```csharp
-// abrir documento
+// open document
 Document doc = new Document(inFile);
 
-// Crear fuente y marcarla para incrustarla
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// crear objeto PdfContentEditor para editar texto
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// crear objeto de estado de texto
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 
-// cambia el texto con la fuente especificada
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", textState);
 
-// guardar documento
+// save document
 doc.Save(outFile);
 ```
 
-### Ver también
+### Véase También
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../../../aspose.pdf.text/textstate/)
+* clase [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string, int) {#replacetext_4}
 
-Reemplaza el texto en el archivo PDF y establece el tamaño de fuente.
+Reemplaza texto en el archivo PDF y establece el tamaño de fuente.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, int fontSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | srcString | String | Cadena a ser reemplazada. |
-| destString | String | Reemplazo de cuerda. |
+| destString | String | Cadena de reemplazo. |
 | fontSize | Int32 | Tamaño de fuente. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Devuelve verdadero si se realizó un reemplazo.
+Devuelve verdadero si se realizó el reemplazo.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo reemplazar texto y establecer el tamaño de fuente para el nuevo texto.
+El ejemplo demuestra cómo reemplazar texto y establecer el tamaño de fuente para el nuevo texto.
 
 ```csharp
-// abrir documento
+// open document
 Document doc = new Document(inFile);
 
-// Crear fuente y marcarla para incrustarla
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// crear objeto PdfContentEditor para editar texto
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// cambia el texto con la fuente especificada
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", 14);
 
-// guardar documento
+// save document
 doc.Save(outFile);
 ```
 
-### Ver también
+### Véase También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

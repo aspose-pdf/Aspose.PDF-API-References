@@ -1,71 +1,71 @@
 ---
-title: Insert
-second_title: Aspose.PDF for .NET API Referansı
-description: Başka bir dosyadan sayfaları bir konumda Pdf dosyasına ekler.
+title: PdfFileEditor.Insert
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Başka bir dosyadan sayfaları Pdf dosyasına bir konumda ekler
 type: docs
-weight: 320
+weight: 290
 url: /tr/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
-## Insert(string, int, string, int, int, string) {#insert_3}
+## Insert(string, int, string, int, int, string) {#insert_2}
 
-Başka bir dosyadan sayfaları bir konumda Pdf dosyasına ekler.
+Başka bir dosyadan sayfaları Pdf dosyasına bir konumda ekler.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
     int endPage, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
-| insertLocation | Int32 | Giriş dosyasındaki konum. |
-| portFile | String | Taşıma pdf dosyası. |
-| startPage | Int32 | portFile'da başlangıç pozisyonu. |
+| inputFile | String | Girdi Pdf dosyası. |
+| insertLocation | Int32 | Girdi dosyasındaki konum. |
+| portFile | String | Taşınan Pdf dosyası. |
+| startPage | Int32 | portFile'daki başlangıç konumu. |
 | endPage | Int32 | portFile'daki bitiş konumu. |
-| outputFile | String | Çıktı pdf dosyası. |
+| outputFile | String | Çıktı Pdf dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(Stream, int, Stream, int, int, Stream) {#insert}
 
-Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+Başka bir dosyadan sayfaları girdi Pdf dosyasına ekler.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int startPage, 
     int endPage, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Pdf dosyasının Giriş Akışı. |
-| insertLocation | Int32 | Giriş dosyasına konum ekleyin. |
-| portStream | Stream | Sayfalar için Pdf dosyası akışı. |
-| startPage | Int32 | Hangi sayfadan başlamalı. |
-| endPage | Int32 | Hangi sayfada bitecek. |
-| outputStream | Stream | Çıkış Akışı. |
+| inputStream | Stream | Pdf dosyasının Girdi Akışı. |
+| insertLocation | Int32 | Girdi dosyasındaki ekleme konumu. |
+| portStream | Stream | Sayfalar için Pdf dosyasının Akışı. |
+| startPage | Int32 | Hangi sayfadan başlanacağı. |
+| endPage | Int32 | Hangi sayfada sona ereceği. |
+| outputStream | Stream | Çıktı Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -75,72 +75,72 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Insert(string, int, string, int[], string) {#insert_4}
+## Insert(string, int, string, int[], string) {#insert_3}
 
-Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+Başka bir dosyadan sayfaları girdi Pdf dosyasına ekler.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
-| insertLocation | Int32 | Giriş dosyasına konum ekleyin. |
+| inputFile | String | Girdi Pdf dosyası. |
+| insertLocation | Int32 | Girdi dosyasındaki ekleme konumu. |
 | portFile | String | Pdf dosyasından sayfalar. |
-| pageNumber | Int32[] | portFile içinde taşınan sayfa numarası. |
-| outputFile | String | Çıktı pdf dosyası. |
+| pageNumber | Int32[] | portFile'daki taşınan sayfa numarası. |
+| outputFile | String | Çıktı Pdf dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(Stream, int, Stream, int[], Stream) {#insert_1}
 
-Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+Başka bir dosyadan sayfaları girdi Pdf dosyasına ekler.
 
 ```csharp
 public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Pdf dosyasının Giriş Akışı. |
-| insertLocation | Int32 | Giriş dosyasına konum ekleyin. |
-| portStream | Stream | Sayfalar için Pdf dosyası akışı. |
-| pageNumber | Int32[] | portFile içinde taşınan sayfa numarası. |
-| outputStream | Stream | Çıkış Akışı. |
+| inputStream | Stream | Pdf dosyasının Girdi Akışı. |
+| insertLocation | Int32 | Girdi dosyasındaki ekleme konumu. |
+| portStream | Stream | Sayfalar için Pdf dosyasının Akışı. |
+| pageNumber | Int32[] | portFile'daki taşınan sayfa numarası. |
+| outputStream | Stream | Çıktı Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -150,68 +150,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Insert(string, int, string, int[], HttpResponse) {#insert_5}
-
-Dosyanın içeriğini kaynak dosyaya ekler ve sonucu HttpResponse nesnesine depolar.
-
-```csharp
-public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputFile | String | Kaynak dosya adı. |
-| insertLocation | Int32 | İkinci dosyanın ekleneceği sayfa numarası. |
-| portFile | String | Eklenecek dosyanın yolu. |
-| pageNumber | Int32[] | Eklenecek olan kaynak dosyadaki sayfa numaraları dizisi. |
-| response | HttpResponse | Sonucun saklanacağı yanıt nesnesi. |
-
-### Geri dönüş değeri
-
-true yerleştirme başarılı oldu.
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Insert(Stream, int, Stream, int[], HttpResponse) {#insert_2}
-
-Belgeyi başka bir belgeye ekler ve sonucu yanıt nesnesine kaydeder.
-
-```csharp
-public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputStream | Stream | Kaynak belgeyle akış |
-| insertLocation | Int32 | Diğer belgenin ekleneceği konum. |
-| portStream | Stream | Eklenecek belge. |
-| pageNumber | Int32[] | Eklenecek ikinci belgedeki sayfa numaraları dizisi. |
-| response | HttpResponse | Sonucun saklanacağı yanıt nesnesi. |
-
-### Geri dönüş değeri
-
-İşlem başarılı olduysa doğrudur.
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

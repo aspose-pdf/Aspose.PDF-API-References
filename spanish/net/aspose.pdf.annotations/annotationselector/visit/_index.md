@@ -1,511 +1,614 @@
 ---
-title: Visit
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Seleccione la anotación de enlace si AnnotationSelector se inicializó con el objeto LinkAnnotation.
+title: AnnotationSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: Método AnnotationSelector. Seleccionar anotación de enlace si AnnotationSelector fue inicializado con un objeto LinkAnnotation
 type: docs
 weight: 30
 url: /es/net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_9}
 
-Seleccione la anotación de enlace si AnnotationSelector se inicializó con el objeto LinkAnnotation.
+Seleccionar anotación de enlace si AnnotationSelector fue inicializado con un objeto LinkAnnotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | link | LinkAnnotation | Objeto LinkAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [LinkAnnotation](../../linkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [LinkAnnotation](../../linkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
-Seleccionar anotación de archivo adjunto si AnnotationSelector se inicializó con el objeto FileAttachmentAnnotation.
+Seleccionar anotación de archivo adjunto si AnnotationSelector fue inicializado con un objeto FileAttachmentAnnotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | Objeto FileAttachmentAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_20}
+## Visit(TextAnnotation) {#visit_24}
 
-Seleccionar anotación de texto si AnnotationSelector se inicializó con el objeto TextAnnotation.
+Seleccionar anotación de texto si AnnotationSelector fue inicializado con un objeto TextAnnotation.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | text | TextAnnotation | Objeto TextAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [TextAnnotation](../../textannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [TextAnnotation](../../textannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_13}
+## Visit(RedactionAnnotation) {#visit_16}
 
-Seleccione la anotación redactada si AnnotationSelector se inicializó con el objeto RedactAnnotation.
+Seleccionar anotación de redacción si AnnotationSelector fue inicializado con un objeto RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | redact | RedactionAnnotation | Objeto RedactAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [RedactionAnnotation](../../redactionannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../../redactionannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_5}
 
-Seleccionar anotación de texto libre si AnnotationSelector se inicializó con el objeto FreeTextAnnotation.
+Seleccionar anotación de texto libre si AnnotationSelector fue inicializado con un objeto FreeTextAnnotation.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | freetext | FreeTextAnnotation | Objeto FreeTextAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_6}
 
-Seleccionar anotación de archivo adjunto si AnnotationSelector se inicializó con el objeto FreeTextAnnotation.
+Seleccionar anotación de resaltado si AnnotationSelector fue inicializado con un objeto FreeTextAnnotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | highlight | HighlightAnnotation | Objeto HighlightAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [HighlightAnnotation](../../highlightannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_21}
+## Visit(UnderlineAnnotation) {#visit_26}
 
-Seleccione la anotación subrayada si AnnotationSelector se inicializó con el objeto UnderlineAnnotation.
+Seleccionar anotación de subrayado si AnnotationSelector fue inicializado con un objeto UnderlineAnnotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | underline | UnderlineAnnotation | Objeto UnderlineAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_19}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
-Seleccione la anotación tachada si AnnotationSelector se inicializó con el objeto StrikeOutAnnotation.
+Seleccionar anotación de tachado si AnnotationSelector fue inicializado con un objeto StrikeOutAnnotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | strikeOut | StrikeOutAnnotation | Objeto StrikeOutAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_17}
+## Visit(SquigglyAnnotation) {#visit_21}
 
-Seleccione la anotación ondulada si AnnotationSelector se inicializó con el objeto SquigglyAnnotation.
+Seleccionar anotación ondulada si AnnotationSelector fue inicializado con un objeto SquigglyAnnotation.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | squiggly | SquigglyAnnotation | Objeto SquigglyAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_12}
+## Visit(PopupAnnotation) {#visit_15}
 
-Seleccionar anotación emergente si AnnotationSelector se inicializó con el objeto PopupAnnotation.
+Seleccionar anotación emergente si AnnotationSelector fue inicializado con un objeto PopupAnnotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | popup | PopupAnnotation | Objeto PopupAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [PopupAnnotation](../../popupannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [PopupAnnotation](../../popupannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_8}
 
-Seleccionar anotación de línea si AnnotationSelector se inicializó con el objeto LineAnnotation.
+Seleccionar anotación de línea si AnnotationSelector fue inicializado con un objeto LineAnnotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | line | LineAnnotation | Objeto LineAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [LineAnnotation](../../lineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [LineAnnotation](../../lineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Seleccione la anotación circular si AnnotationSelector se inicializó con el objeto CircleAnnotation.
+Seleccionar anotación de círculo si AnnotationSelector fue inicializado con un objeto CircleAnnotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | circle | CircleAnnotation | Objeto CircleAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [CircleAnnotation](../../circleannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [CircleAnnotation](../../circleannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_16}
+## Visit(SquareAnnotation) {#visit_20}
 
-Seleccionar anotación cuadrada si AnnotationSelector se inicializó con el objeto SquareAnnotation.
+Seleccionar anotación de cuadrado si AnnotationSelector fue inicializado con un objeto SquareAnnotation.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | square | SquareAnnotation | Objeto SquareAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [SquareAnnotation](../../squareannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [SquareAnnotation](../../squareannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_7}
 
-Seleccione la anotación de tinta si AnnotationSelector se inicializó con el objeto InkAnnotation.
+Seleccionar anotación de tinta si AnnotationSelector fue inicializado con un objeto InkAnnotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | ink | InkAnnotation | Objeto InkAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [InkAnnotation](../../inkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [InkAnnotation](../../inkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_11}
+## Visit(PolylineAnnotation) {#visit_14}
 
-Seleccione la anotación de polilínea si AnnotationSelector se inicializó con el objeto PolylineAnnotation.
+Seleccionar anotación de polilínea si AnnotationSelector fue inicializado con un objeto PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | polyline | PolylineAnnotation | Objeto PolylineAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [PolylineAnnotation](../../polylineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_10}
+## Visit(PolygonAnnotation) {#visit_13}
 
-Seleccione la anotación de polígono si AnnotationSelector se inicializó con el objeto PolygonAnnotation.
+Seleccionar anotación de polígono si AnnotationSelector fue inicializado con un objeto PolygonAnnotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | polygon | PolygonAnnotation | Objeto PolygonAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [PolygonAnnotation](../../polygonannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Seleccione la anotación de intercalación si AnnotationSelector se inicializó con el objeto CaretAnnotation.
+Seleccionar anotación de cursor si AnnotationSelector fue inicializado con un objeto CaretAnnotation.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | caret | CaretAnnotation | Objeto CaretAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [CaretAnnotation](../../caretannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [CaretAnnotation](../../caretannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_18}
+## Visit(StampAnnotation) {#visit_22}
 
-Seleccione la anotación de sello si AnnotationSelector se inicializó con el objeto StampAnnotation.
+Seleccionar anotación de sello si AnnotationSelector fue inicializado con un objeto StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | stamp | StampAnnotation | Objeto StampAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [StampAnnotation](../../stampannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [StampAnnotation](../../stampannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_23}
+## Visit(WidgetAnnotation) {#visit_28}
 
-Seleccionar anotación de widget si AnnotationSelector se inicializó con el objeto WidgetAnnotation.
+Seleccionar anotación de widget si AnnotationSelector fue inicializado con un objeto WidgetAnnotation.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | widget | WidgetAnnotation | Objeto WidgetAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [WidgetAnnotation](../../widgetannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_22}
+## Visit(WatermarkAnnotation) {#visit_27}
 
-Seleccione la anotación de marca de agua si AnnotationSelector se inicializó con el objeto WatermarkAnnotation.
+Seleccionar anotación de marca de agua si AnnotationSelector fue inicializado con un objeto WatermarkAnnotation.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | Anotación de marca de agua para seleccionar. |
+| watermark | WatermarkAnnotation | Objeto WatermarkAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [WatermarkAnnotation](../../watermarkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [WatermarkAnnotation](../../watermarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_10}
 
-Seleccionar anotación de película si AnnotationSelector se inicializó con el objeto MovieAnnotation.
+Seleccionar anotación de película si AnnotationSelector fue inicializado con un objeto MovieAnnotation.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | movie | MovieAnnotation | Objeto MovieAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [MovieAnnotation](../../movieannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [MovieAnnotation](../../movieannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_14}
+## Visit(RichMediaAnnotation) {#visit_18}
 
-Seleccione la anotación de película si AnnotationSelector se inicializó con el objeto de anotación de RichMedia.
+Seleccionar anotación de película si AnnotationSelector fue inicializado con un objeto de anotación RichMedia.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | Anotación de Rich Media. |
+| richMedia | RichMediaAnnotation | Anotación RichMedia. |
 
-### Ver también
+### Ver También
 
-* class [RichMediaAnnotation](../../richmediaannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../../richmediaannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_15}
+## Visit(ScreenAnnotation) {#visit_19}
 
-Seleccionar anotación de pantalla si AnnotationSelector se inicializó con el objeto ScreenAnnotation.
+Seleccionar anotación de pantalla si AnnotationSelector fue inicializado con un objeto ScreenAnnotation.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | screen | ScreenAnnotation | Objeto ScreenAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [ScreenAnnotation](../../screenannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../../screenannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_9}
+## Visit(PDF3DAnnotation) {#visit_12}
 
-Seleccione la anotación PDF3D si AnnotationSelector se inicializó con el objeto PDF3DAnnotation.
+Seleccionar anotación PDF3D si AnnotationSelector fue inicializado con un objeto PDF3DAnnotation.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pdf3D | PDF3DAnnotation | Objeto PDF3DAnnotation para seleccionar. |
 
-### Ver también
+### Ver También
 
-* class [PDF3DAnnotation](../../pdf3dannotation)
-* class [AnnotationSelector](../../annotationselector)
-* espacio de nombres [Aspose.Pdf.Annotations](../../annotationselector)
-* asamblea [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../../pdf3dannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(ColorBarAnnotation) {#visit_3}
+
+Seleccionar anotación ColorBar si AnnotationSelector fue inicializado con un objeto ColorBar.
+
+```csharp
+public void Visit(ColorBarAnnotation colorBar)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| colorBar | ColorBarAnnotation | Objeto PDF3DAnnotation para seleccionar. |
+
+### Ver También
+
+* class [ColorBarAnnotation](../../colorbarannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+Selecciona el *trimMark* si el [`AnnotationSelector`](../) fue inicializado con un objeto [`TrimMarkAnnotation`](../../trimmarkannotation/) .
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | El objeto [`TrimMarkAnnotation`](../../trimmarkannotation/) para selección. |
+
+### Ver También
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Selecciona el *bleedMark* si el [`AnnotationSelector`](../) fue inicializado con un objeto [`BleedMarkAnnotation`](../../bleedmarkannotation/) .
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | El objeto [`BleedMarkAnnotation`](../../bleedmarkannotation/) para selección. |
+
+### Ver También
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+Selecciona el *registrationMark* si el [`AnnotationSelector`](../) fue inicializado con un objeto [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) .
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | El objeto [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) para selección. |
+
+### Ver También
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+Selecciona la *pageInformation* si el [`AnnotationSelector`](../) fue inicializado con un objeto [`PageInformationAnnotation`](../../pageinformationannotation/) .
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | El objeto [`PageInformationAnnotation`](../../pageinformationannotation/) para selección. |
+
+### Ver También
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

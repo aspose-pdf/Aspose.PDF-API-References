@@ -1,14 +1,14 @@
 ---
-title: ImportDataTable
-second_title: Aspose.PDF per .NET API Reference
-description: Importa i dati da System.Data.DataTable in Aspose.Pdf.Table
+title: Table.ImportDataTable
+second_title: Aspose.PDF for .NET API Reference
+description: Table method. Imports data from System.Data.DataTable into Aspose.Pdf.Table
 type: docs
 weight: 260
 url: /it/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-Importa i dati da System.Data.DataTable in Aspose.Pdf.Table
+Importa dati da System.Data.DataTable in Aspose.Pdf.Table
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
@@ -17,22 +17,22 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| importedDataTable | DataTable | istanza di origine di System.Data.DataTable |
-| isColumnNamesImported | Boolean | specifica se i nomi delle colonne verranno importati come prima riga |
-| firstFilledRow | Int32 | specifica il numero in base zero della prima riga nella tabella di destinazione da cui inizierà l'importazione, se le righe con tale numero (e alcune righe precedenti) sono assenti nella tabella di destinazione, verranno create per prime |
-| firstFilledColumn | Int32 | specifica il numero della prima colonna di destinazione nella tabella di destinazione, la colonna deve essere presente nella tabella di destinazione prima dell'inizio dell'importazione |
+| importedDataTable | DataTable | istanza sorgente di System.Data.DataTable |
+| isColumnNamesImported | Boolean | specifica se i nomi delle colonne saranno importati come prima riga |
+| firstFilledRow | Int32 | specifica il numero basato su zero della prima riga nella tabella di destinazione da cui inizierà l'importazione; se la riga con tale numero (e alcune righe precedenti) sono assenti nella tabella di destinazione, verranno create prima |
+| firstFilledColumn | Int32 | specifica il numero della prima colonna di destinazione nella tabella di destinazione; la colonna deve essere presente nella tabella di destinazione prima dell'inizio dell'importazione |
 
-### Guarda anche
+### Vedi Anche
 
-* class [Table](../../table)
-* spazio dei nomi [Aspose.Pdf](../../table)
-* assemblea [Aspose.PDF](../../../)
+* classe [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-Importazioni aDataTable oggetto nella tabella.
+Importa un oggetto DataTable nella tabella.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -42,25 +42,25 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| importedDataTable | DataTable | IlDataTable oggetto da importare. |
-| isColumnNamesShown | Boolean | Specifica se i nomi delle colonne della tabella dati di origine verranno importati come prima riga. |
-| firstFilledRow | Int32 | specifica il numero in base zero della prima riga nella tabella di destinazione da cui inizierà l'importazione, se le righe con tale numero (e alcune righe precedenti) sono assenti nella tabella di destinazione, verranno create per prime |
-| firstFilledColumn | Byte | specifica il numero della prima colonna di destinazione nella tabella di destinazione, la colonna deve essere presente nella tabella di destinazione prima dell'inizio dell'importazione |
-| maxRows | Int32 | Quantità massima di righe da importare dalla tabella di origine. |
-| maxColumns | Int32 | Quantità massima di colonne da importare dalla tabella di origine. |
+| importedDataTable | DataTable | L'oggetto DataTable da importare. |
+| isColumnNamesShown | Boolean | Specifica se i nomi delle colonne della datatable sorgente saranno importati come prima riga. |
+| firstFilledRow | Int32 | specifica il numero basato su zero della prima riga nella tabella di destinazione da cui inizierà l'importazione; se la riga con tale numero (e alcune righe precedenti) sono assenti nella tabella di destinazione, verranno create prima |
+| firstFilledColumn | Byte | specifica il numero della prima colonna di destinazione nella tabella di destinazione; la colonna deve essere presente nella tabella di destinazione prima dell'inizio dell'importazione |
+| maxRows | Int32 | Quantità massima di righe da importare dalla tabella sorgente. |
+| maxColumns | Int32 | Quantità massima di colonne da importare dalla tabella sorgente. |
 | isHtmlSupported | Boolean | Specifica se il testo è una stringa html. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [Table](../../table)
-* spazio dei nomi [Aspose.Pdf](../../table)
-* assemblea [Aspose.PDF](../../../)
+* classe [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-Importazioni aDataTable oggetto, ma non come entità intera. Vengono importate solo righe e colonne specificate.
+Importa un oggetto DataTable, ma non come entità intera. Solo righe e colonne specificate vengono importate.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -70,18 +70,16 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| importedDataTable | DataTable | IlDataTable oggetto da importare. |
-| sourceRowList | Int32[] | L'array di numeri di righe nell'origineDataTableoggetto che deve essere importato. L'elenco non deve essere null e deve contenere solo numeri di righe esistenti, altrimenti verrà generata un'eccezione. |
-| sourceColumnList | Int32[] | L'array di numeri di colonne nell'origineDataTable oggetto che deve essere importato. L'elenco non deve essere null e deve contenere solo numeri di colonne esistenti, altrimenti verrà generata un'eccezione. |
-| firstFilledRow | Int32 | Il numero di riga in base zero della prima cella nella tabella di destinazione da cui inizierà l'importazione. Se la tabella di destinazione non contiene quella riga, verrà creata (e tutte le precedenti se necessario) |
-| firstFilledColumn | Int32 | Il numero di colonna in base zero della prima cella nella tabella di destinazione da cui inizierà l'importazione. La tabella di destinazione deve contenere quella colonna prima dell'avvio dell'importazione, altrimenti verrà generata un'eccezione. |
-| showColumnNamesAsFirstRow | Boolean | Specifica se i nomi delle colonne della tabella dati di origine verranno importati come prima riga. |
+| importedDataTable | DataTable | L'oggetto DataTable da importare. |
+| sourceRowList | Int32[] | L'array di numeri delle righe nell'oggetto DataTable sorgente che devono essere importate. L'elenco non deve essere nullo e deve contenere solo numeri di righe esistenti, altrimenti verrà sollevata un'eccezione. |
+| sourceColumnList | Int32[] | L'array di numeri delle colonne nell'oggetto DataTable sorgente che devono essere importate. L'elenco non deve essere nullo e deve contenere solo numeri di colonne esistenti, altrimenti verrà sollevata un'eccezione. |
+| firstFilledRow | Int32 | Il numero di riga basato su zero della prima cella nella tabella di destinazione da cui inizierà l'importazione. Se la tabella di destinazione non contiene quella riga, verrà creata (e tutte le precedenti se necessario) |
+| firstFilledColumn | Int32 | Il numero di colonna basato su zero della prima cella nella tabella di destinazione da cui inizierà l'importazione. La tabella di destinazione deve contenere quella colonna prima dell'inizio dell'importazione, altrimenti verrà sollevata un'eccezione. |
+| showColumnNamesAsFirstRow | Boolean | Specifica se i nomi delle colonne della datatable sorgente saranno importati come prima riga. |
 | isHtmlSupported | Boolean | Specifica se il testo è una stringa html. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [Table](../../table)
-* spazio dei nomi [Aspose.Pdf](../../table)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

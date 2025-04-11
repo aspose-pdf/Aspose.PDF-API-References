@@ -1,138 +1,136 @@
 ---
-title: OpenStream
-second_title: Aspose.PDF for .NET API Referansı
-description: Başlatın ve yeni Document örneğini şuradan döndürüninput akış.
+title: ComHelper.OpenStream
+second_title: Aspose.PDF for .NET API Reference
+description: ComHelper yöntemi. Giriş akışından yeni bir Belge örneği başlatın ve döndürün
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış.
+*Giriş* akışından yeni bir Belge örneği başlatın ve döndürün.
 
 ```csharp
 public Document OpenStream(Stream input)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| input | Stream | Pdf belgesi ile akış. |
+| input | Stream | PDF belgesi içeren akış. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belge nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* ad alanı [Aspose.Pdf](../../comhelper)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Document](../../document/)
+* sınıf [ComHelper](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış.
+*Giriş* akışından yeni bir Belge örneği başlatın ve döndürün.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| input | Stream | Giriş akışı nesnesi, karşılık gelen pdf parola korumalıdır. |
-| password | String | Kullanıcı veya sahip parolası. |
+| input | Stream | Giriş akış nesnesi, ilgili PDF şifre korumalıdır. |
+| password | String | Kullanıcı veya sahip şifresi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belge nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* ad alanı [Aspose.Pdf](../../comhelper)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Document](../../document/)
+* sınıf [ComHelper](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış.
+*Giriş* akışından yeni bir Belge örneği başlatın ve döndürün.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| input | Stream | Pdf belgesi ile akış. |
-| isManagedStream | Boolean | ayarlanırsa`doğru` çıkıştan önce iç akış kapatılır; aksi halde değildir. |
+| input | Stream | PDF belgesi içeren akış. |
+| isManagedStream | Boolean | `true` olarak ayarlandığında, iç akış çıkıştan önce kapatılır; aksi takdirde, kapatılmaz. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belge nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* ad alanı [Aspose.Pdf](../../comhelper)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Document](../../document/)
+* sınıf [ComHelper](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış.
+*Giriş* akışından yeni bir Belge örneği başlatın ve döndürün.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| input | Stream | Pdf belgesi ile akış. |
-| password | String | Kullanıcı veya sahip parolası. |
-| isManagedStream | Boolean | ayarlanırsa`doğru` çıkıştan önce iç akış kapatılır; aksi halde değildir. |
+| input | Stream | PDF belgesi içeren akış. |
+| password | String | Kullanıcı veya sahip şifresi. |
+| isManagedStream | Boolean | `true` olarak ayarlandığında, iç akış çıkıştan önce kapatılır; aksi takdirde, kapatılmaz. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belge nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../document)
-* class [ComHelper](../../comhelper)
-* ad alanı [Aspose.Pdf](../../comhelper)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Document](../../document/)
+* sınıf [ComHelper](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-PDF belgesi almak için gerekli dönüştürmeyi sağlayan bir akıştan mevcut bir belgeyi açın ve döndürün.
+Gerekli dönüştürmeyi sağlayarak bir akıştan mevcut bir belgeyi açın ve döndürün.
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| input | Stream | PDF belgesine dönüştürülecek giriş akışı. |
-| options | LoadOptions | Dönüştürme özelliklerini temsil eder*input* pdf belgesine. |
+| input | Stream | PDF belgesine dönüştürülmek üzere giriş akışı. |
+| options | LoadOptions | *Giriş*'i PDF belgesine dönüştürmek için özellikleri temsil eder. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belge nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Document](../../document)
-* class [LoadOptions](../../loadoptions)
-* class [ComHelper](../../comhelper)
-* ad alanı [Aspose.Pdf](../../comhelper)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Document](../../document/)
+* sınıf [LoadOptions](../../loadoptions/)
+* sınıf [ComHelper](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)

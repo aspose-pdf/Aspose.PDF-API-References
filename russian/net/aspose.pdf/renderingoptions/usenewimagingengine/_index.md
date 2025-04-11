@@ -1,22 +1,22 @@
 ---
 title: UseNewImagingEngine
-second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает флаг определяющий используется ли новый механизм обработки изображений.
+second_title: Aspose.PDF for .NET API Reference
+description: Получает или устанавливает флаг, определяющий, используется ли новый движок визуализации или нет.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/renderingoptions/usenewimagingengine/
 ---
-## RenderingOptions.UseNewImagingEngine property
+## RenderingOptions.UseNewImagingEngine свойство
 
-Получает или задает флаг, определяющий, используется ли новый механизм обработки изображений.
+Получает или устанавливает флаг, определяющий, используется ли новый движок визуализации или нет.
 
 ```csharp
 public bool UseNewImagingEngine { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
-* class [RenderingOptions](../../renderingoptions)
+* класс [RenderingOptions](../../renderingoptions)
 * пространство имен [Aspose.Pdf](../../renderingoptions)
 * сборка [Aspose.PDF](../../../)
 

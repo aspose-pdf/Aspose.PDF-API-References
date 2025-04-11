@@ -1,0 +1,21 @@
+---
+title: FileResponse.FileResponse
+second_title: Aspose.PDF for .NET API Reference
+description: FileResponse 构造函数。默认构造函数
+type: docs
+weight: 10
+url: /zh/net/aspose.pdf.ai/fileresponse/fileresponse/
+---
+## FileResponse 构造函数
+
+默认构造函数。
+
+```csharp
+public FileResponse()
+```
+
+### 另请参见
+
+* 类 [FileResponse](../)
+* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* 程序集 [Aspose.PDF](../../../)

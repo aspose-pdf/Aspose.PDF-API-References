@@ -1,106 +1,104 @@
 ---
-title: AddMarginsPct
-second_title: Aspose.PDF per .NET API Reference
-description: Ridimensiona il contenuto della pagina e aggiunge i margini specificati. I margini sono specificati in percentuali della dimensione iniziale della pagina.
+title: PdfFileEditor.AddMarginsPct
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfFileEditor. Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in percentuale rispetto alla dimensione iniziale della pagina
 type: docs
-weight: 260
+weight: 230
 url: /it/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
-## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
-
-Ridimensiona il contenuto della pagina e aggiunge i margini specificati. I margini sono specificati in percentuali della dimensione iniziale della pagina.
-
-```csharp
-public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
-    double rightMargin, double topMargin, double bottomMargin)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| source | String | Percorso del documento di origine. |
-| destination | String | Percorso in cui verrà salvato il documento risultante. |
-| pages | Int32[] | Matrice di indici di pagina. Se nullo, tutte le pagine del documento verranno elaborate. |
-| leftMargin | Double | Margine sinistro in percentuale del formato pagina iniziale. |
-| rightMargin | Double | Margine destro in percentuale del formato pagina iniziale. |
-| topMargin | Double | Margine superiore in percentuale della dimensione della pagina iniziale. |
-| bottomMargin | Double | Margine inferiore in percentuale del formato pagina iniziale. |
-
-### Valore di ritorno
-
-true se il ridimensionamento ha avuto esito positivo
-
-### Esempi
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //elabora le pagine 1, 2, 3
-    new int[] { 1, 2, 3}, 
-    //il margine sinistro è il 15% della larghezza della pagina 
-    15, 
-    //il margine destro è il 10% della larghezza della pagina
-    10, 
-    //il margine superiore è il 20% della larghezza della pagina
-    20, 
-    //il margine inferiore è il 5% della larghezza della pagina
-    5);
-```
-
-### Guarda anche
-
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
-
----
-
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Ridimensiona il contenuto della pagina e aggiunge i margini specificati. I margini sono specificati in percentuali della dimensione iniziale della pagina.
+Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in percentuale rispetto alla dimensione iniziale della pagina.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| source | Stream | Stream che contiene il documento di origine. |
-| destination | Stream | Stream in cui verrà salvato il documento risultante. |
-| pages | Int32[] | Matrice di indici di pagina. Se nullo, tutte le pagine del documento verranno elaborate. |
-| leftMargin | Double | Margine sinistro in percentuale del formato pagina iniziale. |
-| rightMargin | Double | Margine destro in percentuale del formato pagina iniziale. |
-| topMargin | Double | Margine superiore in percentuale della dimensione della pagina iniziale. |
-| bottomMargin | Double | Margine inferiore in percentuale del formato pagina iniziale. |
+| source | Stream | Stream che contiene il documento sorgente. |
+| destination | Stream | Stream dove il documento risultante sarà salvato. |
+| pages | Int32[] | Array degli indici delle pagine. Se nullo, tutte le pagine del documento saranno elaborate. |
+| leftMargin | Double | Margine sinistro in percentuale rispetto alla dimensione iniziale della pagina. |
+| rightMargin | Double | Margine destro in percentuale rispetto alla dimensione iniziale della pagina. |
+| topMargin | Double | Margine superiore in percentuale rispetto alla dimensione iniziale della pagina. |
+| bottomMargin | Double | Margine inferiore in percentuale rispetto alla dimensione iniziale della pagina. |
 
-### Valore di ritorno
+### Return Value
 
-true se l'azione è stata eseguita correttamente.
+true se l'azione è stata eseguita con successo.
 
-### Esempi
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //elabora le pagine 1, 2, 3
+    //process pages 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //il margine sinistro è il 15% della larghezza della pagina 
+    //left margin is 15% of page width 
     15, 
-    //il margine destro è il 10% della larghezza della pagina
+    //right margin is 10% of page width
     10, 
-    //il margine superiore è il 20% della larghezza della pagina
+    //top margin is 20% of page width
     20, 
-    //il margine inferiore è il 5% della larghezza della pagina
+    //bottom margin is 5% of page width
     5);
     dest.Close();
 ```
 
-### Guarda anche
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdffileeditor)
-* assemblea [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
+
+Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in percentuale rispetto alla dimensione iniziale della pagina.
+
+```csharp
+public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
+    double rightMargin, double topMargin, double bottomMargin)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | String | Percorso del documento sorgente. |
+| destination | String | Percorso dove il documento risultante sarà salvato. |
+| pages | Int32[] | Array degli indici delle pagine. Se nullo, tutte le pagine del documento saranno elaborate. |
+| leftMargin | Double | Margine sinistro in percentuale rispetto alla dimensione iniziale della pagina. |
+| rightMargin | Double | Margine destro in percentuale rispetto alla dimensione iniziale della pagina. |
+| topMargin | Double | Margine superiore in percentuale rispetto alla dimensione iniziale della pagina. |
+| bottomMargin | Double | Margine inferiore in percentuale rispetto alla dimensione iniziale della pagina. |
+
+### Return Value
+
+true se il ridimensionamento è stato eseguito con successo
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
+    //process pages 1, 2, 3
+    new int[] { 1, 2, 3}, 
+    //left margin is 15% of page width 
+    15, 
+    //right margin is 10% of page width
+    10, 
+    //top margin is 20% of page width
+    20, 
+    //bottom margin is 5% of page width
+    5);
+```
+
+### See Also
+
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,100 +1,103 @@
 ---
-title: AddImage
-second_title: Aspose.PDF for .NET API Referansı
-description: Sayfaya resim ekler ve resmin oranını kaydeden belirtilen dikdörtgenin ortasına yerleştirir.
+title: Page.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: Sayfa yöntemi. Sayfaya resim ekler ve belirtilen dikdörtgenin ortasında konumlandırır, resim oranını korur.
 type: docs
-weight: 340
+weight: 350
 url: /tr/net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-Sayfaya resim ekler ve resmin oranını kaydeden belirtilen dikdörtgenin ortasına yerleştirir.
+Sayfaya resim ekler ve belirtilen dikdörtgenin ortasında konumlandırır, resmin oranını korur.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
+    bool autoAdjustRectangle = true)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageStream | Stream | Resmin akışı. |
 | imageRect | Rectangle | Resmin konumu. |
+| bbox | Rectangle | Resmin bbox'u. |
+| autoAdjustRectangle | Boolean | Resmi giriş dikdörtgeninin ortasında ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* ad alanı [Aspose.Pdf](../../page)
-* toplantı [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, Stream, Rectangle) {#addimage_3}
+## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-Sayfaya aranabilir resim ekler ve resmin oranını kaydeden belirtilen dikdörtgenin ortasına yerleştirir.
+Aranabilir resmi sayfaya ekler ve belirtilen dikdörtgenin ortasında konumlandırır, resmin oranını korur.
 
 ```csharp
-public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
+public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| hocr | String | Görüntünün hocr'u. |
+| hocr | String | Resmin hocr'u. |
 | imageStream | Stream | Resmin akışı. |
 | imageRect | Rectangle | Resmin konumu. |
+| bbox | Rectangle | Resmin bbox'u. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* ad alanı [Aspose.Pdf](../../page)
-* toplantı [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, Rectangle, int, int, bool) {#addimage_1}
+## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-Sayfaya resim ekler ve resmin dikdörtgen konumuna göre yerleştirir.
+Sayfaya resim ekler ve resmi dikdörtgen konumuna göre yerleştirir.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
-    bool saveImageProportions)
+    bool saveImageProportions, Rectangle bbox = null)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageStream | Stream | Resmin akışı. |
-| imageRect | Rectangle | Resmin sayfadaki varsayılan konumu. |
+| imageRect | Rectangle | Sayfadaki resmin varsayılan konumu. |
 | imageWidth | Int32 | Resmin genişliği. |
 | imageHeight | Int32 | Resmin yüksekliği. |
-| saveImageProportions | Boolean | Bayrak true olarak ayarlanırsa, görüntü dikdörtgen konumuna yerleştirilirse; aksi takdirde, dikdörtgenin boyutu görüntü boyutuna eşit hale geliyor. |
+| saveImageProportions | Boolean | Bayrak true olarak ayarlandığında resim dikdörtgen konumuna yerleştirilir; aksi takdirde, dikdörtgenin boyutu resim boyutuna eşit olur. |
+| bbox | Rectangle | Resmin bbox'u. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* ad alanı [Aspose.Pdf](../../page)
-* toplantı [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-Sayfaya resim ekler ve resmin oranını kaydeden belirtilen dikdörtgenin ortasına yerleştirir.
+Sayfaya resim ekler ve belirtilen dikdörtgenin ortasında konumlandırır, resmin oranını korur.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imagePath | String | Görüntüye giden yol. |
+| imagePath | String | Resmin yolu. |
 | rectangle | Rectangle | Resmin konumu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* ad alanı [Aspose.Pdf](../../page)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: GraphInfo
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar grafikinformation.
+title: Class GraphInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.GraphInfo klass. Representerar grafikinfo
 type: docs
-weight: 3270
+weight: 5340
 url: /sv/net/aspose.pdf/graphinfo/
 ---
-## GraphInfo class
+## GraphInfo klass
 
-Representerar grafikinformation.
+Representerar grafikinfo.
 
 ```csharp
 public sealed class GraphInfo : ICloneable
@@ -16,35 +16,35 @@ public sealed class GraphInfo : ICloneable
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GraphInfo](graphinfo)() | Default_Constructor |
+| [GraphInfo](graphinfo/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | Hämtar eller sätter en[`Color`](./color) objekt som anger färgen på grafen. |
-| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | Hämtar eller ställer in en streckarray. |
-| [DashPhase](../../aspose.pdf/graphinfo/dashphase) { get; set; } | Får eller ställer in en streckfas. |
-| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | Hämtar eller sätter en[`Color`](./color) objekt som indikerar grafens fyllnadsfärg. |
-| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } | Får eller sätter dubbleras gränsen. |
-| [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } | Hämtar eller ställer in ett flytvärde som anger grafens linjebredd. |
-| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } | Hämtar eller sätter ett flytvärde som anger rotationsvinkeln för koordinatsystemet vid transformering av ett koordinatsystem. |
-| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } | Hämtar eller ställer in ett flytvärde som indikerar skalningshastigheten för x-koordinaten vid transformering av ett koordinatsystem. |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | Hämtar eller ställer in ett flytvärde som anger skalningshastigheten för y-koordinaten vid transformering av ett koordinatsystem. |
-| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } | Hämtar eller ställer in ett flytvärde som indikerar snedställningsvinkeln för x-koordinaten vid transformering av ett koordinatsystem. |
-| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } | Hämtar eller ställer in ett flytvärde som indikerar snedställningsvinkeln för y-koordinaten vid transformering av ett koordinatsystem. |
+| [Color](../../aspose.pdf/graphinfo/color/) { get; set; } | Hämtar eller ställer in ett [`Color`](./color/) objekt som indikerar färgen på grafen. |
+| [DashArray](../../aspose.pdf/graphinfo/dasharray/) { get; set; } | Hämtar eller ställer in en dash-array. |
+| [DashPhase](../../aspose.pdf/graphinfo/dashphase/) { get; set; } | Hämtar eller ställer in en dash-fas. |
+| [FillColor](../../aspose.pdf/graphinfo/fillcolor/) { get; set; } | Hämtar eller ställer in ett [`Color`](./color/) objekt som indikerar fyllfärgen på grafen. |
+| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled/) { get; set; } | Hämtar eller ställer in om kanten är dubbel. |
+| [LineWidth](../../aspose.pdf/graphinfo/linewidth/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar linjebredden på grafen. |
+| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar rotationsvinkeln för koordinatsystemet vid transformation av ett koordinatsystem. |
+| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar skalningsgraden för x-koordinaten vid transformation av ett koordinatsystem. |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar skalningsgraden för y-koordinaten vid transformation av ett koordinatsystem. |
+| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar snedvridningsvinkeln för x-koordinaten vid transformation av ett koordinatsystem. |
+| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | Hämtar eller ställer in ett flyttal som indikerar snedvridningsvinkeln för y-koordinaten vid transformation av ett koordinatsystem. |
+| [X](../../aspose.pdf/graphinfo/x/) { get; } | Hämtar X-koordinaten för en vertikal kant när du använder TableAbsorber, och returnerar "-1" för en horisontell kant. |
+| [Y](../../aspose.pdf/graphinfo/y/) { get; } | Hämtar Y-koordinaten för en horisontell kant när du använder TableAbsorber, och returnerar "-1" för en vertikal kant. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Clone](../../aspose.pdf/graphinfo/clone)() | Klona grafikinformationen. |
+| [Clone](../../aspose.pdf/graphinfo/clone/)() | Klona grafikinfo. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* sammansättning [Aspose.PDF](../../)

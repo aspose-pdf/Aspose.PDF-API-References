@@ -1,98 +1,99 @@
 ---
-title: TextFragmentState
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert einen Textstatus eines Textfragments.
+title: Class TextFragmentState
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextFragmentState-Klasse. Stellt einen Textzustand eines Textfragmentes dar
 type: docs
-weight: 7130
+weight: 10970
 url: /de/net/aspose.pdf.text/textfragmentstate/
 ---
-## TextFragmentState class
+## TextFragmentState-Klasse
 
-Repräsentiert einen Textstatus eines Textfragments.
+Stellt einen Textzustand eines Textfragmentes dar.
 
 ```csharp
 public sealed class TextFragmentState : TextState
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TextFragmentState](textfragmentstate)(TextFragment) | Initialisiert eine neue Instanz von[`TextFragmentState`](../textfragmentstate) Objekt mit angegeben[`TextFragment`](../textfragment) Objekt. Dies[`TextFragmentState`](../textfragmentstate) Initialisierung wird nicht unterstützt. TextFragmentState ist nur mit verfügbar[`TextState`](../textfragment/textstate) Eigentum. |
+| [TextFragmentState](textfragmentstate/)(TextFragment) | Initialisiert eine neue Instanz des `TextFragmentState`-Objekts mit dem angegebenen [`TextFragment`](../textfragment/) Objekt. Diese `TextFragmentState`-Initialisierung wird nicht unterstützt. TextFragmentState ist nur mit der [`TextState`](../textfragment/textstate/) Eigenschaft verfügbar. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [BackgroundColor](../../aspose.pdf.text/textfragmentstate/backgroundcolor) { get; set; } | Legt die Hintergrundfarbe des Textes fest, dargestellt durch[`TextFragment`](../textfragment) Objekt |
-| override [CharacterSpacing](../../aspose.pdf.text/textfragmentstate/characterspacing) { get; set; } | Ruft den Zeichenabstand des Textes ab oder legt ihn fest, dargestellt durch den[`TextFragment`](../textfragment) Objekt. |
-| [DrawTextRectangleBorder](../../aspose.pdf.text/textfragmentstate/drawtextrectangleborder) { get; set; } | Ruft ab oder legt fest, ob ein Flag für gezeichneten Textrechteckrahmen angezeigt wird. |
-| override [Font](../../aspose.pdf.text/textfragmentstate/font) { get; set; } | Ruft die Schriftart des Textes ab oder legt sie fest, dargestellt durch die[`TextFragment`](../textfragment) Objekt |
-| override [FontSize](../../aspose.pdf.text/textfragmentstate/fontsize) { get; set; } | Ruft die Schriftgröße des Textes ab oder legt sie fest, dargestellt durch die[`TextFragment`](../textfragment) Objekt |
-| override [FontStyle](../../aspose.pdf.text/textfragmentstate/fontstyle) { get; set; } | Legt den Schriftstil des Textes fest, der durch dargestellt wird[`TextFragment`](../textfragment) Objekt |
-| override [ForegroundColor](../../aspose.pdf.text/textfragmentstate/foregroundcolor) { get; set; } | Ermittelt oder setzt die Vordergrundfarbe des Textes, dargestellt durch die[`TextFragment`](../textfragment) Objekt |
-| [FormattingOptions](../../aspose.pdf.text/textfragmentstate/formattingoptions) { get; set; } | Ruft Formatierungsoptionen ab oder legt sie fest. Die Einstellung der Optionen ist nur in Generatorszenarien wirksam. |
-| override [HorizontalAlignment](../../aspose.pdf.text/textfragmentstate/horizontalalignment) { get; set; } | Liest oder setzt die horizontale Ausrichtung des Textes. |
-| override [HorizontalScaling](../../aspose.pdf.text/textfragmentstate/horizontalscaling) { get; set; } | Holt oder setzt die horizontale Skalierung des Textes, dargestellt durch die[`TextFragment`](../textfragment) Objekt. |
-| override [Invisible](../../aspose.pdf.text/textfragmentstate/invisible) { get; set; } | Holt oder setzt die Unsichtbarkeit des Textes. |
-| override [LineSpacing](../../aspose.pdf.text/textfragmentstate/linespacing) { get; set; } | Liest oder setzt den Zeilenabstand des Textes. |
-| override [RenderingMode](../../aspose.pdf.text/textfragmentstate/renderingmode) { get; set; } | Ruft den Darstellungsmodus des Textes ab oder legt ihn fest. |
-| [Rotation](../../aspose.pdf.text/textfragmentstate/rotation) { get; set; } | Ermittelt oder setzt den Rotationswinkel in Grad. |
-| override [StrikeOut](../../aspose.pdf.text/textfragmentstate/strikeout) { set; } | Legt das Durchstreichen für den Text fest, der durch dargestellt wird[`TextFragment`](../textfragment) Objekt |
-| override [StrokingColor](../../aspose.pdf.text/textfragmentstate/strokingcolor) { get; set; } | Holt oder setzt Farbstreichoperationen von[`TextFragment`](../textfragment) Rendering (Strichtext, rechteckiger Rand) |
-| override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript) { get; set; } | Ruft den Index des Textes ab oder legt ihn fest, dargestellt durch den[`TextFragment`](../textfragment) Objekt. |
-| override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript) { get; set; } | Ruft den hochgestellten Text ab oder legt ihn fest, dargestellt durch den[`TextFragment`](../textfragment) Objekt. |
-| [TabStops](../../aspose.pdf.text/textfragmentstate/tabstops) { get; } | Ruft Tabstopps für den Text ab. |
-| override [Underline](../../aspose.pdf.text/textfragmentstate/underline) { get; set; } | Holt oder setzt Unterstreichungen für den Text, dargestellt durch die[`TextFragment`](../textfragment) Objekt |
-| override [WordSpacing](../../aspose.pdf.text/textfragmentstate/wordspacing) { get; set; } | Ruft den Wortabstand des Textes ab oder setzt ihn. |
+| override [BackgroundColor](../../aspose.pdf.text/textfragmentstate/backgroundcolor/) { get; set; } | Setzt die Hintergrundfarbe des Textes, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [CharacterSpacing](../../aspose.pdf.text/textfragmentstate/characterspacing/) { get; set; } | Ruft den Zeichenabstand des Textes ab oder setzt ihn, dargestellt durch das [`TextFragment`](../textfragment/) Objekt. |
+| override [CoordinateOrigin](../../aspose.pdf.text/textfragmentstate/coordinateorigin/) { get; set; } | Ruft den Text CoordinateOrigin ab oder setzt ihn. Wenn CoordinateOrigin Descender ist, entspricht die Y-Koordinate des Textes dem tiefsten Punkt der Schriftart. Wenn CoordinateOrigin BaseLine ist, entspricht die Y-Koordinate des Textes der Grundlinie der Schriftart. Der Standardwert ist Descender. Wenn der Abstieg der Schriftart zu groß ist, kann der Text höher als andere Schriftarten gerendert werden. In diesem Fall kann CoordinateOrigin BaseLine für eine bessere Textdarstellung ausgewählt werden. |
+| [DrawTextRectangleBorder](../../aspose.pdf.text/textfragmentstate/drawtextrectangleborder/) { get; set; } | Ruft ab oder setzt, ob der Textrechteckrand gezeichnet wird. |
+| override [Font](../../aspose.pdf.text/textfragmentstate/font/) { get; set; } | Ruft die Schriftart des Textes ab oder setzt sie, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [FontSize](../../aspose.pdf.text/textfragmentstate/fontsize/) { get; set; } | Ruft die Schriftgröße des Textes ab oder setzt sie, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [FontStyle](../../aspose.pdf.text/textfragmentstate/fontstyle/) { get; set; } | Setzt den Schriftstil des Textes, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [ForegroundColor](../../aspose.pdf.text/textfragmentstate/foregroundcolor/) { get; set; } | Ruft die Vordergrundfarbe des Textes ab oder setzt sie, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| [FormattingOptions](../../aspose.pdf.text/textfragmentstate/formattingoptions/) { get; set; } | Ruft die Formatierungsoptionen ab oder setzt sie. Die Einstellung der Optionen ist nur in Generator-Szenarien wirksam. |
+| override [HorizontalAlignment](../../aspose.pdf.text/textfragmentstate/horizontalalignment/) { get; set; } | Ruft die horizontale Ausrichtung für den Text ab oder setzt sie. |
+| override [HorizontalScaling](../../aspose.pdf.text/textfragmentstate/horizontalscaling/) { get; set; } | Ruft das horizontale Skalieren des Textes ab oder setzt es, dargestellt durch das [`TextFragment`](../textfragment/) Objekt. |
+| override [Invisible](../../aspose.pdf.text/textfragmentstate/invisible/) { get; set; } | Ruft die Unsichtbarkeit des Textes ab oder setzt sie. |
+| override [LineSpacing](../../aspose.pdf.text/textfragmentstate/linespacing/) { get; set; } | Ruft den Zeilenabstand des Textes ab oder setzt ihn. |
+| override [RenderingMode](../../aspose.pdf.text/textfragmentstate/renderingmode/) { get; set; } | Ruft den Rendering-Modus des Textes ab oder setzt ihn. |
+| [Rotation](../../aspose.pdf.text/textfragmentstate/rotation/) { get; set; } | Ruft den Rotationswinkel in Grad ab oder setzt ihn. |
+| override [StrikeOut](../../aspose.pdf.text/textfragmentstate/strikeout/) { get; set; } | Ruft den Durchstreichungsstil für den Text ab oder setzt ihn, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [StrokingColor](../../aspose.pdf.text/textfragmentstate/strokingcolor/) { get; set; } | Ruft die Farbe der Strichoperationen des [`TextFragment`](../textfragment/) Renderings ab oder setzt sie (Strichtext, Rechteckrand) |
+| override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript/) { get; set; } | Ruft den Tiefgestellt-Text des Textes ab oder setzt ihn, dargestellt durch das [`TextFragment`](../textfragment/) Objekt. |
+| override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript/) { get; set; } | Ruft den Hochgestellt-Text des Textes ab oder setzt ihn, dargestellt durch das [`TextFragment`](../textfragment/) Objekt. |
+| [TabStops](../../aspose.pdf.text/textfragmentstate/tabstops/) { get; } | Ruft die Tabstopps für den Text ab. |
+| override [Underline](../../aspose.pdf.text/textfragmentstate/underline/) { get; set; } | Ruft den Unterstrich für den Text ab oder setzt ihn, dargestellt durch das [`TextFragment`](../textfragment/) Objekt |
+| override [WordSpacing](../../aspose.pdf.text/textfragmentstate/wordspacing/) { get; set; } | Ruft den Wortabstand des Textes ab oder setzt ihn. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [ApplyChangesFrom](../../aspose.pdf.text/textfragmentstate/applychangesfrom)(TextState) | Wendet Einstellungen von einem anderen TextState an. |
-| override [MeasureString](../../aspose.pdf.text/textfragmentstate/measurestring)(string) | Misst die Zeichenfolge. |
+| override [ApplyChangesFrom](../../aspose.pdf.text/textfragmentstate/applychangesfrom/)(TextState) | Wendet Einstellungen von einem anderen TextState an. |
+| [IsFitRectangle](../../aspose.pdf.text/textfragmentstate/isfitrectangle/)(string, Rectangle) | Überprüft, ob der Eingabestring innerhalb des definierten Rechtecks platziert werden kann. |
+| [MeasureHeight](../../aspose.pdf.text/textfragmentstate/measureheight/#measureheight)(char) | Misst die Höhe des Zeichens. (2 Methoden) |
+| override [MeasureString](../../aspose.pdf.text/textfragmentstate/measurestring/)(string) | Misst den String. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue) | Standardwert der Tabellierung in Breiten von Leerzeichen der Standardschriftart. |
-| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag) | Sie können dieses Tag in Text einfügen, um eine Tabellierung zu deklarieren. |
+| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue/) | Standardwert der Tabulatoren in Breiten des Leerzeichens der Standard-Schriftart. |
+| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag/) | Sie können dieses Tag im Text platzieren, um eine Tabulatoren zu deklarieren. |
 
-### Bemerkungen
+## Bemerkungen
 
-Bietet eine Möglichkeit, die folgenden Eigenschaften des Textes zu ändern: Schriftart ([`Font`](./font) Eigenschaft) Schriftgröße ([`FontSize`](./fontsize) Eigenschaft) Schriftstil ([`FontStyle`](./fontstyle) Eigenschaft) Vordergrundfarbe ([`ForegroundColor`](./foregroundcolor) Eigenschaft) Hintergrundfarbe ([`BackgroundColor`](./backgroundcolor) Eigenschaft) Beachten Sie, dass sich ändern[`TextFragmentState`](../textfragmentstate) Eigenschaften können sich innerlich ändern[`Segments`](../textfragment/segments) Sammlung, da TextFragment ein aggregiertes Objekt ist und interne Segmente neu anordnen oder zu einem einzigen Segment zusammenführen kann. Wenn Sie die verlassen möchten[`Segments`](../textfragment/segments) Kollektion unverändert, Innensegmente bitte individuell ändern.
+Bietet eine Möglichkeit, folgende Eigenschaften des Textes zu ändern: Schriftart ([`Font`](./font/) Eigenschaft) Schriftgröße ([`FontSize`](./fontsize/) Eigenschaft) Schriftstil ([`FontStyle`](./fontstyle/) Eigenschaft) Vordergrundfarbe ([`ForegroundColor`](./foregroundcolor/) Eigenschaft) Hintergrundfarbe ([`BackgroundColor`](./backgroundcolor/) Eigenschaft) Beachten Sie, dass das Ändern der `TextFragmentState`-Eigenschaften die innere [`Segments`](../textfragment/segments/) Sammlung ändern kann, da TextFragment ein aggregiertes Objekt ist und es interne Segmente neu anordnen oder sie in ein einzelnes Segment zusammenführen kann. Wenn Ihr Bedarf darin besteht, die [`Segments`](../textfragment/segments/) Sammlung unverändert zu lassen, ändern Sie bitte die inneren Segmente einzeln.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel demonstriert, wie man Textfarbe und Schriftgröße des Textes mit ändert[`TextState`](../textstate) Objekt.
+Das Beispiel zeigt, wie man die Textfarbe und die Schriftgröße des Textes mit dem [`TextState`](../textstate/) Objekt ändert.
 
 ```csharp
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// TextFragmentAbsorber-Objekt erstellen, um alle "Hello World"-Textvorkommen zu finden
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Vordergrundfarbe des ersten Textvorkommens ändern
+// Change foreground color of the first text occurrence
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-// Schriftgröße des ersten Textvorkommens ändern
+// Change font size of the first text occurrence
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Dokument speichern
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Siehe auch
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [Document](../../aspose.pdf/document)
-* class [TextState](../textstate)
-* namensraum [Aspose.Pdf.Text](../../aspose.pdf.text)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [TextFragmentAbsorber](../textfragmentabsorber/)
+* Klasse [Document](../../aspose.pdf/document/)
+* Klasse [TextState](../textstate/)
+* Namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* Assembly [Aspose.PDF](../../)

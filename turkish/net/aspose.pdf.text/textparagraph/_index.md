@@ -1,12 +1,12 @@
 ---
-title: TextParagraph
-second_title: Aspose.PDF for .NET API Referansı
-description: Metin paragraflarını çok satırlı metin nesnesi olarak temsil eder.
+title: Class TextParagraph
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextParagraph sınıfı. Metin paragraflarını çok satırlı metin nesnesi olarak temsil eder
 type: docs
-weight: 7150
+weight: 10990
 url: /tr/net/aspose.pdf.text/textparagraph/
 ---
-## TextParagraph class
+## TextParagraph sınıfı
 
 Metin paragraflarını çok satırlı metin nesnesi olarak temsil eder.
 
@@ -14,76 +14,74 @@ Metin paragraflarını çok satırlı metin nesnesi olarak temsil eder.
 public sealed class TextParagraph
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TextParagraph](textparagraph)() | Default_Constructor |
+| [TextParagraph](textparagraph/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent) { get; set; } | Sonraki satırların girinti değerini alır veya ayarlar. Sıfırdan farklı bir değere ayarlanırsa, FormattingOptions.SubsequentLinesIndent değerine göre bir avantajı vardır. |
-| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions) { get; set; } | Biçimlendirme seçeneklerini alır veya ayarlar. |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment) { get; set; } | Paragrafların içindeki metin için yatay hizalamayı alır veya ayarlar[`Rectangle`](./rectangle) . |
-| [Justify](../../aspose.pdf.text/textparagraph/justify) { get; set; } | Metnin iki yana yaslı olup olmadığını alır veya ayarlar. |
-| [Margin](../../aspose.pdf.text/textparagraph/margin) { get; set; } | Dolguyu alır veya ayarlar. |
-| [Position](../../aspose.pdf.text/textparagraph/position) { get; set; } | Paragrafın konumunu alır veya ayarlar. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle) { get; set; } | Paragrafın dikdörtgenini alır veya ayarlar. |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation) { get; set; } | Dönme açısını derece cinsinden alır veya ayarlar. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent) { get; set; } | Sonraki satırların girinti değerini alır veya ayarlar. Sıfırdan farklı bir değere ayarlanırsa, FormattingOptions.SubsequentLinesIndent değerine göre bir avantajı vardır. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle) { get; } | Paragrafa yerleştirilen metnin dikdörtgenini alır. |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment) { get; set; } | Paragrafların içindeki metin için dikey hizalamayı alır veya ayarlar[`Rectangle`](./rectangle) . |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Sonraki satırların girinti değerini alır veya ayarlar. Sıfırdan farklı bir değere ayarlandığında, FormattingOptions.SubsequentLinesIndent değerine göre bir avantaj sağlar. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Biçimlendirme seçeneklerini alır veya ayarlar. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Paragrafın içindeki metin için yatay hizalamayı alır veya ayarlar. |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Metnin hizalanıp hizalanmadığını belirten değeri alır veya ayarlar. |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Kenar boşluğunu alır veya ayarlar. |
+| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Paragrafın konumunu alır veya ayarlar. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Paragrafın dikdörtgenini alır veya ayarlar. |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Derece cinsinden döndürme açısını alır veya ayarlar. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Sonraki satırların girinti değerini alır veya ayarlar. Sıfırdan farklı bir değere ayarlandığında, FormattingOptions.SubsequentLinesIndent değerine göre bir avantaj sağlar. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Paragrafa yerleştirilen metnin dikdörtgenini alır. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Paragrafın içindeki metin için dikey hizalamayı alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_3)(string) | Metin satırı ekler |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline)(TextFragment) | Metin durumu parametreleriyle metin satırı ekler. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_6)(string, float) | Metin satırı ekler. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_4)(string, TextState) | Metin durumu parametreleriyle metin satırı ekler. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_1)(TextFragment, TextState) | Metin durumu parametreleriyle metin satırı ekler. |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_5)(string, TextState, float) | Metin durumu parametreleriyle metin satırı ekler |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_2)(TextFragment, TextState, float) | Metin durumu parametreleriyle metin satırı ekler |
-| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit)() | TextParagraph'ın düzenlenmesine başlar. |
-| [EndEdit](../../aspose.pdf.text/textparagraph/endedit)() | TextParagraph'ın düzenlenmesini sonlandırır. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_3)(string) | Metin satırını ekler |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(TextFragment) | Metin durumu parametreleri ile metin satırını ekler. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_6)(string, float) | Metin satırını ekler. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(string, TextState) | Metin durumu parametreleri ile metin satırını ekler. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | Metin durumu parametreleri ile metin satırını ekler. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | Metin durumu parametreleri ile metin satırını ekler |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | Metin durumu parametreleri ile metin satırını ekler |
+| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | TextParagraph'ın düzenlemesini başlatır. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | TextParagraph'ın düzenlemesini sonlandırır. |
 
-### Örnekler
+## Örnekler
 
-Örnek, metin paragraf nesnesinin nasıl oluşturulacağını ve bunun Pdf sayfasına nasıl ekleneceğini gösterir.
+Örnek, metin paragrafı nesnesi oluşturmayı ve bunu Pdf sayfasına eklemeyi gösterir.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// metin paragrafı oluştur
+// create text paragraph
 TextParagraph paragraph = new TextParagraph();
            
-// paragraf dikdörtgenini ayarla
+// set the paragraph rectangle
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// kelime kaydırma seçeneklerini ayarla
+// set word wrapping options
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// string satırları ekle
+// append string lines
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// Paragrafı TextBuilder ile Pdf sayfasına ekleyin
+// append the paragraph to the Pdf page with the TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// PDF belgesini kaydet
+// save Pdf document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

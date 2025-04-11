@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat
-second_title: Aspose.PDF för .NET API Referens
-description: Talformat för mått.
+title: Class Measure.NumberFormat
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.MeasureNumberFormat klass. Nummerformat för mått
 type: docs
-weight: 660
+weight: 2040
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/
 ---
-## Measure.NumberFormat class
+## Measure.NumberFormat klass
 
-Talformat för mått.
+Nummerformat för mått.
 
 ```csharp
 public class NumberFormat
@@ -16,29 +16,27 @@ public class NumberFormat
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [NumberFormat](numberformat)(Measure) | Konstruktör för klassen NumberFormat. |
+| [NumberFormat](../../aspose.pdf.annotations/measure.numberformat/.ctor)(Measure) | Konstruktör för NumberFormat klass. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AfterText](../../aspose.pdf.annotations/numberformat/aftertext) { get; set; } | Text som ska sammanfogas efter etiketten |
-| [BeforeText](../../aspose.pdf.annotations/numberformat/beforetext) { get; set; } | Text som ska sammanfogas till vänster om etiketten. |
-| [ConvresionFactor](../../aspose.pdf.annotations/numberformat/convresionfactor) { get; set; } | Omvandlingsfaktorn som används för att multiplicera ett värde i partiella enheter av det tidigare arrayelementet i talformatet för att erhålla ett värde i enheterna i detta talformat. |
-| [Denominator](../../aspose.pdf.annotations/numberformat/denominator) { get; set; } | Om FractionDisplayment är ShowAsFraction är detta värde nämnaren för bråket. Standardvärdet är 16. |
-| [ForceDenominator](../../aspose.pdf.annotations/numberformat/forcedenominator) { get; set; } | Om FractionDisplayment är ShowAsFraction bestämmer detta värde om bråket ska reduceras eller inte. Om värdet är sant får bråkdelen inte reduceras. |
-| [FractionDisplayment](../../aspose.pdf.annotations/numberformat/fractiondisplayment) { get; set; } | På vilket sätt visas bråkvärden. |
-| [FractionSeparator](../../aspose.pdf.annotations/numberformat/fractionseparator) { get; set; } | Text som ska användas som decimalposition vid visning av numeriska värden. En tom sträng indikerar att standarden ska användas. Standard är punkt tecken. |
-| [Precision](../../aspose.pdf.annotations/numberformat/precision) { get; set; } | Om FractionDisplayment är ShowAsDecimal, är detta värde precisionen av bråkvärdet; Det ska mig multipel av 10. Standard är 100. |
-| [ThousandsSeparator](../../aspose.pdf.annotations/numberformat/thousandsseparator) { get; set; } | Text som ska användas mellan order på tusentals i visning av numeriska värden. En tom sträng indikerar att ingen text ska läggas till. Standard är komma. |
-| [UnitLabel](../../aspose.pdf.annotations/numberformat/unitlabel) { get; set; } | En textsträng som anger en etikett för att visa enheterna. |
+| [AfterText](../../aspose.pdf.annotations/measure.numberformat/aftertext) { get; set; } | Text som ska sammanfogas efter etiketten |
+| [BeforeText](../../aspose.pdf.annotations/measure.numberformat/beforetext) { get; set; } | Text som ska sammanfogas till vänster om etiketten. |
+| [ConvresionFactor](../../aspose.pdf.annotations/measure.numberformat/convresionfactor) { get; set; } | Konverteringsfaktorn som används för att multiplicera ett värde i delvisa enheter av det föregående nummerformatets arrayelement för att få ett värde i enheterna av detta nummerformat. |
+| [Denominator](../../aspose.pdf.annotations/measure.numberformat/denominator) { get; set; } | Om FractionDisplayment är ShowAsFraction, är detta värde nämnaren av bråket. Standardvärde är 16. |
+| [ForceDenominator](../../aspose.pdf.annotations/measure.numberformat/forcedenominator) { get; set; } | Om FractionDisplayment är ShowAsFraction, bestämmer detta värde om bråket kan reduceras eller inte. Om värdet är sant kan bråket inte reduceras. |
+| [FractionDisplayment](../../aspose.pdf.annotations/measure.numberformat/fractiondisplayment) { get; set; } | På vilket sätt bråkdelar visas. |
+| [FractionSeparator](../../aspose.pdf.annotations/measure.numberformat/fractionseparator) { get; set; } | Text som ska användas som decimalposition vid visning av numeriska värden. En tom sträng indikerar att standard ska användas. Standard är punkttecken. |
+| [Precision](../../aspose.pdf.annotations/measure.numberformat/precision) { get; set; } | Om FractionDisplayment är ShowAsDecimal, är detta värde precisionen av bråkdelar; det ska vara en multipel av 10. Standard är 100. |
+| [ThousandsSeparator](../../aspose.pdf.annotations/measure.numberformat/thousandsseparator) { get; set; } | Text som ska användas mellan tusental i visningen av numeriska värden. En tom sträng indikerar att ingen text ska läggas till. Standard är komma. |
+| [UnitLabel](../../aspose.pdf.annotations/measure.numberformat/unitlabel) { get; set; } | En textsträng som specificerar en etikett för visning av enheterna. |
 
-### Se även
+### Se Även
 
-* class [Measure](../measure)
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Measure](../measure/)
+* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* sammansättning [Aspose.PDF](../../)

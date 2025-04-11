@@ -1,12 +1,12 @@
 ---
-title: Form
-second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий объект формы.
+title: Class Form
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Forms.Form. Класс, представляющий объект формы
 type: docs
-weight: 3020
+weight: 5070
 url: /ru/net/aspose.pdf.forms/form/
 ---
-## Form class
+## Класс Формы
 
 Класс, представляющий объект формы.
 
@@ -14,63 +14,68 @@ url: /ru/net/aspose.pdf.forms/form/
 public sealed class Form : ICollection<WidgetAnnotation>
 ```
 
-## Характеристики
+## Свойства
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate) { get; set; } | Если установлено, все поля формы будут пересчитываться при изменении любого поля. Значение по умолчанию — истина. Установите значение false, чтобы повысить производительность при заполнении формы с большим количеством вычисляемых полей. |
-| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform) { get; set; } | Если установлено, отсутствующие поля формы будут созданы автоматически, если они присутствуют в аннотациях. |
-| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields) { set; } | Позволяет задать порядок расчета полей. |
-| [Count](../../aspose.pdf.forms/form/count) { get; } | Получает количество полей в этой форме. |
-| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance) { get; set; } | Получает или задает внешний вид формы по умолчанию (объект, который описывает шрифт по умолчанию, размер текста и цвет для полей в форме). |
-| [DefaultResources](../../aspose.pdf.forms/form/defaultresources) { get; } | Получает ресурсы по умолчанию, размещенные в этой форме. |
-| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups) { get; set; } | Если это свойство истинно, то для необходимых элементов Xfa exclGroup будут нарисованы дополнительные красные прямоугольники. |
-| [Fields](../../aspose.pdf.forms/form/fields) { get; } | Получает список всех полей на самом низком уровне иерархической формы. |
-| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering) { get; set; } | Если это свойство истинно, значение ключа NeedsRendering будет игнорироваться при преобразовании формы XFA в стандартную форму. По умолчанию это ложь. |
-| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized) { get; } | Возвращает true, если объект потокобезопасен. |
-| [Item](../../aspose.pdf.forms/form/item) { get; } | Получает поле формы по имени поля. Выдает исключение, если поле не найдено. (2 indexers) |
-| [RemovePermission](../../aspose.pdf.forms/form/removepermission) { get; set; } | Если для этого свойства установлено значение true, словарь "Perms" будет удален из pdf-документа после преобразования динамических документов в стандартные. Словарь "Perms" может содержать правила, препятствующие отображению выбора обязательных полей в Adobe Acrobat reader. По умолчанию установлено значение false. |
-| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly) { get; set; } | Если установлено, документ содержит подписи, которые могут быть признаны недействительными, если файл сохраняется (записывается) таким образом, что изменяется его предыдущее содержимое, в отличие от добавочного обновления. |
-| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist) { get; set; } | Если установлено, документ содержит как минимум одно поле для подписи. |
-| [SyncRoot](../../aspose.pdf.forms/form/syncroot) { get; } | Возвращает объект синхронизации. |
-| [Type](../../aspose.pdf.forms/form/type) { get; set; } | Получает тип формы. Возможные значения: Стандартный, Статический, Динамический. |
-| [XFA](../../aspose.pdf.forms/form/xfa) { get; } | Получает данные XFA формы (если есть). |
+| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate/) { get; set; } | Если установлено, все поля формы будут пересчитаны при изменении любого поля. Значение по умолчанию - true. Установите в false, чтобы повысить производительность при заполнении формы с большим количеством вычисляемых полей. |
+| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform/) { get; set; } | Если установлено, отсутствующие поля формы будут автоматически созданы, если они присутствуют в аннотациях. |
+| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields/) { set; } | Позволяет установить порядок вычисления полей. |
+| [Count](../../aspose.pdf.forms/form/count/) { get; } | Получает количество полей в этой форме. |
+| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance/) { get; set; } | Получает или устанавливает внешний вид формы по умолчанию (объект, который описывает шрифт по умолчанию, размер текста и цвет для полей на форме). |
+| [DefaultResources](../../aspose.pdf.forms/form/defaultresources/) { get; } | Получает ресурсы по умолчанию, размещенные на этой форме. |
+| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups/) { get; set; } | Если это свойство истинно, то дополнительные красные границы будут нарисованы для контейнеров обязательных элементов Xfa exclGroup. Это свойство было введено из-за отсутствия аналогов для exclGroup при конвертации представления форм Xfa в стандартное. По умолчанию оно равно false. |
+| [Fields](../../aspose.pdf.forms/form/fields/) { get; } | Получает список всех полей на самом низком уровне иерархической формы. |
+| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering/) { get; set; } | Если это свойство истинно, значение ключа NeedsRendering будет игнорироваться при конвертации формы XFA в стандартную форму. По умолчанию оно равно false. |
+| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized/) { get; } | Возвращает true, если объект потокобезопасен. |
+| [Item](../../aspose.pdf.forms/form/item/) { get; } | Получает поле формы по имени поля. Вызывает исключение, если поле не найдено. (2 индексатора) |
+| [RemovePermission](../../aspose.pdf.forms/form/removepermission/) { get; set; } | Если это свойство истинно, словарь "Perms" будет удален из PDF-документа после конвертации динамических документов в стандартные. Словарь "Perms" может содержать правила, которые мешают отображению выбора обязательных полей в Adobe Acrobat Reader. По умолчанию оно равно false. |
+| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly/) { get; set; } | Если установлено, документ содержит подписи, которые могут быть недействительными, если файл сохранен (записан) таким образом, что изменяет его предыдущие содержимое, в отличие от инкрементального обновления. |
+| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist/) { get; set; } | Если установлено, документ содержит хотя бы одно поле подписи. |
+| [SyncRoot](../../aspose.pdf.forms/form/syncroot/) { get; } | Возвращает объект синхронизации. |
+| [Type](../../aspose.pdf.forms/form/type/) { get; set; } | Получает тип формы. Возможные значения: Standard, Static, Dynamic. |
+| [XFA](../../aspose.pdf.forms/form/xfa/) { get; } | Получает данные XFA формы (если присутствуют). |
 
 ## Методы
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.forms/form/add#add_1)(Field) | Добавляет поле в форму. |
-| [Add](../../aspose.pdf.forms/form/add#add_2)(Field, int) | Добавляет поле в форму. |
-| [Add](../../aspose.pdf.forms/form/add#add)(Field, string, int) | Добавляет в форму новое поле; Если это поле уже размещено на другой или этой форме, создается копия поля. |
-| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance)(Field, int, Rectangle) | Добавляет дополнительный вид поля на указанную страницу документа в указанном месте. |
-| [AssignXfa](../../aspose.pdf.forms/form/assignxfa)(XmlDocument) | Устанавливает XFA формы на указанное значение. |
-| [CopyTo](../../aspose.pdf.forms/form/copyto)(Field[], int) | Копирует поля формы в массив. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete)(Field) | Удалить поле из формы. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete_1)(string) | Удаляет поле из формы по его имени. |
-| [Flatten](../../aspose.pdf.forms/form/flatten)() | Удаляет все поля формы и размещает их значения прямо на странице. |
-| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator)() | Получает перечисление полей формы. |
-| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect)(Rectangle) | Возвращает поля внутри указанного прямоугольника. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | Проверить, есть ли в форме уже указанное поле. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | Определяет, добавлено ли уже поле с указанным именем в форму. |
+| [Add](../../aspose.pdf.forms/form/add/#add_1)(Field) | Добавляет поле на форму. |
+| [Add](../../aspose.pdf.forms/form/add/#add_2)(Field, int) | Добавляет поле на форму. |
+| [Add](../../aspose.pdf.forms/form/add/#add)(Field, string, int) | Добавляет новое поле в форму; если это поле уже размещено на другой или этой форме, создается копия поля. |
+| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance/)(Field, int, Rectangle) | Добавляет дополнительный внешний вид поля на указанной странице документа в указанном месте. |
+| [AssignXfa](../../aspose.pdf.forms/form/assignxfa/)(XmlDocument) | Устанавливает XFA формы на указанное значение. |
+| [CopyTo](../../aspose.pdf.forms/form/copyto/)(Field[], int) | Копирует поля, размещенные на форме, в массив. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete)(Field) | Удаляет поле из формы. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete_1)(string) | Удаляет поле из формы по его имени. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson)(Stream, ExportFieldsToJsonOptions) | Экспортирует поля PDF формы в формат JSON и записывает результат в предоставленный поток. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson_1)(string, ExportFieldsToJsonOptions) | Экспортирует поля PDF формы в формат JSON и записывает результат в указанный файл. |
+| [Flatten](../../aspose.pdf.forms/form/flatten/)() | Удаляет все поля формы и помещает их значения непосредственно на страницу. |
+| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator/)() | Получает перечисление полей формы. |
+| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect/)(Rectangle) | Возвращает поля внутри указанного прямоугольника. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield)(Field) | Проверяет, есть ли в форме указанное поле. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_1)(string) | Определяет, добавлено ли поле с указанным именем в форму. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_2)(string, bool) | Определяет, добавлено ли поле с указанным именем в форму, с возможностью просматривать иерархию дочерних полей. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson)(Stream) | Импортирует поля PDF формы из формата JSON, предоставленного в потоке. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson_1)(string) | Импортирует поля PDF формы из формата JSON, предоставленного в указанном файле. |
+| [MakeFormAnnotationsIndependent](../../aspose.pdf.forms/form/makeformannotationsindependent/)(Page) | Делает аннотации полей формы независимыми. |
+| [RemoveFieldAppearance](../../aspose.pdf.forms/form/removefieldappearance/)(Field, int) | Удаляет внешний вид поля по указанному индексу. Если остался только один дочерний внешний вид, метод встраивает его в поле. |
 
 ## Поля
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted) | Формы могут содержать информацию о подписи, т.е. могут быть подписаны или не подписаны. И вид формы иногда должен зависеть от того, подписана форма или нет. Это свойство сообщает конвертеру формы (например, при преобразовании формы XFA в стандартную форму) должен отображаться как подписанный или как неподписанный. |
+| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted/) | Формы могут содержать информацию о подписании, т.е. могут быть подписанными или неподписанными. И вид формы иногда должен зависеть от того, подписана форма или нет. Это свойство сообщает конвертеру формы (например, при конвертации формы XFA в стандартную форму), должен ли результат формы отображаться как подписанный или неподписанный. |
 
-## Другие члены
+## Другие Члены
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| class [FlattenSettings](form.flattensettings) | Класс, описывающий настройки процедуры выравнивания формы. |
-| enum [SignDependentElementsRenderingModes](form.signdependentelementsrenderingmodes) | Формы могут содержать информацию о подписи и могут быть подписанными или неподписанными. Иногда вид форм во вьювере должен зависеть от того, подписана форма или нет. Это перечисление перечисляет возможные режимы рендеринга при преобразовании типа формы в отношении знака. |
+| class [FlattenSettings](../../aspose.pdf.forms/form.flattensettings) | Класс, который описывает настройки для процедуры уплощения формы. |
+| enum [SignDependentElementsRenderingModes](../../aspose.pdf.forms/form.signdependentelementsrenderingmodes) | Формы могут содержать информацию о подписании и могут быть подписанными или неподписанными. Иногда вид форм в просмотрщике должен зависеть от того, подписана форма или нет. Этот перечисляемый тип перечисляет возможные режимы рендеринга при конвертации типа формы в отношении подписи. |
 
-### Смотрите также
+### См. Также
 
-* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation)
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms)
-* сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)

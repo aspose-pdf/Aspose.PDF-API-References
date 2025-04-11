@@ -1,12 +1,12 @@
 ---
-title: Matrix
-second_title: Aspose.PDF for .NET API Referansı
-description: Sınıf dönüşüm matrisini temsil eder.
+title: Class Matrix
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Matrix sınıfı. Sınıf, dönüşüm matrisini temsil eder
 type: docs
-weight: 4740
+weight: 6920
 url: /tr/net/aspose.pdf/matrix/
 ---
-## Matrix class
+## Matris sınıfı
 
 Sınıf, dönüşüm matrisini temsil eder.
 
@@ -14,49 +14,54 @@ Sınıf, dönüşüm matrisini temsil eder.
 public sealed class Matrix
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Matrix](matrix#constructor)() | Yapıcı standart 1'e 1 matris oluşturur: [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0] |
-| [Matrix](matrix#constructor_3)(double[]) | Constructor , aşağıdaki dizi temsiline sahip bir matrisi kabul eder: [ ABCDEF ] |
-| [Matrix](matrix#constructor_4)(float[]) | Constructor , aşağıdaki dizi temsiline sahip bir matrisi kabul eder: [ ABCDEF ] |
-| [Matrix](matrix#constructor_1)(Matrix) | Yapıcı bir kopya oluşturmak için bir matris kabul eder |
-| [Matrix](matrix#constructor_2)(double, double, double, double, double, double) | Belirtilen katsayılarla dönüştürme matrisini başlatır. |
+| [Matrix](matrix/#constructor)() | Yapıcı, standart 1'e 1 matris oluşturur: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] |
+| [Matrix](matrix/#constructor_3)(double[]) | Yapıcı, aşağıdaki dizi temsiline sahip bir matris kabul eder: [ A B C D E F ] |
+| [Matrix](matrix/#constructor_4)(float[]) | Yapıcı, aşağıdaki dizi temsiline sahip bir matris kabul eder: [ A B C D E F ] |
+| [Matrix](matrix/#constructor_1)(Matrix) | Yapıcı, bir kopya oluşturmak için bir matris kabul eder |
+| [Matrix](matrix/#constructor_2)(double, double, double, double, double, double) | Belirtilen katsayılarla dönüşüm matrisini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [A](../../aspose.pdf/matrix/a) { get; set; } | Dönüşüm matrisinin bir üyesi. |
-| [B](../../aspose.pdf/matrix/b) { get; set; } | Dönüşüm matrisinin B üyesi. |
-| [C](../../aspose.pdf/matrix/c) { get; set; } | Dönüşüm matrisinin C üyesi. |
-| [D](../../aspose.pdf/matrix/d) { get; set; } | Dönüşüm matrisinin D üyesi. |
-| [Data](../../aspose.pdf/matrix/data) { get; } | Matrix verilerini dizi olarak alır. |
-| [E](../../aspose.pdf/matrix/e) { get; set; } | Dönüşüm matrisinin E üyesi. |
-| [Elements](../../aspose.pdf/matrix/elements) { get; } | Matrisin öğeleri. |
-| [F](../../aspose.pdf/matrix/f) { get; set; } | Dönüşüm matrisinin F üyesi. |
+| [A](../../aspose.pdf/matrix/a/) { get; set; } | Dönüşüm matrisinin A üyesi. |
+| [B](../../aspose.pdf/matrix/b/) { get; set; } | Dönüşüm matrisinin B üyesi. |
+| [C](../../aspose.pdf/matrix/c/) { get; set; } | Dönüşüm matrisinin C üyesi. |
+| [D](../../aspose.pdf/matrix/d/) { get; set; } | Dönüşüm matrisinin D üyesi. |
+| [Data](../../aspose.pdf/matrix/data/) { get; } | Matrisi dizi olarak alır. |
+| [E](../../aspose.pdf/matrix/e/) { get; set; } | Dönüşüm matrisinin E üyesi. |
+| [Elements](../../aspose.pdf/matrix/elements/) { get; } | Matrisin elemanları. |
+| [F](../../aspose.pdf/matrix/f/) { get; set; } | Dönüşüm matrisinin F üyesi. |
 
-## yöntemler
+## Metotlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| static [Rotation](../../aspose.pdf/matrix/rotation#rotation_1)(double) | Verilen dönüş açısı için matris oluşturur. |
-| static [Rotation](../../aspose.pdf/matrix/rotation#rotation)(Rotation) | Verilen döndürme için matris oluşturur. |
-| static [Skew](../../aspose.pdf/matrix/skew)(double, double) | Verilen dönüş açısı için matris oluşturur. |
-| [Add](../../aspose.pdf/matrix/add)(Matrix) | Diğer matrise matris ekler. |
-| override [Equals](../../aspose.pdf/matrix/equals)(object) | Matrisi diğer nesneyle karşılaştırır. |
-| override [GetHashCode](../../aspose.pdf/matrix/gethashcode)() | Nesne için karma kod. |
-| [Multiply](../../aspose.pdf/matrix/multiply)(Matrix) | Matrisi diğer matrisle çarpar. |
-| [Reverse](../../aspose.pdf/matrix/reverse)() | Ters matrisi hesaplar. |
-| override [ToString](../../aspose.pdf/matrix/tostring)() | Matrisin metin temsilini döndürür. |
-| [Transform](../../aspose.pdf/matrix/transform#transform)(Point) | Bu matrisi kullanarak noktayı dönüştürür. |
-| [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) | Dikdörtgeni dönüştürür. Açı 90 * N derece değilse, sınırlayıcı dikdörtgen döndürülür. |
-| static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) | Döndürmeyi açıya çevirir (derece) |
+| static [Rotation](../../aspose.pdf/matrix/rotation/#rotation_1)(double) | Verilen döndürme açısı için matris oluşturur. |
+| static [Rotation](../../aspose.pdf/matrix/rotation/#rotation)(Rotation) | Verilen döndürme için matris oluşturur. |
+| static [Scale](../../aspose.pdf/matrix/scale/)(double, double, Matrix) | Verilen matrise ölçekleme uygular. |
+| static [Skew](../../aspose.pdf/matrix/skew/)(double, double) | Verilen döndürme açısı için matris oluşturur. |
+| static [Translate](../../aspose.pdf/matrix/translate/)(double, double, Matrix) | Matrisi x ve y yönünde belirtilen miktarda çevirir. |
+| [Add](../../aspose.pdf/matrix/add/)(Matrix) | Matrisi diğer matrise ekler. |
+| override [Equals](../../aspose.pdf/matrix/equals/)(object) | Matrisi diğer nesne ile karşılaştırır. |
+| [GetFlipMatrix](../../aspose.pdf/matrix/getflipmatrix/)() | Çevirme matrisini alır. |
+| override [GetHashCode](../../aspose.pdf/matrix/gethashcode/)() | Nesne için hash kodu. |
+| [Multiply](../../aspose.pdf/matrix/multiply/)(Matrix) | Matrisi diğer matris ile çarpar. |
+| [Reverse](../../aspose.pdf/matrix/reverse/)() | Ters matrisi hesaplar. |
+| [Scale](../../aspose.pdf/matrix/scale/)(double, double, out double, out double) | Aşağıdaki formülü kullanarak matrisi x ve y ile ölçekler: x1 = A*x + C*y; y1 = B*x + D*y; |
+| override [ToString](../../aspose.pdf/matrix/tostring/)() | Matrisin metin temsilini döndürür. |
+| [Transform](../../aspose.pdf/matrix/transform/#transform)(Point) | Bu matrisi kullanarak noktayı dönüştürür. |
+| [Transform](../../aspose.pdf/matrix/transform/#transform_1)(Rectangle) | Dikdörtgeni dönüştürür. Açı 90 * N derece değilse, sınırlayıcı dikdörtgen döndürülür. |
+| [Transform](../../aspose.pdf/matrix/transform/#transform_2)(double, double, out double, out double) | Bu matrisi kullanarak koordinatları dönüştürür. |
+| [UnScale](../../aspose.pdf/matrix/unscale/)(double, double, out double, out double) | x1 ve y1'i geri ölçekler ve matris dönüşümünden önce x ve y'yi aşağıdaki formülü kullanarak döndürür: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B); |
+| [UnTransform](../../aspose.pdf/matrix/untransform/)(double, double, out double, out double) | x1 ve y1'i geri dönüştürür ve matris dönüşümünden önce x ve y'yi aşağıdaki formülü kullanarak döndürür: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B). |
+| static [GetAngle](../../aspose.pdf/matrix/getangle/)(Rotation) | Dönmeyi açıya (derece) çevirir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,70 +1,70 @@
 ---
-title: CharInfoCollection
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل مجموعة كائنات CharInfo.
+title: Class CharInfoCollection
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.CharInfoCollection. تمثل مجموعة من كائنات CharInfo
 type: docs
-weight: 6640
+weight: 10450
 url: /ar/net/aspose.pdf.text/charinfocollection/
 ---
 ## CharInfoCollection class
 
-يمثل مجموعة كائنات CharInfo.
+تمثل مجموعة من كائنات CharInfo.
 
 ```csharp
 public sealed class CharInfoCollection : ICollection<CharInfo>
 ```
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | يحصل على عدد[`CharInfo`](../charinfo) عناصر الكائن الموجودة بالفعل في المجموعة. |
-| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly) { get; } | الحصول على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط |
-| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized) { get; } | يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (مؤشر ترابط آمن). |
-| [Item](../../aspose.pdf.text/charinfocollection/item) { get; } | يحصل على عنصر CharInfo في الفهرس المحدد. |
-| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot) { get; } | يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المجموعة. |
+| [Count](../../aspose.pdf.text/charinfocollection/count/) { get; } | يحصل على عدد عناصر كائن [`CharInfo`](../charinfo/) الموجودة فعليًا في المجموعة. |
+| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط |
+| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (آمن للخيوط). |
+| [Item](../../aspose.pdf.text/charinfocollection/item/) { get; } | يحصل على عنصر CharInfo في الفهرس المحدد. |
+| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot/) { get; } | يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المجموعة. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | المجموعة للقراءة فقط ، رمياتNotImplementedException . |
-| [Clear](../../aspose.pdf.text/charinfocollection/clear)() | المجموعة للقراءة فقط. يرمي دائمًا NotImplementedException. |
-| [Contains](../../aspose.pdf.text/charinfocollection/contains)(CharInfo) | لتحديد ما إذا كانت المجموعة تحتوي على قيمة معينة. |
-| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | نسخ المجموعة بأكملها إلى مصفوفة متوافقة أحادية البعد ، بدءًا من الفهرس المحدد للمصفوفة المستهدفة |
-| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator)() | إرجاع عداد للمجموعة بأكملها. |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | المجموعة للقراءة فقط ، رمياتNotImplementedException . |
+| [Add](../../aspose.pdf.text/charinfocollection/add/)(CharInfo) | المجموعة للقراءة فقط، ترمي NotImplementedException. |
+| [Clear](../../aspose.pdf.text/charinfocollection/clear/)() | المجموعة للقراءة فقط. دائمًا ترمي NotImplementedException. |
+| [Contains](../../aspose.pdf.text/charinfocollection/contains/)(CharInfo) | يحدد ما إذا كانت المجموعة تحتوي على قيمة معينة. |
+| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto/)(CharInfo[], int) | ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف |
+| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator/)() | يعيد عدادًا للمجموعة بالكامل. |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove/)(CharInfo) | المجموعة للقراءة فقط، ترمي NotImplementedException. |
 
-### ملاحظات
+## Remarks
 
-يوفر الوصول إلى معلومات تحديد المواقع لأحرف جزء النص.
+يوفر الوصول إلى معلومات تحديد مواقع أحرف مقاطع النص.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية تكرار جميع الأحرف واسترداد الأحرف
+توضح المثال كيفية التكرار عبر جميع الأحرف واسترجاع الحرف
 
 ```csharp
-// فتح المستند
+//open document
 Document pdfDocument = new Document(inFile);
-// إنشاء كائن TextFragmentAbsorber لجمع كل كائنات النص في الصفحة
+//create TextFragmentAbsorber object to collect all the text objects of the page
 TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
-// قبول الامتصاص لجميع الصفحات
+//accept the absorber for all the pages
 pdfDocument.Pages[1].Accept(textFragmentAbsorber);
-// احصل على أجزاء النص المستخرجة
+//get the extracted text fragments
 TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
             
-// حلقة خلال الأجزاء
+//loop through the fragments
 foreach (TextFragment textFragment in textFragmentCollection)
 {
-    // حلقة خلال المقاطع
+    //loop through the segments
     foreach (TextSegment textSegment in textFragment.Segments)
     {
-        // حلقة من خلال الشخصيات
+        //loop through the characters
         for (int i = 1; i <= textSegment.Text.Length; i++)
         {
             CharInfo charInfo = textSegment.Characters[i];
 
-            // طباعة موضع الحرف ومعلومات المستطيل
+            // print character position and rectangle info
             Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
             Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
             Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
@@ -74,10 +74,8 @@ foreach (TextFragment textFragment in textFragmentCollection)
 }
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [CharInfo](../charinfo)
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [CharInfo](../charinfo/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

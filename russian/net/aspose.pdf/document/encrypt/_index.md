@@ -1,14 +1,14 @@
 ---
-title: Encrypt
-second_title: Aspose.PDF для справочника API .NET
-description: Шифрует документ. Позвоните затем сохраните чтобы получить зашифрованную версию документа.
+title: Document.Encrypt
+second_title: Aspose.PDF for .NET API Reference
+description: Метод документа. Шифрует документ. Затем вызовите Save, чтобы получить зашифрованную версию документа
 type: docs
-weight: 570
+weight: 620
 url: /ru/net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
 
-Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
+Шифрует документ. Затем вызовите Save, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -17,25 +17,61 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пользовательский пароль. |
+| userPassword | String | Пароль пользователя. |
 | ownerPassword | String | Пароль владельца. |
-| privileges | DocumentPrivilege | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
-| usePdf20 | Boolean | Поддержка версии 6 (расширение 8). |
+| privileges | DocumentPrivilege | Разрешения документа, см. [`Permissions`](../permissions/) для получения подробностей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см. [`CryptoAlgorithm`](../cryptoalgorithm/) для получения подробностей. |
+| usePdf20 | Boolean | Поддержка ревизии 6 (Расширение 8). |
 
-### Смотрите также
+### Примеры
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* пространство имен [Aspose.Pdf](../../document)
+Следующий пример показывает, как шифровать PDF-файлы с помощью [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
+
+```csharp
+[C#]
+
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath))
+	{
+	// Encrypt PDF
+	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
+
+	// Save updated PDF
+	document.Save(pdfFilePath);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF File.
+    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
+    
+	' Open document
+    Using document As Document = New Document(pdfFilePath)
+        ' Encrypt PDF
+        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
+        ' Save updated PDF
+        document.Save(pdfFilePath)
+    End Using
+```
+
+### См. также
+
+* класс [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* перечисление [CryptoAlgorithm](../../cryptoalgorithm/)
+* класс [Document](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
 
-Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
+Шифрует документ. Затем вызовите Save, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -44,24 +80,24 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пользовательский пароль. |
+| userPassword | String | Пароль пользователя. |
 | ownerPassword | String | Пароль владельца. |
-| permissions | Permissions | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
+| permissions | Permissions | Разрешения документа, см. [`Permissions`](../permissions/) для получения подробностей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см. [`CryptoAlgorithm`](../cryptoalgorithm/) для получения подробностей. |
 
-### Смотрите также
+### См. также
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* пространство имен [Aspose.Pdf](../../document)
+* перечисление [Permissions](../../permissions/)
+* перечисление [CryptoAlgorithm](../../cryptoalgorithm/)
+* класс [Document](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
 
-Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
+Шифрует документ. Затем вызовите Save, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -70,18 +106,16 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пользовательский пароль. |
+| userPassword | String | Пароль пользователя. |
 | ownerPassword | String | Пароль владельца. |
-| permissions | Permissions | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
-| usePdf20 | Boolean | Поддержка версии 6 (расширение 8). |
+| permissions | Permissions | Разрешения документа, см. [`Permissions`](../permissions/) для получения подробностей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см. [`CryptoAlgorithm`](../cryptoalgorithm/) для получения подробностей. |
+| usePdf20 | Boolean | Поддержка ревизии 6 (Расширение 8). |
 
-### Смотрите также
+### См. также
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* пространство имен [Aspose.Pdf](../../document)
+* перечисление [Permissions](../../permissions/)
+* перечисление [CryptoAlgorithm](../../cryptoalgorithm/)
+* класс [Document](../)
+* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

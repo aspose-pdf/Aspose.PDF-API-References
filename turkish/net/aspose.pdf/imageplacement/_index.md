@@ -1,77 +1,75 @@
 ---
-title: ImagePlacement
-second_title: Aspose.PDF for .NET API Referansı
-description: Pdf belge sayfasına yerleştirilen bir görüntünün özelliklerini temsil eder.
+title: Class ImagePlacement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImagePlacement sınıfı. Pdf belge sayfasına yerleştirilen bir resmin özelliklerini temsil eder.
 type: docs
-weight: 3760
+weight: 5900
 url: /tr/net/aspose.pdf/imageplacement/
 ---
-## ImagePlacement class
+## ImagePlacement sınıfı
 
-Pdf belge sayfasına yerleştirilen bir görüntünün özelliklerini temsil eder.
+Pdf belge sayfasına yerleştirilen bir resmin özelliklerini temsil eder.
 
 ```csharp
 public sealed class ImagePlacement
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Sayfaya yerleştirilen görüntü için etkin olan grafik durumunun birleştirme parametrelerini alır. |
-| [Image](../../aspose.pdf/imageplacement/image) { get; } | İlgili XImage kaynak nesnesini alır. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | Bu görüntü için geçerli dönüşüm matrisi. |
-| [Operator](../../aspose.pdf/imageplacement/operator) { get; } | Resmi görüntülemek için kullanılan operatör. |
-| [Page](../../aspose.pdf/imageplacement/page) { get; } | Resmi içeren sayfayı alır. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle) { get; } | Resmin dikdörtgenini alır. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution) { get; } | Resmin çözünürlüğünü alır. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation) { get; } | Resmin dönüş açısını alır. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Sayfaya yerleştirilen resim için aktif grafik durumunun bileşim parametrelerini alır. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | İlgili XImage kaynak nesnesini alır. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Bu resim için mevcut dönüşüm matrisini alır. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Resmi görüntülemek için kullanılan operatörü alır. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Resmi içeren sayfayı alır. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Resmin dikdörtgenini alır. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Resmin çözünürlüğünü alır. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Resmin döndürme açısını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide)() | Sayfadan resmi silin. |
-| [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | Koleksiyondaki resmi başka bir resimle değiştirin. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Resmi karşılık gelen dönüşümlerle kaydeder: ölçekleme, döndürme ve çözünürlük. |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Resmi karşılık gelen dönüşümlerle kaydeder: ölçekleme, döndürme ve çözünürlük. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Resmi sayfadan siler. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Koleksiyondaki resmi başka bir resimle değiştirir. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Resmi ilgili dönüşümlerle kaydeder: ölçeklendirme, döndürme ve çözünürlük. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Resmi ilgili dönüşümlerle kaydeder: ölçeklendirme, döndürme ve çözünürlük. |
 
-### Notlar
+## Açıklamalar
 
-Bir görüntü bir sayfaya yerleştirildiğinde, şu bölümde tanımlanan fiziksel boyutlardan farklı boyutlara sahip olabilir:[`Resources`](../resources) . Nesne[`ImagePlacement`](../imageplacement) boyutlar, çözünürlük vb. gibi bilgileri sağlamaya yöneliktir.
+Bir resim bir sayfaya yerleştirildiğinde, [`Resources`](../resources/) içinde tanımlanan fiziksel boyutlardan farklı boyutlara sahip olabilir. `ImagePlacement` nesnesi, boyutlar, çözünürlük gibi bilgileri sağlamak için tasarlanmıştır.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belge sayfasındaki görüntülerin nasıl bulunacağını ve görsel boyutları olan bitmapler olarak nasıl elde edileceğini gösterir.
+Örnek, ilk PDF belge sayfasındaki resimleri bulmayı ve görünür boyutlarla bitmap olarak almayı göstermektedir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Görüntü yerleştirme araması yapmak için ImagePlacementAbsorber nesnesi oluşturun
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Görünür boyutlara sahip görüntüleri al
+// Retrieve images with visible dimensions
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Kaynaklardan görüntü al
+        // Retrieve image from resources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Gerçek boyutlarla yeni bitmap oluştur
+        // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

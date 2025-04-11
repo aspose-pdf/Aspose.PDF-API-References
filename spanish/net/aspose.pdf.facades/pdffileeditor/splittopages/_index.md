@@ -1,9 +1,9 @@
 ---
-title: SplitToPages
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Divide el archivo PDF en documentos de una sola página.
+title: PdfFileEditor.SplitToPages
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Divide el archivo PDF en documentos de una sola página
 type: docs
-weight: 400
+weight: 370
 url: /es/net/aspose.pdf.facades/pdffileeditor/splittopages/
 ---
 ## SplitToPages(string) {#splittopages_1}
@@ -14,84 +14,82 @@ Divide el archivo PDF en documentos de una sola página.
 public MemoryStream[] SplitToPages(string inputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Introduzca el nombre del archivo PDF. |
+| inputFile | String | Nombre del archivo PDF de entrada. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Flujos de PDF de salida, cada flujo almacena en búfer un documento PDF de una sola página.
+Flujos PDF de salida, cada flujo almacena un documento PDF de una sola página.
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(Stream) {#splittopages}
 
-Divide el archivo PDF en documentos de una sola página.
+Divide el archivo Pdf en documentos de una sola página.
 
 ```csharp
 public MemoryStream[] SplitToPages(Stream inputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de PDF de entrada. |
+| inputStream | Stream | Flujo Pdf de entrada. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Matriz de flujos de memoria que contienen páginas del documento.
+Array de flujos de memoria que contienen las páginas del documento.
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(string, string) {#splittopages_3}
 
-Divide el archivo PDF en documentos de una sola página y lo guarda en la ruta especificada. La ruta se especifica por nombre de campo temaplate.
+Divide el archivo Pdf en documentos de una sola página y lo guarda en la ruta especificada. La ruta se especifica mediante el nombre del campo de plantilla.
 
 ```csharp
 public void SplitToPages(string inputFile, string fileNameTemplate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputFile | String | Nombre del archivo de entrada. |
-| fileNameTemplate | String | Plantilla del nombre de archivo resultante. Debe contener %NUM% que se reemplaza con el número de página. Por ejemplo, si se especifica c:/dir/page%NUM%.pdf, los archivos resultantes tendrán los siguientes nombres: c:/dir/page1.pdf, c:/dir/page2.pdf, etc. |
+| fileNameTemplate | String | Plantilla del nombre del archivo resultante. Debe contener %NUM% que se reemplaza con el número de página. Por ejemplo, si se especifica c:/dir/page%NUM%.pdf, los archivos resultantes tendrán los siguientes nombres: c:/dir/page1.pdf, c:/dir/page2.pdf, etc. |
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(Stream, string) {#splittopages_2}
 
-Divide el archivo PDF en documentos de una sola página y lo guarda en la ruta especificada. La ruta se especifica por nombre de campo temaplate.
+Divide el archivo Pdf en documentos de una sola página y lo guarda en la ruta especificada. La ruta se especifica mediante el nombre del campo de plantilla.
 
 ```csharp
 public void SplitToPages(Stream inputStream, string fileNameTemplate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputStream | Stream | Flujo del documento fuente. |
-| fileNameTemplate | String | Plantilla del nombre de archivo resultante. Debe contener %NUM% que se reemplaza con el número de página. Por ejemplo, si se especifica c:/dir/page%NUM%.pdf, los archivos resultantes tendrán los siguientes nombres: c:/dir/page1.pdf, c:/dir/page2.pdf, etc. |
+| fileNameTemplate | String | Plantilla del nombre del archivo resultante. Debe contener %NUM% que se reemplaza con el número de página. Por ejemplo, si se especifica c:/dir/page%NUM%.pdf, los archivos resultantes tendrán los siguientes nombres: c:/dir/page1.pdf, c:/dir/page2.pdf, etc. |
 
-### Ver también
+### Véase También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

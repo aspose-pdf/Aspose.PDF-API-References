@@ -1,29 +1,29 @@
 ---
-title: CreateApplicationLink
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Crea un vínculo para iniciar una aplicación en un documento PDF.
+title: PdfContentEditor.CreateApplicationLink
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfContentEditor. Crea un enlace para lanzar una aplicación en un documento PDF
 type: docs
 weight: 110
 url: /es/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-Crea un vínculo para iniciar una aplicación en un documento PDF.
+Crea un enlace para lanzar una aplicación en un documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
     Enum[] actionName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | rect | Rectangle | El rectángulo para el clic activo. |
-| application | String | La ruta de la aplicación que se lanzará. |
-| page | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| application | String | La ruta de la aplicación que se va a lanzar. |
+| page | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 | clr | Color | El color del rectángulo para el clic activo. |
-| actionName | Enum[] | La matriz de acciones (miembros de la enumeración PredefinedAction) correspondiente a la ejecución de elementos de menú en el visor de Acrobat. |
+| actionName | Enum[] | El arreglo de acciones (miembros del enum PredefinedAction) correspondientes a la ejecución de elementos de menú en el visor de Acrobat. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -34,30 +34,30 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-Crea un vínculo para iniciar una aplicación en un documento PDF.
+Crea un enlace para lanzar una aplicación en un documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | rect | Rectangle | El rectángulo para el clic activo. |
-| application | String | La ruta de la aplicación que se lanzará. |
-| page | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| application | String | La ruta de la aplicación que se va a lanzar. |
+| page | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 | clr | Color | El color del rectángulo para el clic activo. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -67,29 +67,29 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-Crea un vínculo para iniciar una aplicación en un documento PDF.
+Crea un enlace para lanzar una aplicación en un documento PDF.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | rect | Rectangle | El rectángulo para el clic activo. |
-| application | String | La ruta de la aplicación que se lanzará. |
-| page | Int32 | El número de la página original donde se creará el rectángulo enlazado con el enlace. |
+| application | String | La ruta de la aplicación que se va a lanzar. |
+| page | Int32 | El número de la página original donde se creará el rectángulo vinculado con el enlace. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -98,10 +98,8 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100), "expl
 editor.Save("example_out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfContentEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

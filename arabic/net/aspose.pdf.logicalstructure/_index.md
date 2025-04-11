@@ -1,92 +1,90 @@
 ---
 title: Aspose.Pdf.LogicalStructure
-second_title: Aspose.PDF لمرجع .NET API
-description: ملف Aspose.Pdf.Tagged.LogicalStructure هي مساحة اسم لفئات بنية PDF المنطقية.
+second_title: Aspose.PDF for .NET API Reference
+description: مساحة الأسماء Aspose.Pdf.Tagged.LogicalStructure لفئات الهيكل المنطقي لملفات PDF
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/
 ---
-ملف **Aspose.Pdf.Tagged.LogicalStructure** هي مساحة اسم لفئات بنية PDF المنطقية.
+تعتبر **Aspose.Pdf.Tagged.LogicalStructure** مساحة أسماء لفئات الهيكل المنطقي لملفات PDF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [AnnotationElement](./annotationelement) | يمثل فئة أساسية لعناصر بنية التعليقات التوضيحية في الهيكل المنطقي. |
-| [AnnotElement](./annotelement) | يمثل عنصر هيكل Annot في الهيكل المنطقي. |
-| [ArtElement](./artelement) | يمثل عنصر بنية فنية في بنية منطقية. |
-| [AttributeKey](./attributekey) | يمثل مفاتيح السمات القياسية . |
-| [AttributeName](./attributename) | يمثل فئة لقيم اسم السمة. |
-| [AttributeOwnerStandard](./attributeownerstandard) | يمثل مالكي السمات القياسية . |
-| [BibEntryElement](./bibentryelement) | يمثل عنصر هيكل الدخول في الهيكل المنطقي. |
-| [BlockQuoteElement](./blockquoteelement) | يمثل عنصر هيكل BlockQuote في الهيكل المنطقي. |
-| [BLSElement](./blselement) | يمثل فئة أساسية لعناصر البنية على مستوى الكتلة في البنية المنطقية. |
-| [BLSTextElement](./blstextelement) | يمثل فئة أساسية لعناصر بنية النص على مستوى الكتلة في البنية المنطقية. |
-| [CaptionElement](./captionelement) | يمثل عنصر بنية التسمية التوضيحية في الهيكل المنطقي. |
-| [CodeElement](./codeelement) | يمثل عنصر بنية الكود في البنية المنطقية. |
-| [DivElement](./divelement) | يمثل عنصر هيكل Div في الهيكل المنطقي. |
-| [DocumentElement](./documentelement) | يمثل عنصر بنية المستند في الهيكل المنطقي. |
-| [Element](./element) | يمثل فئة أساسية للعنصر في البنية المنطقية. |
-| [ElementList](./elementlist) | يمثل مجموعة مرتبة من العناصر. |
-| [FigureElement](./figureelement) | يمثل عنصر هيكل الشكل في الهيكل المنطقي. |
-| [FormElement](./formelement) | يمثل عنصر بنية النموذج في البنية المنطقية. |
-| [FormulaElement](./formulaelement) | يمثل عنصر بنية الصيغة في الهيكل المنطقي. |
-| [GroupingElement](./groupingelement) | يمثل فئة أساسية لتجميع عناصر البنية في البنية المنطقية. |
-| [HeaderElement](./headerelement) | يمثل عنصر بنية الرأس في الهيكل المنطقي. |
-| [IllustrationElement](./illustrationelement) | يمثل فئة أساسية لعناصر هيكل التوضيح في البنية المنطقية. |
-| [ILSElement](./ilselement) | يمثل فئة أساسية لعناصر البنية ذات المستوى المضمن في البنية المنطقية. |
-| [ILSTextElement](./ilstextelement) | يمثل فئة أساسية لعناصر بنية النص المضمنة في البنية المنطقية. |
-| [IndexElement](./indexelement) | يمثل عنصر بنية الفهرس في الهيكل المنطقي. |
-| [LinkElement](./linkelement) | يمثل عنصر بنية الارتباط في الهيكل المنطقي. |
-| [ListChildElement](./listchildelement) | يمثل فئة أساسية لعناصر فرعية من القائمة في البنية المنطقية. |
-| [ListElement](./listelement) | يمثل عنصر بنية القائمة في الهيكل المنطقي. |
-| [ListLblElement](./listlblelement) | يمثل عنصر هيكل Lbl في الهيكل المنطقي للقائمة. |
-| [ListLBodyElement](./listlbodyelement) | يمثل عنصر بنية الجسم في الهيكل المنطقي للقائمة. |
-| [ListLIElement](./listlielement) | يمثل عنصر هيكل LI في الهيكل المنطقي للقائمة. |
-| [MCRElement](./mcrelement) | يمثل كائن مرجعي ذو محتوى محدد في بنية منطقية. |
-| [NonStructElement](./nonstructelement) | يمثل عنصر البنية غير الهيكلية في الهيكل المنطقي. |
-| [NoteElement](./noteelement) | يمثل عنصر بنية الملاحظة في الهيكل المنطقي. |
-| [OBJRElement](./objrelement) | يمثل كيان مرجع الكائن في الهيكل المنطقي. |
-| [ParagraphElement](./paragraphelement) | يمثل عنصر بنية الفقرة في الهيكل المنطقي. |
-| [PartElement](./partelement) | يمثل عنصر هيكل الجزء في الهيكل المنطقي. |
-| [PrivateElement](./privateelement) | يمثل عنصر البنية الخاص في البنية المنطقية. |
-| [QuoteElement](./quoteelement) | يمثل عنصر هيكل الاقتباس في الهيكل المنطقي. |
-| [ReferenceElement](./referenceelement) | يمثل عنصر البنية المرجعية في الهيكل المنطقي. |
-| [RubyChildElement](./rubychildelement) | يمثل فئة أساسية لعناصر الأطفال من روبي في البنية المنطقية. |
-| [RubyElement](./rubyelement) | يمثل عنصر بنية روبي في الهيكل المنطقي. |
-| [RubyRBElement](./rubyrbelement) | يمثل عنصر هيكل RB في البنية المنطقية للروبي. |
-| [RubyRPElement](./rubyrpelement) | يمثل عنصر بنية RP في البنية المنطقية للروبي. |
-| [RubyRTElement](./rubyrtelement) | يمثل عنصر بنية RT في البنية المنطقية للروبي. |
-| [SectElement](./sectelement) | يمثل عنصر هيكل الطائفة في البنية المنطقية. |
-| [SpanElement](./spanelement) | يمثل عنصر بنية النطاق في البنية المنطقية. |
-| [StructTreeRootElement](./structtreerootelement) | يمثل كائن StructTreeRoot في بنية منطقية. |
-| [StructureAttribute](./structureattribute) | يمثل سمة عنصر الهيكل . |
-| [StructureAttributeCollection](./structureattributecollection) | يمثل مجموعة من سمات عناصر الهيكل. |
-| [StructureAttributes](./structureattributes) | يمثل سمات عنصر البنية لأصحاب السمات القياسية. |
-| [StructureElement](./structureelement) | يمثل فئة أساسية لعناصر البنية في البنية المنطقية. |
-| [StructureTextState](./structuretextstate) | يمثل إعدادات حالة النص لعناصر بنية النص والمحتوى ذي العلامات (ITextElement ، ITaggedContent) |
-| [StructureTypeCategory](./structuretypecategory) | يمثل فئات لأنواع الهياكل القياسية. |
-| [StructureTypeStandard](./structuretypestandard) | يمثل أنواع الهياكل القياسية . |
-| [TableCellElement](./tablecellelement) | يمثل فئة أساسية لعناصر خلايا الجدول (TH و TD) في البنية المنطقية. |
-| [TableChildElement](./tablechildelement) | يمثل فئة أساسية لعناصر الجدول التابعة في البنية المنطقية. |
-| [TableElement](./tableelement) | يمثل عنصر بنية الجدول في الهيكل المنطقي. |
-| [TableRowCollectionElement](./tablerowcollectionelement) | يمثل فئة أساسية لعناصر الأطفال من رأس الجدول والجسم والقدم في بنية منطقية. |
-| [TableTBodyElement](./tabletbodyelement) | يمثل عنصر هيكل الجسم في الهيكل المنطقي للجدول. |
-| [TableTDElement](./tabletdelement) | يمثل عنصر هيكل TD في الهيكل المنطقي للجدول. |
-| [TableTFootElement](./tabletfootelement) | يمثل عنصر بنية TFoot في الهيكل المنطقي للجدول. |
-| [TableTHeadElement](./tabletheadelement) | يمثل عنصر الهيكل الرئيسي في الهيكل المنطقي للجدول. |
-| [TableTHElement](./tablethelement) | يمثل عنصر هيكل TH في الهيكل المنطقي للجدول. |
-| [TableTRElement](./tabletrelement) | يمثل عنصر هيكل TR في الهيكل المنطقي للجدول. |
-| [TOCElement](./tocelement) | يمثل عنصر هيكل جدول المحتويات في الهيكل المنطقي. |
-| [TOCIElement](./tocielement) | يمثل عنصر هيكل TOCI في الهيكل المنطقي. |
-| [WarichuChildElement](./warichuchildelement) | يمثل فئة أساسية لعناصر الأطفال في Warichu في البنية المنطقية. |
-| [WarichuElement](./warichuelement) | يمثل عنصر هيكل Warichu في الهيكل المنطقي. |
-| [WarichuWPElement](./warichuwpelement) | يمثل عنصر هيكل WP في البنية المنطقية لـ Warichu. |
-| [WarichuWTElement](./warichuwtelement) | يمثل عنصر هيكل WT في البنية المنطقية لـ Warichu. |
-## واجهات
+| [AnnotationElement](./annotationelement/) | تمثل فئة أساسية لعناصر هيكل التعليق في الهيكل المنطقي. |
+| [AnnotElement](./annotelement/) | تمثل عنصر هيكل التعليق في الهيكل المنطقي. |
+| [ArtElement](./artelement/) | تمثل عنصر هيكل الفن في الهيكل المنطقي. |
+| [AttributeKey](./attributekey/) | تمثل مفاتيح السمات القياسية. |
+| [AttributeName](./attributename/) | تمثل فئة لقيم أسماء السمات. |
+| [AttributeOwnerStandard](./attributeownerstandard/) | تمثل مالكي السمات القياسية. |
+| [BibEntryElement](./bibentryelement/) | تمثل عنصر هيكل BibEntry في الهيكل المنطقي. |
+| [BlockQuoteElement](./blockquoteelement/) | تمثل عنصر هيكل الاقتباس في الهيكل المنطقي. |
+| [BLSElement](./blselement/) | تمثل فئة أساسية لعناصر الهيكل على مستوى الكتلة في الهيكل المنطقي. |
+| [BLSTextElement](./blstextelement/) | تمثل فئة أساسية لعناصر النص على مستوى الكتلة في الهيكل المنطقي. |
+| [CaptionElement](./captionelement/) | تمثل عنصر هيكل التسمية في الهيكل المنطقي. |
+| [CodeElement](./codeelement/) | تمثل عنصر هيكل الكود في الهيكل المنطقي. |
+| [DivElement](./divelement/) | تمثل عنصر هيكل القسم في الهيكل المنطقي. |
+| [DocumentElement](./documentelement/) | تمثل عنصر هيكل الوثيقة في الهيكل المنطقي. |
+| [Element](./element/) | تمثل فئة أساسية للعنصر في الهيكل المنطقي. |
+| [ElementList](./elementlist/) | تمثل مجموعة مرتبة من العناصر. |
+| [FigureElement](./figureelement/) | تمثل عنصر هيكل الشكل في الهيكل المنطقي. |
+| [FormElement](./formelement/) | تمثل عنصر هيكل النموذج في الهيكل المنطقي. |
+| [FormulaElement](./formulaelement/) | تمثل عنصر هيكل المعادلة في الهيكل المنطقي. |
+| [GroupingElement](./groupingelement/) | تمثل فئة أساسية لعناصر الهيكل التجميعي في الهيكل المنطقي. |
+| [HeaderElement](./headerelement/) | تمثل عنصر هيكل الرأس في الهيكل المنطقي. |
+| [IllustrationElement](./illustrationelement/) | تمثل فئة أساسية لعناصر الهيكل التوضيحي في الهيكل المنطقي. |
+| [ILSElement](./ilselement/) | تمثل فئة أساسية لعناصر الهيكل على مستوى السطر في الهيكل المنطقي. |
+| [ILSTextElement](./ilstextelement/) | تمثل فئة أساسية لعناصر النص على مستوى السطر في الهيكل المنطقي. |
+| [IndexElement](./indexelement/) | تمثل عنصر هيكل الفهرس في الهيكل المنطقي. |
+| [LinkElement](./linkelement/) | تمثل عنصر هيكل الرابط في الهيكل المنطقي. |
+| [ListChildElement](./listchildelement/) | تمثل فئة أساسية لعناصر الأطفال من القائمة في الهيكل المنطقي. |
+| [ListElement](./listelement/) | تمثل عنصر هيكل القائمة في الهيكل المنطقي. |
+| [ListLblElement](./listlblelement/) | تمثل عنصر هيكل التسمية في الهيكل المنطقي للقائمة. |
+| [ListLBodyElement](./listlbodyelement/) | تمثل عنصر هيكل الجسم في الهيكل المنطقي للقائمة. |
+| [ListLIElement](./listlielement/) | تمثل عنصر هيكل LI في الهيكل المنطقي للقائمة. |
+| [MCRElement](./mcrelement/) | تمثل كائن مرجع المحتوى المميز في الهيكل المنطقي. |
+| [NonStructElement](./nonstructelement/) | تمثل عنصر هيكل غير هيكلي في الهيكل المنطقي. |
+| [NoteElement](./noteelement/) | تمثل عنصر هيكل الملاحظة في الهيكل المنطقي. |
+| [OBJRElement](./objrelement/) | تمثل كيان مرجع الكائن في الهيكل المنطقي. |
+| [ParagraphElement](./paragraphelement/) | تمثل عنصر هيكل الفقرة في الهيكل المنطقي. |
+| [PartElement](./partelement/) | تمثل عنصر هيكل الجزء في الهيكل المنطقي. |
+| [PrivateElement](./privateelement/) | تمثل عنصر هيكل خاص في الهيكل المنطقي. |
+| [QuoteElement](./quoteelement/) | تمثل عنصر هيكل الاقتباس في الهيكل المنطقي. |
+| [ReferenceElement](./referenceelement/) | تمثل عنصر هيكل المرجع في الهيكل المنطقي. |
+| [RubyChildElement](./rubychildelement/) | تمثل فئة أساسية لعناصر الأطفال من الهيكل الروبي في الهيكل المنطقي. |
+| [RubyElement](./rubyelement/) | تمثل عنصر هيكل الروبي في الهيكل المنطقي. |
+| [RubyRBElement](./rubyrbelement/) | تمثل عنصر هيكل RB في الهيكل المنطقي للروبي. |
+| [RubyRPElement](./rubyrpelement/) | تمثل عنصر هيكل RP في الهيكل المنطقي للروبي. |
+| [RubyRTElement](./rubyrtelement/) | تمثل عنصر هيكل RT في الهيكل المنطقي للروبي. |
+| [SectElement](./sectelement/) | تمثل عنصر هيكل القسم في الهيكل المنطقي. |
+| [SpanElement](./spanelement/) | تمثل عنصر هيكل النطاق في الهيكل المنطقي. |
+| [StructTreeRootElement](./structtreerootelement/) | تمثل كائن StructTreeRoot في الهيكل المنطقي. |
+| [StructureAttribute](./structureattribute/) | تمثل سمة عنصر الهيكل. |
+| [StructureAttributeCollection](./structureattributecollection/) | تمثل مجموعة من سمات عناصر الهيكل. |
+| [StructureAttributes](./structureattributes/) | تمثل سمات عنصر الهيكل لمالكي السمات القياسية. |
+| [StructureElement](./structureelement/) | تمثل فئة أساسية لعناصر الهيكل في الهيكل المنطقي. |
+| [StructureTextState](./structuretextstate/) | تمثل إعدادات حالة النص لعناصر الهيكل النصي والمحتوى المميز (ITextElement, ITaggedContent) |
+| [StructureTypeCategory](./structuretypecategory/) | تمثل فئات أنواع الهيكل القياسية. |
+| [StructureTypeStandard](./structuretypestandard/) | تمثل أنواع الهيكل القياسية. |
+| [TableCellElement](./tablecellelement/) | تمثل فئة أساسية لعناصر خلايا الجدول (TH و TD) في الهيكل المنطقي. |
+| [TableChildElement](./tablechildelement/) | تمثل فئة أساسية لعناصر الأطفال من الجدول في الهيكل المنطقي. |
+| [TableElement](./tableelement/) | تمثل عنصر هيكل الجدول في الهيكل المنطقي. |
+| [TableRowCollectionElement](./tablerowcollectionelement/) | تمثل فئة أساسية لعناصر الأطفال من رأس الجدول والجسم والقدم في الهيكل المنطقي. |
+| [TableTBodyElement](./tabletbodyelement/) | تمثل عنصر هيكل TBody في الهيكل المنطقي للجدول. |
+| [TableTDElement](./tabletdelement/) | تمثل عنصر هيكل TD في الهيكل المنطقي للجدول. |
+| [TableTFootElement](./tabletfootelement/) | تمثل عنصر هيكل TFoot في الهيكل المنطقي للجدول. |
+| [TableTHeadElement](./tabletheadelement/) | تمثل عنصر هيكل THead في الهيكل المنطقي للجدول. |
+| [TableTHElement](./tablethelement/) | تمثل عنصر هيكل TH في الهيكل المنطقي للجدول. |
+| [TableTRElement](./tabletrelement/) | تمثل عنصر هيكل TR في الهيكل المنطقي للجدول. |
+| [TOCElement](./tocelement/) | تمثل عنصر هيكل TOC في الهيكل المنطقي. |
+| [TOCIElement](./tocielement/) | تمثل عنصر هيكل TOCI في الهيكل المنطقي. |
+| [WarichuChildElement](./warichuchildelement/) | تمثل فئة أساسية لعناصر الأطفال من الهيكل Warichu في الهيكل المنطقي. |
+| [WarichuElement](./warichuelement/) | تمثل عنصر هيكل Warichu في الهيكل المنطقي. |
+| [WarichuWPElement](./warichuwpelement/) | تمثل عنصر هيكل WP في الهيكل المنطقي للWarichu. |
+| [WarichuWTElement](./warichuwtelement/) | تمثل عنصر هيكل WT في الهيكل المنطقي للWarichu. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [ITextElement](./itextelement) | واجهة لتقديم عناصر بنية النص. |
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+| [ITextElement](./itextelement/) | واجهة لتقديم عناصر الهيكل النصي. |

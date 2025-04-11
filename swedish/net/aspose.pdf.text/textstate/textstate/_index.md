@@ -1,7 +1,7 @@
 ---
-title: TextState
-second_title: Aspose.PDF för .NET API Referens
-description: Skapar texttillståndsobjekt.
+title: TextState.TextState
+second_title: Aspose.PDF for .NET API Reference
+description: TextState-konstruktör. Skapar texttillståndsobjekt
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textstate/textstate/
@@ -14,17 +14,17 @@ Skapar texttillståndsobjekt.
 public TextState()
 ```
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(double) {#constructor_1}
 
-Skapar texttillståndsobjekt med teckenstorleksspecifikation.
+Skapar texttillståndsobjekt med specifikation av teckenstorlek.
 
 ```csharp
 public TextState(double fontSize)
@@ -32,19 +32,19 @@ public TextState(double fontSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontSize | Double | Textstorlek. |
+| fontSize | Double | Teckenstorlek. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(Color) {#constructor_2}
 
-Skapar texttillståndsobjekt med förgrundsfärgsspecifikation.
+Skapar texttillståndsobjekt med specifikation av förgrundsfärg.
 
 ```csharp
 public TextState(Color foregroundColor)
@@ -54,17 +54,17 @@ public TextState(Color foregroundColor)
 | --- | --- | --- |
 | foregroundColor | Color | Förgrundsfärg. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(Color, double) {#constructor_3}
 
-Skapar texttillståndsobjekt med förgrundsfärg och teckenstorleksspecifikation.
+Skapar texttillståndsobjekt med specifikation av förgrundsfärg och teckenstorlek.
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
@@ -73,19 +73,19 @@ public TextState(Color foregroundColor, double fontSize)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | foregroundColor | Color | Förgrundsfärg. |
-| fontSize | Double | Textstorlek. |
+| fontSize | Double | Teckenstorlek. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string) {#constructor_4}
 
-Skapar texttillståndsobjekt med typsnittsfamiljspecifikation.
+Skapar texttillståndsobjekt med specifikation av teckensnittsfamilj.
 
 ```csharp
 public TextState(string fontFamily)
@@ -93,19 +93,19 @@ public TextState(string fontFamily)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFamily | String | Typsnittsfamilj. |
+| fontFamily | String | Teckensnittsfamilj. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Skapar texttillståndsobjekt med typsnittsfamilj och typsnittsstilsspecifikation.
+Skapar texttillståndsobjekt med specifikation av teckensnittsfamilj och teckensnittsstil.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
@@ -113,21 +113,21 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFamily | String | Typsnittsfamilj. |
-| bold | Boolean | Fet teckensnitt. |
-| italic | Boolean | Kursiv teckensnitt. |
+| fontFamily | String | Teckensnittsfamilj. |
+| bold | Boolean | Fet teckensnittsstil. |
+| italic | Boolean | Kursiv teckensnittsstil. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, double) {#constructor_6}
 
-Skapar texttillståndsobjekt med teckensnittsfamilj och teckenstorleksspecifikation.
+Skapar texttillståndsobjekt med specifikation av teckensnittsfamilj och teckenstorlek.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
@@ -135,13 +135,11 @@ public TextState(string fontFamily, double fontSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFamily | String | Typsnittsfamilj. |
-| fontSize | Double | Textstorlek. |
+| fontFamily | String | Teckensnittsfamilj. |
+| fontSize | Double | Teckenstorlek. |
 
-### Se även
+### Se Även
 
-* class [TextState](../../textstate)
-* namnutrymme [Aspose.Pdf.Text](../../textstate)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextState](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)

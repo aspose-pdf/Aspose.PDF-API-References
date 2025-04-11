@@ -1,12 +1,12 @@
 ---
-title: Form
-second_title: Aspose.PDF for .NET API Referansı
-description: Form nesnesini temsil eden sınıf.
+title: Class Form
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Forms.Form sınıfı. Form nesnesini temsil eden sınıf
 type: docs
-weight: 3020
+weight: 5070
 url: /tr/net/aspose.pdf.forms/form/
 ---
-## Form class
+## Form sınıfı
 
 Form nesnesini temsil eden sınıf.
 
@@ -14,63 +14,68 @@ Form nesnesini temsil eden sınıf.
 public sealed class Form : ICollection<WidgetAnnotation>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate) { get; set; } | Ayarlanırsa, herhangi bir alan değiştirildiğinde tüm form alanları yeniden hesaplanacaktır. Varsayılan değer doğrudur. Formu büyük miktarda hesaplanmış alanla doldururken performansı artırmak için false olarak ayarlayın. |
-| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform) { get; set; } | Ayarlanırsa, ek açıklamalarda mevcutlarsa eksik form alanları otomatik olarak oluşturulur. |
-| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields) { set; } | Alan hesaplama sırasını belirlemeye izin verir. |
-| [Count](../../aspose.pdf.forms/form/count) { get; } | Bu formdaki alanların sayısını alır. |
-| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance) { get; set; } | Formun varsayılan görünümünü alır veya ayarlar (formdaki alanlar için varsayılan yazı tipini, metin boyutunu ve rengini tanımlayan nesne). |
-| [DefaultResources](../../aspose.pdf.forms/form/defaultresources) { get; } | Bu forma yerleştirilmiş varsayılan kaynakları alır. |
-| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups) { get; set; } | Bu özellik doğruysa, gerekli Xfa için ek kırmızı sınır dikdörtgenleri çizilir exclGroup elemanları container Bu özellik, dönüştürme sırasında exclGroup için analogların olmaması nedeniyle tanıtıldı formlarının standarda Xfa gösterimi. Varsayılan olarak yanlıştır. |
-| [Fields](../../aspose.pdf.forms/form/fields) { get; } | En düşük hiyerarşik form düzeyindeki tüm alanların listesini alır. |
-| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering) { get; set; } | Bu özellik doğruysa, XFA formunun Standart forma dönüştürülmesi sırasında NeedsRendering anahtarının değeri yok sayılır. Varsayılan olarak yanlıştır. |
-| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized) { get; } | Nesne iş parçacığı için güvenliyse true değerini döndürür. |
-| [Item](../../aspose.pdf.forms/form/item) { get; } | Formun alanını alan adına göre alır. Alan bulunamadıysa istisna atar. (2 indexers) |
-| [RemovePermission](../../aspose.pdf.forms/form/removepermission) { get; set; } | Bu özellik doğruysa, dinamik belgeleri standarda dönüştürdükten sonra "İzinler" sözlüğü pdf belgesinden kaldırılacaktır. "İzinler" sözlüğü, Adobe Acrobat okuyucuda zorunlu alanların seçiminin görüntülenmesini engelleyen kurallar içerebilir. Varsayılan olarak yanlıştır. |
-| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly) { get; set; } | Ayarlanırsa, belge, dosya önceki içeriğini değiştirecek şekilde kaydedilirse (yazılırsa) geçersiz kılınabilecek imzalar içerir, artımlı güncelleme yerine . |
-| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist) { get; set; } | Ayarlanırsa, belge en az bir imza alanı içerir. |
-| [SyncRoot](../../aspose.pdf.forms/form/syncroot) { get; } | Eşitleme nesnesini döndürür. |
-| [Type](../../aspose.pdf.forms/form/type) { get; set; } | Formun türünü alır. Olası değerler şunlardır: Standart, Statik, Dinamik. |
-| [XFA](../../aspose.pdf.forms/form/xfa) { get; } | Formun XFA verilerini alır (varsa). |
+| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate/) { get; set; } | Ayarlandığında, herhangi bir alan değiştiğinde tüm form alanları yeniden hesaplanacaktır. Varsayılan değer doğrudur. Hesaplanan alanların büyük miktarda doldurulması sırasında performansı artırmak için false olarak ayarlayın. |
+| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform/) { get; set; } | Ayarlandığında, eksik form alanları, eğer anotasyonlarda mevcutsa otomatik olarak oluşturulacaktır. |
+| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields/) { set; } | Alan hesaplama sırasını ayarlamaya olanak tanır. |
+| [Count](../../aspose.pdf.forms/form/count/) { get; } | Bu form üzerindeki alanların sayısını alır. |
+| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance/) { get; set; } | Formun varsayılan görünümünü alır veya ayarlar (form üzerindeki alanlar için varsayılan yazı tipi, metin boyutu ve rengini tanımlayan nesne). |
+| [DefaultResources](../../aspose.pdf.forms/form/defaultresources/) { get; } | Bu formda yer alan varsayılan kaynakları alır. |
+| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups/) { get; set; } | Bu özellik doğruysa, gerekli Xfa exclGroup öğeleri konteynerleri için ek kırmızı sınır dikdörtgenleri çizilecektir. Bu özellik, formların Xfa temsilinin standart hale dönüştürülmesi sırasında exclGroup için benzerlerinin olmaması nedeniyle tanıtılmıştır. Varsayılan olarak false'dur. |
+| [Fields](../../aspose.pdf.forms/form/fields/) { get; } | Hiyerarşik formun en alt seviyesindeki tüm alanların listesini alır. |
+| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering/) { get; set; } | Bu özellik doğruysa, XFA formunun standart forma dönüştürülmesi sırasında NeedsRendering anahtarının değeri göz ardı edilecektir. Varsayılan olarak false'dur. |
+| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized/) { get; } | Nesnenin thread-safe olup olmadığını belirtir. |
+| [Item](../../aspose.pdf.forms/form/item/) { get; } | Alan adını kullanarak formun alanını alır. Alan bulunamazsa istisna fırlatır. (2 indeksleyici) |
+| [RemovePermission](../../aspose.pdf.forms/form/removepermission/) { get; set; } | Bu özellik doğruysa, dinamik belgelerin standart hale dönüştürülmesinden sonra "Perms" sözlüğü pdf belgesinden kaldırılacaktır. "Perms" sözlüğü, Adobe Acrobat okuyucusunda zorunlu alanların seçimlerinin görüntülenmesini engelleyen kurallar içerebilir. Varsayılan olarak false'dur. |
+| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly/) { get; set; } | Ayarlandığında, belge, dosyanın önceki içeriğini değiştiren bir şekilde kaydedilirse (yazılırsa) geçersiz kılınabilecek imzalar içerir; bu, artımlı bir güncellemenin tersidir. |
+| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist/) { get; set; } | Ayarlandığında, belge en az bir imza alanı içerir. |
+| [SyncRoot](../../aspose.pdf.forms/form/syncroot/) { get; } | Senkronizasyon nesnesini döndürür. |
+| [Type](../../aspose.pdf.forms/form/type/) { get; set; } | Formun türünü alır. Olası değerler: Standart, Statik, Dinamik. |
+| [XFA](../../aspose.pdf.forms/form/xfa/) { get; } | Formun XFA verilerini alır (varsa). |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf.forms/form/add#add_1)(Field) | Forma alan ekler. |
-| [Add](../../aspose.pdf.forms/form/add#add_2)(Field, int) | Forma alan ekler. |
-| [Add](../../aspose.pdf.forms/form/add#add)(Field, string, int) | Forma yeni alan ekler; Bu alan zaten başka bir forma veya bu forma yerleştirilmişse, alanın kopyası oluşturulur. |
-| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance)(Field, int, Rectangle) | Belirtilen konumdaki belgenin belirtilen sayfasına alanın ek görünümünü ekler. |
-| [AssignXfa](../../aspose.pdf.forms/form/assignxfa)(XmlDocument) | Formun XFA'sını belirtilen değere ayarlar. |
-| [CopyTo](../../aspose.pdf.forms/form/copyto)(Field[], int) | Forma yerleştirilen alanları diziye kopyalar. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete)(Field) | Alanı formdan silin. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete_1)(string) | Alanı adıyla formdan siler. |
-| [Flatten](../../aspose.pdf.forms/form/flatten)() | Tüm form alanlarını kaldırır ve değerlerini doğrudan sayfaya yerleştirir. |
-| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator)() | Form alanlarının numaralandırılmasını alır. |
-| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect)(Rectangle) | Belirtilen dikdörtgenin içindeki alanları döndürür. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | Formda zaten belirtilen alan olup olmadığını kontrol edin. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | Belirtilen ada sahip alanın Form'a önceden eklenmiş olup olmadığını belirler. |
+| [Add](../../aspose.pdf.forms/form/add/#add_1)(Field) | Formda alan ekler. |
+| [Add](../../aspose.pdf.forms/form/add/#add_2)(Field, int) | Formda alan ekler. |
+| [Add](../../aspose.pdf.forms/form/add/#add)(Field, string, int) | Formda yeni bir alan ekler; Eğer bu alan başka bir formda veya bu formda zaten yer alıyorsa, alanın bir kopyası oluşturulur. |
+| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance/)(Field, int, Rectangle) | Belirtilen konumda, belgenin belirtilen sayfasına alanın ek görünümünü ekler. |
+| [AssignXfa](../../aspose.pdf.forms/form/assignxfa/)(XmlDocument) | Formun XFA'sını belirtilen değere ayarlar. |
+| [CopyTo](../../aspose.pdf.forms/form/copyto/)(Field[], int) | Formda yer alan alanları bir diziye kopyalar. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete)(Field) | Formdan alanı siler. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete_1)(string) | Alanı adını kullanarak formdan siler. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson)(Stream, ExportFieldsToJsonOptions) | PDF form alanlarını JSON formatına aktarır ve sonucu sağlanan akışa yazar. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson_1)(string, ExportFieldsToJsonOptions) | PDF form alanlarını JSON formatına aktarır ve sonucu belirtilen dosyaya yazar. |
+| [Flatten](../../aspose.pdf.forms/form/flatten/)() | Tüm form alanlarını kaldırır ve değerlerini doğrudan sayfaya yerleştirir. |
+| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator/)() | Form alanlarının enumerasyonunu alır. |
+| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect/)(Rectangle) | Belirtilen dikdörtgenin içindeki alanları döndürür. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield)(Field) | Formun belirtilen alanı zaten içerip içermediğini kontrol eder. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_1)(string) | Belirtilen adı taşıyan alanın zaten Form'a eklenip eklenmediğini belirler. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_2)(string, bool) | Belirtilen adı taşıyan alanın zaten Form'a eklenip eklenmediğini belirler, alanların çocuk hiyerarşisine bakma yeteneği ile. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson)(Stream) | Akışta sağlanan JSON formatındaki PDF form alanlarını içe aktarır. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson_1)(string) | Belirtilen dosyada sağlanan JSON formatındaki PDF form alanlarını içe aktarır. |
+| [MakeFormAnnotationsIndependent](../../aspose.pdf.forms/form/makeformannotationsindependent/)(Page) | Form alanı anotasyonlarını bağımsız hale getirir. |
+| [RemoveFieldAppearance](../../aspose.pdf.forms/form/removefieldappearance/)(Field, int) | Belirtilen indeksteki alanın görünümünü kaldırır. Eğer yalnızca bir çocuk görünüm kalmışsa, yöntem onu alanın içine gömer. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted) | Formlar imzalama bilgisi içerebilir, yani imzalı veya imzasız olabilir. Ve formun görünümü bazen formun imzalanıp imzalanmadığına bağlı olmalıdır. Bu özellik formun dönüştürücüsüne (fe XFA formunun Standart forma dönüştürülmesi sırasında) sonuç formunun olup olmadığını söyler imzalı veya imzasız olarak oluşturulmalıdır. |
+| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted/) | Formlar imza bilgisi içerebilir, yani imzalı veya imzasız olabilir. Ve formun görünümü bazen formun imzalı olup olmamasına bağlı olmalıdır. Bu özellik, formun dönüştürücüsüne (örneğin, XFA formunun standart forma dönüştürülmesi sırasında) sonuç formunun imzalı mı yoksa imzasız mı olarak render edilmesi gerektiğini söyler. |
 
-## Diğer_Üyeler
+## Diğer Üyeler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| class [FlattenSettings](form.flattensettings) | Form düzleştirme prosedürü için ayarları açıklayan sınıf. |
-| enum [SignDependentElementsRenderingModes](form.signdependentelementsrenderingmodes) | Formlar imzalama bilgisi içerebilir ve imzalı veya imzasız olabilir. Bazen formların görüntüleyicideki görünümü, formun imzalı olup olmamasına bağlı olmalıdır. Bu numaralandırma, form türünün dönüştürülmesi sırasında imzaya göre olası oluşturma modlarını sıralar. |
+| class [FlattenSettings](../../aspose.pdf.forms/form.flattensettings) | Form düzleştirme prosedürü için ayarları tanımlayan sınıf. |
+| enum [SignDependentElementsRenderingModes](../../aspose.pdf.forms/form.signdependentelementsrenderingmodes) | Formlar imza bilgisi içerebilir ve imzalı veya imzasız olabilir. Bazen görüntüleyicideki formların görünümü, formun imzalı olup olmamasına bağlı olmalıdır. Bu enum, imza ile ilgili form türünün dönüştürülmesi sırasında olası render modlarını sıralar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation)
-* ad alanı [Aspose.Pdf.Forms](../../aspose.pdf.forms)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)

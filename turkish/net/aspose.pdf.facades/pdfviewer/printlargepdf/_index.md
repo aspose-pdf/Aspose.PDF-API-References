@@ -1,314 +1,319 @@
 ---
-title: PrintLargePdf
-second_title: Aspose.PDF for .NET API Referansı
-description: Büyük bir Pdf dosyası açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MBden ise daha iyi performans elde etmek için bu yöntem önerilir.
+title: PdfViewer.PrintLargePdf
+second_title: Aspose.PDF for .NET API Reference
+description: PdfViewer yöntemi. Büyük bir Pdf dosyasını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 type: docs
-weight: 320
+weight: 350
 url: /tr/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Büyük bir Pdf dosyası açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den ise, daha iyi performans elde etmek için bu yöntem önerilir.
+Büyük bir Pdf dosyasını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Pdf dosyasının yolu. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;     // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;     // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
+iewer.AutoResize = true;     //print the file with adjusted size
+iewer.AutoRotate = true;     //print the file with adjusted rotation
+iewer.PrintPageDialog=false; //do not produce the page number dialog when printing
 iewer.PrintLargePdf(@"d:\test.pdf");
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true      'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true      'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
 iewer.PrintLargePdf(@"d:\test.pdf")
-iewer.ClosePdfFile();
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den ise, daha iyi performans elde etmek için bu yöntem önerilir.
+Büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Açılacak ve yazdırılacak pdf akışı.. |
+| inputStream | Stream | Açılacak ve yazdırılacak pdf akışı. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;        // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
+iewer.AutoResize = true;        //print the file with adjusted size
+iewer.AutoRotate = true;        //print the file with adjusted rotation
+iewer.PrintPageDialog=false;    //do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true         'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true         'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
+im viewer As New PdfViewer()
+iewer.AutoResize = True         'print the file with adjusted size
+iewer.AutoRotate = True         'print the file with adjusted rotation
+iewer.PrintPageDialog = False   'do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Belirtilen yazıcı ayarlarıyla büyük bir Pdf dosyası açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den büyükse, daha iyi performans elde etmek için bu yöntem önerilir.
+Belirtilen yazıcı ayarlarıyla büyük bir Pdf dosyasını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Pdf dosyasının yolu. |
 | printerSettings | PrinterSettings | Yazıcı ayarları. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;       // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(@"d:\test.pdf",ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true        'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(@"d:\test.pdf",ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Belirtilen yazıcı ayarlarıyla büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den büyükse, daha iyi performans elde etmek için bu yöntem önerilir.
+Belirtilen yazıcı ayarlarıyla büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Açılacak ve yazdırılacak pdf akışı.. |
+| inputStream | Stream | Açılacak ve yazdırılacak pdf akışı. |
 | printerSettings | PrinterSettings | Yazıcı ayarları. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;       // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true        'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Belirtilen sayfa ayarları ve yazıcı ayarları ile büyük bir Pdf dosyası açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den büyükse, daha iyi performans elde etmek için bu yöntem önerilir.
+Belirtilen sayfa ayarları ve yazıcı ayarlarıyla büyük bir Pdf dosyasını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Pdf dosyasının yolu. |
 | pageSettings | PageSettings | Sayfa ayarları. |
 | printerSettings | PrinterSettings | Yazıcı ayarları. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;       // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true       'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Belirtilen sayfa ayarları ve yazıcı ayarları ile büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce veya daha fazla sayfa içeriyorsa veya boyutu 3 MB'den büyükse, daha iyi performans elde etmek için bu yöntem önerilir.
+Belirtilen sayfa ayarları ve yazıcı ayarlarıyla büyük bir Pdf akışını açar ve yazdırır. Pdf dosyanız yüzlerce sayfa veya daha fazlasına sahipse veya boyutu 3 MB'dan fazlaysa, bu yöntem daha iyi performans almak için önerilir.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Açılacak ve yazdırılacak pdf akışı. |
 | pageSettings | PageSettings | Sayfa ayarları. |
 | printerSettings | PrinterSettings | Yazıcı ayarları. |
 
-### Notlar
+## Açıklamalar
 
-Bu yöntem, dosyanın açılmasını ve yazdırılmasını entegre etmiştir ve OpenPdfFile() öğesini açıkça çağırmanız gerekmez.
+Bu yöntem dosyanın açılmasını ve yazdırılmasını entegre eder ve BindPdf() yöntemini açıkça çağırmanıza gerek yoktur.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       // dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true;       // dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'dosyayı ayarlanmış boyutta yazdır
-iewer.AutoRotate = true       'dosyayı ayarlanmış rotasyonla yazdır
-iewer.PrintPageDialog=false;// yazdırırken sayfa numarası diyaloğunu oluşturma
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfViewer](../../pdfviewer)
-* ad alanı [Aspose.Pdf.Facades](../../pdfviewer)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

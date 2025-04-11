@@ -1,14 +1,14 @@
 ---
-title: Extract
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Extrahiert Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+title: PdfFileEditor.Extract
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Extrahiert Seiten aus Eingabedateien und speichert sie als neue Pdf-Datei
 type: docs
-weight: 310
+weight: 280
 url: /de/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_3}
+## Extract(string, int, int, string) {#extract_2}
 
-Extrahiert Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+Extrahiert Seiten aus der Eingabedatei und speichert sie als neue Pdf-Datei.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,16 +16,16 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Geben Sie den Pfad der PDF-Datei ein. |
-| startPage | Int32 | Seitenzahl beginnen. |
-| endPage | Int32 | Seitenzahl beenden. |
-| outputFile | String | Pfad der PDF-Datei ausgeben. |
+| inputFile | String | Pfad zur Eingabe-Pdf-Datei. |
+| startPage | Int32 | Startseitenzahl. |
+| endPage | Int32 | Endseitenzahl. |
+| outputFile | String | Pfad zur Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-Wahr für Erfolg oder falsch.
+True bei Erfolg, oder false.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -34,13 +34,13 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(string, int[], string) {#extract_4}
+## Extract(string, int[], string) {#extract_3}
 
 Extrahiert Seiten, die durch ein Zahlenarray angegeben sind, und speichert sie als neue PDF-Datei.
 
@@ -50,15 +50,15 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Pfad der Eingabedatei. |
+| inputFile | String | Pfad zur Eingabedatei. |
 | pageNumber | Int32[] | Index der Seite aus der Eingabedatei. |
-| outputFile | String | Pfad der Ausgabedatei. |
+| outputFile | String | Pfad zur Ausgabedatei. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+True, wenn die Operation erfolgreich war.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -67,15 +67,15 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-Extrahiert Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+Extrahiert Seiten aus der Eingabedatei und speichert sie als neue Pdf-Datei.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -83,16 +83,16 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Eingabedatei Stream. |
-| startPage | Int32 | Seitenzahl beginnen. |
-| endPage | Int32 | Seitenzahl beenden. |
-| outputStream | Stream | PDF-Datei-Stream ausgeben. |
+| inputStream | Stream | Eingabedatei-Stream. |
+| startPage | Int32 | Startseitenzahl. |
+| endPage | Int32 | Endseitenzahl. |
+| outputStream | Stream | Ausgabepdf-Datei-Stream. |
 
 ### Rückgabewert
 
-Wahr für Erfolg oder falsch.
+True bei Erfolg, oder false.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -103,15 +103,15 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-Extrahiert Seiten, die durch ein Zahlenarray angegeben sind, und speichert sie als neue PDF-Datei.
+Extrahiert Seiten, die durch ein Zahlenarray angegeben sind, und speichert sie als neue Pdf-Datei.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -119,15 +119,15 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Eingabedatei Stream. |
+| inputStream | Stream | Eingabedatei-Stream. |
 | pageNumber | Int32[] | Index der Seite aus der Eingabedatei. |
-| outputStream | Stream | Dateistream ausgeben. |
+| outputStream | Stream | Ausgabedatei-Stream. |
 
 ### Rückgabewert
 
-Wahr für Erfolg oder falsch.
+True bei Erfolg, oder false.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -138,60 +138,6 @@ pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## Extract(Stream, int[], HttpResponse) {#extract_2}
-
-Extrahiert die angegebenen Seiten aus der Quelldatei und speichert das Ergebnis im HttpResponse-Objekt.
-
-```csharp
-public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| inputStream | Stream | Stream des Quelldokuments. |
-| pageNumber | Int32[] | Array von Seitenzahlen, die extrahiert werden. |
-| response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
-
-### Rückgabewert
-
-True, wenn der Vorgang erfolgreich war.
-
-### Siehe auch
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## Extract(string, int[], HttpResponse) {#extract_5}
-
-Extrahiert angegebene Seiten aus der Quelldatei und speichert das Ergebnis im HttpResponse-Objekt.
-
-```csharp
-public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| inputFile | String | Quelldateipfad. |
-| pageNumber | Int32[] | Array von Seitenzahlen, die extrahiert werden. |
-| response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
-
-### Rückgabewert
-
-true, wenn Seiten erfolgreich extrahiert wurden.
-
-### Siehe auch
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

@@ -1,72 +1,71 @@
 ---
-title: HeaderArtifact
-second_title: Aspose.PDF for .NET API Referansı
-description: Sınıf Üstbilgi yapaylığını açıklar. Bu yapı sayfanın başlığını ayarlamak için kullanılabilir.
+title: Class HeaderArtifact
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HeaderArtifact sınıfı. Sınıf, Header artefaktını tanımlar. Bu artefakt, sayfanın başlığını ayarlamak için kullanılabilir.
 type: docs
-weight: 3340
+weight: 5420
 url: /tr/net/aspose.pdf/headerartifact/
 ---
-## HeaderArtifact class
+## HeaderArtifact sınıfı
 
-Sınıf, Üstbilgi yapaylığını açıklar. Bu yapı, sayfanın başlığını ayarlamak için kullanılabilir.
+Sınıf, Header artefaktını tanımlar. Bu artefakt, sayfanın başlığını ayarlamak için kullanılabilir.
 
 ```csharp
 public class HeaderArtifact : Artifact
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [HeaderArtifact](headerartifact)() | Header Artifact örneği oluşturur. |
+| [HeaderArtifact](headerartifact/)() | Header Artefaktı örneği oluşturur. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment) { get; set; } | Yapının yatay hizalaması. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment) { get; set; } | Yapının dikey hizalaması. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin) { get; set; } | Yapının alt kenar boşluğu. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [Contents](../../aspose.pdf/artifact/contents) { get; } | Yapay yapı dahili operatörlerinin koleksiyonunu alır. |
-| [CustomSubtype](../../aspose.pdf/artifact/customsubtype) { get; set; } | Yapıt alt türünün adını alır. Yapıt alt türü standart alt tür değilse kullanılabilir. |
-| [CustomType](../../aspose.pdf/artifact/customtype) { get; set; } | Yapıt türünün adını alır. Yapıt türü standart değilse kullanılabilir. |
-| [Form](../../aspose.pdf/artifact/form) { get; } | Yapının XForm'unu alır (XForm kullanılıyorsa). |
-| [Image](../../aspose.pdf/artifact/image) { get; } | Yapının görüntüsünü alır (varsa). |
-| [IsBackground](../../aspose.pdf/artifact/isbackground) { get; set; } | Gerçek Artifact sayfa içeriğinin arkasına yerleştirilmişse. |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin) { get; set; } | Yapının sol kenar boşluğu. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [Lines](../../aspose.pdf/artifact/lines) { get; } | Çok satırlı metin yapısı satırları. |
-| [Opacity](../../aspose.pdf/artifact/opacity) { get; set; } | Yapının opaklığını alır veya ayarlar. Olası değerler 0..1. aralığındadır |
-| [Position](../../aspose.pdf/artifact/position) { get; set; } | Artefakt konumunu alır veya ayarlar. Bu özellik belirtilirse, kenar boşlukları ve hizalamalar yoksayılır. |
-| [Rectangle](../../aspose.pdf/artifact/rectangle) { get; } | Yapının dikdörtgenini alır. |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin) { get; set; } | Yapının sağ kenar boşluğu. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [Rotation](../../aspose.pdf/artifact/rotation) { get; set; } | Artefakt döndürme açısını alır veya ayarlar. |
-| [Subtype](../../aspose.pdf/artifact/subtype) { get; set; } | Yapıt alt türünü alır. Yapının standart olmayan alt türü varsa, alt türün adı CustomSubtype. aracılığıyla okunabilir. |
-| [Text](../../aspose.pdf/artifact/text) { get; set; } | Yapının metnini alır. |
-| [TextState](../../aspose.pdf/artifact/textstate) { get; set; } | Yapay metin için metin durumu. |
-| [TopMargin](../../aspose.pdf/artifact/topmargin) { get; set; } | Yapının üst kenar boşluğu. Konum açıkça belirtilirse (Konum özelliğinde) bu değer yok sayılır. |
-| [Type](../../aspose.pdf/artifact/type) { get; set; } | Yapıt türünü alır. |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Artefaktın yatay hizalaması. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Artefaktın dikey hizalaması. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Artefaktın alt marjı. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [Contents](../../aspose.pdf/artifact/contents/) { get; } | Artefaktın içsel operatörlerinin koleksiyonunu alır. |
+| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Artefakt alt türünün adını alır. Artefakt alt türü standart alt tür değilse kullanılabilir. |
+| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Artefakt türünün adını alır. Artefakt türü standart dışıysa kullanılabilir. |
+| [Form](../../aspose.pdf/artifact/form/) { get; } | Artefaktın XForm'unu alır (eğer XForm kullanılıyorsa). |
+| [Image](../../aspose.pdf/artifact/image/) { get; } | Artefaktın resmini alır (varsa). |
+| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | Eğer true ise, Artefakt sayfa içeriğinin arkasına yerleştirilir. |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Artefaktın sol marjı. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [Lines](../../aspose.pdf/artifact/lines/) { get; } | Çok satırlı metin artefaktının satırları. |
+| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Artefaktın opaklığını alır veya ayarlar. Olası değerler 0..1 aralığındadır. |
+| [Position](../../aspose.pdf/artifact/position/) { get; set; } | Artefaktın konumunu alır veya ayarlar. Bu özellik belirtilirse, marjlar ve hizalamalar göz ardı edilir. |
+| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Artefaktın dikdörtgenini alır. |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Artefaktın sağ marjı. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Artefaktın döndürme açısını alır veya ayarlar. |
+| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Artefakt alt türünü alır. Eğer artefaktın standart dışı bir alt türü varsa, alt türün adı CustomSubtype üzerinden okunabilir. |
+| [Text](../../aspose.pdf/artifact/text/) { get; set; } | Artefaktın metnini alır. |
+| [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Artefakt metni için metin durumu. |
+| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Artefaktın üst marjı. Pozisyon açıkça belirtilmişse (Position özelliğinde) bu değer göz ardı edilir. |
+| [Type](../../aspose.pdf/artifact/type/) { get; set; } | Artefakt türünü alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates)() | Ertelenen güncellemeleri başlatın. Performansı artırmak için aynı yapı üzerinde birkaç değişiklik yapmanız gerekiyorsa bu özelliği kullanın. Genellikle yapıt işleçleri, yapıt özelliği değiştirildiğinde herhangi bir zamanda değiştirilir. Bu, yapıt değiştirildiğinde her zaman content sayfasının değişmesine neden olur. Bu etkiyi önlemek için, tüm yapı güncellemelerini StartUpdates/SaveUpdates çağrıları arasına koyun. Bu, sayfa içeriğinin yalnızca bir kez değiştirilmesine izin verir. |
-| [Dispose](../../aspose.pdf/artifact/dispose)() | Yapıyı atın. |
-| [GetValue](../../aspose.pdf/artifact/getvalue)(string) | Yapının özel değerini alır. |
-| [RemoveValue](../../aspose.pdf/artifact/removevalue)(string) | Yapıdan özel değeri kaldırın. |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates)() | BeginUpdates() çağrısından sonra yapılan tüm güncellemeleri yapaylığa kaydeder. |
-| [SetImage](../../aspose.pdf/artifact/setimage)(Stream) | Yapının görüntüsünü ayarlar. |
-| [SetImage](../../aspose.pdf/artifact/setimage)(string) | Yapının görüntüsünü ayarlar. |
-| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate)(string[], TextState) | Yapının metin ve metin özelliklerini ayarlayın. Birden çok satır belirtmeye izin verir. |
-| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage)(Page) | Belge sayfasına yapay olarak yerleştirilen PDF sayfasını ayarlar. |
-| [SetText](../../aspose.pdf/artifact/settext)(FormattedText) | Yapının metnini ayarlar. |
-| [SetTextAndState](../../aspose.pdf/artifact/settextandstate)(string, TextState) | Yapının metin ve metin özelliklerini ayarlayın. |
-| [SetValue](../../aspose.pdf/artifact/setvalue)(string, string) | Yapının özel değerini ayarlar. |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | Gecikmeli güncellemeleri başlatır. Performansı artırmak için aynı artefakta birkaç değişiklik yapmanız gerekiyorsa bu özelliği kullanın. Genellikle artefakt operatörleri, artefakt özelliği değiştiğinde her zaman değiştirilir. Bu, artefakt değiştiğinde sayfa içeriğinin her seferinde değişmesine neden olur. Bu etkiyi önlemek için tüm artefakt güncellemelerini StartUpdates/SaveUpdates çağrıları arasında koyun. Bu, sayfa içeriğini yalnızca bir kez değiştirmeyi sağlar. |
+| [Dispose](../../aspose.pdf/artifact/dispose/)() | Artefaktı yok eder. |
+| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | Artefaktın özel değerini alır. |
+| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Artefaktan özel değeri kaldırır. |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | BeginUpdates() çağrısından sonra yapılan tüm güncellemeleri artefakta kaydeder. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Artefaktın resmini ayarlar. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Artefaktın resmini ayarlar. |
+| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Artefaktın metnini ve metin özelliklerini ayarlar. Birden fazla satır belirtmeye olanak tanır. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sayfa numarası ile değiştirilecek dizeyi ayarlar. Varsayılan değer #. |
+| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Artefakt olarak belge sayfasında yer alan PDF sayfasını ayarlar. |
+| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | Artefaktın metnini ayarlar. |
+| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | Artefaktın metnini ve metin özelliklerini ayarlar. |
+| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | Artefaktın özel değerini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Artifact](../artifact)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Artifact](../artifact/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

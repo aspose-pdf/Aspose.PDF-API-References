@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: Operatör koleksiyonu için temel sınıfı temsil eder.
+title: Class BaseOperatorCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.BaseOperatorCollection sınıfı. Operatör koleksiyonu için temel sınıfı temsil eder
 type: docs
-weight: 1370
+weight: 2830
 url: /tr/net/aspose.pdf/baseoperatorcollection/
 ---
-## BaseOperatorCollection class
+## BaseOperatorCollection sınıfı
 
 Operatör koleksiyonu için temel sınıfı temsil eder.
 
@@ -14,34 +14,32 @@ Operatör koleksiyonu için temel sınıfı temsil eder.
 public abstract class BaseOperatorCollection : ICollection<Operator>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [Count](../../aspose.pdf/baseoperatorcollection/count) { get; } | Koleksiyondaki operatörlerin sayısını alır. |
-| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode) { get; } | Hava durumu koleksiyonunun hızlı metin çıkarma ile sınırlı olduğunu belirtir |
-| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly) { get; } | Koleksiyon salt okunursa true değerini döndürür. |
-| abstract [Item](../../aspose.pdf/baseoperatorcollection/item) { get; set; } | Operatörü indeksine göre alır. |
+| abstract [Count](../../aspose.pdf/baseoperatorcollection/count/) { get; } | Koleksiyondaki operatörlerin sayısını alır. |
+| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode/) { get; } | Koleksiyonun hızlı metin çıkarımı ile sınırlı olup olmadığını gösterir. |
+| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly/) { get; } | Koleksiyon yalnızca okunabilir ise true döner. |
+| abstract [Item](../../aspose.pdf/baseoperatorcollection/item/) { get; set; } | Operatörü indeksine göre alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/baseoperatorcollection/add)(Operator) | Koleksiyona yeni operatör ekler. |
-| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate)() | Son güncellemeyi iptal eder. Bu yöntem, değişikliğin içerik güncellemesini yükseltmemesi gerektiğinde çağrılabilir. |
-| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear)() | Koleksiyonu temizler. |
-| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains)(Operator) | Operatörün koleksiyonda olup olmadığını kontrol eder. |
-| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto)(Operator[], int) | Operatörleri operatör listesine kopyalar. |
-| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator)() | collection için numaralandırıcıyı döndürür |
-| abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert)(int, Operator) | Operatörü koleksiyona ekler. |
-| abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove)(Operator) | Operatörü koleksiyondan kaldırır. |
-| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate)() | Belge güncellemesini sürdürür. Bekleyen herhangi bir değişiklik olması durumunda içerik akışını günceller. |
-| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate)() | Güncelleme içeriği verilerini gizler. İçerik akışı, ResumeUpdate çağrılana kadar güncellenmez. |
+| abstract [Add](../../aspose.pdf/baseoperatorcollection/add/)(Operator) | Koleksiyona yeni bir operatör ekler. |
+| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate/)() | Son güncellemeyi iptal eder. Bu yöntem, değişikliğin içerik güncellemesi başlatmaması gerektiğinde çağrılabilir. |
+| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear/)() | Koleksiyonu temizler. |
+| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains/)(Operator) | Operatörün koleksiyonda mevcut olup olmadığını kontrol eder. |
+| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto/)(Operator[], int) | Operatörleri operatörler listesine kopyalar. |
+| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator/)() | Koleksiyon için enumeratör döner. |
+| abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert/)(int, Operator) | Operatörü koleksiyona ekler. |
+| abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove/)(Operator) | Operatörü koleksiyondan çıkarır. |
+| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate/)() | Belge güncellemesini yeniden başlatır. Bekleyen değişiklikler varsa içerik akışını günceller. |
+| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate/)() | Güncelleme içerik verilerini bastırır. ResumeUpdate çağrılana kadar içerik akışı güncellenmez. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Operator](../operator)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Operator](../operator/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

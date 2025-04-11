@@ -1,50 +1,50 @@
 ---
-title: TextSegment
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل مقطعًا من نص ملف PDF .
+title: Class TextSegment
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextSegment class. يمثل جزء من نص Pdf
 type: docs
-weight: 7210
+weight: 11050
 url: /ar/net/aspose.pdf.text/textsegment/
 ---
 ## TextSegment class
 
-يمثل مقطعًا من نص ملف PDF .
+يمثل جزء من نص Pdf.
 
 ```csharp
 public sealed class TextSegment
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [TextSegment](textsegment#constructor)() | إنشاء كائن TextSegment . |
-| [TextSegment](textsegment#constructor_1)(string) | إنشاء كائن TextSegment . |
+| [TextSegment](textsegment/#constructor)() | ينشئ كائن TextSegment. |
+| [TextSegment](textsegment/#constructor_1)(string) | ينشئ كائن TextSegment. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [BaselinePosition](../../aspose.pdf.text/textsegment/baselineposition) { get; set; } | الحصول على موضع النص للنص ، ممثلاً بامتداد[`TextSegment`](../textsegment) object. تمثل نهاية Y لهيكل الموضع إحداثيات خط الأساس لمقطع النص. |
-| [Characters](../../aspose.pdf.text/textsegment/characters) { get; } | الحصول على مجموعة من كائنات CharInfo التي تمثل معلومات عن الأحرف في مقطع النص. |
-| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex) { get; } | الحصول على فهرس حرف النهاية للجزء الحالي في مقطع مشغل عرض النص (Tj ، TJ) . |
-| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink) { get; set; } | الحصول على الارتباط التشعبي للمقطع أو تعيينه (لمولد pdf) . |
-| [Position](../../aspose.pdf.text/textsegment/position) { get; set; } | الحصول على موضع النص للنص ، ممثلاً بامتداد[`TextSegment`](../textsegment) الكائن . |
-| [Rectangle](../../aspose.pdf.text/textsegment/rectangle) { get; } | يحصل على مستطيل من TextSegment |
-| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex) { get; } | الحصول على فهرس أحرف البداية للمقطع الحالي في مقطع مشغل عرض النص (Tj ، TJ) . |
-| [Text](../../aspose.pdf.text/textsegment/text) { get; set; } | يحصل أو يحددString كائن النص الذي[`TextSegment`](../textsegment) يمثل الكائن . |
-| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions) { get; set; } | الحصول على أو تعيين خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما يتعذر كتابة الرمز المطلوب بالخط. |
-| [TextState](../../aspose.pdf.text/textsegment/textstate) { get; set; } | الحصول على أو تعيين حالة النص للنص الذي[`TextSegment`](../textsegment) يمثل الكائن . |
+| [BaselinePosition](../../aspose.pdf.text/textsegment/baselineposition/) { get; set; } | يحصل على موضع النص للنص، الممثل بكائن `TextSegment`. يمثل YIndent في هيكل Position إحداثيات خط الأساس لجزء النص. |
+| [Characters](../../aspose.pdf.text/textsegment/characters/) { get; } | يحصل على مجموعة من كائنات CharInfo التي تمثل معلومات عن الأحرف في جزء النص. |
+| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex/) { get; } | يحصل على فهرس الحرف النهائي للجزء الحالي في مشغل النص المعروض (Tj, TJ). |
+| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink/) { get; set; } | يحصل على أو يحدد رابط الجزء (لمنشئ pdf). |
+| [Position](../../aspose.pdf.text/textsegment/position/) { get; set; } | يحصل على موضع النص للنص، الممثل بكائن `TextSegment`. |
+| [Rectangle](../../aspose.pdf.text/textsegment/rectangle/) { get; } | يحصل على مستطيل الـ TextSegment |
+| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex/) { get; } | يحصل على فهرس الحرف الابتدائي للجزء الحالي في مشغل النص المعروض (Tj, TJ). |
+| [Text](../../aspose.pdf.text/textsegment/text/) { get; set; } | يحصل على أو يحدد كائن نص السلسلة الذي يمثله كائن `TextSegment`. |
+| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions/) { get; set; } | يحصل على أو يحدد خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط. |
+| [TextState](../../aspose.pdf.text/textsegment/textstate/) { get; set; } | يحصل على أو يحدد حالة النص للنص الذي يمثله كائن `TextSegment`. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| static [MyHtmlEncode](../../aspose.pdf.text/textsegment/myhtmlencode)(string) | ترميز السلسلة كـ html. |
+| static [MyHtmlEncode](../../aspose.pdf.text/textsegment/myhtmlencode/)(string) | يقوم بترميز السلسلة كـ html. |
 
-### ملاحظات
+## Remarks
 
-في بضع كلمات ،[`TextSegment`](../textsegment) الأشياء هي أطفال[`TextFragment`](../textfragment) object. بالتفصيل: نص مستند pdf فيPdf يتم تمثيله بواسطة كائنين أساسيين:[`TextFragment`](../textfragment) و[`TextSegment`](../textsegment) معظم الاختلافات بينهما تعتمد على السياق . لنفكر في السيناريو التالي. يبحث المستخدم عن نص "hello world" للعمل به ، وتغيير خصائصه ، والبحث وما إلى ذلك. تمثيل نص pdf Phisycally معقد للغاية. قد يتكون النص "hello world" من عدة مقاطع نصية مستقلة phisycally.[`TextFragment`](../textfragment) يوفر object عملية منطقية واحدة فوق مادي[`TextSegment`](../textsegment) مجموعة الكائنات التي تمثل استعلام المستخدم. في سيناريو البحث عن النص ،[`TextFragment`](../textfragment) هو تمثيل نصي منطقي "hello world" ، و[`TextSegment`](../textsegment)تمثل مجموعة الكائنات جميع الأجزاء المادية التي تنشئ كائن نص "hello world". لذا ،[`TextFragment`](../textfragment) يقترب من تمثيل النص المنطقي . و[`TextSegment`](../textsegment) هو قريب من تمثيل النص المادي. من الواضح أن كل منهما[`TextSegment`](../textsegment) قد يكون للكائن خط خاص به ، ولونه ، وخصائص تحديد الموضع.[`TextFragment`](../textfragment) يوفر طريقة بسيطة لتغيير النص بخصائصه: ضبط الخط ، ضبط حجم الخط ، ضبط لون الخط وما إلى ذلك. في غضون ذلك[`TextSegment`](../textsegment) كائنات يمكن الوصول إليها ويمكن للمستخدمين العمل معها[`TextSegment`](../textsegment) الكائنات بشكل مستقل .
+باختصار، كائنات `TextSegment` هي أطفال لكائن [`TextFragment`](../textfragment/). بالتفصيل: يتم تمثيل نص مستند pdf في Pdf بواسطة كائنين أساسيين: [`TextFragment`](../textfragment/) و `TextSegment`. الاختلافات بينهما تعتمد في الغالب على السياق. دعونا نعتبر السيناريو التالي. يبحث المستخدم عن النص "hello world" للتعامل معه، وتغيير خصائصه، والنظر وما إلى ذلك.
 
 ```csharp
 Document doc = new Document(docFile);
@@ -52,32 +52,32 @@ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 doc.Pages[1].Accept(absorber);
 ```
 
-### أمثلة
+تمثيل النص في pdf معقد جدًا. قد يتكون النص "hello world" من عدة أجزاء نصية مستقلة ماديًا. يحدد نموذج نص Aspose.Pdf أساسًا أن كائن [`TextFragment`](../textfragment/) يوفر مجموعة عمليات منطقية واحدة على مجموعة كائنات `TextSegment` المادية التي تمثل استعلام المستخدم. في سيناريو بحث النص، يمثل [`TextFragment`](../textfragment/) التمثيل المنطقي للنص "hello world"، ومجموعة كائنات `TextSegment` تمثل جميع الأجزاء المادية التي تشكل كائن النص "hello world". لذا، فإن [`TextFragment`](../textfragment/) قريب من التمثيل النصي المنطقي. و `TextSegment` قريب من التمثيل النصي المادي. من الواضح أن كل كائن `TextSegment` قد يكون له خطه الخاص، وألوانه، وخصائص موضعه. يوفر [`TextFragment`](../textfragment/) طريقة بسيطة لتغيير النص مع خصائصه: تعيين الخط، تعيين حجم الخط، تعيين لون الخط، إلخ. في الوقت نفسه، تكون كائنات `TextSegment` قابلة للوصول ويمكن للمستخدمين التعامل مع كائنات `TextSegment` بشكل مستقل.
 
-يوضح المثال كيفية تغيير لون النص وحجم خط النص باستخدام[`TextState`](./textstate) موضوع[`TextSegment`](../textsegment) الكائن .
+## Examples
+
+توضح المثال كيفية تغيير لون النص وحجم الخط للنص باستخدام كائن [`TextState`](./textstate/) لكائن `TextSegment`.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-/ / تغيير لون المقدمة للجزء الأول من النص من تواجد النص الأول
+// Change foreground color of the first text segment of the first text occurrence
 absorber.TextFragments[1].Segments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-// تغيير حجم الخط في مقطع النص الأول من تواجد النص الأول
+// Change font size of the first text segment of the first text occurrence
 absorber.TextFragments[1].Segments[1].TextState.FontSize = 15;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

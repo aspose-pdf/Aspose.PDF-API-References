@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Yapıcı
+title: PdfFormatConversionOptions.PdfFormatConversionOptions
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFormatConversionOptions yapıcısı. Yapıcı
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -15,19 +15,19 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputLogFileName | String | Yorumların saklanacağı dosyanın yolu. |
-| format | PdfFormat | Pdf formatı. |
+| format | PdfFormat | PDF formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,17 +39,17 @@ Yapıcı
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputLogFileName | String | Yorumların saklanacağı dosyanın yolu. |
-| format | PdfFormat | Pdf formatı. |
+| format | PdfFormat | PDF formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -61,16 +61,16 @@ Yapıcı
 public PdfFormatConversionOptions(PdfFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| format | PdfFormat | Pdf formatı. |
+| format | PdfFormat | PDF formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -82,18 +82,18 @@ Yapıcı
 public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| format | PdfFormat | Pdf formatı. |
+| format | PdfFormat | PDF formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -106,21 +106,21 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputLogFileName | String | Yorumların saklanacağı dosyanın yolu. |
-| format | PdfFormat | Pdf formatı. |
+| format | PdfFormat | PDF formatı. |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
-| transparencyAction | ConvertTransparencyAction | Görüntü maskeli nesneler için eylem |
+| transparencyAction | ConvertTransparencyAction | Resim maskeli nesneler için eylem |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -133,18 +133,16 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputLogStream | Stream | Yorumların depolanacağı akış |
-| format | PdfFormat | pdf formatı |
+| outputLogStream | Stream | Yorumların saklanacağı akış |
+| format | PdfFormat | PDF formatı |
 | action | ConvertErrorAction | Dönüştürülemeyen nesneler için eylem |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* ad alanı [Aspose.Pdf](../../pdfformatconversionoptions)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

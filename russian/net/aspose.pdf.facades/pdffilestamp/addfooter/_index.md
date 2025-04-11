@@ -1,9 +1,9 @@
 ---
-title: AddFooter
-second_title: Aspose.PDF для справочника API .NET
-description: Добавляет нижний колонтитул на страницы документа.
+title: PdfFileStamp.AddFooter
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileStamp. Добавляет нижний колонтитул на страницы документа
 type: docs
-weight: 150
+weight: 110
 url: /ru/net/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
 ## AddFooter(FormattedText, float) {#addfooter}
@@ -16,21 +16,21 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
-| bottomMargin | Single | Поля вверху страницы. |
+| formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и свойства текста. |
+| bottomMargin | Single | Поля внизу страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [FormattedText](../../formattedtext/)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -46,23 +46,23 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
-| bottomMargin | Single | Поле внизу страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и свойства текста. |
+| bottomMargin | Single | Поля внизу страницы. |
+| leftMargin | Single | Поля слева от страницы. |
+| rightMargin | Single | Поля справа от страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [FormattedText](../../formattedtext/)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -78,9 +78,9 @@ public void AddFooter(string imageFile, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageFile | String | Имя файла изображения и путь. |
-| bottomMargin | Single | Поле внизу страницы. |
+| bottomMargin | Single | Поля внизу страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -89,10 +89,10 @@ fileStamp.AddFooter("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -107,12 +107,12 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | String | Имя файла Iamge и путь. |
-| bottomMargin | Single | Поле внизу страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| imageFile | String | Имя файла изображения и путь. |
+| bottomMargin | Single | Поля внизу страницы. |
+| leftMargin | Single | Поля слева от страницы. |
+| rightMargin | Single | Поля справа от страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -121,10 +121,10 @@ fileStamp.AddFooter("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -140,9 +140,9 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток содержит данные изображения. |
-| bottomMargin | Single | Поле внизу страницы. |
+| bottomMargin | Single | Поля внизу страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -151,10 +151,10 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -170,11 +170,11 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток содержит данные изображения. |
-| bottomMargin | Single | Поле внизу страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| bottomMargin | Single | Поля внизу страницы. |
+| leftMargin | Single | Поля слева от страницы. |
+| rightMargin | Single | Поля справа от страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -183,10 +183,8 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

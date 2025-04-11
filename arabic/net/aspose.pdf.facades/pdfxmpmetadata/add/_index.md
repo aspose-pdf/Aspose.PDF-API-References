@@ -1,25 +1,25 @@
 ---
-title: Add
-second_title: Aspose.PDF لمرجع .NET API
-description: إضافة قيمة إلى بيانات تعريف XMP .
+title: PdfXmpMetadata.Add
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfXmpMetadata. تضيف قيمة إلى بيانات XMP
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
 ## Add(DefaultMetadataProperties, XmpValue) {#add}
 
-إضافة قيمة إلى بيانات تعريف XMP .
+تضيف قيمة إلى بيانات XMP.
 
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | key | DefaultMetadataProperties | اسم المفتاح. |
-| value | XmpValue | القيمة التي ستضاف. |
+| value | XmpValue | القيمة التي ستتم إضافتها. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -28,55 +28,55 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### أنظر أيضا
+### See Also
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties)
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* المجسم [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-يتم إضافة حقل الامتداد إلى البيانات الوصفية .
+تضيف حقل امتداد إلى البيانات الوصفية.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
     string namespaceUri, string schemaDescription)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | كائن امتداد pdf المراد إضافته. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | كائن امتداد PDF لإضافته. |
 | namespacePrefix | String | بادئة المخطط. |
-| namespaceUri | String | معرف مساحة الاسم للمخطط. |
+| namespaceUri | String | URI مساحة الأسماء للمخطط. |
 | schemaDescription | String | الوصف الاختياري للمخطط. |
 
-### أنظر أيضا
+### See Also
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* المجسم [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, XmpValue) {#add_3}
 
-إضافة عنصر جديد إلى كائن القاموس.
+تضيف عنصرًا جديدًا إلى كائن القاموس.
 
 ```csharp
 public void Add(string key, XmpValue value)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | مفتاح عنصر جديد. |
+| key | String | مفتاح العنصر الجديد. |
 | value | XmpValue | قيمة العنصر. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -84,53 +84,51 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* المجسم [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, object) {#add_4}
 
-إضافة عنصر جديد إلى كائن القاموس.
+تضيف عنصرًا جديدًا إلى كائن القاموس.
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | مفتاح عنصر جديد. |
+| key | String | مفتاح العنصر الجديد. |
 | value | Object | قيمة العنصر. |
 
-### أنظر أيضا
+### See Also
 
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-إضافة زوج بالمفتاح والقيمة إلى القاموس.
+تضيف زوجًا مع مفتاح وقيمة إلى القاموس.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | العنصر المراد إضافته. |
+| item | KeyValuePair`2 | العنصر الذي سيتم إضافته. |
 
-### أنظر أيضا
+### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

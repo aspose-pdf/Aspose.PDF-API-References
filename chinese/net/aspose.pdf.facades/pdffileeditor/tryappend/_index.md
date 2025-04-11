@@ -1,37 +1,37 @@
 ---
-title: TryAppend
-second_title: Aspose.PDF for .NET API 参考
-description: 追加页面这些页面是从 portStreams 中的文档数组中选择的 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面
+title: PdfFileEditor.TryAppend
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor 方法。附加从 portStreams 中选择的文档数组的页面。结果文档包括 firstInputFile 和所有 portStreams 文档在 startPage 到 endPage 范围内的页面
 type: docs
-weight: 410
+weight: 380
 url: /zh/net/aspose.pdf.facades/pdffileeditor/tryappend/
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
-追加页面，这些页面是从 portStreams 中的文档数组中选择的。 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面。
+附加从 portStreams 中选择的文档数组的页面。结果文档包括 firstInputFile 和所有 portStreams 文档在 startPage 到 endPage 范围内的页面。
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 PDF 流。 |
-| portStreams | Stream[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面从 portStreams 文档开始。 |
-| endPage | Int32 | 页面以 portStreams 文件结尾。 |
-| outputStream | Stream | 输出 PDF 流。 |
+| inputStream | Stream | 输入 Pdf 流。 |
+| portStreams | Stream[] | 要复制页面的文档。 |
+| startPage | Int32 | 在 portStreams 文档中开始的页面。 |
+| endPage | Int32 | 在 portStreams 文档中结束的页面。 |
+| outputStream | Stream | 输出 Pdf 流。 |
 
 ### 返回值
 
-真为成功，或为假。
+成功返回 true，失败返回 false。
 
-### 评论
+## 备注
 
-TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
+TryAppend 方法类似于 Append 方法，不同之处在于 TryAppend 方法在操作失败时不会抛出异常。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -42,53 +42,52 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryAppend(string, string[], int, int, string) {#tryappend_2}
+## TryAppend(string, string[], int, int, string) {#tryappend_1}
 
-附加页面，这些页面是从 portFiles 文档中选择的。 结果文档包括 firstInputFile 和所有 portFiles 文档页面在 startPage 到 endPage 范围内。
+附加从 portFiles 文档中选择的页面。结果文档包括 firstInputFile 和所有 portFiles 文档在 startPage 到 endPage 范围内的页面。
 
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
     string outputFile)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入PDF文件。 |
-| portFiles | String[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面从 portFiles 文档开始。 |
-| endPage | Int32 | 页面以 portFiles 文件结尾。 |
-| outputFile | String | 输出 PDF 文档。 |
+| inputFile | String | 输入 Pdf 文件。 |
+| portFiles | String[] | 要复制页面的文档。 |
+| startPage | Int32 | 在 portFiles 文档中开始的页面。 |
+| endPage | Int32 | 在 portFiles 文档中结束的页面。 |
+| outputFile | String | 输出 Pdf 文档。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+操作成功完成返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
+TryAppend 方法类似于 Append 方法，不同之处在于 TryAppend 方法在操作失败时不会抛出异常。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
 ```
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TryAppend(Stream, Stream[], int, int, HttpResponse) {#tryappend_1}
 
@@ -99,27 +98,27 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
     HttpResponse response)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 包含源文档的流。 |
-| portStreams | Stream[] | 带有要附加的文档的流数组。 |
-| startPage | Int32 | 附加页的起始页。 |
-| endPage | Int32 | 附加页的结束页。 |
-| response | HttpResponse | 将保存文档的响应对象。 |
+| portStreams | Stream[] | 要附加的文档流数组。 |
+| startPage | Int32 | 附加页面的起始页面。 |
+| endPage | Int32 | 附加页面的结束页面。 |
+| response | HttpResponse | 文档将保存到的响应对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+操作成功完成返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
+TryAppend 方法类似于 Append 方法，不同之处在于 TryAppend 方法在操作失败时不会抛出异常。
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -132,26 +131,24 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
     HttpResponse response)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 包含源文档的文件名。 |
 | portFiles | String[] | 包含附加文档的文件名数组。 |
-| startPage | Int32 | 附加页的起始页。 |
-| endPage | Int32 | 附加页的结束页。 |
-| response | HttpResponse | 将保存文档的响应对象。 |
+| startPage | Int32 | 附加页面的起始页面。 |
+| endPage | Int32 | 附加页面的结束页面。 |
+| response | HttpResponse | 文档将保存到的响应对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+操作成功完成返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
+TryAppend 方法类似于 Append 方法，不同之处在于 TryAppend 方法在操作失败时不会抛出异常。
 
-### 也可以看看
+### 另请参见
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

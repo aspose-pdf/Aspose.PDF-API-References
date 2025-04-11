@@ -1,33 +1,33 @@
 ---
-title: Append
-second_title: Aspose.PDF لمرجع .NET API
-description: لإلحاق الصفحات  التي يتم اختيارها من مجموعة من المستندات في portStreams. يتضمن مستند النتيجة firstInputFile وجميع صفحات مستندات portStreams في النطاق من صفحة البداية إلى الصفحة النهائية.
+title: PdfFileEditor.Append
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileEditor. يضيف صفحات تم اختيارها من مصفوفة الوثائق في portStreams. الوثيقة الناتجة تشمل firstInputFile وجميع صفحات وثائق portStreams في النطاق من startPage إلى endPage
 type: docs
-weight: 280
+weight: 250
 url: /ar/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-لإلحاق الصفحات ، التي يتم اختيارها من مجموعة من المستندات في portStreams. يتضمن مستند النتيجة firstInputFile وجميع صفحات مستندات portStreams في النطاق من صفحة البداية إلى الصفحة النهائية.
+يضيف صفحات، تم اختيارها من مصفوفة الوثائق في portStreams. الوثيقة الناتجة تشمل firstInputFile وجميع صفحات وثائق portStreams في النطاق من startPage إلى endPage.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | إدخال دفق PDF. |
-| portStreams | Stream[] | مستندات لنسخ صفحات منها. |
-| startPage | Int32 | تبدأ الصفحة في مستندات portStreams. |
-| endPage | Int32 | تنتهي الصفحة في مستندات portStreams. |
-| outputStream | Stream | إخراج دفق PDF. |
+| inputStream | Stream | تدفق Pdf المدخل. |
+| portStreams | Stream[] | الوثائق لنسخ الصفحات منها. |
+| startPage | Int32 | الصفحة تبدأ في وثائق portStreams. |
+| endPage | Int32 | الصفحة تنتهي في وثائق portStreams. |
+| outputStream | Stream | تدفق Pdf الناتج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح للنجاح أو خطأ.
+صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -38,107 +38,107 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Append(string, string[], int, int, string) {#append_4}
+## Append(string, string[], int, int, string) {#append_3}
 
-لإلحاق الصفحات التي يتم اختيارها من مستندات portFiles. يتضمن المستند الناتج firstInputFile وجميع صفحات مستندات portFiles الموجودة في نطاق بدء الصفحة حتى نهاية الصفحة.
+يضيف صفحات، تم اختيارها من وثائق portFiles. الوثيقة الناتجة تشمل firstInputFile وجميع صفحات وثائق portFiles في النطاق من startPage إلى endPage.
 
 ```csharp
 public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
     string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | إدخال ملف PDF. |
-| portFiles | String[] | مستندات لنسخ صفحات منها. |
-| startPage | Int32 | تبدأ الصفحة في مستندات portFiles. |
-| endPage | Int32 | تنتهي الصفحة في مستندات portFiles. |
-| outputFile | String | إخراج وثيقة PDF. |
+| inputFile | String | ملف Pdf المدخل. |
+| portFiles | String[] | الوثائق لنسخ الصفحات منها. |
+| startPage | Int32 | الصفحة تبدأ في وثائق portFiles. |
+| endPage | Int32 | الصفحة تنتهي في وثائق portFiles. |
+| outputFile | String | وثيقة Pdf الناتجة. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Append(string, string, int, int, string) {#append_3}
+## Append(string, string, int, int, string) {#append_2}
 
-لإلحاق الصفحات ، التي يتم اختيارها من ملف المنفذ داخل النطاق من صفحة البداية إلى الصفحة النهائية ، في portFile في نهاية firstInputFile .
+يضيف صفحات، تم اختيارها من portFile ضمن النطاق من startPage إلى endPage، في portFile في نهاية firstInputFile.
 
 ```csharp
 public bool Append(string inputFile, string portFile, int startPage, int endPage, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | إدخال ملف PDF. |
-| portFile | String | صفحات من ملف PDF. |
-| startPage | Int32 | تبدأ الصفحة في portFile. |
-| endPage | Int32 | تنتهي الصفحة في portFile. |
-| outputFile | String | إخراج وثيقة PDF. |
+| inputFile | String | ملف Pdf المدخل. |
+| portFile | String | صفحات من ملف Pdf. |
+| startPage | Int32 | الصفحة تبدأ في portFile. |
+| endPage | Int32 | الصفحة تنتهي في portFile. |
+| outputFile | String | وثيقة Pdf الناتجة. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Append(Stream, Stream, int, int, Stream) {#append}
 
-لإلحاق الصفحات ، التي يتم اختيارها من portStream ضمن النطاق من صفحة البداية إلى الصفحة النهائية ، في portStream في نهاية firstInputStream .
+يضيف صفحات، تم اختيارها من portStream ضمن النطاق من startPage إلى endPage، في portStream في نهاية firstInputStream.
 
 ```csharp
 public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, 
     Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | دفق ملف الإدخال. |
-| portStream | Stream | صفحات من ملف Pdf Stream. |
-| startPage | Int32 | تبدأ الصفحة في دفق ملف المنفذ. |
-| endPage | Int32 | تنتهي الصفحة في دفق ملف المنفذ. |
-| outputStream | Stream | إخراج ملف Pdf دفق. |
+| inputStream | Stream | تدفق الملف المدخل. |
+| portStream | Stream | صفحات من تدفق ملف Pdf. |
+| startPage | Int32 | الصفحة تبدأ في تدفق portFile. |
+| endPage | Int32 | الصفحة تنتهي في تدفق portFile. |
+| outputStream | Stream | تدفق ملف Pdf الناتج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح للنجاح أو خطأ.
+صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -148,68 +148,8 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Append(Stream, Stream[], int, int, HttpResponse) {#append_2}
-
-إلحاق مستندات بالمستند المصدر وحفظ النتيجة في كائن الاستجابة.
-
-```csharp
-public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| inputStream | Stream | الدفق الذي يحتوي على وثيقة المصدر. |
-| portStreams | Stream[] | صفيف من التدفقات مع المستندات المطلوب إلحاقها. |
-| startPage | Int32 | صفحة البداية للصفحة الملحقة. |
-| endPage | Int32 | صفحة نهاية الصفحات الملحقة. |
-| response | HttpResponse | كائن الاستجابة حيث سيتم حفظ المستند. |
-
-### قيمة الإرجاع
-
-صحيح إذا كانت العملية ناجحة.
-
-### أنظر أيضا
-
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Append(string, string[], int, int, HttpResponse) {#append_5}
-
-إلحاق مستندات بالمستند المصدر وحفظ النتيجة في كائن HttpResponse .
-
-```csharp
-public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| inputFile | String | اسم الملف الذي يحتوي على وثيقة المصدر. |
-| portFiles | String[] | مصفوفة أسماء الملفات التي تحتوي على مستندات ملحقة. |
-| startPage | Int32 | صفحة البداية للصفحات الملحقة. |
-| endPage | Int32 | صفحة نهاية الصفحات الملحقة. |
-| response | HttpResponse | كائن الاستجابة حيث سيتم حفظ المستند. |
-
-### قيمة الإرجاع
-
-صحيح إذا نجحت العملية.
-
-### أنظر أيضا
-
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

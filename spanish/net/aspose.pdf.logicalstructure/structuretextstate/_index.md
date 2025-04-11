@@ -1,14 +1,14 @@
 ---
-title: StructureTextState
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa la configuración del estado del texto para elementos de estructura de texto y contenido etiquetado ITextElement ITaggedContent
+title: Class StructureTextState
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.LogicalStructure.StructureTextState. Representa configuraciones del estado del texto para Elementos de Estructura de Texto y Contenido Etiquetado ITextElement ITaggedContent
 type: docs
-weight: 4540
+weight: 6710
 url: /es/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## StructureTextState class
+## Clase StructureTextState
 
-Representa la configuración del estado del texto para elementos de estructura de texto y contenido etiquetado (ITextElement, ITaggedContent)
+Representa configuraciones del estado del texto para Elementos de Estructura de Texto y Contenido Etiquetado (ITextElement, ITaggedContent)
 
 ```csharp
 public class StructureTextState
@@ -18,24 +18,21 @@ public class StructureTextState
 
 | Nombre | Descripción |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor) { get; set; } | Obtiene o establece el color de fondo del texto. |
-| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing) { get; set; } | Obtiene o establece el espaciado entre caracteres del texto. |
-| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font) { get; set; } | Obtiene o establece la fuente del texto. |
-| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize) { get; set; } | Obtiene o establece el tamaño de fuente del texto. |
-| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle) { get; set; } | Obtiene o establece el estilo de fuente del texto. |
-| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor) { get; set; } | Obtiene o establece el color de primer plano del texto. |
-| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling) { get; set; } | Obtiene o establece la escala horizontal del texto. |
-| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing) { get; set; } | Obtiene o establece el interlineado del texto. |
-| [MarginInfo](../../aspose.pdf.logicalstructure/structuretextstate/margininfo) { get; set; } | Obtiene o establece el margen para el elemento de estructura de bloque. |
-| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout) { get; set; } | Obtiene o establece el tachado del texto. |
-| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript) { get; set; } | Obtiene o establece el subíndice del texto. |
-| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript) { get; set; } | Obtiene o establece el superíndice del texto. |
-| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline) { get; set; } | Obtiene o establece el subrayado del texto. |
-| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing) { get; set; } | Obtiene o establece el espaciado entre palabras del texto. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/) { get; set; } | Obtiene o establece el color de fondo del texto. |
+| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing/) { get; set; } | Obtiene o establece el espaciado de caracteres del texto. |
+| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font/) { get; set; } | Obtiene o establece la fuente del texto. |
+| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | Obtiene o establece el tamaño de fuente del texto. |
+| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | Obtiene o establece el estilo de fuente del texto. |
+| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | Obtiene o establece el color de primer plano del texto. |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | Obtiene o establece la escala horizontal del texto. |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | Obtiene o establece el espaciado de líneas del texto. |
+| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | Obtiene o establece el tachado para el texto. |
+| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | Obtiene o establece el subíndice del texto. |
+| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | Obtiene o establece el superíndice del texto. |
+| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | Obtiene o establece el subrayado para el texto. |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | Obtiene o establece el espaciado de palabras del texto. |
 
-### Ver también
+### Ver También
 
-* espacio de nombres [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

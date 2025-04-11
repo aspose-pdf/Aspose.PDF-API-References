@@ -1,14 +1,14 @@
 ---
-title: ExternalSignature
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Crea una firma separada PKCS7Detached usando un X509Certificate2. Admite tarjetas inteligentes usb tokens sin claves privadas exportables.
+title: Class ExternalSignature
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Forms.ExternalSignature. Crea una firma PKCS7 desanexada utilizando un X509Certificate2. Soporta tokens de tarjetas inteligentes USB sin claves privadas exportables.
 type: docs
-weight: 2990
+weight: 5040
 url: /es/net/aspose.pdf.forms/externalsignature/
 ---
-## ExternalSignature class
+## Clase ExternalSignature
 
-Crea una firma separada PKCS#7Detached usando un X509Certificate2. Admite tarjetas inteligentes usb, tokens sin claves privadas exportables.
+Crea una firma PKCS#7 desanexada utilizando un X509Certificate2. Soporta tarjetas inteligentes USB, tokens sin claves privadas exportables.
 
 ```csharp
 public class ExternalSignature : Signature
@@ -18,35 +18,47 @@ public class ExternalSignature : Signature
 
 | Nombre | Descripción |
 | --- | --- |
-| [ExternalSignature](externalsignature)(X509Certificate2) | Crea una firma separada PKCS#7Detached usando un X509Certificate2. Admite tarjetas inteligentes usb, tokens sin claves privadas exportables. |
+| [ExternalSignature](externalsignature/#constructor)(X509Certificate2) | Crea una firma PKCS#7 `(desanexada)` utilizando un X509Certificate2. Soporta tarjetas inteligentes USB, tokens sin claves privadas exportables. |
+| [ExternalSignature](externalsignature/#constructor_4)(string, bool) | Crea una firma PKCS#7 utilizando un X509Certificate2 como cadena base64. |
+| [ExternalSignature](externalsignature/#constructor_3)(string, DigestHashAlgorithm) | Crea una firma PKCS#7 `(desanexada)` utilizando un X509Certificate2 como cadena base64. |
+| [ExternalSignature](externalsignature/#constructor_2)(X509Certificate2, bool) | Crea una firma PKCS#7 desanexada utilizando un X509Certificate2. Soporta tarjetas inteligentes USB, tokens sin claves privadas exportables. |
+| [ExternalSignature](externalsignature/#constructor_1)(X509Certificate2, DigestHashAlgorithm) | Crea una firma PKCS#7 `(desanexada)` utilizando un X509Certificate2. Soporta tarjetas inteligentes USB, tokens sin claves privadas exportables. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Authority](../../aspose.pdf.forms/signature/authority) { get; set; } | El nombre de la persona o autoridad que firma el documento. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | Una matriz de pares de enteros (compensación de bytes de inicio, longitud en bytes) que describirá el rango de bytes exacto para el cálculo del resumen. |
-| [Certificate](../../aspose.pdf.forms/externalsignature/certificate) { get; } | El certificado con la clave privada. |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo) { get; set; } | Información proporcionada por el firmante para permitir que un destinatario se comunique con el firmante para verificar la firma, por ejemplo, un número de teléfono. |
-| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | Obtiene/establece la apariencia personalizada. |
-| [Date](../../aspose.pdf.forms/signature/date) { get; set; } | El momento de la firma. |
-| [Location](../../aspose.pdf.forms/signature/location) { get; set; } | El nombre de host de la CPU o la ubicación física de la firma. |
-| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings) { get; set; } | Obtiene/establece la configuración de ocsp. |
-| [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | El motivo de la firma, como (Estoy de acuerdoРІР‚В¦). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | Obligar a mostrar/ocultar las propiedades de la firma. En caso de que ShowProperties sea verdadero, el campo de la firma tiene un formato de apariencia predefinido (cadenas para representar): --------------------- ------------- Firmado digitalmente por {asunto del certificado} Fecha: {firma.Fecha} Motivo: {firma.Razón} Ubicación: { firma.Ubicación} --------------------------------------------x000d_ donde {X} es un marcador de posición para el valor X. También la firma puede tener una imagen, en este caso, las cadenas enumeradas se colocan sobre la imagen. ShowProperties es verdadero de forma predeterminada. |
-| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings) { get; set; } | Obtiene/establece la configuración de marca de tiempo. |
-| [UseLtv](../../aspose.pdf.forms/signature/useltv) { get; set; } | Obtiene/establece el indicador de validación ltv. |
+| [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | El nombre de la persona o autoridad que firma el documento. |
+| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Obtiene y establece una opción que indica si se debe evitar estimar la longitud de una firma. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | Un array de pares de enteros (desplazamiento de byte inicial, longitud en bytes) que describen el rango exacto de bytes para el cálculo del resumen. |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Información proporcionada por el firmante para permitir que un destinatario se comunique con el firmante para verificar la firma, por ejemplo, un número de teléfono. |
+| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Obtiene/establece la apariencia personalizada. |
+| [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | El delegado para firmar el hash del documento de forma personalizada. |
+| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | La hora de la firma. |
+| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Obtiene o establece la longitud predeterminada para los datos de la firma en bytes. |
+| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | El nombre del host de la CPU o la ubicación física de la firma. |
+| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Obtiene/establece la configuración de ocsp. |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | La razón de la firma, como (Estoy de acuerdo, Pip B.). |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Fuerza a mostrar/ocultar las propiedades de la firma. En caso de que ShowProperties sea verdadero, el campo de firma tiene un formato de apariencia predefinido (cadenas para representar): ------------------------------------------- Firmado digitalmente por {sujeto del certificado} Fecha: {firma.Date} Razón: {firma.Reason} Ubicación: {firma.Location} ------------------------------------------- donde {X} es un marcador de posición para el valor X. También la firma puede tener una imagen, en este caso las cadenas listadas se colocan sobre la imagen. ShowProperties es verdadero por defecto. |
+| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Obtiene/establece la configuración de la marca de tiempo. |
+| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Obtiene/establece la bandera de validación ltv. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Verify](../../aspose.pdf.forms/signature/verify)() | Verifique el documento con respecto a esta firma y devuelva verdadero si el documento es válido o falso en caso contrario. |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Recupera información sobre el algoritmo de firma utilizado en la firma. |
+| [Verify](../../aspose.pdf.forms/signature/verify/)() | Verifica el documento respecto a esta firma y devuelve verdadero si el documento es válido o falso en caso contrario. |
+| [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Verifica el documento respecto a esta firma y devuelve verdadero si el documento es válido o falso en caso contrario. |
 
-### Ver también
+## Campos
 
-* class [Signature](../signature)
-* espacio de nombres [Aspose.Pdf.Forms](../../aspose.pdf.forms)
-* asamblea [Aspose.PDF](../../)
+| Nombre | Descripción |
+| --- | --- |
+| readonly [Certificate](../../aspose.pdf.forms/externalsignature/certificate/) | El certificado con la clave privada. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+### Véase También
+
+* clase [Signature](../signature/)
+* espacio de nombres [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* ensamblaje [Aspose.PDF](../../)

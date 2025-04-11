@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType
-second_title: Aspose.PDF för .NET API Referens
-description: PDF/A ValueType-schemat krävs för alla egenskapsvärdetyper som inte är definierade i XMP 2004-specifikationen dvs. för värdetyper utanför följande lista - Arraytyper dessa är behållartyper som kan innehålla ett eller flera fält  Alt Bag Seq - Grundläggande värdetyper Boolean öppen och stängd Val Datum Dimensioner Heltal Lang Alt Locale MIMEType ProperName Real Text Thumbnail URI URL XPath - Media Management värdetyper AgentName RenditionClass ResourceEvent ResourceRef Version - Grundläggande jobb/arbetsflödesvärdetyp Job - EXIF-schemavärdetyper Flash CFAPattern DeviceSettings GPSCoordinate OECF/SFR Rational Schemanamn. aiim.org/pdfa/ns/type Obligatoriskt schemanamnområdesprefix pdfaType
+title: Class XmpPdfAExtensionValueType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XmpPdfAExtensionValueType klass. PDF/A ValueType-schema krävs för alla egenskapsvärdetyper som inte definieras i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper (dessa är behållartyper som kan innehålla ett eller flera fält): Alt, Bag, Seq - Grundläggande värdetyper: Boolean, (öppen och stängd) Choice, Datum, Dimensioner, Heltal, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Mediehanteringsvärdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande Jobb/Arbetsflöde värdetyper: Jobb - EXIF-schema värdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Krävs schema namespace prefix: pdfaType
 type: docs
-weight: 7540
+weight: 11490
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType class
+## XmpPdfAExtensionValueType klass
 
-PDF/A ValueType-schemat krävs för alla egenskapsvärdetyper som inte är definierade i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper (dessa är behållartyper som kan innehålla ett eller flera fält ): Alt, Bag, Seq - Grundläggande värdetyper: Boolean, (öppen och stängd) Val, Datum, Dimensioner, Heltal, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Media Management värdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande jobb/arbetsflödesvärdetyp: Job - EXIF-schemavärdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schemanamn. aiim.org/pdfa/ns/type# Obligatoriskt schemanamnområdesprefix: pdfaType
+PDF/A ValueType-schema krävs för alla egenskapsvärdetyper som inte definieras i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper (dessa är behållartyper som kan innehålla ett eller flera fält): Alt, Bag, Seq - Grundläggande värdetyper: Boolean, (öppen och stängd) Choice, Datum, Dimensioner, Heltal, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Mediehanteringsvärdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande Jobb/Arbetsflöde värdetyper: Jobb - EXIF-schema värdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Krävs schema namespace prefix: pdfaType
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
@@ -16,35 +16,33 @@ public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype)(string, string, string, string) | Initierar nytt objekt. |
+| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype/)(string, string, string, string) | Initierar nytt objekt. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | Hämtar beskrivningen. |
-| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields) { get; } | Hämtar listan med fält. |
-| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri) { get; } | Hämtar namnutrymmets URI. |
-| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix) { get; } | Får prefixet. |
-| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type) { get; } | Hämtar värdetypen. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | Hämtar eller ställer in värdet. |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Hämtar beskrivningen. |
+| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields/) { get; } | Hämtar listan över fält. |
+| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/) { get; } | Hämtar namespace URI. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix/) { get; } | Hämtar prefixet. |
+| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type/) { get; } | Hämtar värdetypen. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Hämtar eller sätter värdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add)(XmpPdfAExtensionField) | Lägg till nytt fält. |
-| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange)(XmpPdfAExtensionField[]) | Lägger till fältintervallet. |
-| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear)() | Rensar alla fält. |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml)(XmlDocument) | Returnerar listan över xml-element som representerar värdetyp i xml-trädet. |
-| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove)(XmpPdfAExtensionField) | Tar bort fältet från listan över fält. |
+| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Lägger till nytt fält. |
+| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Lägger till intervallet av fält. |
+| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Rensar alla fält. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Returnerar listan över xml-element som representerar värdetyp i xml-trädet. |
+| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove/)(XmpPdfAExtensionField) | Tar bort fältet från listan över fält. |
 
-### Se även
+### Se Även
 
-* class [XmpPdfAExtensionObject](../xmppdfaextensionobject)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

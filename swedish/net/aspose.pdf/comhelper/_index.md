@@ -1,12 +1,12 @@
 ---
-title: ComHelper
-second_title: Aspose.PDF för .NET API Referens
-description: Tillhandahåller metoder för COM-klienter att ladda ett dokument i Aspose.Pdf.
+title: Class ComHelper
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ComHelper klass. Tillhandahåller metoder för COM-klienter att ladda ett dokument i Aspose.Pdf
 type: docs
-weight: 1540
+weight: 3130
 url: /sv/net/aspose.pdf/comhelper/
 ---
-## ComHelper class
+## ComHelper klass
 
 Tillhandahåller metoder för COM-klienter att ladda ett dokument i Aspose.Pdf.
 
@@ -16,31 +16,29 @@ public class ComHelper
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ComHelper](comhelper)() | Default_Constructor |
+| [ComHelper](comhelper/)() | Standardkonstruktören. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile)(string) | Skapa bara och returnera dokument med hjälp av*filename* . Samma som[`Document`](../document/document) . |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_1)(string, LoadOptions) | Öppna ett befintligt dokument från en fil som tillhandahåller nödvändiga konverteringsalternativ för att få pdf-dokument. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_2)(string, string) | Initiera och returnera ny instans av[`Document`](../document) klass för att arbeta med krypterade dokument. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_3)(string, string, bool) | Initiera ny instans av[`Document`](../document) klass för att arbeta med krypterade dokument. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream)(Stream) | Initiera och returnera ny dokumentinstans från*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_2)(Stream, bool) | Initiera och returnera ny dokumentinstans från*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_1)(Stream, LoadOptions) | Öppna och returnera ett befintligt dokument från en ström som ger nödvändig konvertering för att få pdf-dokument. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_3)(Stream, string) | Initiera och returnera ny dokumentinstans från*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_4)(Stream, string, bool) | Initiera och returnera ny dokumentinstans från*input* stream. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile)(string) | Skapa och returnera Dokument med *filnamn*. Samma som [`Document`](../document/document/). |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_1)(string, LoadOptions) | Öppna ett befintligt dokument från en fil och tillhandahålla nödvändiga konverteringsalternativ för att få pdf-dokument. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_2)(string, string) | Initiera och returnera en ny instans av [`Document`](../document/) klassen för att arbeta med krypterat dokument. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_3)(string, string, bool) | Initiera en ny instans av [`Document`](../document/) klassen för att arbeta med krypterat dokument. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream)(Stream) | Initiera och returnera en ny Dokumentinstans från *inmatnings*strömmen. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_2)(Stream, bool) | Initiera och returnera en ny Dokumentinstans från *inmatnings*strömmen. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_1)(Stream, LoadOptions) | Öppna och returnera ett befintligt dokument från en ström och tillhandahålla nödvändig konvertering för att få pdf-dokument. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_3)(Stream, string) | Initiera och returnera en ny Dokumentinstans från *inmatnings*strömmen. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_4)(Stream, string, bool) | Initiera och returnera en ny Dokumentinstans från *inmatnings*strömmen. |
 
-### Anmärkningar
+## Kommentarer
 
-Använd ComHelper-klassen för att ladda ett dokument från en fil eller ström till ett dokumentobjekt i en COM-applikation. Klassen Document tillhandahåller en standardkonstruktor för att skapa ett nytt document och tillhandahåller även överbelastade konstruktorer för att ladda ett dokument från en fil eller ström . Om du använder Aspose.Words från ett .NET-program kan du använda alla dokumentkonstruktörer direkt, men om du använder Aspose.Pdf från en COM-applikation är endast standarddokumentkonstruktorn tillgänglig.
+Använd ComHelper-klassen för att ladda ett dokument från en fil eller ström till ett Dokumentobjekt i en COM-applikation. Dokumentklassen tillhandahåller en standardkonstruktor för att skapa ett nytt dokument och tillhandahåller också överlagrade konstruktörer för att ladda ett dokument från en fil eller ström. Om du använder Aspose.Words från en .NET-applikation kan du använda alla Dokumentkonstruktörer direkt, men om du använder Aspose.Pdf från en COM-applikation är endast standard Dokumentkonstruktorn tillgänglig.
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: TrySplitToEnd
-second_title: Aspose.PDF для справочника API .NET
-description: Разделяет локацию и сохраняет заднюю часть как новый файл.
+title: PdfFileEditor.TrySplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileEditor. Разделяет с указанного места и сохраняет заднюю часть как новый файл
 type: docs
-weight: 500
+weight: 470
 url: /ru/net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_2}
+## TrySplitToEnd(string, int, string) {#trysplittoend_1}
 
-Разделяет локацию и сохраняет заднюю часть как новый файл.
+Разделяет с указанного места и сохраняет заднюю часть как новый файл.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, string outputFile)
@@ -16,36 +16,36 @@ public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный PDF-файл. |
+| inputFile | String | Исходный Pdf файл. |
 | location | Int32 | Позиция разделения. |
-| outputFile | String | Выходной путь к файлу Pdf. |
+| outputFile | String | Путь к выходному Pdf файлу. |
 
 ### Возвращаемое значение
 
-Верно для успеха или ложно.
+True при успехе, или false.
 
-### Примечания
+## Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
+Метод TrySplitToEnd похож на метод SplitToEnd, за исключением того, что метод TrySplitToEnd не вызывает исключение, если операция не удалась.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-Разделяет из указанного места и сохраняет заднюю часть как новый файл Stream.
+Разделяет с указанного места и сохраняет заднюю часть как новый файл Stream.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -53,19 +53,19 @@ public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный файл Pdf Stream. |
+| inputStream | Stream | Исходный Pdf файл Stream. |
 | location | Int32 | Позиция разделения. |
-| outputStream | Stream | Выходной файл Pdf Stream. |
+| outputStream | Stream | Выходной Pdf файл Stream. |
 
 ### Возвращаемое значение
 
-Верно для успеха или ложно.
+True при успехе, или false.
 
-### Примечания
+## Примечания
 
-Потоки НЕ закрываются после этой операции, если не указано значение CloseConcatedStreams. Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
+Потоки НЕ закрываются после этой операции, если не указано CloseConcatedStreams. Метод TrySplitToEnd похож на метод SplitToEnd, за исключением того, что метод TrySplitToEnd не вызывает исключение, если операция не удалась.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,17 +74,16 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
----
 
 ## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
 
-Разделяется из указанного места и сохраняет заднюю часть в объекте HttpResponse.
+Разделяет с указанного места и сохраняет заднюю часть в объект HttpResponse.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse response)
@@ -92,29 +91,29 @@ public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse respons
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток исходного документа. |
+| inputStream | Stream | Исходный поток документа. |
 | location | Int32 | Точка разделения. |
 | response | HttpResponse | Объект HttpResponse. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае ложно.
+true, если операция завершена успешно; в противном случае false.
 
-### Примечания
+## Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
+Метод TrySplitToEnd похож на метод SplitToEnd, за исключением того, что метод TrySplitToEnd не вызывает исключение, если операция не удалась.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(string, int, HttpResponse) {#trysplittoend_3}
 
-Разделяется из указанного места и сохраняет заднюю часть в объекте HttpResponse.
+Разделяет с указанного места и сохраняет заднюю часть в объект HttpResponse.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
@@ -128,16 +127,14 @@ public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае ложно.
+true, если операция завершена успешно; в противном случае false.
 
-### Примечания
+## Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
+Метод TrySplitToEnd похож на метод SplitToEnd, за исключением того, что метод TrySplitToEnd не вызывает исключение, если операция не удалась.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

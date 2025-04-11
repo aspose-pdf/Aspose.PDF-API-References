@@ -1,166 +1,207 @@
 ---
-title: Document
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة تمثل مستند PDF
+title: Class Document
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Document. فئة تمثل وثيقة PDF
 type: docs
-weight: 1870
+weight: 3780
 url: /ar/net/aspose.pdf/document/
 ---
-## Document class
+## فئة الوثيقة
 
-فئة تمثل مستند PDF
+فئة تمثل وثيقة PDF.
 
 ```csharp
 public sealed class Document : IDisposable
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Document](document#constructor)() | تهيئة مستند فارغ . |
-| [Document](document#constructor_1)(Stream) | تهيئة مثيل المستند الجديد من ملف*input* تيار . |
-| [Document](document#constructor_6)(string) | فقط الحرف الأول باستخدام المستند*filename* . كمثل[`Document`](./document) . |
-| [Document](document#constructor_3)(Stream, bool) | تهيئة مثيل المستند الجديد من ملف*input* تيار . |
-| [Document](document#constructor_2)(Stream, LoadOptions) | يفتح مستندًا موجودًا من دفق يوفر التحويل اللازم للحصول على مستند pdf. |
-| [Document](document#constructor_4)(Stream, string) | تهيئة مثيل المستند الجديد من ملف*input* تيار . |
-| [Document](document#constructor_7)(string, LoadOptions) | يفتح مستندًا موجودًا من ملف يوفر خيارات التحويل الضرورية للحصول على مستند pdf. |
-| [Document](document#constructor_8)(string, string) | تهيئة مثيل جديد لملف[`Document`](../document) فئة للعمل مع المستند المشفر. |
-| [Document](document#constructor_5)(Stream, string, bool) | تهيئة مثيل المستند الجديد من ملف*input* تيار . |
-| [Document](document#constructor_9)(string, string, bool) | تهيئة مثيل جديد لملف[`Document`](../document) فئة للعمل مع المستند المشفر. |
+| [Document](document/#constructor)() | يقوم بتهيئة وثيقة فارغة. |
+| [Document](document/#constructor_1)(PdfVersion) | يقوم بتهيئة وثيقة فارغة حسب الإصدار. |
+| [Document](document/#constructor_2)(Stream) | يقوم بتهيئة مثيل جديد من Document من *دفق* الإدخال. |
+| [Document](document/#constructor_7)(string) | يقوم فقط بتهيئة Document باستخدام *اسم الملف*. نفس الشيء كما هو [`Document`](./document/). |
+| [Document](document/#constructor_4)(Stream, bool) | يقوم بتهيئة مثيل جديد من Document من *دفق* الإدخال. |
+| [Document](document/#constructor_3)(Stream, LoadOptions) | يفتح وثيقة موجودة من دفق يوفر التحويل الضروري للحصول على وثيقة PDF. |
+| [Document](document/#constructor_5)(Stream, string) | يقوم بتهيئة مثيل جديد من Document من *دفق* الإدخال. |
+| [Document](document/#constructor_9)(string, bool) | يقوم فقط بتهيئة Document باستخدام *اسم الملف*. نفس الشيء كما هو [`Document`](./document/). |
+| [Document](document/#constructor_8)(string, LoadOptions) | يفتح وثيقة موجودة من ملف يوفر خيارات التحويل الضرورية للحصول على وثيقة PDF. |
+| [Document](document/#constructor_10)(string, string) | يقوم بتهيئة مثيل جديد من فئة `Document` للعمل مع وثيقة مشفرة. |
+| [Document](document/#constructor_6)(Stream, string, bool) | يقوم بتهيئة مثيل جديد من Document من *دفق* الإدخال. |
+| [Document](document/#constructor_11)(string, string, bool) | يقوم بتهيئة مثيل جديد من فئة `Document` للعمل مع وثيقة مشفرة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Actions](../../aspose.pdf/document/actions) { get; } | يحصل على إجراءات المستند. هذه الخاصية هي مثيل لفئة DocumentActions التي تسمح بالحصول على / تعيين إجراءات BeforClosing و BeforSaving وما إلى ذلك. |
-| [AllowReusePageContent](../../aspose.pdf/document/allowreusepagecontent) { get; set; } | يسمح بدمج محتويات الصفحة لتحسين حجم المستند. إذا تم استخدامها ثم تختلف ولكن الصفحات المكررة قد تشير إلى نفس كائن المحتوى. يرجى ملاحظة أن هذا الوضع قد يتسبب في آثار جانبية مثل تغيير محتوى الصفحة عند تغيير صفحة أخرى. |
-| [Background](../../aspose.pdf/document/background) { get; set; } | الحصول على أو تحديد لون خلفية المستند. |
-| [CenterWindow](../../aspose.pdf/document/centerwindow) { get; set; } | الحصول على أو تعيين علامة تحدد ما إذا كان موضع نافذة المستند سيكون في المنتصف على الشاشة. |
-| [Collection](../../aspose.pdf/document/collection) { get; set; } | الحصول على مجموعة من المستندات. |
-| [CryptoAlgorithm](../../aspose.pdf/document/cryptoalgorithm) { get; } | يحصل على إعدادات التأمين إذا تم تشفير الوثيقة. إذا لم يتم تشفير المستند ، فسيتم رفع الاستثناء المقابل في .net 1.1 أو ستكون خوارزمية CryptoAlgorithm فارغة لإصدارات .net الأخرى. |
-| [Destinations](../../aspose.pdf/document/destinations) { get; } | يحصل على مجموعة الوجهات . مهمل. الرجاء استخدام NamedDestinations. |
-| [Direction](../../aspose.pdf/document/direction) { get; set; } | الحصول على أو تعيين ترتيب قراءة النص: L2R (من اليسار إلى اليمين) أو R2L (من اليمين إلى اليسار) . |
-| [DisableFontLicenseVerifications](../../aspose.pdf/document/disablefontlicenseverifications) { get; set; } | لا يمكن تنفيذ العديد من العمليات باستخدام الخط إذا تم حظر هذه العمليات بموجب ترخيص لهذا الخط. على سبيل المثال ، لا يمكن تضمين بعض الخطوط في مستند PDF إذا عطلت قواعد الترخيص التضمين لهذا الخط. يتم استخدام هذه العلامة لتعطيل أي قيود ترخيص لجميع الخطوط في مستند PDF الحالي. توخ الحذر عند استخدام هذه العلامة. عندما يتم تعيينه ، فهذا يعني أن الشخص الذي يضع هذا العلم ، يتحمل كل مسؤولية انتهاكات الترخيص / القانون المحتملة على نفسه. لذا فهو يأخذ الأمر على مسؤوليته الخاصة. يوصى بشدة باستخدام هذه العلامة فقط عندما تكون واثقًا تمامًا من أنك لا تنتهك قانون حقوق النشر. خطأ افتراضيًا. |
-| [DisplayDocTitle](../../aspose.pdf/document/displaydoctitle) { get; set; } | الحصول على علامة تحدد ما إذا كان شريط عنوان نافذة المستند يجب أن يعرض عنوان المستند أم لا. |
-| [Duplex](../../aspose.pdf/document/duplex) { get; set; } | الحصول على أو تعيين خيار معالجة وضع الطباعة على الوجهين لاستخدامه عند طباعة الملف من مربع حوار الطباعة. |
-| [EmbeddedFiles](../../aspose.pdf/document/embeddedfiles) { get; } | الحصول على مجموعة من الملفات المضمنة في المستند. |
-| [EmbedStandardFonts](../../aspose.pdf/document/embedstandardfonts) { get; set; } | الخاصية التي تعلن أن المستند يجب أن يضمّن جميع خطوط Type1 القياسية التي تحتوي على علامة IsEmbedded مضبوطة على true. يمكن دمج جميع خطوط PDF في المستند ببساطة عن طريق إعداد العلامة IsEmbedded in true ، ولكن خطوط PDF القياسية Type1 هي استثناء من هذه القاعدة. مضمنة في true للخط المحدد ولكن أيضًا قم بتعيين علامة إضافية على مستوى المستند - EmbedStandardFonts = true يمكن تعيين هذه الخاصية مرة واحدة فقط لجميع الخطوط . افتراضيًا false . |
-| [EnableObjectUnload](../../aspose.pdf/document/enableobjectunload) { get; set; } | الحصول على أو تعيين علامة تتيح إلغاء تحميل المستند جزئيًا من الذاكرة. هذا يسمح بتقليل استخدام الذاكرة ولكن قد يكون له تأثير سلبي على الأداء. |
-| [EnableSignatureSanitization](../../aspose.pdf/document/enablesignaturesanitization) { get; set; } | الحصول على علامة أو تعيينها لإدارة تعقيم حقول التوقيع. ممكّن افتراضيًا. |
-| [FileName](../../aspose.pdf/document/filename) { get; } | اسم ملف PDF الذي تسبب في هذا المستند |
-| [FitWindow](../../aspose.pdf/document/fitwindow) { get; set; } | الحصول على أو تعيين علامة تحدد ما إذا كان يجب تغيير حجم نافذة المستند لتلائم الصفحة الأولى المعروضة. |
-| [FontUtilities](../../aspose.pdf/document/fontutilities) { get; } | مثيل IDocumentFontUtilities |
-| [Form](../../aspose.pdf/document/form) { get; } | يحصل على نموذج Acro للوثيقة. |
-| [HandleSignatureChange](../../aspose.pdf/document/handlesignaturechange) { get; set; } | استثناء رمي إذا كان المستند سيُحفظ بالتغييرات وله توقيع |
-| [HideMenubar](../../aspose.pdf/document/hidemenubar) { get; set; } | الحصول على أو تعيين علامة تحدد ما إذا كان يجب إخفاء شريط القوائم عندما يكون المستند نشطًا. |
-| [HideToolBar](../../aspose.pdf/document/hidetoolbar) { get; set; } | الحصول على أو تعيين علامة تحدد ما إذا كان يجب إخفاء شريط الأدوات عندما يكون المستند نشطًا. |
-| [HideWindowUI](../../aspose.pdf/document/hidewindowui) { get; set; } | الحصول على أو تعيين علامة تحدد ما إذا كان يجب إخفاء عناصر واجهة المستخدم عندما يكون المستند نشطًا. |
-| [Id](../../aspose.pdf/document/id) { get; } | يحصل على المعرف . |
-| [IgnoreCorruptedObjects](../../aspose.pdf/document/ignorecorruptedobjects) { get; set; } | الحصول على علامة تجاهل الأخطاء في الملفات المصدر أو تعيينها. عند نسخ صفحات من المستند المصدر إلى المستند الوجهة ، يتم إيقاف عملية النسخ باستثناء في حالة تلف بعض الكائنات في الملفات المصدر عندما تكون هذه العلامة خاطئة. مثال: dest.Pages.Add (src.Pages) إذا تم تعيين هذه العلامة على "true" ، فسيتم استبدال الكائنات التالفة بقيم فارغة. افتراضيًا: true . |
-| [Info](../../aspose.pdf/document/info) { get; } | الحصول على معلومات المستند . |
-| [IsEncrypted](../../aspose.pdf/document/isencrypted) { get; } | يحصل على حالة مشفرة للمستند. صحيح إذا تم تشفير المستند. |
-| [IsLinearized](../../aspose.pdf/document/islinearized) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان المستند خطيًا. |
-| [IsPdfaCompliant](../../aspose.pdf/document/ispdfacompliant) { get; } | يحصل على المستند المتوافق مع pdfa. |
-| [IsPdfUaCompliant](../../aspose.pdf/document/ispdfuacompliant) { get; } | يحصل على وثيقة متوافقة مع pdfua. |
-| [IsXrefGapsAllowed](../../aspose.pdf/document/isxrefgapsallowed) { get; set; } | الحصول على المستند المتوافق مع pdfa أو تعيينه. |
-| [JavaScript](../../aspose.pdf/document/javascript) { get; } | مجموعة JavaScript لمستوى المستند. |
-| [LogicalStructure](../../aspose.pdf/document/logicalstructure) { get; } | يحصل على البنية المنطقية للوثيقة. |
-| [Metadata](../../aspose.pdf/document/metadata) { get; } | بيانات تعريف المستند. (قد يتضمن مستند PDF معلومات عامة ، مثل عنوان المستند ومؤلفه وتواريخ الإنشاء والتعديل. تسمى هذه المعلومات العامة حول المستند (على عكس محتواها أو هيكلها) metadata وهي تهدف إلى المساعدة في فهرسة المستندات والبحث عنها في قواعد البيانات الخارجية.) |
-| [NamedDestinations](../../aspose.pdf/document/nameddestinations) { get; } | مجموعة الوجهة المحددة في المستند. |
-| [NonFullScreenPageMode](../../aspose.pdf/document/nonfullscreenpagemode) { get; set; } | الحصول على وضع الصفحة أو تعيينه ، وتحديد كيفية عرض المستند عند الخروج من وضع ملء الشاشة. |
-| [OpenAction](../../aspose.pdf/document/openaction) { get; set; } | الحصول على أو تعيين الإجراء الذي يتم تنفيذه عند فتح المستند. |
-| [OptimizeSize](../../aspose.pdf/document/optimizesize) { get; set; } | الحصول على علامة التحسين أو تعيينها. عند إضافة الصفحات إلى المستند ، يتم دمج تدفقات الموارد المتساوية في الملف الناتج في كائن PDF واحد إذا تم تعيين هذه العلامة. هذا يسمح بتقليل حجم الملف الناتج ولكن قد يتسبب في إبطاء التنفيذ ومتطلبات ذاكرة أكبر. القيمة الافتراضية: false . |
-| [Outlines](../../aspose.pdf/document/outlines) { get; } | يحصل على مخططات الوثيقة . |
-| [PageInfo](../../aspose.pdf/document/pageinfo) { get; set; } | الحصول على معلومات الصفحة أو تعيينها. (للمولد فقط) |
-| [PageLabels](../../aspose.pdf/document/pagelabels) { get; } | الحصول على تسميات الصفحة في المستند. |
-| [PageLayout](../../aspose.pdf/document/pagelayout) { get; set; } | الحصول على تخطيط الصفحة الذي سيتم استخدامه عند فتح المستند أو تعيينه. |
-| [PageMode](../../aspose.pdf/document/pagemode) { get; set; } | الحصول على وضع الصفحة أو تعيينه ، مع تحديد كيفية عرض المستند عند فتحه. |
-| [Pages](../../aspose.pdf/document/pages) { get; } | الحصول على مجموعة من صفحات المستند أو تعيينها. لاحظ أن الصفحات مرقمة من 1 في المجموعة. |
-| [PdfFormat](../../aspose.pdf/document/pdfformat) { get; } | يحصل على تنسيق PDF |
-| [Permissions](../../aspose.pdf/document/permissions) { get; } | يحصل على أذونات المستند . |
-| [TaggedContent](../../aspose.pdf/document/taggedcontent) { get; } | يحصل على حق الوصول إلى محتوى TaggedPdf. |
-| [Version](../../aspose.pdf/document/version) { get; } | الحصول على نسخة من Pdf من رأس ملف Pdf. |
-| static [IsLicensed](../../aspose.pdf/document/islicensed) { get; } | الحصول على الحالة المرخصة للنظام. إرجاع صحيح هو أن النظام يعمل في الوضع المرخص وخطأ في الحالات الأخرى. |
+| [Actions](../../aspose.pdf/document/actions/) { get; } | يحصل على إجراءات الوثيقة. هذه الخاصية هي مثيل من فئة DocumentActions التي تسمح بالحصول على/تعيين إجراءات BeforClosing، BeforSaving، إلخ. |
+| [AllowReusePageContent](../../aspose.pdf/document/allowreusepagecontent/) { get; set; } | يسمح بدمج محتويات الصفحات لتحسين حجم الوثيقة. إذا تم استخدامه، فقد تشير صفحات مختلفة ولكن مكررة إلى نفس كائن المحتوى. يرجى ملاحظة أن هذا الوضع قد يسبب آثار جانبية مثل تغيير محتوى الصفحة عند تغيير صفحة أخرى. |
+| [Background](../../aspose.pdf/document/background/) { get; set; } | يحصل على أو يحدد لون خلفية الوثيقة. |
+| [CenterWindow](../../aspose.pdf/document/centerwindow/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان سيتم توسيط موضع نافذة الوثيقة على الشاشة. |
+| [Collection](../../aspose.pdf/document/collection/) { get; set; } | يحصل على مجموعة الوثيقة. |
+| [CryptoAlgorithm](../../aspose.pdf/document/cryptoalgorithm/) { get; } | يحصل على إعدادات الأمان إذا كانت الوثيقة مشفرة. إذا لم تكن الوثيقة مشفرة، فسيتم رفع استثناء مطابق في .net 1.1 أو سيكون CryptoAlgorithm فارغًا للإصدارات الأخرى من .net. |
+| [Destinations](../../aspose.pdf/document/destinations/) { get; } | يحصل على مجموعة الوجهات. قديمة. يرجى استخدام NamedDestinations. |
+| [Direction](../../aspose.pdf/document/direction/) { get; set; } | يحصل على أو يحدد ترتيب قراءة النص: L2R (من اليسار إلى اليمين) أو R2L (من اليمين إلى اليسار). |
+| [DisableFontLicenseVerifications](../../aspose.pdf/document/disablefontlicenseverifications/) { get; set; } | لا يمكن تنفيذ العديد من العمليات مع الخط إذا كانت هذه العمليات محظورة بموجب ترخيص هذا الخط. على سبيل المثال، لا يمكن تضمين بعض الخطوط في وثيقة PDF إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. تُستخدم هذه العلامة لتعطيل أي قيود ترخيص لجميع الخطوط في وثيقة PDF الحالية. كن حذرًا عند استخدام هذه العلامة. عندما يتم تعيينها، فهذا يعني أن الشخص الذي يحدد هذه العلامة يتحمل جميع المسؤوليات عن انتهاكات الترخيص/القانون المحتملة. لذا، يتحمل المخاطر بنفسه. يُوصى بشدة باستخدام هذه العلامة فقط عندما تكون واثقًا تمامًا من أنك لا تنتهك قانون حقوق الطبع والنشر. بشكل افتراضي، تكون القيمة خاطئة. |
+| [DisplayDocTitle](../../aspose.pdf/document/displaydoctitle/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب عرض شريط عنوان نافذة الوثيقة عنوان الوثيقة. |
+| [Duplex](../../aspose.pdf/document/duplex/) { get; set; } | يحصل على أو يحدد خيار معالجة وضع الطباعة المزدوج لاستخدامه عند طباعة الملف من مربع حوار الطباعة. |
+| [EmbeddedFiles](../../aspose.pdf/document/embeddedfiles/) { get; } | يحصل على مجموعة من الملفات المضمنة في الوثيقة. |
+| [EmbedStandardFonts](../../aspose.pdf/document/embedstandardfonts/) { get; set; } | خاصية تعلن أن الوثيقة يجب أن تتضمن جميع خطوط Type1 القياسية التي تم تعيين علامة IsEmbedded فيها إلى true. يمكن تضمين جميع خطوط PDF في الوثيقة ببساطة عن طريق تعيين علامة IsEmbedded إلى true، ولكن خطوط PDF القياسية Type1 هي استثناء من هذه القاعدة. يتطلب تضمين خطوط Type1 القياسية وقتًا طويلاً، لذا لتضمين هذه الخطوط، من الضروري ليس فقط تعيين علامة IsEmbedded إلى true للخط المحدد ولكن أيضًا تعيين علامة إضافية على مستوى الوثيقة - EmbedStandardFonts = true؛ يمكن تعيين هذه الخاصية مرة واحدة فقط لجميع الخطوط. بشكل افتراضي، تكون القيمة خاطئة. |
+| [EnableObjectUnload](../../aspose.pdf/document/enableobjectunload/) { get; set; } | يحصل على أو يحدد علامة تمكّن الوثيقة من أن يتم تفريغها جزئيًا من الذاكرة. يسمح ذلك بتقليل استخدام الذاكرة ولكن قد يؤثر سلبًا على الأداء. |
+| [EnableSignatureSanitization](../../aspose.pdf/document/enablesignaturesanitization/) { get; set; } | يحصل على أو يحدد علامة لإدارة تطهير حقول التوقيع. مفعل بشكل افتراضي. |
+| [FileName](../../aspose.pdf/document/filename/) { get; } | اسم ملف PDF الذي تسبب في هذه الوثيقة |
+| [FitWindow](../../aspose.pdf/document/fitwindow/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب تغيير حجم نافذة الوثيقة لتناسب الصفحة المعروضة الأولى. |
+| [FontUtilities](../../aspose.pdf/document/fontutilities/) { get; } | مثيل IDocumentFontUtilities |
+| [Form](../../aspose.pdf/document/form/) { get; } | يحصل على نموذج Acro للوثيقة. |
+| [HandleSignatureChange](../../aspose.pdf/document/handlesignaturechange/) { get; set; } | يثير استثناء إذا كانت الوثيقة ستُحفظ مع تغييرات وتحتوي على توقيع |
+| [HideMenubar](../../aspose.pdf/document/hidemenubar/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب إخفاء شريط القائمة عند تنشيط الوثيقة. |
+| [HideToolBar](../../aspose.pdf/document/hidetoolbar/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب إخفاء شريط الأدوات عند تنشيط الوثيقة. |
+| [HideWindowUI](../../aspose.pdf/document/hidewindowui/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب إخفاء عناصر واجهة المستخدم عند تنشيط الوثيقة. |
+| [Id](../../aspose.pdf/document/id/) { get; } | يحصل على المعرف. |
+| [IgnoreCorruptedObjects](../../aspose.pdf/document/ignorecorruptedobjects/) { get; set; } | يحصل على أو يحدد علامة تجاهل الأخطاء في الملفات المصدر. عندما يتم نسخ الصفحات من الوثيقة المصدر إلى الوثيقة الوجهة، يتوقف عملية النسخ مع استثناء إذا كانت بعض الكائنات في الملفات المصدر تالفة عندما تكون هذه العلامة خاطئة. مثال: dest.Pages.Add(src.Pages); إذا تم تعيين هذه العلامة إلى true، فسيتم استبدال الكائنات التالفة بقيم فارغة. بشكل افتراضي: true. |
+| [Info](../../aspose.pdf/document/info/) { get; } | يحصل على معلومات الوثيقة. |
+| [IsEncrypted](../../aspose.pdf/document/isencrypted/) { get; } | يحصل على حالة تشفير الوثيقة. صحيح إذا كانت الوثيقة مشفرة. |
+| [IsLinearized](../../aspose.pdf/document/islinearized/) { get; set; } | يحصل على أو يحدد قيمة تشير إلى ما إذا كانت الوثيقة مُخططة. |
+| [IsPdfaCompliant](../../aspose.pdf/document/ispdfacompliant/) { get; } | يحصل على ما إذا كانت الوثيقة متوافقة مع pdfa. |
+| [IsPdfUaCompliant](../../aspose.pdf/document/ispdfuacompliant/) { get; } | يحصل على ما إذا كانت الوثيقة متوافقة مع pdfua. |
+| [IsXrefGapsAllowed](../../aspose.pdf/document/isxrefgapsallowed/) { get; set; } | يحصل على أو يحدد ما إذا كانت الوثيقة متوافقة مع pdfa. |
+| [JavaScript](../../aspose.pdf/document/javascript/) { get; } | مجموعة من JavaScript على مستوى الوثيقة. |
+| [LogicalStructure](../../aspose.pdf/document/logicalstructure/) { get; } | يحصل على الهيكل المنطقي للوثيقة. |
+| [Metadata](../../aspose.pdf/document/metadata/) { get; } | بيانات التعريف للوثيقة. (قد تتضمن وثيقة PDF معلومات عامة، مثل عنوان الوثيقة، المؤلف، وتواريخ الإنشاء والتعديل. تُسمى هذه المعلومات العالمية حول الوثيقة (على عكس محتواها أو هيكلها) بيانات التعريف وتهدف إلى المساعدة في الفهرسة والبحث عن الوثائق في قواعد البيانات الخارجية.) |
+| [NamedDestinations](../../aspose.pdf/document/nameddestinations/) { get; } | مجموعة من الوجهات المسماة في الوثيقة. |
+| [NonFullScreenPageMode](../../aspose.pdf/document/nonfullscreenpagemode/) { get; set; } | يحصل على أو يحدد وضع الصفحة، موضحًا كيفية عرض الوثيقة عند الخروج من وضع ملء الشاشة. |
+| [OpenAction](../../aspose.pdf/document/openaction/) { get; set; } | يحصل على أو يحدد الإجراء الذي يتم تنفيذه عند فتح الوثيقة. |
+| [OptimizeSize](../../aspose.pdf/document/optimizesize/) { get; set; } | يحصل على أو يحدد علامة تحسين. عندما تتم إضافة صفحات إلى الوثيقة، يتم دمج تدفقات الموارد المتساوية في الملف الناتج في كائن PDF واحد إذا تم تعيين هذه العلامة. يسمح ذلك بتقليل حجم الملف الناتج ولكن قد يتسبب في تنفيذ أبطأ ومتطلبات ذاكرة أكبر. القيمة الافتراضية: false. |
+| [Outlines](../../aspose.pdf/document/outlines/) { get; } | يحصل على مخططات الوثيقة. |
+| [OutputIntents](../../aspose.pdf/document/outputintents/) { get; } | يحصل على مجموعة من نوايا الإخراج في الوثيقة. |
+| [PageInfo](../../aspose.pdf/document/pageinfo/) { get; set; } | يحصل على أو يحدد معلومات الصفحة. (للمولد فقط، لا يتم ملؤها عند قراءة الوثيقة) |
+| [PageLabels](../../aspose.pdf/document/pagelabels/) { get; } | يحصل على تسميات الصفحات في الوثيقة. |
+| [PageLayout](../../aspose.pdf/document/pagelayout/) { get; set; } | يحصل على أو يحدد تخطيط الصفحة الذي يجب استخدامه عند فتح الوثيقة. |
+| [PageMode](../../aspose.pdf/document/pagemode/) { get; set; } | يحصل على أو يحدد وضع الصفحة، موضحًا كيفية عرض الوثيقة عند فتحها. |
+| [Pages](../../aspose.pdf/document/pages/) { get; } | يحصل على أو يحدد مجموعة صفحات الوثيقة. لاحظ أن الصفحات مرقمة من 1 في المجموعة. |
+| [PdfFormat](../../aspose.pdf/document/pdfformat/) { get; } | يحصل على تنسيق PDF |
+| [Permissions](../../aspose.pdf/document/permissions/) { get; } | يحصل على أذونات الوثيقة. |
+| [PickTrayByPdfSize](../../aspose.pdf/document/picktraybypdfsize/) { get; set; } | يحصل على أو يحدد علامة توضح ما إذا كان يجب استخدام حجم صفحة PDF لاختيار درج الورق المدخل. |
+| [PrintScaling](../../aspose.pdf/document/printscaling/) { get; set; } | يحصل على أو يحدد خيار تغيير حجم الصفحة الذي يجب اختياره عند عرض مربع حوار الطباعة لهذه الوثيقة. |
+| [TaggedContent](../../aspose.pdf/document/taggedcontent/) { get; } | يحصل على الوصول إلى محتوى TaggedPdf. |
+| [Version](../../aspose.pdf/document/version/) { get; } | يحصل على إصدار PDF من رأس ملف PDF. |
+| static [FileSizeLimitToMemoryLoading](../../aspose.pdf/document/filesizelimittomemoryloading/) { get; set; } | يحصل على ويحدد حد حجم الملف لتحميل ملف كامل في الذاكرة. يتم تعيين القيمة بالميغابايت. القيمة الافتراضية هي 210 ميغابايت. |
+| static [IsLicensed](../../aspose.pdf/document/islicensed/) { get; } | يحصل على حالة الترخيص للنظام. يرجع true إذا كان النظام يعمل في وضع مرخص وfalse خلاف ذلك. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BindXml](../../aspose.pdf/document/bindxml#bindxml)(Stream) | ربط xml بـ document |
-| [BindXml](../../aspose.pdf/document/bindxml#bindxml_3)(string) | ربط xml بـ document |
-| [BindXml](../../aspose.pdf/document/bindxml#bindxml_1)(Stream, Stream) | ربط xml / xsl بالمستند |
-| [BindXml](../../aspose.pdf/document/bindxml#bindxml_4)(string, string) | ربط xml / xsl بالمستند |
-| [BindXml](../../aspose.pdf/document/bindxml#bindxml_2)(Stream, Stream, XmlReaderSettings) | ربط xml / xsl بالمستند |
-| [ChangePasswords](../../aspose.pdf/document/changepasswords)(string, string, string) | يغير كلمات مرور المستند. يمكن القيام بهذا الإجراء فقط باستخدام كلمة مرور المالك. |
-| [Check](../../aspose.pdf/document/check)(bool) | التحقق من صحة الوثيقة . |
-| [Convert](../../aspose.pdf/document/convert#convert_3)(CallBackGetHocr) | قم بتحويل المستند وحفظ الأخطاء في الملف المحدد. |
-| [Convert](../../aspose.pdf/document/convert#convert_2)(PdfFormatConversionOptions) | تحويل المستند باستخدام خيارات التحويل المحددة |
-| [Convert](../../aspose.pdf/document/convert#convert_4)(Stream, PdfFormat, ConvertErrorAction) | قم بتحويل المستند وحفظ الأخطاء في الدفق المحدد. |
-| [Convert](../../aspose.pdf/document/convert#convert_6)(string, PdfFormat, ConvertErrorAction) | قم بتحويل المستند وحفظ الأخطاء في الملف المحدد. |
-| [Convert](../../aspose.pdf/document/convert#convert)(Fixup, Stream, bool, object[]) | تحويل المستند عن طريق تطبيق Fixup . |
-| [Convert](../../aspose.pdf/document/convert#convert_1)(Fixup, string, bool, object[]) | تحويل المستند عن طريق تطبيق Fixup . |
-| [Convert](../../aspose.pdf/document/convert#convert_5)(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | قم بتحويل المستند وحفظ الأخطاء في الملف المحدد. |
-| [Convert](../../aspose.pdf/document/convert#convert_7)(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | قم بتحويل المستند وحفظ الأخطاء في الملف المحدد. |
-| [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream)(Page) | قم بتحويل الصفحة إلى PNG لدفق صور DSR و OMR و OCR. |
-| [Decrypt](../../aspose.pdf/document/decrypt)() | يفك تشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند. |
-| [Dispose](../../aspose.pdf/document/dispose)() | يتم إغلاق كافة الموارد المستخدمة بواسطة هذا المستند. |
-| [Encrypt](../../aspose.pdf/document/encrypt#encrypt_1)(string, string, Permissions, CryptoAlgorithm) | لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند. |
-| [Encrypt](../../aspose.pdf/document/encrypt#encrypt)(string, string, DocumentPrivilege, CryptoAlgorithm, bool) | لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند. |
-| [Encrypt](../../aspose.pdf/document/encrypt#encrypt_2)(string, string, Permissions, CryptoAlgorithm, bool) | لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند. |
-| [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf#exportannotationstoxfdf)(Stream) | قم بتصدير كافة التعليقات التوضيحية للمستند إلى تدفق . |
-| [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf#exportannotationstoxfdf_1)(string) | تصدير كافة التعليقات التوضيحية للمستند إلى ملف XFDF file |
-| [Flatten](../../aspose.pdf/document/flatten#flatten)() | يزيل كل الحقول من المستند ويضع قيمها بدلاً من ذلك. |
-| [Flatten](../../aspose.pdf/document/flatten#flatten_1)(FlattenSettings) | يزيل كل الحقول من المستند ويضع قيمها بدلاً من ذلك. |
-| [FreeMemory](../../aspose.pdf/document/freememory)() | مسح الذاكرة |
-| [GetCatalogValue](../../aspose.pdf/document/getcatalogvalue)(string) | إرجاع قيمة العنصر من قاموس الكتالوج. |
-| [GetObjectById](../../aspose.pdf/document/getobjectbyid)(string) | الحصول على كائن بمعرف محدد في المستند. |
-| [GetXmpMetadata](../../aspose.pdf/document/getxmpmetadata)(Stream) | احصل على بيانات تعريف XMP من المستند . |
-| [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf#importannotationsfromxfdf)(Stream) | يتم استيراد التعليقات التوضيحية من التدفق إلى المستند . |
-| [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf#importannotationsfromxfdf_1)(string) | يتم استيراد التعليقات التوضيحية من ملف XFDF إلى المستند. |
-| [Optimize](../../aspose.pdf/document/optimize)() | جعل المستند خطيًا من أجل - افتح الصفحة الأولى في أسرع وقت ممكن - اعرض الصفحة التالية أو اتبع الرابط للصفحة التالية بأسرع ما يمكن - اعرض الصفحة بشكل متزايد فور وصولها عند تسليم بيانات الصفحة عبر قناة بطيئة (اعرض البيانات الأكثر فائدة أولاً) - السماح بتفاعل المستخدم ، مثل اتباع ارتباط ، ليتم تنفيذه حتى قبل استلام الصفحة بالكامل وعرضها. لا يؤدي استدعاء هذه الطريقة إلى حفظ المستند فعليًا . على العكس من ذلك ، يتم إعداد المستند فقط للحصول على بنية محسّنة ، استدعاء ثم حفظ للحصول على مستند محسن . |
-| [OptimizeResources](../../aspose.pdf/document/optimizeresources#optimizeresources)() | تحسين الموارد في المستند: 1. تتم إزالة الموارد غير المستخدمة في صفحات المستند 2. يتم ربط الموارد المتساوية في كائن واحد 3. يتم حذف الكائنات غير المستخدمة. |
-| [OptimizeResources](../../aspose.pdf/document/optimizeresources#optimizeresources_1)(OptimizationOptions) | تحسين الموارد في المستند وفقًا لإستراتيجية التحسين المحددة. |
-| [ProcessParagraphs](../../aspose.pdf/document/processparagraphs)() | معالجة الفقرات للمولد. |
-| [RemoveMetadata](../../aspose.pdf/document/removemetadata)() | يزيل البيانات الأولية من المستند. |
-| [RemovePdfaCompliance](../../aspose.pdf/document/removepdfacompliance)() | إزالة الامتثال pdfa من المستند |
-| [RemovePdfUaCompliance](../../aspose.pdf/document/removepdfuacompliance)() | إزالة التوافق مع pdfUa من المستند |
-| [Repair](../../aspose.pdf/document/repair)() | إصلاح المستند التالف. |
-| [Save](../../aspose.pdf/document/save#save)() | احفظ المستند بشكل متزايد (أي باستخدام تقنية التحديث المتزايد) . |
-| [Save](../../aspose.pdf/document/save#save_1)(SaveOptions) | يحفظ المستند مع خيارات الحفظ . |
-| [Save](../../aspose.pdf/document/save#save_2)(Stream) | يخزن المستند في التدفق . |
-| [Save](../../aspose.pdf/document/save#save_5)(string) | يحفظ المستند في الملف المحدد. |
-| [Save](../../aspose.pdf/document/save#save_3)(Stream, SaveFormat) | يحفظ المستند باسم جديد مع تنسيق ملف. |
-| [Save](../../aspose.pdf/document/save#save_4)(Stream, SaveOptions) | يحفظ المستند في دفق مع خيارات الحفظ . |
-| [Save](../../aspose.pdf/document/save#save_6)(string, SaveFormat) | يحفظ المستند باسم جديد مع تنسيق ملف. |
-| [Save](../../aspose.pdf/document/save#save_7)(string, SaveOptions) | يحفظ المستند باسم جديد ويضبط خيارات الحفظ الخاصة به. |
-| [Save](../../aspose.pdf/document/save#save_8)(HttpResponse, string, ContentDisposition, SaveOptions) | يحفظ المستند في تدفق استجابة مع خيارات الحفظ. |
-| [SaveXml](../../aspose.pdf/document/savexml)(string) | احفظ المستند بتنسيق XML . |
-| [SendTo](../../aspose.pdf/document/sendto#sendto_2)(DocumentDevice, Stream) | يرسل المستند بأكمله إلى جهاز المستند للمعالجة . |
-| [SendTo](../../aspose.pdf/document/sendto#sendto_3)(DocumentDevice, string) | يرسل المستند بأكمله إلى جهاز المستند للمعالجة . |
-| [SendTo](../../aspose.pdf/document/sendto#sendto)(DocumentDevice, int, int, Stream) | يرسل صفحات معينة من المستند إلى جهاز المستند للمعالجة . |
-| [SendTo](../../aspose.pdf/document/sendto#sendto_1)(DocumentDevice, int, int, string) | يرسل المستند بأكمله إلى جهاز المستند للمعالجة . |
-| [SetTitle](../../aspose.pdf/document/settitle)(string) | تعيين عنوان لـ Pdf Document |
-| [SetXmpMetadata](../../aspose.pdf/document/setxmpmetadata)(Stream) | تعيين البيانات الوصفية للمستند XMP . |
-| [Validate](../../aspose.pdf/document/validate#validate)(PdfFormatConversionOptions) | تحقق من صحة الوثيقة في الملف المحدد. |
-| [Validate](../../aspose.pdf/document/validate#validate_1)(Stream, PdfFormat) | تحقق من صحة الوثيقة في الملف المحدد. |
-| [Validate](../../aspose.pdf/document/validate#validate_2)(string, PdfFormat) | تحقق من صحة الوثيقة في الملف المحدد. |
-| static [Convert](../../aspose.pdf/document/convert#convert)(Stream, LoadOptions, Stream, SaveOptions) | يحول الدفق بتنسيق المصدر إلى دفق بتنسيق الوجهة. |
-| static [Convert](../../aspose.pdf/document/convert#convert_1)(Stream, LoadOptions, string, SaveOptions) | يحول الدفق بتنسيق المصدر إلى ملف الوجهة بتنسيق الوجهة. |
-| static [Convert](../../aspose.pdf/document/convert#convert_2)(string, LoadOptions, Stream, SaveOptions) | يحول الملف المصدر بتنسيق المصدر إلى دفق بتنسيق الوجهة. |
-| static [Convert](../../aspose.pdf/document/convert#convert_3)(string, LoadOptions, string, SaveOptions) | يحول الملف المصدر بتنسيق المصدر إلى ملف الوجهة بتنسيق الوجهة. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments)(params Document[]) | يدمج الوثائق. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_3)(params string[]) | يدمج ملفات PDF. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_1)(MergeOptions, params Document[]) | يدمج الوثائق. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_2)(MergeOptions, params string[]) | يدمج الوثائق. |
+| [BindXml](../../aspose.pdf/document/bindxml/#bindxml)(Stream) | يربط XML بالوثيقة |
+| [BindXml](../../aspose.pdf/document/bindxml/#bindxml_3)(string) | يربط XML بالوثيقة |
+| [BindXml](../../aspose.pdf/document/bindxml/#bindxml_1)(Stream, Stream) | يربط XML/XSL بالوثيقة |
+| [BindXml](../../aspose.pdf/document/bindxml/#bindxml_4)(string, string) | يربط XML/XSL بالوثيقة |
+| [BindXml](../../aspose.pdf/document/bindxml/#bindxml_2)(Stream, Stream, XmlReaderSettings) | يربط XML/XSL بالوثيقة |
+| [ChangePasswords](../../aspose.pdf/document/changepasswords/)(string, string, string) | يغير كلمات مرور الوثيقة. يمكن تنفيذ هذا الإجراء فقط باستخدام كلمة مرور المالك. |
+| [Check](../../aspose.pdf/document/check/)(bool) | يتحقق من صحة الوثيقة. |
+| [Convert](../../aspose.pdf/document/convert/#convert_2)(PdfFormatConversionOptions) | يحول الوثيقة باستخدام خيارات التحويل المحددة |
+| [Convert](../../aspose.pdf/document/convert/#convert_3)(CallBackGetHocr, bool) | يتعرف على الصور داخل الوثيقة ويضيف سلاسل hocr فوقها. |
+| [Convert](../../aspose.pdf/document/convert/#convert_4)(CallBackGetHocrWithPage, bool) | يتعرف على الصور داخل الوثيقة ويضيف سلاسل hocr فوقها. |
+| [Convert](../../aspose.pdf/document/convert/#convert_5)(Stream, PdfFormat, ConvertErrorAction) | يحول الوثيقة ويحفظ الأخطاء في الدفق المحدد. |
+| [Convert](../../aspose.pdf/document/convert/#convert_7)(string, PdfFormat, ConvertErrorAction) | يحول الوثيقة ويحفظ الأخطاء في الملف المحدد. |
+| [Convert](../../aspose.pdf/document/convert/#convert)(Fixup, Stream, bool, object[]) | يحول الوثيقة عن طريق تطبيق الإصلاح. |
+| [Convert](../../aspose.pdf/document/convert/#convert_1)(Fixup, string, bool, object[]) | يحول الوثيقة عن طريق تطبيق الإصلاح. |
+| [Convert](../../aspose.pdf/document/convert/#convert_6)(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | يحول الوثيقة ويحفظ الأخطاء في الملف المحدد. |
+| [Convert](../../aspose.pdf/document/convert/#convert_8)(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | يحول الوثيقة ويحفظ الأخطاء في الملف المحدد. |
+| [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream/)(Page) | يحول الصفحة إلى PNG لدفق صورة DSR، OMR، OCR. |
+| [Decrypt](../../aspose.pdf/document/decrypt/)() | يفك تشفير الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المفككة من الوثيقة. |
+| [Dispose](../../aspose.pdf/document/dispose/)() | يغلق جميع الموارد المستخدمة بواسطة هذه الوثيقة. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_1)(string, string, Permissions, CryptoAlgorithm) | يشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt)(string, string, DocumentPrivilege, CryptoAlgorithm, bool) | يشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_2)(string, string, Permissions, CryptoAlgorithm, bool) | يشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة. |
+| [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf)(Stream) | يصدر جميع تعليقات الوثيقة إلى الدفق. |
+| [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf_1)(string) | يصدر جميع تعليقات الوثيقة إلى ملف XFDF |
+| [Flatten](../../aspose.pdf/document/flatten/#flatten)() | يزيل جميع الحقول من الوثيقة ويضع قيمها بدلاً منها. |
+| [Flatten](../../aspose.pdf/document/flatten/#flatten_1)(FlattenSettings) | يزيل جميع الحقول (والتعليقات) من الوثيقة ويضع قيمها بدلاً منها. |
+| [FlattenTransparency](../../aspose.pdf/document/flattentransparency/)() | يستبدل المحتوى الشفاف برسومات نقطية وبيانية غير شفافة. |
+| [FreeMemory](../../aspose.pdf/document/freememory/)() | Clears memory |
+| [GetCatalogValue](../../aspose.pdf/document/getcatalogvalue/)(string) | Returns item value from catalog dictionary. |
+| [GetObjectById](../../aspose.pdf/document/getobjectbyid/)(string) | يحصل على كائن بالمعرف المحدد في الوثيقة. |
+| [GetXmpMetadata](../../aspose.pdf/document/getxmpmetadata/)(Stream) | يحصل على بيانات التعريف XMP من الوثيقة. |
+| [HasIncrementalUpdate](../../aspose.pdf/document/hasincrementalupdate/)() | يتحقق مما إذا كانت وثيقة PDF الحالية قد تم حفظها مع تحديثات تدريجية. |
+| [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf)(Stream) | يستورد التعليقات من الدفق إلى الوثيقة. |
+| [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf_1)(string) | يستورد التعليقات من ملف XFDF إلى الوثيقة. |
+| [IsRepairNeeded](../../aspose.pdf/document/isrepairneeded/)(out RepairOptions) | يتحقق مما إذا كانت الوثيقة تتطلب استدعاء طريقة الإصلاح. |
+| [LoadFrom](../../aspose.pdf/document/loadfrom/)(string, LoadOptions) | يحمل ملفًا، محولًا إياه إلى PDF. |
+| [Merge](../../aspose.pdf/document/merge/#merge)(params Document[]) | يدمج الوثائق. |
+| [Merge](../../aspose.pdf/document/merge/#merge_3)(params string[]) | يدمج ملفات PDF. |
+| [Merge](../../aspose.pdf/document/merge/#merge_1)(MergeOptions, params Document[]) | يدمج الوثائق. |
+| [Merge](../../aspose.pdf/document/merge/#merge_2)(MergeOptions, params string[]) | يدمج الوثائق. |
+| [Optimize](../../aspose.pdf/document/optimize/)() | يقوم بتخطيط الوثيقة من أجل - فتح الصفحة الأولى بأسرع ما يمكن؛ - عرض الصفحة التالية أو الانتقال إلى الرابط إلى الصفحة التالية بأسرع ما يمكن؛ - عرض الصفحة بشكل تدريجي عند وصول البيانات لصفحة ما عبر قناة بطيئة (عرض البيانات الأكثر فائدة أولاً)؛ - السماح بالتفاعل مع المستخدم، مثل اتباع رابط، ليتم تنفيذه حتى قبل أن يتم استلام الصفحة بالكامل وعرضها. استدعاء هذه الطريقة لا يحفظ الوثيقة فعليًا. على العكس، يتم إعداد الوثيقة فقط للحصول على هيكل محسن، اتصل بعد ذلك بـ Save للحصول على وثيقة محسنة. |
+| [OptimizeResources](../../aspose.pdf/document/optimizeresources/#optimizeresources)() | تحسين الموارد في الوثيقة: 1. يتم إزالة الموارد التي لا تستخدم في صفحات الوثيقة؛ 2. يتم دمج الموارد المتساوية في كائن واحد؛ 3. يتم حذف الكائنات غير المستخدمة. |
+| [OptimizeResources](../../aspose.pdf/document/optimizeresources/#optimizeresources_1)(OptimizationOptions) | تحسين الموارد في الوثيقة وفقًا لاستراتيجية التحسين المحددة. |
+| [PageNodesToBalancedTree](../../aspose.pdf/document/pagenodestobalancedtree/)(byte) | ينظم عقد شجرة الصفحة في الوثيقة في شجرة متوازنة. فقط إذا كانت الوثيقة تحتوي على أكثر من nodesNumInSubtrees كائنات صفحة، وإلا فلا تفعل شيئًا. لا تستدعي هذه الطريقة أثناء التكرار على عناصر Pages، فقد تعطي نتائج غير متوقعة |
+| [ProcessParagraphs](../../aspose.pdf/document/processparagraphs/)() | معالجة الفقرات للمولد. |
+| [RemoveMetadata](../../aspose.pdf/document/removemetadata/)() | يزيل بيانات التعريف من الوثيقة. |
+| [RemovePdfaCompliance](../../aspose.pdf/document/removepdfacompliance/)() | يزيل التوافق مع pdfa من الوثيقة |
+| [RemovePdfUaCompliance](../../aspose.pdf/document/removepdfuacompliance/)() | يزيل التوافق مع pdfUa من الوثيقة |
+| [Repair](../../aspose.pdf/document/repair/)(RepairOptions) | يقوم بإصلاح الوثيقة التالفة. |
+| [Save](../../aspose.pdf/document/save/#save)() | يحفظ الوثيقة بشكل تدريجي (أي باستخدام تقنية التحديث التدريجي). |
+| [Save](../../aspose.pdf/document/save/#save_1)(SaveOptions) | يحفظ الوثيقة مع خيارات الحفظ. |
+| [Save](../../aspose.pdf/document/save/#save_2)(Stream) | يخزن الوثيقة في الدفق. |
+| [Save](../../aspose.pdf/document/save/#save_5)(string) | يحفظ الوثيقة في الملف المحدد. |
+| [Save](../../aspose.pdf/document/save/#save_3)(Stream, SaveFormat) | يحفظ الوثيقة باسم جديد مع تنسيق ملف. |
+| [Save](../../aspose.pdf/document/save/#save_4)(Stream, SaveOptions) | يحفظ الوثيقة إلى دفق مع خيارات الحفظ. |
+| [Save](../../aspose.pdf/document/save/#save_6)(string, SaveFormat) | يحفظ الوثيقة باسم جديد مع تنسيق ملف. |
+| [Save](../../aspose.pdf/document/save/#save_7)(string, SaveOptions) | يحفظ الوثيقة باسم جديد مع تعيين خيارات الحفظ الخاصة بها. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_7)(CancellationToken) | يحفظ الوثيقة بشكل تدريجي (أي باستخدام تقنية التحديث التدريجي). |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync)(SaveOptions, CancellationToken) | يحفظ الوثيقة مع خيارات الحفظ. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_3)(Stream, CancellationToken) | يخزن الوثيقة في الدفق. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_6)(string, CancellationToken) | يحفظ الوثيقة في الملف المحدد. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_1)(Stream, SaveFormat, CancellationToken) | يحفظ الوثيقة باسم جديد مع تنسيق ملف. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_2)(Stream, SaveOptions, CancellationToken) | يحفظ الوثيقة إلى دفق مع خيارات الحفظ. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_4)(string, SaveFormat, CancellationToken) | يحفظ الوثيقة باسم جديد مع تنسيق ملف. |
+| [SaveAsync](../../aspose.pdf/document/saveasync/#saveasync_5)(string, SaveOptions, CancellationToken) | يحفظ الوثيقة باسم جديد مع تعيين خيارات الحفظ الخاصة بها. |
+| [SaveXml](../../aspose.pdf/document/savexml/)(string) | يحفظ الوثيقة إلى XML. |
+| [SendTo](../../aspose.pdf/document/sendto/#sendto_2)(DocumentDevice, Stream) | يرسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة. |
+| [SendTo](../../aspose.pdf/document/sendto/#sendto_3)(DocumentDevice, string) | يرسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة. |
+| [SendTo](../../aspose.pdf/document/sendto/#sendto)(DocumentDevice, int, int, Stream) | يرسل صفحات معينة من الوثيقة إلى جهاز الوثيقة للمعالجة. |
+| [SendTo](../../aspose.pdf/document/sendto/#sendto_1)(DocumentDevice, int, int, string) | يرسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة. |
+| [SetTitle](../../aspose.pdf/document/settitle/)(string) | تعيين العنوان لوثيقة PDF |
+| [SetXmpMetadata](../../aspose.pdf/document/setxmpmetadata/)(Stream) | تعيين بيانات التعريف XMP للوثيقة. |
+| [Validate](../../aspose.pdf/document/validate/#validate)(PdfFormatConversionOptions) | تحقق من الوثيقة في الملف المحدد. |
+| [Validate](../../aspose.pdf/document/validate/#validate_1)(Stream, PdfFormat) | تحقق من الوثيقة في الملف المحدد. |
+| [Validate](../../aspose.pdf/document/validate/#validate_2)(string, PdfFormat) | تحقق من الوثيقة في الملف المحدد. |
+| static [Convert](../../aspose.pdf/document/convert/#convert)(Stream, LoadOptions, Stream, SaveOptions) | يحول الدفق في التنسيق المصدر إلى دفق في التنسيق الوجهة. |
+| static [Convert](../../aspose.pdf/document/convert/#convert_1)(Stream, LoadOptions, string, SaveOptions) | يحول الدفق في التنسيق المصدر إلى ملف الوجهة في التنسيق الوجهة. |
+| static [Convert](../../aspose.pdf/document/convert/#convert_2)(string, LoadOptions, Stream, SaveOptions) | يحول الملف المصدر في التنسيق المصدر إلى دفق في التنسيق الوجهة. |
+| static [Convert](../../aspose.pdf/document/convert/#convert_3)(string, LoadOptions, string, SaveOptions) | يحول الملف المصدر في التنسيق المصدر إلى ملف الوجهة في التنسيق الوجهة. |
+| static [SetDefaultFileSizeLimitToMemoryLoading](../../aspose.pdf/document/setdefaultfilesizelimittomemoryloading/)() | يحدد حد حجم الملف لتحميل ملف كامل في الذاكرة إلى القيمة الافتراضية التي تساوي 210 ميغابايت. |
+
+## الحقول
+
+| الاسم | الوصف |
+| --- | --- |
+| const [DefaultNodesNumInSubtrees](../../aspose.pdf/document/defaultnodesnuminsubtrees/) |  |
+
+## الأحداث
+
+| الاسم | الوصف |
+| --- | --- |
+| event [FontSubstitution](../../aspose.pdf/document/fontsubstitution/) | يحدث عندما يتم استبدال خط بخط آخر في الوثيقة. |
 
 ## أعضاء آخرون
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| delegate [CallBackGetHocr](document.callbackgethocr) | إجراء معاودة الاتصال للتعرف على hocr . |
-| delegate [FontSubstitutionHandler](document.fontsubstitutionhandler) | يمثل الطريقة التي ستتعامل مع حدث FontSubstitution. |
-| interface [IDocumentFontUtilities](document.idocumentfontutilities) | يحتوي على وظائف لضبط الخطوط |
+| delegate [CallBackGetHocr](../../aspose.pdf/document.callbackgethocr) |  |
+| delegate [CallBackGetHocrWithPage](../../aspose.pdf/document.callbackgethocrwithpage) |  |
+| delegate [FontSubstitutionHandler](../../aspose.pdf/document.fontsubstitutionhandler) | يمثل الطريقة التي ستتعامل مع حدث استبدال الخط. |
+| interface [IDocumentFontUtilities](../../aspose.pdf/document.idocumentfontutilities) | يحمل الوظائف لضبط الخطوط |
+| class [MergeOptions](../../aspose.pdf/document.mergeoptions) | يمثل الخيارات لطرق الدمج. |
+| class [RepairOptions](../../aspose.pdf/document.repairoptions) | يمثل الخيارات لإصلاح وثيقة PDF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

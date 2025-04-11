@@ -1,14 +1,14 @@
 ---
-title: BorderInfo
-second_title: Aspose.PDF för .NET API Referens
-description: Initierar en ny instans avBorderInfoaspose.pdf/borderinfo class.
+title: BorderInfo.BorderInfo
+second_title: Aspose.PDF for .NET API Reference
+description: BorderInfo-konstruktorn. Initierar en ny instans av BorderInfo-klassen
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
@@ -16,38 +16,38 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Indikerar gränssidornas information. Till exempel: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
-| borderColor | Color | Kantfärgen. |
+| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderColor | Color | Kantens färg. |
 
-### Se även
+### Se Även
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo() {#constructor}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo()
 ```
 
-### Se även
+### Se Även
 
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
@@ -55,20 +55,20 @@ public BorderInfo(BorderSide borderSide)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Indikerar gränssidornas information. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Se även
+### Se Även
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
@@ -76,21 +76,21 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Indikerar gränssidornas information. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Bårdens bredd. |
+| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Bredden på kanten. |
 
-### Se även
+### Se Även
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
@@ -98,23 +98,23 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Indikerar gränssidornas information. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Bårdens bredd. |
-| borderColor | Color | Kantfärgen. |
+| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Bredden på kanten. |
+| borderColor | Color | Kantens färg. |
 
-### Se även
+### Se Även
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Initierar en ny instans av[`BorderInfo`](../../borderinfo) class.
+Initierar en ny instans av [`BorderInfo`](../) klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
@@ -122,15 +122,13 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Indikerar gränssidornas information. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Gränsinformationen. |
+| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | GraphInfo | Kantens information. |
 
-### Se även
+### Se Även
 
-* enum [BorderSide](../../borderside)
-* class [GraphInfo](../../graphinfo)
-* class [BorderInfo](../../borderinfo)
-* namnutrymme [Aspose.Pdf](../../borderinfo)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

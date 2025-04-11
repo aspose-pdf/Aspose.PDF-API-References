@@ -1,80 +1,82 @@
 ---
-title: ParagraphAbsorber
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل كائنًا ماصًا لكائنات بنية الصفحة مثل الأقسام والفقرات. يقوم بالبحث عن أقسام وفقرات من النص ويوفر الوصول إلى المستطيلات والأشكال المتعددة التي تصفها في مساحة إحداثيات النص. يقوم أيضًا بإجراء بحث عن مقاطع نصية ويوفر الوصول إلى نتائج البحث عبرTextFragments مجموعات مجمعة حسب عناصر الهيكل.
+title: Class ParagraphAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.ParagraphAbsorber. تمثل كائن ماص لأشياء هيكل الصفحة مثل الأقسام والفقرات. يقوم بالبحث عن الأقسام والفقرات النصية ويوفر الوصول إلى المستطيلات والأشكال المتعددة التي تصفها في فضاء إحداثيات النص. كما يقوم أيضًا بالبحث عن مقاطع النص ويوفر الوصول إلى نتائج البحث عبر مجموعات TextFragments المجمعة حسب عناصر الهيكل.
 type: docs
-weight: 6850
+weight: 10670
 url: /ar/net/aspose.pdf.text/paragraphabsorber/
 ---
-## ParagraphAbsorber class
+## فئة ParagraphAbsorber
 
-يمثل كائنًا ماصًا لكائنات بنية الصفحة مثل الأقسام والفقرات. يقوم بالبحث عن أقسام وفقرات من النص ويوفر الوصول إلى المستطيلات والأشكال المتعددة التي تصفها في مساحة إحداثيات النص. يقوم أيضًا بإجراء بحث عن مقاطع نصية ويوفر الوصول إلى نتائج البحث عبر!:TextFragments مجموعات مجمعة حسب عناصر الهيكل.
+تمثل كائن ماص لأشياء هيكل الصفحة مثل الأقسام والفقرات. يقوم بالبحث عن الأقسام والفقرات النصية ويوفر الوصول إلى المستطيلات والأشكال المتعددة التي تصفها في فضاء إحداثيات النص. كما يقوم أيضًا بالبحث عن مقاطع النص ويوفر الوصول إلى نتائج البحث عبر !:TextFragments المجمعة حسب عناصر الهيكل.
 
 ```csharp
 public class ParagraphAbsorber
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ParagraphAbsorber](paragraphabsorber#constructor)() | يقوم بتهيئة مثيل جديد لملف[`ParagraphAbsorber`](../paragraphabsorber) الذي يقوم بالبحث عن أقسام / فقرات من المستند أو الصفحة. |
-| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف[`ParagraphAbsorber`](../paragraphabsorber) الذي يقوم بالبحث عن أقسام / فقرات من المستند أو الصفحة. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor)() | يقوم بتهيئة مثيل جديد من `ParagraphAbsorber` الذي يقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_2)(int) | يقوم بتهيئة مثيل جديد من `ParagraphAbsorber` الذي يقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_1)(ParagraphAbsorberOptions) | يقوم بتهيئة مثيل جديد من `ParagraphAbsorber` الذي يقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة مع المعلمات المحددة. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_3)(int, ParagraphAbsorberOptions) | يقوم بتهيئة مثيل جديد من `ParagraphAbsorber` الذي يقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة مع المعلمات المحددة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | الحصول على قيمة أو تعيينها تشير إلى ما إذا كان من الممكن معاملة سطور نص البداية للقسم التالي على أنها استمرار للفقرة الأخيرة من القسم السابق. |
-| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | يحصل على مجموعة من[`PageMarkup`](../pagemarkup) التي تم استيعابها. |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | الحصول على أو تعيين قيمة ترشد إلى عدد المرات التي سيتم فيها إجراء عمليات بحث متسلسلة عن المزيد من العناصر الدقيقة للبنية. عمق البحث الافتراضي هو 3. وهذا يعني ثلاث عمليات بحث عن أقسام مقسمة أفقيًا (رؤوس ، فقرات ، إلخ) وثلاث عمليات بحث عن تقسيم رأسيًا الآحاد (الأعمدة) . |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/) { get; set; } | يحصل أو يحدد القيمة التي تشير إلى ما إذا كانت خطوط النص التي تبدأ في قسم جديد يمكن اعتبارها استمرارًا للفقرة الأخيرة من القسم السابق. |
+| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups/) { get; } | يحصل على مجموعة من [`PageMarkup`](../pagemarkup/) التي تم امتصاصها. |
+| [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | يحصل أو يحدد خيارات ParagraphAbsorber. |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | يحصل أو يحدد القيمة التي تو instructs عدد مرات البحث المتسلسل عن عناصر الهيكل الأكثر دقة. عمق البحث الافتراضي هو 3. وهذا يعني ثلاث عمليات بحث عن الأقسام المقسمة أفقيًا (العناوين، الفقرات، إلخ) وثلاث عمليات بحث عن الأقسام المقسمة عموديًا (الأعمدة). |
+| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | يحصل أو يحدد خيارات TextReplace. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | يقوم بالبحث عن الأقسام والفقرات المحددة[`Document`](../../aspose.pdf/document) . |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | يقوم بالبحث على الملف المحدد[`Page`](../../aspose.pdf/page) . |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit)(Document) | يقوم بالبحث عن الأقسام والفقرات في [`Document`](../../aspose.pdf/document/). |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit_1)(Page) | يقوم بالبحث في [`Page`](../../aspose.pdf/page/). |
 
-### ملاحظات
+## ملاحظات
 
-عند اكتمال البحث ، يتم عرض ملف[`PageMarkups`](./pagemarkups) سوف تحتوي المجموعة[`PageMarkup`](../pagemarkup) كائنات تمثل بنية الصفحة من خلال مجموعات من[`MarkupSection`](../markupsection) و[`MarkupParagraph`](../markupparagraph) . ملف[`TextFragment`](../textfragment) يوفر الكائن الوصول إلى نص ورود البحث وخصائص النص ويسمح بتحرير النص وتغيير حالة النص (الخط وحجم الخط واللون وما إلى ذلك).
+عند الانتهاء من البحث، ستحتوي مجموعة [`PageMarkups`](./pagemarkups/) على كائنات [`PageMarkup`](../pagemarkup/) التي تمثل هيكل الصفحة من خلال مجموعات [`MarkupSection`](../markupsection/) و[`MarkupParagraph`](../markupparagraph/). يوفر كائن [`TextFragment`](../textfragment/) الوصول إلى نص حدوث البحث، وخصائص النص، ويسمح بتحرير النص وتغيير حالة النص (الخط، حجم الخط، اللون، إلخ).
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية العثور على أول مقطع نصي لكل فقرة في صفحة مستند PDF الأولى وتمييزه.
+توضح المثال كيفية العثور على أول مقطع نصي من كل فقرة في الصفحة الأولى من مستند PDF وتظليله.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document("input.pdf");
 
-// إنشاء كائن ParagraphAbsorber
+// Create ParagraphAbsorber object
 ParagraphAbsorber absorber = new ParagraphAbsorber();
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 absorber.Visit(doc.Pages[1]);
 
-// احصل على كائن الترميز للصفحة الأولى
+// Get markup object of first page
 PageMarkup markup = absorber.PageMarkups[0];
 
-// التكرار خلال عناصر هيكل نص الصفحة للعثور على أول جزء من كل فقرة
+// Loop through structure elements of the page text to find first text fragment of each paragraph
 foreach (MarkupSection section in markup.Sections)
 {
     foreach (MarkupParagraph paragraph in section.Paragraphs)
     {
         TextFragment fragment = paragraph.Fragments[0];
-        // تحديث خصائص النص
+        // Update text properties
         fragment.TextState.BackgroundColor = Color.LightBlue;
     }
 }
 
-// حفظ الوثيقة
+// Save document
 doc.Save(GetOutputPath("output.pdf"));
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* التجميع [Aspose.PDF](../../)

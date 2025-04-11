@@ -1,57 +1,58 @@
 ---
-title: SetAdvancedColor
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة تمثل عامل scn ضبط اللون للعمليات غير الممسوكة .
+title: Class SetAdvancedColor
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Operators.SetAdvancedColor. فئة تمثل مشغل scn لتعيين اللون للعمليات غير المرسومة
 type: docs
-weight: 5320
+weight: 7560
 url: /ar/net/aspose.pdf.operators/setadvancedcolor/
 ---
 ## SetAdvancedColor class
 
-فئة تمثل عامل scn (ضبط اللون للعمليات غير الممسوكة) .
+فئة تمثل مشغل scn (تعيين اللون للعمليات غير المرسومة).
 
 ```csharp
 public class SetAdvancedColor : BasicSetColorAndPatternOperator
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [SetAdvancedColor](setadvancedcolor#constructor)() | تهيئة المشغل . |
-| [SetAdvancedColor](setadvancedcolor#constructor_1)(double) | مُنشئ لمشغل SCN . |
-| [SetAdvancedColor](setadvancedcolor#constructor_4)(double, string) | مُنشئ لمشغل SCN . |
-| [SetAdvancedColor](setadvancedcolor#constructor_3)(double, double, double, string) | مُنشئ لمشغل SCN . |
-| [SetAdvancedColor](setadvancedcolor#constructor_2)(double, double, double, double, string) | مُنشئ لمشغل SCN . |
+| [SetAdvancedColor](setadvancedcolor/#constructor)() | يقوم بتهيئة المشغل. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_1)(double) | مُنشئ لمشغل scn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_6)(string) | مُنشئ لمشغل scn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_4)(double, string) | مُنشئ لمشغل scn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_5)(double[], string) | مُنشئ لمشغل scn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_3)(double, double, double, string) | مُنشئ لمشغل scn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_2)(double, double, double, double, string) | مُنشئ لمشغل scn. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | يحصل على مكون أحمر من color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | الحصول على مكون سماوي من لون CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | يحصل على مصفوفة من مكونات اللون . |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | الحصول على مكون أخضر من color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | يحصل على مكون أسود من اللون الرمادي. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | فهرس المشغل في قائمة مشغلي الصفحات . |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | يحصل على مكون أسود من لون CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | الحصول على مكون أرجواني من لون CMYK. |
-| [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname) { get; } | الحصول على اسم النموذج . |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | يحصل على مكون أحمر من color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | الحصول على المكون الأصفر من لون CMYK. |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b/) { get; } | يحصل على مكون اللون الأحمر |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | يحصل على مكون السيان من لون CMYK. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكونات اللون. |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | يحصل على مكون اللون الأخضر |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على مكون اللون الأسود من اللون الرمادي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | يحصل على مكون اللون الأسود من CMYK. |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | يحصل على مكون اللون الأرجواني من CMYK. |
+| [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | يحصل على اسم النمط. |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | يحصل على مكون اللون الأحمر |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | يحصل على مكون اللون الأصفر من CMYK. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept)(IOperatorSelector) | يقبل كائن الزائر بمعالجة عامل التشغيل. |
-| override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor)() | إرجاع اللون المحدد بواسطة عامل التشغيل . |
-| override [ToString](../../aspose.pdf/operator/tostring)() | إرجاع نص عامل التشغيل ومعلماته . |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
+| override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | يعيد اللون المحدد بواسطة المشغل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
 
-### أنظر أيضا
+### See Also
 
-* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator)
-* مساحة الاسم [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)

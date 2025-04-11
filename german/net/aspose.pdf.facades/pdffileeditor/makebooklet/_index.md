@@ -1,14 +1,14 @@
 ---
-title: MakeBooklet
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Erstellt eine Broschüre aus der Eingabedatei in die Ausgabedatei.
+title: PdfFileEditor.MakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Erstellt ein Booklet aus der Eingabedatei in die Ausgabedatei
 type: docs
-weight: 330
+weight: 300
 url: /de/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
-Erstellt eine Broschüre aus der Eingabedatei in die Ausgabedatei.
+Erstellt ein Booklet aus der Eingabedatei in die Ausgabedatei.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
@@ -16,14 +16,14 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Geben Sie Pfad und Namen der PDF-Datei ein. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
+| inputFile | String | Pfad und Name der Eingabe-PDF-Datei. |
+| outputFile | String | Pfad und Name der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -32,15 +32,15 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
-Erstellt eine Broschüre vom InputStream zum OutputStream.
+Erstellt ein Booklet aus dem InputStream in den outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
@@ -48,14 +48,14 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | PDF-Stream eingeben. |
-| outputStream | Stream | PDF-Stream ausgeben. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabepdf-Stream. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -66,15 +66,15 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-Erstellt eine Broschüre aus der Eingabedatei in die Ausgabedatei.
+Erstellt ein Booklet aus der inputFile in die outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -82,15 +82,15 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Geben Sie Pfad und Namen der PDF-Datei ein. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| inputFile | String | Pfad und Name der Eingabe-PDF-Datei. |
+| outputFile | String | Pfad und Name der Ausgabepdf-Datei. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich ist.
+Wahr, wenn die Operation erfolgreich war.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -99,16 +99,16 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
-Erstellt eine Broschüre aus dem Eingabestrom und speichert das Ergebnis im Ausgabestrom.
+Erstellt ein Booklet aus dem Eingabestream und speichert das Ergebnis im Ausgabestream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
@@ -116,15 +116,15 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | PDF-Stream eingeben. |
-| outputStream | Stream | PDF-Stream ausgeben. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabepdf-Stream. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -135,16 +135,16 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-Erstellt ein benutzerdefiniertes Booklet von der ersten Eingabedatei bis zur Ausgabedatei.
+Erstellt ein angepasstes Booklet aus der firstInputFile in die outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -153,15 +153,15 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | inputFile | String | Die Eingabedatei. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
-| leftPages | Int32[] | Die linken Seiten des Heftes. |
-| rightPages | Int32[] | Die rechten Seiten des Heftes. |
+| outputFile | String | Pfad und Name der Ausgabepdf-Datei. |
+| leftPages | Int32[] | Die linken Seiten des Booklets. |
+| rightPages | Int32[] | Die rechten Seiten des Booklets. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -170,15 +170,15 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-Erstellt ein benutzerdefiniertes Booklet vom firstInputStream bis zum outputStream.
+Erstellt ein angepasstes Booklet aus dem firstInputStream in den outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
@@ -186,16 +186,16 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Der Eingabestrom. |
-| outputStream | Stream | PDF-Stream ausgeben. |
+| inputStream | Stream | Der Eingabestream. |
+| outputStream | Stream | Ausgabepdf-Stream. |
 | leftPages | Int32[] | Die linken Seiten. |
-| rightPages | Int32[] | Die richtigen Seiten. |
+| rightPages | Int32[] | Die rechten Seiten. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -206,15 +206,15 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-Erstellt ein benutzerdefiniertes Booklet von der ersten Eingabedatei bis zur Ausgabedatei.
+Erstellt ein angepasstes Booklet aus der firstInputFile in die outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -224,16 +224,16 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | inputFile | String | Die Eingabedatei. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| outputFile | String | Pfad und Name der Ausgabepdf-Datei. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 | leftPages | Int32[] | Die linken Seiten. |
-| rightPages | Int32[] | Die richtigen Seiten. |
+| rightPages | Int32[] | Die rechten Seiten. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -242,16 +242,16 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-Erstellt ein Booklet vom firstInputStream bis zum outputStream.
+Erstellt ein Booklet aus dem firstInputStream in den outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -260,17 +260,17 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Der Eingabestrom. |
-| outputStream | Stream | PDF-Stream ausgeben. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| inputStream | Stream | Der Eingabestream. |
+| outputStream | Stream | Ausgabepdf-Stream. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 | leftPages | Int32[] | Die linken Seiten. |
-| rightPages | Int32[] | Die richtigen Seiten. |
+| rightPages | Int32[] | Die rechten Seiten. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -281,12 +281,11 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
----
 
 ## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
 
@@ -299,28 +298,28 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, in
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Quelldateipfad. |
+| inputFile | String | Pfad zur Quelldatei. |
 | pageSize | PageSize | Gewünschte Seitengröße. |
-| leftPages | Int32[] | Array von Seitenzahlen, die links platziert werden sollen. |
-| rightPages | Int32[] | Array von Seitenzahlen, die rechts platziert werden sollen. |
+| leftPages | Int32[] | Array von Seitennummern, die links platziert werden sollen. |
+| rightPages | Int32[] | Array von Seitennummern, die rechts platziert werden sollen. |
 | response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
 
-Broschüre aus PDF-Datei erstellen und in HttpResponse speichern.
+Erstellt ein Booklet aus der PDF-Datei und speichert es in HttpResponse.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
@@ -329,22 +328,22 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Dokumentstrom eingeben. |
+| inputStream | Stream | Eingabedokumentenstream. |
 | pageSize | PageSize | Gewünschte Seitengröße. |
-| leftPages | Int32[] | Array von Seitenzahlen, die links platziert werden. |
-| rightPages | Int32[] | Array von Seitenzahlen, die rechts platziert werden. |
+| leftPages | Int32[] | Array von Seitennummern, die links platziert werden. |
+| rightPages | Int32[] | Array von Seitennummern, die rechts platziert werden. |
 | response | HttpResponse | HttpResponse-Objekt. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -358,20 +357,20 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse respon
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Quelldateipfad. |
+| inputFile | String | Pfad zur Quelldatei. |
 | pageSize | PageSize | Gewünschte Seitengröße in der Ausgabedatei. |
 | response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich ist.
+Wahr, wenn die Operation erfolgreich war.
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -385,19 +384,17 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse resp
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Dokumentstrom eingeben. |
+| inputStream | Stream | Eingabedokumentenstream. |
 | pageSize | PageSize | Gewünschte Seitengröße in der Ausgabedatei. |
-| response | HttpResponse | Response-Objekt, in dem das Ergebnis gespeichert wird. |
+| response | HttpResponse | Respose-Objekt, in dem das Ergebnis gespeichert wird. |
 
 ### Rückgabewert
 
-true, wenn das Booklet erfolgreich erstellt wurde.
+wahr, wenn das Booklet erfolgreich erstellt wurde.
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

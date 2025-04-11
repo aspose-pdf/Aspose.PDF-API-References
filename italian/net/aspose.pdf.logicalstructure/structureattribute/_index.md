@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute
-second_title: Aspose.PDF per .NET API Reference
-description: Rappresenta lattributo dellelemento della struttura.
+title: Class StructureAttribute
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.LogicalStructure.StructureAttribute. Rappresenta l'attributo di un elemento di struttura
 type: docs
-weight: 4500
+weight: 6670
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/
 ---
-## StructureAttribute class
+## Classe StructureAttribute
 
-Rappresenta l'attributo dell'elemento della struttura.
+Rappresenta l'attributo di un elemento di struttura.
 
 ```csharp
 public class StructureAttribute
@@ -18,35 +18,34 @@ public class StructureAttribute
 
 | Nome | Descrizione |
 | --- | --- |
-| [StructureAttribute](structureattribute)(AttributeKey) | Inizializza una nuova istanza di StructureAttribute. |
+| [StructureAttribute](structureattribute/)(AttributeKey) | Inizializza una nuova istanza di StructureAttribute. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsInitializedValue](../../aspose.pdf.logicalstructure/structureattribute/isinitializedvalue) { get; } | Ottiene lo stato del valore dell'attributo della struttura. Vero se il valore è impostato. |
-| [Key](../../aspose.pdf.logicalstructure/structureattribute/key) { get; } | Ottiene la chiave dell'attributo. |
+| [IsInitializedValue](../../aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/) { get; } | Ottiene lo stato del valore dell'attributo di struttura. Vero se il valore è impostato. |
+| [Key](../../aspose.pdf.logicalstructure/structureattribute/key/) { get; } | Ottiene la chiave dell'attributo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue)() | Ottiene la matrice del numero del valore. |
-| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue)() | Ottiene la matrice del nome del valore. |
-| [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue)() | Ottiene il nome del valore. |
-| [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue)() | Ottiene numero valore. |
-| [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue)() | Ottiene la stringa di valore. |
-| [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue)(double?[]) |  |
-| [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue)(AttributeName[]) | Imposta la matrice del nome del valore. |
-| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue)(Color) | Imposta il colore del valore. |
-| [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue)(AttributeName) | Imposta il nome del valore. |
-| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue)(double) | Imposta numero valore. |
-| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue)(Rectangle) | Imposta il valore del rettangolo. |
-| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue)(string) | Imposta la stringa di valori. |
+| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/)() | Ottiene l'array di numeri di valore. |
+| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue/)() | Ottiene l'array di nomi di valore. |
+| [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue/)() | Ottiene il nome del valore. |
+| [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue/)() | Ottiene il numero di valore. |
+| [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue/)() | Ottiene la stringa di valore. |
+| [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/)(double?[]) |  |
+| [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue/)(AttributeName[]) | Imposta l'array di nomi di valore. |
+| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue/)(Color) | Imposta il colore di valore. |
+| [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue/)(AttributeName) | Imposta il nome di valore. |
+| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue/)(double) | Imposta il numero di valore. |
+| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/)(Rectangle) | Imposta il rettangolo di valore. |
+| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue/)(string) | Imposta la stringa di valore. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureattribute/tostring/)() |  |
 
-### Guarda anche
+### Vedi Anche
 
-* spazio dei nomi [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

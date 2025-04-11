@@ -1,14 +1,14 @@
 ---
-title: TryDelete
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Löscht durch Nummerarray angegebene Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+title: PdfFileEditor.TryDelete
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Löscht Seiten, die durch ein Zahlenarray aus der Eingabedatei angegeben sind, und speichert sie als neue Pdf-Datei
 type: docs
-weight: 430
+weight: 400
 url: /de/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
-## TryDelete(string, int[], string) {#trydelete_2}
+## TryDelete(string, int[], string) {#trydelete_1}
 
-Löscht durch Nummerarray angegebene Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+Löscht Seiten, die durch ein Zahlenarray aus der Eingabedatei angegeben sind, und speichert sie als neue Pdf-Datei.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,19 +16,19 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Pfad der Eingabedatei. |
+| inputFile | String | Pfad zur Eingabedatei. |
 | pageNumber | Int32[] | Index der Seite aus der Eingabedatei. |
-| outputFile | String | Pfad der Ausgabedatei. |
+| outputFile | String | Pfad zur Ausgabedatei. |
 
 ### Rückgabewert
 
-true, wenn der Vorgang erfolgreich abgeschlossen wurde; andernfalls falsch.
+true, wenn die Operation erfolgreich abgeschlossen wurde; andernfalls false.
 
-### Bemerkungen
+## Anmerkungen
 
-Die TryDelete-Methode ist wie die Delete-Methode, außer dass die TryDelete -Methode keine Ausnahme auslöst, wenn der Vorgang fehlschlägt.
+Die TryDelete-Methode ist wie die Delete-Methode, mit dem Unterschied, dass die TryDelete-Methode keine Ausnahme auslöst, wenn die Operation fehlschlägt.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -37,15 +37,15 @@ bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-Löscht durch Nummerarray angegebene Seiten aus der Eingabedatei und speichert sie als neue PDF-Datei.
+Löscht Seiten, die durch ein Zahlenarray aus der Eingabedatei angegeben sind, und speichert sie als neue Pdf-Datei.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -53,19 +53,19 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Eingabedatei Stream. |
+| inputStream | Stream | Eingabedatei-Stream. |
 | pageNumber | Int32[] | Index der Seite aus der Eingabedatei. |
-| outputStream | Stream | Dateistream ausgeben. |
+| outputStream | Stream | Ausgabedatei-Stream. |
 
 ### Rückgabewert
 
-Wahr für Erfolg oder falsch.
+True für Erfolg oder false.
 
-### Bemerkungen
+## Anmerkungen
 
-Die TryDelete-Methode ist wie die Delete-Methode, außer dass die TryDelete -Methode keine Ausnahme auslöst, wenn der Vorgang fehlschlägt.
+Die TryDelete-Methode ist wie die Delete-Methode, mit dem Unterschied, dass die TryDelete-Methode keine Ausnahme auslöst, wenn die Operation fehlschlägt.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -76,15 +76,14 @@ bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
----
 
 ## TryDelete(string, int[], HttpResponse) {#trydelete_3}
 
-Löscht angegebene Seiten aus dem Dokument und speichert das Ergebnis im HttpResponse-Objekt.
+Löscht die angegebenen Seiten aus dem Dokument und speichert das Ergebnis im HttpResponse-Objekt.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
@@ -92,29 +91,29 @@ public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Pfad der Quelldatei. |
-| pageNumber | Int32[] | Array von Seitenzahlen, die gelöscht werden müssen. |
+| inputFile | String | Pfad zur Quelldatei. |
+| pageNumber | Int32[] | Array von Seitennummern, die gelöscht werden müssen. |
 | response | HttpResponse | Antwortobjekt, in dem das Ergebnisdokument gespeichert wird. |
 
 ### Rückgabewert
 
-true, wenn der Vorgang erfolgreich abgeschlossen wurde; andernfalls falsch.
+true, wenn die Operation erfolgreich abgeschlossen wurde; andernfalls false.
 
-### Bemerkungen
+## Anmerkungen
 
-Die TryDelete-Methode ist wie die Delete-Methode, außer dass die TryDelete -Methode keine Ausnahme auslöst, wenn der Vorgang fehlschlägt.
+Die TryDelete-Methode ist wie die Delete-Methode, mit dem Unterschied, dass die TryDelete-Methode keine Ausnahme auslöst, wenn die Operation fehlschlägt.
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], HttpResponse) {#trydelete_1}
 
-Löscht bestimmte Seiten aus dem Dokument und speichert das Ergebnis im HttpResponse-Objekt.
+Löscht die angegebenen Seiten aus dem Dokument und speichert das Ergebnis im HttpResponse-Objekt.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse response)
@@ -122,22 +121,20 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse respons
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Quelldokument-Stream. |
-| pageNumber | Int32[] | Array von Seitenzahlen, die gelöscht werden. |
+| inputStream | Stream | Stream des Quelldokuments. |
+| pageNumber | Int32[] | Array von Seitennummern, die gelöscht werden. |
 | response | HttpResponse | HttpResponse-Objekt |
 
 ### Rückgabewert
 
-true, wenn der Vorgang erfolgreich abgeschlossen wurde; andernfalls falsch.
+true, wenn die Operation erfolgreich abgeschlossen wurde; andernfalls false.
 
-### Bemerkungen
+## Anmerkungen
 
-Die TryDelete-Methode ist wie die Delete-Methode, außer dass die TryDelete -Methode keine Ausnahme auslöst, wenn der Vorgang fehlschlägt.
+Die TryDelete-Methode ist wie die Delete-Methode, mit dem Unterschied, dass die TryDelete-Methode keine Ausnahme auslöst, wenn die Operation fehlschlägt.
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

@@ -1,56 +1,56 @@
 ---
-title: CopyOuterField
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Copie un champ existant dun document PDF vers un autre document avec le numéro de page et les ordonnées dorigine. Remarque  Uniquement pour les champs AcroForm hors boîte radio.
+title: FormEditor.CopyOuterField
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode FormEditor. Copie un champ existant d'un document PDF à un autre document avec le numéro de page original et les ordonnées. Remarque : uniquement pour les champs AcroForm (excluant les cases à cocher).
 type: docs
-weight: 200
+weight: 160
 url: /fr/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-Copie un champ existant d'un document PDF vers un autre document avec le numéro de page et les ordonnées d'origine. Remarque : Uniquement pour les champs AcroForm (hors boîte radio).
+Copie un champ existant d'un document PDF à un autre document avec le numéro de page original et les ordonnées. Remarque : uniquement pour les champs AcroForm (excluant les cases à cocher).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | srcFileName | String | Le nom du document PDF qui contient le champ à copier. |
-| fieldName | String | Le nom de champ complet d'origine. |
+| fieldName | String | Le nom de champ entièrement qualifié d'origine. |
 
-### Exemples
+## Exemples
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-//copie le champ de texte de source.pdf vers PdfForm.pdf
+//copies text field from source.pdf to PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [FormEditor](../../formeditor)
-* espace de noms [Aspose.Pdf.Facades](../../formeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Copie un champ existant d'un document PDF vers un autre document avec le numéro de page spécifié et les ordonnées d'origine. Remarque : Uniquement pour les champs AcroForm (à l'exclusion de la boîte radio).
+Copie un champ existant d'un document PDF à un autre document avec le numéro de page spécifié et les ordonnées d'origine. Remarque : uniquement pour les champs AcroForm (excluant les cases à cocher).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | srcFileName | String | Le nom du document PDF qui contient le champ à copier. |
-| fieldName | String | Le nom de champ complet d'origine. |
-| pageNum | Int32 | Le nombre de pages pour contenir le nouveau champ. Si -1, le nouveau champ sera copié sur la même page que l'ancien hébergé. |
+| fieldName | String | Le nom de champ entièrement qualifié d'origine. |
+| pageNum | Int32 | Le numéro de page pour accueillir le nouveau champ. Si -1, le nouveau champ sera copié sur la même page que l'ancien. |
 
-### Exemples
+## Exemples
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
@@ -58,42 +58,40 @@ formEditor.CopyOuterField("source.pdf", "textField", 2);
 formEditor.Save();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [FormEditor](../../formeditor)
-* espace de noms [Aspose.Pdf.Facades](../../formeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Copie un champ existant d'un document PDF vers un autre document avec un numéro de page et des ordonnées spécifiés. Remarque : Uniquement pour les champs AcroForm (à l'exclusion de la boîte radio).
+Copie un champ existant d'un document PDF à un autre document avec le numéro de page spécifié et les ordonnées. Remarque : uniquement pour les champs AcroForm (excluant les cases à cocher).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
     float ordinate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | srcFileName | String | Le nom du document PDF qui contient le champ à copier. |
-| fieldName | String | Le nom de champ complet d'origine. |
-| pageNum | Int32 | Le nombre de pages pour contenir le nouveau champ. Si -1, le nouveau champ sera copié sur la même page que l'ancien hébergé. |
+| fieldName | String | Le nom de champ entièrement qualifié d'origine. |
+| pageNum | Int32 | Le numéro de page pour accueillir le nouveau champ. Si -1, le nouveau champ sera copié sur la même page que l'ancien. |
 | abscissa | Single | L'abscisse du nouveau champ. Si -1, l'abscisse sera égale à celle d'origine. |
 | ordinate | Single | L'ordonnée du nouveau champ. Si -1, l'ordonnée sera égale à celle d'origine. |
 
-### Exemples
+## Exemples
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 ```
 
-### Voir également
+### Voir aussi
 
-* class [FormEditor](../../formeditor)
-* espace de noms [Aspose.Pdf.Facades](../../formeditor)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,99 +1,153 @@
 ---
-title: Add
-second_title: Aspose.PDF for .NET API Referansı
-description: Görüntü listesine yeni görüntü ekler. Bu yöntem görüntüyü aynı PdfObjecte referans olarak ekler dosya boyutunu küçültmeye izin verir
+title: XImageCollection.Add
+second_title: Aspose.PDF for .NET API Reference
+description: XImageCollection metodu. Yeni resmi Resim listesine ekler. Bu yöntem resmi aynı PdfObject'e referans olarak ekler, bu da dosya boyutunu azaltmaya yardımcı olur.
 type: docs
 weight: 70
 url: /tr/net/aspose.pdf/ximagecollection/add/
 ---
-## Add(XImage) {#add}
+## Ekle(XImage) {#add_2}
 
-Görüntü listesine yeni görüntü ekler. Bu yöntem, görüntüyü aynı PdfObject'e referans olarak ekler (dosya boyutunu küçültmeye izin verir)
+Yeni resmi Resim listesine ekler. Bu yöntem resmi aynı PdfObject'e referans olarak ekler (bu da dosya boyutunu azaltmaya yardımcı olur).
 
 ```csharp
 public string Add(XImage image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | XImage | XImage eklenecek. |
+| resim | XImage | Eklenecek XImage. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Eklenen resmin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XImage](../../ximage)
-* class [XImageCollection](../../ximagecollection)
-* ad alanı [Aspose.Pdf](../../ximagecollection)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [XImage](../../ximage/)
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream) {#add_1}
+## Ekle(Stream) {#add_3}
 
-Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler.
+Varlığı koleksiyonun sonuna ekler, böylece varlığa son indeks ile erişilebilir.
 
 ```csharp
 public string Add(Stream image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Stream | Görüntü verilerini içeren akış (JPEG formatında). |
+| resim | Stream | Resim verilerini içeren akış (JPEG formatında). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Eklenen resmin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XImageCollection](../../ximagecollection)
-* ad alanı [Aspose.Pdf](../../ximagecollection)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, ImageFilterType) {#add_2}
+## Ekle(BitmapInfo) {#add}
 
-Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler.
+Varlığı koleksiyonun sonuna ekler, böylece varlığa son indeks ile erişilebilir.
 
 ```csharp
-public void Add(Stream image, ImageFilterType filterType)
+public string Add(BitmapInfo bitmapInfo)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Stream | Görüntü verilerini içeren akış. |
-| filterType | ImageFilterType | Görüntü filtresi türü. |
+| bitmapInfo | BitmapInfo | Piksel dizisi ve bitmap bilgilerini (Genişlik, Yükseklik, PikselFormat) içeren nesne. |
 
-### Ayrıca bakınız
+### Dönüş Değeri
 
-* enum [ImageFilterType](../../imagefiltertype)
-* class [XImageCollection](../../ximagecollection)
-* ad alanı [Aspose.Pdf](../../ximagecollection)
-* toplantı [Aspose.PDF](../../../)
+Eklenen resmin adı.
+
+### Ayrıca Bakınız
+
+* sınıf [BitmapInfo](../../bitmapinfo/)
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, int) {#add_3}
+## Ekle(Stream, ImageFilterType) {#add_4}
 
-Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler.
+Varlığı koleksiyonun sonuna ekler, böylece varlığa son indeks ile erişilebilir.
+
+```csharp
+public string Add(Stream image, ImageFilterType filterType)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| resim | Stream | Resim verilerini içeren akış. |
+| filterType | ImageFilterType | Resim filtre türü. |
+
+### Dönüş Değeri
+
+Eklenen resmin adı.
+
+### Ayrıca Bakınız
+
+* enum [ImageFilterType](../../imagefiltertype/)
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Ekle(BitmapInfo, ImageFilterType) {#add_1}
+
+Varlığı koleksiyonun sonuna ekler, böylece varlığa son indeks ile erişilebilir.
+
+```csharp
+public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bitmapInfo | BitmapInfo | Piksel dizisi ve bitmap bilgilerini (Genişlik, Yükseklik, PikselFormat) içeren nesne. |
+| filterType | ImageFilterType | Resim filtre türü. |
+
+### Dönüş Değeri
+
+Eklenen resmin adı.
+
+### Ayrıca Bakınız
+
+* sınıf [BitmapInfo](../../bitmapinfo/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Ekle(Stream, int) {#add_5}
+
+Varlığı koleksiyonun sonuna ekler, böylece varlığa son indeks ile erişilebilir.
 
 ```csharp
 public void Add(Stream image, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Stream | Görüntü verilerini içeren akış (JPEG formatında). |
-| quality | Int32 | JPEG kalitesi. |
+| resim | Stream | Resim verilerini içeren akış (JPEG formatında). |
+| kalite | Int32 | JPEG kalitesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XImageCollection](../../ximagecollection)
-* ad alanı [Aspose.Pdf](../../ximagecollection)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [XImageCollection](../)
+* ad alanı [Aspose.Pdf](../../../aspose.pdf/)
+* derleme [Aspose.PDF](../../../)

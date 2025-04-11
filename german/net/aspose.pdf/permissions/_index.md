@@ -1,14 +1,14 @@
 ---
-title: Permissions
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Diese Aufzählung repräsentiert die Berechtigungen des Benutzers für ein PDF.
+title: Enum Permissions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Permissions Enum. Dieses Enum repräsentiert die Berechtigungen der Benutzer für ein PDF
 type: docs
-weight: 6110
+weight: 8480
 url: /de/net/aspose.pdf/permissions/
 ---
-## Permissions enumeration
+## Berechtigungen Enumeration
 
-Diese Aufzählung repräsentiert die Berechtigungen des Benutzers für ein PDF.
+Dieses Enum repräsentiert die Berechtigungen des Benutzers für ein PDF.
 
 ```csharp
 [Flags]
@@ -19,18 +19,16 @@ public enum Permissions
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| PrintDocument | `4` | (Security Handler der Revision 2) Drucken Sie das Dokument. (Security Handler der Revision 3 oder höher) Drucken Sie das Dokument (möglicherweise nicht auf der höchsten Qualitätsstufe, abhängig davon, obPrintingQualityist ebenfalls gesetzt). |
-| ModifyContent | `8` | Ändern Sie den Inhalt des Dokuments durch andere Operationen als gesteuert vonModifyTextAnnotations , FillForm , und 11. |
-| ExtractContent | `10` | (Sicherheitshandler der Revision 2) Text und Grafiken aus dem Dokument kopieren oder anderweitig extrahieren, einschließlich des Extrahierens von Text und Grafiken (zur Unterstützung der Zugänglichkeit für Benutzer mit Behinderungen oder für andere Zwecke). (Sicherheitshandler der Revision 3 oder größer) Kopieren oder anderweitig Text und Grafiken aus dem Dokument durch Operationen extrahieren, die nicht von gesteuert werdenExtractContentWithDisabilities . |
-| ModifyTextAnnotations | `20` | Textanmerkungen hinzufügen oder ändern, interaktive Formularfelder ausfüllen, und ggfModifyContent ebenfalls festgelegt ist, erstellen oder ändern Sie interaktive Formularfelder (einschließlich Signaturfelder). |
-| FillForm | `100` | (Sicherheitshandler der Revision 3 oder höher) Füllen Sie vorhandene interaktive Formularfelder (einschließlich Unterschriftsfelder) aus, auch wenn ModifyTextAnnotations ist klar. |
-| ExtractContentWithDisabilities | `200` | (Sicherheitshandler der Revision 3 oder höher) Text und Grafiken extrahieren (zur Unterstützung der Zugänglichkeit für Benutzer mit Behinderungen oder für andere Zwecke). |
-| AssembleDocument | `400` | (Sicherheitshandler der Revision 3 oder höher) Das Dokument zusammenstellen (Seiten einfügen, drehen oder löschen und Lesezeichen oder Miniaturansichten erstellen), selbst wennModifyContent ist klar. |
-| PrintingQuality | `800` | (Sicherheits-Handler der Revision 3 oder höher) Drucken Sie das Dokument an , eine Darstellung, aus der eine originalgetreue digitale Kopie des PDF-Inhalts generiert werden könnte. Wenn dieses Bit gelöscht ist (und Bit 3 gesetzt ist), ist das -Drucken auf eine Low-Level-Darstellung des Aussehens beschränkt, möglicherweise in schlechter Qualität. |
+| PrintDocument | `4` | (Sicherheits-Handler der Revision 2) Dokument drucken. (Sicherheits-Handler der Revision 3 oder höher) Dokument drucken (möglicherweise nicht in der höchsten Qualitätsstufe, abhängig davon, ob PrintingQuality ebenfalls gesetzt ist). |
+| ModifyContent | `8` | Den Inhalt des Dokuments durch andere Operationen als die, die durch ModifyTextAnnotations, FillForm und 11 kontrolliert werden, ändern. |
+| ExtractContent | `10` | (Sicherheits-Handler der Revision 2) Text und Grafiken aus dem Dokument kopieren oder anderweitig extrahieren, einschließlich des Extrahierens von Text und Grafiken (zur Unterstützung der Barrierefreiheit für Benutzer mit Behinderungen oder für andere Zwecke). (Sicherheits-Handler der Revision 3 oder höher) Text und Grafiken aus dem Dokument durch andere Operationen als die, die durch ExtractContentWithDisabilities kontrolliert werden, kopieren oder anderweitig extrahieren. |
+| ModifyTextAnnotations | `20` | Textannotationen hinzufügen oder ändern, interaktive Formularfelder ausfüllen und, falls ModifyContent ebenfalls gesetzt ist, interaktive Formularfelder (einschließlich Unterschriftsfelder) erstellen oder ändern. |
+| FillForm | `100` | (Sicherheits-Handler der Revision 3 oder höher) Vorhandene interaktive Formularfelder (einschließlich Unterschriftsfelder) ausfüllen, selbst wenn ModifyTextAnnotations nicht gesetzt ist. |
+| ExtractContentWithDisabilities | `200` | (Sicherheits-Handler der Revision 3 oder höher) Text und Grafiken extrahieren (zur Unterstützung der Barrierefreiheit für Benutzer mit Behinderungen oder für andere Zwecke). |
+| AssembleDocument | `400` | (Sicherheits-Handler der Revision 3 oder höher) Dokument zusammenstellen (Seiten einfügen, drehen oder löschen und Lesezeichen oder Miniaturansichten erstellen), selbst wenn ModifyContent nicht gesetzt ist. |
+| PrintingQuality | `800` | (Sicherheits-Handler der Revision 3 oder höher) Dokument drucken in eine Darstellung, aus der eine treue digitale Kopie des PDF-Inhalts erzeugt werden könnte. Wenn dieses Bit nicht gesetzt ist (und Bit 3 gesetzt ist), ist das Drucken auf eine niedrigere Darstellung des Erscheinungsbildes beschränkt, möglicherweise von minderer Qualität. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

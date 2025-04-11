@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет базовый класс для коллекции операторов.
+title: Class BaseOperatorCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.BaseOperatorCollection. Представляет базовый класс для коллекции операторов
 type: docs
-weight: 1370
+weight: 2830
 url: /ru/net/aspose.pdf/baseoperatorcollection/
 ---
-## BaseOperatorCollection class
+## Класс BaseOperatorCollection
 
 Представляет базовый класс для коллекции операторов.
 
@@ -14,34 +14,32 @@ url: /ru/net/aspose.pdf/baseoperatorcollection/
 public abstract class BaseOperatorCollection : ICollection<Operator>
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Count](../../aspose.pdf/baseoperatorcollection/count) { get; } | Получает количество операторов в коллекции. |
-| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode) { get; } | Указывает, ограничена ли коллекция быстрым извлечением текста |
-| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly) { get; } | Возвращает true, если коллекция доступна только для чтения. |
-| abstract [Item](../../aspose.pdf/baseoperatorcollection/item) { get; set; } | Получает оператор по его индексу. |
+| abstract [Count](../../aspose.pdf/baseoperatorcollection/count/) { get; } | Получает количество операторов в коллекции. |
+| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode/) { get; } | Указывает, ограничена ли коллекция быстрым извлечением текста |
+| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly/) { get; } | Возвращает true, если коллекция доступна только для чтения. |
+| abstract [Item](../../aspose.pdf/baseoperatorcollection/item/) { get; set; } | Получает оператор по его индексу. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/baseoperatorcollection/add)(Operator) | Добавляет в коллекцию нового оператора. |
-| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate)() | Отменяет последнее обновление. Этот метод может быть вызван, когда изменение не должно вызывать обновление содержимого. |
-| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear)() | Очищает коллекцию. |
-| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains)(Operator) | Проверяет наличие оператора в коллекции. |
-| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto)(Operator[], int) | Копирует операторов в список операторов. |
-| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator)() | Возвращает перечислитель для collection |
-| abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert)(int, Operator) | Вставляет оператор в коллекцию. |
-| abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove)(Operator) | Удаляет оператора из коллекции. |
-| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate)() | Возобновляет обновление документа. Обновляет поток содержимого при наличии ожидающих изменений. |
-| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate)() | Подавляет данные обновления содержимого. Поток содержимого не обновляется до тех пор, пока не будет вызвано ResumeUpdate. |
+| abstract [Add](../../aspose.pdf/baseoperatorcollection/add/)(Operator) | Добавляет новый оператор в коллекцию. |
+| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate/)() | Отменяет последнее обновление. Этот метод может быть вызван, когда изменение не должно вызывать обновление содержимого. |
+| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear/)() | Очищает коллекцию. |
+| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains/)(Operator) | Проверяет, существует ли оператор в коллекции. |
+| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto/)(Operator[], int) | Копирует операторов в список операторов. |
+| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator/)() | Возвращает перечислитель для коллекции |
+| abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert/)(int, Operator) | Вставляет оператора в коллекцию. |
+| abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove/)(Operator) | Удаляет оператора из коллекции. |
+| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate/)() | Возобновляет обновление документа. Обновляет поток содержимого в случае наличия ожидающих изменений. |
+| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate/)() | Подавляет обновление данных содержимого. Поток содержимого не обновляется, пока не будет вызван ResumeUpdate. |
 
-### Смотрите также
+### См. также
 
-* class [Operator](../operator)
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* класс [Operator](../operator/)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

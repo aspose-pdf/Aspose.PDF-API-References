@@ -1,7 +1,7 @@
 ---
-title: SaveAsTIFF
-second_title: Aspose.PDF for .NET API Referansı
-description: Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+title: PdfConverter.SaveAsTIFF
+second_title: Aspose.PDF for .NET API Reference
+description: PdfConverter metodu. Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder
 type: docs
 weight: 160
 url: /tr/net/aspose.pdf.facades/pdfconverter/saveastiff/
@@ -14,11 +14,11 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -34,11 +34,11 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -50,12 +50,12 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputFile | String | Çıktı dosyası. |
 | compressionType | CompressionType | Sıkıştırma türü. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -70,156 +70,156 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-Bir pdf belgesinin her sayfasını boyutlu görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, PageSize) {#saveastiff_14}
 
-Bir pdf belgesinin her sayfasını sayfa boyutuna sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını sayfa boyutuyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| pageSize | PageSize | Resmin sayfa boyutu. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, PageSize, TiffSettings) {#saveastiff_15}
 
-Bir pdf belgesinin her sayfasını sayfa boyutuna sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını sayfa boyutuyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| pageSize | PageSize | Resmin sayfa boyutu. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-Bir pdf belgesinin her sayfasını boyutlu görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
     CompressionType compressionType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 | compressionType | CompressionType | Sıkıştırma türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-Bir pdf belgesinin her sayfasını boyutlu görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-Bir pdf belgesinin her sayfasını boyutlu görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF dosyasına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 | converter | IIndexBitmapConverter | Harici dönüştürücü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -231,15 +231,15 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -251,161 +251,161 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Çıkış akışı. |
+| outputStream | Stream | Çıktı akışı. |
 | compressionType | CompressionType | Sıkıştırma türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, PageSize) {#saveastiff_4}
 
-Bir pdf belgesinin her sayfasını sayfa boyutuna sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını sayfa boyutuyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| pageSize | PageSize | Resmin sayfa boyutu. |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, PageSize, TiffSettings) {#saveastiff_5}
 
-Bir pdf belgesinin her sayfasını sayfa boyutuna sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını sayfa boyutuyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| pageSize | PageSize | Resmin sayfa boyutu. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| pageSize | PageSize | Görüntünün sayfa boyutu. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-Bir pdf belgesinin her sayfasını boyutlara sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-Bir pdf belgesinin her sayfasını boyutlara sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
     CompressionType compressionType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
 | compressionType | CompressionType | Sıkıştırma türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-Bir pdf belgesinin her sayfasını boyutlara sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-Bir pdf belgesinin her sayfasını boyutlara sahip görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
+Bir pdf belgesinin her sayfasını boyutlarıyla görüntülere dönüştürür ve görüntüleri tek bir TIFF akışına kaydeder.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| imageWidth | Int32 | Görüntü genişliği, birim piksel. |
+| imageHeight | Int32 | Görüntü yüksekliği, birim piksel. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 | converter | IIndexBitmapConverter | Harici dönüştürücü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -417,17 +417,17 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(string outputFile, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -439,19 +439,19 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | TIFF görüntüsünün kaydedileceği dosya adı |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| outputFile | String | TIFF görüntüsünü kaydetmek için dosya adı |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 | converter | IIndexBitmapConverter | Harici dönüştürücü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -463,17 +463,17 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -485,18 +485,16 @@ Bir pdf belgesinin her sayfasını görüntülere dönüştürür ve görüntül
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | outputStream | Stream | TIFF görüntüsünü kaydetmek için akış. |
-| settings | TiffSettings | TIFF parametrelerini tanımlayan ayarlar nesnesi. |
+| settings | TiffSettings | TIFF parametrelerini tanımlayan ayar nesnesi. |
 | converter | IIndexBitmapConverter | Harici dönüştürücü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

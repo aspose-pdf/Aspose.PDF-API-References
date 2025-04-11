@@ -1,24 +1,22 @@
 ---
-title: CustomHtmlSavingStrategy
-second_title: Aspose.PDF per .NET API Reference
-description: Il risultato della conversione può contenere una o più pagine HTML È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa lelaborazione di una pagina HTML per essere precisi - markup-HTML senza eventuali file collegati esterni che è stato creato durante la conversione. In tal caso lelaborazione come il salvataggio dellHTML della pagina nello stream o nel disco può essere eseguita in quel codice personalizzato. In tal caso tutte le azioni necessarie per il salvataggio della pagina HTML devono essere eseguite nel codice del metodo fornito poiché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se lelaborazione per questo o quel caso per qualche motivo deve essere eseguita dal codice del convertitore stesso non nel codice personalizzato impostare nel codice personalizzato il flag CustomProcessingCancelled della variabile del parametro htmlSavingInfo segnalerà al convertitore che tutti i i passaggi necessari per lelaborazione di quella risorsa devono essere eseguiti nel convertitore stesso allo stesso modo come se non ci fosse alcun codice personalizzato esterno per lelaborazione .
+title: HtmlSaveOptions.CustomHtmlSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Campo HtmlSaveOptions. Il risultato della conversione può contenere una o più pagine HTML. Puoi assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione di una pagina HTML (per essere precisi - markup-HTML, senza file collegati esterni, se presenti) che è stata creata durante la conversione. In tal caso, l'elaborazione (come il salvataggio dell'HTML della pagina in stream o disco) può essere eseguita in quel codice personalizzato. In tal caso, tutte le azioni necessarie per il salvataggio della pagina HTML devono essere intraprese nel codice del metodo fornito, perché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se l'elaborazione per questo o quel caso deve essere eseguita per qualche motivo dal codice del convertitore stesso, non nel codice personalizzato, imposta nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': questo segnalerà al convertitore che tutti i passaggi necessari per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso, allo stesso modo in cui se non ci fosse alcun codice personalizzato esterno per l'elaborazione.
 type: docs
-weight: 220
+weight: 270
 url: /it/net/aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/
 ---
-## HtmlSaveOptions.CustomHtmlSavingStrategy field
+## Campo HtmlSaveOptions.CustomHtmlSavingStrategy
 
-Il risultato della conversione può contenere una o più pagine HTML È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione di una pagina HTML (per essere precisi - markup-HTML, senza eventuali file collegati esterni) che è stato creato durante la conversione. In tal caso l'elaborazione (come il salvataggio dell'HTML della pagina nello stream o nel disco) può essere eseguita in quel codice personalizzato. In tal caso tutte le azioni necessarie per il salvataggio della pagina HTML devono essere eseguite nel codice del metodo fornito, poiché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se l'elaborazione per questo o quel caso per qualche motivo deve essere eseguita dal codice del convertitore stesso, non nel codice personalizzato, impostare nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': segnalerà al convertitore che tutti i i passaggi necessari per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso allo stesso modo come se non ci fosse alcun codice personalizzato esterno per l'elaborazione .
+Il risultato della conversione può contenere una o più pagine HTML. Puoi assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa l'elaborazione di una pagina HTML (per essere precisi - markup-HTML, senza file collegati esterni, se presenti) che è stata creata durante la conversione. In tal caso, l'elaborazione (come il salvataggio dell'HTML della pagina in stream o disco) può essere eseguita in quel codice personalizzato. In tal caso, tutte le azioni necessarie per il salvataggio della pagina HTML devono essere intraprese nel codice del metodo fornito, perché il salvataggio del risultato nel codice del convertitore non sarà utilizzato. Se l'elaborazione per questo o quel caso deve essere eseguita per qualche motivo dal codice del convertitore stesso, non nel codice personalizzato, imposta nel codice personalizzato il flag 'CustomProcessingCancelled' della variabile del parametro 'htmlSavingInfo': questo segnalerà al convertitore che tutti i passaggi necessari per l'elaborazione di quella risorsa devono essere eseguiti nel convertitore stesso, allo stesso modo in cui se non ci fosse alcun codice personalizzato esterno per l'elaborazione.
 
 ```csharp
 public HtmlPageMarkupSavingStrategy CustomHtmlSavingStrategy;
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* delegate [HtmlPageMarkupSavingStrategy](../../htmlsaveoptions.htmlpagemarkupsavingstrategy)
-* class [HtmlSaveOptions](../../htmlsaveoptions)
-* spazio dei nomi [Aspose.Pdf](../../htmlsaveoptions)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* delegato [HtmlPageMarkupSavingStrategy](../../htmlsaveoptions.htmlpagemarkupsavingstrategy/)
+* classe [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

@@ -1,48 +1,94 @@
 ---
-title: ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Excel formatına dışa aktarma seçeneklerini kaydedin
+title: Class ExcelSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ExcelSaveOptions sınıfı. Excel formatına dışa aktarma için kaydetme seçenekleri
 type: docs
-weight: 2120
+weight: 4080
 url: /tr/net/aspose.pdf/excelsaveoptions/
 ---
-## ExcelSaveOptions class
+## ExcelSaveOptions sınıfı
 
-Excel formatına dışa aktarma seçeneklerini kaydedin
+Excel formatına dışa aktarma için kaydetme seçenekleri
 
 ```csharp
 public class ExcelSaveOptions : UnifiedSaveOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ExcelSaveOptions](excelsaveoptions)() | Default_Constructor |
+| [ExcelSaveOptions](excelsaveoptions/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Belge yanıta kaydedildikten sonra Response nesnesinin kapatılacağını belirten boole değerini alır veya ayarlar. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için resim veya metin çıkarma işlevini açtı . |
-| [Format](../../aspose.pdf/excelsaveoptions/format) { get; set; } | Çıktı formatı |
-| [InsertBlankColumnAtFirst](../../aspose.pdf/excelsaveoptions/insertblankcolumnatfirst) { get; set; } | Çalışma sayfasının ilk sütunu olarak boş sütun eklemeniz gerekiyorsa doğru olarak ayarlayın. Varsayılan değer yanlıştır; bu, boş sütunun eklenmeyeceği anlamına gelir. |
-| [MinimizeTheNumberOfWorksheets](../../aspose.pdf/excelsaveoptions/minimizethenumberofworksheets) { get; set; } | Ortaya çıkan çalışma kitabındaki çalışma sayfası sayısını en aza indirmeniz gerekiyorsa true olarak ayarlayın. Varsayılan değer false; bu, her bir PDF sayfasının ayrı çalışma sayfası olarak kaydedilmesi anlamına gelir. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Veri kaydetme biçimi. |
-| [UniformWorksheets](../../aspose.pdf/excelsaveoptions/uniformworksheets) { get; set; } | Belgede tek tip sütunlar bölünmesini kullanmak için true değerini ayarlayın. Varsayılan değer yanlıştır; bu, sütunlar bölümünün her sayfa için bağımsız olacağı anlamına gelir. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Kaydetme işlemi sona ermelidir. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Aps sayfaları hazırlanırken font gliflerinin önbelleğe alınıp alınmayacağını belirten boolean değeri alır veya ayarlar. PDF'nin diğer formatlara dönüştürülmesi performansını artırır ancak bellek tüketimini artırır. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Belgenin yanıt içine kaydedilmesinden sonra Yanıt nesnesinin kapatılıp kapatılmayacağını belirten boolean değeri alır veya ayarlar. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için görüntü veya metin çıkarma işlevselliğini etkinleştirir. |
+| [Format](../../aspose.pdf/excelsaveoptions/format/) { get; set; } | Çıktı formatı |
+| [InsertBlankColumnAtFirst](../../aspose.pdf/excelsaveoptions/insertblankcolumnatfirst/) { get; set; } | Çalışma sayfasının ilk sütunu olarak boş sütun eklemek istiyorsanız true olarak ayarlayın. Varsayılan değer false'tur; bu, boş sütunun eklenmeyeceği anlamına gelir. |
+| [MinimizeTheNumberOfWorksheets](../../aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/) { get; set; } | Elde edilen çalışma kitabındaki çalışma sayısı sayısını en aza indirmek istiyorsanız true olarak ayarlayın. Varsayılan değer false'tur; bu, her PDF sayfasının ayrı bir çalışma sayfası olarak kaydedileceği anlamına gelir. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Veri kaydetme formatı. |
+| [UniformWorksheets](../../aspose.pdf/excelsaveoptions/uniformworksheets/) { get; set; } | Belge boyunca uniform sütun bölümü kullanmak için true olarak ayarlayın. Varsayılan değer false'tur; bu, sütun bölümünün her sayfa için bağımsız olacağı anlamına gelir. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Oluşan herhangi bir uyarıyı işlemek için geri çağırma. WarningHandler, devam etme veya iptal etme belirten ReturnAction enum öğesini döndürür. Devam etme varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı iptal de döndürebilir; bu durumda Kaydetme işlemi durmalıdır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Bazen PDF'ler arka plan görüntülerini (sayfaların veya tablo hücrelerinin) içerir , birbirinin yanına yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşturulmuştur. Bu durumda hedef biçimlerin oluşturucuları (DOCS biçimi için fe MsWord) bazen arka plan görüntülerinin bölümleri arasında görünür sınırlar oluşturur , görüntü kenar yumuşatma (anti-aliasing) tekniklerinin Acrobat Reader'dan farklı olmasına neden olur. Dışa aktarılan belge, aynı arka plan görüntülerinin bölümleri arasında bu tür görünür sınırlar içeriyor gibi görünüyorsa, bundan kurtulmak için lütfen bu ayarı kullanmayı deneyin istenmeyen etki. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Sayfaları birkaç iş parçacığında işleme. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Bazen PDF'ler, yan yana yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşan arka plan görüntüleri içerir (sayfalar veya tablo hücreleri için). Bu durumda, hedef formatların (örneğin, DOCS formatı için MsWord) renderlayıcıları bazen arka plan görüntülerinin parçaları arasında görünür sınırlar oluşturur; çünkü görüntü kenar yumuşatma (anti-aliasing) teknikleri Acrobat Reader'dan farklıdır. Eğer dışa aktarılan belgede aynı arka plan görüntülerinin parçaları arasında görünür sınırlar varsa, bu ayarı kullanarak istenmeyen etkiden kurtulmayı deneyin. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü önemli ölçüde yavaşlatır, bu nedenle bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, PDF dosyasını XLS veya XLSX dosyasına dönüştürmeyi göstermektedir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf");
+
+	// The path to output xls or xlsx File.
+	var excelFile= Path.Combine(dataDir, "PDF-to-xlsx.xlsx");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize ExcelSaveOptions	
+		ExcelSaveOptions saveOptions = new ExcelSaveOptions();
+		
+		// Save xls or xlsx file
+		pdfDocument.Save(excelFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    
+	' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf")
+    
+	' The path to output xls or xlsx File.
+    Dim excelFile = Path.Combine(dataDir, "PDF-to-xlsx.xlsx")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize ExcelSaveOptions  
+        Dim saveOptions As ExcelSaveOptions = New ExcelSaveOptions()
+ 
+        ' Save xls or xlsx file
+        pdfDocument.Save(excelFile, saveOptions)
+    End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [UnifiedSaveOptions](../unifiedsaveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

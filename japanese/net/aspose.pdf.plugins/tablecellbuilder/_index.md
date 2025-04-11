@@ -1,0 +1,32 @@
+---
+title: Class TableCellBuilder
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Plugins.TableCellBuilder クラス。クラスはテーブルセルのビルダーを表します
+type: docs
+weight: 9340
+url: /ja/net/aspose.pdf.plugins/tablecellbuilder/
+---
+## TableCellBuilder クラス
+
+クラスはテーブルセルのビルダーを表します。
+
+```csharp
+public class TableCellBuilder : TableRowBuilder
+```
+
+## メソッド
+
+| 名前 | 説明 |
+| --- | --- |
+| override [AddCell](../../aspose.pdf.plugins/tablecellbuilder/addcell/)() | テーブルにセルを追加します。 |
+| [AddParagraph](../../aspose.pdf.plugins/tablecellbuilder/addparagraph/)(params BaseParagraph[]) | テーブルセルに段落を追加します。 |
+| override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | AddRow をオーバーライドします。 |
+| [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | ドキュメントに新しいテーブルを追加します。 |
+| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | 指定されたページの後にページを挿入します。 |
+| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | 指定されたページの前にページを挿入します。 |
+
+### 参照
+
+* クラス [TableRowBuilder](../tablerowbuilder/)
+* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* アセンブリ [Aspose.PDF](../../)

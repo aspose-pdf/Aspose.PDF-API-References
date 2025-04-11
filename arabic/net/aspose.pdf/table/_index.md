@@ -1,77 +1,75 @@
 ---
-title: Table
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل جدولًا يمكن إضافته إلى الصفحة.
+title: Class Table
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Table. تمثل جدولًا يمكن إضافته إلى الصفحة
 type: docs
-weight: 6500
+weight: 10280
 url: /ar/net/aspose.pdf/table/
 ---
-## Table class
+## فئة الجدول
 
-يمثل جدولًا يمكن إضافته إلى الصفحة.
+تمثل جدولًا يمكن إضافته إلى الصفحة.
 
 ```csharp
 public sealed class Table : BaseParagraph
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Table](table)() | Default_Constructor |
+| [Table](table/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Alignment](../../aspose.pdf/table/alignment) { get; set; } | الحصول على محاذاة الجدول أو تعيينها. |
-| [BackgroundColor](../../aspose.pdf/table/backgroundcolor) { get; set; } | الحصول على أو تعيين لون خلفية الجدول |
-| [Border](../../aspose.pdf/table/border) { get; set; } | الحصول على الحد أو تعيينه . |
-| [BreakText](../../aspose.pdf/table/breaktext) { get; set; } | الحصول على أو تعيين نص فاصل للجدول |
-| [Broken](../../aspose.pdf/table/broken) { get; set; } | الحصول على أو ضبط الجدول العمودي المكسور |
-| [ColumnAdjustment](../../aspose.pdf/table/columnadjustment) { get; set; } | الحصول على أو ضبط تعديل عمود الجدول. |
-| [ColumnWidths](../../aspose.pdf/table/columnwidths) { get; set; } | الحصول على عرض أعمدة الجدول. |
-| [CornerStyle](../../aspose.pdf/table/cornerstyle) { get; set; } | الحصول على أو تعيين أنماط زوايا الحدود |
-| [DefaultCellBorder](../../aspose.pdf/table/defaultcellborder) { get; set; } | الحصول على حد الخلية الافتراضي |
-| [DefaultCellPadding](../../aspose.pdf/table/defaultcellpadding) { get; set; } | الحصول على أو تعيين مساحة الخلية الافتراضية. |
-| [DefaultCellTextState](../../aspose.pdf/table/defaultcelltextstate) { get; set; } | الحصول على حالة نص الخلية الافتراضية أو تعيينها. |
-| [DefaultColumnWidth](../../aspose.pdf/table/defaultcolumnwidth) { get; set; } | الحصول على حد الخلية الافتراضي |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية للفقرة أو تعيينها |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
-| [IsBordersIncluded](../../aspose.pdf/table/isbordersincluded) { get; set; } | الحصول على أو تعيين الحدود المضمنة في عروض الأعمدة. |
-| [IsBroken](../../aspose.pdf/table/isbroken) { get; set; } | الحصول على الجدول مكسورًا أو تعيينه - سيتم اقتطاعه للصفحة التالية. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [Left](../../aspose.pdf/table/left) { get; set; } | الحصول على أو تحديد إحداثيات يسار الجدول . |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [RepeatingColumnsCount](../../aspose.pdf/table/repeatingcolumnscount) { get; set; } | الحصول على أو تعيين الحد الأقصى لعدد الأعمدة للجدول |
-| [RepeatingRowsCount](../../aspose.pdf/table/repeatingrowscount) { get; set; } | الحصول على عدد الصفوف الأولى المتكرر لعدة صفحات |
-| [RepeatingRowsStyle](../../aspose.pdf/table/repeatingrowsstyle) { get; set; } | يحصل على نمط تكرار الصفوف |
-| [Rows](../../aspose.pdf/table/rows) { get; } | يحصل على صفوف الجدول . |
-| [Top](../../aspose.pdf/table/top) { get; set; } | الحصول على أو تحديد إحداثيات أعلى الجدول . |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| [Alignment](../../aspose.pdf/table/alignment/) { get; set; } | يحصل أو يحدد محاذاة الجدول. |
+| [BackgroundColor](../../aspose.pdf/table/backgroundcolor/) { get; set; } | يحصل أو يحدد لون خلفية الجدول |
+| [Border](../../aspose.pdf/table/border/) { get; set; } | يحصل أو يحدد الحدود. |
+| [BreakText](../../aspose.pdf/table/breaktext/) { get; set; } | يحصل أو يحدد نص الكسر للجدول |
+| [Broken](../../aspose.pdf/table/broken/) { get; set; } | يحصل أو يحدد الجدول المكسور عموديًا؛ |
+| [ColumnAdjustment](../../aspose.pdf/table/columnadjustment/) { get; set; } | يحصل أو يحدد تعديل عمود الجدول. |
+| [ColumnWidths](../../aspose.pdf/table/columnwidths/) { get; set; } | يحصل على عرض الأعمدة في الجدول. |
+| [CornerStyle](../../aspose.pdf/table/cornerstyle/) { get; set; } | يحصل أو يحدد أنماط زوايا الحدود |
+| [DefaultCellBorder](../../aspose.pdf/table/defaultcellborder/) { get; set; } | يحصل على الحدود الافتراضية للخلايا؛ |
+| [DefaultCellPadding](../../aspose.pdf/table/defaultcellpadding/) { get; set; } | يحصل أو يحدد الحشو الافتراضي للخلايا. |
+| [DefaultCellTextState](../../aspose.pdf/table/defaultcelltextstate/) { get; set; } | يحصل أو يحدد حالة نص الخلية الافتراضية. |
+| [DefaultColumnWidth](../../aspose.pdf/table/defaultcolumnwidth/) { get; set; } | يحصل على الحدود الافتراضية للخلايا؛ |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الجزء (لإنشاء PDF). |
+| [IsBordersIncluded](../../aspose.pdf/table/isbordersincluded/) { get; set; } | يحصل أو يحدد ما إذا كانت الحدود مدرجة في عرض الأعمدة. |
+| [IsBroken](../../aspose.pdf/table/isbroken/) { get; set; } | يحصل أو يحدد ما إذا كان الجدول مكسورًا - سيتم اقتطاعه للصفحة التالية. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Left](../../aspose.pdf/table/left/) { get; set; } | يحصل أو يحدد إحداثي الجدول الأيسر. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [RepeatingColumnsCount](../../aspose.pdf/table/repeatingcolumnscount/) { get; set; } | يحصل أو يحدد الحد الأقصى لعدد الأعمدة للجدول |
+| [RepeatingRowsCount](../../aspose.pdf/table/repeatingrowscount/) { get; set; } | يحصل على عدد الصفوف الأولى المتكررة لعدة صفحات |
+| [RepeatingRowsStyle](../../aspose.pdf/table/repeatingrowsstyle/) { get; set; } | يحصل على النمط للصفوف المتكررة |
+| [Rows](../../aspose.pdf/table/rows/) { get; } | يحصل على صفوف الجدول. |
+| [Top](../../aspose.pdf/table/top/) { get; set; } | يحصل أو يحدد إحداثي الجدول العلوي. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم ذو ZIndex أكبر فوق الرسم ذو ZIndex أصغر. يمكن أن تكون ZIndex سلبية. سيتم وضع الرسم ذو ZIndex سلبية خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf/table/clone)() | استنساخ الجدول . |
-| [GetHeight](../../aspose.pdf/table/getheight)(Page) | الحصول على الارتفاع. |
-| [GetWidth](../../aspose.pdf/table/getwidth)() | احصل على العرض . |
-| [ImportArray](../../aspose.pdf/table/importarray)(object[], int, int, bool) | يستورد مصفوفة بيانات أحادية البعد في الجدول. ينتقل الاستيراد إلى خلية واحدة لكل عنصر من عناصر المصفوفة ويبدأ من الصف والعمود المحددين في المعلمات. أثناء الاستيراد ، إذا تم اكتشاف أن rows اللازمة لا تزال غائبة (على سبيل المثال ، الجدول الهدف صغير جدًا لاستيعاب جميع البيانات) ، فسيتم إنشاء الصفوف اللازمة |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_1)(DataTable, bool, int, int) | يستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable)(DataTable, bool, int, byte, int, int, bool) | الواردات أDataTable كائن في الجدول . |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_2)(DataTable, int[], int[], int, int, bool, bool) | الواردات أDataTable الكائن ، ولكن ليس ككيان كامل. يتم استيراد الصفوف والأعمدة المحددة فقط. |
-| [ImportDataView](../../aspose.pdf/table/importdataview)(DataView, bool, int, int, int, int) | الواردات أDataView بيانات الكائن في الجدول. |
-| [SetColumnTextState](../../aspose.pdf/table/setcolumntextstate)(int, TextState) | تعيين الارتفاع. |
+| override [Clone](../../aspose.pdf/table/clone/)() | استنساخ الجدول. |
+| [GetHeight](../../aspose.pdf/table/getheight/)(Page) | الحصول على الارتفاع. |
+| [GetWidth](../../aspose.pdf/table/getwidth/)() | الحصول على العرض. |
+| [ImportArray](../../aspose.pdf/table/importarray/)(object[], int, int, bool) | يستورد مصفوفة أحادية البعد من البيانات إلى الجدول. يتم الاستيراد خلية واحدة لكل عنصر في المصفوفة ويبدأ من الصف والعمود المحددين في المعلمات. أثناء الاستيراد، إذا تم اكتشاف أن الصفوف الضرورية لا تزال غائبة (أي أن الجدول المستهدف صغير جدًا لاستيعاب جميع البيانات)، سيتم إنشاء الصفوف الضرورية |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable/#importdatatable_1)(DataTable, bool, int, int) | يستورد البيانات من System.Data.DataTable إلى Aspose.Pdf.Table |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable/#importdatatable)(DataTable, bool, int, byte, int, int, bool) | يستورد كائن DataTable إلى الجدول. |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable/#importdatatable_2)(DataTable, int[], int[], int, int, bool, bool) | يستورد كائن DataTable، ولكن ليس ككيان كامل. يتم استيراد الصفوف والأعمدة المحددة فقط. |
+| [ImportDataView](../../aspose.pdf/table/importdataview/)(DataView, bool, int, int, int, int) | يستورد بيانات كائن DataView إلى الجدول. |
+| [SetColumnTextState](../../aspose.pdf/table/setcolumntextstate/)(int, TextState) | تعيين الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseParagraph](../baseparagraph)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [BaseParagraph](../baseparagraph/)
+* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

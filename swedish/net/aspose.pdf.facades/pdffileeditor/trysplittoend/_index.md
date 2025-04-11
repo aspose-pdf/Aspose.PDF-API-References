@@ -1,14 +1,14 @@
 ---
-title: TrySplitToEnd
-second_title: Aspose.PDF för .NET API Referens
-description: Delas från plats och sparar den bakre delen som en ny fil.
+title: PdfFileEditor.TrySplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metod. Delar från plats och sparar den bakre delen som en ny fil
 type: docs
-weight: 500
+weight: 470
 url: /sv/net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_2}
+## TrySplitToEnd(string, int, string) {#trysplittoend_1}
 
-Delas från plats och sparar den bakre delen som en ny fil.
+Delar från plats, och sparar den bakre delen som en ny fil.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, string outputFile)
@@ -16,36 +16,36 @@ public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källa pdf-fil. |
-| location | Int32 | Klyvningsläget. |
-| outputFile | String | Utdata pdf-fil sökväg. |
+| inputFile | Sträng | Käll Pdf-fil. |
+| location | Int32 | Delningsposition. |
+| outputFile | Sträng | Utdata Pdf-filens sökväg. |
 
 ### Returvärde
 
 Sant för framgång, eller falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TrySplitToEnd är som SplitToEnd-metoden, förutom att metoden TrySplitToEnd inte ger ett undantag om operationen misslyckas.
+TrySplitToEnd-metoden är som SplitToEnd-metoden, förutom att TrySplitToEnd-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-Delas från angiven plats och sparar den bakre delen som en ny fil Stream.
+Delar från angiven plats, och sparar den bakre delen som en ny fil Stream.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -53,19 +53,19 @@ public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Källa Pdf-fil Stream. |
-| location | Int32 | Klyvningsläget. |
-| outputStream | Stream | Utdata pdf-fil Stream. |
+| inputStream | Stream | Käll Pdf-fil Stream. |
+| location | Int32 | Delningsposition. |
+| outputStream | Stream | Utdata Pdf-fil Stream. |
 
 ### Returvärde
 
 Sant för framgång, eller falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams har specificerats. Metoden TrySplitToEnd är som SplitToEnd-metoden, förutom att metoden TrySplitToEnd inte ger ett undantag om operationen misslyckas.
+Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams anges. TrySplitToEnd-metoden är som SplitToEnd-metoden, förutom att TrySplitToEnd-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,17 +74,16 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
 
-Delas från angiven plats och sparar den bakre delen i HttpResponse-objekt.
+Delar från angiven plats, och sparar den bakre delen i HttpResponse-objektet.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse response)
@@ -92,29 +91,29 @@ public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse respons
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Källdokumentström. |
-| location | Int32 | Splitpunkt. |
+| inputStream | Stream | Käll dokumentström. |
+| location | Int32 | Delningspunkt. |
 | response | HttpResponse | HttpResponse-objekt. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+sant om operationen slutfördes framgångsrikt; annars, falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TrySplitToEnd är som SplitToEnd-metoden, förutom att metoden TrySplitToEnd inte ger ett undantag om operationen misslyckas.
+TrySplitToEnd-metoden är som SplitToEnd-metoden, förutom att TrySplitToEnd-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(string, int, HttpResponse) {#trysplittoend_3}
 
-Delas från angiven plats och sparar den bakre delen i HttpResponse-objekt.
+Delar från angiven plats, och sparar den bakre delen i HttpResponse-objektet.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
@@ -122,22 +121,20 @@ public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | källfilens namn. |
-| location | Int32 | Splitpunkt. |
+| inputFile | Sträng | källfilens namn. |
+| location | Int32 | Delningspunkt. |
 | response | HttpResponse | HttpResponse-objekt. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+sant om operationen slutfördes framgångsrikt; annars, falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TrySplitToEnd är som SplitToEnd-metoden, förutom att metoden TrySplitToEnd inte ger ett undantag om operationen misslyckas.
+TrySplitToEnd-metoden är som SplitToEnd-metoden, förutom att TrySplitToEnd-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
