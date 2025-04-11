@@ -29,6 +29,9 @@ url: /go-cpp/organize/
 | [PageAddPageNum](./pageaddpagenum/) | Add page number on page. |
 | [PageAddTextHeader](./pageaddtextheader/) | Add text in page header. |
 | [PageAddTextFooter](./pageaddtextfooter/) | Add text in page footer. |
+| [PageRemoveAnnotations](./pageremoveannotations/) | Remove annotations in page. |
+| [PageRemoveHiddenText](./pageremovehiddentext/) | Remove hidden text in page. |
+| [PageRemoveImages](./pageremoveimages/) | Remove images in page. |
 
 
 ## Detailed Description

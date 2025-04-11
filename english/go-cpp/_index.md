@@ -73,6 +73,9 @@ type Document struct {
 | [PageAddPageNum](./organize/pageaddpagenum/) | Add page number on page. |
 | [PageAddTextHeader](./organize/pageaddtextheader/) | Add text in page header. |
 | [PageAddTextFooter](./organize/pageaddtextfooter/) | Add text in page footer. |
+| [PageRemoveAnnotations](./organize/pageremoveannotations/) | Remove annotations in page. |
+| [PageRemoveHiddenText](./organize/pageremovehiddentext/) | Remove hidden text in page. |
+| [PageRemoveImages](./organize/pageremoveimages/) | Remove images in page. |
 
 
 ## Core PDF functions
