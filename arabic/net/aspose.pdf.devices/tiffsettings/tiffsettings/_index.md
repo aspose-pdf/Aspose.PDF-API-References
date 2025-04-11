@@ -1,208 +1,206 @@
 ---
-title: TiffSettings
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفTiffSettingsaspose.pdf.devices/tiffsettings فئة .
+title: TiffSettings.TiffSettings
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ TiffSettings. يُهيئ مثيلًا جديدًا من فئة TiffSettings
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | shapeType | ShapeType | نوع الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [ShapeType](../../shapetype/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | compressionType | CompressionType | نوع الضغط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [CompressionType](../../compressiontype)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [CompressionType](../../compressiontype/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | colorDepth | ColorDepth | عمق اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ColorDepth](../../colordepth)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [ColorDepth](../../colordepth/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(Margins) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(Margins margins)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | margins | Margins | الهوامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Margins](../../margins/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | compressionType | CompressionType | نوع الضغط. |
 | colorDepth | ColorDepth | عمق اللون. |
 | margins | Margins | الهوامش. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [CompressionType](../../compressiontype/)
+* تعداد [ColorDepth](../../colordepth/)
+* فئة [Margins](../../margins/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | compressionType | CompressionType | نوع الضغط. |
 | colorDepth | ColorDepth | عمق اللون. |
 | margins | Margins | الهوامش. |
-| skipBlankPages | Boolean | إذا تم التعيين على`حقيقي` بحاجة إلى تخطي الصفحات الفارغة. |
+| skipBlankPages | Boolean | إذا تم تعيينه إلى `true` يجب تخطي الصفحات الفارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [CompressionType](../../compressiontype/)
+* تعداد [ColorDepth](../../colordepth/)
+* فئة [Margins](../../margins/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages, ShapeType shapeType)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | compressionType | CompressionType | نوع الضغط. |
 | colorDepth | ColorDepth | عمق اللون. |
 | margins | Margins | الهوامش. |
-| skipBlankPages | Boolean | إذا تم التعيين على`حقيقي` بحاجة إلى تخطي الصفحات الفارغة. |
+| skipBlankPages | Boolean | إذا تم تعيينه إلى `true` يجب تخطي الصفحات الفارغة. |
 | shapeType | ShapeType | نوع الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
+* تعداد [CompressionType](../../compressiontype/)
+* تعداد [ColorDepth](../../colordepth/)
+* فئة [Margins](../../margins/)
+* تعداد [ShapeType](../../shapetype/)
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(bool) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSettings`](../../tiffsettings) فئة .
+يُهيئ مثيلًا جديدًا من فئة [`TiffSettings`](../).
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| skipBlankPages | Boolean | إذا تم التعيين على`حقيقي` [تخطي الصفحات الفارغة]. |
+| skipBlankPages | Boolean | إذا تم تعيينه إلى `true` [تخطي الصفحات الفارغة]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TiffSettings](../../tiffsettings)
-* مساحة الاسم [Aspose.Pdf.Devices](../../tiffsettings)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [TiffSettings](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)

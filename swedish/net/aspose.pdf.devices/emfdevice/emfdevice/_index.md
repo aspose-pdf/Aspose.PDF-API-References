@@ -1,47 +1,47 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF för .NET API Referens
-description: Initierar en ny instans avEmfDeviceaspose.pdf.devices/emfdevice klass med standardupplösning för rasterbild skriven till emf.
+title: EmfDevice.EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: EmfDevice-konstruktorn. Initierar en ny instans av EmfDevice-klassen med standardupplösning för rasterbild som skrivs till emf
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-Initierar en ny instans av[`EmfDevice`](../../emfdevice) klass med standardupplösning för rasterbild skriven till emf.
+Initierar en ny instans av den [`EmfDevice`](../) klassen med standardupplösning för rasterbild som skrivs till emf.
 
 ```csharp
 public EmfDevice()
 ```
 
-### Se även
+### Se Även
 
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-Initierar en ny instans av[`EmfDevice`](../../emfdevice) class.  Upplösning för rasterbilden skriven till emf, se[`Resolution`](../../resolution) class.
+Initierar en ny instans av den [`EmfDevice`](../) klassen. Upplösning för rasterbilden som skrivs till emf, se [`Resolution`](../../resolution/) klass.
 
 ```csharp
 public EmfDevice(Resolution resolution)
 ```
 
-### Se även
+### Se Även
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Resolution](../../resolution/)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int) {#constructor_4}
 
-Initierar en ny instans av[`EmfDevice`](../../emfdevice) klass med angivna bildmått, och standardupplösning för rasterbilden skriven till emf (=150)
+Initierar en ny instans av den [`EmfDevice`](../) klassen med angivna bilddimensioner och standardupplösning för rasterbilden som skrivs till emf (=150)
 
 ```csharp
 public EmfDevice(int width, int height)
@@ -49,20 +49,20 @@ public EmfDevice(int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdatabredd. |
-| height | Int32 | Bildutgångshöjd. |
+| width | Int32 | Bildens utdata bredd. |
+| height | Int32 | Bildens utdata höjd. |
 
-### Se även
+### Se Även
 
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-Initierar en ny instans av[`EmfDevice`](../../emfdevice) klass med angiven sidstorlek, och standardupplösning för rasterbilden skriven till emf (=150)
+Initierar en ny instans av den [`EmfDevice`](../) klassen med angiven sidstorlek och standardupplösning för rasterbilden som skrivs till emf (=150)
 
 ```csharp
 public EmfDevice(PageSize pageSize)
@@ -70,20 +70,20 @@ public EmfDevice(PageSize pageSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek för utdatabilden. |
+| pageSize | PageSize | Sidstorlek för utdata bilden. |
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-Initierar en ny instans av[`JpegDevice`](../../jpegdevice) klass med angivna bildmått, och upplösning för rasterbilden skriven till emf.
+Initierar en ny instans av den [`JpegDevice`](../../jpegdevice/) klassen med angivna bilddimensioner och upplösning för rasterbilden som skrivs till emf.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
@@ -91,22 +91,22 @@ public EmfDevice(int width, int height, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdatabredd. |
-| height | Int32 | Bildutgångshöjd. |
-| resolution | Resolution | Upplösning för rasterbilden skriven till emf, se[`Resolution`](../../resolution) class. |
+| width | Int32 | Bildens utdata bredd. |
+| height | Int32 | Bildens utdata höjd. |
+| resolution | Resolution | Upplösning för rasterbilden som skrivs till emf, se [`Resolution`](../../resolution/) klass. |
 
-### Se även
+### Se Även
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Resolution](../../resolution/)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-Initierar en ny instans av[`JpegDevice`](../../jpegdevice)klass med angiven sidstorlek, och upplösning för rasterbilden skriven till emf.
+Initierar en ny instans av den [`JpegDevice`](../../jpegdevice/) klassen med angiven sidstorlek och upplösning för rasterbilden som skrivs till emf.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
@@ -114,15 +114,13 @@ public EmfDevice(PageSize pageSize, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek för utdatabilden. |
-| resolution | Resolution | Upplösning för rasterbilden skriven till emf, se[`Resolution`](../../resolution) class. |
+| pageSize | PageSize | Sidstorlek för utdata bilden. |
+| resolution | Resolution | Upplösning för rasterbilden som skrivs till emf, se [`Resolution`](../../resolution/) klass. |
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namnutrymme [Aspose.Pdf.Devices](../../emfdevice)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [Resolution](../../resolution/)
+* klass [EmfDevice](../)
+* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* samling [Aspose.PDF](../../../)

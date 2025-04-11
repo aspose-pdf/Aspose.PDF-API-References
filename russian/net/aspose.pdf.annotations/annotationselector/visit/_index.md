@@ -1,14 +1,14 @@
 ---
-title: Visit
-second_title: Aspose.PDF для справочника API .NET
-description: Выбрать аннотацию ссылки если AnnotationSelector был инициализирован с помощью объекта LinkAnnotation.
+title: AnnotationSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: Метод AnnotationSelector. Выберите аннотацию ссылки, если AnnotationSelector был инициализирован объектом LinkAnnotation
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_9}
 
-Выбрать аннотацию ссылки, если AnnotationSelector был инициализирован с помощью объекта LinkAnnotation.
+Выберите аннотацию ссылки, если AnnotationSelector был инициализирован объектом LinkAnnotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -18,18 +18,18 @@ public void Visit(LinkAnnotation link)
 | --- | --- | --- |
 | link | LinkAnnotation | Объект LinkAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [LinkAnnotation](../../linkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [LinkAnnotation](../../linkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
-Выбрать аннотацию вложения, если AnnotationSelector был инициализирован с помощью объекта FileAttachmentAnnotation.
+Выберите аннотацию вложения, если AnnotationSelector был инициализирован объектом FileAttachmentAnnotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -39,16 +39,16 @@ public void Visit(FileAttachmentAnnotation attachment)
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | Объект FileAttachmentAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_20}
+## Visit(TextAnnotation) {#visit_24}
 
 Выберите текстовую аннотацию, если AnnotationSelector был инициализирован объектом TextAnnotation.
 
@@ -60,18 +60,18 @@ public void Visit(TextAnnotation text)
 | --- | --- | --- |
 | text | TextAnnotation | Объект TextAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [TextAnnotation](../../textannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [TextAnnotation](../../textannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_13}
+## Visit(RedactionAnnotation) {#visit_16}
 
-Выберите редактируемую аннотацию, если AnnotationSelector был инициализирован объектом RedactAnnotation.
+Выберите аннотацию редактирования, если AnnotationSelector был инициализирован объектом RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
@@ -81,18 +81,18 @@ public void Visit(RedactionAnnotation redact)
 | --- | --- | --- |
 | redact | RedactionAnnotation | Объект RedactAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [RedactionAnnotation](../../redactionannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [RedactionAnnotation](../../redactionannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_5}
 
-Выбрать аннотацию произвольного текста, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
+Выберите аннотацию свободного текста, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -102,18 +102,18 @@ public void Visit(FreeTextAnnotation freetext)
 | --- | --- | --- |
 | freetext | FreeTextAnnotation | Объект FreeTextAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [FreeTextAnnotation](../../freetextannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_6}
 
-Выберите аннотацию вложения, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
+Выберите аннотацию выделения, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -123,18 +123,18 @@ public void Visit(HighlightAnnotation highlight)
 | --- | --- | --- |
 | highlight | HighlightAnnotation | Объект HighlightAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [HighlightAnnotation](../../highlightannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [HighlightAnnotation](../../highlightannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_21}
+## Visit(UnderlineAnnotation) {#visit_26}
 
-Выберите подчеркивание аннотации, если AnnotationSelector был инициализирован с помощью объекта UnderlineAnnotation.
+Выберите аннотацию подчеркивания, если AnnotationSelector был инициализирован объектом UnderlineAnnotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -144,18 +144,18 @@ public void Visit(UnderlineAnnotation underline)
 | --- | --- | --- |
 | underline | UnderlineAnnotation | Объект UnderlineAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [UnderlineAnnotation](../../underlineannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_19}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
-Выбрать аннотацию strikeOut, если AnnotationSelector был инициализирован с помощью объекта StrikeOutAnnotation.
+Выберите аннотацию зачеркивания, если AnnotationSelector был инициализирован объектом StrikeOutAnnotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -165,18 +165,18 @@ public void Visit(StrikeOutAnnotation strikeOut)
 | --- | --- | --- |
 | strikeOut | StrikeOutAnnotation | Объект StrikeOutAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [StrikeOutAnnotation](../../strikeoutannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_17}
+## Visit(SquigglyAnnotation) {#visit_21}
 
-Выберите волнистую аннотацию, если AnnotationSelector был инициализирован объектом SquigglyAnnotation.
+Выберите аннотацию волнистой линии, если AnnotationSelector был инициализирован объектом SquigglyAnnotation.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -186,18 +186,18 @@ public void Visit(SquigglyAnnotation squiggly)
 | --- | --- | --- |
 | squiggly | SquigglyAnnotation | Объект SquigglyAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [SquigglyAnnotation](../../squigglyannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_12}
+## Visit(PopupAnnotation) {#visit_15}
 
-Выберите всплывающую аннотацию, если AnnotationSelector был инициализирован с помощью объекта PopupAnnotation.
+Выберите всплывающую аннотацию, если AnnotationSelector был инициализирован объектом PopupAnnotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -207,18 +207,18 @@ public void Visit(PopupAnnotation popup)
 | --- | --- | --- |
 | popup | PopupAnnotation | Объект PopupAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [PopupAnnotation](../../popupannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [PopupAnnotation](../../popupannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_8}
 
-Выбрать аннотацию линии, если AnnotationSelector был инициализирован объектом LineAnnotation.
+Выберите аннотацию линии, если AnnotationSelector был инициализирован объектом LineAnnotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -228,18 +228,18 @@ public void Visit(LineAnnotation line)
 | --- | --- | --- |
 | line | LineAnnotation | Объект LineAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [LineAnnotation](../../lineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [LineAnnotation](../../lineannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Выберите круговую аннотацию, если AnnotationSelector был инициализирован объектом CircleAnnotation.
+Выберите аннотацию круга, если AnnotationSelector был инициализирован объектом CircleAnnotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -249,18 +249,18 @@ public void Visit(CircleAnnotation circle)
 | --- | --- | --- |
 | circle | CircleAnnotation | Объект CircleAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [CircleAnnotation](../../circleannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [CircleAnnotation](../../circleannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_16}
+## Visit(SquareAnnotation) {#visit_20}
 
-Выберите квадратную аннотацию, если AnnotationSelector был инициализирован объектом SquareAnnotation.
+Выберите аннотацию квадрата, если AnnotationSelector был инициализирован объектом SquareAnnotation.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -270,18 +270,18 @@ public void Visit(SquareAnnotation square)
 | --- | --- | --- |
 | square | SquareAnnotation | Объект SquareAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [SquareAnnotation](../../squareannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [SquareAnnotation](../../squareannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_7}
 
-Выберите рукописную аннотацию, если AnnotationSelector был инициализирован с помощью объекта InkAnnotation.
+Выберите аннотацию чернил, если AnnotationSelector был инициализирован объектом InkAnnotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -291,18 +291,18 @@ public void Visit(InkAnnotation ink)
 | --- | --- | --- |
 | ink | InkAnnotation | Объект InkAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [InkAnnotation](../../inkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [InkAnnotation](../../inkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_11}
+## Visit(PolylineAnnotation) {#visit_14}
 
-Выбрать аннотацию полилинии, если AnnotationSelector был инициализирован с помощью объекта PolylineAnnotation.
+Выберите аннотацию полилинии, если AnnotationSelector был инициализирован объектом PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -312,18 +312,18 @@ public void Visit(PolylineAnnotation polyline)
 | --- | --- | --- |
 | polyline | PolylineAnnotation | Объект PolylineAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [PolylineAnnotation](../../polylineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [PolylineAnnotation](../../polylineannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_10}
+## Visit(PolygonAnnotation) {#visit_13}
 
-Выбрать аннотацию многоугольника, если AnnotationSelector был инициализирован объектом PolygonAnnotation.
+Выберите аннотацию многоугольника, если AnnotationSelector был инициализирован объектом PolygonAnnotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -333,18 +333,18 @@ public void Visit(PolygonAnnotation polygon)
 | --- | --- | --- |
 | polygon | PolygonAnnotation | Объект PolygonAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [PolygonAnnotation](../../polygonannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [PolygonAnnotation](../../polygonannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Выбрать аннотацию вставки, если AnnotationSelector был инициализирован объектом CaretAnnotation.
+Выберите аннотацию курсора, если AnnotationSelector был инициализирован объектом CaretAnnotation.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -354,18 +354,18 @@ public void Visit(CaretAnnotation caret)
 | --- | --- | --- |
 | caret | CaretAnnotation | Объект CaretAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [CaretAnnotation](../../caretannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [CaretAnnotation](../../caretannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_18}
+## Visit(StampAnnotation) {#visit_22}
 
-Выбрать аннотацию штампа, если AnnotationSelector был инициализирован с помощью объекта StampAnnotation.
+Выберите аннотацию штампа, если AnnotationSelector был инициализирован объектом StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -375,18 +375,18 @@ public void Visit(StampAnnotation stamp)
 | --- | --- | --- |
 | stamp | StampAnnotation | Объект StampAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [StampAnnotation](../../stampannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [StampAnnotation](../../stampannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_23}
+## Visit(WidgetAnnotation) {#visit_28}
 
-Выбрать аннотацию виджета, если AnnotationSelector был инициализирован объектом WidgetAnnotation.
+Выберите аннотацию виджета, если AnnotationSelector был инициализирован объектом WidgetAnnotation.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -396,18 +396,18 @@ public void Visit(WidgetAnnotation widget)
 | --- | --- | --- |
 | widget | WidgetAnnotation | Объект WidgetAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [WidgetAnnotation](../../widgetannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [WidgetAnnotation](../../widgetannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_22}
+## Visit(WatermarkAnnotation) {#visit_27}
 
-Выбрать аннотацию водяного знака, если AnnotationSelector был инициализирован объектом WatermarkAnnotation.
+Выберите аннотацию водяного знака, если AnnotationSelector был инициализирован объектом WatermarkAnnotation.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
@@ -415,20 +415,20 @@ public void Visit(WatermarkAnnotation watermark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | Водяной знакАннотация для выбора. |
+| watermark | WatermarkAnnotation | Объект WatermarkAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [WatermarkAnnotation](../../watermarkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [WatermarkAnnotation](../../watermarkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_10}
 
-Выбрать аннотацию фильма, если AnnotationSelector был инициализирован объектом MovieAnnotation.
+Выберите аннотацию фильма, если AnnotationSelector был инициализирован объектом MovieAnnotation.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -438,18 +438,18 @@ public void Visit(MovieAnnotation movie)
 | --- | --- | --- |
 | movie | MovieAnnotation | Объект MovieAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [MovieAnnotation](../../movieannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [MovieAnnotation](../../movieannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_14}
+## Visit(RichMediaAnnotation) {#visit_18}
 
-Выбрать аннотацию фильма, если AnnotationSelector был инициализирован объектом аннотации RichMedia.
+Выберите аннотацию фильма, если AnnotationSelector был инициализирован объектом RichMedia.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
@@ -459,18 +459,18 @@ public void Visit(RichMediaAnnotation richMedia)
 | --- | --- | --- |
 | richMedia | RichMediaAnnotation | Аннотация RichMedia. |
 
-### Смотрите также
+### См. также
 
-* class [RichMediaAnnotation](../../richmediaannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [RichMediaAnnotation](../../richmediaannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_15}
+## Visit(ScreenAnnotation) {#visit_19}
 
-Выбрать аннотацию экрана, если AnnotationSelector был инициализирован объектом ScreenAnnotation.
+Выберите аннотацию экрана, если AnnotationSelector был инициализирован объектом ScreenAnnotation.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -480,18 +480,18 @@ public void Visit(ScreenAnnotation screen)
 | --- | --- | --- |
 | screen | ScreenAnnotation | Объект ScreenAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [ScreenAnnotation](../../screenannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [ScreenAnnotation](../../screenannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_9}
+## Visit(PDF3DAnnotation) {#visit_12}
 
-Выбрать аннотацию PDF3D, если AnnotationSelector был инициализирован объектом PDF3DAnnotation.
+Выберите аннотацию PDF3D, если AnnotationSelector был инициализирован объектом PDF3DAnnotation.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
@@ -501,11 +501,114 @@ public void Visit(PDF3DAnnotation pdf3D)
 | --- | --- | --- |
 | pdf3D | PDF3DAnnotation | Объект PDF3DAnnotation для выбора. |
 
-### Смотрите также
+### См. также
 
-* class [PDF3DAnnotation](../../pdf3dannotation)
-* class [AnnotationSelector](../../annotationselector)
-* пространство имен [Aspose.Pdf.Annotations](../../annotationselector)
+* класс [PDF3DAnnotation](../../pdf3dannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * сборка [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(ColorBarAnnotation) {#visit_3}
+
+Выберите аннотацию ColorBar, если AnnotationSelector был инициализирован объектом ColorBar.
+
+```csharp
+public void Visit(ColorBarAnnotation colorBar)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| colorBar | ColorBarAnnotation | Объект PDF3DAnnotation для выбора. |
+
+### См. также
+
+* класс [ColorBarAnnotation](../../colorbarannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+Выбирает *trimMark*, если [`AnnotationSelector`](../) был инициализирован объектом [`TrimMarkAnnotation`](../../trimmarkannotation/).
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | Объект [`TrimMarkAnnotation`](../../trimmarkannotation/) для выбора. |
+
+### См. также
+
+* класс [TrimMarkAnnotation](../../trimmarkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Выбирает *bleedMark*, если [`AnnotationSelector`](../) был инициализирован объектом [`BleedMarkAnnotation`](../../bleedmarkannotation/).
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | Объект [`BleedMarkAnnotation`](../../bleedmarkannotation/) для выбора. |
+
+### См. также
+
+* класс [BleedMarkAnnotation](../../bleedmarkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+Выбирает *registrationMark*, если [`AnnotationSelector`](../) был инициализирован объектом [`RegistrationMarkAnnotation`](../../registrationmarkannotation/).
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | Объект [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) для выбора. |
+
+### См. также
+
+* класс [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* сборка [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+Выбирает *pageInformation*, если [`AnnotationSelector`](../) был инициализирован объектом [`PageInformationAnnotation`](../../pageinformationannotation/).
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | Объект [`PageInformationAnnotation`](../../pageinformationannotation/) для выбора. |
+
+### См. также
+
+* класс [PageInformationAnnotation](../../pageinformationannotation/)
+* класс [AnnotationSelector](../)
+* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* сборка [Aspose.PDF](../../../)

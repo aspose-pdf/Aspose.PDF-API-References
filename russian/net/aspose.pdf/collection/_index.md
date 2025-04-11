@@ -1,14 +1,14 @@
 ---
-title: Collection
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет класс для коллекции 12.3.5 коллекции.
+title: Class Collection
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Collection. Представляет класс для Collection12.3.5 Коллекции
 type: docs
-weight: 1480
+weight: 3020
 url: /ru/net/aspose.pdf/collection/
 ---
-## Collection class
+## Класс Коллекция
 
-Представляет класс для коллекции (12.3.5 коллекции).
+Представляет класс для Collection(12.3.5 Коллекции).
 
 ```csharp
 public class Collection : EmbeddedFileCollection
@@ -18,36 +18,36 @@ public class Collection : EmbeddedFileCollection
 
 | Имя | Описание |
 | --- | --- |
-| [Collection](collection)() | Инициализирует новый объект Collection. |
+| [Collection](collection/)() | Инициализирует новый объект Коллекция. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf/embeddedfilecollection/count) { get; } | Получает количество встроенных файлов в коллекцию. |
-| [DefaultEntry](../../aspose.pdf/collection/defaultentry) { get; } | Имя встроенного файла по умолчанию. |
-| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к этой коллекции синхронизированным (потокобезопасным). |
-| [Item](../../aspose.pdf/embeddedfilecollection/item) { get; } | Получить встроенный файл по его индексу. (2 indexers) |
-| [Keys](../../aspose.pdf/embeddedfilecollection/keys) { get; } | Возвращает список ключей прикрепленных файлов. |
-| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
+| [Count](../../aspose.pdf/embeddedfilecollection/count/) { get; } | Получает количество встроенных файлов в коллекции. |
+| [DefaultEntry](../../aspose.pdf/collection/defaultentry/) { get; } | Имя по умолчанию для встроенного файла. |
+| [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Получает значение, указывающее, синхронизирован ли доступ к этой коллекции (безопасно для потоков). |
+| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Получает встроенный файл по его индексу. (2 индексатора) |
+| [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Возвращает список ключей вложенных файлов. |
+| [Schema](../../aspose.pdf/collection/schema/) { get; } | Получает "Схему" коллекции документов. |
+| [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(FileSpecification) | Добавляет встроенную спецификацию файла в коллекцию. |
-| [Add](../../aspose.pdf/embeddedfilecollection/add)(string, FileSpecification) | Добавляет файл к встроенным файлам с указанным ключом. |
-| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto)(FileSpecification[], int) | Копирует массив объекта FileSpecification в коллекцию. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)() | Удалить все встроенные файлы из документа. |
-| [Delete](../../aspose.pdf/embeddedfilecollection/delete)(string) | Удалить встроенный файл по имени. |
-| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey)(string) | Удаляет файл из коллекции по его ключу в коллекции. |
-| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname)(string) | Возвращает встроенный файл по его имени. |
-| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator)() | Возвращает перечислитель коллекций. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(FileSpecification) | Добавляет спецификацию встроенного файла в коллекцию. |
+| [Add](../../aspose.pdf/embeddedfilecollection/add/)(string, FileSpecification) | Добавляет файл во встроенные файлы с указанным ключом. |
+| [CopyTo](../../aspose.pdf/embeddedfilecollection/copyto/)(FileSpecification[], int) | Копирует массив объектов FileSpecification в коллекцию. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)() | Удаляет все встроенные файлы из документа. |
+| [Delete](../../aspose.pdf/embeddedfilecollection/delete/)(string) | Удаляет встроенный файл по имени. |
+| [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey/)(string) | Удаляет файл из коллекции по его ключу в коллекции. |
+| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname/)(string) | Возвращает встроенный файл по его имени. |
+| [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator/)() | Возвращает перечислитель коллекции. |
+| [GetSortedCollection](../../aspose.pdf/collection/getsortedcollection/)() | Получает коллекцию файлов, отсортированных в соответствии со спецификацией. |
 
-### Смотрите также
+### См. также
 
-* class [EmbeddedFileCollection](../embeddedfilecollection)
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* класс [EmbeddedFileCollection](../embeddedfilecollection/)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,66 +1,66 @@
 ---
-title: ReplaceText
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen sayfadaki PDF dosyasındaki metni değiştirir.TextStateaspose.pdf.text/textstate nesne yazı tipi ailesi renk değiştirilecek metin olarak belirtilebilir.
+title: PdfContentEditor.ReplaceText
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor metodu. Belirtilen sayfadaki PDF dosyasındaki metni değiştirir. Değiştirilen metin için TextState nesnesi yazı tipi ailesi rengi belirtilebilir
 type: docs
 weight: 450
 url: /tr/net/aspose.pdf.facades/pdfcontenteditor/replacetext/
 ---
 ## ReplaceText(string, int, string, TextState) {#replacetext_1}
 
-Belirtilen sayfadaki PDF dosyasındaki metni değiştirir.[`TextState`](../../../aspose.pdf.text/textstate) nesne (yazı tipi ailesi, renk) değiştirilecek metin olarak belirtilebilir.
+Belirtilen sayfadaki PDF dosyasındaki metni değiştirir. [`TextState`](../../../aspose.pdf.text/textstate/) nesnesi (yazı tipi ailesi, renk) değiştirilen metin için belirtilebilir.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | srcString | String | Değiştirilecek dize. |
 | thePage | Int32 | Sayfa numarası (0 "tüm sayfalar" anlamına gelir). |
 | destString | String | Değiştirilen dize. |
-| textState | TextState | Metin durumu (Metin Rengi, Yazı Tipi vb.). |
+| textState | TextState | Metin durumu (Metin Rengi, Yazı tipi vb). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirme yapıldıysa true değerini döndürür.
+Değiştirmenin yapılıp yapılmadığını belirtmek için true döner.
 
-### Örnekler
+## Örnekler
 
-Örnek, PDF belgesinin ilk sayfasındaki metnin nasıl değiştirileceğini ve[`TextState`](../../../aspose.pdf.text/textstate) yeni metin için metin özellikleri.
+Örnek, PDF belgesinin ilk sayfasındaki metni nasıl değiştireceğinizi ve yeni metin için [`TextState`](../../../aspose.pdf.text/textstate/) metin özelliklerini nasıl ayarlayacağınızı gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// Font oluştur ve gömülü olarak işaretle
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// metni düzenlemek için PdfContentEditor nesnesi oluşturun
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// textState nesnesi oluştur
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontSize = 17;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 textState.ForegroundColor = Color.Red;
 
-// metni belirtilen yazı tipiyle değiştir
+// change text with specified font
 editor.ReplaceText("hello world", 1, "hi world", textState);
 
-// belgeyi kaydet
+// save document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextState](../../../aspose.pdf.text/textstate/)
+* sınıf [PdfContentEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -72,39 +72,39 @@ PDF dosyasındaki metni değiştirir.
 public bool ReplaceText(string srcString, string destString)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | srcString | String | Değiştirilecek dize. |
-| destString | String | Dize değiştiriliyor. |
+| destString | String | Değiştiren dize. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirme yapıldıysa true değerini döndürür.
+Değiştirmenin yapılıp yapılmadığını belirtmek için true döner.
 
-### Örnekler
+## Örnekler
 
-Örnek, PDF belgesindeki metnin nasıl değiştirileceğini gösterir.
+Örnek, PDF belgesindeki metni nasıl değiştireceğinizi gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// metni düzenlemek için PdfContentEditor nesnesi oluşturun
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// metni değiştir 
+// change text 
 editor.ReplaceText("hello world", "hi world");
 
-// belgeyi kaydet
+// save document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfContentEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -116,95 +116,95 @@ Belirtilen sayfadaki PDF dosyasındaki metni değiştirir.
 public bool ReplaceText(string srcString, int thePage, string destString)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| srcString | String | Değiştirilecek iğne. |
+| srcString | String | Değiştirilecek dize. |
 | thePage | Int32 | Sayfa numarası (tüm sayfalar için 0) |
-| destString | String | Dize değiştiriliyor. |
+| destString | String | Değiştiren dize. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirme yapıldıysa true değerini döndürür.
+Değiştirmenin yapılıp yapılmadığını belirtmek için true döner.
 
-### Örnekler
+## Örnekler
 
-Örnek, belirtilen sayfada PDF belgesindeki metnin nasıl değiştirileceğini gösterir.
+Örnek, belirtilen sayfadaki PDF belgesindeki metni nasıl değiştireceğinizi gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// metni düzenlemek için PdfContentEditor nesnesi oluşturun
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// metni değiştir 
+// change text 
 editor.ReplaceText("hello world", 1, "hi world");
 
-// belgeyi kaydet
+// save document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfContentEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## ReplaceText(string, string, TextState) {#replacetext_3}
 
-Belirtilen kullanarak PDF dosyasındaki metni değiştirir[`TextState`](../../../aspose.pdf.text/textstate) nesne.
+Belirtilen [`TextState`](../../../aspose.pdf.text/textstate/) nesnesini kullanarak PDF dosyasındaki metni değiştirir.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, TextState textState)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | srcString | String | Değiştirilecek dize |
-| destString | String | dize değiştiriliyor |
-| textState | TextState | Metin durumu (Metin Rengi, Yazı Tipi vb.) |
+| destString | String | Değiştiren dize |
+| textState | TextState | Metin durumu (Metin Rengi, Yazı tipi vb) |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirme yapıldıysa true değerini döndürür.
+Değiştirmenin yapılıp yapılmadığını belirtmek için true döner.
 
-### Örnekler
+## Örnekler
 
-Örnek, metnin nasıl değiştirileceğini ve[`TextState`](../../../aspose.pdf.text/textstate) yeni metin için metin özellikleri.
+Örnek, metni nasıl değiştireceğinizi ve yeni metin için [`TextState`](../../../aspose.pdf.text/textstate/) metin özelliklerini nasıl ayarlayacağınızı gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// Font oluştur ve gömülü olarak işaretle
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// metni düzenlemek için PdfContentEditor nesnesi oluşturun
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// textState nesnesi oluştur
+// create textState object
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 
-// metni belirtilen yazı tipiyle değiştir
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", textState);
 
-// belgeyi kaydet
+// save document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextState](../../../aspose.pdf.text/textstate)
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextState](../../../aspose.pdf.text/textstate/)
+* sınıf [PdfContentEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -216,43 +216,41 @@ PDF dosyasındaki metni değiştirir ve yazı tipi boyutunu ayarlar.
 public bool ReplaceText(string srcString, string destString, int fontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | srcString | String | Değiştirilecek dize. |
-| destString | String | Dize değiştiriliyor. |
-| fontSize | Int32 | Yazı Boyutu. |
+| destString | String | Değiştiren dize. |
+| fontSize | Int32 | Yazı tipi boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Değiştirme yapıldıysa true değerini döndürür.
+Değiştirmenin yapılıp yapılmadığını belirtmek için true döner.
 
-### Örnekler
+## Örnekler
 
-Örnek, metnin nasıl değiştirileceğini ve yeni metin için yazı tipi boyutunun nasıl ayarlanacağını gösterir.
+Örnek, metni nasıl değiştireceğinizi ve yeni metin için yazı tipi boyutunu nasıl ayarlayacağınızı gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// Font oluştur ve gömülü olarak işaretle
+// Create font and mark it to be embedded
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// metni düzenlemek için PdfContentEditor nesnesi oluşturun
+// create PdfContentEditor object to edit text
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// metni belirtilen yazı tipiyle değiştir
+// change text with specified font
 editor.ReplaceText("hello world", "hi world", 14);
 
-// belgeyi kaydet
+// save document
 doc.Save(outFile);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfContentEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

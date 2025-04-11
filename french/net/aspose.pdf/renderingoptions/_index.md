@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Représente les options de rendu.
+title: Class RenderingOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.RenderingOptions. Représente les options de rendu
 type: docs
-weight: 6200
+weight: 9760
 url: /fr/net/aspose.pdf/renderingoptions/
 ---
-## RenderingOptions class
+## Classe RenderingOptions
 
 Représente les options de rendu.
 
@@ -16,31 +16,29 @@ public sealed class RenderingOptions
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [RenderingOptions](renderingoptions)() | Default_Constructor |
+| [RenderingOptions](renderingoptions/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization) { get; set; } | Obtient ou définit le mode d'optimisation du code-barres. |
-| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Indique que toutes les polices seront converties en versions unicode TTF. Ceci est utile pour des raisons de compatibilité et pour optimiser l'utilisation des polices, car chaque nouvelle police TTF n'aura pas tous les symboles de la police source, mais uniquement les symboles utilisés dans le texte. |
-| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | Obtient/définit le nom par défaut de la police utilisée pour remplacer les polices manquantes. |
-| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | Obtient ou définit une valeur utilisée pour augmenter ou diminuer la largeur du rectangle pour l'opérateur AppendRectangle. |
-| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | Obtient ou définit le mode de haute qualité pour l'interpolation. |
-| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Nombre maximal de polices dans le cache des polices. La valeur par défaut est 10. |
-| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Nombre maximal de symboles dans le cache de symboles. La valeur par défaut est 100. |
-| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Obtient ou définit le mode d'optimisation des dimensions. |
-| [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | Obtient ou définit une valeur utilisée pour redimensionner toutes les images de la page en fonction de la largeur de la page. |
-| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Obtient ou définit un mode dans lequel les polices système sont rendues nativement. |
-| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | L'utilisation de cet indicateur active le mécanisme d'indication de police. L'indication de police est l'utilisation d'instructions mathématiques pour ajuster l'affichage d'une police vectorielle. Dans certains cas, l'activation de cet indicateur peut résoudre des problèmes de lisibilité du texte. À l'heure actuelle, l'utilisation de cet indicateur ne peut avoir d'effet que pour les polices TTF, si ces polices sont utilisées dans le document source. |
-| [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | Obtient ou définit un indicateur qui détermine si le nouveau moteur d'imagerie est utilisé ou non. |
-| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } | Obtient ou définit une valeur utilisée pour augmenter ou diminuer la largeur du rectangle pour l'opérateur AppendRectangle. |
+| [AnalyzeFonts](../../aspose.pdf/renderingoptions/analyzefonts/) { get; set; } | Remplace les polices si nécessaire pour garantir que tous les caractères du texte peuvent être affichés. L'algorithme de substitution de police suit ces étapes : 1. Si l'utilisateur définit explicitement la propriété DefaultFontName, vérifiez si la police spécifiée peut afficher les caractères souhaités. 2. Si aucune police définie par l'utilisateur n'est définie, recherchez parmi les polices ajoutées via le !:FontRepository.Sources. 3. Analysez le texte pour identifier son alphabet ou son écriture et suggérez des noms de polices en conséquence. Essayez de localiser et d'utiliser ces polices à partir du système. 4. En dernier recours, recherchez dans le système toute police capable d'afficher les caractères requis. |
+| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization/) { get; set; } | Obtient ou définit le mode d'optimisation des codes-barres. |
+| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf/) { get; set; } | Indique que toutes les polices seront converties en versions TTF unicode. Cela est utile pour des raisons de compatibilité et pour optimiser l'utilisation des polices, car chaque nouvelle police TTF n'aura pas tous les symboles de la police source, mais uniquement les symboles utilisés dans le texte. |
+| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname/) { get; set; } | Obtient/définit le nom par défaut de la police utilisée pour remplacer les polices manquantes. |
+| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits/) { get; set; } | Obtient ou définit une valeur utilisée pour augmenter ou diminuer la largeur du rectangle pour l'opérateur AppendRectangle. |
+| [IgnoreResourceFontErrors](../../aspose.pdf/renderingoptions/ignoreresourcefonterrors/) { get; set; } | Obtient ou définit l'indication que les erreurs liées à l'absence de police seront ignorées. true - signifie que les erreurs d'absence de police seront ignorées. Les segments de texte qui se réfèrent à des ressources incorrectes seront ignorés lors du traitement. false par défaut |
+| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality/) { get; set; } | Obtient ou définit le mode haute qualité pour l'interpolation. |
+| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize/) { get; set; } | Nombre maximum de polices dans le cache de polices. La valeur par défaut est 10. |
+| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize/) { get; set; } | Nombre maximum de symboles dans le cache de symboles. La valeur par défaut est 100. |
+| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions/) { get; set; } | Obtient ou définit le mode d'optimisation des dimensions. |
+| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering/) { get; set; } | Obtient ou définit un mode où les polices système sont rendues nativement. |
+| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting/) { get; set; } | L'utilisation de ce drapeau active le mécanisme de hinting des polices. Le hinting des polices est l'utilisation d'instructions mathématiques pour ajuster l'affichage d'une police en contour. Dans certains cas, activer ce drapeau peut résoudre des problèmes de lisibilité du texte. À l'heure actuelle, l'utilisation de ce drapeau pourrait n'avoir d'effet que pour les polices TTF, si ces polices sont utilisées dans le document source. |
+| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits/) { get; set; } | Obtient ou définit une valeur utilisée pour augmenter ou diminuer la largeur du rectangle pour l'opérateur AppendRectangle. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

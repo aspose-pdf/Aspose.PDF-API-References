@@ -1,56 +1,55 @@
 ---
-title: SetColor
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة لمشغل sc ضبط اللون للعمليات غير الممسدة .
+title: Class SetColor
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Operators.SetColor. تمثل فئة لمشغل sc لتعيين اللون للعمليات غير المرسومة
 type: docs
-weight: 5390
+weight: 7630
 url: /ar/net/aspose.pdf.operators/setcolor/
 ---
 ## SetColor class
 
-يمثل فئة لمشغل sc (ضبط اللون للعمليات غير الممسدة) .
+تمثل فئة لمشغل sc (تعيين اللون للعمليات غير المرسومة).
 
 ```csharp
 public class SetColor : BasicSetColorOperator
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [SetColor](setcolor#constructor)() | تهيئة المشغل . |
-| [SetColor](setcolor#constructor_1)(double) | تعيين لون عوامل التمسيد لـ DeviceGrey و CalGrey ومساحات الألوان المفهرسة. |
-| [SetColor](setcolor#constructor_4)(double[]) | المُنشئ الذي يسمح بتحديد مكونات اللون. |
-| [SetColor](setcolor#constructor_2)(double, double, double) | تعيين لون لمشغل التمسيد لمساحات ألوان DeviceRGB و CalRGB و Lab |
-| [SetColor](setcolor#constructor_3)(double, double, double, double) | تعيين اللون للمشغل غير الممسوس لمساحة ألوان CMYK |
+| [SetColor](setcolor/#constructor)() | يقوم بتهيئة المشغل. |
+| [SetColor](setcolor/#constructor_1)(double) | تعيين اللون لمشغلات الرسم للألوان DeviceGray و CalGray و Indexed. |
+| [SetColor](setcolor/#constructor_4)(double[]) | مُنشئ يسمح بتحديد مكونات اللون. |
+| [SetColor](setcolor/#constructor_2)(double, double, double) | تعيين اللون لمشغل الرسم لألوان DeviceRGB و CalRGB و Lab |
+| [SetColor](setcolor/#constructor_3)(double, double, double, double) | تعيين اللون لمشغل غير مرسوم لمساحة اللون CMYK |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | يحصل على مكون أحمر من color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | الحصول على مكون سماوي من لون CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | يحصل على مصفوفة من مكونات اللون . |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | الحصول على مكون أخضر من color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | يحصل على مكون أسود من اللون الرمادي. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | فهرس المشغل في قائمة مشغلي الصفحات . |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | يحصل على مكون أسود من لون CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | الحصول على مكون أرجواني من لون CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | يحصل على مكون أحمر من color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | الحصول على المكون الأصفر من لون CMYK. |
+| [B](../../aspose.pdf.operators/setcolor/b/) { get; set; } | يحصل على أو يحدد مكون اللون الأزرق. |
+| [C](../../aspose.pdf.operators/setcolor/c/) { get; set; } | يحصل على أو يحدد مكون اللون السماوي. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكونات اللون. |
+| [G](../../aspose.pdf.operators/setcolor/g/) { get; set; } | يحصل على أو يحدد مكون اللون الأخضر. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على مكون اللون الأسود من اللون الرمادي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [K](../../aspose.pdf.operators/setcolor/k/) { get; set; } | يحصل على أو يحدد مكون اللون الأسود. |
+| [M](../../aspose.pdf.operators/setcolor/m/) { get; set; } | يحصل على أو يحدد مكون اللون الأرجواني. |
+| [R](../../aspose.pdf.operators/setcolor/r/) { get; set; } | يحصل على أو يحدد مكون اللون الأحمر. |
+| [Y](../../aspose.pdf.operators/setcolor/y/) { get; set; } | يحصل على أو يحدد مكون اللون الأصفر. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | يقبل كائن الزائر بمعالجة عامل التشغيل. |
-| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | إرجاع اللون المحدد بواسطة عامل التشغيل . |
-| override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | إرجاع تمثيل سلسلة اللون . |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
+| override [getColor](../../aspose.pdf.operators/setcolor/getcolor/)() | يعيد اللون المحدد بواسطة المشغل. |
+| override [ToString](../../aspose.pdf.operators/setcolor/tostring/)() | يعيد تمثيل سلسلة للون. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
 
-### أنظر أيضا
+### See Also
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* مساحة الاسم [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [BasicSetColorOperator](../basicsetcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)

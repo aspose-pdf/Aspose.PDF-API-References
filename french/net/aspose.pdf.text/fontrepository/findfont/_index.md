@@ -1,7 +1,7 @@
 ---
-title: FindFont
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Recherche et renvoie la police avec le nom de police spécifié.
+title: FontRepository.FindFont
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode FontRepository. Recherche et renvoie la police avec le nom de police spécifié
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/fontrepository/findfont/
@@ -14,44 +14,44 @@ Recherche et renvoie la police avec le nom de police spécifié.
 public static Font FindFont(string fontName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontName | String | Nom de la police. |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police.
+Objet Font.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment trouver la police et remplacer la police du texte de la première page.
+L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Recherche de police
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crée un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -63,147 +63,145 @@ Recherche et renvoie la police avec le nom de police spécifié en ignorant ou e
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontName | String | Nom de la police. |
 | ignoreCase | Boolean | sensibilité à la casse |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police.
+Objet Font.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment trouver la police et remplacer la police du texte de la première page.
+L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Recherche de police
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crée un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Recherche et renvoie la police avec le nom et le style de police spécifiés.
+Recherche et renvoie la police avec le nom de police spécifié et le style de police.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | String | Nom de famille de la police. |
+| fontFamilyName | String | Nom de la famille de polices. |
 | stl | FontStyles | Valeur du style de police. |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police correspondant aux paramètres de la requête de recherche.
+Objet Font correspondant aux paramètres de la demande de recherche.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment trouver la police et remplacer la police du texte de la première page.
+L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Recherche de police
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Créer un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Recherche et renvoie la police avec le nom et le style de police spécifiés en ignorant ou en respectant la sensibilité à la casse.
+Recherche et renvoie la police avec le nom de police spécifié et le style de police en ignorant ou en respectant la sensibilité à la casse.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | String | Nom de famille de la police. |
+| fontFamilyName | String | Nom de la famille de polices. |
 | stl | FontStyles | Valeur du style de police. |
 | ignoreCase | Boolean | sensibilité à la casse |
 
-### Return_Value
+### Valeur de retour
 
-Objet de police correspondant aux paramètres de la requête de recherche.
+Objet Font correspondant aux paramètres de la demande de recherche.
 
-### Exemples
+## Exemples
 
-L'exemple montre comment trouver la police et remplacer la police du texte de la première page.
+L'exemple démontre comment trouver une police et remplacer la police du texte de la première page.
 
 ```csharp
-// Recherche de police
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Ouvrir le document
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Créer un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accepte l'absorbeur pour la première page
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Change la police de la première occurrence de texte
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Enregistrer le document
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* espace de noms [Aspose.Pdf.Text](../../fontrepository)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

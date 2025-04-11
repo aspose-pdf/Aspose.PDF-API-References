@@ -1,86 +1,86 @@
 ---
-title: AddFooter
-second_title: Aspose.PDF لمرجع .NET API
-description: إضافة تذييل إلى صفحات المستند.
+title: PdfFileStamp.AddFooter
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileStamp. يضيف تذييلًا إلى صفحات المستند
 type: docs
-weight: 150
+weight: 110
 url: /ar/net/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
 ## AddFooter(FormattedText, float) {#addfooter}
 
-إضافة تذييل إلى صفحات المستند.
+يضيف تذييلًا إلى صفحات المستند.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| formattedText | FormattedText | كائن FormattedText يحتوي على نص التذييل وخصائص النص. |
-| bottomMargin | Single | الهامش في أعلى الصفحة. |
+| Parameter     | Type          | Description                                                             |
+| ------------- | ------------- | ----------------------------------------------------------------------- |
+| formattedText | FormattedText | كائن FormattedText الذي يحتوي على نص التذييل وخصائص النص.              |
+| bottomMargin  | Single        | هامش في أعلى الصفحة.                                                   |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* فئة [FormattedText](../../formattedtext/)
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(FormattedText, float, float, float) {#addfooter_1}
 
-إضافة تذييل إلى صفحات المستند.
+يضيف تذييلًا إلى صفحات المستند.
 
 ```csharp
 public void AddFooter(FormattedText formattedText, float bottomMargin, float leftMargin, 
     float rightMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| formattedText | FormattedText | كائن FormattedText يحتوي على نص التذييل وخصائص النص. |
-| bottomMargin | Single | الهامش في أسفل الصفحة. |
-| leftMargin | Single | الهامش في الجانب الأيسر من الصفحة. |
-| rightMargin | Single | الهامش في الجانب الأيمن من الصفحة. |
+| Parameter     | Type          | Description                                                      |
+| ------------- | ------------- | ---------------------------------------------------------------- |
+| formattedText | FormattedText | كائن FormattedText الذي يحتوي على نص التذييل وخصائص النص.         |
+| bottomMargin  | Single        | هامش في أسفل الصفحة.                                             |
+| leftMargin    | Single        | هامش في الجانب الأيسر من الصفحة.                                |
+| rightMargin   | Single        | هامش في الجانب الأيمن من الصفحة.                                |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* فئة [FormattedText](../../formattedtext/)
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float) {#addfooter_4}
 
-إضافة صورة كتذييل إلى صفحات المستند.
+يضيف صورة كتذييل لصفحات المستند.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| imageFile | String | اسم ملف الصورة والمسار. |
-| bottomMargin | Single | الهامش في أسفل الصفحة. |
+| Parameter   | Type   | Description                     |
+| ----------- | ------ | ------------------------------- |
+| imageFile   | String | اسم ملف الصورة والمسار.         |
+| bottomMargin| Single | هامش في أسفل الصفحة.             |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -89,30 +89,30 @@ fileStamp.AddFooter("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(string, float, float, float) {#addfooter_5}
 
-إضافة صورة كتذييل للصفحات.
+يضيف صورة كتذييل للصفحات.
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| imageFile | String | Iamge اسم الملف والمسار. |
-| bottomMargin | Single | الهامش في أسفل الصفحة. |
-| leftMargin | Single | الهامش في الجانب الأيسر من الصفحة. |
-| rightMargin | Single | الهامش في الجانب الأيمن من الصفحة. |
+| Parameter   | Type   | Description                                  |
+| ----------- | ------ | -------------------------------------------- |
+| imageFile   | String | Iamge file name and path.                    |
+| bottomMargin| Single | هامش في أسفل الصفحة.                         |
+| leftMargin  | Single | هامش في الجانب الأيسر من الصفحة.            |
+| rightMargin | Single | هامش في الجانب الأيمن من الصفحة.            |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -121,28 +121,28 @@ fileStamp.AddFooter("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float) {#addfooter_2}
 
-إضافة صورة كتذييل للصفحة.
+يضيف صورة كتذييل للصفحة.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| imageStream | Stream | دفق يحتوي على بيانات الصورة. |
-| bottomMargin | Single | الهامش في أسفل الصفحة. |
+| Parameter    | Type   | Description                              |
+| ------------ | ------ | ---------------------------------------- |
+| imageStream  | Stream | Stream يحتوي على بيانات الصورة.         |
+| bottomMargin | Single | هامش في أسفل الصفحة.                      |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -151,30 +151,30 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## AddFooter(Stream, float, float, float) {#addfooter_3}
 
-إضافة صورة كتذييل للصفحة.
+يضيف صورة كتذييل للصفحة.
 
 ```csharp
 public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| imageStream | Stream | دفق يحتوي على بيانات الصورة. |
-| bottomMargin | Single | الهامش في أسفل الصفحة. |
-| leftMargin | Single | الهامش في الجانب الأيسر من الصفحة. |
-| rightMargin | Single | الهامش في الجانب الأيمن من الصفحة. |
+| Parameter    | Type   | Description                              |
+| ------------ | ------ | ---------------------------------------- |
+| imageStream  | Stream | Stream يحتوي على بيانات الصورة.         |
+| bottomMargin | Single | هامش في أسفل الصفحة.                      |
+| leftMargin   | Single | هامش في الجانب الأيسر من الصفحة.            |
+| rightMargin  | Single | هامش في الجانب الأيمن من الصفحة.            |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -183,10 +183,8 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [PdfFileStamp](../)
+* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../../)

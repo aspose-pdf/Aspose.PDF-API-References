@@ -1,12 +1,12 @@
 ---
-title: TryInsert
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inserta páginas de otro archivo en el archivo Pdf de entrada.
+title: PdfFileEditor.TryInsert
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Inserta páginas de otro archivo en el archivo Pdf de entrada
 type: docs
-weight: 450
+weight: 420
 url: /es/net/aspose.pdf.facades/pdffileeditor/tryinsert/
 ---
-## TryInsert(string, int, string, int[], string) {#tryinsert_2}
+## TryInsert(string, int, string, int[], string) {#tryinsert_1}
 
 Inserta páginas de otro archivo en el archivo Pdf de entrada.
 
@@ -15,34 +15,34 @@ public bool TryInsert(string inputFile, int insertLocation, string portFile, int
     string outputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Archivo PDF de entrada. |
-| insertLocation | Int32 | Insertar posición en el archivo de entrada. |
+| inputFile | String | Archivo Pdf de entrada. |
+| insertLocation | Int32 | Posición de inserción en el archivo de entrada. |
 | portFile | String | Páginas del archivo Pdf. |
 | pageNumber | Int32[] | El número de página del archivo portado en portFile. |
-| outputFile | String | Archivo PDF de salida. |
+| outputFile | String | Archivo Pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero si tiene éxito, o falso.
 
-### Observaciones
+## Observaciones
 
-El método TryInsert es como el método Insert, excepto que el método TryInsert no genera una excepción si la operación falla.
+El método TryInsert es como el método Insert, excepto que el método TryInsert no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -55,23 +55,23 @@ public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream,
     Stream outputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de entrada del archivo PDF. |
-| insertLocation | Int32 | Insertar posición en el archivo de entrada. |
-| portStream | Stream | Secuencia de archivo Pdf para páginas. |
+| inputStream | Stream | Flujo de entrada del archivo Pdf. |
+| insertLocation | Int32 | Posición de inserción en el archivo de entrada. |
+| portStream | Stream | Flujo del archivo Pdf para las páginas. |
 | pageNumber | Int32[] | El número de página del archivo portado en portFile. |
-| outputStream | Stream | Salida de corriente. |
+| outputStream | Stream | Flujo de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+verdadero si la operación se completó con éxito; de lo contrario, falso.
 
-### Observaciones
+## Observaciones
 
-El método TryInsert es como el método Insert, excepto que el método TryInsert no genera una excepción si la operación falla.
+El método TryInsert es como el método Insert, excepto que el método TryInsert no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -81,44 +81,43 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
----
 
 ## TryInsert(string, int, string, int[], HttpResponse) {#tryinsert_3}
 
-Inserta el contenido del archivo en el archivo de origen y almacena el resultado en el objeto HttpResponse.
+Inserta el contenido del archivo en el archivo fuente y almacena el resultado en el objeto HttpResponse.
 
 ```csharp
 public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Nombre del archivo de origen. |
+| inputFile | String | Nombre del archivo fuente. |
 | insertLocation | Int32 | Número de página donde se insertará el segundo archivo. |
 | portFile | String | Ruta al archivo que se insertará. |
-| pageNumber | Int32[] | Matriz de números de página en el archivo de origen que se insertará. |
+| pageNumber | Int32[] | Array de números de página en el archivo fuente que se insertarán. |
 | response | HttpResponse | Objeto de respuesta donde se almacenará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+verdadero si la operación se completó con éxito; de lo contrario, falso.
 
-### Observaciones
+## Observaciones
 
-El método TryInsert es como el método Insert, excepto que el método TryInsert no genera una excepción si la operación falla.
+El método TryInsert es como el método Insert, excepto que el método TryInsert no lanza una excepción si la operación falla.
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -131,26 +130,24 @@ public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream,
     HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Transmisión con documento de origen |
-| insertLocation | Int32 | Ubicación donde se insertará otro documento. |
-| portStream | Stream | Documento a insertar. |
-| pageNumber | Int32[] | Matriz de números de página en el segundo documento que se insertará. |
+| inputStream | Stream | Flujo con el documento fuente |
+| insertLocation | Int32 | Ubicación donde se insertará el otro documento. |
+| portStream | Stream | Documento que se insertará. |
+| pageNumber | Int32[] | Array de números de página en el segundo documento que se insertarán. |
 | response | HttpResponse | Objeto de respuesta donde se almacenará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+verdadero si la operación se completó con éxito; de lo contrario, falso.
 
-### Observaciones
+## Observaciones
 
-El método TryInsert es como el método Insert, excepto que el método TryInsert no genera una excepción si la operación falla.
+El método TryInsert es como el método Insert, excepto que el método TryInsert no lanza una excepción si la operación falla.
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

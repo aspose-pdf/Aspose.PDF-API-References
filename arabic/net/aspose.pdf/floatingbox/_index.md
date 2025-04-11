@@ -1,59 +1,58 @@
 ---
-title: FloatingBox
-second_title: Aspose.PDF لمرجع .NET API
-description: 
+title: Class FloatingBox
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.FloatingBox.
 type: docs
-weight: 2840
+weight: 4870
 url: /ar/net/aspose.pdf/floatingbox/
 ---
-## FloatingBox class
+## فئة FloatingBox
 
 ```csharp
 public class FloatingBox : BaseParagraph
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FloatingBox](floatingbox#constructor)() | يقوم بتهيئة مثيل جديد لملف[`FloatingBox`](../floatingbox) فئة . |
-| [FloatingBox](floatingbox#constructor_1)(float, float) | يقوم بتهيئة مثيل جديد لملف[`FloatingBox`](../floatingbox) فئة بعرض وارتفاع محددين. |
+| [FloatingBox](floatingbox/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `FloatingBox`. |
+| [FloatingBox](floatingbox/#constructor_1)(float, float) | يقوم بتهيئة مثيل جديد من فئة `FloatingBox` مع عرض وارتفاع محددين. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf/floatingbox/backgroundcolor) { get; set; } | يحصل أو يحدد أ[`Color`](../color) كائن يشير إلى لون خلفية المربع العائم. |
-| [BackgroundImage](../../aspose.pdf/floatingbox/backgroundimage) { get; set; } | الحصول على أو تعيين صورة الخلفية للصفحة (للمولد فقط). |
-| [Border](../../aspose.pdf/floatingbox/border) { get; set; } | يحصل أو يحدد أ[`BorderInfo`](../borderinfo)كائن يشير إلى معلومات حدود المربع العائم. |
-| [ColumnInfo](../../aspose.pdf/floatingbox/columninfo) { get; set; } | الحصول على أو تعيين معلومات العمود |
-| [Height](../../aspose.pdf/floatingbox/height) { get; set; } | الحصول على أو تعيين قيمة عائمة تشير إلى ارتفاع المربع العائم. |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية للفقرة أو تعيينها |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [IsNeedRepeating](../../aspose.pdf/floatingbox/isneedrepeating) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة بحاجة إلى التكرار في الصفحة التالية. |
-| [Left](../../aspose.pdf/floatingbox/left) { get; set; } | الحصول على أو تحديد إحداثيات يسار الجدول . |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [Padding](../../aspose.pdf/floatingbox/padding) { get; set; } | يحصل أو يحدد أ[`MarginInfo`](../margininfo) كائن يشير إلى المساحة المتروكة للمربع العائم. |
-| [Paragraphs](../../aspose.pdf/floatingbox/paragraphs) { get; set; } | يحصل أو يحدد أ[`Paragraphs`](./paragraphs) مجموعة تشير إلى جميع الفقرات في الخلية. |
-| [Top](../../aspose.pdf/floatingbox/top) { get; set; } | الحصول على أو تحديد إحداثيات أعلى الجدول . |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
-| [Width](../../aspose.pdf/floatingbox/width) { get; set; } | الحصول على أو تعيين قيمة عائمة تشير إلى عرض المربع العائم. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| [BackgroundColor](../../aspose.pdf/floatingbox/backgroundcolor/) { get; set; } | يحصل أو يحدد كائن [`Color`](../color/) الذي يشير إلى لون خلفية صندوق العائم. |
+| [BackgroundImage](../../aspose.pdf/floatingbox/backgroundimage/) { get; set; } | يحصل أو يحدد صورة الخلفية للصفحة (للمولد فقط، لا يتم ملؤها عند قراءة المستند). |
+| [Border](../../aspose.pdf/floatingbox/border/) { get; set; } | يحصل أو يحدد كائن [`BorderInfo`](../borderinfo/) الذي يشير إلى معلومات الحدود لصندوق العائم. |
+| [ColumnInfo](../../aspose.pdf/floatingbox/columninfo/) { get; set; } | يحصل أو يحدد معلومات العمود |
+| [Height](../../aspose.pdf/floatingbox/height/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى ارتفاع صندوق العائم. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الفقرة (للمولد PDF). |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsNeedRepeating](../../aspose.pdf/floatingbox/isneedrepeating/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة بحاجة إلى التكرار في الصفحة التالية. القيمة الافتراضية هي false. السمة صالحة فقط عندما تكون الفقرة نفسها والكائن الذي يشير إليه ReferenceParagraphID مدرجين في RepeatingRows. |
+| [Left](../../aspose.pdf/floatingbox/left/) { get; set; } | يحصل أو يحدد إحداثي اليسار للجدول. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [Padding](../../aspose.pdf/floatingbox/padding/) { get; set; } | يحصل أو يحدد كائن [`MarginInfo`](../margininfo/) الذي يشير إلى الحشو لصندوق العائم. |
+| [Paragraphs](../../aspose.pdf/floatingbox/paragraphs/) { get; set; } | يحصل أو يحدد مجموعة [`Paragraphs`](./paragraphs/) التي تشير إلى جميع الفقرات في الخلية. |
+| [PositioningMode](../../aspose.pdf/floatingbox/positioningmode/) { get; set; } | يحدد متغيرًا لتحديد موقع صندوق العائم على الصفحة. |
+| [Top](../../aspose.pdf/floatingbox/top/) { get; set; } | يحصل أو يحدد إحداثي الأعلى للجدول. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
+| [Width](../../aspose.pdf/floatingbox/width/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى عرض صندوق العائم. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم ذو ZIndex أكبر فوق الرسم ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم ذو ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf/floatingbox/clone)() | استنساخ جديد[`FloatingBox`](../floatingbox) هدف. لم يتم نسخ الفقرات الموجودة في المربع العائم. |
+| override [Clone](../../aspose.pdf/floatingbox/clone/)() | يقوم بإنشاء نسخة جديدة من كائن `FloatingBox`. الفقرات في صندوق العائم لا يتم نسخها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseParagraph](../baseparagraph)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [BaseParagraph](../baseparagraph/)
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

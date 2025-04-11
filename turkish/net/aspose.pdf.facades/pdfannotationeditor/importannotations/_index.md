@@ -1,25 +1,25 @@
 ---
-title: ImportAnnotations
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen ek açıklamaları başka bir PDF belgesi dizisinden belgeye aktarır.
+title: PdfAnnotationEditor.ImportAnnotations
+second_title: Aspose.PDF for .NET API Reference
+description: PdfAnnotationEditor metodu. Belirtilen notları başka PDF belgelerinin dizisinden belgeye aktarır.
 type: docs
 weight: 90
 url: /tr/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Belirtilen ek açıklamaları başka bir PDF belgesi dizisinden belgeye aktarır.
+Belirtilen notları başka PDF belgelerinin dizisinden belgeye aktarır.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotFile | String[] | Kaynak açıklamaları içeren PDF belgelerinin yol dizisi. |
-| annotType | AnnotationType[] | İçe aktarılacak ek açıklama türleri dizisi. |
+| annotFile | String[] | Kaynak notları içeren PDF belgelerinin yol dizisi. |
+| annotType | AnnotationType[] | Aktarılacak not türleri dizisi. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -30,28 +30,28 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* toplantı [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Ek açıklamaları başka bir PDF belgesi dizisinden belgeye aktarır.
+Notları başka PDF belgelerinin dizisinden belgeye aktarır.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotFile | String[] | Kaynak açıklamaları içeren PDF belgelerinin yol dizisi. |
+| annotFile | String[] | Kaynak notları içeren PDF belgelerinin yol dizisi. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -61,28 +61,28 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Belirtilen ek açıklamaları başka bir PDF belge akışı dizisinden belgeye aktarır.
+Belirtilen notları başka PDF belge akışlarının dizisinden belgeye aktarır.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Kaynak açıklamaları içeren PDF belgelerinin akış dizisi. |
-| annotType | AnnotationType[] | İçe aktarılacak ek açıklama türleri. |
+| annotFileStream | Stream[] | Kaynak notları içeren PDF belgelerinin akış dizisi. |
+| annotType | AnnotationType[] | Aktarılacak not türleri. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -97,28 +97,28 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* toplantı [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Ek açıklamaları başka bir PDF belge akışı dizisinden belgeye aktarır.
+Notları başka PDF belge akışlarının dizisinden belgeye aktarır.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotFileStream | Stream[] | Kaynak açıklamaları içeren PDF belgelerinin akış dizisi. |
+| annotFileStream | Stream[] | Kaynak notları içeren PDF belgelerinin akış dizisi. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -132,10 +132,8 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

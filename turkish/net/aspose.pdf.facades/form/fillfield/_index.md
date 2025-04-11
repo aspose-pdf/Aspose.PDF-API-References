@@ -1,55 +1,55 @@
 ---
-title: FillField
-second_title: Aspose.PDF for .NET API Referansı
-description: Alanı belirtilen değerle doldurur.
+title: Form.FillField
+second_title: Aspose.PDF for .NET API Reference
+description: Form metodu. Alanı tam nitelikli alan adına göre geçerli bir değerle doldurur. Alanları doldurmadan önce, her alanın adları ve karşılık gelen geçerli değerleri bilinmelidir. Hem alan adları hem de değerler büyük/küçük harf duyarlıdır. Lütfen Aspose.Pdf.Facades'ın yalnızca tam alan adlarını desteklediğini ve Aspose.Pdf.Kit ile karşılaştırıldığında kısmi alan adlarıyla çalışmadığını unutmayın. Örneğin, alanın tam adı "Form.Subform.TextField" ise, tam adı belirtmelisiniz ve "TextField" değil. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
 type: docs
-weight: 160
+weight: 130
 url: /tr/net/aspose.pdf.facades/form/fillfield/
 ---
 ## FillField(string, string, bool) {#fillfield_3}
 
-Alanı belirtilen değerle doldurur.
+Belirtilen değerle alanı doldurur.
 
 ```csharp
 public bool FillField(string fieldName, string value, bool fitFontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fieldName | String | Alanın adı |
+| fieldName | String | Alan adı |
 | value | String | Alanın yeni değeri |
-| fitFontSize | Boolean | Doğruysa, düzenleme kutularındaki yazı tipi boyutu sığacaktır. |
+| fitFontSize | Boolean | Eğer doğruysa, düzenleme kutularındaki yazı tipi boyutu ayarlanacaktır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-alan bulunur ve başarıyla doldurulursa true .
+Alan bulunduysa ve başarıyla doldurulduysa doğru.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Form](../../form)
-* ad alanı [Aspose.Pdf.Facades](../../form)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string) {#fillfield_2}
 
-Alanı, tam nitelikli alan adına göre geçerli bir değerle doldurur. Alanları doldurmadan önce, her alanın adı ve buna karşılık gelen geçerli değerleri bilinmelidir. Hem alanların adı hem de değerleri büyük/küçük harf duyarlıdır. Lütfen şunu unutmayın: Aspose.Pdf.Facades yalnızca tam alan adlarını destekler ve Aspose.Pdf.Kit; 'nin aksine kısmi alan adlarıyla çalışmaz. "Metin alanı". Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
+Alanı tam nitelikli alan adına göre geçerli bir değerle doldurur. Alanları doldurmadan önce, her alanın adları ve karşılık gelen geçerli değerleri bilinmelidir. Hem alan adları hem de değerler büyük/küçük harf duyarlıdır. Lütfen Aspose.Pdf.Facades'ın yalnızca tam alan adlarını desteklediğini ve Aspose.Pdf.Kit ile karşılaştırıldığında kısmi alan adlarıyla çalışmadığını unutmayın; Örneğin, alanın tam adı "Form.Subform.TextField" ise, tam adı belirtmelisiniz ve "TextField" değil. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Doldurulacak alanın adı. |
-| fieldValue | String | Bazı alanlar için geçerli bir değer olması gereken alanın değeri. |
+| fieldValue | String | Alanın değeri, bazı alanlar için geçerli bir değer olmalıdır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-alan bulunur ve başarıyla doldurulursa true .
+Alan bulunduysa ve başarıyla doldurulduysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
@@ -58,7 +58,7 @@ form.FillField("LastName",  "Smith");
 ```
 
 ```csharp
-// alan adı kısmi adıyla nasıl aranır:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -69,32 +69,32 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Form](../../form)
-* ad alanı [Aspose.Pdf.Facades](../../form)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, int) {#fillfield_1}
 
-Radyo kutusu alanını tam nitelikli alan adına göre geçerli bir dizin değeriyle doldurur. Alanları doldurmadan önce yalnızca alanın adının bilinmesi gerekir. Değer, indeksi ile belirtilebilirken. Uyarı: Yalnızca Radio Box, Combo Box ve List Box alanlarına uygulanabilir. Aspose.Pdf.Facades'in yalnızca tam alan adlarını desteklediğini ve kısmi alan adlarıyla çalışmadığını lütfen unutmayın. Aspose.Pdf.Kit'in aksine; Örneğin, alanın tam adı "Form.Subform.ListBoxField" ise, "ListBoxField" yerine tam adı belirtmelisiniz. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
+Radyo kutusu alanını tam nitelikli alan adına göre geçerli bir indeks değeriyle doldurur. Alanları doldurmadan önce, yalnızca alan adı bilinmelidir. Değer, indeksine göre belirtilebilir. Not: Sadece Radyo Kutusu, Kombinasyon Kutusu ve Liste Kutusu alanlarına uygulanabilir. Lütfen Aspose.Pdf.Facades'ın yalnızca tam alan adlarını desteklediğini ve Aspose.Pdf.Kit ile karşılaştırıldığında kısmi alan adlarıyla çalışmadığını unutmayın; Örneğin, alanın tam adı "Form.Subform.ListBoxField" ise, tam adı belirtmelisiniz ve "ListBoxField" değil. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
 
 ```csharp
 public bool FillField(string fieldName, int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Doldurulacak alanın adı. |
-| index | Int32 | Seçilen öğenin dizini. |
+| index | Int32 | Seçilen öğenin indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-alan bulunur ve başarıyla doldurulursa true .
+Alan bulunduysa ve başarıyla doldurulduysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
@@ -104,7 +104,7 @@ form.FillField("radiobuttonField", 2);
 ```
 
 ```csharp
-// alan adı kısmi adıyla nasıl aranır:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -115,32 +115,32 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Form](../../form)
-* ad alanı [Aspose.Pdf.Facades](../../form)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, bool) {#fillfield}
 
-Onay kutusu alanını bir boole değeriyle doldurur. Uyarı: Yalnızca Check Box'a uygulanır. Lütfen unutmayın, Aspose.Pdf.Facades yalnızca tam alan adlarını destekler ve Aspose.Pdf'nin aksine kısmi alan adlarıyla çalışmaz .Kit; Örneğin, alanın tam adı "Form.Subform.CheckBoxField" ise, "CheckBoxField" yerine tam adı belirtmelisiniz. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
+Onay kutusu alanını bir boolean değeriyle doldurur. Not: Sadece Onay Kutusu için uygulanabilir. Lütfen Aspose.Pdf.Facades'ın yalnızca tam alan adlarını desteklediğini ve Aspose.Pdf.Kit ile karşılaştırıldığında kısmi alan adlarıyla çalışmadığını unutmayın; Örneğin, alanın tam adı "Form.Subform.CheckBoxField" ise, tam adı belirtmelisiniz ve "CheckBoxField" değil. Mevcut alan adlarını keşfetmek ve gerekli alanı kısmi adıyla aramak için FieldNames özelliğini kullanabilirsiniz.
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Doldurulacak alanın adı. |
-| beChecked | Boolean | Boolean flag: true, kutuyu işaretlemek, false ise işaretini kaldırmak anlamına gelir. |
+| beChecked | Boolean | Bir boolean bayrağı: doğru, kutuyu işaretlemek anlamına gelir, yanlış ise işareti kaldırmak anlamına gelir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-alan bulunur ve başarıyla doldurulursa true .
+Alan bulunduysa ve başarıyla doldurulduysa doğru.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
@@ -148,7 +148,7 @@ form.FillField("checkboxField", true);
 ```
 
 ```csharp
-// alan adı kısmi adıyla nasıl aranır:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -159,28 +159,28 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Form](../../form)
-* ad alanı [Aspose.Pdf.Facades](../../form)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string[]) {#fillfield_4}
 
-Bir alanı birden çok seçimle doldurun.Not: yalnızca AcroForm Liste Kutusu Alanı için.
+Bir alanı birden fazla seçimle doldurur. Not: yalnızca AcroForm Liste Kutusu Alanı için.
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Tam nitelikli alan adı. |
-| fieldValues | String[] | Seçilecek birkaç öğeyi içeren bir dize dizisi. |
+| fieldValues | String[] | Seçilecek birkaç öğe içeren bir dizi. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form("PdfForm.pdf", "Form_Updated.pdf");
@@ -188,10 +188,34 @@ form.FillField("ListBox1", new String[] { "Three", "One" });
 form.Save();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Form](../../form)
-* ad alanı [Aspose.Pdf.Facades](../../form)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+--- 
+
+## FillField(string, string, bool) {#fillfield_3}
+
+Belirtilen değerle alanı doldurur.
+
+```csharp
+public bool FillField(string fieldName, string value, bool fitFontSize)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| fieldName | String | Alan adı |
+| value | String | Alanın yeni değeri |
+| fitFontSize | Boolean | Eğer doğruysa, düzenleme kutularındaki yazı tipi boyutu ayarlanacaktır. |
+
+### Dönüş Değeri
+
+Alan bulunduysa ve başarıyla doldurulduysa doğru.
+
+### Ayrıca Bakınız
+
+* sınıf [Form](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

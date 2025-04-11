@@ -1,74 +1,74 @@
 ---
-title: TryResizeContents
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Redimensionne le contenu des pages du document. Si la page est réduite des marges vierges sont ajoutées autour de la page. Le résultat est stocké dans lobjet HttpResponse.
+title: PdfFileEditor.TryResizeContents
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode PdfFileEditor. Redimensionne le contenu des pages du document
 type: docs
-weight: 480
+weight: 450
 url: /fr/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
-## TryResizeContents(string, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents_3}
+## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
-Redimensionne le contenu des pages du document. Si la page est réduite, des marges vierges sont ajoutées autour de la page. Le résultat est stocké dans l'objet HttpResponse.
+Redimensionne le contenu des pages dans le document. Si la page est réduite, des marges blanches sont ajoutées autour de la page. Le résultat est stocké dans l'objet HttpResponse.
 
 ```csharp
 public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
     HttpResponse response)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| source | String | Chemin d'accès au fichier source. |
-| pages | Int32[] | Tableau de pages à redimensionner. |
-| parameters | ContentsResizeParameters | Redimensionner les paramètres. |
+| source | String | Chemin vers le fichier source. |
+| pages | Int32[] | Tableau des pages à redimensionner. |
+| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
 | response | HttpResponse | Objet HttpResponse où le résultat est enregistré. |
 
-### Return_Value
+### Valeur de retour
 
-true si l'opération s'est terminée avec succès ; sinon, faux.
+true si l'opération s'est terminée avec succès ; sinon, false.
 
-### Remarques
+## Remarques
 
-La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lève pas d'exception si l'opération échoue.
+La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lance pas d'exception si l'opération échoue.
 
-### Voir également
+### Voir aussi
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* espace de noms [Aspose.Pdf.Facades](../../pdffileeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
 
-Redimensionne le contenu des pages du document. Si la page est réduite, des marges vierges sont ajoutées autour de la page. Le résultat est stocké dans l'objet HttpResponse.
+Redimensionne le contenu des pages dans le document. Si la page est réduite, des marges blanches sont ajoutées autour de la page. Le résultat est stocké dans l'objet HttpResponse.
 
 ```csharp
 public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
     HttpResponse response)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | source | Stream | Flux du fichier source. |
-| pages | Int32[] | Tableau de pages à redimensionner. |
-| parameters | ContentsResizeParameters | Redimensionner les paramètres. |
+| pages | Int32[] | Tableau des pages à redimensionner. |
+| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
 | response | HttpResponse | Objet HttpResponse où le résultat est enregistré. |
 
-### Return_Value
+### Valeur de retour
 
-true si l'opération s'est terminée avec succès ; sinon, faux.
+true si l'opération s'est terminée avec succès ; sinon, false.
 
-### Remarques
+## Remarques
 
-La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lève pas d'exception si l'opération échoue.
+La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lance pas d'exception si l'opération échoue.
 
-### Voir également
+### Voir aussi
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* espace de noms [Aspose.Pdf.Facades](../../pdffileeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -81,153 +81,151 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
     ContentsResizeParameters parameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| source | Stream | Diffusez avec le document source. |
-| destination | Stream | Diffusez avec le document de destination. |
-| pages | Int32[] | Tableau d'index de pages. |
-| parameters | ContentsResizeParameters | Redimensionner les paramètres. |
+| source | Stream | Flux avec le document source. |
+| destination | Stream | Flux avec le document de destination. |
+| pages | Int32[] | Tableau des index de pages. |
+| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie vrai en cas de succès.
+Retourne true si succès.
 
-### Remarques
+## Remarques
 
-La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lève pas d'exception si l'opération échoue.
+La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lance pas d'exception si l'opération échoue.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //marge gauche = 10% de la largeur de la page
+    //left margin = 10% of page width
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
     null,
-    //la marge droite est de 10% de la page 
+    //right margin is 10% of page 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //marge supérieure = 10% de la hauteur
+    //top margin = 10% of height
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    // la nouvelle hauteur du contenu est calculée automatiquement (similaire à la largeur)
+    //new contents height is calculated automatically (similar to width)
     null,
-    //la marge inférieure est de 10 %
+    //bottom margin is 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
 dest.Close();
 ```
 
-### Voir également
+### Voir aussi
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* espace de noms [Aspose.Pdf.Facades](../../pdffileeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_2}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-Redimensionne le contenu des pages du document. Réduit le contenu de la page et ajoute des marges. La nouvelle taille du contenu est spécifiée dans les unités d'espace par défaut.
+Redimensionne le contenu des pages du document. Réduit le contenu de la page et ajoute des marges. La nouvelle taille du contenu est spécifiée en unités d'espace par défaut.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | source | Stream | Flux qui contient le document source. |
 | destination | Stream | Flux où le document résultant sera enregistré. |
-| pages | Int32[] | Tableau d'index de pages. Si null, toutes les pages du document seront traitées. |
-| newWidth | Double | Nouvelle largeur du contenu de la page dans les unités d'espace par défaut. |
-| newHeight | Double | Nouvelle hauteur du contenu de la page dans les unités d'espace par défaut. |
+| pages | Int32[] | Tableau des index de pages. Si null, toutes les pages du document seront traitées. |
+| newWidth | Double | Nouvelle largeur du contenu de la page en unités d'espace par défaut. |
+| newHeight | Double | Nouvelle hauteur du contenu de la page en unités d'espace par défaut. |
 
-### Return_Value
+### Valeur de retour
 
-true si l'opération s'est terminée avec succès ; sinon, faux.
+true si l'opération s'est terminée avec succès ; sinon, false.
 
-### Remarques
+## Remarques
 
-La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lève pas d'exception si l'opération échoue.
+La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lance pas d'exception si l'opération échoue.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 bool result = fileEditor.TryResizeContents(src, dest, 
-// redimensionner toutes les pages du document
+//resize all pages of document
 null, 
-//largeur du nouveau contenu = 200
+//new contents width = 200
 200, 
-// hauteur du nouveau contenu = 300
+//new contents height = 300
 300);
-// la zone de repos de la page sera vide
+// rest area of page will be empty
 ```
 
-### Voir également
+### Voir aussi
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espace de noms [Aspose.Pdf.Facades](../../pdffileeditor)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_4}
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
-Redimensionne le contenu des pages du document. Si la page est réduite, des marges vierges sont ajoutées autour de la page.
+Redimensionne le contenu des pages dans le document. Si la page est réduite, des marges blanches sont ajoutées autour de la page.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | source | String | Chemin du document source. |
 | destination | String | Chemin du document de destination. |
-| pages | Int32[] | Tableau d'index de page (l'index de page commence à 1). |
+| pages | Int32[] | Tableau des index de pages (l'index de page commence à 1). |
 | parameters | ContentsResizeParameters | Paramètres de redimensionnement de la page. |
 
-### Return_Value
+### Valeur de retour
 
 true si le redimensionnement a réussi.
 
-### Remarques
+## Remarques
 
-La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lève pas d'exception si l'opération échoue.
+La méthode TryResizeContents est similaire à la méthode ResizeContents, sauf que la méthode TryResizeContents ne lance pas d'exception si l'opération échoue.
 
-### Exemples
+## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //marge gauche = 10% de la largeur de la page
+    //left margin = 10% of page width
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
     null,
-    //la marge droite est de 10% de la page 
+    //right margin is 10% of page 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //marge supérieure = 10% de la hauteur
+    //top margin = 10% of height
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    // la nouvelle hauteur du contenu est calculée automatiquement (similaire à la largeur)
+    //new contents height is calculated automatically (similar to width)
     null,
-    //la marge inférieure est de 10 %
+    //bottom margin is 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
 ```
 
-### Voir également
+### Voir aussi
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* espace de noms [Aspose.Pdf.Facades](../../pdffileeditor)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

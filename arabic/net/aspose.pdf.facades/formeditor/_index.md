@@ -1,92 +1,86 @@
 ---
-title: FormEditor
-second_title: Aspose.PDF لمرجع .NET API
-description: فئة لتحرير النماذج حقل ading / حذف إلخ
+title: Class FormEditor
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.FormEditor. فئة لتحرير النماذج وإضافة/حذف الحقول وما إلى ذلك
 type: docs
-weight: 2340
+weight: 4330
 url: /ar/net/aspose.pdf.facades/formeditor/
 ---
-## FormEditor class
+## فئة محرر النموذج
 
-فئة لتحرير النماذج (حقل ading / حذف إلخ)
+فئة لتحرير النماذج (إضافة/حذف الحقول وما إلى ذلك)
 
 ```csharp
 public sealed class FormEditor : SaveableFacade
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FormEditor](formeditor#constructor)() | مُنشئ FormEditor. |
-| [FormEditor](formeditor#constructor_1)(Document) | تهيئة جديد[`FormEditor`](../formeditor) كائن على قاعدة*document* . |
+| [FormEditor](formeditor/#constructor)() | منشئ لفئة محرر النموذج. |
+| [FormEditor](formeditor/#constructor_1)(Document) | يقوم بتهيئة كائن `FormEditor` جديد بناءً على *المستند*. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AttachmentName](../../aspose.pdf.facades/formeditor/attachmentname) { get; set; } | الحصول على اسم المرفق أو تعيينه عند تخزين نتيجة العملية في كائنات HttpResponse كمرفق. |
-| [ContentDisposition](../../aspose.pdf.facades/formeditor/contentdisposition) { get; set; } | الحصول على أو تعيين كيفية تخزين المحتوى عند تخزين نتيجة العملية في كائن HttpResponse. القيمة المحتملة: مضمنة / مرفق . الافتراضي: مضمنة . |
-| [ConvertTo](../../aspose.pdf.facades/formeditor/convertto) { set; } | يحدد تنسيق ملف PDF. سيتم حفظ الملف الناتج في تنسيق الملف المحدد. إذا لم يتم تحديد هذه الخاصية ، فسيتم حفظ الملف بتنسيق PDF الافتراضي بدون تحويل. |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | الحصول على واجهة المستند التي تعمل عليها. |
-| [ExportItems](../../aspose.pdf.facades/formeditor/exportitems) { get; set; } | يعيّن الخيارات لمربع التحرير والسرد بقيم التصدير. |
-| [Facade](../../aspose.pdf.facades/formeditor/facade) { get; set; } | يعين السمات المرئية للحقل. |
-| [Items](../../aspose.pdf.facades/formeditor/items) { get; set; } | تعيين العناصر التي ستتم إضافتها إلى مربع قائمة أو مربع تحرير وسرد تم إنشاؤه حديثًا. |
-| [RadioButtonItemSize](../../aspose.pdf.facades/formeditor/radiobuttonitemsize) { get; set; } | الحصول على أو تعيين حجم عنصر زر الاختيار (عند إضافة حقل زر اختيار جديد). |
-| [RadioGap](../../aspose.pdf.facades/formeditor/radiogap) { get; set; } | العضو الذي يقوم بتسجيل الفجوة بين زري اختيار متجاورين بالبكسل ، الافتراضي هو 50. |
-| [RadioHoriz](../../aspose.pdf.facades/formeditor/radiohoriz) { get; set; } | العلامة للإشارة إلى ما إذا كانت أجهزة الراديو مرتبة أفقياً أم رأسياً ، والقيمة الافتراضية هي true . |
-| [Response](../../aspose.pdf.facades/formeditor/response) { get; set; } | الحصول على كائن الاستجابة أو تعيينه حيث يتم تخزين نتيجة العملية. |
-| [SaveOptions](../../aspose.pdf.facades/formeditor/saveoptions) { get; set; } | الحصول على أو تعيين خيارات الحفظ عند تخزين النتيجة كـ HttpResponse. القيمة الافتراضية: PdfSaveOptions. |
-| [SubmitFlag](../../aspose.pdf.facades/formeditor/submitflag) { get; set; } | تعيين أعلام إرسال زر الإرسال |
+| [ConvertTo](../../aspose.pdf.facades/formeditor/convertto/) { set; } | يحدد تنسيق ملف PDF. سيتم حفظ الملف الناتج بالتنسيق المحدد. إذا لم يتم تحديد هذه الخاصية، فسيتم حفظ الملف بالتنسيق الافتراضي PDF دون تحويل. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة المستند التي يعمل عليها. |
+| [ExportItems](../../aspose.pdf.facades/formeditor/exportitems/) { get; set; } | يحدد الخيارات لعنصر القائمة المنسدلة مع قيم التصدير. |
+| [Facade](../../aspose.pdf.facades/formeditor/facade/) { get; set; } | يحدد الخصائص المرئية للحقل. |
+| [Items](../../aspose.pdf.facades/formeditor/items/) { get; set; } | يحدد العناصر التي ستتم إضافتها إلى مربع القائمة أو القائمة المنسدلة التي تم إنشاؤها حديثًا. |
+| [RadioButtonItemSize](../../aspose.pdf.facades/formeditor/radiobuttonitemsize/) { get; set; } | يحصل على أو يحدد حجم عنصر زر الراديو (عند إضافة حقل زر راديو جديد). |
+| [RadioGap](../../aspose.pdf.facades/formeditor/radiogap/) { get; set; } | العضو لتسجيل الفجوة بين زري راديو متجاورين بالبكسل، القيمة الافتراضية هي 50. |
+| [RadioHoriz](../../aspose.pdf.facades/formeditor/radiohoriz/) { get; set; } | العلامة للإشارة إلى ما إذا كانت الأزرار مرتبة أفقيًا أو عموديًا، القيمة الافتراضية هي true. |
+| [SubmitFlag](../../aspose.pdf.facades/formeditor/submitflag/) { get; set; } | تعيين علامات تقديم زر الإرسال |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield)(FieldType, string, int, float, float, float, float) | أضف حقل من النوع المحدد إلى النموذج . |
-| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield_1)(FieldType, string, string, int, float, float, float, float) | أضف حقل من النوع المحدد إلى النموذج . |
-| [AddFieldScript](../../aspose.pdf.facades/formeditor/addfieldscript)(string, string) | أضف JavaScript لحقل PushButton. في حالة وجود حدث قديم ، تتم إضافة حدث جديد بعده. |
-| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem)(string, string) | إضافة عنصر جديد إلى مربع القائمة. |
-| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem_1)(string, string[]) | أضف عنصرًا جديدًا بقيمة تصدير إلى حقل مربع القائمة الحالي ، فقط لحقل مربع التحرير والسرد AcroForm. |
-| [AddSubmitBtn](../../aspose.pdf.facades/formeditor/addsubmitbtn)(string, int, string, string, float, float, float, float) | أضف زر الإرسال في النموذج . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | تهيئة الواجهة . |
-| override [Close](../../aspose.pdf.facades/formeditor/close)() | إغلاق الواجهة . |
-| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield)(string, string, int) | نسخ حقل موجود إلى نفس الموضع في رقم الصفحة المحدد. سيتم إنتاج مستند جديد يحتوي على كل شيء في المستند المصدر باستثناء الحقل المنسوخ حديثًا. |
-| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield_1)(string, string, int, float, float) | نسخ حقل موجود إلى موضع جديد محدد بواسطة كل من رقم الصفحة والإحداثيات. سيتم إنتاج مستند جديد يحتوي على كل شيء يحتويه المستند المصدر باستثناء الحقل المنسوخ حديثًا. |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield)(string, string) | ينسخ حقل موجود من مستند PDF إلى مستند آخر برقم الصفحة الأصلي والإحداثيات. إشعار: فقط لحقول AcroForm (باستثناء مربع الراديو) . |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_1)(string, string, int) | ينسخ حقل موجود من مستند PDF إلى مستند آخر برقم صفحة محدد وإحداثيات أصلية. إشعار: فقط لحقول AcroForm (باستثناء مربع الراديو). |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_2)(string, string, int, float, float) | ينسخ حقل موجود من مستند PDF إلى مستند آخر برقم الصفحة المحدد والإحداثيات. إشعار: فقط لحقول AcroForm (باستثناء مربع الراديو) . |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield)() | يغير السمات المرئية لجميع الحقول في مستند PDF. |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_1)(FieldType) | يغير السمات المرئية لجميع الحقول بنوع الحقل المحدد. |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_2)(string) | تغيير السمات المرئية للحقل المحدد. |
-| [DelListItem](../../aspose.pdf.facades/formeditor/dellistitem)(string, string) | حذف عنصر من حقل القائمة. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | التخلص من الواجهة . |
-| [GetFieldAppearance](../../aspose.pdf.facades/formeditor/getfieldappearance)(string) | احصل على إشارات المجال. |
-| [MoveField](../../aspose.pdf.facades/formeditor/movefield)(string, float, float, float, float) | تعيين موضع حقل جديد . |
-| [RemoveField](../../aspose.pdf.facades/formeditor/removefield)(string) | إزالة الحقل من النموذج . |
-| [RemoveFieldAction](../../aspose.pdf.facades/formeditor/removefieldaction)(string) | إزالة إجراء الإرسال من الحقل . |
-| [RenameField](../../aspose.pdf.facades/formeditor/renamefield)(string, string) | تغيير اسم الحقل . |
-| [ResetFacade](../../aspose.pdf.facades/formeditor/resetfacade)() | إعادة تعيين كافة السمات المرئية إلى قيمة فارغة. |
-| [ResetInnerFacade](../../aspose.pdf.facades/formeditor/resetinnerfacade)() | إعادة تعيين كافة السمات المرئية للواجهة الداخلية إلى قيمة فارغة. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | يحفظ مستند PDF في التدفق المحدد. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | يحفظ مستند PDF في الملف المحدد. |
-| [SetFieldAlignment](../../aspose.pdf.facades/formeditor/setfieldalignment)(string, int) | تعيين نمط المحاذاة لحقل نصي. |
-| [SetFieldAlignmentV](../../aspose.pdf.facades/formeditor/setfieldalignmentv)(string, int) | تعيين نمط المحاذاة الرأسية لحقل نصي. |
-| [SetFieldAppearance](../../aspose.pdf.facades/formeditor/setfieldappearance)(string, AnnotationFlags) | تعيين أعلام الحقول |
-| [SetFieldAttribute](../../aspose.pdf.facades/formeditor/setfieldattribute)(string, PropertyFlag) | تعيين سمات الحقل. |
-| [SetFieldCombNumber](../../aspose.pdf.facades/formeditor/setfieldcombnumber)(string, int) | تعيين عدد الأمشاط لحقل نصي أحادي السطر (الحقل مقسم تلقائيًا إلى العديد من المواضع أو الأمشاط المتباعدة بشكل متساوٍ ، كقيمة معلمة combNumber) . |
-| [SetFieldLimit](../../aspose.pdf.facades/formeditor/setfieldlimit)(string, int) | تعيين الحد الأقصى لعدد الأحرف في حقل النص. |
-| [SetFieldScript](../../aspose.pdf.facades/formeditor/setfieldscript)(string, string) | قم بتعيين JavaScript لحقل PushButton. في حالة وجود JavaScript قديم ، سيتم استبداله بالجديد. |
-| [SetSubmitFlag](../../aspose.pdf.facades/formeditor/setsubmitflag)(string, SubmitFormFlag) | تعيين زر إرسال العلم. |
-| [SetSubmitUrl](../../aspose.pdf.facades/formeditor/setsubmiturl)(string, string) | يعين URL للزر . |
-| [Single2Multiple](../../aspose.pdf.facades/formeditor/single2multiple)(string) | قم بتغيير حقل نص أحادي السطر إلى حقل متعدد الأسطر. |
+| [AddField](../../aspose.pdf.facades/formeditor/addfield/#addfield)(FieldType, string, int, float, float, float, float) | إضافة حقل من النوع المحدد إلى النموذج. |
+| [AddField](../../aspose.pdf.facades/formeditor/addfield/#addfield_1)(FieldType, string, string, int, float, float, float, float) | إضافة حقل من النوع المحدد إلى النموذج. |
+| [AddFieldScript](../../aspose.pdf.facades/formeditor/addfieldscript/)(string, string) | إضافة JavaScript لحقل زر الدفع. إذا كان هناك حدث قديم، يتم إضافة الحدث الجديد بعده. |
+| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem/#addlistitem)(string, string) | إضافة عنصر جديد إلى مربع القائمة. |
+| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem/#addlistitem_1)(string, string[]) | إضافة عنصر جديد مع قيمة تصدير إلى حقل مربع القائمة الموجود، فقط لحقل القائمة المنسدلة AcroForm. |
+| [AddSubmitBtn](../../aspose.pdf.facades/formeditor/addsubmitbtn/)(string, int, string, string, float, float, float, float) | إضافة زر إرسال إلى النموذج. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يقوم بتهيئة الواجهة. |
+| override [Close](../../aspose.pdf.facades/formeditor/close/)() | يغلق الواجهة. |
+| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield/#copyinnerfield)(string, string, int) | ينسخ حقلًا موجودًا إلى نفس الموضع في رقم الصفحة المحدد. سيتم إنتاج مستند جديد يحتوي على كل ما يحتويه المستند المصدر باستثناء الحقل المنسوخ حديثًا. |
+| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield/#copyinnerfield_1)(string, string, int, float, float) | ينسخ حقلًا موجودًا إلى موضع جديد محدد بواسطة كل من رقم الصفحة والإحداثيات. سيتم إنتاج مستند جديد يحتوي على كل ما يحتويه المستند المصدر باستثناء الحقل المنسوخ حديثًا. |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield/#copyouterfield)(string, string) | ينسخ حقلًا موجودًا من مستند PDF واحد إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو). |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield/#copyouterfield_1)(string, string, int) | ينسخ حقلًا موجودًا من مستند PDF واحد إلى مستند آخر مع رقم الصفحة المحدد والإحداثيات الأصلية. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو). |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield/#copyouterfield_2)(string, string, int, float, float) | ينسخ حقلًا موجودًا من مستند PDF واحد إلى مستند آخر مع رقم الصفحة المحدد والإحداثيات. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو). |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield/#decoratefield)() | يغير الخصائص المرئية لجميع الحقول في مستند PDF. |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield/#decoratefield_1)(FieldType) | يغير الخصائص المرئية لجميع الحقول من نوع الحقل المحدد. |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield/#decoratefield_2)(string) | يغير الخصائص المرئية للحقل المحدد. |
+| [DelListItem](../../aspose.pdf.facades/formeditor/dellistitem/)(string, string) | حذف عنصر من حقل القائمة. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | يتخلص من الواجهة. |
+| [GetFieldAppearance](../../aspose.pdf.facades/formeditor/getfieldappearance/)(string) | الحصول على علامات الحقل. |
+| [MoveField](../../aspose.pdf.facades/formeditor/movefield/)(string, float, float, float, float) | تعيين الموضع الجديد للحقل. |
+| [RemoveField](../../aspose.pdf.facades/formeditor/removefield/)(string) | إزالة الحقل من النموذج. |
+| [RemoveFieldAction](../../aspose.pdf.facades/formeditor/removefieldaction/)(string) | إزالة إجراء الإرسال للحقل. |
+| [RenameField](../../aspose.pdf.facades/formeditor/renamefield/)(string, string) | تغيير اسم الحقل. |
+| [ResetFacade](../../aspose.pdf.facades/formeditor/resetfacade/)() | إعادة تعيين جميع الخصائص المرئية إلى قيمة فارغة. |
+| [ResetInnerFacade](../../aspose.pdf.facades/formeditor/resetinnerfacade/)() | إعادة تعيين جميع الخصائص المرئية للواجهة الداخلية إلى قيمة فارغة. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | يحفظ مستند PDF إلى التدفق المحدد. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | يحفظ مستند PDF إلى الملف المحدد. |
+| [SetFieldAlignment](../../aspose.pdf.facades/formeditor/setfieldalignment/)(string, int) | تعيين نمط المحاذاة لحقل النص. |
+| [SetFieldAlignmentV](../../aspose.pdf.facades/formeditor/setfieldalignmentv/)(string, int) | تعيين نمط المحاذاة العمودية لحقل النص. |
+| [SetFieldAppearance](../../aspose.pdf.facades/formeditor/setfieldappearance/)(string, AnnotationFlags) | تعيين علامات الحقل |
+| [SetFieldAttribute](../../aspose.pdf.facades/formeditor/setfieldattribute/)(string, PropertyFlag) | تعيين خصائص الحقل. |
+| [SetFieldCombNumber](../../aspose.pdf.facades/formeditor/setfieldcombnumber/)(string, int) | يحدد عدد الأقسام لحقل نص عادي ذو سطر واحد (يتم تقسيم الحقل تلقائيًا إلى عدد من المواضع المتباعدة بالتساوي، أو الأقسام، كما هو محدد في قيمة معلمة combNumber). |
+| [SetFieldLimit](../../aspose.pdf.facades/formeditor/setfieldlimit/)(string, int) | يحدد الحد الأقصى لعدد الأحرف في حقل النص. |
+| [SetFieldScript](../../aspose.pdf.facades/formeditor/setfieldscript/)(string, string) | تعيين JavaScript لحقل زر الدفع. إذا كان هناك JavaScript قديم، سيتم استبداله بالجديد. |
+| [SetSubmitFlag](../../aspose.pdf.facades/formeditor/setsubmitflag/)(string, SubmitFormFlag) | تعيين علامة الإرسال لزر الإرسال. |
+| [SetSubmitUrl](../../aspose.pdf.facades/formeditor/setsubmiturl/)(string, string) | يحدد عنوان URL للزر. |
+| [Single2Multiple](../../aspose.pdf.facades/formeditor/single2multiple/)(string) | تغيير حقل نص ذو سطر واحد إلى حقل نص متعدد الأسطر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SaveableFacade](../saveablefacade)
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

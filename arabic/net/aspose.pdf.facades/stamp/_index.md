@@ -1,54 +1,52 @@
 ---
-title: Stamp
-second_title: Aspose.PDF لمرجع .NET API
-description: ختم إعادة تصنيف الطبقة.
+title: Class Stamp
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.Stamp. تمثيل فئة الختم
 type: docs
-weight: 2720
+weight: 4720
 url: /ar/net/aspose.pdf.facades/stamp/
 ---
-## Stamp class
+## فئة الختم
 
-ختم إعادة تصنيف الطبقة.
+تمثيل فئة الختم.
 
 ```csharp
 public sealed class Stamp
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Stamp](stamp)() | Default_Constructor |
+| [Stamp](stamp/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendingSpace](../../aspose.pdf.facades/stamp/blendingspace) { get; set; } | الحصول على أو تعيين قيمة BlendingColorSpace التي تحدد مساحة اللون التي تُستخدم لإجراء عمليات الشفافية والمزج على الصفحة. |
-| [IsBackground](../../aspose.pdf.facades/stamp/isbackground) { get; set; } | الحصول على حالة الخلفية أو تعيينها. إذا تم وضع ختم صحيح كخلفية للصفحة التي تم نشرها. |
-| [Opacity](../../aspose.pdf.facades/stamp/opacity) { get; set; } | الحصول على عتامة الختم أو تعيينها. |
-| [PageNumber](../../aspose.pdf.facades/stamp/pagenumber) { get; set; } | الحصول على رقم الصفحة أو تعيينه. |
-| [Pages](../../aspose.pdf.facades/stamp/pages) { get; set; } | الحصول على أو تعيين مصفوفة بأعداد الصفحات التي ستتأثر بالطابع. إذا كانت الصفحات = خالية ، فقد تأثرت كافة صفحات المستند. |
-| [Quality](../../aspose.pdf.facades/stamp/quality) { get; set; } | الحصول على جودة طابع الصورة أو تعيينها بالنسبة المئوية. القيم القيمة 0..100٪. |
-| [Rotation](../../aspose.pdf.facades/stamp/rotation) { get; set; } | الحصول على أو تعيين تدوير الختم بالدرجات . |
-| [StampId](../../aspose.pdf.facades/stamp/stampid) { get; set; } | الحصول على معرف الطوابع أو تعيينه . |
+| [BlendingSpace](../../aspose.pdf.facades/stamp/blendingspace/) { get; set; } | يحصل أو يحدد قيمة BlendingColorSpace التي تعرف مساحة اللون المستخدمة لأداء عمليات الشفافية والدمج على الصفحة. |
+| [IsBackground](../../aspose.pdf.facades/stamp/isbackground/) { get; set; } | يحصل أو يحدد حالة الخلفية. إذا كانت صحيحة، سيتم وضع الختم كخلفية للصفحة المختومة. بشكل افتراضي، يتم تعيينها على خطأ. |
+| [Opacity](../../aspose.pdf.facades/stamp/opacity/) { get; set; } | يحصل أو يحدد شفافية الختم. |
+| [PageNumber](../../aspose.pdf.facades/stamp/pagenumber/) { get; set; } | يحصل أو يحدد رقم الصفحة. |
+| [Pages](../../aspose.pdf.facades/stamp/pages/) { get; set; } | يحصل أو يحدد مصفوفة بأرقام الصفحات التي ستتأثر بالختم. إذا كانت Pages = null، ستتأثر جميع صفحات المستند. |
+| [Quality](../../aspose.pdf.facades/stamp/quality/) { get; set; } | يحصل أو يحدد جودة صورة الختم كنسبة مئوية. القيم الصالحة 0..100%. |
+| [Rotation](../../aspose.pdf.facades/stamp/rotation/) { get; set; } | يحصل أو يحدد دوران الختم بالدرجات. |
+| [StampId](../../aspose.pdf.facades/stamp/stampid/) { get; set; } | يحصل أو يحدد معرف الختم. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BindImage](../../aspose.pdf.facades/stamp/bindimage#bindimage)(Stream) | تعيين الصورة التي سيتم استخدامها كختم. |
-| [BindImage](../../aspose.pdf.facades/stamp/bindimage#bindimage_1)(string) | تعيين الصورة كختم. |
-| [BindLogo](../../aspose.pdf.facades/stamp/bindlogo)(FormattedText) | تعيين النص كختم. |
-| [BindPdf](../../aspose.pdf.facades/stamp/bindpdf#bindpdf)(Stream, int) | تعيين ملف PDF وعدد الصفحات التي سيتم استخدامها كطابع. |
-| [BindPdf](../../aspose.pdf.facades/stamp/bindpdf#bindpdf_1)(string, int) | تعيين ملف PDF وعدد الصفحات التي سيتم استخدامها كطابع. |
-| [BindTextState](../../aspose.pdf.facades/stamp/bindtextstate)(TextState) | تعيين حالة النص لنص الطوابع. |
-| [SetImageSize](../../aspose.pdf.facades/stamp/setimagesize)(float, float) | يضبط حجم طابع الصورة. سيتم قياس الصورة وفقًا للقيم المحددة. |
-| [SetOrigin](../../aspose.pdf.facades/stamp/setorigin)(float, float) | يضبط الموضع على الصفحة حيث سيتم وضع الطوابع. |
+| [BindImage](../../aspose.pdf.facades/stamp/bindimage/#bindimage)(Stream) | يحدد الصورة التي ستستخدم كختم. |
+| [BindImage](../../aspose.pdf.facades/stamp/bindimage/#bindimage_1)(string) | يحدد الصورة كختم. |
+| [BindLogo](../../aspose.pdf.facades/stamp/bindlogo/)(FormattedText) | يحدد النص كختم. |
+| [BindPdf](../../aspose.pdf.facades/stamp/bindpdf/#bindpdf)(Stream, int) | يحدد ملف PDF ورقم الصفحة التي ستستخدم كختم. |
+| [BindPdf](../../aspose.pdf.facades/stamp/bindpdf/#bindpdf_1)(string, int) | يحدد ملف PDF ورقم الصفحة التي ستستخدم كختم. |
+| [BindTextState](../../aspose.pdf.facades/stamp/bindtextstate/)(TextState) | يحدد حالة نص الختم. |
+| [SetImageSize](../../aspose.pdf.facades/stamp/setimagesize/)(float, float) | يحدد حجم صورة الختم. سيتم تغيير حجم الصورة وفقًا للقيم المحددة. |
+| [SetOrigin](../../aspose.pdf.facades/stamp/setorigin/)(float, float) | يحدد الموضع على الصفحة حيث سيتم وضع الختم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* مساحة الأسماء [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../)

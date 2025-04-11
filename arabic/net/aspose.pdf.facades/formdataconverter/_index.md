@@ -1,50 +1,48 @@
 ---
-title: FormDataConverter
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة لتحويل البيانات من تنسيق إلى تنسيق آخر. يمكنه تحويل البيانات في fdf / xml / pdf / xfdf إلى OLEDB / OdbcDB. كما يمكنه تحويل البيانات الموجودة في OLEDB / OdbcDB إلى البيانات الموجودة في fdf / xml / xfdf. يمكنه تحويل fdf إلى xml بعلامة اسمها الثابت.
+title: Class FormDataConverter
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.FormDataConverter. تمثل فئة لتحويل البيانات من تنسيق إلى آخر. يمكنها تحويل البيانات من fdf/xml/pdf/xfdf إلى OLEDB/OdbcDB. يمكنها أيضًا تحويل البيانات من OLEDB/OdbcDB إلى البيانات في fdf/xml/xfdf. يمكنها تحويل fdf إلى xml مع علامة "مسمّاة بشكل ثابت".
 type: docs
-weight: 2330
+weight: 4320
 url: /ar/net/aspose.pdf.facades/formdataconverter/
 ---
 ## FormDataConverter class
 
-يمثل فئة لتحويل البيانات من تنسيق إلى تنسيق آخر. يمكنه تحويل البيانات في fdf / xml / pdf / xfdf إلى OLEDB / OdbcDB. كما يمكنه تحويل البيانات الموجودة في OLEDB / OdbcDB إلى البيانات الموجودة في fdf / xml / xfdf. يمكنه تحويل fdf إلى xml بعلامة "اسمها الثابت".
+تمثل فئة لتحويل البيانات من تنسيق إلى آخر. يمكنها تحويل البيانات من fdf/xml/pdf/xfdf إلى OLEDB/OdbcDB. يمكنها أيضًا تحويل البيانات من OLEDB/OdbcDB إلى البيانات في fdf/xml/xfdf. يمكنها تحويل fdf إلى xml مع علامة "مسمّاة بشكل ثابت".
 
 ```csharp
 public sealed class FormDataConverter
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [FormDataConverter](formdataconverter)() | Default_Constructor |
+| [FormDataConverter](formdataconverter/)() | المُنشئ الافتراضي. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport) { get; set; } | سيقوم ExportFromData بمسح الجدول قبل تصدير البيانات. |
-| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield) { get; set; } | سيقوم ConvertToDataTable بإنشاء الحقل المطلوب إذا لم يكن موجودًا في الجدول. |
-| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable) { get; set; } | سيقوم ImportIntoDatabase بإنشاء جدول إذا لم يكن موجودًا. |
-| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | ستسقط ImportIntoDatabase الجدول الموجود وإنشاء جدول جديد إذا تم تعيين هذه الخاصية على "صحيح". |
-| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | الحصول على أو تعيين حاوية البيانات الوسطى ، جدول بيانات واحد. يجب تحديده قبل تحويل البيانات من تنسيق إلى تنسيق آخر. يجب تحديد الأعمدة واسم الجدول في DataTable . اسم الجدول هو اسم الجدول في database. كل عمود ColumnName هو اسم الحقل المؤهل لقوات الدفاع الشعبي. كل عمود Caption هو اسم عمود الجدول في قاعدة البيانات. إذا كان اسم الحقل هو نفسه اسم الجدول column ، فلا يلزم تحديد التسمية التوضيحية. |
+| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport/) { get; set; } | سيقوم ExportFromData بتفريغ الجدول قبل تصدير البيانات. |
+| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield/) { get; set; } | سيقوم ConvertToDataTable بإنشاء الحقل المطلوب إذا لم يكن موجودًا في الجدول. |
+| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable/) { get; set; } | سيقوم ImportIntoDatabase بإنشاء الجدول إذا لم يكن موجودًا. |
+| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable/) { get; set; } | سيقوم ImportIntoDatabase بحذف الجدول الموجود وإنشاء جدول جديد إذا تم تعيين هذه الخاصية إلى true. |
+| [Table](../../aspose.pdf.facades/formdataconverter/table/) { get; set; } | يحصل على أو يحدد حاوية البيانات الوسطى، وهي DataTable واحدة. يجب تعريفها قبل تحويل البيانات من تنسيق إلى آخر. يجب تعريف الأعمدة واسم الجدول في DataTable. اسم الجدول هو اسم الجدول في قاعدة البيانات. اسم كل عمود هو الاسم المؤهل للحقل في pdf. عنوان كل عمود هو اسم العمود في الجدول في قاعدة البيانات. إذا كان اسم الحقل هو نفسه اسم عمود الجدول، فلا حاجة لتحديد العنوان. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams)(Stream[], DataType) | هذه الطريقة قديمة. الرجاء استخدام ConvertToStreams () بدلاً من ذلك. |
-| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | تحويل ملفات السلاسل إلى جدول . |
-| [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams)(Stream[], DataType) | تحويل البيانات الموجودة في الجدول إلى تيارات . |
-| [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase)(string, DataType) | تصدير البيانات من قاعدة البيانات إلى الجدول . |
-| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | استيراد البيانات من الجدول إلى قاعدة البيانات . |
-| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | تحويل ملف FDF إلى XML . |
-| static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf)(Stream, Stream) | تحويل ملف بيانات نموذج استيراد / تصدير XML إلى تنسيق FDF. |
+| [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams/)(Stream[], DataType) | هذه الطريقة قديمة. يرجى استخدام ConvertToStreams() بدلاً من ذلك. |
+| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable/)(Stream[], DataType) | تحويل ملفات التدفقات إلى جدول. |
+| [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams/)(Stream[], DataType) | تحويل البيانات في الجدول إلى تدفقات. |
+| [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase/)(string, DataType) | تصدير البيانات من قاعدة البيانات إلى الجدول. |
+| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase/)(string, DataType) | استيراد البيانات من الجدول إلى قاعدة البيانات. |
+| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml/)(Stream, Stream) | تحويل ملف FDF إلى XML. |
+| static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf/)(Stream, Stream) | تحويل ملف بيانات استيراد/تصدير XML إلى تنسيق FDF. |
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

@@ -1,31 +1,29 @@
 ---
-title: EpubSaveOptions.RecognitionMode
-second_title: Aspose.PDF per .NET API Reference
-description: Quando il file PDF che di solito ha un layout fisso viene convertito il motore di conversione tenta di eseguire il raggruppamento e lanalisi multilivello per ripristinare lintento dellautore del documento originale e produrre il risultato nel layout del flusso. Questa proprietà ottimizza la conversione per questo o quel metodo desiderabile di riconoscimento del contenuto.
+title: Enum EpubSaveOptions.RecognitionMode
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.EpubSaveOptionsRecognitionMode enum. When PDF file that usually has fixed layout is being converted the conversion engine tries to perform grouping and multilevel analysis to restore the original document authors intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content
 type: docs
-weight: 2110
+weight: 4070
 url: /it/net/aspose.pdf/epubsaveoptions.recognitionmode/
 ---
-## EpubSaveOptions.RecognitionMode enumeration
+## Enumerazione EpubSaveOptions.RecognitionMode
 
-Quando il file PDF (che di solito ha un layout fisso) viene convertito, il motore di conversione tenta di eseguire il raggruppamento e l'analisi multilivello per ripristinare l'intento dell'autore del documento originale e produrre il risultato nel layout del flusso. Questa proprietà ottimizza la conversione per questo o quel metodo desiderabile di riconoscimento del contenuto.
+Quando un file PDF (che di solito ha un layout fisso) viene convertito, il motore di conversione cerca di eseguire raggruppamenti e analisi multilevel per ripristinare l'intento originale dell'autore del documento e produrre un risultato in layout fluido. Questa proprietà regola quella conversione per questo o quel metodo desiderabile di riconoscimento del contenuto.
 
 ```csharp
 public enum RecognitionMode
 ```
 
-### I valori
+### Valori
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Flow | `0` | Modalità di riconoscimento completo, il motore tenta di eseguire analisi di raggruppamento e multilivello per ripristinare l'intento dell'autore del documento originale e produrre xhtml nel layout del flusso. |
-| PdfFlow | `1` | L'idea principale di questa conversione si basa sul salvataggio dell'ordine "naturale" di rendering del contenuto che si forma durante l'elaborazione dei documenti pdf. Nei casi generali i documenti pdf mantengono l'ordine di rendering dall'alto in basso\sinistra-destra (vedi allegato direction.png ). Questa ipotesi consente di creare un algoritmo a percorso singolo che trasformerà gli elementi Aps che hanno posizioni (layout fisso) in formati di flusso come HTML,EPUB,DOC. Questa modalità sarà particolarmente utile per la conversione da PDF(APS) in EPUB, perché il formato EPUB è stato sviluppato per e-reader come gli smartphone Kindle o . La dimensione dello schermo di quei dispositivi di solito è inferiore alla dimensione dello schermo di un normale PC. Pertanto il contenuto dei documenti EPUB è meglio salvare nel formato flusso, per una corretta visualizzazione su schermi di dimensioni diverse. In questa modalità ogni colonna verrà aggiunta alla fine della colonna precedente ciò consente di mantenere la struttura logica del documento trasformato durante "impaginazione" nei lettori EPUB. Questo risultato consente di eseguire correttamente il rendering di articoli scientifici o di riviste. |
-| Fixed | `2` | Questa modalità è veloce e buona per preservare al massimo l'aspetto originale delle pagine, ma sfortunatamente molti lettori di EPUB non supportano xhtml con layout fisso |
+| Flow | `0` | Modalità di riconoscimento completo, il motore cerca di eseguire raggruppamenti e analisi multilevel per ripristinare l'intento originale dell'autore del documento e produrre xhtml in layout fluido. |
+| PdfFlow | `1` | L'idea principale di questa conversione si basa sul salvataggio dell'ordine "naturale" di rendering del contenuto che si forma durante l'elaborazione dei documenti pdf. Nei casi generali, i documenti pdf mantengono un ordine di rendering dall'alto verso il basso e da sinistra a destra (vedi le direzioni dell'allegato directions.png). Questa assunzione consente di creare un algoritmo a percorso singolo che trasformerà gli elementi Aps che hanno posizioni (layout fisso) in formati fluido come HTML, EPUB, DOC. Questa modalità sarà particolarmente utile per la conversione da PDF(APS) a EPUB, poiché il formato EPUB è stato sviluppato per e-reader come il Kindle o smartphone. La dimensione dello schermo di questi dispositivi è solitamente inferiore alla dimensione dello schermo di un normale PC. Pertanto, è meglio salvare il contenuto dei documenti EPUB in formato fluido, per una corretta visualizzazione su schermi di diverse dimensioni. In questa modalità, ogni colonna verrà aggiunta alla fine della colonna precedente, consentendo di mantenere la struttura logica del documento trasformato durante la "paginazione" nei lettori EPUB. Questo risultato consente di visualizzare correttamente articoli scientifici o di riviste. |
+| Fixed | `2` | Questa modalità è veloce e buona per preservare al massimo l'aspetto originale delle pagine, ma sfortunatamente molti lettori EPUB non supportano xhtml con layout fisso |
 
-### Guarda anche
+### Vedi Anche
 
-* class [EpubSaveOptions](../epubsaveoptions)
-* spazio dei nomi [Aspose.Pdf](../../aspose.pdf)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [EpubSaveOptions](../epubsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

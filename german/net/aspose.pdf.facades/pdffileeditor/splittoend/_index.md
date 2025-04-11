@@ -1,47 +1,14 @@
 ---
-title: SplitToEnd
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Trennt den Speicherort und speichert den hinteren Teil als neue Datei.
+title: PdfFileEditor.SplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Teilt von der angegebenen Position und speichert den hinteren Teil als neue Datei
 type: docs
-weight: 390
+weight: 360
 url: /de/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
-## SplitToEnd(string, int, string) {#splittoend_2}
+## SplitToEnd(string, int, string) {#splittoend_1}
 
-Trennt den Speicherort und speichert den hinteren Teil als neue Datei.
-
-```csharp
-public bool SplitToEnd(string inputFile, int location, string outputFile)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| inputFile | String | Quell-Pdf-Datei. |
-| location | Int32 | Die Splitting-Position. |
-| outputFile | String | Pfad der PDF-Datei ausgeben. |
-
-### Rückgabewert
-
-Wahr für Erfolg oder falsch.
-
-### Beispiele
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.SplitToEnd("input.pdf", 5, "out.pdf");
-```
-
-### Siehe auch
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
----
-
-## SplitToEnd(Stream, int, Stream) {#splittoend}
-
-Trennt den angegebenen Speicherort und speichert den hinteren Teil als neuen Dateistream.
+Teilt von der angegebenen Position und speichert den hinteren Teil als neuen Datei-Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -50,18 +17,18 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | inputStream | Stream | Quell-Pdf-Datei-Stream. |
-| location | Int32 | Die Splitting-Position. |
-| outputStream | Stream | PDF-Datei-Stream ausgeben. |
+| location | Int32 | Die Teilungsposition. |
+| outputStream | Stream | Ausgabe-Pdf-Datei-Stream. |
 
 ### Rückgabewert
 
-Wahr für Erfolg oder falsch.
+True für Erfolg oder false.
 
-### Bemerkungen
+## Bemerkungen
 
-Die Streams werden nach diesem Vorgang NICHT geschlossen, es sei denn, CloseConcatedStreams ist angegeben.
+Die Streams werden NACH dieser Operation NICHT geschlossen, es sei denn, CloseConcatedStreams ist angegeben.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -72,60 +39,78 @@ pfe.SplitToEnd(sourceStream, 5, outStream);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToEnd(Stream, int, HttpResponse) {#splittoend_1}
+## SplitToEnd(string, int, string) {#splittoend_2}
 
-Teilt vom angegebenen Ort und speichert den hinteren Teil im HttpResponse-Objekt.
+Teilt von der Position und speichert den hinteren Teil als neue Datei.
 
 ```csharp
-public bool SplitToEnd(Stream inputStream, int location, HttpResponse response)
+public bool SplitToEnd(string inputFile, int location, string outputFile)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Quelldokument-Stream. |
-| location | Int32 | Split-Punkt. |
-| response | HttpResponse | HttpResponse-Objekt. |
+| inputFile | String | Quell-Pdf-Datei. |
+| location | Int32 | Die Teilungsposition. |
+| outputFile | String | Ausgabe-Pdf-Dateipfad. |
 
 ### Rückgabewert
 
-true, wenn das Aufteilen erfolgreich war.
+True für Erfolg oder false.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.SplitToEnd("input.pdf", 5, "out.pdf");
+```
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToEnd(string, int, HttpResponse) {#splittoend_3}
+## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Teilt vom angegebenen Ort und speichert den hinteren Teil im HttpResponse-Objekt.
+Teilt von der angegebenen Position und speichert den hinteren Teil als neuen Datei-Stream.
 
 ```csharp
-public bool SplitToEnd(string inputFile, int location, HttpResponse response)
+public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Quelldateiname. |
-| location | Int32 | Split-Punkt. |
-| response | HttpResponse | HttpResponse-Objekte. |
+| inputStream | Stream | Quell-Pdf-Datei-Stream. |
+| location | Int32 | Die Teilungsposition. |
+| outputStream | Stream | Ausgabe-Pdf-Datei-Stream. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+True für Erfolg oder false.
+
+## Bemerkungen
+
+Die Streams werden NACH dieser Operation NICHT geschlossen, es sei denn, CloseConcatedStreams ist angegeben.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.SplitToEnd(sourceStream, 5, outStream);
+```
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

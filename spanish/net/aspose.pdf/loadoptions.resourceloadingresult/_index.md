@@ -1,44 +1,42 @@
 ---
-title: LoadOptions.ResourceLoadingResult
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Resultado de la carga personalizada de resource
+title: Class LoadOptions.ResourceLoadingResult
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.LoadOptionsResourceLoadingResult. Resultado de la carga personalizada de recursos
 type: docs
-weight: 3980
+weight: 6150
 url: /es/net/aspose.pdf/loadoptions.resourceloadingresult/
 ---
 ## LoadOptions.ResourceLoadingResult class
 
-Resultado de la carga personalizada de resource
+Resultado de la carga personalizada de recursos
 
 ```csharp
 public class ResourceLoadingResult
 ```
 
-## Constructores
+## Constructors
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [ResourceLoadingResult](resourceloadingresult)(byte[]) | Crea una instancia de resultado de carga |
+| [ResourceLoadingResult](../../aspose.pdf/loadoptions.resourceloadingresult/.ctor)(byte[]) | Crea una instancia del resultado de carga |
 
-## Propiedades
+## Properties
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [Data](../../aspose.pdf/resourceloadingresult/data) { get; } | Datos bynary que se cargaron con un cargador personalizado: se debe configurar después de cargar |
+| [Data](../../aspose.pdf/loadoptions.resourceloadingresult/data) { get; } | Datos binarios que se cargaron con el cargador personalizado - deben establecerse después de la carga |
 
-## Campos
+## Fields
 
-| Nombre | Descripción |
+| Name | Description |
 | --- | --- |
-| [EncodingIfKnown](../../aspose.pdf/resourceloadingresult/encodingifknown) | A veces, la codificación del recurso se conoce después o durante la carga. En tal caso, el código personalizado puede proporcionar al convertidor ese conocimiento a través de este parámetro. Puede dejar nulo en este parámetro si la codificación es desconocida o no importa. |
-| [ExceptionOfLoadingIfAny](../../aspose.pdf/resourceloadingresult/exceptionofloadingifany) | A veces es imposible cargar el recurso solicitado por algún motivo. La falta de disponibilidad del recurso a menudo no provoca el bloqueo de la conversión y el documento de resultados se puede crear de todos modos (pero tal vez con una calidad un poco peor, sin imágenes, etc.). Si se produce una excepción durante la carga, simplemente atrápelo y coloque este parámetro: a veces esa información es útil para el convertidor para la representación del resultado. |
-| [LoadingCancelled](../../aspose.pdf/resourceloadingresult/loadingcancelled) | A veces, por alguna razón, la carga no debería ocurrir en el código personalizado. En tal caso, establezca este indicador como Verdadero. En tal caso, el convertidor intentará usar el cargador de recursos interno predeterminado para obtener ese resultado (como se comporta en una situación en la que no se proporciona una estrategia personalizada). |
-| [MIMETypeIfKnown](../../aspose.pdf/resourceloadingresult/mimetypeifknown) | A veces, el conocimiento sobre el tipo MIME del recurso cargado es útil para el convertidor Puede proporcionar el tipo MIME (si lo hubiera sabido después de la carga) en este parámetro. Por favor deje el parámetro igual a nulo cuando el tipo MIME sea desconocido o no sea necesario proporcionarlo. |
+| [EncodingIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/encodingifknown) | A veces, la codificación del recurso se conoce después o durante la carga. En tal caso, el código personalizado puede proporcionar al convertidor ese conocimiento a través de este parámetro. Puede dejar nulo este parámetro si la codificación es desconocida o no importa. |
+| [ExceptionOfLoadingIfAny](../../aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany) | A veces es imposible cargar el recurso solicitado por alguna razón. La falta de disponibilidad del recurso a menudo no conduce a un fallo de conversión y el documento resultante puede crearse de todos modos (pero tal vez en una calidad un poco peor, sin imágenes, etc.). Si ocurrió una excepción durante la carga, simplemente captúrela y colóquela en este parámetro; a veces esa información es útil para el convertidor para renderizar el resultado. |
+| [LoadingCancelled](../../aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled) | A veces, por alguna razón, la carga no debe ocurrir en el código personalizado. En tal caso, establezca esta bandera como Verdadero. En tal caso, el convertidor intentará usar el cargador de recursos predeterminado interno para obtener ese resultado (como se comporta en situaciones cuando no se proporciona una estrategia personalizada). |
+| [MIMETypeIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown) | A veces, el conocimiento sobre el tipo MIME del recurso cargado es útil para el convertidor. Puede proporcionar el tipo MIME (si se conocía después de la carga) en este parámetro. Por favor, deje el parámetro igual a nulo cuando el tipo MIME es desconocido o no es necesario proporcionarlo. |
 
-### Ver también
+### See Also
 
-* class [LoadOptions](../loadoptions)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

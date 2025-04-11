@@ -1,160 +1,158 @@
 ---
-title: OpenFont
-second_title: Aspose.PDF لمرجع .NET API
-description: يفتح الخط مع تدفق الخط المحدد.
+title: FontRepository.OpenFont
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة FontRepository. تفتح الخط مع تدفق الخط المحدد
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-يفتح الخط مع تدفق الخط المحدد.
+تفتح الخط مع تدفق الخط المحدد.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| fontStream | Stream | تيار الخط. |
+| fontStream | Stream | تدفق الخط. |
 | fontType | FontTypes | قيمة نوع الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
 كائن الخط.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية فتح الخط واستبدال خط نص الصفحة الأولى.
+توضح المثال كيفية فتح الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// فتح الخط
+// Open font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // افتح المستند
+    // Open document
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // قبول الماص للصفحة الأولى
+    // Accept the absorber for first page
     doc.Pages[1].Accept(absorber);
 
-    // تغيير خط ظهور النص الأول
+    // Change font of the first text occurrence
     absorber.TextFragments[1].TextState.Font = font;
 
-    // حفظ الوثيقة
+    // Save document
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* enum [FontTypes](../../fonttypes)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontTypes](../../fonttypes/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string) {#openfont_1}
 
-يفتح الخط بمسار ملف الخط المحدد.
+تفتح الخط مع مسار ملف الخط المحدد.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontFilePath | String | مسار ملف الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
 كائن الخط.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية فتح الخط واستبدال خط نص الصفحة الأولى.
+توضح المثال كيفية فتح الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// فتح الخط
+// Open font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OpenFont(string, string) {#openfont_2}
 
-يفتح الخط بمسار ملف الخط المحدد ومسار ملف المقاييس.
+تفتح الخط مع مسار ملف الخط المحدد ومسار ملف القياسات.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontFilePath | String | مسار ملف الخط. |
-| metricsFilePath | String | ملف مقاييس الخط باتر. |
+| metricsFilePath | String | مسار ملف قياسات الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
 كائن الخط.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية فتح خط Type1 بالمقاييس واستبدال خط نص الصفحة الأولى.
+توضح المثال كيفية فتح خط Type1 مع القياسات واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// فتح الخط
+// Open font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

@@ -1,61 +1,61 @@
 ---
-title: MakeBooklet
-second_title: Aspose.PDF لمرجع .NET API
-description: يجعل كتيب من ملف الإدخال إلى ملف الإخراج.
+title: PdfFileEditor.MakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileEditor. تصنع كتيب من ملف الإدخال إلى ملف الإخراج
 type: docs
-weight: 330
+weight: 300
 url: /ar/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
-يجعل كتيب من ملف الإدخال إلى ملف الإخراج.
+تصنع كتيب من ملف الإدخال إلى ملف الإخراج.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | إدخال اسم ومسار ملف pdf. |
-| outputFile | String | إخراج مسار ملف pdf واسمه. |
+| inputFile | String | مسار واسم ملف PDF المدخل. |
+| outputFile | String | مسار واسم ملف PDF الناتج. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية - صواب للنجاح أو خطأ.
+boolean - صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
-يجعل كتيب من InputStream لإخراج البث .
+تصنع كتيب من InputStream إلى outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | إدخال تيار pdf . |
-| outputStream | Stream | إخراج pdf stream. |
+| inputStream | Stream | تدفق PDF المدخل. |
+| outputStream | Stream | تدفق PDF الناتج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -64,67 +64,67 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-يجعل الكتيب من ملف الإدخال إلى ملف الإخراج.
+تصنع كتيب من inputFile إلى outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | إدخال اسم ومسار ملف pdf. |
-| outputFile | String | إخراج مسار ملف pdf واسمه. |
-| pageSize | PageSize | حجم الصفحة لملف pdf الناتج. |
+| inputFile | String | مسار واسم ملف PDF المدخل. |
+| outputFile | String | مسار واسم ملف PDF الناتج. |
+| pageSize | PageSize | حجم صفحة ملف PDF الناتج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
-يجعل كتيب من دفق الإدخال وحفظ النتيجة في دفق الإخراج.
+تصنع كتيب من تدفق الإدخال وتحفظ النتيجة في تدفق الإخراج.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | دفق إدخال PDF . |
-| outputStream | Stream | إخراج pdf stream. |
-| pageSize | PageSize | حجم الصفحة لملف pdf الناتج. |
+| inputStream | Stream | تدفق PDF المدخل. |
+| outputStream | Stream | تدفق PDF الناتج. |
+| pageSize | PageSize | حجم صفحة ملف PDF الناتج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -133,69 +133,69 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-إنشاء كتيب مخصص من ملف الإدخال الأول إلى ملف الإخراج.
+تصنع كتيب مخصص من firstInputFile إلى outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف الإدخال. |
-| outputFile | String | مسار ملف pdf الناتج واسمه. |
+| inputFile | String | الملف المدخل. |
+| outputFile | String | مسار واسم ملف PDF الناتج. |
 | leftPages | Int32[] | الصفحات اليسرى من الكتيب. |
-| rightPages | Int32[] | الصفحات الصحيحة من الكتيب. |
+| rightPages | Int32[] | الصفحات اليمنى من الكتيب. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية - صواب للنجاح أو خطأ.
+boolean - صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-إنشاء كتيب مخصص من أول إدخال إلى بث الإخراج.
+تصنع كتيب مخصص من firstInputStream إلى outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
-| outputStream | Stream | إخراج قوات الدفاع الشعبي تيار. |
+| inputStream | Stream | التدفق المدخل. |
+| outputStream | Stream | تدفق PDF الناتج. |
 | leftPages | Int32[] | الصفحات اليسرى. |
-| rightPages | Int32[] | الصفحات الصحيحة. |
+| rightPages | Int32[] | الصفحات اليمنى. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية - صواب للنجاح أو خطأ.
+boolean - صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -204,73 +204,73 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-إنشاء كتيب مخصص من ملف الإدخال الأول إلى ملف الإخراج.
+تصنع كتيب مخصص من firstInputFile إلى outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
     int[] rightPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف الإدخال. |
-| outputFile | String | مسار ملف pdf الناتج واسمه. |
-| pageSize | PageSize | حجم الصفحة لملف pdf الناتج. |
+| inputFile | String | الملف المدخل. |
+| outputFile | String | مسار واسم ملف PDF الناتج. |
+| pageSize | PageSize | حجم صفحة ملف PDF الناتج. |
 | leftPages | Int32[] | الصفحات اليسرى. |
-| rightPages | Int32[] | الصفحات الصحيحة. |
+| rightPages | Int32[] | الصفحات اليمنى. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية - صواب للنجاح أو خطأ.
+boolean - صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-يجعل الكتيب من أول InputStream إلى outputStream .
+تصنع كتيب من firstInputStream إلى outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
     int[] leftPages, int[] rightPages)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تيار الإدخال. |
-| outputStream | Stream | إخراج قوات الدفاع الشعبي تيار. |
-| pageSize | PageSize | حجم الصفحة لملف pdf الناتج. |
+| inputStream | Stream | التدفق المدخل. |
+| outputStream | Stream | تدفق PDF الناتج. |
+| pageSize | PageSize | حجم صفحة ملف PDF الناتج. |
 | leftPages | Int32[] | الصفحات اليسرى. |
-| rightPages | Int32[] | الصفحات الصحيحة. |
+| rightPages | Int32[] | الصفحات اليمنى. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية - صواب للنجاح أو خطأ.
+boolean - صحيح للنجاح، أو خطأ.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,125 +279,122 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
 
-يجعل الكتيب من الملف المصدر والمخازن ينتج عنه كائنات HttpResponse .
+تصنع كتيب من الملف المصدر وتخزن النتيجة في كائنات HttpResponse.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | مسار الملف المصدر. |
-| pageSize | PageSize | حجم الصفحة المطلوب. |
-| leftPages | Int32[] | مجموعة من أرقام الصفحات التي سيتم وضعها في اليسار. |
-| rightPages | Int32[] | مجموعة من أرقام الصفحات التي سيتم وضعها في اليمين. |
+| pageSize | PageSize | حجم الصفحة المرغوب. |
+| leftPages | Int32[] | مصفوفة من أرقام الصفحات التي سيتم وضعها في اليسار. |
+| rightPages | Int32[] | مصفوفة من أرقام الصفحات التي سيتم وضعها في اليمين. |
 | response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
 
-إنشاء كتيب من ملف PDF وتخزينه في HttpResponse.
+تصنع كتيب من ملف PDF وتخزنه في HttpResponse.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | دفق وثيقة الإدخال. |
-| pageSize | PageSize | حجم الصفحة المطلوب. |
-| leftPages | Int32[] | مجموعة من أرقام الصفحات التي سيتم وضعها في اليسار. |
-| rightPages | Int32[] | مجموعة من أرقام الصفحات التي سيتم وضعها في اليسار. |
+| inputStream | Stream | تدفق الوثيقة المدخل. |
+| pageSize | PageSize | حجم الصفحة المرغوب. |
+| leftPages | Int32[] | مصفوفة من أرقام الصفحات التي سيتم وضعها في اليسار. |
+| rightPages | Int32[] | مصفوفة من أرقام الصفحات التي سيتم وضعها في اليمين. |
 | response | HttpResponse | كائن HttpResponse. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
 
-يجعل الكتيب من الملف المصدر والمخازن ينتج عنه كائنات HttpResponse.
+تصنع كتيب من الملف المصدر وتخزن النتيجة في كائنات HttpResponse.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | مسار الملف المصدر. |
-| pageSize | PageSize | حجم الصفحة المطلوب في ملف الإخراج. |
+| pageSize | PageSize | حجم الصفحة المرغوب في ملف الإخراج. |
 | response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا نجحت العملية.
+صحيح إذا كانت العملية قد نجحت.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
 
-يجعل الكتيب من الملف المصدر والمخازن ينتج عنه HttpResponse.
+تصنع كتيب من الملف المصدر وتخزن النتيجة في HttpResponse.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | دفق وثيقة الإدخال. |
-| pageSize | PageSize | حجم الصفحة المطلوب في ملف الإخراج. |
-| response | HttpResponse | وضع الكائن حيث سيتم حفظ resut. |
+| inputStream | Stream | تدفق الوثيقة المدخل. |
+| pageSize | PageSize | حجم الصفحة المرغوب في ملف الإخراج. |
+| response | HttpResponse | كائن الاستجابة حيث سيتم حفظ النتيجة. |
 
 ### قيمة الإرجاع
 
 صحيح إذا تم بناء الكتيب بنجاح.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

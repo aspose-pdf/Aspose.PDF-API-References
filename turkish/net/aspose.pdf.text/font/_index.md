@@ -1,12 +1,12 @@
 ---
-title: Font
-second_title: Aspose.PDF for .NET API Referansı
-description: Yazı tipi nesnesini temsil eder.
+title: Class Font
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.Font sınıfı. Yazı tipi nesnesini temsil eder
 type: docs
-weight: 6690
+weight: 10510
 url: /tr/net/aspose.pdf.text/font/
 ---
-## Font class
+## Font sınıfı
 
 Yazı tipi nesnesini temsil eder.
 
@@ -14,58 +14,56 @@ Yazı tipi nesnesini temsil eder.
 public sealed class Font
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BaseFont](../../aspose.pdf.text/font/basefont) { get; } | PDF yazı tipi nesnesinin BaseFont değerini alır. Yazı tipinin PostScript adı olarak da bilinir. |
-| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname) { get; } | Bazen PDF yazı tipleri (genellikle Çince/Japonca/Korece yazı tipleri) belirli bir yazı tipi adına sahip olabilir. Bu ad, "BaseFont" PDF yazı tipi özelliğinin değeridir ve bazen bu özellik onaltılı biçimde gösterilebilir. Bu ad doğrudan okunursa, okunamayan biçimde temsil edilebilir. Okunabilir bir form elde etmek için yazı tipinin adını bu yazı tipine özel kurallarına göre çözmek gerekir. Bu özellik kodu çözülmüş yazı tipi adını döndürür, bu nedenle ile okunamayan bir yazı tipiyle karşılaştığınız durumlar için kullanın.[`FontName`](./fontname) . Özellik ise[`FontName`](./fontname) okunabilir bir formu var bu özellik ile aynı olacak[`FontName`](./fontname) , böylece bu özelliği, yazı tipi adını okunabilir bir biçimde almanız gerektiğinde her durumda kullanabilirsiniz. |
-| [FontName](../../aspose.pdf.text/font/fontname) { get; } | Yazı tipi adını alır[`Font`](../font) nesne. |
-| [FontOptions](../../aspose.pdf.text/font/fontoptions) { get; } | Yazı tipi davranışını ayarlamak için kullanışlı özellikler |
-| [IsAccessible](../../aspose.pdf.text/font/isaccessible) { get; } | Yazı tipinin sistemde mevcut (yüklü) olup olmadığını gösterir. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Yazı tipinin gömülü olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | Yazı tipinin bir alt küme olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [BaseFont](../../aspose.pdf.text/font/basefont/) { get; } | PDF yazı tipi nesnesinin BaseFont değerini alır. Yazı tipinin PostScript adı olarak da bilinir. |
+| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname/) { get; } | Bazen PDF yazı tipleri (genellikle Çince/Japonca/Korece yazı tipleri) belirli bir yazı tipi adına sahip olabilir. Bu ad, PDF yazı tipi özelliği "BaseFont" değeridir ve bazen bu özellik onaltılık biçimde temsil edilebilir. Bu adı doğrudan okursanız, okunamaz bir biçimde temsil edilebilir. Okunabilir bir biçim elde etmek için, bu yazı tipi için belirli kurallara göre yazı tipinin adını çözmek gereklidir. Bu özellik, okunamaz bir [`FontName`](./fontname/) ile karşılaştığınız durumlar için çözülmüş yazı tipi adını döndürür. Eğer [`FontName`](./fontname/) özelliği okunabilir bir biçimdeyse, bu özellik [`FontName`](./fontname/) ile aynı olacaktır, bu nedenle yazı tipi adını okunabilir bir biçimde almak istediğiniz her durumda bu özelliği kullanabilirsiniz. |
+| [FontName](../../aspose.pdf.text/font/fontname/) { get; } | `Font` nesnesinin yazı tipi adını alır. |
+| [FontOptions](../../aspose.pdf.text/font/fontoptions/) { get; } | Yazı tipi davranışını ayarlamak için yararlı özellikler |
+| [IsAccessible](../../aspose.pdf.text/font/isaccessible/) { get; } | Yazı tipinin sistemde mevcut (kurulu) olup olmadığını gösterir. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded/) { get; set; } | Yazı tipinin gömülü olup olmadığını gösteren bir değeri alır veya ayarlar. IFont'a dayalı yazı tipleri otomatik olarak alt küme yapılır ve gömülür. |
+| [IsSubset](../../aspose.pdf.text/font/issubset/) { get; set; } | Yazı tipinin bir alt küme olup olmadığını gösteren bir değeri alır veya ayarlar. IFont'a dayalı yazı tipleri otomatik olarak alt küme yapılır ve gömülür. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror)() | Bu yöntemin bir amacı - yazı tipi gömme girişimi başarısız olursa hatanın açıklamasını döndürmek. Hata durumu yoksa boş dize döndürür. |
-| [MeasureString](../../aspose.pdf.text/font/measurestring)(string, float) | Dizeyi ölçer. |
-| [Save](../../aspose.pdf.text/font/save)(Stream) | Yazı tipini akışa kaydeder. Yazı tipinin yalnızca orijinal belgenin dönüştürülmüş bir kopyasında kullanılması amaçlanan ara TTF biçimine kaydedildiğini unutmayın. Yazı tipi dosyasının orijinal belge bağlamı dışında kullanılması amaçlanmamıştır. |
+| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror/)() | Bu yöntemin amacı, yazı tipini gömmek için yapılan bir denemenin başarısız olması durumunda hata açıklamasını döndürmektir. Hata durumu yoksa boş bir dize döndürür. |
+| [MeasureString](../../aspose.pdf.text/font/measurestring/)(string, float) | Dizeyi ölçer. |
+| [Save](../../aspose.pdf.text/font/save/)(Stream) | Yazı tipini akışa kaydeder. Yazı tipinin yalnızca orijinal belgenin dönüştürülmüş kopyasında kullanılmak üzere ara TTF formatında kaydedildiğini unutmayın. Yazı tipi dosyası, orijinal belge bağlamı dışında kullanılmak üzere tasarlanmamıştır. |
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk sayfadaki metnin nasıl aranacağını ve ilk arama oluşumunun yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, ilk sayfadaki metni nasıl arayacağınızı ve ilk arama bulgusunun yazı tipini nasıl değiştireceğinizi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Font oluştur ve gömülü olarak işaretle
+// Create font and mark it to be embedded
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [FontRepository](../fontrepository)
-* class [Document](../../aspose.pdf/document)
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TextFragmentAbsorber](../textfragmentabsorber/)
+* sınıf [FontRepository](../fontrepository/)
+* sınıf [Document](../../aspose.pdf/document/)
+* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../)

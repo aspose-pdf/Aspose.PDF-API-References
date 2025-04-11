@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Guardar opciones para exportar a formato SVG
+title: Class SvgSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.SvgSaveOptions. Opciones de guardado para exportar a formato SVG
 type: docs
-weight: 6450
+weight: 10230
 url: /es/net/aspose.pdf/svgsaveoptions/
 ---
-## SvgSaveOptions class
+## Clase SvgSaveOptions
 
-Guardar opciones para exportar a formato SVG
+Opciones de guardado para exportar a formato SVG
 
 ```csharp
 public class SvgSaveOptions : UnifiedSaveOptions
@@ -18,31 +18,77 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 | Nombre | Descripción |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions)() | Constructor predeterminado |
+| [SvgSaveOptions](svgsaveoptions/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Obtiene o establece un valor booleano que indica que el objeto de respuesta se cerrará después de que el documento se guarde en la respuesta. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Este atributo activó la funcionalidad para extraer imágenes o texto para documentos PDF con subcapa OCR. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Formato de guardado de datos. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Devolución de llamada para manejar cualquier advertencia generada. WarningHandler devuelve el elemento de enumeración ReturnAction especificando Continuar o Anular. Continuar es la acción predeterminada y la operación Guardar continúa; sin embargo, el usuario también puede devolver Anular, en cuyo caso la operación Guardar debe cesar. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Obtiene o establece un valor booleano que indica si se almacenarán en caché los glifos de fuente mientras se preparan las páginas aps. Mejora el rendimiento de la conversión de PDF a otros formatos, pero aumenta el consumo de memoria. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Obtiene o establece un valor booleano que indica si se cerrará el objeto Response después de que el documento se guarde en la respuesta. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Este atributo activa la funcionalidad para extraer imágenes o texto de documentos PDF con subcapa OCR. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Formato de guardado de datos. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback para manejar cualquier advertencia generada. El WarningHandler devuelve un elemento del enum ReturnAction que especifica Continuar o Abortar. Continuar es la acción predeterminada y la operación de guardado continúa, sin embargo, el usuario también puede devolver Abortar, en cuyo caso la operación de guardado debe cesar. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive) | Especifica si la salida se creará como un archivo zip. Consulte el comentario sobre las opciones 'TreatTargetFileNameAsDirectory' para ver las reglas de denominación de archivos svg de páginas para documentos de origen de varias páginas, que también se aplican al conjunto comprimido de archivos de salida. |
-| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving) | Este campo puede contener una estrategia de guardado que se debe usar (si está presente) durante la conversión para el manejo personalizado de imágenes externas referenciadas creadas archivos (como BMP o JPEG incrustados) incrustados en SVG guardado. Esa estrategia debe procesar recursos y devolver una cadena que representa el URI deseable del recurso guardado en el SVG generado. Si el procesamiento de este o aquel archivo por algún motivo debe realizarse mediante el propio código del convertidor, no en el código personalizado, establezca en el indicador de código personalizado 'CustomProcessingCancelled' de la variable del parámetro 'imageSavingInfo' Le indica al convertidor que todos los pasos necesarios para el procesamiento de ese recurso deben realizarse en el propio convertidor como si no hubiera ningún código personalizado externo . |
-| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels) | Especifica si escalar el documento de salida de puntos tipográficos a píxeles. |
-| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory) | Esta opción define si se creará el directorio de destino (si aún no existe) con el mismo nombre que el archivo de salida solicitado en lugar del archivo de salida solicitado. . Si no, los archivos de salida de las páginas que no sean la primera se crearán exactamente en el directorio solicitado como archivo de salida principal, pero contendrán en el nombre de archivo el sufijo _[2...n], que se define por el número de página, fe si Usted define el archivo de salida "C:\AsposeTests\output.svg" y la salida contendrá varios archivos svg de páginas, luego los archivos de páginas también se crearán en el directorio "C:\AsposeTests\" y tendrán nombres 'salida. svg', 'salida_2.svg', 'salida_3.svg' etc. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | A veces, los archivos PDF contienen imágenes de fondo (de páginas o celdas de tabla) construidas a partir de varias imágenes de fondo de mosaico juntas colocadas una cerca de otra. En tal caso, los renderizadores de formatos de destino (por ejemplo, MsWord para formato DOCS) a veces generan límites visibles entre partes de imágenes de fondo , causa que sus técnicas de suavizado de bordes de imagen (anti-aliasing) sean diferentes de Acrobat Reader. Si parece que el documento exportado contiene límites tan visibles entre partes de las mismas imágenes de fondo, intente usar esta configuración para deshacerse de de eso efecto no deseado ¡ATENCIÓN! Esta optimización de la calidad suele ralentizar esencialmente la conversión, así que, utilice esta opción solo cuando sea realmente necesario. |
+| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | Especifica si la salida se creará como un solo archivo zip. Consulte el comentario sobre las opciones 'TreatTargetFileNameAsDirectory' para ver las reglas de nombrado de los archivos svg de las páginas para documentos fuente multipágina, que también se aplican al conjunto comprimido de archivos de salida. |
+| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | Este campo puede contener la estrategia de guardado que debe utilizarse (si está presente) durante la conversión para el manejo personalizado de los archivos de imágenes externas referenciadas creadas (como BMP o JPEG incrustados) en el SVG guardado. Esa estrategia debe procesar los recursos y devolver una cadena que represente la URI deseada del recurso guardado en el SVG generado. Si el procesamiento de este o aquel archivo por alguna razón debe ser realizado por el código del convertidor mismo, y no en el código personalizado, establezca en el código personalizado la bandera 'CustomProcessingCancelled' de la variable del parámetro 'imageSavingInfo'. Esto señala al convertidor que todos los pasos necesarios para el procesamiento de ese recurso deben realizarse en el convertidor mismo como si no hubiera ningún código personalizado externo. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Procesar páginas en varios hilos. |
+| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | Especifica si se debe escalar el documento de salida de puntos tipográficos a píxeles. |
+| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | Esta opción define si se creará un directorio de destino (si aún no existe) con el mismo nombre que el archivo de salida solicitado en lugar del archivo de salida solicitado en sí. Si es así, ese directorio contendrá todas las imágenes SVG de salida de las páginas (como se describe a continuación). Si no, los archivos de salida de las páginas, excepto el primero, se crearán exactamente en el directorio solicitado como el archivo de salida principal, pero contendrán en el nombre del archivo el sufijo _[2...n], que está definido por el número de página, por ejemplo, si define el archivo de salida "C:\AsposeTests\output.svg" y la salida contendrá varios archivos svg de páginas, entonces los archivos de las páginas también se crearán en el directorio "C:\AsposeTests\" y tendrán nombres 'output.svg', 'output_2.svg', 'output_3.svg', etc. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | A veces, los PDFs contienen imágenes de fondo (de páginas o celdas de tabla) construidas a partir de varias imágenes de fondo de mosaico iguales colocadas una al lado de la otra. En tal caso, los renderizadores de los formatos de destino (por ejemplo, MsWord para el formato DOCS) a veces generan límites visibles entre partes de las imágenes de fondo, ya que sus técnicas de suavizado de bordes de imagen (anti-aliasing) son diferentes de las de Acrobat Reader. Si parece que el documento exportado contiene tales límites visibles entre partes de las mismas imágenes de fondo, intente usar esta configuración para deshacerse de ese efecto no deseado. ¡ATENCIÓN! Esta optimización de calidad generalmente ralentiza considerablemente la conversión, así que, por favor, use esta opción solo cuando sea realmente necesario. |
 
-### Ver también
+## Ejemplos
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
+El siguiente ejemplo muestra cómo convertir un archivo PDF a un archivo SVG
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
+
+	// The path to output SVG File.
+	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize SvgSaveOptions	
+		SvgSaveOptions saveOptions = new SvgSaveOptions();
+		
+		// Save SVG file
+		pdfDocument.Save(svgFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf")
+
+    ' The path to output SVG File.
+    Dim svgFile = Path.Combine(dataDir, "PDF-to-SVG.svg")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize SvgSaveOptions
+        Dim saveOptions As SvgSaveOptions = New SvgSaveOptions()
+ 
+        ' Save SVG file
+        pdfDocument.Save(svgFile, saveOptions)
+    End Using
+```
+
+### Ver También
+
+* clase [UnifiedSaveOptions](../unifiedsaveoptions/)
+* espacio de nombres [Aspose.Pdf](../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../)

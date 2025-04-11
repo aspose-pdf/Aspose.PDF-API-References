@@ -1,14 +1,14 @@
 ---
-title: CreatePdfDocumentLink
-second_title: Aspose.PDF för .NET API Referens
-description: Skapar en länk till en annan PDF-dokumentsida.
+title: PdfContentEditor.CreatePdfDocumentLink
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor-metod. Skapar en länk till en annan PDF-dokument sida
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color, Enum[]) {#createpdfdocumentlink_2}
 
-Skapar en länk till en annan PDF-dokumentsida.
+Skapar en länk till en annan PDF-dokument sida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -17,14 +17,14 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktivt klick. |
-| remotePdf | String | PDF-dokumentet vilken sida kommer att öppnas. |
-| originalPage | Int32 | Antalet originalsidor där rektangel bunden med länk kommer att skapas. |
-| destinationPage | Int32 | Målsidan. |
-| clr | Color | Färgen på rektangeln för aktivt klick. |
-| actionName | Enum[] | Den array av åtgärder (medlemmar i PredefinedAction enum) som motsvarar exekvering av menyalternativ i Acrobat Viewer. |
+| rect | Rectangle | Rektangeln för aktiv klick. |
+| remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
+| destinationPage | Int32 | Mål sidan. |
+| clr | Color | Färgen på rektangeln för aktiv klick. |
+| actionName | Enum[] | Array av åtgärder (medlemmar av PredefinedAction enum) som motsvarar utförande av menyobjekt i Acrobat-visaren. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -35,17 +35,17 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color) {#createpdfdocumentlink_1}
 
-Skapar en länk till en annan PDF-dokumentsida.
+Skapar en länk till en annan PDF-dokument sida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -54,13 +54,13 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktivt klick. |
-| remotePdf | String | PDF-dokumentet vilken sida kommer att öppnas. |
-| originalPage | Int32 | Antalet originalsidor där rektangel bunden med länk kommer att skapas. |
-| destinationPage | Int32 | Målsidan. |
-| clr | Color | Färgen på rektangeln för aktivt klick. |
+| rect | Rectangle | Rektangeln för aktiv klick. |
+| remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
+| destinationPage | Int32 | Mål sidan. |
+| clr | Color | Färgen på rektangeln för aktiv klick. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -70,17 +70,17 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int) {#createpdfdocumentlink}
 
-Skapar en länk till en annan PDF-dokumentsida.
+Skapar en länk till en annan PDF-dokument sida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -89,12 +89,12 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktivt klick. |
-| remotePdf | String | PDF-dokumentet vilken sida kommer att öppnas. |
-| originalPage | Int32 | Antalet originalsidor där rektangel bunden med länk kommer att skapas. |
-| destinationPage | Int32 | Målsidan. |
+| rect | Rectangle | Rektangeln för aktiv klick. |
+| remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
+| destinationPage | Int32 | Mål sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -103,10 +103,8 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "anot
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

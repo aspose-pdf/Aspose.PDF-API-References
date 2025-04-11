@@ -1,65 +1,66 @@
 ---
-title: TextFragment
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل جزءًا من نص Pdf.
+title: Class TextFragment
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.TextFragment. تمثل جزء من نص PDF
 type: docs
-weight: 7100
+weight: 10940
 url: /ar/net/aspose.pdf.text/textfragment/
 ---
-## TextFragment class
+## فئة TextFragment
 
-يمثل جزءًا من نص Pdf.
+تمثل جزء من نص PDF.
 
 ```csharp
 public class TextFragment : BaseParagraph
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TextFragment](textfragment#constructor)() | تهيئة مثيل جديد لملف[`TextFragment`](../textfragment) الكائن . |
-| [TextFragment](textfragment#constructor_2)(string) | يخلق[`TextFragment`](../textfragment) كائن واحد[`TextSegment`](../textsegment) داخل الكائن. تحديد سلسلة نصية داخل المقطع . |
-| [TextFragment](textfragment#constructor_1)(TabStops) | تهيئة مثيل جديد لملف[`TextFragment`](../textfragment) معرّف مسبقًا[`TabStops`](../tabstops) المواقف . |
-| [TextFragment](textfragment#constructor_3)(string, TabStops) | يخلق[`TextFragment`](../textfragment) كائن واحد[`TextSegment`](../textsegment) كائن داخلي ومحدّد مسبقًا[`TabStops`](../tabstops) المواقف . |
+| [TextFragment](textfragment/#constructor)() | يقوم بتهيئة مثيل جديد من كائن `TextFragment`. |
+| [TextFragment](textfragment/#constructor_2)(string) | ينشئ كائن `TextFragment` مع كائن [`TextSegment`](../textsegment/) واحد بداخله. يحدد سلسلة النص داخل الجزء. |
+| [TextFragment](textfragment/#constructor_1)(TabStops) | يقوم بتهيئة مثيل جديد من كائن `TextFragment` مع مواضع [`TabStops`](../tabstops/) محددة مسبقًا. |
+| [TextFragment](textfragment/#constructor_3)(string, TabStops) | ينشئ كائن `TextFragment` مع كائن [`TextSegment`](../textsegment/) واحد بداخله ومواضع [`TabStops`](../tabstops/) محددة مسبقًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition) { get; set; } | الحصول على موضع النص للنص ، ممثلاً بامتداد[`TextFragment`](../textfragment) object. تمثل نهاية Y لهيكل الموضع إحداثيات خط الأساس لجزء النص. |
-| [EndNote](../../aspose.pdf.text/textfragment/endnote) { get; set; } | الحصول على أو تعيين ملاحظة نهاية الفقرة. (لإنشاء ملف pdf فقط) |
-| [FootNote](../../aspose.pdf.text/textfragment/footnote) { get; set; } | الحصول على حاشية الفقرة السفلية أو تعيينها. (لإنشاء ملف pdf فقط) |
-| [Form](../../aspose.pdf.text/textfragment/form) { get; } | الحصول على كائن النموذج الذي يحتوي على TextFragment |
-| override [HorizontalAlignment](../../aspose.pdf.text/textfragment/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية لجزء النص أو تعيينها. |
-| override [Hyperlink](../../aspose.pdf.text/textfragment/hyperlink) { set; } | تعيين الارتباط التشعبي للجزء |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [Page](../../aspose.pdf.text/textfragment/page) { get; } | يحصل على الصفحة التي تحتوي على TextFragment |
-| [Position](../../aspose.pdf.text/textfragment/position) { get; set; } | الحصول على أو تعيين موضع النص للنص ، ممثلاً بامتداد[`TextFragment`](../textfragment) الكائن . |
-| [Rectangle](../../aspose.pdf.text/textfragment/rectangle) { get; } | يحصل على مستطيل من TextFragment |
-| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions) { get; } | يحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء بمزيد من الاختصار / الطويل. |
-| [Segments](../../aspose.pdf.text/textfragment/segments) { get; set; } | الحصول على مقاطع نصية للتيار[`TextFragment`](../textfragment) . |
-| [Text](../../aspose.pdf.text/textfragment/text) { get; set; } | يحصل أو يحددString كائن النص الذي[`TextFragment`](../textfragment) يمثل الكائن . |
-| [TextState](../../aspose.pdf.text/textfragment/textstate) { get; } | الحصول على أو تعيين حالة النص للنص الذي[`TextFragment`](../textfragment) يمثل الكائن . |
-| override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment) { get; set; } | الحصول على محاذاة عمودية لجزء النص أو تعيينها. |
-| [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount) { get; set; } | الحصول على عدد سطور الالتفاف لهذه الفقرة أو تعيينه (لإنشاء ملف pdf فقط) |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition/) { get; set; } | يحصل على موضع النص للنص، الممثل بكائن `TextFragment`. يمثل YIndent في هيكل Position إحداثيات خط الأساس لجزء النص. |
+| [EndNote](../../aspose.pdf.text/textfragment/endnote/) { get; set; } | يحصل أو يحدد ملاحظة نهاية الفقرة. (لإنشاء PDF فقط) |
+| [FootNote](../../aspose.pdf.text/textfragment/footnote/) { get; set; } | يحصل أو يحدد ملاحظة أسفل الفقرة. (لإنشاء PDF فقط) |
+| [Form](../../aspose.pdf.text/textfragment/form/) { get; } | يحصل على كائن النموذج الذي يحتوي على TextFragment |
+| override [HorizontalAlignment](../../aspose.pdf.text/textfragment/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية لجزء النص. |
+| override [Hyperlink](../../aspose.pdf.text/textfragment/hyperlink/) { set; } | يحدد رابط الجزء |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [Page](../../aspose.pdf.text/textfragment/page/) { get; } | يحصل على الصفحة التي تحتوي على TextFragment |
+| [Position](../../aspose.pdf.text/textfragment/position/) { get; set; } | يحصل أو يحدد موضع النص للنص، الممثل بكائن `TextFragment`. |
+| [Rectangle](../../aspose.pdf.text/textfragment/rectangle/) { get; } | يحصل على مستطيل TextFragment |
+| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions/) { get; } | يحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء بنص أقصر/أطول. |
+| [Segments](../../aspose.pdf.text/textfragment/segments/) { get; set; } | يحصل على أجزاء النص للـ `TextFragment` الحالي. |
+| [Text](../../aspose.pdf.text/textfragment/text/) { get; set; } | يحصل أو يحدد كائن نص السلسلة الذي يمثله كائن `TextFragment`. |
+| [TextEditOptions](../../aspose.pdf.text/textfragment/texteditoptions/) { get; set; } | يحصل أو يحدد خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط. |
+| [TextState](../../aspose.pdf.text/textfragment/textstate/) { get; } | يحصل أو يحدد حالة النص للنص الذي يمثله كائن `TextFragment`. |
+| override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية لجزء النص. |
+| [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount/) { get; set; } | يحصل أو يحدد عدد الأسطر الملتفة لهذه الفقرة (لإنشاء PDF فقط) |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم مع ZIndex أكبر فوق الرسم مع ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم مع ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf.text/textfragment/clone)() | استنساخ الجزء . |
-| virtual [CloneWithSegments](../../aspose.pdf.text/textfragment/clonewithsegments)() | استنساخ الجزء بكل المقاطع. |
-| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments)(int, int) | يحصل[`TextSegment`](../textsegment) (ق) تمثل جزءًا محددًا من[`TextFragment`](../textfragment) نص . |
+| override [Clone](../../aspose.pdf.text/textfragment/clone/)() | استنساخ الجزء. |
+| virtual [CloneWithSegments](../../aspose.pdf.text/textfragment/clonewithsegments/)() | استنساخ الجزء مع جميع الأجزاء. |
+| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments/)(int, int) | يحصل على [`TextSegment`](../textsegment/)(s) التي تمثل الجزء المحدد من نص `TextFragment`. |
 
-### ملاحظات
+## الملاحظات
 
-في بضع كلمات ،[`TextFragment`](../textfragment) يحتوي الكائن على قائمة[`TextSegment`](../textsegment) objects. بالتفصيل: نص مستند pdf بتنسيقPdf يتم تمثيله بواسطة كائنين أساسيين:[`TextFragment`](../textfragment) و[`TextSegment`](../textsegment) معظم الاختلافات بينهما تعتمد على السياق . لنفكر في السيناريو التالي. يبحث المستخدم عن نص "hello world" للعمل به ، وتغيير خصائصه ، والبحث وما إلى ذلك. تمثيل نص pdf Phisycally معقد للغاية. قد يتكون النص "hello world" من عدة مقاطع نصية مستقلة phisycally.[`TextFragment`](../textfragment) يوفر object عملية منطقية واحدة فوق مادي[`TextSegment`](../textsegment) مجموعة الكائنات التي تمثل استعلام المستخدم. في سيناريو البحث عن النص ،[`TextFragment`](../textfragment) هو تمثيل نصي منطقي "hello world" ، و[`TextSegment`](../textsegment)تمثل مجموعة الكائنات جميع الأجزاء المادية التي تنشئ كائن نص "hello world". لذا ،[`TextFragment`](../textfragment) يقترب من تمثيل النص المنطقي . و[`TextSegment`](../textsegment) هو قريب من تمثيل النص المادي. من الواضح أن كل منهما[`TextSegment`](../textsegment) قد يكون للكائن خط خاص به ، ولونه ، وخصائص تحديد الموضع.[`TextFragment`](../textfragment) يوفر طريقة بسيطة لتغيير النص بخصائصه: ضبط الخط ، ضبط حجم الخط ، ضبط لون الخط وما إلى ذلك. في غضون ذلك[`TextSegment`](../textsegment) كائنات يمكن الوصول إليها ويمكن للمستخدمين العمل معها[`TextSegment`](../textsegment) بشكل مستقل. لاحظ أن تغيير خصائص TextFragment قد يغير الجزء الداخلي[`Segments`](./segments) لأن TextFragment عبارة عن كائن مجمع وقد يعيد ترتيب المقاطع الداخلية أو يدمجها في مقطع واحد. إذا كان مطلبك هو ترك[`Segments`](./segments)المجموعة دون تغيير ، يرجى تغيير الأجزاء الداخلية بشكل فردي.
+باختصار، يحتوي كائن `TextFragment` على قائمة من كائنات [`TextSegment`](../textsegment/). بالتفصيل: يتم تمثيل نص مستند PDF في PDF بواسطة كائنين أساسيين: `TextFragment` و [`TextSegment`](../textsegment/) الاختلافات بينهما تعتمد في الغالب على السياق. دعونا نعتبر السيناريو التالي. يبحث المستخدم عن النص "hello world" للتعامل معه، وتغيير خصائصه، والنظر وما إلى ذلك.
 
 ```csharp
 Document doc = new Document(docFile);
@@ -67,35 +68,35 @@ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 doc.Pages[1].Accept(absorber);
 ```
 
-### أمثلة
+تمثيل النص في PDF معقد للغاية. قد يتكون النص "hello world" من عدة أجزاء نصية مستقلة ماديًا. يحدد نموذج نص Aspose.Pdf أساسًا أن كائن `TextFragment` يوفر مجموعة عمليات منطقية واحدة على مجموعة كائنات [`TextSegment`](../textsegment/) المادية التي تمثل استعلام المستخدم. في سيناريو بحث النص، يمثل `TextFragment` التمثيل المنطقي للنص "hello world"، ومجموعة كائنات [`TextSegment`](../textsegment/) تمثل جميع الأجزاء المادية التي تشكل كائن النص "hello world". لذا، فإن `TextFragment` قريب من التمثيل النصي المنطقي. و [`TextSegment`](../textsegment/) قريب من التمثيل النصي المادي. من الواضح أن كل كائن [`TextSegment`](../textsegment/) قد يكون له خطه الخاص، وألوانه، وخصائص موضعه. يوفر `TextFragment` طريقة بسيطة لتغيير النص مع خصائصه: تعيين الخط، تعيين حجم الخط، تعيين لون الخط، إلخ. في الوقت نفسه، تكون كائنات [`TextSegment`](../textsegment/) متاحة ويمكن للمستخدمين التعامل مع كائنات [`TextSegment`](../textsegment/) بشكل مستقل. لاحظ أن تغيير خصائص TextFragment قد يغير مجموعة [`Segments`](./segments/) الداخلية لأن TextFragment هو كائن تجميعي وقد يعيد ترتيب الأجزاء الداخلية أو دمجها في جزء واحد. إذا كانت متطلباتك هي ترك مجموعة [`Segments`](./segments/) دون تغيير، يرجى تغيير الأجزاء الداخلية بشكل فردي.
 
-يوضح المثال كيفية البحث عن نص في صفحة مستند PDF الأولى واستبدال النص والخط.
+## أمثلة
+
+توضح المثال كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال النص وخطه.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ابحث عن الخط الذي سيتم استخدامه لتغيير خط نص المستند
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير النص والخط عند ظهور النص الأول
+// Change text and font of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseParagraph](../../aspose.pdf/baseparagraph)
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [BaseParagraph](../../aspose.pdf/baseparagraph/)
+* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* التجميع [Aspose.PDF](../../)

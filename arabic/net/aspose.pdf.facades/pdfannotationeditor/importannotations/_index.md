@@ -1,25 +1,25 @@
 ---
-title: ImportAnnotations
-second_title: Aspose.PDF لمرجع .NET API
-description: يستورد التعليقات التوضيحية المحددة في المستند من مصفوفة مستندات PDF أخرى.
+title: PdfAnnotationEditor.ImportAnnotations
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfAnnotationEditor. تستورد التعليقات المحددة إلى المستند من مصفوفة من مستندات PDF الأخرى
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-يستورد التعليقات التوضيحية المحددة في المستند من مصفوفة مستندات PDF أخرى.
+تستورد التعليقات المحددة إلى المستند من مصفوفة من مستندات PDF الأخرى.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotFile | String[] | مصفوفة مسارات مستندات PDF التي تحتوي على تعليقات توضيحية المصدر. |
-| annotType | AnnotationType[] | مصفوفة أنواع التعليقات التوضيحية التي سيتم استيرادها. |
+| annotFile | String[] | مصفوفة من مسارات مستندات PDF التي تحتوي على التعليقات المصدر. |
+| annotType | AnnotationType[] | مصفوفة من أنواع التعليقات التي سيتم استيرادها. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -30,28 +30,28 @@ editor.ImportAnnotations(paths, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* المجسم [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-يستورد التعليقات التوضيحية في مستند من مصفوفة مستندات PDF أخرى.
+تستورد التعليقات إلى المستند من مصفوفة من مستندات PDF الأخرى.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotFile | String[] | مصفوفة مسارات مستندات PDF التي تحتوي على تعليقات توضيحية المصدر. |
+| annotFile | String[] | مصفوفة من مسارات مستندات PDF التي تحتوي على التعليقات المصدر. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -61,28 +61,28 @@ editor.ImportAnnotations(paths);
 editor.Save("example_out.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-يستورد التعليقات التوضيحية المحددة في المستند من مصفوفة تدفق مستند PDF آخر.
+تستورد التعليقات المحددة إلى المستند من مصفوفة من تدفقات مستندات PDF الأخرى.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotFileStream | Stream[] | مصفوفة تدفقات مستندات PDF التي تحتوي على التعليقات التوضيحية للمصدر. |
-| annotType | AnnotationType[] | أنواع التعليقات التوضيحية التي سيتم استيرادها. |
+| annotFileStream | Stream[] | مصفوفة من تدفقات مستندات PDF التي تحتوي على التعليقات المصدر. |
+| annotType | AnnotationType[] | أنواع التعليقات التي سيتم استيرادها. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -97,28 +97,28 @@ stream[0].Close();
 stream[1].Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype)
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* المجسم [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-يقوم باستيراد التعليقات التوضيحية في المستند من مصفوفة تدفق مستند PDF آخر.
+تستورد التعليقات إلى المستند من مصفوفة من تدفقات مستندات PDF الأخرى.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| annotFileStream | Stream[] | مصفوفة تدفقات مستندات PDF التي تحتوي على التعليقات التوضيحية للمصدر. |
+| annotFileStream | Stream[] | مصفوفة من تدفقات مستندات PDF التي تحتوي على التعليقات المصدر. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -132,10 +132,8 @@ streams[0].Close();
 streams[1].Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfAnnotationEditor](../../pdfannotationeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfannotationeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,58 +1,56 @@
 ---
-title: Graph
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert Diagramm - Grafikgenerator-Absatz.
+title: Class Graph
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Drawing.Graph-Klasse. Stellt einen Grafikgenerator-Absatz dar
 type: docs
-weight: 1990
+weight: 3940
 url: /de/net/aspose.pdf.drawing/graph/
 ---
-## Graph class
+## Graph-Klasse
 
-Repräsentiert Diagramm - Grafikgenerator-Absatz.
+Stellt einen Grafikgenerator-Absatz dar.
 
 ```csharp
 public sealed class Graph : BaseParagraph
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Graph](graph)(float, float) | Initialisiert eine neue Instanz von[`Graph`](../graph) Klasse. |
+| [Graph](graph/#constructor)(double, double) | Initialisiert eine neue Instanz der `Graph`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Border](../../aspose.pdf.drawing/graph/border) { get; set; } | Ruft den Rahmen ab oder legt ihn fest. |
-| [GraphInfo](../../aspose.pdf.drawing/graph/graphinfo) { get; set; } | Holt oder setzt a[`GraphInfo`](./graphinfo) Objekt, das die Diagramminformationen angibt, z. B. Farbe, Linienbreite usw. |
-| [Height](../../aspose.pdf.drawing/graph/height) { get; set; } | Ruft einen Gleitkommawert ab oder legt ihn fest, der die Diagrammhöhe angibt. Die Einheit ist Punkt. |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | Holt oder setzt eine horizontale Ausrichtung des Absatzes |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Holt oder setzt den Fragment-Hyperlink (für PDF-Generator). |
-| [IsChangePosition](../../aspose.pdf.drawing/graph/ischangeposition) { get; set; } | Ermittelt oder setzt die Änderung der aktuellen Position nach dem Prozessabsatz. (Standardwert wahr) |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der angibt, ob dieser Absatz in der nächsten Spalte steht. Standard ist „false“.(für PDF-Generierung) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Ruft ab oder legt fest, dass ein Absatz inline ist. Standard ist „false“.(für PDF-Generierung) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der erzwingt, dass dieser Absatz auf einer neuen Seite generiert wird. Der Standardwert ist falsch. (für die PDF-Generierung) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der angibt, ob der aktuelle Absatz zusammen mit dem nächsten Absatz auf derselben Seite verbleibt. Der Standardwert ist „false“. (für die PDF-Generierung) |
-| [Left](../../aspose.pdf.drawing/graph/left) { get; set; } | Liest oder setzt die linke Koordinate des Tisches. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Liest oder setzt einen Außenrand für Absatz (für PDF-Generierung) |
-| [Shapes](../../aspose.pdf.drawing/graph/shapes) { get; set; } | Holt oder setzt a[`Shapes`](./shapes) Sammlung, die alle Formen im Diagramm anzeigt. |
-| [Title](../../aspose.pdf.drawing/graph/title) { get; set; } | Ruft einen Zeichenfolgenwert ab oder legt ihn fest, der den Titel des Diagramms angibt. |
-| [Top](../../aspose.pdf.drawing/graph/top) { get; set; } | Holt oder setzt die Koordinate der Tischplatte. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Holt oder setzt eine vertikale Ausrichtung des Absatzes |
-| [Width](../../aspose.pdf.drawing/graph/width) { get; set; } | Ruft einen Float-Wert ab oder legt ihn fest, der die Diagrammbreite angibt. Die Einheit ist Punkt. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Ruft einen int-Wert ab oder legt ihn fest, der die Z-Reihenfolge des Diagramms angibt. Ein Graph mit größerem ZIndex wird über dem Graphen mit kleinerem ZIndex platziert. ZIndex kann negativ sein. Grafik mit negativem ZIndex wird hinter dem Text auf der Seite platziert. |
+| [Border](../../aspose.pdf.drawing/graph/border/) { get; set; } | Ruft den Rand ab oder legt ihn fest. |
+| [GraphInfo](../../aspose.pdf.drawing/graph/graphinfo/) { get; set; } | Ruft ein [`GraphInfo`](./graphinfo/) Objekt ab oder legt es fest, das die Graph-Informationen wie Farbe, Linienstärke usw. angibt. |
+| [Height](../../aspose.pdf.drawing/graph/height/) { get; set; } | Ruft einen Float-Wert ab oder legt ihn fest, der die Höhe des Graphen angibt. Die Einheit ist Punkt. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Ruft eine horizontale Ausrichtung des Absatzes ab oder legt sie fest. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Ruft den Fragment-Hyperlink (für den PDF-Generator) ab oder legt ihn fest. |
+| [IsChangePosition](../../aspose.pdf.drawing/graph/ischangeposition/) { get; set; } | Ruft ab oder legt fest, ob die aktuelle Position nach dem Verarbeiten des Absatzes geändert wird. (Standard ist true) |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der angibt, ob dieser Absatz in der nächsten Spalte sein wird. Standard ist false. (für die PDF-Generierung) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Ruft ab oder legt fest, ob der Absatz inline ist. Standard ist false. (für die PDF-Generierung) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der erzwingt, dass dieser Absatz auf einer neuen Seite generiert wird. Standard ist false. (für die PDF-Generierung) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Ruft einen Bool-Wert ab oder legt ihn fest, der angibt, ob der aktuelle Absatz auf derselben Seite wie der nächste Absatz bleibt. Standard ist false. (für die PDF-Generierung) |
+| [Left](../../aspose.pdf.drawing/graph/left/) { get; set; } | Ruft die linke Koordinate der Tabelle ab oder legt sie fest. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Ruft einen äußeren Rand für den Absatz ab oder legt ihn fest (für die PDF-Generierung) |
+| [Shapes](../../aspose.pdf.drawing/graph/shapes/) { get; set; } | Ruft eine [`Shapes`](./shapes/) Sammlung ab oder legt sie fest, die alle Formen im Graphen angibt. |
+| [Title](../../aspose.pdf.drawing/graph/title/) { get; set; } | Ruft einen String-Wert ab oder legt ihn fest, der den Titel des Graphen angibt. |
+| [Top](../../aspose.pdf.drawing/graph/top/) { get; set; } | Ruft die obere Koordinate der Tabelle ab oder legt sie fest. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Ruft eine vertikale Ausrichtung des Absatzes ab oder legt sie fest. |
+| [Width](../../aspose.pdf.drawing/graph/width/) { get; set; } | Ruft einen Float-Wert ab oder legt ihn fest, der die Breite des Graphen angibt. Die Einheit ist Punkt. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Ruft einen int-Wert ab oder legt ihn fest, der die Z-Reihenfolge des Graphen angibt. Ein Graph mit größerem ZIndex wird über dem Graphen mit kleinerem ZIndex platziert. ZIndex kann negativ sein. Ein Graph mit negativem ZIndex wird hinter dem Text auf der Seite platziert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Clone](../../aspose.pdf.drawing/graph/clone)() | Klonen Sie das Diagramm. |
+| override [Clone](../../aspose.pdf.drawing/graph/clone/)() | Klont den Graphen. |
 
 ### Siehe auch
 
-* class [BaseParagraph](../../aspose.pdf/baseparagraph)
-* namensraum [Aspose.Pdf.Drawing](../../aspose.pdf.drawing)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [BaseParagraph](../../aspose.pdf/baseparagraph/)
+* Namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* Assembly [Aspose.PDF](../../)

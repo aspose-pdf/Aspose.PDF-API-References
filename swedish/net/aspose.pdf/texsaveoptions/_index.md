@@ -1,14 +1,14 @@
 ---
-title: TeXSaveOptions
-second_title: Aspose.PDF för .NET API Referens
-description: Spara alternativ för export till TeX format
+title: Class TeXSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.TeXSaveOptions klass. Spara alternativ för export till TeX-format
 type: docs
-weight: 6590
+weight: 10400
 url: /sv/net/aspose.pdf/texsaveoptions/
 ---
-## TeXSaveOptions class
+## TeXSaveOptions klass
 
-Spara alternativ för export till TeX format
+Spara alternativ för export till TeX-format
 
 ```csharp
 public class TeXSaveOptions : UnifiedSaveOptions
@@ -16,38 +16,84 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TeXSaveOptions](texsaveoptions)() | Default_Constructor |
+| [TeXSaveOptions](texsaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Hämtar eller ställer in booleskt värde som indikerar kommer Response-objektet att stängas efter att dokumentet har sparats i respons. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Det här attributet aktiverade funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-underlager. |
-| [OutDirectoryPath](../../aspose.pdf/texsaveoptions/outdirectorypath) { get; set; } | Egenskap för_outDirectoryPath parameter. |
-| [PagesCount](../../aspose.pdf/texsaveoptions/pagescount) { get; } | Returnerar antalet sidor efter konvertering. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format för att spara data. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction enum-objektet som anger antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och åtgärden Spara fortsätter, men användaren kan också returnera Avbryt i vilket fall åtgärden Spara bör upphöra. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller sätter ett booleanvärde som indikerar om teckensnittsglypher ska cachas medan aps-sidor förbereds. Förbättrar prestanda vid konvertering av pdf till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller sätter ett booleanvärde som indikerar om Response-objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Denna attribut aktiverar funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-sublager. |
+| [OutDirectoryPath](../../aspose.pdf/texsaveoptions/outdirectorypath/) { get; set; } | Egenskap för _outDirectoryPath-parametern. |
+| [PagesCount](../../aspose.pdf/texsaveoptions/pagescount/) { get; } | Returnerar antalet sidor efter konvertering. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs)(params string[]) | Lägger till en teckensnittskodning till teckensnittskodningslistan |
-| [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs)() | Rensar teckensnittskodningslistan |
+| [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs/)(params string[]) | Lägger till en teckensnittskodning till listan över teckensnittskodningar |
+| [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs/)() | Rensar listan över teckensnittskodningar |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Ibland innehåller PDF-filer bakgrundsbilder (av sidor eller tabellceller) konstruerade av flera samma sida vid sida bakgrundsbilder placerade nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser av bakgrundsbilder mellan delar av bakgrundsbilder , orsakar att deras tekniker för bildkantsutjämning (kantutjämning) skiljer sig från Acrobat Reader. Om det ser ut som att det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, försök använda den här inställningen för att bli av med oönskad effekt. OBS! Denna optimering av kvalitet saktar vanligtvis ner konverteringen, så använd det här alternativet endast när det verkligen är nödvändigt. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Bearbeta sidor i flera trådar. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Ibland innehåller PDF-filer bakgrundsbilder (av sidor eller tabellceller) som är konstruerade av flera samma mönstrade bakgrundsbilder som ligger nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser mellan delar av bakgrundsbilder, eftersom deras tekniker för bildkantutjämning (anti-aliasing) skiljer sig från Acrobat Reader. Om det ser ut som det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, vänligen försök att använda denna inställning för att bli av med den oönskade effekten. OBS! Denna kvalitetsoptimering saktar vanligtvis ner konverteringen avsevärt, så använd denna alternativ endast när det verkligen är nödvändigt. |
 
-### Se även
+## Exempel
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
+Följande exempel visar hur man konverterar en PDF-fil till en TeX-fil
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
+
+	// The path to output TeX File.
+	var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize TeXSaveOptions	
+		TeXSaveOptions saveOptions = new TeXSaveOptions();
+		
+		// Save TeX file
+		pdfDocument.Save(texFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf")
+
+    ' The path to output TeX File.
+    Dim texFile = Path.Combine(dataDir, "PDF-to-TeX.tex")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize TeXSaveOptions
+        Dim saveOptions As TeXSaveOptions = New TeXSaveOptions()
+ 
+        ' Save TeX file
+        pdfDocument.Save(texFile, saveOptions)
+    End Using
+```
+
+### Se Även
+
+* klass [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* sammansättning [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour tenir dans le rectangle spécifié par les coordonnées gauche bas droite et haut entièrement dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents utilisez le plus petit des deux en centrant le rectangle dans la fenêtre dans lautre dimension. Une valeur nulle pour lun des paramètres peut entraîner un comportement imprévisible.
+title: Class FitRExplicitDestination
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Annotations.FitRExplicitDestination. Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour s'adapter au rectangle spécifié par les coordonnées gauche, bas, droite et haut entièrement dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, centrant le rectangle dans la fenêtre dans l'autre dimension. Une valeur nulle pour l'un des paramètres peut entraîner un comportement imprévisible.
 type: docs
-weight: 400
+weight: 1780
 url: /fr/net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
-## FitRExplicitDestination class
+## Classe FitRExplicitDestination
 
-Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour tenir dans le rectangle spécifié par les coordonnées gauche, bas, droite et haut entièrement dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, en centrant le rectangle dans la fenêtre dans l'autre dimension. Une valeur nulle pour l'un des paramètres peut entraîner un comportement imprévisible.
+Représente une destination explicite qui affiche la page avec son contenu agrandi juste assez pour s'adapter au rectangle spécifié par les coordonnées gauche, bas, droite et haut entièrement dans la fenêtre à la fois horizontalement et verticalement. Si les facteurs de grossissement horizontal et vertical requis sont différents, utilisez le plus petit des deux, centrant le rectangle dans la fenêtre dans l'autre dimension. Une valeur nulle pour l'un des paramètres peut entraîner un comportement imprévisible.
 
 ```csharp
 public sealed class FitRExplicitDestination : ExplicitDestination
@@ -16,32 +16,30 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FitRExplicitDestination](fitrexplicitdestination#constructor_2)(int, double, double, double, double) | Crée une destination explicite distante. |
-| [FitRExplicitDestination](fitrexplicitdestination#constructor_1)(Page, double, double, double, double) | Crée une destination explicite locale. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor_2)(int, double, double, double, double) | Crée une destination explicite distante. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor_1)(Page, double, double, double, double) | Crée une destination explicite locale. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom) { get; } | Obtient la coordonnée verticale inférieure du rectangle visible. |
-| [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left) { get; } | Obtient la coordonnée horizontale gauche du rectangle visible. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Obtient l'objet de la page de destination |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Obtient le numéro de page de destination |
-| [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right) { get; } | Obtient la coordonnée horizontale droite du rectangle visible. |
-| [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top) { get; } | Obtient la coordonnée verticale supérieure du rectangle visible. |
+| [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom/) { get; } | Obtient la coordonnée verticale inférieure du rectangle visible. |
+| [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left/) { get; } | Obtient la coordonnée horizontale gauche du rectangle visible. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de la page de destination |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de la page de destination |
+| [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right/) { get; } | Obtient la coordonnée horizontale droite du rectangle visible. |
+| [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top/) { get; } | Obtient la coordonnée verticale supérieure du rectangle visible. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring)() | Convertit l'état de l'objet en valeur de chaîne. Exemple : "1 FitR 100 200 300 400". |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | Convertit l'état de l'objet en valeur de chaîne. Exemple : "1 FitR 100 200 300 400". |
 
-### Voir également
+### Voir aussi
 
-* class [ExplicitDestination](../explicitdestination)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [ExplicitDestination](../explicitdestination/)
+* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

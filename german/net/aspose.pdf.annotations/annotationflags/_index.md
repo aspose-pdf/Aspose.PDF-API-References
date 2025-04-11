@@ -1,14 +1,14 @@
 ---
-title: AnnotationFlags
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Eine Reihe von Flags die verschiedene Merkmale der Anmerkung angeben.
+title: Enum AnnotationFlags
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.AnnotationFlags-Enum. Eine Menge von Flags, die verschiedene Eigenschaften der Annotation spezifizieren
 type: docs
-weight: 110
+weight: 1440
 url: /de/net/aspose.pdf.annotations/annotationflags/
 ---
-## AnnotationFlags enumeration
+## AnnotationFlags-Enumeration
 
-Eine Reihe von Flags, die verschiedene Merkmale der Anmerkung angeben.
+Eine Menge von Flags, die verschiedene Eigenschaften der Annotation spezifizieren.
 
 ```csharp
 [Flags]
@@ -20,20 +20,18 @@ public enum AnnotationFlags
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Default | `0` | Standardwert. |
-| Invisible | `1` | Wenn gesetzt, die Anmerkung nicht anzeigen, wenn sie nicht zu einem der Standard-Anmerkungstypen gehört und kein Anmerkungs-Handler verfügbar ist. Wenn klar, zeige eine solche unbekannte Anmerkung unter Verwendung eines Darstellungsstroms an, der durch sein Darstellungswörterbuch angegeben ist, falls vorhanden. |
-| Hidden | `2` | Wenn festgelegt, die Anmerkung nicht anzeigen oder drucken oder ihr erlauben, mit dem Benutzer zu interagieren, unabhängig von ihrem Anmerkungstyp oder ob ein Anmerkungs-Handler verfügbar ist. In Fällen, in denen der Bildschirmplatz begrenzt ist, die Möglichkeit, Anmerkungen auszublenden und anzuzeigen selektiv kann in Kombination mit Präsentationsstreams verwendet werden, um zusätzliche Pop-up-Informationen anzuzeigen ähnlich in der Funktion wie Online-Hilfesysteme. |
-| Print | `4` | Wenn gesetzt, wird die Anmerkung gedruckt, wenn die Seite gedruckt wird. Wenn klar, nie die Anmerkung drucken, , unabhängig davon, ob sie auf dem Bildschirm angezeigt wird. Dies kann zum Beispiel für Anmerkungen nützlich sein, die interaktive Schaltflächen darstellen, die auf der gedruckten Seite keinen sinnvollen Zweck erfüllen würden. |
-| NoZoom | `8` | Wenn festgelegt, wird die Darstellung der Anmerkung nicht an die Vergrößerung der Seite angepasst. Die Position der Anmerkung auf der Seite (definiert durch die obere linke Ecke des Anmerkungsrechtecks) bleibt unabhängig von der Seite fest Vergrößerung. |
-| NoRotate | `10` | Wenn festgelegt, wird die Darstellung der Anmerkung nicht an die Drehung der Seite angepasst. Die obere linke Ecke des Anmerkungsrechtecks bleibt unabhängig von der Seitendrehung an einer festen Position auf der Seite, . |
-| NoView | `20` | Wenn gesetzt, die Anmerkung nicht auf dem Bildschirm anzeigen oder Interaktion mit dem Benutzer zulassen. Die Anmerkung kann gedruckt werden (abhängig von der Einstellung des Drucken-Flags) , sollte aber für die Anzeige auf dem Bildschirm als ausgeblendet angesehen werden und Benutzerinteraktion. |
-| ReadOnly | `40` | Wenn festgelegt, darf die Anmerkung nicht mit dem Benutzer interagieren. Die Anmerkung kann angezeigt oder gedruckt werden (abhängig von den Einstellungen der NoView- und Print-Flags), sollte aber nicht auf Mausklicks reagieren oder ihr Aussehen als Reaktion auf Mausbewegungen ändern. Dieses Flag wird für Widget-Anmerkungen ignoriert; seine Funktion wird durch das ReadOnly-Flag des zugehörigen Formularfelds subsumiert. |
-| Locked | `80` | Wenn gesetzt, darf die Anmerkung nicht gelöscht oder ihre Eigenschaften (einschließlich Position und Größe) vom Benutzer geändert werden. Dieses Flag schränkt jedoch Änderungen an den Inhalten der Anmerkung wie z. B. dem Wert eines Formularfelds nicht ein. |
-| ToggleNoView | `100` | Wenn gesetzt, die Interpretation des NoView-Flags für bestimmte Ereignisse umkehren. Eine typische Verwendung ist eine Anmerkung, die nur erscheint, wenn ein Mauszeiger darüber gehalten wird. |
-| LockedContents | `200` | Wenn gesetzt, darf der Inhalt der Anmerkung nicht vom Benutzer geändert werden. Dieses Flag beschränkt nicht das Löschen der Anmerkung oder Änderungen an anderen Anmerkungseigenschaften, wie z. B. Position und Größe. |
+| Invisible | `1` | Wenn gesetzt, die Annotation nicht anzeigen, wenn sie nicht zu einem der Standard-Annotationstypen gehört und kein Annotation-Handler verfügbar ist. Wenn gelöscht, eine solche unbekannte Annotation mit einem Erscheinungsstrom anzeigen, der durch ihr Erscheinungsdokument angegeben ist, falls vorhanden. |
+| Hidden | `2` | Wenn gesetzt, die Annotation nicht anzeigen oder drucken oder ihre Interaktion mit dem Benutzer erlauben, unabhängig von ihrem Annotationstyp oder ob ein Annotation-Handler verfügbar ist. In Fällen, in denen der Bildschirmplatz begrenzt ist, kann die Fähigkeit, Annotationen selektiv zu verstecken und anzuzeigen, in Kombination mit Erscheinungsströmen verwendet werden, um Hilfsinformationen anzuzeigen, die in ihrer Funktion Online-Hilfesystemen ähnlich sind. |
+| Print | `4` | Wenn gesetzt, die Annotation drucken, wenn die Seite gedruckt wird. Wenn gelöscht, die Annotation niemals drucken, unabhängig davon, ob sie auf dem Bildschirm angezeigt wird. Dies kann nützlich sein, zum Beispiel für Annotationen, die interaktive Drucktasten darstellen, die auf der gedruckten Seite keinen sinnvollen Zweck erfüllen würden. |
+| NoZoom | `8` | Wenn gesetzt, das Erscheinungsbild der Annotation nicht skalieren, um der Vergrößerung der Seite zu entsprechen. Der Standort der Annotation auf der Seite (definiert durch die obere linke Ecke ihres Annotationsrechtecks) bleibt fix, unabhängig von der Seitenvergrößerung. |
+| NoRotate | `10` | Wenn gesetzt, das Erscheinungsbild der Annotation nicht drehen, um der Drehung der Seite zu entsprechen. Die obere linke Ecke des Annotationsrechtecks bleibt an einem festen Ort auf der Seite, unabhängig von der Seitenrotation. |
+| NoView | `20` | Wenn gesetzt, die Annotation nicht auf dem Bildschirm anzeigen oder ihre Interaktion mit dem Benutzer erlauben. Die Annotation kann gedruckt werden (abhängig von der Einstellung des Print-Flags), sollte jedoch für die Anzeige auf dem Bildschirm und die Benutzerinteraktion als verborgen betrachtet werden. |
+| ReadOnly | `40` | Wenn gesetzt, die Interaktion der Annotation mit dem Benutzer nicht erlauben. Die Annotation kann angezeigt oder gedruckt werden (abhängig von den Einstellungen der NoView- und Print-Flags), sollte jedoch nicht auf Mausklicks reagieren oder ihr Erscheinungsbild als Reaktion auf Mausbewegungen ändern. Dieses Flag wird für Widget-Annotationen ignoriert; seine Funktion wird durch das ReadOnly-Flag des zugehörigen Formularfelds subsumiert. |
+| Locked | `80` | Wenn gesetzt, die Annotation nicht löschen oder ihre Eigenschaften (einschließlich Position und Größe) vom Benutzer ändern lassen. Dieses Flag schränkt jedoch keine Änderungen am Inhalt der Annotation ein, wie den Wert eines Formularfelds. |
+| ToggleNoView | `100` | Wenn gesetzt, die Interpretation des NoView-Flags für bestimmte Ereignisse umkehren. Eine typische Verwendung besteht darin, eine Annotation zu haben, die nur angezeigt wird, wenn der Mauszeiger darüber gehalten wird. |
+| LockedContents | `200` | Wenn gesetzt, die Inhalte der Annotation nicht vom Benutzer ändern lassen. Dieses Flag schränkt das Löschen der Annotation oder Änderungen an anderen Annotations Eigenschaften, wie Position und Größe, nicht ein. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

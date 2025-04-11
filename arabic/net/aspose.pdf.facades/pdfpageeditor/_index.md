@@ -1,85 +1,83 @@
 ---
-title: PdfPageEditor
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة لتحرير صفحة ملف PDF  بما في ذلك تدوير الصفحة وتصغير الصفحة وتحريك الموضع وتغيير حجم الصفحة.
+title: Class PdfPageEditor
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.PdfPageEditor. تمثل فئة لتحرير صفحات ملفات PDF بما في ذلك تدوير الصفحة، تكبير الصفحة، تغيير موضع الصفحة وتغيير حجم الصفحة
 type: docs
-weight: 2600
+weight: 4590
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/
 ---
 ## PdfPageEditor class
 
-يمثل فئة لتحرير صفحة ملف PDF ، بما في ذلك تدوير الصفحة وتصغير الصفحة وتحريك الموضع وتغيير حجم الصفحة.
+تمثل فئة لتحرير صفحة ملف PDF، بما في ذلك تدوير الصفحة، تكبير الصفحة، تغيير الموضع وتغيير حجم الصفحة.
 
 ```csharp
 public sealed class PdfPageEditor : SaveableFacade
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [PdfPageEditor](pdfpageeditor#constructor)() | مُنشئ فئة PdfPageEditor . |
-| [PdfPageEditor](pdfpageeditor#constructor_1)(Document) | مُنشئ فئة PdfPageEditor . |
+| [PdfPageEditor](pdfpageeditor/#constructor)() | مُنشئ لفئة PdfPageEditor. |
+| [PdfPageEditor](pdfpageeditor/#constructor_1)(Document) | مُنشئ لفئة PdfPageEditor. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [DisplayDuration](../../aspose.pdf.facades/pdfpageeditor/displayduration) { get; set; } | الحصول على أو تعيين مدة عرض الصفحات . |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | الحصول على واجهة المستند التي تعمل عليها. |
-| [HorizontalAlignment](../../aspose.pdf.facades/pdfpageeditor/horizontalalignment) { get; set; } | الحصول على أو تعيين المحاذاة الأفقية لمحتوى PDF الأصلي على صفحة النتائج ، الافتراضي هو AlignmentType.Left. |
-| [PageRotations](../../aspose.pdf.facades/pdfpageeditor/pagerotations) { get; set; } | يحتوي جدول التجزئة على رقم الصفحة ودرجة الدوران ، ويمثل المفتاح رقم الصفحة ، وتمثل قيمة المفتاح التدوير بالدرجات. |
-| [PageSize](../../aspose.pdf.facades/pdfpageeditor/pagesize) { get; set; } | الحصول على أو تحديد حجم صفحة ملف الإخراج. |
-| [ProcessPages](../../aspose.pdf.facades/pdfpageeditor/processpages) { get; set; } | الحصول على أو تعيين أرقام الصفحات المراد تحريرها. بشكل افتراضي ، سيتم تحرير كل صفحة. |
-| [Rotation](../../aspose.pdf.facades/pdfpageeditor/rotation) { get; set; } | الحصول على تدوير الصفحات أو تعيينه ، يجب أن يكون التدوير 0 أو 90 أو 180 أو 270. القيمة الافتراضية هي 0. |
-| [TransitionDuration](../../aspose.pdf.facades/pdfpageeditor/transitionduration) { get; set; } | الحصول على أو تحديد مدة تأثير الانتقال. |
-| [TransitionType](../../aspose.pdf.facades/pdfpageeditor/transitiontype) { get; set; } | الحصول على نمط الانتقال أو تعيينه لاستخدامه عند الانتقال إلى هذه الصفحة من صفحة أخرى أثناء عرض تقديمي . |
-| [VerticalAlignmentType](../../aspose.pdf.facades/pdfpageeditor/verticalalignmenttype) { get; set; } | الحصول على أو تعيين المحاذاة الرأسية لمحتوى PDF الأصلي على صفحة النتائج ، الافتراضي هو VerticalAlignmentType. أسفل. |
-| [Zoom](../../aspose.pdf.facades/pdfpageeditor/zoom) { get; set; } | الحصول على أو تعيين معامل التكبير / التصغير. القيمة 1.0 تقابل 100٪ . القيمة الافتراضية هي 1.0.  يوضح المثال التالي كيفية تغيير تكبير / تصغير صفحات المستند. |
+| [DisplayDuration](../../aspose.pdf.facades/pdfpageeditor/displayduration/) { get; set; } | يحصل أو يحدد مدة العرض للصفحات. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة الوثيقة التي يعمل عليها. |
+| [HorizontalAlignment](../../aspose.pdf.facades/pdfpageeditor/horizontalalignment/) { get; set; } | يحصل أو يحدد المحاذاة الأفقية لمحتوى PDF الأصلي على الصفحة الناتجة، القيمة الافتراضية هي AlignmentType.Left. |
+| [PageRotations](../../aspose.pdf.facades/pdfpageeditor/pagerotations/) { get; set; } | جدول يحتوي على رقم الصفحة ودرجة التدوير، المفتاح يمثل رقم الصفحة، والقيمة تمثل التدوير بالدرجات. |
+| [PageSize](../../aspose.pdf.facades/pdfpageeditor/pagesize/) { get; set; } | يحصل أو يحدد حجم صفحة الملف الناتج. |
+| [ProcessPages](../../aspose.pdf.facades/pdfpageeditor/processpages/) { get; set; } | يحصل أو يحدد أرقام الصفحات التي سيتم تحريرها. بشكل افتراضي، سيتم تحرير كل صفحة. |
+| [Rotation](../../aspose.pdf.facades/pdfpageeditor/rotation/) { get; set; } | يحصل أو يحدد تدوير الصفحات، يجب أن يكون التدوير 0، 90، 180 أو 270. القيمة الافتراضية هي 0. |
+| [TransitionDuration](../../aspose.pdf.facades/pdfpageeditor/transitionduration/) { get; set; } | يحصل أو يحدد مدة تأثير الانتقال. |
+| [TransitionType](../../aspose.pdf.facades/pdfpageeditor/transitiontype/) { get; set; } | يحصل أو يحدد نمط الانتقال الذي سيتم استخدامه عند الانتقال إلى هذه الصفحة من صفحة أخرى أثناء العرض. |
+| [VerticalAlignmentType](../../aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/) { get; set; } | يحصل أو يحدد المحاذاة الرأسية لمحتوى PDF الأصلي على الصفحة الناتجة، القيمة الافتراضية هي VerticalAlignmentType.Bottom. |
+| [Zoom](../../aspose.pdf.facades/pdfpageeditor/zoom/) { get; set; } | يحصل أو يحدد معامل التكبير. القيمة 1.0 تتوافق مع 100%. القيمة الافتراضية هي 1.0. المثال التالي يوضح كيفية تغيير تكبير صفحات الوثيقة. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [ApplyChanges](../../aspose.pdf.facades/pdfpageeditor/applychanges)() | تطبيق التغييرات التي تم إجراؤها على صفحات المستند. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | تهيئة الواجهة . |
-| virtual [Close](../../aspose.pdf.facades/facade/close)() | Disposes Aspose.Pdf. وثيقة مرتبطة بواجهة . |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | التخلص من الواجهة . |
-| [GetPageBoxSize](../../aspose.pdf.facades/pdfpageeditor/getpageboxsize)(int, string) | إرجاع حجم المربع المحدد في المستند. |
-| [GetPageRotation](../../aspose.pdf.facades/pdfpageeditor/getpagerotation)(int) | إرجاع تدوير الصفحة المحددة. |
-| [GetPages](../../aspose.pdf.facades/pdfpageeditor/getpages)() | إرجاع العدد الإجمالي للصفحات. |
-| [GetPageSize](../../aspose.pdf.facades/pdfpageeditor/getpagesize)(int) | إرجاع حجم الصفحة للصفحة المحددة. |
-| [MovePosition](../../aspose.pdf.facades/pdfpageeditor/moveposition)(float, float) | لنقل الأصل من (0 ، 0) إلى النقطة التي تم تعيينها. الأصل من اليسار إلى الأسفل والوحدة هي النقطة (1 بوصة = 72 نقطة). |
-| override [Save](../../aspose.pdf.facades/pdfpageeditor/save#save)(Stream) | يحفظ المستند الذي تم تغييره إلى دفق. |
-| override [Save](../../aspose.pdf.facades/pdfpageeditor/save#save_1)(string) | يحفظ المستند الذي تم تغييره إلى ملف. |
+| [ApplyChanges](../../aspose.pdf.facades/pdfpageeditor/applychanges/)() | يطبق التغييرات التي تم إجراؤها على صفحات الوثيقة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يقوم بتهيئة الواجهة. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | يتخلص من Aspose.Pdf.Document المرتبطة بواجهة. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | يتخلص من الواجهة. |
+| [GetPageBoxSize](../../aspose.pdf.facades/pdfpageeditor/getpageboxsize/)(int, string) | يعيد حجم الصندوق المحدد في الوثيقة. |
+| [GetPageRotation](../../aspose.pdf.facades/pdfpageeditor/getpagerotation/)(int) | يعيد تدوير الصفحة المحددة. |
+| [GetPages](../../aspose.pdf.facades/pdfpageeditor/getpages/)() | يعيد العدد الإجمالي للصفحات. |
+| [GetPageSize](../../aspose.pdf.facades/pdfpageeditor/getpagesize/)(int) | يعيد حجم الصفحة للصفحة المحددة. |
+| [MovePosition](../../aspose.pdf.facades/pdfpageeditor/moveposition/)(float, float) | ينقل الأصل من (0، 0) إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي نقطة (1 بوصة = 72 نقطة). |
+| override [Save](../../aspose.pdf.facades/pdfpageeditor/save/#save)(Stream) | يحفظ الوثيقة المعدلة في التدفق. |
+| override [Save](../../aspose.pdf.facades/pdfpageeditor/save/#save_1)(string) | يحفظ الوثيقة المعدلة في الملف. |
 
-## مجالات
+## Fields
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| const [BLINDH](../../aspose.pdf.facades/pdfpageeditor/blindh) | الستائر الرأسية |
-| const [BLINDV](../../aspose.pdf.facades/pdfpageeditor/blindv) | الستائر الرأسية |
-| const [BTWIPE](../../aspose.pdf.facades/pdfpageeditor/btwipe) | مسح من أسفل |
-| const [DGLITTER](../../aspose.pdf.facades/pdfpageeditor/dglitter) | بريق قطري |
-| const [DISSOLVE](../../aspose.pdf.facades/pdfpageeditor/dissolve) | الصفحة القديمة تتلاشى |
-| const [INBOX](../../aspose.pdf.facades/pdfpageeditor/inbox) | صندوق داخلي |
-| const [LRGLITTER](../../aspose.pdf.facades/pdfpageeditor/lrglitter) | لمعان من اليسار واليمين |
-| const [LRWIPE](../../aspose.pdf.facades/pdfpageeditor/lrwipe) | مسح اليسار واليمين |
-| const [OUTBOX](../../aspose.pdf.facades/pdfpageeditor/outbox) | صندوق الصادر |
-| const [RLWIPE](../../aspose.pdf.facades/pdfpageeditor/rlwipe) | يمين يسار يمسح |
-| const [SPLITHIN](../../aspose.pdf.facades/pdfpageeditor/splithin) | في انقسام أفقي |
-| const [SPLITHOUT](../../aspose.pdf.facades/pdfpageeditor/splithout) | انقسام أفقي للخارج |
-| const [SPLITVIN](../../aspose.pdf.facades/pdfpageeditor/splitvin) | في انقسام عمودي |
-| const [SPLITVOUT](../../aspose.pdf.facades/pdfpageeditor/splitvout) | انقسام عمودي للخارج |
-| const [TBGLITTER](../../aspose.pdf.facades/pdfpageeditor/tbglitter) | لمعان من أعلى إلى أسفل |
-| const [TBWIPE](../../aspose.pdf.facades/pdfpageeditor/tbwipe) | مسح من أعلى إلى أسفل |
+| const [BLINDH](../../aspose.pdf.facades/pdfpageeditor/blindh/) | الستائر الرأسية |
+| const [BLINDV](../../aspose.pdf.facades/pdfpageeditor/blindv/) | الستائر الرأسية |
+| const [BTWIPE](../../aspose.pdf.facades/pdfpageeditor/btwipe/) | مسح من الأسفل إلى الأعلى |
+| const [DGLITTER](../../aspose.pdf.facades/pdfpageeditor/dglitter/) | بريق قطري |
+| const [DISSOLVE](../../aspose.pdf.facades/pdfpageeditor/dissolve/) | الصفحة القديمة تذوب |
+| const [INBOX](../../aspose.pdf.facades/pdfpageeditor/inbox/) | صندوق داخلي |
+| const [LRGLITTER](../../aspose.pdf.facades/pdfpageeditor/lrglitter/) | بريق من اليسار إلى اليمين |
+| const [LRWIPE](../../aspose.pdf.facades/pdfpageeditor/lrwipe/) | مسح من اليسار إلى اليمين |
+| const [OUTBOX](../../aspose.pdf.facades/pdfpageeditor/outbox/) | صندوق خارجي |
+| const [RLWIPE](../../aspose.pdf.facades/pdfpageeditor/rlwipe/) | مسح من اليمين إلى اليسار |
+| const [SPLITHIN](../../aspose.pdf.facades/pdfpageeditor/splithin/) | انقسام أفقي داخلي |
+| const [SPLITHOUT](../../aspose.pdf.facades/pdfpageeditor/splithout/) | انقسام أفقي خارجي |
+| const [SPLITVIN](../../aspose.pdf.facades/pdfpageeditor/splitvin/) | انقسام عمودي داخلي |
+| const [SPLITVOUT](../../aspose.pdf.facades/pdfpageeditor/splitvout/) | انقسام عمودي خارجي |
+| const [TBGLITTER](../../aspose.pdf.facades/pdfpageeditor/tbglitter/) | بريق من الأعلى إلى الأسفل |
+| const [TBWIPE](../../aspose.pdf.facades/pdfpageeditor/tbwipe/) | مسح من الأعلى إلى الأسفل |
 
-### أنظر أيضا
+### See Also
 
-* class [SaveableFacade](../saveablefacade)
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

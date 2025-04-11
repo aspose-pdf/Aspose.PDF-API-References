@@ -1,41 +1,38 @@
 ---
-title: StructureTextState
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет параметры состояния текста для элементов текстовой структуры и тегированного содержимого ITextElement ITaggedContent
+title: Class StructureTextState
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.LogicalStructure.StructureTextState. Представляет настройки состояния текста для элементов текстовой структуры и TaggedContent ITextElement ITaggedContent
 type: docs
-weight: 4540
+weight: 6710
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## StructureTextState class
+## Класс StructureTextState
 
-Представляет параметры состояния текста для элементов текстовой структуры и тегированного содержимого (ITextElement, ITaggedContent)
+Представляет настройки состояния текста для элементов текстовой структуры и TaggedContent (ITextElement, ITaggedContent)
 
 ```csharp
 public class StructureTextState
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor) { get; set; } | Получает или задает цвет фона текста. |
-| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing) { get; set; } | Получает или задает межсимвольный интервал в тексте. |
-| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font) { get; set; } | Получает или задает шрифт текста. |
-| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize) { get; set; } | Получает или устанавливает размер шрифта текста. |
-| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle) { get; set; } | Получает или устанавливает стиль шрифта текста. |
-| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor) { get; set; } | Получает или задает цвет текста переднего плана. |
-| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling) { get; set; } | Получает или задает горизонтальное масштабирование текста. |
-| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing) { get; set; } | Получает или задает межстрочный интервал текста. |
-| [MarginInfo](../../aspose.pdf.logicalstructure/structuretextstate/margininfo) { get; set; } | Получает или задает поле для элемента блочной структуры. |
-| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout) { get; set; } | Получает или задает зачеркивание текста. |
-| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript) { get; set; } | Получает или задает нижний индекс текста. |
-| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript) { get; set; } | Получает или задает верхний индекс текста. |
-| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline) { get; set; } | Получает или устанавливает подчеркивание текста. |
-| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing) { get; set; } | Получает или задает межсловный интервал в тексте. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/) { get; set; } | Получает или задает цвет фона текста. |
+| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing/) { get; set; } | Получает или задает межсимвольный интервал текста. |
+| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font/) { get; set; } | Получает или задает шрифт текста. |
+| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | Получает или задает размер шрифта текста. |
+| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | Получает или задает стиль шрифта текста. |
+| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | Получает или задает цвет переднего плана текста. |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | Получает или задает горизонтальное масштабирование текста. |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | Получает или задает межстрочный интервал текста. |
+| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | Получает или задает зачеркивание текста. |
+| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | Получает или задает нижний индекс текста. |
+| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | Получает или задает верхний индекс текста. |
+| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | Получает или задает подчеркивание текста. |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | Получает или задает интервал между словами текста. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
+* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

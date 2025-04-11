@@ -1,72 +1,70 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF for .NET API Referansı
-description: Bir metnin emici nesnesini temsil eder. Metin çıkarma işlemini gerçekleştirir ve sonuca şu yolla erişim sağlarText./textabsorber/text nesne.
+title: Class TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextAbsorber sınıfı. Bir metin emici nesnesini temsil eder. Metin çıkarımı yapar ve sonucu [`Text`](./text/) nesnesi aracılığıyla erişime sunar.
 type: docs
-weight: 6960
+weight: 10800
 url: /tr/net/aspose.pdf.text/textabsorber/
 ---
-## TextAbsorber class
+## TextAbsorber sınıfı
 
-Bir metnin emici nesnesini temsil eder. Metin çıkarma işlemini gerçekleştirir ve sonuca şu yolla erişim sağlar:[`Text`](./text) nesne.
+Bir metin emici nesnesini temsil eder. Metin çıkarımı yapar ve sonucu [`Text`](./text/) nesnesi aracılığıyla erişime sunar.
 
 ```csharp
 public class TextAbsorber
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | Yeni bir örneğini başlatır[`TextAbsorber`](../textabsorber) . |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Yeni bir örneğini başlatır[`TextAbsorber`](../textabsorber) çıkarma seçenekleriyle. |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Yeni bir örneğini başlatır[`TextAbsorber`](../textabsorber) metin arama seçenekleriyle. |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Yeni bir örneğini başlatır[`TextAbsorber`](../textabsorber) çıkarma ve metin arama seçenekleriyle. |
+| [TextAbsorber](textabsorber/#constructor)() | `TextAbsorber`'ın yeni bir örneğini başlatır. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | Çıkarma seçenekleri ile `TextAbsorber`'ın yeni bir örneğini başlatır. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | Metin arama seçenekleri ile `TextAbsorber`'ın yeni bir örneğini başlatır. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | Çıkarma ve metin arama seçenekleri ile `TextAbsorber`'ın yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Listesi[`TextExtractionError`](../textextractionerror) nesneler. Metin çıkarma sırasında bulunan hatalarla ilgili bilgileri içerir. Hata arama, yalnızca TextSearchOptions.LogTextExtraksiyonErrors = true; Ve performansı düşürebilir. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | Metin çıkarma seçeneklerini alır veya ayarlar. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Değer, metin çıkarma sırasında hataların bulunup bulunmadığını gösterir. Hata arama, yalnızca TextSearchOptions.LogTextExtraksiyonErrors = true; Ve performansı düşürebilir. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | [`TextAbsorber`](../textabsorber) PDF belgesinden veya sayfasından alıntılar. |
-| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | Metin arama seçeneklerini alır veya ayarlar. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | [`TextExtractionError`](../textextractionerror/) nesnelerinin listesi. Metin çıkarımı sırasında bulunan hatalar hakkında bilgi içerir. Hataları arama, yalnızca TextSearchOptions.LogTextExtractionErrors = true; olduğunda yapılacaktır; ve bu performansı düşürebilir. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Metin çıkarım seçeneklerini alır veya ayarlar. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Değer, metin çıkarımı sırasında hataların bulunup bulunmadığını gösterir. Hataları arama, yalnızca TextSearchOptions.LogTextExtractionErrors = true; olduğunda yapılacaktır; ve bu performansı düşürebilir. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | `TextAbsorber`'ın PDF belgesinden veya sayfasından çıkardığı metni alır. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Metin arama seçeneklerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit)(Document) | Belirtilen belgedeki metni çıkarır |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_1)(Page) | Belirtilen sayfadaki metni çıkarır |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_2)(XForm) | Belirtilen XForm'daki metni ayıklar. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | Belirtilen belgede metin çıkarır. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | Belirtilen sayfada metin çıkarır. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | Belirtilen XForm'da metin çıkarır. |
 
-### Notlar
+## Açıklamalar
 
-[`TextAbsorber`](../textabsorber) nesne, bir Pdf belgesinden veya belgenin sayfasından metin çıkarmak için kullanılır.
+`TextAbsorber` nesnesi, bir PDF belgesinden veya belgenin sayfasından metin çıkarmak için kullanılır.
 
-### Örnekler
+## Örnekler
 
-Örnek, metnin ilk PDF belgesi sayfasından nasıl çıkarılacağını gösterir.
+Örnek, ilk PDF belgesi sayfasında metin çıkarmayı gösterir.
 
 ```csharp
-// belgeyi aç
+// open document
 Document doc = new Document(inFile);
 
-// metni çıkarmak için TextAbsorber nesnesi oluştur
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// ilk sayfa için emiciyi kabul et
+// accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// ayıklanan metni al
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: CreateRubberStamp
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Erstellt eine Stempelanmerkung.
+title: PdfContentEditor.CreateRubberStamp
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor-Methode. Erstellt eine Gummistempel-Annotation
 type: docs
 weight: 260
 url: /de/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
 ## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
 
-Erstellt eine Stempelanmerkung.
+Erstellt eine Gummistempel-Annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
@@ -17,13 +17,13 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| annotRect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
-| icon | String | Beim Anzeigen der Anmerkung soll ein Symbol verwendet werden. Standardwert: 'Entwurf'." |
-| annotContents | String | Der Inhalt der Anmerkung. |
-| color | Color | Die Farbe der Anmerkung. |
+| page | Int32 | Die Nummer der Originalseite, auf der die Annotation erstellt wird. |
+| annotRect | Rectangle | Das Annotationsrechteck, das den Standort der Annotation auf der Seite definiert. |
+| icon | String | Ein Symbol, das zur Anzeige der Annotation verwendet werden soll. Standardwert: 'Entwurf'. |
+| annotContents | String | Der Inhalt der Annotation. |
+| color | Color | Die Farbe der Annotation. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -35,15 +35,15 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfContentEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
-Erstellt eine Stempelanmerkung.
+Erstellt eine Gummistempel-Annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -52,13 +52,13 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| annotRect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
-| annotContents | String | Der Inhalt der Anmerkung. |
-| color | Color | Die Farbe der Anmerkung. |
-| appearanceFile | String | Der Pfad der Darstellungsdatei. |
+| page | Int32 | Die Nummer der Originalseite, auf der die Annotation erstellt wird. |
+| annotRect | Rectangle | Das Annotationsrechteck, das den Standort der Annotation auf der Seite definiert. |
+| annotContents | String | Der Inhalt der Annotation. |
+| color | Color | Die Farbe der Annotation. |
+| appearanceFile | String | Der Pfad zur Erscheinungsdatei. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -70,15 +70,15 @@ editor.Save("example_out.pdf");
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfContentEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
 
-Erstellt eine Stempelanmerkung.
+Erstellt eine Gummistempel-Annotation.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -87,13 +87,13 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Nummer der Originalseite, auf der die Anmerkung erstellt wird. |
-| annotRect | Rectangle | Das Anmerkungsrechteck, das die Position der Anmerkung auf der Seite definiert. |
-| annotContents | String | Der Inhalt der Anmerkung. |
-| color | Color | Die Farbe der Anmerkung. |
-| appearanceStream | Stream | Die Stream of Appearance-Datei. |
+| page | Int32 | Die Nummer der Originalseite, auf der die Annotation erstellt wird. |
+| annotRect | Rectangle | Das Annotationsrechteck, das den Standort der Annotation auf der Seite definiert. |
+| annotContents | String | Der Inhalt der Annotation. |
+| color | Color | Die Farbe der Annotation. |
+| appearanceStream | Stream | Der Stream der Erscheinungsdatei. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -108,8 +108,6 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 
 ### Siehe auch
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namensraum [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfContentEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

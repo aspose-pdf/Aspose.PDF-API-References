@@ -1,14 +1,14 @@
 ---
-title: Visit
-second_title: Aspose.PDF för .NET API Referens
-description: Välj länkkommentar om AnnotationSelector initierades med LinkAnnotation-objekt.
+title: AnnotationSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: AnnotationSelector-metod. Välj länkannotering om AnnotationSelector initierades med LinkAnnotation-objekt
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_9}
 
-Välj länkkommentar om AnnotationSelector initierades med LinkAnnotation-objekt.
+Välj länkannotering om AnnotationSelector initierades med LinkAnnotation-objekt.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,20 +16,20 @@ public void Visit(LinkAnnotation link)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation-objekt för att välja. |
+| link | LinkAnnotation | LinkAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [LinkAnnotation](../../linkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [LinkAnnotation](../../linkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
-Välj bilagakommentar om AnnotationSelector initierades med FileAttachmentAnnotation-objekt.
+Välj bilagaannotering om AnnotationSelector initierades med FileAttachmentAnnotation-objekt.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,20 +37,20 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation-objekt för att välja. |
+| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_20}
+## Visit(TextAnnotation) {#visit_24}
 
-Välj textkommentar om AnnotationSelector initierades med TextAnnotation-objekt.
+Välj textannotering om AnnotationSelector initierades med TextAnnotation-objekt.
 
 ```csharp
 public void Visit(TextAnnotation text)
@@ -58,20 +58,20 @@ public void Visit(TextAnnotation text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation-objekt för att välja. |
+| text | TextAnnotation | TextAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [TextAnnotation](../../textannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextAnnotation](../../textannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_13}
+## Visit(RedactionAnnotation) {#visit_16}
 
-Välj redact annotation om AnnotationSelector initierades med RedactAnnotation-objekt.
+Välj redigeringsannotering om AnnotationSelector initierades med RedactAnnotation-objekt.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
@@ -79,20 +79,20 @@ public void Visit(RedactionAnnotation redact)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| redact | RedactionAnnotation | RedactAnnotation-objekt för att välja. |
+| redact | RedactionAnnotation | RedactAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [RedactionAnnotation](../../redactionannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [RedactionAnnotation](../../redactionannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_5}
 
-Välj fritextkommentar om AnnotationSelector initierades med FreeTextAnnotation-objekt.
+Välj fritekstannotering om AnnotationSelector initierades med FreeTextAnnotation-objekt.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -100,20 +100,20 @@ public void Visit(FreeTextAnnotation freetext)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation-objekt för att välja. |
+| freetext | FreeTextAnnotation | FreeTextAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FreeTextAnnotation](../../freetextannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_6}
 
-Välj bilagakommentar om AnnotationSelector initierades med FreeTextAnnotation-objekt.
+Välj bilagaannotering om AnnotationSelector initierades med FreeTextAnnotation-objekt.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -121,20 +121,20 @@ public void Visit(HighlightAnnotation highlight)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation-objekt för att välja. |
+| highlight | HighlightAnnotation | HighlightAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [HighlightAnnotation](../../highlightannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [HighlightAnnotation](../../highlightannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_21}
+## Visit(UnderlineAnnotation) {#visit_26}
 
-Välj understrykningskommentar om AnnotationSelector initierades med UnderlineAnnotation-objekt.
+Välj understruken annotering om AnnotationSelector initierades med UnderlineAnnotation-objekt.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -142,20 +142,20 @@ public void Visit(UnderlineAnnotation underline)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation-objekt för att välja. |
+| underline | UnderlineAnnotation | UnderlineAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [UnderlineAnnotation](../../underlineannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_19}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
-Välj strikeOut-kommentar om AnnotationSelector initierades med StrikeOutAnnotation-objekt.
+Välj genomstruken annotering om AnnotationSelector initierades med StrikeOutAnnotation-objekt.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -163,20 +163,20 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation-objekt för att välja. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [StrikeOutAnnotation](../../strikeoutannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_17}
+## Visit(SquigglyAnnotation) {#visit_21}
 
-Välj squiggly annotation om AnnotationSelector initierades med SquigglyAnnotation-objekt.
+Välj vågig annotering om AnnotationSelector initierades med SquigglyAnnotation-objekt.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -184,20 +184,20 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation-objekt för att välja. |
+| squiggly | SquigglyAnnotation | SquigglyAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SquigglyAnnotation](../../squigglyannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_12}
+## Visit(PopupAnnotation) {#visit_15}
 
-Välj popup-kommentar om AnnotationSelector initierades med PopupAnnotation-objekt.
+Välj popup-annotering om AnnotationSelector initierades med PopupAnnotation-objekt.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -205,20 +205,20 @@ public void Visit(PopupAnnotation popup)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation-objekt för att välja. |
+| popup | PopupAnnotation | PopupAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [PopupAnnotation](../../popupannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PopupAnnotation](../../popupannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_8}
 
-Välj linjekommentar om AnnotationSelector initierades med LineAnnotation-objekt.
+Välj linjeannotering om AnnotationSelector initierades med LineAnnotation-objekt.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -226,20 +226,20 @@ public void Visit(LineAnnotation line)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation-objekt för att välja. |
+| line | LineAnnotation | LineAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [LineAnnotation](../../lineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [LineAnnotation](../../lineannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Välj cirkelkommentar om AnnotationSelector initierades med CircleAnnotation-objekt.
+Välj cirkelannotering om AnnotationSelector initierades med CircleAnnotation-objekt.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -247,20 +247,20 @@ public void Visit(CircleAnnotation circle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation-objekt för att välja. |
+| circle | CircleAnnotation | CircleAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [CircleAnnotation](../../circleannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [CircleAnnotation](../../circleannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_16}
+## Visit(SquareAnnotation) {#visit_20}
 
-Välj kvadratisk anteckning om AnnotationSelector initierades med SquareAnnotation-objekt.
+Välj fyrkantig annotering om AnnotationSelector initierades med SquareAnnotation-objekt.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -268,20 +268,20 @@ public void Visit(SquareAnnotation square)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation-objekt för att välja. |
+| square | SquareAnnotation | SquareAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [SquareAnnotation](../../squareannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SquareAnnotation](../../squareannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_7}
 
-Välj bläckanteckning om AnnotationSelector initierades med InkAnnotation-objekt.
+Välj bläckannotering om AnnotationSelector initierades med InkAnnotation-objekt.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -289,20 +289,20 @@ public void Visit(InkAnnotation ink)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation-objekt för att välja. |
+| ink | InkAnnotation | InkAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [InkAnnotation](../../inkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [InkAnnotation](../../inkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_11}
+## Visit(PolylineAnnotation) {#visit_14}
 
-Välj polyline-kommentar om AnnotationSelector initierades med PolylineAnnotation-objekt.
+Välj polylineannotering om AnnotationSelector initierades med PolylineAnnotation-objekt.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -310,20 +310,20 @@ public void Visit(PolylineAnnotation polyline)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation-objekt för att välja. |
+| polyline | PolylineAnnotation | PolylineAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [PolylineAnnotation](../../polylineannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PolylineAnnotation](../../polylineannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_10}
+## Visit(PolygonAnnotation) {#visit_13}
 
-Välj polygonkommentar om AnnotationSelector initierades med PolygonAnnotation-objekt.
+Välj polygonannotering om AnnotationSelector initierades med PolygonAnnotation-objekt.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -331,20 +331,20 @@ public void Visit(PolygonAnnotation polygon)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation-objekt för att välja. |
+| polygon | PolygonAnnotation | PolygonAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [PolygonAnnotation](../../polygonannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PolygonAnnotation](../../polygonannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Välj fältanteckning om AnnotationSelector initierades med CaretAnnotation-objekt.
+Välj markörannotering om AnnotationSelector initierades med CaretAnnotation-objekt.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -352,20 +352,20 @@ public void Visit(CaretAnnotation caret)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation-objekt för att välja. |
+| caret | CaretAnnotation | CaretAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [CaretAnnotation](../../caretannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [CaretAnnotation](../../caretannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_18}
+## Visit(StampAnnotation) {#visit_22}
 
-Välj stämpelkommentar om AnnotationSelector initierades med StampAnnotation-objekt.
+Välj stämpelannotering om AnnotationSelector initierades med StampAnnotation-objekt.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -373,20 +373,20 @@ public void Visit(StampAnnotation stamp)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation-objekt för att välja. |
+| stamp | StampAnnotation | StampAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [StampAnnotation](../../stampannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [StampAnnotation](../../stampannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_23}
+## Visit(WidgetAnnotation) {#visit_28}
 
-Välj widgetkommentar om AnnotationSelector initierades med WidgetAnnotation-objekt.
+Välj widgetannotering om AnnotationSelector initierades med WidgetAnnotation-objekt.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -394,20 +394,20 @@ public void Visit(WidgetAnnotation widget)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation-objekt för att välja. |
+| widget | WidgetAnnotation | WidgetAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [WidgetAnnotation](../../widgetannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [WidgetAnnotation](../../widgetannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_22}
+## Visit(WatermarkAnnotation) {#visit_27}
 
-Välj vattenmärkeskommentar om AnnotationSelector initierades med WatermarkAnnotation-objekt.
+Välj vattenstämpelannotering om AnnotationSelector initierades med WatermarkAnnotation-objekt.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
@@ -415,20 +415,20 @@ public void Visit(WatermarkAnnotation watermark)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | VattenmärkeAnteckning för att välja. |
+| watermark | WatermarkAnnotation | WatermarkAnnotation för val. |
 
-### Se även
+### Se Även
 
-* class [WatermarkAnnotation](../../watermarkannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [WatermarkAnnotation](../../watermarkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_10}
 
-Välj filmkommentar om AnnotationSelector initierades med MovieAnnotation-objekt.
+Välj filmannotering om AnnotationSelector initierades med MovieAnnotation-objekt.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -436,20 +436,20 @@ public void Visit(MovieAnnotation movie)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation-objekt för att välja. |
+| movie | MovieAnnotation | MovieAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [MovieAnnotation](../../movieannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [MovieAnnotation](../../movieannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_14}
+## Visit(RichMediaAnnotation) {#visit_18}
 
-Välj filmkommentar om AnnotationSelector initierades med RichMedia-anteckningsobjekt.
+Välj filmannotering om AnnotationSelector initierades med RichMedia-annoteringsobjekt.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
@@ -457,20 +457,20 @@ public void Visit(RichMediaAnnotation richMedia)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia-anteckning. |
+| richMedia | RichMediaAnnotation | RichMedia-annotering. |
 
-### Se även
+### Se Även
 
-* class [RichMediaAnnotation](../../richmediaannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [RichMediaAnnotation](../../richmediaannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_15}
+## Visit(ScreenAnnotation) {#visit_19}
 
-Välj skärmkommentar om AnnotationSelector initierades med ScreenAnnotation-objekt.
+Välj skärmantonering om AnnotationSelector initierades med ScreenAnnotation-objekt.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -478,20 +478,20 @@ public void Visit(ScreenAnnotation screen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation-objekt för att välja. |
+| screen | ScreenAnnotation | ScreenAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [ScreenAnnotation](../../screenannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [ScreenAnnotation](../../screenannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_9}
+## Visit(PDF3DAnnotation) {#visit_12}
 
-Välj PDF3D-anteckning om AnnotationSelector initierades med PDF3DAnnotation-objekt.
+Välj PDF3D-annotering om AnnotationSelector initierades med PDF3DAnnotation-objekt.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
@@ -499,13 +499,116 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | PDF3DAnnotationsobjekt för att välja. |
+| pdf3D | PDF3DAnnotation | PDF3DAnnotation-objekt för val. |
 
-### Se även
+### Se Även
 
-* class [PDF3DAnnotation](../../pdf3dannotation)
-* class [AnnotationSelector](../../annotationselector)
-* namnutrymme [Aspose.Pdf.Annotations](../../annotationselector)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PDF3DAnnotation](../../pdf3dannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(ColorBarAnnotation) {#visit_3}
+
+Välj ColorBar-annotering om AnnotationSelector initierades med ColorBar-objekt.
+
+```csharp
+public void Visit(ColorBarAnnotation colorBar)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| colorBar | ColorBarAnnotation | PDF3DAnnotation-objekt för val. |
+
+### Se Även
+
+* klass [ColorBarAnnotation](../../colorbarannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+Väljer *trimMark* om [`AnnotationSelector`](../) initierades med ett [`TrimMarkAnnotation`](../../trimmarkannotation/) objekt.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | Det [`TrimMarkAnnotation`](../../trimmarkannotation/) objektet för val. |
+
+### Se Även
+
+* klass [TrimMarkAnnotation](../../trimmarkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Väljer *bleedMark* om [`AnnotationSelector`](../) initierades med ett [`BleedMarkAnnotation`](../../bleedmarkannotation/) objekt.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | Det [`BleedMarkAnnotation`](../../bleedmarkannotation/) objektet för val. |
+
+### Se Även
+
+* klass [BleedMarkAnnotation](../../bleedmarkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+Väljer *registrationMark* om [`AnnotationSelector`](../) initierades med ett [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) objekt.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | Det [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) objektet för val. |
+
+### Se Även
+
+* klass [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+Väljer *pageInformation* om [`AnnotationSelector`](../) initierades med ett [`PageInformationAnnotation`](../../pageinformationannotation/) objekt.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | Det [`PageInformationAnnotation`](../../pageinformationannotation/) objektet för val. |
+
+### Se Även
+
+* klass [PageInformationAnnotation](../../pageinformationannotation/)
+* klass [AnnotationSelector](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

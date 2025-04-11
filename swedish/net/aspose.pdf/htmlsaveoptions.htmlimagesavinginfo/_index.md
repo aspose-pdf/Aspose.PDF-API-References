@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Aspose.PDF för .NET API Referens
-description: Den här klassen representerar uppsättningen data som är relaterad till extern resursbildfils saving under PDF till HTML-konvertering.
+title: Class HtmlSaveOptions.HtmlImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo klass. Denna klass representerar en uppsättning data som relaterar till sparande av externa resursbildfiler under PDF till HTML-konvertering
 type: docs
-weight: 3510
+weight: 5640
 url: /sv/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo class
+## HtmlSaveOptions.HtmlImageSavingInfo klass
 
-Den här klassen representerar uppsättningen data som är relaterad till extern resursbildfils saving under PDF till HTML-konvertering.
+Denna klass representerar en uppsättning data som relaterar till sparande av externa resursbildfiler under PDF till HTML-konvertering.
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
@@ -16,33 +16,31 @@ public class HtmlImageSavingInfo : ResourceSavingInfo
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | Default_Constructor |
+| [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/.ctor)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Anges av omvandlare. Förmodat filnamn som går från omvandlare till kod för anpassad metod Kan användas i anpassad kod för att bestämma hur den ska bearbetas eller var spara den filen |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Satt av konverteraren. Antagen filnamn som går från konverteraren till koden för den anpassade metoden. Kan användas i anpassad kod för att avgöra hur filen ska behandlas eller var den ska sparas. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Ställs in av omvandlaren. Representerar binärt innehåll i sparad fil. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | denna flagga måste ställas in på "true" i anpassad kod om av någon anledning föreslagen fil inte ska behandlas med anpassad kod utan med själva omvandlarens kod som standard för omvandlare. Så, inställningen till true betyder att anpassad kod inte bearbetade den refererade filen och -omvandlaren måste hantera den själv (i båda bemärkelserna - för att spara någonstans och för att namnge i referensfil). |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/htmlhostpagenumber) | Berättar för anpassad kod till vilken sida av genererad uppsättning HTML-sidfiler som avser sparad bild. Om delning på sidor är avstängd innehåller detta värde alltid '1' eftersom i så fall Endast en HTML-sida genereras. |
-| [ImageType](../../aspose.pdf/htmlimagesavinginfo/imagetype) | Representerar typ av sparad bild som refereras i HTML. Ställs in av omvandlare och kan användas i anpassad kod för att bestämma vad som ska göras |
-| [ParentType](../../aspose.pdf/htmlimagesavinginfo/parenttype) | Sparad bild kan avse själva HTML eller kan extraheras. från SVG inbäddad i HTML. Den här egenskapen kan berätta för anpassad kod vad som är den typen av förälder till den bearbetade bilden. Den ställs in av omvandlaren och kan användas i den anpassade koden för att bestämma vad som ska göras med den bilden (t.ex. anpassad kod kan bestämma var image ska sparas eller hur den måste refereras i föräldrarnas innehåll). |
-| [PdfHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/pdfhostpagenumber) | Berättar för anpassad kod till vilken sida i original-PDF-dokumentet som avser sparad bild Eftersom det är möjligt att inte alla sidor i originaldokumentet kommer att sparas, talar detta värde om värdsidans nummer i original-PDF. Om det ursprungliga sidnumret av någon anledning är okänt returnerar det alltid '1' |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Anges av omvandlare. Förmodat filnamn som går från omvandlare till kod för anpassad metod Kan användas i anpassad kod för att bestämma hur den ska bearbetas eller var spara den filen |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Satt av konverteraren. Representerar binärt innehåll av den sparade filen. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Denna flagga måste sättas till "true" i anpassad kod om filen av någon anledning bör behandlas inte med anpassad kod utan med konverterarens kod själv på standard sätt för konverteraren. Så, att den sätts till true betyder att den anpassade koden inte har behandlat den refererade filen och konverteraren måste hantera den själv (i båda avseenden - för att spara någonstans och för namngivning i den refererande filen). |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | Berättar för den anpassade koden vilken sida av den genererade uppsättningen av HTML-sidfiler den sparade bilden hör till. Om uppdelning på sidor är avstängd innehåller detta värde alltid '1' eftersom i sådana fall endast en HTML-sida genereras. |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | Representerar typen av den sparade bilden som refereras i HTML. Satt av konverteraren och kan användas i anpassad kod för att avgöra vad som ska göras. |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | Den sparade bilden kan tillhöra HTML själv eller kan extraheras från SVG inbäddad i HTML. Denna egenskap kan berätta för den anpassade koden vilken typ av förälder den bearbetade bilden har. Den sätts av konverteraren och kan användas i anpassad kod för att avgöra vad som ska göras med den bilden (t.ex. kan den anpassade koden avgöra var bilden ska sparas eller hur den måste refereras i förälderns innehåll). |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | Berättar för den anpassade koden vilken sida av det ursprungliga PDF-dokumentet den sparade bilden hör till. Eftersom det är möjligt att inte alla sidor av det ursprungliga dokumentet kommer att sparas, berättar detta värde för oss om värd sidnummer i den ursprungliga PDF:en. Om det ursprungliga sidnumret av någon anledning är okänt, returnerar det alltid '1'. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Satt av konverteraren. Antagen filnamn som går från konverteraren till koden för den anpassade metoden. Kan användas i anpassad kod för att avgöra hur filen ska behandlas eller var den ska sparas. |
 
-### Se även
+### Se Även
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* klass [HtmlSaveOptions](../htmlsaveoptions/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* samling [Aspose.PDF](../../)

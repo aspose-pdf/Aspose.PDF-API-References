@@ -1,12 +1,12 @@
 ---
-title: PdfXmlSaveOptions
-second_title: Aspose.PDF per .NET API Reference
-description: Opzioni di salvataggio per il formato PdfXml.
+title: Class PdfXmlSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.PdfXmlSaveOptions. Opzioni di salvataggio per il formato PdfXml
 type: docs
-weight: 6100
+weight: 8470
 url: /it/net/aspose.pdf/pdfxmlsaveoptions/
 ---
-## PdfXmlSaveOptions class
+## Classe PdfXmlSaveOptions
 
 Opzioni di salvataggio per il formato PdfXml.
 
@@ -18,27 +18,27 @@ public class PdfXmlSaveOptions : UnifiedSaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [PdfXmlSaveOptions](pdfxmlsaveoptions)() | Default_Costruttore |
+| [PdfXmlSaveOptions](pdfxmlsaveoptions/)() | Il costruttore predefinito. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Ottiene o imposta il valore booleano che indica che l'oggetto Response verrà chiuso dopo che il documento verrà salvato nella risposta. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Questo attributo ha attivato la funzionalità per l'estrazione di immagini o testo per documenti PDF con sottolivello OCR. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Formato di salvataggio dei dati. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Richiamata per gestire eventuali avvisi generati. WarningHandler restituisce l'elemento enum ReturnAction specificando Continue o Abort. Continua è l'azione predefinita e l'operazione di salvataggio continua, tuttavia l'utente può anche restituire Interrompi, nel qual caso l'operazione di salvataggio dovrebbe cessare. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ottiene o imposta un valore booleano che indica se i glifi del font saranno memorizzati nella cache durante la preparazione delle pagine aps. Migliora le prestazioni della conversione da pdf ad altri formati ma aumenta il consumo di memoria. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Questo attributo attiva la funzionalità per estrarre immagini o testo per documenti PDF con sottolivello OCR. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Formato di salvataggio dei dati. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di salvataggio continua, tuttavia l'utente può anche restituire Abortire, nel qual caso l'operazione di salvataggio dovrebbe cessare. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | A volte i PDF contengono immagini di sfondo (di pagine o celle di tabella) costruite da diverse immagini di sfondo affiancate dalla stessa piastrellatura. In tal caso i renderer di formati target (ad esempio MsWord per il formato DOCS) generano talvolta confini visibili tra parti di immagini di sfondo , perché le loro tecniche di smussamento dei bordi dell'immagine (anti-aliasing) sono diverse da Acrobat Reader. Se sembra che il documento esportato contenga limiti così visibili tra parti delle stesse immagini di sfondo, prova a utilizzare questa impostazione per eliminare di quello effetto indesiderato. ATTENZIONE! Questa ottimizzazione della qualità di solito rallenta sostanzialmente la conversione, quindi, per favore, usa questa opzione solo quando è veramente necessario. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Elabora le pagine in più thread. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | A volte i PDF contengono immagini di sfondo (di pagine o celle di tabella) costruite da diverse immagini di sfondo a mosaico identiche messe una vicino all'altra. In tal caso, i renderer dei formati di destinazione (ad esempio MsWord per il formato DOCS) a volte generano confini visibili tra le parti delle immagini di sfondo, poiché le loro tecniche di levigatura dei bordi delle immagini (anti-aliasing) sono diverse da quelle di Acrobat Reader. Se sembra che il documento esportato contenga tali confini visibili tra le parti delle stesse immagini di sfondo, si prega di provare a utilizzare questa impostazione per eliminare quell'effetto indesiderato. ATTENZIONE! Questa ottimizzazione della qualità rallenta solitamente in modo sostanziale la conversione, quindi, si prega di utilizzare questa opzione solo quando è davvero necessario. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* spazio dei nomi [Aspose.Pdf](../../aspose.pdf)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

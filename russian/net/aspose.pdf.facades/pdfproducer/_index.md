@@ -1,14 +1,14 @@
 ---
-title: PdfProducer
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет класс для создания PDF из других форматов.  В этом примере показано как создать файл Pdf из файла CGM.
+title: Class PdfProducer
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Facades.PdfProducer. Представляет класс для создания PDF из других форматов. Этот пример показывает, как создать файл Pdf из файла CGM
 type: docs
-weight: 2620
+weight: 4610
 url: /ru/net/aspose.pdf.facades/pdfproducer/
 ---
-## PdfProducer class
+## Класс PdfProducer
 
-Представляет класс для создания PDF из других форматов.  В этом примере показано, как создать файл Pdf из файла CGM.
+Представляет класс для создания PDF из других форматов. Этот пример показывает, как создать файл Pdf из файла CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -16,11 +16,11 @@ string outputFile = "myPdf.pdf";
 try
 {
     PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
-    // Успешно создан файл PDF.
+    // Success produced pdf file.
 }
 catch (InvalidCgmFileFormatException e)
 {
-    // Сделай что-нибудь...
+    //  Do something...
 }
 ```
 
@@ -30,20 +30,18 @@ public abstract class PdfProducer
 
 ## Методы
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce)(Stream, ImportFormat, Stream) | Создать поток PDF, используя указанный формат импорта.  В этом примере показано, как создать поток Pdf из потока CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_1)(Stream, ImportFormat, string) | Создать PDF-файл, используя указанный формат импорта.  В этом примере показано, как создать файл Pdf из потока CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_2)(Stream, ImportOptions, Stream) | Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать поток Pdf из потока CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_3)(Stream, ImportOptions, string) | Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать файл Pdf из потока CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_4)(string, ImportFormat, Stream) | Создать поток PDF, используя указанный формат импорта.  В этом примере показано, как создать поток Pdf из файла CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_5)(string, ImportFormat, string) | Создать PDF-файл, используя указанный формат импорта.  В этом примере показано, как создать файл Pdf из файла CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_6)(string, ImportOptions, Stream) | Создать поток PDF, используя указанный параметр импорта.  В этом примере показано, как создать поток Pdf из файла CGM. |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_7)(string, ImportOptions, string) | Создайте файл PDF, используя указанный параметр импорта.  В этом примере показано, как создать файл Pdf из файла CGM. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce)(Stream, ImportFormat, Stream) | Создает PDF поток с использованием указанного формата импорта. Этот пример показывает, как создать Pdf поток из CGM потока. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_1)(Stream, ImportFormat, string) | Создает PDF файл с использованием указанного формата импорта. Этот пример показывает, как создать Pdf файл из CGM потока. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_2)(Stream, ImportOptions, Stream) | Создает PDF файл с использованием указанного варианта импорта. Этот пример показывает, как создать Pdf поток из CGM потока. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_3)(Stream, ImportOptions, string) | Создает PDF файл с использованием указанного варианта импорта. Этот пример показывает, как создать Pdf файл из CGM потока. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_4)(string, ImportFormat, Stream) | Создает PDF поток с использованием указанного формата импорта. Этот пример показывает, как создать Pdf поток из CGM файла. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_5)(string, ImportFormat, string) | Создает PDF файл с использованием указанного формата импорта. Этот пример показывает, как создать Pdf файл из CGM файла. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_6)(string, ImportOptions, Stream) | Создает PDF поток с использованием указанного варианта импорта. Этот пример показывает, как создать Pdf поток из CGM файла. |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce/#produce_7)(string, ImportOptions, string) | Создает PDF файл с использованием указанного варианта импорта. Этот пример показывает, как создать Pdf файл из CGM файла. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades)
+* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

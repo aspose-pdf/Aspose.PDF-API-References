@@ -1,236 +1,236 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF لمرجع .NET API
-description: تهيئة النص المنسق .
+title: FormattedText.FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ FormattedText. يقوم بتهيئة FormattedText
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/formattedtext/formattedtext/
 ---
 ## FormattedText() {#constructor}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string) {#constructor_1}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | text | String | النص الموجود في FormattedText. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float) {#constructor_4}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle fontStyle, 
     EncodingType encodingType, bool embedded, float textSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتوى النص من السلسلة. |
+| text | String | محتوى النص. |
 | fontColor | FontColor | لون النص. |
-| fontStyle | FontStyle | اسلوب النص. |
-| encodingType | EncodingType | نوع الترميز (قيمة تعداد نوع الترميز). |
-| embedded | Boolean | صحيح إذا كان الخط سيتم تضمينه. |
+| fontStyle | FontStyle | نمط النص. |
+| encodingType | EncodingType | نوع الترميز (قيمة تعداد EncodingType). |
+| embedded | Boolean | صحيح إذا كان سيتم تضمين الخط. |
 | textSize | Single | حجم النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتوى النص من السلسلة. |
+| text | String | محتوى النص. |
 | fontColor | FontColor | لون النص. |
 | textFont | FontStyle | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | صحيح إذا تم تضمين النص. |
+| embedded | Boolean | صحيح إذا كان سيتم تضمين النص. |
 | textSize | Single | حجم النص. |
-| lineSpacing | Single | تباعد إضافي. |
+| lineSpacing | Single | المسافة الإضافية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float) {#constructor_6}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color color, FontStyle textFont, EncodingType textEncoding, 
     bool embedded, float textSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتوى النص من السلسلة. |
+| text | String | محتوى النص. |
 | color | Color | لون النص. |
 | textFont | FontStyle | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | صحيح إذا تم تضمين النص. |
+| embedded | Boolean | صحيح إذا كان سيتم تضمين النص. |
 | textSize | Single | حجم النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float, float) {#constructor_7}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, FontStyle textFont, EncodingType textEncoding, 
     bool embedded, float textSize, float lineSpacing)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتويات نص السلسلة. |
+| text | String | محتويات النص. |
 | textColor | Color | لون النص. |
 | textFont | FontStyle | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا كان الخط الحقيقي سيتم تضمينه. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
 | textSize | Single | حجم النص. |
-| lineSpacing | Single | تباعد إضافي. |
+| lineSpacing | Single | المسافة الإضافية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) {#constructor_2}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize)
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| text | String | محتوى النص من السلسلة. |
-| textColor | FontColor | لون النص. |
-| backColor | FontColor | لون الخلفية. |
-| textFont | FontStyle | خط النص. |
-| textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا كان الخط الحقيقي سيتم تضمينه. |
-| textSize | Single | حجم النص. |
-
-### أنظر أيضا
-
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_3}
-
-تهيئة النص المنسق .
-
-```csharp
-public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
-    EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
-```
-
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | text | String | محتوى النص. |
 | textColor | FontColor | لون النص. |
 | backColor | FontColor | لون الخلفية. |
 | textFont | FontStyle | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا كان الخط الحقيقي سيتم تضمينه. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
 | textSize | Single | حجم النص. |
-| lineSpacing | Single | تباعد إضافي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_3}
+
+يهيئ FormattedText.
+
+```csharp
+public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
+    EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | محتوى النص. |
+| textColor | FontColor | لون النص. |
+| backColor | FontColor | لون الخلفية. |
+| textFont | FontStyle | خط النص. |
+| textEncoding | EncodingType | ترميز النص. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
+| textSize | Single | حجم النص. |
+| lineSpacing | Single | المسافة الإضافية. |
+
+### انظر أيضًا
+
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float) {#constructor_9}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
     EncodingType encoding, bool embedded, float textSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتوى النص من السلسلة. |
+| text | String | محتوى النص. |
 | textColor | Color | لون النص. |
 | backColor | Color | لون الخلفية. |
 | textFont | FontStyle | خط النص. |
@@ -238,119 +238,117 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 | embedded | Boolean | صحيح إذا كان سيتم تضمين الخط. |
 | textSize | Single | حجم النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float, float) {#constructor_10}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | محتويات نص السلسلة. |
+| text | String | محتويات النص. |
 | textColor | Color | لون النص. |
 | backColor | Color | لون الخلفية. |
 | textFont | FontStyle | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا تم تضمين الخط الحقيقي. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
 | textSize | Single | حجم النص. |
-| lineSpacing | Single | تباعد إضافي. |
+| lineSpacing | Single | المسافة الإضافية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color, string, EncodingType, bool, float) {#constructor_11}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, string fontName, 
     EncodingType textEncoding, bool embedded, float fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | text | String | محتوى النص. |
 | textColor | Color | لون النص. |
 | backColor | Color | لون الخلفية. |
 | fontName | String | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا كان الخط الحقيقي سيتم تضمينه. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
 | fontSize | Single | حجم النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, Color) {#constructor_8}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | text | String | محتوى النص. |
 | textColor | Color | لون النص. |
 | backColor | Color | لون الخلفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, Color, string, EncodingType, bool, float) {#constructor_12}
 
-تهيئة النص المنسق .
+يهيئ FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, string fontName, EncodingType textEncoding, 
     bool embedded, float fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | text | String | محتوى النص. |
 | textColor | Color | لون النص. |
 | fontName | String | خط النص. |
 | textEncoding | EncodingType | ترميز النص. |
-| embedded | Boolean | إذا كان الخط الحقيقي سيتم تضمينه. |
+| embedded | Boolean | إذا كان صحيحًا سيتم تضمين الخط. |
 | fontSize | Single | حجم النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* مساحة الاسم [Aspose.Pdf.Facades](../../formattedtext)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

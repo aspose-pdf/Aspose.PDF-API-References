@@ -1,12 +1,12 @@
 ---
-title: Extract
-second_title: Aspose.PDF for .NET API Referansı
-description: Girdi dosyasından sayfaları çıkarır yeni bir Pdf dosyası olarak kaydeder.
+title: PdfFileEditor.Extract
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Girdi dosyalarından sayfaları çıkarır ve yeni bir Pdf dosyası olarak kaydeder
 type: docs
-weight: 310
+weight: 280
 url: /tr/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_3}
+## Extract(string, int, int, string) {#extract_2}
 
 Girdi dosyasından sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
 
@@ -14,62 +14,62 @@ Girdi dosyasından sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosya yolunu girin. |
-| startPage | Int32 | Sayfa numarasına başlayın. |
+| inputFile | String | Girdi Pdf dosyası yolu. |
+| startPage | Int32 | Başlangıç sayfa numarası. |
 | endPage | Int32 | Bitiş sayfa numarası. |
-| outputFile | String | Çıktı Pdf dosya yolu. |
+| outputFile | String | Çıktı Pdf dosyası yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Extract(string, int[], string) {#extract_4}
+## Extract(string, int[], string) {#extract_3}
 
-Sayı dizisiyle belirtilen sayfaları çıkarır, yeni bir PDF dosyası olarak kaydeder.
+Numara dizisi ile belirtilen sayfaları çıkarır, yeni bir PDF dosyası olarak kaydeder.
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Dosya yolunu girin. |
-| pageNumber | Int32[] | Giriş dosyasından çıkan sayfa dizini. |
+| inputFile | String | Girdi dosyası yolu. |
+| pageNumber | Int32[] | Girdi dosyasındaki sayfa indeksi. |
 | outputFile | String | Çıktı dosyası yolu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
@@ -81,18 +81,18 @@ Girdi dosyasından sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Girdi dosyası Akış. |
-| startPage | Int32 | Sayfa numarasına başlayın. |
+| inputStream | Stream | Girdi dosyası Akışı. |
+| startPage | Int32 | Başlangıç sayfa numarası. |
 | endPage | Int32 | Bitiş sayfa numarası. |
 | outputStream | Stream | Çıktı Pdf dosyası Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -101,33 +101,33 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-Sayı dizisiyle belirtilen sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
+Numara dizisi ile belirtilen sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Girdi dosyası Akış. |
-| pageNumber | Int32[] | Giriş dosyasından çıkan sayfa dizini. |
+| inputStream | Stream | Girdi dosyası Akışı. |
+| pageNumber | Int32[] | Girdi dosyasındaki sayfa indeksi. |
 | outputStream | Stream | Çıktı dosyası akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -136,62 +136,8 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Extract(Stream, int[], HttpResponse) {#extract_2}
-
-Belirtilen sayfaları kaynak dosyadan çıkarır ve sonucu HttpResponse nesnesine depolar.
-
-```csharp
-public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputStream | Stream | Kaynak belge akışı. |
-| pageNumber | Int32[] | Ayıklanacak sayfa numaraları dizisi. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
-
-### Geri dönüş değeri
-
-İşlem başarılı olduysa doğrudur.
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
----
-
-## Extract(string, int[], HttpResponse) {#extract_5}
-
-Belirtilen sayfaları kaynak dosyadan çıkarır ve sonucu HttpResponse nesnesine depolar.
-
-```csharp
-public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| inputFile | String | Kaynak dosya yolu. |
-| pageNumber | Int32[] | Ayıklanacak sayfa numaraları dizisi. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
-
-### Geri dönüş değeri
-
-sayfalar başarıyla çıkarıldıysa true .
-
-### Ayrıca bakınız
-
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

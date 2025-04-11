@@ -1,14 +1,14 @@
 ---
-title: TryMakeBooklet
-second_title: Aspose.PDF för .NET API Referens
-description: Gör häfte från källfil och lagrar resultat i HttpResponse-objekt.
+title: PdfFileEditor.TryMakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metod. Gör en häfte från indatafilen till utdatafilen
 type: docs
-weight: 460
+weight: 430
 url: /sv/net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## TryMakeBooklet(string, PageSize, int[], int[], HttpResponse) {#trymakebooklet_6}
+## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
-Gör häfte från källfil och lagrar resultat i HttpResponse-objekt.
+Gör en häfte från källfilen och lagrar resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
@@ -17,32 +17,32 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källfilens sökväg. |
+| inputFile | Sträng | Källfilens sökväg. |
 | pageSize | PageSize | Önskad sidstorlek. |
-| leftPages | Int32[] | En rad sidnummer som ska placeras till vänster. |
+| leftPages | Int32[] | Array av sidnummer som ska placeras till vänster. |
 | rightPages | Int32[] | Array av sidnummer som ska placeras till höger. |
 | response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
 
-Skapa häfte från PDF-fil och lagra den i HttpResponse.
+Gör en häfte från PDF-filen och lagrar den i HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
@@ -51,32 +51,32 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPage
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in dokumentström. |
+| inputStream | Stream | Indatadokumentström. |
 | pageSize | PageSize | Önskad sidstorlek. |
 | leftPages | Int32[] | Array av sidnummer som kommer att placeras till vänster. |
-| rightPages | Int32[] | Array av sidnummer som kommer att ersättas till höger. |
+| rightPages | Int32[] | Array av sidnummer som kommer att placeras till höger. |
 | response | HttpResponse | HttpResponse-objekt. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
 
-Gör häfte från källfil och lagrar resultat i HttpResponse-objekt.
+Gör en häfte från källfilen och lagrar resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
@@ -84,30 +84,30 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse res
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källfilens sökväg. |
-| pageSize | PageSize | Önskad sidstorlek i utdatafil. |
+| inputFile | Sträng | Källfilens sökväg. |
+| pageSize | PageSize | Önskad sidstorlek i utdatafilen. |
 | response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
 
 ### Returvärde
 
-Sant om operationen lyckas.
+True om operationen lyckades.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
 
-Gör häfte från källfil och lagrar resultatet i HttpResponse.
+Gör en häfte från källfilen och lagrar resultatet i HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
@@ -115,30 +115,30 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse r
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in dokumentström. |
-| pageSize | PageSize | Önskad sidstorlek i utdatafil. |
-| response | HttpResponse | Responera objekt där resut kommer att sparas. |
+| inputStream | Stream | Indatadokumentström. |
+| pageSize | PageSize | Önskad sidstorlek i utdatafilen. |
+| response | HttpResponse | Respose-objekt där resultatet kommer att sparas. |
 
 ### Returvärde
 
-sant om häftet byggdes framgångsrikt.
+true om häftet byggdes framgångsrikt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
-Gör häfte från indatafilen till utdatafil.
+Gör en häfte från indatafilen till utdatafilen.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
@@ -146,35 +146,35 @@ public bool TryMakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Ange sökväg och namn för pdf-fil. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
+| inputFile | Sträng | Sökväg och namn på indata PDF-fil. |
+| outputFile | Sträng | Sökväg och namn på utdata PDF-fil. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
+## TryMakeBooklet(Stream, Stream) {#trymakebooklet}
 
-Gör häfte från InputStream till outputStream.
+Gör en häfte från InputStream till outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
@@ -182,18 +182,18 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in pdf-ström. |
-| outputStream | Stream | utdata pdf-ström. |
+| inputStream | Stream | Indata PDF-ström. |
+| outputStream | Stream | utdata PDF-ström. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -202,17 +202,17 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
+## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_5}
 
-Gör häfte från inputFile till outputFile.
+Gör en häfte från inputFile till outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -220,37 +220,37 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Ange sökväg och namn för pdf-fil. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputFile | Sträng | Sökväg och namn på indata PDF-fil. |
+| outputFile | Sträng | Sökväg och namn på utdata PDF-fil. |
+| pageSize | PageSize | Sidstorleken på utdata PDF-fil. |
 
 ### Returvärde
 
-Sant om operationen lyckas.
+True om operationen lyckades.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_3}
+## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_1}
 
-Gör häfte från ingångsströmmen och sparar resultatet i utmatningsström.
+Gör en häfte från indataströmmen och sparar resultatet i utdataströmmen.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
@@ -258,19 +258,19 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Mata in PDF-ström. |
-| outputStream | Stream | utdata pdf-ström. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputStream | Stream | Indata PDF-ström. |
+| outputStream | Stream | utdata PDF-ström. |
+| pageSize | PageSize | Sidstorleken på utdata PDF-fil. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,18 +279,18 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
+## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
-Gör ett anpassat häfte från firstInputFile till outputFile.
+Gör en anpassad häfte från firstInputFile till outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -298,37 +298,37 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatningsfilen. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| leftPages | Int32[] | Häftets vänstra sidor. |
-| rightPages | Int32[] | De högra sidorna i häftet. |
+| inputFile | Sträng | Indatafilen. |
+| outputFile | Sträng | Sökväg och namn på utdata PDF-fil. |
+| leftPages | Int32[] | De vänstra sidorna av häftet. |
+| rightPages | Int32[] | De högra sidorna av häftet. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_5}
+## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
-Gör ett anpassat häfte från firstInputStream till outputStream.
+Gör en anpassad häfte från firstInputStream till outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, 
@@ -337,20 +337,20 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Ingångsströmmen. |
-| outputStream | Stream | output pdf-ström. |
+| inputStream | Stream | Indataströmmen. |
+| outputStream | Stream | utdata PDF-ström. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -359,17 +359,17 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
+## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
-Gör ett anpassat häfte från firstInputFile till outputFile.
+Gör en anpassad häfte från firstInputFile till outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -378,39 +378,39 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatningsfilen. |
-| outputFile | String | Utdata pdf-fil sökväg och namn. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputFile | Sträng | Indatafilen. |
+| outputFile | Sträng | Sökväg och namn på utdata PDF-fil. |
+| pageSize | PageSize | Sidstorleken på utdata PDF-fil. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
+## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_2}
 
-Gör häfte från firstInputStream till outputStream.
+Gör en häfte från firstInputStream till outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -419,21 +419,21 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Ingångsströmmen. |
-| outputStream | Stream | output pdf-ström. |
-| pageSize | PageSize | Sidstorleken för den utgående pdf-filen. |
+| inputStream | Stream | Indataströmmen. |
+| outputStream | Stream | utdata PDF-ström. |
+| pageSize | PageSize | Sidstorleken på utdata PDF-fil. |
 | leftPages | Int32[] | De vänstra sidorna. |
-| rightPages | Int32[] | Rätt sidor. |
+| rightPages | Int32[] | De högra sidorna. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars, false.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TryMakeBooklet är som MakeBooklet-metoden, förutom att metoden TryMakeBooklet inte ger ett undantag om operationen misslyckas.
+TryMakeBooklet-metoden är som MakeBooklet-metoden, förutom att TryMakeBooklet-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -442,11 +442,9 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Se även
+### Se Även
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PageSize](../../../aspose.pdf/pagesize/)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

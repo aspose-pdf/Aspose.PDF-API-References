@@ -1,141 +1,152 @@
 ---
 title: Aspose.Pdf.Annotations
-second_title: Aspose.PDF for .NET API Referansı
-description: Aspose.Pdf.Açıklamalarad alanı geleneksel olarak etkileşimli sağlama olarak adlandırılan belgesinin çeşitli eylem türleri hedefleri ve diğer özellikleri ile çalışmak için sınıflar sağlar kullanıcının onunla iletişim kurabileceği anlamına gelir.
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations ad alanı, kullanıcıların belge ile etkileşimde bulunmasını sağlayan çeşitli türde eylem hedefleri ve diğer özelliklerle çalışmak için sınıflar sağlar.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.annotations/
 ---
-**Aspose.Pdf.Açıklamalar**ad alanı, geleneksel olarak etkileşimli sağlama olarak adlandırılan, belgesinin çeşitli eylem türleri, hedefleri ve diğer özellikleri ile çalışmak için sınıflar sağlar, kullanıcının onunla iletişim kurabileceği anlamına gelir.
+**Aspose.Pdf.Annotations** ad alanı, kullanıcıların belge ile etkileşimde bulunmasını sağlayan çeşitli türde eylem, hedefler ve diğer özelliklerle çalışmak için sınıflar sağlar.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ActionCollection](./actioncollection) | Eylemlerin toplanması |
-| [Annotation](./annotation) | Açıklama nesnesini temsil eden sınıf. |
-| [AnnotationActionCollection](./annotationactioncollection) | Açıklama eylemleri koleksiyonunu temsil eder. |
-| [AnnotationCollection](./annotationcollection) | Açıklama koleksiyonunu temsil eden sınıf. |
-| [AnnotationSelector](./annotationselector) | Bu sınıf, Ziyaretçi şablon fikri kullanılarak ek açıklamaları seçmek için kullanılır. |
-| [AppearanceDictionary](./appearancedictionary) | Ek açıklamanın sayfada görsel olarak nasıl sunulacağını belirten açıklama görünüm sözlüğü. |
-| [Border](./border) | Açıklama kenarlığının özelliklerini temsil eden sınıf. |
-| [CaretAnnotation](./caretannotation) | Caret ek açıklamasını temsil eden sınıf. |
-| [Characteristics](./characteristics) | Açıklama özelliklerini temsil eder |
-| [CircleAnnotation](./circleannotation) | Daire ek açıklamasını temsil eden sınıf. |
-| [CommonFigureAnnotation](./commonfigureannotation) | Ortak şekil açıklamasını temsil eden soyut sınıf. |
-| [CustomExplicitDestination](./customexplicitdestination) | Özel açık hedefi temsil eder. |
-| [Dash](./dash) | Çizgi çizgi desenini temsil eden sınıf. |
-| [DefaultAppearance](./defaultappearance) | Alanın varsayılan görünümünü (yazı tipi, metin boyutu ve rengi) açıklar. |
-| [DocumentActionCollection](./documentactioncollection) | Sınıfı, document ile bazı eylemlerde gerçekleştirilen eylemleri açıklar |
-| [ExplicitDestination](./explicitdestination) | PDF belgesindeki açık hedefler için temel sınıfı temsil eder. |
-| [FileAttachmentAnnotation](./fileattachmentannotation) | Sınıf, dosya eki açıklamasını açıklar. |
-| [FitBExplicitDestination](./fitbexplicitdestination) | Sayfayı, sınırlayıcı kutusunu hem yatay hem de dikey olarak tamamen pencereye sığdırmaya yetecek kadar büyütülmüş olarak görüntüleyen açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, pencere içindeki sınırlayıcı kutuyu diğer boyutta ortalayarak ikisinden daha küçük olanı kullanın. |
-| [FitBHExplicitDestination](./fitbhexplicitdestination) | Sayfayı dikey koordinat üst kısmı pencerenin üst kenarında konumlanmış ve sayfanın içeriğini pencere içindeki sınırlayıcı kutusunun tüm genişliğine sığacak kadar büyütülmüş olarak görüntüleyen açık hedefi temsil eder. top için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. |
-| [FitBVExplicitDestination](./fitbvexplicitdestination) | Sayfayı yatay koordinat sol pencerenin sol kenarında konumlanmış ve sayfanın içeriğini pencere içindeki sınırlayıcı kutusunun tüm yüksekliğine sığacak kadar büyütülmüş olarak görüntüleyen açık hedefi temsil eder. left için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. |
-| [FitExplicitDestination](./fitexplicitdestination) | Sayfayı, tüm sayfayı hem yatay hem de dikey olarak sığdırmaya yetecek kadar büyütülmüş olarak gösteren açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, ikisinden küçüğünü kullanın, sayfayı diğer boyutta pencerenin içinde ortalayın. |
-| [FitHExplicitDestination](./fithexplicitdestination) | Sayfayı dikey koordinat üst kısmı pencerenin üst kenarına yerleştirilmiş ve sayfanın içeriği pencere içindeki sayfanın tüm genişliğine sığacak kadar büyütülmüş olarak görüntüleyen açık hedefi temsil eder. top için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. |
-| [FitRExplicitDestination](./fitrexplicitdestination) | Pencerenin içinde hem yatay hem de dikey olarak sol, alt, sağ ve üstten tam olarak koordinatlarla belirtilen dikdörtgene sığacak kadar içeriği büyütülmüş olarak sayfayı görüntüleyen açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, pencere içindeki dikdörtgeni diğer boyutta ortalayarak ikisinden daha küçük olanı kullanın. Herhangi bir parametre için boş bir değer, öngörülemeyen davranışa neden olabilir. |
-| [FitVExplicitDestination](./fitvexplicitdestination) | Sayfayı, pencerenin sol kenarına yerleştirilmiş yatay koordinat sola ve sayfanın içeriği, pencerenin içindeki sayfanın tüm yüksekliğine sığacak kadar büyütülmüş olarak görüntüleyen açık hedefi temsil eder. left için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. |
-| [FixedPrint](./fixedprint) | Filigran Açıklamasının Sabit yazdırma verilerini temsil eder. |
-| [FreeTextAnnotation](./freetextannotation) | Metni doğrudan sayfada görüntüleyen serbest metin açıklamasını temsil eder. Sıradan bir metin ek açıklamasından farklı olarak, bir serbest metin ek açıklamasının açık veya kapalı durumu yoktur; bir açılır pencerede görüntülenmek yerine metin her zaman görünür durumdadır. |
-| [GoToAction](./gotoaction) | Görünümü belirli bir hedefe (sayfa, konum ve büyütme faktörü) değiştiren bir go-to eylemi temsil eder. |
-| [GoToRemoteAction](./gotoremoteaction) | Normal bir harekete geçme işlemine benzeyen ancak geçerli dosya yerine başka bir PDF dosyasındaki bir hedefe atlayan bir uzak harekete geçme işlemini temsil eder. |
-| [GoToURIAction](./gotouriaction) | URI'nin çözümlenmesine neden olan bir URI eylemini temsil eder. |
-| [HideAction](./hideaction) | Gizli bayraklarını ayarlayarak veya temizleyerek ekranda bir veya daha fazla açıklamayı gizleyen veya gösteren bir gizleme eylemini temsil eder. |
-| [HighlightAnnotation](./highlightannotation) | Belgedeki bir dizi metni vurgulayan bir vurgu açıklamasını temsil eder. |
-| [ImportDataAction](./importdataaction) | Bir veri içe aktarma eyleminin başlatılması üzerine, Form Veri Biçimi (FDF) verileri, belirtilen bir dosyadan belgenin etkileşimli formuna aktarılacaktır. |
-| [InkAnnotation](./inkannotation) | Bir veya daha fazla ayrık yoldan oluşan serbest bir "karalamayı" temsil eder. |
-| [JavascriptAction](./javascriptaction) | Javascript eylemini temsil eden sınıf. |
-| [LaunchAction](./launchaction) | Bir uygulamayı başlatan veya bir belgeyi açan veya yazdıran başlatma eylemini temsil eder. |
-| [LineAnnotation](./lineannotation) | Satır açıklamasını temsil eden sınıf. |
-| [LinkAnnotation](./linkannotation) | Belgede başka bir yere giden bir köprü metni bağlantısını veya gerçekleştirilecek bir eylemi temsil eder. |
-| [MarkupAnnotation](./markupannotation) | İşaretleme açıklamasını temsil eden soyut sınıf. |
-| [Measure](./measure) | Ölçü koordinat sistemini açıklayan sınıf. |
-| [MediaClip](./mediaclip) | Sınıf, yorumlamanın medya klibi nesnesini tanımlar. |
-| [MediaClipData](./mediaclipdata) | Sınıf, medya klibi verilerini açıklar. |
-| [MediaClipSection](./mediaclipsection) | Bu sınıf, Medya klibi bölümünü açıklar. |
-| [MediaRendition](./mediarendition) | Sınıf, medya yorumunu açıklar. |
-| [MovieAnnotation](./movieannotation) | Bilgisayar ekranında ve hoparlörler aracılığıyla sunulmak üzere animasyonlu grafikler ve ses içeren bir film açıklamasını temsil eder. Açıklama etkinleştirildiğinde film oynatılır. |
-| [NamedAction](./namedaction) | PDF görüntüleyici uygulamalarının desteklemesi beklenen adlandırılmış eylemleri temsil eder. |
-| [NamedDestination](./nameddestination) | Açık sözdizimi ile doğrudan tanımlanmak yerine, bir hedefe bir ad nesnesi veya bir bayt dizesi aracılığıyla dolaylı olarak başvurulabilir. |
-| [PDF3DAnnotation](./pdf3dannotation) | Sınıf PDF3DA Açıklama. Bu sınıf devralınamaz. |
-| [PDF3DArtwork](./pdf3dartwork) | Sınıf PDF3DArtwork. |
-| [PDF3DContent](./pdf3dcontent) | Sınıf PDF3DContent. |
-| [PDF3DCrossSection](./pdf3dcrosssection) | Sınıf PDF3DCrossSection. |
-| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray) | Sınıf PDF3DCrossSectionArray. |
-| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation) | Sınıf PDF3DCuttingPlaneOrientation. |
-| [PDF3DLightingScheme](./pdf3dlightingscheme) | Sınıf PDF3DLaydınlatma Düzeni. |
-| [PDF3DRenderMode](./pdf3drendermode) | Sınıf PDF3DRenderMode. |
-| [PDF3DStream](./pdf3dstream) | Sınıf PDF3DStream. |
-| [PDF3DView](./pdf3dview) | Sınıf PDF3DView. |
-| [PDF3DViewArray](./pdf3dviewarray) | Sınıf PDF3DViewArray. |
-| [PdfAction](./pdfaction) | PDF belgesindeki Eylemi Temsil eder |
-| [PdfActionCollection](./pdfactioncollection) | Sınıf, eylemlerin listesini açıklar. |
-| [PolyAnnotation](./polyannotation) | Çoklu açıklamalar için soyut temel sınıf. |
-| [PolygonAnnotation](./polygonannotation) | Çokgen açıklamasını temsil eden sınıf. |
-| [PolylineAnnotation](./polylineannotation) | İlk ve son tepe noktasının dolaylı olarak bağlı olmaması dışında çokgene benzer çoklu çizgi ek açıklamasını temsil eder. |
-| [PopupAnnotation](./popupannotation) | Giriş ve düzenleme için bir açılır pencerede metin görüntüleyen açılır pencere açıklamasını temsil eder. |
-| [RedactionAnnotation](./redactionannotation) | Redact ek açıklamasını temsil eder. |
-| [Rendition](./rendition) | RendtionAnnotation'ın yorumlama nesnesini tanımlayan sınıf. |
-| [RenditionAction](./renditionaction) | Multimedya içeriğinin oynatılmasını kontrol eden bir yorumlama eylemi. |
-| [RichMediaAnnotation](./richmediaannotation) | Sınıfı, video/ses verilerini PDF belgesine yerleştirmeye izin veren RichMediaAnnotation'ı açıklar. |
-| [ScreenAnnotation](./screenannotation) | Medya kliplerinin oynatılabileceği bir sayfa bölgesini belirten bir ekran açıklaması. |
-| [SelectorRendition](./selectorrendition) | Sınıf, seçici yorumlamayı açıklar. |
-| [SoundAnnotation](./soundannotation) | Bilgisayarın mikrofonundan kaydedilen veya bir dosyadan içe aktarılan sesi içeren bir ses açıklamasını temsil eder. |
-| [SoundData](./sounddata) | Açıklama etkinleştirildiğinde çalınacak sesi tanımlayan bir ses verisini temsil eder. |
-| [SoundSampleData](./soundsampledata) | Bir ses nesnesine özgü ek girişleri temsil eder (Bölüm 9.2 PDF1-7) |
-| [SquareAnnotation](./squareannotation) | Kare açıklamayı temsil eden sınıf. |
-| [SquigglyAnnotation](./squigglyannotation) | Bir belge metninde tırtıklı alt çizgi olarak görünen dalgalı ek açıklamayı temsil eder. |
-| [StampAnnotation](./stampannotation) | Lastik damga ek açıklamasını temsil eder. Bu ek açıklama türü, sayfaya bir lastik damga ile damgalanmış gibi görünmeleri amaçlanan metin veya grafikleri görüntüler. |
-| [StrikeOutAnnotation](./strikeoutannotation) | Belge metninde üstü çizili olarak görünen bir üstü çizili açıklamayı temsil eder. |
-| [SubmitFormAction](./submitformaction) | Form gönderme işlemini açıklayan sınıf. |
-| [TextAnnotation](./textannotation) | PDF belgesindeki bir noktaya eklenen "yapışkan not" olan bir metin açıklamasını temsil eder. |
-| [TextMarkupAnnotation](./textmarkupannotation) | Metin işaretleme ek açıklamaları için soyut temel sınıf. |
-| [TextStyle](./textstyle) | Sınıf, ek açıklamasındaki metin stilini temsil eder |
-| [UnderlineAnnotation](./underlineannotation) | Belge metninde alt çizgi olarak görünen bir alt çizgi ek açıklamasını temsil eder. |
-| [WatermarkAnnotation](./watermarkannotation) | Sınıf, Filigran açıklama nesnesini tanımlar. |
-| [WidgetAnnotation](./widgetannotation) | Widget açıklamasını temsil eden sınıf. |
-| [XfdfReader](./xfdfreader) | XFDF formatının okunmasını gerçekleştiren sınıf. |
-| [XYZExplicitDestination](./xyzexplicitdestination) | Koordinatları (sol, üst) pencerenin sol üst köşesine yerleştirilmiş ve sayfa içeriği faktör yakınlaştırmasıyla büyütülmüş olarak sayfayı görüntüleyen açık hedefi temsil eder. Sol, üst veya yakınlaştırma parametrelerinden herhangi biri için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. 0 yakınlaştırma değeri, boş değerle aynı anlama gelir. |
+| [ActionCollection](./actioncollection/) | Eylemler koleksiyonu |
+| [Annotation](./annotation/) | Not nesnesini temsil eden sınıf. |
+| [AnnotationActionCollection](./annotationactioncollection/) | Not eylemleri koleksiyonunu temsil eder. |
+| [AnnotationCollection](./annotationcollection/) | Not koleksiyonunu temsil eden sınıf. |
+| [AnnotationSelector](./annotationselector/) | Bu sınıf, Ziyaretçi şablon fikrini kullanarak notları seçmek için kullanılır. |
+| [AppearanceDictionary](./appearancedictionary/) | Notun sayfada görsel olarak nasıl sunulacağını belirten not görünüm sözlüğü. |
+| [BleedMarkAnnotation](./bleedmarkannotation/) | Bir Bleed Mark notunu temsil eder. |
+| [Border](./border/) | Not sınırının özelliklerini temsil eden sınıf. |
+| [CaretAnnotation](./caretannotation/) | Caret notunu temsil eden sınıf. |
+| [Characteristics](./characteristics/) | Not özelliklerini temsil eder |
+| [CircleAnnotation](./circleannotation/) | Daire notunu temsil eden sınıf. |
+| [ColorBarAnnotation](./colorbarannotation/) | ColorBarAnnotation notunu temsil eden sınıf. Color özelliği göz ardı edilir, bunun yerine ColorsOfCMYK rengi kullanılır. Oluşturulurken, genişlik ve yükseklik oranı notun yönünü belirler - yatay veya dikey. Sonra, not dikdörtgeninin TrimBox'un dışında olup olmadığını kontrol eder ve değilse, notun yönünü dikkate alarak TrimBox'un dışındaki en yakın konuma kaydırılır. Notun TrimBox'un dışında sığması için genişlik (yükseklik) azaltılabilir. Düzen için yer yoksa, genişlik/yükseklik sıfıra ayarlanabilir (bu durumda, not sayfada mevcut, ancak görüntülenmez). |
+| [CommonFigureAnnotation](./commonfigureannotation/) | Ortak şekil notunu temsil eden soyut sınıf. |
+| [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | Baskı sayfasının köşelerine yerleştirilen not türlerini temsil eder. |
+| [CustomExplicitDestination](./customexplicitdestination/) | Özel açık hedefi temsil eder. |
+| [Dash](./dash/) | Çizgi kesik desenini temsil eden sınıf. |
+| [DefaultAppearance](./defaultappearance/) | Alanın varsayılan görünümünü (yazı tipi, metin boyutu ve rengi) tanımlar. |
+| [DocumentActionCollection](./documentactioncollection/) | Belge ile bazı eylemler üzerinde gerçekleştirilen eylemleri tanımlayan sınıf |
+| [ExplicitDestination](./explicitdestination/) | PDF belgesindeki açık hedefler için temel sınıfı temsil eder. |
+| [FdfReader](./fdfreader/) | FDF formatını okumayı gerçekleştiren sınıf. |
+| [FileAttachmentAnnotation](./fileattachmentannotation/) | Dosya ekleme notunu tanımlayan sınıf. |
+| [FitBExplicitDestination](./fitbexplicitdestination/) | Sayfayı içeriği, pencere içinde tamamen sığacak şekilde yeterince büyütülmüş olarak görüntüleyen açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, ikisinden daha küçüğünü kullanarak, diğer boyutta dikdörtgeni pencere içinde ortalar. |
+| [FitBHExplicitDestination](./fitbhexplicitdestination/) | Sayfayı, dikey koordinatın pencerenin üst kenarında konumlandığı ve sayfanın içeriğinin, dikdörtgeninin tam genişliğini pencere içinde sığacak şekilde yeterince büyütüldüğü açık hedefi temsil eder. Üst için null değeri, o parametrenin mevcut değerinin değiştirilmeden korunacağını belirtir. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/) | Sayfayı, yatay koordinatın pencerenin sol kenarında konumlandığı ve sayfanın içeriğinin, dikdörtgeninin tam yüksekliğini pencere içinde sığacak şekilde yeterince büyütüldüğü açık hedefi temsil eder. Sol için null değeri, o parametrenin mevcut değerinin değiştirilmeden korunacağını belirtir. |
+| [FitExplicitDestination](./fitexplicitdestination/) | Sayfayı içeriği, pencere içinde tamamen sığacak şekilde yeterince büyütülmüş olarak görüntüleyen açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, ikisinden daha küçüğünü kullanarak, sayfayı diğer boyutta pencere içinde ortalar. |
+| [FitHExplicitDestination](./fithexplicitdestination/) | Sayfayı, dikey koordinatın pencerenin üst kenarında konumlandığı ve sayfanın içeriğinin, sayfanın tam genişliğini pencere içinde sığacak şekilde yeterince büyütüldüğü açık hedefi temsil eder. Üst için null değeri, o parametrenin mevcut değerinin değiştirilmeden korunacağını belirtir. |
+| [FitRExplicitDestination](./fitrexplicitdestination/) | Sayfayı, belirtilen sol, alt, sağ ve üst koordinatları tarafından tanımlanan dikdörtgenin tamamen pencere içinde yatay ve dikey olarak sığacak şekilde yeterince büyütüldüğü açık hedefi temsil eder. Gerekli yatay ve dikey büyütme faktörleri farklıysa, ikisinden daha küçüğünü kullanarak, dikdörtgeni diğer boyutta pencere içinde ortalar. Herhangi bir parametre için null değeri, öngörülemeyen davranışa neden olabilir. |
+| [FitVExplicitDestination](./fitvexplicitdestination/) | Sayfayı, yatay koordinatın pencerenin sol kenarında konumlandığı ve sayfanın içeriğinin, sayfanın tam yüksekliğini pencere içinde sığacak şekilde yeterince büyütüldüğü açık hedefi temsil eder. Sol için null değeri, o parametrenin mevcut değerinin değiştirilmeden korunacağını belirtir. |
+| [FixedPrint](./fixedprint/) | Su işareti notunun sabit baskı verilerini temsil eder. |
+| [FreeTextAnnotation](./freetextannotation/) | Sayfanın üzerinde doğrudan metin gösteren serbest metin notunu temsil eder. Sıradan bir metin notunun aksine, serbest metin notunun açık veya kapalı bir durumu yoktur; metin her zaman görünür. |
+| [GoToAction](./gotoaction/) | Görünümü belirli bir hedefe (sayfa, konum ve büyütme faktörü) değiştiren bir git eylemini temsil eder. |
+| [GoToRemoteAction](./gotoremoteaction/) | Sıradan bir git eylemine benzer, ancak mevcut dosya yerine başka bir PDF dosyasındaki bir hedefe atlayan uzaktan git eylemini temsil eder. |
+| [GoToURIAction](./gotouriaction/) | Bir URI'nin çözülmesine neden olan bir URI eylemini temsil eder. |
+| [HideAction](./hideaction/) | Bir veya daha fazla notu ekranda gizleyen veya gösteren bir gizleme eylemini temsil eder. |
+| [HighlightAnnotation](./highlightannotation/) | Belgedeki bir metin aralığını vurgulayan bir vurgulama notunu temsil eder. |
+| [ImportDataAction](./importdataaction/) | Bir veri içe aktarma eylemi çağrıldığında, Formlar Veri Formatı (FDF) verileri belirtilen dosyadan belgenin etkileşimli formuna içe aktarılacaktır. |
+| [InkAnnotation](./inkannotation/) | Bir veya daha fazla ayrı yol içeren serbest el "karalama" notunu temsil eder. |
+| [JavascriptAction](./javascriptaction/) | Javascript eylemini temsil eden sınıf. |
+| [LaunchAction](./launchaction/) | Bir uygulamayı başlatan veya bir belgeyi açan veya yazdıran bir başlatma eylemini temsil eder. |
+| [LineAnnotation](./lineannotation/) | Çizgi notunu temsil eden sınıf. |
+| [LinkAnnotation](./linkannotation/) | Belgedeki başka bir yere bir hiper metin bağlantısını veya gerçekleştirilmesi gereken bir eylemi temsil eder. |
+| [MarkupAnnotation](./markupannotation/) | İşaretleme notunu temsil eden soyut sınıf. |
+| [Measure](./measure/) | Ölçüm koordinat sistemini tanımlayan sınıf. |
+| [MediaClip](./mediaclip/) | Sunumun medya klip nesnesini tanımlayan sınıf. |
+| [MediaClipData](./mediaclipdata/) | Medya klip verilerini tanımlayan sınıf. |
+| [MediaClipSection](./mediaclipsection/) | Bu sınıf, medya klip bölümünü tanımlar. |
+| [MediaRendition](./mediarendition/) | Medya sunumunu tanımlayan sınıf. |
+| [MovieAnnotation](./movieannotation/) | Bilgisayar ekranında ve hoparlörlerden sunulacak animasyonlu grafikler ve ses içeren bir film notunu temsil eder. Not etkinleştirildiğinde, film oynatılır. |
+| [NamedAction](./namedaction/) | PDF görüntüleyici uygulamalarının desteklemesi beklenen adlandırılmış eylemleri temsil eder. |
+| [NamedDestination](./nameddestination/) | Açık sözdizimi ile doğrudan tanımlanmak yerine, bir ad nesnesi veya bir bayt dizesi aracılığıyla dolaylı olarak atıfta bulunulabilir. |
+| [PageInformationAnnotation](./pageinformationannotation/) | PDF belgesindeki Sayfa Bilgisi notunu temsil eder. Bu not, dosya adını, sayfa numarasını ve notun oluşturulma tarihini ve saatini içerir. |
+| [PDF3DAnnotation](./pdf3dannotation/) | PDF3DAnnotation sınıfı. Bu sınıf miras alınamaz. |
+| [PDF3DArtwork](./pdf3dartwork/) | PDF3DArtwork sınıfı. |
+| [PDF3DContent](./pdf3dcontent/) | PDF3DContent sınıfı. |
+| [PDF3DCrossSection](./pdf3dcrosssection/) | PDF3DCrossSection sınıfı. |
+| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/) | PDF3DCrossSectionArray sınıfı. |
+| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/) | PDF3DCuttingPlaneOrientation sınıfı. |
+| [PDF3DLightingScheme](./pdf3dlightingscheme/) | PDF3DLightingScheme sınıfı. |
+| [PDF3DRenderMode](./pdf3drendermode/) | PDF3DRenderMode sınıfı. |
+| [PDF3DStream](./pdf3dstream/) | PDF3DStream sınıfı. |
+| [PDF3DView](./pdf3dview/) | PDF3DView sınıfı. |
+| [PDF3DViewArray](./pdf3dviewarray/) | PDF3DViewArray sınıfı. |
+| [PdfAction](./pdfaction/) | PDF belgesindeki Eylemi temsil eder |
+| [PdfActionCollection](./pdfactioncollection/) | Eylemler listesini tanımlayan sınıf. |
+| [PolyAnnotation](./polyannotation/) | Poligon notları için soyut temel sınıf. |
+| [PolygonAnnotation](./polygonannotation/) | Çokgen notunu temsil eden sınıf. |
+| [PolylineAnnotation](./polylineannotation/) | İlk ve son köşenin açıkça bağlı olmadığı çoklu çizgi notunu temsil eder. |
+| [PopupAnnotation](./popupannotation/) | Metni giriş ve düzenleme için bir açılır pencerede gösteren açılır notu temsil eder. |
+| [PrinterMarkAnnotation](./printermarkannotation/) | Yazıcı işareti notunu temsil eden soyut sınıf. |
+| [PrinterMarksKindExtensions](./printermarkskindextensions/) | [`PrinterMarksKind`](../aspose.pdf.annotations/printermarkskind/) enumerasyonu için genişletme yöntemleri sağlar. |
+| [RedactionAnnotation](./redactionannotation/) | Redact notunu temsil eder. |
+| [RegistrationMarkAnnotation](./registrationmarkannotation/) | Bir Kayıt Mark notunu temsil eder. |
+| [Rendition](./rendition/) | RenditionAnnotation'un sunum nesnesini tanımlayan sınıf. |
+| [RenditionAction](./renditionaction/) | Çoklu ortam içeriğinin oynatılmasını kontrol eden bir sunum eylemi. |
+| [RichMediaAnnotation](./richmediaannotation/) | PDF belgesine video/ses verilerini gömmeye izin veren RichMediaAnnotation'u tanımlayan sınıf. |
+| [ScreenAnnotation](./screenannotation/) | Medya kliplerinin oynatılabileceği bir sayfa bölgesini belirten bir ekran notu. |
+| [SelectorRendition](./selectorrendition/) | Seçici sunumu tanımlayan sınıf. |
+| [SoundAnnotation](./soundannotation/) | Bilgisayarın mikrofonundan kaydedilen veya bir dosyadan içe aktarılan sesi içeren bir ses notunu temsil eder. |
+| [SoundData](./sounddata/) | Not etkinleştirildiğinde çalınacak sesi tanımlayan ses verisini temsil eder. |
+| [SoundSampleData](./soundsampledata/) | Bir ses nesnesine özgü ek girişleri temsil eder (Bölüm 9.2 PDF1-7) |
+| [SquareAnnotation](./squareannotation/) | Kare notunu temsil eden sınıf. |
+| [SquigglyAnnotation](./squigglyannotation/) | Bir belgedeki metin üzerinde dişli bir alt çizgi olarak görünen kıvrımlı notu temsil eder. |
+| [StampAnnotation](./stampannotation/) | Kauçuk damga notunu temsil eder. Bu tür bir not, sayfada kauçuk damga ile basılmış gibi görünmesi amaçlanan metin veya grafikler gösterir. |
+| [StrikeOutAnnotation](./strikeoutannotation/) | Belgedeki metin üzerinde bir üstü çizili olarak görünen bir üstü çizili notu temsil eder. |
+| [SubmitFormAction](./submitformaction/) | Form gönderme eylemini tanımlayan sınıf. |
+| [TextAnnotation](./textannotation/) | PDF belgesinde bir noktaya eklenmiş bir 'yapışkan not' olan metin notunu temsil eder. |
+| [TextMarkupAnnotation](./textmarkupannotation/) | Metin işaretleme notları için soyut temel sınıf. |
+| [TextStyle](./textstyle/) | Not içindeki metnin stilini temsil eden sınıf |
+| [TrimMarkAnnotation](./trimmarkannotation/) | Bir Trim Mark notunu temsil eder. |
+| [UnderlineAnnotation](./underlineannotation/) | Belgedeki metin üzerinde bir alt çizgi olarak görünen bir alt çizgi notunu temsil eder. |
+| [WatermarkAnnotation](./watermarkannotation/) | Su işareti notu nesnesini tanımlayan sınıf. |
+| [WidgetAnnotation](./widgetannotation/) | Widget notunu temsil eden sınıf. |
+| [XfdfReader](./xfdfreader/) | XFDF formatını okumayı gerçekleştiren sınıf. |
+| [XYZExplicitDestination](./xyzexplicitdestination/) | Sayfayı, (sol, üst) koordinatlarının pencerenin sol üst köşesine yerleştirildiği ve sayfanın içeriğinin büyütme faktörü ile büyütüldüğü açık hedefi temsil eder. Sol, üst veya zoom parametrelerinden herhangi biri için null değeri, o parametrenin mevcut değerinin değiştirilmeden korunacağını belirtir. Zoom değeri 0, null değeri ile aynı anlama gelir. |
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IAnnotationVisitor](./iannotationvisitor) | Ziyaretçiyi farklı belge açıklamalarını ziyaret etmesi için tanımlar. |
-| [IAppointment](./iappointment) | Eylemler ve hedefler için genel arayüzü temsil eder. |
-## numaralandırma
+| [IAnnotationVisitor](./iannotationvisitor/) | Farklı belge notlarını ziyaret etmek için Ziyaretçi tanımlar. |
+| [IAppointment](./iappointment/) | Eylemler ve hedefler için genel arayüzü temsil eder. |
+## Enumerasyon
 
-| numaralandırma | Tanım |
+| Enumerasyon | Açıklama |
 | --- | --- |
-| [AnnotationFlags](./annotationflags) | Açıklamanın çeşitli özelliklerini belirten bir dizi işaret. |
-| [AnnotationState](./annotationstate) | Orijinal ek açıklamanın ayarlanabileceği durumların numaralandırılması. |
-| [AnnotationStateModel](./annotationstatemodel) | Açıklama durumuna karşılık gelen durum modeli. |
-| [AnnotationType](./annotationtype) | Açıklama türlerinin numaralandırılması. |
-| [BorderEffect](./bordereffect) | Açıklamaların kenarlarına uygulanması gereken efekti açıklar. |
-| [BorderStyle](./borderstyle) | Açıklama kenarlığının stilini açıklar. |
-| [CapStyle](./capstyle) | Mürekkep açıklama satırının satır sonu stili. |
-| [CaptionPosition](./captionposition) | Açıklamanın resim yazısı konumlandırmasının numaralandırılması. |
-| [CaretSymbol](./caretsymbol) | Şapka ile ilişkilendirilecek bir sembol. |
-| [ExplicitDestinationType](./explicitdestinationtype) | Açık hedef türlerini numaralandırır. |
-| [FileIcon](./fileicon) | Açıklamanın görüntülenmesinde kullanılacak bir simge. |
-| [FreeTextIntent](./freetextintent) | Serbest metin ek açıklamasının amaçlarını numaralandırır. |
-| [HighlightingMode](./highlightingmode) | Açıklamanın vurgulama modunu, fare düğmesine basıldığında veya etkin alanı içinde basılı tutulduğunda kullanılacak görsel efekti numaralandırır. |
-| [Justification](./justification) | Açıklama metninin görüntülenmesinde kullanılacak dörtlü (yaslama) biçimlerini numaralandırır. |
-| [LaunchActionOperation](./launchactionoperation) | Başlatma eylemi yürütülürken belgeyle gerçekleştirilecek işlemleri numaralandırır. |
-| [LightingSchemeType](./lightingschemetype) | Enum LightingSchemeType: aydınlatma düzeni türleri kümesi. |
-| [LineEnding](./lineending) | Çizgi çizmede kullanılacak çizgi bitiş stillerini numaralandırır. |
-| [LineIntent](./lineintent) | Satır açıklamasının amaçlarını numaralandırır. |
-| [PDF3DActivation](./pdf3dactivation) | Enum PDF3DActivation: 3B açıklama etkinleştirme modu seti. |
-| [PolyIntent](./polyintent) | Çokgen veya çoklu çizgi ek açıklamasının amaçlarını numaralandırır. |
-| [PredefinedAction](./predefinedaction) | Bir PDF dosyasından tetiklenebilecek farklı eylemleri tanımlar. |
-| [RenderModeType](./rendermodetype) | Enum RenderModeType: oluşturma modu türleri kümesi |
-| [RenditionOperation](./renditionoperation) | Eylem tetiklendiğinde gerçekleştirilecek işlem. |
-| [RenditionType](./renditiontype) | Numaralandırma, olası Yorumlama türlerini açıklar. |
-| [ReplyType](./replytype) | Açıklama ile InReplyTo. tarafından belirtilen açıklama arasındaki ilişkilerin türlerini ("yanıt türü") numaralandırır. |
-| [SoundEncoding](./soundencoding) | Örnek veriler için kodlama biçimi. |
-| [SoundIcon](./soundicon) | Açıklamanın görüntülenmesinde kullanılacak simgeleri numaralandırır. |
-| [SoundSampleDataEncodingFormat](./soundsampledataencodingformat) | Ses örneği verileri için kodlama biçimi. |
-| [StampIcon](./stampicon) | Açıklamanın görüntülenmesinde kullanılacak simgeleri numaralandırır. |
-| [TextIcon](./texticon) | Açıklamanın görüntülenmesinde kullanılacak simgeleri numaralandırır. |
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+| [AnnotationFlags](./annotationflags/) | Notun çeşitli özelliklerini belirten bir dizi bayrak. |
+| [AnnotationState](./annotationstate/) | Orijinal notun ayarlanabileceği durumların enumerasyonu. |
+| [AnnotationStateModel](./annotationstatemodel/) | Notun durumuna karşılık gelen durum modeli. |
+| [AnnotationType](./annotationtype/) | Not türlerinin enumerasyonu. |
+| [BorderEffect](./bordereffect/) | Notların sınırına uygulanacak etkiyi tanımlar. |
+| [BorderStyle](./borderstyle/) | Not sınırının stilini tanımlar. |
+| [CapStyle](./capstyle/) | Mürekkep notu çizgisinin uç stilini tanımlar. |
+| [CaptionPosition](./captionposition/) | Notun başlık konumlandırmasının enumerasyonu. |
+| [CaretSymbol](./caretsymbol/) | Caret ile ilişkilendirilecek bir sembol. |
+| [ColorsOfCMYK](./colorsofcmyk/) | CMYK renk modelinde yer alan renkler. |
+| [ExplicitDestinationType](./explicitdestinationtype/) | Açık hedef türlerini enumer eder. |
+| [FileIcon](./fileicon/) | Notu görüntülemek için kullanılacak bir simge. |
+| [FreeTextIntent](./freetextintent/) | Serbest metin notunun niyetlerini enumer eder. |
+| [HighlightingMode](./highlightingmode/) | Notun vurgulama modunu, aktif alanında fare düğmesine basıldığında veya basılı tutulduğunda kullanılacak görsel etkisini enumer eder. |
+| [Justification](./justification/) | Notun metnini görüntülemede kullanılacak dörtlü (justification) biçimlerini enumer eder. |
+| [LaunchActionOperation](./launchactionoperation/) | Başlatma eylemi yürütülürken belgede gerçekleştirilecek işlemleri enumer eder. |
+| [LightingSchemeType](./lightingschemetype/) | Enum LightingSchemeType: aydınlatma şeması türlerinin seti. |
+| [LineEnding](./lineending/) | Çizgiyi çizerken kullanılacak çizgi sonu stillerini enumer eder. |
+| [LineIntent](./lineintent/) | Çizgi notunun niyetlerini enumer eder. |
+| [PDF3DActivation](./pdf3dactivation/) | Enum PDF3DActivation: 3D notu etkinleştirme modunun seti. |
+| [PolyIntent](./polyintent/) | Çokgen veya çoklu çizgi notunun niyetlerini enumer eder. |
+| [PredefinedAction](./predefinedaction/) | PDF dosyasından tetiklenebilecek farklı eylemleri tanımlar. |
+| [PrinterMarkCornerPosition](./printermarkcornerposition/) | Bir işaretin sayfanın köşesindeki konumunu temsil eder. |
+| [PrinterMarkSidePosition](./printermarksideposition/) | Bir kayıt işaretinin sayfadaki konumunu temsil eder. |
+| [PrinterMarksKind](./printermarkskind/) | Bir belgeye eklenecek yazıcı işaretlerinin türlerini belirtir. |
+| [RenderModeType](./rendermodetype/) | Enum RenderModeType: sunum modu türlerinin seti |
+| [RenditionOperation](./renditionoperation/) | Eylem tetiklendiğinde gerçekleştirilecek işlemi tanımlar. |
+| [RenditionType](./renditiontype/) | Sunumun olası türlerini tanımlayan enumerasyon. |
+| [ReplyType](./replytype/) | Not ile InReplyTo tarafından belirtilen arasındaki ilişkilerin ( "cevap türü") türlerini enumer eder. |
+| [SoundEncoding](./soundencoding/) | Örnek veriler için kodlama formatı. |
+| [SoundIcon](./soundicon/) | Notu görüntülemek için kullanılacak simgeleri enumer eder. |
+| [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | Ses örnek verileri için kodlama formatı. |
+| [StampIcon](./stampicon/) | Notu görüntülemek için kullanılacak simgeleri enumer eder. |
+| [TextIcon](./texticon/) | Notu görüntülemek için kullanılacak simgeleri enumer eder. |

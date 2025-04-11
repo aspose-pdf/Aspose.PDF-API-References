@@ -1,7 +1,7 @@
 ---
-title: FindFont
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Busca y devuelve la fuente con el nombre de fuente especificado.
+title: FontRepository.FindFont
+second_title: Aspose.PDF for .NET API Reference
+description: Método FontRepository. Busca y devuelve la fuente con el nombre de fuente especificado
 type: docs
 weight: 40
 url: /es/net/aspose.pdf.text/fontrepository/findfont/
@@ -14,196 +14,194 @@ Busca y devuelve la fuente con el nombre de fuente especificado.
 public static Font FindFont(string fontName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontName | String | Nombre de la fuente. |
 
-### Valor_devuelto
+### Valor de Retorno
 
 Objeto de fuente.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo encontrar la fuente y reemplazar la fuente del texto de la primera página.
+El ejemplo demuestra cómo encontrar una fuente y reemplazar la fuente del texto de la primera página.
 
 ```csharp
-// Buscar fuente
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Cambiar la fuente de la primera aparición de texto
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ver también
+### Véase También
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espacio de nombres [Aspose.Pdf.Text](../../fontrepository)
-* asamblea [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, bool) {#findfont_3}
 
-Busca y devuelve la fuente con el nombre de fuente especificado ignorando o respetando la distinción entre mayúsculas y minúsculas.
+Busca y devuelve la fuente con el nombre de fuente especificado ignorando o respetando la sensibilidad a mayúsculas.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontName | String | Nombre de la fuente. |
-| ignoreCase | Boolean | sensibilidad a mayúsculas y minúsculas |
+| ignoreCase | Boolean | sensibilidad a mayúsculas |
 
-### Valor_devuelto
+### Valor de Retorno
 
 Objeto de fuente.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo encontrar la fuente y reemplazar la fuente del texto de la primera página.
+El ejemplo demuestra cómo encontrar una fuente y reemplazar la fuente del texto de la primera página.
 
 ```csharp
-// Buscar fuente
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Cambiar la fuente de la primera aparición de texto
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ver también
+### Véase También
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* espacio de nombres [Aspose.Pdf.Text](../../fontrepository)
-* asamblea [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Busca y devuelve la fuente con el nombre de fuente y el estilo de fuente especificados.
+Busca y devuelve la fuente con el nombre de fuente especificado y el estilo de fuente.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontFamilyName | String | Nombre de la familia de fuentes. |
 | stl | FontStyles | Valor del estilo de fuente. |
 
-### Valor_devuelto
+### Valor de Retorno
 
 Objeto de fuente correspondiente a los parámetros de solicitud de búsqueda.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo encontrar la fuente y reemplazar la fuente del texto de la primera página.
+El ejemplo demuestra cómo encontrar una fuente y reemplazar la fuente del texto de la primera página.
 
 ```csharp
-// Buscar fuente
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Cambiar la fuente de la primera aparición de texto
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ver también
+### Véase También
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* espacio de nombres [Aspose.Pdf.Text](../../fontrepository)
-* asamblea [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Busca y devuelve la fuente con el nombre de fuente y el estilo de fuente especificados ignorando o respetando la distinción entre mayúsculas y minúsculas.
+Busca y devuelve la fuente con el nombre de fuente especificado y el estilo de fuente ignorando o respetando la sensibilidad a mayúsculas.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontFamilyName | String | Nombre de la familia de fuentes. |
 | stl | FontStyles | Valor del estilo de fuente. |
-| ignoreCase | Boolean | sensibilidad a mayúsculas y minúsculas |
+| ignoreCase | Boolean | sensibilidad a mayúsculas |
 
-### Valor_devuelto
+### Valor de Retorno
 
 Objeto de fuente correspondiente a los parámetros de solicitud de búsqueda.
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo encontrar la fuente y reemplazar la fuente del texto de la primera página.
+El ejemplo demuestra cómo encontrar una fuente y reemplazar la fuente del texto de la primera página.
 
 ```csharp
-// Buscar fuente
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Cambiar la fuente de la primera aparición de texto
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ver también
+### Véase También
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* espacio de nombres [Aspose.Pdf.Text](../../fontrepository)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

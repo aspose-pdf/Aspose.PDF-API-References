@@ -1,0 +1,42 @@
+---
+title: Class FileListResponse
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.AI.FileListResponse 클래스. 파일 응답 목록을 포함하는 파일 목록 응답을 나타냅니다.
+type: docs
+weight: 390
+url: /ko/net/aspose.pdf.ai/filelistresponse/
+---
+## FileListResponse 클래스
+
+파일 응답 목록을 포함하는 파일 목록 응답을 나타냅니다.
+
+```csharp
+public class FileListResponse : DataResponse<List<FileResponse>>
+```
+
+## 생성자
+
+| 이름 | 설명 |
+| --- | --- |
+| [FileListResponse](filelistresponse/)() | 기본 생성자입니다. |
+
+## 속성
+
+| 이름 | 설명 |
+| --- | --- |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | 응답 세부 정보를 가져오거나 설정합니다. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | HTTP 응답 오류를 가져오거나 설정합니다. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | 오류 정보를 가져옵니다. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | HTTP 응답 헤더를 가져오거나 설정합니다. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | HTTP 상태 코드를 가져오거나 설정합니다. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | 응답이 성공적이었는지 여부를 나타냅니다. |
+| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | 항상 목록인 객체 유형을 가져오거나 설정합니다. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | 오류 이유 구문을 가져옵니다. |
+
+### 참조
+
+* 클래스 [DataResponse&lt;T&gt;](../dataresponse-1/)
+* 클래스 [FileResponse](../fileresponse/)
+* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* 어셈블리 [Aspose.PDF](../../)

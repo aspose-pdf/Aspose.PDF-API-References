@@ -1,85 +1,172 @@
 ---
-title: PKCS7Detached
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni örneğini başlatırPKCS7Detachedaspose.pdf.forms/pkcs7detached sınıf.
+title: PKCS7Detached.PKCS7Detached
+second_title: Aspose.PDF for .NET API Reference
+description: PKCS7Detached yapıcısı. PKCS7Detached sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
-## PKCS7Detached(Stream) {#constructor_1}
+## PKCS7Detached(Stream) {#constructor_2}
 
-Yeni örneğini başlatır[`PKCS7Detached`](../../pkcs7detached) sınıf.
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PKCS7Detached(Stream image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Stream | Bu resim, sayfada imza görünümünü tanımlayacaktır. |
+| image | Stream | Bu resim, sayfadaki imza görünümünü tanımlayacaktır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PKCS7Detached](../../pkcs7detached)
-* ad alanı [Aspose.Pdf.Forms](../../pkcs7detached)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_3}
+
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| image | Stream | Bu resim, sayfadaki imza görünümünü tanımlayacaktır. |
+| digestHashAlgorithm | DigestHashAlgorithm | Bir belgeyi imzalamak için kullanılan özet algoritması. |
+
+### Ayrıca Bakınız
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## PKCS7Detached() {#constructor}
 
-Yeni örneğini başlatır[`PKCS7Detached`](../../pkcs7detached) sınıf.
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PKCS7Detached()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PKCS7Detached](../../pkcs7detached)
-* ad alanı [Aspose.Pdf.Forms](../../pkcs7detached)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(string, string) {#constructor_3}
+## PKCS7Detached(DigestHashAlgorithm) {#constructor_1}
 
-Yeni örneğini başlatır[`PKCS7Detached`](../../pkcs7detached) sınıf.
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| digestHashAlgorithm | DigestHashAlgorithm | Bir belgeyi imzalamak için kullanılan özet algoritması. |
+
+### Ayrıca Bakınız
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(string, string) {#constructor_6}
+
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PKCS7Detached(string pfx, string password)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pfx | String | İmzalama sertifikası içeren Pfx dosyası. |
-| password | String | Sertifikadaki özel anahtara erişim sağlamak için parola. |
+| pfx | String | İmzalamak için sertifika içeren pfx dosyası. |
+| password | String | Sertifikadaki özel anahtara erişim için şifre. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PKCS7Detached](../../pkcs7detached)
-* ad alanı [Aspose.Pdf.Forms](../../pkcs7detached)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(Stream, string) {#constructor_2}
+## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_7}
 
-Yeni örneğini başlatır[`PKCS7Detached`](../../pkcs7detached) sınıf.
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| pfx | String | İmzalamak için sertifika içeren pfx dosyası. |
+| password | String | Sertifikadaki özel anahtara erişim için şifre. |
+| digestHashAlgorithm | DigestHashAlgorithm | Bir belgeyi imzalamak için kullanılan özet algoritması. |
+
+### Ayrıca Bakınız
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## PKCS7Detached(Stream, string) {#constructor_4}
+
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PKCS7Detached(Stream pfx, string password)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pfx | Stream | pfx. olarak düzenlenmiş sertifika verileriyle akış |
-| password | String | Sertifikadaki özel anahtara erişim sağlamak için parola. |
+| pfx | Stream | Sertifika verileri pfx olarak düzenlenmiş akış. |
+| password | String | Sertifikadaki özel anahtara erişim için şifre. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PKCS7Detached](../../pkcs7detached)
-* ad alanı [Aspose.Pdf.Forms](../../pkcs7detached)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_5}
+
+[`PKCS7Detached`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| pfx | Stream | Sertifika verileri pfx olarak düzenlenmiş akış. |
+| password | String | Sertifikadaki özel anahtara erişim için şifre. |
+| digestHashAlgorithm | DigestHashAlgorithm | Bir belgeyi imzalamak için kullanılan özet algoritması. |
+
+### Ayrıca Bakınız
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* sınıf [PKCS7Detached](../)
+* ad alanı [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* derleme [Aspose.PDF](../../../)

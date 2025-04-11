@@ -1,356 +1,354 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF for .NET API Referansı
-description: FormattedTexti başlatır.
+title: FormattedText.FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: BiçimlendirilmişMetin yapıcısı. BiçimlendirilmişMetin'i başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.facades/formattedtext/formattedtext/
 ---
-## FormattedText() {#constructor}
+## BiçimlendirilmişMetin() {#constructor}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string) {#constructor_1}
+## BiçimlendirilmişMetin(string) {#constructor_1}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | FormattedText'te bulunan metin. |
+| metin | String | BiçimlendirilmişMetin içinde bulunan metin. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float) {#constructor_4}
+## BiçimlendirilmişMetin(string, YazıRengi, YazıStili, KodlamaTürü, bool, float) {#constructor_4}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle fontStyle, 
     EncodingType encodingType, bool embedded, float textSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| fontColor | FontColor | Metnin rengi. |
-| fontStyle | FontStyle | Metnin stili. |
-| encodingType | EncodingType | Kodlama türü (EncodingType numaralandırmasının değeri). |
-| embedded | Boolean | Yazı tipi gömülü olacaksa doğrudur. |
-| textSize | Single | Metnin boyutu. |
+| metin | String | Dize içeriği. |
+| yazıRengi | YazıRengi | Metnin rengi. |
+| yazıStili | YazıStili | Metnin stili. |
+| kodlamaTürü | KodlamaTürü | Kodlama türü (KodlamaTürü enum değeridir). |
+| gömülü | Boolean | Yazı tipi gömülü olacaksa doğru. |
+| metinBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [YazıRengi](../../yazirengi/)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
+## BiçimlendirilmişMetin(string, YazıRengi, YazıStili, KodlamaTürü, bool, float, float) {#constructor_5}
 
-FormattedText'i Başlatın.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| fontColor | FontColor | Metnin rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Metin gömülecekse doğrudur. |
-| textSize | Single | Metnin boyutu. |
-| lineSpacing | Single | Ek boşluk. |
+| metin | String | Dize içeriği. |
+| yazıRengi | YazıRengi | Metnin rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Metin gömülü olacaksa doğru. |
+| metinBoyutu | Single | Metnin boyutu. |
+| satırAralığı | Single | Ekstra aralık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [YazıRengi](../../yazirengi/)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, FontStyle, EncodingType, bool, float) {#constructor_6}
+## BiçimlendirilmişMetin(string, Renk, YazıStili, KodlamaTürü, bool, float) {#constructor_6}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color color, FontStyle textFont, EncodingType textEncoding, 
     bool embedded, float textSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| color | Color | Metnin rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Metin gömülecekse doğrudur. |
-| textSize | Single | Metnin boyutu. |
+| metin | String | Dize içeriği. |
+| renk | Renk | Metnin rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Metin gömülü olacaksa doğru. |
+| metinBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, FontStyle, EncodingType, bool, float, float) {#constructor_7}
+## BiçimlendirilmişMetin(string, Renk, YazıStili, KodlamaTürü, bool, float, float) {#constructor_7}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, FontStyle textFont, EncodingType textEncoding, 
     bool embedded, float textSize, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülü ise. |
-| textSize | Single | Metnin boyutu. |
-| lineSpacing | Single | Ek boşluk. |
+| metin | String | Dize içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| metinBoyutu | Single | Metnin boyutu. |
+| satırAralığı | Single | Ekstra aralık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) {#constructor_2}
+## BiçimlendirilmişMetin(string, YazıRengi, YazıRengi, YazıStili, KodlamaTürü, bool, float) {#constructor_2}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| textColor | FontColor | Metnin rengi. |
-| backColor | FontColor | Arka plan rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülü ise. |
-| textSize | Single | Metnin boyutu. |
+| metin | String | Dize içeriği. |
+| metinRengi | YazıRengi | Metnin rengi. |
+| arkaPlanRengi | YazıRengi | Arka plan rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| metinBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [YazıRengi](../../yazirengi/)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_3}
+## BiçimlendirilmişMetin(string, YazıRengi, YazıRengi, YazıStili, KodlamaTürü, bool, float, float) {#constructor_3}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin içeriği. |
-| textColor | FontColor | Metnin rengi. |
-| backColor | FontColor | Arka plan rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülü ise. |
-| textSize | Single | Metnin boyutu. |
-| lineSpacing | Single | Ek boşluk. |
+| metin | String | Metin içeriği. |
+| metinRengi | YazıRengi | Metnin rengi. |
+| arkaPlanRengi | YazıRengi | Arka plan rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| metinBoyutu | Single | Metnin boyutu. |
+| satırAralığı | Single | Ekstra aralık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [YazıRengi](../../yazirengi/)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float) {#constructor_9}
+## BiçimlendirilmişMetin(string, Renk, Renk, YazıStili, KodlamaTürü, bool, float) {#constructor_9}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
     EncodingType encoding, bool embedded, float textSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| backColor | Color | Arka plan rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| encoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Yazı tipi gömülü olacaksa doğrudur. |
-| textSize | Single | Metnin boyutu. |
+| metin | String | Dize içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| arkaPlanRengi | Renk | Arka plan rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| kodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Yazı tipi gömülü olacaksa doğru. |
+| metinBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float, float) {#constructor_10}
+## BiçimlendirilmişMetin(string, Renk, Renk, YazıStili, KodlamaTürü, bool, float, float) {#constructor_10}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
     EncodingType textEncoding, bool embedded, float textSize, float lineSpacing)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Dizenin metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| backColor | Color | Arka planın rengi. |
-| textFont | FontStyle | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülüyse. |
-| textSize | Single | Metnin boyutu. |
-| lineSpacing | Single | Ek boşluk. |
+| metin | String | Dize içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| arkaPlanRengi | Renk | Arka plan rengi. |
+| metinYazıStili | YazıStili | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| metinBoyutu | Single | Metnin boyutu. |
+| satırAralığı | Single | Ekstra aralık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* enum [YazıStili](../../yazistili/)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, Color, string, EncodingType, bool, float) {#constructor_11}
+## BiçimlendirilmişMetin(string, Renk, Renk, string, KodlamaTürü, bool, float) {#constructor_11}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, string fontName, 
     EncodingType textEncoding, bool embedded, float fontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| backColor | Color | Arka plan rengi. |
-| fontName | String | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülü ise. |
-| fontSize | Single | Metnin boyutu. |
+| metin | String | Metin içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| arkaPlanRengi | Renk | Arka plan rengi. |
+| yazıTipiAdı | String | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| yazıBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, Color) {#constructor_8}
+## BiçimlendirilmişMetin(string, Renk, Renk) {#constructor_8}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| backColor | Color | Arka plan rengi. |
+| metin | String | Metin içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| arkaPlanRengi | Renk | Arka plan rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## FormattedText(string, Color, string, EncodingType, bool, float) {#constructor_12}
+## BiçimlendirilmişMetin(string, Renk, string, KodlamaTürü, bool, float) {#constructor_12}
 
-FormattedText'i başlatır.
+BiçimlendirilmişMetin'i başlatır.
 
 ```csharp
 public FormattedText(string text, Color textColor, string fontName, EncodingType textEncoding, 
     bool embedded, float fontSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | String | Metin içeriği. |
-| textColor | Color | Metnin rengi. |
-| fontName | String | Metnin yazı tipi. |
-| textEncoding | EncodingType | Metnin kodlanması. |
-| embedded | Boolean | Gerçek yazı tipi gömülü ise. |
-| fontSize | Single | Metnin boyutu. |
+| metin | String | Metin içeriği. |
+| metinRengi | Renk | Metnin rengi. |
+| yazıTipiAdı | String | Metnin yazı tipi. |
+| metinKodlama | KodlamaTürü | Metnin kodlaması. |
+| gömülü | Boolean | Eğer doğruysa yazı tipi gömülü olacaktır. |
+| yazıBoyutu | Single | Metnin boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* ad alanı [Aspose.Pdf.Facades](../../formattedtext)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [KodlamaTürü](../../kodlamaturu/)
+* sınıf [BiçimlendirilmişMetin](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

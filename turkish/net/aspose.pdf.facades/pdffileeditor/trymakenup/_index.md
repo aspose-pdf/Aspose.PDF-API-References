@@ -1,201 +1,201 @@
 ---
-title: TryMakeNUp
-second_title: Aspose.PDF for .NET API Referansı
-description: N-yukarı belge oluşturur ve sonucu HttpResponse nesnesine kaydeder.
+title: PdfFileEditor.TryMakeNUp
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. firstInputFile'dan outputFile'a NUp belgesi oluşturur
 type: docs
-weight: 470
+weight: 440
 url: /tr/net/aspose.pdf.facades/pdffileeditor/trymakenup/
 ---
-## TryMakeNUp(string, int, int, PageSize, HttpResponse) {#trymakenup_6}
+## TryMakeNUp(string, string, int, int) {#trymakenup_4}
 
-N-yukarı belge oluşturur ve sonucu HttpResponse nesnesine kaydeder.
+N-up belgesi oluşturur ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TryMakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosyanın yolu. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 | pageSize | PageSize | Sonuç dosyasındaki sayfa boyutu. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeNUp(Stream, int, int, PageSize, HttpResponse) {#trymakenup}
 
-N-yukarı belge oluşturur ve sonucu HttpResponse nesnesine kaydeder.
+N-up belgesi oluşturur ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, int x, int y, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Kaynak belge akışı. |
+| inputStream | Stream | Kaynak belgenin akışı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 | pageSize | PageSize | Sonuç dosyasındaki sayfa boyutu. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeNUp(string, int, int, HttpResponse) {#trymakenup_7}
 
-N-up belge oluşturur ve sonucu HttpResponse. içinde saklar
+N-up belgesi oluşturur ve sonucu HttpResponse'ye kaydeder.
 
 ```csharp
 public bool TryMakeNUp(string inputFile, int x, int y, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya adı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
-| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeNUp(Stream, int, int, HttpResponse) {#trymakenup_1}
 
-N-yukarı belge oluşturur ve sonucu HttpResponse'da saklar.
+N-up belgesi oluşturur ve sonucu HttpResponse'ye kaydeder.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, int x, int y, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş belgesi akışı. |
+| inputStream | Stream | Girdi belgesinin akışı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
-| response | HttpResponse | HttpResponse sonucun saklanacağı yer. |
+| response | HttpResponse | Sonucun kaydedileceği HttpResponse. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeNUp(string, string, int, int) {#trymakenup_8}
 
-FirstInputFile'dan outputFile. 'ye N-Up belgesi yapar
+firstInputFile'dan outputFile'a N-Up belgesi oluşturur.
 
 ```csharp
 public bool TryMakeNUp(string inputFile, string outputFile, int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
+| inputFile | String | Girdi pdf dosyasının yolu ve adı. |
+| outputFile | String | Çıktı pdf dosyasının yolu ve adı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int) {#trymakenup_2}
+## TryMakeNUp(Stream, Stream, int, int) {#trymakenup}
 
-Giriş akışından N-Up belgesi oluşturur ve sonucu çıkış akışına kaydeder.
+Girdi akışından N-Up belgesi oluşturur ve sonucu çıktı akışına kaydeder.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | pdf akışını girin. |
+| inputStream | Stream | Girdi pdf akışı. |
 | outputStream | Stream | Çıktı pdf akışı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -204,39 +204,39 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_3}
+## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_1}
 
-İlk giriş akışından çıkış akışına N-Up belge oluşturur.
+İlk girdi akışından çıktı akışına N-Up belgesi oluşturur.
 
 ```csharp
 public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | pdf akışını girin. |
+| inputStream | Stream | Girdi pdf akışı. |
 | outputStream | Stream | Çıktı pdf akışı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 | pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -245,75 +245,75 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string, string, string) {#trymakenup_10}
+## TryMakeNUp(string, string, string) {#trymakenup_6}
 
-İki giriş PDF dosyasından outputFile'a N-Up belgesi yapar. outputFile'ın her sayfası iki sayfa içerecektir, bir sayfa ilk giriş dosyasından ve diğeri ikinci giriş dosyasındandır. İki sayfa yatay olarak yığılmıştır.
+İki girdi PDF dosyasından outputFile'a N-Up belgesi oluşturur. outputFile'ın her sayfası, bir sayfası ilk girdi dosyasından ve diğer sayfası ikinci girdi dosyasından olmak üzere iki sayfa içerecektir. İki sayfa yatay olarak üst üste yerleştirilmiştir.
 
 ```csharp
 public bool TryMakeNUp(string firstInputFile, string secondInputFile, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| firstInputFile | String | ilk giriş dosyası. |
-| secondInputFile | String | ikinci giriş dosyası. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
+| firstInputFile | String | ilk girdi dosyası. |
+| secondInputFile | String | ikinci girdi dosyası. |
+| outputFile | String | Çıktı pdf dosyasının yolu ve adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde, yanlış
+İşlem başarıyla tamamlandıysa true; aksi takdirde false
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_4}
+## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_2}
 
-İki giriş PDF akışından outputStream. 'ye N-Up belge oluşturur
+İki girdi PDF akışından outputStream'e N-Up belgesi oluşturur.
 
 ```csharp
 public bool TryMakeNUp(Stream firstInputStream, Stream secondInputStream, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| firstInputStream | Stream | ilk giriş akışı. |
-| secondInputStream | Stream | ikinci giriş akışı. |
+| firstInputStream | Stream | ilk girdi akışı. |
+| secondInputStream | Stream | ikinci girdi akışı. |
 | outputStream | Stream | Çıktı pdf akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde, yanlış
+İşlem başarıyla tamamlandıysa true; aksi takdirde false
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -323,74 +323,74 @@ Stream output = new FileStream("output.pdf");
 bool result = pfe.TryMakeNUp(input1, input2, output);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string[], string, bool) {#trymakenup_11}
+## TryMakeNUp(string[], string, bool) {#trymakenup_7}
 
-Çoklu giriş PDF dosyalarından outputFile'a N-Up belgesi yapar. outputFile'ın her sayfası, aynı sayfa numarasının giriş dosyalarındaki sayfalarıyla kombinasyon halinde olan çoklu sayfaları içerecektir. Çoklu sayfalar, isSidewise doğruysa yatay olarak ve isSidewise yanlışsa dikey olarak yığılır.
+Birden fazla girdi PDF dosyasından outputFile'a N-Up belgesi oluşturur. outputFile'ın her sayfası, aynı sayfa numarasına sahip girdi dosyalarındaki sayfaların kombinasyonunu içerecektir. Çoklu sayfalar, isSidewise true ise yatay olarak, false ise dikey olarak üst üste yerleştirilir.
 
 ```csharp
 public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFiles | String[] | Pdf dosyalarını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| isSidewise | Boolean | Yığılmış yol, yatay için doğru ve dikey için yanlış. |
+| inputFiles | String[] | Girdi Pdf dosyaları. |
+| outputFile | String | Çıktı pdf dosyasının yolu ve adı. |
+| isSidewise | Boolean | Üst üste yerleştirme şekli, yatay için true ve dikey için false. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.pdf", false);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_5}
+## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_3}
 
-Çoklu giriş PDF akışlarından outputStream'e N-Up belgesi oluşturur. outputStream'in her sayfası, aynı sayfa numarasının giriş akışlarındaki sayfalarıyla kombinasyon halinde olan birden çok sayfa içerecektir. Çoklu sayfalar, isSidewise doğruysa yatay olarak ve isSidewise yanlışsa dikey olarak yığılır.
+Birden fazla girdi PDF akışından outputStream'e N-Up belgesi oluşturur. outputStream'in her sayfası, aynı sayfa numarasına sahip girdi akışlarındaki sayfaların kombinasyonunu içerecektir. Çoklu sayfalar, isSidewise true ise yatay olarak, false ise dikey olarak üst üste yerleştirilir.
 
 ```csharp
 public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStreams | Stream[] | Giriş Pdf akışları. |
-| outputStream | Stream | Çıkış pdf akışı. |
-| isSidewise | Boolean | Yığılmış yol, yatay için doğru ve dikey için yanlış. |
+| inputStreams | Stream[] | Girdi Pdf akışları. |
+| outputStream | Stream | Çıktı pdf akışı. |
+| isSidewise | Boolean | Üst üste yerleştirme şekli, yatay için true ve dikey için false. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -401,50 +401,48 @@ Stream output = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryMakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_9}
+## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_5}
 
-Girdi dosyasından çıktıFile. dosyasına N-Up belgesi yapar
+Girdi dosyasından outputFile'a N-Up belgesi oluşturur.
 
 ```csharp
 public bool TryMakeNUp(string inputFile, string outputFile, int x, int y, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
+| inputFile | String | Girdi pdf dosyasının yolu ve adı. |
+| outputFile | String | Çıktı pdf dosyasının yolu ve adı. |
 | x | Int32 | Sütun sayısı. |
 | y | Int32 | Satır sayısı. |
 | pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryMakeNUp yöntemi, MakeNUp yöntemine benzer, ancak TryMakeNUp yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryMakeNUp metodu, MakeNUp metoduna benzer, ancak TryMakeNUp metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

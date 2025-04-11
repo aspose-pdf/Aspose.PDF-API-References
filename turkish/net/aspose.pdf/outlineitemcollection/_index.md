@@ -1,69 +1,67 @@
 ---
-title: OutlineItemCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: PDF belgesinin anahat hiyerarşisinde anahat girişini temsil eder.
+title: Class OutlineItemCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.OutlineItemCollection sınıfı. PDF belgesinin dış hat hiyerarşisindeki dış hat girişini temsil eder
 type: docs
-weight: 5770
+weight: 8010
 url: /tr/net/aspose.pdf/outlineitemcollection/
 ---
-## OutlineItemCollection class
+## OutlineItemCollection sınıfı
 
-PDF belgesinin anahat hiyerarşisinde anahat girişini temsil eder.
+PDF belgesinin dış hat hiyerarşisindeki dış hat girişini temsil eder.
 
 ```csharp
 public sealed class OutlineItemCollection : Outlines
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [OutlineItemCollection](outlineitemcollection)(OutlineCollection) | Kök hiyerarşi nesnesini kullanarak anahat öğesi örneğini başlatır. |
+| [OutlineItemCollection](outlineitemcollection/)(OutlineCollection) | Kök hiyerarşi nesnesini kullanarak dış hat öğesi örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Action](../../aspose.pdf/outlineitemcollection/action) { get; set; } | Bu anahat öğesi için eylemi alır veya ayarlar. |
-| [Bold](../../aspose.pdf/outlineitemcollection/bold) { get; set; } | Bu anahattın başlık metni için kalın bayrağı alır veya ayarlar item |
-| [Color](../../aspose.pdf/outlineitemcollection/color) { get; set; } | Bu anahat öğesinin başlık metninin rengini alır veya ayarlar. |
-| override [Count](../../aspose.pdf/outlineitemcollection/count) { get; } | Koleksiyon öğelerinin sayısı. Lütfen VisibleCount ile karıştırmayın: VisibleCount, tüm seviyelerde görünür anahat öğesinin sayısını alır. |
-| [Destination](../../aspose.pdf/outlineitemcollection/destination) { get; set; } | Bu anahat öğesinin hedefini alır veya ayarlar. |
-| [First](../../aspose.pdf/outlineitemcollection/first) { get; } | Anahat hiyerarşisindeki ilk üst düzey öğeyi temsil eden anahat öğesini alır. |
-| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext) { get; } | Anahat öğesinin, anahat hiyerarşisindeki bir sonraki öğeyi nispeten bu öğeyi temsil edip etmediğini kontrol edin. |
-| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly) { get; } | Koleksiyonun salt okunur olup olmadığını gösteren bir değer alır. |
-| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized) { get; } | Bu koleksiyona erişimin senkronize edilip edilmediğini gösteren değeri alır (iş parçacığı güvenli). |
-| [Italic](../../aspose.pdf/outlineitemcollection/italic) { get; set; } | Bu anahattın başlık metni için italik bayrak alır veya ayarlar item |
-| [Item](../../aspose.pdf/outlineitemcollection/item) { get; } | İndeks kullanarak koleksiyondan anahat öğesini alır. |
-| [Last](../../aspose.pdf/outlineitemcollection/last) { get; } | Anahat hiyerarşisindeki son üst düzey öğeyi temsil eden anahat öğesini alır. |
-| [Level](../../aspose.pdf/outlineitemcollection/level) { get; } | Anahat öğesinin hiyerarşi düzeyini alır. |
-| [Next](../../aspose.pdf/outlineitemcollection/next) { get; } | Anahat hiyerarşisinde bu öğeye göre bir sonraki öğeyi temsil eden anahat öğesini alır. |
-| [Open](../../aspose.pdf/outlineitemcollection/open) { get; set; } | Anahat öğesi için açık durumu (doğru/yanlış) alır veya ayarlar. |
-| [Parent](../../aspose.pdf/outlineitemcollection/parent) { get; } | Anahat hiyerarşisindeki bu anahat öğesinin üst nesnesini alır. |
-| [Prev](../../aspose.pdf/outlineitemcollection/prev) { get; } | Anahat hiyerarşisinde bu öğeye göre önceki öğeyi temsil eden anahat öğesini alır. |
-| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot) { get; } | Bu koleksiyona erişimi senkronize etmek için kullanılabilecek nesneyi alır. |
-| [Title](../../aspose.pdf/outlineitemcollection/title) { get; set; } | Bu anahat öğesinin başlığını alır veya ayarlar. |
-| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount) { get; } | Belge anahat hiyerarşisindeki tüm düzeylerdeki anahat öğelerinin toplam sayısını alır. |
+| [Action](../../aspose.pdf/outlineitemcollection/action/) { get; set; } | Bu dış hat öğesi için eylemi alır veya ayarlar. |
+| [Bold](../../aspose.pdf/outlineitemcollection/bold/) { get; set; } | Bu dış hat öğesinin başlık metni için kalın bayrağını alır veya ayarlar. |
+| [Color](../../aspose.pdf/outlineitemcollection/color/) { get; set; } | Bu dış hat öğesinin başlık metni için rengi alır veya ayarlar. |
+| override [Count](../../aspose.pdf/outlineitemcollection/count/) { get; } | Koleksiyon öğelerinin sayısı. VisibleCount ile karıştırmayın: VisibleCount, tüm seviyelerdeki görünür dış hat öğelerinin sayısını alır. |
+| [Destination](../../aspose.pdf/outlineitemcollection/destination/) { get; set; } | Bu dış hat öğesi için hedefi alır veya ayarlar. |
+| [First](../../aspose.pdf/outlineitemcollection/first/) { get; } | Dış hat hiyerarşisindeki ilk üst düzey öğeyi temsil eden dış hat öğesini alır. |
+| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext/) { get; } | Dış hat hiyerarşisinde bu öğeye göre bir sonraki öğeyi temsil eden dış hat öğesinin olup olmadığını kontrol eder. |
+| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly/) { get; } | Koleksiyonun salt okunur olup olmadığını belirten bir değer alır. |
+| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized/) { get; } | Bu koleksiyona erişimin senkronize olup olmadığını (iş parçacığı güvenli) belirten değeri alır. |
+| [Italic](../../aspose.pdf/outlineitemcollection/italic/) { get; set; } | Bu dış hat öğesinin başlık metni için italik bayrağını alır veya ayarlar. |
+| [Item](../../aspose.pdf/outlineitemcollection/item/) { get; } | İndeksi kullanarak koleksiyondan dış hat öğesini alır. |
+| [Last](../../aspose.pdf/outlineitemcollection/last/) { get; } | Dış hat hiyerarşisindeki son üst düzey öğeyi temsil eden dış hat öğesini alır. |
+| [Level](../../aspose.pdf/outlineitemcollection/level/) { get; } | Dış hat öğesinin hiyerarşi seviyesini alır. |
+| [Next](../../aspose.pdf/outlineitemcollection/next/) { get; } | Dış hat hiyerarşisinde bu öğeye göre bir sonraki öğeyi temsil eden dış hat öğesini alır. |
+| [Open](../../aspose.pdf/outlineitemcollection/open/) { get; set; } | Dış hat öğesi için açık durumunu (true/false) alır veya ayarlar. |
+| [Parent](../../aspose.pdf/outlineitemcollection/parent/) { get; } | Dış hat hiyerarşisindeki bu dış hat öğesinin üst nesnesini alır. |
+| [Prev](../../aspose.pdf/outlineitemcollection/prev/) { get; } | Dış hat hiyerarşisinde bu öğeye göre bir önceki öğeyi temsil eden dış hat öğesini alır. |
+| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot/) { get; } | Bu koleksiyona erişimi senkronize etmek için kullanılabilecek nesneyi alır. |
+| [Title](../../aspose.pdf/outlineitemcollection/title/) { get; set; } | Bu dış hat öğesi için başlığı alır veya ayarlar. |
+| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount/) { get; } | Belge dış hat hiyerarşisindeki tüm seviyelerdeki dış hat öğelerinin toplam sayısını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlineitemcollection/add)(OutlineItemCollection) | Anahat öğesini koleksiyona ekler. |
-| override [Clear](../../aspose.pdf/outlineitemcollection/clear)() | Koleksiyondaki tüm öğeleri temizler. |
-| override [Contains](../../aspose.pdf/outlineitemcollection/contains)(OutlineItemCollection) | Koleksiyonun verilen öğeyi içerip içermediğini kontrol eder. |
-| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto)(OutlineItemCollection[], int) | Anahat girişlerini belirli bir System.Array dizininden başlayarak bir System.Array'e kopyalar. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete)() | Bu anahat öğesini belge anahat hiyerarşisinden siler. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete_1)(string) | Belge anahat hiyerarşisinden belirtilen ada sahip anahat girişini siler. |
-| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator)() | Koleksiyon boyunca yinelenen bir Numaralandırıcı döndürür. |
-| [Insert](../../aspose.pdf/outlineitemcollection/insert)(int, OutlineItemCollection) | Anahat öğesini belirtilen yerdeki koleksiyona ekler. |
-| [Remove](../../aspose.pdf/outlineitemcollection/remove#remove_1)(int) | Öğeyi dizine göre kaldırın. |
-| override [Remove](../../aspose.pdf/outlineitemcollection/remove#remove)(OutlineItemCollection) | Anahat koleksiyonu öğesini kaldırın. |
+| override [Add](../../aspose.pdf/outlineitemcollection/add/)(OutlineItemCollection) | Dış hat öğesini koleksiyona ekler. |
+| override [Clear](../../aspose.pdf/outlineitemcollection/clear/)() | Koleksiyondaki tüm öğeleri temizler. |
+| override [Contains](../../aspose.pdf/outlineitemcollection/contains/)(OutlineItemCollection) | Koleksiyonun verilen öğeyi içerip içermediğini kontrol eder. |
+| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto/)(OutlineItemCollection[], int) | Dış hat girişlerini belirli bir System.Array indeksinden başlayarak bir System.Array'a kopyalar. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete)() | Bu dış hat öğesini belge dış hat hiyerarşisinden siler. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete_1)(string) | Belirtilen adı taşıyan dış hat girişini belge dış hat hiyerarşisinden siler. |
+| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator/)() | Koleksiyonda yineleme yapan bir enumerator döndürür. |
+| [Insert](../../aspose.pdf/outlineitemcollection/insert/)(int, OutlineItemCollection) | Dış hat öğesini belirtilen yere koleksiyona ekler. |
+| [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove_1)(int) | İndex ile öğeyi kaldırır. |
+| override [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove)(OutlineItemCollection) | Dış hat koleksiyon öğesini kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Outlines](../outlines)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Outlines](../outlines/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

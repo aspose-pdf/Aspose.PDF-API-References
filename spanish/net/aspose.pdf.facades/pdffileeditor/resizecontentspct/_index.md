@@ -1,97 +1,95 @@
 ---
-title: ResizeContentsPct
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Cambia el tamaño del contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
+title: PdfFileEditor.ResizeContentsPct
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Redimensiona el contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
 type: docs
-weight: 360
+weight: 330
 url: /es/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
-## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
-
-Cambia el tamaño del contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
-
-```csharp
-public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
-    double newHeight)
-```
-
-| Parámetro | Escribe | Descripción |
-| --- | --- | --- |
-| source | String | Ruta al documento de origen. |
-| destination | String | Ruta donde se guardará el documento resultante. |
-| pages | Int32[] | Matriz de índices de página. Si es nulo, se procesarán todas las páginas del documento. |
-| newWidth | Double | Nuevo ancho del contenido de la página en porcentajes. |
-| newHeight | Double | Nueva altura del contenido de la página en porcentajes. |
-
-### Valor_devuelto
-
-verdadero si el cambio de tamaño fue exitoso.
-
-### Ejemplos
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-fileEditor.ResizePct("input.pdf", "output.pdf",
-//cambiar el tamaño de todas las páginas del documento
-null, 
-//ancho del nuevo contenido = 60% del tamaño inicial
-60, 
-// altura del nuevo contenido = 60% del tamaño inicial
-60);
-// El área restante de la página estará vacía (márgenes de la página). El tamaño de los márgenes izquierdo y derecho es (100% - 60%) / 2 = 20%
-// Lo mismo para los márgenes superior e inferior.
-```
-
-### Ver también
-
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
----
-
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 
-Cambia el tamaño del contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
+Redimensiona el contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
 
 ```csharp
 public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| source | Stream | Secuencia que contiene el documento de origen. |
-| destination | Stream | Secuencia donde se guardará el documento resultante. |
-| pages | Int32[] | Matriz de índices de página. Si es nulo, se procesarán todas las páginas del documento. |
+| source | Stream | Stream que contiene el documento fuente. |
+| destination | Stream | Stream donde se guardará el documento resultante. |
+| pages | Int32[] | Array de índices de página. Si es nulo, se procesarán todas las páginas del documento. |
 | newWidth | Double | Nuevo ancho del contenido de la página en porcentajes. |
 | newHeight | Double | Nueva altura del contenido de la página en porcentajes. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si se redimensionó con éxito.
+true si se redimensionó con éxito.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizePct(src, dest, 
-//cambiar el tamaño de todas las páginas del documento
+//resize all pages of document
 null, 
-//ancho del nuevo contenido = 60% del tamaño inicial
+//new contents width = 60% of initial size
 60, 
-// altura del nuevo contenido = 60% del tamaño inicial
+//new contents height = 60% of initial size
 60);
-// El área restante de la página estará vacía (márgenes de la página). El tamaño de los márgenes izquierdo y derecho es (100% - 60%) / 2 = 20%
-// Lo mismo para los márgenes superior e inferior.
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
+
+Redimensiona el contenido de las páginas del documento. Reduce el contenido de la página y agrega márgenes. El nuevo tamaño del contenido se especifica en porcentajes.
+
+```csharp
+public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
+    double newHeight)
+```
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| source | String | Ruta al documento fuente. |
+| destination | String | Ruta donde se guardará el documento resultante. |
+| pages | Int32[] | Array de índices de página. Si es nulo, se procesarán todas las páginas del documento. |
+| newWidth | Double | Nuevo ancho del contenido de la página en porcentajes. |
+| newHeight | Double | Nueva altura del contenido de la página en porcentajes. |
+
+### Valor de Retorno
+
+true si el redimensionamiento fue exitoso.
+
+## Ejemplos
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.ResizePct("input.pdf", "output.pdf",
+//resize all pages of document
+null, 
+//new contents width = 60% of initial size
+60, 
+//new contents height = 60% of initial size
+60);
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
+```
+
+### Ver También
+
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

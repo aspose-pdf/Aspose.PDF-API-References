@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar samlingen av anteckningsåtgärder.
+title: Class AnnotationActionCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.AnnotationActionCollection klass. Representerar samlingen av annotationsåtgärder
 type: docs
-weight: 90
+weight: 1420
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/
 ---
-## AnnotationActionCollection class
+## AnnotationActionCollection klass
 
-Representerar samlingen av anteckningsåtgärder.
+Representerar samlingen av annotationsåtgärder.
 
 ```csharp
 public sealed class AnnotationActionCollection : BaseActionCollection
@@ -16,33 +16,31 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate) { get; set; } | Hämtar eller ställer in en åtgärd för att beräkna fältvärdet. |
-| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller anteckningen stängs. |
-| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när markören går in i anteckningens aktiva område. |
-| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när markören lämnar anteckningens aktiva område. |
-| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras för att formatera fältvärde. |
-| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller anteckningen inte längre är synlig i visningsprogrammets användargränssnitt. |
-| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när anteckningen tappar indatafokus. |
-| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar fältets karaktär. |
-| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller anteckningen öppnas. |
-| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när musknappen trycks in i anteckningens aktiva område. |
-| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när anteckningen får ingångsfokus. |
-| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när musknappen släpps inuti anteckningens aktiva område. |
-| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller anteckningen blir synlig i visningsprogrammets användargränssnitt. |
-| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar innehållet i fältet. |
+| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate/) { get; set; } | Hämtar eller ställer in en åtgärd för att beräkna fältvärdet. |
+| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annotationen stängs. |
+| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när markören går in i annotationens aktiva område. |
+| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när markören lämnar annotationens aktiva område. |
+| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras för att formatera fältvärdet. |
+| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annotationen inte längre är synlig i visningsapplikationens användargränssnitt. |
+| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när annotationen förlorar inmatningsfokus. |
+| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar tecknet i fältet. |
+| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annotationen öppnas. |
+| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när musknappen trycks in i annotationens aktiva område. |
+| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när annotationen får inmatningsfokus. |
+| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när musknappen släpps i annotationens aktiva område. |
+| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annotationen blir synlig i visningsapplikationens användargränssnitt. |
+| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate/) { get; set; } | Hämtar eller ställer in en åtgärd som ska utföras när användaren ändrar innehållet i fältet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() | Tar bort alla åtgärder av anteckningen. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Tar bort alla åtgärder från annotationen. |
 
-### Se även
+### Se Även
 
-* class [BaseActionCollection](../../aspose.pdf/baseactioncollection)
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [BaseActionCollection](../../aspose.pdf/baseactioncollection/)
+* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

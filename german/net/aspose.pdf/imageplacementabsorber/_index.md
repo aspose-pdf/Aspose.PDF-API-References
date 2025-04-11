@@ -1,58 +1,58 @@
 ---
-title: ImagePlacementAbsorber
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert ein Absorberobjekt von Bildplatzierungsobjekten. Führt eine Suche nach Bildverwendungen durch und bietet Zugriff auf Suchergebnisse überImagePlacements./imageplacementabsorber/imageplacements Sammlung.
+title: Class ImagePlacementAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImagePlacementAbsorber-Klasse. Stellt ein Absorberobjekt von Bildplatzierungsobjekten dar. Führt die Suche nach Bildverwendungen durch und bietet Zugriff auf die Suchergebnisse über die Sammlung [`ImagePlacements`](./imageplacements/)
 type: docs
-weight: 3770
+weight: 5910
 url: /de/net/aspose.pdf/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber class
+## Klasse ImagePlacementAbsorber
 
-Repräsentiert ein Absorberobjekt von Bildplatzierungsobjekten. Führt eine Suche nach Bildverwendungen durch und bietet Zugriff auf Suchergebnisse über[`ImagePlacements`](./imageplacements) Sammlung.
+Stellt ein Absorberobjekt von Bildplatzierungsobjekten dar. Führt die Suche nach Bildverwendungen durch und bietet Zugriff auf die Suchergebnisse über die Sammlung [`ImagePlacements`](./imageplacements/).
 
 ```csharp
 public sealed class ImagePlacementAbsorber
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImagePlacementAbsorber](imageplacementabsorber)() | Default_Constructor |
+| [ImagePlacementAbsorber](imageplacementabsorber/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | Ruft eine Sammlung von Bildplatzierungsvorkommen ab, die präsentiert werden[`ImagePlacement`](../imageplacement) Objekte. |
-| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode) { get; set; } | Ruft/legt den Nur-Lese-Modus für die Sammlung von Parsing-Operationen ab. Es kann gegen Speichermangel Ausnahmen helfen. |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements/) { get; } | Gibt die Sammlung von Bildplatzierungsereignissen zurück, die mit [`ImagePlacement`](../imageplacement/) Objekten dargestellt werden. |
+| [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode/) { get; set; } | Gibt den Lese-Modus für die Sammlung der Parsing-Operationen zurück/setzt ihn. Dies kann gegen Out-of-Memory-Ausnahmen helfen. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit)(Document) | Führt eine Suche im angegebenen Dokument durch. |
-| [Visit](../../aspose.pdf/imageplacementabsorber/visit#visit_1)(Page) | Führt eine Suche auf der angegebenen Seite durch. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit)(Document) | Führt die Suche im angegebenen Dokument durch. |
+| [Visit](../../aspose.pdf/imageplacementabsorber/visit/#visit_1)(Page) | Führt die Suche auf der angegebenen Seite durch. |
 
-### Bemerkungen
+## Anmerkungen
 
-Die[`ImagePlacementAbsorber`](../imageplacementabsorber) Das Objekt wird hauptsächlich im Bildsuchszenario verwendet. Wenn die Suche abgeschlossen ist, werden die Vorkommen mit dargestellt[`ImagePlacement`](../imageplacement) Objekte, die[`ImagePlacements`](./imageplacements) Sammlung enthält. Die[`ImagePlacement`](../imageplacement) -Objekt bietet Zugriff auf die Eigenschaften der Bildplatzierung: Abmessungen, Auflösung usw.
+Das `ImagePlacementAbsorber`-Objekt wird im Wesentlichen im Szenario der Bildsuche verwendet. Wenn die Suche abgeschlossen ist, werden die Vorkommen mit [`ImagePlacement`](../imageplacement/) Objekten dargestellt, die die Sammlung [`ImagePlacements`](./imageplacements/) enthält. Das [`ImagePlacement`](../imageplacement/) Objekt bietet Zugriff auf die Eigenschaften der Bildplatzierung: Abmessungen, Auflösung usw. Die positive Bildrotation erfolgt gegen den Uhrzeigersinn, für die Seite im Uhrzeigersinn. Hier müssen wir den Rotationswinkel des Bildes darstellen, daher ziehen wir den Seitenwinkel vom Bildwinkel ab.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie Sie Bilder auf der ersten PDF-Dokumentseite finden und die Bildplatzierungseigenschaften erhalten.
+Das Beispiel zeigt, wie man Bilder auf der ersten Seite des PDF-Dokuments findet und die Eigenschaften der Bildplatzierung erhält.
 
 ```csharp
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ImagePlacementAbsorber-Objekt erstellen, um die Bildplatzierungssuche durchzuführen
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Eigenschaften der Bildplatzierung für alle Platzierungen anzeigen
+// Display image placement properties for all placements
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {     
     Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
@@ -66,7 +66,5 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

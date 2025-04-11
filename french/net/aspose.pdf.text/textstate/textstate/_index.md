@@ -1,7 +1,7 @@
 ---
-title: TextState
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Crée un objet détat de texte.
+title: TextState.TextState
+second_title: Aspose.PDF for .NET API Reference
+description: Constructeur TextState. Crée un objet d'état de texte
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textstate/textstate/
@@ -14,134 +14,132 @@ Crée un objet d'état de texte.
 public TextState()
 ```
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(double) {#constructor_1}
 
-Crée un objet d'état de texte avec une spécification de taille de police.
+Crée un objet d'état de texte avec spécification de la taille de police.
 
 ```csharp
 public TextState(double fontSize)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontSize | Double | Taille de police. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(Color) {#constructor_2}
 
-Crée un objet d'état de texte avec une spécification de couleur de premier plan.
+Crée un objet d'état de texte avec spécification de la couleur de premier plan.
 
 ```csharp
 public TextState(Color foregroundColor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | foregroundColor | Color | Couleur de premier plan. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(Color, double) {#constructor_3}
 
-Crée un objet d'état de texte avec une couleur de premier plan et une spécification de taille de police.
+Crée un objet d'état de texte avec spécification de la couleur de premier plan et de la taille de police.
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | foregroundColor | Color | Couleur de premier plan. |
 | fontSize | Double | Taille de police. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string) {#constructor_4}
 
-Crée un objet d'état de texte avec la spécification de la famille de polices.
+Crée un objet d'état de texte avec spécification de la famille de polices.
 
 ```csharp
 public TextState(string fontFamily)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontFamily | String | Famille de polices. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Crée un objet d'état de texte avec une famille de polices et une spécification de style de police.
+Crée un objet d'état de texte avec spécification de la famille de polices et du style de police.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontFamily | String | Famille de polices. |
 | bold | Boolean | Style de police gras. |
 | italic | Boolean | Style de police italique. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, double) {#constructor_6}
 
-Crée un objet d'état de texte avec une famille de polices et une spécification de taille de police.
+Crée un objet d'état de texte avec spécification de la famille de polices et de la taille de police.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontFamily | String | Famille de polices. |
 | fontSize | Double | Taille de police. |
 
-### Voir également
+### Voir aussi
 
-* class [TextState](../../textstate)
-* espace de noms [Aspose.Pdf.Text](../../textstate)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [TextState](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

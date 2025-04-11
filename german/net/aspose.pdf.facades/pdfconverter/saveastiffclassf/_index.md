@@ -1,14 +1,14 @@
 ---
-title: SaveAsTIFFClassF
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einer einzigen TIFF-ClassF-Datei.
+title: PdfConverter.SaveAsTIFFClassF
+second_title: Aspose.PDF for .NET API Reference
+description: PdfConverter-Methode. Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einer einzelnen TIFF ClassF-Datei
 type: docs
 weight: 170
 url: /de/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
 ---
 ## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf_5}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einer einzigen TIFF-ClassF-Datei.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einer einzelnen TIFF ClassF-Datei.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
@@ -16,11 +16,11 @@ public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Stream zum Speichern des TIFF-Bilds. |
+| outputFile | String | Der Stream, um das TIFF-Bild zu speichern. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -38,15 +38,15 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_4}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einer einzigen TIFF-ClassF-Datei.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einer einzelnen TIFF ClassF-Datei.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
@@ -54,21 +54,21 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Stream zum Speichern des TIFF-Bilds. |
+| outputFile | String | Der Stream, um das TIFF-Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einem einzigen TIFF ClassF-Stream.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einem einzelnen TIFF ClassF-Stream.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
@@ -76,21 +76,21 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des TIFF-Bilds. |
+| outputStream | Stream | Der Stream, um das TIFF-Bild zu speichern. |
 | imageWidth | Int32 | Die Bildbreite, die Einheit ist Pixel. |
 | imageHeight | Int32 | Die Bildhöhe, die Einheit ist Pixel. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_1}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einem einzigen TIFF ClassF-Stream.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einem einzelnen TIFF ClassF-Stream.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
@@ -98,21 +98,21 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des TIFF-Bilds. |
+| outputStream | Stream | Der Stream, um das TIFF-Bild zu speichern. |
 | pageSize | PageSize | Die Seitengröße des Bildes. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(string) {#saveastiffclassf_3}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einer einzigen TIFF-ClassF-Datei.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einer einzelnen TIFF ClassF-Datei.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile)
@@ -120,9 +120,9 @@ public void SaveAsTIFFClassF(string outputFile)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputFile | String | Der Stream zum Speichern des TIFF-Bilds. |
+| outputFile | String | Der Stream, um das TIFF-Bild zu speichern. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -140,15 +140,15 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream) {#saveastiffclassf}
 
-Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert Bilder in einem einzigen TIFF ClassF-Stream.
+Konvertiert jede Seite eines PDF-Dokuments in Bilder und speichert die Bilder in einem einzelnen TIFF ClassF-Stream.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream)
@@ -156,12 +156,10 @@ public void SaveAsTIFFClassF(Stream outputStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStream | Stream | Der Stream zum Speichern des TIFF-Bilds. |
+| outputStream | Stream | Der Stream, um das TIFF-Bild zu speichern. |
 
 ### Siehe auch
 
-* class [PdfConverter](../../pdfconverter)
-* namensraum [Aspose.Pdf.Facades](../../pdfconverter)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfConverter](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

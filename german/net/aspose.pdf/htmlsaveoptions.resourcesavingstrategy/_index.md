@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.ResourceSavingStrategy
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Dieser Eigenschaft können Sie einen Delegaten zuweisen der aus einer benutzerdefinierten Methode erstellt wurde die die Verarbeitung von einer externen Ressource Schriftart oder Bild implementiert die aus PDF extrahiert wurde und während der Konvertierung von PDF in HTML als externe Ressource gespeichert werden muss. In diesem Fall wird die Verarbeitung  wie das Speichern im Stream oder auf der Festplatte kann in diesem benutzerdefinierten Code erfolgen und dieser benutzerdefinierte Code muss den Pfad oder eine andere Zeichenfolge ohne Anführungszeichen zurückgeben der anschließend in das generierte HTML anstelle des ursprünglich angenommenen Pfads zu dieser Bildressource eingefügt wird. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Bildes im Code der bereitgestellten Methode durchgeführt werden da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diese oder jene Datei aus irgendeinem Grund durch den Code des Konverters selbst und nicht im benutzerdefinierten Code erfolgen muss setzen Sie bitte im benutzerdefinierten Code das Flag CustomProcessingCancelled der Variablen des resourceSavingInfo-Parameters Es signalisiert dem Konverter dass alle notwendigen Schritte für Die Verarbeitung dieser Ressource muss im Konverter selbst erfolgen als gäbe es keinen externen benutzerdefinierten Code .
+title: Delegate HtmlSaveOptions.ResourceSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Dieser Eigenschaft können Sie einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung von externen Ressourcen (Schriftart oder Bild), die aus PDF extrahiert wurden und während der Konvertierung von PDF zu HTML als externe Ressource gespeichert werden müssen, implementiert. In diesem Fall kann die Verarbeitung (wie das Speichern im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen, und dieser benutzerdefinierte Code muss einen Pfad (oder einen anderen String ohne Anführungszeichen) zurückgeben, der anschließend in das generierte HTML anstelle des ursprünglich vorgesehenen Pfades zu dieser Bildressource integriert wird. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Bildes im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diese oder jene Datei aus irgendeinem Grund vom Code des Konverters selbst und nicht im benutzerdefinierten Code durchgeführt werden muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen 'resourceSavingInfo' Parameter. Es signalisiert dem Konverter, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Code gäbe.
 type: docs
-weight: 3600
+weight: 5730
 url: /de/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/
 ---
-## HtmlSaveOptions.ResourceSavingStrategy delegate
+## HtmlSaveOptions.ResourceSavingStrategy Delegat
 
-Dieser Eigenschaft können Sie einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung von einer externen Ressource (Schriftart oder Bild) implementiert, die aus PDF extrahiert wurde und während der Konvertierung von PDF in HTML als externe Ressource gespeichert werden muss. In diesem Fall wird die Verarbeitung ( wie das Speichern im Stream oder auf der Festplatte) kann in diesem benutzerdefinierten Code erfolgen, und dieser benutzerdefinierte Code muss den Pfad (oder eine andere Zeichenfolge ohne Anführungszeichen) zurückgeben, der anschließend in das generierte HTML anstelle des ursprünglich angenommenen Pfads zu dieser Bildressource eingefügt wird. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Bildes im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diese oder jene Datei aus irgendeinem Grund durch den Code des Konverters selbst und nicht im benutzerdefinierten Code erfolgen muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen des 'resourceSavingInfo'-Parameters Es signalisiert dem Konverter, dass alle notwendigen Schritte für Die Verarbeitung dieser Ressource muss im Konverter selbst erfolgen, als gäbe es keinen externen benutzerdefinierten Code .
+Dieser Eigenschaft können Sie einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung von externen Ressourcen (Schriftart oder Bild), die aus PDF extrahiert wurden und während der Konvertierung von PDF zu HTML als externe Ressource gespeichert werden müssen, implementiert. In diesem Fall kann die Verarbeitung (wie das Speichern im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen, und dieser benutzerdefinierte Code muss einen Pfad (oder einen anderen String ohne Anführungszeichen) zurückgeben, der anschließend in das generierte HTML anstelle des ursprünglich vorgesehenen Pfades zu dieser Bildressource integriert wird. In diesem Fall müssen alle notwendigen Aktionen zum Speichern des Bildes im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diese oder jene Datei aus irgendeinem Grund vom Code des Konverters selbst und nicht im benutzerdefinierten Code durchgeführt werden muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen 'resourceSavingInfo' Parameter. Es signalisiert dem Konverter, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Code gäbe.
 
 ```csharp
 public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingInfo);
@@ -16,17 +16,15 @@ public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingI
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| resourceSavingInfo | ResourceSavingInfo | stellt einen Datensatz zum Einsparen von Ressourcen dar |
+| resourceSavingInfo | ResourceSavingInfo | stellt eine Menge von Daten zum Speichern der Ressource dar |
 
 ### Rückgabewert
 
-muss URL zu gespeicherter Ressource zurückgeben, die während der Generierung von HTML verwendet wird
+muss die URL zur gespeicherten Ressource zurückgeben, die während der Generierung von HTML verwendet wird
 
 ### Siehe auch
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* Klasse [HtmlSaveOptions](../htmlsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

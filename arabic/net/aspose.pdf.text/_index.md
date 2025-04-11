@@ -1,78 +1,79 @@
 ---
 title: Aspose.Pdf.Text
-second_title: Aspose.PDF لمرجع .NET API
-description: ملف Aspose.Pdf.Textتوفر مساحة الاسم فئات تسمح باستخراج النص وإضافة نص ومعالجة نص موجود من المستند. يحتوي أيضًا على فئات تسمح باستخراج خطوط المستند واستبدالها واستبدالها.
+second_title: Aspose.PDF for .NET API Reference
+description: يوفر مساحة أسماء Aspose.Pdf.Text فئات تسمح باستخراج النص وإضافة نص والتلاعب بالنص الموجود في مستند. كما تحتوي أيضًا على فئات تسمح باستخراج واستبدال واستبدال الخطوط في مستند.
 type: docs
-weight: 190
+weight: 260
 url: /ar/net/aspose.pdf.text/
 ---
-ملف **Aspose.Pdf.Text**توفر مساحة الاسم فئات تسمح باستخراج النص وإضافة نص ومعالجة نص موجود من المستند. يحتوي أيضًا على فئات تسمح باستخراج خطوط المستند واستبدالها واستبدالها.
+تقدم مساحة أسماء **Aspose.Pdf.Text** فئات تسمح باستخراج النص، إضافة نص، التلاعب بالنص الموجود في مستند. كما تحتوي أيضًا على فئات تسمح باستخراج واستبدال واستبدال الخطوط في مستند.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [AbsorbedCell](./absorbedcell) | يمثل خلية الجدول الموجودة في الصفحة |
-| [AbsorbedRow](./absorbedrow) | يمثل صف الجدول الموجود بالصفحة |
-| [AbsorbedTable](./absorbedtable) | يمثل الجدول الموجود بالصفحة |
-| [CharInfo](./charinfo) | يمثل كائن معلومات شخصية . يوفر معلومات عن موضع الحرف. |
-| [CharInfoCollection](./charinfocollection) | يمثل مجموعة كائنات CharInfo. |
-| [CustomFontSubstitutionBase](./customfontsubstitutionbase) | يمثل فئة أساسية لاستراتيجية استبدال الخط المخصص. |
-| [FileFontSource](./filefontsource) | يمثل مصدر ملف خط واحد. |
-| [FolderFontSource](./folderfontsource) | يمثل المجلد الذي يحتوي على ملفات الخطوط. |
-| [Font](./font) | يمثل كائن الخط . |
-| [FontAbsorber](./fontabsorber) | يمثل كائنًا ممتصًا للخطوط. يقوم بالبحث عن الخطوط ويوفر الوصول إلى نتائج البحث عبر[`Fonts`](../aspose.pdf.text/fontabsorber/fonts) جمع . |
-| [FontCollection](./fontcollection) | يمثل مجموعة الخطوط . |
-| [FontRepository](./fontrepository) | يقوم بالبحث عن الخط. البحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. يوفر أيضًا وظائف لفتح الخطوط المخصصة. |
-| [FontSource](./fontsource) | يمثل فئة أساسية لمصدر خط fot. |
-| [FontSourceCollection](./fontsourcecollection) | يمثل مجموعة مصادر الخطوط . |
-| [FontSubstitution](./fontsubstitution) | يمثل فئة أساسية لاستراتيجيات استبدال الخطوط. |
-| [FontSubstitutionCollection](./fontsubstitutioncollection) | يمثل مجموعة استراتيجيات استبدال الخطوط. |
-| [MarkupParagraph](./markupparagraph) | يمثل فقرة . |
-| [MarkupSection](./markupsection) | يمثل قسم الترميز - المنطقة المستطيلة للصفحة التي تحتوي على نص ويمكن تقسيمها بصريًا من كتل نصية أخرى. |
-| [MemoryFontSource](./memoryfontsource) | يمثل مصدر ملف خط واحد. |
-| [PageMarkup](./pagemarkup) | ترميز الصفحة يمثله مجموعات من[`MarkupSection`](../aspose.pdf.text/markupsection) و[`MarkupParagraph`](../aspose.pdf.text/markupparagraph) . |
-| [ParagraphAbsorber](./paragraphabsorber) | يمثل كائنًا ماصًا لكائنات بنية الصفحة مثل الأقسام والفقرات. يقوم بالبحث عن أقسام وفقرات من النص ويوفر الوصول إلى المستطيلات والأشكال المتعددة التي تصفها في مساحة إحداثيات النص. يقوم أيضًا بإجراء بحث عن مقاطع نصية ويوفر الوصول إلى نتائج البحث عبر!:TextFragments مجموعات مجمعة حسب عناصر الهيكل. |
-| [Position](./position) | يمثل موضع الكائن |
-| [SimpleFontSubstitution](./simplefontsubstitution) | يمثل فئة لاستراتيجية استبدال الخط البسيط. |
-| [SystemFontSource](./systemfontsource) | يمثل جميع الخطوط المثبتة على النظام. |
-| [SystemFontsSubstitution](./systemfontssubstitution) | يمثل فئة لاستراتيجية استبدال الخطوط التي تستبدل الخطوط بخطوط النظام. |
-| [TableAbsorber](./tableabsorber) | يمثل كائن ممتص لعناصر الجدول. يقوم بالبحث ويوفر الوصول إلى نتائج البحث عبر[`TableList`](../aspose.pdf.text/tableabsorber/tablelist) جمع . |
-| [TabStop](./tabstop) | يمثل موضع توقف علامة تبويب مخصص في فقرة. |
-| [TabStops](./tabstops) | يمثل مجموعة من[`TabStop`](../aspose.pdf.text/tabstop) الكائنات . |
-| [TextAbsorber](./textabsorber) | يمثل كائنًا ممتصًا للنص. يقوم باستخراج النص ويوفر الوصول إلى النتيجة عبر[`Text`](../aspose.pdf.text/textabsorber/text) الكائن . |
-| [TextBuilder](./textbuilder) | إلحاق كائن نص بصفحة Pdf . |
-| [TextEditOptions](./texteditoptions) | Descubes خيارات عمليات تحرير النص. |
-| [TextExtractionError](./textextractionerror) | يصف خطأ استخراج النص الذي ظهر في مستند PDF. |
-| [TextExtractionErrorLocation](./textextractionerrorlocation) | يمثل الموقع في مستند PDF حيث ظهر خطأ في استخراج النص. |
-| [TextExtractionOptions](./textextractionoptions) | يمثل خيارات استخراج النص |
-| [TextFormattingOptions](./textformattingoptions) | يمثل خيارات تنسيق النص |
-| [TextFragment](./textfragment) | يمثل جزءًا من نص Pdf. |
-| [TextFragmentAbsorber](./textfragmentabsorber) | يمثل كائن ممتص لأجزاء النص. يقوم بالبحث عن النص ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../aspose.pdf.text/textfragmentabsorber/textfragments) جمع . |
-| [TextFragmentCollection](./textfragmentcollection) | يمثل مجموعة أجزاء النص |
-| [TextFragmentState](./textfragmentstate) | يمثل حالة نصية لجزء نصي. |
-| [TextOptions](./textoptions) | يمثل خيارات معالجة النص |
-| [TextParagraph](./textparagraph) | يمثل فقرات نصية ككائن نص متعدد الأسطر. |
-| [TextReplaceOptions](./textreplaceoptions) | نص يمثل استبدال options |
-| [TextSearchOptions](./textsearchoptions) | يمثل خيارات البحث عن النص |
-| [TextSegment](./textsegment) | يمثل مقطعًا من نص ملف PDF . |
-| [TextSegmentCollection](./textsegmentcollection) | يمثل مجموعة مقاطع نصية |
-| [TextState](./textstate) | يمثل حالة نصية لـ text |
-## واجهات
+| [AbsorbedCell](./absorbedcell/) | تمثل خلية من جدول موجود على الصفحة |
+| [AbsorbedRow](./absorbedrow/) | تمثل صفًا من جدول موجود على الصفحة |
+| [AbsorbedTable](./absorbedtable/) | تمثل جدولًا موجودًا على الصفحة |
+| [CharInfo](./charinfo/) | تمثل كائن معلومات حرف. توفر معلومات عن موضع الحرف. |
+| [CharInfoCollection](./charinfocollection/) | تمثل مجموعة كائنات CharInfo. |
+| [CustomFontSubstitutionBase](./customfontsubstitutionbase/) | تمثل فئة أساسية لاستراتيجية استبدال الخطوط المخصصة. |
+| [FileFontSource](./filefontsource/) | تمثل مصدر ملف خط واحد. |
+| [FolderFontSource](./folderfontsource/) | تمثل المجلد الذي يحتوي على ملفات الخطوط. |
+| [Font](./font/) | تمثل كائن الخط. |
+| [FontAbsorber](./fontabsorber/) | تمثل كائن ماص للخطوط. تقوم بالبحث عن الخطوط وتوفر الوصول إلى نتائج البحث عبر مجموعة [`Fonts`](../aspose.pdf.text/fontabsorber/fonts/). |
+| [FontCollection](./fontcollection/) | تمثل مجموعة الخطوط. |
+| [FontRepository](./fontrepository/) | تقوم بالبحث عن الخطوط. تبحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. كما توفر وظيفة لفتح الخطوط المخصصة. |
+| [FontSource](./fontsource/) | تمثل فئة أساسية لمصدر الخط. |
+| [FontSourceCollection](./fontsourcecollection/) | تمثل مجموعة مصادر الخطوط. |
+| [FontSubstitution](./fontsubstitution/) | تمثل فئة أساسية لاستراتيجيات استبدال الخطوط. |
+| [FontSubstitutionCollection](./fontsubstitutioncollection/) | تمثل مجموعة استراتيجيات استبدال الخطوط. |
+| [MarkupParagraph](./markupparagraph/) | تمثل فقرة. |
+| [MarkupSection](./markupsection/) | تمثل قسمًا من التعليمات البرمجية - المنطقة المستطيلة من الصفحة التي تحتوي على نص ويمكن تقسيمها بصريًا عن كتل نصية أخرى. |
+| [MemoryFontSource](./memoryfontsource/) | تمثل مصدر ملف خط واحد. |
+| [PageMarkup](./pagemarkup/) | تمثل تعليمات الصفحة بواسطة مجموعات من [`MarkupSection`](../aspose.pdf.text/markupsection/) و[`MarkupParagraph`](../aspose.pdf.text/markupparagraph/). |
+| [ParagraphAbsorber](./paragraphabsorber/) | تمثل كائن ماص لكائنات هيكل الصفحة مثل الأقسام والفقرات. تقوم بالبحث عن الأقسام والفقرات النصية وتوفر الوصول إلى المستطيلات والبوليغونات التي تصفها في فضاء إحداثيات النص. كما تقوم بالبحث عن مقاطع النص وتوفر الوصول إلى نتائج البحث عبر مجموعات !:TextFragments المجمعة حسب عناصر الهيكل. |
+| [ParagraphAbsorberOptions](./paragraphabsorberoptions/) | تمثل خيارات لـ [`ParagraphAbsorber`](../aspose.pdf.text/paragraphabsorber/). |
+| [Position](./position/) | تمثل كائن موضع |
+| [RegexManager](./regexmanager/) | توفر غلافًا لعمليات التعبير العادي مع إعدادات مهلة قابلة للتكوين. |
+| [SimpleFontSubstitution](./simplefontsubstitution/) | تمثل فئة لاستراتيجية استبدال الخطوط البسيطة. |
+| [SystemFontSource](./systemfontsource/) | تمثل جميع الخطوط المثبتة على النظام. |
+| [SystemFontsSubstitution](./systemfontssubstitution/) | تمثل فئة لاستراتيجية استبدال الخطوط التي تستبدل الخطوط بخطوط النظام. |
+| [TableAbsorber](./tableabsorber/) | تمثل كائن ماص لعناصر الجدول. تقوم بالبحث وتوفر الوصول إلى نتائج البحث عبر مجموعة [`TableList`](../aspose.pdf.text/tableabsorber/tablelist/). |
+| [TabStop](./tabstop/) | تمثل موضع توقف علامة مخصص في فقرة. |
+| [TabStops](./tabstops/) | تمثل مجموعة من كائنات [`TabStop`](../aspose.pdf.text/tabstop/). |
+| [TextAbsorber](./textabsorber/) | تمثل كائن ماص للنص. تقوم باستخراج النص وتوفر الوصول إلى النتيجة عبر كائن [`Text`](../aspose.pdf.text/textabsorber/text/). |
+| [TextBuilder](./textbuilder/) | تضيف كائن نص إلى صفحة Pdf. |
+| [TextEditOptions](./texteditoptions/) | تصف خيارات عمليات تحرير النص. |
+| [TextExtractionError](./textextractionerror/) | تصف خطأ استخراج النص الذي حدث في مستند PDF. |
+| [TextExtractionErrorLocation](./textextractionerrorlocation/) | تمثل الموقع في مستند PDF حيث حدث خطأ استخراج النص. |
+| [TextExtractionOptions](./textextractionoptions/) | تمثل خيارات استخراج النص |
+| [TextFormattingOptions](./textformattingoptions/) | تمثل خيارات تنسيق النص |
+| [TextFragment](./textfragment/) | تمثل جزءًا من نص Pdf. |
+| [TextFragmentAbsorber](./textfragmentabsorber/) | تمثل كائن ماص لقطع النص. تقوم بالبحث عن النص وتوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../aspose.pdf.text/textfragmentabsorber/textfragments/). |
+| [TextFragmentCollection](./textfragmentcollection/) | تمثل مجموعة قطع النص |
+| [TextFragmentState](./textfragmentstate/) | تمثل حالة نص لجزء نص. |
+| [TextOptions](./textoptions/) | تمثل خيارات معالجة النص |
+| [TextParagraph](./textparagraph/) | تمثل فقرات النص ككائن نص متعدد الأسطر. |
+| [TextReplaceOptions](./textreplaceoptions/) | تمثل خيارات استبدال النص |
+| [TextSearchOptions](./textsearchoptions/) | تمثل خيارات بحث النص |
+| [TextSegment](./textsegment/) | تمثل جزءًا من نص Pdf. |
+| [TextSegmentCollection](./textsegmentcollection/) | تمثل مجموعة مقاطع النص |
+| [TextState](./textstate/) | تمثل حالة نص لنص |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [IFontOptions](./ifontoptions) | خصائص مفيدة لضبط سلوك الخط |
-| [ITableElement](./itableelement) | تمثل هذه الواجهة عنصرًا في الجدول الحالي تم استخراجه بواسطة TableAbsorber. |
-## تعداد
+| [IFontOptions](./ifontoptions/) | خصائص مفيدة لضبط سلوك الخط |
+| [ITableElement](./itableelement/) | تمثل هذه الواجهة عنصرًا من جدول موجود تم استخراجه بواسطة TableAbsorber. |
+## التعداد
 
-| تعداد | وصف |
+| التعداد | الوصف |
 | --- | --- |
-| [FontStyles](./fontstyles) | تحديد معلومات النمط المطبقة على النص . |
-| [FontTypes](./fonttypes) | تعداد أنواع الخطوط المدعومة . |
-| [SubstitutionFontCategories](./substitutionfontcategories) | يمثل فئات الخطوط التي يمكن استبدالها. |
-| [TabAlignmentType](./tabalignmenttype) | تعداد أنواع محاذاة علامة التبويب . |
-| [TabLeaderType](./tableadertype) | تعداد أنواع قائد علامة التبويب . |
-| [TextRenderingMode](./textrenderingmode) | وضع عرض النص ، Tmode ، يحدد ما إذا كان عرض النص سيتسبب في الحد من الخطوط العريضة للحروف الرسومية ، أو تعبئتها ، أو استخدامها كحدود قطع ، أو مزيج من الثلاثة. |
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+| [CoordinateOrigin](./coordinateorigin/) | تعداد أصل إحداثيات النص. |
+| [FontStyles](./fontstyles/) | تحدد معلومات النمط المطبقة على النص. |
+| [FontTypes](./fonttypes/) | تعداد أنواع الخطوط المدعومة. |
+| [SubstitutionFontCategories](./substitutionfontcategories/) | تمثل فئات الخطوط التي يمكن استبدالها. |
+| [TabAlignmentType](./tabalignmenttype/) | تعدد أنواع محاذاة التوقف. |
+| [TabLeaderType](./tableadertype/) | تعدد أنواع قائد التوقف. |
+| [TextRenderingMode](./textrenderingmode/) | وضع عرض النص، Tmode، يحدد ما إذا كان عرض النص يجب أن يتسبب في رسم حدود الرموز، أو ملؤها، أو استخدامها كحدود قص، أو بعض التركيبات من الثلاثة. |

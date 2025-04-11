@@ -1,214 +1,186 @@
 ---
-title: Save
-second_title: Aspose.PDF لمرجع .NET API
-description: احفظ المستند بشكل متزايد أي باستخدام تقنية التحديث المتزايد .
+title: Document.Save
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة الوثيقة. تخزن الوثيقة في الدفق
 type: docs
-weight: 720
+weight: 830
 url: /ar/net/aspose.pdf/document/save/
 ---
-## Save() {#save}
-
-احفظ المستند بشكل متزايد (أي باستخدام تقنية التحديث المتزايد) .
-
-```csharp
-public void Save()
-```
-
-### ملاحظات
-
-من أجل حفظ المستند بشكل متزايد ، يجب فتح ملف المستند للكتابة. لذلك يجب تهيئة المستند بدفق قابل للكتابة كما هو الحال في مقتطف الكود التالي: مستند doc = مستند جديد (ملف جديد ("document.pdf" ، FileMode.Open ، FileAccess.ReadWrite)) // قم بإجراء بعض التغييرات وحفظها المستند تزايديًا doc.Save ()
-
-### أنظر أيضا
-
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(SaveOptions) {#save_1}
-
-يحفظ المستند مع خيارات الحفظ .
-
-```csharp
-public void Save(SaveOptions options)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| options | SaveOptions | حفظ الخيارات. |
-
-### أنظر أيضا
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(string, SaveFormat) {#save_6}
-
-يحفظ المستند باسم جديد مع تنسيق ملف.
-
-```csharp
-public void Save(string outputFileName, SaveFormat format)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| outputFileName | String | مسار الملف حيث سيتم تخزين المستند. |
-| format | SaveFormat | خيارات التنسيق. |
-
-### أنظر أيضا
-
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(Stream, SaveFormat) {#save_3}
-
-يحفظ المستند باسم جديد مع تنسيق ملف.
-
-```csharp
-public void Save(Stream outputStream, SaveFormat format)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| outputStream | Stream | دفق حيث سيتم تخزين المستند. |
-| format | SaveFormat | خيارات التنسيق. |
-
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentException | ArgumentException متى[`HtmlSaveOptions`](../../htmlsaveoptions) يتم تمريره إلى طريقة. حفظ مستند إلى دفق html غير مدعوم. الرجاء استخدام طريقة الحفظ في الملف. |
-
-### أنظر أيضا
-
-* enum [SaveFormat](../../saveformat)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(string, SaveOptions) {#save_7}
-
-يحفظ المستند باسم جديد ويضبط خيارات الحفظ الخاصة به.
-
-```csharp
-public void Save(string outputFileName, SaveOptions options)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| outputFileName | String | مسار الملف حيث سيتم تخزين المستند. |
-| options | SaveOptions | حفظ الخيارات. |
-
-### أنظر أيضا
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(Stream, SaveOptions) {#save_4}
-
-يحفظ المستند في دفق مع خيارات الحفظ .
-
-```csharp
-public void Save(Stream outputStream, SaveOptions options)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| outputStream | Stream | دفق حيث سيتم تخزين المستند. |
-| options | SaveOptions | حفظ الخيارات. |
-
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentException | ArgumentException متى[`HtmlSaveOptions`](../../htmlsaveoptions) يتم تمريره إلى طريقة. حفظ مستند إلى دفق html غير مدعوم. الرجاء استخدام طريقة الحفظ في الملف. |
-
-### أنظر أيضا
-
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
-
-يحفظ المستند في تدفق استجابة مع خيارات الحفظ.
-
-```csharp
-public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
-    SaveOptions options)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| response | HttpResponse | يغلف معلومات استجابة HTTP. |
-| outputFileName | String | اسم ملف بسيط ، أي بدون مسار. |
-| disposition | ContentDisposition | يمثل عنوان ترتيب محتوى بروتوكول MIME. |
-| options | SaveOptions | حفظ الخيارات. |
-
-### أنظر أيضا
-
-* enum [ContentDisposition](../../contentdisposition)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
 ## Save(Stream) {#save_2}
 
-يخزن المستند في التدفق .
+تخزن الوثيقة في الدفق.
 
 ```csharp
 public void Save(Stream output)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| output | Stream | دفق حيث يتم تخزين غلاف المستند. |
+| output | Stream | الدفق الذي ستخزن فيه الوثيقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(string) {#save_5}
 
-يحفظ المستند في الملف المحدد.
+تخزن الوثيقة في الملف المحدد.
 
 ```csharp
 public void Save(string outputFileName)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFileName | String | مسار الملف حيث سيتم تخزين المستند. |
+| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Save() {#save}
+
+تخزن الوثيقة بشكل تدريجي (أي باستخدام تقنية التحديث التدريجي).
+
+```csharp
+public void Save()
+```
+
+## ملاحظات
+
+من أجل تخزين الوثيقة بشكل تدريجي، يجب علينا فتح ملف الوثيقة للكتابة. لذلك يجب تهيئة Document مع دفق قابل للكتابة كما في مقتطف الكود التالي: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // إجراء بعض التغييرات وتخزين الوثيقة بشكل تدريجي doc.Save();
+
+### انظر أيضًا
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(SaveOptions) {#save_1}
+
+تخزن الوثيقة مع خيارات الحفظ.
+
+```csharp
+public void Save(SaveOptions options)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| options | SaveOptions | خيارات الحفظ. |
+
+### انظر أيضًا
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, SaveFormat) {#save_6}
+
+تخزن الوثيقة باسم جديد مع تنسيق ملف.
+
+```csharp
+public void Save(string outputFileName, SaveFormat format)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
+| format | SaveFormat | خيارات التنسيق. |
+
+### انظر أيضًا
+
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream, SaveFormat) {#save_3}
+
+تخزن الوثيقة باسم جديد مع تنسيق ملف.
+
+```csharp
+public void Save(Stream outputStream, SaveFormat format)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| outputStream | Stream | الدفق الذي ستخزن فيه الوثيقة. |
+| format | SaveFormat | خيارات التنسيق. |
+
+### الاستثناءات
+
+| الاستثناء | الشرط |
+| --- | --- |
+| ArgumentException | ArgumentException عند تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ الوثيقة إلى دفق html غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
+
+### انظر أيضًا
+
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_7}
+
+تخزن الوثيقة باسم جديد مع تعيين خيارات الحفظ الخاصة بها.
+
+```csharp
+public void Save(string outputFileName, SaveOptions options)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| outputFileName | String | مسار الملف الذي ستخزن فيه الوثيقة. |
+| options | SaveOptions | خيارات الحفظ. |
+
+### انظر أيضًا
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_4}
+
+تخزن الوثيقة إلى دفق مع خيارات الحفظ.
+
+```csharp
+public void Save(Stream outputStream, SaveOptions options)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| outputStream | Stream | الدفق الذي ستخزن فيه الوثيقة. |
+| options | SaveOptions | خيارات الحفظ. |
+
+### الاستثناءات
+
+| الاستثناء | الشرط |
+| --- | --- |
+| ArgumentException | ArgumentException عند تمرير [`HtmlSaveOptions`](../../htmlsaveoptions/) إلى طريقة. حفظ الوثيقة إلى دفق html غير مدعوم. يرجى استخدام طريقة الحفظ إلى الملف. |
+
+### انظر أيضًا
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

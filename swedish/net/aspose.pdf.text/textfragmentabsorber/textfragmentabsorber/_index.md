@@ -1,61 +1,61 @@
 ---
-title: TextFragmentAbsorber
-second_title: Aspose.PDF för .NET API Referens
-description: Initierar en ny instans avTextFragmentAbsorberaspose.pdf.text/textfragmentabsorber som utför sökning av alla textsegment i dokumentet eller sidan.
+title: TextFragmentAbsorber.TextFragmentAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: TextFragmentAbsorber-konstruktör. Initierar en ny instans av TextFragmentAbsorber som utför sökning av alla textsegment i dokumentet eller sidan
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) som utför sökning av alla textsegment i dokumentet eller sidan.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) som utför sökning av alla textsegment i dokumentet eller sidan.
 
 ```csharp
 public TextFragmentAbsorber()
 ```
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text på den första PDF-dokumentsidan och ersätter texten.
+Exemplet visar hur man hittar text på den första PDF-dokument sidan och ersätter texten.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Hitta teckensnitt som kommer att användas för att ändra teckensnitt för dokumenttext
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Skapa TextFragmentAbsorber-objekt
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// Få absorbern att söka efter alla "hej världen" textförekomster
+// Make the absorber to search all "hello world" text occurrences
 absorber.Phrase = "hello world";
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra text för den första textförekomsten
+// Change text of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber)med textredigeringsalternativ, som utför sökning av alla textsegment i dokumentet eller sidan.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) med textredigeringsalternativ, som utför sökning av alla textsegment i dokumentet eller sidan.
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
@@ -63,51 +63,51 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textEditOptions | TextEditOptions | Alternativ för textredigering (gör det möjligt att aktivera vissa redigeringsfunktioner). |
+| textEditOptions | TextEditOptions | Textredigeringsalternativ (Möjliggör aktivering av vissa redigeringsfunktioner). |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar alla textfragment på den första PDF-dokumentsidan och ersätter teckensnitt för dem.
+Exemplet visar hur man hittar alla textfragment på den första PDF-dokument sidan och ersätter typsnittet för dem.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace.RemoveUnusedFonts));
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Hitta Courier teckensnitt
+// Find Courier font
 Pdf.Text.Font font = FontRepository.FindFont("Courier");
 
-// Ställ in typsnittet för alla textfragment
+// Set the font for all the text fragments
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.TextState.Font = font;
 }
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextEditOptions](../../texteditoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string) {#constructor_2}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för den angivna textfrasen.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen.
 
 ```csharp
 public TextFragmentAbsorber(string phrase)
@@ -115,48 +115,48 @@ public TextFragmentAbsorber(string phrase)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| phrase | String | Fras att[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
+| phrase | String | Fras som [`TextFragmentAbsorber`](../) söker |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text på den första PDF-dokumentsidan och ersätter texten och dess teckensnitt.
+Exemplet visar hur man hittar text på den första PDF-dokument sidan och ersätter texten och dess typsnitt.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Hitta teckensnitt som kommer att användas för att ändra teckensnitt för dokumenttext
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra text och teckensnitt för den första textförekomsten
+// Change text and font of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex) {#constructor_6}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för det angivna System.Text.RegularExpressions.Regex klassobjektet.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för det angivna System.Text.RegularExpressions.Regex klassobjektet.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex)
@@ -164,48 +164,48 @@ public TextFragmentAbsorber(Regex regex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
+| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som [`TextFragmentAbsorber`](../) söker |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text på den första PDF-dokumentsidan och ersätter texten och dess teckensnitt.
+Exemplet visar hur man hittar text på den första PDF-dokument sidan och ersätter texten och dess typsnitt.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Hitta teckensnitt som kommer att användas för att ändra teckensnitt för dokumenttext
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Skapa TextAbsorber-objekt för att hitta alla instanser av indataregexet
+// Create TextAbsorber object to find all instances of the input regex
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"));
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// vi borde hitta ordet "hej" och ersätta det med "Hej"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions) {#constructor_4}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber)klass för den angivna textfrasen och textsökningsalternativ.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen och text sökalternativ.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
@@ -213,44 +213,44 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| phrase | String | Fras att[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
-| textSearchOptions | TextSearchOptions | Textsökningsalternativ (gör att vissa sökfunktioner kan aktiveras. Sök till exempel med reguljärt uttryck) |
+| phrase | String | Fras som [`TextFragmentAbsorber`](../) söker |
+| textSearchOptions | TextSearchOptions | Text sökalternativ (Möjliggör aktivering av vissa sökfunktioner. Till exempel, sök med reguljära uttryck) |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokumentsidan och ersätter texten.
+Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokument sidan och ersätter texten.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt som söker igenom alla ord som börjar med 'h' och slutar 'o' med hjälp av reguljära uttryck.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// vi borde hitta ordet "hej" och ersätta det med "Hej"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
  
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextSearchOptions](../../textsearchoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextSearchOptions) {#constructor_8}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för den angivna textfrasen och textsökningsalternativ.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen och text sökalternativ.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
@@ -258,44 +258,90 @@ public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
-| textSearchOptions | TextSearchOptions | Textsökningsalternativ (gör det möjligt att aktivera vissa sökfunktioner.) |
+| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som [`TextFragmentAbsorber`](../) söker |
+| textSearchOptions | TextSearchOptions | Text sökalternativ (Möjliggör aktivering av vissa sökfunktioner.) |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokumentsidan och ersätter texten.
+Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokument sidan och ersätter texten.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt som söker igenom alla ord som börjar med 'h' och slutar 'o' med hjälp av reguljära uttryck.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"), new TextSearchOptions(true));
 
-// vi borde hitta ordet "hej" och ersätta det med "Hej"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextSearchOptions](../../textsearchoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
+
+---
+
+## TextFragmentAbsorber(Regex[], TextSearchOptions) {#constructor_9}
+
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen och text sökalternativ.
+
+```csharp
+public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| regexes | Regex[] | Array av System.Text.RegularExpressions.Regex klassobjekt som [`TextFragmentAbsorber`](../) söker. |
+| textSearchOptions | TextSearchOptions | Text sökalternativ (Möjliggör aktivering av vissa sökfunktioner.). |
+
+## Kommentarer
+
+Utför textsökning av den angivna arrayen av fraser och ger åtkomst till sökresultat via [`RegexResults`](../regexresults/) ordbok.
+
+## Exempel
+
+Exemplet visar hur man hittar text med array av reguljära uttryck på den första PDF-dokument sidan.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+var regexes = new Regex[]
+{
+new Regex( @"expression1", RegexOptions.IgnoreCase),
+new Regex( @"expression2", RegexOptions.IgnoreCase),
+};
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
+doc.Pages[1].Accept(absorber);
+// Get results of 
+var results = absorber.RegexResults;
+```
+
+### Se Även
+
+* klass [TextSearchOptions](../../textsearchoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för den angivna textfrasen, textsökningsalternativ och textredigeringsalternativ.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen, text sökalternativ och text redigeringsalternativ.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
@@ -304,46 +350,46 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| phrase | String | Fras att[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
-| textSearchOptions | TextSearchOptions | Textsökningsalternativ (gör att vissa sökfunktioner kan aktiveras. Sök till exempel med reguljärt uttryck) |
-| textEditOptions | TextEditOptions | Alternativ för textredigering (gör det möjligt att aktivera vissa redigeringsfunktioner). |
+| phrase | String | Fras som [`TextFragmentAbsorber`](../) söker |
+| textSearchOptions | TextSearchOptions | Text sökalternativ (Möjliggör aktivering av vissa sökfunktioner. Till exempel, sök med reguljära uttryck) |
+| textEditOptions | TextEditOptions | Text redigeringsalternativ (Möjliggör aktivering av vissa redigeringsfunktioner). |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokumentsidan och ersätter texten.
+Exemplet visar hur man hittar text med reguljärt uttryck på den första PDF-dokument sidan och ersätter texten.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt som söker igenom alla ord som börjar med 'h' och slutar 'o' med hjälp av reguljära uttryck.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// vi borde hitta ordet "hej" och ersätta det med "Hej"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se även
+### Se Även
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextSearchOptions](../../textsearchoptions/)
+* klass [TextEditOptions](../../texteditoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för den angivna textfrasen och textredigeringsalternativ.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen och text redigeringsalternativ.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
@@ -351,25 +397,25 @@ public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| phrase | String | Fras att[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
-| textEditOptions | TextEditOptions | Alternativ för textredigering (gör det möjligt att aktivera vissa redigeringsfunktioner). |
+| phrase | String | Fras som [`TextFragmentAbsorber`](../) söker |
+| textEditOptions | TextEditOptions | Text redigeringsalternativ (Möjliggör aktivering av vissa redigeringsfunktioner). |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Se även
+### Se Även
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextEditOptions](../../texteditoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-Initierar en ny instans av[`TextFragmentAbsorber`](../../textfragmentabsorber) klass för den angivna textfrasen och textredigeringsalternativ.
+Initierar en ny instans av [`TextFragmentAbsorber`](../) klassen för den angivna textfrasen och text redigeringsalternativ.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
@@ -377,18 +423,16 @@ public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som[`TextFragmentAbsorber`](../../textfragmentabsorber) sökningar |
-| textEditOptions | TextEditOptions | Alternativ för textredigering (gör det möjligt att aktivera vissa redigeringsfunktioner). |
+| regex | Regex | System.Text.RegularExpressions.Regex klassobjekt som [`TextFragmentAbsorber`](../) söker |
+| textEditOptions | TextEditOptions | Text redigeringsalternativ (Möjliggör aktivering av vissa redigeringsfunktioner). |
 
-### Anmärkningar
+## Kommentarer
 
-Utför textsökning av den angivna frasen och ger tillgång till sökresultat via[`TextFragments`](../textfragments) samling.
+Utför textsökning av den angivna frasen och ger åtkomst till sökresultat via [`TextFragments`](../textfragments/) samling.
 
-### Se även
+### Se Även
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namnutrymme [Aspose.Pdf.Text](../../textfragmentabsorber)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextEditOptions](../../texteditoptions/)
+* klass [TextFragmentAbsorber](../)
+* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* samling [Aspose.PDF](../../../)

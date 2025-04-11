@@ -1,14 +1,14 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonEmfDeviceaspose.pdf.devices/emfdevice Klasse mit Standardauflösung des in emf. geschriebenen Rasterbildes
+title: EmfDevice.EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: EmfDevice-Konstruktor. Initialisiert eine neue Instanz der EmfDevice-Klasse mit der Standardauflösung des in emf geschriebenen Rasterbildes
 type: docs
 weight: 10
 url: /de/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-Initialisiert eine neue Instanz von[`EmfDevice`](../../emfdevice) Klasse mit Standardauflösung des in emf. geschriebenen Rasterbildes
+Initialisiert eine neue Instanz der [`EmfDevice`](../) Klasse mit der Standardauflösung des in emf geschriebenen Rasterbildes.
 
 ```csharp
 public EmfDevice()
@@ -16,15 +16,15 @@ public EmfDevice()
 
 ### Siehe auch
 
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`EmfDevice`](../../emfdevice) Klasse.  Auflösung für das in emf geschriebene Rasterbild, siehe[`Resolution`](../../resolution) Klasse.
+Initialisiert eine neue Instanz der [`EmfDevice`](../) Klasse.  Auflösung für das in emf geschriebene Rasterbild, siehe [`Resolution`](../../resolution/) Klasse.
 
 ```csharp
 public EmfDevice(Resolution resolution)
@@ -32,16 +32,16 @@ public EmfDevice(Resolution resolution)
 
 ### Siehe auch
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Resolution](../../resolution/)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`EmfDevice`](../../emfdevice) Klasse mit bereitgestellten Bildabmessungen, und Standardauflösung für das in emf (=150) geschriebene Rasterbild
+Initialisiert eine neue Instanz der [`EmfDevice`](../) Klasse mit den angegebenen Bilddimensionen und der Standardauflösung für das in emf geschriebene Rasterbild (=150)
 
 ```csharp
 public EmfDevice(int width, int height)
@@ -54,15 +54,15 @@ public EmfDevice(int width, int height)
 
 ### Siehe auch
 
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`EmfDevice`](../../emfdevice) Klasse mit bereitgestellter Seitengröße, und Standardauflösung für das in emf (=150) geschriebene Rasterbild
+Initialisiert eine neue Instanz der [`EmfDevice`](../) Klasse mit der angegebenen Seitengröße und der Standardauflösung für das in emf geschriebene Rasterbild (=150)
 
 ```csharp
 public EmfDevice(PageSize pageSize)
@@ -74,16 +74,16 @@ public EmfDevice(PageSize pageSize)
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice) Klasse mit bereitgestellten Bildabmessungen, und Auflösung für das in emf. geschriebene Rasterbild
+Initialisiert eine neue Instanz der [`JpegDevice`](../../jpegdevice/) Klasse mit den angegebenen Bilddimensionen und der Auflösung für das in emf geschriebene Rasterbild.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
@@ -93,20 +93,20 @@ public EmfDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Bildausgabebreite. |
 | height | Int32 | Bildausgabehöhe. |
-| resolution | Resolution | Auflösung für die für das in emf geschriebene Rasterbild, siehe[`Resolution`](../../resolution) Klasse. |
+| resolution | Resolution | Auflösung für das in emf geschriebene Rasterbild, siehe [`Resolution`](../../resolution/) Klasse. |
 
 ### Siehe auch
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Resolution](../../resolution/)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice)Klasse mit angegebener Seitengröße, und Auflösung für das in emf. geschriebene Rasterbild
+Initialisiert eine neue Instanz der [`JpegDevice`](../../jpegdevice/) Klasse mit der angegebenen Seitengröße und der Auflösung für das in emf geschriebene Rasterbild.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
@@ -115,14 +115,12 @@ public EmfDevice(PageSize pageSize, Resolution resolution)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | pageSize | PageSize | Seitengröße des Ausgabebildes. |
-| resolution | Resolution | Auflösung für die für das in emf geschriebene Rasterbild, siehe[`Resolution`](../../resolution) Klasse. |
+| resolution | Resolution | Auflösung für das in emf geschriebene Rasterbild, siehe [`Resolution`](../../resolution/) Klasse. |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* namensraum [Aspose.Pdf.Devices](../../emfdevice)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [Resolution](../../resolution/)
+* Klasse [EmfDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: RubyChildElement
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar en basklass för underordnade element i Ruby i logisk struktur.
+title: Class RubyChildElement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.RubyChildElement klass. Representerar en basklass för barn element av Ruby i logisk struktur
 type: docs
-weight: 4420
+weight: 6590
 url: /sv/net/aspose.pdf.logicalstructure/rubychildelement/
 ---
-## RubyChildElement class
+## RubyChildElement klass
 
-Representerar en basklass för underordnade element i Ruby i logisk struktur.
+Representerar en basklass för barn element av Ruby i logisk struktur.
 
 ```csharp
 public abstract class RubyChildElement : StructureElement
@@ -16,37 +16,46 @@ public abstract class RubyChildElement : StructureElement
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | Hämtar eller ställer in den faktiska texten för strukturelement. |
-| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | Hämtar eller ställer in den alternativa texten för strukturelement. |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | BlirStructureAttributeCollection objekt. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Får barnsamling avElement objekt. |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | BlirAttributeOwnerStandard objekt. |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | Hämtar eller ställer in expansionstexten för strukturelement. |
-| [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | Hämtar ID för strukturelement. |
-| [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | Hämtar eller ställer in språket för strukturelement. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Hämta överordnat element. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | Hämtar typ av strukturelement. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Hämtar eller ställer in titeln för strukturelement. |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | Hämtar eller ställer in den faktiska texten för struktur element. |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | Hämtar eller ställer in den alternativa texten för struktur element. |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Hämtar StructureAttributeCollection objekt. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Hämtar barnkollektion av Element objekt. |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | Hämtar AttributeOwnerStandard objekt. |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | Hämtar eller ställer in expansions texten för struktur element. |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | Hämtar ID för struktur element. |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Hämtar eller ställer in språket för struktur element. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Hämtar sidan där några eller alla barn element kommer att renderas. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Hämtar föräldraelement. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Hämtar typ av struktur element. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | Hämtar eller ställer in titeln för struktur element. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | Lägg tillElement till samling av barn. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Ändra överordnat element för nuvarande strukturelement |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | Rensa ID för strukturelement. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Hitta element av en given typ |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | Generera ID för strukturelement. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Anger ID för strukturelement. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | Ställer in anpassad tagg för strukturelement. |
-| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | Returnerar en sträng som representerar det aktuella objektet. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Lägger till Element i kollektionen av barn. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Ändrar föräldraelement för nuvarande struktur element |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Rensar alla barn. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Rensar ID för struktur element. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Hittar Element av en given typ |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Genererar ID för struktur element. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Infogar Element i kollektionen av barn vid angiven index. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Tar bort: ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, det motsvarande objektet från dokumentet. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, och det motsvarande objektet från dokumentet. Infogar barnobjekten av det borttagna objektet i dess tidigare förälders barnobjektskollektion som börjar vid indexet för det borttagna objektet. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Tar bort barn vid. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Ställer in ID för struktur element. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Ställer in anpassad tagg för struktur element. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Binder ett struktur element till Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Binder ett struktur element till Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Binder ett struktur element till innehållsström BDC-operator. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Binder ett struktur element till innehållsström XForm. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Binder ett struktur element till XImage. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Returnerar en sträng som representerar det aktuella objektet. |
 
-### Se även
+### Se Även
 
-* class [StructureElement](../structureelement)
-* namnutrymme [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [StructureElement](../structureelement/)
+* namnrymd [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* sammansättning [Aspose.PDF](../../)

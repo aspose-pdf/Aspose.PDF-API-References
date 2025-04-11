@@ -1,7 +1,7 @@
 ---
-title: SaveAsTIFFClassF
-second_title: Aspose.PDF per .NET API Reference
-description: Converte ogni pagina di un documento pdf in immagini e salva le immagini in un unico file TIFF ClassF.
+title: PdfConverter.SaveAsTIFFClassF
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfConverter. Converte ogni pagina di un documento pdf in immagini e salva le immagini in un unico file TIFF ClassF
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
@@ -14,13 +14,13 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | Il flusso per salvare l'immagine TIFF. |
 | imageWidth | Int32 | La larghezza dell'immagine, l'unità è pixel. |
 | imageHeight | Int32 | L'altezza dell'immagine, l'unità è pixel. |
 
-### Esempi
+## Examples
 
 ```csharp
 [C#]
@@ -36,11 +36,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 ```
 
-### Guarda anche
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,17 +52,17 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | Il flusso per salvare l'immagine TIFF. |
 | pageSize | PageSize | La dimensione della pagina dell'immagine. |
 
-### Guarda anche
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,17 +74,17 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Il flusso per salvare l'immagine TIFF. |
 | imageWidth | Int32 | La larghezza dell'immagine, l'unità è pixel. |
 | imageHeight | Int32 | L'altezza dell'immagine, l'unità è pixel. |
 
-### Guarda anche
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -96,17 +96,17 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Il flusso per salvare l'immagine TIFF. |
 | pageSize | PageSize | La dimensione della pagina dell'immagine. |
 
-### Guarda anche
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -118,11 +118,11 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(string outputFile)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | Il flusso per salvare l'immagine TIFF. |
 
-### Esempi
+## Examples
 
 ```csharp
 [C#]
@@ -138,11 +138,11 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 ```
 
-### Guarda anche
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -154,14 +154,12 @@ Converte ogni pagina di un documento pdf in immagini e salva le immagini in un u
 public void SaveAsTIFFClassF(Stream outputStream)
 ```
 
-| Parametro | Tipo | Descrizione |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Il flusso per salvare l'immagine TIFF. |
 
-### Guarda anche
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfconverter)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

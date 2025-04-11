@@ -1,32 +1,30 @@
 ---
-title: PdfFormatConversionOptions.RemoveFontsStrategy
-second_title: Aspose.PDF per .NET API Reference
-description: Alcuni documenti hanno dimensioni grandi dopo la conversione in formato PDF/A. Per ridurre la dimensione del file per questi documenti è necessario definire una strategia di rimozione dei font. Questa enumerazione dichiara una strategia che può essere utilizzata per ottimizzare lutilizzo dei caratteri. Ogni strategia di questa enumerazione ha senso solo quando flagOptimizeFileSize./pdfformatconversionoptions/optimizefilesize è impostato.
+title: Enum PdfFormatConversionOptions.RemoveFontsStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: L'enumerazione `Aspose.Pdf.PdfFormatConversionOptionsRemoveFontsStrategy` dichiara le strategie che possono essere utilizzate per ottimizzare l'uso dei font. Alcuni documenti hanno un dimensione grande dopo la conversione nel formato PDF/A. Per ridurre la dimensione del file per questi documenti è necessario definire una strategia per l'eliminazione dei font. L'enumerazione dichiara le strategie che possono essere utilizzate per ottimizzare l'uso dei font. Ogni strategia dell'enumerazione ha un significato solo quando la bandiera OptimizeFileSize è attivata.
 type: docs
-weight: 6050
+weight: 8400
 url: /it/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/
 ---
-## PdfFormatConversionOptions.RemoveFontsStrategy enumeration
+## Enumerazione PdfFormatConversionOptions.RemoveFontsStrategy
 
-Alcuni documenti hanno dimensioni grandi dopo la conversione in formato PDF/A. Per ridurre la dimensione del file per questi documenti è necessario definire una strategia di rimozione dei font. Questa enumerazione dichiara una strategia che può essere utilizzata per ottimizzare l'utilizzo dei caratteri. Ogni strategia di questa enumerazione ha senso solo quando flag[`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize) è impostato.
+Alcuni documenti hanno una grande dimensione dopo la conversione nel formato PDF/A. Per ridurre la dimensione del file per questi documenti è necessario definire una strategia di rimozione dei font. Questa enumerazione dichiara delle strategie che possono essere utilizzate per ottimizzare l'uso dei font. Ogni strategia di questa enumerazione ha senso solo quando il flag [`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize/) è impostato.
 
 ```csharp
 [Flags]
 public enum RemoveFontsStrategy : byte
 ```
 
-### I valori
+### Valori
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| RemoveDuplicatedFonts | `4` | Questa strategia rimuove tutti i caratteri che hanno duplicati nel documento. Se il documento contiene un gruppo di caratteri duplicati, solo un carattere di questo gruppo è incorporato nel documento. Tutti gli altri font di questo gruppo vengono rimossi dal documento, ogni font rimosso sostituito con l'analogico già incorporato. |
-| RemoveSimilarFontsWithDifferentWidths | `1` | Sembra questa strategiaRemoveDuplicatedFontsma rimuove non completamente font duplicati ma font che sono simili tra loro e differiscono solo per il parametro "Widths". Questo parametro contiene set di alcune larghezze per simboli di font specificati. Ogni valore di larghezza da questo set di "Larghezze" non è la larghezza reale del simbolo (glifo), larghezza reale per questo simbolo già definita nei dati binari del font. Il valore della larghezza dal set "Larghezze" indica la larghezza visiva per questo simbolo - la larghezza che il software di visualizzazione PDF deve impostare per visualizzare il simbolo invece della larghezza reale definita nel carattere. Una specifica più precisa dice: Acrobat 5.0 e successivi visualizzatori utilizzano le larghezze dei glifi memorizzate nel dizionario dei caratteri per sovrascrivere le larghezze dei glifi nel programma dei caratteri stesso, il che migliora la coerenza della visualizzazione e la stampa del documento. Questa strategia è più efficace diRemoveDuplicatedFontsma l'utilizzo di questa strategia in alcuni casi potrebbe teoricamente danneggiare la presentazione visiva del documento convertito. Questo difetto è possibile perché le larghezze dichiarate dei caratteri potrebbero essere diverse per lo stesso simbolo e in questo caso la larghezza di questo simbolo verrà cambiata in una nuova dopo la sostituzione del carattere - una volta rimosso il carattere verrà sostituito nel documento con già incorporato one. E se la larghezza visiva del simbolo verrà modificata, verrà visualizzata in modo errato e questa distinzione potrebbe causare difetti visivi come la sovrapposizione del testo o altri problemi. Ma il difetto visivo descritto è un caso molto raro e questa strategia riduce le dimensioni del documento in modo più efficace. |
-| SubsetFonts | `2` | Questa è la strategia più efficace per ridurre le dimensioni del documento. Prende i set di caratteri completamente incorporati e li riduce solo ai sottoinsiemi utilizzati. Si consiglia di utilizzare questa strategia in combinazione con RemoveDuplicatedFonts oRemoveSimilarFontsWithDifferentWidths to ottenere più effetti di compressione per la dimensione del file. L'uso simultaneo di tutte e tre le strategie non ha senso e strategiaRemoveSimilarFontsWithDifferentWidths non verrà utilizzato in questo caso. |
+| RemoveDuplicatedFonts | `4` | Questa strategia rimuove tutti i font che hanno duplicati nel documento. Se il documento contiene un gruppo di font duplicati, solo un font di questo gruppo è incorporato nel documento. Tutti gli altri font di questo gruppo vengono rimossi dal documento, ogni font rimosso è sostituito con l'analogo già incorporato. |
+| RemoveSimilarFontsWithDifferentWidths | `1` | Questa strategia è simile a RemoveDuplicatedFonts ma rimuove non i font completamente duplicati, ma i font che sono simili tra loro e differiscono solo per il parametro "Widths". Questo parametro contiene un insieme di alcune larghezze per simboli specificati del font. Ogni valore di larghezza di questo insieme di "Widths" non è la reale larghezza del simbolo (glyph), la reale larghezza per questo simbolo è già definita nei dati binari del font. Il valore di larghezza dell'insieme di "Widths" significa la larghezza visiva per questo simbolo - la larghezza che il software di visualizzazione PDF deve impostare nella visualizzazione del simbolo invece della reale larghezza definita nel font. Più precisamente, la specifica dice: i visualizzatori Acrobat 5.0 e successivi utilizzano le larghezze dei glyph memorizzate nel dizionario del font per sovrascrivere le larghezze dei glyph nel programma del font stesso, il che migliora la coerenza della visualizzazione e della stampa del documento. Questa strategia è più efficace di RemoveDuplicatedFonts, ma l'uso di questa strategia in alcuni casi potrebbe teoricamente danneggiare la presentazione visiva del documento convertito. Questo difetto è possibile poiché le larghezze dichiarate dei font potrebbero essere diverse per lo stesso simbolo e in questo caso la larghezza di questo simbolo verrà cambiata in una nuova dopo la sostituzione del font - quando il font rimosso verrà sostituito nel documento con quello già incorporato. E se la larghezza visiva del simbolo verrà cambiata - verrà mostrata in modo errato e questa distinzione potrebbe causare difetti visivi come sovrapposizioni di testo o altri problemi. Ma il difetto visivo descritto è un caso molto raro e questa strategia riduce la dimensione del documento in modo più efficace. |
+| SubsetFonts | `2` | Questa è la strategia più efficace per ridurre la dimensione del documento. Prende set di font completamente incorporati e li riduce solo ai sottoinsiemi utilizzati. Si consiglia di utilizzare questa strategia in combinazione con RemoveDuplicatedFonts o RemoveSimilarFontsWithDifferentWidths per ottenere un effetto di compressione multiplo per la dimensione del file. L'uso di tutte e tre le strategie simultaneamente non ha senso e la strategia RemoveSimilarFontsWithDifferentWidths non verrà utilizzata in questo caso. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfFormatConversionOptions](../pdfformatconversionoptions)
-* spazio dei nomi [Aspose.Pdf](../../aspose.pdf)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

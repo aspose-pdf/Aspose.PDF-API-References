@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt Eigenschaften eines Bildes dar das auf einer PDF-Dokumentseite platziert wird.
+title: Class ImagePlacement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ImagePlacement-Klasse. Stellt die Eigenschaften eines auf die Pdf-Dokumentseite platzierten Bildes dar
 type: docs
-weight: 3760
+weight: 5900
 url: /de/net/aspose.pdf/imageplacement/
 ---
-## ImagePlacement class
+## ImagePlacement-Klasse
 
-Stellt Eigenschaften eines Bildes dar, das auf einer PDF-Dokumentseite platziert wird.
+Stellt die Eigenschaften eines auf die Pdf-Dokumentseite platzierten Bildes dar.
 
 ```csharp
 public sealed class ImagePlacement
@@ -18,52 +18,52 @@ public sealed class ImagePlacement
 
 | Name | Beschreibung |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Ruft die Compositing-Parameter des aktiven Grafikstatus für das auf der Seite platzierte Bild ab. |
-| [Image](../../aspose.pdf/imageplacement/image) { get; } | Ruft das zugehörige XImage-Ressourcenobjekt ab. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | Aktuelle Transformationsmatrix für dieses Bild. |
-| [Operator](../../aspose.pdf/imageplacement/operator) { get; } | Operator zum Anzeigen des Bildes. |
-| [Page](../../aspose.pdf/imageplacement/page) { get; } | Ruft die Seite ab, die das Bild enthält. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle) { get; } | Ruft das Rechteck des Bildes ab. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution) { get; } | Ruft die Auflösung des Bildes ab. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation) { get; } | Ruft den Rotationswinkel des Bildes ab. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Gibt die Kompositionsparameter des Grafikstatus zurück, der für das auf die Seite platzierte Bild aktiv ist. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Gibt das zugehörige XImage-Ressourcenobjekt zurück. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Aktuelle Transformationsmatrix für dieses Bild. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Operator, der zum Anzeigen des Bildes verwendet wird. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Gibt die Seite zurück, die das Bild enthält. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Gibt das Rechteck des Bildes zurück. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Gibt die Auflösung des Bildes zurück. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Gibt den Rotationswinkel des Bildes zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide)() | Bild von der Seite löschen. |
-| [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | Ersetzen Sie das Bild in der Sammlung durch ein anderes Bild. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Speichert Bild mit entsprechenden Transformationen: Skalierung, Rotation und Auflösung. |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Speichert Bild mit entsprechenden Transformationen: Skalierung, Rotation und Auflösung. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Löscht das Bild von der Seite. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Ersetzt das Bild in der Sammlung durch ein anderes Bild. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Speichert das Bild mit den entsprechenden Transformationen: Skalierung, Rotation und Auflösung. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Speichert das Bild mit den entsprechenden Transformationen: Skalierung, Rotation und Auflösung. |
 
-### Bemerkungen
+## Anmerkungen
 
-Wenn ein Bild auf einer Seite platziert wird, kann es andere als die in definierten physikalischen Abmessungen haben[`Resources`](../resources) . Das Objekt[`ImagePlacement`](../imageplacement) soll solche Informationen wie Abmessungen, Auflösung usw. bereitstellen.
+Wenn ein Bild auf eine Seite platziert wird, kann es andere Abmessungen haben als die physikalischen Abmessungen, die in [`Resources`](../resources/) definiert sind. Das Objekt `ImagePlacement` soll solche Informationen wie Abmessungen, Auflösung usw. bereitstellen.
 
-### Beispiele
+## Beispiele
 
-Das Beispiel zeigt, wie Sie Bilder auf der ersten PDF-Dokumentseite finden und Bilder als Bitmaps mit sichtbaren Abmessungen erhalten.
+Das Beispiel zeigt, wie man Bilder auf der ersten PDF-Dokumentseite findet und Bilder als Bitmaps mit sichtbaren Abmessungen erhält.
 
 ```csharp
-// Dokument öffnen
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ImagePlacementAbsorber-Objekt erstellen, um die Bildplatzierungssuche durchzuführen
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Akzeptiere den Absorber für die erste Seite
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// Bilder mit sichtbaren Abmessungen abrufen
+// Retrieve images with visible dimensions
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Bild von Ressourcen abrufen
+        // Retrieve image from resources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Neues Bitmap mit tatsächlichen Abmessungen erstellen
+        // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
@@ -71,7 +71,5 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

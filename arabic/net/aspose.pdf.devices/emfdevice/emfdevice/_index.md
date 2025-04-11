@@ -1,128 +1,126 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفEmfDeviceaspose.pdf.devices/emfdevice فئة ذات الدقة الافتراضية للصورة النقطية المكتوبة على emf.
+title: EmfDevice.EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ EmfDevice. يقوم بتهيئة مثيل جديد من فئة EmfDevice بدقة افتراضية للصورة النقطية المكتوبة إلى emf
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`EmfDevice`](../../emfdevice) فئة ذات الدقة الافتراضية للصورة النقطية المكتوبة على emf.
+يقوم بتهيئة مثيل جديد من فئة [`EmfDevice`](../) بدقة افتراضية للصورة النقطية المكتوبة إلى emf.
 
 ```csharp
 public EmfDevice()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`EmfDevice`](../../emfdevice) فئة .  دقة الصورة النقطية المكتوبة إلى emf ، راجع[`Resolution`](../../resolution) فئة .
+يقوم بتهيئة مثيل جديد من فئة [`EmfDevice`](../).  الدقة للصورة النقطية المكتوبة إلى emf، انظر فئة [`Resolution`](../../resolution/).
 
 ```csharp
 public EmfDevice(Resolution resolution)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`EmfDevice`](../../emfdevice) فئة بأبعاد الصورة المقدمة ، ودقة الوضوح الافتراضية للصورة النقطية المكتوبة على emf (= 150)
+يقوم بتهيئة مثيل جديد من فئة [`EmfDevice`](../) بالأبعاد المقدمة للصورة، ودقة افتراضية للصورة النقطية المكتوبة إلى emf (=150)
 
 ```csharp
 public EmfDevice(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`EmfDevice`](../../emfdevice) فئة بحجم الصفحة المقدم ، والدقة الافتراضية للصورة النقطية المكتوبة على emf (= 150)
+يقوم بتهيئة مثيل جديد من فئة [`EmfDevice`](../) بحجم الصفحة المقدم، ودقة افتراضية للصورة النقطية المكتوبة إلى emf (=150)
 
 ```csharp
 public EmfDevice(PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بأبعاد الصورة المقدمة ، ودقة الصورة النقطية المكتوبة على emf.
+يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../../jpegdevice/) بالأبعاد المقدمة للصورة، ودقة للصورة النقطية المكتوبة إلى emf.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
-| resolution | Resolution | دقة الصورة النقطية المكتوبة إلى emf ، راجع[`Resolution`](../../resolution) فئة . |
+| width | Int32 | عرض الصورة الناتجة. |
+| height | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | Resolution | الدقة للصورة النقطية المكتوبة إلى emf، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice)فئة بحجم الصفحة المقدم ، ودقة الصورة النقطية المكتوبة على emf.
+يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../../jpegdevice/) بحجم الصفحة المقدم، ودقة للصورة النقطية المكتوبة إلى emf.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
-| resolution | Resolution | دقة الصورة النقطية المكتوبة إلى emf ، راجع[`Resolution`](../../resolution) فئة . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
+| resolution | Resolution | الدقة للصورة النقطية المكتوبة إلى emf، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../emfdevice)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [Resolution](../../resolution/)
+* فئة [EmfDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)

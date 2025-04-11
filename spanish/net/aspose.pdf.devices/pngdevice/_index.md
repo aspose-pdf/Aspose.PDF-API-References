@@ -1,14 +1,14 @@
 ---
-title: PngDevice
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa un dispositivo de imagen que ayuda a guardar páginas de documentos PDF en png.
+title: Class PngDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.Devices.PngDevice. Representa un dispositivo de imagen que ayuda a guardar las páginas del documento pdf en png
 type: docs
-weight: 1750
+weight: 3650
 url: /es/net/aspose.pdf.devices/pngdevice/
 ---
-## PngDevice class
+## Clase PngDevice
 
-Representa un dispositivo de imagen que ayuda a guardar páginas de documentos PDF en png.
+Representa un dispositivo de imagen que ayuda a guardar las páginas del documento pdf en png.
 
 ```csharp
 public sealed class PngDevice : ImageDevice
@@ -18,35 +18,98 @@ public sealed class PngDevice : ImageDevice
 
 | Nombre | Descripción |
 | --- | --- |
-| [PngDevice](pngdevice#constructor)() | Inicializa una nueva instancia del[`PngDevice`](../pngdevice) clase con resolución por defecto. |
-| [PngDevice](pngdevice#constructor_2)(PageSize) | Inicializa una nueva instancia del[`PngDevice`](../pngdevice) clase con tamaño de página proporcionado, resolución predeterminada (=150). |
-| [PngDevice](pngdevice#constructor_1)(Resolution) | Inicializa una nueva instancia del[`PngDevice`](../pngdevice) clase.  Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../resolution) clase. |
-| [PngDevice](pngdevice#constructor_4)(int, int) | Inicializa una nueva instancia del[`PngDevice`](../pngdevice) clase con dimensiones de imagen proporcionadas, resolución predeterminada (=150). |
-| [PngDevice](pngdevice#constructor_3)(PageSize, Resolution) | Inicializa una nueva instancia del[`PngDevice`](../pngdevice)clase con tamaño de página proporcionado y resolución. |
-| [PngDevice](pngdevice#constructor_5)(int, int, Resolution) | Inicializa una nueva instancia del[`PngDevice`](../pngdevice) clase con dimensiones de imagen proporcionadas y resolución. |
+| [PngDevice](pngdevice/#constructor)() | Inicializa una nueva instancia de la clase `PngDevice` con resolución predeterminada. |
+| [PngDevice](pngdevice/#constructor_2)(PageSize) | Inicializa una nueva instancia de la clase `PngDevice` con el tamaño de página proporcionado, resolución predeterminada (=150). |
+| [PngDevice](pngdevice/#constructor_1)(Resolution) | Inicializa una nueva instancia de la clase `PngDevice`. Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../resolution/). |
+| [PngDevice](pngdevice/#constructor_4)(int, int) | Inicializa una nueva instancia de la clase `PngDevice` con las dimensiones de imagen proporcionadas, resolución predeterminada (=150). |
+| [PngDevice](pngdevice/#constructor_3)(PageSize, Resolution) | Inicializa una nueva instancia de la clase `PngDevice` con el tamaño de página y la resolución proporcionados. |
+| [PngDevice](pngdevice/#constructor_5)(int, int, Resolution) | Inicializa una nueva instancia de la clase `PngDevice` con las dimensiones de imagen y la resolución proporcionadas. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Obtiene o establece el tipo de coordenada de la página (Medios/Cuadros de recorte). El valor de CropBox se usa por defecto. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Obtiene o establece el modo de presentación del formulario. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Obtiene la altura de salida de la imagen. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Obtiene o establece las opciones de representación. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Obtiene la resolución de la imagen. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Obtiene el ancho de salida de la imagen. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Obtiene o establece el tipo de coordenadas de la página (cajas Media/Crop). El valor CropBox se utiliza por defecto. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Obtiene o establece el modo de presentación del formulario. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Obtiene la altura de salida de la imagen. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Obtiene o establece las opciones de renderizado. |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Obtiene la resolución de la imagen. |
+| [TransparentBackground](../../aspose.pdf.devices/pngdevice/transparentbackground/) { get; set; } | Obtiene o establece si la imagen tiene un fondo transparente. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Obtiene el ancho de salida de la imagen. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/pngdevice/process#process)(Page, Stream) | Convierte la página en png y la guarda en el flujo de salida. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Realiza alguna operación en la página dada y guarda los resultados en el archivo. |
+| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | Convierte la página en png y la guarda en el flujo de salida. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Realiza alguna operación en la página dada y guarda los resultados en el archivo. |
 
-### Ver también
+## Ejemplos
 
-* class [ImageDevice](../imagedevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../aspose.pdf.devices)
-* asamblea [Aspose.PDF](../../)
+El siguiente ejemplo muestra cómo convertir un archivo PDF a imágenes PNG.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
+
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
+
+		// Initialize PngDevice	
+		PngDevice pngDevice = new PngDevice(resolution);
+		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
+		{
+			using (FileStream pngStream =
+			new FileStream($"{dataDir}image{pageCount}_out.png",
+			FileMode.Create))
+			{
+				// Convert a particular page and save the image to stream
+				pngDevice.Process(pdfDocument.Pages[pageCount], pngStream);
+
+				// Close stream
+				pngStream.Close();
+			}
+		}
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF Directory
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
+    ' The file name of the PDF
+    Dim pdfFile As String = "YOUR_PDF_FILE"
+ 
+    ' Initialize instance of Document class
+	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+		' initialize PngDevice  
+
+		Dim pngDevice As PngDevice = New PngDevice(resolution)
+		For pageCount As Integer = 1 To pdfDocument.Pages.Count
+			Using pngStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.png", FileMode.Create)
+				' Convert a particular page and save the image to stream
+				pngDevice.Process(pdfDocument.Pages(pageCount), pngStream)
+
+				' Close stream
+				pngStream.Close()
+			End Using
+		Next
+	End Using
+```
+
+### Ver También
+
+* clase [ImageDevice](../imagedevice/)
+* espacio de nombres [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* ensamblado [Aspose.PDF](../../)

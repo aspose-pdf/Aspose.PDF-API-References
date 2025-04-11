@@ -1,67 +1,67 @@
 ---
-title: GetNextImage
-second_title: Aspose.PDF لمرجع .NET API
-description: يحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg.
+title: PdfConverter.GetNextImage
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfConverter. تحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-يحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg.
+تحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize) {#getnextimage_10}
 
-يحفظ الصورة في ملف بحجم الصفحة المحدد وتنسيق الصورة الافتراضي - jpeg.
+تحفظ الصورة في ملف بحجم الصفحة المعطى وتنسيق الصورة الافتراضي - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_13}
 
-يحفظ الصورة في ملف بتنسيق صورة givin .
+تحفظ الصورة في ملف بالتنسيق المعطى للصورة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
@@ -90,141 +90,141 @@ While converter.HasNextImage()
 End While
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-يحفظ الصورة في ملف بحجم الصفحة وتنسيق الصورة المحددين.
+تحفظ الصورة في ملف بحجم الصفحة المعطى وتنسيق الصورة.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
-| format | ImageFormat | شكل الصورة. |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
+| format | ImageFormat | تنسيق الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-يحفظ الصورة للتدفق بتنسيق الصورة الافتراضي - jpeg.
+تحفظ الصورة في دفق بتنسيق الصورة الافتراضي - jpeg.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
+| outputStream | Stream | الدفق لحفظ الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize) {#getnextimage_1}
 
-يحفظ الصورة للتدفق بحجم الصفحة المحدد.
+تحفظ الصورة في دفق بحجم الصفحة المعطى.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
 
-يحفظ الصورة للتدفق باستخدام تنسيق الصورة المحدد.
+تحفظ الصورة في دفق بالتنسيق المعطى للصورة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_2}
 
-يحفظ الصورة للتدفق بحجم الصفحة المحدد.
+تحفظ الصورة في دفق بحجم الصفحة المعطى.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
-| format | ImageFormat | شكل الصورة. |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
+| format | ImageFormat | تنسيق الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-يحفظ الصورة في ملف بتنسيق وأبعاد وجودة الصورة المحددة.
+تحفظ الصورة في ملف بالتنسيق المعطى للصورة، والأبعاد والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
@@ -253,57 +253,57 @@ While converter.HasNextImage()
 End While
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-يحفظ الصورة للتدفق باستخدام تنسيق صورة givin والأبعاد والجودة.
+تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والأبعاد والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-يحفظ الصورة في ملف بتنسيق صورة givin وحجمها وجودتها.
+تحفظ الصورة في ملف بالتنسيق المعطى للصورة، وحجم الصورة، والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Double | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Double | ارتفاع الصورة الوحدة بالبكسل .. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Double | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Double | ارتفاع الصورة، الوحدة هي بكسل. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
@@ -336,55 +336,55 @@ While converter.HasNextImage()
 End While
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-يحفظ الصورة للدفق بتنسيق صورة givin وحجمها وجودتها.
+تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والحجم والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Double | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Double | ارتفاع الصورة ، الوحدة بالبكسل. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Double | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Double | ارتفاع الصورة، الوحدة هي بكسل. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-يحفظ الصورة في ملف بتنسيق وأبعاد الصورة المحددة.
+تحفظ الصورة في ملف بالتنسيق المعطى للصورة والأبعاد.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
@@ -413,125 +413,123 @@ While converter.HasNextImage()
 End While
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-يحفظ الصورة للدفق بتنسيق صورة givin وحجمها وجودتها.
+تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والحجم والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-يحفظ الصورة للتدفق باستخدام تنسيق وجودة صورة محددين.
+تحفظ الصورة في دفق بالتنسيق المعطى للصورة والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-يحفظ الصورة للتدفق مع تحديد حجم الصفحة وتنسيق الصورة والجودة.
+تحفظ الصورة في دفق بحجم الصفحة المعطى، وتنسيق الصورة والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputStream | Stream | الدفق لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-يحفظ الصورة في ملف بتنسيق وجودة معينين للصورة.
+تحفظ الصورة في ملف بالتنسيق المعطى للصورة والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-يحفظ الصورة في ملف بحجم الصفحة وتنسيق الصورة وجودتها.
+تحفظ الصورة في ملف بحجم الصفحة المعطى، وتنسيق الصورة والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسمه لحفظ الصورة. |
-| pageSize | PageSize | حجم صفحة الصورة. |
-| format | ImageFormat | شكل الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0 ~ 100) ، 0 هي الأدنى و 100 هي الأعلى |
+| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| pageSize | PageSize | حجم الصفحة للصورة. |
+| format | ImageFormat | تنسيق الصورة. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

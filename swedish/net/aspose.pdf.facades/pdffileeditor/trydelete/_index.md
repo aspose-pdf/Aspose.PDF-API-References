@@ -1,14 +1,14 @@
 ---
-title: TryDelete
-second_title: Aspose.PDF för .NET API Referens
-description: Tar bort sidor specificerade av nummermatris från inmatningsfilen sparar som en ny pdf-fil.
+title: PdfFileEditor.TryDelete
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-metod. Tar bort sidor som anges av nummerarray från indatafilen och sparar som en ny Pdf-fil
 type: docs
-weight: 430
+weight: 400
 url: /sv/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
-## TryDelete(string, int[], string) {#trydelete_2}
+## TryDelete(string, int[], string) {#trydelete_1}
 
-Tar bort sidor specificerade av nummermatris från inmatningsfilen, sparar som en ny pdf-fil.
+Tar bort sidor som anges av nummerarray från indatafilen, sparar som en ny Pdf-fil.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,36 +16,36 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Indatafilsökväg. |
-| pageNumber | Int32[] | Index av sidan från indatafilen. |
-| outputFile | String | Utdatafilens sökväg. |
+| inputFile | Sträng | Sökväg till indatafil. |
+| pageNumber | Int32[] | Index för sidan i indatafilen. |
+| outputFile | Sträng | Sökväg till utdatafil. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars false.
 
-### Anmärkningar
+## Kommentarer
 
-TryDelete-metoden är som Delete-metoden, förutom att TryDelete -metoden inte ger ett undantag om operationen misslyckas.
+TryDelete-metoden är som Delete-metoden, förutom att TryDelete-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-Tar bort sidor specificerade av nummermatris från inmatningsfilen, sparar som en ny pdf-fil.
+Tar bort sidor som anges av nummerarray från indatafilen, sparar som en ny Pdf-fil.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -54,18 +54,18 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | inputStream | Stream | Indatafil Stream. |
-| pageNumber | Int32[] | Index av sidan från indatafilen. |
-| outputStream | Stream | Utdatafilström. |
+| pageNumber | Int32[] | Index för sidan i indatafilen. |
+| outputStream | Stream | Utdatafil stream. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+True för framgång, eller false.
 
-### Anmärkningar
+## Kommentarer
 
-TryDelete-metoden är som Delete-metoden, förutom att TryDelete -metoden inte ger ett undantag om operationen misslyckas.
+TryDelete-metoden är som Delete-metoden, förutom att TryDelete-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,17 +74,16 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TryDelete(string, int[], HttpResponse) {#trydelete_3}
 
-Tar bort specificerade sidor från dokument och lagrar resultatet till HttpResponse-objekt.
+Tar bort angivna sidor från dokumentet och lagrar resultatet i HttpResponse-objektet.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
@@ -92,29 +91,29 @@ public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Sökväg till källfilen. |
-| pageNumber | Int32[] | Uppsättning av sidnummer som måste raderas. |
+| inputFile | Sträng | Sökväg till källfil. |
+| pageNumber | Int32[] | Array av sidnummer som måste tas bort. |
 | response | HttpResponse | Svarsobjekt där resultatdokumentet kommer att lagras. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars false.
 
-### Anmärkningar
+## Kommentarer
 
-TryDelete-metoden är som Delete-metoden, förutom att TryDelete -metoden inte ger ett undantag om operationen misslyckas.
+TryDelete-metoden är som Delete-metoden, förutom att TryDelete-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], HttpResponse) {#trydelete_1}
 
-Tar bort angivna sidor från dokument och sparar resultatet i HttpResponse-objekt.
+Tar bort angivna sidor från dokumentet och sparar resultatet i HttpResponse-objektet.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse response)
@@ -122,22 +121,20 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse respons
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Källdokumentström. |
-| pageNumber | Int32[] | Matris med sidnummer som kommer att raderas. |
+| inputStream | Stream | Källdokument stream. |
+| pageNumber | Int32[] | Array av sidnummer som kommer att tas bort. |
 | response | HttpResponse | HttpResponse-objekt |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+true om operationen slutfördes framgångsrikt; annars false.
 
-### Anmärkningar
+## Kommentarer
 
-TryDelete-metoden är som Delete-metoden, förutom att TryDelete -metoden inte ger ett undantag om operationen misslyckas.
+TryDelete-metoden är som Delete-metoden, förutom att TryDelete-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

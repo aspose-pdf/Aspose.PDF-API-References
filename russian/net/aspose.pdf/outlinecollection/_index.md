@@ -1,50 +1,48 @@
 ---
-title: OutlineCollection
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет иерархию структуры документа.
+title: Class OutlineCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.OutlineCollection. Представляет иерархию оглавления документа
 type: docs
-weight: 5760
+weight: 8000
 url: /ru/net/aspose.pdf/outlinecollection/
 ---
-## OutlineCollection class
+## Класс OutlineCollection
 
-Представляет иерархию структуры документа.
+Представляет иерархию оглавления документа.
 
 ```csharp
 public sealed class OutlineCollection : Outlines
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Count](../../aspose.pdf/outlinecollection/count) { get; } | Количество предметов коллекции. Пожалуйста, не путайте с VisibleCount: VisibleCount получает количество видимых элементов схемы на всех уровнях. |
-| [First](../../aspose.pdf/outlinecollection/first) { get; } | Получает элемент структуры, представляющий первый элемент верхнего уровня в структуре. |
-| override [IsReadOnly](../../aspose.pdf/outlinecollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения. |
-| [IsSynchronized](../../aspose.pdf/outlinecollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к этой коллекции синхронизированным (потокобезопасным). |
-| [Item](../../aspose.pdf/outlinecollection/item) { get; } | Получает элемент схемы из коллекции по индексу. |
-| [Last](../../aspose.pdf/outlinecollection/last) { get; } | Получает элемент схемы, представляющий последний элемент верхнего уровня в структуре. |
-| [SyncRoot](../../aspose.pdf/outlinecollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
-| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount) { get; } | Count — это сумма количества видимых дочерних элементов структуры на всех уровнях. Примечание: пожалуйста, не путайте с Count, который является числом, если предметы в коллекции. |
+| override [Count](../../aspose.pdf/outlinecollection/count/) { get; } | Количество элементов в коллекции. Пожалуйста, не путайте с VisibleCount: VisibleCount получает количество видимых элементов оглавления на всех уровнях. |
+| [First](../../aspose.pdf/outlinecollection/first/) { get; } | Получает элемент оглавления, представляющий первый элемент верхнего уровня в оглавлении. |
+| override [IsReadOnly](../../aspose.pdf/outlinecollection/isreadonly/) { get; } | Получает значение, указывающее, является ли коллекция только для чтения. |
+| [IsSynchronized](../../aspose.pdf/outlinecollection/issynchronized/) { get; } | Получает значение, указывающее, синхронизирован ли доступ к этой коллекции (безопасно для потоков). |
+| [Item](../../aspose.pdf/outlinecollection/item/) { get; } | Получает элемент оглавления из коллекции по индексу. |
+| [Last](../../aspose.pdf/outlinecollection/last/) { get; } | Получает элемент оглавления, представляющий последний элемент верхнего уровня в оглавлении. |
+| [SyncRoot](../../aspose.pdf/outlinecollection/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
+| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount/) { get; } | Количество — это сумма количества видимых дочерних элементов оглавления на всех уровнях. Примечание: пожалуйста, не путайте с Count, который является количеством элементов в коллекции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlinecollection/add)(OutlineItemCollection) | Добавляет элемент схемы в коллекцию. |
-| override [Clear](../../aspose.pdf/outlinecollection/clear)() | Удаляет все элементы из коллекции. |
-| override [Contains](../../aspose.pdf/outlinecollection/contains)(OutlineItemCollection) | Проверяет, содержит ли коллекция данный элемент. |
-| override [CopyTo](../../aspose.pdf/outlinecollection/copyto)(OutlineItemCollection[], int) | Копирует элементы схемы в System.Array, начиная с определенного индекса System.Array. |
-| [Delete](../../aspose.pdf/outlinecollection/delete#delete)() | Удаляет все элементы схемы из структуры документа. |
-| [Delete](../../aspose.pdf/outlinecollection/delete#delete_1)(string) | Удаляет элемент структуры с указанным заголовком из структуры документа. |
-| override [GetEnumerator](../../aspose.pdf/outlinecollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
-| [Remove](../../aspose.pdf/outlinecollection/remove#remove_1)(int) | Удалить элемент по индексу. |
-| override [Remove](../../aspose.pdf/outlinecollection/remove#remove)(OutlineItemCollection) | Всегда выбрасываетНереализованное исключение |
+| override [Add](../../aspose.pdf/outlinecollection/add/)(OutlineItemCollection) | Добавляет элемент оглавления в коллекцию. |
+| override [Clear](../../aspose.pdf/outlinecollection/clear/)() | Очищает все элементы из коллекции. |
+| override [Contains](../../aspose.pdf/outlinecollection/contains/)(OutlineItemCollection) | Проверяет, содержит ли коллекция данный элемент. |
+| override [CopyTo](../../aspose.pdf/outlinecollection/copyto/)(OutlineItemCollection[], int) | Копирует элементы оглавления в System.Array, начиная с определенного индекса System.Array. |
+| [Delete](../../aspose.pdf/outlinecollection/delete/#delete)() | Удаляет все элементы оглавления из оглавления документа. |
+| [Delete](../../aspose.pdf/outlinecollection/delete/#delete_1)(string) | Удаляет элемент оглавления с указанным заголовком из оглавления документа. |
+| override [GetEnumerator](../../aspose.pdf/outlinecollection/getenumerator/)() | Возвращает перечислитель, который перебирает коллекцию. |
+| [Remove](../../aspose.pdf/outlinecollection/remove/#remove_1)(int) | Удаляет элемент по индексу. |
+| override [Remove](../../aspose.pdf/outlinecollection/remove/#remove)(OutlineItemCollection) | Всегда вызывает NotImplementedException |
 
-### Смотрите также
+### См. также
 
-* class [Outlines](../outlines)
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* класс [Outlines](../outlines/)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

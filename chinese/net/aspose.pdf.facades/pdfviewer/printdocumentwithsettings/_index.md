@@ -1,89 +1,91 @@
 ---
-title: PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API 参考
-description: 打印带有设置的 Pdf 文档如果文档大小与页面大小不兼容pdf.kit 将扩展它以适应页面大小
+title: PdfViewer.PrintDocumentWithSettings
+second_title: Aspose.PDF for .NET API Reference
+description: PdfViewer 方法。使用设置打印 Pdf 文档。如果文档大小与页面大小不符，将扩展以适应页面大小
 type: docs
-weight: 300
+weight: 330
 url: /zh/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-打印带有设置的 Pdf 文档。如果文档大小与页面大小不兼容，pdf.kit 将扩展它以适应页面大小。
+使用设置打印 Pdf 文档。如果文档大小与页面大小不符，将扩展以适应页面大小。
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSettings | PageSettings | 打印文档的页面设置。 |
-| printerSettings | PrinterSettings | 打印文档的打印机设置。 |
+| printerSettings | PrinterSettings | 打印文档的打印设置。 |
 
-### 例子
-
-printerSettings 对象用于打印文档。 pageSettings.PrinterSettings 对象被忽略。
+## 示例
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         //打印调整大小的文件
-iewer.AutoRotate = true;         //打印调整旋转的文件
-iewer.PrintPageDialog=false;//打印时不产生页码对话框
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.BindPdf(@"d:\test.pdf");
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog = false;   //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintDocumentWithSettings(pgs, ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer()
-iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;           '打印调整大小的文件
-iewer.AutoRotate = true;           '使用调整后的旋转打印文件
-iewer.PrintPageDialog=false;//打印时不产生页码对话框
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.BindPdf(@"d:\test.pdf")
+iewer.AutoResize = True            'print the file with adjusted size
+iewer.AutoRotate = True            'print the file with adjusted rotation
+iewer.PrintPageDialog = False      'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintDocumentWithSettings(pgs, ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### 也可以看看
+printerSettings 对象用于打印文档。pageSettings.PrinterSettings 对象被忽略。
 
-* class [PdfViewer](../../pdfviewer)
-* 命名空间 [Aspose.Pdf.Facades](../../pdfviewer)
-* 部件 [Aspose.PDF](../../../)
+### 另见
+
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-使用打印机设置打印 Pdf 文档。输出页面大小将适合文档首页大小。
+使用打印机设置打印 Pdf 文档。输出页面大小将适应文档的第一页大小。
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | 打印文档的打印机设置。 |
+| printerSettings | PrinterSettings | 打印文档的打印设置。 |
 
-### 例子
+## 示例
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         //打印调整大小的文件
-iewer.AutoRotate = true;         //打印调整旋转的文件
-iewer.PrintPageDialog=false;//打印时不产生页码对话框
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -93,9 +95,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;        '打印调整大小的文件
-iewer.AutoRotate = true;        '使用调整后的旋转打印文件
-iewer.PrintPageDialog=false;//打印时不产生页码对话框
+iewer.AutoResize = true;        'print the file with adjusted size
+iewer.AutoRotate = true;        'print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -103,10 +105,9 @@ iewer.PrintDocumentWithSettings(ps);
 iewer.ClosePdfFile()
 ```
 
-### 也可以看看
+### 另见
 
-* class [PdfViewer](../../pdfviewer)
-* 命名空间 [Aspose.Pdf.Facades](../../pdfviewer)
-* 部件 [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

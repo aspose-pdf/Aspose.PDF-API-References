@@ -1,74 +1,74 @@
 ---
-title: TryResizeContents
-second_title: Aspose.PDF for .NET API Referansı
-description: Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse sayfanın etrafına boş kenar boşlukları eklenir. Sonuç HttpResponse nesnesinde saklanır.
+title: PdfFileEditor.TryResizeContents
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Belgenin sayfalarının içeriğini yeniden boyutlandırır
 type: docs
-weight: 480
+weight: 450
 url: /tr/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
-## TryResizeContents(string, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents_3}
+## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir. Sonuç, HttpResponse nesnesinde saklanır.
+Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültüldüğünde sayfanın etrafına boş kenar boşlukları eklenir. Sonuç HttpResponse nesnesine kaydedilir.
 
 ```csharp
 public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | String | Kaynak dosyanın yolu. |
-| pages | Int32[] | Yeniden boyutlandırılacak sayfa dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
+| pages | Int32[] | Yeniden boyutlandırılacak sayfaların dizisi. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
 | response | HttpResponse | Sonucun kaydedildiği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryResizeContents yöntemi, ResizeContents yöntemine benzer, ancak TryResizeContents yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryResizeContents metodu, ResizeContents metoduna benzer, ancak TryResizeContents metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir. Sonuç, HttpResponse nesnesinde saklanır.
+Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültüldüğünde sayfanın etrafına boş kenar boşlukları eklenir. Sonuç HttpResponse nesnesine kaydedilir.
 
 ```csharp
 public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| source | Stream | Kaynak dosya akışı. |
-| pages | Int32[] | Yeniden boyutlandırılacak sayfa dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
+| source | Stream | Kaynak dosyanın akışı. |
+| pages | Int32[] | Yeniden boyutlandırılacak sayfaların dizisi. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
 | response | HttpResponse | Sonucun kaydedildiği HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryResizeContents yöntemi, ResizeContents yöntemine benzer, ancak TryResizeContents yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryResizeContents metodu, ResizeContents metoduna benzer, ancak TryResizeContents metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -81,153 +81,151 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
     ContentsResizeParameters parameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | Stream | Kaynak belge ile akış. |
-| destination | Stream | Hedef belgeyle akış yapın. |
-| pages | Int32[] | Sayfa dizinleri dizisi. |
-| parameters | ContentsResizeParameters | Parametreleri yeniden boyutlandırın. |
+| destination | Stream | Hedef belge ile akış. |
+| pages | Int32[] | Sayfa indekslerinin dizisi. |
+| parameters | ContentsResizeParameters | Yeniden boyutlandırma parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarılı olursa true döndürür.
+Başarı durumunda true döner.
 
-### Notlar
+## Açıklamalar
 
-TryResizeContents yöntemi, ResizeContents yöntemine benzer, ancak TryResizeContents yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryResizeContents metodu, ResizeContents metoduna benzer, ancak TryResizeContents metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
+    //left margin = 10% of page width
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
     null,
-    //sağ kenar boşluğu sayfanın %10'udur 
+    //right margin is 10% of page 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
+    //top margin = 10% of height
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
+    //new contents height is calculated automatically (similar to width)
     null,
-    //alt marj %10
+    //bottom margin is 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
 dest.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_2}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-Belge sayfalarının içeriğini yeniden boyutlandırır. Sayfanın içeriğini küçültür ve kenar boşlukları ekler. Yeni içerik boyutu varsayılan alan birimlerinde belirtilir.
+Belge sayfalarının içeriğini yeniden boyutlandırır. Sayfanın içeriğini küçültür ve kenar boşlukları ekler. İçeriğin yeni boyutu varsayılan alan birimlerinde belirtilir.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | Stream | Kaynak belgeyi içeren akış. |
-| destination | Stream | Ortaya çıkan belgenin kaydedileceği akış. |
-| pages | Int32[] | Sayfa dizinleri dizisi. Null ise tüm belge sayfaları işlenir. |
-| newWidth | Double | Varsayılan alan birimlerinde yeni sayfa içeriği genişliği. |
-| newHeight | Double | Varsayılan alan birimlerinde sayfa içeriğinin yeni yüksekliği. |
+| destination | Stream | Sonuç belgesinin kaydedileceği akış. |
+| pages | Int32[] | Sayfa indekslerinin dizisi. Null ise tüm belge sayfaları işlenecektir. |
+| newWidth | Double | Sayfa içeriğinin varsayılan alan birimlerinde yeni genişliği. |
+| newHeight | Double | Sayfa içeriğinin varsayılan alan birimlerinde yeni yüksekliği. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryResizeContents yöntemi, ResizeContents yöntemine benzer, ancak TryResizeContents yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryResizeContents metodu, ResizeContents metoduna benzer, ancak TryResizeContents metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 bool result = fileEditor.TryResizeContents(src, dest, 
-// belgenin tüm sayfalarını yeniden boyutlandır
+//resize all pages of document
 null, 
-//yeni içerik genişliği = 200
+//new contents width = 200
 200, 
-//yeni içerik yüksekliği = 300
+//new contents height = 300
 300);
-// sayfanın dinlenme alanı boş olacak
+// rest area of page will be empty
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_4}
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
-Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültülürse, sayfanın etrafına boş kenar boşlukları eklenir.
+Belgedeki sayfaların içeriğini yeniden boyutlandırır. Sayfa küçültüldüğünde sayfanın etrafına boş kenar boşlukları eklenir.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | source | String | Kaynak belge yolu. |
 | destination | String | Hedef belge yolu. |
-| pages | Int32[] | Sayfa dizinleri dizisi (sayfa dizini 1'den başlar). |
+| pages | Int32[] | Sayfa indekslerinin dizisi (sayfa indeksi 1'den başlar). |
 | parameters | ContentsResizeParameters | Sayfa yeniden boyutlandırma parametreleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeniden boyutlandırma başarılı olduysa true .
+Yeniden boyutlandırma başarılıysa true.
 
-### Notlar
+## Açıklamalar
 
-TryResizeContents yöntemi, ResizeContents yöntemine benzer, ancak TryResizeContents yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryResizeContents metodu, ResizeContents metoduna benzer, ancak TryResizeContents metodu işlem başarısız olursa bir istisna fırlatmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //sol kenar boşluğu = sayfa genişliğinin %10'u
+    //left margin = 10% of page width
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik genişliği otomatik olarak genişlik - sol kenar boşluğu - sağ kenar boşluğu (%100 - %10 - %10 = %80) olarak hesaplanır
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
     null,
-    //sağ kenar boşluğu sayfanın %10'udur 
+    //right margin is 10% of page 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //üst kenar boşluğu = yüksekliğin %10'u
+    //top margin = 10% of height
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //yeni içerik yüksekliği otomatik olarak hesaplanır (genişliğe benzer)
+    //new contents height is calculated automatically (similar to width)
     null,
-    //alt marj %10
+    //bottom margin is 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

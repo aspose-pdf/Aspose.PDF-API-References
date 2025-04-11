@@ -1,14 +1,14 @@
 ---
-title: Matrix3D
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: La classe représente la matrice de transformation.
+title: Class Matrix3D
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Matrix3D. La classe représente une matrice de transformation
 type: docs
-weight: 4750
+weight: 6930
 url: /fr/net/aspose.pdf/matrix3d/
 ---
-## Matrix3D class
+## Classe Matrix3D
 
-La classe représente la matrice de transformation.
+La classe représente une matrice de transformation.
 
 ```csharp
 public sealed class Matrix3D
@@ -16,43 +16,41 @@ public sealed class Matrix3D
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Matrix3D](matrix3d#constructor)() | Constructor crée une matrice standard 1 à 1 : [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
-| [Matrix3D](matrix3d#constructor_3)(double[]) | Constructor accepte une matrice avec la représentation de tableau suivante : [ ABCDEFGHI Tx Ty Tz] |
-| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | Constructor accepte une matrice pour créer une copie |
-| [Matrix3D](matrix3d#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | Initialise la matrice de transformation avec les coefficients spécifiés. |
+| [Matrix3D](matrix3d/#constructor)() | Le constructeur crée une matrice standard 1 à 1 : [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
+| [Matrix3D](matrix3d/#constructor_3)(double[]) | Le constructeur accepte une matrice avec la représentation de tableau suivante : [ A B C D E F G H I Tx Ty Tz] |
+| [Matrix3D](matrix3d/#constructor_1)(Matrix3D) | Le constructeur accepte une matrice pour créer une copie |
+| [Matrix3D](matrix3d/#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | Initialise la matrice de transformation avec les coefficients spécifiés. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [A](../../aspose.pdf/matrix3d/a) { get; set; } | Un membre de la matrice de transformation. |
-| [B](../../aspose.pdf/matrix3d/b) { get; set; } | Membre B de la matrice de transformation. |
-| [C](../../aspose.pdf/matrix3d/c) { get; set; } | Membre C de la matrice de transformation. |
-| [D](../../aspose.pdf/matrix3d/d) { get; set; } | Membre D de la matrice de transformation. |
-| [E](../../aspose.pdf/matrix3d/e) { get; set; } | E membre de la matrice de transformation. |
-| [F](../../aspose.pdf/matrix3d/f) { get; set; } | Membre F de la matrice de transformation. |
-| [G](../../aspose.pdf/matrix3d/g) { get; set; } | G membre de la matrice de transformation. |
-| [H](../../aspose.pdf/matrix3d/h) { get; set; } | H membre de la matrice de transformation. |
-| [I](../../aspose.pdf/matrix3d/i) { get; set; } | I membre de la matrice de transformation. |
-| [Tx](../../aspose.pdf/matrix3d/tx) { get; set; } | Tx membre de la matrice de transformation. |
-| [Ty](../../aspose.pdf/matrix3d/ty) { get; set; } | Ty membre de la matrice de transformation. |
-| [Tz](../../aspose.pdf/matrix3d/tz) { get; set; } | Tz membre de la matrice de transformation. |
+| [A](../../aspose.pdf/matrix3d/a/) { get; set; } | Membre A de la matrice de transformation. |
+| [B](../../aspose.pdf/matrix3d/b/) { get; set; } | Membre B de la matrice de transformation. |
+| [C](../../aspose.pdf/matrix3d/c/) { get; set; } | Membre C de la matrice de transformation. |
+| [D](../../aspose.pdf/matrix3d/d/) { get; set; } | Membre D de la matrice de transformation. |
+| [E](../../aspose.pdf/matrix3d/e/) { get; set; } | Membre E de la matrice de transformation. |
+| [F](../../aspose.pdf/matrix3d/f/) { get; set; } | Membre F de la matrice de transformation. |
+| [G](../../aspose.pdf/matrix3d/g/) { get; set; } | Membre G de la matrice de transformation. |
+| [H](../../aspose.pdf/matrix3d/h/) { get; set; } | Membre H de la matrice de transformation. |
+| [I](../../aspose.pdf/matrix3d/i/) { get; set; } | Membre I de la matrice de transformation. |
+| [Tx](../../aspose.pdf/matrix3d/tx/) { get; set; } | Membre Tx de la matrice de transformation. |
+| [Ty](../../aspose.pdf/matrix3d/ty/) { get; set; } | Membre Ty de la matrice de transformation. |
+| [Tz](../../aspose.pdf/matrix3d/tz/) { get; set; } | Membre Tz de la matrice de transformation. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/matrix3d/add)(Matrix3D) | Ajoute une matrice à une autre matrice. |
-| override [Equals](../../aspose.pdf/matrix3d/equals)(object) | Compare la matrice avec un autre objet. |
-| override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode)() | Code de hachage pour l'objet. |
-| override [ToString](../../aspose.pdf/matrix3d/tostring)() | Renvoie la représentation textuelle de la matrice. |
-| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Rotation transaltes en angle (degrés) |
+| [Add](../../aspose.pdf/matrix3d/add/)(Matrix3D) | Ajoute une matrice à une autre matrice. |
+| override [Equals](../../aspose.pdf/matrix3d/equals/)(object) | Compare la matrice avec un autre objet. |
+| override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode/)() | Code de hachage pour l'objet. |
+| override [ToString](../../aspose.pdf/matrix3d/tostring/)() | Renvoie la représentation textuelle de la matrice. |
+| static [GetAngle](../../aspose.pdf/matrix3d/getangle/)(Rotation) | Traduit la rotation en angle (degrés) |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

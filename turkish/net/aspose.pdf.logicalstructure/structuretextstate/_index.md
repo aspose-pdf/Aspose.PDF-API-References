@@ -1,41 +1,38 @@
 ---
-title: StructureTextState
-second_title: Aspose.PDF for .NET API Referansı
-description: Metin Yapısı Öğeleri ve TaggedContent ITextElement ITaggedContent için metin durumu ayarlarını temsil eder
+title: Class StructureTextState
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.StructureTextState sınıfı. Metin Yapı Elemanları ve Etiketli İçerik için metin durumu ayarlarını temsil eder. ITextElement ITaggedContent
 type: docs
-weight: 4540
+weight: 6710
 url: /tr/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## StructureTextState class
+## StructureTextState sınıfı
 
-Metin Yapısı Öğeleri ve TaggedContent (ITextElement, ITaggedContent) için metin durumu ayarlarını temsil eder
+Metin Yapı Elemanları ve Etiketli İçerik (ITextElement, ITaggedContent) için metin durumu ayarlarını temsil eder.
 
 ```csharp
 public class StructureTextState
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor) { get; set; } | Metnin arka plan rengini alır veya ayarlar. |
-| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing) { get; set; } | Metnin karakter aralığını alır veya ayarlar. |
-| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font) { get; set; } | Metnin yazı tipini alır veya ayarlar. |
-| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize) { get; set; } | Metnin yazı tipi boyutunu alır veya ayarlar. |
-| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle) { get; set; } | Metnin yazı tipi stilini alır veya ayarlar. |
-| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor) { get; set; } | Metnin ön plan rengini alır veya ayarlar. |
-| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling) { get; set; } | Metnin yatay ölçeklemesini alır veya ayarlar. |
-| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing) { get; set; } | Metnin satır aralığını alır veya ayarlar. |
-| [MarginInfo](../../aspose.pdf.logicalstructure/structuretextstate/margininfo) { get; set; } | Blok yapı öğesi için kenar boşluğunu alır veya ayarlar. |
-| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout) { get; set; } | Metin için üstü çizili alır veya ayarlar. |
-| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript) { get; set; } | Metnin alt simgesini alır veya ayarlar. |
-| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript) { get; set; } | Metnin üst simgesini alır veya ayarlar. |
-| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline) { get; set; } | Metnin altını alır veya ayarlar. |
-| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing) { get; set; } | Metnin sözcük aralığını alır veya ayarlar. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/) { get; set; } | Metnin arka plan rengini alır veya ayarlar. |
+| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing/) { get; set; } | Metnin karakter aralığını alır veya ayarlar. |
+| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font/) { get; set; } | Metnin fontunu alır veya ayarlar. |
+| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | Metnin font boyutunu alır veya ayarlar. |
+| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | Metnin font stilini alır veya ayarlar. |
+| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | Metnin ön plan rengini alır veya ayarlar. |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | Metnin yatay ölçeklemesini alır veya ayarlar. |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | Metnin satır aralığını alır veya ayarlar. |
+| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | Metin için üstü çizili ayarını alır veya ayarlar. |
+| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | Metnin alt simgesini alır veya ayarlar. |
+| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | Metnin üst simgesini alır veya ayarlar. |
+| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | Metin için altı çizili ayarını alır veya ayarlar. |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | Metnin kelime aralığını alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

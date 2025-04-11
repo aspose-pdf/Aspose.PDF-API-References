@@ -1,209 +1,207 @@
 ---
-title: FindFont
-second_title: Aspose.PDF for .NET API Referansı
-description: Belirtilen yazı tipi adıyla yazı tipini arar ve döndürür.
+title: FontRepository.FindFont
+second_title: Aspose.PDF for .NET API Reference
+description: FontRepository metodu. Belirtilen font adıyla font arar ve döndürür
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.text/fontrepository/findfont/
 ---
 ## FindFont(string) {#findfont}
 
-Belirtilen yazı tipi adıyla yazı tipini arar ve döndürür.
+Belirtilen font adıyla font arar ve döndürür.
 
 ```csharp
 public static Font FindFont(string fontName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Yazı tipi adı. |
+| fontName | String | Font adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi nesnesi.
+Font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl bulunacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, font bulmayı ve ilk sayfadaki metnin fontunu değiştirmeyi gösterir.
 
 ```csharp
-// Yazı tipini bul
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Font](../../font/)
+* sınıf [FontRepository](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, bool) {#findfont_3}
 
-Büyük/küçük harf duyarlılığını yok sayarak veya dikkate alarak belirtilen yazı tipi adıyla yazı tipini arar ve döndürür.
+Belirtilen font adıyla font arar ve büyük/küçük harf duyarlılığını göz ardı eder veya dikkate alır.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Yazı tipi adı. |
-| ignoreCase | Boolean | büyük küçük harf duyarlılığı |
+| fontName | String | Font adı. |
+| ignoreCase | Boolean | büyük/küçük harf duyarlılığı |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazı tipi nesnesi.
+Font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl bulunacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, font bulmayı ve ilk sayfadaki metnin fontunu değiştirmeyi gösterir.
 
 ```csharp
-// Yazı tipini bul
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Font](../../font/)
+* sınıf [FontRepository](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Belirtilen yazı tipi adı ve yazı tipi stili ile yazı tipini arar ve döndürür.
+Belirtilen font adı ve font stiliyle font arar ve döndürür.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontFamilyName | String | Yazı tipi ailesi adı. |
-| stl | FontStyles | Yazı tipi stili değeri. |
+| fontFamilyName | String | Font aile adı. |
+| stl | FontStyles | Font stil değeri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Arama isteği parametrelerine karşılık gelen yazı tipi nesnesi.
+Arama isteği parametrelerine karşılık gelen font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl bulunacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, font bulmayı ve ilk sayfadaki metnin fontunu değiştirmeyi gösterir.
 
 ```csharp
-// Yazı tipini bul
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* sınıf [FontRepository](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Belirtilen yazı tipi adı ve yazı tipi stiliyle yazı tipini arar ve döndürür büyük/küçük harf duyarlılığını yok sayar veya dikkate alır.
+Belirtilen font adı ve font stiliyle font arar ve büyük/küçük harf duyarlılığını göz ardı eder veya dikkate alır.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontFamilyName | String | Yazı tipi ailesi adı. |
-| stl | FontStyles | Yazı tipi stili değeri. |
-| ignoreCase | Boolean | büyük küçük harf duyarlılığı |
+| fontFamilyName | String | Font aile adı. |
+| stl | FontStyles | Font stil değeri. |
+| ignoreCase | Boolean | büyük/küçük harf duyarlılığı |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Arama isteği parametrelerine karşılık gelen yazı tipi nesnesi.
+Arama isteği parametrelerine karşılık gelen font nesnesi.
 
-### Örnekler
+## Örnekler
 
-Örnek, yazı tipinin nasıl bulunacağını ve ilk sayfa metninin yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, font bulmayı ve ilk sayfadaki metnin fontunu değiştirmeyi gösterir.
 
 ```csharp
-// Yazı tipini bul
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun yazı tipini değiştir
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* ad alanı [Aspose.Pdf.Text](../../fontrepository)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* sınıf [FontRepository](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)

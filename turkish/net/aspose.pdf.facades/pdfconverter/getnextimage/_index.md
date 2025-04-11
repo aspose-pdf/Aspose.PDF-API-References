@@ -1,67 +1,67 @@
 ---
-title: GetNextImage
-second_title: Aspose.PDF for .NET API Referansı
-description: Görüntüyü varsayılan görüntü biçimiyle dosyaya kaydeder - jpeg.
+title: PdfConverter.GetNextImage
+second_title: Aspose.PDF for .NET API Reference
+description: PdfConverter metodu. Varsayılan resim formatı jpeg ile resmi dosyaya kaydeder
 type: docs
 weight: 140
 url: /tr/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-Görüntüyü varsayılan görüntü biçimiyle dosyaya kaydeder - jpeg.
+Varsayılan resim formatı - jpeg ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize) {#getnextimage_10}
 
-Görüntüyü belirtilen sayfa boyutu ve varsayılan görüntü biçimiyle dosyaya kaydeder - jpeg.
+Verilen sayfa boyutu ve varsayılan resim formatı - jpeg ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_13}
 
-Görüntüyü verilen görüntü biçimiyle dosyaya kaydeder.
+Verilen resim formatı ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | format | ImageFormat | Resmin formatı. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -90,141 +90,141 @@ While converter.HasNextImage()
 End While
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-Görüntüyü belirtilen sayfa boyutu ve görüntü biçimiyle dosyaya kaydeder.
+Verilen sayfa boyutu ve resim formatı ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 | format | ImageFormat | Resmin formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Görüntüyü varsayılan görüntü biçimiyle akışa kaydeder - jpeg.
+Varsayılan resim formatı - jpeg ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize) {#getnextimage_1}
 
-Görüntüyü verilen sayfa boyutuyla akışa kaydeder.
+Verilen sayfa boyutu ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
 
-Görüntüyü, verilen görüntü biçimiyle akışa kaydeder.
+Verilen resim formatı ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | format | ImageFormat | Resmin formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_2}
 
-Görüntüyü verilen sayfa boyutuyla akışa kaydeder.
+Verilen sayfa boyutu ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 | format | ImageFormat | Resmin formatı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-Görüntüyü verilen görüntü formatı, boyutları ve kalitesiyle dosyaya kaydeder.
+Verilen resim formatı, boyutları ve kalitesi ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Resmin genişliği, birim piksel. |
+| imageHeight | Int32 | Resmin yüksekliği, birim piksel. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -253,57 +253,57 @@ While converter.HasNextImage()
 End While
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-Verilen görüntü formatı, boyutları ve kalitesi ile görüntüyü akışa kaydeder.
+Verilen resim formatı, boyutları ve kalitesi ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Resmin genişliği, birim piksel. |
+| imageHeight | Int32 | Resmin yüksekliği, birim piksel. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-Görüntüyü, verilen görüntü formatı, görüntü boyutu ve kalitesiyle dosyaya kaydeder.
+Verilen resim formatı, resim boyutu ve kalitesi ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Double | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Double | Görüntü yüksekliği, birimi pikseldir.. |
+| imageWidth | Double | Resmin genişliği, birim piksel. |
+| imageHeight | Double | Resmin yüksekliği, birim piksel. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -336,55 +336,55 @@ While converter.HasNextImage()
 End While
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-Görüntü formatı, boyutu ve kalitesi ile akış için görüntüyü kaydeder.
+Verilen resim formatı, boyutu ve kalitesi ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Double | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Double | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Double | Resmin genişliği, birim piksel. |
+| imageHeight | Double | Resmin yüksekliği, birim piksel. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-Görüntüyü verilen görüntü formatı ve boyutlarıyla dosyaya kaydeder.
+Verilen resim formatı ve boyutları ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Resmin genişliği, birim piksel. |
+| imageHeight | Int32 | Resmin yüksekliği, birim piksel. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 [C#]
@@ -413,125 +413,123 @@ While converter.HasNextImage()
 End While
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-Görüntü formatı, boyutu ve kalitesi ile akış için görüntüyü kaydeder.
+Verilen resim formatı, boyutu ve kalitesi ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | format | ImageFormat | Resmin formatı. |
-| imageWidth | Int32 | Görüntü genişliği, birimi pikseldir. |
-| imageHeight | Int32 | Görüntü yüksekliği, birim pikseldir. |
+| imageWidth | Int32 | Resmin genişliği, birim piksel. |
+| imageHeight | Int32 | Resmin yüksekliği, birim piksel. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-Görüntüyü, verilen görüntü formatı ve kalitesiyle akışa kaydeder.
+Verilen resim formatı ve kalitesi ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | format | ImageFormat | Resmin formatı. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-Görüntüyü belirtilen sayfa boyutu, görüntü formatı ve kalitesiyle akışa kaydeder.
+Verilen sayfa boyutu, resim formatı ve kalitesi ile resmi akışa kaydeder.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputStream | Stream | Görüntüyü kaydetmek için akış. |
+| outputStream | Stream | Resmi kaydetmek için akış. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 | format | ImageFormat | Resmin formatı. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-Görüntüyü, verilen görüntü formatı ve kalitesiyle dosyaya kaydeder.
+Verilen resim formatı ve kalitesi ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | format | ImageFormat | Resmin formatı. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-Görüntüyü belirtilen sayfa boyutu, görüntü formatı ve kalitesiyle dosyaya kaydeder.
+Verilen sayfa boyutu, resim formatı ve kalitesi ile resmi dosyaya kaydeder.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| outputFile | String | Resmin kaydedileceği dosya yolu ve adı. |
+| outputFile | String | Resmi kaydetmek için dosya yolu ve adı. |
 | pageSize | PageSize | Resmin sayfa boyutu. |
 | format | ImageFormat | Resmin formatı. |
 | quality | Int32 | Jpeg dosyasının kalitesi (0~100), 0 en düşük ve 100 en yüksek |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* ad alanı [Aspose.Pdf.Facades](../../pdfconverter)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [PdfConverter](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

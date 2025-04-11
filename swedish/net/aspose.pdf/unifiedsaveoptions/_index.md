@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions
-second_title: Aspose.PDF för .NET API Referens
-description: Den här klassen representerar sparalternativ för att spara som använder enhetligt konverteringssätt med enhetlig intern dokumentmodell
+title: Class UnifiedSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.UnifiedSaveOptions klass. Denna klass representerar sparalternativ för sparande som använder en enhetlig konverteringsmetod med en enhetlig intern dokumentmodell
 type: docs
-weight: 7280
+weight: 11140
 url: /sv/net/aspose.pdf/unifiedsaveoptions/
 ---
-## UnifiedSaveOptions class
+## UnifiedSaveOptions klass
 
-Den här klassen representerar sparalternativ för att spara som använder enhetligt konverteringssätt (med enhetlig intern dokumentmodell)
+Denna klass representerar sparalternativ för sparande som använder en enhetlig konverteringsmetod (med en enhetlig intern dokumentmodell)
 
 ```csharp
 public class UnifiedSaveOptions : SaveOptions
@@ -16,29 +16,29 @@ public class UnifiedSaveOptions : SaveOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [UnifiedSaveOptions](unifiedsaveoptions)() | Default_Constructor |
+| [UnifiedSaveOptions](unifiedsaveoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Hämtar eller ställer in booleskt värde som indikerar kommer Response-objektet att stängas efter att dokumentet har sparats i respons. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Det här attributet aktiverade funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-underlager. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format för att spara data. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction enum-objektet som anger antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och åtgärden Spara fortsätter, men användaren kan också returnera Avbryt i vilket fall åtgärden Spara bör upphöra. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller ställer in ett boolean-värde som indikerar om teckensnittsglypher ska cachas medan aps-sidor förbereds. Förbättrar prestanda vid konvertering av pdf till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller ställer in ett boolean-värde som indikerar om Response-objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Denna attribut aktiverar funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-sublager. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Ibland innehåller PDF-filer bakgrundsbilder (av sidor eller tabellceller) konstruerade av flera samma sida vid sida bakgrundsbilder placerade nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser av bakgrundsbilder mellan delar av bakgrundsbilder , orsakar att deras tekniker för bildkantsutjämning (kantutjämning) skiljer sig från Acrobat Reader. Om det ser ut som att det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, försök använda den här inställningen för att bli av med oönskad effekt. OBS! Denna optimering av kvalitet saktar vanligtvis ner konverteringen, så använd det här alternativet endast när det verkligen är nödvändigt. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Bearbeta sidor i flera trådar. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Ibland innehåller PDF-filer bakgrundsbilder (av sidor eller tabellceller) som är konstruerade av flera samma mönstrade bakgrundsbilder som placerats nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser mellan delar av bakgrundsbilder, eftersom deras tekniker för bildkantutjämning (anti-aliasing) skiljer sig från Acrobat Reader. Om det ser ut som det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, vänligen försök att använda denna inställning för att bli av med den oönskade effekten. OBS! Denna kvalitetsoptimering saktar vanligtvis ner konverteringen avsevärt, så använd denna alternativ endast när det verkligen är nödvändigt. |
 
-### Se även
+### Se Även
 
-* class [SaveOptions](../saveoptions)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [SaveOptions](../saveoptions/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

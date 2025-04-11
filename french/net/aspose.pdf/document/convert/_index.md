@@ -1,116 +1,12 @@
 ---
-title: Convert
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Convertit le fichier source au format source en fichier de destination au format de destination.
+title: Document.Convert
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode Document. Convertir le document et enregistrer les erreurs dans le fichier spécifié
 type: docs
-weight: 790
+weight: 580
 url: /fr/net/aspose.pdf/document/convert/
 ---
-## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
-
-Convertit le fichier source au format source en fichier de destination au format de destination.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| srcFileName | String | Le nom du fichier source. |
-| loadOptions | LoadOptions | Le format du fichier source. |
-| dstFileName | String | Le nom du fichier de destination. |
-| saveOptions | SaveOptions | Le format du fichier de destination. |
-
-### Voir également
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
-
-Convertit le flux au format source en fichier de destination au format de destination.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
-    SaveOptions saveOptions)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| srcStream | Stream | Le flux source. |
-| loadOptions | LoadOptions | Format du flux source. |
-| dstFileName | String | Le nom du fichier de destination. |
-| saveOptions | SaveOptions | Le format du fichier de destination. |
-
-### Voir également
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
-
-Convertit le fichier source au format source en flux au format de destination.
-
-```csharp
-public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| srcFileName | String | Le nom du fichier source. |
-| loadOptions | LoadOptions | Le format du fichier source. |
-| dstStream | Stream | Le flux de destination. |
-| saveOptions | SaveOptions | Format du flux de destination. |
-
-### Voir également
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
-
-Convertit le flux au format source en flux au format de destination.
-
-```csharp
-public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
-    SaveOptions saveOptions)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| srcStream | Stream | Le flux source. |
-| loadOptions | LoadOptions | Format du flux source. |
-| dstStream | Stream | Le flux de destination. |
-| saveOptions | SaveOptions | Le format du fichier de destination. |
-
-### Voir également
-
-* class [LoadOptions](../../loadoptions)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
----
-
-## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_7}
+## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
 
 Convertir le document et enregistrer les erreurs dans le fichier spécifié.
 
@@ -119,29 +15,29 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
     ConvertTransparencyAction transparencyAction)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin d'accès au fichier dans lequel les commentaires seront stockés. |
+| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
-| transparencyAction | ConvertTransparencyAction | Action pour les objets masqués par l'image |
+| transparencyAction | ConvertTransparencyAction | Action pour les objets d'image masqués |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération
 
-### Voir également
+### Voir aussi
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_5}
+## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_6}
 
 Convertir le document et enregistrer les erreurs dans le fichier spécifié.
 
@@ -150,29 +46,29 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
     ConvertTransparencyAction transparencyAction)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream où les commentaires seront stockés. |
+| outputLogStream | Stream | Flux où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
-| transparencyAction | ConvertTransparencyAction | Action pour les objets masqués par l'image |
+| transparencyAction | ConvertTransparencyAction | Action pour les objets d'image masqués |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération
 
-### Voir également
+### Voir aussi
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* enum [ConvertTransparencyAction](../../converttransparencyaction)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(string, PdfFormat, ConvertErrorAction) {#convert_6}
+## Convert(string, PdfFormat, ConvertErrorAction) {#convert_7}
 
 Convertir le document et enregistrer les erreurs dans le fichier spécifié.
 
@@ -180,23 +76,23 @@ Convertir le document et enregistrer les erreurs dans le fichier spécifié.
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin d'accès au fichier dans lequel les commentaires seront stockés. |
+| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération
 
-### Voir également
+### Voir aussi
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -208,49 +104,76 @@ Convertir le document en utilisant les options de conversion spécifiées
 public bool Convert(PdfFormatConversionOptions options)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | ensemble d'options pour convertir un document PDF |
+| options | PdfFormatConversionOptions | ensemble d'options pour convertir le document PDF |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération
 
-### Voir également
+### Voir aussi
 
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(CallBackGetHocr) {#convert_3}
+## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-Convertir le document et enregistrer les erreurs dans le fichier spécifié.
+Reconnaître les images à l'intérieur du document et ajouter des chaînes hocr par-dessus.
 
 ```csharp
-public bool Convert(CallBackGetHocr callback)
+public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| callback | CallBackGetHocr | Action pour les objets qui ne peuvent pas être convertis |
+| callback | CallBackGetHocrWithPage | Action pour les images qui seront traitées par la reconnaissance hocr. |
+| flattenImages | Boolean | Le texte dans les images pdf peut être peint en utilisant les mécanismes de masques, auquel cas les images doivent être aplaties. |
 
-### Return_Value
+### Valeur de retour
 
-Le résultat de l'opération
+Le résultat de l'opération. S'il n'y a pas d'images dans le document, retourne !:false.
 
-### Voir également
+### Voir aussi
 
-* delegate [CallBackGetHocr](../../document.callbackgethocr)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_4}
+## Convert(CallBackGetHocr, bool) {#convert_3}
+
+Reconnaître les images à l'intérieur du document et ajouter des chaînes hocr par-dessus.
+
+```csharp
+public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| callback | CallBackGetHocr | Action pour les images qui seront traitées par la reconnaissance hocr. |
+| flattenImages | Boolean | Le texte dans les images pdf peut être peint en utilisant les mécanismes de masques, auquel cas les images doivent être aplaties. |
+
+### Valeur de retour
+
+Le résultat de l'opération. S'il n'y a pas d'images dans le document, retourne !:false.
+
+### Voir aussi
+
+* delegate [CallBackGetHocr](../../document.callbackgethocr/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_5}
 
 Convertir le document et enregistrer les erreurs dans le flux spécifié.
 
@@ -258,23 +181,23 @@ Convertir le document et enregistrer les erreurs dans le flux spécifié.
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream où les commentaires seront stockés. |
-| format | PdfFormat | Format PDF. |
+| outputLogStream | Stream | Flux où les commentaires seront stockés. |
+| format | PdfFormat | Format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération
 
-### Voir également
+### Voir aussi
 
-* enum [PdfFormat](../../pdfformat)
-* enum [ConvertErrorAction](../../converterroraction)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -287,23 +210,23 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
     object[] parameters = null)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fixup | Fixup | Le type de correction. |
+| fixup | Fixup | Le type de Fixup. |
 | outputLog | Stream | Le journal du processus. |
-| onlyValidation | Boolean | Uniquement la validation des documents. |
-| parameters | Object[] | Propriétés de Fixup qui ne peuvent pas être définies. |
+| onlyValidation | Boolean | Validation uniquement du document. |
+| parameters | Object[] | Propriétés pour Fixup qui ne peuvent pas être définies. |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération.
 
-### Voir également
+### Voir aussi
 
-* enum [Fixup](../../fixup)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -316,22 +239,124 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
     object[] parameters = null)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fixup | Fixup | Le type de correction. |
+| fixup | Fixup | Le type de Fixup. |
 | outputLog | String | Le journal du processus. |
-| onlyValidation | Boolean | Uniquement la validation des documents. |
-| parameters | Object[] | Propriétés de Fixup qui ne peuvent pas être définies. |
+| onlyValidation | Boolean | Validation uniquement du document. |
+| parameters | Object[] | Propriétés pour Fixup qui ne peuvent pas être définies. |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opération.
 
-### Voir également
+### Voir aussi
 
-* enum [Fixup](../../fixup)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
+
+Convertit le fichier source dans le format source en fichier de destination dans le format de destination.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| srcFileName | String | Le nom du fichier source. |
+| loadOptions | LoadOptions | Le format du fichier source. |
+| dstFileName | String | Le nom du fichier de destination. |
+| saveOptions | SaveOptions | Le format du fichier de destination. |
+
+### Voir aussi
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
+
+Convertit le flux dans le format source en fichier de destination dans le format de destination.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | Le flux source. |
+| loadOptions | LoadOptions | Le format du flux source. |
+| dstFileName | String | Le nom du fichier de destination. |
+| saveOptions | SaveOptions | Le format du fichier de destination. |
+
+### Voir aussi
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
+
+Convertit le fichier source dans le format source en flux dans le format de destination.
+
+```csharp
+public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| srcFileName | String | Le nom du fichier source. |
+| loadOptions | LoadOptions | Le format du fichier source. |
+| dstStream | Stream | Le flux de destination. |
+| saveOptions | SaveOptions | Le format du flux de destination. |
+
+### Voir aussi
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
+
+Convertit le flux dans le format source en flux dans le format de destination.
+
+```csharp
+public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | Le flux source. |
+| loadOptions | LoadOptions | Le format du flux source. |
+| dstStream | Stream | Le flux de destination. |
+| saveOptions | SaveOptions | Le format du fichier de destination. |
+
+### Voir aussi
+
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

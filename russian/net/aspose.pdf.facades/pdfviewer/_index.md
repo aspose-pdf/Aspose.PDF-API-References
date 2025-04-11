@@ -1,14 +1,14 @@
 ---
-title: PdfViewer
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет класс для просмотра или печати PDF-файла.
+title: Class PdfViewer
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Facades.PdfViewer. Представляет класс для просмотра или печати pdf
 type: docs
-weight: 2640
+weight: 4630
 url: /ru/net/aspose.pdf.facades/pdfviewer/
 ---
-## PdfViewer class
+## Класс PdfViewer
 
-Представляет класс для просмотра или печати PDF-файла.
+Представляет класс для просмотра или печати pdf.
 
 ```csharp
 public sealed class PdfViewer : IFacade
@@ -18,62 +18,70 @@ public sealed class PdfViewer : IFacade
 
 | Имя | Описание |
 | --- | --- |
-| [PdfViewer](pdfviewer#constructor)() | Инициализирует новый[`PdfViewer`](../pdfviewer) объект. |
-| [PdfViewer](pdfviewer#constructor_1)(Document) | Инициализирует новый[`PdfViewer`](../pdfviewer) объект. |
+| [PdfViewer](pdfviewer/#constructor)() | Инициализирует новый объект `PdfViewer`. |
+| [PdfViewer](pdfviewer/#constructor_1)(Document) | Инициализирует новый объект `PdfViewer`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AutoResize](../../aspose.pdf.facades/pdfviewer/autoresize) { get; set; } | Получает или задает логическое значение, указывающее, будет ли файл распечатан с оптимизированным размером.  Если false, напечатать страницу без масштабирования страницы. Если true, напечатать страницу с масштабированием, чтобы оно соответствовало области печати. |
-| [AutoRotate](../../aspose.pdf.facades/pdfviewer/autorotate) { get; set; } | Получает или задает логическое значение, указывающее, следует ли печатать файл с автоматическим поворотом |
-| [AutoRotateMode](../../aspose.pdf.facades/pdfviewer/autorotatemode) { get; set; } | Получает или задает значение AutoRotateMode, указывающее направление вращения |
-| [CoordinateType](../../aspose.pdf.facades/pdfviewer/coordinatetype) { get; set; } | Получает или задает тип координат страницы (поля мультимедиа/обрезки). Значение CropBox используется по умолчанию. |
-| [FormPresentationMode](../../aspose.pdf.facades/pdfviewer/formpresentationmode) { get; set; } | Получает или задает режим представления формы. |
-| [HorizontalAlignment](../../aspose.pdf.facades/pdfviewer/horizontalalignment) { get; set; } | Получает или задает значение, указывающее горизонтальное выравнивание |
-| [PageCount](../../aspose.pdf.facades/pdfviewer/pagecount) { get; } | Получает количество страниц текущего файла Pdf. |
-| [Password](../../aspose.pdf.facades/pdfviewer/password) { get; set; } | Получает или устанавливает пароль входного документа. |
-| [PrintAsGrayscale](../../aspose.pdf.facades/pdfviewer/printasgrayscale) { get; set; } | Получает или задает логическое значение, указывающее, печатается ли страница в оттенках серого. По умолчанию false. |
-| [PrintAsImage](../../aspose.pdf.facades/pdfviewer/printasimage) { get; set; } | Устанавливает или получает режим печати PdfViewer как изображения. |
-| [PrinterJobName](../../aspose.pdf.facades/pdfviewer/printerjobname) { get; set; } | Получает или задает имя документа в очереди печати при печати документа. Значение по умолчанию — имя файла. |
-| [PrintPageDialog](../../aspose.pdf.facades/pdfviewer/printpagedialog) { get; set; } | Получает или задает логическое значение, указывающее, следует ли создавать диалоговое окно номера страницы при печати. |
-| [PrintStatus](../../aspose.pdf.facades/pdfviewer/printstatus) { get; } | Получает результат задания на печать. Если успех, чем ноль; в противном случае объект исключения. |
-| [RenderingOptions](../../aspose.pdf.facades/pdfviewer/renderingoptions) { get; set; } | Получает или задает параметры рендеринга. |
-| [Resolution](../../aspose.pdf.facades/pdfviewer/resolution) { get; set; } | Получает или задает разрешение при просмотре и печати. Чем выше разрешение, тем ниже скорость. Значение по умолчанию: 150. . |
-| [ScaleFactor](../../aspose.pdf.facades/pdfviewer/scalefactor) { get; set; } | Получает или задает значение с плавающей запятой, указывающее коэффициент масштабирования. Значение по умолчанию: 1.0. . |
-| [UseIntermidiateImage](../../aspose.pdf.facades/pdfviewer/useintermidiateimage) { get; set; } | Получает/задает использование преобразования страницы pdf в промежуточный файл png при печати в файловом режиме. Используйте его, когда важен размер выходного файла. |
-| [VerticalAlignment](../../aspose.pdf.facades/pdfviewer/verticalalignment) { get; set; } | Получает или задает значение, указывающее вертикальное выравнивание |
+| [AutoResize](../../aspose.pdf.facades/pdfviewer/autoresize/) { get; set; } | Получает или задает значение типа bool, которое указывает, будет ли файл напечатан с оптимизированным размером. Если false, печатать страницу без масштабирования. Если true, печатать страницу с масштабированием, чтобы она соответствовала печатной области. |
+| [AutoRotate](../../aspose.pdf.facades/pdfviewer/autorotate/) { get; set; } | Получает или задает значение типа bool, которое указывает, будет ли файл напечатан с автоматическим поворотом. |
+| [AutoRotateMode](../../aspose.pdf.facades/pdfviewer/autorotatemode/) { get; set; } | Получает или задает значение AutoRotateMode, которое указывает направление поворота. |
+| [CoordinateType](../../aspose.pdf.facades/pdfviewer/coordinatetype/) { get; set; } | Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию. |
+| [FormPresentationMode](../../aspose.pdf.facades/pdfviewer/formpresentationmode/) { get; set; } | Получает или задает режим представления формы. |
+| [HorizontalAlignment](../../aspose.pdf.facades/pdfviewer/horizontalalignment/) { get; set; } | Получает или задает значение, которое указывает горизонтальное выравнивание. |
+| [PageCount](../../aspose.pdf.facades/pdfviewer/pagecount/) { get; } | Получает количество страниц текущего Pdf файла. |
+| [Password](../../aspose.pdf.facades/pdfviewer/password/) { get; set; } | Получает или задает пароль для входного документа. |
+| [PrintAsGrayscale](../../aspose.pdf.facades/pdfviewer/printasgrayscale/) { get; set; } | Получает или задает значение типа bool, которое указывает, будет ли страница напечатана в градациях серого. По умолчанию false. |
+| [PrintAsImage](../../aspose.pdf.facades/pdfviewer/printasimage/) { get; set; } | Устанавливает или получает режим для PdfViewer, чтобы печатать как изображение. |
+| [PrinterJobName](../../aspose.pdf.facades/pdfviewer/printerjobname/) { get; set; } | Получает или задает имя документа в очереди печати, когда документ печатается. Значение по умолчанию - имя файла. |
+| [PrintPageDialog](../../aspose.pdf.facades/pdfviewer/printpagedialog/) { get; set; } | Получает или задает значение типа bool, которое указывает, следует ли выводить диалог номера страницы при печати. |
+| [PrintStatus](../../aspose.pdf.facades/pdfviewer/printstatus/) { get; } | Получает результат задания печати. Если успешно, то null; в противном случае объект исключения. |
+| [RenderingOptions](../../aspose.pdf.facades/pdfviewer/renderingoptions/) { get; set; } | Получает или задает параметры рендеринга. |
+| [Resolution](../../aspose.pdf.facades/pdfviewer/resolution/) { get; set; } | Получает или задает разрешение при просмотре и печати. Чем выше разрешение, тем медленнее скорость. Значение по умолчанию - 150. |
+| [ScaleFactor](../../aspose.pdf.facades/pdfviewer/scalefactor/) { get; set; } | Получает или задает значение с плавающей точкой, которое указывает коэффициент масштабирования. Значение по умолчанию - 1.0. |
+| [UseIntermidiateImage](../../aspose.pdf.facades/pdfviewer/useintermidiateimage/) { get; set; } | Получает/задает использование преобразования страницы pdf в промежуточный png файл во время печати в файловом режиме. Используйте это, когда размер выходного файла важен. |
+| [VerticalAlignment](../../aspose.pdf.facades/pdfviewer/verticalalignment/) { get; set; } | Получает или задает значение, которое указывает вертикальное выравнивание. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf)(Document) | Инициализирует фасад. |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_1)(Stream) | Инициализирует фасад. |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_2)(string) | Инициализирует фасад. |
-| [Close](../../aspose.pdf.facades/pdfviewer/close)() | Закрывает фасад. |
-| [DecodeAllPages](../../aspose.pdf.facades/pdfviewer/decodeallpages)() | Получить страницы текущего pdf-файла. |
-| [DecodePage](../../aspose.pdf.facades/pdfviewer/decodepage)(int) | Декодирует страницу одного файла Pdf. |
-| [Dispose](../../aspose.pdf.facades/pdfviewer/dispose)() | Удаляет ресурсы фасада. |
-| [GetDefaultPageSettings](../../aspose.pdf.facades/pdfviewer/getdefaultpagesettings)() | Получает настройки страницы по умолчанию. |
-| [GetDefaultPrinterSettings](../../aspose.pdf.facades/pdfviewer/getdefaultprintersettings)() | Получает настройки принтера по умолчанию. |
-| [PrintDocument](../../aspose.pdf.facades/pdfviewer/printdocument)() | Печать документа Pdf на принтере по умолчанию. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings_1)(PrinterSettings) | Печать документа Pdf с настройками принтера. Размер выходной страницы будет соответствовать размеру первой страницы документа. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings)(PageSettings, PrinterSettings) | Печать документа Pdf с настройками. Если размер документа не соответствует размеру страницы, pdf.kit расширит его до размера страницы. |
-| [PrintDocumentWithSetup](../../aspose.pdf.facades/pdfviewer/printdocumentwithsetup)() | Печать документа Pdf с диалоговым окном настройки. Выберите принтер в диалоговом окне. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf)(Stream) | Открывает и печатает большой поток PDF. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_3)(string) | Открывает и печатает большой файл PDF. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_2)(Stream, PrinterSettings) | Открывает и печатает большой поток Pdf с указанными настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_5)(string, PrinterSettings) | Открывает и печатает большой файл PDF с указанными настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_1)(Stream, PageSettings, PrinterSettings) | Открывает и печатает большой поток PDF с указанными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц и более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности . |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_4)(string, PageSettings, PrinterSettings) | Открывает и печатает большой файл Pdf с заданными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод, чтобы повысить производительность. |
-| [Save](../../aspose.pdf.facades/pdfviewer/save#save)(Stream) | Сохраняет полученный PDF-документ в поток. |
-| [Save](../../aspose.pdf.facades/pdfviewer/save#save_1)(string) | Сохраняет результирующий PDF-документ в файл. |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf/#bindpdf)(Document) | Инициализирует фасад. |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf/#bindpdf_1)(Stream) | Инициализирует фасад. |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf/#bindpdf_2)(string) | Инициализирует фасад. |
+| [Close](../../aspose.pdf.facades/pdfviewer/close/)() | Закрывает фасад. |
+| [DecodeAllPages](../../aspose.pdf.facades/pdfviewer/decodeallpages/)() | Получает страницы текущего pdf файла. |
+| [DecodePage](../../aspose.pdf.facades/pdfviewer/decodepage/)(int) | Декодирует страницу одного Pdf файла. |
+| [Dispose](../../aspose.pdf.facades/pdfviewer/dispose/)() | Освобождает ресурсы фасада. |
+| [GetDefaultPageSettings](../../aspose.pdf.facades/pdfviewer/getdefaultpagesettings/)() | Получает настройки страницы по умолчанию. |
+| [GetDefaultPrinterSettings](../../aspose.pdf.facades/pdfviewer/getdefaultprintersettings/)() | Получает настройки принтера по умолчанию. |
+| [PrintDocument](../../aspose.pdf.facades/pdfviewer/printdocument/)() | Печатает Pdf документ с использованием принтера по умолчанию. |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings_1)(PrinterSettings) | Печатает Pdf документ с настройками принтера. Размер выходной страницы будет соответствовать размеру первой страницы документа. |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings/#printdocumentwithsettings)(PageSettings, PrinterSettings) | Печатает Pdf документ с настройками. Если размер документа не соответствует размеру страницы, он будет увеличен, чтобы соответствовать размеру страницы. |
+| [PrintDocumentWithSetup](../../aspose.pdf.facades/pdfviewer/printdocumentwithsetup/)() | Печатает Pdf документ с диалогом настройки. Выберите принтер с помощью диалога. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf)(Stream) | Открывает и печатает большой поток Pdf. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_3)(string) | Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_2)(Stream, PrinterSettings) | Открывает и печатает большой поток Pdf с указанными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_5)(string, PrinterSettings) | Открывает и печатает большой Pdf файл с указанными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_1)(Stream, PageSettings, PrinterSettings) | Открывает и печатает большой поток Pdf с указанными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf/#printlargepdf_4)(string, PageSettings, PrinterSettings) | Открывает и печатает большой Pdf файл с указанными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, этот метод рекомендуется для достижения лучшей производительности. |
+| [Save](../../aspose.pdf.facades/pdfviewer/save/#save)(Stream) | Сохраняет результирующий PDF документ в поток. |
+| [Save](../../aspose.pdf.facades/pdfviewer/save/#save_1)(string) | Сохраняет результирующий PDF документ в файл. |
 
-### Смотрите также
+## События
 
-* interface [IFacade](../ifacade)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* сборка [Aspose.PDF](../../)
+| Имя | Описание |
+| --- | --- |
+| event [CustomPrint](../../aspose.pdf.facades/pdfviewer/customprint/) | Происходит перед началом печати и позволяет предоставить пользовательские обработчики печати вместо стандартного. |
+| event [EndPage](../../aspose.pdf.facades/pdfviewer/endpage/) | Происходит, когда печать страницы заканчивается в PdfViewer. |
+| event [EndPrint](../../aspose.pdf.facades/pdfviewer/endprint/) | Добавляет/удаляет подписку на событие печати последней страницы. |
+| event [PdfQueryPageSettings](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) | Добавляет/удаляет подписку на событие печати последней страницы. |
+| event [StartPage](../../aspose.pdf.facades/pdfviewer/startpage/) | Происходит перед началом печати страницы. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+### См. также
+
+* interface [IFacade](../ifacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

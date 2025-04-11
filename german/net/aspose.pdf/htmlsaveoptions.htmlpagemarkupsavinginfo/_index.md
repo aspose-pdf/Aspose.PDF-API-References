@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Wenn SplitToPages-Eigenschaft von HtmlSaveOptions dann werden mehrere HTML-Dateien eine HTML-Datei pro konvertierter Seite während der Konvertierung von PDF nach HTML erstellt. Diese Klasse stellt eine Reihe von Daten dar die sich auf das benutzerdefinierte Speichern des Markups einer HTML-Seite während der Konvertierung von PDF in HTML beziehen.
+title: Class HtmlSaveOptions.HtmlPageMarkupSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo-Klasse. Wenn die SplitToPages-Eigenschaft von HtmlSaveOptions gesetzt ist, werden während der Konvertierung von PDF zu HTML mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Klasse stellt eine Menge von Daten dar, die mit dem benutzerdefinierten Speichern des Markups einer HTML-Seite während der Konvertierung von PDF zu HTML verbunden sind.
 type: docs
-weight: 3540
+weight: 5670
 url: /de/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingInfo class
+## Klasse HtmlSaveOptions.HtmlPageMarkupSavingInfo
 
-Wenn SplitToPages-Eigenschaft von HtmlSaveOptions, dann werden mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) während der Konvertierung von PDF nach HTML erstellt. Diese Klasse stellt eine Reihe von Daten dar, die sich auf das benutzerdefinierte Speichern des Markups einer HTML-Seite während der Konvertierung von PDF in HTML beziehen.
+Wenn die SplitToPages-Eigenschaft von HtmlSaveOptions gesetzt ist, werden während der Konvertierung von PDF zu HTML mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Klasse stellt eine Menge von Daten dar, die mit dem benutzerdefinierten Speichern des Markups einer HTML-Seite während der Konvertierung von PDF zu HTML verbunden sind.
 
 ```csharp
 public class HtmlPageMarkupSavingInfo
@@ -18,16 +18,14 @@ public class HtmlPageMarkupSavingInfo
 
 | Name | Beschreibung |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/htmlpagemarkupsavinginfo/contentstream) | Vom Konverter festgelegt. Repräsentiert gespeichertes HTML als Stream |
-| [CustomProcessingCancelled](../../aspose.pdf/htmlpagemarkupsavinginfo/customprocessingcancelled) | Sollte bei Bedarf im benutzerdefinierten Code gesetzt werden. Dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen bereitgestelltes HTML-Markup nicht mit benutzerdefiniertem Code, sondern mit dem Konvertercode selbst in Standard-für-Konverter-Weise verarbeitet werden soll. Das Setzen dieses Flags im benutzerdefinierten Code bedeutet also, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der Konverter selbst damit umgehen muss |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlpagemarkupsavinginfo/htmlhostpagenumber) | Wird vom Konverter gesetzt. Wenn die SplitToPages-Eigenschaft gesetzt ist, dann werden mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) während der Konvertierung erstellt. Diese Eigenschaft enthält die Ordnungszahl der Datei der gespeicherten HTML-Seite. Die Eigenschaft kann in der Logik des benutzerdefinierten Codes verwendet werden, um zu entscheiden, wie die HTML-Seite verarbeitet oder wo sie gespeichert werden soll, und In diesem Fall wird nur eine große HTML-Seite generiert für das gesamte Quelldokument. |
-| [PdfHostPageNumber](../../aspose.pdf/htmlpagemarkupsavinginfo/pdfhostpagenumber) | Wird vom Konverter festgelegt. Wenn die SplitToPages-Eigenschaft festgelegt ist, werden während der Konvertierung mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Eigenschaft teilt dem benutzerdefinierten Code mit, aus welcher Seite des Original-PDFs gespeichertes HTML-Markup erstellt wurde . Wenn die ursprüngliche Seitenzahl aus irgendeinem Grund unbekannt oder SplitOnPages=false ist, dann enthält diese Eigenschaft immer '0' , was signalisiert, dass der Konverter nicht die exakte Seitenzahl des Original-PDF für die bereitgestellte HTML-Markup-Datei liefern kann. |
-| [SupposedFileName](../../aspose.pdf/htmlpagemarkupsavinginfo/supposedfilename) | Wird vom Konverter festgelegt. Angenommener Dateiname, der vom Konverter zum Code der benutzerdefinierten Methode geht Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie Inhalte verarbeitet oder wo Inhalte gespeichert werden sollen |
+| [ContentStream](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream) | Vom Konverter gesetzt. Stellt das gespeicherte HTML als Stream dar |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/customprocessingcancelled) | Sollte im benutzerdefinierten Code gesetzt werden, wenn nötig. Dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen das bereitgestellte HTML-Markup nicht mit benutzerdefiniertem Code, sondern mit dem Code des Konverters selbst auf die Standardweise des Konverters verarbeitet werden soll. Das Setzen dieses Flags im benutzerdefinierten Code bedeutet, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der Konverter dies selbst übernehmen muss. |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/htmlhostpagenumber) | Vom Konverter gesetzt. Wenn die SplitToPages-Eigenschaft gesetzt ist, werden während der Konvertierung mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Eigenschaft enthält die Ordinalzahl der gespeicherten HTML-Seite. Die Eigenschaft kann in der Logik des benutzerdefinierten Codes verwendet werden, um zu entscheiden, wie die HTML-Seite verarbeitet oder wo sie gespeichert werden soll. Wenn das Aufteilen in Seiten deaktiviert ist, enthält dieser Wert immer '1', da in diesem Fall nur eine große HTML-Seite für das gesamte Quell-Dokument generiert wird. |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/pdfhostpagenumber) | Vom Konverter gesetzt. Wenn die SplitToPages-Eigenschaft gesetzt ist, werden während der Konvertierung mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Eigenschaft informiert den benutzerdefinierten Code, von welcher Seite des ursprünglichen PDFs das gespeicherte HTML-Markup erstellt wurde. Wenn die ursprüngliche Seitennummer aus irgendeinem Grund unbekannt ist oder SplitOnPages=false ist, enthält diese Eigenschaft immer '0', was signalisiert, dass der Konverter die genaue ursprüngliche PDF-Seitennummer für die bereitgestellte HTML-Markup-Datei nicht liefern kann. |
+| [SupposedFileName](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/supposedfilename) | Vom Konverter gesetzt. Angenommener Dateiname, der vom Konverter an den Code der benutzerdefinierten Methode übergeben wird. Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie der Inhalt verarbeitet oder wo er gespeichert werden soll. |
 
 ### Siehe auch
 
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [HtmlSaveOptions](../htmlsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

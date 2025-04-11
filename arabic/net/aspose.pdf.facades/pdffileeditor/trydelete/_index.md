@@ -1,71 +1,71 @@
 ---
-title: TryDelete
-second_title: Aspose.PDF لمرجع .NET API
-description: حذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال  وحفظها كملف Pdf جديد.
+title: PdfFileEditor.TryDelete
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileEditor. تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال وتحفظ كملف Pdf جديد
 type: docs
-weight: 430
+weight: 400
 url: /ar/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
-## TryDelete(string, int[], string) {#trydelete_2}
+## TryDelete(string, int[], string) {#trydelete_1}
 
-حذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال ، وحفظها كملف Pdf جديد.
+تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال، وتحفظ كملف Pdf جديد.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFile | String | مسار ملف الإدخال. |
 | pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
 | outputFile | String | مسار ملف الإخراج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ وإلا، false.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TryDelete طريقة الحذف ، باستثناء أن طريقة TryDelete لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryDelete تشبه طريقة Delete، باستثناء أن طريقة TryDelete لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-حذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال ، وحفظها كملف Pdf جديد.
+تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال، وتحفظ كملف Pdf جديد.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | دفق ملف الإدخال. |
+| inputStream | Stream | تدفق ملف الإدخال. |
 | pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
-| outputStream | Stream | دفق ملف الإخراج. |
+| outputStream | Stream | تدفق ملف الإخراج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح للنجاح أو خطأ.
+True للنجاح، أو false.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TryDelete طريقة الحذف ، باستثناء أن طريقة TryDelete لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryDelete تشبه طريقة Delete، باستثناء أن طريقة TryDelete لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,70 +74,67 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TryDelete(string, int[], HttpResponse) {#trydelete_3}
 
-حذف الصفحات المحددة من المستند وتخزين النتائج في كائن HttpResponse .
+تحذف الصفحات المحددة من المستند وتخزن النتيجة في كائن HttpResponse.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | مسار الملف المصدر. |
-| pageNumber | Int32[] | مجموعة من أرقام الصفحات التي يجب حذفها. |
+| inputFile | String | مسار ملف المصدر. |
+| pageNumber | Int32[] | مصفوفة أرقام الصفحات التي يجب حذفها. |
 | response | HttpResponse | كائن الاستجابة حيث سيتم تخزين المستند الناتج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ وإلا، false.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TryDelete طريقة الحذف ، باستثناء أن طريقة TryDelete لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryDelete تشبه طريقة Delete، باستثناء أن طريقة TryDelete لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryDelete(Stream, int[], HttpResponse) {#trydelete_1}
 
-حذف الصفحات المحددة من المستند وحفظ النتيجة في كائن HttpResponse .
+تحذف الصفحات المحددة من المستند وتخزن النتيجة في كائن HttpResponse.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | مصدر الوثيقة تيار. |
-| pageNumber | Int32[] | مجموعة من أرقام الصفحات التي سيتم حذفها. |
+| inputStream | Stream | تدفق المستند المصدر. |
+| pageNumber | Int32[] | مصفوفة أرقام الصفحات التي سيتم حذفها. |
 | response | HttpResponse | كائن HttpResponse |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ وإلا، false.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TryDelete طريقة الحذف ، باستثناء أن طريقة TryDelete لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryDelete تشبه طريقة Delete، باستثناء أن طريقة TryDelete لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

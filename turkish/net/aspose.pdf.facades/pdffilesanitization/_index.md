@@ -1,53 +1,53 @@
 ---
-title: PdfFileSanitization
-second_title: Aspose.PDF for .NET API Referansı
-description: Temizleme ve kurtarma APIsini temsil eder. Belgeleri başka bir şekilde oluşturamıyor/açamıyorsanız kullanın.
+title: Class PdfFileSanitization
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileSanitization sınıfı. Sanitizasyon ve kurtarma API'sini temsil eder. Başka bir şekilde belge oluşturamıyorsanız veya açamıyorsanız bunu kullanın.
 type: docs
-weight: 2550
+weight: 4540
 url: /tr/net/aspose.pdf.facades/pdffilesanitization/
 ---
-## PdfFileSanitization class
+## PdfFileSanitization sınıfı
 
-Temizleme ve kurtarma API'sini temsil eder. Belgeleri başka bir şekilde oluşturamıyor/açamıyorsanız kullanın.
+Sanitizasyon ve kurtarma API'sini temsil eder. Başka bir şekilde belge oluşturamıyorsanız veya açamıyorsanız bunu kullanın.
 
 ```csharp
 public sealed class PdfFileSanitization : SaveableFacade
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [PdfFileSanitization](pdffilesanitization)() | Default_Constructor |
+| [PdfFileSanitization](pdffilesanitization/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Üzerinde çalıştığı belge cephesini alır. |
-| [Log](../../aspose.pdf.facades/pdffilesanitization/log) { get; } | Dosya Kaydedildikten sonra dosya ile ne yapıldığını kontrol edebilirsiniz. |
-| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } | pdf data sonrasındaki verilerin kaldırılmasına izin verir |
-| [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop) { get; set; } | pdf verilerinden önceki verilerin kaldırılmasına izin verir. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Üzerinde çalışılan belge yüzeyini alır. |
+| [Log](../../aspose.pdf.facades/pdffilesanitization/log/) { get; } | Dosya kaydedildikten sonra dosya ile ne yapıldığını kontrol edebilirsiniz. |
+| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/) { get; set; } | Belge için yeni xref ve trailer oluşturulmasına izin verir. |
+| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom/) { get; set; } | PDF verisinden sonra verilerin kaldırılmasına izin verir. |
+| [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop/) { get; set; } | PDF verisinden önce verilerin kaldırılmasına izin verir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf)(Document) | Cepheyi başlatır. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_1)(Stream) | Sanitize. için bir Pdf akışı bağlar |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) | Sanitize. için bir Pdf dosyası bağlar |
-| override [Close](../../aspose.pdf.facades/pdffilesanitization/close)() | Cepheyi kapatır. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Cepheyi ortadan kaldırır. |
-| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() | Belgeyi kurtarır. Özelleştirmek için özellikleri kullanın. |
-| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) | Sonuç PDF'sini akışa kaydeder. |
-| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save_1)(string) | Sonuç PDF'sini dosyaya kaydeder. |
-| [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom)() | Son %%EOF. 'den sonraki verileri kaldırır |
-| [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop)() | %PDF'den önceki verileri kaldırır. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf)(Document) | Yüzeyi başlatır. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf_1)(Stream) | Sanitizasyon için bir Pdf akışını bağlar. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf_2)(string) | Sanitizasyon için bir Pdf dosyasını bağlar. |
+| override [Close](../../aspose.pdf.facades/pdffilesanitization/close/)() | Yüzeyi kapatır. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Yüzeyi yok eder. |
+| [RebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/)() | Eski xref ve trailer'ı kaldırır ve yeni bir xref ile trailer oluşturur. |
+| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover/)() | Belgeyi kurtarır. Özelleştirmek için özellikleri kullanın. |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save)(Stream) | Sonuç PDF'sini akışa kaydeder. |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save_1)(string) | Sonuç PDF'sini dosyaya kaydeder. |
+| [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom/)() | Son %%EOF'dan sonraki verileri kaldırır. |
+| [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop/)() | %PDF'den önceki verileri kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SaveableFacade](../saveablefacade)
-* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [SaveableFacade](../saveablefacade/)
+* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../)

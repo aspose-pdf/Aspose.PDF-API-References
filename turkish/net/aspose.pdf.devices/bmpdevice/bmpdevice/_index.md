@@ -1,128 +1,126 @@
 ---
-title: BmpDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırBmpDeviceaspose.pdf.devices/bmpdevice varsayılan çözünürlüğe sahip sınıf.
+title: BmpDevice.BmpDevice
+second_title: Aspose.PDF for .NET API Reference
+description: BmpDevice yapıcısı. Varsayılan çözünürlük ile BmpDevice sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice) varsayılan çözünürlüğe sahip sınıf.
+Varsayılan çözünürlük ile [`BmpDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice) sınıf.  Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf.
+[`BmpDevice`](../) sınıfının yeni bir örneğini başlatır. Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın.
 
 ```csharp
 public BmpDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice) sağlanan görüntü boyutlarına ve çözünürlüğe sahip sınıf.
+Verilen görüntü boyutları ve çözünürlüğü ile [`BmpDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Int32 | Görüntü çıktı genişliği. |
 | height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice)sağlanan sayfa boyutu ve çözünürlüğe sahip sınıf.
+Verilen sayfa boyutu ve çözünürlüğü ile [`BmpDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice) sağlanan görüntü boyutlarına sahip sınıf, varsayılan çözünürlük (=150).
+Verilen görüntü boyutları ile, varsayılan çözünürlük (=150) ile [`BmpDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Int32 | Görüntü çıktı genişliği. |
 | height | Int32 | Görüntü çıktı yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-Yeni bir örneğini başlatır[`BmpDevice`](../../bmpdevice) sağlanan sayfa boyutuna sahip sınıf, varsayılan çözünürlük (=150).
+Verilen sayfa boyutu ile, varsayılan çözünürlük (=150) ile [`BmpDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [BmpDevice](../../bmpdevice)
-* ad alanı [Aspose.Pdf.Devices](../../bmpdevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [BmpDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

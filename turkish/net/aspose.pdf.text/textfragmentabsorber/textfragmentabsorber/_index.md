@@ -1,394 +1,438 @@
 ---
-title: TextFragmentAbsorber
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırTextFragmentAbsorberaspose.pdf.text/textfragmentabsorber belgenin veya sayfanın tüm metin bölümlerinde arama yapan.
+title: TextFragmentAbsorber.TextFragmentAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: TextFragmentAbsorber yapıcısı. Belgenin veya sayfanın tüm metin segmentlerini arayan yeni bir TextFragmentAbsorber örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belgenin veya sayfanın tüm metin bölümlerinde arama yapan.
+Belgenin veya sayfanın tüm metin segmentlerini arayan yeni bir [`TextFragmentAbsorber`](../) örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber()
 ```
 
-### Notlar
+## Açıklamalar
 
-Metin araması yapar ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) Toplamak.
+Metin araması yapar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasında metnin nasıl bulunacağını ve metnin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında metin bulmayı ve metni değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Belge metni yazı tipini değiştirmek için kullanılacak yazı tipini bulun
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// TextFragmentAbsorber nesnesi oluştur
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// Emicinin tüm "merhaba dünya" metin oluşumlarını aramasını sağlayın
+// Make the absorber to search all "hello world" text occurrences
 absorber.Phrase = "hello world";
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun metnini değiştir
+// Change text of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber)belgenin veya sayfanın tüm metin bölümlerinde arama yapan metin düzenleme seçenekleriyle.
+Belgenin veya sayfanın tüm metin segmentlerini arayan metin düzenleme seçenekleri ile yeni bir [`TextFragmentAbsorber`](../) örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmanıza izin verir). |
+| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmaya izin verir). |
 
-### Notlar
+## Açıklamalar
 
-Metin araması yapar ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) Toplamak.
+Metin araması yapar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasındaki tüm metin parçalarının nasıl bulunacağını ve onlar için yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasındaki tüm metin parçalarını bulmayı ve bunlar için yazı tipini değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// TextFragmentAbsorber nesnesi oluştur
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace.RemoveUnusedFonts));
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Courier yazı tipini bul
+// Find Courier font
 Pdf.Text.Font font = FontRepository.FindFont("Courier");
 
-// Tüm metin parçaları için yazı tipini ayarla
+// Set the font for all the text fragments
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.TextState.Font = font;
 }
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextEditOptions](../../texteditoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string) {#constructor_2}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen metin ifadesi için sınıf.
+Belirtilen metin ifadesi için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(string phrase)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| phrase | String | olduğu ifade[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
+| phrase | String | [`TextFragmentAbsorber`](../) tarafından aranan ifade |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasındaki metnin nasıl bulunacağını ve metnin ve yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında metin bulmayı ve metni ve yazı tipini değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Belge metni yazı tipini değiştirmek için kullanılacak yazı tipini bulun
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Tüm "merhaba dünya" metin oluşumlarını bulmak için TextFragmentAbsorber nesnesi oluşturun
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// İlk metin oluşumunun metnini ve yazı tipini değiştirin
+// Change text and font of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex) {#constructor_6}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen System.Text.RegularExpressions.Regex sınıf nesnesi için sınıf.
+Belirtilen System.Text.RegularExpressions.Regex sınıf nesnesi için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex sınıfı nesnesi,[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
+| regex | Regex | [`TextFragmentAbsorber`](../) tarafından aranan System.Text.RegularExpressions.Regex sınıf nesnesi |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasındaki metnin nasıl bulunacağını ve metnin ve yazı tipinin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında metin bulmayı ve metni ve yazı tipini değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Belge metni yazı tipini değiştirmek için kullanılacak yazı tipini bulun
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Giriş normal ifadesinin tüm örneklerini bulmak için TextAbsorber nesnesi oluşturun
+// Create TextAbsorber object to find all instances of the input regex
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"));
 
-// İlk sayfa için emiciyi kabul et
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// "merhaba" kelimesini bulmalı ve "Merhaba" ile değiştirmeliyiz
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions) {#constructor_4}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber)belirtilen metin ifadesi ve metin arama seçenekleri için sınıf.
+Belirtilen metin ifadesi ve metin arama seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| phrase | String | olduğu ifade[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
-| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmanıza izin verir. Örneğin, normal ifadeyle arama yapın) |
+| phrase | String | [`TextFragmentAbsorber`](../) tarafından aranan ifade |
+| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmaya izin verir. Örneğin, düzenli ifadelerle arama) |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasında normal ifadeli metnin nasıl bulunacağını ve metnin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında düzenli ifadelerle metin bulmayı ve metni değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Normal ifade kullanarak 'h' ile başlayan ve 'o' ile biten tüm kelimeleri arayan TextFragmentAbsorber nesnesi oluşturun.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// "merhaba" kelimesini bulmalı ve "Merhaba" ile değiştirmeliyiz
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
  
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextSearchOptions](../../textsearchoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextSearchOptions) {#constructor_8}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen metin ifadesi ve metin arama seçenekleri için sınıf.
+Belirtilen metin ifadesi ve metin arama seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex sınıfı nesnesi,[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
-| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmanıza izin verir.) |
+| regex | Regex | [`TextFragmentAbsorber`](../) tarafından aranan System.Text.RegularExpressions.Regex sınıf nesnesi |
+| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmaya izin verir.) |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasında normal ifadeli metnin nasıl bulunacağını ve metnin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında düzenli ifadelerle metin bulmayı ve metni değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Normal ifade kullanarak 'h' ile başlayan ve 'o' ile biten tüm kelimeleri arayan TextFragmentAbsorber nesnesi oluşturun.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"), new TextSearchOptions(true));
 
-// "merhaba" kelimesini bulmalı ve "Merhaba" ile değiştirmeliyiz
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextSearchOptions](../../textsearchoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## TextFragmentAbsorber(Regex[], TextSearchOptions) {#constructor_9}
+
+Belirtilen metin ifadesi ve metin arama seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
+
+```csharp
+public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| regexes | Regex[] | [`TextFragmentAbsorber`](../) tarafından aranan System.Text.RegularExpressions.Regex sınıf nesnelerinin dizisi. |
+| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmaya izin verir.). |
+
+## Açıklamalar
+
+Belirtilen ifade dizisini arar ve arama sonuçlarına [`RegexResults`](../regexresults/) sözlüğü aracılığıyla erişim sağlar.
+
+## Örnekler
+
+Örnek, ilk PDF belgesi sayfasında düzenli ifadelerle metin bulmayı gösterir.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+var regexes = new Regex[]
+{
+new Regex( @"expression1", RegexOptions.IgnoreCase),
+new Regex( @"expression2", RegexOptions.IgnoreCase),
+};
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
+doc.Pages[1].Accept(absorber);
+// Get results of 
+var results = absorber.RegexResults;
+```
+
+### Ayrıca Bakınız
+
+* sınıf [TextSearchOptions](../../textsearchoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen metin ifadesi için sınıf, metin arama seçenekleri ve metin düzenleme seçenekleri.
+Belirtilen metin ifadesi, metin arama seçenekleri ve metin düzenleme seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
     TextEditOptions textEditOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| phrase | String | olduğu ifade[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
-| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmanıza izin verir. Örneğin, normal ifadeyle arama yapın) |
-| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmanıza izin verir). |
+| phrase | String | [`TextFragmentAbsorber`](../) tarafından aranan ifade |
+| textSearchOptions | TextSearchOptions | Metin arama seçenekleri (Bazı arama özelliklerini açmaya izin verir. Örneğin, düzenli ifadelerle arama) |
+| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmaya izin verir). |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasında normal ifadeli metnin nasıl bulunacağını ve metnin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında düzenli ifadelerle metin bulmayı ve metni değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Normal ifade kullanarak 'h' ile başlayan ve 'o' ile biten tüm kelimeleri arayan TextFragmentAbsorber nesnesi oluşturun.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// "merhaba" kelimesini bulmalı ve "Merhaba" ile değiştirmeliyiz
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextSearchOptions](../../textsearchoptions/)
+* sınıf [TextEditOptions](../../texteditoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen metin ifadesi ve metin düzenleme seçenekleri için sınıf.
+Belirtilen metin ifadesi ve metin düzenleme seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| phrase | String | olduğu ifade[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
-| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmanıza izin verir). |
+| phrase | String | [`TextFragmentAbsorber`](../) tarafından aranan ifade |
+| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmaya izin verir). |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextEditOptions](../../texteditoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-Yeni bir örneğini başlatır[`TextFragmentAbsorber`](../../textfragmentabsorber) belirtilen metin ifadesi ve metin düzenleme seçenekleri için sınıf.
+Belirtilen metin ifadesi ve metin düzenleme seçenekleri için yeni bir [`TextFragmentAbsorber`](../) sınıf örneğini başlatır.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex sınıfı nesnesi,[`TextFragmentAbsorber`](../../textfragmentabsorber) aramalar |
-| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmanıza izin verir). |
+| regex | Regex | [`TextFragmentAbsorber`](../) tarafından aranan System.Text.RegularExpressions.Regex sınıf nesnesi |
+| textEditOptions | TextEditOptions | Metin düzenleme seçenekleri (Bazı düzenleme özelliklerini açmaya izin verir). |
 
-### Notlar
+## Açıklamalar
 
-Belirtilen ifadenin metin aramasını gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TextFragments`](../textfragments) koleksiyon.
+Belirtilen ifadeyi arar ve arama sonuçlarına [`TextFragments`](../textfragments/) koleksiyonu aracılığıyla erişim sağlar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* ad alanı [Aspose.Pdf.Text](../../textfragmentabsorber)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TextEditOptions](../../texteditoptions/)
+* sınıf [TextFragmentAbsorber](../)
+* ad alanı [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../../)

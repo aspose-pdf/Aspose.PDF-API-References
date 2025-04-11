@@ -1,14 +1,14 @@
 ---
-title: XImageCollection
-second_title: Aspose.PDF för .NET API Referens
-description: Klass som representerar XImage collection.
+title: Class XImageCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XImageCollection klass. Klass som representerar XImage-samling
 type: docs
-weight: 7410
+weight: 11360
 url: /sv/net/aspose.pdf/ximagecollection/
 ---
-## XImageCollection class
+## XImageCollection klass
 
-Klass som representerar XImage collection.
+Klass som representerar XImage-samling.
 
 ```csharp
 public sealed class XImageCollection : ICollection<XImage>
@@ -16,42 +16,42 @@ public sealed class XImageCollection : ICollection<XImage>
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Count](../../aspose.pdf/ximagecollection/count) { get; } | Antal bilder i samlingen. |
-| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly) { get; } | Får ett värde som indikerar om samlingen är skrivskyddad. |
-| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized) { get; } | Returnerar sant om objektet är synkroniserat. |
-| [Item](../../aspose.pdf/ximagecollection/item) { get; } | Hämtar bild från samlingen efter dess index. (2 indexers) |
-| [Names](../../aspose.pdf/ximagecollection/names) { get; } | Får en rad bildnamn. |
-| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot) { get; } | Returnerar synkroniseringsobjekt. |
+| [Count](../../aspose.pdf/ximagecollection/count/) { get; } | Antal bilder i samlingen. |
+| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly/) { get; } | Hämtar ett värde som indikerar om samlingen är skrivskyddad. |
+| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized/) { get; } | Returnerar sant om objektet är synkroniserat. |
+| [Item](../../aspose.pdf/ximagecollection/item/) { get; } | Hämtar bild från samlingen efter dess index. (2 indexerare) |
+| [Names](../../aspose.pdf/ximagecollection/names/) { get; } | Hämtar array av bildnamn. |
+| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot/) { get; } | Returnerar synkroniseringsobjekt. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Add](../../aspose.pdf/ximagecollection/add#add_1)(Stream) | Lägger till entitet i slutet av samlingen, så entitet kan nås av det senaste indexet. |
-| [Add](../../aspose.pdf/ximagecollection/add#add)(XImage) | Lägger till ny bild till bildlistan. Den här metoden lägger till bild som referens till samma PdfObject (som gör det möjligt att minska filstorleken) |
-| [Add](../../aspose.pdf/ximagecollection/add#add_2)(Stream, ImageFilterType) | Lägger till entitet i slutet av samlingen, så entitet kan nås av det senaste indexet. |
-| [Add](../../aspose.pdf/ximagecollection/add#add_3)(Stream, int) | Lägger till entitet i slutet av samlingen, så entitet kan nås av det senaste indexet. |
-| [Clear](../../aspose.pdf/ximagecollection/clear)() | Rensar alla objekt från samlingen. |
-| [Contains](../../aspose.pdf/ximagecollection/contains)(XImage) | Bestämmer om samlingen innehåller ett specifikt värde. |
-| [CopyTo](../../aspose.pdf/ximagecollection/copyto)(XImage[], int) | Kopierar en rad bilder till samlingen. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete)() | Tar bort bilder från samlingen. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_1)(int) | Tar bort index från samling efter index. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_3)(string) | Tar bort objekt från samlingen efter namn. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_2)(int, ImageDeleteAction) | Tar bort bilden från samlingen genom att index utför åtgärden specificerad av åtgärdsparametern. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | Tar bort objekt från samlingen efter namn. |
-| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator)() | Returnerar samlingsuppräkning. |
-| [GetImageName](../../aspose.pdf/ximagecollection/getimagename)(XImage) | Returnerar namn i bildlistan som är nyckeln till den givna bilden. |
-| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | Tar bort objekt från samlingen, kastarNotImplementedException . |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace)(int, Stream) | Ersätt bild i samlingen med en annan bild. |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_1)(int, Stream, int) | Ersätt bild i samlingen med en annan bild. |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_2)(int, Stream, int, bool) | Ersätt bild i samlingen med en annan bild. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add)(BitmapInfo) | Lägger till enhet i slutet av samlingen, så att enheten kan nås med det sista indexet. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_3)(Stream) | Lägger till enhet i slutet av samlingen, så att enheten kan nås med det sista indexet. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_2)(XImage) | Lägger till ny bild i bildlistan. Denna metod lägger till bilden som referens till samma PdfObject (vilket gör att filstorleken kan minskas) |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_1)(BitmapInfo, ImageFilterType) | Lägger till enhet i slutet av samlingen, så att enheten kan nås med det sista indexet. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_4)(Stream, ImageFilterType) | Lägger till enhet i slutet av samlingen, så att enheten kan nås med det sista indexet. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_5)(Stream, int) | Lägger till enhet i slutet av samlingen, så att enheten kan nås med det sista indexet. |
+| [Clear](../../aspose.pdf/ximagecollection/clear/)() | Rensar alla objekt från samlingen. |
+| [Contains](../../aspose.pdf/ximagecollection/contains/)(XImage) | Bestämmer om samlingen innehåller ett specifikt värde. |
+| [CopyTo](../../aspose.pdf/ximagecollection/copyto/)(XImage[], int) | Kopierar array av bilder till samlingen. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete)() | Tar bort bilder från samlingen. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_1)(int) | Tar bort index från samlingen efter index. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_3)(string) | Tar bort objekt från samlingen efter namn. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_2)(int, ImageDeleteAction) | Tar bort bild från samlingen efter index och utför åtgärd som anges av åtgärdsparametern. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_4)(string, ImageDeleteAction) | Tar bort objekt från samlingen efter namn. |
+| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator/)() | Returnerar samlingens uppräkning. |
+| [GetImageName](../../aspose.pdf/ximagecollection/getimagename/)(XImage) | Returnerar namnet i bildlistan som är nyckeln till den angivna bilden. |
+| [Remove](../../aspose.pdf/ximagecollection/remove/)(XImage) | Tar bort objekt från samlingen, kastar NotImplementedException. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace)(int, Stream) | Ersätter bild i samlingen med en annan bild. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_1)(int, Stream, int) | Ersätter bild i samlingen med en annan bild. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_2)(int, Stream, int, bool) | Ersätter bild i samlingen med en annan bild. |
 
-### Se även
+### Se Även
 
-* class [XImage](../ximage)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [XImage](../ximage/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

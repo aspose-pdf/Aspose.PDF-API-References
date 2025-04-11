@@ -1,51 +1,98 @@
 ---
-title: HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Html dosyasını pdf belgesine yükleme/içe aktarma seçeneklerini temsil eder.
+title: Class HtmlLoadOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlLoadOptions sınıfı. HTML dosyasını PDF belgesine yüklemek/içeri aktarmak için seçenekleri temsil eder.
 type: docs
-weight: 3400
+weight: 5530
 url: /tr/net/aspose.pdf/htmlloadoptions/
 ---
-## HtmlLoadOptions class
+## HtmlLoadOptions Sınıfı
 
-Html dosyasını pdf belgesine yükleme/içe aktarma seçeneklerini temsil eder.
+HTML dosyasını PDF belgesine yüklemek/içeri aktarmak için seçenekleri temsil eder.
 
 ```csharp
 public sealed class HtmlLoadOptions : LoadOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions#constructor)() | Boş temel yol ile html'yi pdf belgesine dönüştürmek için yükleme seçenekleri oluşturur. |
-| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | Tanımlı temel yolla html'yi pdf belgesine dönüştürmek için yükleme seçenekleri oluşturur. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor)() | Boş bir temel yol ile HTML'yi PDF belgesine dönüştürmek için yükleme seçenekleri oluşturur. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | Tanımlı bir temel yol ile HTML'yi PDF belgesine dönüştürmek için yükleme seçenekleri oluşturur. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | Html dosyası için temel yol/url. |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | Oluşturma sırasında kullanılan olası ortam türlerini alır veya ayarlar. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | Ayrıştırma sırasında bu belge için kullanılan kodlamayı belirten özniteliği alır veya ayarlar. Bu öznitelik boş ise, kodlama belge karakter kümesinden atribute. belirleyecektir. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | Document sonucuna gömme yazı tiplerini alır veya ayarlar |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } | Tüm belgeyi tek sayfaya dönüştürmeyi alır veya ayarlar |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Hangi dosya biçimini temsil eder?[`LoadOptions`](../loadoptions) tanımlar. |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | Belge sayfasını alır veya ayarlar info |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } | Düzen seçeneğini alır veya ayarlar. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Yükleme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Yükleme işlemi sona ermelidir. |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | HTML dosyası için temel yol/url. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Dosya yüklenirken tüm fontlar için lisans kısıtlamalarını devre dışı bırakma bayrağını alır veya ayarlar. `true` olduğunda, bu fontun lisansı tarafından yasaklanan fontlarla işlemleri gerçekleştirmeye izin verir, örneğin, bu font için gömme kuralları devre dışı bırakılmış olsa bile bir fontun PDF belgesine gömülmesine izin verir. Varsayılan olarak `false`. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | İşleme sırasında kullanılan olası medya türlerini alır veya ayarlar. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Bu belgenin ayrıştırma sırasında kullanılan kodlamayı belirten niteliği alır veya ayarlar. Bu nitelik null ise, kodlama belge karakter seti niteliğinden belirlenecektir. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Sonuç belgesine font gömme durumunu alır veya ayarlar. |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | CSS'de tanımlanan @page kurallarının PageInfo'da tanımlanan değerleri geçersiz kılacağını belirten bayrağı alır veya ayarlar. |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Tüm belgeyi tek bir sayfaya render etme durumunu alır veya ayarlar. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) tarafından tanımlanan dosya formatını temsil eder. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Belge sayfa bilgilerini alır veya ayarlar. |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Düzen seçeneğini alır veya ayarlar. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Oluşan uyarıları işlemek için geri çağırma. WarningHandler, devam et veya iptal et belirten ReturnAction enum öğesini döndürür. Devam et varsayılan eylemdir ve yükleme işlemi devam eder, ancak kullanıcı iptal de döndürebilir; bu durumda yükleme işlemi durmalıdır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | Bazen harici kaynakların (görüntüler veya CSS'ler gibi) dahili yükleyicisini kullanmaktan kaçınmak ve istenen kaynakları bir yerden alacak özel yöntem sağlamak gerekir. Örneğin, bulutta Aspose.PDF'nin kullanımı sırasında başvurulan dosyalara doğrudan erişim imkansızdır: böyle bir durumda özel yönteme bazı özel kodlar put kullanılmalı ve bu yönteme atıfta bulunan temsilci bu özniteliğe atanmalıdır. |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | HTML 'de referans verilen harici verilerin yüklenmesi kimlik bilgileri gerektiriyorsa, bunları bu parametreye koyabilirsiniz - bunlar harici kaynakların yüklenmesi sırasında kullanılacaktır |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Bazen dış kaynakların (gibi resimler veya CSS'ler) dahili yükleyicisinin kullanımını önlemek ve istenen kaynakları bir yerden almak için özel bir yöntem sağlamak gerekir. Örneğin, Aspose.PDF'nin bulutta kullanımı sırasında referans verilen dosyalara doğrudan erişim mümkün değildir: bu durumda, özel bir kodun özel bir yönteme yerleştirilmesi ve bu niteliğe atanacak bir delege ile referans verilmesi gerekir. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | HTML'de referans verilen dış verilerin yüklenmesi kimlik bilgileri gerektiriyorsa, bunları bu parametreye koyabilirsiniz - dış kaynakların yüklenmesi sırasında kullanılacaktır. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [LoadOptions](../loadoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, HTML dosyasını PDF dosyasına dönüştürmeyi göstermektedir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The path to your HTML File.
+	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
+
+	// Initialize HtmlLoadOptions	
+	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
+		
+	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
+	{ 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your HTML File.
+    Dim htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf")
+ 
+    ' Initialize HtmlLoadOptions    
+    Dim htmlLoadOptions As HtmlLoadOptions = New HtmlLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(htmlFile, htmlLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [LoadOptions](../loadoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

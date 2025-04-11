@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar explicit destination som visar sidan med koordinaterna vänster överst placerade i det övre vänstra hörnet av fönstret och sidans innehåll förstorat med faktorzoom. Ett nollvärde för någon av parametrarna vänster topp eller zoom anger att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nollvärde.
+title: Class XYZExplicitDestination
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.XYZExplicitDestination klass. Representerar en explicit destination som visar sidan med koordinaterna vänster, topp placerade i det övre vänstra hörnet av fönstret och innehållet på sidan förstorat med faktorn zoom. Ett nullvärde för någon av parametrarna vänster, topp eller zoom specificerar att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nullvärde.
 type: docs
-weight: 1270
+weight: 2730
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
-## XYZExplicitDestination class
+## XYZExplicitDestination klass
 
-Representerar explicit destination som visar sidan med koordinaterna (vänster, överst) placerade i det övre vänstra hörnet av fönstret och sidans innehåll förstorat med faktorzoom. Ett nollvärde för någon av parametrarna vänster, topp eller zoom anger att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nollvärde.
+Representerar en explicit destination som visar sidan med koordinaterna (vänster, topp) placerade i det övre vänstra hörnet av fönstret och innehållet på sidan förstorat med faktorn zoom. Ett nullvärde för någon av parametrarna vänster, topp eller zoom specificerar att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nullvärde.
 
 ```csharp
 public sealed class XYZExplicitDestination : ExplicitDestination
@@ -16,31 +16,31 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_2)(int, double, double, double) | Skapar explicit fjärrdestination. |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_1)(Page, double, double, double) | Skapar lokal explicit destination. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor_2)(int, double, double, double) | Skapar en fjärrexplicit destination. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor_1)(Page, double, double, double) | Skapar en lokal explicit destination. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left) { get; } | Får vänster horisontell koordinat för det övre vänstra hörnet av fönstret. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Hämtar målsidan object |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Hämtar destinationssidans nummer |
-| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top) { get; } | Får den övre vertikala koordinaten för det övre vänstra hörnet av fönstret. |
-| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom) { get; } | Får zoomfaktor. |
+| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left/) { get; } | Hämtar vänster horisontell koordinat för det övre vänstra hörnet av fönstret. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Hämtar destinationssidans objekt |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hämtar destinationssidans nummer |
+| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top/) { get; } | Hämtar övre vertikal koordinat för det övre vänstra hörnet av fönstret. |
+| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom/) { get; } | Hämtar zoomfaktorn. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination)(Page, double, double, double, bool) | Skapa destination till angiven plats på sidan med hänsyn till sidrotation vid behov. |
-| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner)(Page) | Skapa destination till angiven sida. |
-| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner_1)(Page, double) | Skapa destination till det övre vänstra hörnet av den angivna sidan. |
-| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | Konverterar objektets tillstånd till strängvärde. Exempel: "1 XYZ 100 200 3". |
+| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination/)(Page, double, double, double, bool) | Skapar destination till angiven plats på sidan med hänsyn till sidrotation om det behövs. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner)(Page) | Skapar destination till angiven sida. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner_1)(Page, double) | Skapar destination till det övre vänstra hörnet av den angivna sidan. |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring/)() | Konverterar objektets tillstånd till strängvärde. Exempel: "1 XYZ 100 200 3". |
 
-### Exempel
+## Exempel
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -50,10 +50,8 @@ string top = dest.Top;
 string zoom = dest.Zoom;
 ```
 
-### Se även
+### Se Även
 
-* class [ExplicitDestination](../explicitdestination)
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [ExplicitDestination](../explicitdestination/)
+* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

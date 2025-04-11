@@ -1,39 +1,38 @@
 ---
 title: Aspose.Pdf.Devices
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Die Aspose.Pdf.GeräteNamespace stellt Klassen bereit die zur Darstellung von Dokumenten als Bilder oder als einfachen Text verwendet werden. Das Dokument kann also an textuelle oder verschiedene grafische Geräte gesendet werden was bedeutet dass wir eine textuelle oder grafische Darstellung erhalten möchten.
+second_title: Aspose.PDF for .NET API Reference
+description: Der Aspose.Pdf.Devices-Namespace bietet Klassen, die verwendet werden, um Dokumente als Bilder oder einfachen Text darzustellen. So kann das Dokument an textuelle oder verschiedene grafische Geräte gesendet werden, was bedeutet, dass wir eine textuelle oder grafische Darstellung erhalten möchten.
 type: docs
-weight: 60
+weight: 80
 url: /de/net/aspose.pdf.devices/
 ---
-Die **Aspose.Pdf.Geräte**Namespace stellt Klassen bereit, die zur Darstellung von Dokumenten als Bild(er) oder als einfachen Text verwendet werden. Das Dokument kann also an textuelle oder verschiedene grafische Geräte gesendet werden, was bedeutet, dass wir eine textuelle oder grafische Darstellung erhalten möchten.
+Der **Aspose.Pdf.Devices**-Namespace bietet Klassen, die verwendet werden, um Dokumente als Bild(er) oder einfachen Text darzustellen. So kann das Dokument an textuelle oder verschiedene grafische Geräte gesendet werden, was bedeutet, dass wir eine textuelle oder grafische Darstellung erhalten möchten.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [BmpDevice](./bmpdevice) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in BMP zu speichern. |
-| [Device](./device) | Abstrakte Klasse für alle Gerätetypen. Das Gerät wird verwendet, um ein PDF-Dokument in einem bestimmten Format darzustellen. Beispielsweise kann eine Dokumentseite als Bild oder Text dargestellt werden. |
-| [DocumentDevice](./documentdevice) | Abstrakte Klasse für alle Geräte, die verwendet wird, um das gesamte PDF-Dokument zu verarbeiten. |
-| [EmfDevice](./emfdevice) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in EMF zu speichern. |
-| [GifDevice](./gifdevice) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in GIF zu speichern. |
-| [ImageDevice](./imagedevice) | Eine abstrakte Klasse für Bildgeräte. |
-| [JpegDevice](./jpegdevice) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in JPEG zu speichern. |
-| [Margins](./margins) | Diese Klasse repräsentiert die Ränder eines Bildes. |
-| [PageDevice](./pagedevice) | Abstrakte Klasse für alle Geräte, die verwendet werden, um bestimmte Seiten des PDF-Dokuments zu verarbeiten. |
-| [PngDevice](./pngdevice) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in PNG zu speichern. |
-| [Resolution](./resolution) | Repräsentiert die Klasse zum Halten der Bildauflösung. |
-| [TextDevice](./textdevice) | Repräsentiert eine Klasse zum Konvertieren von PDF-Dokumentseiten in Text. |
-| [ThumbnailDevice](./thumbnaildevice) | Stellt ein Bildgerät dar, das Seiten von PDF-Dokumenten als Miniaturbild speichert. |
-| [TiffDevice](./tiffdevice) | Diese Klasse hilft, PDF-Dokumente Seite für Seite in einem TIFF-Bild zu speichern. |
-| [TiffSettings](./tiffsettings) | Diese Klasse repräsentiert Einstellungen zum Importieren von PDF in Tiff. |
+| [BmpDevice](./bmpdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in BMP zu speichern. |
+| [Device](./device/) | Abstrakte Klasse für alle Arten von Geräten. Device wird verwendet, um ein PDF-Dokument in einem bestimmten Format darzustellen. Zum Beispiel kann eine Dokumentseite als Bild oder Text dargestellt werden. |
+| [DicomDevice](./dicomdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten im Dicom-Format zu speichern. |
+| [DocumentDevice](./documentdevice/) | Abstrakte Klasse für alle Geräte, die verwendet werden, um das gesamte PDF-Dokument zu verarbeiten. |
+| [EmfDevice](./emfdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in EMF zu speichern. |
+| [GifDevice](./gifdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in GIF zu speichern. |
+| [ImageDevice](./imagedevice/) | Eine abstrakte Klasse für Bildgeräte. |
+| [JpegDevice](./jpegdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in JPEG zu speichern. |
+| [Margins](./margins/) | Diese Klasse stellt die Ränder eines Bildes dar. |
+| [PageDevice](./pagedevice/) | Abstrakte Klasse für alle Geräte, die verwendet werden, um eine bestimmte Seite des PDF-Dokuments zu verarbeiten. |
+| [PngDevice](./pngdevice/) | Stellt ein Bildgerät dar, das hilft, PDF-Dokumentseiten in PNG zu speichern. |
+| [Resolution](./resolution/) | Stellt eine Klasse zur Speicherung der Bildauflösung dar. |
+| [TextDevice](./textdevice/) | Stellt eine Klasse zur Umwandlung von PDF-Dokumentseiten in Text dar. |
+| [ThumbnailDevice](./thumbnaildevice/) | Stellt ein Bildgerät dar, das PDF-Dokumentseiten in Thumbnail-Bilder speichert. |
+| [TiffDevice](./tiffdevice/) | Diese Klasse hilft, PDF-Dokumentseiten einzeln in ein TIFF-Bild zu speichern. |
+| [TiffSettings](./tiffsettings/) | Diese Klasse stellt die Einstellungen für den Import von PDF in TIFF dar. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [ColorDepth](./colordepth) | Wird verwendet, um den Parameterwert anzugeben, der an ein TIFF-Bildgerät übergeben wird. |
-| [CompressionType](./compressiontype) | Wird verwendet, um den Parameterwert anzugeben, der an ein TIFF-Bildgerät übergeben wird. |
-| [FormPresentationMode](./formpresentationmode) | Wird verwendet, um den Formulardarstellungsmodus beim Drucken oder Konvertieren in Bild-PDF-Dokumente anzugeben. |
-| [ShapeType](./shapetype) | Diese Aufzählung stellt den Formtyp für die extrahierten Bilder dar. |
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+| [ColorDepth](./colordepth/) | Wird verwendet, um den Parameterwert an ein TIFF-Bildgerät zu übergeben. |
+| [CompressionType](./compressiontype/) | Wird verwendet, um den Parameterwert an ein TIFF-Bildgerät zu übergeben. |
+| [FormPresentationMode](./formpresentationmode/) | Wird verwendet, um den Formularpräsentationsmodus beim Drucken oder Konvertieren von PDF-Dokumenten in Bilder anzugeben. |
+| [ShapeType](./shapetype/) | Diese Enum stellt den Formtyp für die extrahierten Bilder dar. |

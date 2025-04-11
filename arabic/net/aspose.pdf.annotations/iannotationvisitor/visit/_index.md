@@ -1,427 +1,509 @@
 ---
-title: Visit
-second_title: Aspose.PDF لمرجع .NET API
-description: قم بزيارة / تحديد التعليق التوضيحي للرابط.
+title: IAnnotationVisitor.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة IAnnotationVisitor. زيارة/تحديد تعليق الرابط
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_8}
 
-قم بزيارة / تحديد التعليق التوضيحي للرابط.
+زيارة/تحديد تعليق الرابط.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| link | LinkAnnotation | مثال / نموذج لكائن التعليقات التوضيحية . |
+| link | LinkAnnotation | مثال/نموذج كائن LinkAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [LinkAnnotation](../../linkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [LinkAnnotation](../../linkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_3}
 
-قم بزيارة / تحديد التعليق التوضيحي للمرفقات.
+زيارة/تحديد تعليق المرفق.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | قالب / مثال على كائن FileAttachmentAnnotation. |
+| attachment | FileAttachmentAnnotation | مثال/نموذج كائن FileAttachmentAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_17}
+## Visit(TextAnnotation) {#visit_20}
 
-قم بزيارة / تحديد التعليق التوضيحي النصي.
+زيارة/تحديد تعليق النص.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| text | TextAnnotation | مثال / قالب على كائن TextAnnotation . |
+| text | TextAnnotation | مثال/نموذج كائن TextAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [TextAnnotation](../../textannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [TextAnnotation](../../textannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_4}
 
-قم بزيارة / حدد التعليق التوضيحي freetext .
+زيارة/تحديد تعليق النص الحر.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | مثال / قالب كائن FreeTextAnnotation. |
+| freetext | FreeTextAnnotation | مثال/نموذج كائن FreeTextAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_5}
 
-قم بزيارة / تحديد التعليق التوضيحي المميز .
+زيارة/تحديد تعليق التمييز.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | نموذج / نموذج كائن HighlightAnnotation . |
+| highlight | HighlightAnnotation | مثال/نموذج كائن HighlightAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [HighlightAnnotation](../../highlightannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_18}
+## Visit(UnderlineAnnotation) {#visit_22}
 
-قم بزيارة / تحديد التعليق التوضيحي المسطر .
+زيارة/تحديد تعليق التسطير.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | مثال / قالب كائن UnderlineAnnotation . |
+| underline | UnderlineAnnotation | مثال/نموذج كائن UnderlineAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_16}
+## Visit(StrikeOutAnnotation) {#visit_19}
 
-قم بزيارة / حدد التعليق التوضيحي لـ StriOut .
+زيارة/تحديد تعليق الشطب.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | نموذج / نموذج كائن StrikeOutAnnotation . |
+| strikeOut | StrikeOutAnnotation | مثال/نموذج كائن StrikeOutAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_14}
+## Visit(SquigglyAnnotation) {#visit_17}
 
-قم بزيارة / تحديد التعليق التوضيحي المتعرج.
+زيارة/تحديد تعليق التعرج.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | قالب / مثال على كائن SquigglyAnnotation . |
+| squiggly | SquigglyAnnotation | مثال/نموذج كائن SquigglyAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_11}
+## Visit(PopupAnnotation) {#visit_13}
 
-قم بزيارة / تحديد التعليق التوضيحي المنبثق .
+زيارة/تحديد تعليق النافذة المنبثقة.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| popup | PopupAnnotation | نموذج / نموذج كائن PopupAnnotation . |
+| popup | PopupAnnotation | مثال/نموذج كائن PopupAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [PopupAnnotation](../../popupannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [PopupAnnotation](../../popupannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_7}
 
-قم بزيارة / تحديد سطر التعليق التوضيحي .
+زيارة/تحديد تعليق الخط.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| line | LineAnnotation | مثال / قالب كائن LineAnnotation . |
+| line | LineAnnotation | مثال/نموذج كائن LineAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [LineAnnotation](../../lineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [LineAnnotation](../../lineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-قم بزيارة / تحديد التعليق التوضيحي على شكل دائرة.
+زيارة/تحديد تعليق الدائرة.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| circle | CircleAnnotation | مثال على كائن الدائرة التوضيحية / نموذج . |
+| circle | CircleAnnotation | مثال/نموذج كائن CircleAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [CircleAnnotation](../../circleannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [CircleAnnotation](../../circleannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_13}
+## Visit(SquareAnnotation) {#visit_16}
 
-قم بزيارة / تحديد التعليق التوضيحي المربع .
+زيارة/تحديد تعليق المربع.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| square | SquareAnnotation | مثال على كائن SquareAnnotation / template. |
+| square | SquareAnnotation | مثال/نموذج كائن SquareAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [SquareAnnotation](../../squareannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [SquareAnnotation](../../squareannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_6}
 
-قم بزيارة / تحديد التعليق التوضيحي بالحبر .
+زيارة/تحديد تعليق الحبر.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| ink | InkAnnotation | مثال / قالب كائن InkAnnotation . |
+| ink | InkAnnotation | مثال/نموذج كائن InkAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [InkAnnotation](../../inkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [InkAnnotation](../../inkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_10}
+## Visit(PolylineAnnotation) {#visit_12}
 
-قم بزيارة / تحديد التعليق التوضيحي متعدد الخطوط .
+زيارة/تحديد تعليق الخط المتعدد.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | نموذج / نموذج كائن PolylineAnnotation . |
+| polyline | PolylineAnnotation | مثال/نموذج كائن PolylineAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [PolylineAnnotation](../../polylineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_9}
+## Visit(PolygonAnnotation) {#visit_11}
 
-زيارة / تحديد التعليق التوضيحي المضلع .
+زيارة/تحديد تعليق المضلع.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | نموذج / نموذج كائن PolygonAnnotation . |
+| polygon | PolygonAnnotation | مثال/نموذج كائن PolygonAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [PolygonAnnotation](../../polygonannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-قم بزيارة / تحديد التعليق التوضيحي بالإقحام .
+زيارة/تحديد تعليق المؤشر.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| caret | CaretAnnotation | مثال / قالب كائن CaretAnnotation . |
+| caret | CaretAnnotation | مثال/نموذج كائن CaretAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [CaretAnnotation](../../caretannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [CaretAnnotation](../../caretannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_15}
+## Visit(StampAnnotation) {#visit_18}
 
-قم بزيارة / تحديد التعليق التوضيحي للطوابع .
+زيارة/تحديد تعليق الختم.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | StampAnnotation | مثال / قالب كائن StampAnnotation . |
+| stamp | StampAnnotation | مثال/نموذج كائن StampAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [StampAnnotation](../../stampannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [StampAnnotation](../../stampannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_19}
+## Visit(WidgetAnnotation) {#visit_23}
 
-قم بزيارة / تحديد التعليق التوضيحي للأداة .
+زيارة/تحديد تعليق الودجت.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| widget | WidgetAnnotation | نموذج / مثال على كائن تعليق على كائن . |
+| widget | WidgetAnnotation | مثال/نموذج كائن WidgetAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [WidgetAnnotation](../../widgetannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_9}
 
-زيارة / تحديد التعليق التوضيحي للفيلم .
+زيارة/تحديد تعليق الفيلم.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| movie | MovieAnnotation | قالب / مثال على كائن MovieAnnotation . |
+| movie | MovieAnnotation | مثال/نموذج كائن MovieAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [MovieAnnotation](../../movieannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [MovieAnnotation](../../movieannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_12}
+## Visit(ScreenAnnotation) {#visit_15}
 
-قم بزيارة / تحديد التعليق التوضيحي للشاشة.
+زيارة/تحديد تعليق الشاشة.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| screen | ScreenAnnotation | مثال / قالب على كائن ScreenAnnotation . |
+| screen | ScreenAnnotation | مثال/نموذج كائن ScreenAnnotation. |
 
-### أنظر أيضا
+### See Also
 
-* class [ScreenAnnotation](../../screenannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* المجسم [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(TrimMarkAnnotation) {#visit_21}
+
+زيارة/تحديد تعليق علامة القص.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | مثال/نموذج كائن [`TrimMarkAnnotation`](../../trimmarkannotation/). |
+
+### See Also
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+زيارة/تحديد تعليق علامة النزيف.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | مثال/نموذج كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/). |
+
+### See Also
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_14}
+
+زيارة/تحديد تعليق علامة التسجيل.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | مثال/نموذج كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/). |
+
+### See Also
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_10}
+
+زيارة/تحديد تعليق معلومات الصفحة.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | مثال/نموذج كائن [`PageInformationAnnotation`](../../pageinformationannotation/). |
+
+### See Also
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

@@ -1,69 +1,67 @@
 ---
-title: OutlineItemCollection
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل إدخال المخطط التفصيلي في التسلسل الهرمي لمستند PDF.
+title: Class OutlineItemCollection
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.OutlineItemCollection. تمثل إدخال المخطط في تسلسل المخطط لمستند PDF
 type: docs
-weight: 5770
+weight: 8010
 url: /ar/net/aspose.pdf/outlineitemcollection/
 ---
-## OutlineItemCollection class
+## Class OutlineItemCollection
 
-يمثل إدخال المخطط التفصيلي في التسلسل الهرمي لمستند PDF.
+تمثل إدخال المخطط في تسلسل المخطط لمستند PDF.
 
 ```csharp
 public sealed class OutlineItemCollection : Outlines
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [OutlineItemCollection](outlineitemcollection)(OutlineCollection) | تهيئة مثيل عنصر المخطط التفصيلي باستخدام كائن التسلسل الهرمي للجذر. |
+| [OutlineItemCollection](outlineitemcollection/)(OutlineCollection) | يقوم بتهيئة مثيل عنصر المخطط باستخدام كائن التسلسل الجذري. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Action](../../aspose.pdf/outlineitemcollection/action) { get; set; } | الحصول على أو تعيين الإجراء لعنصر المخطط التفصيلي. |
-| [Bold](../../aspose.pdf/outlineitemcollection/bold) { get; set; } | الحصول على أو تعيين علامة غامقة لنص العنوان لعنصر المخطط التفصيلي |
-| [Color](../../aspose.pdf/outlineitemcollection/color) { get; set; } | الحصول على لون نص العنوان لعنصر المخطط التفصيلي هذا أو تعيينه. |
-| override [Count](../../aspose.pdf/outlineitemcollection/count) { get; } | عدد عناصر المجموعة. الرجاء عدم الخلط بينه وبين VisibleCount: يحصل VisibleCount على عدد عناصر المخطط التفصيلي المرئي على جميع المستويات. |
-| [Destination](../../aspose.pdf/outlineitemcollection/destination) { get; set; } | الحصول على أو تعيين الوجهة لعنصر المخطط التفصيلي. |
-| [First](../../aspose.pdf/outlineitemcollection/first) { get; } | الحصول على عنصر المخطط التفصيلي الذي يمثل عنصر المستوى الأعلى الأول في التسلسل الهرمي للمخطط التفصيلي. |
-| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext) { get; } | تحقق مما إذا كان عنصر المخطط التفصيلي يمثل العنصر التالي نسبيًا هذا العنصر في التسلسل الهرمي للمخطط التفصيلي. |
-| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. |
-| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized) { get; } | يحصل على القيمة التي تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامنًا (مؤشر ترابط آمن) . |
-| [Italic](../../aspose.pdf/outlineitemcollection/italic) { get; set; } | الحصول على علامة مائلة أو تعيينها لنص العنوان لعنصر المخطط التفصيلي هذا |
-| [Item](../../aspose.pdf/outlineitemcollection/item) { get; } | الحصول على عنصر المخطط التفصيلي من المجموعة باستخدام index. |
-| [Last](../../aspose.pdf/outlineitemcollection/last) { get; } | الحصول على عنصر المخطط التفصيلي الذي يمثل العنصر الأخير ذي المستوى الأعلى في التسلسل الهرمي للمخطط التفصيلي. |
-| [Level](../../aspose.pdf/outlineitemcollection/level) { get; } | يحصل على مستوى التسلسل الهرمي لعنصر المخطط التفصيلي. |
-| [Next](../../aspose.pdf/outlineitemcollection/next) { get; } | الحصول على عنصر المخطط التفصيلي الذي يمثل العنصر التالي نسبيًا هذا العنصر في التسلسل الهرمي للمخطط التفصيلي. |
-| [Open](../../aspose.pdf/outlineitemcollection/open) { get; set; } | الحصول على الحالة المفتوحة أو تعيينها (صواب / خطأ) لعنصر المخطط. |
-| [Parent](../../aspose.pdf/outlineitemcollection/parent) { get; } | الحصول على الكائن الأصل لعنصر المخطط التفصيلي هذا في التسلسل الهرمي للمخطط التفصيلي. |
-| [Prev](../../aspose.pdf/outlineitemcollection/prev) { get; } | الحصول على عنصر المخطط التفصيلي الذي يمثل العنصر السابق نسبيًا لهذا العنصر في التسلسل الهرمي للمخطط التفصيلي. |
-| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot) { get; } | الحصول على الكائن الذي يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة. |
-| [Title](../../aspose.pdf/outlineitemcollection/title) { get; set; } | الحصول على عنوان عنصر المخطط التفصيلي هذا أو تعيينه. |
-| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount) { get; } | الحصول على العدد الإجمالي لعناصر المخطط التفصيلي على جميع المستويات في التسلسل الهرمي لمخطط المستند. |
+| [Action](../../aspose.pdf/outlineitemcollection/action/) { get; set; } | يحصل أو يحدد الإجراء لهذا العنصر في المخطط. |
+| [Bold](../../aspose.pdf/outlineitemcollection/bold/) { get; set; } | يحصل أو يحدد علامة غامقة لنص العنوان لهذا العنصر في المخطط |
+| [Color](../../aspose.pdf/outlineitemcollection/color/) { get; set; } | يحصل أو يحدد اللون لنص العنوان لهذا العنصر في المخطط. |
+| override [Count](../../aspose.pdf/outlineitemcollection/count/) { get; } | عدد عناصر المجموعة. يرجى عدم الخلط مع VisibleCount: VisibleCount يحصل على عدد عناصر المخطط المرئية على جميع المستويات. |
+| [Destination](../../aspose.pdf/outlineitemcollection/destination/) { get; set; } | يحصل أو يحدد الوجهة لهذا العنصر في المخطط. |
+| [First](../../aspose.pdf/outlineitemcollection/first/) { get; } | يحصل على عنصر المخطط الذي يمثل أول عنصر على مستوى عالٍ في تسلسل المخطط. |
+| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext/) { get; } | تحقق مما إذا كان عنصر المخطط يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط. |
+| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. |
+| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized/) { get; } | يحصل على القيمة التي تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامنًا (آمن للخيوط). |
+| [Italic](../../aspose.pdf/outlineitemcollection/italic/) { get; set; } | يحصل أو يحدد علامة مائل لنص العنوان لهذا العنصر في المخطط |
+| [Item](../../aspose.pdf/outlineitemcollection/item/) { get; } | يحصل على عنصر المخطط من المجموعة باستخدام الفهرس. |
+| [Last](../../aspose.pdf/outlineitemcollection/last/) { get; } | يحصل على عنصر المخطط الذي يمثل آخر عنصر على مستوى عالٍ في تسلسل المخطط. |
+| [Level](../../aspose.pdf/outlineitemcollection/level/) { get; } | يحصل على مستوى التسلسل لعنصر المخطط. |
+| [Next](../../aspose.pdf/outlineitemcollection/next/) { get; } | يحصل على عنصر المخطط الذي يمثل العنصر التالي بالنسبة لهذا العنصر في تسلسل المخطط. |
+| [Open](../../aspose.pdf/outlineitemcollection/open/) { get; set; } | يحصل أو يحدد حالة الفتح (صحيح/خطأ) لعنصر المخطط. |
+| [Parent](../../aspose.pdf/outlineitemcollection/parent/) { get; } | يحصل على الكائن الأب لهذا العنصر في المخطط في تسلسل المخطط. |
+| [Prev](../../aspose.pdf/outlineitemcollection/prev/) { get; } | يحصل على عنصر المخطط الذي يمثل العنصر السابق بالنسبة لهذا العنصر في تسلسل المخطط. |
+| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot/) { get; } | يحصل على الكائن الذي يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة. |
+| [Title](../../aspose.pdf/outlineitemcollection/title/) { get; set; } | يحصل أو يحدد العنوان لهذا العنصر في المخطط. |
+| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount/) { get; } | يحصل على العدد الإجمالي لعناصر المخطط على جميع المستويات في تسلسل المخطط للمستند. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlineitemcollection/add)(OutlineItemCollection) | إضافة عنصر مخطط إلى المجموعة. |
-| override [Clear](../../aspose.pdf/outlineitemcollection/clear)() | مسح كافة العناصر من المجموعة. |
-| override [Contains](../../aspose.pdf/outlineitemcollection/contains)(OutlineItemCollection) | للتحقق مما إذا كانت المجموعة تحتوي على عنصر معين. |
-| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto)(OutlineItemCollection[], int) | نسخ إدخالات المخطط التفصيلي إلى System.Array ، بدءًا من فهرس System.Array معين. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete)() | حذف عنصر المخطط التفصيلي هذا من التسلسل الهرمي لمخطط المستند. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete_1)(string) | حذف إدخال المخطط التفصيلي بالاسم المحدد من التسلسل الهرمي لمخطط المستند. |
-| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator)() | إرجاع عداد يتكرر خلال المجموعة. |
-| [Insert](../../aspose.pdf/outlineitemcollection/insert)(int, OutlineItemCollection) | إدراج عنصر المخطط التفصيلي في المجموعة في المكان المحدد. |
-| [Remove](../../aspose.pdf/outlineitemcollection/remove#remove_1)(int) | إزالة العنصر بالفهرس . |
-| override [Remove](../../aspose.pdf/outlineitemcollection/remove#remove)(OutlineItemCollection) | إزالة عنصر مجموعة المخطط التفصيلي . |
+| override [Add](../../aspose.pdf/outlineitemcollection/add/)(OutlineItemCollection) | يضيف عنصر المخطط إلى المجموعة. |
+| override [Clear](../../aspose.pdf/outlineitemcollection/clear/)() | يمسح جميع العناصر من المجموعة. |
+| override [Contains](../../aspose.pdf/outlineitemcollection/contains/)(OutlineItemCollection) | يتحقق مما إذا كانت المجموعة تحتوي على العنصر المعطى. |
+| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto/)(OutlineItemCollection[], int) | ينسخ إدخالات المخطط إلى مصفوفة System.Array، بدءًا من فهرس مصفوفة معين. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete)() | يحذف هذا العنصر في المخطط من تسلسل المخطط للمستند. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete_1)(string) | يحذف إدخال المخطط بالاسم المحدد من تسلسل المخطط للمستند. |
+| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator/)() | يعيد عدادًا يتكرر عبر المجموعة. |
+| [Insert](../../aspose.pdf/outlineitemcollection/insert/)(int, OutlineItemCollection) | يُدخل عنصر المخطط في المجموعة في المكان المحدد. |
+| [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove_1)(int) | يزيل العنصر حسب الفهرس. |
+| override [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove)(OutlineItemCollection) | يزيل عنصر مجموعة المخطط. |
 
-### أنظر أيضا
+### See Also
 
-* class [Outlines](../outlines)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Outlines](../outlines/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

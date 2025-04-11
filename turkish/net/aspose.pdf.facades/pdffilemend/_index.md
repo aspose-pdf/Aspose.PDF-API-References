@@ -1,12 +1,12 @@
 ---
-title: PdfFileMend
-second_title: Aspose.PDF for .NET API Referansı
-description: Mevcut PDF belgesinin sayfalarına metin ve resim eklemek için bir sınıfı temsil eder.
+title: Class PdfFileMend
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileMend sınıfı. Mevcut PDF belgesinin sayfalarına metin ve resim eklemek için bir sınıfı temsil eder.
 type: docs
-weight: 2540
+weight: 4530
 url: /tr/net/aspose.pdf.facades/pdffilemend/
 ---
-## PdfFileMend class
+## PdfFileMend Sınıfı
 
 Mevcut PDF belgesinin sayfalarına metin ve resim eklemek için bir sınıfı temsil eder.
 
@@ -14,49 +14,47 @@ Mevcut PDF belgesinin sayfalarına metin ve resim eklemek için bir sınıfı te
 public sealed class PdfFileMend : SaveableFacade
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PdfFileMend](pdffilemend#constructor)() | Yapıcı. |
-| [PdfFileMend](pdffilemend#constructor_1)(Document) | Yeniyi başlatır[`PdfFileMend`](../pdffilemend) temelinde nesne*document* . |
+| [PdfFileMend](pdffilemend/#constructor)() | Yapıcı. |
+| [PdfFileMend](pdffilemend/#constructor_1)(Document) | *belge* temelinde yeni bir `PdfFileMend` nesnesi başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Üzerinde çalıştığı belge cephesini alır. |
-| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap) { set; } | AddText yöntemlerinde sözcük kaydırmayı belirten bir bool değeri ayarlar. Değer doğruysa, FormattedText içindeki metin sözcük kaydırır. Varsayılan olarak değer false'tur. |
-| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode) { get; set; } | Metin konumlandırma stratejisini ayarlar veya alır.[`PositioningMode`](../positioningmode) Varsayılan mod Eski'dir. |
-| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | Sözcük kaydırma algoritmasını ayarlar veya alır. WordWrapMode ve IsWordWrap. 'ye bakın |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Üzerinde çalışılan belge yüzeyini alır. |
+| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | AddText yöntemlerinde kelime sarma durumunu belirten bir bool değeri ayarlar. Değer true ise, FormattedText içindeki metin kelime sarar. Varsayılan olarak, değer false'dur. |
+| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode/) { get; set; } | Metin konumlandırma stratejisini ayarlar veya alır. [`PositioningMode`](../positioningmode/) Varsayılan mod Legacy'dir. |
+| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode/) { get; set; } | Kelime sarma algoritmasını ayarlar veya alır. WordWrapMode ve IsWordWrap'a bakın. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage)(Stream, int, float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_2)(Stream, int[], float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_4)(string, int, float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_6)(string, int[], float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_5)(string, int, float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext)(FormattedText, int, float, float) | Uygulanmadı. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_1)(FormattedText, int, float, float, float, float) | Uygulanmadı. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_2)(FormattedText, int[], float, float, float, float) | Uygulanmadı. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Cepheyi başlatır. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Cepheyi başlatır. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Cepheyi başlatır. |
-| override [Close](../../aspose.pdf.facades/pdffilemend/close)() | PdfFileMend nesnesini kapatır. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Cepheyi ortadan kaldırır. |
-| override [Save](../../aspose.pdf.facades/pdffilemend/save#save)(Stream) | PDF belgesini belirtilen akışa kaydeder. |
-| override [Save](../../aspose.pdf.facades/pdffilemend/save#save_1)(string) | PDF belgesini belirtilen dosyaya kaydeder. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage)(Stream, int, float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_2)(Stream, int[], float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_4)(string, int, float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_6)(string, int[], float, float, float, float) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_5)(string, int, float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfasına resim ekler. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | Belirtilen koordinatlarda PDF belgesinin belirtilen sayfalarına resim ekler. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext)(FormattedText, int, float, float) | Uygulanmadı. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_1)(FormattedText, int, float, float, float, float) | Uygulanmadı. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_2)(FormattedText, int[], float, float, float, float) | Uygulanmadı. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Yüzeyi başlatır. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Yüzeyi başlatır. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Yüzeyi başlatır. |
+| override [Close](../../aspose.pdf.facades/pdffilemend/close/)() | PdfFileMend nesnesini kapatır. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Yüzeyi yok eder. |
+| override [Save](../../aspose.pdf.facades/pdffilemend/save/#save)(Stream) | PDF belgesini belirtilen akışa kaydeder. |
+| override [Save](../../aspose.pdf.facades/pdffilemend/save/#save_1)(string) | PDF belgesini belirtilen dosyaya kaydeder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SaveableFacade](../saveablefacade)
-* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [SaveableFacade](../saveablefacade/)
+* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../)

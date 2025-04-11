@@ -1,77 +1,77 @@
 ---
-title: TryInsert
-second_title: Aspose.PDF for .NET API Referansı
-description: Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+title: PdfFileEditor.TryInsert
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor yöntemi. Diğer bir dosyadan sayfaları giriş Pdf dosyasına ekler
 type: docs
-weight: 450
+weight: 420
 url: /tr/net/aspose.pdf.facades/pdffileeditor/tryinsert/
 ---
-## TryInsert(string, int, string, int[], string) {#tryinsert_2}
+## TryInsert(string, int, string, int[], string) {#tryinsert_1}
 
-Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+Diğer bir dosyadan sayfaları giriş Pdf dosyasına ekler.
 
 ```csharp
 public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | Pdf dosyasını girin. |
-| insertLocation | Int32 | Giriş dosyasına konum ekleyin. |
+| inputFile | String | Giriş Pdf dosyası. |
+| insertLocation | Int32 | Giriş dosyasındaki ekleme konumu. |
 | portFile | String | Pdf dosyasından sayfalar. |
-| pageNumber | Int32[] | portFile içinde taşınan sayfa numarası. |
-| outputFile | String | Çıktı pdf dosyası. |
+| pageNumber | Int32[] | portFile'daki taşınan sayfa numarası. |
+| outputFile | String | Çıkış Pdf dosyası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Başarı için doğru veya yanlış.
+Başarı için true, aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi işlem başarısız olursa bir istisna atmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryInsert(Stream, int, Stream, int[], Stream) {#tryinsert}
 
-Başka bir dosyadan sayfaları giriş Pdf dosyasına ekler.
+Diğer bir dosyadan sayfaları giriş Pdf dosyasına ekler.
 
 ```csharp
 public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Pdf dosyasının Giriş Akışı. |
-| insertLocation | Int32 | Giriş dosyasına konum ekleyin. |
-| portStream | Stream | Sayfalar için Pdf dosyası akışı. |
-| pageNumber | Int32[] | portFile içinde taşınan sayfa numarası. |
+| insertLocation | Int32 | Giriş dosyasındaki ekleme konumu. |
+| portStream | Stream | Sayfalar için Pdf dosyasının Akışı. |
+| pageNumber | Int32[] | portFile'daki taşınan sayfa numarası. |
 | outputStream | Stream | Çıkış Akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi işlem başarısız olursa bir istisna atmaz.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -81,76 +81,73 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
----
 
 ## TryInsert(string, int, string, int[], HttpResponse) {#tryinsert_3}
 
-Dosyanın içeriğini kaynak dosyaya ekler ve sonucu HttpResponse nesnesine depolar.
+Dosyanın içeriğini kaynak dosyaya ekler ve sonucu HttpResponse nesnesine kaydeder.
 
 ```csharp
 public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya adı. |
 | insertLocation | Int32 | İkinci dosyanın ekleneceği sayfa numarası. |
 | portFile | String | Eklenecek dosyanın yolu. |
-| pageNumber | Int32[] | Eklenecek olan kaynak dosyadaki sayfa numaraları dizisi. |
+| pageNumber | Int32[] | Eklenecek kaynak dosyadaki sayfa numaralarının dizisi. |
 | response | HttpResponse | Sonucun saklanacağı yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi işlem başarısız olursa bir istisna atmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TryInsert(Stream, int, Stream, int[], HttpResponse) {#tryinsert_1}
 
-Belgeyi başka bir belgeye ekler ve sonucu yanıt nesnesine kaydeder.
+Belgeyi diğer belgeye ekler ve sonucu yanıt nesnesine kaydeder.
 
 ```csharp
 public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Kaynak belgeyle akış |
+| inputStream | Stream | Kaynak belge ile akış |
 | insertLocation | Int32 | Diğer belgenin ekleneceği konum. |
 | portStream | Stream | Eklenecek belge. |
-| pageNumber | Int32[] | Eklenecek ikinci belgedeki sayfa numaraları dizisi. |
+| pageNumber | Int32[] | Eklenecek ikinci belgede sayfa numaralarının dizisi. |
 | response | HttpResponse | Sonucun saklanacağı yanıt nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+İşlem başarıyla tamamlandıysa true; aksi takdirde false.
 
-### Notlar
+## Açıklamalar
 
-TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi, işlem başarısız olursa bir istisna atmaz.
+TryInsert yöntemi, Insert yöntemine benzer, ancak TryInsert yöntemi işlem başarısız olursa bir istisna atmaz.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PdfFileEditor](../)
+* ad alanı [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* derleme [Aspose.PDF](../../../)

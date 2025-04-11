@@ -1,56 +1,55 @@
 ---
-title: SetColor
-second_title: Aspose.PDF for .NET API Referansı
-description: sc operatörü için sınıfı temsil eder kontursuz işlemler için rengi ayarlayın.
+title: Class SetColor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Operators.SetColor sınıfı. Nonstroking işlemleri için renk ayarlamak üzere sc operatörü sınıfını temsil eder.
 type: docs
-weight: 5390
+weight: 7630
 url: /tr/net/aspose.pdf.operators/setcolor/
 ---
-## SetColor class
+## SetColor sınıfı
 
-sc operatörü için sınıfı temsil eder (kontursuz işlemler için rengi ayarlayın).
+Non-stroking işlemler için renk ayarlamak üzere sc operatörünü temsil eden sınıf.
 
 ```csharp
 public class SetColor : BasicSetColorOperator
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [SetColor](setcolor#constructor)() | Operatörü başlatır. |
-| [SetColor](setcolor#constructor_1)(double) | DeviceGrey, CalGrey ve İndekslenmiş renk uzayları için vuruş operatörleri için rengi ayarlayın. |
-| [SetColor](setcolor#constructor_4)(double[]) | Renk bileşenlerini belirlemeye izin veren yapıcı. |
-| [SetColor](setcolor#constructor_2)(double, double, double) | DeviceRGB, CalRGB ve Lab renk uzayları için vuruş operatörü için rengi ayarlayın |
-| [SetColor](setcolor#constructor_3)(double, double, double, double) | CMYK renk alanı için kontursuz operatör için rengi ayarla |
+| [SetColor](setcolor/#constructor)() | Operatörü başlatır. |
+| [SetColor](setcolor/#constructor_1)(double) | DeviceGray, CalGray ve Indexed renk alanları için çizim operatörleri için rengi ayarlar. |
+| [SetColor](setcolor/#constructor_4)(double[]) | Renk bileşenlerini belirtmeye olanak tanıyan yapıcı. |
+| [SetColor](setcolor/#constructor_2)(double, double, double) | DeviceRGB, CalRGB ve Lab renk alanları için çizim operatörü için rengi ayarlar. |
+| [SetColor](setcolor/#constructor_3)(double, double, double, double) | CMYK renk alanı için non-stroking operatörü için rengi ayarlar. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | color öğesinin kırmızı bileşenini alır |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | CMYK renginin camgöbeği bileşenini alır. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Renk bileşenleri dizisini alır. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | color öğesinin yeşil bileşenini alır |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Gri rengin siyah bileşenini alır. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Sayfa operatörleri listesinde operatör dizini. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | CMYK renginin siyah bileşenini alır. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | CMYK renginin macenta bileşenini alır. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | color öğesinin kırmızı bileşenini alır |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | CMYK renginin sarı bileşenini alır. |
+| [B](../../aspose.pdf.operators/setcolor/b/) { get; set; } | Mavi bileşeni alır veya ayarlar. |
+| [C](../../aspose.pdf.operators/setcolor/c/) { get; set; } | Camgöbeği bileşenini alır veya ayarlar. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Renk bileşenleri dizisini alır. |
+| [G](../../aspose.pdf.operators/setcolor/g/) { get; set; } | Yeşil bileşeni alır veya ayarlar. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Gri rengin siyah bileşenini alır. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Sayfa operatörleri listesindeki operatör indeksini alır veya ayarlar. |
+| [K](../../aspose.pdf.operators/setcolor/k/) { get; set; } | Siyah bileşeni alır veya ayarlar. |
+| [M](../../aspose.pdf.operators/setcolor/m/) { get; set; } | Macenta bileşenini alır veya ayarlar. |
+| [R](../../aspose.pdf.operators/setcolor/r/) { get; set; } | Kırmızı bileşeni alır veya ayarlar. |
+| [Y](../../aspose.pdf.operators/setcolor/y/) { get; set; } | Sarı bileşeni alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | İşleci işlemek için ziyaretçi nesnesini kabul eder. |
-| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | Operatör tarafından belirtilen rengi döndürür. |
-| override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | Rengin dize gösterimini döndürür. |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept/)(IOperatorSelector) | Operatörü işlemek için ziyaretçi nesnesini kabul eder. |
+| override [getColor](../../aspose.pdf.operators/setcolor/getcolor/)() | Operatör tarafından belirtilen rengi döndürür. |
+| override [ToString](../../aspose.pdf.operators/setcolor/tostring/)() | Rengin string temsilini döndürür. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Bu örneği verilen nesne ile karşılaştırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* ad alanı [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [BasicSetColorOperator](../basicsetcoloroperator/)
+* ad alanı [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* derleme [Aspose.PDF](../../)

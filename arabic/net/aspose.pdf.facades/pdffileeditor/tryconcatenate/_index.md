@@ -1,136 +1,136 @@
 ---
-title: TryConcatenate
-second_title: Aspose.PDF لمرجع .NET API
-description: يربط بين ملفين.
+title: PdfFileEditor.TryConcatenate
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileEditor. يدمج ملفين
 type: docs
-weight: 420
+weight: 390
 url: /ar/net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
 ---
-## TryConcatenate(string, string, string) {#tryconcatenate_4}
+## TryConcatenate(string, string, string) {#tryconcatenate_3}
 
-يربط بين ملفين.
+يدمج ملفين.
 
 ```csharp
 public bool TryConcatenate(string firstInputFile, string secInputFile, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| firstInputFile | String | الملف الأول لسلسلة. |
-| secInputFile | String | الملف الثاني لسلسلة. |
-| outputFile | String | ملف إلاخراج. |
+| firstInputFile | String | الملف الأول للدمج. |
+| secInputFile | String | الملف الثاني للدمج. |
+| outputFile | String | ملف الإخراج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 bool result = fileEditor.TryConcatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryConcatenate(Document[], Document) {#tryconcatenate}
 
-تسلسل المستندات .
+يدمج المستندات.
 
 ```csharp
 public bool TryConcatenate(Document[] src, Document dest)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| src | Document[] | صفيف من المستندات المصدر. |
-| dest | Document | وثيقة الوجهة. |
+| src | Document[] | مصفوفة من المستندات المصدر. |
+| dest | Document | المستند الوجهة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../../aspose.pdf/document)
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryConcatenate(string[], string) {#tryconcatenate_6}
+## TryConcatenate(string[], string) {#tryconcatenate_5}
 
-يربط الملفات في ملف واحد.
+يدمج الملفات في ملف واحد.
 
 ```csharp
 public bool TryConcatenate(string[] inputFiles, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFiles | String[] | صفيف من الملفات المراد تجميعها. |
+| inputFiles | String[] | مصفوفة من الملفات للدمج. |
 | outputFile | String | اسم ملف الإخراج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryConcatenate(new string[] { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryConcatenate(Stream[], Stream) {#tryconcatenate_2}
 
-تسلسل الملفات
+يدمج الملفات
 
 ```csharp
 public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream[] | مصفوفة من التدفقات المراد تسلسلها. |
-| outputStream | Stream | دفق حيث سيتم تخزين ملف النتيجة. |
+| inputStream | Stream[] | مصفوفة من التدفقات التي سيتم دمجها. |
+| outputStream | Stream | التدفق الذي سيتم تخزين ملف النتيجة فيه. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -140,78 +140,78 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryConcatenate(string, string, string, string) {#tryconcatenate_5}
+## TryConcatenate(string, string, string, string) {#tryconcatenate_4}
 
-يدمج مستندين من ملفات PDF في مستند Pdf جديد مع الصفحات بطرق بديلة ويملأ الأماكن الفارغة بصفحات فارغة. على سبيل المثال: يحتوي المستند 1 على 5 صفحات: p1، p2، p3، p4، p5. يحتوي المستند 2 على 3 صفحات: p1 '، p2'، p3 '. دمج ملفي PDF سينتج المستند الناتج بالصفحات: p1، p1'، p2، p2 '، p3، p3'، p4، blankpage، p5، blankpage .
+يمزج بين مستندين Pdf في مستند Pdf جديد مع صفحات بطرق متناوبة ويملأ الأماكن الفارغة بصفحات فارغة. على سبيل المثال: يحتوي document1 على 5 صفحات: p1، p2، p3، p4، p5. يحتوي document2 على 3 صفحات: p1'، p2'، p3'. سيؤدي دمج مستندي Pdf إلى إنتاج مستند النتيجة مع الصفحات: p1، p1'، p2، p2'، p3، p3'، p4، صفحة فارغة، p5، صفحة فارغة.
 
 ```csharp
 public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, 
     string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
 | firstInputFile | String | الملف الأول. |
 | secInputFile | String | الملف الثاني. |
-| blankPageFile | String | ملف PDF بصفحة فارغة. |
-| outputFile | String | الملف الناتج. |
+| blankPageFile | String | ملف PDF مع صفحة فارغة. |
+| outputFile | String | ملف النتيجة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryConcatenate(Stream, Stream, Stream, Stream) {#tryconcatenate_1}
 
-يدمج مستندين من ملفات PDF في مستند Pdf جديد مع الصفحات بطرق بديلة ويملأ الأماكن الفارغة بصفحات فارغة. على سبيل المثال: يحتوي المستند 1 على 5 صفحات: p1، p2، p3، p4، p5. يحتوي المستند 2 على 3 صفحات: p1 '، p2'، p3 '. دمج ملفي PDF سينتج المستند الناتج بالصفحات: p1، p1'، p2، p2 '، p3، p3'، p4، blankpage، p5، blankpage .
+يمزج بين مستندين Pdf في مستند Pdf جديد مع صفحات بطرق متناوبة ويملأ الأماكن الفارغة بصفحات فارغة. على سبيل المثال: يحتوي document1 على 5 صفحات: p1، p2، p3، p4، p5. يحتوي document2 على 3 صفحات: p1'، p2'، p3'. سيؤدي دمج مستندي Pdf إلى إنتاج مستند النتيجة مع الصفحات: p1، p1'، p2، p2'، p3، p3'، p4، صفحة فارغة، p5، صفحة فارغة.
 
 ```csharp
 public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
     Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| firstInputStream | Stream | أول دفق PDF. |
-| secInputStream | Stream | دفق PDF الثاني. |
-| blankPageStream | Stream | دفق PDF بصفحة فارغة. |
-| outputStream | Stream | إخراج دفق PDF. |
+| firstInputStream | Stream | أول تدفق Pdf. |
+| secInputStream | Stream | ثاني تدفق Pdf. |
+| blankPageStream | Stream | تدفق Pdf مع صفحة فارغة. |
+| outputStream | Stream | تدفق Pdf للإخراج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -222,68 +222,65 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TryConcatenate(string[], HttpResponse) {#tryconcatenate_7}
 
-يربط الملفات ويحفظ reslt في كائن HttpResposnse .
+يدمج الملفات ويحفظ النتيجة في كائن HttpResponse.
 
 ```csharp
 public bool TryConcatenate(string[] inputFiles, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFiles | String[] | صفيف من الملفات المراد تجميعها. |
+| inputFiles | String[] | مصفوفة من الملفات للدمج. |
 | response | HttpResponse | كائن الاستجابة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryConcatenate(Stream[], HttpResponse) {#tryconcatenate_3}
 
-تؤدي الملفات المتسلسلة والمخازن إلى كائن HttpResponse.
+يدمج الملفات ويخزن النتيجة في كائن HttpResponse.
 
 ```csharp
 public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream[] | مصفوفة التدفقات التي تحتوي على ملفات للتسلسل. |
-| response | HttpResponse | كائن الاستجابة / |
+| inputStream | Stream[] | مصفوفة التدفقات التي تحتوي على الملفات للدمج. |
+| response | HttpResponse | كائن الاستجابة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
 
-### ملاحظات
+## ملاحظات
 
-تشبه طريقة TryConcatenate طريقة Concatenate ، باستثناء أن طريقة TryConcatenate لا تطرح استثناءً إذا فشلت العملية.
+طريقة TryConcatenate تشبه طريقة Concatenate، باستثناء أن طريقة TryConcatenate لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

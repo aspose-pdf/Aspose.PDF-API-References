@@ -1,14 +1,14 @@
 ---
-title: CopyOuterField
-second_title: Aspose.PDF för .NET API Referens
-description: Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med originalsidnummer och ordinater. Observera Endast för AcroForm-fält exklusive radiobox.
+title: FormEditor.CopyOuterField
+second_title: Aspose.PDF for .NET API Reference
+description: FormEditor-metod. Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med ursprungligt sidnummer och koordinater. Observera: Endast för AcroForm-fält (exklusive radioknapp)
 type: docs
-weight: 200
+weight: 160
 url: /sv/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med originalsidnummer och ordinater. Observera: Endast för AcroForm-fält (exklusive radiobox).
+Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med ursprungligt sidnummer och koordinater. Observera: Endast för AcroForm-fält (exklusive radioknapp).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -16,29 +16,29 @@ public void CopyOuterField(string srcFileName, string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | String | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
-| fieldName | String | Det ursprungliga fullständiga fältnamnet. |
+| srcFileName | Sträng | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
+| fieldName | Sträng | Det ursprungliga fullt kvalificerade fältnamnet. |
 
-### Exempel
+## Exempel
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-//kopierar textfält från source.pdf till PdfForm.pdf
+//copies text field from source.pdf to PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
 
-### Se även
+### Se Även
 
-* class [FormEditor](../../formeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../formeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med angivet sidnummer och originalordinater. Observera: Endast för AcroForm-fält (exklusive radiobox).
+Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med angivet sidnummer och ursprungliga koordinater. Observera: Endast för AcroForm-fält (exklusive radioknapp).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -46,11 +46,11 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | String | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
-| fieldName | String | Det ursprungliga fullständiga fältnamnet. |
-| pageNum | Int32 | Antalet sidor för att hålla det nya fältet. Om -1, kommer det nya fältet att kopieras till samma sida som det gamla. |
+| srcFileName | Sträng | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
+| fieldName | Sträng | Det ursprungliga fullt kvalificerade fältnamnet. |
+| pageNum | Int32 | Sidnumret för att hålla det nya fältet. Om -1, kommer det nya fältet att kopieras till samma sida som det gamla. |
 
-### Exempel
+## Exempel
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
@@ -58,17 +58,17 @@ formEditor.CopyOuterField("source.pdf", "textField", 2);
 formEditor.Save();
 ```
 
-### Se även
+### Se Även
 
-* class [FormEditor](../../formeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../formeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med angivet sidnummer och ordinater. Observera: Endast för AcroForm-fält (exklusive radiobox).
+Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med angivet sidnummer och koordinater. Observera: Endast för AcroForm-fält (exklusive radioknapp).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -77,23 +77,21 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum, fl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | String | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
-| fieldName | String | Det ursprungliga fullständiga fältnamnet. |
-| pageNum | Int32 | Antalet sidor för att hålla det nya fältet. Om -1, kommer det nya fältet att kopieras till samma sida som det gamla. |
-| abscissa | Single | Abskissan av det nya fältet. Om -1 kommer abskissan att vara lika med den ursprungliga. |
-| ordinate | Single | Ordinatan för det nya fältet. Om -1 kommer ordinatan att vara lika med den ursprungliga. |
+| srcFileName | Sträng | Namnet på PDF-dokumentet som innehåller fältet som ska kopieras. |
+| fieldName | Sträng | Det ursprungliga fullt kvalificerade fältnamnet. |
+| pageNum | Int32 | Sidnumret för att hålla det nya fältet. Om -1, kommer det nya fältet att kopieras till samma sida som det gamla. |
+| abscissa | Enkel | Abscissan för det nya fältet. Om -1, kommer abscissan att vara lika med den ursprungliga. |
+| ordinate | Enkel | Ordinaten för det nya fältet. Om -1, kommer ordinaten att vara lika med den ursprungliga. |
 
-### Exempel
+## Exempel
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 ```
 
-### Se även
+### Se Även
 
-* class [FormEditor](../../formeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../formeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [FormEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../../)

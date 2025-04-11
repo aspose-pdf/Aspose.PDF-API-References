@@ -1,74 +1,72 @@
 ---
-title: PdfExtractor
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Klasse zum Extrahieren von Bildern und Text aus einem PDF-Dokument.
+title: Class PdfExtractor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfExtractor-Klasse. Klasse zum Extrahieren von Bildern und Text aus PDF-Dokumenten
 type: docs
-weight: 2460
+weight: 4450
 url: /de/net/aspose.pdf.facades/pdfextractor/
 ---
-## PdfExtractor class
+## PdfExtractor-Klasse
 
-Klasse zum Extrahieren von Bildern und Text aus einem PDF-Dokument.
+Klasse zum Extrahieren von Bildern und Text aus PDF-Dokumenten.
 
 ```csharp
 public sealed class PdfExtractor : Facade
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfExtractor](pdfextractor#constructor)() | Initialisiert neu[`PdfExtractor`](../pdfextractor) Objekt. |
-| [PdfExtractor](pdfextractor#constructor_1)(Document) | Initialisiert neu[`PdfExtractor`](../pdfextractor) Objekt auf Basis der*document* . |
+| [PdfExtractor](pdfextractor/#constructor)() | Initialisiert ein neues `PdfExtractor`-Objekt. |
+| [PdfExtractor](pdfextractor/#constructor_1)(Document) | Initialisiert ein neues `PdfExtractor`-Objekt auf Basis des *Dokuments*. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Ruft die Dokumentfassade ab, an der gearbeitet wird. |
-| [EndPage](../../aspose.pdf.facades/pdfextractor/endpage) { get; set; } | Ruft die Endseite im Seitenbereich ab oder legt sie fest, in der der Extraktionsvorgang ausgeführt wird. |
-| [ExtractImageMode](../../aspose.pdf.facades/pdfextractor/extractimagemode) { get; set; } | Legt den Modus zum Extrahieren von Bildern fest. |
-| [ExtractTextMode](../../aspose.pdf.facades/pdfextractor/extracttextmode) { get; set; } | Legt den Modus für das Ergebnis des Extrahierens von Text fest. |
-| [IsBidi](../../aspose.pdf.facades/pdfextractor/isbidi) { get; } | Ist wahr, wenn der Text hebräische oder arabische Symbole enthält. Dieser Fall muss besonders berücksichtigt werden, da Zeichenfolgenfunktionen ihr Verhalten ändern und Text von rechts nach links beginnen (außer Zahlen und andere Nicht-Textzeichen). |
-| [Password](../../aspose.pdf.facades/pdfextractor/password) { get; set; } | Ruft das Passwort der Eingabedatei ab oder legt es fest. |
-| [Resolution](../../aspose.pdf.facades/pdfextractor/resolution) { get; set; } | Auflösung für extrahierte Bilder festlegen oder abrufen. Der Standardwert ist 150. Bilder mit einem höheren Auflösungswert sind klarer. Eine Erhöhung des Auflösungswerts führt jedoch zu einem erhöhten Zeit- und Speicherbedarf zum Extrahieren von Bildern. Normalerweise reicht es aus, um ein klares Bild zu erhalten um die Auflösung auf 150 oder 300 einzustellen. |
-| [StartPage](../../aspose.pdf.facades/pdfextractor/startpage) { get; set; } | Ruft die Startseite im Seitenbereich ab oder legt sie fest, in dem der Extraktionsvorgang ausgeführt wird. |
-| [TextSearchOptions](../../aspose.pdf.facades/pdfextractor/textsearchoptions) { get; set; } | Ruft Textsuchoptionen ab oder legt sie fest. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gibt das Dokument zurück, an dem die Fassade arbeitet. |
+| [EndPage](../../aspose.pdf.facades/pdfextractor/endpage/) { get; set; } | Gibt die Endseite im Seitenbereich zurück oder setzt sie, in dem die Extraktionsoperation durchgeführt wird. |
+| [ExtractImageMode](../../aspose.pdf.facades/pdfextractor/extractimagemode/) { get; set; } | Setzt den Modus für den Extraktionsprozess von Bildern. |
+| [ExtractTextMode](../../aspose.pdf.facades/pdfextractor/extracttextmode/) { get; set; } | Setzt den Modus für das Ergebnis der Textextraktion. |
+| [IsBidi](../../aspose.pdf.facades/pdfextractor/isbidi/) { get; } | Ist wahr, wenn der Text hebräische oder arabische Symbole enthält. Dieser Fall muss besonders berücksichtigt werden, da sich die String-Funktionen in ihrem Verhalten ändern und den Text von rechts nach links verarbeiten (außer Zahlen und anderen Nicht-Textzeichen). |
+| [Password](../../aspose.pdf.facades/pdfextractor/password/) { get; set; } | Gibt das Passwort der Eingabedatei zurück oder setzt es. |
+| [Resolution](../../aspose.pdf.facades/pdfextractor/resolution/) { get; set; } | Setzt oder gibt die Auflösung für extrahierte Bilder zurück. Der Standardwert ist 150. Bilder mit höherem Auflösungswert sind klarer. Eine Erhöhung des Auflösungswerts führt jedoch zu einer Erhöhung der benötigten Zeit und des Speichers für die Extraktion von Bildern. Um ein klares Bild zu erhalten, reicht es normalerweise aus, die Auflösung auf 150 oder 300 zu setzen. |
+| [StartPage](../../aspose.pdf.facades/pdfextractor/startpage/) { get; set; } | Gibt die Startseite im Seitenbereich zurück oder setzt sie, in dem die Extraktionsoperation durchgeführt wird. |
+| [TextSearchOptions](../../aspose.pdf.facades/pdfextractor/textsearchoptions/) { get; set; } | Gibt die Textsuchoptionen zurück oder setzt sie. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initialisiert die Fassade. |
-| override [BindPdf](../../aspose.pdf.facades/pdfextractor/bindpdf#bindpdf_1)(Stream) | Bindet PDF-Dokument aus Stream. |
-| override [BindPdf](../../aspose.pdf.facades/pdfextractor/bindpdf#bindpdf_2)(string) | PDF-Eingabedatei binden. |
-| virtual [Close](../../aspose.pdf.facades/facade/close)() | Disposes Aspose.Pdf.Document gebunden mit einer Fassade. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Entsorgt die Fassade. |
-| [ExtractAttachment](../../aspose.pdf.facades/pdfextractor/extractattachment#extractattachment)() | Extrahiert Anhänge aus einem PDF-Dokument. |
-| [ExtractAttachment](../../aspose.pdf.facades/pdfextractor/extractattachment#extractattachment_1)(string) | Extrahiert den Anhang in eine PDF-Datei nach Anhangsname. |
-| [ExtractImage](../../aspose.pdf.facades/pdfextractor/extractimage)() | Bilder aus PDF-Datei extrahieren. |
-| [ExtractText](../../aspose.pdf.facades/pdfextractor/extracttext#extracttext)() | Extrahiert Text aus einem PDF-Dokument mit Unicode-Codierung. |
-| [ExtractText](../../aspose.pdf.facades/pdfextractor/extracttext#extracttext_1)(Encoding) | Extrahiert Text aus einem PDF-Dokument unter Verwendung der angegebenen Kodierung. |
-| [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment#getattachment)() | Speichert alle angehängten Dateien in Streams. |
-| [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment#getattachment_1)(string) | Speichert Anhang in Datei. |
-| [GetAttachmentInfo](../../aspose.pdf.facades/pdfextractor/getattachmentinfo)() | Ruft die Liste der Anhänge ab. |
-| [GetAttachNames](../../aspose.pdf.facades/pdfextractor/getattachnames)() | Gibt eine Liste der Anhänge in der PDF-Datei zurück. Hinweis: ExtractAttachments muss vor der Verwendung dieser Methode aufgerufen werden. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage#getnextimage)(Stream) | Ruft das nächste Bild aus der PDF-Datei ab und speichert es im Stream. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage#getnextimage_2)(string) | Ruft das nächste Bild aus dem PDF-Dokument ab. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage#getnextimage_1)(Stream, ImageFormat) | Ruft das nächste Bild aus der PDF-Datei ab und speichert es im Stream mit dem angegebenen Bildformat. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage#getnextimage_3)(string, ImageFormat) | Ruft das nächste Bild aus dem PDF-Dokument mit dem angegebenen Bildformat ab. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
-| [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext#getnextpagetext)(Stream) | Speichert den Text einer Seite im Stream. |
-| [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext#getnextpagetext_1)(string) | Speichert den Text einer Seite in einer Datei. |
-| [GetText](../../aspose.pdf.facades/pdfextractor/gettext#gettext)(Stream) | Speichert Text im Stream. siehe auch:[`ExtractText`](./extracttext) |
-| [GetText](../../aspose.pdf.facades/pdfextractor/gettext#gettext_2)(string) | Speichert Text in Datei. siehe auch:[`ExtractText`](./extracttext) |
-| [GetText](../../aspose.pdf.facades/pdfextractor/gettext#gettext_1)(Stream, bool) | Speichert Text im Stream. siehe auch:[`ExtractText`](./extracttext) |
-| [HasNextImage](../../aspose.pdf.facades/pdfextractor/hasnextimage)() | Prüft, ob mehr Bilder im PDF-Dokument zugänglich sind. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
-| [HasNextPageText](../../aspose.pdf.facades/pdfextractor/hasnextpagetext)() | Gibt an, ob weitere SMS empfangen werden können oder nicht. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initialisiert die Fassade. |
+| override [BindPdf](../../aspose.pdf.facades/pdfextractor/bindpdf/#bindpdf_1)(Stream) | Bindet das PDF-Dokument aus dem Stream. |
+| override [BindPdf](../../aspose.pdf.facades/pdfextractor/bindpdf/#bindpdf_2)(string) | Bindet die Eingabe-PDF-Datei. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Gibt das mit einer Fassade verbundene Aspose.Pdf.Document frei. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Gibt die Fassade frei. |
+| [ExtractAttachment](../../aspose.pdf.facades/pdfextractor/extractattachment/#extractattachment)() | Extrahiert Anhänge aus einem PDF-Dokument. |
+| [ExtractAttachment](../../aspose.pdf.facades/pdfextractor/extractattachment/#extractattachment_1)(string) | Extrahiert einen Anhang zur PDF-Datei nach Anhängenamen. |
+| [ExtractImage](../../aspose.pdf.facades/pdfextractor/extractimage/)() | Extrahiert Bilder aus der PDF-Datei. |
+| [ExtractText](../../aspose.pdf.facades/pdfextractor/extracttext/#extracttext)() | Extrahiert Text aus einem PDF-Dokument unter Verwendung von Unicode-Codierung. |
+| [ExtractText](../../aspose.pdf.facades/pdfextractor/extracttext/#extracttext_1)(Encoding) | Extrahiert Text aus einem PDF-Dokument unter Verwendung der angegebenen Codierung. |
+| [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment/#getattachment)() | Speichert alle Anhangsdateien in Streams. |
+| [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment/#getattachment_1)(string) | Speichert den Anhang in einer Datei. |
+| [GetAttachmentInfo](../../aspose.pdf.facades/pdfextractor/getattachmentinfo/)() | Gibt die Liste der Anhänge zurück. |
+| [GetAttachNames](../../aspose.pdf.facades/pdfextractor/getattachnames/)() | Gibt die Liste der Anhänge in der PDF-Datei zurück. Hinweis: ExtractAttachments muss vor der Verwendung dieser Methode aufgerufen werden. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage)(Stream) | Ruft das nächste Bild aus der PDF-Datei ab und speichert es im Stream. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_2)(string) | Ruft das nächste Bild aus dem PDF-Dokument ab. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_1)(Stream, ImageFormat) | Ruft das nächste Bild aus der PDF-Datei ab und speichert es im Stream im angegebenen Bildformat. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_3)(string, ImageFormat) | Ruft das nächste Bild aus dem PDF-Dokument im angegebenen Bildformat ab. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
+| [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext/#getnextpagetext)(Stream) | Speichert den Text einer Seite im Stream. |
+| [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext/#getnextpagetext_1)(string) | Speichert den Text einer Seite in einer Datei. |
+| [GetText](../../aspose.pdf.facades/pdfextractor/gettext/#gettext)(Stream) | Speichert Text im Stream. siehe auch:[`ExtractText`](./extracttext/) |
+| [GetText](../../aspose.pdf.facades/pdfextractor/gettext/#gettext_2)(string) | Speichert Text in einer Datei. siehe auch:[`ExtractText`](./extracttext/) |
+| [GetText](../../aspose.pdf.facades/pdfextractor/gettext/#gettext_1)(Stream, bool) | Speichert Text im Stream. siehe auch:[`ExtractText`](./extracttext/) |
+| [HasNextImage](../../aspose.pdf.facades/pdfextractor/hasnextimage/)() | Überprüft, ob weitere Bilder im PDF-Dokument verfügbar sind. Hinweis: ExtractImage muss vor der Verwendung dieser Methode aufgerufen werden. |
+| [HasNextPageText](../../aspose.pdf.facades/pdfextractor/hasnextpagetext/)() | Gibt an, ob weitere Texte abgerufen werden können oder nicht. |
 
 ### Siehe auch
 
-* class [Facade](../facade)
-* namensraum [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [Facade](../facade/)
+* Namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../)

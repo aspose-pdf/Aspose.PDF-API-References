@@ -1,51 +1,49 @@
 ---
-title: TeXFragment
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل جزء TeX .
+title: Class TeXFragment
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.TeXFragment class. يمثل جزء TeX
 type: docs
-weight: 6560
+weight: 10360
 url: /ar/net/aspose.pdf/texfragment/
 ---
 ## TeXFragment class
 
-يمثل جزء TeX .
+يمثل جزء TeX.
 
 ```csharp
 public class TeXFragment : FormattedFragment
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [TeXFragment](texfragment#constructor)(string) | تهيئة مثيل جديد لفئة HtmlFragment. |
-| [TeXFragment](texfragment#constructor_1)(string, bool) | تهيئة مثيل جديد لفئة HtmlFragment. |
+| [TeXFragment](texfragment/#constructor)(string) | يقوم بتهيئة مثيل جديد من فئة HtmlFragment. |
+| [TeXFragment](texfragment/#constructor_1)(string, bool) | يقوم بتهيئة مثيل جديد من فئة HtmlFragment. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية للفقرة أو تعيينها |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [TeXLoadOptionsOfInstance](../../aspose.pdf/texfragment/texloadoptionsofinstance) { get; set; } | الحصول على أو تعيين TeXLoadOptions التي سيتم استخدامها لتحميل (وعرض) LaTeX في مثيل الفئة هذا. استخدم BasePath محددًا لـ LaTeX المستوردة أو يجب استخدام أداة تحميل محددة للموارد الخارجية) إذا كانت المعلمة افتراضية (خالية) ، فسيتم استخدام خيارات تحميل LaTeX القياسية. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الجزء (لإنشاء PDF). |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [TeXLoadOptionsOfInstance](../../aspose.pdf/texfragment/texloadoptionsofinstance/) { get; set; } | يحصل أو يحدد خيارات تحميل TeX التي ستستخدم لتحميل (ورسم) LaTeX في هذا المثيل من الفئة. يرجى استخدامها عندما يكون من الضروري استخدام إعدادات محددة لاستيراد LaTeX لهذا أو ذاك المثيل (على سبيل المثال، عندما يجب أن يستخدم هذا أو ذاك المثيل مسار قاعدة محدد لـ LaTeX المستورد أو يجب أن يستخدم محملًا محددًا للموارد الخارجية) إذا كانت المعلمة افتراضية (null)، فسيتم استخدام خيارات تحميل LaTeX القياسية. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم ذو ZIndex أكبر فوق الرسم ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم ذو ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.pdf/texfragment/clone)() | جزء النسخ . |
+| override [Clone](../../aspose.pdf/texfragment/clone/)() | يقوم باستنساخ الجزء. |
 
-### أنظر أيضا
+### See Also
 
-* class [FormattedFragment](../formattedfragment)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [FormattedFragment](../formattedfragment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

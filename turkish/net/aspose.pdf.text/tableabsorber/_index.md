@@ -1,69 +1,68 @@
 ---
-title: TableAbsorber
-second_title: Aspose.PDF for .NET API Referansı
-description: Tablo öğelerinin bir emici nesnesini temsil eder. Aramayı gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.TableList./tableabsorber/tablelist koleksiyon.
+title: Class TableAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TableAbsorber sınıfı. Tablo öğelerinin bir emici nesnesini temsil eder. Arama yapar ve arama sonuçlarına [`TableList`](./tablelist/) koleksiyonu aracılığıyla erişim sağlar.
 type: docs
-weight: 6950
+weight: 10790
 url: /tr/net/aspose.pdf.text/tableabsorber/
 ---
-## TableAbsorber class
+## TableAbsorber sınıfı
 
-Tablo öğelerinin bir emici nesnesini temsil eder. Aramayı gerçekleştirir ve aracılığıyla arama sonuçlarına erişim sağlar.[`TableList`](./tablelist) koleksiyon.
+Tablo öğelerinin bir emici nesnesini temsil eder. Arama yapar ve arama sonuçlarına [`TableList`](./tablelist/) koleksiyonu aracılığıyla erişim sağlar.
 
 ```csharp
 public class TableAbsorber
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TableAbsorber](tableabsorber#constructor)() | Yeni bir örneğini başlatır[`TableAbsorber`](../tableabsorber) . |
-| [TableAbsorber](tableabsorber#constructor_1)(TextSearchOptions) | Yeni bir örneğini başlatır[`TableAbsorber`](../tableabsorber) metin arama seçenekleriyle. |
+| [TableAbsorber](tableabsorber/#constructor)() | `TableAbsorber`'ın yeni bir örneğini başlatır. |
+| [TableAbsorber](tableabsorber/#constructor_1)(TextSearchOptions) | Metin arama seçenekleri ile `TableAbsorber`'ın yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist) { get; } | Bulunan tabloları içeren salt okunur IList döndürür |
-| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions) { get; set; } | Metin arama seçeneklerini alır veya ayarlar. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } | * Kenarlıksız dönüştürme tabloları için kullanılabilecek alternatif tablo tanıma motorunun erken bir alfa sürümünü etkinleştirin. Henüz tabloları düzenlemeyi ve metin stilleri almayı desteklemiyor. Varsayılan değer yanlıştır; |
+| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist/) { get; } | Bulunan tabloları içeren readonly IList döner |
+| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions/) { get; set; } | Metin arama seçeneklerini alır veya ayarlar. |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Birçok senaryoda üstün olan ve kenarlara sahip olmayan tabloları tanıyabilen alternatif bir tablo tanıma motorunu etkinleştirir. Henüz tabloları düzenleme ve metin stillerini alma desteği yoktur. Varsayılan değer false; |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Remove](../../aspose.pdf.text/tableabsorber/remove)(AbsorbedTable) | Bir[`AbsorbedTable`](../absorbedtable) sayfadan. |
-| [Replace](../../aspose.pdf.text/tableabsorber/replace)(Page, AbsorbedTable, Table) | Bir[`AbsorbedTable`](../absorbedtable) ile birlikte[`Table`](../../aspose.pdf/table) sayfada. |
-| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit)(Page) | Belirtilen sayfadaki tabloları çıkarır |
+| [Remove](../../aspose.pdf.text/tableabsorber/remove/)(AbsorbedTable) | Sayfadan bir [`AbsorbedTable`](../absorbedtable/) kaldırır. |
+| [Replace](../../aspose.pdf.text/tableabsorber/replace/)(Page, AbsorbedTable, Table) | Sayfadaki bir [`AbsorbedTable`](../absorbedtable/) ile [`Table`](../../aspose.pdf/table/) değiştirir. |
+| [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit)(Document) | Belirtilen belgede tabloları çıkarır. |
+| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit_1)(Page) | Belirtilen sayfadaki tabloları çıkarır |
 
-### Örnekler
+## Örnekler
 
-Örnek, ilk PDF belgesi sayfasında tablonun nasıl bulunacağını ve bir tablo hücresindeki metnin nasıl değiştirileceğini gösterir.
+Örnek, ilk PDF belgesi sayfasında tablo bulmayı ve bir tablo hücresindeki metni değiştirmeyi gösterir.
 
 ```csharp
-// Belgeyi aç
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Tabloları bulmak için TableAbsorber nesnesi oluşturun
+// Create TableAbsorber object to find tables
 TableAbsorber absorber = new TableAbsorber();
 
-// Emici ile ilk sayfayı ziyaret edin
+// Visit first page with absorber
 absorber.Visit(pdfDocument.Pages[1]);
 
-// Sayfadaki ilk tabloya, içindeki ilk hücreye ve metin parçalarına erişim sağlayın
+// Get access to first table on page, their first cell and text fragments in it
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Hücredeki ilk metin parçasının metnini değiştir
+// Change text of the first text fragment in the cell
 fragment.Text = "hi world";
 
-// Belgeyi kaydet
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

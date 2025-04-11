@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Referansı
-description: Daha fazla standart kapasite içerebilen bir MemoryStream tanımlar
+title: Class OptimizedMemoryStream
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.OptimizedMemoryStream sınıfı. Daha fazla standart kapasite içerebilen bir MemoryStream tanımlar
 type: docs
-weight: 5750
+weight: 7990
 url: /tr/net/aspose.pdf/optimizedmemorystream/
 ---
-## OptimizedMemoryStream class
+## OptimizedMemoryStream sınıfı
 
 Daha fazla standart kapasite içerebilen bir MemoryStream tanımlar
 
@@ -14,50 +14,48 @@ Daha fazla standart kapasite içerebilen bir MemoryStream tanımlar
 public class OptimizedMemoryStream : Stream
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor)() | Yeni bir örneğini başlatır[`OptimizedMemoryStream`](../optimizedmemorystream) sınıf. |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_1)(byte[]) | Yeni bir örneğini başlatır[`OptimizedMemoryStream`](../optimizedmemorystream) belirtilen bayt dizisine dayalı sınıf. |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_2)(int) | Yeni bir örneğini başlatır[`OptimizedMemoryStream`](../optimizedmemorystream) sınıf. |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_3)(int, byte[]) | Yeni bir örneğini başlatır[`OptimizedMemoryStream`](../optimizedmemorystream) belirtilen bayt dizisine dayalı sınıf. |
+| [OptimizedMemoryStream](optimizedmemorystream/#constructor)() | `OptimizedMemoryStream` sınıfının yeni bir örneğini başlatır. |
+| [OptimizedMemoryStream](optimizedmemorystream/#constructor_1)(byte[]) | Belirtilen bayt dizisine dayalı olarak `OptimizedMemoryStream` sınıfının yeni bir örneğini başlatır. |
+| [OptimizedMemoryStream](optimizedmemorystream/#constructor_2)(int) | `OptimizedMemoryStream` sınıfının yeni bir örneğini başlatır. |
+| [OptimizedMemoryStream](optimizedmemorystream/#constructor_3)(int, byte[]) | Belirtilen bayt dizisine dayalı olarak `OptimizedMemoryStream` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [BufferSize](../../aspose.pdf/optimizedmemorystream/buffersize) { get; set; } | Temeldeki arabelleklerin boyutunu alır veya ayarlar. |
-| override [CanRead](../../aspose.pdf/optimizedmemorystream/canread) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın okumayı destekleyip desteklemediğini gösteren bir değer alır. |
-| override [CanSeek](../../aspose.pdf/optimizedmemorystream/canseek) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın aramayı destekleyip desteklemediğini gösteren bir değer alır. |
-| override [CanWrite](../../aspose.pdf/optimizedmemorystream/canwrite) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, geçerli akışın yazmayı destekleyip desteklemediğini gösteren bir değer alır. |
-| [FreeOnDispose](../../aspose.pdf/optimizedmemorystream/freeondispose) { get; set; } | Dispose. üzerinde temel alınan arabelleklerin serbest bırakılıp bırakılmayacağını belirten bir değer alır veya ayarlar |
-| override [Length](../../aspose.pdf/optimizedmemorystream/length) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, akışın bayt cinsinden uzunluğunu alır. |
-| override [Position](../../aspose.pdf/optimizedmemorystream/position) { get; set; } | Türetilmiş bir sınıfta geçersiz kılındığında, geçerli akış içindeki konumu alır veya ayarlar. |
+| [BufferSize](../../aspose.pdf/optimizedmemorystream/buffersize/) { get; set; } | Temel tamponların boyutunu alır veya ayarlar. |
+| override [CanRead](../../aspose.pdf/optimizedmemorystream/canread/) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın okuma desteği olup olmadığını belirten bir değer alır. |
+| override [CanSeek](../../aspose.pdf/optimizedmemorystream/canseek/) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın arama desteği olup olmadığını belirten bir değer alır. |
+| override [CanWrite](../../aspose.pdf/optimizedmemorystream/canwrite/) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın yazma desteği olup olmadığını belirten bir değer alır. |
+| [FreeOnDispose](../../aspose.pdf/optimizedmemorystream/freeondispose/) { get; set; } | Dispose sırasında temel tamponları serbest bırakıp bırakmayacağını belirten bir değer alır veya ayarlar. |
+| override [Length](../../aspose.pdf/optimizedmemorystream/length/) { get; } | Türetilmiş bir sınıfta geçersiz kılındığında, akışın bayt cinsinden uzunluğunu alır. |
+| override [Position](../../aspose.pdf/optimizedmemorystream/position/) { get; set; } | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akış içindeki konumu alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Flush](../../aspose.pdf/optimizedmemorystream/flush)() | İşlev geçersiz kılındı. |
-| override [Read](../../aspose.pdf/optimizedmemorystream/read)(byte[], int, int) | Türetilmiş bir sınıfta geçersiz kılındığında, geçerli akıştan bir bayt dizisini okur ve akış içindeki konumu okunan bayt sayısı kadar ilerletir. |
-| override [ReadByte](../../aspose.pdf/optimizedmemorystream/readbyte)() | Akıştan bir bayt okur ve akış içindeki konumu bir bayt ilerletir veya akışın sonundaysa -1 döndürür. |
-| override [Seek](../../aspose.pdf/optimizedmemorystream/seek)(long, SeekOrigin) | Türetilmiş bir sınıfta geçersiz kılındığında, geçerli akış içindeki konumu ayarlar. |
-| override [SetLength](../../aspose.pdf/optimizedmemorystream/setlength)(long) | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın uzunluğunu ayarlar. |
-| [ToArray](../../aspose.pdf/optimizedmemorystream/toarray)() | Geçerli akışı bir bayt dizisine dönüştürür. |
-| override [Write](../../aspose.pdf/optimizedmemorystream/write)(byte[], int, int) | Türetilmiş bir sınıfta geçersiz kılındığında, geçerli akışa bir bayt dizisi yazar ve bu akış içindeki geçerli konumu, yazılan bayt sayısı kadar ilerletir. |
-| override [WriteByte](../../aspose.pdf/optimizedmemorystream/writebyte)(byte) | Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir. |
-| [WriteTo](../../aspose.pdf/optimizedmemorystream/writeto)(Stream) | Belirtilen akışa yazar. |
+| override [Flush](../../aspose.pdf/optimizedmemorystream/flush/)() | Fonksiyon geçersiz kılındı. |
+| override [Read](../../aspose.pdf/optimizedmemorystream/read/#read)(byte[], int, int) | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akıştan bir bayt dizisi okur ve akış içindeki konumu okunan bayt sayısı kadar ilerletir. |
+| override [ReadByte](../../aspose.pdf/optimizedmemorystream/readbyte/)() | Akıştan bir bayt okur ve akış içindeki konumu bir bayt ilerletir veya akışın sonundaysa -1 döner. |
+| override [Seek](../../aspose.pdf/optimizedmemorystream/seek/)(long, SeekOrigin) | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akış içindeki konumu ayarlar. |
+| override [SetLength](../../aspose.pdf/optimizedmemorystream/setlength/)(long) | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışın uzunluğunu ayarlar. |
+| [ToArray](../../aspose.pdf/optimizedmemorystream/toarray/)() | Mevcut akışı bir bayt dizisine dönüştürür. |
+| override [Write](../../aspose.pdf/optimizedmemorystream/write/#write)(byte[], int, int) | Türetilmiş bir sınıfta geçersiz kılındığında, mevcut akışa bir bayt dizisi yazar ve bu akış içindeki mevcut konumu yazılan bayt sayısı kadar ilerletir. |
+| override [WriteByte](../../aspose.pdf/optimizedmemorystream/writebyte/)(byte) | Akıştaki mevcut konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir. |
+| [WriteTo](../../aspose.pdf/optimizedmemorystream/writeto/)(Stream) | Belirtilen akışa yazar. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| const [DefaultBufferSize](../../aspose.pdf/optimizedmemorystream/defaultbuffersize) | Bayt cinsinden varsayılan arabellek boyutu değeri. |
+| const [DefaultBufferSize](../../aspose.pdf/optimizedmemorystream/defaultbuffersize/) | Bayt cinsinden varsayılan tampon boyutu değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

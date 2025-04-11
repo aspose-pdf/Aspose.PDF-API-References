@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API 参考
-description: 该类描述了可用于在 TrueType 符号字体具有多个编码时为 case 调整复制编码数据过程的规则 转换为 PDF/A 格式后的某些 PDF 文档可能会出现错误 符号中的多个编码TrueType 字体的 cmap 这个错误的原因是什么所有 TrueType 符号字体在其内部数据中都有特殊的表cmap 此表将字符代码映射到字形索引 并且该表可以包含不同的编码子表其中 描述了使用的编码请参阅有关 cmap 表的高级信息 at https//developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. 通常 cmap 表包含多个编码子表但 PDF/A 标准要求 只有一种编码在 PDF/A 文档中必须为该字体保留子表 30 这里的关键问题 - 必须从另一个子表中获取哪些数据才能复制到 目标编码表 30大多数字体都有格式良好的 cmap 表其中 每个编码子表都与另一个子表完全一致但是一些 fonts 的 cmap 表存在冲突 - 例如一个子表的字形索引 100 对应 unicode 100但另一个子表的字形索引 200 对应相同的 unicode 100. 解决这个问题需要特殊策略 默认情况下使用以下策略 mac subtable10 被查找如果找到这个表只有这个数据用来填充destination 表30如果未找到 mac 子表则除 30 之外的所有子表都将被迭代 并用于将数据复制到目标 30 子表中仅当目标表当前没有此 unicode 时每个 unicodeunicode glyph index 的映射也被复制到目标表中 因此例如如果第一个子表具有 unicode 100 的字形索引 100而下一个子表具有相同 unicode 100 的 glyph 索引 200则只会复制第一个子表中的数据unicode100字形索引  100 所以前一个子表优先于下一个 这个类的属性PdfASymbolicFontEncodingStrategy./pdfasymbolicfontencodingstrategy帮助调整默认行为 如果属性PreferredCmapEncodingTable./pdfasymbolicfontencodingstrategy/preferredcmapencodingtable类型CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype 已设置则相关子表将优先于 mac subtable10 使用来自 枚举的值MacTableCMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype在这种情况下没有任何意义因为它 指向默认情况下将使用的同一个 mac 子表 10 属性CmapEncodingTablesPriorityQueue./pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue丢弃任何子表的所有优先级 如果设置了此属性则将仅按指定顺序使用声明队列中的子表 如果未找到指定的子表则将使用所有子表的默认迭代和上述 复制策略 目的QueueItem./pdfasymbolicfontencodingstrategy.queueitem指定使用的编码子表此子表可以通过成员组合PlatformIDPlatformSpecificId或通过CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype 枚举
+title: Class PdfASymbolicFontEncodingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.PdfASymbolicFontEncodingStrategy 类。该类描述了用于调整在 TrueType 符号字体具有多种编码时复制编码数据过程的规则。有些 PDF 文档转换为 PDF/A 格式后可能会报错 "More than one encoding in symbolic TrueType font's cmap"。该错误的原因是什么？所有 TrueType 符号字体在其内部数据中都有一个特殊表 "cmap"，该表将字符代码映射到字形索引，并且该表可以包含描述所用编码的不同编码子表。请参阅 https//developer.apple.com/fonts/TrueTypeReferenceManual/RM06/Chap6cmap.html 获取有关 cmap 表的高级信息。通常 cmap 表包含多个编码子表，但 PDF/A 标准要求在 PDF/A 文档中该字体只能保留一个编码子表，或在该字体的子表中必须存在 (3,0) 编码子表。这里的关键问题是——应从其他子表中复制哪些数据到目标编码表 (3,0)？大多数字体的 cmap 表都是“格式良好”的，其中每个编码子表彼此完全一致。但有些字体的 cmap 表存在冲突——例如，一个子表对于 unicode 100 使用字形索引 100，而另一个子表对于相同 unicode 100 使用字形索引 200。为了解决这些问题，需要采用特殊策略。默认情况下，采用以下策略：查找 mac 子表 (1,0)。如果找到该表，则仅使用其数据填充目标表 (3,0)；如果未找到 mac 子表，则迭代除 (3,0) 以外的所有子表，并将数据复制到目标 (3,0) 子表。此外，每个 (unicode, glyph index) 的映射仅在目标表当前不存在该 unicode 时复制到目标表中。例如，如果第一个子表对于 unicode 100 的字形索引为 100，而下一个子表对于相同 unicode 100 的字形索引为 200，则只会复制来自第一个子表的 (unicode=100, glyph index=100) 数据。因此，每个前面的子表都优先于后面的子表。该类 PdfASymbolicFontEncodingStrategy 的属性有助于调整默认行为。如果将类型为 CMapEncodingTableType 的属性 PreferredCmapEncodingTable 设置为特定值，则相应的子表将优先于 mac 子表 (1,0) 被使用。在这种情况下，枚举 CMapEncodingTableType 中的值 'MacTable' 没有意义，因为它指向默认使用的 mac 子表 (1,0)。属性 CmapEncodingTablesPriorityQueue 会丢弃所有子表的优先级；如果设置了此属性，则仅会按照指定顺序使用声明队列中的子表。如果未找到指定的子表，则将采用上述的默认迭代和复制策略。对象 QueueItem 指定了所使用的编码子表。该子表可以通过成员 (PlatformID, PlatformSpecificId) 的组合或通过 CMapEncodingTableType 枚举设置。如果字体没有 (3,0) 子表，则将使用其他子表来维持 PDF/A 兼容性。选择使用哪个子表的规则与前述规则相同，因此属性 PreferredCmapEncodingTable 和 CmapEncodingTablesPriorityQueue 用于确定最终子表，如果字体中也没有请求的子表，则将使用任何存在的子表。
 type: docs
-weight: 5980
+weight: 8330
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy/
 ---
-## PdfASymbolicFontEncodingStrategy class
+## PdfASymbolicFontEncodingStrategy 类
 
-该类描述了可用于在 TrueType 符号字体具有多个编码时为 case 调整复制编码数据过程的规则。 转换为 PDF/A 格式后的某些 PDF 文档可能会出现错误 “符号中的多个编码TrueType 字体的 cmap”。 这个错误的原因是什么？所有 TrueType 符号字体在其内部数据中都有特殊的表“cmap” 。此表将字符代码映射到字形索引。 并且该表可以包含不同的编码子表，其中 描述了使用的编码。请参阅有关 cmap 表的高级信息 at https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. 通常 cmap 表包含多个编码子表，但 PDF/A 标准要求 只有一种编码在 PDF/A 文档中必须为该字体保留子表 (3,0)。 这里的关键问题 - 必须从另一个子表中获取哪些数据才能复制到 目标编码表 (3,0)？大多数字体都有“格式良好”的 cmap 表，其中 每个编码子表都与另一个子表完全一致。但是一些 fonts 的 cmap 表存在冲突 - 例如，一个子表的字形索引 100 对应 unicode 100，但另一个子表的字形索引 200 对应相同的 unicode 100. 解决这个问题需要特殊策略。 默认情况下使用以下策略： mac subtable(1,0) 被查找。如果找到这个表，只有这个数据用来填充destination 表(3,0)。如果未找到 mac 子表，则除 (3,0) 之外的所有子表都将被迭代 并用于将数据复制到目标 (3,0) 子表中。仅当目标表当前没有此 unicode 时，每个 unicode(unicode, glyph index) 的映射也被复制到目标表中。 因此，例如，如果第一个子表具有 unicode 100 的字形索引 100，而下一个子表具有相同 unicode 100 的 glyph 索引 200，则只会复制第一个子表中的数据（unicode=100，字形索引 = 100）。 所以前一个子表优先于下一个。 这个类的属性[`PdfASymbolicFontEncodingStrategy`](../pdfasymbolicfontencodingstrategy)帮助调整默认行为。 如果属性[`PreferredCmapEncodingTable`](./preferredcmapencodingtable)类型[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) 已设置，则相关子表将优先于 mac subtable(1,0) 使用。来自 枚举的值“MacTable”[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)在这种情况下没有任何意义，因为它 指向默认情况下将使用的同一个 mac 子表 (1,0)。 属性[`CmapEncodingTablesPriorityQueue`](./cmapencodingtablespriorityqueue)丢弃任何子表的所有优先级。 如果设置了此属性，则将仅按指定顺序使用声明队列中的子表。 如果未找到指定的子表，则将使用所有子表的默认迭代和上述 复制策略。 目的[`QueueItem`](../pdfasymbolicfontencodingstrategy.queueitem)指定使用的编码子表。此子表可以通过成员组合（PlatformID、PlatformSpecificId）或通过[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) 枚举。
+该类描述了用于调整在 TrueType 符号字体具有多种编码时复制编码数据过程的规则。有些 PDF 文档转换为 PDF/A 格式后可能会报错 "More than one encoding in symbolic TrueType font's cmap"。该错误的原因是什么？所有 TrueType 符号字体在其内部数据中都有一个特殊表 "cmap"，该表将字符代码映射到字形索引，而且该表可能包含描述所使用编码的不同编码子表。有关 cmap 表的高级信息，请参阅 https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html。通常 cmap 表包含多个编码子表，但 PDF/A 标准要求在 PDF/A 文档中该字体只能保留一个编码子表，或该字体的子表中必须存在一个 (3,0) 编码子表。这里的关键问题是 —— 应从其他子表中复制哪些数据到目标编码表 (3,0)？大多数字体拥有“格式良好”的 cmap 表，其中每个编码子表彼此完全一致。但有些字体的 cmap 表存在冲突 —— 例如，一个子表对于 unicode 100 的字形索引为 100，而另一个子表对于相同的 unicode 100 的字形索引为 200。为了解决这些问题，需要采用特殊策略。默认情况下，采用以下策略：查找 mac 子表 (1,0)。如果找到该表，则仅使用其数据填充目标表 (3,0)；如果未找到 mac 子表，则迭代除 (3,0) 外的所有子表，并将数据复制到目标 (3,0) 子表。此外，每个 (unicode, glyph index) 的映射仅在目标表当前不存在该 unicode 时复制到目标表中。例如，如果第一个子表对于 unicode 100 的字形索引为 100，而下一个子表对于相同 unicode 100 的字形索引为 200，则只会复制来自第一个子表的 (unicode=100, glyph index=100) 数据。因此，每个前面的子表都优先于后面的子表。类 `PdfASymbolicFontEncodingStrategy` 的属性有助于调整默认行为。如果将类型为 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 的属性 [`PreferredCmapEncodingTable`](./preferredcmapencodingtable/) 设置为特定值，则相应的子表将优先于 mac 子表 (1,0) 被使用。在这种情况下，枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 中的值 'MacTable' 没有意义，因为它指向默认使用的 mac 子表 (1,0)。属性 [`CmapEncodingTablesPriorityQueue`](./cmapencodingtablespriorityqueue/) 会丢弃所有子表的优先级；如果设置了此属性，则仅会按照指定顺序使用声明队列中的子表。如果未找到指定的子表，则将采用上述的默认迭代和复制策略。对象 [`QueueItem`](../pdfasymbolicfontencodingstrategy.queueitem/) 指定了所使用的编码子表。该子表可以通过成员 (PlatformID, PlatformSpecificId) 的组合或通过枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 设置。如果字体没有 (3,0) 子表，则将使用其他子表来维持 PDF/A 兼容性。选择使用哪个子表的规则与前述规则相同，因此 [`PreferredCmapEncodingTable`](./preferredcmapencodingtable/) 和 [`CmapEncodingTablesPriorityQueue`](./cmapencodingtablespriorityqueue/) 属性用于确定最终子表，如果字体中也没有请求的子表，则将使用任何存在的子表。
 
 ```csharp
 public class PdfASymbolicFontEncodingStrategy
@@ -16,22 +16,20 @@ public class PdfASymbolicFontEncodingStrategy
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy#constructor)() | 构造函数。设置默认子表 (mac 1,0) |
-| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy#constructor_1)(CMapEncodingTableType) | 构造函数 |
-| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy#constructor_2)(Queue&lt;QueueItem&gt;) | 构造函数 |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor)() | 构造函数。设置默认子表 (mac 1,0) |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor_1)(CMapEncodingTableType) | 构造函数 |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor_2)(Queue&lt;QueueItem&gt;) | 构造函数 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [CmapEncodingTablesPriorityQueue](../../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue) { get; set; } | 指定要处理的编码子表队列。 |
-| [PreferredCmapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable) { get; set; } | 指定优先于 mac subtable(1,0) 使用的子表。来自 枚举的值“MacTable”[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)在这种情况下没有意义。 |
+| [CmapEncodingTablesPriorityQueue](../../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) { get; set; } | 指定要处理的编码子表队列。 |
+| [PreferredCmapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) { get; set; } | 指定将优先于 mac 子表 (1,0) 使用的子表。在这种情况下，枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 中的值 'MacTable' 没有意义。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf)
-* 部件 [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

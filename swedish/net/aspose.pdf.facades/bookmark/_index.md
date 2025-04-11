@@ -1,12 +1,12 @@
 ---
-title: Bookmark
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar ett bokmärke.
+title: Class Bookmark
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.Bokmärke klass. Representerar ett bokmärke
 type: docs
-weight: 2200
+weight: 4190
 url: /sv/net/aspose.pdf.facades/bookmark/
 ---
-## Bookmark class
+## Bokmärke klass
 
 Representerar ett bokmärke.
 
@@ -16,36 +16,34 @@ public sealed class Bookmark
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bookmark](bookmark)() | Default_Constructor |
+| [Bokmärke](bookmark/)() | Standardkonstruktören. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Action](../../aspose.pdf.facades/bookmark/action) { get; set; } | Hämtar eller ställer in åtgärden bunden med bokmärket. Om Sidnummer visas kan åtgärden inte specificeras. Åtgärdstypen inkluderar: "GoTo", "GoToR", "Launch", "Named". |
-| [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag) { get; set; } | Hämtar eller ställer in den fetstilta flaggan för bokmärkets titel. |
-| [ChildItems](../../aspose.pdf.facades/bookmark/childitems) { get; set; } | Får eller sätter bokmärkets barn. |
-| [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname) { get; set; } | Åtgärdsnamnet som motsvarar exekvering av ett menyalternativ i Acrobat viewer. |
-| [Destination](../../aspose.pdf.facades/bookmark/destination) { get; set; } | Hämtar eller ställer in bokmärkets målsida. Krävs om åtgärden är inställd som sträng.Empty. |
-| [ItalicFlag](../../aspose.pdf.facades/bookmark/italicflag) { get; set; } | Hämtar eller ställer in den kursiverade flaggan för bokmärkets titel. |
-| [Level](../../aspose.pdf.facades/bookmark/level) { get; set; } | Hämtar eller ställer in bokmärkets hierarkinivå. |
-| [Open](../../aspose.pdf.facades/bookmark/open) { get; set; } | Hämtar eller ställer in bokmärkesstatus (öppna, stäng). |
-| [PageDisplay](../../aspose.pdf.facades/bookmark/pagedisplay) { get; set; } | Hämtar eller ställer in typen av visningsbokmärkes målsida. |
-| [PageDisplay_Bottom](../../aspose.pdf.facades/bookmark/pagedisplay_bottom) { get; set; } | Hämtar eller ställer in den nedre koordinaten för sidvisning. |
-| [PageDisplay_Left](../../aspose.pdf.facades/bookmark/pagedisplay_left) { get; set; } | Hämtar eller ställer in den vänstra koordinaten för sidvisning. |
-| [PageDisplay_Right](../../aspose.pdf.facades/bookmark/pagedisplay_right) { get; set; } | Hämtar eller ställer in rätt koordinat för sidvisning. |
-| [PageDisplay_Top](../../aspose.pdf.facades/bookmark/pagedisplay_top) { get; set; } | Hämtar eller ställer in den översta koordinaten för sidvisning. |
-| [PageDisplay_Zoom](../../aspose.pdf.facades/bookmark/pagedisplay_zoom) { get; set; } | Hämtar eller ställer in zoomfaktorn för sidvisning. |
-| [PageNumber](../../aspose.pdf.facades/bookmark/pagenumber) { get; set; } | Hämtar eller ställer in numret på bokmärkets destinationssida. |
-| [RemoteFile](../../aspose.pdf.facades/bookmark/remotefile) { get; set; } | Hämtar eller ställer in filen (sökvägen) som krävs för "GoToR"-åtgärden för bokmärket. |
-| [Title](../../aspose.pdf.facades/bookmark/title) { get; set; } | Hämtar eller ställer in bokmärkets titel. |
-| [TitleColor](../../aspose.pdf.facades/bookmark/titlecolor) { get; set; } | Hämtar eller ställer in färgen på bokmärkets titel. |
+| [Åtgärd](../../aspose.pdf.facades/bookmark/action/) { get; set; } | Hämtar eller ställer in åtgärden kopplad till bokmärket. Om PageNumber anges kan åtgärden inte specificeras. Åtgärdstypen inkluderar: "GoTo", "GoToR", "Launch", "Named". |
+| [FetFlagg](../../aspose.pdf.facades/bookmark/boldflag/) { get; set; } | Hämtar eller ställer in fet flagga för bokmärkes titel. |
+| [BarnObjekt](../../aspose.pdf.facades/bookmark/childitems/) { get; set; } | Hämtar eller ställer in bokmärkes barn. |
+| [AnpassadAcorbatVisareMenyÅtgärdsNamn](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/) { get; set; } | Åtgärdsnamnet som motsvarar att utföra ett menyobjekt i Acrobat-visaren. |
+| [Destination](../../aspose.pdf.facades/bookmark/destination/) { get; set; } | Hämtar eller ställer in bokmärkes destinationssida. Krävs om åtgärden är inställd som string.Empty. |
+| [KursivFlagg](../../aspose.pdf.facades/bookmark/italicflag/) { get; set; } | Hämtar eller ställer in kursiv flagga för bokmärkes titel. |
+| [Nivå](../../aspose.pdf.facades/bookmark/level/) { get; set; } | Hämtar eller ställer in bokmärkes hierarkinivå. |
+| [Öppen](../../aspose.pdf.facades/bookmark/open/) { get; set; } | Hämtar eller ställer in bokmärkes tillstånd (öppen, stängd). |
+| [SidVisning](../../aspose.pdf.facades/bookmark/pagedisplay/) { get; set; } | Hämtar eller ställer in typen av visning för bokmärkes destinationssida. |
+| [SidVisning_Botten](../../aspose.pdf.facades/bookmark/pagedisplay_bottom/) { get; set; } | Hämtar eller ställer in den nedre koordinaten för sidvisning. |
+| [SidVisning_Vänster](../../aspose.pdf.facades/bookmark/pagedisplay_left/) { get; set; } | Hämtar eller ställer in den vänstra koordinaten för sidvisning. |
+| [SidVisning_Höger](../../aspose.pdf.facades/bookmark/pagedisplay_right/) { get; set; } | Hämtar eller ställer in den högra koordinaten för sidvisning. |
+| [SidVisning_Topp](../../aspose.pdf.facades/bookmark/pagedisplay_top/) { get; set; } | Hämtar eller ställer in den övre koordinaten för sidvisning. |
+| [SidVisning_Zoom](../../aspose.pdf.facades/bookmark/pagedisplay_zoom/) { get; set; } | Hämtar eller ställer in zoomfaktorn för sidvisning. |
+| [SidNummer](../../aspose.pdf.facades/bookmark/pagenumber/) { get; set; } | Hämtar eller ställer in numret på bokmärkes destinationssida. |
+| [FjärrFil](../../aspose.pdf.facades/bookmark/remotefile/) { get; set; } | Hämtar eller ställer in filen (sökväg) som krävs för "GoToR" åtgärden av bokmärket. |
+| [Titel](../../aspose.pdf.facades/bookmark/title/) { get; set; } | Hämtar eller ställer in bokmärkes titel. |
+| [TitelFärg](../../aspose.pdf.facades/bookmark/titlecolor/) { get; set; } | Hämtar eller ställer in färgen på bokmärkes titel. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* sammansättning [Aspose.PDF](../../)

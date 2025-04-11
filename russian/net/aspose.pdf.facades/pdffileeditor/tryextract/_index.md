@@ -1,14 +1,14 @@
 ---
-title: TryExtract
-second_title: Aspose.PDF для справочника API .NET
-description: Извлекает страницы из входного файла сохраняет как новый файл PDF.
+title: PdfFileEditor.TryExtract
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileEditor. Извлекает страницы из входных файлов и сохраняет как новый Pdf файл
 type: docs
-weight: 440
+weight: 410
 url: /ru/net/aspose.pdf.facades/pdffileeditor/tryextract/
 ---
-## TryExtract(string, int, int, string) {#tryextract_2}
+## TryExtract(string, int, int, string) {#tryextract_1}
 
-Извлекает страницы из входного файла, сохраняет как новый файл PDF.
+Извлекает страницы из входного файла, сохраняет как новый Pdf файл.
 
 ```csharp
 public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,37 +16,37 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу PDF. |
-| startPage | Int32 | Номер стартовой страницы. |
-| endPage | Int32 | Конечный номер страницы. |
-| outputFile | String | Выходной путь к файлу Pdf. |
+| inputFile | String | Путь к входному Pdf файлу. |
+| startPage | Int32 | Номер начальной страницы. |
+| endPage | Int32 | Номер конечной страницы. |
+| outputFile | String | Путь к выходному Pdf файлу. |
 
 ### Возвращаемое значение
 
-Верно для успеха или ложно.
+True при успешном выполнении, или false.
 
-### Примечания
+## Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
+Метод TryExtract похож на метод Extract, за исключением того, что метод TryExtract не вызывает исключение, если операция не удалась.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
-## TryExtract(string, int[], string) {#tryextract_3}
+## TryExtract(string, int[], string) {#tryextract_2}
 
-Извлекает страницы, указанные числовым массивом, сохраняет как новый файл PDF.
+Извлекает страницы, указанные массивом номеров, сохраняет как новый PDF файл.
 
 ```csharp
 public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
@@ -60,30 +60,30 @@ public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае ложно.
+true, если операция завершена успешно; в противном случае false.
 
-### Примечания
+## Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
+Метод TryExtract похож на метод Extract, за исключением того, что метод TryExtract не вызывает исключение, если операция не удалась.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TryExtract(Stream, int[], Stream) {#tryextract}
 
-Извлекает страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
+Извлекает страницы, указанные массивом номеров, сохраняет как новый Pdf файл.
 
 ```csharp
 public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -91,19 +91,19 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной файл Поток. |
+| inputStream | Stream | Поток входного файла. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
-| outputStream | Stream | Выходной файловый поток. |
+| outputStream | Stream | Поток выходного файла. |
 
 ### Возвращаемое значение
 
-Верно для успеха или ложно.
+True при успешном выполнении, или false.
 
-### Примечания
+## Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
+Метод TryExtract похож на метод Extract, за исключением того, что метод TryExtract не вызывает исключение, если операция не удалась.
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -112,13 +112,12 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
----
 
 ## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
 
@@ -132,20 +131,20 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse respon
 | --- | --- | --- |
 | inputStream | Stream | Поток исходного документа. |
 | pageNumber | Int32[] | Массив номеров страниц, которые будут извлечены. |
-| response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
+| response | HttpResponse | Объект HttpResponse, в который будет сохранен результат. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае ложно.
+true, если операция завершена успешно; в противном случае false.
 
-### Примечания
+## Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
+Метод TryExtract похож на метод Extract, за исключением того, что метод TryExtract не вызывает исключение, если операция не удалась.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -162,20 +161,18 @@ public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response
 | --- | --- | --- |
 | inputFile | String | Путь к исходному файлу. |
 | pageNumber | Int32[] | Массив номеров страниц, которые будут извлечены. |
-| response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
+| response | HttpResponse | Объект HttpResponse, в который будет сохранен результат. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае ложно.
+true, если операция завершена успешно; в противном случае false.
 
-### Примечания
+## Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
+Метод TryExtract похож на метод Extract, за исключением того, что метод TryExtract не вызывает исключение, если операция не удалась.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

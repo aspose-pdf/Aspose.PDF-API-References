@@ -1,77 +1,75 @@
 ---
-title: ImagePlacement
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل خصائص الصورة الموضوعة في صفحة مستند PDF.
+title: Class ImagePlacement
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.ImagePlacement. تمثل خصائص الصورة الموضوعة في صفحة مستند Pdf
 type: docs
-weight: 3760
+weight: 5900
 url: /ar/net/aspose.pdf/imageplacement/
 ---
 ## ImagePlacement class
 
-يمثل خصائص الصورة الموضوعة في صفحة مستند PDF.
+تمثل خصائص الصورة الموضوعة في صفحة مستند Pdf.
 
 ```csharp
 public sealed class ImagePlacement
 ```
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | الحصول على معلمات التركيب لحالة الرسومات النشطة للصورة الموضوعة على الصفحة. |
-| [Image](../../aspose.pdf/imageplacement/image) { get; } | يحصل على كائن مورد XImage ذي الصلة. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | مصفوفة التحويل الحالية لهذه الصورة. |
-| [Operator](../../aspose.pdf/imageplacement/operator) { get; } | عامل التشغيل المستخدم لعرض الصورة . |
-| [Page](../../aspose.pdf/imageplacement/page) { get; } | يحصل على الصفحة التي تحتوي على الصورة. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle) { get; } | يحصل على مستطيل من الصورة . |
-| [Resolution](../../aspose.pdf/imageplacement/resolution) { get; } | يحصل على دقة الصورة . |
-| [Rotation](../../aspose.pdf/imageplacement/rotation) { get; } | يحصل على زاوية دوران الصورة. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | يحصل على معلمات التركيب لحالة الرسومات النشطة للصورة الموضوعة على الصفحة. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | يحصل على كائن مورد XImage المرتبط. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | مصفوفة التحويل الحالية لهذه الصورة. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | المشغل المستخدم لعرض الصورة. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | يحصل على الصفحة التي تحتوي على الصورة. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | يحصل على مستطيل الصورة. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | يحصل على دقة الصورة. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | يحصل على زاوية دوران الصورة. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide)() | حذف الصورة من الصفحة . |
-| [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | استبدال الصورة في المجموعة بصورة أخرى. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | يحفظ الصورة مع عمليات التحويل المقابلة: التحجيم والدوران والدقة . |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | يحفظ الصورة مع عمليات التحويل المقابلة: التحجيم والدوران والدقة . |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | يحذف الصورة من الصفحة. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | يستبدل الصورة في المجموعة بصورة أخرى. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | يحفظ الصورة مع التحويلات المقابلة: التحجيم، الدوران والدقة. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | يحفظ الصورة مع التحويلات المقابلة: التحجيم، الدوران والدقة. |
 
-### ملاحظات
+## Remarks
 
-عند وضع الصورة على الصفحة ، قد يكون لها أبعاد أخرى غير الأبعاد المادية المحددة فيها[`Resources`](../resources) . الكائن[`ImagePlacement`](../imageplacement) يهدف إلى توفير مثل هذه المعلومات مثل الأبعاد والدقة وما إلى ذلك.
+عند وضع صورة على صفحة، قد تكون لها أبعاد غير الأبعاد الفيزيائية المحددة في [`Resources`](../resources/). الكائن `ImagePlacement` مصمم لتوفير مثل هذه المعلومات مثل الأبعاد والدقة وما إلى ذلك.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الصور في صفحة مستند PDF الأولى والحصول على الصور كصور نقطية بأبعاد مرئية .
+المثال يوضح كيفية العثور على الصور في الصفحة الأولى من مستند PDF والحصول على الصور كصور نقطية بأبعاد مرئية.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن ImagePlacementAbsorber لإجراء بحث عن موضع الصورة
+// Create ImagePlacementAbsorber object to perform image placement search
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(abs);
 
-// استرجاع الصور ذات الأبعاد المرئية
+// Retrieve images with visible dimensions
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // استرداد الصورة من الموارد
+        // Retrieve image from resources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // إنشاء صورة نقطية جديدة بأبعاد فعلية
+        // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
 ```
 
-### أنظر أيضا
+### See Also
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

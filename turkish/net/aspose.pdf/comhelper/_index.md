@@ -1,46 +1,44 @@
 ---
-title: ComHelper
-second_title: Aspose.PDF for .NET API Referansı
-description: COM istemcilerinin Aspose.Pdf. ye bir belge yüklemesi için yöntemler sağlar.
+title: Class ComHelper
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ComHelper sınıfı. COM istemcilerinin bir belgeyi Aspose.Pdf'ye yüklemesi için yöntemler sağlar.
 type: docs
-weight: 1540
+weight: 3130
 url: /tr/net/aspose.pdf/comhelper/
 ---
-## ComHelper class
+## ComHelper sınıfı
 
-COM istemcilerinin Aspose.Pdf. 'ye bir belge yüklemesi için yöntemler sağlar.
+COM istemcilerinin bir belgeyi Aspose.Pdf'ye yüklemesi için yöntemler sağlar.
 
 ```csharp
 public class ComHelper
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [ComHelper](comhelper)() | Default_Constructor |
+| [ComHelper](comhelper/)() | Varsayılan yapıcı. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile)(string) | kullanarak Belge oluşturup geri göndermeniz yeterlidir.*filename* . Aynı[`Document`](../document/document) . |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_1)(string, LoadOptions) | pdf belgesi almak için gerekli dönüştürme seçeneklerini sağlayan bir dosyadan mevcut bir belgeyi açın. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_2)(string, string) | Başlatın ve yeni örneğini döndürün[`Document`](../document) şifreli belgeyle çalışmak için sınıf. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_3)(string, string, bool) | Yeni örneğini başlat[`Document`](../document) şifreli belgeyle çalışmak için sınıf. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream)(Stream) | Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_2)(Stream, bool) | Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_1)(Stream, LoadOptions) | PDF belgesi almak için gerekli dönüştürmeyi sağlayan bir akıştan mevcut bir belgeyi açın ve döndürün. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_3)(Stream, string) | Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_4)(Stream, string, bool) | Başlatın ve yeni Document örneğini şuradan döndürün:*input* akış. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile)(string) | Sadece *dosya adı* kullanarak belge oluşturur ve döndürür. [`Document`](../document/document/) ile aynıdır. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_1)(string, LoadOptions) | Gerekli dönüştürme seçeneklerini sağlayarak bir dosyadan mevcut bir belgeyi açar. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_2)(string, string) | Şifreli belge ile çalışmak için [`Document`](../document/) sınıfının yeni bir örneğini başlatır ve döndürür. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_3)(string, string, bool) | Şifreli belge ile çalışmak için [`Document`](../document/) sınıfının yeni bir örneğini başlatır. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream)(Stream) | *girdi* akışından yeni bir Belge örneğini başlatır ve döndürür. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_2)(Stream, bool) | *girdi* akışından yeni bir Belge örneğini başlatır ve döndürür. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_1)(Stream, LoadOptions) | Gerekli dönüştürmeyi sağlayarak bir akıştan mevcut bir belgeyi açar ve döndürür. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_3)(Stream, string) | *girdi* akışından yeni bir Belge örneğini başlatır ve döndürür. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_4)(Stream, string, bool) | *girdi* akışından yeni bir Belge örneğini başlatır ve döndürür. |
 
-### Notlar
+## Açıklamalar
 
-COM uygulamasında bir dosyadan veya akıştan Document nesnesine belge yüklemek için ComHelper sınıfını kullanın. Document sınıfı, yeni bir document oluşturmak için varsayılan bir kurucu sağlar ve ayrıca bir dosyadan veya akıştan bir belge yüklemek için aşırı yüklenmiş kurucular sağlar . Bir .NET uygulamasından Aspose.Words kullanıyorsanız, tüm Document kurucularını doğrudan kullanabilirsiniz, ancak bir COM uygulamasından Aspose.Pdf kullanıyorsanız, sadece varsayılan Document kurucu kullanılabilir.
+ComHelper sınıfını, bir dosyadan veya akıştan bir belgeyi COM uygulamasında bir Belge nesnesine yüklemek için kullanın. Document sınıfı, yeni bir belge oluşturmak için varsayılan bir yapıcı sağlar ve ayrıca bir dosyadan veya akıştan belge yüklemek için aşırı yüklenmiş yapıcılar sunar. Eğer bir .NET uygulamasından Aspose.Words kullanıyorsanız, tüm Document yapıcılarını doğrudan kullanabilirsiniz, ancak bir COM uygulamasından Aspose.Pdf kullanıyorsanız, yalnızca varsayılan Document yapıcısı mevcuttur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

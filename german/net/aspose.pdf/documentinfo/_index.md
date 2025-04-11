@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt Metainformationen des PDF-Dokuments dar.
+title: Class DocumentInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.DocumentInfo-Klasse. Stellt Metainformationen des PDF-Dokuments dar
 type: docs
-weight: 1920
+weight: 3870
 url: /de/net/aspose.pdf/documentinfo/
 ---
-## DocumentInfo class
+## DocumentInfo-Klasse
 
 Stellt Metainformationen des PDF-Dokuments dar.
 
@@ -14,42 +14,40 @@ Stellt Metainformationen des PDF-Dokuments dar.
 public sealed class DocumentInfo : Dictionary<string, string>
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DocumentInfo](documentinfo)(Document) | DocumentInfo-Instanz initialisieren. |
+| [DocumentInfo](documentinfo/)(Document) | Initialisiert eine DocumentInfo-Instanz. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Author](../../aspose.pdf/documentinfo/author) { get; set; } | Ruft den Dokumentautor ab oder legt ihn fest. |
-| [CreationDate](../../aspose.pdf/documentinfo/creationdate) { get; set; } | Ruft das Datum der Dokumenterstellung ab oder legt es fest. |
-| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } | Zeitzone des Erstellungsdatums. |
-| [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } | Ruft den Dokumentersteller ab oder legt ihn fest. |
-| [Item](../../aspose.pdf/documentinfo/item) { get; set; } | Ruft den dem angegebenen Schlüssel zugeordneten Wert ab oder legt ihn fest. |
-| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | Ruft die Schlüsselwörter des Dokuments ab oder setzt sie. |
-| [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } | Ruft das Datum der Dokumentänderung ab oder legt es fest. |
-| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | Zeitzone des Änderungsdatums. |
-| [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | Ruft den Dokumentproduzenten ab oder legt ihn fest. |
-| [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } | Ruft den Betreff des Dokuments ab oder legt ihn fest. |
-| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Ruft den Dokumenttitel ab oder legt ihn fest. |
-| [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } | Ruft das Trapped-Flag ab oder setzt es. |
+| [Author](../../aspose.pdf/documentinfo/author/) { get; set; } | Ruft den Autor des Dokuments ab oder legt ihn fest. |
+| [CreationDate](../../aspose.pdf/documentinfo/creationdate/) { get; set; } | Ruft das Erstellungsdatum des Dokuments ab oder legt es fest. |
+| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone/) { get; set; } | Zeitzone des Erstellungsdatums. |
+| [Creator](../../aspose.pdf/documentinfo/creator/) { get; set; } | Ruft den Ersteller des Dokuments ab oder legt ihn fest. |
+| [Item](../../aspose.pdf/documentinfo/item/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der mit dem angegebenen Schlüssel verknüpft ist. |
+| [Keywords](../../aspose.pdf/documentinfo/keywords/) { get; set; } | Ruft die Schlüsselwörter des Dokuments ab oder legt sie fest. |
+| [ModDate](../../aspose.pdf/documentinfo/moddate/) { get; set; } | Ruft das Änderungsdatum des Dokuments ab oder legt es fest. |
+| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone/) { get; set; } | Zeitzone des Änderungsdatums. |
+| [Producer](../../aspose.pdf/documentinfo/producer/) { get; set; } | Ruft den Produzenten des Dokuments ab oder legt ihn fest. |
+| [Subject](../../aspose.pdf/documentinfo/subject/) { get; set; } | Ruft das Thema des Dokuments ab oder legt es fest. |
+| [Title](../../aspose.pdf/documentinfo/title/) { get; set; } | Ruft den Titel des Dokuments ab oder legt ihn fest. |
+| [Trapped](../../aspose.pdf/documentinfo/trapped/) { get; set; } | Ruft das Trapped-Flag ab oder legt es fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Fügt der Sammlung ein Element mit dem angegebenen Schlüssel und Wert hinzu. |
-| [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Löscht die Dokumentinfo. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Löscht nur benutzerdefinierte Daten, belässt alle anderen vordefinierten Werte (Titel, Autor usw.). |
-| [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Entfernt das Element mit dem angegebenen Schlüssel aus der Sammlung. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Legt fest, ob der Schlüssel vordefiniert ist (Titel, Autor usw.), nicht benutzerdefiniert. |
+| [Add](../../aspose.pdf/documentinfo/add/#add)(string, string) | Fügt ein Element mit dem angegebenen Schlüssel und Wert in die Sammlung ein. |
+| [Clear](../../aspose.pdf/documentinfo/clear/#clear)() | Löscht die Dokumentinformationen. |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Löscht nur benutzerdefinierte Daten, lässt alle anderen vordefinierten Werte (Titel, Autor usw.) unverändert. |
+| [Remove](../../aspose.pdf/documentinfo/remove/#remove_2)(string) | Entfernt das Element mit dem angegebenen Schlüssel aus der Sammlung. |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Bestimmt, ob der Schlüssel vordefiniert (Titel, Autor usw.) und nicht benutzerdefiniert ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

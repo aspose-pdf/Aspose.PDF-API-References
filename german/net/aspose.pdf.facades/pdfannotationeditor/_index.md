@@ -1,70 +1,69 @@
 ---
-title: PdfAnnotationEditor
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert eine Klasse für die Arbeit mit PDF-Dokumentanmerkungen Kommentaren.
+title: Class PdfAnnotationEditor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfAnnotationEditor-Klasse. Stellt eine Klasse für die Arbeit mit PDF-Dokumentannotationskommentaren dar
 type: docs
-weight: 2420
+weight: 4410
 url: /de/net/aspose.pdf.facades/pdfannotationeditor/
 ---
-## PdfAnnotationEditor class
+## PdfAnnotationEditor-Klasse
 
-Repräsentiert eine Klasse für die Arbeit mit PDF-Dokumentanmerkungen (Kommentaren).
+Stellt eine Klasse für die Arbeit mit PDF-Dokumentannotationskommentaren dar.
 
 ```csharp
 public sealed class PdfAnnotationEditor : SaveableFacade
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor)() | Initialisiert neu[`PdfAnnotationEditor`](../pdfannotationeditor) Objekt. |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor_1)(Document) | Initialisiert neu[`PdfAnnotationEditor`](../pdfannotationeditor) Objekt auf Basis der*document* . |
+| [PdfAnnotationEditor](pdfannotationeditor/#constructor)() | Initialisiert ein neues `PdfAnnotationEditor`-Objekt. |
+| [PdfAnnotationEditor](pdfannotationeditor/#constructor_1)(Document) | Initialisiert ein neues `PdfAnnotationEditor`-Objekt auf Basis des *Dokuments*. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Ruft die Dokumentfassade ab, an der gearbeitet wird. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gibt das Dokument zurück, an dem die Fassade arbeitet. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initialisiert die Fassade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Initialisiert die Fassade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Initialisiert die Fassade. |
-| virtual [Close](../../aspose.pdf.facades/facade/close)() | Disposes Aspose.Pdf.Document gebunden mit einer Fassade. |
-| [DeleteAnnotation](../../aspose.pdf.facades/pdfannotationeditor/deleteannotation)(string) | Löscht die Anmerkung mit dem angegebenen Anmerkungsnamen. |
-| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations#deleteannotations)() | Löscht alle Anmerkungen im Dokument. |
-| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations#deleteannotations_1)(string) | Löscht alle Anmerkungen des angegebenen Typs im Dokument. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Entsorgt die Fassade. |
-| [ExportAnnotationsToXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf)(Stream) | Exportiert Anmerkungen in den Stream. |
-| [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf#exportannotationsxfdf)(Stream, int, int, AnnotationType[]) | Exportiert den Inhalt der angegebenen Anmerkungstypen in XFDF |
-| [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf#exportannotationsxfdf_1)(Stream, int, int, string[]) | Exportiert den Inhalt der angegebenen Anmerkungstypen in XFDF |
-| [ExtractAnnotations](../../aspose.pdf.facades/pdfannotationeditor/extractannotations#extractannotations)(int, int, AnnotationType[]) | Ruft die Liste der Anmerkungen der angegebenen Typen ab. |
-| [ExtractAnnotations](../../aspose.pdf.facades/pdfannotationeditor/extractannotations#extractannotations_1)(int, int, string[]) | Ruft die Liste der Anmerkungen der angegebenen Typen ab. |
-| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations)() | Flacht alle Anmerkungen im Dokument ab. |
-| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations_1)(FlattenSettings) | Flacht alle Anmerkungen im Dokument ab. |
-| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations_2)(int, int, AnnotationType[]) | Flacht die Anmerkungen der angegebenen Typen ab. |
-| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_1)(Stream, AnnotationType[]) | Importiert die angegebenen Anmerkungen aus dem XFDF-Datenstrom. |
-| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_3)(string, AnnotationType[]) | Importiert die angegebenen Anmerkungen aus der XFDF-Datei. |
-| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations)(Stream[]) | Importiert Anmerkungen in das Dokument aus einem Array anderer PDF-Dokument-Streams. |
-| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_2)(string[]) | Importiert Anmerkungen aus einem Array anderer PDF-Dokumente in das Dokument. |
-| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_1)(Stream[], AnnotationType[]) | Importiert die angegebenen Anmerkungen aus dem Array anderer PDF-Dokumentstreams in das Dokument. |
-| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_3)(string[], AnnotationType[]) | Importiert die angegebenen Anmerkungen aus dem Array anderer PDF-Dokumente in das Dokument. |
-| [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf)(Stream) | Importiert alle Anmerkungen aus dem XFDF-Datenstrom. |
-| [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf_1)(string) | Importiert alle Anmerkungen aus der XFDF-Datei. |
-| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations#modifyannotations)(int, int, Annotation) | Ändert die Anmerkungen des angegebenen Typs im angegebenen Seitenbereich. Es unterstützt die Änderung der nächsten Anmerkungseigenschaften: Geändert, Titel, Inhalt, Farbe, Betreff und Öffnen. |
-| [ModifyAnnotationsAuthor](../../aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor)(int, int, string, string) | Ändert den Autor von Anmerkungen im angegebenen Seitenbereich. |
-| [RedactArea](../../aspose.pdf.facades/pdfannotationeditor/redactarea)(int, Rectangle, Color) | Schwärzt den Bereich auf der angegebenen Seite. Alle Inhalte werden entfernt. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Speichert das PDF-Dokument im angegebenen Stream. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Speichert das PDF-Dokument in der angegebenen Datei. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initialisiert die Fassade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Initialisiert die Fassade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Initialisiert die Fassade. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Gibt das mit einer Fassade verbundene Aspose.Pdf.Document frei. |
+| [DeleteAnnotation](../../aspose.pdf.facades/pdfannotationeditor/deleteannotation/)(string) | Löscht die Annotation mit dem angegebenen Annotationsnamen. |
+| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations/#deleteannotations)() | Löscht alle Annotationen im Dokument. |
+| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations/#deleteannotations_1)(string) | Löscht alle Annotationen des angegebenen Typs im Dokument. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Gibt die Fassade frei. |
+| [ExportAnnotationsToXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/)(Stream) | Exportiert Annotationen in einen Stream. |
+| [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/#exportannotationsxfdf)(Stream, int, int, AnnotationType[]) | Exportiert den Inhalt der angegebenen Annotationsarten in XFDF |
+| [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/#exportannotationsxfdf_1)(Stream, int, int, string[]) | Exportiert den Inhalt der angegebenen Annotationsarten in XFDF |
+| [ExtractAnnotations](../../aspose.pdf.facades/pdfannotationeditor/extractannotations/#extractannotations)(int, int, AnnotationType[]) | Gibt die Liste der Annotationen der angegebenen Typen zurück. |
+| [ExtractAnnotations](../../aspose.pdf.facades/pdfannotationeditor/extractannotations/#extractannotations_1)(int, int, string[]) | Gibt die Liste der Annotationen der angegebenen Typen zurück. |
+| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations/#flatteningannotations)() | Flacht alle Annotationen im Dokument ab. |
+| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations/#flatteningannotations_1)(FlattenSettings) | Flacht alle Annotationen im Dokument ab. |
+| [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations/#flatteningannotations_2)(int, int, AnnotationType[]) | Flacht die Annotationen der angegebenen Typen ab. |
+| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/#importannotationfromxfdf_1)(Stream, AnnotationType[]) | Importiert die angegebenen Annotationen aus dem XFDF-Datenstream. |
+| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/#importannotationfromxfdf_3)(string, AnnotationType[]) | Importiert die angegebenen Annotationen aus der XFDF-Datei. |
+| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations)(Stream[]) | Importiert Annotationen in das Dokument aus einem Array von Streams anderer PDF-Dokumente. |
+| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_2)(string[]) | Importiert Annotationen in das Dokument aus einem Array anderer PDF-Dokumente. |
+| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_1)(Stream[], AnnotationType[]) | Importiert die angegebenen Annotationen in das Dokument aus einem Array von Streams anderer PDF-Dokumente. |
+| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_3)(string[], AnnotationType[]) | Importiert die angegebenen Annotationen in das Dokument aus einem Array anderer PDF-Dokumente. |
+| [ImportAnnotationsFromFdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/)(string) | Importiert alle Annotationen aus der FDF-Datei. |
+| [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/#importannotationsfromxfdf)(Stream) | Importiert alle Annotationen aus dem XFDF-Datenstream. |
+| [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/#importannotationsfromxfdf_1)(string) | Importiert alle Annotationen aus der XFDF-Datei. |
+| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations/#modifyannotations)(int, int, Annotation) | Modifiziert die Annotationen des angegebenen Typs im angegebenen Seitenbereich. Es unterstützt die Modifikation der folgenden Annotationsattribute: Modified, Title, Contents, Color, Subject und Open. |
+| [ModifyAnnotationsAuthor](../../aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/)(int, int, string, string) | Modifiziert den Autor der Annotationen im angegebenen Seitenbereich. |
+| [RedactArea](../../aspose.pdf.facades/pdfannotationeditor/redactarea/)(int, Rectangle, Color) | Schwärzt einen Bereich auf der angegebenen Seite. Alle Inhalte werden entfernt. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | Speichert das PDF-Dokument im angegebenen Stream. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | Speichert das PDF-Dokument in der angegebenen Datei. |
 
 ### Siehe auch
 
-* class [SaveableFacade](../saveablefacade)
-* namensraum [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [SaveableFacade](../saveablefacade/)
+* Namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../)

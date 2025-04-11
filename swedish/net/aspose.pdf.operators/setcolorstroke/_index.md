@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke
-second_title: Aspose.PDF för .NET API Referens
-description: Klass som representerar SC-operatoruppsättningsfärg för strejkfärgsoperatorer.
+title: Class SetColorStroke
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Operators.SetColorStroke klass. Klass som representerar SC-operatorn för att ställa in färg för strekningsfärgsoperatorer
 type: docs
-weight: 5440
+weight: 7680
 url: /sv/net/aspose.pdf.operators/setcolorstroke/
 ---
-## SetColorStroke class
+## SetColorStroke klass
 
-Klass som representerar SC-operatoruppsättningsfärg för strejkfärgsoperatorer.
+Klass som representerar SC-operatorn för att ställa in färg för strekningsfärgsoperatorer.
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
@@ -16,41 +16,40 @@ public class SetColorStroke : BasicSetColorOperator
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SetColorStroke](setcolorstroke#constructor)() | Initierar operator. |
-| [SetColorStroke](setcolorstroke#constructor_1)(double) | Ställ in färg för strökoperatorer för DeviceGrey, CalGrey och Indexed färgrymder. |
-| [SetColorStroke](setcolorstroke#constructor_4)(double[]) | Konstruktör som gör det möjligt att ställa in färgkomponenter. |
-| [SetColorStroke](setcolorstroke#constructor_2)(double, double, double) | Ställ in färg för sträckoperator för DeviceRGB, CalRGB och Lab färgrymder |
-| [SetColorStroke](setcolorstroke#constructor_3)(double, double, double, double) | Ställ in färg för strökoperator för CMYK-färgrymd |
+| [SetColorStroke](setcolorstroke/#constructor)() | Initierar operator. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Ställer in färg för strekningsoperatorer för DeviceGray, CalGray och Indexed färgrum. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | Konstruktör som tillåter att ställa in färgkomponenter. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Ställer in färg för strekningsoperator för DeviceRGB, CalRGB och Lab färgrum |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | Ställer in färg för strekningsoperator för CMYK färgrum |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Får röd komponent av color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Får cyankomponent av CMYK-färg. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Får en rad färgkomponenter. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Får grön komponent av color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Får svart komponent av grå färg. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operatörsindex i sidoperatorlistan. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Får svart komponent av CMYK-färg. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Får magenta komponent av CMYK-färg. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Får röd komponent av color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Får gul komponent av CMYK-färg. |
+| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | Hämtar eller ställer in den blå komponenten. |
+| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | Hämtar eller ställer in den cyan komponenten. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Hämtar array av färgkomponenter. |
+| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | Hämtar eller ställer in den gröna komponenten. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Hämtar den svarta komponenten av grå färg. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
+| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | Hämtar eller ställer in den svarta komponenten. |
+| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | Hämtar eller ställer in den magenta komponenten. |
+| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | Hämtar eller ställer in den röda komponenten. |
+| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | Hämtar eller ställer in den gula komponenten. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept)(IOperatorSelector) | Accepterar besöksobjekt till processoperatör. |
-| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor)() | Returnerar färg specificerad av operatören. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returnerar text från operatorn och dess parametrar. |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operator. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | Returnerar färg som specificeras av operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar text av operator och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
 
-### Se även
+### Se Även
 
-* class [BasicSetColorOperator](../basicsetcoloroperator)
-* namnutrymme [Aspose.Pdf.Operators](../../aspose.pdf.operators)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [BasicSetColorOperator](../basicsetcoloroperator/)
+* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* sammansättning [Aspose.PDF](../../)

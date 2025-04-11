@@ -1,45 +1,43 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Diese Klasse stellt einen Satz von Daten dar die sich auf das Speichern einer externen Ressourcenbilddatei während der PDF-zu-HTML-Konvertierung beziehen.
+title: Class SvgSaveOptions.SvgImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo-Klasse. Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern von externen Ressourcenbilddateien während der PDF-zu-HTML-Konvertierung verbunden sind.
 type: docs
-weight: 6480
+weight: 10260
 url: /de/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/
 ---
-## SvgSaveOptions.SvgImageSavingInfo class
+## SvgSaveOptions.SvgImageSavingInfo-Klasse
 
-Diese Klasse stellt einen Satz von Daten dar, die sich auf das Speichern einer externen Ressourcenbilddatei während der PDF-zu-HTML-Konvertierung beziehen.
+Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern von externen Ressourcenbilddateien während der PDF-zu-HTML-Konvertierung verbunden sind.
 
 ```csharp
 public class SvgImageSavingInfo : ResourceSavingInfo
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [SvgImageSavingInfo](svgimagesavinginfo)() | Default_Constructor |
+| [SvgImageSavingInfo](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/.ctor)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Wird vom Konverter festgelegt. Angenommener Dateiname, der vom Konverter zum Code der benutzerdefinierten Methode geht Kann in benutzerdefiniertem Code verwendet werden, um zu entscheiden, wie diese Datei verarbeitet oder wo gespeichert werden soll |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Vom Konverter gesetzt. Vorgeschlagener Dateiname, der vom Konverter an den Code der benutzerdefinierten Methode übergeben wird. Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie die Datei verarbeitet oder wo sie gespeichert werden soll. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Vom Konverter festgelegt. Stellt den binären Inhalt der gespeicherten Datei dar. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen die vorgeschlagene Datei nicht mit benutzerdefiniertem Code verarbeitet werden soll, sondern mit dem Konvertercode selbst in Standard-für-Konverter-Weise. Wenn die Einstellung „it“ auf „true“ gesetzt ist, bedeutet dies, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der -Konverter selbst damit umgehen muss (in beiden Richtungen – zum Speichern irgendwo und zum Benennen in der referenzierenden Datei). |
-| [ImageType](../../aspose.pdf/svgimagesavinginfo/imagetype) | stellt den Typ des gespeicherten Bildes dar, auf das in HTML verwiesen wird. Wird vom Konverter festgelegt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was getan werden soll |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Wird vom Konverter festgelegt. Angenommener Dateiname, der vom Konverter zum Code der benutzerdefinierten Methode geht Kann in benutzerdefiniertem Code verwendet werden, um zu entscheiden, wie diese Datei verarbeitet oder wo gespeichert werden soll |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Vom Konverter gesetzt. Stellt den binären Inhalt der gespeicherten Datei dar. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Dieses Flag muss im benutzerdefinierten Code auf "true" gesetzt werden, wenn aus bestimmten Gründen die vorgeschlagene Datei nicht mit benutzerdefiniertem Code, sondern mit dem Code des Konverters selbst auf die Standardweise des Konverters verarbeitet werden soll. Das Setzen auf true bedeutet, dass der benutzerdefinierte Code die referenzierte Datei nicht verarbeitet hat und der Konverter sie selbst behandeln muss (in beiden Sinne - zum Speichern irgendwo und zum Benennen in der referenzierten Datei). |
+| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | Stellt den Typ des gespeicherten Bildes dar, das in HTML referenziert wird. Vom Konverter gesetzt und kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, was getan werden soll. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Vom Konverter gesetzt. Vorgeschlagener Dateiname, der vom Konverter an den Code der benutzerdefinierten Methode übergeben wird. Kann im benutzerdefinierten Code verwendet werden, um zu entscheiden, wie die Datei verarbeitet oder wo sie gespeichert werden soll. |
 
 ### Siehe auch
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [SvgSaveOptions](../svgsaveoptions)
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* Klasse [SvgSaveOptions](../svgsaveoptions/)
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

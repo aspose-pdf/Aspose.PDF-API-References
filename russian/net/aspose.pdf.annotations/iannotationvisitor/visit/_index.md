@@ -1,14 +1,14 @@
 ---
-title: Visit
-second_title: Aspose.PDF для справочника API .NET
-description: Посетите/выберите аннотацию ссылки.
+title: IAnnotationVisitor.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: Метод IAnnotationVisitor. Посетить/выбрать аннотацию ссылки
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_8}
 
-Посетите/выберите аннотацию ссылки.
+Посетить/выбрать аннотацию ссылки.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -18,18 +18,18 @@ public void Visit(LinkAnnotation link)
 | --- | --- | --- |
 | link | LinkAnnotation | Пример/шаблон объекта LinkAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [LinkAnnotation](../../linkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [LinkAnnotation](../../linkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Посетите/выберите аннотацию вложения.
+Посетить/выбрать аннотацию вложения.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -39,18 +39,18 @@ public void Visit(FileAttachmentAnnotation attachment)
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | Пример/шаблон объекта FileAttachmentAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_17}
+## Visit(TextAnnotation) {#visit_20}
 
-Посетите/выберите текстовую аннотацию.
+Посетить/выбрать текстовую аннотацию.
 
 ```csharp
 public void Visit(TextAnnotation text)
@@ -60,18 +60,18 @@ public void Visit(TextAnnotation text)
 | --- | --- | --- |
 | text | TextAnnotation | Пример/шаблон объекта TextAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [TextAnnotation](../../textannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [TextAnnotation](../../textannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_4}
 
-Посетите/выберите аннотацию произвольного текста.
+Посетить/выбрать аннотацию свободного текста.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -81,18 +81,18 @@ public void Visit(FreeTextAnnotation freetext)
 | --- | --- | --- |
 | freetext | FreeTextAnnotation | Пример/шаблон объекта FreeTextAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_5}
 
-Посетите/выберите выделенную аннотацию.
+Посетить/выбрать аннотацию выделения.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -102,18 +102,18 @@ public void Visit(HighlightAnnotation highlight)
 | --- | --- | --- |
 | highlight | HighlightAnnotation | Пример/шаблон объекта HighlightAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [HighlightAnnotation](../../highlightannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_18}
+## Visit(UnderlineAnnotation) {#visit_22}
 
-Посетите/выберите подчеркнутую аннотацию.
+Посетить/выбрать аннотацию подчеркивания.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -123,18 +123,18 @@ public void Visit(UnderlineAnnotation underline)
 | --- | --- | --- |
 | underline | UnderlineAnnotation | Пример/шаблон объекта UnderlineAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_16}
+## Visit(StrikeOutAnnotation) {#visit_19}
 
-Посетите/выберите зачеркнутую аннотацию.
+Посетить/выбрать аннотацию зачеркивания.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -144,18 +144,18 @@ public void Visit(StrikeOutAnnotation strikeOut)
 | --- | --- | --- |
 | strikeOut | StrikeOutAnnotation | Пример/шаблон объекта StrikeOutAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_14}
+## Visit(SquigglyAnnotation) {#visit_17}
 
-Посетите/выберите волнистую аннотацию.
+Посетить/выбрать аннотацию волнистой линии.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -165,18 +165,18 @@ public void Visit(SquigglyAnnotation squiggly)
 | --- | --- | --- |
 | squiggly | SquigglyAnnotation | Пример/шаблон объекта SquigglyAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_11}
+## Visit(PopupAnnotation) {#visit_13}
 
-Посетите/выберите всплывающую аннотацию.
+Посетить/выбрать всплывающую аннотацию.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -186,18 +186,18 @@ public void Visit(PopupAnnotation popup)
 | --- | --- | --- |
 | popup | PopupAnnotation | Пример/шаблон объекта PopupAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [PopupAnnotation](../../popupannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [PopupAnnotation](../../popupannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_7}
 
-Посетите/выберите аннотацию строки.
+Посетить/выбрать аннотацию линии.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -207,18 +207,18 @@ public void Visit(LineAnnotation line)
 | --- | --- | --- |
 | line | LineAnnotation | Пример/шаблон объекта LineAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [LineAnnotation](../../lineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [LineAnnotation](../../lineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Посетите/выберите аннотацию круга.
+Посетить/выбрать аннотацию круга.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -228,18 +228,18 @@ public void Visit(CircleAnnotation circle)
 | --- | --- | --- |
 | circle | CircleAnnotation | Пример/шаблон объекта CircleAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [CircleAnnotation](../../circleannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [CircleAnnotation](../../circleannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_13}
+## Visit(SquareAnnotation) {#visit_16}
 
-Посетите/выберите квадратную аннотацию.
+Посетить/выбрать аннотацию квадрата.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -249,18 +249,18 @@ public void Visit(SquareAnnotation square)
 | --- | --- | --- |
 | square | SquareAnnotation | Пример/шаблон объекта SquareAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [SquareAnnotation](../../squareannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [SquareAnnotation](../../squareannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_6}
 
-Посетите/выберите рукописную аннотацию.
+Посетить/выбрать аннотацию чернил.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -270,18 +270,18 @@ public void Visit(InkAnnotation ink)
 | --- | --- | --- |
 | ink | InkAnnotation | Пример/шаблон объекта InkAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [InkAnnotation](../../inkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [InkAnnotation](../../inkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_10}
+## Visit(PolylineAnnotation) {#visit_12}
 
-Посетите/выберите аннотацию полилинии.
+Посетить/выбрать аннотацию полилинии.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -291,18 +291,18 @@ public void Visit(PolylineAnnotation polyline)
 | --- | --- | --- |
 | polyline | PolylineAnnotation | Пример/шаблон объекта PolylineAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [PolylineAnnotation](../../polylineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_9}
+## Visit(PolygonAnnotation) {#visit_11}
 
-Посетите/выберите аннотацию полигона.
+Посетить/выбрать аннотацию многоугольника.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -312,18 +312,18 @@ public void Visit(PolygonAnnotation polygon)
 | --- | --- | --- |
 | polygon | PolygonAnnotation | Пример/шаблон объекта PolygonAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [PolygonAnnotation](../../polygonannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Посетите/выберите аннотацию курсора.
+Посетить/выбрать аннотацию курсора.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -333,18 +333,18 @@ public void Visit(CaretAnnotation caret)
 | --- | --- | --- |
 | caret | CaretAnnotation | Пример/шаблон объекта CaretAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [CaretAnnotation](../../caretannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [CaretAnnotation](../../caretannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_15}
+## Visit(StampAnnotation) {#visit_18}
 
-Посетите/выберите аннотацию штампа.
+Посетить/выбрать аннотацию штампа.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -354,18 +354,18 @@ public void Visit(StampAnnotation stamp)
 | --- | --- | --- |
 | stamp | StampAnnotation | Пример/шаблон объекта StampAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [StampAnnotation](../../stampannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [StampAnnotation](../../stampannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_19}
+## Visit(WidgetAnnotation) {#visit_23}
 
-Посетите/выберите аннотацию виджета.
+Посетить/выбрать аннотацию виджета.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -375,18 +375,18 @@ public void Visit(WidgetAnnotation widget)
 | --- | --- | --- |
 | widget | WidgetAnnotation | Пример/шаблон объекта WidgetAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [WidgetAnnotation](../../widgetannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_9}
 
-Посетите/выберите аннотацию к фильму.
+Посетить/выбрать аннотацию фильма.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -396,18 +396,18 @@ public void Visit(MovieAnnotation movie)
 | --- | --- | --- |
 | movie | MovieAnnotation | Пример/шаблон объекта MovieAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [MovieAnnotation](../../movieannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [MovieAnnotation](../../movieannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_12}
+## Visit(ScreenAnnotation) {#visit_15}
 
-Посетите/выберите аннотацию экрана.
+Посетить/выбрать аннотацию экрана.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -417,11 +417,93 @@ public void Visit(ScreenAnnotation screen)
 | --- | --- | --- |
 | screen | ScreenAnnotation | Пример/шаблон объекта ScreenAnnotation. |
 
-### Смотрите также
+### See Also
 
-* class [ScreenAnnotation](../../screenannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* пространство имен [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* сборка [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(TrimMarkAnnotation) {#visit_21}
+
+Посетить/выбрать аннотацию обрезки.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | Пример/шаблон объекта [`TrimMarkAnnotation`](../../trimmarkannotation/). |
+
+### See Also
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Посетить/выбрать аннотацию обрезки.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | Пример/шаблон объекта [`BleedMarkAnnotation`](../../bleedmarkannotation/). |
+
+### See Also
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_14}
+
+Посетить/выбрать аннотацию регистрационного знака.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | Пример/шаблон объекта [`RegistrationMarkAnnotation`](../../registrationmarkannotation/). |
+
+### See Also
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_10}
+
+Посетить/выбрать аннотацию информации о странице.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | Пример/шаблон объекта [`PageInformationAnnotation`](../../pageinformationannotation/). |
+
+### See Also
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

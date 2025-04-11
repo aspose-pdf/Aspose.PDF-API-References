@@ -1,14 +1,14 @@
 ---
-title: TiffSettings
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonTiffSettingsaspose.pdf.devices/tiffsettings Klasse.
+title: TiffSettings.TiffSettings
+second_title: Aspose.PDF for .NET API Reference
+description: TiffSettings-Konstruktor. Initialisiert eine neue Instanz der TiffSettings-Klasse
 type: docs
 weight: 10
 url: /de/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings()
@@ -16,15 +16,15 @@ public TiffSettings()
 
 ### Siehe auch
 
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
@@ -32,20 +32,20 @@ public TiffSettings(ShapeType shapeType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| shapeType | ShapeType | Art der Form. |
+| shapeType | ShapeType | Typ der Form. |
 
 ### Siehe auch
 
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [ShapeType](../../shapetype/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
@@ -53,20 +53,20 @@ public TiffSettings(CompressionType compressionType)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| compressionType | CompressionType | Art der Kompression. |
+| compressionType | CompressionType | Typ der Kompression. |
 
 ### Siehe auch
 
-* enum [CompressionType](../../compressiontype)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [CompressionType](../../compressiontype/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
@@ -78,16 +78,16 @@ public TiffSettings(ColorDepth colorDepth)
 
 ### Siehe auch
 
-* enum [ColorDepth](../../colordepth)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [ColorDepth](../../colordepth/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(Margins) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(Margins margins)
@@ -99,16 +99,16 @@ public TiffSettings(Margins margins)
 
 ### Siehe auch
 
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Margins](../../margins/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
@@ -116,24 +116,24 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| compressionType | CompressionType | Art der Kompression. |
+| compressionType | CompressionType | Typ der Kompression. |
 | colorDepth | ColorDepth | Die Farbtiefe. |
 | margins | Margins | Die Ränder. |
 
 ### Siehe auch
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [CompressionType](../../compressiontype/)
+* Enum [ColorDepth](../../colordepth/)
+* Klasse [Margins](../../margins/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -142,25 +142,25 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| compressionType | CompressionType | Art der Kompression. |
+| compressionType | CompressionType | Typ der Kompression. |
 | colorDepth | ColorDepth | Die Farbtiefe. |
 | margins | Margins | Die Ränder. |
-| skipBlankPages | Boolean | wenn eingestellt`Stimmt` müssen leere Seiten überspringen. |
+| skipBlankPages | Boolean | Wenn auf `true` gesetzt, müssen leere Seiten übersprungen werden. |
 
 ### Siehe auch
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [CompressionType](../../compressiontype/)
+* Enum [ColorDepth](../../colordepth/)
+* Klasse [Margins](../../margins/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -169,27 +169,27 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| compressionType | CompressionType | Art der Kompression. |
+| compressionType | CompressionType | Typ der Kompression. |
 | colorDepth | ColorDepth | Die Farbtiefe. |
 | margins | Margins | Die Ränder. |
-| skipBlankPages | Boolean | wenn eingestellt`Stimmt` müssen leere Seiten überspringen. |
-| shapeType | ShapeType | Art der Form. |
+| skipBlankPages | Boolean | Wenn auf `true` gesetzt, müssen leere Seiten übersprungen werden. |
+| shapeType | ShapeType | Typ der Form. |
 
 ### Siehe auch
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
+* Enum [CompressionType](../../compressiontype/)
+* Enum [ColorDepth](../../colordepth/)
+* Klasse [Margins](../../margins/)
+* Enum [ShapeType](../../shapetype/)
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(bool) {#constructor_8}
 
-Initialisiert eine neue Instanz von[`TiffSettings`](../../tiffsettings) Klasse.
+Initialisiert eine neue Instanz der [`TiffSettings`](../) Klasse.
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
@@ -197,12 +197,10 @@ public TiffSettings(bool skipBlankPages)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| skipBlankPages | Boolean | wenn eingestellt`Stimmt` [leere Seiten überspringen]. |
+| skipBlankPages | Boolean | Wenn auf `true` gesetzt, [leere Seiten überspringen]. |
 
 ### Siehe auch
 
-* class [TiffSettings](../../tiffsettings)
-* namensraum [Aspose.Pdf.Devices](../../tiffsettings)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [TiffSettings](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)

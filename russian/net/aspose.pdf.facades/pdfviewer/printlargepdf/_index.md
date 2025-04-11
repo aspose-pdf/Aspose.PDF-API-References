@@ -1,14 +1,14 @@
 ---
-title: PrintLargePdf
-second_title: Aspose.PDF для справочника API .NET
-description: Открывает и печатает большой файл PDF. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ рекомендуется использовать этот метод для повышения производительности.
+title: PdfViewer.PrintLargePdf
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfViewer. Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности
 type: docs
-weight: 320
+weight: 350
 url: /ru/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Открывает и печатает большой файл PDF. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -16,42 +16,43 @@ public void PrintLargePdf(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу PDF. |
+| filePath | String | Путь к Pdf файлу. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;     //печатать файл с измененным размером
-iewer.AutoRotate = true;     //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
+iewer.AutoResize = true;     //print the file with adjusted size
+iewer.AutoRotate = true;     //print the file with adjusted rotation
+iewer.PrintPageDialog=false; //do not produce the page number dialog when printing
 iewer.PrintLargePdf(@"d:\test.pdf");
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true      'распечатать файл с измененным размером
-iewer.AutoRotate = true      'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
 iewer.PrintLargePdf(@"d:\test.pdf")
-iewer.ClosePdfFile();
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Открывает и печатает большой поток PDF. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf поток. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -59,43 +60,43 @@ public void PrintLargePdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток pdf, который нужно открыть и распечатать. |
+| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        //печатать файл с измененным размером
-iewer.AutoRotate = true;        //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
+iewer.AutoResize = true;        //print the file with adjusted size
+iewer.AutoRotate = true;        //print the file with adjusted rotation
+iewer.PrintPageDialog=false;    //do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true         'распечатать файл с измененным размером
-iewer.AutoRotate = true         'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
+im viewer As New PdfViewer()
+iewer.AutoResize = True         'print the file with adjusted size
+iewer.AutoRotate = True         'print the file with adjusted rotation
+iewer.PrintPageDialog = False   'do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Открывает и печатает большой файл PDF с указанными настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf файл с заданными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -103,50 +104,51 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу PDF. |
+| filePath | String | Путь к Pdf файлу. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       //печатать файл с измененным размером
-iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(@"d:\test.pdf",ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'распечатать файл с измененным размером
-iewer.AutoRotate = true        'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(@"d:\test.pdf",ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Открывает и печатает большой поток Pdf с указанными настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf поток с заданными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -154,50 +156,51 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток pdf, который нужно открыть и распечатать. |
+| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       //печатать файл с измененным размером
-iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'распечатать файл с измененным размером
-iewer.AutoRotate = true        'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Открывает и печатает большой файл Pdf с заданными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод, чтобы повысить производительность.
+Открывает и печатает большой Pdf файл с заданными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -206,57 +209,59 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу PDF. |
+| filePath | String | Путь к Pdf файлу. |
 | pageSettings | PageSettings | Настройки страницы. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       //печатать файл с измененным размером
-iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'распечатать файл с измененным размером
-iewer.AutoRotate = true       'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Открывает и печатает большой поток PDF с указанными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц и более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности .
+Открывает и печатает большой Pdf поток с заданными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -265,50 +270,50 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток PDF, который нужно открыть и распечатать. |
+| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
 | pageSettings | PageSettings | Настройки страницы. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
-### Примечания
+## Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно явно вызывать BindPdf().
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;       //печатать файл с измененным размером
-iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.AutoResize = true;       //print the file with adjusted size
+iewer.AutoRotate = true;       //print the file with adjusted rotation
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'распечатать файл с измененным размером
-iewer.AutoRotate = true       'распечатать файл с отрегулированным поворотом
-iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfViewer](../../pdfviewer)
-* пространство имен [Aspose.Pdf.Facades](../../pdfviewer)
+* класс [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* класс [PdfViewer](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

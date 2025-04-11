@@ -1,14 +1,14 @@
 ---
-title: Add
-second_title: Aspose.PDF för .NET API Referens
-description: Lägger till värde till XMP-metadata.
+title: PdfXmpMetadata.Add
+second_title: Aspose.PDF for .NET API Reference
+description: PdfXmpMetadata-metod. Lägger till värde i XMP-metadata
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
 ## Add(DefaultMetadataProperties, XmpValue) {#add}
 
-Lägger till värde till XMP-metadata.
+Lägger till värde i XMP-metadata.
 
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
@@ -16,10 +16,10 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Nyckelns namn. |
-| value | XmpValue | Värde som tillkommer. |
+| key | DefaultMetadataProperties | Nyckelnamn. |
+| value | XmpValue | Värde som kommer att läggas till. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -28,19 +28,19 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### Se även
+### Se Även
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties)
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* hopsättning [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Lägger till tilläggsfält i metadata.
+Lägger till utvidgningsfält i metadata.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
@@ -49,17 +49,17 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Pdf-tilläggsobjektet att lägga till. |
-| namespacePrefix | String | Prefixet för schema. |
-| namespaceUri | String | Namnutrymmets uri för schemat. |
-| schemaDescription | String | Den valfria beskrivningen av schema. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | PDF-utvidgningsobjektet som ska läggas till. |
+| namespacePrefix | String | Prefixet för schemat. |
+| namespaceUri | String | Namnrymdens URI för schemat. |
+| schemaDescription | String | Den valfria beskrivningen av schemat. |
 
-### Se även
+### Se Även
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* hopsättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -73,10 +73,10 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckel till nytt element. |
-| value | XmpValue | Elementets värde. |
+| key | String | Nyckel för det nya elementet. |
+| value | XmpValue | Värde för elementet. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -84,12 +84,12 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### Se även
+### Se Även
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* hopsättning [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -103,14 +103,14 @@ public void Add(string key, object value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckel till nytt element. |
-| value | Object | Elementets värde. |
+| key | String | Nyckel för det nya elementet. |
+| value | Object | Värde för elementet. |
 
-### Se även
+### Se Även
 
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* hopsättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -126,11 +126,9 @@ public void Add(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Objekt som ska läggas till. |
 
-### Se även
+### Se Även
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

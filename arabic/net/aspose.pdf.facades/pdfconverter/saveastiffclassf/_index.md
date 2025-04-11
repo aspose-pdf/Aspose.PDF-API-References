@@ -1,26 +1,26 @@
 ---
-title: SaveAsTIFFClassF
-second_title: Aspose.PDF لمرجع .NET API
-description: يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في ملف TIFF ClassF واحد.
+title: PdfConverter.SaveAsTIFFClassF
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfConverter. تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في ملف TIFF ClassF واحد
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
 ---
 ## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf_5}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في ملف TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في ملف TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | الدفق لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
 
-### أمثلة
+## Examples
 
 ```csharp
 [C#]
@@ -36,93 +36,93 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_4}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في ملف TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في ملف TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | الدفق لحفظ صورة TIFF. |
 | pageSize | PageSize | حجم صفحة الصورة. |
 
-### أنظر أيضا
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في دفق TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في دفق TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة ، الوحدة بالبكسل. |
-| imageHeight | Int32 | ارتفاع الصورة ، الوحدة بالبكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
 
-### أنظر أيضا
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_1}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في دفق TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في دفق TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ صورة TIFF. |
 | pageSize | PageSize | حجم صفحة الصورة. |
 
-### أنظر أيضا
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(string) {#saveastiffclassf_3}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في ملف TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في ملف TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | الدفق لحفظ صورة TIFF. |
 
-### أمثلة
+## Examples
 
 ```csharp
 [C#]
@@ -138,30 +138,28 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsTIFFClassF(Stream) {#saveastiffclassf}
 
-يحول كل صفحات مستند pdf إلى صور ويحفظ الصور في دفق TIFF ClassF واحد.
+تقوم بتحويل كل صفحات مستند PDF إلى صور وحفظ الصور في دفق TIFF ClassF واحد.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ صورة TIFF. |
 
-### أنظر أيضا
+### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdfconverter)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

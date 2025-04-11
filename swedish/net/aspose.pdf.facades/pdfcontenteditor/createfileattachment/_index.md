@@ -1,14 +1,14 @@
 ---
-title: CreateFileAttachment
-second_title: Aspose.PDF för .NET API Referens
-description: Skapar anteckning för filbilaga.
+title: PdfContentEditor.CreateFileAttachment
+second_title: Aspose.PDF for .NET API Reference
+description: PdfContentEditor metod. Skapar filbilaga annotation
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Skapar anteckning för filbilaga.
+Skapar filbilaga annotation.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -17,13 +17,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Anteckningsrektangeln som definierar platsen för anteckningen på sidan. |
-| contents | String | Innehållet i anteckningen. |
-| filePath | String | Sökvägen till filen bifogas. |
-| page | Int32 | Antalet originalsida där anteckningen kommer att skapas. |
-| name | String | Namnet på en ikon kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
+| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
+| contents | String | Innehållet i annoteringen. |
+| filePath | String | Sökvägen till filen som kommer att bifogas. |
+| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
+| name | String | Namnet på en ikon som kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,17 +33,17 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Skapar anteckning för filbilaga.
+Skapar filbilaga annotation.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -52,14 +52,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Anteckningsrektangeln som definierar platsen för anteckningen på sidan. |
-| contents | String | Innehållet i anteckningen. |
-| filePath | String | Sökvägen till filen bifogas. |
-| page | Int32 | Antalet originalsida där anteckningen kommer att skapas. |
-| name | String | Namnet på en ikon kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
+| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
+| contents | String | Innehållet i annoteringen. |
+| filePath | String | Sökvägen till filen som kommer att bifogas. |
+| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
+| name | String | Namnet på en ikon som kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
 | opacity | Double | Ikonens opacitet från 0 till 1: 0 - helt transparent, 1 - helt ogenomskinlig. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -69,17 +69,17 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Skapar anteckning för filbilaga.
+Skapar filbilaga annotation.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -88,14 +88,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Anteckningsrektangeln som definierar platsen för anteckningen på sidan. |
-| contents | String | Innehållet i anteckningen. |
-| attachmentStream | Stream | Den bifogade filströmmen. |
+| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
+| contents | String | Innehållet i annoteringen. |
+| attachmentStream | Stream | Bilagefilströmmen. |
 | attachmentName | String | Bilagans namn. |
-| page | Int32 | Antalet originalsida där anteckningen kommer att skapas. |
-| name | String | Namnet på en ikon kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
+| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
+| name | String | Namnet på en ikon som kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -108,17 +108,17 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Skapar anteckning för filbilaga.
+Skapar filbilaga annotation.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -127,15 +127,15 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Anteckningsrektangeln som definierar platsen för anteckningen på sidan. |
-| contents | String | Innehållet i anteckningen. |
-| attachmentStream | Stream | Den bifogade filströmmen. |
+| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
+| contents | String | Innehållet i annoteringen. |
+| attachmentStream | Stream | Bilagefilströmmen. |
 | attachmentName | String | Bilagans namn. |
-| page | Int32 | Antalet originalsida där anteckningen kommer att skapas. |
-| name | String | Namnet på en ikon kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
+| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
+| name | String | Namnet på en ikon som kommer att användas för att visa annoteringen. Detta värde kan vara: "Graph", "PushPin", "Paperclip", "Tag". |
 | opacity | Double | Ikonens opacitet från 0 till 1: 0 - helt transparent, 1 - helt ogenomskinlig. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -148,10 +148,8 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### Se även
+### Se Även
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfContentEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

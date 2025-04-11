@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: CharInfo nesneleri koleksiyonunu temsil eder.
+title: Class CharInfoCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.CharInfoCollection sınıfı. CharInfo nesneleri koleksiyonunu temsil eder
 type: docs
-weight: 6640
+weight: 10450
 url: /tr/net/aspose.pdf.text/charinfocollection/
 ---
-## CharInfoCollection class
+## CharInfoCollection Sınıfı
 
 CharInfo nesneleri koleksiyonunu temsil eder.
 
@@ -14,57 +14,57 @@ CharInfo nesneleri koleksiyonunu temsil eder.
 public sealed class CharInfoCollection : ICollection<CharInfo>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | Sayısını alır[`CharInfo`](../charinfo) aslında koleksiyonda bulunan nesne öğeleri. |
-| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly) { get; } | Koleksiyonun salt okunur olup olmadığını gösteren bir değer alır |
-| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized) { get; } | Koleksiyona erişimin eşitlenip eşitlenmediğini gösteren bir değer alır (iş parçacığı güvenli). |
-| [Item](../../aspose.pdf.text/charinfocollection/item) { get; } | Belirtilen dizindeki CharInfo öğesini alır. |
-| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot) { get; } | Koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
+| [Count](../../aspose.pdf.text/charinfocollection/count/) { get; } | Koleksiyonda gerçekten bulunan [`CharInfo`](../charinfo/) nesne elemanlarının sayısını alır. |
+| [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly/) { get; } | Koleksiyonun salt okunur olup olmadığını belirten bir değer alır. |
+| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized/) { get; } | Koleksiyona erişimin senkronize olup olmadığını (iş parçacığı güvenli) belirten bir değer alır. |
+| [Item](../../aspose.pdf.text/charinfocollection/item/) { get; } | Belirtilen indeksteki CharInfo elemanını alır. |
+| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot/) { get; } | Koleksiyona erişimi senkronize etmek için kullanılabilecek bir nesne alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | Koleksiyon salt okunurdur, atarNotImplementedException . |
-| [Clear](../../aspose.pdf.text/charinfocollection/clear)() | Koleksiyon salt okunurdur. Her zaman NotImplementedException. atar |
-| [Contains](../../aspose.pdf.text/charinfocollection/contains)(CharInfo) | Koleksiyonun belirli bir değer içerip içermediğini belirler. |
-| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | Hedef dizinin belirtilen dizininden başlayarak koleksiyonun tamamını uyumlu bir tek boyutlu Diziye kopyalar |
-| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator)() | Koleksiyonun tamamı için bir numaralandırıcı döndürür. |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | Koleksiyon salt okunurdur, atarNotImplementedException . |
+| [Add](../../aspose.pdf.text/charinfocollection/add/)(CharInfo) | Koleksiyon salt okunur, NotImplementedException fırlatır. |
+| [Clear](../../aspose.pdf.text/charinfocollection/clear/)() | Koleksiyon salt okunur. Her zaman NotImplementedException fırlatır. |
+| [Contains](../../aspose.pdf.text/charinfocollection/contains/)(CharInfo) | Koleksiyonun belirli bir değeri içerip içermediğini belirler. |
+| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto/)(CharInfo[], int) | Tüm koleksiyonu, hedef dizinin belirtilen indeksinden başlayarak uyumlu bir boyutsal Diziye kopyalar. |
+| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator/)() | Tüm koleksiyon için bir enumerator döndürür. |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove/)(CharInfo) | Koleksiyon salt okunur, NotImplementedException fırlatır. |
 
-### Notlar
+## Açıklamalar
 
-Metin segmenti karakterlerinin konumlandırma bilgilerine erişim sağlar.
+Metin segmenti karakterlerinin konum bilgilerine erişim sağlar.
 
-### Örnekler
+## Örnekler
 
-Örnek, tüm karakterlerin nasıl yineleneceğini ve charact öğesinin nasıl alınacağını gösterir.
+Örnek, tüm karakterler arasında nasıl döngü yapılacağını ve karakterin nasıl alınacağını gösterir.
 
 ```csharp
-//belgeyi aç
+//open document
 Document pdfDocument = new Document(inFile);
-//sayfanın tüm metin nesnelerini toplamak için TextFragmentAbsorber nesnesi oluşturun
+//create TextFragmentAbsorber object to collect all the text objects of the page
 TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
-// tüm sayfalar için emiciyi kabul et
+//accept the absorber for all the pages
 pdfDocument.Pages[1].Accept(textFragmentAbsorber);
-// ayıklanan metin parçalarını al
+//get the extracted text fragments
 TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
             
-//parçalar arasında dolaş
+//loop through the fragments
 foreach (TextFragment textFragment in textFragmentCollection)
 {
-    // segmentler arasında döngü
+    //loop through the segments
     foreach (TextSegment textSegment in textFragment.Segments)
     {
-        // karakterler arasında döngü
+        //loop through the characters
         for (int i = 1; i <= textSegment.Text.Length; i++)
         {
             CharInfo charInfo = textSegment.Characters[i];
 
-            // karakter konumunu ve dikdörtgen bilgisini yazdır
+            // print character position and rectangle info
             Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
             Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
             Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
@@ -74,10 +74,8 @@ foreach (TextFragment textFragment in textFragmentCollection)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CharInfo](../charinfo)
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [CharInfo](../charinfo/)
+* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../)

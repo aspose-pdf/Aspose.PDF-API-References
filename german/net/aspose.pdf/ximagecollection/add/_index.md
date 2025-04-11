@@ -1,14 +1,14 @@
 ---
-title: Add
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Fügt ein neues Bild zur Bildliste hinzu. Diese Methode fügt ein Bild als Referenz zu demselben PdfObject hinzu wodurch die Dateigröße verringert werden kann
+title: XImageCollection.Add
+second_title: Aspose.PDF for .NET API Reference
+description: XImageCollection-Methode. Fügt neues Bild zur Bildliste hinzu. Diese Methode fügt das Bild als Referenz zum gleichen PdfObject hinzu, was die Dateigröße verringern kann.
 type: docs
 weight: 70
 url: /de/net/aspose.pdf/ximagecollection/add/
 ---
-## Add(XImage) {#add}
+## Add(XImage) {#add_2}
 
-Fügt ein neues Bild zur Bildliste hinzu. Diese Methode fügt ein Bild als Referenz zu demselben PdfObject hinzu (wodurch die Dateigröße verringert werden kann)
+Fügt neues Bild zur Bildliste hinzu. Diese Methode fügt das Bild als Referenz zum gleichen PdfObject hinzu (was die Dateigröße verringern kann).
 
 ```csharp
 public string Add(XImage image)
@@ -16,7 +16,7 @@ public string Add(XImage image)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | XImage | XImage hinzugefügt werden. |
+| image | XImage | XImage, das hinzugefügt werden soll. |
 
 ### Rückgabewert
 
@@ -24,16 +24,16 @@ Name des hinzugefügten Bildes.
 
 ### Siehe auch
 
-* class [XImage](../../ximage)
-* class [XImageCollection](../../ximagecollection)
-* namensraum [Aspose.Pdf](../../ximagecollection)
-* Montage [Aspose.PDF](../../../)
+* Klasse [XImage](../../ximage/)
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream) {#add_1}
+## Add(Stream) {#add_3}
 
-Fügt eine Entität am Ende der Sammlung hinzu, sodass auf die Entität über den letzten Index zugegriffen werden kann.
+Fügt Entität am Ende der Sammlung hinzu, sodass die Entität über den letzten Index zugegriffen werden kann.
 
 ```csharp
 public string Add(Stream image)
@@ -41,7 +41,7 @@ public string Add(Stream image)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Stream | Stream mit Bilddaten (im JPEG-Format). |
+| image | Stream | Stream, der Bilddaten (im JPEG-Format) enthält. |
 
 ### Rückgabewert
 
@@ -49,37 +49,93 @@ Name des hinzugefügten Bildes.
 
 ### Siehe auch
 
-* class [XImageCollection](../../ximagecollection)
-* namensraum [Aspose.Pdf](../../ximagecollection)
-* Montage [Aspose.PDF](../../../)
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, ImageFilterType) {#add_2}
+## Add(BitmapInfo) {#add}
 
-Fügt eine Entität am Ende der Sammlung hinzu, sodass auf die Entität über den letzten Index zugegriffen werden kann.
+Fügt Entität am Ende der Sammlung hinzu, sodass die Entität über den letzten Index zugegriffen werden kann.
 
 ```csharp
-public void Add(Stream image, ImageFilterType filterType)
+public string Add(BitmapInfo bitmapInfo)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Stream | Stream mit Bilddaten. |
-| filterType | ImageFilterType | Der Bildfiltertyp. |
+| bitmapInfo | BitmapInfo | Objekt, das ein Array von Pixeln und Bitmap-Informationen (Breite, Höhe, PixelFormat) enthält. |
+
+### Rückgabewert
+
+Name des hinzugefügten Bildes.
 
 ### Siehe auch
 
-* enum [ImageFilterType](../../imagefiltertype)
-* class [XImageCollection](../../ximagecollection)
-* namensraum [Aspose.Pdf](../../ximagecollection)
-* Montage [Aspose.PDF](../../../)
+* Klasse [BitmapInfo](../../bitmapinfo/)
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, int) {#add_3}
+## Add(Stream, ImageFilterType) {#add_4}
 
-Fügt eine Entität am Ende der Sammlung hinzu, sodass auf die Entität über den letzten Index zugegriffen werden kann.
+Fügt Entität am Ende der Sammlung hinzu, sodass die Entität über den letzten Index zugegriffen werden kann.
+
+```csharp
+public string Add(Stream image, ImageFilterType filterType)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| image | Stream | Stream, der Bilddaten enthält. |
+| filterType | ImageFilterType | Der Bildfiltertyp. |
+
+### Rückgabewert
+
+Name des hinzugefügten Bildes.
+
+### Siehe auch
+
+* Enum [ImageFilterType](../../imagefiltertype/)
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(BitmapInfo, ImageFilterType) {#add_1}
+
+Fügt Entität am Ende der Sammlung hinzu, sodass die Entität über den letzten Index zugegriffen werden kann.
+
+```csharp
+public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| bitmapInfo | BitmapInfo | Objekt, das ein Array von Pixeln und Bitmap-Informationen (Breite, Höhe, PixelFormat) enthält. |
+| filterType | ImageFilterType | Der Bildfiltertyp. |
+
+### Rückgabewert
+
+Name des hinzugefügten Bildes.
+
+### Siehe auch
+
+* Klasse [BitmapInfo](../../bitmapinfo/)
+* Enum [ImageFilterType](../../imagefiltertype/)
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(Stream, int) {#add_5}
+
+Fügt Entität am Ende der Sammlung hinzu, sodass die Entität über den letzten Index zugegriffen werden kann.
 
 ```csharp
 public void Add(Stream image, int quality)
@@ -87,13 +143,11 @@ public void Add(Stream image, int quality)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Stream | Stream mit Bilddaten (im JPEG-Format). |
+| image | Stream | Stream, der Bilddaten (im JPEG-Format) enthält. |
 | quality | Int32 | JPEG-Qualität. |
 
 ### Siehe auch
 
-* class [XImageCollection](../../ximagecollection)
-* namensraum [Aspose.Pdf](../../ximagecollection)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [XImageCollection](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)

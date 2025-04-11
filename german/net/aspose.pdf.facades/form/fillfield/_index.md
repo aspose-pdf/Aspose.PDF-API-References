@@ -1,9 +1,9 @@
 ---
-title: FillField
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Füllt das Feld mit dem angegebenen Wert.
+title: Form.FillField
+second_title: Aspose.PDF for .NET API Reference
+description: Formularmethode. Füllt das Feld mit einem gültigen Wert gemäß einem vollqualifizierten Feldnamen. Bevor die Felder gefüllt werden, müssen alle Feldnamen und die entsprechenden gültigen Werte bekannt sein. Sowohl die Feldnamen als auch die Werte sind groß- und kleinschreibungsempfindlich. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und nicht mit teilweisen Feldnamen im Gegensatz zu Aspose.Pdf.Kit funktioniert. Zum Beispiel, wenn das Feld den vollständigen Namen Form.Subform.TextField hat, sollten Sie den vollständigen Namen angeben und nicht TextField. Sie können die Eigenschaft FieldNames verwenden, um vorhandene Feldnamen zu erkunden und das erforderliche Feld nach seinem teilweisen Namen zu suchen.
 type: docs
-weight: 160
+weight: 130
 url: /de/net/aspose.pdf.facades/form/fillfield/
 ---
 ## FillField(string, string, bool) {#fillfield_3}
@@ -18,23 +18,23 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 | --- | --- | --- |
 | fieldName | String | Name des Feldes |
 | value | String | Neuer Wert des Feldes |
-| fitFontSize | Boolean | Wenn wahr, wird die Schriftgröße in den Bearbeitungsfeldern angepasst. |
+| fitFontSize | Boolean | Wenn wahr, wird die Schriftgröße in den Eingabefeldern angepasst. |
 
 ### Rückgabewert
 
-wahr, wenn das Feld gefunden und erfolgreich ausgefüllt wurde.
+true, wenn das Feld gefunden und erfolgreich gefüllt wurde.
 
 ### Siehe auch
 
-* class [Form](../../form)
-* namensraum [Aspose.Pdf.Facades](../../form)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string) {#fillfield_2}
 
-Füllt das Feld mit einem gültigen Wert gemäß einem vollständig qualifizierten Feldnamen. Vor dem Ausfüllen der Felder müssen die Namen aller Felder und die entsprechenden gültigen Werte bekannt sein. Bei Feldnamen und -werten wird zwischen Groß- und Kleinschreibung unterschieden. Bitte beachten Sie dies Aspose.Pdf.Facades unterstützt nur vollständige Feldnamen und arbeitet nicht mit teilweisen Feldnamen im Gegensatz zu Aspose.Pdf.Kit; Wenn das Feld beispielsweise den vollständigen Namen "Form.Subform.TextField" hat, sollten Sie den vollständigen Namen angeben und nicht "Textfeld". Sie können die FieldNames-Eigenschaft verwenden, um vorhandene Feldnamen zu durchsuchen und das erforderliche Feld anhand seines Teilnamens zu durchsuchen.
+Füllt das Feld mit einem gültigen Wert gemäß einem vollqualifizierten Feldnamen. Bevor die Felder gefüllt werden, müssen alle Feldnamen und die entsprechenden gültigen Werte bekannt sein. Sowohl die Feldnamen als auch die Werte sind groß- und kleinschreibungsempfindlich. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und nicht mit teilweisen Feldnamen im Gegensatz zu Aspose.Pdf.Kit funktioniert; Zum Beispiel, wenn das Feld den vollständigen Namen "Form.Subform.TextField" hat, sollten Sie den vollständigen Namen angeben und nicht "TextField". Sie können die Eigenschaft FieldNames verwenden, um vorhandene Feldnamen zu erkunden und das erforderliche Feld nach seinem teilweisen Namen zu suchen.
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
@@ -42,14 +42,14 @@ public bool FillField(string fieldName, string fieldValue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fieldName | String | Der auszufüllende Feldname. |
-| fieldValue | String | Der Wert des Felds, der für einige Felder ein gültiger Wert sein muss. |
+| fieldName | String | Der Name des zu füllenden Feldes. |
+| fieldValue | String | Der Wert des Feldes, der ein gültiger Wert für einige Felder sein muss. |
 
 ### Rückgabewert
 
-wahr, wenn das Feld erfolgreich gefunden und gefüllt wird.
+true, wenn das Feld gefunden und erfolgreich gefüllt wurde.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
@@ -58,7 +58,7 @@ form.FillField("LastName",  "Smith");
 ```
 
 ```csharp
-//Wie man das Feld nach seinem Teilnamen sucht:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -71,15 +71,15 @@ foreach(string fieldName in form.FieldNames)
 
 ### Siehe auch
 
-* class [Form](../../form)
-* namensraum [Aspose.Pdf.Facades](../../form)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, int) {#fillfield_1}
 
-Füllt das Radiobox-Feld mit einem gültigen Indexwert gemäß einem vollqualifizierten Feldnamen. Vor dem Füllen der Felder muss nur der Feldname bekannt sein. Während der Wert durch seinen Index angegeben werden kann. Hinweis: Nur auf Radio Box-, Combo Box- und List Box-Felder anwenden. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und nicht mit unvollständigen -Feldnamen arbeitet im Gegensatz zu Aspose.Pdf.Kit; Wenn das Feld beispielsweise den vollständigen Namen "Form.Subform.ListBoxField" hat, sollten Sie den vollständigen Namen und nicht "ListBoxField" angeben. Sie können die FieldNames-Eigenschaft verwenden, um vorhandene Feldnamen zu durchsuchen und das erforderliche Feld anhand seines Teilnamens zu durchsuchen.
+Füllt das Auswahlfeld mit einem gültigen Indexwert gemäß einem vollqualifizierten Feldnamen. Bevor die Felder gefüllt werden, muss nur der Name des Feldes bekannt sein. Während der Wert durch seinen Index angegeben werden kann. Hinweis: Nur an Radio Box-, Combo Box- und List Box-Feldern anwendbar. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und nicht mit teilweisen Feldnamen im Gegensatz zu Aspose.Pdf.Kit funktioniert; Zum Beispiel, wenn das Feld den vollständigen Namen "Form.Subform.ListBoxField" hat, sollten Sie den vollständigen Namen angeben und nicht "ListBoxField". Sie können die Eigenschaft FieldNames verwenden, um vorhandene Feldnamen zu erkunden und das erforderliche Feld nach seinem teilweisen Namen zu suchen.
 
 ```csharp
 public bool FillField(string fieldName, int index)
@@ -87,14 +87,14 @@ public bool FillField(string fieldName, int index)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fieldName | String | Name des auszufüllenden Feldes. |
-| index | Int32 | Index des ausgewählten Artikels. |
+| fieldName | String | Name des zu füllenden Feldes. |
+| index | Int32 | Index des gewählten Elements. |
 
 ### Rückgabewert
 
-wahr, wenn das Feld gefunden und erfolgreich ausgefüllt wurde.
+true, wenn das Feld gefunden und erfolgreich gefüllt wurde.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
@@ -104,7 +104,7 @@ form.FillField("radiobuttonField", 2);
 ```
 
 ```csharp
-//Wie man das Feld nach seinem Teilnamen sucht:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -117,15 +117,15 @@ foreach(string fieldName in form.FieldNames)
 
 ### Siehe auch
 
-* class [Form](../../form)
-* namensraum [Aspose.Pdf.Facades](../../form)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, bool) {#fillfield}
 
-Füllt das Kontrollkästchenfeld mit einem booleschen Wert. Hinweis: Nur auf Kontrollkästchen anwenden. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und im Gegensatz zu Aspose.Pdf nicht mit teilweisen Feldnamen arbeitet .Kit; Wenn das Feld beispielsweise den vollständigen Namen „Form.Subform.CheckBoxField“ hat, sollten Sie den vollständigen Namen und nicht „CheckBoxField“ angeben. Sie können die FieldNames-Eigenschaft verwenden, um vorhandene Feldnamen zu durchsuchen und das erforderliche Feld anhand seines Teilnamens zu suchen.
+Füllt das Kontrollkästchenfeld mit einem booleschen Wert. Hinweis: Nur an Check Box anwendbar. Bitte beachten Sie, dass Aspose.Pdf.Facades nur vollständige Feldnamen unterstützt und nicht mit teilweisen Feldnamen im Gegensatz zu Aspose.Pdf.Kit funktioniert; Zum Beispiel, wenn das Feld den vollständigen Namen "Form.Subform.CheckBoxField" hat, sollten Sie den vollständigen Namen angeben und nicht "CheckBoxField". Sie können die Eigenschaft FieldNames verwenden, um vorhandene Feldnamen zu erkunden und das erforderliche Feld nach seinem teilweisen Namen zu suchen.
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
@@ -133,14 +133,14 @@ public bool FillField(string fieldName, bool beChecked)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fieldName | String | Der auszufüllende Feldname. |
-| beChecked | Boolean | Ein boolesches Flag: „true“ bedeutet, dass das Kontrollkästchen aktiviert wird, „false“, um es zu deaktivieren. |
+| fieldName | String | Der Name des zu füllenden Feldes. |
+| beChecked | Boolean | Ein boolesches Flag: wahr bedeutet, das Kästchen zu aktivieren, während falsch bedeutet, es zu deaktivieren. |
 
 ### Rückgabewert
 
-wahr, wenn das Feld gefunden und erfolgreich ausgefüllt wurde.
+true, wenn das Feld gefunden und erfolgreich gefüllt wurde.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
@@ -148,7 +148,7 @@ form.FillField("checkboxField", true);
 ```
 
 ```csharp
-//Wie man das Feld nach seinem Teilnamen sucht:
+//how to search field by its partial name:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -161,15 +161,15 @@ foreach(string fieldName in form.FieldNames)
 
 ### Siehe auch
 
-* class [Form](../../form)
-* namensraum [Aspose.Pdf.Facades](../../form)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string[]) {#fillfield_4}
 
-Füllen Sie ein Feld mit Mehrfachauswahl.Hinweis: nur für AcroForm List Box Field.
+Füllt ein Feld mit mehreren Auswahlmöglichkeiten. Hinweis: nur für AcroForm List Box Field.
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)
@@ -177,10 +177,10 @@ public void FillField(string fieldName, string[] fieldValues)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fieldName | String | Der vollständig qualifizierte Feldname. |
+| fieldName | String | Der vollqualifizierte Feldname. |
 | fieldValues | String[] | Ein String-Array, das mehrere auszuwählende Elemente enthält. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form("PdfForm.pdf", "Form_Updated.pdf");
@@ -190,8 +190,32 @@ form.Save();
 
 ### Siehe auch
 
-* class [Form](../../form)
-* namensraum [Aspose.Pdf.Facades](../../form)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+--- 
+
+## FillField(string, string, bool) {#fillfield_3}
+
+Füllt das Feld mit dem angegebenen Wert.
+
+```csharp
+public bool FillField(string fieldName, string value, bool fitFontSize)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| fieldName | String | Name des Feldes |
+| value | String | Neuer Wert des Feldes |
+| fitFontSize | Boolean | Wenn wahr, wird die Schriftgröße in den Eingabefeldern angepasst. |
+
+### Rückgabewert
+
+true, wenn das Feld gefunden und erfolgreich gefüllt wurde.
+
+### Siehe auch
+
+* Klasse [Form](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

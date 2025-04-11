@@ -1,12 +1,12 @@
 ---
-title: Form
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Klasse die das Formularobjekt darstellt.
+title: Class Form
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Forms.Form-Klasse. Klasse, die das Formularobjekt darstellt
 type: docs
-weight: 3020
+weight: 5070
 url: /de/net/aspose.pdf.forms/form/
 ---
-## Form class
+## Formular-Klasse
 
 Klasse, die das Formularobjekt darstellt.
 
@@ -18,59 +18,64 @@ public sealed class Form : ICollection<WidgetAnnotation>
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate) { get; set; } | Wenn gesetzt, werden alle Formularfelder neu berechnet, wenn ein Feld geändert wird. Der Standardwert ist wahr. Auf „false“ setzen, um die Leistung beim Ausfüllen von Formularen mit einer großen Anzahl berechneter Felder zu erhöhen. |
-| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform) { get; set; } | Wenn festgelegt, werden fehlende Formularfelder automatisch erstellt, wenn sie in Anmerkungen vorhanden sind. |
-| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields) { set; } | Ermöglicht das Festlegen der Reihenfolge der Feldberechnung. |
-| [Count](../../aspose.pdf.forms/form/count) { get; } | Ruft die Anzahl der Felder in diesem Formular ab. |
-| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance) { get; set; } | Ruft die Standarddarstellung des Formulars ab oder legt sie fest (Objekt, das die Standardschriftart, -textgröße und -farbe für Felder im Formular beschreibt). |
-| [DefaultResources](../../aspose.pdf.forms/form/defaultresources) { get; } | Ruft Standardressourcen ab, die auf diesem Formular platziert sind. |
-| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups) { get; set; } | Wenn diese Eigenschaft wahr ist, werden zusätzliche rote Begrenzungsrechtecke für erforderliche Xfa exclGroup-Elemente container gezeichnet. Diese Eigenschaft wurde eingeführt, weil Analoga für die exclGroup während der Konvertierung der Xfa-Darstellung von Formularen in Standard. fehlen. Sie ist standardmäßig falsch. |
-| [Fields](../../aspose.pdf.forms/form/fields) { get; } | Ruft eine Liste aller Felder in der untersten Ebene der hierarchischen Form ab. |
-| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering) { get; set; } | Wenn diese Eigenschaft wahr ist, wird der Wert des NeedsRendering-Schlüssels während der Konvertierung des XFA-Formulars in das Standardformular ignoriert. Es ist standardmäßig falsch. |
-| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized) { get; } | Gibt wahr zurück, wenn das Objekt Thread-sicher ist. |
-| [Item](../../aspose.pdf.forms/form/item) { get; } | Ruft das Feld des Formulars nach Feldname ab. Löst eine Ausnahme aus, wenn das Feld nicht gefunden wurde. (2 indexers) |
-| [RemovePermission](../../aspose.pdf.forms/form/removepermission) { get; set; } | Wenn diese Eigenschaft wahr ist, wird das "Perms"-Wörterbuch aus dem PDF-Dokument entfernt, nachdem dynamische Dokumente in Standard umgewandelt wurden. Das „Perms“-Wörterbuch kann Regeln enthalten, die die Anzeige der Auswahl von Pflichtfeldern im Adobe Acrobat Reader stören. Es ist standardmäßig falsch. |
-| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly) { get; set; } | Wenn gesetzt, enthält das Dokument Signaturen, die ungültig werden können, wenn die Datei auf eine Weise gespeichert (geschrieben) wird, die ihren vorherigen Inhalt verändert, im Gegensatz zu einer inkrementellen Aktualisierung. |
-| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist) { get; set; } | Wenn gesetzt, enthält das Dokument mindestens ein Signaturfeld. |
-| [SyncRoot](../../aspose.pdf.forms/form/syncroot) { get; } | Gibt das Synchronisationsobjekt zurück. |
-| [Type](../../aspose.pdf.forms/form/type) { get; set; } | Ruft den Typ des Formulars ab. Mögliche Werte sind: Standard, Statisch, Dynamisch. |
-| [XFA](../../aspose.pdf.forms/form/xfa) { get; } | Ruft XFA-Daten des Formulars ab (falls vorhanden). |
+| [AutoRecalculate](../../aspose.pdf.forms/form/autorecalculate/) { get; set; } | Wenn gesetzt, werden alle Formularfelder neu berechnet, wenn ein Feld geändert wird. Der Standardwert ist true. Setzen Sie es auf false, um die Leistung beim Ausfüllen von Formularen mit einer großen Anzahl von berechneten Feldern zu erhöhen. |
+| [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform/) { get; set; } | Wenn gesetzt, werden fehlende Formularfelder automatisch erstellt, wenn sie in Anmerkungen vorhanden sind. |
+| [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields/) { set; } | Ermöglicht das Festlegen der Reihenfolge der Feldberechnung. |
+| [Count](../../aspose.pdf.forms/form/count/) { get; } | Gibt die Anzahl der Felder in diesem Formular zurück. |
+| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance/) { get; set; } | Ruft das Standardaussehen des Formulars ab oder setzt es (Objekt, das die Standardschriftart, Textgröße und Farbe für die Felder im Formular beschreibt). |
+| [DefaultResources](../../aspose.pdf.forms/form/defaultresources/) { get; } | Ruft die Standardressourcen ab, die auf diesem Formular platziert sind. |
+| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups/) { get; set; } | Wenn diese Eigenschaft true ist, werden zusätzliche rote Randrechtecke für erforderliche Xfa exclGroup-Elementcontainer gezeichnet. Diese Eigenschaft wurde eingeführt, weil es während der Konvertierung von Xfa-Darstellungen von Formularen in den Standard keine Entsprechungen für die exclGroup gab. Sie ist standardmäßig false. |
+| [Fields](../../aspose.pdf.forms/form/fields/) { get; } | Ruft die Liste aller Felder auf der niedrigsten Ebene des hierarchischen Formulars ab. |
+| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering/) { get; set; } | Wenn diese Eigenschaft true ist, wird der Wert des NeedsRendering-Schlüssels während der Konvertierung des XFA-Formulars in das Standardformular ignoriert. Sie ist standardmäßig false. |
+| [IsSynchronized](../../aspose.pdf.forms/form/issynchronized/) { get; } | Gibt true zurück, wenn das Objekt threadsicher ist. |
+| [Item](../../aspose.pdf.forms/form/item/) { get; } | Ruft das Feld des Formulars nach Feldnamen ab. Wirft eine Ausnahme, wenn das Feld nicht gefunden wurde. (2 Indizes) |
+| [RemovePermission](../../aspose.pdf.forms/form/removepermission/) { get; set; } | Wenn diese Eigenschaft true ist, wird das "Perms"-Wörterbuch nach der Konvertierung dynamischer Dokumente in den Standard aus dem PDF-Dokument entfernt. Das "Perms"-Wörterbuch kann Regeln enthalten, die die Anzeige der Auswahl von Pflichtfeldern im Adobe Acrobat Reader stören. Sie ist standardmäßig false. |
+| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly/) { get; set; } | Wenn gesetzt, enthält das Dokument Signaturen, die ungültig werden können, wenn die Datei auf eine Weise gespeichert (geschrieben) wird, die ihren vorherigen Inhalt ändert, im Gegensatz zu einem inkrementellen Update. |
+| [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist/) { get; set; } | Wenn gesetzt, enthält das Dokument mindestens ein Signaturfeld. |
+| [SyncRoot](../../aspose.pdf.forms/form/syncroot/) { get; } | Gibt das Synchronisierungsobjekt zurück. |
+| [Type](../../aspose.pdf.forms/form/type/) { get; set; } | Ruft den Typ des Formulars ab. Mögliche Werte sind: Standard, Statisch, Dynamisch. |
+| [XFA](../../aspose.pdf.forms/form/xfa/) { get; } | Ruft die XFA-Daten des Formulars ab (falls vorhanden). |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Add](../../aspose.pdf.forms/form/add#add_1)(Field) | Fügt dem Formular ein Feld hinzu. |
-| [Add](../../aspose.pdf.forms/form/add#add_2)(Field, int) | Fügt dem Formular ein Feld hinzu. |
-| [Add](../../aspose.pdf.forms/form/add#add)(Field, string, int) | Fügt dem Formular ein neues Feld hinzu; Wenn dieses Feld bereits auf einem anderen oder diesem Formular platziert ist, wird die Kopie des Felds erstellt. |
-| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance)(Field, int, Rectangle) | Fügt der angegebenen Seite des Dokuments an der angegebenen Stelle ein zusätzliches Erscheinungsbild des Felds hinzu. |
-| [AssignXfa](../../aspose.pdf.forms/form/assignxfa)(XmlDocument) | Setzt XFA des Formulars auf den angegebenen Wert. |
-| [CopyTo](../../aspose.pdf.forms/form/copyto)(Field[], int) | Kopiert auf dem Formular platzierte Felder in ein Array. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete)(Field) | Feld aus dem Formular löschen. |
-| [Delete](../../aspose.pdf.forms/form/delete#delete_1)(string) | Löscht das Feld nach seinem Namen aus dem Formular. |
-| [Flatten](../../aspose.pdf.forms/form/flatten)() | Entfernt alle Formularfelder und platziert ihre Werte direkt auf der Seite. |
-| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator)() | Ruft die Aufzählung von Formularfeldern ab. |
-| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect)(Rectangle) | Gibt Felder innerhalb des angegebenen Rechtecks zurück. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | Überprüfen Sie, ob das Formular bereits ein bestimmtes Feld hat. |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | Bestimmt, ob das Feld mit dem angegebenen Namen bereits zum Formular hinzugefügt wurde. |
+| [Add](../../aspose.pdf.forms/form/add/#add_1)(Field) | Fügt ein Feld zum Formular hinzu. |
+| [Add](../../aspose.pdf.forms/form/add/#add_2)(Field, int) | Fügt ein Feld zum Formular hinzu. |
+| [Add](../../aspose.pdf.forms/form/add/#add)(Field, string, int) | Fügt ein neues Feld zum Formular hinzu; Wenn dieses Feld bereits auf einem anderen oder diesem Formular platziert ist, wird eine Kopie des Feldes erstellt. |
+| [AddFieldAppearance](../../aspose.pdf.forms/form/addfieldappearance/)(Field, int, Rectangle) | Fügt das zusätzliche Aussehen des Feldes zur angegebenen Seite des Dokuments an der angegebenen Stelle hinzu. |
+| [AssignXfa](../../aspose.pdf.forms/form/assignxfa/)(XmlDocument) | Setzt das XFA des Formulars auf den angegebenen Wert. |
+| [CopyTo](../../aspose.pdf.forms/form/copyto/)(Field[], int) | Kopiert die auf dem Formular platzierten Felder in ein Array. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete)(Field) | Löscht ein Feld aus dem Formular. |
+| [Delete](../../aspose.pdf.forms/form/delete/#delete_1)(string) | Löscht ein Feld aus dem Formular nach seinem Namen. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson)(Stream, ExportFieldsToJsonOptions) | Exportiert die PDF-Formularfelder in das JSON-Format und schreibt das Ergebnis in den bereitgestellten Stream. |
+| [ExportToJson](../../aspose.pdf.forms/form/exporttojson/#exporttojson_1)(string, ExportFieldsToJsonOptions) | Exportiert die PDF-Formularfelder in das JSON-Format und schreibt das Ergebnis in die angegebene Datei. |
+| [Flatten](../../aspose.pdf.forms/form/flatten/)() | Entfernt alle Formularfelder und platziert deren Werte direkt auf der Seite. |
+| [GetEnumerator](../../aspose.pdf.forms/form/getenumerator/)() | Ruft die Enumeration der Formularfelder ab. |
+| [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect/)(Rectangle) | Gibt die Felder innerhalb des angegebenen Rechtecks zurück. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield)(Field) | Überprüft, ob das Formular bereits das angegebene Feld hat. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_1)(string) | Bestimmt, ob das Feld mit dem angegebenen Namen bereits zum Formular hinzugefügt wurde. |
+| [HasField](../../aspose.pdf.forms/form/hasfield/#hasfield_2)(string, bool) | Bestimmt, ob das Feld mit dem angegebenen Namen bereits zum Formular hinzugefügt wurde, mit der Möglichkeit, in die Kinderhierarchie der Felder zu schauen. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson)(Stream) | Importiert die PDF-Formularfelder aus dem im Stream bereitgestellten JSON-Format. |
+| [ImportFromJson](../../aspose.pdf.forms/form/importfromjson/#importfromjson_1)(string) | Importiert die PDF-Formularfelder aus dem im angegebenen Datei bereitgestellten JSON-Format. |
+| [MakeFormAnnotationsIndependent](../../aspose.pdf.forms/form/makeformannotationsindependent/)(Page) | Macht die Anmerkungen der Formularfelder unabhängig. |
+| [RemoveFieldAppearance](../../aspose.pdf.forms/form/removefieldappearance/)(Field, int) | Entfernt das Aussehen des Feldes am angegebenen Index. Wenn nur ein Kind-Aussehen übrig bleibt, bettet die Methode es in das Feld ein. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted) | Formulare können Signaturinformationen enthalten, dh können signiert oder unsigniert sein. Und die Formularansicht muss manchmal davon abhängen, ob das Formular signiert ist oder nicht. Diese Eigenschaft teilt dem Konverter des Formulars mit (zB während der Konvertierung des XFA-Formulars in das Standardformular) , ob das Ergebnisformular vorliegt muss als signiert oder als unsigniert gerendert werden. |
+| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted/) | Formulare können Signaturinformationen enthalten, d.h. sie können signiert oder unsigniert sein. Und die Ansicht des Formulars muss manchmal davon abhängen, ob das Formular signiert ist oder nicht. Diese Eigenschaft sagt dem Konverter des Formulars (z.B. während der Konvertierung des XFA-Formulars in das Standardformular), ob das resultierende Formular als signiert oder unsigniert gerendert werden muss. |
 
 ## Andere Mitglieder
 
 | Name | Beschreibung |
 | --- | --- |
-| class [FlattenSettings](form.flattensettings) | Klasse, die Einstellungen für die Form-Flattening-Prozedur beschreibt. |
-| enum [SignDependentElementsRenderingModes](form.signdependentelementsrenderingmodes) | Formulare können Signaturinformationen enthalten und können signiert oder unsigniert sein. Manchmal muss die Ansicht von Formularen im Viewer davon abhängen, ob das Formular signiert ist oder nicht. Diese Aufzählung listet mögliche Darstellungsmodi während der Konvertierung des Formulartyps in Bezug auf das Signieren auf. |
+| class [FlattenSettings](../../aspose.pdf.forms/form.flattensettings) | Klasse, die die Einstellungen für das Verfahren zum Flatten von Formularen beschreibt. |
+| enum [SignDependentElementsRenderingModes](../../aspose.pdf.forms/form.signdependentelementsrenderingmodes) | Formulare können Signaturinformationen enthalten und können signiert oder unsigniert sein. Manchmal muss die Ansicht von Formularen im Viewer davon abhängen, ob das Formular signiert ist oder nicht. Dieses Enum enumeriert mögliche Render-Modi während der Konvertierung des Formular-Typs in Bezug auf die Signatur. |
 
 ### Siehe auch
 
-* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation)
-* namensraum [Aspose.Pdf.Forms](../../aspose.pdf.forms)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)

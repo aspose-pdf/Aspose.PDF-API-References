@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar ett absorberande objekt av en text. Utför textextraktion och ger tillgång till resultatet viaText./textabsorber/text objekt.
+title: Class TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextAbsorber klass. Representerar ett absorberobjekt av text. Utför textutvinning och ger åtkomst till resultatet via Text-objektet
 type: docs
-weight: 6960
+weight: 10800
 url: /sv/net/aspose.pdf.text/textabsorber/
 ---
-## TextAbsorber class
+## TextAbsorber klass
 
-Representerar ett absorberande objekt av en text. Utför textextraktion och ger tillgång till resultatet via[`Text`](./text) objekt.
+Representerar ett absorberobjekt av text. Utför textutvinning och ger åtkomst till resultatet via [`Text`](./text/) objekt.
 
 ```csharp
 public class TextAbsorber
@@ -16,57 +16,55 @@ public class TextAbsorber
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | Initierar en ny instans av[`TextAbsorber`](../textabsorber) . |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Initierar en ny instans av[`TextAbsorber`](../textabsorber) med extraktionsalternativ. |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Initierar en ny instans av[`TextAbsorber`](../textabsorber) med textsökningsalternativ. |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Initierar en ny instans av[`TextAbsorber`](../textabsorber) med alternativ för extraktion och textsökning. |
+| [TextAbsorber](textabsorber/#constructor)() | Initierar en ny instans av `TextAbsorber`. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | Initierar en ny instans av `TextAbsorber` med utvinningsalternativ. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | Initierar en ny instans av `TextAbsorber` med text sökalternativ. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | Initierar en ny instans av `TextAbsorber` med utvinnings- och text sökalternativ. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Lista över[`TextExtractionError`](../textextractionerror) objekt. Den innehåller information om fel som hittades under textextraktion. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors = true; Och det kan minska prestandan. |
-| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | Hämtar eller ställer in alternativ för textextraktion. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Värde anger om fel hittades under textextrahering. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors = true; Och det kan minska prestandan. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | Får extraherad text som[`TextAbsorber`](../textabsorber) utdrag på PDF-dokumentet eller sidan. |
-| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | Hämtar eller ställer in alternativ för textsökning. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Lista över [`TextExtractionError`](../textextractionerror/) objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestanda. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Hämtar eller ställer in textutvinningsalternativ. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Värdet indikerar om fel hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestanda. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Hämtar den utvunna text som `TextAbsorber` extraherar från PDF-dokumentet eller sidan. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Hämtar eller ställer in text sökalternativ. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit)(Document) | Extraherar text på det angivna dokumentet |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_1)(Page) | Extraherar text på den angivna sidan |
-| virtual [Visit](../../aspose.pdf.text/textabsorber/visit#visit_2)(XForm) | Extraherar text på den angivna XForm. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Document) | Extraherar text på det angivna dokumentet |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(Page) | Extraherar text på den angivna sidan |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(XForm) | Extraherar text på den angivna XForm. |
 
-### Anmärkningar
+## Kommentarer
 
-Den[`TextAbsorber`](../textabsorber) objekt används för att extrahera text från ett pdf-dokument eller dokumentets sida.
+`TextAbsorber` objektet används för att extrahera text från ett Pdf-dokument eller dokumentets sida.
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man extraherar text på den första PDF-dokumentsidan.
+Exemplet visar hur man extraherar text på den första sidan av PDF-dokumentet.
 
 ```csharp
-// öppna dokument
+// open document
 Document doc = new Document(inFile);
 
-// skapa TextAbsorber-objekt för att extrahera text
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// acceptera absorbenten för första sidan
+// accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// få den extraherade texten
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters
-second_title: Aspose.PDF för .NET API Referens
-description: Klass för att ange parametrar för sidstorleksändring. Tillåt att ställa in följande parametrar Storlek på resultatsida bredd höjd i standardutrymmesenheter eller i procent av initial sidstorlek Vänster- topp- botten- och högermarginaler i standardutrymmesenheter eller i procent av den ursprungliga sidstorleken Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidstorleken efter beräkning explicit angivna värden. Till exempel om sidbredd  100 och ny sidbredd specificeras 60 enheter så beräknas vänster och höger marginaler automatiskt 100 - . 2  15. Denna klass används i metoden ResizeContents.
+title: Class PdfFileEditor.ContentsResizeParameters
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters klass. Klass för att specificera sidominskningsparametrar. Möjliggör att ställa in följande parametrar: Storlek på resulterande sida (bredd, höjd) i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vänster, Topp, Botten och Höger marginaler i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidans storlek efter att de explicit angivna värdena har beräknats. Till exempel: om sidans bredd = 100 och ny sidbredd anges till 60 enheter, då beräknas vänster och höger marginaler automatiskt: (100 - 60) / 2 = 15. Denna klass används i ResizeContents-metoden.
 type: docs
-weight: 2490
+weight: 4480
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
-## PdfFileEditor.ContentsResizeParameters class
+## PdfFileEditor.ContentsResizeParameters klass
 
-Klass för att ange parametrar för sidstorleksändring. Tillåt att ställa in följande parametrar: Storlek på resultatsida (bredd, höjd) i standardutrymmesenheter eller i procent av initial sidstorlek; Vänster-, topp-, botten- och högermarginaler i standardutrymmesenheter eller i procent av den ursprungliga sidstorleken; Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidstorleken efter beräkning explicit angivna värden. Till exempel: om sidbredd = 100 och ny sidbredd specificeras 60 enheter så beräknas vänster och höger marginaler automatiskt: (100) - . 2 = 15. Denna klass används i metoden ResizeContents.
+Klass för att specificera sidominskningsparametrar. Möjliggör att ställa in följande parametrar: Storlek på resulterande sida (bredd, höjd) i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vänster, Topp, Botten och Höger marginaler i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidans storlek efter att de explicit angivna värdena har beräknats. Till exempel: om sidans bredd = 100 och ny sidbredd anges till 60 enheter, då beräknas vänster och höger marginaler automatiskt: (100 - 60) / 2 = 15. Denna klass används i ResizeContents-metoden.
 
 ```csharp
 public class ContentsResizeParameters
@@ -16,37 +16,35 @@ public class ContentsResizeParameters
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ContentsResizeParameters](contentsresizeparameters#constructor)() | Skapar storleksändringsparametrar där alla värden är inställda på "auto". Senare marginaler och innehållsstorlek kan anges vid behov. |
-| [ContentsResizeParameters](contentsresizeparameters#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Skapar storleksändringsparametrar med specificerade marginalvärden och innehållsstorlek. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Skapar minskningsparametrar där alla värden är inställda på "auto". Senare kan marginaler och innehållsstorlek specificeras om det behövs. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Skapar minskningsparametrar med specificerade marginalvärden och innehållsstorlek. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BottomMargin](../../aspose.pdf.facades/contentsresizeparameters/bottommargin) { get; set; } | Hämtar eller ställer in bottenmarginalen på den resulterande sidan. |
-| [ContentsHeight](../../aspose.pdf.facades/contentsresizeparameters/contentsheight) { get; set; } | Hämtar eller ställer in höjden på innehållet på källsidan på den resulterande sidan. |
-| [ContentsWidth](../../aspose.pdf.facades/contentsresizeparameters/contentswidth) { get; set; } | Hämtar eller ställer in bredden på innehållet på källsidan på den resulterande sidan. |
-| [LeftMargin](../../aspose.pdf.facades/contentsresizeparameters/leftmargin) { get; set; } | Hämtar eller ställer in vänstermarginal på den resulterande sidan. |
-| [RightMargin](../../aspose.pdf.facades/contentsresizeparameters/rightmargin) { get; set; } | Hämtar eller ställer in högermarginalen på den resulterande sidan. |
-| [TopMargin](../../aspose.pdf.facades/contentsresizeparameters/topmargin) { get; set; } | Får eller sätter toppmarginalen på den resulterande sidan. |
+| [BottomMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin) { get; set; } | Hämtar eller ställer in bottenmarginalen på den resulterande sidan. |
+| [ContentsHeight](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight) { get; set; } | Hämtar eller ställer in höjden på innehållet på källsidan på den resulterande sidan. |
+| [ContentsWidth](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth) { get; set; } | Hämtar eller ställer in bredden på innehållet på källsidan på den resulterande sidan. |
+| [LeftMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin) { get; set; } | Hämtar eller ställer in vänstermarginalen på den resulterande sidan. |
+| [RightMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin) { get; set; } | Hämtar eller ställer in högermarginalen på den resulterande sidan. |
+| [TopMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin) { get; set; } | Hämtar eller ställer in toppmarginalen på den resulterande sidan. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ContentSize](../../aspose.pdf.facades/contentsresizeparameters/contentsize)(double, double) | Skapar storleksändringsparametrar med angiven innehållsstorlek. |
-| static [ContentSizePercent](../../aspose.pdf.facades/contentsresizeparameters/contentsizepercent)(double, double) | Skapar parametrar för att ändra storlek med angiven innehållsstorlek i procent av den ursprungliga sidstorleken. Marginaler beräknas automatiskt. |
-| static [Margins](../../aspose.pdf.facades/contentsresizeparameters/margins)(double, double, double, double) | Skapar storleksändringsparametrar med specificerat marginalvärde. Innehållsstorleken beräknas automatiskt. |
-| static [MarginsPercent](../../aspose.pdf.facades/contentsresizeparameters/marginspercent)(double, double, double, double) | Skapar parametrar för storleksändring. Marginaler anges i procent av den ursprungliga sidstorleken. |
-| static [PageResize](../../aspose.pdf.facades/contentsresizeparameters/pageresize)(double, double) | Skapar storleksändringsparametrar för sidstorlek. |
-| static [PageResizePct](../../aspose.pdf.facades/contentsresizeparameters/pageresizepct)(double, double) | Skapar storleksändringsparametrar för sidstorlek. Nya storlekar anges i procent. |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Skapar minskningsparametrar med specificerad innehållsstorlek. |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Skapar minskningsparametrar med specificerad innehållsstorlek i procent av den ursprungliga sidans storlek. Marginaler beräknas automatiskt. |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Skapar minskningsparametrar med specificerade marginalvärden. Innehållsstorleken beräknas automatiskt. |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Skapar minskningsparametrar. Marginaler anges i procent av den ursprungliga sidans storlek. |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Skapar minskningsparametrar för sidominskning. |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Skapar minskningsparametrar för sidominskning. Nya storlekar anges i procent. |
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileEditor](../pdffileeditor/)
+* namnrum [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../)

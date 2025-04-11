@@ -1,175 +1,173 @@
 ---
-title: HideAction
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırHideActionaspose.pdf.annotations/hideaction belirtilen ek açıklama için sınıf.
+title: HideAction.HideAction
+second_title: Aspose.PDF for .NET API Reference
+description: HideAction yapıcısı. Belirtilen anotasyon için HideAction sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen ek açıklama için sınıf.
+Belirtilen anotasyon için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(Annotation annotation)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotation | Annotation | Gizlenecek bir açıklama. |
+| annotation | Annotation | Gizlenecek bir anotasyon. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Annotation](../../annotation/)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen açıklama ve görünmezlik bayrağı için sınıf.
+Belirtilen anotasyon ve görünmezlik bayrağı için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotation | Annotation | Gizlenecek veya gösterilecek bir açıklama. |
-| isHidden | Boolean | Ek açıklamanın gizlenip gizlenmeyeceğini (doğru) veya gösterileceğini (yanlış) belirten bir bayrak. |
+| annotation | Annotation | Gizlenecek veya gösterilecek bir anotasyon. |
+| isHidden | Boolean | Anotasyonu gizlemek için (true) veya göstermek için (false) bir bayrak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Annotation](../../annotation/)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string) {#constructor_4}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen alan adı için sınıf.
+Belirtilen alan adı için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(string fieldName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Etkileşimli bir form alanının tam nitelikli alan adını veren bir metin dizesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string, bool) {#constructor_5}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction)belirtilen alan adı ve görünmezlik bayrağı için sınıf.
+Belirtilen alan adı ve görünmezlik bayrağı için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fieldName | String | Etkileşimli bir form alanının tam nitelikli alan adını veren bir metin dizesi. |
-| isHidden | Boolean | Alanın gizleneceğini (doğru) veya gösterileceğini (yanlış) belirten bir bayrak. |
+| isHidden | Boolean | Alanı gizlemek için (true) veya göstermek için (false) bir bayrak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen ek açıklamalar için sınıf.
+Belirtilen anotasyonlar için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(Annotation[] annotations)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotations | Annotation[] | Gizlenecek bir dizi ek açıklama. |
+| annotations | Annotation[] | Gizlenecek bir anotasyonlar dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Annotation](../../annotation/)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen ek açıklamalar ve görünmezlik bayrağı için sınıf.
+Belirtilen anotasyonlar ve görünmezlik bayrağı için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| annotations | Annotation[] | Gizlenecek veya gösterilecek bir dizi ek açıklama. |
-| isHidden | Boolean | Ek açıklamaların gizlenip gizlenmeyeceğini (doğru) veya gösterileceğini (yanlış) belirten bir bayrak. |
+| annotations | Annotation[] | Gizlenecek veya gösterilecek bir anotasyonlar dizisi. |
+| isHidden | Boolean | Anotasyonları gizlemek için (true) veya göstermek için (false) bir bayrak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Annotation](../../annotation/)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[]) {#constructor_6}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen alan adları için sınıf.
+Belirtilen alan adları için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(string[] names)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| names | String[] | Etkileşimli form alanlarının tam nitelikli alan adlarını veren bir dizi dizi. |
+| names | String[] | Etkileşimli form alanlarının tam nitelikli alan adlarını veren bir dize dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[], bool) {#constructor_7}
 
-Yeni bir örneğini başlatır[`HideAction`](../../hideaction) belirtilen alan adları ve görünmezlik bayrağı için sınıf.
+Belirtilen alan adları ve görünmezlik bayrağı için [`HideAction`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| names | String[] | Etkileşimli form alanlarının tam nitelikli alan adlarını veren bir dizi dizi. |
-| isHidden | Boolean | Alanları gizlemeyi (doğru) veya göstermeyi (yanlış) belirten bir bayrak. |
+| names | String[] | Etkileşimli form alanlarının tam nitelikli alan adlarını veren bir dize dizisi. |
+| isHidden | Boolean | Alanları gizlemek için (true) veya göstermek için (false) bir bayrak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HideAction](../../hideaction)
-* ad alanı [Aspose.Pdf.Annotations](../../hideaction)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [HideAction](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)

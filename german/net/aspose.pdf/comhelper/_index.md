@@ -1,46 +1,44 @@
 ---
-title: ComHelper
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Bietet Methoden für COM-Clients zum Laden eines Dokuments in Aspose.Pdf.
+title: Class ComHelper
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.ComHelper-Klasse. Bietet Methoden für COM-Clients, um ein Dokument in Aspose.Pdf zu laden
 type: docs
-weight: 1540
+weight: 3130
 url: /de/net/aspose.pdf/comhelper/
 ---
-## ComHelper class
+## ComHelper-Klasse
 
-Bietet Methoden für COM-Clients zum Laden eines Dokuments in Aspose.Pdf.
+Bietet Methoden für COM-Clients, um ein Dokument in Aspose.Pdf zu laden.
 
 ```csharp
 public class ComHelper
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ComHelper](comhelper)() | Default_Constructor |
+| [ComHelper](comhelper/)() | Der Standardkonstruktor. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile)(string) | Einfach Dokument erstellen und zurücksenden mit*filename* . Das Gleiche wie[`Document`](../document/document) . |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_1)(string, LoadOptions) | Öffnen Sie ein vorhandenes Dokument aus einer Datei, die die erforderlichen Konvertierungsoptionen bereitstellt, um ein PDF-Dokument zu erhalten. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_2)(string, string) | Initialisieren und neue Instanz von zurückgeben[`Document`](../document) Klasse zum Arbeiten mit verschlüsselten Dokumenten. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_3)(string, string, bool) | Neue Instanz von initialisieren[`Document`](../document) Klasse zum Arbeiten mit verschlüsselten Dokumenten. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream)(Stream) | Initialisieren und neue Dokumentinstanz aus der zurückgeben*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_2)(Stream, bool) | Initialisieren und neue Dokumentinstanz aus der zurückgeben*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_1)(Stream, LoadOptions) | Öffnen Sie ein vorhandenes Dokument und geben Sie es aus einem Stream zurück, um die erforderliche Konvertierung bereitzustellen, um ein PDF-Dokument zu erhalten. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_3)(Stream, string) | Initialisieren und neue Dokumentinstanz aus der zurückgeben*input* stream. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_4)(Stream, string, bool) | Initialisieren und neue Dokumentinstanz aus der zurückgeben*input* stream. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile)(string) | Erstellt und gibt das Dokument mit *Dateiname* zurück. Dasselbe wie [`Document`](../document/document/). |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_1)(string, LoadOptions) | Öffnet ein vorhandenes Dokument aus einer Datei und bietet die notwendigen Konvertierungsoptionen, um ein PDF-Dokument zu erhalten. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_2)(string, string) | Initialisiert und gibt eine neue Instanz der [`Document`](../document/) Klasse für die Arbeit mit einem verschlüsselten Dokument zurück. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile/#openfile_3)(string, string, bool) | Initialisiert eine neue Instanz der [`Document`](../document/) Klasse für die Arbeit mit einem verschlüsselten Dokument. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream)(Stream) | Initialisiert und gibt eine neue Dokumentinstanz aus dem *Eingabe*-Stream zurück. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_2)(Stream, bool) | Initialisiert und gibt eine neue Dokumentinstanz aus dem *Eingabe*-Stream zurück. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_1)(Stream, LoadOptions) | Öffnet und gibt ein vorhandenes Dokument aus einem Stream zurück, wobei die notwendigen Konvertierungen durchgeführt werden, um ein PDF-Dokument zu erhalten. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_3)(Stream, string) | Initialisiert und gibt eine neue Dokumentinstanz aus dem *Eingabe*-Stream zurück. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream/#openstream_4)(Stream, string, bool) | Initialisiert und gibt eine neue Dokumentinstanz aus dem *Eingabe*-Stream zurück. |
 
-### Bemerkungen
+## Bemerkungen
 
-Verwenden Sie die ComHelper-Klasse, um ein Dokument aus einer Datei oder einem Stream in ein Document-Objekt in einer COM-Anwendung zu laden. Die Document-Klasse bietet einen Standardkonstruktor zum Erstellen eines neuen Dokuments und stellt außerdem überladene Konstruktoren bereit, um ein Dokument aus einer Datei oder einem Stream zu laden . Wenn Sie Aspose.Words aus einer .NET-Anwendung verwenden, können Sie alle Document-Konstruktoren direkt verwenden, aber wenn Sie Aspose.Pdf aus einer COM-Anwendung verwenden, ist nur der Standard-Document-Konstruktor verfügbar.
+Verwenden Sie die ComHelper-Klasse, um ein Dokument aus einer Datei oder einem Stream in ein Dokumentobjekt in einer COM-Anwendung zu laden. Die Dokumentklasse bietet einen Standardkonstruktor, um ein neues Dokument zu erstellen, und bietet auch überladene Konstruktoren, um ein Dokument aus einer Datei oder einem Stream zu laden. Wenn Sie Aspose.Words aus einer .NET-Anwendung verwenden, können Sie alle Dokumentkonstruktoren direkt verwenden, aber wenn Sie Aspose.Pdf aus einer COM-Anwendung verwenden, ist nur der Standardkonstruktor für Dokumente verfügbar.
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf](../../aspose.pdf)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Namespace [Aspose.Pdf](../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../)

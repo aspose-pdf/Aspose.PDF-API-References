@@ -1,128 +1,126 @@
 ---
-title: PngDevice
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inicializa una nueva instancia delPngDeviceaspose.pdf.devices/pngdevice clase con resolución por defecto.
+title: PngDevice.PngDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Constructor de PngDevice. Inicializa una nueva instancia de la clase PngDevice con resolución predeterminada
 type: docs
 weight: 10
 url: /es/net/aspose.pdf.devices/pngdevice/pngdevice/
 ---
 ## PngDevice() {#constructor}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice) clase con resolución por defecto.
+Inicializa una nueva instancia de la clase [`PngDevice`](../) con resolución predeterminada.
 
 ```csharp
 public PngDevice()
 ```
 
-### Ver también
+### Ver También
 
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(Resolution) {#constructor_1}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice) clase.  Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase.
+Inicializa una nueva instancia de la clase [`PngDevice`](../). Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/).
 
 ```csharp
 public PngDevice(Resolution resolution)
 ```
 
-### Ver también
+### Ver También
 
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [Resolution](../../resolution/)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice) clase con dimensiones de imagen proporcionadas y resolución.
+Inicializa una nueva instancia de la clase [`PngDevice`](../) con las dimensiones de imagen y resolución proporcionadas.
 
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | width | Int32 | Ancho de salida de la imagen. |
-| height | Int32 | Altura de salida de la imagen. |
-| resolution | Resolution | Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase. |
+| height | Int32 | Alto de salida de la imagen. |
+| resolution | Resolution | Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/). |
 
-### Ver también
+### Ver También
 
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [Resolution](../../resolution/)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice)clase con tamaño de página proporcionado y resolución.
+Inicializa una nueva instancia de la clase [`PngDevice`](../) con el tamaño de página y la resolución proporcionados.
 
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pageSize | PageSize | Tamaño de página de la imagen de salida. |
-| resolution | Resolution | Resolución para el archivo de imagen de resultado, consulte[`Resolution`](../../resolution) clase. |
+| resolution | Resolution | Resolución para el archivo de imagen resultante, ver clase [`Resolution`](../../resolution/). |
 
-### Ver también
+### Ver También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [Resolution](../../resolution/)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(int, int) {#constructor_4}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice) clase con dimensiones de imagen proporcionadas, resolución predeterminada (=150).
+Inicializa una nueva instancia de la clase [`PngDevice`](../) con las dimensiones de imagen proporcionadas, resolución predeterminada (=150).
 
 ```csharp
 public PngDevice(int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | width | Int32 | Ancho de salida de la imagen. |
-| height | Int32 | Altura de salida de la imagen. |
+| height | Int32 | Alto de salida de la imagen. |
 
-### Ver también
+### Ver También
 
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)
 
 ---
 
 ## PngDevice(PageSize) {#constructor_2}
 
-Inicializa una nueva instancia del[`PngDevice`](../../pngdevice) clase con tamaño de página proporcionado, resolución predeterminada (=150).
+Inicializa una nueva instancia de la clase [`PngDevice`](../) con el tamaño de página proporcionado, resolución predeterminada (=150).
 
 ```csharp
 public PngDevice(PageSize pageSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pageSize | PageSize | Tamaño de página de la imagen de salida. |
 
-### Ver también
+### Ver También
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PngDevice](../../pngdevice)
-* espacio de nombres [Aspose.Pdf.Devices](../../pngdevice)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PageSize](../../../aspose.pdf/pagesize/)
+* clase [PngDevice](../)
+* espacio de nombres [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* ensamblaje [Aspose.PDF](../../../)

@@ -1,9 +1,9 @@
 ---
-title: AddHeader
-second_title: Aspose.PDF для справочника API .NET
-description: Добавляет заголовок на страницу.
+title: PdfFileStamp.AddHeader
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileStamp. Добавляет заголовок на страницу
 type: docs
-weight: 160
+weight: 120
 url: /ru/net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}
@@ -17,9 +17,9 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Текст для заголовка и свойства текста. |
-| topMargin | Single | Поля вверху страницы. |
+| topMargin | Single | Поля сверху страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -27,18 +27,18 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [FormattedText](../../formattedtext/)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(FormattedText, float, float, float) {#addheader_1}
 
-Добавляет заголовок к страницам файла.
+Добавляет заголовок на страницы файла.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
@@ -47,30 +47,30 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Форматированный текстовый объект, который содержит текст страницы и его свойства. |
-| topMargin | Single | Поля вверху страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| formattedText | FormattedText | Объект форматированного текста, который содержит текст страницы и его свойства. |
+| topMargin | Single | Поля сверху страницы. |
+| leftMargin | Single | Поля слева страницы. |
+| rightMargin | Single | Поля справа страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [FormattedText](../../formattedtext/)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(string, float) {#addheader_4}
 
-Добавляет изображение в качестве заголовка к страницам файла.
+Добавляет изображение в качестве заголовка на страницы файла.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin)
@@ -79,9 +79,9 @@ public void AddHeader(string imageFile, float topMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageFile | String | Путь к файлу изображения. |
-| topMargin | Single | Поле вверху страницы. |
+| topMargin | Single | Поля сверху страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -90,17 +90,17 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Добавляет изображение в качестве заголовка на страницы.
+Добавляет изображение в качестве заголовка на страницах.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
@@ -109,11 +109,11 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageFile | String | Путь к файлу изображения. |
-| topMargin | Single | Поле вверху страницы. |
-| leftMargin | Single | Поля в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| topMargin | Single | Поля сверху страницы. |
+| leftMargin | Single | Поля слева страницы. |
+| rightMargin | Single | Поля справа страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -122,17 +122,17 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Добавляет изображение в качестве заголовка на страницы.
+Добавляет изображение в качестве заголовка на страницах.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
@@ -141,9 +141,9 @@ public void AddHeader(Stream imageStream, float topMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток изображения. |
-| topMargin | Single | Поле вверху страницы. |
+| topMargin | Single | Поля сверху страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -152,17 +152,17 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float, float, float) {#addheader_3}
 
-Добавляет изображение вверху страницы.
+Добавляет изображение в верхней части страницы.
 
 ```csharp
 public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
@@ -171,11 +171,11 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток, содержащий данные изображения. |
-| topMargin | Single | Поле вверху страницы. |
-| leftMargin | Single | Поля в левой части страницы. |
-| rightMargin | Single | Поля в правой части страницы. |
+| topMargin | Single | Поля сверху страницы. |
+| leftMargin | Single | Поля слева страницы. |
+| rightMargin | Single | Поля справа страницы. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -184,10 +184,8 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfFileStamp](../../pdffilestamp)
-* пространство имен [Aspose.Pdf.Facades](../../pdffilestamp)
+* класс [PdfFileStamp](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

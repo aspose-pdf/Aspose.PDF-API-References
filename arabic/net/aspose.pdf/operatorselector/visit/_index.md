@@ -1,1561 +1,1559 @@
 ---
-title: Visit
-second_title: Aspose.PDF لمرجع .NET API
-description: زيارة / تحديد عامل التشغيل .
+title: OperatorSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة OperatorSelector. زيارة/تحديد مشغل j
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-زيارة / تحديد عامل التشغيل .
+زيارة/تحديد مشغل j.
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| j | SetLineJoin | تعيين عامل نمط الانضمام إلى الخط . |
+| j | SetLineJoin | تعيين نمط انضمام الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EX) {#visit_23}
 
-زيارة / تحديد عامل تشغيل EX .
+زيارة/تحديد مشغل EX.
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| EX | EX | مشغل قسم التوافق النهائي . |
+| EX | EX | مشغل نهاية قسم التوافق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EX](../../../aspose.pdf.operators/ex)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ET) {#visit_22}
 
-زيارة / تحديد عامل تشغيل ET .
+زيارة/تحديد مشغل ET.
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| ET | ET | عامل تشغيل كائن النص النهائي . |
+| ET | ET | مشغل نهاية كائن النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ET](../../../aspose.pdf.operators/et)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ET](../../../aspose.pdf.operators/et/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EMC) {#visit_17}
 
-قم بزيارة / تحديد عامل تشغيل EMC .
+زيارة/تحديد مشغل EMC.
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| EMC | EMC | نهاية عامل تسلسل المحتوى المحدد . |
+| EMC | EMC | مشغل نهاية تسلسل المحتوى المميز. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EMC](../../../aspose.pdf.operators/emc)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EI) {#visit_16}
 
-قم بزيارة / تحديد عامل تشغيل EI .
+زيارة/تحديد مشغل EI.
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| EI | EI | نهاية عامل تشغيل كائن الصورة المضمنة . |
+| EI | EI | مشغل نهاية كائن الصورة المضمنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EI](../../../aspose.pdf.operators/ei)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(DP) {#visit_15}
 
-قم بزيارة / تحديد مشغل DP .
+زيارة/تحديد مشغل DP.
 
 ```csharp
 public void Visit(DP DP)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| DP | DP | تحديد عامل نقطة المحتوى المحدد (مع قائمة الخصائص) . |
+| DP | DP | تعريف مشغل نقطة المحتوى المميز (مع قائمة الخصائص). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [DP](../../../aspose.pdf.operators/dp)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Do) {#visit_14}
 
-قم بزيارة / حدد عمل عامل التشغيل .
+زيارة/تحديد مشغل Do.
 
 ```csharp
 public void Visit(Do Do)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Do | Do | استدعاء عامل XObject المسمى . |
+| Do | Do | استدعاء مشغل XObject المسماة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Do](../../../aspose.pdf.operators/do)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [Do](../../../aspose.pdf.operators/do/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-قم بزيارة / حدد مشغل d1 .
+زيارة/تحديد مشغل d1.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | تعيين عرض الصورة الرمزية والمربع المحيط في عامل تشغيل الخط من النوع 3. |
+| d1 | SetCharWidthBoundingBox | تعيين عرض الجليف وصندوق الحدود في مشغل الخط من النوع 3. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidth) {#visit_43}
 
-زيارة / تحديد عامل تشغيل d0 .
+زيارة/تحديد مشغل d0.
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| d0 | SetCharWidth | اضبط عرض الصورة الرمزية في عامل تشغيل الخط من النوع 3. |
+| d0 | SetCharWidth | تعيين عرض الجليف في مشغل الخط من النوع 3. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-زيارة / تحديد عامل d .
+زيارة/تحديد مشغل d.
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| d | SetDash | تعيين عامل تشغيل نمط شرطة الخط . |
+| d | SetDash | تعيين نمط خط التقطيع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetDash](../../../aspose.pdf.operators/setdash)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-قم بزيارة / تحديد عامل تشغيل CS .
+زيارة/تحديد مشغل CS.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | تعيين عامل مساحة اللون (لعمليات التمسيد) . |
+| CS | SetColorSpaceStroke | تعيين مشغل مساحة اللون (لعمليات التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpace) {#visit_49}
 
-زيارة / تحديد عامل cs .
+زيارة/تحديد مشغل cs.
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| cs | SetColorSpace | تعيين عامل مساحة اللون (للعمليات غير الممسحة). |
+| cs | SetColorSpace | تعيين مشغل مساحة اللون (لعمليات غير التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-زيارة / تحديد عامل تشغيل سم .
+زيارة/تحديد مشغل cm.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | المصفوفة المتسلسلة لمشغل مصفوفة التحويل الحالي. |
+| cm | ConcatenateMatrix | دمج المصفوفة مع مصفوفة التحويل الحالية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo) {#visit_11}
 
-زيارة / تحديد عامل c .
+زيارة/تحديد مشغل c.
 
 ```csharp
 public void Visit(CurveTo c)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| c | CurveTo | إلحاق مقطع منحني بعامل المسار (ثلاث نقاط تحكم) . |
+| c | CurveTo | إضافة جزء منحني إلى مسار (ثلاث نقاط تحكم). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CurveTo](../../../aspose.pdf.operators/curveto)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BX) {#visit_4}
 
-قم بزيارة / حدد عامل تشغيل BX .
+زيارة/تحديد مشغل BX.
 
 ```csharp
 public void Visit(BX BX)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| BX | BX | بدء عامل تشغيل قسم التوافق. |
+| BX | BX | بدء قسم التوافق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BX](../../../aspose.pdf.operators/bx)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BT) {#visit_3}
 
-قم بزيارة / تحديد عامل تشغيل BT .
+زيارة/تحديد مشغل BT.
 
 ```csharp
 public void Visit(BT BT)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| BT | BT | بدء عامل تشغيل كائن النص . |
+| BT | BT | بدء كائن النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BT](../../../aspose.pdf.operators/bt)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BMC) {#visit_2}
 
-زيارة / تحديد عامل تشغيل BMC .
+زيارة/تحديد مشغل BMC.
 
 ```csharp
 public void Visit(BMC BMC)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| BMC | BMC | ابدأ عامل تشغيل تسلسل المحتوى المحدد. |
+| BMC | BMC | بدء تسلسل المحتوى المميز. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BMC](../../../aspose.pdf.operators/bmc)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BI) {#visit_1}
 
-قم بزيارة / حدد عامل تشغيل BI .
+زيارة/تحديد مشغل BI.
 
 ```csharp
 public void Visit(BI BI)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| BI | BI | بدء عامل تشغيل كائن الصورة المضمنة . |
+| BI | BI | بدء كائن الصورة المضمنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BI](../../../aspose.pdf.operators/bi)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BDC) {#visit}
 
-قم بزيارة / تحديد عامل BDC .
+زيارة/تحديد مشغل BDC.
 
 ```csharp
 public void Visit(BDC BDC)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| BDC | BDC | بدء عامل تشغيل تسلسل المحتوى المحدد (مع قائمة الخصائص) . |
+| BDC | BDC | بدء تسلسل المحتوى المميز (مع قائمة الخصائص). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BDC](../../../aspose.pdf.operators/bdc)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FillStroke) {#visit_25}
 
-قم بزيارة / تحديد عامل B .
+زيارة/تحديد مشغل B.
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| B | FillStroke | عامل مسار التعبئة والحد (قاعدة رقم الملف غير الصفري) . |
+| B | FillStroke | ملء ورسم المسار (قاعدة رقم الالتفاف غير الصفرية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [FillStroke](../../../aspose.pdf.operators/fillstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل b.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| b | ClosePathFillStroke | عامل تشغيل مسار الإغلاق والتعبئة والحد (قاعدة رقم الملف غير الصفري) . |
+| b | ClosePathFillStroke | إغلاق، ملء، ورسم المسار (قاعدة رقم الالتفاف غير الصفرية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFillStroke) {#visit_21}
 
-قم بزيارة / حدد B * عامل التشغيل .
+زيارة/تحديد مشغل B*.
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| B_ | EOFillStroke | عامل مسار التعبئة والشطب (قاعدة زوجية-فردية) . |
+| B_ | EOFillStroke | ملء ورسم المسار (قاعدة الزوج الفردي). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-قم بزيارة / حدد b * عامل التشغيل .
+زيارة/تحديد مشغل b*.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | عامل تشغيل مسار الإغلاق والتعبئة والحد (قاعدة زوجية-فردية) . |
+| b_ | ClosePathEOFillStroke | إغلاق، ملء، ورسم المسار (قاعدة الزوج الفردي). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-زيارة / تحديد "عامل التشغيل .
+زيارة/تحديد مشغل '.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | الانتقال إلى السطر التالي وإظهار عامل تشغيل النص . |
+| _ | MoveToNextLineShowText | الانتقال إلى السطر التالي وعرض النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-قم بزيارة / حدد "عامل التشغيل .
+زيارة/تحديد مشغل ''.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | تعيين تباعد الكلمات والحروف ، والانتقال إلى السطر التالي ، وإظهار عامل تشغيل النص. |
+| __ | SetSpacingMoveToNextLineShowText | تعيين تباعد الكلمات والأحرف، الانتقال إلى السطر التالي، وعرض النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFill) {#visit_20}
 
-قم بزيارة / تحديد عامل التشغيل f * .
+زيارة/تحديد مشغل f*.
 
 ```csharp
 public void Visit(EOFill f_)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| f_ | EOFill | عامل مسار التعبئة (قاعدة زوجية-فردية) . |
+| f_ | EOFill | ملء المسار (قاعدة الزوج الفردي). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EOFill](../../../aspose.pdf.operators/eofill)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Fill) {#visit_24}
 
-زيارة / تحديد عامل التشغيل .
+زيارة/تحديد مشغل f.
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| f | Fill | مشغل مسار التعبئة (قاعدة رقم الملف غير الصفري) . |
+| f | Fill | ملء المسار (قاعدة رقم الالتفاف غير الصفرية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Fill](../../../aspose.pdf.operators/fill)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-قم بزيارة / تحديد عامل F .
+زيارة/تحديد مشغل F.
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| F | ObsoleteFill | مشغل مسار التعبئة (قاعدة رقم الملف غير الصفري) . |
+| F | ObsoleteFill | ملء المسار (قاعدة رقم الالتفاف غير الصفرية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-قم بزيارة / تحديد عامل تشغيل g .
+زيارة/تحديد مشغل g.
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| g | SetGray | تعيين عامل تشغيل رمادي المستوى (للعمليات غير الممارسه) . |
+| g | SetGray | تعيين مستوى الرمادي (لعمليات غير التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetGray](../../../aspose.pdf.operators/setgray)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-زيارة / تحديد عامل تشغيل G .
+زيارة/تحديد مشغل G.
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| G | SetGrayStroke | تعيين مشغل المستوى الرمادي (لعمليات التمسيد) . |
+| G | SetGrayStroke | تعيين مستوى الرمادي (لعمليات التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GS) {#visit_27}
 
-زيارة / تحديد عامل تشغيل gs .
+زيارة/تحديد مشغل gs.
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| gs | GS | تعيين عامل تشغيل حالة الرسومات . |
+| gs | GS | تعيين حالة الرسوميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GS](../../../aspose.pdf.operators/gs)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePath) {#visit_6}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل h.
 
 ```csharp
 public void Visit(ClosePath h)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| h | ClosePath | إغلاق عامل تشغيل المسار الفرعي . |
+| h | ClosePath | إغلاق المسار الفرعي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ClosePath](../../../aspose.pdf.operators/closepath)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل i.
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| i | SetFlat | تعيين عامل تسامح التسطيح . |
+| i | SetFlat | تعيين تحمل السطح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetFlat](../../../aspose.pdf.operators/setflat)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ID) {#visit_29}
 
-قم بزيارة / تحديد مشغل المعرف .
+زيارة/تحديد مشغل ID.
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| ID | ID | ابدأ عامل تشغيل بيانات الصورة المضمنة . |
+| ID | ID | بدء بيانات الصورة المضمنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ID](../../../aspose.pdf.operators/id)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ID](../../../aspose.pdf.operators/id/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineCap) {#visit_58}
 
-زيارة / تحديد عامل J .
+زيارة/تحديد مشغل J.
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| J | SetLineCap | تعيين عامل تشغيل نمط غطاء الخط . |
+| J | SetLineCap | تعيين نمط نهاية الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetLineCap](../../../aspose.pdf.operators/setlinecap)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-زيارة / تحديد عامل k .
+زيارة/تحديد مشغل k.
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| k | SetCMYKColor | تعيين عامل تشغيل ألوان CMYK (للعمليات التي لا يتم فيها الضغط). |
+| k | SetCMYKColor | تعيين مشغل لون CMYK (لعمليات غير التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-زيارة / تحديد عامل K .
+زيارة/تحديد مشغل K.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | تعيين عامل تشغيل ألوان CMYK (لعمليات التمسيد). |
+| K | SetCMYKColorStroke | تعيين مشغل لون CMYK (لعمليات التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineTo) {#visit_30}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل l.
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| l | LineTo | إلحاق مقطع خط مستقيم بعامل المسار . |
+| l | LineTo | إضافة جزء خط مستقيم إلى المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [LineTo](../../../aspose.pdf.operators/lineto)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTo) {#visit_33}
 
-زيارة / تحديد عامل التشغيل .
+زيارة/تحديد مشغل m.
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| m | MoveTo | بدء عامل تشغيل مسار فرعي جديد. |
+| m | MoveTo | بدء مسار فرعي جديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MoveTo](../../../aspose.pdf.operators/moveto)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-قم بزيارة / حدد مشغل M .
+زيارة/تحديد مشغل M.
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| M | SetMiterLimit | تعيين عامل تشغيل حد ميتري . |
+| M | SetMiterLimit | تعيين حد الميتر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MP) {#visit_36}
 
-زيارة / تحديد عامل تشغيل MP .
+زيارة/تحديد مشغل MP.
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| MP | MP | تحديد عامل نقطة المحتوى المحدد . |
+| MP | MP | تعريف نقطة المحتوى المميز. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MP](../../../aspose.pdf.operators/mp)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EndPath) {#visit_18}
 
-قم بزيارة / select n عامل التشغيل .
+زيارة/تحديد مشغل n.
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| n | EndPath | مشغل مسار النهاية (بدون ملء أو تمسيد) . |
+| n | EndPath | إنهاء المسار (بدون ملء أو رسم). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EndPath](../../../aspose.pdf.operators/endpath)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GSave) {#visit_28}
 
-زيارة / تحديد مشغل q .
+زيارة/تحديد مشغل q.
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| q | GSave | حفظ مشغل حالة الرسومات . |
+| q | GSave | حفظ حالة الرسوميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GSave](../../../aspose.pdf.operators/gsave)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GRestore) {#visit_26}
 
-قم بزيارة / تحديد مشغل Q.
+زيارة/تحديد مشغل Q.
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Q | GRestore | استعادة مشغل حالة الرسومات . |
+| Q | GRestore | استعادة حالة الرسوميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GRestore](../../../aspose.pdf.operators/grestore)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Re) {#visit_38}
 
-قم بزيارة / تحديد عامل التشغيل .
+زيارة/تحديد مشغل re.
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| re | Re | إلحاق مستطيل بعامل المسار . |
+| re | Re | إضافة مستطيل إلى المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Re](../../../aspose.pdf.operators/re)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [Re](../../../aspose.pdf.operators/re/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColor) {#visit_62}
 
-زيارة / تحديد عامل تشغيل rg .
+زيارة/تحديد مشغل rg.
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| rg | SetRGBColor | تعيين عامل تشغيل ألوان RGB (للعمليات غير الملوثة). |
+| rg | SetRGBColor | تعيين مشغل لون RGB (لعمليات غير التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-زيارة / تحديد عامل تشغيل RG .
+زيارة/تحديد مشغل RG.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | تعيين عامل تشغيل ألوان RGB (لعمليات التمسيد). |
+| RG | SetRGBColorStroke | تعيين مشغل لون RGB (لعمليات التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-زيارة / تحديد عامل ri .
+زيارة/تحديد مشغل ri.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | تعيين عامل تشغيل نية تجسيد اللون . |
+| ri | SetColorRenderingIntent | تعيين نية عرض اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-زيارة / تحديد عامل التشغيل .
+زيارة/تحديد مشغل s.
 
 ```csharp
 public void Visit(ClosePathStroke s)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| s | ClosePathStroke | عامل تشغيل مسار الإغلاق والشطب . |
+| s | ClosePathStroke | إغلاق ورسم المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Stroke) {#visit_72}
 
-قم بزيارة / حدد عامل S .
+زيارة/تحديد مشغل S.
 
 ```csharp
 public void Visit(Stroke S)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| S | Stroke | مشغل مسار السكتة الدماغية . |
+| S | Stroke | رسم المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Stroke](../../../aspose.pdf.operators/stroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColor) {#visit_47}
 
-زيارة / تحديد عامل التشغيل sc .
+زيارة/تحديد مشغل sc.
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| sc | SetColor | تعيين عامل تشغيل اللون (للعمليات غير الملوثة) . |
+| sc | SetColor | تعيين مشغل اللون (لعمليات غير التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetColor](../../../aspose.pdf.operators/setcolor)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorStroke) {#visit_51}
 
-قم بزيارة / تحديد مشغل SC .
+زيارة/تحديد مشغل SC.
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| SC | SetColorStroke | تعيين عامل تشغيل اللون (لعمليات التمسيد) . |
+| SC | SetColorStroke | تعيين مشغل اللون (لعمليات التظليل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-قم بزيارة / تحديد عامل تشغيل scn .
+زيارة/تحديد مشغل scn.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| scn | SetAdvancedColor | تعيين عامل تشغيل اللون (للعمليات غير المستندة إلى ICC ومساحات الألوان الخاصة) . |
+| scn | SetAdvancedColor | تعيين مشغل اللون (لعمليات غير التظليل، ICCBased ومساحات الألوان الخاصة). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-قم بزيارة / تحديد عامل تشغيل SCN .
+زيارة/تحديد مشغل SCN.
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | تعيين عامل تشغيل اللون (لعمليات التمسيد ، على أساس ICC ومساحات اللون الخاصة) . |
+| SCN | SetAdvancedColorStroke | تعيين مشغل اللون (لعمليات التظليل، ICCBased ومساحات الألوان الخاصة). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ShFill) {#visit_70}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل sh.
 
 ```csharp
 public void Visit(ShFill sh)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| sh | ShFill | منطقة الطلاء المحددة بواسطة عامل نمط التظليل . |
+| sh | ShFill | طلاء المنطقة المحددة بواسطة نمط التظليل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ShFill](../../../aspose.pdf.operators/shfill)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-قم بزيارة / حدد T * عامل التشغيل .
+زيارة/تحديد مشغل T*.
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| T_ | MoveToNextLine | الانتقال إلى بداية عامل تشغيل سطر النص التالي . |
+| T_ | MoveToNextLine | الانتقال إلى بداية السطر النصي التالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-زيارة / تحديد عامل Tc .
+زيارة/تحديد مشغل Tc.
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | تعيين عامل تباعد الأحرف . |
+| Tc | SetCharacterSpacing | تعيين تباعد الأحرف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-زيارة / تحديد عامل Td .
+زيارة/تحديد مشغل Td.
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Td | MoveTextPosition | نقل عامل موضع النص . |
+| Td | MoveTextPosition | نقل موضع النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-زيارة / تحديد مشغل TD .
+زيارة/تحديد مشغل TD.
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | نقل موضع النص وتعيين عامل التشغيل الرائد . |
+| TD | MoveTextPositionSetLeading | نقل موضع النص وتعيين الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SelectFont) {#visit_39}
 
-زيارة / تحديد عامل تشغيل Tf .
+زيارة/تحديد مشغل Tf.
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tf | SelectFont | تعيين عامل الخط وحجم النص . |
+| Tf | SelectFont | تعيين خط النص وحجمه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SelectFont](../../../aspose.pdf.operators/selectfont)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ShowText) {#visit_71}
 
-زيارة / تحديد عامل Tj .
+زيارة/تحديد مشغل Tj.
 
 ```csharp
 public void Visit(ShowText Tj)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tj | ShowText | إظهار عامل تشغيل النص. |
+| Tj | ShowText | عرض النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ShowText](../../../aspose.pdf.operators/showtext)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-قم بزيارة / حدد عامل تشغيل TJ .
+زيارة/تحديد مشغل TJ.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | عرض عامل تشغيل النص (السماح بتحديد موضع الصورة الرمزية الفردية) . |
+| TJ | SetGlyphsPositionShowText | عرض النص (يسمح بتحديد موضع الجليفات الفردية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextLeading) {#visit_65}
 
-زيارة / تحديد مشغل TL .
+زيارة/تحديد مشغل TL.
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| TL | SetTextLeading | تعيين عامل تشغيل النص البادئ. |
+| TL | SetTextLeading | تعيين ارتفاع النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetTextLeading](../../../aspose.pdf.operators/settextleading)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-زيارة / تحديد عامل تشغيل Tm .
+زيارة/تحديد مشغل Tm.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tm | SetTextMatrix | تعيين عامل تشغيل مصفوفة النص ومصفوفة سطر النص. |
+| Tm | SetTextMatrix | تعيين مصفوفة النص ومصفوفة خط النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-زيارة / تحديد عامل Tr .
+زيارة/تحديد مشغل Tr.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | تعيين عامل تشغيل وضع عرض النص. |
+| Tr | SetTextRenderingMode | تعيين وضع عرض النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRise) {#visit_68}
 
-زيارة / تحديد عامل Ts .
+زيارة/تحديد مشغل Ts.
 
 ```csharp
 public void Visit(SetTextRise Ts)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Ts | SetTextRise | تعيين عامل تشغيل ارتفاع النص . |
+| Ts | SetTextRise | تعيين ارتفاع النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetTextRise](../../../aspose.pdf.operators/settextrise)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetWordSpacing) {#visit_69}
 
-زيارة / تحديد مشغل Tw .
+زيارة/تحديد مشغل Tw.
 
 ```csharp
 public void Visit(SetWordSpacing Tw)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tw | SetWordSpacing | تعيين عامل تباعد الكلمات . |
+| Tw | SetWordSpacing | تعيين تباعد الكلمات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-زيارة / تحديد عامل Tz .
+زيارة/تحديد مشغل Tz.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | تعيين عامل تشغيل تغيير حجم النص الأفقي. |
+| Tz | SetHorizontalTextScaling | تعيين مقياس النص الأفقي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo1) {#visit_12}
 
-زيارة / تحديد مشغل v .
+زيارة/تحديد مشغل v.
 
 ```csharp
 public void Visit(CurveTo1 v)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| v | CurveTo1 | إلحاق مقطع منحني بعامل تشغيل المسار (تكرار النقطة الأولية) . |
+| v | CurveTo1 | إضافة جزء منحني إلى المسار (نقطة البداية مكررة). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CurveTo1](../../../aspose.pdf.operators/curveto1)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOClip) {#visit_19}
 
-قم بزيارة / حدد مشغل W * .
+زيارة/تحديد مشغل W*.
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| W_ | EOClip | تعيين عامل تشغيل مسار القطع (قاعدة زوجية-فردية) . |
+| W_ | EOClip | تعيين مشغل مسار القص (قاعدة الزوج الفردي). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EOClip](../../../aspose.pdf.operators/eoclip)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل w.
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| w | SetLineWidth | تعيين عامل تشغيل عرض الخط . |
+| w | SetLineWidth | تعيين عرض الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Clip) {#visit_5}
 
-قم بزيارة / حدد عامل W .
+زيارة/تحديد مشغل W.
 
 ```csharp
 public void Visit(Clip W)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| W | Clip | تعيين مشغل مسار القطع (قاعدة رقم الملف غير الصفري) . |
+| W | Clip | تعيين مشغل مسار القص (قاعدة رقم الالتفاف غير الصفرية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Clip](../../../aspose.pdf.operators/clip)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo2) {#visit_13}
 
-قم بزيارة / حدد عامل التشغيل .
+زيارة/تحديد مشغل y.
 
 ```csharp
 public void Visit(CurveTo2 y)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| y | CurveTo2 | إلحاق مقطع منحني بعامل تشغيل المسار (تكرار النقطة النهائية) . |
+| y | CurveTo2 | إضافة جزء منحني إلى المسار (نقطة النهاية مكررة). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CurveTo2](../../../aspose.pdf.operators/curveto2)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(TextOperator) {#visit_73}
 
-قم بزيارة / تحديد أي مشغل نصوص.
+زيارة/تحديد أي مشغل نص.
 
 ```csharp
 public void Visit(TextOperator textOperator)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| textOperator | TextOperator | عامل النص العام المستخدم لتحديد مجموعة عوامل pdf المقابلة. |
+| textOperator | TextOperator | مشغل نص عام يستخدم لاختيار مجموعة من مشغلات PDF المقابلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextOperator](../../../aspose.pdf.operators/textoperator)
-* class [OperatorSelector](../../operatorselector)
-* مساحة الاسم [Aspose.Pdf](../../operatorselector)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

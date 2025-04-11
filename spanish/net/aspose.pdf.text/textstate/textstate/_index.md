@@ -1,24 +1,24 @@
 ---
-title: TextState
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Crea objeto de estado de texto.
+title: TextState.TextState
+second_title: Aspose.PDF for .NET API Reference
+description: Constructor de TextState. Crea un objeto de estado de texto
 type: docs
 weight: 10
 url: /es/net/aspose.pdf.text/textstate/textstate/
 ---
 ## TextState() {#constructor}
 
-Crea objeto de estado de texto.
+Crea un objeto de estado de texto.
 
 ```csharp
 public TextState()
 ```
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -30,15 +30,15 @@ Crea un objeto de estado de texto con especificación de tamaño de fuente.
 public TextState(double fontSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fontSize | Double | Tamaño de fuente. |
+| fontSize | Doble | Tamaño de fuente. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -50,15 +50,15 @@ Crea un objeto de estado de texto con especificación de color de primer plano.
 public TextState(Color foregroundColor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | foregroundColor | Color | Color de primer plano. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -70,78 +70,76 @@ Crea un objeto de estado de texto con especificación de color de primer plano y
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | foregroundColor | Color | Color de primer plano. |
-| fontSize | Double | Tamaño de fuente. |
+| fontSize | Doble | Tamaño de fuente. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string) {#constructor_4}
 
-Crea un objeto de estado de texto con especificación de familia de fuentes.
+Crea un objeto de estado de texto con especificación de familia de fuente.
 
 ```csharp
 public TextState(string fontFamily)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fontFamily | String | Familia tipográfica. |
+| fontFamily | Cadena | Familia de fuente. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Crea un objeto de estado de texto con familia de fuentes y especificación de estilo de fuente.
+Crea un objeto de estado de texto con especificación de familia de fuente y estilo de fuente.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fontFamily | String | Familia tipográfica. |
-| bold | Boolean | Estilo de fuente en negrita. |
-| italic | Boolean | Estilo de letra cursiva. |
+| fontFamily | Cadena | Familia de fuente. |
+| bold | Booleano | Estilo de fuente en negrita. |
+| italic | Booleano | Estilo de fuente en cursiva. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## TextState(string, double) {#constructor_6}
 
-Crea un objeto de estado de texto con la familia de fuentes y especificación de tamaño de fuente.
+Crea un objeto de estado de texto con especificación de familia de fuente y tamaño de fuente.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fontFamily | String | Familia tipográfica. |
-| fontSize | Double | Tamaño de fuente. |
+| fontFamily | Cadena | Familia de fuente. |
+| fontSize | Doble | Tamaño de fuente. |
 
-### Ver también
+### Ver También
 
-* class [TextState](../../textstate)
-* espacio de nombres [Aspose.Pdf.Text](../../textstate)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [TextState](../)
+* espacio de nombres [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* ensamblado [Aspose.PDF](../../../)

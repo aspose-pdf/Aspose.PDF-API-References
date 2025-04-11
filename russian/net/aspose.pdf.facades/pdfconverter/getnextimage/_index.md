@@ -1,7 +1,7 @@
 ---
-title: GetNextImage
-second_title: Aspose.PDF для справочника API .NET
-description: Сохраняет изображение в файл с форматом изображения по умолчанию - jpeg.
+title: PdfConverter.GetNextImage
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfConverter. Сохраняет изображение в файл с форматом изображения по умолчанию - jpeg
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfconverter/getnextimage/
@@ -16,12 +16,12 @@ public void GetNextImage(string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -36,14 +36,14 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -58,10 +58,10 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -90,10 +90,10 @@ While converter.HasNextImage()
 End While
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -108,15 +108,15 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 | format | ImageFormat | Формат изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -133,10 +133,10 @@ public void GetNextImage(Stream outputStream)
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -154,11 +154,11 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 | outputStream | Stream | Поток для сохранения изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -176,10 +176,10 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -198,18 +198,18 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | pageSize | PageSize | Размер страницы изображения. |
 | format | ImageFormat | Формат изображения. |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-Сохраняет изображение в файл с заданным форматом, размерами и качеством изображения.
+Сохраняет изображение в файл с заданным форматом изображения, размерами и качеством.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
@@ -218,13 +218,13 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -253,17 +253,17 @@ While converter.HasNextImage()
 End While
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-Сохраняет изображение в поток с заданным форматом, размерами и качеством изображения.
+Сохраняет изображение в поток с заданным форматом изображения, размерами и качеством.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
@@ -274,21 +274,21 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-Сохраняет изображение в файл с заданным форматом изображения, размером и качеством изображения.
+Сохраняет изображение в файл с заданным форматом изображения, размерами и качеством.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
@@ -297,13 +297,13 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Double | Ширина изображения, единица измерения — пиксели. |
-| imageHeight | Double | Высота изображения, единица измерения — пиксели. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| imageWidth | Double | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Double | Высота изображения, единица измерения - пиксели. |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -336,17 +336,17 @@ While converter.HasNextImage()
 End While
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-Сохраняет изображение в поток с заданным форматом, размером и качеством изображения.
+Сохраняет изображение в поток с заданным форматом изображения, размерами и качеством.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
@@ -357,21 +357,21 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Double | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Double | Высота изображения, единица измерения — пиксель. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| imageWidth | Double | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Double | Высота изображения, единица измерения - пиксели. |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-Сохраняет изображение в файл с указанным форматом и размерами изображения.
+Сохраняет изображение в файл с заданным форматом изображения и размерами.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
@@ -379,12 +379,12 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -413,17 +413,17 @@ While converter.HasNextImage()
 End While
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-Сохраняет изображение в поток с заданным форматом, размером и качеством изображения.
+Сохраняет изображение в поток с заданным форматом изображения, размерами и качеством.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
@@ -433,20 +433,20 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
-| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
+| imageWidth | Int32 | Ширина изображения, единица измерения - пиксели. |
+| imageHeight | Int32 | Высота изображения, единица измерения - пиксели. |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-Сохраняет изображение в поток с заданным форматом и качеством изображения.
+Сохраняет изображение в поток с заданным форматом изображения и качеством.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
@@ -456,12 +456,12 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -479,20 +479,20 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | outputStream | Stream | Поток для сохранения изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 | format | ImageFormat | Формат изображения. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-Сохраняет изображение в файл с заданным форматом и качеством изображения.
+Сохраняет изображение в файл с заданным форматом изображения и качеством.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
@@ -500,14 +500,14 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -522,16 +522,14 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь и имя файла для сохранения изображения. |
+| outputFile | String | Путь к файлу и имя для сохранения изображения. |
 | pageSize | PageSize | Размер страницы изображения. |
 | format | ImageFormat | Формат изображения. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 - наименьшее, 100 - наивысшее |
 
-### Смотрите также
+### См. также
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* пространство имен [Aspose.Pdf.Facades](../../pdfconverter)
+* класс [PageSize](../../../aspose.pdf/pagesize/)
+* класс [PdfConverter](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

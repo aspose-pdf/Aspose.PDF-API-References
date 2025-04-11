@@ -1,72 +1,71 @@
 ---
-title: Heading
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل العنوان.
+title: Class Heading
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Heading. تمثل العنوان
 type: docs
-weight: 3360
+weight: 5470
 url: /ar/net/aspose.pdf/heading/
 ---
-## Heading class
+## فئة العنوان
 
-يمثل العنوان.
+تمثل العنوان.
 
 ```csharp
 public sealed class Heading : TextFragment
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Heading](heading)(int) | تهيئة مثيل جديد لفئة الخلية. |
+| [Heading](heading/)(int) | يقوم بتهيئة مثيل جديد من فئة Cell. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition) { get; set; } | الحصول على موضع النص للنص ، ممثلاً بامتداد[`TextFragment`](../../aspose.pdf.text/textfragment) object. تمثل نهاية Y لهيكل الموضع إحداثيات خط الأساس لجزء النص. |
-| [DestinationPage](../../aspose.pdf/heading/destinationpage) { get; set; } | يحصل على صفحة الوجهة . |
-| [EndNote](../../aspose.pdf.text/textfragment/endnote) { get; set; } | الحصول على أو تعيين ملاحظة نهاية الفقرة. (لإنشاء ملف pdf فقط) |
-| [FootNote](../../aspose.pdf.text/textfragment/footnote) { get; set; } | الحصول على حاشية الفقرة السفلية أو تعيينها. (لإنشاء ملف pdf فقط) |
-| [Form](../../aspose.pdf.text/textfragment/form) { get; } | الحصول على كائن النموذج الذي يحتوي على TextFragment |
-| override [HorizontalAlignment](../../aspose.pdf.text/textfragment/horizontalalignment) { get; set; } | الحصول على محاذاة أفقية لجزء النص أو تعيينها. |
-| override [Hyperlink](../../aspose.pdf.text/textfragment/hyperlink) { set; } | تعيين الارتباط التشعبي للجزء |
-| [IsAutoSequence](../../aspose.pdf/heading/isautosequence) { get; set; } | الحصول على العنوان يجب ترقيمه تلقائيًا . |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
-| [IsInList](../../aspose.pdf/heading/isinlist) { get; set; } | الحصول على العنوان يجب أن يكون في قائمة toc . |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
-| [Level](../../aspose.pdf/heading/level) { get; set; } | يحصل على المستوى . |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
-| [Page](../../aspose.pdf.text/textfragment/page) { get; } | يحصل على الصفحة التي تحتوي على TextFragment |
-| [Position](../../aspose.pdf.text/textfragment/position) { get; set; } | الحصول على أو تعيين موضع النص للنص ، ممثلاً بامتداد[`TextFragment`](../../aspose.pdf.text/textfragment) الكائن . |
-| [Rectangle](../../aspose.pdf.text/textfragment/rectangle) { get; } | يحصل على مستطيل من TextFragment |
-| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions) { get; } | يحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء بمزيد من الاختصار / الطويل. |
-| [Segments](../../aspose.pdf.text/textfragment/segments) { get; set; } | الحصول على مقاطع نصية للتيار[`TextFragment`](../../aspose.pdf.text/textfragment) . |
-| [StartNumber](../../aspose.pdf/heading/startnumber) { get; set; } | الحصول على رقم بداية العنوان . |
-| [Style](../../aspose.pdf/heading/style) { get; set; } | الحصول على النمط أو تعيينه . |
-| [Text](../../aspose.pdf.text/textfragment/text) { get; set; } | يحصل أو يحددString كائن النص الذي[`TextFragment`](../../aspose.pdf.text/textfragment) يمثل الكائن . |
-| [TextState](../../aspose.pdf.text/textfragment/textstate) { get; } | الحصول على أو تعيين حالة النص للنص الذي[`TextFragment`](../../aspose.pdf.text/textfragment) يمثل الكائن . |
-| [TocPage](../../aspose.pdf/heading/tocpage) { get; set; } | الحصول على الصفحة التي تحتوي على هذا العنوان . |
-| [Top](../../aspose.pdf/heading/top) { get; set; } | الحصول على رأس Y من هذه العناوين . |
-| [UserLabel](../../aspose.pdf/heading/userlabel) { get; set; } | الحصول على تسمية المستخدم أو تعيينها. |
-| override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment) { get; set; } | الحصول على محاذاة عمودية لجزء النص أو تعيينها. |
-| [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount) { get; set; } | الحصول على عدد سطور الالتفاف لهذه الفقرة أو تعيينه (لإنشاء ملف pdf فقط) |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition/) { get; set; } | يحصل على موضع النص للنص، الممثل بواسطة كائن [`TextFragment`](../../aspose.pdf.text/textfragment/). يمثل YIndent في هيكل Position إحداثيات خط الأساس لجزء النص. |
+| [DestinationPage](../../aspose.pdf/heading/destinationpage/) { get; set; } | يحصل على صفحة الوجهة. |
+| [EndNote](../../aspose.pdf.text/textfragment/endnote/) { get; set; } | يحصل أو يحدد ملاحظة نهاية الفقرة. (لإنشاء PDF فقط) |
+| [FootNote](../../aspose.pdf.text/textfragment/footnote/) { get; set; } | يحصل أو يحدد ملاحظة قدم الفقرة. (لإنشاء PDF فقط) |
+| [Form](../../aspose.pdf.text/textfragment/form/) { get; } | يحصل على كائن النموذج الذي يحتوي على TextFragment |
+| override [HorizontalAlignment](../../aspose.pdf.text/textfragment/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية لجزء النص. |
+| override [Hyperlink](../../aspose.pdf.text/textfragment/hyperlink/) { set; } | يحدد رابط الجزء |
+| [IsAutoSequence](../../aspose.pdf/heading/isautosequence/) { get; set; } | يحصل على العنوان الذي يجب أن يتم ترقيمه تلقائيًا. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInList](../../aspose.pdf/heading/isinlist/) { get; set; } | يحصل على العنوان الذي يجب أن يكون في قائمة جدول المحتويات. |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على التوليد في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Level](../../aspose.pdf/heading/level/) { get; set; } | يحصل على المستوى. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لإنشاء PDF) |
+| [Page](../../aspose.pdf.text/textfragment/page/) { get; } | يحصل على الصفحة التي تحتوي على TextFragment |
+| [Position](../../aspose.pdf.text/textfragment/position/) { get; set; } | يحصل أو يحدد موضع النص للنص، الممثل بواسطة كائن [`TextFragment`](../../aspose.pdf.text/textfragment/). |
+| [Rectangle](../../aspose.pdf.text/textfragment/rectangle/) { get; } | يحصل على مستطيل TextFragment |
+| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions/) { get; } | يحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء بنص أقصر/أطول. |
+| [Segments](../../aspose.pdf.text/textfragment/segments/) { get; set; } | يحصل على أجزاء النص للـ [`TextFragment`](../../aspose.pdf.text/textfragment/) الحالي. |
+| [StartNumber](../../aspose.pdf/heading/startnumber/) { get; set; } | يحصل على رقم بدء العنوان. |
+| [Style](../../aspose.pdf/heading/style/) { get; set; } | يحصل أو يحدد النمط. |
+| [Text](../../aspose.pdf.text/textfragment/text/) { get; set; } | يحصل أو يحدد كائن نص السلسلة الذي يمثله كائن [`TextFragment`](../../aspose.pdf.text/textfragment/). |
+| [TextEditOptions](../../aspose.pdf.text/textfragment/texteditoptions/) { get; set; } | يحصل أو يحدد خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط. |
+| [TextState](../../aspose.pdf.text/textfragment/textstate/) { get; } | يحصل أو يحدد حالة النص للنص الذي يمثله كائن [`TextFragment`](../../aspose.pdf.text/textfragment/). |
+| [TocPage](../../aspose.pdf/heading/tocpage/) { get; set; } | يحصل على الصفحة التي تحتوي على هذا العنوان. |
+| [Top](../../aspose.pdf/heading/top/) { get; set; } | يحصل على أعلى Y لهذه العناوين. |
+| [UserLabel](../../aspose.pdf/heading/userlabel/) { get; set; } | يحصل أو يحدد تسمية المستخدم. |
+| override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية لجزء النص. |
+| [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount/) { get; set; } | يحصل أو يحدد عدد الأسطر الملتفة لهذه الفقرة (لإنشاء PDF فقط) |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم. سيتم وضع رسم ذو ZIndex أكبر فوق الرسم ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. سيتم وضع الرسم ذو ZIndex سالب خلف النص في الصفحة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.pdf/heading/clone)() | استنساخ العنوان. |
-| override [CloneWithSegments](../../aspose.pdf/heading/clonewithsegments)() | استنساخ العنوان بكل المقاطع. |
-| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments)(int, int) | يحصل[`TextSegment`](../../aspose.pdf.text/textsegment) (ق) تمثل جزءًا محددًا من[`TextFragment`](../../aspose.pdf.text/textfragment) نص . |
+| override [Clone](../../aspose.pdf/heading/clone/)() | استنساخ العنوان. |
+| override [CloneWithSegments](../../aspose.pdf/heading/clonewithsegments/)() | استنساخ العنوان مع جميع الأجزاء. |
+| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments/)(int, int) | يحصل على [`TextSegment`](../../aspose.pdf.text/textsegment/)(s) التي تمثل الجزء المحدد من نص [`TextFragment`](../../aspose.pdf.text/textfragment/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextFragment](../../aspose.pdf.text/textfragment)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [TextFragment](../../aspose.pdf.text/textfragment/)
+* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
+* التجميع [Aspose.PDF](../../)

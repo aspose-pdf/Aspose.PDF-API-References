@@ -1,7 +1,7 @@
 ---
-title: FindFont
-second_title: Aspose.PDF для справочника API .NET
-description: Ищет и возвращает шрифт с указанным именем шрифта.
+title: FontRepository.FindFont
+second_title: Aspose.PDF for .NET API Reference
+description: Метод FontRepository. Ищет и возвращает шрифт с указанным именем шрифта
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/fontrepository/findfont/
@@ -16,41 +16,41 @@ public static Font FindFont(string fontName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Название шрифта. |
+| fontName | String | Имя шрифта. |
 
 ### Возвращаемое значение
 
 Объект шрифта.
 
-### Примеры
+## Примеры
 
-В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как найти шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Найти шрифт
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -65,49 +65,49 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Название шрифта. |
+| fontName | String | Имя шрифта. |
 | ignoreCase | Boolean | чувствительность к регистру |
 
 ### Возвращаемое значение
 
 Объект шрифта.
 
-### Примеры
+## Примеры
 
-В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как найти шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Найти шрифт
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Ищет и возвращает шрифт с указанным именем и стилем шрифта.
+Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
@@ -115,50 +115,50 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontFamilyName | String | Название семейства шрифтов. |
+| fontFamilyName | String | Имя семейства шрифтов. |
 | stl | FontStyles | Значение стиля шрифта. |
 
 ### Возвращаемое значение
 
-Объект шрифта, соответствующий параметрам поискового запроса.
+Объект шрифта, соответствующий параметрам запроса поиска.
 
-### Примеры
+## Примеры
 
-В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как найти шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Найти шрифт
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* перечисление [FontStyles](../../fontstyles/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта игнорируя или учитывая чувствительность к регистру.
+Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта, игнорируя или учитывая чувствительность к регистру.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -166,44 +166,42 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontFamilyName | String | Название семейства шрифтов. |
+| fontFamilyName | String | Имя семейства шрифтов. |
 | stl | FontStyles | Значение стиля шрифта. |
 | ignoreCase | Boolean | чувствительность к регистру |
 
 ### Возвращаемое значение
 
-Объект шрифта, соответствующий параметрам поискового запроса.
+Объект шрифта, соответствующий параметрам запроса поиска.
 
-### Примеры
+## Примеры
 
-В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
+Пример демонстрирует, как найти шрифт и заменить шрифт текста на первой странице.
 
 ```csharp
-// Найти шрифт
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Принять поглотитель для первой страницы
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Изменяем шрифт первого вхождения текста
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Смотрите также
+### См. также
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* пространство имен [Aspose.Pdf.Text](../../fontrepository)
+* класс [Font](../../font/)
+* перечисление [FontStyles](../../fontstyles/)
+* класс [FontRepository](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

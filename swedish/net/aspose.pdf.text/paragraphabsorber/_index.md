@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar ett absorberande objekt för sidstrukturobjekt som sektioner och stycken. Söker efter avsnitt och stycken av text och ger åtkomst till rektanglar och polydoner som beskriver det i textkoordinatutrymme. Utför även textsegmentsökning och ger tillgång till sökresultat viaTextFragments samlingar grupperade efter strukturelement.
+title: Class ParagraphAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.ParagraphAbsorber klass. Representerar ett absorberande objekt av sidstrukturobjekt som sektioner och stycken. Utför sökningar efter sektioner och stycken av text och ger åtkomst till rektanglar och polygoner som beskriver det i textkoordinatsystemet. Utför också sökningar efter textsegment och ger åtkomst till sökresultat via TextFragments-samlingar grupperade efter strukturelement.
 type: docs
-weight: 6850
+weight: 10670
 url: /sv/net/aspose.pdf.text/paragraphabsorber/
 ---
-## ParagraphAbsorber class
+## ParagraphAbsorber klass
 
-Representerar ett absorberande objekt för sidstrukturobjekt som sektioner och stycken. Söker efter avsnitt och stycken av text och ger åtkomst till rektanglar och polydoner som beskriver det i textkoordinatutrymme. Utför även textsegmentsökning och ger tillgång till sökresultat via!:TextFragments samlingar grupperade efter strukturelement.
+Representerar ett absorberande objekt av sidstrukturobjekt som sektioner och stycken. Utför sökningar efter sektioner och stycken av text och ger åtkomst till rektanglar och polygoner som beskriver det i textkoordinatsystemet. Utför också sökningar efter textsegment och ger åtkomst till sökresultat via !:TextFragments-samlingar grupperade efter strukturelement.
 
 ```csharp
 public class ParagraphAbsorber
@@ -16,65 +16,67 @@ public class ParagraphAbsorber
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ParagraphAbsorber](paragraphabsorber#constructor)() | Initierar en ny instans av[`ParagraphAbsorber`](../paragraphabsorber) som söker efter avsnitt/stycken i dokumentet eller sidan. |
-| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | Initierar en ny instans av[`ParagraphAbsorber`](../paragraphabsorber) som söker efter avsnitt/stycken i dokumentet eller sidan. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor)() | Initierar en ny instans av `ParagraphAbsorber` som utför sökningar efter sektioner/stycken i dokumentet eller sidan. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_2)(int) | Initierar en ny instans av `ParagraphAbsorber` som utför sökningar efter sektioner/stycken i dokumentet eller sidan. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_1)(ParagraphAbsorberOptions) | Initierar en ny instans av `ParagraphAbsorber` som utför sökningar efter sektioner/stycken i dokumentet eller sidan med angivna parametrar. |
+| [ParagraphAbsorber](paragraphabsorber/#constructor_3)(int, ParagraphAbsorberOptions) | Initierar en ny instans av `ParagraphAbsorber` som utför sökningar efter sektioner/stycken i dokumentet eller sidan med angivna parametrar. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | Hämtar eller ställer in värde som indikerar om starttextrader i ett nästa avsnitt kan behandlas som en fortsättning på det sista stycket i ett tidigare avsnitt. |
-| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | Får samling av[`PageMarkup`](../pagemarkup) som absorberades. |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | Hämtar eller ställer in värde som anger hur många gånger sekventiella sökningar efter mer fina strukturelement kommer att utföras. Standardsökdjupet är 3. Det betyder tre sökningar efter horisontellt delade avsnitt (rubriker, stycken etc) och tre sökningar efter vertikalt delade ettor (kolumner). |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/) { get; set; } | Hämtar eller ställer in värdet som anger om startande textlinjer i en nästa sektion kan behandlas som en fortsättning av det sista stycket i en tidigare sektion. |
+| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups/) { get; } | Hämtar samlingen av [`PageMarkup`](../pagemarkup/) som har absorberats. |
+| [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | Hämtar eller ställer in ParagraphAbsorberOptions. |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | Hämtar eller ställer in värdet som instruerar hur många gånger sekventiella sökningar efter mer detaljerade strukturelement kommer att utföras. Standard sökdjup är 3. Det betyder tre sökningar efter horisontellt delade sektioner (huvuden, stycken etc.) och tre sökningar efter vertikalt delade (kolumner). |
+| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | Hämtar eller ställer in TextReplaceOptions. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | Söker efter avsnitt och stycken på det angivna[`Document`](../../aspose.pdf/document) . |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | Utför sökning på den angivna[`Page`](../../aspose.pdf/page) . |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit)(Document) | Utför sökningar efter sektioner och stycken på den angivna [`Document`](../../aspose.pdf/document/). |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit/#visit_1)(Page) | Utför sökningar på den angivna [`Page`](../../aspose.pdf/page/). |
 
-### Anmärkningar
+## Kommentarer
 
-När sökningen är klar visas[`PageMarkups`](./pagemarkups) samling kommer innehåller[`PageMarkup`](../pagemarkup) objekt som representerar sidstruktur genom samlingar av[`MarkupSection`](../markupsection) och[`MarkupParagraph`](../markupparagraph) . Den[`TextFragment`](../textfragment) objekt ger tillgång till sökhändelsens text, textegenskaper och gör det möjligt att redigera text och ändra texttillståndet (typsnitt, teckenstorlek, färg etc).
+När sökningen är slutförd kommer [`PageMarkups`](./pagemarkups/) samlingen att innehålla [`PageMarkup`](../pagemarkup/) objekt som representerar sidstruktur genom samlingar av [`MarkupSection`](../markupsection/) och [`MarkupParagraph`](../markupparagraph/). Objektet [`TextFragment`](../textfragment/) ger åtkomst till den sökta textens förekomst, textens egenskaper och möjliggör redigering av text och ändring av textens tillstånd (teckensnitt, teckensnittsstorlek, färg etc.).
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar det första textsegmentet i varje stycke på den första PDF-dokumentsidan och markerar den.
+Exemplet visar hur man hittar det första textsegmentet av varje stycke på den första PDF-dokumentets sida och markerar det.
 
 ```csharp
-// Öppna dokument
+// Open document
 Document doc = new Document("input.pdf");
 
-// Skapa ParagraphAbsorber-objekt
+// Create ParagraphAbsorber object
 ParagraphAbsorber absorber = new ParagraphAbsorber();
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 absorber.Visit(doc.Pages[1]);
 
-// Hämta uppmärkningsobjekt för första sidan
+// Get markup object of first page
 PageMarkup markup = absorber.PageMarkups[0];
 
-// Gå igenom strukturelementen i sidtexten för att hitta det första textfragmentet i varje stycke
+// Loop through structure elements of the page text to find first text fragment of each paragraph
 foreach (MarkupSection section in markup.Sections)
 {
     foreach (MarkupParagraph paragraph in section.Paragraphs)
     {
         TextFragment fragment = paragraph.Fragments[0];
-        // Uppdatera textegenskaper
+        // Update text properties
         fragment.TextState.BackgroundColor = Color.LightBlue;
     }
 }
 
-// Spara dokument
+// Save document
 doc.Save(GetOutputPath("output.pdf"));
 ```
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* sammansättning [Aspose.PDF](../../)

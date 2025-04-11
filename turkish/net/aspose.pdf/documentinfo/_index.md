@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo
-second_title: Aspose.PDF for .NET API Referansı
-description: PDF belgesinin meta bilgilerini temsil eder.
+title: Class DocumentInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.DocumentInfo sınıfı. PDF belgesinin meta bilgilerini temsil eder
 type: docs
-weight: 1920
+weight: 3870
 url: /tr/net/aspose.pdf/documentinfo/
 ---
-## DocumentInfo class
+## DocumentInfo sınıfı
 
 PDF belgesinin meta bilgilerini temsil eder.
 
@@ -14,42 +14,40 @@ PDF belgesinin meta bilgilerini temsil eder.
 public sealed class DocumentInfo : Dictionary<string, string>
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [DocumentInfo](documentinfo)(Document) | DocumentInfo örneğini başlat. |
+| [DocumentInfo](documentinfo/)(Document) | DocumentInfo örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Author](../../aspose.pdf/documentinfo/author) { get; set; } | Belge yazarını alır veya ayarlar. |
-| [CreationDate](../../aspose.pdf/documentinfo/creationdate) { get; set; } | Belge oluşturma tarihini alır veya ayarlar. |
-| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } | Oluşturma tarihinin saat dilimi. |
-| [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } | Belge oluşturucuyu alır veya ayarlar. |
-| [Item](../../aspose.pdf/documentinfo/item) { get; set; } | Belirtilen anahtarla ilişkili değeri alır veya ayarlar. |
-| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | Belgenin anahtar sözcüklerini alır veya ayarlar. |
-| [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } | Belge değiştirme tarihini alır veya ayarlar. |
-| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | Değişiklik tarihinin saat dilimi. |
-| [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | Belge üreticisini alır veya ayarlar. |
-| [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } | Belgenin konusunu alır veya ayarlar. |
-| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Belge başlığını alır veya ayarlar. |
-| [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } | Yakalanan bayrağı alır veya ayarlar. |
+| [Author](../../aspose.pdf/documentinfo/author/) { get; set; } | Belge yazarını alır veya ayarlar. |
+| [CreationDate](../../aspose.pdf/documentinfo/creationdate/) { get; set; } | Belgenin oluşturulma tarihini alır veya ayarlar. |
+| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone/) { get; set; } | Oluşturulma tarihinin saat dilimi. |
+| [Creator](../../aspose.pdf/documentinfo/creator/) { get; set; } | Belgeyi oluşturanı alır veya ayarlar. |
+| [Item](../../aspose.pdf/documentinfo/item/) { get; set; } | Belirtilen anahtar ile ilişkili değeri alır veya ayarlar. |
+| [Keywords](../../aspose.pdf/documentinfo/keywords/) { get; set; } | Belgenin anahtar kelimelerini alır veya ayarlar. |
+| [ModDate](../../aspose.pdf/documentinfo/moddate/) { get; set; } | Belgenin değiştirilme tarihini alır veya ayarlar. |
+| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone/) { get; set; } | Değiştirilme tarihinin saat dilimi. |
+| [Producer](../../aspose.pdf/documentinfo/producer/) { get; set; } | Belge üreticisini alır veya ayarlar. |
+| [Subject](../../aspose.pdf/documentinfo/subject/) { get; set; } | Belgenin konusunu alır veya ayarlar. |
+| [Title](../../aspose.pdf/documentinfo/title/) { get; set; } | Belge başlığını alır veya ayarlar. |
+| [Trapped](../../aspose.pdf/documentinfo/trapped/) { get; set; } | Tuzağa düşürülmüş bayrağını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Koleksiyona belirtilen anahtar ve değere sahip bir öğe ekler. |
-| [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Belge bilgisini temizler. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Yalnızca özel verileri temizler, diğer tüm önceden tanımlanmış değerleri bırakır (Başlık, Yazar, vb.). |
-| [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Belirtilen anahtara sahip öğeyi koleksiyondan kaldırır. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Anahtarın özel değil, önceden tanımlanmış (Başlık, Yazar vb.) olup olmadığını belirler. |
+| [Add](../../aspose.pdf/documentinfo/add/#add)(string, string) | Belirtilen anahtar ve değer ile bir öğe koleksiyona ekler. |
+| [Clear](../../aspose.pdf/documentinfo/clear/#clear)() | Belge bilgisini temizler. |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Sadece özel verileri temizler, diğer tüm önceden tanımlı değerleri (Başlık, Yazar, vb.) bırakır. |
+| [Remove](../../aspose.pdf/documentinfo/remove/#remove_2)(string) | Belirtilen anahtara sahip öğeyi koleksiyondan kaldırır. |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Anahtarın önceden tanımlı (Başlık, Yazar, vb.) olup olmadığını belirler, özel değildir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

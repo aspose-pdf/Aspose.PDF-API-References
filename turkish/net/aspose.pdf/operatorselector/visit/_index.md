@@ -1,1561 +1,1561 @@
 ---
-title: Visit
-second_title: Aspose.PDF for .NET API Referansı
-description: j operatörünü ziyaret edin/seçin.
+title: OperatorSelector.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: OperatorSelector metodu. j operatörünü ziyaret et/seç
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-j operatörünü ziyaret edin/seçin.
+j operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| j | SetLineJoin | Satır birleştirme stili operatörünü ayarla. |
+| j | SetLineJoin | Çizgi birleşim stilini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EX) {#visit_23}
 
-EX operatörünü ziyaret edin/seçin.
+EX operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| EX | EX | Uyumluluk bölümü operatörünü sonlandırın. |
+| EX | EX | Uç uyumluluk bölümünü sonlandırma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EX](../../../aspose.pdf.operators/ex)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ET) {#visit_22}
 
-ET operatörünü ziyaret edin/seçin.
+ET operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ET | ET | Bitiş metni nesne operatörü. |
+| ET | ET | Metin nesnesini sonlandırma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ET](../../../aspose.pdf.operators/et)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ET](../../../aspose.pdf.operators/et/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EMC) {#visit_17}
 
-EMC operatörünü ziyaret edin/seçin.
+EMC operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| EMC | EMC | İşaretli içerik dizisi operatörünü sonlandır. |
+| EMC | EMC | İşaretli içerik dizisini sonlandırma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EMC](../../../aspose.pdf.operators/emc)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EI) {#visit_16}
 
-EI operatörünü ziyaret edin/seçin.
+EI operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| EI | EI | Satır içi görüntü nesnesi operatörünü sonlandır. |
+| EI | EI | Satır içi resim nesnesini sonlandırma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EI](../../../aspose.pdf.operators/ei)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(DP) {#visit_15}
 
-DP operatörünü ziyaret edin/seçin.
+DP operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(DP DP)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| DP | DP | İşaretli içerik noktası operatörünü tanımlayın (özellik listesiyle birlikte). |
+| DP | DP | İşaretli içerik noktasını tanımlama operatörü (özellik listesi ile). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [DP](../../../aspose.pdf.operators/dp)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Do) {#visit_14}
 
-Yap operatörünü ziyaret edin/seçin.
+Do operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(Do Do)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Do | Do | Adlandırılmış XObject operatörünü çağırın. |
+| Do | Do | İsimli XObject operatörünü çağırma. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Do](../../../aspose.pdf.operators/do)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [Do](../../../aspose.pdf.operators/do/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-d1 operatörünü ziyaret edin/seçin.
+d1 operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Tip 3 yazı tipi operatöründe glif genişliğini ve sınırlayıcı kutuyu ayarlayın. |
+| d1 | SetCharWidthBoundingBox | Type 3 yazı tipinde glif genişliğini ve sınırlayıcı kutuyu ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidth) {#visit_43}
 
-d0 operatörünü ziyaret edin/seçin.
+d0 operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| d0 | SetCharWidth | Glif genişliğini Tip 3 yazı tipi operatöründe ayarlayın. |
+| d0 | SetCharWidth | Type 3 yazı tipinde glif genişliğini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-d operatörünü ziyaret edin/seçin.
+d operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| d | SetDash | Çizgi desen operatörünü ayarla. |
+| d | SetDash | Çizgi kesik desenini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetDash](../../../aspose.pdf.operators/setdash)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-CS operatörünü ziyaret edin/seçin.
+CS operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Renk alanı operatörünü ayarlayın (kontur işlemleri için). |
+| CS | SetColorSpaceStroke | Renk alanı operatörü (çizme işlemleri için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpace) {#visit_49}
 
-cs operatörünü ziyaret edin/seçin.
+cs operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| cs | SetColorSpace | Renk alanı operatörünü ayarlayın (kontursuz işlemler için). |
+| cs | SetColorSpace | Renk alanı operatörü (çizme dışı işlemler için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-cm operatörünü ziyaret edin/seçin.
+cm operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Matrisi mevcut dönüştürme matrisi operatörüyle birleştirin. |
+| cm | ConcatenateMatrix | Mevcut dönüşüm matrisine matris ekleme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo) {#visit_11}
 
-c operatörünü ziyaret edin/seçin.
+c operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(CurveTo c)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| c | CurveTo | Eğri parçayı yol operatörüne ekleyin (üç kontrol noktası). |
+| c | CurveTo | Yola eğik segment ekleme operatörü (üç kontrol noktası). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CurveTo](../../../aspose.pdf.operators/curveto)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BX) {#visit_4}
 
-BX operatörünü ziyaret edin/seçin.
+BX operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(BX BX)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| BX | BX | Uyumluluk bölümü operatörünü başlatın. |
+| BX | BX | Uç uyumluluk bölümünü başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BX](../../../aspose.pdf.operators/bx)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BT) {#visit_3}
 
-BT operatörünü ziyaret edin/seçin.
+BT operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(BT BT)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| BT | BT | Metin nesnesi operatörünü başlatın. |
+| BT | BT | Metin nesnesini başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BT](../../../aspose.pdf.operators/bt)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BMC) {#visit_2}
 
-BMC operatörünü ziyaret edin/seçin.
+BMC operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(BMC BMC)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| BMC | BMC | İşaretli içerik dizisi operatörüne başlayın. |
+| BMC | BMC | İşaretli içerik dizisini başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BMC](../../../aspose.pdf.operators/bmc)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BI) {#visit_1}
 
-BI operatörünü ziyaret edin/seçin.
+BI operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(BI BI)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| BI | BI | Satır içi görüntü nesnesi operatörüne başlayın. |
+| BI | BI | Satır içi resim nesnesini başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BI](../../../aspose.pdf.operators/bi)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BDC) {#visit}
 
-BDC operatörünü ziyaret edin/seçin.
+BDC operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(BDC BDC)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| BDC | BDC | İşaretli içerik dizisi operatörüne başlayın (özellik listesiyle birlikte). |
+| BDC | BDC | İşaretli içerik dizisini başlatma operatörü (özellik listesi ile). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BDC](../../../aspose.pdf.operators/bdc)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FillStroke) {#visit_25}
 
-B operatörünü ziyaret edin/seçin.
+B operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| B | FillStroke | Doldurma ve strok yolu operatörü (sıfır olmayan sarma numarası kuralı). |
+| B | FillStroke | Yolu doldur ve çiz operatörü (sıfırdan farklı sarma numarası kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FillStroke](../../../aspose.pdf.operators/fillstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-Bir operatörü ziyaret edin/seçin.
+b operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Kapatma, doldurma ve strok yolu operatörü (sıfır olmayan sarma numarası kuralı). |
+| b | ClosePathFillStroke | Yolu kapat, doldur ve çiz operatörü (sıfırdan farklı sarma numarası kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFillStroke) {#visit_21}
 
-B* operatörünü ziyaret edin/seçin.
+B* operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| B_ | EOFillStroke | Doldurma ve kontur yolu operatörü (çift-tek kuralı). |
+| B_ | EOFillStroke | Yolu doldur ve çiz operatörü (çift-tek kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-b* operatörünü ziyaret edin/seçin.
+b* operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Kapatma, doldurma ve kontur yolu operatörü (çift-tek kuralı). |
+| b_ | ClosePathEOFillStroke | Yolu kapat, doldur ve çiz operatörü (çift-tek kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-' operatörünü ziyaret edin/seçin.
+' operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Sonraki satıra geçin ve metin operatörünü gösterin. |
+| _ | MoveToNextLineShowText | Bir sonraki satıra geç ve metni göster operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-'' operatörünü ziyaret edin/seçin.
+'' operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Sözcük ve karakter aralığını ayarlayın, sonraki satıra geçin ve metin operatörünü gösterin. |
+| __ | SetSpacingMoveToNextLineShowText | Kelime ve karakter aralığını ayarla, bir sonraki satıra geç ve metni göster operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFill) {#visit_20}
 
-f*. operatörünü ziyaret edin/seçin
+f* operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EOFill f_)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| f_ | EOFill | Dolgu yolu operatörü (çift-tek kuralı). |
+| f_ | EOFill | Yolu doldur operatörü (çift-tek kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EOFill](../../../aspose.pdf.operators/eofill)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Fill) {#visit_24}
 
-Operatörü ziyaret edin/seçin.
+f operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| f | Fill | Dolgu yolu operatörü (sıfır olmayan sarma numarası kuralı). |
+| f | Fill | Yolu doldur operatörü (sıfırdan farklı sarma numarası kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Fill](../../../aspose.pdf.operators/fill)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-F operatörünü ziyaret edin/seçin.
+F operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| F | ObsoleteFill | Dolgu yolu operatörü (sıfır olmayan sarma numarası kuralı). |
+| F | ObsoleteFill | Yolu doldur operatörü (sıfırdan farklı sarma numarası kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-g operatörünü ziyaret edin/seçin.
+g operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| g | SetGray | Gri seviye operatörünü ayarla (stroksuz işlemler için). |
+| g | SetGray | Gri seviyesini ayarlama operatörü (çizme dışı işlemler için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetGray](../../../aspose.pdf.operators/setgray)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-G operatörünü ziyaret edin/seçin.
+G operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| G | SetGrayStroke | Gri seviye operatörünü ayarla (vuruş işlemleri için). |
+| G | SetGrayStroke | Gri seviyesini ayarlama operatörü (çizme işlemleri için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GS) {#visit_27}
 
-gs operatörünü ziyaret edin/seçin.
+gs operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gs | GS | Grafik durumu operatörünü ayarlayın. |
+| gs | GS | Grafik durumunu ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [GS](../../../aspose.pdf.operators/gs)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePath) {#visit_6}
 
-h operatörünü ziyaret edin/seçin.
+h operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ClosePath h)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| h | ClosePath | Alt yol operatörünü kapat. |
+| h | ClosePath | Alt yolu kapatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ClosePath](../../../aspose.pdf.operators/closepath)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-i operatörünü ziyaret edin/seçin.
+i operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| i | SetFlat | Düzlük toleransı operatörünü ayarlayın. |
+| i | SetFlat | Düzlük toleransını ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetFlat](../../../aspose.pdf.operators/setflat)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ID) {#visit_29}
 
-Kimlik operatörünü ziyaret edin/seçin.
+ID operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ID | ID | Satır içi görüntü veri operatörüne başlayın. |
+| ID | ID | Satır içi resim verisini başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ID](../../../aspose.pdf.operators/id)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ID](../../../aspose.pdf.operators/id/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineCap) {#visit_58}
 
-J operatörünü ziyaret edin/seçin.
+J operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| J | SetLineCap | Satır sınırı stili operatörünü ayarla. |
+| J | SetLineCap | Çizgi uç stilini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetLineCap](../../../aspose.pdf.operators/setlinecap)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-k operatörü ziyaret edin/seçin.
+k operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| k | SetCMYKColor | CMYK renk operatörünü ayarlayın (stroksuz işlemler için). |
+| k | SetCMYKColor | CMYK renk ayarlama operatörü (çizme dışı işlemler için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-K operatörünü ziyaret edin/seçin.
+K operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | CMYK renk operatörünü ayarlayın (kontur işlemleri için). |
+| K | SetCMYKColorStroke | CMYK renk ayarlama operatörü (çizme işlemleri için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineTo) {#visit_30}
 
-l operatörünü ziyaret edin/seçin.
+l operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| l | LineTo | Yol operatörüne düz çizgi parçası ekleyin. |
+| l | LineTo | Yola düz çizgi segmenti ekleme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LineTo](../../../aspose.pdf.operators/lineto)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTo) {#visit_33}
 
-m operatörünü ziyaret edin/seçin.
+m operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| m | MoveTo | Yeni alt yol operatörüne başlayın. |
+| m | MoveTo | Yeni alt yolu başlatma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MoveTo](../../../aspose.pdf.operators/moveto)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-M operatörünü ziyaret edin/seçin.
+M operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| M | SetMiterLimit | Gönye sınırı operatörünü ayarlayın. |
+| M | SetMiterLimit | Miter limitini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MP) {#visit_36}
 
-MP operatörünü ziyaret edin/seçin.
+MP operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| MP | MP | İşaretli içerik noktası operatörünü tanımlayın. |
+| MP | MP | İşaretli içerik noktasını tanımlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MP](../../../aspose.pdf.operators/mp)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EndPath) {#visit_18}
 
-n operatörünü ziyaret edin/seçin.
+n operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| n | EndPath | Yol işlecini sonlandır (doldurmadan veya konturlamadan). |
+| n | EndPath | Yolu sonlandırma operatörü (doldurma veya çizme olmadan). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EndPath](../../../aspose.pdf.operators/endpath)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GSave) {#visit_28}
 
-q operatörünü ziyaret edin/seçin.
+q operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| q | GSave | Grafik durumu operatörünü kaydet. |
+| q | GSave | Grafik durumunu kaydetme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [GSave](../../../aspose.pdf.operators/gsave)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GRestore) {#visit_26}
 
-Q operatörünü ziyaret edin/seçin.
+Q operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Q | GRestore | Grafik durumu operatörünü geri yükle. |
+| Q | GRestore | Grafik durumunu geri yükleme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [GRestore](../../../aspose.pdf.operators/grestore)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Re) {#visit_38}
 
-Yeniden operatörü ziyaret edin/seçin.
+re operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| re | Re | Dikdörtgeni yol operatörüne ekleyin. |
+| re | Re | Yola dikdörtgen ekleme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Re](../../../aspose.pdf.operators/re)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [Re](../../../aspose.pdf.operators/re/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColor) {#visit_62}
 
-Sistem operatörünü ziyaret edin/seçin.
+rg operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rg | SetRGBColor | RGB renk operatörünü ayarlayın (kontursuz işlemler için). |
+| rg | SetRGBColor | RGB renk ayarlama operatörü (çizme dışı işlemler için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-RG operatörünü ziyaret edin/seçin.
+RG operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | RGB renk operatörünü ayarlayın (vuruş işlemleri için). |
+| RG | SetRGBColorStroke | RGB renk ayarlama operatörü (çizme işlemleri için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-ri operatörünü ziyaret edin/seçin.
+ri operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Renk oluşturma amacı operatörünü ayarlayın. |
+| ri | SetColorRenderingIntent | Renk işleme niyetini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-Operatörünü ziyaret edin/seçin.
+s operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ClosePathStroke s)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| s | ClosePathStroke | Kapatma ve yol operatörü. |
+| s | ClosePathStroke | Yolu kapat ve çiz operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Stroke) {#visit_72}
 
-S operatörünü ziyaret edin/seçin.
+S operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(Stroke S)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| S | Stroke | Kontur yolu operatörü. |
+| S | Stroke | Yolu çizme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Stroke](../../../aspose.pdf.operators/stroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColor) {#visit_47}
 
-sc operatörünü ziyaret edin/seçin.
+sc operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sc | SetColor | Renk operatörünü ayarla (stroksuz işlemler için). |
+| sc | SetColor | Renk ayarlama operatörü (çizme dışı işlemler için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetColor](../../../aspose.pdf.operators/setcolor)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorStroke) {#visit_51}
 
-SC operatörünü ziyaret edin/seçin.
+SC operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| SC | SetColorStroke | Renk operatörünü ayarlayın (vuruş işlemleri için). |
+| SC | SetColorStroke | Renk ayarlama operatörü (çizme işlemleri için). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-scn operatörünü ziyaret edin/seçin.
+scn operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Renk işlecini ayarla (stroksuz işlemler, ICCBesed ve özel renk uzayları için). |
+| scn | SetAdvancedColor | Renk ayarlama operatörü (çizme dışı işlemler için, ICCBased ve özel renk alanları). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-SCN operatörünü ziyaret edin/seçin.
+SCN operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Renk işlecini ayarlayın (kontur işlemleri, ICCBedand özel renk uzayları için). |
+| SCN | SetAdvancedColorStroke | Renk ayarlama operatörü (çizme işlemleri için, ICCBased ve özel renk alanları). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ShFill) {#visit_70}
 
-sh operatörünü ziyaret edin/seçin.
+sh operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ShFill sh)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sh | ShFill | Gölgelendirme modeli operatörü tarafından tanımlanan boya alanı. |
+| sh | ShFill | Gölgeleme deseni ile tanımlanan alanı boyama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ShFill](../../../aspose.pdf.operators/shfill)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-T* operatörünü ziyaret edin/seçin.
+T* operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Sonraki metin satırı operatörünün başına git. |
+| T_ | MoveToNextLine | Bir sonraki metin satırının başlangıcına geçme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-Tc operatörünü ziyaret edin/seçin.
+Tc operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Karakter aralığı operatörünü ayarlayın. |
+| Tc | SetCharacterSpacing | Karakter aralığını ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-Td operatörünü ziyaret edin/seçin.
+Td operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Td | MoveTextPosition | Metin konumu operatörünü taşıyın. |
+| Td | MoveTextPosition | Metin konumunu taşıma operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-TD operatörünü ziyaret edin/seçin.
+TD operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Metin konumunu taşıyın ve önde gelen operatörü ayarlayın. |
+| TD | MoveTextPositionSetLeading | Metin konumunu taşıma ve liderliği ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SelectFont) {#visit_39}
 
-Tf operatörünü ziyaret edin/seçin.
+Tf operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tf | SelectFont | Metin yazı tipini ve boyut operatörünü ayarlayın. |
+| Tf | SelectFont | Metin yazı tipini ve boyutunu ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SelectFont](../../../aspose.pdf.operators/selectfont)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ShowText) {#visit_71}
 
-Tj operatörünü ziyaret edin/seçin.
+Tj operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(ShowText Tj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tj | ShowText | Metin operatörünü göster. |
+| Tj | ShowText | Metni gösterme operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ShowText](../../../aspose.pdf.operators/showtext)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-TJ operatörünü ziyaret edin/seçin.
+TJ operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Metin operatörünü göster (bireysel glif konumlandırmaya izin verir). |
+| TJ | SetGlyphsPositionShowText | Metni gösterme operatörü (bireysel glif konumlandırmasına izin verir). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextLeading) {#visit_65}
 
-TL operatörünü ziyaret edin/seçin.
+TL operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| TL | SetTextLeading | Metin önde gelen operatörünü ayarla. |
+| TL | SetTextLeading | Metin liderliğini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetTextLeading](../../../aspose.pdf.operators/settextleading)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-Tm operatörünü ziyaret edin/seçin.
+Tm operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Metin matrisini ve metin satırı matris operatörünü ayarlayın. |
+| Tm | SetTextMatrix | Metin matrisini ve metin satırı matrisini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-Tr operatörünü ziyaret edin/seçin.
+Tr operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Metin oluşturma modu operatörünü ayarlayın. |
+| Tr | SetTextRenderingMode | Metin işleme modunu ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRise) {#visit_68}
 
-Ts operatörünü ziyaret edin/seçin.
+Ts operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetTextRise Ts)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Ts | SetTextRise | Metin yükselme operatörünü ayarla. |
+| Ts | SetTextRise | Metin yükseliğini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetTextRise](../../../aspose.pdf.operators/settextrise)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetWordSpacing) {#visit_69}
 
-İki operatörü ziyaret edin/seçin.
+Tw operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetWordSpacing Tw)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Sözcük aralığı operatörünü ayarlayın. |
+| Tw | SetWordSpacing | Kelime aralığını ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Tz operatörünü ziyaret edin/seçin.
+Tz operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Yatay metin ölçekleme operatörünü ayarlayın. |
+| Tz | SetHorizontalTextScaling | Yatay metin ölçekleme operatörünü ayarlama. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo1) {#visit_12}
 
-v operatörünü ziyaret edin/seçin.
+v operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(CurveTo1 v)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| v | CurveTo1 | Eğri parçayı yol operatörüne ekleyin (başlangıç noktası çoğaltılır). |
+| v | CurveTo1 | Yola eğik segment ekleme operatörü (ilk nokta kopyalanır). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CurveTo1](../../../aspose.pdf.operators/curveto1)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOClip) {#visit_19}
 
-W* operatörünü ziyaret edin/seçin.
+W* operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| W_ | EOClip | Kırpma yolu operatörünü ayarla (çift-tek kuralı). |
+| W_ | EOClip | Kırpma yolunu ayarlama operatörü (çift-tek kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [EOClip](../../../aspose.pdf.operators/eoclip)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-w operatörünü ziyaret edin/seçin.
+w operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| w | SetLineWidth | Çizgi genişliği operatörünü ayarla. |
+| w | SetLineWidth | Çizgi genişliğini ayarlama operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Clip) {#visit_5}
 
-W operatörünü ziyaret edin/seçin.
+W operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(Clip W)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| W | Clip | Kırpma yolu operatörünü ayarla (sıfır olmayan sarma numarası kuralı). |
+| W | Clip | Kırpma yolunu ayarlama operatörü (sıfırdan farklı sarma numarası kuralı). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Clip](../../../aspose.pdf.operators/clip)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo2) {#visit_13}
 
-Bir operatörü ziyaret edin/seçin.
+y operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(CurveTo2 y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| y | CurveTo2 | Eğri parçayı yol operatörüne ekleyin (son nokta çoğaltılır). |
+| y | CurveTo2 | Yola eğik segment ekleme operatörü (son nokta kopyalanır). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CurveTo2](../../../aspose.pdf.operators/curveto2)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(TextOperator) {#visit_73}
 
-Herhangi bir metin operatörü operatörünü ziyaret edin/seçin.
+Herhangi bir metin operatörünü ziyaret et/seç.
 
 ```csharp
 public void Visit(TextOperator textOperator)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| textOperator | TextOperator | İlgili pdf operatörleri setini seçmek için kullanılan genel metin operatörü. |
+| textOperator | TextOperator | İlgili pdf operatörlerini seçmek için kullanılan genel metin operatörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextOperator](../../../aspose.pdf.operators/textoperator)
-* class [OperatorSelector](../../operatorselector)
-* ad alanı [Aspose.Pdf](../../operatorselector)
-* toplantı [Aspose.PDF](../../../)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---

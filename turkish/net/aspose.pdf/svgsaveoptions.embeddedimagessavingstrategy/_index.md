@@ -1,24 +1,22 @@
 ---
-title: SvgSaveOptions.EmbeddedImagesSavingStrategy
-second_title: Aspose.PDF for .NET API Referansı
-description: Bu tür bir özelliğe PDFden oluşturulan SVGden çıkarılan ve PDFnin HTMLye dönüştürülmesi sırasında harici kaynak olarak kaydedilmesi gereken görüntünün harici kaydedilmesini uygulayan özel yöntemden oluşturulan temsilciyi atayabilirsiniz. Bu durumda işleme akışa veya diske kendi kendine kaydetme gibi bu özel kodda yapılabilir ve bu özel kodun yolu veya tırnak işaretleri olmadan başka bir dizeyi döndürmesi gerekir. bu görüntü kaynağı. Böyle bir durumda görüntünün kaydedilmesi için gerekli tüm eylemler sağlanan yöntemin kodunda gerçekleştirilmelidir çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu dosyanın işlenmesi özel kodda değil dönüştürücünün kodu tarafından yapılması gerekiyorsa lütfen imageSavingInfo parametresinin değişkeninin CustomProcessingCancelled özel kod bayrağına ayarlayın. kaynağının işlenmesi herhangi bir harici özel kod yokmuş gibi dönüştürücünün kendisinde yapılmalıdır . özel kodda kullanılabilecek kayıtlı görüntü hakkındaki bilgileri temsil ederSVGye yerleştirilecek resmin URLsini temsil eden dize döndürmelidir
+title: Delegate SvgSaveOptions.EmbeddedImagesSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Bu türdeki bir özelliğe, PDF'den oluşturulan SVG'den çıkarılan görüntünün dışa aktarımını işleyen özel bir yöntemden oluşturulan delegeleri atayabilirsiniz ve bu, PDF'den HTML'ye dönüştürme sırasında dış kaynak olarak kaydedilmelidir. Bu durumda, akışa veya diske kendi başına kaydetme gibi işlemler bu özel kodda yapılabilir ve bu özel kod, daha sonra o görüntü kaynağına ait orijinal varsayılan yolun yerine oluşturulan SVG'ye dahil edilecek bir yol (veya herhangi başka bir tırnak işareti olmadan bir dize) döndürmelidir. Bu durumda, görüntünün kaydedilmesi için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü dönüştürücünün kodunda sonucun kaydedilmesi kullanılmayacaktır. Eğer bu veya şu dosya için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'imageSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın. Bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde yapılması gerektiğini, sanki dış bir özel kod yokmuş gibi sinyal eder. Kaydedilen görüntü hakkında bilgi temsil eder, özel kodda kullanılabilir, SVG'ye konulacak görüntünün URL'sini temsil eden bir dize döndürmelidir.
 type: docs
-weight: 6460
+weight: 10240
 url: /tr/net/aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
 ---
-## SvgSaveOptions.EmbeddedImagesSavingStrategy delegate
+## SvgSaveOptions.EmbeddedImagesSavingStrategy delegesi
 
-Bu tür bir özelliğe, PDF'den oluşturulan SVG'den çıkarılan ve PDF'nin HTML'ye dönüştürülmesi sırasında harici kaynak olarak kaydedilmesi gereken görüntünün harici kaydedilmesini uygulayan özel yöntemden oluşturulan temsilciyi atayabilirsiniz. Bu durumda işleme (akışa veya diske kendi kendine kaydetme gibi) bu özel kodda yapılabilir ve bu özel kodun yolu (veya tırnak işaretleri olmadan başka bir dizeyi) döndürmesi gerekir. bu görüntü kaynağı. Böyle bir durumda görüntünün kaydedilmesi için gerekli tüm eylemler, sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu dosyanın işlenmesi özel kodda değil, dönüştürücünün kodu tarafından yapılması gerekiyorsa, lütfen 'imageSavingInfo' parametresinin değişkeninin 'CustomProcessingCancelled' özel kod bayrağına ayarlayın. kaynağının işlenmesi, herhangi bir harici özel kod yokmuş gibi dönüştürücünün kendisinde yapılmalıdır . özel kodda kullanılabilecek kayıtlı görüntü hakkındaki bilgileri temsil ederSVG'ye yerleştirilecek resmin URL'sini temsil eden dize döndürmelidir
+Bu türdeki bir özelliğe, PDF'den oluşturulan SVG'den çıkarılan görüntünün dışa aktarımını işleyen özel bir yöntemden oluşturulan delegeleri atayabilirsiniz ve bu, PDF'den HTML'ye dönüştürme sırasında dış kaynak olarak kaydedilmelidir. Bu durumda, akışa veya diske kendi başına kaydetme gibi işlemler bu özel kodda yapılabilir ve bu özel kod, daha sonra o görüntü kaynağına ait orijinal varsayılan yolun yerine oluşturulan SVG'ye dahil edilecek bir yol (veya herhangi başka bir tırnak işareti olmadan bir dize) döndürmelidir. Bu durumda, görüntünün kaydedilmesi için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü dönüştürücünün kodunda sonucun kaydedilmesi kullanılmayacaktır. Eğer bu veya şu dosya için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'imageSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın. Bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde yapılması gerektiğini, sanki dış bir özel kod yokmuş gibi sinyal eder. Kaydedilen görüntü hakkında bilgi temsil eder, özel kodda kullanılabilir, SVG'ye konulacak görüntünün URL'sini temsil eden bir dize döndürmelidir.
 
 ```csharp
 public delegate string EmbeddedImagesSavingStrategy(SvgImageSavingInfo imageSavingInfo);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SvgImageSavingInfo](../svgsaveoptions.svgimagesavinginfo)
-* class [SvgSaveOptions](../svgsaveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [SvgImageSavingInfo](../svgsaveoptions.svgimagesavinginfo/)
+* sınıf [SvgSaveOptions](../svgsaveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

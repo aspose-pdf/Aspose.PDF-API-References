@@ -1,14 +1,14 @@
 ---
-title: IOperatorSelector
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Définit le visiteur pour visiter différents opérateurs pdf.
+title: Interface IOperatorSelector
+second_title: Aspose.PDF for .NET API Reference
+description: Interface Aspose.Pdf.IOperatorSelector. Définit un visiteur pour visiter différents opérateurs pdf
 type: docs
-weight: 3650
+weight: 5790
 url: /fr/net/aspose.pdf/ioperatorselector/
 ---
-## IOperatorSelector interface
+## Interface IOperatorSelector
 
-Définit le visiteur pour visiter différents opérateurs pdf.
+Définit un visiteur pour visiter différents opérateurs pdf.
 
 ```csharp
 public interface IOperatorSelector
@@ -16,86 +16,84 @@ public interface IOperatorSelector
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit)(BDC) | Visitez/sélectionnez l'opérateur BDC. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_1)(BI) | Visitez/sélectionnez l'opérateur BI. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_2)(BMC) | Visitez/sélectionnez l'opérateur BMC. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_3)(BT) | Visitez/sélectionnez l'opérateur BT. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_4)(BX) | Visitez/sélectionnez l'opérateur BX. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_5)(Clip) | Visitez/sélectionnez l'opérateur W. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_6)(ClosePath) | Visitez/sélectionnez l'opérateur h. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_7)(ClosePathEOFillStroke) | Visitez/sélectionnez b* opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_8)(ClosePathFillStroke) | Visitez/sélectionnez un opérateur b. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_9)(ClosePathStroke) | Visitez/sélectionnez l'opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_10)(ConcatenateMatrix) | Visitez/sélectionnez l'opérateur cm. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_11)(CurveTo) | Visitez/sélectionnez l'opérateur c. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_12)(CurveTo1) | Visitez/sélectionnez l'opérateur v. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_13)(CurveTo2) | Visitez/sélectionnez y opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_14)(Do) | Visitez/sélectionnez l'opérateur Do. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_15)(DP) | Visitez/sélectionnez l'opérateur DP. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_16)(EI) | Visitez/sélectionnez l'opérateur EI. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_17)(EMC) | Visitez/sélectionnez l'opérateur EMC. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_18)(EndPath) | Visitez/sélectionnez n opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_19)(EOClip) | Visitez/sélectionnez l'opérateur W*. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_20)(EOFill) | Visitez/sélectionnez l'opérateur f*. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_21)(EOFillStroke) | Visitez/sélectionnez l'opérateur B*. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_22)(ET) | Visitez/sélectionnez l'opérateur ET. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_23)(EX) | Visitez/sélectionnez l'opérateur EX. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_24)(Fill) | Visitez/sélectionnez l'opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_25)(FillStroke) | Visitez/sélectionnez l'opérateur B. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_26)(GRestore) | Visitez/sélectionnez l'opérateur Q. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_27)(GS) | Visitez/sélectionnez l'opérateur gs. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_28)(GSave) | Visitez/sélectionnez q opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_29)(ID) | Visitez/sélectionnez l'opérateur ID. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_30)(LineTo) | Visitez/sélectionnez l'opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_31)(MoveTextPosition) | Visitez/sélectionnez l'opérateur Td. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_32)(MoveTextPositionSetLeading) | Visitez/sélectionnez l'opérateur TD. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_33)(MoveTo) | Visitez/sélectionnez m opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_34)(MoveToNextLine) | Visitez/sélectionnez l'opérateur T*. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_35)(MoveToNextLineShowText) | Visitez/sélectionnez ' opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_36)(MP) | Visitez/sélectionnez l'opérateur MP. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_37)(ObsoleteFill) | Visitez/sélectionnez l'opérateur F. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_38)(Re) | Visitez/sélectionnez un opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_39)(SelectFont) | Visitez/sélectionnez l'opérateur Tf. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_40)(SetAdvancedColor) | Visitez/sélectionnez l'opérateur scn. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_41)(SetAdvancedColorStroke) | Visitez/sélectionnez l'opérateur SCN. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_42)(SetCharacterSpacing) | Visitez/sélectionnez l'opérateur Tc. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_43)(SetCharWidth) | Visitez/sélectionnez l'opérateur d0. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_44)(SetCharWidthBoundingBox) | Visitez/sélectionnez l'opérateur d1. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_45)(SetCMYKColor) | Visitez/sélectionnez l'opérateur k. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_46)(SetCMYKColorStroke) | Visitez/sélectionnez l'opérateur K. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_47)(SetColor) | Visitez/sélectionnez l'opérateur sc. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_48)(SetColorRenderingIntent) | Visitez/sélectionnez l'opérateur ri. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_49)(SetColorSpace) | Visitez/sélectionnez l'opérateur cs. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_50)(SetColorSpaceStroke) | Visitez/sélectionnez l'opérateur CS. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_51)(SetColorStroke) | Visitez/sélectionnez l'opérateur SC. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_52)(SetDash) | Visitez/sélectionnez un opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_53)(SetFlat) | Visitez/sélectionnez i opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_54)(SetGlyphsPositionShowText) | Visitez/sélectionnez l'opérateur TJ. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_55)(SetGray) | Visitez/sélectionnez l'opérateur g. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_56)(SetGrayStroke) | Visitez/sélectionnez l'opérateur G. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_57)(SetHorizontalTextScaling) | Visitez/sélectionnez l'opérateur Tz. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_58)(SetLineCap) | Visitez/sélectionnez l'opérateur J. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_59)(SetLineJoin) | Visitez/sélectionnez l'opérateur j. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_60)(SetLineWidth) | Visitez/sélectionnez w opérateur. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_61)(SetMiterLimit) | Visitez/sélectionnez l'opérateur M. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_62)(SetRGBColor) | Visitez/sélectionnez l'opérateur rg. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_63)(SetRGBColorStroke) | Visitez/sélectionnez l'opérateur RG. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_64)(SetSpacingMoveToNextLineShowText) | Visitez/sélectionnez l'opérateur ''. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_65)(SetTextLeading) | Visitez/sélectionnez l'opérateur TL. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_66)(SetTextMatrix) | Visitez/sélectionnez l'opérateur Tm. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_67)(SetTextRenderingMode) | Visitez/sélectionnez l'opérateur Tr. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_68)(SetTextRise) | Visitez/sélectionnez l'opérateur Ts. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_69)(SetWordSpacing) | Visitez/sélectionnez l'opérateur Tw. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_70)(ShFill) | Visitez/sélectionnez l'opérateur sh. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_71)(ShowText) | Visitez/sélectionnez l'opérateur Tj. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_72)(Stroke) | Visitez/sélectionnez l'opérateur S. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit#visit_73)(TextOperator) | Visitez/sélectionnez n'importe quel opérateur de texte. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit)(BDC) | Visiter/sélectionner l'opérateur BDC. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_1)(BI) | Visiter/sélectionner l'opérateur BI. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_2)(BMC) | Visiter/sélectionner l'opérateur BMC. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_3)(BT) | Visiter/sélectionner l'opérateur BT. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_4)(BX) | Visiter/sélectionner l'opérateur BX. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_5)(Clip) | Visiter/sélectionner l'opérateur W. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_6)(ClosePath) | Visiter/sélectionner l'opérateur h. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_7)(ClosePathEOFillStroke) | Visiter/sélectionner l'opérateur b*. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_8)(ClosePathFillStroke) | Visiter/sélectionner l'opérateur b. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_9)(ClosePathStroke) | Visiter/sélectionner l'opérateur s. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_10)(ConcatenateMatrix) | Visiter/sélectionner l'opérateur cm. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_11)(CurveTo) | Visiter/sélectionner l'opérateur c. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_12)(CurveTo1) | Visiter/sélectionner l'opérateur v. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_13)(CurveTo2) | Visiter/sélectionner l'opérateur y. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_14)(Do) | Visiter/sélectionner l'opérateur Do. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_15)(DP) | Visiter/sélectionner l'opérateur DP. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_16)(EI) | Visiter/sélectionner l'opérateur EI. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_17)(EMC) | Visiter/sélectionner l'opérateur EMC. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_18)(EndPath) | Visiter/sélectionner l'opérateur n. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_19)(EOClip) | Visiter/sélectionner l'opérateur W*. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_20)(EOFill) | Visiter/sélectionner l'opérateur f*. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_21)(EOFillStroke) | Visiter/sélectionner l'opérateur B*. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_22)(ET) | Visiter/sélectionner l'opérateur ET. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_23)(EX) | Visiter/sélectionner l'opérateur EX. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_24)(Fill) | Visiter/sélectionner l'opérateur f. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_25)(FillStroke) | Visiter/sélectionner l'opérateur B. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_26)(GRestore) | Visiter/sélectionner l'opérateur Q. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_27)(GS) | Visiter/sélectionner l'opérateur gs. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_28)(GSave) | Visiter/sélectionner l'opérateur q. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_29)(ID) | Visiter/sélectionner l'opérateur ID. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_30)(LineTo) | Visiter/sélectionner l'opérateur l. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_31)(MoveTextPosition) | Visiter/sélectionner l'opérateur Td. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_32)(MoveTextPositionSetLeading) | Visiter/sélectionner l'opérateur TD. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_33)(MoveTo) | Visiter/sélectionner l'opérateur m. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_34)(MoveToNextLine) | Visiter/sélectionner l'opérateur T*. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_35)(MoveToNextLineShowText) | Visiter/sélectionner l'opérateur '. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_36)(MP) | Visiter/sélectionner l'opérateur MP. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_37)(ObsoleteFill) | Visiter/sélectionner l'opérateur F. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_38)(Re) | Visiter/sélectionner l'opérateur re. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_39)(SelectFont) | Visiter/sélectionner l'opérateur Tf. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_40)(SetAdvancedColor) | Visiter/sélectionner l'opérateur scn. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_41)(SetAdvancedColorStroke) | Visiter/sélectionner l'opérateur SCN. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_42)(SetCharacterSpacing) | Visiter/sélectionner l'opérateur Tc. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_43)(SetCharWidth) | Visiter/sélectionner l'opérateur d0. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | Visiter/sélectionner l'opérateur d1. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_45)(SetCMYKColor) | Visiter/sélectionner l'opérateur k. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_46)(SetCMYKColorStroke) | Visiter/sélectionner l'opérateur K. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_47)(SetColor) | Visiter/sélectionner l'opérateur sc. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_48)(SetColorRenderingIntent) | Visiter/sélectionner l'opérateur ri. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_49)(SetColorSpace) | Visiter/sélectionner l'opérateur cs. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_50)(SetColorSpaceStroke) | Visiter/sélectionner l'opérateur CS. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_51)(SetColorStroke) | Visiter/sélectionner l'opérateur SC. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_52)(SetDash) | Visiter/sélectionner l'opérateur d. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_53)(SetFlat) | Visiter/sélectionner l'opérateur i. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | Visiter/sélectionner l'opérateur TJ. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_55)(SetGray) | Visiter/sélectionner l'opérateur g. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_56)(SetGrayStroke) | Visiter/sélectionner l'opérateur G. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_57)(SetHorizontalTextScaling) | Visiter/sélectionner l'opérateur Tz. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_58)(SetLineCap) | Visiter/sélectionner l'opérateur J. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_59)(SetLineJoin) | Visiter/sélectionner l'opérateur j. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_60)(SetLineWidth) | Visiter/sélectionner l'opérateur w. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_61)(SetMiterLimit) | Visiter/sélectionner l'opérateur M. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_62)(SetRGBColor) | Visiter/sélectionner l'opérateur rg. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_63)(SetRGBColorStroke) | Visiter/sélectionner l'opérateur RG. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | Visiter/sélectionner l'opérateur ''. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_65)(SetTextLeading) | Visiter/sélectionner l'opérateur TL. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_66)(SetTextMatrix) | Visiter/sélectionner l'opérateur Tm. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_67)(SetTextRenderingMode) | Visiter/sélectionner l'opérateur Tr. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_68)(SetTextRise) | Visiter/sélectionner l'opérateur Ts. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_69)(SetWordSpacing) | Visiter/sélectionner l'opérateur Tw. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_70)(ShFill) | Visiter/sélectionner l'opérateur sh. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_71)(ShowText) | Visiter/sélectionner l'opérateur Tj. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_72)(Stroke) | Visiter/sélectionner l'opérateur S. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_73)(TextOperator) | Visiter/sélectionner tout opérateur de texte. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

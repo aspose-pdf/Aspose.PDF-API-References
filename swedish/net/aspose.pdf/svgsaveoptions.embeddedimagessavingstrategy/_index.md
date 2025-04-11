@@ -1,24 +1,22 @@
 ---
-title: SvgSaveOptions.EmbeddedImagesSavingStrategy
-second_title: Aspose.PDF för .NET API Referens
-description: Till egenskap av sådan typ Du kan tilldela delegat skapad från anpassad metod som implementerar bearbetning av extern lagring av bild som extraherades från SVG skapad från PDF och måste sparas som extern resurs under konvertering av PDF till HTML. I sådana fall bearbetning som självgjord lagring i ström eller på disk kan göras i den anpassade koden och den anpassade koden måste returnera sökvägen eller någon annan sträng utan citattecken som sedan kommer att införlivas i genererad SVG istället för den ursprungliga tänkta sökvägen till den bildresursen. I sådana fall måste alla nödvändiga åtgärder för att spara bilden utföras i koden för den medföljande metoden eftersom lagring av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för den här eller den filen av någon anledning måste göras av omvandlarens kod själv inte i anpassad kod vänligen ställ in anpassad kodflagga CustomProcessingCancelled av imageSavingInfo-parameterns variabel Det signalerar till omvandlaren att alla nödvändiga steg för bearbetning av den resursen måste göras i själva konverteraren som om det inte fanns någon extern anpassad kod . representerar information om sparad bild som kan användas i anpassad kodmåste returnera en sträng som representerar webbadressen till bilden som kommer att läggas in i SVG
+title: Delegate SvgSaveOptions.EmbeddedImagesSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Till egenskap av sådan typ kan du tilldela en delegat skapad från en anpassad metod som implementerar bearbetning av extern sparande av bild som extraherades från SVG skapad från PDF och måste sparas som extern resurs under konvertering av PDF till HTML. I sådana fall kan bearbetning (som egen sparande i ström eller på disk) göras i den anpassade koden och den anpassade koden måste returnera sökväg (eller någon annan sträng utan citattecken) som senare kommer att införlivas i den genererade SVG istället för den ursprungliga antagna sökvägen till den bildresursen. I sådana fall måste alla nödvändiga åtgärder för att spara bilden vidtas i koden för den tillhandahållna metoden, eftersom sparande av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för denna eller den fil av någon anledning måste göras av konverterarens kod själv, inte i den anpassade koden, vänligen ställ in i den anpassade koden flaggan 'CustomProcessingCancelled' för variabeln 'imageSavingInfo' parameter. Det signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste göras i konverteraren själv som om det inte fanns någon extern anpassad kod. representerar information om sparad bild som kan användas i den anpassade koden måste returnera sträng som representerar URL för bilden som kommer att sättas in i SVG
 type: docs
-weight: 6460
+weight: 10240
 url: /sv/net/aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
 ---
-## SvgSaveOptions.EmbeddedImagesSavingStrategy delegate
+## SvgSaveOptions.EmbeddedImagesSavingStrategy delegat
 
-Till egenskap av sådan typ Du kan tilldela delegat skapad från anpassad metod som implementerar bearbetning av extern lagring av bild som extraherades från SVG skapad från PDF och måste sparas som extern resurs under konvertering av PDF till HTML. I sådana fall bearbetning (som självgjord lagring i ström eller på disk) kan göras i den anpassade koden och den anpassade koden måste returnera sökvägen (eller någon annan sträng utan citattecken) som sedan kommer att införlivas i genererad SVG istället för den ursprungliga tänkta sökvägen till den bildresursen. I sådana fall måste alla nödvändiga åtgärder för att spara bilden utföras i koden för den medföljande metoden, eftersom lagring av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för den här eller den filen av någon anledning måste göras av omvandlarens kod själv, inte i anpassad kod, vänligen ställ in anpassad kodflagga 'CustomProcessingCancelled' av 'imageSavingInfo'-parameterns variabel Det signalerar till omvandlaren att alla nödvändiga steg för bearbetning av den resursen måste göras i själva konverteraren som om det inte fanns någon extern anpassad kod . representerar information om sparad bild som kan användas i anpassad kodmåste returnera en sträng som representerar webbadressen till bilden som kommer att läggas in i SVG
+Till egenskap av sådan typ kan du tilldela en delegat skapad från en anpassad metod som implementerar bearbetning av extern sparande av bild som extraherades från SVG skapad från PDF och måste sparas som extern resurs under konvertering av PDF till HTML. I sådana fall kan bearbetning (som egen sparande i ström eller på disk) göras i den anpassade koden och den anpassade koden måste returnera sökväg (eller någon annan sträng utan citattecken) som senare kommer att införlivas i den genererade SVG istället för den ursprungliga antagna sökvägen till den bildresursen. I sådana fall måste alla nödvändiga åtgärder för att spara bilden vidtas i koden för den tillhandahållna metoden, eftersom sparande av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för denna eller den fil av någon anledning måste göras av konverterarens kod själv, inte i den anpassade koden, vänligen ställ in i den anpassade koden flaggan 'CustomProcessingCancelled' för variabeln 'imageSavingInfo' parameter. Det signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste göras i konverteraren själv som om det inte fanns någon extern anpassad kod. representerar information om sparad bild som kan användas i den anpassade koden måste returnera sträng som representerar URL för bilden som kommer att sättas in i SVG
 
 ```csharp
 public delegate string EmbeddedImagesSavingStrategy(SvgImageSavingInfo imageSavingInfo);
 ```
 
-### Se även
+### Se Även
 
-* class [SvgImageSavingInfo](../svgsaveoptions.svgimagesavinginfo)
-* class [SvgSaveOptions](../svgsaveoptions)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [SvgImageSavingInfo](../svgsaveoptions.svgimagesavinginfo/)
+* klass [SvgSaveOptions](../svgsaveoptions/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

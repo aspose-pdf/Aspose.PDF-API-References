@@ -1,14 +1,14 @@
 ---
-title: XmpValue
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar XMP-värdet
+title: Class XmpValue
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XmpValue klass. Representerar XMP-värde
 type: docs
-weight: 7550
+weight: 11500
 url: /sv/net/aspose.pdf/xmpvalue/
 ---
-## XmpValue class
+## XmpValue klass
 
-Representerar XMP-värdet
+Representerar XMP-värde
 
 ```csharp
 public class XmpValue
@@ -16,52 +16,50 @@ public class XmpValue
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpValue](xmpvalue#constructor_3)(DateTime) | Konstruktör för datum och tid värde. |
-| [XmpValue](xmpvalue#constructor_1)(double) | Konstruktör för flyttal Value. |
-| [XmpValue](xmpvalue#constructor_2)(int) | Konstruktor för heltalsvärde. |
-| [XmpValue](xmpvalue#constructor_4)(string) | Konstruktör för strängvärde. |
-| [XmpValue](xmpvalue#constructor)(XmpValue[]) | Konstruktör för matrisvärde. |
+| [XmpValue](xmpvalue/#constructor_3)(DateTime) | Konstruktör för datum- och tidsvärde. |
+| [XmpValue](xmpvalue/#constructor_1)(double) | Konstruktör för flyttal. |
+| [XmpValue](xmpvalue/#constructor_2)(int) | Konstruktör för heltalsvärde. |
+| [XmpValue](xmpvalue/#constructor_4)(string) | Konstruktör för strängvärde. |
+| [XmpValue](xmpvalue/#constructor)(XmpValue[]) | Konstruktör för arrayvärde. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsArray](../../aspose.pdf/xmpvalue/isarray) { get; } | Returnerar sant är XmpValue är array. |
-| [IsDateTime](../../aspose.pdf/xmpvalue/isdatetime) { get; } | Returnerar sant om värdet är DateTime. |
-| [IsDouble](../../aspose.pdf/xmpvalue/isdouble) { get; } | Returnerar sant om värdet är flyttal. |
-| [IsField](../../aspose.pdf/xmpvalue/isfield) { get; } | Returnerar sant om XmpValue är field. |
-| [IsInteger](../../aspose.pdf/xmpvalue/isinteger) { get; } | Returnerar sant om värdet är heltal. |
-| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue) { get; } | Returnerar sant om XmpValue heter värde. |
-| [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues) { get; } | Returnerar sant är XmpValue representerar namngivna värden. |
-| [IsRaw](../../aspose.pdf/xmpvalue/israw) { get; } | Värdet stöds inte/okänt och rå XML-kod tillhandahålls. |
-| [IsString](../../aspose.pdf/xmpvalue/isstring) { get; } | Returnerar sant om värdet är sträng. |
-| [IsStructure](../../aspose.pdf/xmpvalue/isstructure) { get; } | Returnerar sant är XmpValue representerar struktur. |
+| [IsArray](../../aspose.pdf/xmpvalue/isarray/) { get; } | Returnerar sant om XmpValue är en array. |
+| [IsDateTime](../../aspose.pdf/xmpvalue/isdatetime/) { get; } | Returnerar sant om värdet är DateTime. |
+| [IsDouble](../../aspose.pdf/xmpvalue/isdouble/) { get; } | Returnerar sant om värdet är ett flyttal. |
+| [IsField](../../aspose.pdf/xmpvalue/isfield/) { get; } | Returnerar sant om XmpValue är ett fält. |
+| [IsInteger](../../aspose.pdf/xmpvalue/isinteger/) { get; } | Returnerar sant om värdet är ett heltal. |
+| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue/) { get; } | Returnerar sant om XmpValue är ett namngivet värde. |
+| [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues/) { get; } | Returnerar sant om XmpValue representerar namngivna värden. |
+| [IsRaw](../../aspose.pdf/xmpvalue/israw/) { get; } | Värdet är inte stödd/okänt och rå XML-kod tillhandahålls. |
+| [IsString](../../aspose.pdf/xmpvalue/isstring/) { get; } | Returnerar sant om värdet är en sträng. |
+| [IsStructure](../../aspose.pdf/xmpvalue/isstructure/) { get; } | Returnerar sant om XmpValue representerar en struktur. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ToArray](../../aspose.pdf/xmpvalue/toarray)() | Returnerar array. |
-| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime)() | Konverterar till datumtid. |
-| [ToDictionary](../../aspose.pdf/xmpvalue/todictionary)() | Returnerar ordbok som innehåller namngivna värden. |
-| [ToDouble](../../aspose.pdf/xmpvalue/todouble)() | Konverteras till dubbel. |
-| [ToField](../../aspose.pdf/xmpvalue/tofield)() | Returnerar XMP-värde som XMP-fält. |
-| [ToInteger](../../aspose.pdf/xmpvalue/tointeger)() | Konverteras till heltal. |
-| [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue)() | Returnerar XMP-värde som namngett värde. |
-| [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues)() | Returnerar XMP-värde som namngiven värdesamling. |
-| [ToRaw](../../aspose.pdf/xmpvalue/toraw)() | Rå XML-kod för okända/inte stödda värden. |
-| override [ToString](../../aspose.pdf/xmpvalue/tostring#tostring)() | Returnerar strängrepresentation av XmpValue. |
-| [ToString](../../aspose.pdf/xmpvalue/tostring#tostring_1)(IFormatProvider) | Returnerar strängrepresentation. |
-| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue)() | Konverterar till sträng. |
-| [ToStructure](../../aspose.pdf/xmpvalue/tostructure)() | Returnerar XMP-värde som struktur (uppsättning fält). |
-| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit#op_explicit) | Konverterar XmpValue till array. (5 operators) |
-| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit#op_implicit_4) | Konverterar sträng till XmpValue. (5 operators) |
+| [ToArray](../../aspose.pdf/xmpvalue/toarray/)() | Returnerar array. |
+| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime/)() | Konverterar till datum och tid. |
+| [ToDictionary](../../aspose.pdf/xmpvalue/todictionary/)() | Returnerar en ordbok som innehåller namngivna värden. |
+| [ToDouble](../../aspose.pdf/xmpvalue/todouble/)() | Konverterar till double. |
+| [ToField](../../aspose.pdf/xmpvalue/tofield/)() | Returnerar XMP-värde som XMP-fält. |
+| [ToInteger](../../aspose.pdf/xmpvalue/tointeger/)() | Konverterar till heltal. |
+| [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue/)() | Returnerar XMP-värde som namngivet värde. |
+| [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues/)() | Returnerar XMP-värde som samling av namngivna värden. |
+| [ToRaw](../../aspose.pdf/xmpvalue/toraw/)() | Rå XML-kod för okända/icke stödda värden. |
+| override [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring)() | Returnerar strängrepresentation av XmpValue. |
+| [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring_1)(IFormatProvider) | Returnerar strängrepresentation. |
+| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue/)() | Konverterar till sträng. |
+| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | Returnerar XMP-värde som struktur (uppsättning av fält). |
+| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit/#op_explicit) | Konverterar XmpValue till array. (5 operatorer) |
+| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit/#op_implicit_4) | Konverterar sträng till XmpValue. (5 operatorer) |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: WatermarkArtifact
-second_title: Aspose.PDF för .NET API Referens
-description: Klass beskriver vattenstämpelartefakt. Detta kan användas för att
+title: Class WatermarkArtifact
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.WatermarkArtifact klass. Klassen beskriver vattenstämpelartefakt. Detta kan användas för att
 type: docs
-weight: 7360
+weight: 11310
 url: /sv/net/aspose.pdf/watermarkartifact/
 ---
-## WatermarkArtifact class
+## WatermarkArtifact klass
 
-Klass beskriver vattenstämpelartefakt. Detta kan användas för att
+Klassen beskriver vattenstämpelartefakt. Detta kan användas för att
 
 ```csharp
 public class WatermarkArtifact : Artifact
@@ -16,57 +16,56 @@ public class WatermarkArtifact : Artifact
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [WatermarkArtifact](watermarkartifact)() | Skapar instans av Watermark-artefakt. |
+| [WatermarkArtifact](watermarkartifact/)() | Skapar en instans av vattenstämpelartefakt. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment) { get; set; } | Horisontell justering av artefakt. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment) { get; set; } | Vertikal justering av artefakt. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin) { get; set; } | Artefaktens nedre marginal. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [Contents](../../aspose.pdf/artifact/contents) { get; } | Får en samling av artefakt interna operatorer. |
-| [CustomSubtype](../../aspose.pdf/artifact/customsubtype) { get; set; } | Får namn på artefaktundertyp. Kan användas om artefaktsubtypen inte är standardsubtypen. |
-| [CustomType](../../aspose.pdf/artifact/customtype) { get; set; } | Får namn på artefakttyp. Kan användas om artefakttypen inte är standard. |
-| [Form](../../aspose.pdf/artifact/form) { get; } | Hämtar XForm av artefakten (om XForm används). |
-| [Image](../../aspose.pdf/artifact/image) { get; } | Får bild av artefakten (om den finns). |
-| [IsBackground](../../aspose.pdf/artifact/isbackground) { get; set; } | Om true Artifact placeras bakom sidinnehållet. |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin) { get; set; } | Vänster marginal på artefakten. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [Lines](../../aspose.pdf/artifact/lines) { get; } | Rader med flerradstextartefakt. |
-| [Opacity](../../aspose.pdf/artifact/opacity) { get; set; } | Hämtar eller ställer in opaciteten för artefakten. Möjliga värden ligger inom intervallet 0..1. |
-| [Position](../../aspose.pdf/artifact/position) { get; set; } | Hämtar eller ställer in artefaktposition. Om den här egenskapen anges ignoreras marginaler och justeringar. |
-| [Rectangle](../../aspose.pdf/artifact/rectangle) { get; } | Hämtar rektangel av artefakten. |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin) { get; set; } | Höger marginal av artefakt. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [Rotation](../../aspose.pdf/artifact/rotation) { get; set; } | Hämtar eller ställer in artefaktrotationsvinkel. |
-| [Subtype](../../aspose.pdf/artifact/subtype) { get; set; } | Hämtar artefaktundertyp. Om artefakten har en icke-standard undertyp, kan namnet på undertypen läsas via CustomSubtype. |
-| [Text](../../aspose.pdf/artifact/text) { get; set; } | Hämtar text av artefakten. |
-| [TextState](../../aspose.pdf/artifact/textstate) { get; set; } | Texttillstånd för artefakttext. |
-| [TopMargin](../../aspose.pdf/artifact/topmargin) { get; set; } | Artefaktens övre marginal. Om position anges explicit (i Position-egenskapen) ignoreras detta värde. |
-| [Type](../../aspose.pdf/artifact/type) { get; set; } | Hämtar artefakttyp. |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Horisontell justering av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Vertikal justering av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Nedre marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [Contents](../../aspose.pdf/artifact/contents/) { get; } | Hämtar samling av artefaktens interna operatörer. |
+| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Hämtar namnet på artefaktens subtype. Kan användas om artefaktens subtype inte är en standard subtype. |
+| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Hämtar namnet på artefaktens typ. Kan användas om artefaktens typ är icke-standard. |
+| [Form](../../aspose.pdf/artifact/form/) { get; } | Hämtar XForm av artefakten (om XForm används). |
+| [Image](../../aspose.pdf/artifact/image/) { get; } | Hämtar bilden av artefakten (om den finns). |
+| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | Om sant placeras artefakten bakom sidinnehållet. |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Vänster marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [Lines](../../aspose.pdf/artifact/lines/) { get; } | Rader av flerlinjig textartefakt. |
+| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Hämtar eller ställer in opaciteten av artefakten. Möjliga värden ligger inom intervallet 0..1. |
+| [Position](../../aspose.pdf/artifact/position/) { get; set; } | Hämtar eller ställer in artefaktens position. Om denna egenskap anges, ignoreras marginaler och justeringar. |
+| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Hämtar rektangeln av artefakten. |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Höger marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Hämtar eller ställer in artefaktens rotationsvinkel. |
+| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Hämtar artefaktens subtype. Om artefakten har en icke-standard subtype kan namnet på subtypen läsas via CustomSubtype. |
+| [Text](../../aspose.pdf/artifact/text/) { get; set; } | Hämtar texten av artefakten. |
+| [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Textstatus för artefaktens text. |
+| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Övre marginal av artefakt. Om positionen anges uttryckligen (i Position-egenskapen) ignoreras detta värde. |
+| [Type](../../aspose.pdf/artifact/type/) { get; set; } | Hämtar artefaktens typ. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates)() | Starta borttagna uppdateringar. Använd den här funktionen om du behöver göra flera ändringar av samma artefakt för att förbättra prestandan. Vanligtvis ändras artefaktoperatorer när som helst när artefaktegenskapen ändrades. Detta gör att sidans innehåll ändras varje gång artefakten ändrades. För att undvika denna effekt placera alla artefaktuppdateringar mellan StartUpdates/SaveUpdates-anrop. Detta gör det möjligt att ändra sidinnehåll endast en gång. |
-| [Dispose](../../aspose.pdf/artifact/dispose)() | Kasta artefakten. |
-| [GetValue](../../aspose.pdf/artifact/getvalue)(string) | Får anpassat värde för artefakt. |
-| [RemoveValue](../../aspose.pdf/artifact/removevalue)(string) | Ta bort anpassat värde från artefakten. |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates)() | Sparar alla uppdateringar i artefakt som gjordes efter BeginUpdates()-anrop. |
-| [SetImage](../../aspose.pdf/artifact/setimage)(Stream) | Ställer in bilden av artefakten. |
-| [SetImage](../../aspose.pdf/artifact/setimage)(string) | Ställer in bilden av artefakten. |
-| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate)(string[], TextState) | Ställ in text- och textegenskaper för artefakten. Tillåter att ange flera rader. |
-| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage)(Page) | Anger PDF-sida som placeras på dokumentsidan som artefakt. |
-| [SetText](../../aspose.pdf/artifact/settext)(FormattedText) | Ställer in text för artefakten. |
-| [SetTextAndState](../../aspose.pdf/artifact/settextandstate)(string, TextState) | Ställ in text- och textegenskaper för artefakten. |
-| [SetValue](../../aspose.pdf/artifact/setvalue)(string, string) | Anger anpassat värde för artefakt. |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | Starta fördröjda uppdateringar. Använd denna funktion om du behöver göra flera ändringar i samma artefakt för att förbättra prestanda. Vanligtvis ändras artefaktoperatörer varje gång artefaktens egenskap ändras. Detta orsakar att sidinnehållet ändras varje gång artefakten ändras. För att undvika denna effekt, placera alla artefaktuppdateringar mellan StartUpdates/SaveUpdates-anrop. Detta gör att sidinnehållet endast ändras en gång. |
+| [Dispose](../../aspose.pdf/artifact/dispose/)() | Avyttra artefakten. |
+| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | Hämtar anpassat värde av artefakten. |
+| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Tar bort anpassat värde från artefakten. |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Sparar alla uppdateringar i artefakten som gjordes efter anropet av BeginUpdates(). |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Ställer in bilden av artefakten. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Ställer in bilden av artefakten. |
+| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Ställer in text och textegenskaper för artefakten. Möjliggör att specificera flera rader. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Ställer in vilken sträng som ska ersättas med sidnumret. Standardvärdet är #. |
+| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Ställer in PDF-sidan som placeras på dokumentets sida som artefakt. |
+| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | Ställer in texten av artefakten. |
+| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | Ställer in text och textegenskaper för artefakten. |
+| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | Ställer in anpassat värde av artefakten. |
 
-### Se även
+### Se Även
 
-* class [Artifact](../artifact)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Artifact](../artifact/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* sammansättning [Aspose.PDF](../../)

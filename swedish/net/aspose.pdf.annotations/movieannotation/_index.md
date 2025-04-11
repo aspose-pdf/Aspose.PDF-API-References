@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar en filmkommentar som innehåller animerad grafik och ljud som ska presenteras på datorskärmen och genom högtalarna. När anteckningen är aktiverad spelas filmen.
+title: Class MovieAnnotation
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.MovieAnnotation klass. Representerar en filmannotering som innehåller animerad grafik och ljud som ska presenteras på datorskärmen och genom högtalarna. När annoteringen aktiveras spelas filmen.
 type: docs
-weight: 730
+weight: 2110
 url: /sv/net/aspose.pdf.annotations/movieannotation/
 ---
-## MovieAnnotation class
+## MovieAnnotation klass
 
-Representerar en filmkommentar som innehåller animerad grafik och ljud som ska presenteras på datorskärmen och genom högtalarna. När anteckningen är aktiverad spelas filmen.
+Representerar en filmannotering som innehåller animerad grafik och ljud som ska presenteras på datorskärmen och genom högtalarna. När annoteringen aktiveras spelas filmen.
 
 ```csharp
 public sealed class MovieAnnotation : Annotation
@@ -16,61 +16,59 @@ public sealed class MovieAnnotation : Annotation
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MovieAnnotation](movieannotation#constructor)(Document, string) | Konstruktör för användning med Generator. |
-| [MovieAnnotation](movieannotation#constructor_1)(Page, Rectangle, string) | Skapar en ny ljudkommentar på den angivna sidan. |
+| [MovieAnnotation](movieannotation/#constructor)(Document, string) | Konstruktör för användning med Generator. |
+| [MovieAnnotation](movieannotation/#constructor_1)(Page, Rectangle, string) | Skapar en ny ljudannotering på den angivna sidan. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } | Hämtar lista över anteckningsåtgärder. |
-| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } | Hämtar eller ställer in aktuellt annoteringsutseendeläge. |
-| override [AnnotationType](../../aspose.pdf.annotations/movieannotation/annotationtype) { get; } | Får typ av anteckning. |
-| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } | Hämtar utseendeordbok för anteckningen. |
-| [Aspect](../../aspose.pdf.annotations/movieannotation/aspect) { get; set; } | Hämtar eller ställer in bredden och höjden på filmens begränsningsram, i pixlar. |
-| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } | Hämtar eller ställer in annoteringsgränsegenskaper.[`Border`](../annotation/border) |
-| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | Får annoteringsegenskaper. |
-| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Hämtar eller ställer in annoteringsfärg. |
-| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Hämtar eller ställer in annoteringstext. |
-| [File](../../aspose.pdf.annotations/movieannotation/file) { get; set; } | Hämtar eller ställer in en filspecifikation som identifierar en självbeskrivande filmfil. |
-| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Flaggor för annoteringen. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Får det fullständiga kvalificerade namnet på anteckningen. |
-| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Hämtar eller ställer in höjden på annoteringen. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Hämtar eller ställer in fragmentets hyperlänk (för pdf-generator). |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Hämtar eller ställer in ett boolvärde som indikerar om detta stycke kommer att finnas i nästa kolumn. Standard är falskt.(för pdf-generering) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Hämtar eller ställer in ett stycke inline. Standard är falskt.(för pdf-generering) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Hämtar eller ställer in ett boolvärde som tvingar fram detta stycke vid ny sida. Standard är falskt.(för pdf-generering) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Hämtar eller ställer in ett boolvärde som indikerar om det aktuella stycket finns kvar på samma sida tillsammans med nästa stycke. Standard är falskt.(för pdf-generering) |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Hämtar eller ställer in en yttre marginal för stycke (för pdf-generering) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Hämtar eller ställer in datum och tid när anteckningen nyligen ändrades. |
-| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Hämtar eller ställer in anteckningsnamn på sidan. |
-| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Hämtar index över sidan som innehåller anteckningar. |
-| [Poster](../../aspose.pdf.annotations/movieannotation/poster) { get; set; } | Hämtar eller ställer in en flagga eller ström som anger om och hur en affischbild som representerar filmen ska visas. Om det är sant, ska affischbilden hämtas från filmfilen; om det är falskt ska ingen affisch visas. |
-| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | Hämtar eller ställer in anteckningsrektangel. |
-| [Rotate](../../aspose.pdf.annotations/movieannotation/rotate) { get; set; } | Hämtar eller ställer in antalet grader som filmen ska roteras medurs i förhållande till sidan. Värdet ska vara en multipel av 90. |
-| [States](../../aspose.pdf.annotations/annotation/states) { get; } | Hämtar utseendeordbok för anteckningar. |
-| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | Hämtar eller ställer in textjustering för anteckning. |
-| [Title](../../aspose.pdf.annotations/movieannotation/title) { get; set; } | Hämtar eller ställer in titeln på filmkommentaren. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Hämtar eller ställer in en vertikal justering av stycket |
-| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } | Hämtar eller ställer in bredden på annoteringen. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Hämtar eller ställer in ett int-värde som anger Z-ordningen för grafen. En graf med större ZIndex kommer att placeras över grafen med mindre ZIndex. ZIndex kan vara negativt. Graf med negativ ZIndex kommer att placeras bakom texten på sidan. |
+| [Actions](../../aspose.pdf.annotations/annotation/actions/) { get; } | Hämtar lista över annoteringsåtgärder. |
+| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Hämtar eller ställer in det aktuella annoteringsutseendet. |
+| override [AnnotationType](../../aspose.pdf.annotations/movieannotation/annotationtype/) { get; } | Hämtar typ av annotering. |
+| [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Hämtar utseendediktionären för annoteringen. |
+| [Aspect](../../aspose.pdf.annotations/movieannotation/aspect/) { get; set; } | Hämtar eller ställer in bredden och höjden på filmens avgränsningsruta, i pixlar. |
+| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Hämtar eller ställer in annoteringsgränsegenskaper. [`Border`](../annotation/border/) |
+| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Hämtar annoteringsegenskaper. |
+| [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Hämtar eller ställer in annoteringsfärg. |
+| [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Hämtar eller ställer in annoteringstext. |
+| [File](../../aspose.pdf.annotations/movieannotation/file/) { get; set; } | Hämtar eller ställer in en filspecifikation som identifierar en självbeskrivande filmfil. |
+| [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flaggor för annoteringen. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Hämtar det fullständigt kvalificerade namnet på annoteringen. |
+| virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Hämtar eller ställer in höjden på annoteringen. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Hämtar eller ställer in fragmenthyperlänken (för pdf-generator). |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Hämtar eller ställer in ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är falskt. (för pdf-generering) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Hämtar eller ställer in om ett stycke är inline. Standard är falskt. (för pdf-generering) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är falskt. (för pdf-generering) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Hämtar eller ställer in ett bool-värde som indikerar om det aktuella stycket förblir på samma sida som nästa stycke. Standard är falskt. (för pdf-generering) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Hämtar eller ställer in en yttre marginal för stycket (för pdf-generering) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Hämtar eller ställer in datum och tid när annoteringen senast ändrades. |
+| [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Hämtar eller ställer in annoteringsnamnet på sidan. |
+| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Hämtar index för sidan som innehåller annoteringen. |
+| [Poster](../../aspose.pdf.annotations/movieannotation/poster/) { get; set; } | Hämtar eller ställer in en flagga eller ström som specificerar om och hur en affischbild som representerar filmen ska visas. Om sant, ska affischbilden hämtas från filmfilen; om falskt, ska ingen affisch visas. |
+| virtual [Rect](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Hämtar eller ställer in annoteringsrektangeln. |
+| [Rotate](../../aspose.pdf.annotations/movieannotation/rotate/) { get; set; } | Hämtar eller ställer in antalet grader som filmen ska roteras medurs i förhållande till sidan. Värdet ska vara ett multipel av 90. |
+| [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Hämtar utseendediktionären för annoteringen. |
+| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Hämtar eller ställer in textjusteringen för annoteringen. |
+| [Title](../../aspose.pdf.annotations/movieannotation/title/) { get; set; } | Hämtar eller ställer in titeln på filmannoteringen. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Hämtar eller ställer in en vertikal justering av stycket |
+| virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Hämtar eller ställer in bredden på annoteringen. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Hämtar eller ställer in ett int-värde som indikerar Z-ordningen för grafen. En graf med större ZIndex kommer att placeras över grafen med mindre ZIndex. ZIndex kan vara negativ. Graf med negativ ZIndex kommer att placeras bakom texten på sidan. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.annotations/movieannotation/accept)(AnnotationSelector) | Accepterar besökarobjekt för att bearbeta anteckningen. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Uppdatera parametrar och utseende, enligt matristransformationen. |
-| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Klonar denna instans. Virtuell metod. Returnera alltid null. |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Placerar anteckningsinnehåll direkt på sidan, annotationsobjekt kommer att tas bort. |
-| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returnerar rektangel av anteckning med hänsyn till sidrotation. |
+| override [Accept](../../aspose.pdf.annotations/movieannotation/accept/)(AnnotationSelector) | Accepterar besökarobjekt för att bearbeta annoteringen. |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Uppdaterar parametrar och utseende, enligt matristransformeringen. |
+| virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Klonar denna instans. Virtuell metod. Återger alltid null. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Placerar annoteringsinnehållet direkt på sidan, annoteringsobjektet kommer att tas bort. |
+| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Återger rektangeln för annoteringen med hänsyn till sidrotation. |
 
-### Se även
+### Se Även
 
-* class [Annotation](../annotation)
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Annotation](../annotation/)
+* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

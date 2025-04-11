@@ -1,214 +1,254 @@
 ---
-title: Document
-second_title: Aspose.PDF لمرجع .NET API
-description: تهيئة مثيل المستند الجديد من ملفinput تيار .
+title: Document.Document
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ الوثيقة. تهيئة مثيل جديد من الوثيقة من تدفق الإدخال
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/document/document/
 ---
-## Document(Stream) {#constructor_1}
+## Document(Stream) {#constructor_2}
 
-تهيئة مثيل المستند الجديد من ملف*input* تيار .
+تهيئة مثيل جديد من الوثيقة من *تدفق* الإدخال.
 
 ```csharp
 public Document(Stream input)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق مع وثيقة pdf. |
+| input | Stream | تدفق مع وثيقة PDF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_5}
+## Document(Stream, bool) {#constructor_4}
 
-تهيئة مثيل المستند الجديد من ملف*input* تيار .
-
-```csharp
-public Document(Stream input, string password, bool isManagedStream)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| input | Stream | دفق مع وثيقة pdf. |
-| password | String | كلمة مرور المستخدم أو المالك. |
-| isManagedStream | Boolean | إذا تم التعيين على`حقيقي` تم إغلاق التيار الداخلي قبل الخروج خلاف ذلك ، ليس كذلك. |
-
-### أنظر أيضا
-
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Document(Stream, bool) {#constructor_3}
-
-تهيئة مثيل المستند الجديد من ملف*input* تيار .
+تهيئة مثيل جديد من الوثيقة من *تدفق* الإدخال.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق مع وثيقة pdf. |
-| isManagedStream | Boolean | إذا تم التعيين على`حقيقي` تم إغلاق التيار الداخلي قبل الخروج خلاف ذلك ، ليس كذلك. |
+| input | Stream | تدفق مع وثيقة PDF. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق التدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string) {#constructor_6}
+## Document(Stream, string) {#constructor_5}
 
-فقط الحرف الأول باستخدام المستند*filename* . كمثل[`Document`](../document) .
-
-```csharp
-public Document(string filename)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| filename | String | اسم ملف مستند pdf. |
-
-### أنظر أيضا
-
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Document(Stream, string) {#constructor_4}
-
-تهيئة مثيل المستند الجديد من ملف*input* تيار .
+تهيئة مثيل جديد من الوثيقة من *تدفق* الإدخال.
 
 ```csharp
 public Document(Stream input, string password)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | كائن دفق الإدخال ، pdf المقابل محمي بكلمة مرور. |
+| input | Stream | كائن تدفق الإدخال، PDF المقابل محمي بكلمة مرور. |
 | password | String | كلمة مرور المستخدم أو المالك. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
----
-
-## Document() {#constructor}
-
-تهيئة مستند فارغ .
-
-```csharp
-public Document()
-```
-
-### أنظر أيضا
-
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_7}
+## Document(Stream, string, bool) {#constructor_6}
 
-يفتح مستندًا موجودًا من ملف يوفر خيارات التحويل الضرورية للحصول على مستند pdf.
+تهيئة مثيل جديد من الوثيقة من *تدفق* الإدخال.
 
 ```csharp
-public Document(string filename, LoadOptions options)
+public Document(Stream input, string password, bool isManagedStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | ملف الإدخال للتحويل إلى مستند pdf . |
-| options | LoadOptions | يمثل خصائص التحويل*filename* في مستند pdf. |
+| input | Stream | تدفق مع وثيقة PDF. |
+| password | String | كلمة مرور المستخدم أو المالك. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق التدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, LoadOptions) {#constructor_2}
+## Document(string) {#constructor_7}
 
-يفتح مستندًا موجودًا من دفق يوفر التحويل اللازم للحصول على مستند pdf.
+فقط قم بتهيئة الوثيقة باستخدام *اسم الملف*. نفس الشيء مثل `Document`.
 
 ```csharp
-public Document(Stream input, LoadOptions options)
+public Document(string filename)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | دفق الإدخال للتحويل إلى مستند pdf . |
-| options | LoadOptions | يمثل خصائص التحويل*input* في مستند pdf. |
+| filename | String | اسم ملف وثيقة PDF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string) {#constructor_8}
+## Document(string, bool) {#constructor_9}
 
-تهيئة مثيل جديد لملف[`Document`](../../document) فئة للعمل مع المستند المشفر.
+فقط قم بتهيئة الوثيقة باستخدام *اسم الملف*. نفس الشيء مثل `Document`.
+
+```csharp
+public Document(string filename, bool isManagedStream)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| filename | String | اسم ملف وثيقة PDF. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق التدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم. |
+
+### انظر أيضًا
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_10}
+
+تهيئة مثيل جديد من فئة [`Document`](../) للعمل مع الوثيقة المشفرة.
 
 ```csharp
 public Document(string filename, string password)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | اسم ملف المستند. |
+| filename | String | اسم ملف الوثيقة. |
 | password | String | كلمة مرور المستخدم أو المالك. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_9}
+## Document(string, string, bool) {#constructor_11}
 
-تهيئة مثيل جديد لملف[`Document`](../../document) فئة للعمل مع المستند المشفر.
+تهيئة مثيل جديد من فئة [`Document`](../) للعمل مع الوثيقة المشفرة.
 
 ```csharp
 public Document(string filename, string password, bool isManagedStream)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | اسم ملف المستند. |
+| filename | String | اسم ملف الوثيقة. |
 | password | String | كلمة مرور المستخدم أو المالك. |
-| isManagedStream | Boolean | إذا تم التعيين على`حقيقي` تم إغلاق التيار الداخلي قبل الخروج خلاف ذلك ، ليس كذلك. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق التدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Document() {#constructor}
+
+تهيئة وثيقة فارغة.
+
+```csharp
+public Document()
+```
+
+### انظر أيضًا
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(PdfVersion) {#constructor_1}
+
+تهيئة وثيقة فارغة حسب الإصدار.
+
+```csharp
+public Document(PdfVersion version)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| version | PdfVersion | إصدار PDF. |
+
+### انظر أيضًا
+
+* enum [PdfVersion](../../pdfversion/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, LoadOptions) {#constructor_8}
+
+يفتح وثيقة موجودة من ملف مع توفير خيارات التحويل اللازمة للحصول على وثيقة PDF.
+
+```csharp
+public Document(string filename, LoadOptions options)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| filename | String | ملف الإدخال للتحويل إلى وثيقة PDF. |
+| options | LoadOptions | تمثل الخصائص لتحويل *اسم الملف* إلى وثيقة PDF. |
+
+### انظر أيضًا
+
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, LoadOptions) {#constructor_3}
+
+يفتح وثيقة موجودة من تدفق مع توفير التحويل اللازم للحصول على وثيقة PDF.
+
+```csharp
+public Document(Stream input, LoadOptions options)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| input | Stream | تدفق الإدخال للتحويل إلى وثيقة PDF. |
+| options | LoadOptions | تمثل الخصائص لتحويل *الإدخال* إلى وثيقة PDF. |
+
+### انظر أيضًا
+
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: PrintDocumentWithSettings
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Druckt das PDF-Dokument mit Einstellungen. Wenn die Dokumentgröße nicht mit der Seitengröße kompatibel ist erweitert pdf.kit sie um sie an die Seitengröße anzupassen.
+title: PdfViewer.PrintDocumentWithSettings
+second_title: Aspose.PDF for .NET API Reference
+description: PdfViewer-Methode. Druckt das Pdf-Dokument mit Einstellungen. Wenn die Dokumentgröße nicht der Seitengröße entspricht, wird es erweitert, um zur Seitengröße zu passen.
 type: docs
-weight: 300
+weight: 330
 url: /de/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-Druckt das PDF-Dokument mit Einstellungen. Wenn die Dokumentgröße nicht mit der Seitengröße kompatibel ist, erweitert pdf.kit sie, um sie an die Seitengröße anzupassen.
+Druckt das Pdf-Dokument mit Einstellungen. Wenn die Dokumentgröße nicht der Seitengröße entspricht, wird es erweitert, um zur Seitengröße zu passen.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
@@ -16,56 +16,58 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pageSettings | PageSettings | Die Seiteneinstellung des Druckdokuments. |
-| printerSettings | PrinterSettings | Die Druckereinstellung des zu druckenden Dokuments. |
+| pageSettings | PageSettings | Die Seiteneinstellungen des zu druckenden Dokuments. |
+| printerSettings | PrinterSettings | Die Druckereinstellungen des zu druckenden Dokuments. |
 
-### Beispiele
-
-printerSettings-Objekt wird verwendet, um das Dokument zu drucken. pageSettings.PrinterSettings-Objekt wird ignoriert.
+## Beispiele
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         //Drucken Sie die Datei mit angepasster Größe
-iewer.AutoRotate = true;         // Datei mit angepasster Rotation drucken
-iewer.PrintPageDialog=false;// erzeugt beim Drucken keinen Seitenzahldialog
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.BindPdf(@"d:\test.pdf");
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog = false;   //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintDocumentWithSettings(pgs, ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer()
-iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;           'Drucken Sie die Datei mit angepasster Größe
-iewer.AutoRotate = true;           'Drucken Sie die Datei mit angepasster Drehung
-iewer.PrintPageDialog=false;// erzeugt beim Drucken keinen Seitenzahldialog
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.BindPdf(@"d:\test.pdf")
+iewer.AutoResize = True            'print the file with adjusted size
+iewer.AutoRotate = True            'print the file with adjusted rotation
+iewer.PrintPageDialog = False      'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintDocumentWithSettings(pgs, ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
+
+printerSettings-Objekt wird verwendet, um das Dokument zu drucken. pageSettings.PrinterSettings-Objekt wird ignoriert.
 
 ### Siehe auch
 
-* class [PdfViewer](../../pdfviewer)
-* namensraum [Aspose.Pdf.Facades](../../pdfviewer)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* Klasse [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* Klasse [PdfViewer](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-Druckt das PDF-Dokument mit den Druckereinstellungen. Die Größe der Ausgabeseite entspricht der Größe der ersten Seite des Dokuments.
+Druckt das Pdf-Dokument mit Druckereinstellungen. Die Ausgabeseitengröße passt an die Größe der ersten Seite des Dokuments an.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
@@ -73,17 +75,17 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | Die Druckereinstellung des zu druckenden Dokuments. |
+| printerSettings | PrinterSettings | Die Druckereinstellungen des zu druckenden Dokuments. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         //Drucken Sie die Datei mit angepasster Größe
-iewer.AutoRotate = true;         // Datei mit angepasster Rotation drucken
-iewer.PrintPageDialog=false;// erzeugt beim Drucken keinen Seitenzahldialog
+iewer.AutoResize = true;         //print the file with adjusted size
+iewer.AutoRotate = true;         //print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -93,9 +95,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;        'Drucken Sie die Datei mit angepasster Größe
-iewer.AutoRotate = true;        'Drucken Sie die Datei mit angepasster Drehung
-iewer.PrintPageDialog=false;// erzeugt beim Drucken keinen Seitenzahldialog
+iewer.AutoResize = true;        'print the file with adjusted size
+iewer.AutoRotate = true;        'print the file with adjusted rotation
+iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -105,8 +107,7 @@ iewer.ClosePdfFile()
 
 ### Siehe auch
 
-* class [PdfViewer](../../pdfviewer)
-* namensraum [Aspose.Pdf.Facades](../../pdfviewer)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* Klasse [PdfViewer](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

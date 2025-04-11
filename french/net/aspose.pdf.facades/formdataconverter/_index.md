@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Représente une classe pour convertir des données dun format à un autre format. Il peut convertir les données de fdf/xml/pdf/xfdf en OLEDB/OdbcDB. Il peut également convertir les données de OLEDB/OdbcDB en données de fdf/xml/xfdf. Il peut convertir le fdf en xml avec la balise hard-named.
+title: Class FormDataConverter
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Facades.FormDataConverter. Représente une classe pour convertir des données d'un format à un autre format. Elle peut convertir les données en fdf/xml/pdf/xfdf vers OLEDB/OdbcDB. Elle peut également convertir les données de OLEDB/OdbcDB vers les données en fdf/xml/xfdf. Elle peut convertir le fdf en xml avec un tag "hard-named".
 type: docs
-weight: 2330
+weight: 4320
 url: /fr/net/aspose.pdf.facades/formdataconverter/
 ---
-## FormDataConverter class
+## Classe FormDataConverter
 
-Représente une classe pour convertir des données d'un format à un autre format. Il peut convertir les données de fdf/xml/pdf/xfdf en OLEDB/OdbcDB. Il peut également convertir les données de OLEDB/OdbcDB en données de fdf/xml/xfdf. Il peut convertir le fdf en xml avec la balise "hard-named".
+Représente une classe pour convertir des données d'un format à un autre format. Elle peut convertir les données en fdf/xml/pdf/xfdf vers OLEDB/OdbcDB. Elle peut également convertir les données de OLEDB/OdbcDB vers les données en fdf/xml/xfdf. Elle peut convertir le fdf en xml avec un tag "hard-named".
 
 ```csharp
 public sealed class FormDataConverter
@@ -16,35 +16,33 @@ public sealed class FormDataConverter
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FormDataConverter](formdataconverter)() | Default_Constructor |
+| [FormDataConverter](formdataconverter/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport) { get; set; } | ExportFromData effacera la table avant l'exportation des données. |
-| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield) { get; set; } | ConvertToDataTable créera le champ requis s'il n'existe pas dans Table. |
-| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable) { get; set; } | ImportIntoDatabase créera une table si elle n'existe pas. |
-| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | ImportIntoDatabase supprimera la table existante et créera une nouvelle table si cette propriété est définie sur true. |
-| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | Obtient ou définit le conteneur de données du milieu, un DataTable. Il doit être défini avant de convertir des données d'un format à un autre format. Les colonnes et le nom du tableau du DataTable doivent être définis. Le nom du tableau est le nom du tableau dans le database. Le ColumnName de chaque colonne est le nom de champ qualifié du pdf. Caption de chaque colonne est le nom de la colonne de la table dans la base de données. Si le nom du champ est le même que le nom de la colonne de la table, la légende n'a pas besoin d'être spécifiée. |
+| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport/) { get; set; } | ExportFromData va vider la table avant l'exportation des données. |
+| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield/) { get; set; } | ConvertToDataTable va créer le champ requis s'il n'existe pas dans la table. |
+| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable/) { get; set; } | ImportIntoDatabase va créer la table si elle n'existe pas. |
+| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable/) { get; set; } | ImportIntoDatabase va supprimer la table existante et créer une nouvelle table si cette propriété est définie sur true. |
+| [Table](../../aspose.pdf.facades/formdataconverter/table/) { get; set; } | Obtient ou définit le conteneur de données intermédiaire, une DataTable. Elle doit être définie avant de convertir des données d'un format à un autre format. Les colonnes et le nom de la table de la DataTable doivent être définis. Le TableName est le nom de la table dans la base de données. Chaque ColumnName de colonne est le nom de champ qualifié du pdf. Chaque Caption de colonne est le nom de la colonne de la table dans la base de données. Si le nom du champ est le même que le nom de la colonne de la table, le Caption n'a pas besoin d'être spécifié. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams)(Stream[], DataType) | Cette méthode est obsolète. Veuillez utiliser ConvertToStreams() à la place. |
-| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | Convertir les fichiers de strems en table. |
-| [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams)(Stream[], DataType) | Convertir les données du tableau en flux. |
-| [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase)(string, DataType) | Exporte les données de la base de données dans la table. |
-| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | Importe les données de la table dans la base de données. |
-| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | Convertir le fichier FDF en XML. |
-| static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf)(Stream, Stream) | Convertir le fichier de données de formulaire d'importation/exportation XML au format FDF. |
+| [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams/)(Stream[], DataType) | Cette méthode est obsolète. Veuillez utiliser ConvertToStreams() à la place. |
+| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable/)(Stream[], DataType) | Convertit des fichiers de flux en table. |
+| [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams/)(Stream[], DataType) | Convertit des données dans la table en flux. |
+| [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase/)(string, DataType) | Exporte des données de la base de données vers la table. |
+| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase/)(string, DataType) | Importe des données de la table vers la base de données. |
+| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml/)(Stream, Stream) | Convertit un fichier FDF en XML. |
+| static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf/)(Stream, Stream) | Convertit un fichier de données de formulaire XML d'import/export en format FDF. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

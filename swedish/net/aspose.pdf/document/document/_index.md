@@ -1,14 +1,14 @@
 ---
-title: Document
-second_title: Aspose.PDF för .NET API Referens
-description: Initiera ny dokumentinstans fråninput stream.
+title: Document.Document
+second_title: Aspose.PDF for .NET API Reference
+description: Dokumentkonstruktör. Initiera en ny Document-instans från inmatningsströmmen
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/document/document/
 ---
-## Document(Stream) {#constructor_1}
+## Document(Stream) {#constructor_2}
 
-Initiera ny dokumentinstans från*input* stream.
+Initiera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document(Stream input)
@@ -16,41 +16,19 @@ public Document(Stream input)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
+| input | Stream | Ström med pdf-dokument. |
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Document(Stream, string, bool) {#constructor_5}
-
-Initiera ny dokumentinstans från*input* stream.
-
-```csharp
-public Document(Stream input, string password, bool isManagedStream)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
-| password | String | Användar- eller ägarlösenord. |
-| isManagedStream | Boolean | om inställt på`Sann` inre bäcken stängs före utgång; annars är det inte. |
-
-### Se även
-
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, bool) {#constructor_3}
+## Document(Stream, bool) {#constructor_4}
 
-Initiera ny dokumentinstans från*input* stream.
+Initiera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -58,40 +36,20 @@ public Document(Stream input, bool isManagedStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Streama med pdf-dokument. |
-| isManagedStream | Boolean | om inställt på`Sann` inre bäcken stängs före utgång; annars är det inte. |
+| input | Stream | Ström med pdf-dokument. |
+| isManagedStream | Boolean | om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Document(string) {#constructor_6}
-
-Init bara dokument med hjälp av*filename* . Samma som[`Document`](../document) .
-
-```csharp
-public Document(string filename)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| filename | String | Namnet på pdf-dokumentet. |
-
-### Se även
-
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string) {#constructor_4}
+## Document(Stream, string) {#constructor_5}
 
-Initiera ny dokumentinstans från*input* stream.
+Initiera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
 public Document(Stream input, string password)
@@ -99,80 +57,83 @@ public Document(Stream input, string password)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Indataströmobjekt, motsvarande pdf är lösenordsskyddat. |
+| input | Stream | Inmatningsströmobjekt, motsvarande pdf är lösenordsskyddad. |
 | password | String | Användar- eller ägarlösenord. |
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
-
----
-
-## Document() {#constructor}
-
-Initierar tomt dokument.
-
-```csharp
-public Document()
-```
-
-### Se även
-
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_7}
+## Document(Stream, string, bool) {#constructor_6}
 
-Öppnar ett befintligt dokument från en fil som ger nödvändiga konverteringsalternativ för att få pdf-dokument.
+Initiera en ny Document-instans från *inmatnings*strömmen.
 
 ```csharp
-public Document(string filename, LoadOptions options)
+public Document(Stream input, string password, bool isManagedStream)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | String | Indatafil för att konvertera till pdf-dokument. |
-| options | LoadOptions | Representerar egenskaper för konvertering*filename* till pdf-dokument. |
+| input | Stream | Ström med pdf-dokument. |
+| password | String | Användar- eller ägarlösenord. |
+| isManagedStream | Boolean | Om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
 
-### Se även
+### Se Även
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, LoadOptions) {#constructor_2}
+## Document(string) {#constructor_7}
 
-Öppnar ett befintligt dokument från en ström som ger nödvändig konvertering för att få pdf-dokument.
+Initiera bara Document med *filnamn*. Samma som `Document`.
 
 ```csharp
-public Document(Stream input, LoadOptions options)
+public Document(string filename)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| input | Stream | Indataström för att konvertera till pdf-dokument. |
-| options | LoadOptions | Representerar egenskaper för konvertering*input* till pdf-dokument. |
+| filename | String | Namnet på pdf-dokumentfilen. |
 
-### Se även
+### Se Även
 
-* class [LoadOptions](../../loadoptions)
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string) {#constructor_8}
+## Document(string, bool) {#constructor_9}
 
-Initierar ny instans av[`Document`](../../document) klass för att arbeta med krypterade dokument.
+Initiera bara Document med *filnamn*. Samma som `Document`.
+
+```csharp
+public Document(string filename, bool isManagedStream)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| filename | String | Namnet på pdf-dokumentfilen. |
+| isManagedStream | Boolean | Om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
+
+### Se Även
+
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_10}
+
+Initierar en ny instans av [`Document`](../) klassen för att arbeta med krypterat dokument.
 
 ```csharp
 public Document(string filename, string password)
@@ -180,20 +141,20 @@ public Document(string filename, string password)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | String | Dokumentfilens namn. |
+| filename | String | Dokumentfilnamn. |
 | password | String | Användar- eller ägarlösenord. |
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_9}
+## Document(string, string, bool) {#constructor_11}
 
-Initierar ny instans av[`Document`](../../document) klass för att arbeta med krypterade dokument.
+Initierar en ny instans av [`Document`](../) klassen för att arbeta med krypterat dokument.
 
 ```csharp
 public Document(string filename, string password, bool isManagedStream)
@@ -201,14 +162,93 @@ public Document(string filename, string password, bool isManagedStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | String | Dokumentfilens namn. |
+| filename | String | Dokumentfilnamn. |
 | password | String | Användar- eller ägarlösenord. |
-| isManagedStream | Boolean | om inställt på`Sann` inre bäcken stängs före utgång; annars är det inte. |
+| isManagedStream | Boolean | om inställt på `true` stängs inre ström innan utgång; annars görs det inte. |
 
-### Se även
+### Se Även
 
-* class [Document](../../document)
-* namnutrymme [Aspose.Pdf](../../document)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Document() {#constructor}
+
+Initierar ett tomt dokument.
+
+```csharp
+public Document()
+```
+
+### Se Även
+
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(PdfVersion) {#constructor_1}
+
+Initierar ett tomt dokument efter version.
+
+```csharp
+public Document(PdfVersion version)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| version | PdfVersion | PDF-versionen. |
+
+### Se Även
+
+* enum [PdfVersion](../../pdfversion/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, LoadOptions) {#constructor_8}
+
+Öppnar ett befintligt dokument från en fil och tillhandahåller nödvändiga konverteringsalternativ för att få pdf-dokument.
+
+```csharp
+public Document(string filename, LoadOptions options)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| filename | String | Inmatningsfil för att konvertera till pdf-dokument. |
+| options | LoadOptions | Representerar egenskaper för att konvertera *filnamn* till pdf-dokument. |
+
+### Se Även
+
+* klass [LoadOptions](../../loadoptions/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, LoadOptions) {#constructor_3}
+
+Öppnar ett befintligt dokument från en ström och tillhandahåller nödvändiga konverteringsalternativ för att få pdf-dokument.
+
+```csharp
+public Document(Stream input, LoadOptions options)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| input | Stream | Inmatningsström för att konvertera till pdf-dokument. |
+| options | LoadOptions | Representerar egenskaper för att konvertera *inmatning* till pdf-dokument. |
+
+### Se Även
+
+* klass [LoadOptions](../../loadoptions/)
+* klass [Document](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

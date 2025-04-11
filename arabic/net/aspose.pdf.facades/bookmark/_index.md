@@ -1,51 +1,49 @@
 ---
-title: Bookmark
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل إشارة مرجعية .
+title: Class Bookmark
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.Bookmark. تمثل إشارة مرجعية
 type: docs
-weight: 2200
+weight: 4190
 url: /ar/net/aspose.pdf.facades/bookmark/
 ---
-## Bookmark class
+## فئة الإشارة المرجعية
 
-يمثل إشارة مرجعية .
+تمثل إشارة مرجعية.
 
 ```csharp
 public sealed class Bookmark
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bookmark](bookmark)() | Default_Constructor |
+| [Bookmark](bookmark/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Action](../../aspose.pdf.facades/bookmark/action) { get; set; } | الحصول على الإجراء المرتبط بالإشارة المرجعية أو تعيينه . إذا تم تقديم رقم الصفحة ، فلا يمكن تحديد الإجراء . يتضمن نوع الإجراء: "GoTo" ، "GoToR" ، "Launch" ، "Named" . |
-| [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag) { get; set; } | الحصول على أو تعيين العلم الغامق لعنوان الإشارة المرجعية. |
-| [ChildItems](../../aspose.pdf.facades/bookmark/childitems) { get; set; } | الحصول على أو تعيين الأطفال المرجعية للإشارة . |
-| [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname) { get; set; } | اسم الإجراء المقابل لتنفيذ عنصر قائمة في عارض Acrobat. |
-| [Destination](../../aspose.pdf.facades/bookmark/destination) { get; set; } | الحصول على أو تعيين صفحة وجهة الإشارة المرجعية. مطلوب إذا تم تعيين الإجراء كسلسلة. فارغ . |
-| [ItalicFlag](../../aspose.pdf.facades/bookmark/italicflag) { get; set; } | الحصول على العلامة المائلة لعنوان الإشارة المرجعية أو تعيينها. |
-| [Level](../../aspose.pdf.facades/bookmark/level) { get; set; } | الحصول على مستوى التسلسل الهرمي للإشارة أو تعيينه. |
-| [Open](../../aspose.pdf.facades/bookmark/open) { get; set; } | الحصول على أو تعيين حالة الإشارة المرجعية (فتح ، إغلاق). |
-| [PageDisplay](../../aspose.pdf.facades/bookmark/pagedisplay) { get; set; } | الحصول على أو تحديد نوع صفحة وجهة إشارة العرض. |
-| [PageDisplay_Bottom](../../aspose.pdf.facades/bookmark/pagedisplay_bottom) { get; set; } | الحصول على أو تحديد الإحداثيات السفلية لعرض الصفحة. |
-| [PageDisplay_Left](../../aspose.pdf.facades/bookmark/pagedisplay_left) { get; set; } | الحصول على أو تحديد الإحداثي الأيسر لعرض الصفحة. |
-| [PageDisplay_Right](../../aspose.pdf.facades/bookmark/pagedisplay_right) { get; set; } | الحصول على أو تحديد الإحداثي الصحيح لعرض الصفحة . |
-| [PageDisplay_Top](../../aspose.pdf.facades/bookmark/pagedisplay_top) { get; set; } | الحصول على أو تحديد الإحداثي العلوي لعرض الصفحة . |
-| [PageDisplay_Zoom](../../aspose.pdf.facades/bookmark/pagedisplay_zoom) { get; set; } | الحصول على أو تحديد عامل التكبير / التصغير لعرض الصفحة. |
-| [PageNumber](../../aspose.pdf.facades/bookmark/pagenumber) { get; set; } | الحصول على أو تحديد رقم صفحة وجهة الإشارة المرجعية. |
-| [RemoteFile](../../aspose.pdf.facades/bookmark/remotefile) { get; set; } | الحصول على أو تعيين الملف (المسار) المطلوب لإجراء "GoToR" للإشارة المرجعية. |
-| [Title](../../aspose.pdf.facades/bookmark/title) { get; set; } | الحصول على عنوان الإشارة المرجعية أو تعيينه. |
-| [TitleColor](../../aspose.pdf.facades/bookmark/titlecolor) { get; set; } | الحصول على أو تحديد لون عنوان الإشارة المرجعية. |
+| [Action](../../aspose.pdf.facades/bookmark/action/) { get; set; } | يحصل أو يحدد الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم PageNumber، لا يمكن تحديد الإجراء. تشمل أنواع الإجراءات: "GoTo"، "GoToR"، "Launch"، "Named". |
+| [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag/) { get; set; } | يحصل أو يحدد علامة الخط العريض لعنوان الإشارة المرجعية. |
+| [ChildItems](../../aspose.pdf.facades/bookmark/childitems/) { get; set; } | يحصل أو يحدد أطفال الإشارة المرجعية. |
+| [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/) { get; set; } | اسم الإجراء المقابل لتنفيذ عنصر قائمة في عارض Acrobat. |
+| [Destination](../../aspose.pdf.facades/bookmark/destination/) { get; set; } | يحصل أو يحدد صفحة وجهة الإشارة المرجعية. مطلوب إذا تم تعيين الإجراء كـ string.Empty. |
+| [ItalicFlag](../../aspose.pdf.facades/bookmark/italicflag/) { get; set; } | يحصل أو يحدد علامة الخط المائل لعنوان الإشارة المرجعية. |
+| [Level](../../aspose.pdf.facades/bookmark/level/) { get; set; } | يحصل أو يحدد مستوى تسلسل الإشارة المرجعية. |
+| [Open](../../aspose.pdf.facades/bookmark/open/) { get; set; } | يحصل أو يحدد حالة الإشارة المرجعية (مفتوح، مغلق). |
+| [PageDisplay](../../aspose.pdf.facades/bookmark/pagedisplay/) { get; set; } | يحصل أو يحدد نوع عرض صفحة وجهة الإشارة المرجعية. |
+| [PageDisplay_Bottom](../../aspose.pdf.facades/bookmark/pagedisplay_bottom/) { get; set; } | يحصل أو يحدد الإحداثي السفلي لعرض الصفحة. |
+| [PageDisplay_Left](../../aspose.pdf.facades/bookmark/pagedisplay_left/) { get; set; } | يحصل أو يحدد الإحداثي الأيسر لعرض الصفحة. |
+| [PageDisplay_Right](../../aspose.pdf.facades/bookmark/pagedisplay_right/) { get; set; } | يحصل أو يحدد الإحداثي الأيمن لعرض الصفحة. |
+| [PageDisplay_Top](../../aspose.pdf.facades/bookmark/pagedisplay_top/) { get; set; } | يحصل أو يحدد الإحداثي العلوي لعرض الصفحة. |
+| [PageDisplay_Zoom](../../aspose.pdf.facades/bookmark/pagedisplay_zoom/) { get; set; } | يحصل أو يحدد عامل التكبير لعرض الصفحة. |
+| [PageNumber](../../aspose.pdf.facades/bookmark/pagenumber/) { get; set; } | يحصل أو يحدد رقم صفحة وجهة الإشارة المرجعية. |
+| [RemoteFile](../../aspose.pdf.facades/bookmark/remotefile/) { get; set; } | يحصل أو يحدد الملف (المسار) المطلوب لإجراء "GoToR" للإشارة المرجعية. |
+| [Title](../../aspose.pdf.facades/bookmark/title/) { get; set; } | يحصل أو يحدد عنوان الإشارة المرجعية. |
+| [TitleColor](../../aspose.pdf.facades/bookmark/titlecolor/) { get; set; } | يحصل أو يحدد لون عنوان الإشارة المرجعية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* التجميع [Aspose.PDF](../../)

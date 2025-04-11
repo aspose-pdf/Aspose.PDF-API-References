@@ -1,7 +1,7 @@
 ---
-title: ImportDataTable
-second_title: Aspose.PDF för .NET API Referens
-description: Importerar data från System.Data.DataTable till Aspose.Pdf.Table
+title: Table.ImportDataTable
+second_title: Aspose.PDF for .NET API Reference
+description: Table-metod. Importerar data från System.Data.DataTable till Aspose.Pdf.Table
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf/table/importdatatable/
@@ -17,22 +17,22 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| importedDataTable | DataTable | källinstans av System.Data.DataTable |
-| isColumnNamesImported | Boolean | anger om kolumnnamn kommer att importeras som första raden |
-| firstFilledRow | Int32 | anger nollbaserat antal första raden i måltabellen från vilken importen kommer att starta, om rad med sådant nummer (och några tidigare rader) saknas i måltabellen skapas de först |
-| firstFilledColumn | Int32 | anger antalet första målkolumnen i måltabellen, kolumnen måste finnas i måltabellen innan importen påbörjas |
+| importedDataTable | DataTable | källa instans av System.Data.DataTable |
+| isColumnNamesImported | Boolean | specificerar om kolumnnamn kommer att importeras som första rad |
+| firstFilledRow | Int32 | specificerar nollbaserat nummer på första rad i mål tabell från vilken importen kommer att börja, om rad med sådant nummer (och några föregående rader) saknas i mål tabell, kommer de att skapas först |
+| firstFilledColumn | Int32 | specificerar nummer på första mål kolumn i mål tabell, kolumnen måste finnas i mål tabell innan importen börjar |
 
-### Se även
+### Se Även
 
-* class [Table](../../table)
-* namnutrymme [Aspose.Pdf](../../table)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Table](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-Importer aDataTable objekt i tabellen.
+Importerar ett DataTable-objekt till tabellen.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -42,25 +42,25 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| importedDataTable | DataTable | DeDataTable objekt som ska importeras. |
-| isColumnNamesShown | Boolean | Anger om kolumnnamnen för källdatatabellen kommer att importeras som första raden. |
-| firstFilledRow | Int32 | anger nollbaserat antal första raden i måltabellen från vilken importen kommer att starta, om rad med sådant nummer (och några tidigare rader) saknas i måltabellen skapas de först |
-| firstFilledColumn | Byte | anger antalet första målkolumnen i måltabellen, kolumnen måste finnas i måltabellen innan importen påbörjas |
+| importedDataTable | DataTable | DataTable-objektet som ska importeras. |
+| isColumnNamesShown | Boolean | Specificerar om kolumnnamnen i källdatatabellen kommer att importeras som första rad. |
+| firstFilledRow | Int32 | specificerar nollbaserat nummer på första rad i mål tabell från vilken importen kommer att börja, om rad med sådant nummer (och några föregående rader) saknas i mål tabell, kommer de att skapas först |
+| firstFilledColumn | Byte | specificerar nummer på första mål kolumn i mål tabell, kolumnen måste finnas i mål tabell innan importen börjar |
 | maxRows | Int32 | Maximalt antal rader som ska importeras från källtabellen. |
 | maxColumns | Int32 | Maximalt antal kolumner som ska importeras från källtabellen. |
-| isHtmlSupported | Boolean | Anger om texten är html-sträng. |
+| isHtmlSupported | Boolean | Specificerar om texten är en html-sträng. |
 
-### Se även
+### Se Även
 
-* class [Table](../../table)
-* namnutrymme [Aspose.Pdf](../../table)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Table](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-Importer aDataTable objekt, men inte som en helhet. Endast specificerade rader och kolumner importeras.
+Importerar ett DataTable-objekt, men inte som en hel enhet. Endast specificerade rader och kolumner importeras.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -70,18 +70,16 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| importedDataTable | DataTable | DeDataTable objekt som ska importeras. |
-| sourceRowList | Int32[] | Arrayen av antal rader i källkodenDataTableobjekt som måste importeras. Listan får inte vara null och får endast innehålla antal befintliga rader, annars kommer undantag att kastas. |
-| sourceColumnList | Int32[] | Matrisen av antal kolumner i källanDataTable objekt som måste importeras. Listan får inte vara null och får endast innehålla antalet befintliga kolumner, annars kommer undantag att kastas. |
-| firstFilledRow | Int32 | Det nollbaserade radnumret för den första cellen i måltabellen från vilken importen kommer att börja. Om måltabellen inte innehåller den raden skapas den (och alla tidigare om nödvändigt) |
-| firstFilledColumn | Int32 | Det nollbaserade kolumnnumret för den första cellen i måltabellen från vilken importen kommer att starta. Måltabellen måste innehålla den kolumnen innan importen startar, annars kommer undantag att kastas. |
-| showColumnNamesAsFirstRow | Boolean | Anger om kolumnnamnen för källdatatabellen kommer att importeras som första raden. |
-| isHtmlSupported | Boolean | Anger om texten är html-sträng. |
+| importedDataTable | DataTable | DataTable-objektet som ska importeras. |
+| sourceRowList | Int32[] | Array av nummer på rader i käll DataTable-objektet som måste importeras. Listan får inte vara null och måste endast innehålla nummer på existerande rader, annars kommer ett undantag att kastas. |
+| sourceColumnList | Int32[] | Array av nummer på kolumner i käll DataTable-objektet som måste importeras. Listan får inte vara null och måste endast innehålla nummer på existerande kolumner, annars kommer ett undantag att kastas. |
+| firstFilledRow | Int32 | Det nollbaserade radnumret för den första cellen i mål tabell från vilken importen kommer att börja. Om mål tabell inte innehåller den raden, kommer den (och alla föregående om nödvändigt) att skapas |
+| firstFilledColumn | Int32 | Det nollbaserade kolumnnumret för den första cellen i mål tabell från vilken importen kommer att börja. Mål tabell måste innehålla den kolumnen innan importen börjar, annars kommer ett undantag att kastas. |
+| showColumnNamesAsFirstRow | Boolean | Specificerar om kolumnnamnen i källdatatabellen kommer att importeras som första rad. |
+| isHtmlSupported | Boolean | Specificerar om texten är en html-sträng. |
 
-### Se även
+### Se Även
 
-* class [Table](../../table)
-* namnutrymme [Aspose.Pdf](../../table)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Table](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

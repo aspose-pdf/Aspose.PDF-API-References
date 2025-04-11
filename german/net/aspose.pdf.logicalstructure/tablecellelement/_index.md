@@ -1,65 +1,76 @@
 ---
-title: TableCellElement
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Repräsentiert eine Basisklasse für Tabellenzellenelemente TH und TD in logischer Struktur.
+title: Class TableCellElement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.TableCellElement-Klasse. Stellt eine Basisklasse für Tabellenelemente TH und TD in der logischen Struktur dar
 type: docs
-weight: 4590
+weight: 6760
 url: /de/net/aspose.pdf.logicalstructure/tablecellelement/
 ---
-## TableCellElement class
+## Klasse TableCellElement
 
-Repräsentiert eine Basisklasse für Tabellenzellenelemente (TH und TD) in logischer Struktur.
+Stellt eine Basisklasse für Tabellenelemente (TH und TD) in der logischen Struktur dar.
 
 ```csharp
-public abstract class TableCellElement : TableChildElement, ITextElement
+public abstract class TableCellElement : TableChildElement, IAdjustPosition, ITextElement
 ```
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | Holt oder setzt den aktuellen Text für Strukturelement. |
-| [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment) { get; set; } | Ruft die Zellenausrichtung ab oder legt sie fest. |
-| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | Holt oder setzt den alternativen Text für Strukturelement. |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | erhältStructureAttributeCollection Objekt. |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor) { get; set; } | Ruft die Hintergrundfarbe der Zelle ab oder legt sie fest. |
-| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border) { get; set; } | Ruft den Zellenrand ab oder legt ihn fest. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Ruft eine untergeordnete Sammlung von abElement Objekte. |
-| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan) { get; set; } | Ruft die Spaltenspanne ab oder legt sie fest. |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | erhältAttributeOwnerStandard Objekt. |
-| [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate) { get; set; } | Ruft den standardmäßigen Zelltextstatus ab oder legt ihn fest. |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | Liest oder setzt den Erweiterungstext für Strukturelement. |
-| [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | Ruft die ID für Strukturelement ab. |
-| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder) { get; set; } | Ruft ab oder legt fest, dass die Zelle einen Rand hat. |
-| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped) { get; set; } | Ruft das umbrochene Textwort der Zelle ab oder legt es fest. |
-| [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | Holt oder setzt die Sprache für Strukturelement. |
-| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin) { get; set; } | Ruft die Auffüllung ab oder legt sie fest. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Übergeordnetes Element abrufen. |
-| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan) { get; set; } | Ruft die Zeilenspanne ab oder legt sie fest. |
-| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate) { get; } | erhältStructureTextState Objekt für aktuelles Element. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | Ruft den Typ des Strukturelements ab. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Holt oder setzt den Titel für Strukturelement. |
-| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment) { get; set; } | Ruft die vertikale Ausrichtung ab oder legt sie fest. |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | Ruft den tatsächlichen Text für das Strukturelement ab oder legt ihn fest. |
+| [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment/) { get; set; } | Ruft die Zellenausrichtung ab oder legt sie fest. |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | Ruft den alternativen Text für das Strukturelement ab oder legt ihn fest. |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Ruft das StructureAttributeCollection-Objekt ab. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/) { get; set; } | Ruft die Hintergrundfarbe der Zelle ab oder legt sie fest. |
+| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border/) { get; set; } | Ruft den Zellrand ab oder legt ihn fest. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Ruft die Kindersammlung von Elementobjekten ab. |
+| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan/) { get; set; } | Ruft den Spaltenbereich ab oder legt ihn fest. |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | Ruft das AttributeOwnerStandard-Objekt ab. |
+| [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/) { get; set; } | Ruft den Standardzustand des Zelltextes ab oder legt ihn fest. |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | Ruft den Erweiterungstext für das Strukturelement ab oder legt ihn fest. |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | Ruft die ID für das Strukturelement ab. |
+| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder/) { get; set; } | Ruft ab oder legt fest, ob die Zelle keinen Rand hat. |
+| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | Ruft ab oder legt fest, ob der Text der Zelle umbrochen ist. |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Ruft die Sprache für das Strukturelement ab oder legt sie fest. |
+| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | Ruft den Abstand ab oder legt ihn fest. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Ruft die Seite ab, auf der einige oder alle Kinderelemente gerendert werden. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Ruft das Elternelement ab. |
+| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan/) { get; set; } | Ruft den Zeilenbereich ab oder legt ihn fest. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate/) { get; } | Ruft das StructureTextState-Objekt für das aktuelle Element ab. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Ruft den Typ des Strukturelements ab. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | Ruft den Titel für das Strukturelement ab oder legt ihn fest. |
+| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment/) { get; set; } | Ruft die vertikale Ausrichtung ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | AnhängenElement zur Sammlung von Kindern. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Elternelement für aktuelles Strukturelement ändern |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | ID für Strukturelement löschen. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Elemente eines bestimmten Typs finden |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | ID für Strukturelement generieren. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Legt ID für Strukturelement fest. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | Legt benutzerdefiniertes Tag für Strukturelement fest. |
-| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext)(string) | Hängt Textinhalt an aktuelles Textelement an. |
-| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Fügt ein Element zur Sammlung der Kinder hinzu. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Ändert das Elternelement für das aktuelle Strukturelement |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Löscht alle Kinder. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Löscht die ID für das Strukturelement. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Findet Elemente eines bestimmten Typs |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Generiert eine ID für das Strukturelement. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Fügt ein Element an der angegebenen Stelle in die Sammlung der Kinder ein. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Entfernt: ein Element aus der Struktur, eine Referenz darauf aus dem Elternelement, Referenzen darauf aus Kinderelementen, das entsprechende Objekt aus dem Dokument. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Entfernt ein Element aus der Struktur, eine Referenz darauf aus dem Elternelement, Referenzen darauf aus Kinderelementen und das entsprechende Objekt aus dem Dokument. Fügt die Kindobjekte des entfernten Objekts in die Kindobjektesammlung seines ehemaligen Elternobjekts ein, beginnend am Index des entfernten Objekts. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Entfernt das Kind an. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Setzt die ID für das Strukturelement. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Setzt ein benutzerdefiniertes Tag für das Strukturelement. |
+| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Bindet ein Strukturelement an die Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Bindet ein Strukturelement an das Artefakt. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Bindet ein Strukturelement an den Inhaltstream BDC-Operator. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Bindet ein Strukturelement an den Inhaltstream XForm. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Bindet ein Strukturelement an das XImage. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
 
 ### Siehe auch
 
-* class [TableChildElement](../tablechildelement)
-* interface [ITextElement](../itextelement)
-* namensraum [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [TableChildElement](../tablechildelement/)
+* Schnittstelle [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
+* Schnittstelle [ITextElement](../itextelement/)
+* Namensraum [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* Assembly [Aspose.PDF](../../)

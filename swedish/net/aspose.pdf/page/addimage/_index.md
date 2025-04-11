@@ -1,85 +1,90 @@
 ---
-title: AddImage
-second_title: Aspose.PDF för .NET API Referens
-description: Lägger till bild på sidan och placerar den i mitten av specificerad rektangel och sparar bildens proportion.
+title: Page.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: Page-metod. Lägger till bild på sidan och placerar den i mitten av angiven rektangel och sparar bildens proportioner
 type: docs
-weight: 340
+weight: 350
 url: /sv/net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-Lägger till bild på sidan och placerar den i mitten av specificerad rektangel och sparar bildens proportion.
+Lägger till bild på sidan och placerar den i mitten av angiven rektangel och sparar bildens proportioner.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
+    bool autoAdjustRectangle = true)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Bildströmmen. |
-| imageRect | Rectangle | Bildens position. |
+| imageStream | Stream | Strömmen av bilden. |
+| imageRect | Rectangle | Positionen för bilden. |
+| bbox | Rectangle | Bbox för bilden. |
+| autoAdjustRectangle | Boolean | Justera bilden i mitten av den angivna rektangeln. |
 
-### Se även
+### Se Även
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namnutrymme [Aspose.Pdf](../../page)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Rectangle](../../rectangle/)
+* klass [Page](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, Stream, Rectangle) {#addimage_3}
+## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-Lägger till sökbar bild på sidan och placerar den i mitten av den angivna rektangeln och sparar bildens proportion.
+Lägger till sökbar bild på sidan och placerar den i mitten av angiven rektangel och sparar bildens proportioner.
 
 ```csharp
-public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
+public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hocr | String | Hocr av bilden. |
-| imageStream | Stream | Bildströmmen. |
-| imageRect | Rectangle | Bildens position. |
+| hocr | String | Hocr för bilden. |
+| imageStream | Stream | Strömmen av bilden. |
+| imageRect | Rectangle | Positionen för bilden. |
+| bbox | Rectangle | Bbox för bilden. |
 
-### Se även
+### Se Även
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namnutrymme [Aspose.Pdf](../../page)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Rectangle](../../rectangle/)
+* klass [Page](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, Rectangle, int, int, bool) {#addimage_1}
+## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-Lägger till bild på sidan och placerar den beroende på bildens rektangelposition.
+Lägger till bild på sidan och placerar den beroende på bildrektangelns position.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
-    bool saveImageProportions)
+    bool saveImageProportions, Rectangle bbox = null)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Bildströmmen. |
+| imageStream | Stream | Strömmen av bilden. |
 | imageRect | Rectangle | Standardpositionen för bilden på sidan. |
-| imageWidth | Int32 | Bildens bredd. |
-| imageHeight | Int32 | Bildens höjd. |
-| saveImageProportions | Boolean | Om flaggan är inställd på sann än bilden placerad i rektangelposition; annars blir rektangens storlek lika med bildstorleken. |
+| imageWidth | Int32 | Bredden på bilden. |
+| imageHeight | Int32 | Höjden på bilden. |
+| saveImageProportions | Boolean | Om flaggan är inställd på true placeras bilden i rektangelns position; annars blir storleken på rektangeln lika med bildens storlek. |
+| bbox | Rectangle | Bbox för bilden. |
 
-### Se även
+### Se Även
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namnutrymme [Aspose.Pdf](../../page)
-* hopsättning [Aspose.PDF](../../../)
+* klass [Rectangle](../../rectangle/)
+* klass [Page](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-Lägger till bild på sidan och placerar den i mitten av specificerad rektangel och sparar bildens proportion.
+Lägger till bild på sidan och placerar den i mitten av angiven rektangel och sparar bildens proportioner.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
@@ -87,14 +92,12 @@ public void AddImage(string imagePath, Rectangle rectangle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imagePath | String | Vägen till bilden. |
-| rectangle | Rectangle | Bildens position. |
+| imagePath | String | Sökvägen till bilden. |
+| rectangle | Rectangle | Positionen för bilden. |
 
-### Se även
+### Se Även
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namnutrymme [Aspose.Pdf](../../page)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Rectangle](../../rectangle/)
+* klass [Page](../)
+* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* samling [Aspose.PDF](../../../)

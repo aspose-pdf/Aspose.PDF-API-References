@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestinationType
-second_title: Aspose.PDF per .NET API Reference
-description: Enumera i tipi di destinazioni esplicite.
+title: Enum ExplicitDestinationType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.ExplicitDestinationType enum. Enumerates the types of explicit destinations
 type: docs
-weight: 320
+weight: 1690
 url: /it/net/aspose.pdf.annotations/explicitdestinationtype/
 ---
-## ExplicitDestinationType enumeration
+## Enumerazione ExplicitDestinationType
 
 Enumera i tipi di destinazioni esplicite.
 
@@ -14,22 +14,20 @@ Enumera i tipi di destinazioni esplicite.
 public enum ExplicitDestinationType
 ```
 
-### I valori
+### Valori
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| XYZ | `0` | Visualizza la pagina con le coordinate (sinistra,�in alto) posizionate nell'angolo in alto a sinistra della finestra e il contenuto della pagina ingrandito dal fattore zoom. Un valore nullo per qualsiasi parametro left, top o zoom specifica che il valore corrente di quel parametro deve essere mantenuto invariato. Un valore di zoom pari a 0 ha lo stesso significato di un valore nullo. |
-| Fit | `1` | Visualizza la pagina con il suo contenuto ingrandito quanto basta per adattare l'intera pagina all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando la pagina all'interno della finestra nell'altra dimensione. |
-| FitH | `2` | Visualizza la pagina con la coordinata verticale in alto posizionata sul bordo superiore della finestra e il contenuto della pagina ingrandito quanto basta per adattarsi all'intera larghezza della pagina all'interno della finestra. Un valore nullo per top specifica che il valore corrente di quel parametro deve essere mantenuto invariato. |
-| FitV | `3` | Visualizza la pagina con la coordinata orizzontale sinistra posizionata sul bordo sinistro della finestra e il contenuto della pagina ingrandito quanto basta per adattarsi all'intera altezza della pagina all'interno della finestra. Un valore nullo per sinistra specifica che il valore corrente di quel parametro deve essere mantenuto invariato. |
-| FitR | `4` | Visualizza la pagina con il suo contenuto ingrandito quanto basta per adattarsi al rettangolo specificato dalle coordinate di sinistra, in basso, a destra e interamente all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo di i due, centrando il rettangolo all'interno della finestra nell'altra dimensione. Un valore nullo per qualsiasi dei parametri può comportare un comportamento imprevedibile. |
-| FitB | `5` | Visualizza la pagina con il suo contenuto ingrandito quanto basta per adattare il suo riquadro di delimitazione interamente all'interno di la finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando il riquadro di delimitazione all'interno della finestra nell'altra dimensione. |
-| FitBH | `6` | Visualizza la pagina con la coordinata verticale in alto posizionata sul bordo superiore della finestra e il contenuto della pagina ingrandito quanto basta per adattarsi all'intera larghezza del riquadro di delimitazione all'interno della finestra. Un valore nullo per top specifica che il valore corrente di quel parametro deve essere mantenuto invariato. |
-| FitBV | `7` | Visualizza la pagina con la coordinata orizzontale sinistra posizionata sul bordo sinistro della finestra e il contenuto della pagina ingrandito quanto basta per adattarsi all'intera altezza del relativo riquadro di delimitazione all'interno della finestra. Un valore nullo per sinistra specifica che il valore corrente di quel parametro deve essere mantenuto invariato. |
+| XYZ | `0` | Visualizza la pagina con le coordinate (sinistra, sopra) posizionate nell'angolo in alto a sinistra della finestra e i contenuti della pagina ingranditi dal fattore di zoom. Un valore nullo per uno qualsiasi dei parametri sinistra, sopra o zoom specifica che il valore attuale di quel parametro deve rimanere invariato. Un valore di zoom di 0 ha lo stesso significato di un valore nullo. |
+| Fit | `1` | Visualizza la pagina con i suoi contenuti ingranditi appena sufficientemente per adattare l'intera pagina all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando la pagina all'interno della finestra nell'altra dimensione. |
+| FitH | `2` | Visualizza la pagina con la coordinata verticale sopra posizionata al bordo superiore della finestra e i contenuti della pagina ingranditi appena sufficientemente per adattare l'intera larghezza della pagina all'interno della finestra. Un valore nullo per sopra specifica che il valore attuale di quel parametro deve rimanere invariato. |
+| FitV | `3` | Visualizza la pagina con la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra e i contenuti della pagina ingranditi appena sufficientemente per adattare l'intera altezza della pagina all'interno della finestra. Un valore nullo per sinistra specifica che il valore attuale di quel parametro deve rimanere invariato. |
+| FitR | `4` | Visualizza la pagina con i suoi contenuti ingranditi appena sufficientemente per adattare il rettangolo specificato dalle coordinate sinistra, in basso, destra e sopra interamente all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando il rettangolo all'interno della finestra nell'altra dimensione. Un valore nullo per uno qualsiasi dei parametri può comportare un comportamento imprevedibile. |
+| FitB | `5` | Visualizza la pagina con i suoi contenuti ingranditi appena sufficientemente per adattare completamente la sua bounding box all'interno della finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando la bounding box all'interno della finestra nell'altra dimensione. |
+| FitBH | `6` | Visualizza la pagina con la coordinata verticale sopra posizionata al bordo superiore della finestra e i contenuti della pagina ingranditi appena sufficientemente per adattare l'intera larghezza della sua bounding box all'interno della finestra. Un valore nullo per sopra specifica che il valore attuale di quel parametro deve rimanere invariato. |
+| FitBV | `7` | Visualizza la pagina con la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra e i contenuti della pagina ingranditi appena sufficientemente per adattare l'intera altezza della sua bounding box all'interno della finestra. Un valore nullo per sinistra specifica che il valore attuale di quel parametro deve rimanere invariato. |
 
-### Guarda anche
+### Vedi Anche
 
-* spazio dei nomi [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

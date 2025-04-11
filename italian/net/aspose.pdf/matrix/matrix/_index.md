@@ -1,127 +1,114 @@
 ---
-title: Matrix
-second_title: Aspose.PDF per .NET API Reference
-description: Il costruttore crea la matrice standard da 1 a 1  ABCDEF    1 0 0 1 0 0
+title: Matrix.Matrix
+second_title: Aspose.PDF for .NET API Reference
+description: Costruttore della matrice. Il costruttore crea una matrice standard 1 a 1 A B C D E F 1 0 0 1 0 0.
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/matrix/matrix/
 ---
-## Matrix() {#constructor}
+title: Matrice.Matrix  
+second_title: Aspose.PDF for .NET Riferimento API  
+description: Costruttore della matrice. Il costruttore crea una matrice standard 1x1 A B C D E F = [1, 0, 0, 1, 0, 0]  
+type: docs  
+weight: 10  
+url: /net/aspose.pdf/matrix/matrix/  
 
-Il costruttore crea la matrice standard da 1 a 1: [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0]
+## Matrice() {#constructor}  
+
+Il costruttore crea una matrice standard 1x1: [ A B C D E F ] = [1, 0, 0, 1, 0, 0]  
 
 ```csharp
 public Matrix()
-```
-
-### Esempi
+```  
+## Esempi  
 
 ```csharp
 Matrix m = new Matrix();
-```
+```  
+## Vedi anche  
 
-### Guarda anche
+* classe [Matrice](../)  
+* namespace [Aspose.Pdf](../../../aspose.pdf/)  
+* assembly [Aspose.PDF](../../../)  
 
-* class [Matrix](../../matrix)
-* spazio dei nomi [Aspose.Pdf](../../matrix)
-* assemblea [Aspose.PDF](../../../)
+ | --- | --- |  
+| matrixArray | Double[] | Array di dati della matrice. |  
 
----
-
-## Matrix(double[]) {#constructor_3}
-
-Il costruttore accetta una matrice con la seguente rappresentazione di matrice: [ ABCDEF ]
-
-```csharp
-public Matrix(double[] matrixArray)
-```
-
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| matrixArray | Double[] | Matrice di dati a matrice. |
-
-### Esempi
+## Esempi  
 
 ```csharp
 double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
 Matrix m = new Matrix(c);
-```
+```  
+## Vedi anche  
 
-### Guarda anche
+* classe [Matrice](../)  
+* namespace [Aspose.Pdf](../../../aspose.pdf/)  
+* assembly [Aspose.PDF](../../../)  
 
-* class [Matrix](../../matrix)
-* spazio dei nomi [Aspose.Pdf](../../matrix)
-* assemblea [Aspose.PDF](../../../)
+---  
 
----
+## Matrice(float[]) {#constructor_4}  
 
-## Matrix(float[]) {#constructor_4}
-
-Il costruttore accetta una matrice con la seguente rappresentazione di matrice: [ ABCDEF ]
+Il costruttore accetta una matrice con la seguente rappresentazione array: [ A B C D E F ]  
 
 ```csharp
 public Matrix(float[] matrixArray)
-```
+```  
+| Parametro | Tipo | Descrizione |  
+| --- | --- | --- |  
+| matrixArray | Single[] | Array di dati della matrice. |  
 
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| matrixArray | Single[] | Matrice di dati a matrice. |
+### Vedi anche  
 
-### Guarda anche
+* classe [Matrice](../)  
+* namespace [Aspose.Pdf](../../../aspose.pdf/)  
+* assembly [Aspose.PDF](../../../)  
 
-* class [Matrix](../../matrix)
-* spazio dei nomi [Aspose.Pdf](../../matrix)
-* assemblea [Aspose.PDF](../../../)
+---  
 
----
+## Matrice(Matrice) {#constructor_1}  
 
-## Matrix(Matrix) {#constructor_1}
-
-Costruttore accetta una matrice per creare una copia
+Il costruttore accetta una matrice per creare una copia.  
 
 ```csharp
 public Matrix(Matrix matrix)
-```
+```  
+| Parametro | Tipo | Descrizione |  
+| --- | --- | --- |  
+| matrix | Matrice | Oggetto della matrice. |  
 
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| matrix | Matrix | Oggetto matrice. |
+### Vedi anche  
 
-### Guarda anche
+* classe [Matrice](../)  
+* namespace [Aspose.Pdf](../../../aspose.pdf/)  
+* assembly [Aspose.PDF](../../../)  
 
-* class [Matrix](../../matrix)
-* spazio dei nomi [Aspose.Pdf](../../matrix)
-* assemblea [Aspose.PDF](../../../)
+---  
 
----
+## Matrice(double, double, double, double, double, double) {#constructor_2}  
 
-## Matrix(double, double, double, double, double, double) {#constructor_2}
-
-Inizializza la matrice di trasformazione con i coefficienti specificati.
+Inizializza la matrice di trasformazione con i coefficienti specificati.  
 
 ```csharp
 public Matrix(double a, double b, double c, double d, double e, double f)
-```
+```  
+| Parametro | Tipo | Descrizione |  
+| --- | --- | --- |  
+| a | Double | Valore A della matrice. |  
+| b | Double | Valore B della matrice. |  
+| c | Double | Valore C della matrice. |  
+| d | Double | Valore D della matrice. |  
+| e | Double | Valore E della matrice. |  
+| f | Double | Valore F della matrice. |  
 
-| Parametro | Tipo | Descrizione |
-| --- | --- | --- |
-| a | Double | Un valore di matrice. |
-| b | Double | Valore della matrice B. |
-| c | Double | Valore della matrice C. |
-| d | Double | Valore matrice D. |
-| e | Double | Valore della matrice E. |
-| f | Double | Valore di matrice F. |
-
-### Esempi
+## Esempi  
 
 ```csharp
 Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
-```
+```  
+## Vedi anche  
 
-### Guarda anche
-
-* class [Matrix](../../matrix)
-* spazio dei nomi [Aspose.Pdf](../../matrix)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [Matrice](../)  
+* namespace [Aspose.Pdf](../../../aspose.pdf/)  
+* assembly [Aspose.PDF](../../../)

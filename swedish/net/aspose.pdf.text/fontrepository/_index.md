@@ -1,14 +1,14 @@
 ---
-title: FontRepository
-second_title: Aspose.PDF för .NET API Referens
-description: Utför teckensnittssökning. Söker i systeminstallerade teckensnitt och standard Pdf-typsnitt. Ger även funktionalitet för att öppna anpassade teckensnitt.
+title: Class FontRepository
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.FontRepository klass. Utför teckensnittssökning. Söker i systeminstallerade teckensnitt och standard Pdf-teckensnitt. Ger också funktionalitet för att öppna anpassade teckensnitt
 type: docs
-weight: 6720
+weight: 10540
 url: /sv/net/aspose.pdf.text/fontrepository/
 ---
-## FontRepository class
+## FontRepository klass
 
-Utför teckensnittssökning. Söker i systeminstallerade teckensnitt och standard Pdf-typsnitt. Ger även funktionalitet för att öppna anpassade teckensnitt.
+Utför teckensnittssökning. Söker i systeminstallerade teckensnitt och standard Pdf-teckensnitt. Ger också funktionalitet för att öppna anpassade teckensnitt.
 
 ```csharp
 public sealed class FontRepository
@@ -16,60 +16,58 @@ public sealed class FontRepository
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FontRepository](fontrepository)() | Default_Constructor |
+| [FontRepository](fontrepository/)() | Standardkonstruktören. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [Sources](../../aspose.pdf.text/fontrepository/sources) { get; } | Hämtar samling av teckensnittskällor. |
-| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions) { get; } | Får insamling av teckensnittsersättningsstrategier. |
+| static [Sources](../../aspose.pdf.text/fontrepository/sources/) { get; } | Hämtar samlingen av teckensnitts källor. |
+| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions/) { get; } | Hämtar samlingen av teckensnitts ersättningsstrategier. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | Söker och returnerar teckensnitt med angivet teckensnittsnamn. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | Söker efter och returnerar teckensnitt med angivet teckensnittsnamn och ignorerar eller respekterar skiftlägeskänslighet. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | Söker och returnerar teckensnitt med angivet teckensnittsnamn och teckensnittsstil. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | Söker och returnerar teckensnitt med specificerat teckensnittsnamn och teckensnittsstil ignorerar eller respekterar skiftlägeskänslighet. |
-| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | Laddar systeminstallerade teckensnitt och standard Pdf-typsnitt. Denna metod har utformats för att påskynda laddningsprocessen för teckensnitt. Som standard laddas teckensnitt vid första begäran för alla teckensnitt. Användning av den här metoden laddar system och standard Pdf fonts omedelbart innan något Pdf-dokument öppnades. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | Öppnar teckensnitt med angiven sökväg för teckensnittsfil. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | Öppnar teckensnitt med angiven teckensnittsström. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | Öppnar teckensnitt med angiven teckensnittsfilsökväg och metrikfilsökväg. |
-| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts)() | Laddar om alla teckensnitt som anges av egenskapen[`Sources`](./sources) |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont)(string) | Söker och returnerar teckensnitt med angivet teckensnittsnamn. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_3)(string, bool) | Söker och returnerar teckensnitt med angivet teckensnittsnamn och ignorerar eller beaktar skiftlägeskänslighet. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_1)(string, FontStyles) | Söker och returnerar teckensnitt med angivet teckensnittsnamn och teckensnittsstil. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_2)(string, FontStyles, bool) | Söker och returnerar teckensnitt med angivet teckensnittsnamn och teckensnittsstil och ignorerar eller beaktar skiftlägeskänslighet. |
+| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts/)() | Laddar systeminstallerade teckensnitt och standard Pdf-teckensnitt. Denna metod är utformad för att snabba upp teckensnitts laddningsprocessen. Som standard laddas teckensnitt vid första begäran om något teckensnitt. Användning av denna metod laddar system- och standard Pdf-teckensnitt omedelbart innan något Pdf-dokument öppnas. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_1)(string) | Öppnar teckensnitt med angiven teckensnitts filväg. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont)(Stream, FontTypes) | Öppnar teckensnitt med angiven teckensnittsström. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_2)(string, string) | Öppnar teckensnitt med angiven teckensnitts filväg och metrik filväg. |
+| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts/)() | Laddar om alla teckensnitt som anges av egenskapen [`Sources`](./sources/) |
 
-### Exempel
+## Exempel
 
-Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet i texten på första sidan.
+Exemplet visar hur man hittar teckensnitt och ersätter teckensnittet för texten på första sidan.
 
 ```csharp
-// Hitta teckensnitt
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// Öppna dokument
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Skapa TextFragmentAbsorber-objekt för att hitta alla "hej världen" textförekomster
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Acceptera absorbenten för första sidan
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// Ändra teckensnitt för den första textförekomsten
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// Spara dokument
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se även
+### Se Även
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [Document](../../aspose.pdf/document)
-* namnutrymme [Aspose.Pdf.Text](../../aspose.pdf.text)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TextFragmentAbsorber](../textfragmentabsorber/)
+* klass [Document](../../aspose.pdf/document/)
+* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

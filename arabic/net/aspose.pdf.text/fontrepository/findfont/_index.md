@@ -1,209 +1,207 @@
 ---
-title: FindFont
-second_title: Aspose.PDF لمرجع .NET API
-description: للبحث عن الخط وإرجاعه باسم الخط المحدد.
+title: FontRepository.FindFont
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة FontRepository. تبحث وتعيد الخط بالاسم المحدد
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/fontrepository/findfont/
 ---
 ## FindFont(string) {#findfont}
 
-للبحث عن الخط وإرجاعه باسم الخط المحدد.
+تبحث وتعيد الخط بالاسم المحدد.
 
 ```csharp
 public static Font FindFont(string fontName)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
 كائن الخط.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الخط واستبدال خط نص الصفحة الأولى.
+المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// البحث عن الخط
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, bool) {#findfont_3}
 
-للبحث عن الخط وإرجاعه باستخدام اسم الخط المحدد مع تجاهل أو مراعاة حساسية حالة الأحرف.
+تبحث وتعيد الخط بالاسم المحدد مع تجاهل أو احترام حساسية الحالة.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
-| ignoreCase | Boolean | حساسية القضية |
+| ignoreCase | Boolean | حساسية الحالة |
 
-### قيمة الإرجاع
+### Return Value
 
 كائن الخط.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الخط واستبدال خط نص الصفحة الأولى.
+المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// البحث عن الخط
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-للبحث عن الخط وإرجاعه باستخدام اسم الخط ونمط الخط المحددين.
+تبحث وتعيد الخط بالاسم المحدد ونمط الخط.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontFamilyName | String | اسم عائلة الخط. |
 | stl | FontStyles | قيمة نمط الخط. |
 
-### قيمة الإرجاع
+### Return Value
 
-كائن الخط المطابق للبحث عن معلمات الطلب.
+كائن الخط الذي يتوافق مع معلمات طلب البحث.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الخط واستبدال خط نص الصفحة الأولى.
+المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// البحث عن الخط
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// قم بإنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "مرحبًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط حدوث النص الأول
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-للبحث عن الخط وإرجاعه باستخدام اسم الخط المحدد ونمط الخط تجاهل حساسية حالة الأحرف أو تكريمها .
+تبحث وتعيد الخط بالاسم المحدد ونمط الخط مع تجاهل أو احترام حساسية الحالة.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | fontFamilyName | String | اسم عائلة الخط. |
 | stl | FontStyles | قيمة نمط الخط. |
-| ignoreCase | Boolean | حساسية القضية |
+| ignoreCase | Boolean | حساسية الحالة |
 
-### قيمة الإرجاع
+### Return Value
 
-كائن الخط المطابق للبحث عن معلمات الطلب.
+كائن الخط الذي يتوافق مع معلمات طلب البحث.
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الخط واستبدال خط نص الصفحة الأولى.
+المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// البحث عن الخط
+// Find font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// قم بإنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "مرحبًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط حدوث النص الأول
+// Change font of the first text occurence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [Font](../../font)
-* enum [FontStyles](../../fontstyles)
-* class [FontRepository](../../fontrepository)
-* مساحة الاسم [Aspose.Pdf.Text](../../fontrepository)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

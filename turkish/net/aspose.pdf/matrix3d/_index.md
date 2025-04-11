@@ -1,12 +1,12 @@
 ---
-title: Matrix3D
-second_title: Aspose.PDF for .NET API Referansı
-description: Sınıf dönüşüm matrisini temsil eder.
+title: Class Matrix3D
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Matrix3D sınıfı. Sınıf, dönüşüm matrisini temsil eder
 type: docs
-weight: 4750
+weight: 6930
 url: /tr/net/aspose.pdf/matrix3d/
 ---
-## Matrix3D class
+## Matrix3D sınıfı
 
 Sınıf, dönüşüm matrisini temsil eder.
 
@@ -14,45 +14,43 @@ Sınıf, dönüşüm matrisini temsil eder.
 public sealed class Matrix3D
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Matrix3D](matrix3d#constructor)() | Constructor standart 1'e 1 matris oluşturur: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
-| [Matrix3D](matrix3d#constructor_3)(double[]) | Constructor , aşağıdaki dizi temsiline sahip bir matris kabul eder: [ ABCDEFGHI Tx Ty Tz] |
-| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | Yapıcı bir kopya oluşturmak için bir matris kabul eder |
-| [Matrix3D](matrix3d#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | Belirtilen katsayılarla dönüştürme matrisini başlatır. |
+| [Matrix3D](matrix3d/#constructor)() | Yapıcı, standart 1'e 1 matris oluşturur: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
+| [Matrix3D](matrix3d/#constructor_3)(double[]) | Yapıcı, aşağıdaki dizi temsili ile bir matris kabul eder: [ A B C D E F G H I Tx Ty Tz] |
+| [Matrix3D](matrix3d/#constructor_1)(Matrix3D) | Yapıcı, bir kopya oluşturmak için bir matris kabul eder |
+| [Matrix3D](matrix3d/#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | Belirtilen katsayılarla dönüşüm matrisini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [A](../../aspose.pdf/matrix3d/a) { get; set; } | Dönüşüm matrisinin bir üyesi. |
-| [B](../../aspose.pdf/matrix3d/b) { get; set; } | Dönüşüm matrisinin B üyesi. |
-| [C](../../aspose.pdf/matrix3d/c) { get; set; } | Dönüşüm matrisinin C üyesi. |
-| [D](../../aspose.pdf/matrix3d/d) { get; set; } | Dönüşüm matrisinin D üyesi. |
-| [E](../../aspose.pdf/matrix3d/e) { get; set; } | Dönüşüm matrisinin E üyesi. |
-| [F](../../aspose.pdf/matrix3d/f) { get; set; } | Dönüşüm matrisinin F üyesi. |
-| [G](../../aspose.pdf/matrix3d/g) { get; set; } | Dönüşüm matrisinin G üyesi. |
-| [H](../../aspose.pdf/matrix3d/h) { get; set; } | Dönüşüm matrisinin H üyesi. |
-| [I](../../aspose.pdf/matrix3d/i) { get; set; } | Dönüşüm matrisinin I üyesi. |
-| [Tx](../../aspose.pdf/matrix3d/tx) { get; set; } | Dönüşüm matrisinin Tx üyesi. |
-| [Ty](../../aspose.pdf/matrix3d/ty) { get; set; } | Dönüşüm matrisinin Ty üyesi. |
-| [Tz](../../aspose.pdf/matrix3d/tz) { get; set; } | Dönüşüm matrisinin Tz üyesi. |
+| [A](../../aspose.pdf/matrix3d/a/) { get; set; } | Dönüşüm matrisinin A üyesi. |
+| [B](../../aspose.pdf/matrix3d/b/) { get; set; } | Dönüşüm matrisinin B üyesi. |
+| [C](../../aspose.pdf/matrix3d/c/) { get; set; } | Dönüşüm matrisinin C üyesi. |
+| [D](../../aspose.pdf/matrix3d/d/) { get; set; } | Dönüşüm matrisinin D üyesi. |
+| [E](../../aspose.pdf/matrix3d/e/) { get; set; } | Dönüşüm matrisinin E üyesi. |
+| [F](../../aspose.pdf/matrix3d/f/) { get; set; } | Dönüşüm matrisinin F üyesi. |
+| [G](../../aspose.pdf/matrix3d/g/) { get; set; } | Dönüşüm matrisinin G üyesi. |
+| [H](../../aspose.pdf/matrix3d/h/) { get; set; } | Dönüşüm matrisinin H üyesi. |
+| [I](../../aspose.pdf/matrix3d/i/) { get; set; } | Dönüşüm matrisinin I üyesi. |
+| [Tx](../../aspose.pdf/matrix3d/tx/) { get; set; } | Dönüşüm matrisinin Tx üyesi. |
+| [Ty](../../aspose.pdf/matrix3d/ty/) { get; set; } | Dönüşüm matrisinin Ty üyesi. |
+| [Tz](../../aspose.pdf/matrix3d/tz/) { get; set; } | Dönüşüm matrisinin Tz üyesi. |
 
-## yöntemler
+## Metodlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf/matrix3d/add)(Matrix3D) | Diğer matrise matris ekler. |
-| override [Equals](../../aspose.pdf/matrix3d/equals)(object) | Matrisi diğer nesneyle karşılaştırır. |
-| override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode)() | Nesne için karma kod. |
-| override [ToString](../../aspose.pdf/matrix3d/tostring)() | Matrisin metin temsilini döndürür. |
-| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Döndürmeyi açıya çevirir (derece) |
+| [Add](../../aspose.pdf/matrix3d/add/)(Matrix3D) | Matrisi diğer matrise ekler. |
+| override [Equals](../../aspose.pdf/matrix3d/equals/)(object) | Matrisi diğer nesne ile karşılaştırır. |
+| override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode/)() | Nesne için hash kodu. |
+| override [ToString](../../aspose.pdf/matrix3d/tostring/)() | Matrisin metin temsilini döndürür. |
+| static [GetAngle](../../aspose.pdf/matrix3d/getangle/)(Rotation) | Dönüşü açıya (derece) çevirir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

@@ -1,9 +1,9 @@
 ---
-title: TextSearchOptions
-second_title: Aspose.PDF per .NET API Reference
-description: Rappresenta le opzioni di ricerca del testo
+title: Class TextSearchOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextSearchOptions classe. Rappresenta le opzioni di ricerca del testo.
 type: docs
-weight: 7200
+weight: 11040
 url: /it/net/aspose.pdf.text/textsearchoptions/
 ---
 ## TextSearchOptions class
@@ -14,32 +14,31 @@ Rappresenta le opzioni di ricerca del testo
 public sealed class TextSearchOptions : TextOptions
 ```
 
-## Costruttori
+## Constructors
 
-| Nome | Descrizione |
+| Name | Description |
 | --- | --- |
-| [TextSearchOptions](textsearchoptions#constructor_2)(bool) | Inizializza la nuova istanza di[`TextSearchOptions`](../textsearchoptions) oggetto. Specifica la modalità di utilizzo dell'espressione regolare. |
-| [TextSearchOptions](textsearchoptions#constructor)(Rectangle) | Inizializza la nuova istanza di[`TextSearchOptions`](../textsearchoptions)oggetto. Specifica il rettangolo che delimita il testo cercato. |
-| [TextSearchOptions](textsearchoptions#constructor_1)(Rectangle, bool) | Inizializza la nuova istanza di[`TextSearchOptions`](../textsearchoptions) oggetto. Specifica il rettangolo che delimita il testo cercato e la modalità di utilizzo delle espressioni regolari. |
+| [TextSearchOptions](textsearchoptions/#constructor_2)(bool) | Inizializza una nuova istanza dell'oggetto `TextSearchOptions`. Specifica la modalità di utilizzo delle espressioni regolari. |
+| [TextSearchOptions](textsearchoptions/#constructor)(Rectangle) | Inizializza una nuova istanza dell'oggetto `TextSearchOptions`. Specifica il rettangolo che delimita il testo cercato. |
+| [TextSearchOptions](textsearchoptions/#constructor_1)(Rectangle, bool) | Inizializza una nuova istanza dell'oggetto `TextSearchOptions`. Specifica il rettangolo che delimita il testo cercato e la modalità di utilizzo delle espressioni regolari. |
 
-## Proprietà
+## Properties
 
-| Nome | Descrizione |
+| Name | Description |
 | --- | --- |
-| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors) { get; set; } | Ottiene o imposta l'indicazione che gli errori relativi all'assenza di carattere verranno ignorati dall'assorbitore di testo (frammento). true - significa che gli errori di assenza di carattere verranno ignorati. I segmenti di testo che fanno riferimento a risorse errate verranno ignorati durante l'elaborazione. false (predefinito) - l'assenza di errori di carattere interromperà l'elaborazione generando un'eccezione. |
-| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext) { get; set; } | Ottiene o imposta l'indicazione che i frammenti di testo che rappresentano l'ombra del testo normale verranno ignorati durante la ricerca. true - significa che il testo ombreggiato non verrà trovato (prova se la ricerca del testo restituisce frammenti duplicati nelle posizioni vicine) false - significa che l'ombra verrà trovato il testo oltre al testo normale (valore predefinito) |
-| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused) { get; set; } | Ottiene o imposta l'indicazione che viene utilizzata un'espressione regolare. |
-| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds) { get; set; } | Ottiene o imposta l'indicazione che il testo viene cercato entro i limiti della pagina. |
-| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors) { get; set; } | Ottiene o imposta l'indicazione che gli errori di estrazione del testo (decodifica) verranno registrati nell'assorbitore del testo (frammento). true - significa che gli errori di estrazione del testo (decodifica) verranno registrati. Potrebbe ridurre le prestazioni. false (predefinito) - nessuna registrazione degli errori. |
-| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle) { get; set; } | Ottiene o imposta il rettangolo che delimita il testo cercato. |
-| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics) { get; set; } | Ottiene o imposta un valore che consente la ricerca di elementi grafici relativi al testo (sottolineature, sfondo, ecc.) durante la ricerca di testo. true - verrà eseguita la ricerca di elementi grafici relativi al testo (valore predefinito). false - elementi grafici che potrebbero essere presenti nel documento di origine sarà ignorato. Impostalo in caso di problemi di prestazioni o non è necessario gestire la sottolineatura, lo sfondo o il ritaglio. |
-| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount) { get; set; } | Ottiene o imposta un valore che limita la ricerca di elementi grafici relativi al testo (sottolineature, sfondo, ecc.) in una pagina per il numero specificato di elementi. Il valore predefinito è 250. Impostare un valore minore in caso di problemi di prestazioni, provare un valore maggiore nel caso alcuni elementi grafici non sono stati trovati. |
-| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding) { get; set; } | Ottiene o imposta l'indicazione che la ricerca del testo verrà eseguita utilizzando la codifica del motore dei caratteri. true: significa che verrà utilizzata la codifica del motore dei caratteri (prova se la ricerca del testo non riesce a causa di una codifica imperfetta nel documento) false: significa che la codifica dei caratteri del documento verrà eseguita essere utilizzato (valore predefinito) |
+| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors/) { get; set; } | Ottiene o imposta l'indicazione che gli errori relativi all'assenza di font saranno ignorati dall'assorbitore di testo (frammento). true - significa che gli errori di assenza di font saranno ignorati. I segmenti di testo che si riferiscono a risorse errate saranno saltati durante l'elaborazione. false (predefinito) - l'errore di assenza di font terminerà l'elaborazione generando un'eccezione. |
+| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext/) { get; set; } | Ottiene o imposta l'indicazione che i frammenti di testo che rappresentano l'ombra del testo normale saranno ignorati durante la ricerca. true - significa che il testo ombra non sarà trovato (prova questo se la ricerca del testo restituisce frammenti duplicati in posizioni vicine) false - significa che il testo ombra sarà trovato così come il testo normale (valore predefinito) |
+| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused/) { get; set; } | Ottiene o imposta l'indicazione che l'espressione regolare è utilizzata. |
+| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds/) { get; set; } | Ottiene o imposta l'indicazione che il testo è cercato all'interno dei limiti della pagina. |
+| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors/) { get; set; } | Ottiene o imposta l'indicazione che gli errori di estrazione del testo (decodifica) saranno registrati nell'assorbitore di testo (frammento). true - significa che gli errori di estrazione del testo (decodifica) saranno registrati. Potrebbe ridurre le prestazioni. false (predefinito) - nessuna registrazione degli errori. |
+| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle/) { get; set; } | Ottiene o imposta il rettangolo che delimita il testo cercato. |
+| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/) { get; set; } | Ottiene o imposta il valore che consente di cercare grafica relativa al testo (sottolineatura, sfondo, ecc.) durante la ricerca del testo. true - la ricerca di grafica relativa al testo sarà eseguita (valore predefinito). false - gli elementi grafici che potrebbero essere presenti nel documento sorgente saranno ignorati. Imposta questo in caso di problemi di prestazioni o se non è necessario gestire sottolineature, sfondi o ritagli. |
+| [SearchInAnnotations](../../aspose.pdf.text/textsearchoptions/searchinannotations/) { get; set; } | Ottiene o imposta il valore che consente di cercare testo nelle Annotazioni. true - il testo sarà cercato nelle Annotazioni. false - il testo nelle Annotazioni non sarà analizzato dall'Assorbitore di Frammenti di Testo. |
+| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/) { get; set; } | Ottiene o imposta il valore che limita la ricerca di grafica relativa al testo (sottolineatura, sfondo, ecc.) su una pagina per il numero specificato di elementi. Il predefinito è 250. Imposta un valore inferiore in caso di problemi di prestazioni, prova un valore maggiore nel caso in cui alcuni elementi grafici non siano stati trovati. |
+| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding/) { get; set; } | Ottiene o imposta l'indicazione che il testo sarà cercato utilizzando la codifica del motore del font. true - significa che sarà utilizzata la codifica del motore del font (prova questo se la ricerca del testo fallisce a causa di una codifica imperfetta nel documento) false - significa che sarà utilizzata la codifica del font del documento (valore predefinito) |
 
-### Guarda anche
+### See Also
 
-* class [TextOptions](../textoptions)
-* spazio dei nomi [Aspose.Pdf.Text](../../aspose.pdf.text)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

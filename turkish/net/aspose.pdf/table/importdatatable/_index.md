@@ -1,38 +1,38 @@
 ---
-title: ImportDataTable
-second_title: Aspose.PDF for .NET API Referansı
-description: System.Data.DataTabledan Aspose.Pdf.Table ye veri aktarır
+title: Table.ImportDataTable
+second_title: Aspose.PDF for .NET API Reference
+description: Tablo yöntemi. System.Data.DataTable'dan Aspose.Pdf.Table'a veri aktarır
 type: docs
 weight: 260
 url: /tr/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-System.Data.DataTable'dan Aspose.Pdf.Table 'ye veri aktarır
+System.Data.DataTable'dan Aspose.Pdf.Table'a veri aktarır
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
     int firstFilledRow, int firstFilledColumn)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| importedDataTable | DataTable | System.Data.DataTable kaynak örneği |
-| isColumnNamesImported | Boolean | sütun adlarının ilk satır olarak içe aktarılıp aktarılmayacağını belirtir |
-| firstFilledRow | Int32 | İçe aktarmanın başlayacağı hedef tablodaki ilk satırın sıfır tabanlı sayısını belirtir, bu sayıya sahip satır (ve önceki bazı satırlar) hedef tabloda yoksa, ilk önce oluşturulacaklar |
-| firstFilledColumn | Int32 | hedef tablodaki ilk hedef sütunun sayısını belirtir, sütun içe aktarma başlamadan önce hedef tabloda mevcut olmalıdır |
+| importedDataTable | DataTable | System.Data.DataTable'ın kaynak örneği |
+| isColumnNamesImported | Boolean | sütun adlarının ilk satır olarak aktarılıp aktarılmayacağını belirtir |
+| firstFilledRow | Int32 | aktarımın başlayacağı hedef tablodaki ilk satırın sıfıra dayalı numarasını belirtir, eğer böyle bir numaraya sahip satır (ve bazı önceki satırlar) hedef tabloda yoksa, önce bunlar oluşturulacaktır |
+| firstFilledColumn | Int32 | hedef tabloda ilk hedef sütunun numarasını belirtir, sütun aktarım başlamadan önce hedef tabloda mevcut olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Table](../../table)
-* ad alanı [Aspose.Pdf](../../table)
-* toplantı [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-BirDataTable tabloya nesne.
+Bir DataTable nesnesini tabloya aktarır.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -40,27 +40,27 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
     bool isHtmlSupported = false)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| importedDataTable | DataTable | buDataTable içe aktarılacak nesne. |
-| isColumnNamesShown | Boolean | Kaynak veri tablosunun sütun adlarının ilk satır olarak içe aktarılıp aktarılmayacağını belirtir. |
-| firstFilledRow | Int32 | İçe aktarmanın başlayacağı hedef tablodaki ilk satırın sıfır tabanlı sayısını belirtir, bu sayıya sahip satır (ve önceki bazı satırlar) hedef tabloda yoksa, ilk önce oluşturulacaklar |
-| firstFilledColumn | Byte | hedef tablodaki ilk hedef sütunun sayısını belirtir, sütun içe aktarma başlamadan önce hedef tabloda mevcut olmalıdır |
-| maxRows | Int32 | Kaynak tablodan içe aktarılacak maksimum satır miktarı. |
-| maxColumns | Int32 | Kaynak tablodan içe aktarılacak maksimum sütun miktarı. |
+| importedDataTable | DataTable | Aktarılacak DataTable nesnesi. |
+| isColumnNamesShown | Boolean | kaynak veri tablosunun sütun adlarının ilk satır olarak aktarılıp aktarılmayacağını belirtir. |
+| firstFilledRow | Int32 | aktarımın başlayacağı hedef tablodaki ilk satırın sıfıra dayalı numarasını belirtir, eğer böyle bir numaraya sahip satır (ve bazı önceki satırlar) hedef tabloda yoksa, önce bunlar oluşturulacaktır |
+| firstFilledColumn | Byte | hedef tabloda ilk hedef sütunun numarasını belirtir, sütun aktarım başlamadan önce hedef tabloda mevcut olmalıdır |
+| maxRows | Int32 | kaynak tablodan aktarılacak maksimum satır sayısı. |
+| maxColumns | Int32 | kaynak tablodan aktarılacak maksimum sütun sayısı. |
 | isHtmlSupported | Boolean | Metnin html dizesi olup olmadığını belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Table](../../table)
-* ad alanı [Aspose.Pdf](../../table)
-* toplantı [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-BirDataTable nesnedir, ancak bütün olarak değil. Yalnızca belirtilen satırlar ve sütunlar içe aktarılır.
+Bir DataTable nesnesini, ancak bütün bir varlık olarak değil. Sadece belirtilen satırlar ve sütunlar aktarılır.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -68,20 +68,18 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
     bool showColumnNamesAsFirstRow, bool isHtmlSupported = false)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| importedDataTable | DataTable | buDataTable içe aktarılacak nesne. |
-| sourceRowList | Int32[] | Kaynaktaki satır sayısı dizisiDataTableiçe aktarılması gereken nesne. Liste boş olmamalı ve yalnızca mevcut satırların sayısını içermelidir, aksi takdirde istisna atılır. |
-| sourceColumnList | Int32[] | Kaynaktaki sütun sayısı dizisiDataTable içe aktarılması gereken nesne. Liste boş olmamalı ve yalnızca mevcut sütunların sayısını içermelidir, aksi takdirde istisna atılır. |
-| firstFilledRow | Int32 | Hedef tablodaki içe aktarmanın başlayacağı ilk hücrenin sıfır tabanlı satır numarası. Hedef tablo bu satırı içermiyorsa, (ve gerekirse öncekilerin tümü) oluşturulacaktır. |
-| firstFilledColumn | Int32 | İçe aktarmanın başlayacağı hedef tablosundaki ilk hücrenin sıfır tabanlı sütun numarası. Hedef tablo, içe aktarma başlamadan önce bu sütunu içermelidir, aksi takdirde istisna atılır. |
-| showColumnNamesAsFirstRow | Boolean | Kaynak veri tablosunun sütun adlarının ilk satır olarak içe aktarılıp aktarılmayacağını belirtir. |
+| importedDataTable | DataTable | Aktarılacak DataTable nesnesi. |
+| sourceRowList | Int32[] | aktarılması gereken kaynak DataTable nesnesindeki satırların numaralarının dizisi. Liste null olmamalı ve yalnızca mevcut satır numaralarını içermelidir, aksi takdirde bir istisna fırlatılacaktır. |
+| sourceColumnList | Int32[] | aktarılması gereken kaynak DataTable nesnesindeki sütunların numaralarının dizisi. Liste null olmamalı ve yalnızca mevcut sütun numaralarını içermelidir, aksi takdirde bir istisna fırlatılacaktır. |
+| firstFilledRow | Int32 | aktarımın başlayacağı hedef tablodaki ilk hücrenin sıfıra dayalı satır numarası. Hedef tablo o satırı içermiyorsa, o (ve gerekirse tüm önceki) oluşturulacaktır |
+| firstFilledColumn | Int32 | aktarımın başlayacağı hedef tablodaki ilk hücrenin sıfıra dayalı sütun numarası. Hedef tablo o sütunu içermelidir, aksi takdirde bir istisna fırlatılacaktır. |
+| showColumnNamesAsFirstRow | Boolean | kaynak veri tablosunun sütun adlarının ilk satır olarak aktarılıp aktarılmayacağını belirtir. |
 | isHtmlSupported | Boolean | Metnin html dizesi olup olmadığını belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Table](../../table)
-* ad alanı [Aspose.Pdf](../../table)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

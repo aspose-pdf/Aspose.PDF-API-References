@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Describe el esquema de extensión XMP proporcionado por PDF/A-1.
+title: Class XmpPdfAExtensionSchema
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.XmpPdfAExtensionSchema. Describe el esquema de extensión XMP que se proporciona por PDF/A1
 type: docs
-weight: 7520
+weight: 11470
 url: /es/net/aspose.pdf/xmppdfaextensionschema/
 ---
-## XmpPdfAExtensionSchema class
+## Clase XmpPdfAExtensionSchema
 
-Describe el esquema de extensión XMP proporcionado por PDF/A-1.
+Describe el esquema de extensión XMP que se proporciona por PDF/A-1.
 
 ```csharp
 public class XmpPdfAExtensionSchema
@@ -18,46 +18,44 @@ public class XmpPdfAExtensionSchema
 
 | Nombre | Descripción |
 | --- | --- |
-| [XmpPdfAExtensionSchema](xmppdfaextensionschema)(XmpPdfAExtensionSchemaDescription) | Inicializa nuevo objeto. |
+| [XmpPdfAExtensionSchema](xmppdfaextensionschema/)(XmpPdfAExtensionSchemaDescription) | Inicializa un nuevo objeto. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionschema/description) { get; } | Obtiene la descripción del esquema. |
-| [Objects](../../aspose.pdf/xmppdfaextensionschema/objects) { get; } | Obtiene la lista de objetos (propiedades, tipos de valores). |
+| [Description](../../aspose.pdf/xmppdfaextensionschema/description/) { get; } | Obtiene la descripción del esquema. |
+| [Objects](../../aspose.pdf/xmppdfaextensionschema/objects/) { get; } | Obtiene la lista de objetos (propiedades, tipos de valor). |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionschema/add)(XmpPdfAExtensionObject) | Agrega un nuevo objeto al esquema. |
-| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains)(XmpPdfAExtensionObject) | Determina si obj existe en schema. |
-| [GetProperty](../../aspose.pdf/xmppdfaextensionschema/getproperty)(string) | Devuelve la propiedad PDF/A por su nombre. |
-| [GetSchemaXml](../../aspose.pdf/xmppdfaextensionschema/getschemaxml)(XmlDocument) | Devuelve el elemento xml (etiqueta - li) que representa el esquema en el árbol xml. |
-| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml)(XmlDocument, XmlElement) | Obtiene los valores de las propiedades como representación de árbol xml. |
-| [Remove](../../aspose.pdf/xmppdfaextensionschema/remove)(XmpPdfAExtensionObject) | Elimina el objeto del esquema. |
+| [Add](../../aspose.pdf/xmppdfaextensionschema/add/)(XmpPdfAExtensionObject) | Agrega un nuevo objeto al esquema. |
+| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains/)(XmpPdfAExtensionObject) | Determina si el objeto existe en el esquema. |
+| [GetProperty](../../aspose.pdf/xmppdfaextensionschema/getproperty/)(string) | Devuelve la propiedad PDF/A por su nombre. |
+| [GetSchemaXml](../../aspose.pdf/xmppdfaextensionschema/getschemaxml/)(XmlDocument) | Devuelve el elemento xml (etiqueta - li) que representa el esquema en el árbol xml. |
+| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml/)(XmlDocument, XmlElement) | Obtiene los valores de las propiedades como representación del árbol xml. |
+| [Remove](../../aspose.pdf/xmppdfaextensionschema/remove/)(XmpPdfAExtensionObject) | Elimina el objeto del esquema. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix) | Prefijo de espacio de nombres de extensión predeterminado. |
-| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri) | Espacio de nombres de extensión predeterminado uri. |
-| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix) | Prefijo de espacio de nombres de campo predeterminado. |
-| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri) | Espacio de nombres de extensión predeterminado uri. |
-| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix) | Prefijo de espacio de nombres de propiedad predeterminado. |
-| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri) | Espacio de nombres de propiedad predeterminado uri. |
-| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix) | Prefijo de espacio de nombres de esquema predeterminado. |
-| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri) | Espacio de nombres de esquema predeterminado uri. |
-| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri) | Espacio de nombres de valor predeterminado uri. |
-| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix) | Prefijo de espacio de nombres de tipo de valor predeterminado. |
-| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri) | Espacio de nombres rdf predeterminado uri. |
-| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix) | Prefijo de espacio de nombres rdf predeterminado. |
+| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/) | Prefijo de espacio de nombres de extensión predeterminado. |
+| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/) | URI de espacio de nombres de extensión predeterminado. |
+| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/) | Prefijo de espacio de nombres de campo predeterminado. |
+| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/) | URI de espacio de nombres de campo predeterminado. |
+| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/) | Prefijo de espacio de nombres de propiedad predeterminado. |
+| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/) | URI de espacio de nombres de propiedad predeterminado. |
+| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/) | Prefijo de espacio de nombres de esquema predeterminado. |
+| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/) | URI de espacio de nombres de esquema predeterminado. |
+| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/) | URI de espacio de nombres de valor predeterminado. |
+| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/) | Prefijo de espacio de nombres de tipo de valor predeterminado. |
+| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/) | URI de espacio de nombres rdf predeterminado. |
+| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix/) | Prefijo de espacio de nombres rdf predeterminado. |
 
-### Ver también
+### Ver También
 
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

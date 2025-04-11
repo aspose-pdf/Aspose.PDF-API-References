@@ -1,62 +1,14 @@
 ---
-title: AddMarginsPct
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Ändert die Größe des Seiteninhalts und fügt bestimmte Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben.
+title: PdfFileEditor.AddMarginsPct
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Ändert die Seiteninhalte und fügt die angegebenen Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben
 type: docs
-weight: 260
+weight: 230
 url: /de/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
-## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
-
-Ändert die Größe des Seiteninhalts und fügt bestimmte Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben.
-
-```csharp
-public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
-    double rightMargin, double topMargin, double bottomMargin)
-```
-
-| Parameter | Typ | Beschreibung |
-| --- | --- | --- |
-| source | String | Pfad zum Quelldokument. |
-| destination | String | Pfad, in dem das resultierende Dokument gespeichert wird. |
-| pages | Int32[] | Array von Seitenindizes. Wenn null, werden alle Dokumentseiten verarbeitet. |
-| leftMargin | Double | Linker Rand in Prozent der anfänglichen Seitengröße. |
-| rightMargin | Double | Rechter Rand in Prozent der anfänglichen Seitengröße. |
-| topMargin | Double | Oberer Rand in Prozent der anfänglichen Seitengröße. |
-| bottomMargin | Double | Unterer Rand in Prozent der anfänglichen Seitengröße. |
-
-### Rückgabewert
-
-true, wenn die Größenänderung erfolgreich war
-
-### Beispiele
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    // Seiten 1, 2, 3 verarbeiten
-    new int[] { 1, 2, 3}, 
-    //Der linke Rand beträgt 15 % der Seitenbreite 
-    15, 
-    //rechter Rand beträgt 10 % der Seitenbreite
-    10, 
-    //Der obere Rand beträgt 20 % der Seitenbreite
-    20, 
-    //Unterer Rand beträgt 5 % der Seitenbreite
-    5);
-```
-
-### Siehe auch
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
----
-
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Ändert die Größe des Seiteninhalts und fügt bestimmte Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben.
+Ändert die Seiteninhalte und fügt die angegebenen Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -66,41 +18,87 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | source | Stream | Stream, der das Quelldokument enthält. |
-| destination | Stream | Stream, wo das resultierende Dokument gespeichert wird. |
-| pages | Int32[] | Array von Seitenindizes. Wenn null, werden alle Dokumentseiten verarbeitet. |
-| leftMargin | Double | Linker Rand in Prozent der anfänglichen Seitengröße. |
-| rightMargin | Double | Rechter Rand in Prozent der anfänglichen Seitengröße. |
-| topMargin | Double | Oberer Rand in Prozent der anfänglichen Seitengröße. |
-| bottomMargin | Double | Unterer Rand in Prozent der anfänglichen Seitengröße. |
+| destination | Stream | Stream, in dem das resultierende Dokument gespeichert wird. |
+| pages | Int32[] | Array von Seitenindizes. Wenn null, werden alle Seiten des Dokuments verarbeitet. |
+| leftMargin | Double | Linker Rand in Prozent der ursprünglichen Seitengröße. |
+| rightMargin | Double | Rechter Rand in Prozent der ursprünglichen Seitengröße. |
+| topMargin | Double | Oberer Rand in Prozent der ursprünglichen Seitengröße. |
+| bottomMargin | Double | Unterer Rand in Prozent der ursprünglichen Seitengröße. |
 
 ### Rückgabewert
 
-wahr, wenn die Aktion erfolgreich ausgeführt wurde.
+true, wenn die Aktion erfolgreich ausgeführt wurde.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    // Seiten 1, 2, 3 verarbeiten
+    //process pages 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //Der linke Rand beträgt 15 % der Seitenbreite 
+    //left margin is 15% of page width 
     15, 
-    //rechter Rand beträgt 10 % der Seitenbreite
+    //right margin is 10% of page width
     10, 
-    //Der obere Rand beträgt 20 % der Seitenbreite
+    //top margin is 20% of page width
     20, 
-    //Unterer Rand beträgt 5 % der Seitenbreite
+    //bottom margin is 5% of page width
     5);
     dest.Close();
 ```
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
+
+Ändert die Seiteninhalte und fügt die angegebenen Ränder hinzu. Ränder werden in Prozent der ursprünglichen Seitengröße angegeben.
+
+```csharp
+public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
+    double rightMargin, double topMargin, double bottomMargin)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| source | String | Pfad zum Quelldokument. |
+| destination | String | Pfad, wo das resultierende Dokument gespeichert wird. |
+| pages | Int32[] | Array von Seitenindizes. Wenn null, werden alle Seiten des Dokuments verarbeitet. |
+| leftMargin | Double | Linker Rand in Prozent der ursprünglichen Seitengröße. |
+| rightMargin | Double | Rechter Rand in Prozent der ursprünglichen Seitengröße. |
+| topMargin | Double | Oberer Rand in Prozent der ursprünglichen Seitengröße. |
+| bottomMargin | Double | Unterer Rand in Prozent der ursprünglichen Seitengröße. |
+
+### Rückgabewert
+
+true, wenn die Größenänderung erfolgreich war
+
+## Beispiele
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
+    //process pages 1, 2, 3
+    new int[] { 1, 2, 3}, 
+    //left margin is 15% of page width 
+    15, 
+    //right margin is 10% of page width
+    10, 
+    //top margin is 20% of page width
+    20, 
+    //bottom margin is 5% of page width
+    5);
+```
+
+### Siehe auch
+
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

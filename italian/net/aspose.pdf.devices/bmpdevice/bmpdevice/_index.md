@@ -1,47 +1,47 @@
 ---
-title: BmpDevice
-second_title: Aspose.PDF per .NET API Reference
-description: Inizializza una nuova istanza diBmpDeviceaspose.pdf.devices/bmpdevice classe con risoluzione predefinita.
+title: BmpDevice.BmpDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Costruttore di BmpDevice. Inizializza una nuova istanza della classe BmpDevice con risoluzione predefinita
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice) classe con risoluzione predefinita.
+Inizializza una nuova istanza della classe [`BmpDevice`](../) con risoluzione predefinita.
 
 ```csharp
 public BmpDevice()
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BmpDevice(Resolution) {#constructor_1}
+## BmpDevice(Risoluzione) {#constructor_1}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice) classe.  Risoluzione per il file immagine del risultato, vedere[`Resolution`](../../resolution) classe.
+Inizializza una nuova istanza della classe [`BmpDevice`](../).  Risoluzione per il file immagine risultante, vedere la classe [`Risoluzione`](../../resolution/).
 
 ```csharp
 public BmpDevice(Resolution resolution)
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
+* classe [Risoluzione](../../resolution/)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BmpDevice(int, int, Resolution) {#constructor_5}
+## BmpDevice(int, int, Risoluzione) {#constructor_5}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice) classe con le dimensioni dell'immagine fornite e la risoluzione .
+Inizializza una nuova istanza della classe [`BmpDevice`](../) con le dimensioni dell'immagine e la risoluzione fornite.
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
@@ -49,22 +49,22 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza output immagine. |
-| height | Int32 | Altezza output immagine. |
-| resolution | Resolution | Risoluzione per il file immagine del risultato, vedere[`Resolution`](../../resolution) classe. |
+| larghezza | Int32 | Larghezza dell'immagine in output. |
+| altezza | Int32 | Altezza dell'immagine in output. |
+| risoluzione | Risoluzione | Risoluzione per il file immagine risultante, vedere la classe [`Risoluzione`](../../resolution/). |
 
-### Guarda anche
+### Vedi Anche
 
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
+* classe [Risoluzione](../../resolution/)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BmpDevice(PageSize, Resolution) {#constructor_3}
+## BmpDevice(DimensionePagina, Risoluzione) {#constructor_3}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice)classe con dimensione pagina fornita e risoluzione .
+Inizializza una nuova istanza della classe [`BmpDevice`](../) con la dimensione della pagina e la risoluzione fornite.
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
@@ -72,22 +72,22 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensioni della pagina dell'immagine di output. |
-| resolution | Resolution | Risoluzione per il file immagine del risultato, vedere[`Resolution`](../../resolution) classe. |
+| dimensionePagina | DimensionePagina | Dimensione della pagina dell'immagine in output. |
+| risoluzione | Risoluzione | Risoluzione per il file immagine risultante, vedere la classe [`Risoluzione`](../../resolution/). |
 
-### Guarda anche
+### Vedi Anche
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
+* classe [DimensionePagina](../../../aspose.pdf/pagesize/)
+* classe [Risoluzione](../../resolution/)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice) classe con le dimensioni dell'immagine fornite, risoluzione predefinita (=150).
+Inizializza una nuova istanza della classe [`BmpDevice`](../) con le dimensioni dell'immagine fornite, risoluzione predefinita (=150).
 
 ```csharp
 public BmpDevice(int width, int height)
@@ -95,20 +95,20 @@ public BmpDevice(int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza output immagine. |
-| height | Int32 | Altezza output immagine. |
+| larghezza | Int32 | Larghezza dell'immagine in output. |
+| altezza | Int32 | Altezza dell'immagine in output. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BmpDevice(PageSize) {#constructor_2}
+## BmpDevice(DimensionePagina) {#constructor_2}
 
-Inizializza una nuova istanza di[`BmpDevice`](../../bmpdevice) classe con dimensione pagina fornita, risoluzione predefinita (=150).
+Inizializza una nuova istanza della classe [`BmpDevice`](../) con la dimensione della pagina fornita, risoluzione predefinita (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)
@@ -116,13 +116,11 @@ public BmpDevice(PageSize pageSize)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensioni della pagina dell'immagine di output. |
+| dimensionePagina | DimensionePagina | Dimensione della pagina dell'immagine in output. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [BmpDevice](../../bmpdevice)
-* spazio dei nomi [Aspose.Pdf.Devices](../../bmpdevice)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [DimensionePagina](../../../aspose.pdf/pagesize/)
+* classe [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)

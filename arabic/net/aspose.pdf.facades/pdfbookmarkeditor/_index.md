@@ -1,65 +1,63 @@
 ---
-title: PdfBookmarkEditor
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة للعمل مع الإشارات المرجعية لملف PDF بما في ذلك الإنشاء والتعديل والتصدير والاستيراد والحذف.
+title: Class PdfBookmarkEditor
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfBookmarkEditor class. يمثل فئة للعمل مع إشارات PDF بما في ذلك الإنشاء والتعديل والتصدير والاستيراد والحذف
 type: docs
-weight: 2430
+weight: 4420
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor class
 
-يمثل فئة للعمل مع الإشارات المرجعية لملف PDF بما في ذلك الإنشاء والتعديل والتصدير والاستيراد والحذف.
+يمثل فئة للعمل مع إشارات PDF بما في ذلك الإنشاء والتعديل والتصدير والاستيراد والحذف.
 
 ```csharp
 public sealed class PdfBookmarkEditor : SaveableFacade
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | تهيئة جديد[`PdfBookmarkEditor`](../pdfbookmarkeditor) الكائن . |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | تهيئة جديد[`PdfBookmarkEditor`](../pdfbookmarkeditor) كائن على قاعدة*document* . |
+| [PdfBookmarkEditor](pdfbookmarkeditor/#constructor)() | يقوم بتهيئة كائن `PdfBookmarkEditor` جديد. |
+| [PdfBookmarkEditor](pdfbookmarkeditor/#constructor_1)(Document) | يقوم بتهيئة كائن `PdfBookmarkEditor` جديد بناءً على *المستند*. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | الحصول على واجهة المستند التي تعمل عليها. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة المستند التي يعمل عليها. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | تهيئة الواجهة . |
-| virtual [Close](../../aspose.pdf.facades/facade/close)() | Disposes Aspose.Pdf. وثيقة مرتبطة بواجهة . |
-| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage)(string, int) | إنشاء إشارة مرجعية للصفحة المحددة . |
-| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage_1)(string[], int[]) | إنشاء إشارات مرجعية للصفحات المحددة . |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks)() | إنشاء إشارات مرجعية لكافة الصفحات . |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | لتكوين الإشارة المرجعية المحددة في المستند. يمكن استخدام الطريقة لتشكيل التسلسل الهرمي للإشارات المرجعية. |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_2)(Color, bool, bool) | إنشاء إشارات مرجعية لجميع الصفحات ذات اللون والنمط المحددين (غامق ومائل) . |
-| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks)() | حذف كافة الإشارات المرجعية من مستند PDF . |
-| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks_1)(string) | حذف الإشارة المرجعية لمستند PDF . |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | التخلص من الواجهة . |
-| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml)(Stream) | تصدير الإشارات المرجعية إلى دفق XML . |
-| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml_1)(string) | تصدير الإشارات المرجعية إلى ملف XML . |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | استخراج الإشارات المرجعية لجميع المستويات من المستند. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_1)(Bookmark) | لاستخراج العناصر الفرعية من إشارة مرجعية بعنوان كما هو الحال في bookamrk المحدد. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | استخراج الإشارات المرجعية لجميع المستويات من المستند. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_3)(string) | استخراج الإشارات المرجعية بالعنوان المحدد. |
-| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml)(Stream) | لاستيراد الإشارات المرجعية للوثيقة من ملف XML . |
-| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml_1)(string) | لاستيراد الإشارات المرجعية للوثيقة من ملف XML . |
-| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks)(string, string) | عنوان إشارة Modifys وفقًا لعنوان الإشارة المرجعية المحدد. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | يحفظ مستند PDF في التدفق المحدد. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | يحفظ مستند PDF في الملف المحدد. |
-| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml)(string, string) | يتم تصدير الإشارات المرجعية إلى ملف HTML . |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يقوم بتهيئة الواجهة. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | يقوم بالتخلص من Aspose.Pdf.Document المرتبط بواجهة. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/#createbookmarkofpage)(string, int) | ينشئ إشارة للصفحة المحددة. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/#createbookmarkofpage_1)(string[], int[]) | ينشئ إشارات للصفحات المحددة. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks)() | ينشئ إشارات لجميع الصفحات. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks_1)(Bookmark) | ينشئ الإشارة المحددة في المستند. يمكن استخدام الطريقة لتشكيل تسلسل هرمي للإشارات المتداخلة. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/#createbookmarks_2)(Color, bool, bool) | ينشئ إشارات لجميع الصفحات مع اللون والنمط المحددين (عريض، مائل). |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/#deletebookmarks)() | يحذف جميع الإشارات من مستند PDF. |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/#deletebookmarks_1)(string) | يحذف الإشارة من مستند PDF. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | يتخلص من الواجهة. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/#exportbookmarkstoxml)(Stream) | يصدر الإشارات إلى تدفق XML. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/#exportbookmarkstoxml_1)(string) | يصدر الإشارات إلى ملف XML. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks)() | يستخرج الإشارات من جميع المستويات من المستند. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_1)(Bookmark) | يستخرج الأطفال من إشارة بعنوان مشابه للإشارة المحددة. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_2)(bool) | يستخرج الإشارات من جميع المستويات من المستند. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/#extractbookmarks_3)(string) | يستخرج الإشارات بالعنوان المحدد. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/#importbookmarkswithxml)(Stream) | يستورد الإشارات إلى المستند من ملف XML. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/#importbookmarkswithxml_1)(string) | يستورد الإشارات إلى المستند من ملف XML. |
+| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/)(string, string) | يعدل عنوان الإشارة وفقًا لعنوان الإشارة المحدد. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | يحفظ مستند PDF إلى التدفق المحدد. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | يحفظ مستند PDF إلى الملف المحدد. |
+| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/)(string, string) | يصدر الإشارات إلى ملف HTML. |
 
-### أنظر أيضا
+### See Also
 
-* class [SaveableFacade](../saveablefacade)
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

@@ -1,48 +1,94 @@
 ---
-title: SvgSaveOptions
-second_title: Aspose.PDF for .NET API 参考
-description: 保存导出为 SVG 格式的选项
+title: Class SvgSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.SvgSaveOptions 类。导出到 SVG 格式的保存选项
 type: docs
-weight: 6450
+weight: 10230
 url: /zh/net/aspose.pdf/svgsaveoptions/
 ---
 ## SvgSaveOptions class
 
-保存导出为 SVG 格式的选项
+导出到 SVG 格式的保存选项
 
 ```csharp
 public class SvgSaveOptions : UnifiedSaveOptions
 ```
 
-## 构造函数
+## Constructors
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions)() | 默认构造函数。 |
+| [SvgSaveOptions](svgsaveoptions/)() | 默认构造函数。 |
 
-## 特性
+## Properties
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | 获取或设置布尔值，指示在文档保存到响应后将关闭响应对象。 |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | 这个属性开启了为带有 OCR 子层的 PDF 文档提取图像或文本 的功能。 |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | 数据保存的格式。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。 |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | 获取或设置一个布尔值，指示在准备 aps 页面时是否将字体字形缓存。提高将 PDF 转换为其他格式的性能，但会增加内存消耗。 |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | 获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭。 |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | 此属性启用从具有 OCR 子层的 PDF 文档中提取图像或文本的功能。 |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | 数据保存的格式。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，保存操作将继续，但用户也可以返回中止，在这种情况下，保存操作应停止。 |
 
-## 字段
+## Fields
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive) | 指定是否将输出创建为一个 zip-archive。 请参阅“TreatTargetFileNameAsDirectory”选项的注释以查看多页源文档页面的 svg 文件的命名规则 ，这些规则也适用于压缩的输出文件集。 |
-| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving) | 此字段可以包含保存策略 必须在转换期间使用（如果存在） 用于自定义处理创建的引用外部图像表示在生成的 SVG 中保存的资源 的理想 URI。 如果出于某种原因必须由转换器的代码本身而不是在自定义代码中处理这个或那个文件， 请在“imageSavingInfo”参数的变量的自定义代码标志“CustomProcessingCancelled”中设置 它向转换器发出信号，处理该资源 的所有必要步骤必须在转换器本身中完成，就好像没有任何外部自定义代码一样。 |
-| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels) | 指定是否将输出文档从印刷点缩放到像素。 |
-| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory) | 此选项定义是否将创建与请求的输出文件 同名的目标目录 （如果还没有），而不是请求的输出文件本身。 因此，该目录将包含页面的所有输出 SVG 图像（如下所述） . 如果否，则除第一个以外的页面的输出文件将完全在请求的目录 中创建为主输出文件，但将包含文件名后缀_[2...n]，即 由页码定义，如果您定义输出文件“C:\AsposeTests\output.svg” 并且输出将包含多个页面的 svg 文件， 然后页面文件也将在目录“C:\AsposeTests\”中创建，并具有名称“输出”。 svg'，'output_2.svg'，'output_3.svg'等 |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | 有时 PDF 包含（页面或表格单元格的）背景图像 由多个相同的平铺背景图像构成，彼此相邻。 在这种情况下，目标格式的渲染器（对于 DOCS 格式的 Fe MsWord）有时会在部分背景图像之间生成 可见边界, 因为他们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。 如果导出的文档看起来在相同背景图像的 部分之间包含这样的可见边界，请尝试使用此设置来消除 不想要的效果。 注意！这种质量优化通常会减慢转换速度， 所以，请仅在真正需要时使用此选项。 |
+| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | 指定输出是否将作为一个 zip-档案创建。请参阅“TreatTargetFileNameAsDirectory”选项的注释，以查看多页源文档的 SVG 文件命名规则，这些规则也适用于压缩的输出文件集。 |
+| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | 此字段可以包含在转换过程中必须使用的保存策略（如果存在），用于自定义处理嵌入到保存的 SVG 中的创建的引用外部图像文件（如嵌入的 BMP 或 JPEG）。该策略必须处理资源并返回表示生成的 SVG 中保存资源的期望 URI 的字符串。如果出于某种原因，必须由转换器的代码本身处理此或那种文件，而不是自定义代码，请在自定义代码中设置“imageSavingInfo”参数变量的标志“CustomProcessingCancelled”。它向转换器发出信号，指示必须在转换器本身中完成处理该资源的所有必要步骤，就好像没有任何外部自定义代码。 |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | 在多个线程中处理页面。 |
+| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | 指定是否将输出文档从排版点缩放到像素。 |
+| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | 此选项定义是否将创建与请求的输出文件同名的目标目录（如果尚不存在），而不是请求的输出文件本身。如果是，则该目录将包含所有页面的输出 SVG 图像（如下所述）。如果不是，除第一个页面外的其他页面的输出文件将精确地在请求的目录中创建，作为主输出文件，但文件名将包含后缀 _[2...n]，由页面编号定义，例如，如果您定义输出文件为 "C:\AsposeTests\output.svg"，并且输出将包含多个页面的 svg 文件，则页面的文件也将在目录 "C:\AsposeTests\" 中创建，并具有名称 'output.svg'，'output_2.svg'，'output_3.svg' 等等。 |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | 有时 PDF 包含由几个相同的平铺背景图像构成的背景图像（页面或表格单元格）。在这种情况下，目标格式的渲染器（例如 MsWord 的 DOCS 格式）有时会在背景图像的部分之间生成可见的边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果导出的文档看起来包含相同背景图像部分之间的可见边界，请尝试使用此设置来消除这种不必要的效果。注意！此质量优化通常会显著减慢转换速度，因此，请仅在确实必要时使用此选项。 |
 
-### 也可以看看
+## Examples
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf)
-* 部件 [Aspose.PDF](../../)
+以下示例演示如何将 PDF 文件转换为 SVG 文件
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
+
+	// The path to output SVG File.
+	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize SvgSaveOptions	
+		SvgSaveOptions saveOptions = new SvgSaveOptions();
+		
+		// Save SVG file
+		pdfDocument.Save(svgFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf")
+
+    ' The path to output SVG File.
+    Dim svgFile = Path.Combine(dataDir, "PDF-to-SVG.svg")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize SvgSaveOptions
+        Dim saveOptions As SvgSaveOptions = New SvgSaveOptions()
+ 
+        ' Save SVG file
+        pdfDocument.Save(svgFile, saveOptions)
+    End Using
+```
+
+### See Also
+
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

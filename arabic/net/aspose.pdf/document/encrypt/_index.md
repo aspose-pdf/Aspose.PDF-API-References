@@ -1,87 +1,121 @@
 ---
-title: Encrypt
-second_title: Aspose.PDF لمرجع .NET API
-description: لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند.
+title: Document.Encrypt
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة الوثيقة. تشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة
 type: docs
-weight: 570
+weight: 620
 url: /ar/net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
 
-لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند.
+تشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| privileges | DocumentPrivilege | أذونات المستند ، انظر[`Permissions`](../permissions) للتفاصيل. |
-| cryptoAlgorithm | CryptoAlgorithm | خوارزمية التشفير ، انظر[`CryptoAlgorithm`](../cryptoalgorithm) للتفاصيل. |
-| usePdf20 | Boolean | دعم المراجعة 6 (ملحق 8). |
+| privileges | DocumentPrivilege | أذونات الوثيقة، انظر [`Permissions`](../permissions/) لمزيد من التفاصيل. |
+| cryptoAlgorithm | CryptoAlgorithm | الخوارزمية التشفيرية، انظر [`CryptoAlgorithm`](../cryptoalgorithm/) لمزيد من التفاصيل. |
+| usePdf20 | Boolean | دعم للإصدار 6 (الامتداد 8). |
 
-### أنظر أيضا
+### Examples
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+المثال التالي يوضح كيفية تشفير ملفات PDF باستخدام [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
+
+```csharp
+[C#]
+
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath))
+	{
+	// Encrypt PDF
+	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
+
+	// Save updated PDF
+	document.Save(pdfFilePath);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF File.
+    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
+    
+	' Open document
+    Using document As Document = New Document(pdfFilePath)
+        ' Encrypt PDF
+        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
+        ' Save updated PDF
+        document.Save(pdfFilePath)
+    End Using
+```
+
+### See Also
+
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
 
-لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند.
+تشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| permissions | Permissions | أذونات المستند ، انظر[`Permissions`](../permissions) للتفاصيل. |
-| cryptoAlgorithm | CryptoAlgorithm | خوارزمية التشفير ، انظر[`CryptoAlgorithm`](../cryptoalgorithm) للتفاصيل. |
+| permissions | Permissions | أذونات الوثيقة، انظر [`Permissions`](../permissions/) لمزيد من التفاصيل. |
+| cryptoAlgorithm | CryptoAlgorithm | الخوارزمية التشفيرية، انظر [`CryptoAlgorithm`](../cryptoalgorithm/) لمزيد من التفاصيل. |
 
-### أنظر أيضا
+### See Also
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
 
-لتشفير المستند. اتصل ثم حفظ للحصول على نسخة مشفرة من المستند.
+تشفر الوثيقة. اتصل بعد ذلك بـ Save للحصول على النسخة المشفرة من الوثيقة.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم. |
 | ownerPassword | String | كلمة مرور المالك. |
-| permissions | Permissions | أذونات المستند ، انظر[`Permissions`](../permissions) للتفاصيل. |
-| cryptoAlgorithm | CryptoAlgorithm | خوارزمية التشفير ، انظر[`CryptoAlgorithm`](../cryptoalgorithm) للتفاصيل. |
-| usePdf20 | Boolean | دعم المراجعة 6 (ملحق 8). |
+| permissions | Permissions | أذونات الوثيقة، انظر [`Permissions`](../permissions/) لمزيد من التفاصيل. |
+| cryptoAlgorithm | CryptoAlgorithm | الخوارزمية التشفيرية، انظر [`CryptoAlgorithm`](../cryptoalgorithm/) لمزيد من التفاصيل. |
+| usePdf20 | Boolean | دعم للإصدار 6 (الامتداد 8). |
 
-### أنظر أيضا
+### See Also
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* مساحة الاسم [Aspose.Pdf](../../document)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

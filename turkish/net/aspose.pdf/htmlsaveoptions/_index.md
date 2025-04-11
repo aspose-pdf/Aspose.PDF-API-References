@@ -1,90 +1,140 @@
 ---
-title: HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Html formatına dışa aktarma seçeneklerini kaydedin
+title: Class HtmlSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.HtmlSaveOptions sınıfı. Html formatına dışa aktarma için kaydetme seçenekleri
 type: docs
-weight: 3430
+weight: 5560
 url: /tr/net/aspose.pdf/htmlsaveoptions/
 ---
-## HtmlSaveOptions class
+## HtmlSaveOptions Sınıfı
 
-Html formatına dışa aktarma seçeneklerini kaydedin
+Html formatına dışa aktarma için kaydetme seçenekleri
 
 ```csharp
 public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [HtmlSaveOptions](htmlsaveoptions#constructor)() | Yeni bir örneğini başlatır[`HtmlSaveOptions`](../htmlsaveoptions) sınıf. |
-| [HtmlSaveOptions](htmlsaveoptions#constructor_3)(bool) | Yeni bir örneğini başlatır[`HtmlSaveOptions`](../htmlsaveoptions) sınıf. |
-| [HtmlSaveOptions](htmlsaveoptions#constructor_1)(HtmlDocumentType) | Yeni bir örneğini başlatır[`HtmlSaveOptions`](../htmlsaveoptions) sınıf. |
-| [HtmlSaveOptions](htmlsaveoptions#constructor_2)(HtmlDocumentType, bool) | Yeni bir örneğini başlatır[`HtmlSaveOptions`](../htmlsaveoptions) sınıf. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor)() | `HtmlSaveOptions` sınıfının yeni bir örneğini başlatır. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor_3)(bool) | `HtmlSaveOptions` sınıfının yeni bir örneğini başlatır. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor_1)(HtmlDocumentType) | `HtmlSaveOptions` sınıfının yeni bir örneğini başlatır. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor_2)(HtmlDocumentType, bool) | `HtmlSaveOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/htmlsaveoptions/batchsize) { get; set; } | Kaynak ve hedef biçim çiftine toplu dönüştürme uygulanabilir ise parti boyutunu tanımlar. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Belge yanıta kaydedildikten sonra Response nesnesinin kapatılacağını belirten boole değerini alır veya ayarlar. |
-| [CompressSvgGraphicsIfAny](../../aspose.pdf/htmlsaveoptions/compresssvggraphicsifany) { get; set; } | SVG grafiklerinin (varsa) bulunup bulunmadığını belirten bayrağı alır veya ayarlar. |
-| [ConvertMarkedContentToLayers](../../aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers) { get; set; } | ConvertMarkedContentToLayers özniteliği true olarak ayarlanırsa, PDF'de içerik (katman) olarak işaretlenen tüm öğeler, bir katman adı belirten "data-pdflayer" özniteliğiyle bir HTML div'ine konur. Bu katman adı, PDF'nin isteğe bağlı özelliklerinden çıkarılacaktır. işaretli içerik. Bu özellik yanlışsa (varsayılan olarak), PDF işaretli içerikten herhangi bir katman oluşturulmaz. |
-| [DefaultFontName](../../aspose.pdf/htmlsaveoptions/defaultfontname) { get; set; } | Sistemde yerleşik olmayan ve yüklü olmayan herhangi bir belge yazı tipini değiştirmek için kullanılan yüklü bir yazı tipinin adını belirtir. Boş ise varsayılan ikame yazı tipi kullanılır. |
-| [DocumentType](../../aspose.pdf/htmlsaveoptions/documenttype) { get; set; } | Alır veya ayarlar[`HtmlDocumentType`](../htmldocumenttype) . |
-| [ExplicitListOfSavedPages](../../aspose.pdf/htmlsaveoptions/explicitlistofsavedpages) { get; set; } | Bu özellik ile belgenin hangi sayfalarının dönüştürüleceğini açıkça tanımlayabilirsiniz. Bu listedeki sayfalar 1 tabanlı sayılara sahip olmalıdır. Yani, aralıktan geçerli sayıda sayfa alınmalıdır (1...[NumberOfPagesInConvertedDocument]) Bu listedeki sayfaların görünme sırası, sonuçtaki HTML sayfalarının sırasını etkilemez - sonuç sayfalarında her zaman sırayla gider kaynak PDF'de bulunurlar. Bu liste boşsa (varsayılan olarak olduğu gibi), tüm sayfalar dönüştürülür. Bu listenin herhangi bir sayfa numarası mevcut sayfaların aralığının dışına çıkarsa(1-[ miktarOfPagesInDocument]) istisnası atılacak. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için resim veya metin çıkarma işlevini açtı . |
-| [FixedLayout](../../aspose.pdf/htmlsaveoptions/fixedlayout) { get; set; } | HTML'nin sabit düzen olarak oluşturulup oluşturulmadığını belirten bir değer alır veya ayarlar. |
-| [FlowLayoutParagraphFullWidth](../../aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth) { get; set; } | Bu öznitelik, Akış modu için tam genişlikte paragraf metnini belirtir, FixedLayout = false |
-| [FontSources](../../aspose.pdf/htmlsaveoptions/fontsources) { get; } | Önceden kaydedilmiş yazı tiplerinin yazı tipi kaynakları. |
-| [ImageResolution](../../aspose.pdf/htmlsaveoptions/imageresolution) { get; set; } | Görüntü işleme için çözünürlüğü alır veya ayarlar. |
-| [MinimalLineWidth](../../aspose.pdf/htmlsaveoptions/minimallinewidth) { get; set; } | Bu özellik, grafik yolu çizgisinin minimum genişliğini ayarlar. Çizginin kalınlığı 1 pikselden azsa Adobe Acrobat onu bu değere yuvarlar. Dolayısıyla bu özellik, HTML tarayıcıları için bu davranışı taklit etmek için kullanılabilir . |
-| [PreventGlyphsGrouping](../../aspose.pdf/htmlsaveoptions/preventglyphsgrouping) { get; set; } | Bu özellik, metin gliflerinin kelimeler ve dizeler halinde gruplandırılmayacağı modu açar Bu mod, gliflerin sayfada konumlandırılması sırasında maksimum hassasiyetin korunmasına izin verir ve ayrı olarak yerleştirilmesi gereken müzik notaları veya glifleri olan belgeleri dönüştürmek için kullanılabilir. birbirini. Bu parametre, yalnızca FixedLayout özniteliğinin değeri true olduğunda belgeye uygulanacaktır. |
-| [RenderTextAsImage](../../aspose.pdf/htmlsaveoptions/rendertextasimage) { get; set; } | RenderTextAsImage özniteliği true olarak ayarlanırsa, kaynaktan gelen metin HTML'de bir resim olur. Metni seçilemez yapmak için yararlı olabilir veya HTML metni düzgün şekilde oluşturulmaz. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Veri kaydetme biçimi. |
-| [SimpleTextboxModeGrouping](../../aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping) { get; set; } | Bu öznitelik, gliflerin ve sözcüklerin dizeler halinde sıralı bir şekilde gruplandırılmasını belirtir Örneğin, etiketler ve sözcüklerin dönüştürülen HTML'de farklı sıraları vardır ve bunların eşleşmesini istiyorsunuz. Bu parametre, yalnızca FixedLayout özniteliğinin değeri true olduğunda belgeye uygulanacaktır. |
-| [SplitCssIntoPages](../../aspose.pdf/htmlsaveoptions/splitcssintopages) { get; set; } | Çoklu sayfa modu seçildiğinde (yani 'SplitIntoPages' 'true' olur), o zaman bu öznitelik, her sonuç HTML sayfası için ayrı CSS dosyası oluşturulup oluşturulmayacağını tanımlar. Varsayılan olarak bu öznitelik yanlıştır, bu nedenle, oluşturulacaktır bir oluşturulan tüm sayfalar için büyük ortak CSS. Bu modda oluşturulan tüm CSS'lerin özet boyutu (sayfa başına bir CSS) genellikle büyük bir CSS dosyasının boyutundan çok daha fazladır, çünkü önceki durumda CSS sınıfları bu durumda her sayfa için birkaç CSS dosyasında kopyadır. Yani, bu ayarın yalnızca, her HTML sayfasının gelecekte bağımsız olarak işlenmesiyle ilgilendiğinizde kullanılması daha kötüdür ve bu nedenle, her bir sayfanın CSS'sinin size kısmının ayrılması en kritik konudur. |
-| [SplitIntoPages](../../aspose.pdf/htmlsaveoptions/splitintopages) { get; set; } | Kaynak belgesinin her sayfasının kendi hedef HTML belgesine dönüştürülüp dönüştürülmeyeceğini, yani sonuç HTML'sinin birkaç HTML sayfasına bölünüp bölünmeyeceğini gösteren bayrağı alır veya ayarlar. |
-| [UseZOrder](../../aspose.pdf/htmlsaveoptions/usezorder) { get; set; } | UseZORder özelliği true olarak ayarlanırsa, elde edilen HTML belgesine grafikler ve metinler eklenir ve buna göre orijinal PDF belgesinde Z-sıralanır. Bu öznitelik yanlışsa, tüm grafikler tek katman olarak put 'dir, bu da çakışan nesneler için bazı gereksiz etkilere neden olabilir. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Oluşturulan uyarıları işlemek için geri arama. WarningHandler, Continue veya Abort'u belirten ReturnAction numaralandırma öğesini döndürür. Devam, varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı ayrıca Durdur'a da dönebilir, bu durumda Kaydetme işlemi sona ermelidir. |
+| [BatchSize](../../aspose.pdf/htmlsaveoptions/batchsize/) { get; set; } | Kaynak ve hedef format çiftine uygulanabilirse, toplu dönüşüm için toplu boyutunu tanımlar. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Aps sayfaları hazırlanırken font gliflerinin önbelleğe alınıp alınmayacağını belirten boolean değeri alır veya ayarlar. PDF'den diğer formatlara dönüşümün performansını artırır ancak bellek tüketimini artırır. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Belgenin yanıt içine kaydedildikten sonra Yanıt nesnesinin kapatılıp kapatılmayacağını belirten boolean değeri alır veya ayarlar. |
+| [CompressSvgGraphicsIfAny](../../aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/) { get; set; } | Bulunan SVG grafiklerinin (varsa) kaydedilirken SVGZ formatında sıkıştırılıp sıkıştırılmayacağını belirten bayrağı alır veya ayarlar. |
+| [ConvertMarkedContentToLayers](../../aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/) { get; set; } | ConvertMarkedContentToLayers özelliği true olarak ayarlandığında, PDF işaretli içeriğindeki tüm öğeler "data-pdflayer" niteliği ile bir HTML div içine yerleştirilecektir. Bu katman adı, PDF işaretli içeriğinin isteğe bağlı özelliklerinden çıkarılacaktır. Bu özellik false (varsayılan olarak) ise, PDF işaretli içeriğinden herhangi bir katman oluşturulmayacaktır. |
+| [DefaultFontName](../../aspose.pdf/htmlsaveoptions/defaultfontname/) { get; set; } | Sistem içinde gömülü olmayan ve yüklenmemiş herhangi bir belge fontunu ikame etmek için kullanılan yüklü bir fontun adını belirtir. Null ise varsayılan ikame fontu kullanılır. |
+| [DocumentType](../../aspose.pdf/htmlsaveoptions/documenttype/) { get; set; } | [`HtmlDocumentType`](../htmldocumenttype/) alır veya ayarlar. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/) { get; set; } | Bu özellik ile belgenin hangi sayfalarının dönüştürüleceğini açıkça tanımlayabilirsiniz. Bu listedeki sayfalar 1 tabanlı numaralara sahip olmalıdır. Yani geçerli sayfa numaraları (1...[NumberOfPagesInConvertedDocument]) aralığından alınmalıdır. Bu listedeki sayfaların görünüm sırası, sonuç HTML sayfasındaki sıralarını etkilemez - sonuç sayfaları her zaman kaynak PDF'de mevcut oldukları sırada gidecektir. Bu liste null ise (varsayılan olarak olduğu gibi), tüm sayfalar dönüştürülecektir. Bu listedeki herhangi bir sayfa numarası mevcut sayfaların aralığının dışına çıkarsa (1-[amountOfPagesInDocument]) bir istisna fırlatılacaktır. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Bu özellik, OCR alt katmanına sahip PDF belgeleri için görüntü veya metin çıkarma işlevselliğini etkinleştirir. |
+| [FixedLayout](../../aspose.pdf/htmlsaveoptions/fixedlayout/) { get; set; } | HTML'nin sabit düzen olarak oluşturulup oluşturulmayacağını belirten bir değer alır veya ayarlar. |
+| [FlowLayoutParagraphFullWidth](../../aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/) { get; set; } | Bu özellik, Akış modunda tam genişlikte paragraf metnini belirtir, FixedLayout = false |
+| [FontSources](../../aspose.pdf/htmlsaveoptions/fontsources/) { get; } | Önceden kaydedilmiş fontların font kaynakları. |
+| [IgnoredTextFontSize](../../aspose.pdf/htmlsaveoptions/ignoredtextfontsize/) { get; set; } | Belirtilen boyutta veya daha küçük olan metin, dönüşüm sırasında göz ardı edilecektir. Bu metni kaldırmıyoruz, göz ardı ediyoruz ve çıktı dosyasına aktarmıyoruz. |
+| [IgnoreResourceFontErrors](../../aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/) { get; set; } | Font yokluğuna ilişkin hataların göz ardı edilip edilmeyeceğini belirten bir değer alır veya ayarlar. true - font yokluğu hatalarının göz ardı edileceği anlamına gelir. Yanlış kaynaklara atıfta bulunan metin segmentleri işleme sırasında atlanacaktır. varsayılan olarak false |
+| [ImageResolution](../../aspose.pdf/htmlsaveoptions/imageresolution/) { get; set; } | Görüntü işleme için çözünürlüğü alır veya ayarlar. |
+| [MinimalLineWidth](../../aspose.pdf/htmlsaveoptions/minimallinewidth/) { get; set; } | Bu özellik, grafik yolunun minimal kalınlığını ayarlar. Eğer çizgi kalınlığı 1px'den az ise Adobe Acrobat bunu bu değere yuvarlar. Bu nedenle, bu özellik HTML tarayıcıları için bu davranışı taklit etmek için kullanılabilir. |
+| [PreventGlyphsGrouping](../../aspose.pdf/htmlsaveoptions/preventglyphsgrouping/) { get; set; } | Bu özellik, metin gliflerinin kelimeler ve dizeler halinde gruplanmayacağı modu açar. Bu mod, sayfadaki gliflerin konumlandırılması sırasında maksimum hassasiyeti korumaya olanak tanır ve müzik notaları veya ayrı yerleştirilmesi gereken glifler içeren belgelerin dönüşümü için kullanılabilir. Bu parametre, FixedLayout niteliğinin değeri true olduğunda belgeye uygulanacaktır. |
+| [RenderTextAsImage](../../aspose.pdf/htmlsaveoptions/rendertextasimage/) { get; set; } | RenderTextAsImage niteliği true olarak ayarlandığında, kaynak metin HTML'de bir görüntü haline gelir. Metni seçilemez hale getirmek veya HTML metni düzgün bir şekilde işlenmediğinde faydalı olabilir. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Veri kaydetme formatı. |
+| [SaveFullFont](../../aspose.pdf/htmlsaveoptions/savefullfont/) { get; set; } | Tam fontun kaydedileceğini belirtir, yalnızca True Type Fonts'u destekler. Varsayılan olarak SaveFullFont = false'dır ve dönüştürücü, belgenin metnini görüntülemek için gereken başlangıç fontunun alt kümesini kaydeder. |
+| [SimpleTextboxModeGrouping](../../aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/) { get; set; } | Bu özellik, gliflerin ve kelimelerin dizeler halinde ardışık gruplamasını belirtir. Örneğin, etiketler ve kelimeler dönüştürülmüş HTML'de farklı bir sıraya sahipse ve bunların eşleşmesini istiyorsanız. Bu parametre, FixedLayout niteliğinin değeri true olduğunda belgeye uygulanacaktır. |
+| [SplitCssIntoPages](../../aspose.pdf/htmlsaveoptions/splitcssintopages/) { get; set; } | Çok sayfalı mod seçildiğinde (yani 'SplitIntoPages' true ise), bu özellik, her sonuç HTML sayfası için ayrı bir CSS dosyası oluşturulup oluşturulmayacağını tanımlar. Varsayılan olarak bu özellik false'dur, bu nedenle, oluşturulan tüm sayfalar için bir büyük ortak CSS oluşturulacaktır. Bu modda üretilen tüm CSS'lerin toplam boyutu (sayfa başına bir CSS) genellikle bir büyük CSS dosyasının boyutundan çok daha fazladır, çünkü önceki durumda CSS sınıfları, her sayfa için birkaç CSS dosyasında tekrar eder. Bu nedenle, bu ayar yalnızca her HTML sayfasının bağımsız olarak gelecekteki işlenmesiyle ilgileniyorsanız kullanılmalıdır ve bu nedenle her bir sayfanın CSS'sinin ayrı ayrı boyutu en kritik konudur. |
+| [SplitIntoPages](../../aspose.pdf/htmlsaveoptions/splitintopages/) { get; set; } | Kaynak belgenin her sayfasının kendi hedef HTML belgesine dönüştürülüp dönüştürülmeyeceğini belirten bayrağı alır veya ayarlar, yani sonuç HTML'nin birkaç HTML sayfasına bölünüp bölünmeyeceğini. |
+| [Title](../../aspose.pdf/htmlsaveoptions/title/) { get; set; } | HTML sayfa başlığını alır veya ayarlar. |
+| [TryMergeFragments](../../aspose.pdf/htmlsaveoptions/trymergefragments/) { get; set; } | Görüntü parçalarını bir resim haline getirmek için bayrak. |
+| [UseZOrder](../../aspose.pdf/htmlsaveoptions/usezorder/) { get; set; } | UseZOrder niteliği true olarak ayarlandığında, grafikler ve metin, orijinal PDF belgesindeki Z sırasına göre sonuç HTML belgesine eklenir. Bu özellik false ise, tüm grafikler tek bir katman olarak yerleştirilir, bu da üst üste binen nesneler için bazı gereksiz etkiler yaratabilir. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Oluşan uyarıları işlemek için geri çağırma. WarningHandler, devam etme veya durdurma belirten ReturnAction enum öğesini döndürür. Devam etme varsayılan eylemdir ve Kaydetme işlemi devam eder, ancak kullanıcı durdurmayı da döndürebilir, bu durumda Kaydetme işlemi durmalıdır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AntialiasingProcessing](../../aspose.pdf/htmlsaveoptions/antialiasingprocessing) | Bu parametre, bileşik arka plan görüntülerinin PDF'den HTML_x000d'ye dönüştürülmesi sırasında gerekli kenar yumuşatma önlemlerini tanımlar. |
-| [CssClassNamesPrefix](../../aspose.pdf/htmlsaveoptions/cssclassnamesprefix) | PDFtoHTML dönüştürücü sonuç CSS'leri oluşturduğunda, CSS sınıf adları (".stl_01 {}" ... ".stl_NN {} gibi bir şey) oluşturulur ve sonuç CSS'sinde kullanılır. Bu özellik, sınıf adı önekinin zorla ayarlanmasına izin verir Örneğin, tüm sınıf adlarının 'my_prefix_' ile başlamasını istiyorsanız (yani 'my_prefix_1' ... 'my_prefix_NNN' gibi bir şeydi), sonra dönüştürmeden önce bu özelliğe 'my_prefix_' atayın. Bu özelliğe dokunulmadan kalacaksa (yani boş) value olarak bırakılacak), then dönüştürücü kendisi sınıf adları üretecek (".stl_01 {}" ... ".stl_NN {}") gibi bir şey olacak |
-| [CustomCssSavingStrategy](../../aspose.pdf/htmlsaveoptions/customcsssavingstrategy) | Bu alan, oluşturulan HTML belgesine veya sayfalarına (birden fazla HTML sayfası oluşturulmuşsa) ilgili CSS'lerin kaydedilmesinin işlenmesi için Pdf'nin Html'ye dönüştürülmesi sırasında (varsa) kullanılması gereken kaydetme stratejisini içerebilir. CSS dosyasını belirli bir şekilde ele alın, bu sadece lütfen ilgili yöntemi oluşturun ve ondan oluşturulan temsilciyi bu özelliğe atayın. |
-| [CustomHtmlSavingStrategy](../../aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy) | Dönüştürmenin sonucu bir veya birkaç HTML sayfası içerebilir Bu özelliğe, bir HTML sayfasının işlenmesini uygulayan özel yöntemle oluşturulan temsilciyi atayabilirsiniz (doğru olması için - varsa harici bağlantılı dosyalar olmadan biçimlendirme-HTML) dönüştürme sırasında oluşturuldu. Bu durumda işleme (sayfa HTML'sinin akış veya diske kaydedilmesi gibi) o özel kodda yapılabilir. Böyle bir durumda HTML sayfasının kaydedilmesi için gerekli tüm eylemler, sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu durum için işleme dönüştürücünün kodunun kendisi tarafından yapılması gerekiyorsa, özel kodda değil, lütfen 'htmlSavingInfo' parametresinin değişkeninin 'CustomProcessingCancelled' özel kod bayrağına ayarlayın: dönüştürücüye tüm bu kaynağın işlenmesi için gerekli adımlar, dönüştürücünün kendisinde, aynı şekilde işlemek için herhangi bir harici özel kod yokmuş gibi yapılmalıdır . |
-| [CustomProgressHandler](../../aspose.pdf/htmlsaveoptions/customprogresshandler) | Bu işleyici dönüşüm ilerleme olaylarını işlemek için kullanılabilir fe ilerleme çubuğunu veya işlenen sayfaların mevcut miktarı hakkındaki mesajları göstermek için kullanılabilir, konsoldaki ilerlemeyi gösteren işleyici kodunun örneği : |
-| [CustomResourceSavingStrategy](../../aspose.pdf/htmlsaveoptions/customresourcesavingstrategy) | Bu alan, dönüştürme sırasında (varsa) kullanılması gereken kaydetme stratejisini içerebilir, , kaydedilmiş HTML düğümleriyle ilgili oluşturulan başvurulan resource dosyalarının (görüntüler ve yazı tipleri gibi) özelleştirilmiş işlenmesi için. Bu strateji, kaynakları işlemeli ve oluşturulan HTML. içindeki kayıtlı resource için istenen URL'yi temsil eder |
-| [CustomStrategyOfCssUrlCreation](../../aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation) | Bu alan, konu CSS'nin URL'sini (Veya çok sayfalı oluşturma açıksa URL şablonu - aşağıdaki ayrıntılara bakın) döndüren özel yöntemi içerebilir, çünkü oluşturulan HTML sonucuna eklenmelidir. Fe Dönüştürücünün standard yerine belirli bir URL koymasını istiyorsanız Oluşturulan CSS'ye CSS dosya adı, ardından, istenen URL'yi üreten method özelliğini oluşturmalı ve bu özelliğe koymalısınız. 'SplitCssIntoPages' bayrağı ayarlanırsa, bu özel strateji (varsa) CSS'nin tam URL'sini değil, şablonu döndürmelidir. string that (dönüştürücü içindeki string.Format() işlevi ile sayfa numarası yer tutucunun değiştirilmesinden sonra) bu veya o sayfanın CSS' URL'si için URL'ye çözümlenebilir. Bu durumda beklenen dönüş dizesi örnekleri şunlardır: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}') |
-| [ExcludeFontNameList](../../aspose.pdf/htmlsaveoptions/excludefontnamelist) | HTML'de gömülü olmayan PDF gömülü font adlarının listesi. |
-| [FontEncodingStrategy](../../aspose.pdf/htmlsaveoptions/fontencodingstrategy) | Geçerli belge için PDF kod çözmeyi ayarlamak için kodlama özel kuralını tanımlar |
-| [FontSavingMode](../../aspose.pdf/htmlsaveoptions/fontsavingmode) | PDF'nin istenen biçimde kaydedilmesi sırasında kullanılacak yazı tipi kaydetme modunu tanımlar |
-| [HtmlMarkupGenerationMode](../../aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode) | Bazen HTML işaretlemesi oluşturmak için belirli gereksinimler mevcuttur. Bu parametre, PDF'nin HTML'ye dönüştürülmesi sırasında bu tür özel gereksinimlere uyması için kullanılabilecek HTML hazırlama modlarını tanımlar. |
-| [LettersPositioningMethod](../../aspose.pdf/htmlsaveoptions/letterspositioningmethod) | HTML sonucunda kelimelerdeki harflerin konumlanma modunu ayarlar |
-| [PageBorderIfAny](../../aspose.pdf/htmlsaveoptions/pageborderifany) | Bu öznitelik, kaynak PDF sayfasını temsil eden alanın etrafındaki sonuç HTML belgesinde (varsa) kenarlık çizmek için kullanılan ayarlar kümesini temsil eder. Özünde, sayfanın kağıt kenarlarını göstermekle ilgilidir, PDF sayfasının kendisinde referans verilen sayfa kenarlığı değil. |
-| [PageMarginIfAny](../../aspose.pdf/htmlsaveoptions/pagemarginifany) | Bu özellik, kaynak PDF sayfasını temsil eden alanın etrafındaki sonuç HTML belgesinde (varsa) fazladan sayfa kenar boşluğu kümesini temsil eder. |
-| [PagesFlowTypeDependsOnViewersScreenSize](../../aspose.pdf/htmlsaveoptions/pagesflowtypedependsonviewersscreensize) | 'SplitOnPages=false' özniteliği, tüm girdi PDF sayfalarını temsil eden tüm HTML'den daha büyük bir sonuç HTML dosyasına yerleştirilecektir. Bu işaret, sonuç HTML'sinin, sonuç HTML'sinde PDF sayfalarını temsil eden alanların akışının görüntüleyicinin ekran çözünürlüğüne bağlı olacağı şekilde oluşturulup oluşturulmayacağını tanımlar. İzleyici tarafındaki ekran genişliğinin, 2 veya daha fazla sayfayı biri diğerine yatay yönde yerleştirmek için yeterince büyük olduğunu varsayalım. Bu işaret true olarak ayarlanırsa, bu fırsat kullanılacaktır (birçok sayfa yatay yönde bir diğerinin yanında gösterileceğinden, sonraki yatay sayfa grubu ilkinin altında gösterilecektir). Aksi takdirde sayfalar akacaktır. bu şekilde: sonraki sayfa her zaman bir öncekinin altına gider. |
-| [PartsEmbeddingMode](../../aspose.pdf/htmlsaveoptions/partsembeddingmode) | Başvurulan dosyaların (HTML, Yazı Tipleri, Görüntüler, CSS'ler) ana HTML dosyasına mı gömüleceğini yoksa ayrı ikili varlıklar olarak mı oluşturulacağını tanımlar |
-| [RasterImagesSavingMode](../../aspose.pdf/htmlsaveoptions/rasterimagessavingmode) | Dönüştürülen PDF, raster görüntüler içerebilir Bu parametre, PDF'nin HTML'ye dönüştürülmesi sırasında bunların nasıl işleneceğini tanımlar |
-| [RemoveEmptyAreasOnTopAndBottom](../../aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom) | Oluşturulan HTML'de herhangi bir içerik olmadan üst ve alt boş alanın (varsa) kaldırılıp kaldırılmayacağını tanımlar. |
-| [SaveFullFont](../../aspose.pdf/htmlsaveoptions/savefullfont) | Tam fontun kaydedileceğini belirtir, yalnızca True Type Fonts'u destekler. Varsayılan olarak SaveFullFont = false ve dönüştürücü, belge metnini görüntülemek için gereken ilk font alt kümesini kaydeder. |
-| [SaveShadowedTextsAsTransparentTexts](../../aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts) | Pdf, başka öğeler tarafından gölgelenen metinler içerebilir (görüntülerle fe), ancak Acrobat Reader'da panoya seçilebilir (genellikle belge, görüntüler ve ondan çıkarılan OCR'li metinler içerdiğinde olur). Bu ayar dönüştürücüye, Acrobat Reader davranışını taklit etmek için bu tür metinleri şeffaf seçilebilir metinler olarak kaydetmeniz gerekir (aksi takdirde bu tür metinler genellikle gizli olarak kaydedilir, panoya kopyalanamaz) |
-| [SaveTransparentTexts](../../aspose.pdf/htmlsaveoptions/savetransparenttexts) | Pdf, panoya seçilebilen şeffaf metinler içerebilir (genellikle belge, görüntüler ve ondan çıkarılan OCRed metinleri içerdiğinde olur). Bu ayarlar dönüştürücüye, bu tür metinleri saydam sonuçta HTML seçilebilir metinler olarak kaydetmemiz gerekip gerekmediğini söyler. |
-| [SpecialFolderForAllImages](../../aspose.pdf/htmlsaveoptions/specialfolderforallimages) | Belgenin HTML olarak kaydedilmesi sırasında ile karşılaşılırsa, herhangi bir görüntünün kaydedilmesi gereken dizinin yolunu alır veya ayarlar. Parametre boş veya null ise, resim dosyaları (varsa) HTML ile bağlantılı diğer dosyalarla birlikte kaydedilir. CustomImageSavingStrategy özelliğinin ilgili resim dosyasını işlemek için başarıyla kullanılması hiçbir şeyi etkilemez. |
-| [SpecialFolderForSvgImages](../../aspose.pdf/htmlsaveoptions/specialfolderforsvgimages) | Belgenin HTML olarak kaydedilmesi sırasında ile karşılaşılırsa, yalnızca SVG görüntülerinin kaydedilmesi gereken dizinin yolunu alır veya ayarlar. Parametre boş veya null ise, SVG dosyaları (varsa) diğer görüntü dosyalarıyla (çıktı dosyasına yakın) veya görüntüler için özel klasöre (SpecialImagesFolderIfAny seçeneğinde belirtilmişse) kaydedilir. Hiçbir şeyi etkilemez. CustomImageSavingStrategy özelliği, ilgili görüntü dosyasını işlemek için başarıyla kullanıldıysa. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Bazen PDF'ler arka plan görüntülerini (sayfaların veya tablo hücrelerinin) içerir , birbirinin yanına yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşturulmuştur. Bu durumda hedef biçimlerin oluşturucuları (DOCS biçimi için fe MsWord) bazen arka plan görüntülerinin bölümleri arasında görünür sınırlar oluşturur , görüntü kenar yumuşatma (anti-aliasing) tekniklerinin Acrobat Reader'dan farklı olmasına neden olur. Dışa aktarılan belge, aynı arka plan görüntülerinin bölümleri arasında bu tür görünür sınırlar içeriyor gibi görünüyorsa, bundan kurtulmak için lütfen bu ayarı kullanmayı deneyin istenmeyen etki. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
-| [TrySaveTextUnderliningAndStrikeoutingInCss](../../aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss) | PDF'nin kendisi, metinler için alt çizgi işaretleri içermez. Metnin altında yer alan satırla öykünür. Bu seçenek dönüştürücünün şu veya bu satırın bir metnin underlining olduğunu tahmin etmesini ve bu bilgiyi grafiksel olarak altını çizmek yerine CSS'ye koymasını sağlar |
+| [AntialiasingProcessing](../../aspose.pdf/htmlsaveoptions/antialiasingprocessing/) | Bu parametre, PDF'den HTML'ye dönüşüm sırasında bileşik arka plan görüntüleri için gerekli kenar yumuşatma önlemlerini tanımlar. |
+| [CssClassNamesPrefix](../../aspose.pdf/htmlsaveoptions/cssclassnamesprefix/) | PDFtoHTML dönüştürücüsü sonuç CSS'leri oluşturduğunda, CSS sınıf adları (".stl_01 {}" ... ".stl_NN {}" gibi) oluşturulur ve sonuç CSS'de kullanılır. Bu özellik, sınıf adı ön ekini zorla ayarlamaya olanak tanır. Örneğin, tüm sınıf adlarının 'my_prefix_' ile başlamasını istiyorsanız (yani 'my_prefix_1' ... 'my_prefix_NNN' gibi), dönüşümden önce bu özelliğe 'my_prefix_' atamanız yeterlidir. Bu özellik dokunulmazsa (yani null değeri bırakılırsa), dönüştürücü sınıf adlarını kendisi oluşturacaktır (bu ".stl_01 {}" ... ".stl_NN {}" gibi olacaktır). |
+| [CustomCssSavingStrategy](../../aspose.pdf/htmlsaveoptions/customcsssavingstrategy/) | Bu alan, PDF'den HTML'ye dönüşüm sırasında oluşturulan HTML belgesinin tamamı veya sayfaları ile ilgili CSS'lerin kaydedilmesi için kullanılacak kaydetme stratejisini içerebilir (varsa). CSS dosyasını belirli bir şekilde işlemek istiyorsanız, lütfen ilgili yöntemi oluşturun ve bu özelliğe oluşturulan delegasyonu atayın. |
+| [CustomHtmlSavingStrategy](../../aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/) | Dönüşüm sonucu bir veya birden fazla HTML sayfası içerebilir. Bu özelliğe, dönüşüm sırasında oluşturulan bir HTML sayfasının işlenmesini uygulayan özel bir yöntemden oluşturulan delegasyonu atayabilirsiniz (doğru bir şekilde - harici bağlı dosyalar olmadan işaretleme-HTML). Bu durumda, sayfanın HTML'sinin akışta veya diskte kaydedilmesi gibi işlemler, o özel kodda yapılabilir. Bu durumda, HTML sayfasının kaydedilmesi için gerekli tüm işlemler, sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonuç kaydı dönüştürücünün kodunda kullanılmayacaktır. Bu veya diğer durumlar için bir nedenle dönüştürücünün kodu tarafından yapılması gereken işlemler varsa, lütfen özel kodda 'htmlSavingInfo' parametresinin değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın: bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde yapılması gerektiğini sinyal eder, sanki o kaynağın işlenmesi için herhangi bir harici özel kod yokmuş gibi. |
+| [CustomProgressHandler](../../aspose.pdf/htmlsaveoptions/customprogresshandler/) | Bu işleyici, dönüşüm ilerleme olaylarını işlemek için kullanılabilir, örneğin, işlenen sayfaların mevcut miktarı hakkında ilerleme çubuğu veya mesajlar göstermek için kullanılabilir. İşleyicinin konsolda ilerlemeyi gösteren kod örneği: |
+| [CustomResourceSavingStrategy](../../aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/) | Bu alan, oluşturulan referans kaynak dosyalarının (görüntüler ve fontlar gibi) kaydedilmesi için kullanılacak kaydetme stratejisini içerebilir (varsa). Bu strateji, kaynakları işleyecek ve oluşturulan HTML'deki kaydedilen kaynak için istenen URL'yi temsil eden bir dize döndürecektir. |
+| [CustomStrategyOfCssUrlCreation](../../aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/) | Bu alan, oluşturulan sonuç HTML'de yer alması gereken CSS'nin URL'sini (veya çok sayfalı üretim açık olduğunda URL şablonunu) döndüren özel bir yöntemi içerebilir. Örneğin, dönüştürücünün oluşturulan CSS'de standart CSS dosyası adı yerine belirli bir URL koymasını istiyorsanız, o zaman bu özelliğe istenen URL'yi üreten bir yöntem oluşturmalısınız. 'SplitCssIntoPages' bayrağı ayarlandığında, bu özel strateji (varsa) CSS'nin tam URL'sini değil, daha ziyade yer tutucunun sayfa numarası ile yer değiştirilmesi gereken bir şablon dizesini döndürmelidir. Bu durumda beklenen dönüş dizesi örnekleri: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}') |
+| [ExcludeFontNameList](../../aspose.pdf/htmlsaveoptions/excludefontnamelist/) | HTML'de gömülmeyecek PDF gömülü font adlarının listesi. |
+| [FontEncodingStrategy](../../aspose.pdf/htmlsaveoptions/fontencodingstrategy/) | Mevcut belgenin PDF çözümlemesini ayarlamak için özel kodlama kuralını tanımlar. |
+| [FontSavingMode](../../aspose.pdf/htmlsaveoptions/fontsavingmode/) | PDF'yi istenen formata kaydederken kullanılacak font kaydetme modunu tanımlar. |
+| [HtmlMarkupGenerationMode](../../aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/) | Bazen HTML işaretleme oluşturma için özel gereksinimler vardır. Bu parametre, PDF'den HTML'ye dönüşüm sırasında bu özel gereksinimleri karşılamak için kullanılabilecek HTML hazırlama modlarını tanımlar. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Sayfaları birkaç iş parçacığında işleyin. |
+| [LettersPositioningMethod](../../aspose.pdf/htmlsaveoptions/letterspositioningmethod/) | Sonuç HTML'deki kelimelerde harflerin konumlandırma modunu ayarlar. |
+| [PageBorderIfAny](../../aspose.pdf/htmlsaveoptions/pageborderifany/) | Bu özellik, kaynak PDF sayfasını temsil eden alan etrafında sonuç HTML belgesinde (varsa) kenar çizgisi çizmek için kullanılan ayarların bir kümesini temsil eder. Temelde, sayfanın kağıt kenarlarının gösterilmesi ile ilgilidir, PDF sayfasında atıfta bulunulan sayfa kenarları ile değil. |
+| [PageMarginIfAny](../../aspose.pdf/htmlsaveoptions/pagemarginifany/) | Bu özellik, kaynak PDF sayfasını temsil eden alan etrafında sonuç HTML belgesinde (varsa) ek sayfa marjını temsil eder. |
+| [PagesFlowTypeDependsOnViewersScreenSize](../../aspose.pdf/htmlsaveoptions/pagesflowtypedependsonviewersscreensize/) | 'SplitOnPages=false' niteliği ayarlandığında, tüm HTML, tüm giriş PDF sayfalarını temsil eden tek bir büyük sonuç HTML dosyasına yerleştirilecektir. Bu bayrak, sonuç HTML'nin, sonuç HTML'deki PDF sayfalarını temsil eden alanların akışının görüntüleyicinin ekran çözünürlüğüne bağlı olarak oluşturulup oluşturulmayacağını tanımlar. Görüntüleyici tarafındaki ekranın genişliği, 2 veya daha fazla sayfayı yatay yönde yan yana yerleştirmek için yeterince büyükse. Bu bayrak true olarak ayarlandığında, bu fırsat kullanılacaktır (mümkün olduğunca çok sayfa yatay yönde yan yana gösterilecektir, ardından sonraki yatay sayfa grubu ilkinin altına gösterilecektir). Aksi takdirde, sayfalar şu şekilde akacaktır: sonraki sayfa her zaman önceki sayfanın altına gider. |
+| [PartsEmbeddingMode](../../aspose.pdf/htmlsaveoptions/partsembeddingmode/) | Referans dosyaların (HTML, Fontlar, Görüntüler, CSS'ler) ana HTML dosyasına gömülüp gömülmeyeceğini veya ayrı ikili varlıklar olarak mı oluşturulacağını tanımlar. |
+| [RasterImagesSavingMode](../../aspose.pdf/htmlsaveoptions/rasterimagessavingmode/) | Dönüştürülen PDF, raster görüntüler içerebilir. Bu parametre, PDF'den HTML'ye dönüşüm sırasında nasıl işleneceklerini tanımlar. |
+| [RemoveEmptyAreasOnTopAndBottom](../../aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/) | Oluşturulan HTML'de, herhangi bir içerik olmadan (varsa) üst ve alt boş alanların kaldırılıp kaldırılmayacağını tanımlar. |
+| [SaveShadowedTextsAsTransparentTexts](../../aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts/) | PDF, başka öğeler (örneğin, görüntüler) tarafından gölgelenmiş metinler içerebilir, ancak Acrobat Reader'da panoya seçilebilir (genellikle bu, belge görüntüler ve OCR ile çıkarılan metinler içerdiğinde olur). Bu ayar, dönüştürücüye, bu metinlerin sonuç HTML'de şeffaf seçilebilir metinler olarak kaydedilip kaydedilmeyeceğini söyler, böylece Acrobat Reader'ın davranışını taklit eder (aksi takdirde, bu metinler genellikle gizli olarak kaydedilir, panoya kopyalamak için mevcut değildir). |
+| [SaveTransparentTexts](../../aspose.pdf/htmlsaveoptions/savetransparenttexts/) | PDF, panoya seçilebilen şeffaf metinler içerebilir (genellikle bu, belge görüntüler ve OCR ile çıkarılan metinler içerdiğinde olur). Bu ayar, dönüştürücüye, bu metinlerin sonuç HTML'de şeffaf seçilebilir metinler olarak kaydedilip kaydedilmeyeceğini söyler. |
+| [SpecialFolderForAllImages](../../aspose.pdf/htmlsaveoptions/specialfolderforallimages/) | Herhangi bir görüntü ile karşılaşıldığında kaydedilmesi gereken dizinin yolunu alır veya ayarlar. Parametre boş veya null ise, görüntü dosyaları (varsa) HTML ile bağlantılı diğer dosyalarla birlikte kaydedilecektir. ÖzelImageSavingStrategy özelliği ilgili görüntü dosyasını işlemek için başarıyla kullanıldıysa, bu durum hiçbir şeyi etkilemez. |
+| [SpecialFolderForSvgImages](../../aspose.pdf/htmlsaveoptions/specialfolderforsvgimages/) | Herhangi bir SVG görüntüsü ile karşılaşıldığında kaydedilmesi gereken dizinin yolunu alır veya ayarlar. Parametre boş veya null ise, SVG dosyaları (varsa) diğer görüntü dosyalarıyla (çıktı dosyasının yanına) veya görüntüler için özel bir klasörde (eğer SpecialImagesFolderIfAny seçeneğinde belirtilmişse) kaydedilecektir. ÖzelImageSavingStrategy özelliği ilgili görüntü dosyasını işlemek için başarıyla kullanıldıysa, bu durum hiçbir şeyi etkilemez. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Bazen PDF'ler, yan yana yerleştirilmiş birkaç aynı döşeme arka plan görüntüsünden oluşan arka plan görüntüleri içerir. Bu durumda, hedef formatların renderlayıcıları (örneğin, DOCS formatı için MsWord), arka plan görüntülerinin parçaları arasında görünür sınırlar oluşturabilir, çünkü görüntü kenar yumuşatma teknikleri Acrobat Reader'dan farklıdır. Eğer dışa aktarılan belgenin, aynı arka plan görüntülerinin parçaları arasında görünür sınırlar içerdiği görünüyorsa, lütfen bu ayarı kullanarak o istenmeyen etkiden kurtulmayı deneyin. DİKKAT! Bu kalite optimizasyonu genellikle dönüşümü önemli ölçüde yavaşlatır, bu nedenle, lütfen bu seçeneği yalnızca gerçekten gerekli olduğunda kullanın. |
+| [TrySaveTextUnderliningAndStrikeoutingInCss](../../aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/) | PDF kendisi metinler için alt çizgi işaretleyicileri içermez. Bu, metnin altında bulunan bir çizgi ile taklit edilir. Bu seçenek, dönüştürücünün bu veya o çizginin bir metnin alt çizgisi olduğunu tahmin etmesine ve bu bilgiyi CSS'ye koymasına olanak tanır. |
 
-### Ayrıca bakınız
+## Örnekler
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* interface [IPageSetOptions](../ipagesetoptions)
-* interface [IPipelineOptions](../ipipelineoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
+Aşağıdaki örnek, PDF dosyasını HTML dosyasına nasıl dönüştüreceğinizi gösterir.
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf");
+
+	// The path to output HTML File.
+	var htmlFile= Path.Combine(dataDir, "PDF-to-HTML.html");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize HtmlSaveOptions 	
+		HtmlSaveOptions saveOptions = new HtmlSaveOptions();
+		
+		// Save HTML file
+		pdfDocument.Save(htmlFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf")
+
+    ' The path to output HTML File.
+    Dim htmlFile = Path.Combine(dataDir, "PDF-to-HTML.html")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize HtmlSaveOptions    
+        Dim saveOptions As HtmlSaveOptions = New HtmlSaveOptions()
+ 
+        ' Save HTML file
+        pdfDocument.Save(htmlFile, saveOptions)
+    End Using
+```
+
+### Ayrıca Bakınız
+
+* sınıf [UnifiedSaveOptions](../unifiedsaveoptions/)
+* arayüz [IPageSetOptions](../ipagesetoptions/)
+* arayüz [IPipelineOptions](../ipipelineoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

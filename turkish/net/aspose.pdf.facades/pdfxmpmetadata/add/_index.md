@@ -1,25 +1,25 @@
 ---
-title: Add
-second_title: Aspose.PDF for .NET API Referansı
-description: XMP meta verilerine değer ekler.
+title: PdfXmpMetadata.Add
+second_title: Aspose.PDF for .NET API Reference
+description: PdfXmpMetadata metodu. XMP meta verisine değer ekler
 type: docs
 weight: 110
 url: /tr/net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
-## Add(DefaultMetadataProperties, XmpValue) {#add}
+## Ekle(DefaultMetadataProperties, XmpValue) {#add}
 
-XMP meta verilerine değer ekler.
+XMP meta verisine değer ekler.
 
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Anahtar adı. |
-| value | XmpValue | Katılacak değer. |
+| anahtar | DefaultMetadataProperties | Anahtar adı. |
+| değer | XmpValue | Eklenecek değer. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -28,55 +28,55 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties)
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* ad alanı [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* toplantı [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
+## Ekle(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Meta verilere uzantı alanı ekler.
+Meta veriye uzantı alanı ekler.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
     string namespaceUri, string schemaDescription)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Eklenecek pdf uzantısı nesnesi. |
-| namespacePrefix | String | Şemanın öneki. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Eklenecek pdf uzantı nesnesi. |
+| namespacePrefix | String | Şemanın ön eki. |
 | namespaceUri | String | Şemanın ad alanı uri'si. |
-| schemaDescription | String | İsteğe bağlı şema açıklaması. |
+| schemaDescription | String | Şemanın isteğe bağlı açıklaması. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* ad alanı [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* toplantı [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, XmpValue) {#add_3}
+## Ekle(string, XmpValue) {#add_3}
 
-Sözlük nesnesine yeni öğe ekler.
+Sözlük nesnesine yeni bir öğe ekler.
 
 ```csharp
 public void Add(string key, XmpValue value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Yeni öğenin anahtarı. |
-| value | XmpValue | Öğenin değeri. |
+| anahtar | String | Yeni öğenin anahtarı. |
+| değer | XmpValue | Öğenin değeri. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -84,53 +84,51 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* ad alanı [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* toplantı [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, object) {#add_4}
+## Ekle(string, object) {#add_4}
 
-Sözlük nesnesine yeni öğe ekler.
+Sözlük nesnesine yeni bir öğe ekler.
 
 ```csharp
 public void Add(string key, object value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Yeni öğenin anahtarı. |
-| value | Object | Öğenin değeri. |
+| anahtar | String | Yeni öğenin anahtarı. |
+| değer | Object | Öğenin değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* ad alanı [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
+## Ekle(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Anahtar ve değer içeren çifti sözlüğe ekler.
+Sözlüğe anahtar ve değer ile çift ekler.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Eklenecek öğe. |
+| öğe | KeyValuePair`2 | Eklenecek öğe. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue)
-* class [PdfXmpMetadata](../../pdfxmpmetadata)
-* ad alanı [Aspose.Pdf.Facades](../../pdfxmpmetadata)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

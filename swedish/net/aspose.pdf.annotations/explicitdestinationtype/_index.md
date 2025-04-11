@@ -1,35 +1,33 @@
 ---
-title: ExplicitDestinationType
-second_title: Aspose.PDF för .NET API Referens
-description: Räknar upp typerna av explicita destinationer.
+title: Enum ExplicitDestinationType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.ExplicitDestinationType enum. Uppräkning av typer av explicita destinationer
 type: docs
-weight: 320
+weight: 1690
 url: /sv/net/aspose.pdf.annotations/explicitdestinationtype/
 ---
-## ExplicitDestinationType enumeration
+## ExplicitDestinationType uppräkning
 
-Räknar upp typerna av explicita destinationer.
+Uppräkning av typer av explicita destinationer.
 
 ```csharp
 public enum ExplicitDestinationType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| XYZ | `0` | Visa sidan med koordinaterna (vänster,�överst) placerade i det övre vänstra hörnet av fönstret och sidans innehåll förstorat med faktorzoom. Ett nollvärde för någon av parametrarna vänster, topp eller zoom anger att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nollvärde. |
-| Fit | `1` | Visa sidan med dess innehåll förstorat precis tillräckligt för att passa hela sidan i window både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den minsta av de två, centrera sidan i fönstret i den andra dimensionen. |
-| FitH | `2` | Visa sidan med den vertikala koordinaten överst placerad i den övre kanten av fönstret och innehållet på sidan förstorat precis tillräckligt för att passa hela sidans bredd i fönstret. Ett nollvärde för top anger att det aktuella värdet på den parametern ska behållas oförändrad. |
-| FitV | `3` | Visa sidan med den horisontella koordinaten till vänster placerad vid vänsterkanten av fönstret och innehållet på sidan förstorat precis tillräckligt för att passa hela sidans höjd i fönstret. Ett nollvärde för vänster anger att det aktuella värdet på den parametern ska behållas oförändrad. |
-| FitR | `4` | Visa sidan med dess innehåll förstorat precis tillräckligt för att passa rektangeln som specificeras av -koordinaterna till vänster, längst ned, höger och helt i fönstret både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den mindre av de två, centrerar rektangeln i fönstret i den andra dimensionen. Ett nollvärde för any av parametrarna kan resultera i oförutsägbart beteende. |
-| FitB | `5` | Visa sidan med dess innehåll förstorat precis tillräckligt för att passa dess begränsningsram helt inom fönstret både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den minsta av de två, centrera begränsningsrutan inom window i den andra dimensionen. |
-| FitBH | `6` | Visa sidan med den vertikala koordinaten överst placerad i den övre kanten av fönstret och innehållet på sidan förstorat precis tillräckligt för att passa hela bredden på dess begränsningsram i fönstret. Ett nollvärde för toppen anger att det aktuella värdet av den parametern ska behållas oförändrad. |
-| FitBV | `7` | Visa sidan med den horisontella koordinaten till vänster placerad i fönstrets vänstra kant och sidans innehåll förstorat precis tillräckligt för att passa hela höjden på dess begränsningsram i fönstret. Ett nollvärde för vänster anger att det aktuella värdet av den parametern ska behållas oförändrad. |
+| XYZ | `0` | Visa sidan med koordinaterna (vänster, topp) placerade i det övre vänstra hörnet av fönstret och innehållet på sidan förstorad med faktorn zoom. Ett nullvärde för någon av parametrarna vänster, topp eller zoom anger att det aktuella värdet för den parametern ska behållas oförändrat. Ett zoomvärde på 0 har samma betydelse som ett nullvärde. |
+| Fit | `1` | Visa sidan med sitt innehåll förstorad precis tillräckligt för att passa hela sidan inom fönstret både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den mindre av de två, centrera sidan inom fönstret i den andra dimensionen. |
+| FitH | `2` | Visa sidan med den vertikala koordinaten topp placerad vid den övre kanten av fönstret och innehållet på sidan förstorad precis tillräckligt för att passa hela bredden av sidan inom fönstret. Ett nullvärde för topp anger att det aktuella värdet för den parametern ska behållas oförändrat. |
+| FitV | `3` | Visa sidan med den horisontella koordinaten vänster placerad vid den vänstra kanten av fönstret och innehållet på sidan förstorad precis tillräckligt för att passa hela höjden av sidan inom fönstret. Ett nullvärde för vänster anger att det aktuella värdet för den parametern ska behållas oförändrat. |
+| FitR | `4` | Visa sidan med sitt innehåll förstorad precis tillräckligt för att passa rektangeln som specificeras av koordinaterna vänster, botten, höger och topp helt inom fönstret både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den mindre av de två, centrera rektangeln inom fönstret i den andra dimensionen. Ett nullvärde för någon av parametrarna kan resultera i oförutsägbart beteende. |
+| FitB | `5` | Visa sidan med sitt innehåll förstorad precis tillräckligt för att passa dess avgränsningsruta helt inom fönstret både horisontellt och vertikalt. Om de nödvändiga horisontella och vertikala förstoringsfaktorerna är olika, använd den mindre av de två, centrera avgränsningsrutan inom fönstret i den andra dimensionen. |
+| FitBH | `6` | Visa sidan med den vertikala koordinaten topp placerad vid den övre kanten av fönstret och innehållet på sidan förstorad precis tillräckligt för att passa hela bredden av dess avgränsningsruta inom fönstret. Ett nullvärde för topp anger att det aktuella värdet för den parametern ska behållas oförändrat. |
+| FitBV | `7` | Visa sidan med den horisontella koordinaten vänster placerad vid den vänstra kanten av fönstret och innehållet på sidan förstorad precis tillräckligt för att passa hela höjden av dess avgränsningsruta inom fönstret. Ett nullvärde för vänster anger att det aktuella värdet för den parametern ska behållas oförändrat. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

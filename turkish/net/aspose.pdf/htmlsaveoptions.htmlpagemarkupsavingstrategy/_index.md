@@ -1,28 +1,26 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingStrategy
-second_title: Aspose.PDF for .NET API Referansı
-description: Dönüştürmenin sonucu bir veya birkaç HTML sayfası içerebilir bu resimler veya yazı tipleri gibi harici dosyalara da başvurabilir get HTML sayfasının HTMLnin kendisi işlenmesini uygulayan özel yöntemle oluşturulan bu özellik temsilcisine atayabilirsiniz. dönüştürme sırasında oluşturuldu. Bu durumda işleme stream veya diske kaydetme gibi o özel kodda yapılabilir. Böyle bir durumda HTML sayfasının işaretlemesinin kaydedilmesi için gerekli tüm eylemler sağlanan yöntemin kodunda gerçekleştirilmelidir çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu durum için işleme dönüştürücünün kodunun kendisi tarafından yapılması gerekiyorsa özel kodda değil lütfen htmlSavingInfo parametresinin değişkeninin özel kod bayrağını CustomProcessingCancelled olarak ayarlayın dönüştürücüye gerekli tüm bu kaynağın işlenmesine yönelik adımlar dönüştürücünün kendisinde herhangi bir harici özel kaydetme kodu yokmuş gibi ile aynı şekilde yapılmalıdır .
+title: Delegate HtmlSaveOptions.HtmlPageMarkupSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: Dönüşüm sonucu bir veya birden fazla HTML sayfası içerebilir; bu sayfalar ayrıca resimler veya yazı tipleri gibi harici dosyalara da referans verebilir. Bu özelliğe, dönüşüm sırasında oluşturulan HTML sayfasının (HTML'nin kendisi) işlenmesini uygulayan özel bir yöntemden oluşturulan bir delege atayabilirsiniz. Bu durumda, akışta veya diskte kaydetme gibi işlemler bu özel kodda gerçekleştirilebilir. Bu durumda, HTML sayfasının işaretlemesini kaydetmek için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonuçların dönüştürücü kodunda kaydedilmesi kullanılmayacaktır. Eğer bu veya şu durum için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'htmlSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın: bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde, dışarıda herhangi bir özel kaydetme kodu yokmuş gibi gerçekleştirilmesi gerektiğini bildirir.
 type: docs
-weight: 3550
+weight: 5680
 url: /tr/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate
+## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegesi
 
-Dönüştürmenin sonucu, bir veya birkaç HTML sayfası içerebilir (bu, resimler veya yazı tipleri gibi harici dosyalara da başvurabilir) get HTML sayfasının (HTML'nin kendisi) işlenmesini uygulayan özel yöntemle oluşturulan bu özellik temsilcisine atayabilirsiniz. dönüştürme sırasında oluşturuldu. Bu durumda işleme (stream veya diske kaydetme gibi) o özel kodda yapılabilir. Böyle bir durumda HTML sayfasının işaretlemesinin kaydedilmesi için gerekli tüm eylemler, sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonucun dönüştürücü koduna kaydedilmesi kullanımda olmayacaktır. Herhangi bir nedenle şu veya bu durum için işleme dönüştürücünün kodunun kendisi tarafından yapılması gerekiyorsa, özel kodda değil, lütfen 'htmlSavingInfo' parametresinin değişkeninin özel kod bayrağını 'CustomProcessingCancelled' olarak ayarlayın: dönüştürücüye gerekli tüm bu kaynağın işlenmesine yönelik adımlar, dönüştürücünün kendisinde, herhangi bir harici özel kaydetme kodu yokmuş gibi ile aynı şekilde yapılmalıdır .
+Dönüşüm sonucu bir veya birden fazla HTML sayfası (bu sayfalar ayrıca resimler veya yazı tipleri gibi harici dosyalara da referans verebilir) içerebilir. Bu özelliğe, dönüşüm sırasında oluşturulan HTML sayfasının (HTML'nin kendisi) işlenmesini uygulayan özel bir yöntemden oluşturulan bir delege atayabilirsiniz. Bu durumda, akışta veya diskte kaydetme gibi işlemler bu özel kodda gerçekleştirilebilir. Bu durumda, HTML sayfasının işaretlemesini kaydetmek için gerekli tüm işlemler sağlanan yöntemin kodunda gerçekleştirilmelidir, çünkü sonuçların dönüştürücü kodunda kaydedilmesi kullanılmayacaktır. Eğer bu veya şu durum için bir nedenle işlemenin dönüştürücünün kodu tarafından, özel kodda değil, yapılması gerekiyorsa, lütfen özel kodda 'htmlSavingInfo' parametre değişkeninin 'CustomProcessingCancelled' bayrağını ayarlayın: bu, dönüştürücüye, o kaynağın işlenmesi için gerekli tüm adımların dönüştürücü içinde, dışarıda herhangi bir özel kaydetme kodu yokmuş gibi gerçekleştirilmesi gerektiğini bildirir.
 
 ```csharp
 public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlSavingInfo);
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | htmlSavingInfo | HtmlPageMarkupSavingInfo | sağlanan HTML sayfasının kaydedilmesi veya işlenmesi için kullanılabilecek verileri temsil eder |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
+* sınıf [HtmlSaveOptions](../htmlsaveoptions/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

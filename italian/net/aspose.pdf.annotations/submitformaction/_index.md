@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction
-second_title: Aspose.PDF per .NET API Reference
-description: Classe che descrive lazione del modulo di invio.
+title: Class SubmitFormAction
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Annotations.SubmitFormAction. Classe che descrive l'azione di invio del modulo
 type: docs
-weight: 1190
+weight: 2640
 url: /it/net/aspose.pdf.annotations/submitformaction/
 ---
-## SubmitFormAction class
+## Classe SubmitFormAction
 
-Classe che descrive l'azione del modulo di invio.
+Classe che descrive l'azione di invio del modulo.
 
 ```csharp
 public sealed class SubmitFormAction : PdfAction
@@ -18,38 +18,42 @@ public sealed class SubmitFormAction : PdfAction
 
 | Nome | Descrizione |
 | --- | --- |
-| [SubmitFormAction](submitformaction)() | Inizializza l'oggetto SubmitFormAction. |
+| [SubmitFormAction](submitformaction/)() | Inizializza l'oggetto SubmitFormAction. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Flags](../../aspose.pdf.annotations/submitformaction/flags) { get; set; } | Ottiene o imposta i flag dell'azione di invio |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Azioni successive in sequenza. |
-| [Url](../../aspose.pdf.annotations/submitformaction/url) { get; set; } | URL di destinazione. |
+| [Flags](../../aspose.pdf.annotations/submitformaction/flags/) { get; set; } | Ottiene o imposta i flag dell'azione di invio |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Azioni successive nella sequenza. |
+| [Url](../../aspose.pdf.annotations/submitformaction/url/) { get; set; } | URL di destinazione. |
+
+## Metodi
+
+| Nome | Descrizione |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Ottiene la stringa per l'azione ECMAScript. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat) | Se impostato, tutti i valori dei campi inviati che rappresentano le date devono essere convertiti nel formato standard. |
-| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform) | Se impostata, la voce F del DFF inviato deve essere una specifica di file contenente un flusso di file incorporato che rappresenta il file PDF da cui viene inviato il DFF. |
-| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey) | Se impostato, il DFF inviato escluderà la voce F. |
-| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots) | Se impostato, includerà solo le annotazioni di markup la cui voce T corrisponde al nome dell'utente corrente. |
-| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude) | Se deselezionata, l'array Fields specifica quali campi includere nell'invio. |
-| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat) | Se impostato, i nomi e i valori dei campi devono essere inviati in formato HTML. |
-| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod) | Se impostato, i nomi e i valori dei campi devono essere inviati utilizzando una richiesta HTTP GET. |
-| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations) | Se impostato, il file FDF inviato include tutte le annotazioni di markup nel documento PDF sottostante. |
-| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves) | Se impostato, il file FDF inviato includerà il contenuto di tutti gli aggiornamenti incrementali. |
-| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields) | Se impostato, tutti i campi designati dall'array Fields e dal flag Includi/Escludi devono essere inviati. |
-| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates) | Se impostate, le coordinate del clic del mouse che ha causato l'azione di invio del modulo devono essere trasmesse come parte dei dati del modulo. |
-| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf) | Se impostato, il documento deve essere inviato in formato PDF, utilizzando il tipo di contenuto MIME application/pdf. |
-| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf) | Se impostato, i nomi e i valori dei campi devono essere inviati come XFDF. |
+| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat/) | Se impostato, i valori dei campi inviati che rappresentano date saranno convertiti nel formato standard. |
+| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform/) | Se impostato, l'entry F del FDF inviato sarà una specifica di file contenente uno stream di file incorporato che rappresenta il file PDF da cui il FDF viene inviato. |
+| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey/) | Se impostato, il FDF inviato escluderà l'entry F. |
+| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots/) | Se impostato, includerà solo quelle annotazioni di markup il cui entry T corrisponde al nome dell'utente corrente. |
+| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude/) | Se chiaro, l'array Fields specifica quali campi includere nell'invio. |
+| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat/) | Se impostato, i nomi e i valori dei campi saranno inviati nel formato HTML Form. |
+| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod/) | Se impostato, i nomi e i valori dei campi saranno inviati utilizzando una richiesta HTTP GET. |
+| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations/) | Se impostato, il file FDF inviato includerà tutte le annotazioni di markup nel documento PDF sottostante. |
+| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves/) | Se impostato, il file FDF inviato includerà i contenuti di tutti gli aggiornamenti incrementali. |
+| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields/) | Se impostato, tutti i campi designati dall'array Fields e dal flag Include/Exclude saranno inviati. |
+| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates/) | Se impostato, le coordinate del clic del mouse che hanno causato l'azione di invio del modulo saranno trasmesse come parte dei dati del modulo. |
+| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf/) | Se impostato, il documento sarà inviato come PDF, utilizzando il tipo di contenuto MIME application/pdf. |
+| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf/) | Se impostato, i nomi e i valori dei campi saranno inviati come XFDF. |
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfAction](../pdfaction)
-* spazio dei nomi [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* assemblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

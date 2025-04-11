@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Esta clase representa un conjunto de datos relacionados con el archivo de imagen de recurso externo guardado durante la conversión de PDF a HTML.
+title: Class HtmlSaveOptions.HtmlImageSavingInfo
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo. Esta clase representa un conjunto de datos relacionados con el guardado de archivos de imagen de recursos externos durante la conversión de PDF a HTML
 type: docs
-weight: 3510
+weight: 5640
 url: /es/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo class
+## Clase HtmlSaveOptions.HtmlImageSavingInfo
 
-Esta clase representa un conjunto de datos relacionados con el archivo de imagen de recurso externo guardado durante la conversión de PDF a HTML.
+Esta clase representa un conjunto de datos relacionados con el guardado de archivos de imagen de recursos externos durante la conversión de PDF a HTML.
 
 ```csharp
 public class HtmlImageSavingInfo : ResourceSavingInfo
@@ -18,31 +18,29 @@ public class HtmlImageSavingInfo : ResourceSavingInfo
 
 | Nombre | Descripción |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | Constructor predeterminado |
+| [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/.ctor)() | El constructor por defecto. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/resourcesavinginfo/resourcetype) { get; } | Establecido por convertidor. Supuesto nombre de archivo que va del convertidor al código del método personalizado Se puede usar en código personalizado para decidir cómo procesar o dónde guardar ese archivo |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Establecido por el convertidor. Nombre de archivo supuesto que va del convertidor al código del método personalizado. Puede usarse en el código personalizado para decidir cómo procesar o dónde guardar ese archivo. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | Establecido por convertidor. Representa el contenido binario del archivo guardado. |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | este indicador debe establecerse en "verdadero" en el código personalizado si, por alguna razón, el archivo propuesto debe procesarse no con el código personalizado sino con el propio código del convertidor de forma estándar para el convertidor. Por lo tanto, su configuración establecida en verdadero significa que el código personalizado no procesó el archivo de referencia y el convertidor debe manejarlo por sí mismo (en ambos sentidos, para guardar en algún lugar y para nombrar en el archivo de referencia). |
-| [HtmlHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/htmlhostpagenumber) | Le dice al código personalizado a qué página del conjunto generado de archivos de página HTML pertenece a la imagen guardada. Si la división en páginas está desactivada, este valor siempre contiene '1' ya que en tal caso Solo se genera una página HTML. |
-| [ImageType](../../aspose.pdf/htmlimagesavinginfo/imagetype) | Representa el tipo de imagen guardada a la que se hace referencia en HTML. Establecido por el convertidor y se puede usar en el código personalizado para decidir qué se debe hacer |
-| [ParentType](../../aspose.pdf/htmlimagesavinginfo/parenttype) | La imagen guardada puede pertenecer al propio HTML o se puede extraer. de SVG incrustado en HTML. Esta propiedad puede decirle al código personalizado cuál es ese tipo de padre de la imagen procesada. Lo establece el convertidor y se puede usar en el código personalizado para decidir qué se debe hacer con esa imagen (el código personalizado puede decidir dónde guardar la imagen o cómo se debe hacer referencia en el contenido principal). |
-| [PdfHostPageNumber](../../aspose.pdf/htmlimagesavinginfo/pdfhostpagenumber) | Le dice al código personalizado a qué página del documento PDF original pertenece la imagen guardada Dado que es posible que no se guarden todas las páginas del documento original, este valor nos informa sobre el número de página del host en el PDF original. Si el número de página original por alguna razón es desconocido, siempre devuelve '1' |
-| [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | Establecido por convertidor. Supuesto nombre de archivo que va del convertidor al código del método personalizado Se puede usar en código personalizado para decidir cómo procesar o dónde guardar ese archivo |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Establecido por el convertidor. Representa el contenido binario del archivo guardado. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Esta bandera debe establecerse en "true" en el código personalizado si por alguna razón el archivo propuesto debe ser procesado no con el código personalizado, sino con el código del convertidor en la forma estándar para el convertidor. Por lo tanto, establecerlo en true significa que el código personalizado no procesó el archivo referenciado y el convertidor debe manejarlo por sí mismo (en ambos sentidos: para guardarlo en algún lugar y para nombrarlo en el archivo de referencia). |
+| [HtmlHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber) | Indica al código personalizado a qué página del conjunto generado de archivos de página HTML pertenece la imagen guardada. Si la división en páginas está desactivada, este valor siempre contiene '1', ya que en tal caso solo se genera una página HTML. |
+| [ImageType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype) | Representa el tipo de imagen guardada referenciada en HTML. Establecido por el convertidor y puede ser utilizado en el código personalizado para decidir qué se debe hacer. |
+| [ParentType](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype) | La imagen guardada puede pertenecer al HTML en sí o puede ser extraída de SVG incrustado en HTML. Esta propiedad puede indicar al código personalizado qué tipo de padre tiene la imagen procesada. Establecido por el convertidor y puede ser utilizado en el código personalizado para decidir qué se debe hacer con esa imagen (por ejemplo, el código personalizado puede decidir dónde guardar la imagen o cómo debe ser referenciada en el contenido del padre). |
+| [PdfHostPageNumber](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber) | Indica al código personalizado a qué página del documento PDF original pertenece la imagen guardada. Dado que es posible que no se guarden todas las páginas del documento original, este valor nos indica el número de página anfitriona en el PDF original. Si el número de página original por alguna razón es desconocido, siempre devuelve '1'. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Establecido por el convertidor. Nombre de archivo supuesto que va del convertidor al código del método personalizado. Puede usarse en el código personalizado para decidir cómo procesar o dónde guardar ese archivo. |
 
-### Ver también
+### Véase también
 
-* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo)
-* class [HtmlSaveOptions](../htmlsaveoptions)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* clase [HtmlSaveOptions](../htmlsaveoptions/)
+* espacio de nombres [Aspose.Pdf](../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../)

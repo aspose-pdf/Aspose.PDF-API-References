@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions
-second_title: Aspose.PDF för .NET API Referens
-description: Spara alternativ för export till SVG format
+title: Class SvgSaveOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.SvgSaveOptions klass. Spara alternativ för export till SVG-format
 type: docs
-weight: 6450
+weight: 10230
 url: /sv/net/aspose.pdf/svgsaveoptions/
 ---
-## SvgSaveOptions class
+## SvgSaveOptions klass
 
-Spara alternativ för export till SVG format
+Spara alternativ för export till SVG-format
 
 ```csharp
 public class SvgSaveOptions : UnifiedSaveOptions
@@ -16,33 +16,79 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions)() | Default_Constructor |
+| [SvgSaveOptions](svgsaveoptions/)() | Standardkonstruktör. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Hämtar eller ställer in booleskt värde som indikerar kommer Response-objektet att stängas efter att dokumentet har sparats i respons. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | Det här attributet aktiverade funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-underlager. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format för att spara data. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction enum-objektet som anger antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och åtgärden Spara fortsätter, men användaren kan också returnera Avbryt i vilket fall åtgärden Spara bör upphöra. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om teckensnittsglypher ska cachas medan aps-sidor förbereds. Förbättrar prestanda vid konvertering av pdf till andra format men ökar minnesanvändningen. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Hämtar eller ställer in ett booleanvärde som indikerar om Response-objektet ska stängas efter att dokumentet har sparats i svaret. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Denna attribut aktiverar funktionalitet för att extrahera bild eller text för PDF-dokument med OCR-sublager. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format för datalagring. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och sparaoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall sparaoperationen ska upphöra. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive) | Anger om utdata kommer att skapas som ett zip-arkiv. Se kommentaren till alternativen 'TreatTargetFileNameAsDirectory' för att se regler för namngivning av svg-filer för sidor för flersidiga källdokument, som också tillämpas på zippade uppsättningar utdatafiler._x000d |
-| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving) | Det här fältet kan innehålla sparstrategi som måste användas (om sådan finns) under konverteringen för anpassad hantering av skapade refererade externa images -filer (som inbäddad BMP eller JPEG) inbäddade i sparade SVG. Den strategin 00 måste bearbeta resurserna _x00 representerar önskvärd URI för sparad resurs i genererad SVG. Om bearbetning av den eller den filen av någon anledning måste göras av omvandlarens kod själv, inte i anpassad kod, vänligen ställ in anpassad kodflagga 'CustomProcessingCancelled' av 'imageSaving_x000d's variabel Den signalerar till omvandlaren att alla nödvändiga steg för bearbetning av den resursen måste göras i själva omvandlaren som om det inte fanns någon extern anpassad kod . |
-| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels) | Anger om utdatadokumentet ska skalas från typografiska punkter till pixlar. |
-| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory) | De här alternativen definierar om målkatalogen ska skapas (om den är frånvarande ännu) med samma namn som den begärda utdatafilen istället för den begärda utdatafilen själv. Den katalogen kommer alltså att innehålla alla utdata SVG-bilder av sidor (som beskrivs nedan) . Om nej, kommer utdatafiler för andra sidor än den första att skapas exakt i den begärda katalogen som huvudutgångsfil, men kommer att innehålla i filnamnssuffixet _[2...n], that definieras av sidnummer, t.ex. Du definierar utdatafilen "C:\AsposeTests\output.svg" och utdata kommer att innehålla flera svg-filer med sidor, , sedan kommer filer med sidor att skapas också i katalogen "C:\AsposeTests\" och har namnen 'output. svg', 'output_2.svg', 'output_3.svg' etc. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Ibland innehåller PDF-filer bakgrundsbilder (av sidor eller tabellceller) konstruerade av flera samma sida vid sida bakgrundsbilder placerade nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser av bakgrundsbilder mellan delar av bakgrundsbilder , orsakar att deras tekniker för bildkantsutjämning (kantutjämning) skiljer sig från Acrobat Reader. Om det ser ut som att det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, försök använda den här inställningen för att bli av med oönskad effekt. OBS! Denna optimering av kvalitet saktar vanligtvis ner konverteringen, så använd det här alternativet endast när det verkligen är nödvändigt. |
+| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | Anger om utdata ska skapas som en zip-arkiv. Vänligen se kommentar till 'TreatTargetFileNameAsDirectory'-alternativ för att se reglerna för namngivning av svg-filer för sidor för fler-sidiga källdokument, som också tillämpas på den zippade uppsättningen av utdatafiler. |
+| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | Detta fält kan innehålla en sparstrategi som måste användas (om den finns) under konvertering för anpassad hantering av skapade refererade externa bildfiler (som inbäddade BMP eller JPEG) inbäddade i sparad SVG. Den strategin måste bearbeta resurser och returnera en sträng som representerar önskad URI för den sparade resursen i den genererade SVG. Om bearbetning för denna eller den fil av någon anledning måste göras av konverterarens kod själv, inte i anpassad kod, vänligen ställ in i anpassad kod flaggan 'CustomProcessingCancelled' av 'imageSavingInfo'-parameterens variabel. Det signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste göras i konverteraren själv som om det inte fanns någon extern anpassad kod. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Bearbeta sidor i flera trådar. |
+| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | Anger om utdata-dokumentet ska skalas från typografiska punkter till pixlar. |
+| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | Detta alternativ definierar om en målmapp (om den ännu inte finns) med samma namn som den begärda utdatafilen ska skapas istället för den begärda utdatafilen själv. Om så är fallet, kommer mappen att innehålla alla utdata SVG-bilder av sidor (som beskrivs nedan). Om inte, kommer utdatafiler för sidor andra än den första att skapas exakt i den begärda mappen som huvudutdatafil, men kommer att innehålla i filnamnet suffix _[2...n], som definieras av sidnummer, t.ex. om du definierar utdatafilen "C:\AsposeTests\output.svg" och utdata kommer att innehålla flera svg-filer av sidor, då kommer sidorna att skapas också i mappen "C:\AsposeTests\" och ha namnen 'output.svg', 'output_2.svg', 'output_3.svg' etc. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Ibland innehåller PDF:er bakgrundsbilder (av sidor eller tabellceller) som är konstruerade av flera samma mönstrade bakgrundsbilder som ligger nära varandra. I sådana fall genererar renderare av målformat (t.ex. MsWord för DOCS-format) ibland synliga gränser mellan delar av bakgrundsbilder, eftersom deras tekniker för bildkantutjämning (anti-aliasing) skiljer sig från Acrobat Reader. Om det ser ut som att det exporterade dokumentet innehåller sådana synliga gränser mellan delar av samma bakgrundsbilder, vänligen försök använda denna inställning för att bli av med den oönskade effekten. OBS! Denna kvalitetsoptimering saktar vanligtvis ner konverteringen avsevärt, så använd detta alternativ endast när det verkligen är nödvändigt. |
 
-### Se även
+## Exempel
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
+Följande exempel visar hur man konverterar en PDF-fil till en SVG-fil
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
+
+	// The path to output SVG File.
+	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize SvgSaveOptions	
+		SvgSaveOptions saveOptions = new SvgSaveOptions();
+		
+		// Save SVG file
+		pdfDocument.Save(svgFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf")
+
+    ' The path to output SVG File.
+    Dim svgFile = Path.Combine(dataDir, "PDF-to-SVG.svg")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize SvgSaveOptions
+        Dim saveOptions As SvgSaveOptions = New SvgSaveOptions()
+ 
+        ' Save SVG file
+        pdfDocument.Save(svgFile, saveOptions)
+    End Using
+```
+
+### Se Även
+
+* klass [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* sammansättning [Aspose.PDF](../../)

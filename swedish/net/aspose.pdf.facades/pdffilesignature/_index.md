@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar en klass för att signera en pdf-fil med ett certifikat.
+title: Class PdfFileSignature
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileSignature klass. Representerar en klass för att signera en pdf-fil med ett certifikat
 type: docs
-weight: 2570
+weight: 4560
 url: /sv/net/aspose.pdf.facades/pdffilesignature/
 ---
-## PdfFileSignature class
+## PdfFileSignature klass
 
 Representerar en klass för att signera en pdf-fil med ett certifikat.
 
@@ -16,66 +16,66 @@ public sealed class PdfFileSignature : SaveableFacade
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PdfFileSignature](pdffilesignature#constructor)() | Konstruktören av klassen PdfFileSignature. |
-| [PdfFileSignature](pdffilesignature#constructor_1)(Document) | Initierar ny[`PdfFileSignature`](../pdffilesignature) objekt på basen av*document* . |
+| [PdfFileSignature](pdffilesignature/#constructor)() | Konstruktören för PdfFileSignature klass. |
+| [PdfFileSignature](pdffilesignature/#constructor_1)(Document) | Initierar ett nytt `PdfFileSignature` objekt baserat på *dokumentet*. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Får dokumentfasaden arbetar på. |
-| [IsCertified](../../aspose.pdf.facades/pdffilesignature/iscertified) { get; } | Får flaggan som avgör om ett dokument är certifierat eller inte. |
-| [IsLtvEnabled](../../aspose.pdf.facades/pdffilesignature/isltvenabled) { get; } | Får flaggan LTV-aktiverad. |
-| [SignatureAppearance](../../aspose.pdf.facades/pdffilesignature/signatureappearance) { get; set; } | Ställer in eller får ett grafiskt utseende för signaturen. Egenskapens värde representerar bildfilens namn. |
-| [SignatureAppearanceStream](../../aspose.pdf.facades/pdffilesignature/signatureappearancestream) { get; set; } | Ställer in eller får ett grafiskt utseende för signaturen. Egenskapens värde representerar bildström. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Hämtar dokumentets fasad som arbetas med. |
+| [IsCertified](../../aspose.pdf.facades/pdffilesignature/iscertified/) { get; } | Hämtar flaggan som avgör om ett dokument är certifierat eller inte. |
+| [IsLtvEnabled](../../aspose.pdf.facades/pdffilesignature/isltvenabled/) { get; } | Hämtar flaggan för LTV aktiverad. |
+| [SignatureAppearance](../../aspose.pdf.facades/pdffilesignature/signatureappearance/) { get; set; } | Sätter eller hämtar en grafisk utseende för signaturen. Egenskapens värde representerar bildfilens namn. |
+| [SignatureAppearanceStream](../../aspose.pdf.facades/pdffilesignature/signatureappearancestream/) { get; set; } | Sätter eller hämtar en grafisk utseende för signaturen. Egenskapens värde representerar bildström. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initierar fasaden. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_1)(Stream) | Binder en PDF-ström för redigering. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_2)(string) | Binder en pdf-fil för redigering. |
-| [Certify](../../aspose.pdf.facades/pdffilesignature/certify#certify_1)(string, DocMDPSignature) | Certifiera dokumentet med MDP-signaturen som är placerad i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således pdf-dokumentet har redan signaturfält, du ska inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamnet (se parametern sigName). |
-| [Certify](../../aspose.pdf.facades/pdffilesignature/certify#certify)(int, string, string, string, bool, Rectangle, DocMDPSignature) | Certifiera dokumentet med MDP-signaturen. Sådana uppgifter som signaturorsak, kontakt och plats måste tillhandahållas av motsvarande egenskaper för Signaturobjektet sig. |
-| override [Close](../../aspose.pdf.facades/pdffilesignature/close)() | Stänger fasaden. |
-| [ContainsSignature](../../aspose.pdf.facades/pdffilesignature/containssignature)() | Kontrollerar om pdf:en har en digital signatur eller inte. |
-| [ContainsUsageRights](../../aspose.pdf.facades/pdffilesignature/containsusagerights)() | Kontrollerar om pdf:en har en användningsrätt eller inte. |
-| [CoversWholeDocument](../../aspose.pdf.facades/pdffilesignature/coverswholedocument)(string) | Kontrollerar om signaturen täcker hela dokumentet. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disponerar fasaden. |
-| [ExtractCertificate](../../aspose.pdf.facades/pdffilesignature/extractcertificate)(string) | Extraherar signaturens enda X.509-certifikat som en ström. |
-| [ExtractImage](../../aspose.pdf.facades/pdffilesignature/extractimage)(string) | Extraherar signaturens bild. |
-| [GetAccessPermissions](../../aspose.pdf.facades/pdffilesignature/getaccesspermissions)() | Returnerar åtkomstbehörighetsvärdet för certifierat dokument av MDP-signaturtypen. |
-| [GetBlankSignNames](../../aspose.pdf.facades/pdffilesignature/getblanksignnames)() | Hämtar namnen på alla tomma signaturfält. |
-| [GetContactInfo](../../aspose.pdf.facades/pdffilesignature/getcontactinfo)(string) | Får kontaktinformationen för en signatur. |
-| [GetDateTime](../../aspose.pdf.facades/pdffilesignature/getdatetime)(string) | Hämtar signaturens datetime. |
-| [GetLocation](../../aspose.pdf.facades/pdffilesignature/getlocation)(string) | Hämtar platsen för en signatur. |
-| [GetReason](../../aspose.pdf.facades/pdffilesignature/getreason)(string) | Får orsaken till en signatur. |
-| [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision)(string) | Får revidering av en signatur. |
-| [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername)(string) | Får namnet på den person eller organisation som signerar pdf-dokumentet. |
-| [GetSignNames](../../aspose.pdf.facades/pdffilesignature/getsignnames)(bool) | Hämtar namnen på alla inte tomma signaturer. |
-| [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision)() | Hämtar den totala revisionen. |
-| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature#removesignature)(string) | Ta bort signaturen enligt namnet på signaturen. |
-| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature#removesignature_1)(string, bool) | Tar bort signaturen enligt namnet på signaturen. |
-| [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights)() | Tar bort posten för användningsrättigheter. |
-| override [Save](../../aspose.pdf.facades/pdffilesignature/save#save_1)(Stream) | Sparar resultatet PDF för att streama. |
-| override [Save](../../aspose.pdf.facades/pdffilesignature/save#save_2)(string) | Sparar resultatet PDF till fil. |
-| [SetCertificate](../../aspose.pdf.facades/pdffilesignature/setcertificate)(string, string) | Ställ in certifikatfil och lösenord för signeringsrutinen. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_4)(string, Signature) | Signera dokumentet med den givna typen signatur som är placerad i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs fältet får inte innehålla signaturlexikon. Således pdf-dokument har redan signaturfält, du ska inte ange platsen för att stämpla signaturen tas motsvarande sida och rektangel från signaturfält som hittas av signaturnamn (se SigName parameter). Sådana data som signaturorsak, kontakt och plats måste tillhandahållas av motsvarande egenskaper för Signaturobjektet sig. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign)(int, bool, Rectangle, Signature) | Signera dokumentet med den angivna typen signatur. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_5)(string, string, string, string, Signature) | Signera dokumentet med den givna typen signatur som är placerad i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs fältet får inte innehålla signaturlexikon. Således pdf-dokument har redan signaturfält, du ska inte ange platsen för att stämpla signaturen tas motsvarande sida och rektangel från signaturfältet som hittas av signaturnamnet (se SigName parameter). |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_1)(int, string, string, string, bool, Rectangle) | Gör en signatur på pdf-dokumentet. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_2)(int, string, string, string, bool, Rectangle, Signature) | Signera dokumentet med den angivna typen signatur. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Signera dokumentet med den givna typen signatur som placeras i redan presenterat signaturfält. Innan man signerar pdf-dokument bör man redan ha signaturfält, motsvarande sida och rektangel är hämtade från signaturfält som hittas av signaturnamn (se SigName parameter) . |
-| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature)(string) | Kontrollerar giltigheten av en signatur. |
-| [VerifySigned](../../aspose.pdf.facades/pdffilesignature/verifysigned)(string) | Kontrollerar giltigheten av en signatur. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initierar fasaden. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf/#bindpdf_1)(Stream) | Binder en Pdf-ström för redigering. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf/#bindpdf_2)(string) | Binder en Pdf-fil för redigering. |
+| [Certify](../../aspose.pdf.facades/pdffilesignature/certify/#certify_1)(string, DocMDPSignature) | Certifierar dokumentet med MDP-signaturen som placeras i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således har pdf-dokumentet redan signaturfält, du bör inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se sigName-parameter). |
+| [Certify](../../aspose.pdf.facades/pdffilesignature/certify/#certify)(int, string, string, string, bool, Rectangle, DocMDPSignature) | Certifierar dokumentet med MDP-signaturen. Sådana data som signaturorsak, kontakt och plats måste tillhandahållas av motsvarande egenskaper hos Signatur-objektet sig. |
+| override [Close](../../aspose.pdf.facades/pdffilesignature/close/)() | Stänger fasaden. |
+| [ContainsSignature](../../aspose.pdf.facades/pdffilesignature/containssignature/)() | Kontrollerar om pdf:en har en digital signatur eller inte. |
+| [ContainsUsageRights](../../aspose.pdf.facades/pdffilesignature/containsusagerights/)() | Kontrollerar om pdf:en har användningsrättigheter eller inte. |
+| [CoversWholeDocument](../../aspose.pdf.facades/pdffilesignature/coverswholedocument/#coverswholedocument)(SignatureName) | Kontrollerar om signaturen täcker hela dokumentet. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Avsätter fasaden. |
+| [ExtractCertificate](../../aspose.pdf.facades/pdffilesignature/extractcertificate/#extractcertificate)(SignatureName) | Extraherar signaturens enskilda X.509-certifikat som en ström. |
+| [ExtractImage](../../aspose.pdf.facades/pdffilesignature/extractimage/#extractimage)(SignatureName) | Extraherar signaturens bild. |
+| [GetAccessPermissions](../../aspose.pdf.facades/pdffilesignature/getaccesspermissions/)() | Returnerar värdet för åtkomsträttigheter för certifierat dokument av MDP-signaturtyp. |
+| [GetBlankSignatureNames](../../aspose.pdf.facades/pdffilesignature/getblanksignaturenames/)() | Hämtar namnen på alla tomma signaturfält. |
+| [GetContactInfo](../../aspose.pdf.facades/pdffilesignature/getcontactinfo/#getcontactinfo)(SignatureName) | Hämtar kontaktinformationen för en signatur. |
+| [GetDateTime](../../aspose.pdf.facades/pdffilesignature/getdatetime/#getdatetime)(SignatureName) | Hämtar signaturens datum och tid. |
+| [GetLocation](../../aspose.pdf.facades/pdffilesignature/getlocation/#getlocation)(SignatureName) | Hämtar platsen för en signatur. |
+| [GetReason](../../aspose.pdf.facades/pdffilesignature/getreason/#getreason)(SignatureName) | Hämtar orsaken till en signatur. |
+| [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision/#getrevision)(SignatureName) | Hämtar revisionen av en signatur. |
+| [GetSignatureNames](../../aspose.pdf.facades/pdffilesignature/getsignaturenames/)(bool) | Hämtar namnen på alla icke-tomma signaturer. |
+| [GetSignaturesInfo](../../aspose.pdf.facades/pdffilesignature/getsignaturesinfo/)() | Hämtar information om alla signaturalgoritmer som finns i PDF-dokumentet. |
+| [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername/#getsignername)(SignatureName) | Hämtar namnet på personen eller organisationen som signerar pdf-dokumentet. |
+| [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision/)() | Hämtar den totala revisionen. |
+| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature)(SignatureName) | Tar bort signaturen enligt signaturens namn. |
+| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature_1)(SignatureName, bool) | Tar bort signaturen enligt signaturens namn. |
+| [RemoveSignatures](../../aspose.pdf.facades/pdffilesignature/removesignatures/)() | Tar bort alla signaturer. |
+| [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights/)() | Tar bort användningsrättighetsposten. |
+| override [Save](../../aspose.pdf.facades/pdffilesignature/save/#save_1)(Stream) | Sparar resultat-PDF till ström. |
+| override [Save](../../aspose.pdf.facades/pdffilesignature/save/#save_2)(string) | Sparar resultat-PDF till fil. |
+| [SetCertificate](../../aspose.pdf.facades/pdffilesignature/setcertificate/)(string, string) | Sätter certifikatfil och lösenord för signeringsrutinen. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_4)(string, Signature) | Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således har pdf-dokumentet redan signaturfält, du bör inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter). Sådana data som signaturorsak, kontakt och plats måste tillhandahållas av motsvarande egenskaper hos Signatur-objektet sig. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign)(int, bool, Rectangle, Signature) | Signera dokumentet med den angivna typens signatur. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_5)(string, string, string, string, Signature) | Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således har pdf-dokumentet redan signaturfält, du bör inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter). |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_1)(int, string, string, string, bool, Rectangle) | Gör en signatur på pdf-dokumentet. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_2)(int, string, string, string, bool, Rectangle, Signature) | Signera dokumentet med den angivna typens signatur. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste pdf-dokumentet redan ha signaturfält, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter). |
+| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature)(SignatureName) | Kontrollerar giltigheten av en signatur. |
+| [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature_1)(SignatureName, ValidationOptions, out ValidationResult) | Kontrollerar giltigheten av en signatur. |
 
-### Se även
+### Se Även
 
-* class [SaveableFacade](../saveablefacade)
-* namnutrymme [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [SaveableFacade](../saveablefacade/)
+* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* samling [Aspose.PDF](../../)

@@ -1,61 +1,61 @@
 ---
-title: MakeBooklet
-second_title: Aspose.PDF for .NET API Referansı
-description: Girdi dosyasından çıktı dosyasına kitapçık yapar.
+title: PdfFileEditor.MakeBooklet
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metodu. Giriş dosyasından çıkış dosyasına broşür oluşturur
 type: docs
-weight: 330
+weight: 300
 url: /tr/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
-Girdi dosyasından çıktı dosyasına kitapçık yapar.
+Giriş dosyasından çıkış dosyasına broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
+| inputFile | String | Giriş pdf dosya yolu ve adı. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-boolean - Başarı için doğru veya yanlış.
+boolean - Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
-InputStream'den outputStream. 'ye kitapçık yapar
+Giriş akışından çıkış akışına broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | pdf akışını girin. |
-| outputStream | Stream | çıktı pdf akışı. |
+| inputStream | Stream | Giriş pdf akışı. |
+| outputStream | Stream | çıkış pdf akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -64,67 +64,67 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-inputFile'dan outputFile. 'ye kitapçık yapar
+GirişFile'dan çıkışFile'a broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputFile | String | pdf dosya yolunu ve adını girin. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| inputFile | String | Giriş pdf dosya yolu ve adı. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olursa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
-Giriş akışından kitapçık yapar ve sonucu çıkış akışına kaydeder.
+Giriş akışından broşür oluşturur ve sonucu çıkış akışına kaydeder.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | PDF akışını girin. |
-| outputStream | Stream | çıktı pdf akışı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| inputStream | Stream | Giriş PDF akışı. |
+| outputStream | Stream | çıkış pdf akışı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -133,69 +133,69 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-FirstInputFile'dan outputFile'a özelleştirilmiş kitapçık yapar.
+İlkInputFile'dan çıkışFile'a özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Giriş dosyası. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| leftPages | Int32[] | Kitapçığın sol sayfaları. |
-| rightPages | Int32[] | Kitapçığın sağ sayfaları. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| leftPages | Int32[] | Broşürün sol sayfaları. |
+| rightPages | Int32[] | Broşürün sağ sayfaları. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-boolean - Başarı için doğru veya yanlış.
+boolean - Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-FirstInputStream'den outputStream'e özelleştirilmiş kitapçık oluşturur.
+İlkInputStream'den çıkışStream'e özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | outputStream | Stream | çıkış pdf akışı. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-boolean - Başarı için doğru veya yanlış.
+boolean - Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -204,73 +204,73 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-FirstInputFile'dan outputFile'a özelleştirilmiş kitapçık yapar.
+İlkInputFile'dan çıkışFile'a özelleştirilmiş broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
     int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Giriş dosyası. |
-| outputFile | String | Çıktı pdf dosya yolu ve adı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| outputFile | String | Çıkış pdf dosya yolu ve adı. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-boolean - Başarı için doğru veya yanlış.
+boolean - Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-FirstInputStream'den outputStream'e kitapçık oluşturur.
+İlkInputStream'den çıkışStream'e broşür oluşturur.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
     int[] leftPages, int[] rightPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputStream | Stream | Giriş akışı. |
 | outputStream | Stream | çıkış pdf akışı. |
-| pageSize | PageSize | Çıktı pdf dosyasının sayfa boyutu. |
+| pageSize | PageSize | Çıkış pdf dosyasının sayfa boyutu. |
 | leftPages | Int32[] | Sol sayfalar. |
-| rightPages | Int32[] | Doğru sayfalar. |
+| rightPages | Int32[] | Sağ sayfalar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-boolean - Başarı için doğru veya yanlış.
+boolean - Başarı için true, ya da false.
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -279,125 +279,122 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse nesnelerine kaydeder.
+Kaynak dosyasından broşür oluşturur ve sonucu HttpResponse nesnelerine kaydeder.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya yolu. |
-| pageSize | PageSize | İstenilen sayfa boyutu. |
-| leftPages | Int32[] | Sola yerleştirilecek sayfa numaraları dizisi. |
-| rightPages | Int32[] | Sağa yerleştirilecek sayfa numaraları dizisi. |
+| pageSize | PageSize | İstenen sayfa boyutu. |
+| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaralarının dizisi. |
+| rightPages | Int32[] | Sağ tarafa yerleştirilecek sayfa numaralarının dizisi. |
 | response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
 
-PDF dosyasından kitapçık yapın ve onu HttpResponse. içine depolayın
+PDF dosyasından broşür oluşturur ve bunu HttpResponse'ye kaydeder.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
     HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş belgesi akışı. |
-| pageSize | PageSize | İstenilen sayfa boyutu. |
-| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaraları dizisi. |
-| rightPages | Int32[] | Sağda yer alacak sayfa numaraları dizisi. |
+| inputStream | Stream | Giriş belge akışı. |
+| pageSize | PageSize | İstenen sayfa boyutu. |
+| leftPages | Int32[] | Sol tarafa yerleştirilecek sayfa numaralarının dizisi. |
+| rightPages | Int32[] | Sağ tarafa yerleştirilecek sayfa numaralarının dizisi. |
 | response | HttpResponse | HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olduysa doğrudur.
+İşlem başarılıysa true.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse nesnelerine kaydeder.
+Kaynak dosyasından broşür oluşturur ve sonucu HttpResponse nesnelerine kaydeder.
 
 ```csharp
 public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | inputFile | String | Kaynak dosya yolu. |
-| pageSize | PageSize | Çıktı dosyasında istenen sayfa boyutu. |
+| pageSize | PageSize | Çıkış dosyasında istenen sayfa boyutu. |
 | response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşlem başarılı olursa doğrudur.
+İşlem başarılıysa true.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
 
-Kaynak dosyadan kitapçık yapar ve sonucu HttpResponse. içinde saklar
+Kaynak dosyasından broşür oluşturur ve sonucu HttpResponse'ye kaydeder.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Giriş belgesi akışı. |
-| pageSize | PageSize | Çıktı dosyasında istenen sayfa boyutu. |
-| response | HttpResponse | Sonucun kaydedileceği nesneyi yanıtlayın. |
+| inputStream | Stream | Giriş belge akışı. |
+| pageSize | PageSize | Çıkış dosyasında istenen sayfa boyutu. |
+| response | HttpResponse | Sonucun kaydedileceği Respose nesnesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-kitapçık başarıyla oluşturulduysa true .
+Broşür başarıyla oluşturulduysa true.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

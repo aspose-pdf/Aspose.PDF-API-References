@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference
-second_title: Aspose.PDF för .NET API Referens
-description: Beskriver visningsinställningar sidläge sidläge utan helskärm sidlayout.
+title: Class ViewerPreference
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.ViewerPreference klass. Beskriver visningspreferenser sidläge icke helskärm sidlayout
 type: docs
-weight: 2770
+weight: 4770
 url: /sv/net/aspose.pdf.facades/viewerpreference/
 ---
-## ViewerPreference class
+## ViewerPreference klass
 
-Beskriver visningsinställningar (sidläge, sidläge utan helskärm, sidlayout).
+Beskriver visningspreferenser (sidläge, icke helskärm sidläge, sidlayout).
 
 ```csharp
 public sealed class ViewerPreference
@@ -16,43 +16,44 @@ public sealed class ViewerPreference
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ViewerPreference](viewerpreference)() | Default_Constructor |
+| [ViewerPreference](viewerpreference/)() | Standardkonstruktorn. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [CenterWindow](../../aspose.pdf.facades/viewerpreference/centerwindow) | En flagga som anger om dokumentets fönster ska placeras i mitten av skärmen. |
-| const [DirectionL2R](../../aspose.pdf.facades/viewerpreference/directionl2r) | Textläsordning från vänster till höger. |
-| const [DirectionR2L](../../aspose.pdf.facades/viewerpreference/directionr2l) | Textläsordning höger till vänster. |
-| const [DisplayDocTitle](../../aspose.pdf.facades/viewerpreference/displaydoctitle) | En flagga som anger om fönstrets namnlist ska visa dokumentet title |
-| const [DuplexFlipLongEdge](../../aspose.pdf.facades/viewerpreference/duplexfliplongedge) | Duplex och vänd på kortsidan av arket. |
-| const [DuplexFlipShortEdge](../../aspose.pdf.facades/viewerpreference/duplexflipshortedge) | Duplex och vänd på kortsidan av arket. |
-| const [FitWindow](../../aspose.pdf.facades/viewerpreference/fitwindow) | En flagga som anger om storleken på dokumentets fönster ska anpassas till storleken på den första visade sidan. |
-| const [HideMenubar](../../aspose.pdf.facades/viewerpreference/hidemenubar) | En flagga som anger om den överensstämmande läsarens menyrad ska döljas när dokumentet är aktivt. |
-| const [HideToolbar](../../aspose.pdf.facades/viewerpreference/hidetoolbar) | En flagga som anger om den överensstämmande läsarens verktygsfält ska döljas när dokumentet är aktivt. |
-| const [HideWindowUI](../../aspose.pdf.facades/viewerpreference/hidewindowui) | En flagga som anger om användargränssnittselementen ska döljas i dokumentets fönster (såsom rullningslister och navigeringskontroller), så att endast dokumentets innehåll visas. |
-| const [NonFullScreenPageModeUseNone](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone) | Varken dokumentkonturer eller miniatyrbilder är synliga. |
-| const [NonFullScreenPageModeUseOC](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc) | Valfri innehållsgruppspanel synlig. |
-| const [NonFullScreenPageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines) | Dokumentkontur synlig. |
-| const [NonFullScreenPageModeUseThumbs](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs) | Miniatyrbilder visible |
-| const [PageLayoutOneColumn](../../aspose.pdf.facades/viewerpreference/pagelayoutonecolumn) | Visa sidorna i en kolumn. |
-| const [PageLayoutSinglePage](../../aspose.pdf.facades/viewerpreference/pagelayoutsinglepage) | Visa en sida i taget. |
-| const [PageLayoutTwoColumnLeft](../../aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft) | Visa sidorna i två kolumner, med udda sidor till höger |
-| const [PageLayoutTwoColumnRight](../../aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright) | Visa sidorna i två kolumner, med udda sidor till höger. |
-| const [PageModeFullScreen](../../aspose.pdf.facades/viewerpreference/pagemodefullscreen) | Helskärmsläge, utan menyrad, fönsterkontroller eller något annat fönster synligt. |
-| const [PageModeUseAttachment](../../aspose.pdf.facades/viewerpreference/pagemodeuseattachment) | Sidläge med bilagor. |
-| const [PageModeUseNone](../../aspose.pdf.facades/viewerpreference/pagemodeusenone) | Varken dokumentkonturer eller miniatyrbilder visible |
-| const [PageModeUseOC](../../aspose.pdf.facades/viewerpreference/pagemodeuseoc) | Valfri innehållsgruppspanel synlig. |
-| const [PageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/pagemodeuseoutlines) | Dokumentkontur synlig. |
-| const [PageModeUseThumbs](../../aspose.pdf.facades/viewerpreference/pagemodeusethumbs) | Miniatyrbilder synliga. |
-| const [Simplex](../../aspose.pdf.facades/viewerpreference/simplex) | Skriv ut enkelsidigt. |
+| const [CenterWindow](../../aspose.pdf.facades/viewerpreference/centerwindow/) | En flagga som specificerar om dokumentfönstret ska positioneras i mitten av skärmen. |
+| const [DirectionL2R](../../aspose.pdf.facades/viewerpreference/directionl2r/) | Textläsningsordning från vänster till höger. |
+| const [DirectionR2L](../../aspose.pdf.facades/viewerpreference/directionr2l/) | Textläsningsordning från höger till vänster. |
+| const [DisplayDocTitle](../../aspose.pdf.facades/viewerpreference/displaydoctitle/) | En flagga som specificerar om fönstrets titelrad ska visa dokumenttiteln |
+| const [DuplexFlipLongEdge](../../aspose.pdf.facades/viewerpreference/duplexfliplongedge/) | Duplex och vändning på långsidan av arket. |
+| const [DuplexFlipShortEdge](../../aspose.pdf.facades/viewerpreference/duplexflipshortedge/) | Duplex och vändning på kortsidan av arket. |
+| const [FitWindow](../../aspose.pdf.facades/viewerpreference/fitwindow/) | En flagga som specificerar om dokumentfönstret ska ändras i storlek för att passa storleken på den första visade sidan. |
+| const [HideMenubar](../../aspose.pdf.facades/viewerpreference/hidemenubar/) | En flagga som specificerar om menyraden för den konformerande läsaren ska döljas när dokumentet är aktivt. |
+| const [HideToolbar](../../aspose.pdf.facades/viewerpreference/hidetoolbar/) | En flagga som specificerar om verktygsraderna för den konformerande läsaren ska döljas när dokumentet är aktivt. |
+| const [HideWindowUI](../../aspose.pdf.facades/viewerpreference/hidewindowui/) | En flagga som specificerar om användargränssnittselement i dokumentfönstret (såsom rullningslister och navigeringskontroller) ska döljas, så att endast dokumentets innehåll visas. |
+| const [NonFullScreenPageModeUseNone](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/) | Varken dokumentöversikt eller miniatyrbilder synliga. |
+| const [NonFullScreenPageModeUseOC](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/) | Valfritt innehållsgruppspanel synlig. |
+| const [NonFullScreenPageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/) | Dokumentöversikt synlig. |
+| const [NonFullScreenPageModeUseThumbs](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/) | Miniatyrbilder synliga |
+| const [PageLayoutOneColumn](../../aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/) | Visa sidorna i en kolumn. |
+| const [PageLayoutSinglePage](../../aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/) | Visa en sida i taget. |
+| const [PageLayoutTwoColumnLeft](../../aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/) | Visa sidorna i två kolumner, med udda numrerade sidor till höger |
+| const [PageLayoutTwoColumnRight](../../aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/) | Visa sidorna i två kolumner, med udda numrerade sidor till höger. |
+| const [PageModeFullScreen](../../aspose.pdf.facades/viewerpreference/pagemodefullscreen/) | Helskärmsläge, utan menyrad, fönsterkontroller eller något annat fönster synligt. |
+| const [PageModeUseAttachment](../../aspose.pdf.facades/viewerpreference/pagemodeuseattachment/) | Sidläge med bilagor. |
+| const [PageModeUseNone](../../aspose.pdf.facades/viewerpreference/pagemodeusenone/) | Varken dokumentöversikt eller miniatyrbilder synliga |
+| const [PageModeUseOC](../../aspose.pdf.facades/viewerpreference/pagemodeuseoc/) | Valfritt innehållsgruppspanel synlig. |
+| const [PageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/) | Dokumentöversikt synlig. |
+| const [PageModeUseThumbs](../../aspose.pdf.facades/viewerpreference/pagemodeusethumbs/) | Miniatyrbilder synliga. |
+| const [PickTrayByPDFSize](../../aspose.pdf.facades/viewerpreference/picktraybypdfsize/) | Använd PDF-sidstorleken för att välja pappersfacket. |
+| const [PrintScalingAppDefault](../../aspose.pdf.facades/viewerpreference/printscalingappdefault/) | Den konformerande läsarens standard utskriftsförstoring. |
+| const [PrintScalingNone](../../aspose.pdf.facades/viewerpreference/printscalingnone/) | Ingen sidförstoring. |
+| const [Simplex](../../aspose.pdf.facades/viewerpreference/simplex/) | Skriv ut enkel-sidig. |
 
-### Se även
+### Se Även
 
-* namnutrymme [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

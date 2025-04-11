@@ -1,65 +1,76 @@
 ---
-title: TableCellElement
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar en basklass för tabellcellelement TH och TD i logisk struktur.
+title: Class TableCellElement
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.TableCellElement klass. Representerar en basklass för tabellcellselement TH och TD i logisk struktur
 type: docs
-weight: 4590
+weight: 6760
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/
 ---
-## TableCellElement class
+## TableCellElement klass
 
-Representerar en basklass för tabellcellelement (TH och TD) i logisk struktur.
+Representerar en basklass för tabellcellselement (TH och TD) i logisk struktur.
 
 ```csharp
-public abstract class TableCellElement : TableChildElement, ITextElement
+public abstract class TableCellElement : TableChildElement, IAdjustPosition, ITextElement
 ```
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | Hämtar eller ställer in den faktiska texten för strukturelement. |
-| [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment) { get; set; } | Hämtar eller ställer in celljusteringen. |
-| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | Hämtar eller ställer in den alternativa texten för strukturelement. |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | BlirStructureAttributeCollection objekt. |
-| [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor) { get; set; } | Hämtar eller ställer in cellbakgrundsfärgen. |
-| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border) { get; set; } | Hämtar eller ställer in cellkanten. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Får barnsamling avElement objekt. |
-| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan) { get; set; } | Hämtar eller ställer in kolumnintervallet. |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | BlirAttributeOwnerStandard objekt. |
-| [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate) { get; set; } | Hämtar eller ställer in standardcelltexttillståndet. |
-| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | Hämtar eller ställer in expansionstexten för strukturelement. |
-| [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | Hämtar ID för strukturelement. |
-| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder) { get; set; } | Hämtar eller ställer in cellens kantlinje. |
-| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped) { get; set; } | Hämtar eller ställer in cellens textord. |
-| [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | Hämtar eller ställer in språket för strukturelement. |
-| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin) { get; set; } | Hämtar eller ställer in stoppningen. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Hämta överordnat element. |
-| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan) { get; set; } | Hämtar eller ställer in radintervallet. |
-| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate) { get; } | BlirStructureTextState objekt för aktuellt element. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | Hämtar typ av strukturelement. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Hämtar eller ställer in titeln för strukturelement. |
-| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment) { get; set; } | Hämtar eller ställer in den vertikala justeringen. |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | Hämtar eller sätter den faktiska texten för struktur element. |
+| [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment/) { get; set; } | Hämtar eller sätter cellens justering. |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | Hämtar eller sätter den alternativa texten för struktur element. |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Hämtar StructureAttributeCollection objekt. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/) { get; set; } | Hämtar eller sätter cellens bakgrundsfärg. |
+| [Border](../../aspose.pdf.logicalstructure/tablecellelement/border/) { get; set; } | Hämtar eller sätter cellens kant. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Hämtar barnkollektionen av Element objekt. |
+| [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan/) { get; set; } | Hämtar eller sätter kolumnspännvidden. |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner/) { get; } | Hämtar AttributeOwnerStandard objekt. |
+| [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/) { get; set; } | Hämtar eller sätter standard celltexttillstånd. |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | Hämtar eller sätter expansions texten för struktur element. |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | Hämtar ID för struktur element. |
+| [IsNoBorder](../../aspose.pdf.logicalstructure/tablecellelement/isnoborder/) { get; set; } | Hämtar eller sätter om cellen har kant. |
+| [IsWordWrapped](../../aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/) { get; set; } | Hämtar eller sätter cellens text som ordomslagen. |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Hämtar eller sätter språket för struktur element. |
+| [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin/) { get; set; } | Hämtar eller sätter marginalen. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Hämtar sidan på vilken några eller alla barn element kommer att renderas. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Hämtar föräldraelementet. |
+| [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan/) { get; set; } | Hämtar eller sätter radspännvidden. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate/) { get; } | Hämtar StructureTextState objekt för nuvarande element. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Hämtar typ av struktur element. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | Hämtar eller sätter titeln för struktur element. |
+| [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment/) { get; set; } | Hämtar eller sätter den vertikala justeringen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | Lägg tillElement till samling av barn. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Ändra överordnat element för nuvarande strukturelement |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | Rensa ID för strukturelement. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Hitta element av en given typ |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | Generera ID för strukturelement. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Anger ID för strukturelement. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | Ställer in anpassad tagg för strukturelement. |
-| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext)(string) | Lägger till textinnehåll till aktuellt textelement. |
-| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | Returnerar en sträng som representerar det aktuella objektet. |
+| [AdjustPosition](../../aspose.pdf.logicalstructure/tablecellelement/adjustposition/)(PositionSettings) |  |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Lägger till Element till barnkollektionen. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Ändrar föräldraelementet för nuvarande struktur element |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Rensar alla barn. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Rensar ID för struktur element. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Hittar Element av en given typ |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Genererar ID för struktur element. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Infogar Element till barnkollektionen vid angiven index. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Tar bort: ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, det motsvarande objektet från dokumentet. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Tar bort ett element från strukturen, en referens till det från föräldraobjektet, referenser till det från barnobjekt, och det motsvarande objektet från dokumentet. Infogar barnobjekten av det borttagna objektet i dess tidigare förälders barnkollektion som börjar vid indexet för det borttagna objektet. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Tar bort barn vid. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Sätter ID för struktur element. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Sätter anpassad tagg för struktur element. |
+| [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext/)(string) |  |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Binder ett struktur element till Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Binder ett struktur element till Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Binder ett struktur element till innehållsström BDC-operator. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Binder ett struktur element till innehållsström XForm. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Binder ett struktur element till XImage. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Returnerar en sträng som representerar det aktuella objektet. |
 
-### Se även
+### Se Även
 
-* class [TableChildElement](../tablechildelement)
-* interface [ITextElement](../itextelement)
-* namnutrymme [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [TableChildElement](../tablechildelement/)
+* gränssnitt [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
+* gränssnitt [ITextElement](../itextelement/)
+* namnrymd [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* sammansättning [Aspose.PDF](../../)

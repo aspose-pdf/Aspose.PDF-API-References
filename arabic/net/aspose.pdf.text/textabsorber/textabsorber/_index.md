@@ -1,142 +1,140 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفTextAbsorberaspose.pdf.text/textabsorber .
+title: TextAbsorber.TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ TextAbsorber. يقوم بتهيئة مثيل جديد من TextAbsorber
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textabsorber/textabsorber/
 ---
 ## TextAbsorber() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TextAbsorber`](../../textabsorber) .
+يقوم بتهيئة مثيل جديد من [`TextAbsorber`](../).
 
 ```csharp
 public TextAbsorber()
 ```
 
-### ملاحظات
+## Remarks
 
-يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر[`Text`](../text) الكائن .
+يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر كائن [`Text`](../text/) .
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استخراج النص من كافة صفحات مستند PDF.
+توضح هذه المثال كيفية استخراج النص من جميع صفحات مستند PDF.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء كائن TextAbsorber لاستخراج النص
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// قبول الامتصاص لجميع صفحات المستند
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// احصل على النص المستخرج
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [TextAbsorber](../../textabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TextAbsorber`](../../textabsorber) مع خيارات الاستخراج.
+يقوم بتهيئة مثيل جديد من [`TextAbsorber`](../) مع خيارات الاستخراج.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | خيارات استخراج النص |
 
-### ملاحظات
+## Remarks
 
-يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر[`Text`](../text) الكائن .
+يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر كائن [`Text`](../text/) .
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية استخراج النص من كافة صفحات مستند PDF.
+توضح هذه المثال كيفية استخراج النص من جميع صفحات مستند PDF.
 
 ```csharp
-// فتح المستند
+// open document
 Document doc = new Document(inFile);
 
-// إنشاء كائن TextAbsorber لاستخراج النص بالتنسيق
+// create TextAbsorber object to extract text with formatting
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// قبول الامتصاص لجميع صفحات المستند
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// احصل على النص المستخرج
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextAbsorber](../../textabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TextAbsorber`](../../textabsorber) مع خيارات الاستخراج والبحث عن النص.
+يقوم بتهيئة مثيل جديد من [`TextAbsorber`](../) مع خيارات الاستخراج وخيارات البحث عن النص.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | خيارات استخراج النص |
 | textSearchOptions | TextSearchOptions | خيارات البحث عن النص |
 
-### ملاحظات
+## Remarks
 
-يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر[`Text`](../text) الكائن .
+يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر كائن [`Text`](../text/) .
 
-### أنظر أيضا
+### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TextAbsorber`](../../textabsorber) مع خيارات البحث عن النص.
+يقوم بتهيئة مثيل جديد من [`TextAbsorber`](../) مع خيارات البحث عن النص.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | خيارات البحث عن النص |
 
-### ملاحظات
+## Remarks
 
-يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر[`Text`](../text) الكائن .
+يقوم باستخراج النص ويوفر الوصول إلى النص المستخرج عبر كائن [`Text`](../text/) .
 
-### أنظر أيضا
+### See Also
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textabsorber)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

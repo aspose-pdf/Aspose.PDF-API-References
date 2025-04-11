@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Representa fragmento html.
+title: Class HtmlFragment
+second_title: Aspose.PDF for .NET API Reference
+description: Clase Aspose.Pdf.HtmlFragment. Representa un fragmento html
 type: docs
-weight: 3390
+weight: 5520
 url: /es/net/aspose.pdf/htmlfragment/
 ---
-## HtmlFragment class
+## Clase HtmlFragment
 
-Representa fragmento html.
+Representa un fragmento html.
 
 ```csharp
 public sealed class HtmlFragment : FormattedFragment
@@ -18,37 +18,35 @@ public sealed class HtmlFragment : FormattedFragment
 
 | Nombre | Descripción |
 | --- | --- |
-| [HtmlFragment](htmlfragment)(string) | Inicializa una nueva instancia de la clase HtmlFragment. |
+| [HtmlFragment](htmlfragment/)(string) | Inicializa una nueva instancia de la clase HtmlFragment. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | Obtiene o establece una alineación horizontal del párrafo |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | Obtiene o establece HtmlLoadOptions que se usarán para cargar (y renderizar) HTML en esta instancia de class. Úselo cuando sea necesario use una configuración específica para importar HTML para esta o aquella instancia (por ejemplo, cuando esta o aquella instancia debería use BasePath específico para HTML importado o debe usar un cargador específico de recursos externos) Si el parámetro es predeterminado (nulo), entonces se usarán las opciones de carga de HTML estándar. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Obtiene o establece el hipervínculo del fragmento (para el generador de pdf). |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | Obtiene o establece palabras break |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Obtiene o establece un valor bool que indica si este párrafo estará en la siguiente columna. El valor predeterminado es falso. (para la generación de PDF) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Obtiene o establece que un párrafo está en línea. El valor predeterminado es falso. (para la generación de PDF) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Obtiene o establece un valor booleano que obliga a generar este párrafo en una nueva página. El valor predeterminado es falso. (para la generación de PDF) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Obtiene o establece un valor booleano que indica si el párrafo actual permanece en la misma página junto con el párrafo siguiente. El valor predeterminado es falso. (para la generación de PDF) |
-| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin) { get; set; } | Obtiene o establece si el párrafo tiene un margen predeterminado; de lo contrario, el margen es 0 |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Obtiene o establece un margen exterior para el párrafo (para la generación de pdf) |
-| [Rectangle](../../aspose.pdf/htmlfragment/rectangle) { get; } | Obtiene el rectángulo del HtmlFragment |
-| [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | Obtiene o establece font |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Obtiene o establece una alineación vertical del párrafo |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Obtiene o establece un valor int que indica el orden Z del gráfico. Un gráfico con ZIndex más grande se colocará sobre el gráfico con ZIndex más pequeño. ZIndex puede ser negativo. El gráfico con ZIndex negativo se colocará detrás del texto en la página. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Obtiene o establece una alineación horizontal del párrafo |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions/) { get; set; } | Obtiene o establece HtmlLoadOptions que se utilizarán para cargar (y renderizar) HTML en esta instancia de la clase. Por favor, utilícelo cuando sea necesario usar una configuración específica para la importación de HTML para esta o aquella instancia (por ejemplo, cuando esta o aquella instancia deba usar una BasePath específica para el HTML importado o deba usar un cargador específico de recursos externos). Si el parámetro es predeterminado (null), se utilizarán las opciones estándar de carga de HTML. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Obtiene o establece el hipervínculo del fragmento (para el generador de pdf). |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords/) { get; set; } | Obtiene o establece el quiebre de palabras |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Obtiene o establece un valor booleano que indica si este párrafo estará en la siguiente columna. El valor predeterminado es falso. (para generación de pdf) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Obtiene o establece si un párrafo es en línea. El valor predeterminado es falso. (para generación de pdf) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Obtiene o establece un valor booleano que obliga a que este párrafo se genere en una nueva página. El valor predeterminado es falso. (para generación de pdf) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Obtiene o establece un valor booleano que indica si el párrafo actual permanece en la misma página junto con el siguiente párrafo. El valor predeterminado es falso. (para generación de pdf) |
+| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin/) { get; set; } | Obtiene o establece si el párrafo tiene margen predeterminado, de lo contrario el margen es 0 |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Obtiene o establece un margen exterior para el párrafo (para generación de pdf) |
+| [Rectangle](../../aspose.pdf/htmlfragment/rectangle/) { get; } | Obtiene el rectángulo del HtmlFragment |
+| [TextState](../../aspose.pdf/htmlfragment/textstate/) { get; set; } | Obtiene o establece la fuente |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Obtiene o establece una alineación vertical del párrafo |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Obtiene o establece un valor int que indica el orden Z del gráfico. Un gráfico con un ZIndex mayor se colocará sobre el gráfico con un ZIndex menor. ZIndex puede ser negativo. Un gráfico con ZIndex negativo se colocará detrás del texto en la página. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Clone](../../aspose.pdf/htmlfragment/clone)() | Clona fragmento html. |
+| override [Clone](../../aspose.pdf/htmlfragment/clone/)() | Clona el fragmento html. |
 
-### Ver también
+### Ver También
 
-* class [FormattedFragment](../formattedfragment)
-* espacio de nombres [Aspose.Pdf](../../aspose.pdf)
-* asamblea [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [FormattedFragment](../formattedfragment/)
+* espacio de nombres [Aspose.Pdf](../../aspose.pdf/)
+* ensamblaje [Aspose.PDF](../../)

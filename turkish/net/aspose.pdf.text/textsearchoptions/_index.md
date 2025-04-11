@@ -1,12 +1,12 @@
 ---
-title: TextSearchOptions
-second_title: Aspose.PDF for .NET API Referansı
-description: Metin arama seçeneklerini temsil eder
+title: Class TextSearchOptions
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Text.TextSearchOptions sınıfı. Metin arama seçeneklerini temsil eder
 type: docs
-weight: 7200
+weight: 11040
 url: /tr/net/aspose.pdf.text/textsearchoptions/
 ---
-## TextSearchOptions class
+## TextSearchOptions sınıfı
 
 Metin arama seçeneklerini temsil eder
 
@@ -14,32 +14,31 @@ Metin arama seçeneklerini temsil eder
 public sealed class TextSearchOptions : TextOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TextSearchOptions](textsearchoptions#constructor_2)(bool) | Yeni örneğini başlatır[`TextSearchOptions`](../textsearchoptions) object. Normal ifade kullanım modunu belirtir. |
-| [TextSearchOptions](textsearchoptions#constructor)(Rectangle) | Yeni örneğini başlatır[`TextSearchOptions`](../textsearchoptions)object. Aranan metni sınırlayan dikdörtgeni belirtir. |
-| [TextSearchOptions](textsearchoptions#constructor_1)(Rectangle, bool) | Yeni örneğini başlatır[`TextSearchOptions`](../textsearchoptions) object. Aranan metni ve normal ifade kullanım modunu sınırlayan dikdörtgeni belirtir. |
+| [TextSearchOptions](textsearchoptions/#constructor_2)(bool) | `TextSearchOptions` nesnesinin yeni bir örneğini başlatır. Düzenli ifade kullanım modunu belirtir. |
+| [TextSearchOptions](textsearchoptions/#constructor)(Rectangle) | `TextSearchOptions` nesnesinin yeni bir örneğini başlatır. Aranan metni sınırlayan dikdörtgeni belirtir. |
+| [TextSearchOptions](textsearchoptions/#constructor_1)(Rectangle, bool) | `TextSearchOptions` nesnesinin yeni bir örneğini başlatır. Aranan metni sınırlayan dikdörtgeni ve düzenli ifade kullanım modunu belirtir. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors) { get; set; } | Yazı tipinin yokluğuyla ilgili hataların metin (parça) yutucusu tarafından yoksayılacağının göstergesini alır veya ayarlar. true - yazı tipinin yokluğundan kaynaklanan hataların yok sayılacağı anlamına gelir. Hatalı kaynaklara başvuran metin bölümleri işleme sırasında atlanacak. false (varsayılan) - yazı tipi hatasının olmaması, istisna oluşturarak işlemeyi sonlandıracaktır. |
-| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext) { get; set; } | Arama sırasında normal metnin gölgesini temsil eden metin parçalarının yoksayılacağını belirtir. true - gölge metnin bulunmayacağı anlamına gelir (metin araması yakın konumlarda yinelenen parçalar döndürürse bunu deneyin) false - bu gölge anlamına gelir metin, normal metnin yanı sıra bulunacaktır (varsayılan değer) |
-| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused) { get; set; } | Normal ifadenin kullanıldığının göstergesini alır veya ayarlar. |
-| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds) { get; set; } | Metnin sayfa sınırları içinde arandığının göstergesini alır veya ayarlar. |
-| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors) { get; set; } | Metin çıkarma (kod çözme) hatalarının metin (parça) emicisinde günlüğe kaydedileceğinin göstergesini alır veya ayarlar. true - metin çıkarma (kod çözme) hatalarının günlüğe kaydedileceği anlamına gelir. Performansı düşürebilir. false (varsayılan) - hata günlüğü yok. |
-| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle) { get; set; } | Aranan metni sınırlayan dikdörtgeni alır veya ayarlar. |
-| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics) { get; set; } | Metin araması sırasında metinle ilgili grafiklerin (alt çizgi, arka plan vb.) aranmasına izin veren değeri alır veya ayarlar. true - metinle ilgili grafikler aranacak (varsayılan değer). false - kaynak belgede bulunabilecek grafik öğeleri göz ardı edilecektir. Performans sorunları olması veya alt çizgi, arka plan veya kırpma işlemine gerek olmaması durumunda bunu ayarlayın. |
-| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount) { get; set; } | Belirtilen öğe sayısı için bir sayfada metinle ilgili grafiklerin (alt çizgi, arka plan vb.) aranmasını sınırlayan bir değer alır veya ayarlar. Varsayılan değer 250'dir. Performans sorunları olması durumunda daha küçük bir değer belirleyin, bazı grafik öğeleri bulunamadı. |
-| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding) { get; set; } | Metnin yazı tipi motoru kodlaması kullanılarak aranacağına dair bir gösterge alır veya ayarlar. true - yazı tipi motoru kodlamasının kullanılacağı anlamına gelir (belgedeki kusurlu kodlama nedeniyle metin araması başarısız olursa bunu deneyin) false - belge yazı tipi kodlamasının kullanılacağı anlamına gelir kullanılabilir (varsayılan değer) |
+| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors/) { get; set; } | Metin (parça) alıcısı tarafından font eksikliği ile ilgili hataların göz ardı edilip edilmeyeceğini alır veya ayarlar. true - font eksikliği hatalarının göz ardı edileceğini belirtir. Yanlış kaynaklara atıfta bulunan metin segmentleri işleme sırasında atlanacaktır. false (varsayılan) - font eksikliği hatası, bir istisna fırlatarak işlemi sonlandırır. |
+| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext/) { get; set; } | Normal metnin gölgesini temsil eden metin parçalarının arama sırasında göz ardı edilip edilmeyeceğini alır veya ayarlar. true - gölge metnin bulunmayacağını belirtir (metin araması yakın konumlarda tekrar eden parçalar döndürüyorsa bunu deneyin) false - gölge metin normal metinle birlikte bulunacaktır (varsayılan değer) |
+| [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused/) { get; set; } | Düzenli ifadenin kullanılıp kullanılmadığını alır veya ayarlar. |
+| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds/) { get; set; } | Metnin sayfa sınırları içinde aranıp aranmayacağını alır veya ayarlar. |
+| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors/) { get; set; } | Metin çıkarma (kod çözme) hatalarının metin (parça) alıcısında kaydedilip edilmeyeceğini alır veya ayarlar. true - metin çıkarma (kod çözme) hatalarının kaydedileceğini belirtir. Bu performansı düşürebilir. false (varsayılan) - hata kaydı yok. |
+| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle/) { get; set; } | Aranan metni sınırlayan dikdörtgeni alır veya ayarlar. |
+| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/) { get; set; } | Metin araması sırasında metinle ilgili grafiklerin (altı çizme, arka plan vb.) aranmasına izin veren değeri alır veya ayarlar. true - metinle ilgili grafiklerin aranacağı belirtilir (varsayılan değer). false - kaynak belgede mevcut olabilecek grafik unsurlar göz ardı edilecektir. Performans sorunları veya altı çizme, arka plan veya kesme ile ilgilenme gereği olmadığında bunu ayarlayın. |
+| [SearchInAnnotations](../../aspose.pdf.text/textsearchoptions/searchinannotations/) { get; set; } | Anotasyonlarda metin aramaya izin veren değeri alır veya ayarlar. true - metin Anotasyonlarda aranacaktır. false - Anotasyonlardaki metin, TextFragmentAbsorber tarafından ayrıştırılmayacaktır. |
+| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/) { get; set; } | Belirtilen sayıda öğe için bir sayfadaki metinle ilgili grafiklerin (altı çizme, arka plan vb.) aranmasını sınırlayan değeri alır veya ayarlar. Varsayılan 250'dir. Performans sorunları durumunda daha düşük bir değer ayarlayın, bazı grafik unsurlar bulunmadığında daha büyük bir değer deneyin. |
+| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding/) { get; set; } | Metnin font motoru kodlaması kullanılarak aranıp aranmayacağını alır veya ayarlar. true - font motoru kodlamasının kullanılacağını belirtir (metin araması belgedeki eksik kodlama nedeniyle başarısız olursa bunu deneyin) false - belgenin font kodlamasının kullanılacağını belirtir (varsayılan değer) |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextOptions](../textoptions)
-* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TextOptions](../textoptions/)
+* ad alanı [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* derleme [Aspose.PDF](../../)

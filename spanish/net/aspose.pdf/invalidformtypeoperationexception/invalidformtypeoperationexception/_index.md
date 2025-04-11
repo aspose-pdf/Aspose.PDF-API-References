@@ -1,84 +1,82 @@
 ---
-title: InvalidFormTypeOperationException
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Inicializa una nueva instancia delInvalidFormTypeOperationExceptionaspose.pdf/invalidformtypeoperationexception clase.
+title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
+second_title: Aspose.PDF for .NET API Reference
+description: Constructor de InvalidFormTypeOperationException. Inicializa una nueva instancia de la clase InvalidFormTypeOperationException
 type: docs
 weight: 10
 url: /es/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
 ---
 ## InvalidFormTypeOperationException() {#constructor}
 
-Inicializa una nueva instancia del[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) clase.
+Inicializa una nueva instancia de la clase [`InvalidFormTypeOperationException`](../).
 
 ```csharp
 public InvalidFormTypeOperationException()
 ```
 
-### Ver también
+### Ver También
 
-* class [InvalidFormTypeOperationException](../../invalidformtypeoperationexception)
-* espacio de nombres [Aspose.Pdf](../../invalidformtypeoperationexception)
-* asamblea [Aspose.PDF](../../../)
+* clase [InvalidFormTypeOperationException](../)
+* espacio de nombres [Aspose.Pdf](../../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(string) {#constructor_2}
 
-Inicializa una nueva instancia del[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) clase.
+Inicializa una nueva instancia de la clase [`InvalidFormTypeOperationException`](../).
 
 ```csharp
 public InvalidFormTypeOperationException(string message)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | message | String | El mensaje. |
 
-### Ver también
+### Ver También
 
-* class [InvalidFormTypeOperationException](../../invalidformtypeoperationexception)
-* espacio de nombres [Aspose.Pdf](../../invalidformtypeoperationexception)
-* asamblea [Aspose.PDF](../../../)
+* clase [InvalidFormTypeOperationException](../)
+* espacio de nombres [Aspose.Pdf](../../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-Inicializa una nueva instancia del[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) clase con un mensaje de error especificado y una referencia a la excepción interna que es la causa de esta excepción.
+Inicializa una nueva instancia de la clase [`InvalidFormTypeOperationException`](../) con un mensaje de error específico y una referencia a la excepción interna que es la causa de esta excepción.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| message | String | El mensaje de error que explica el motivo de la excepción. |
-| innerException | Exception | La excepción que es la causa de la excepción actual o una referencia nula (Nothing en Visual Basic) si no se especifica ninguna excepción interna. |
+| message | String | El mensaje de error que explica la razón de la excepción. |
+| innerException | Exception | La excepción que es la causa de la excepción actual, o una referencia nula (Nothing en Visual Basic) si no se especifica ninguna excepción interna. |
 
-### Ver también
+### Ver También
 
-* class [InvalidFormTypeOperationException](../../invalidformtypeoperationexception)
-* espacio de nombres [Aspose.Pdf](../../invalidformtypeoperationexception)
-* asamblea [Aspose.PDF](../../../)
+* clase [InvalidFormTypeOperationException](../)
+* espacio de nombres [Aspose.Pdf](../../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Inicializa una nueva instancia del[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) clase con un mensaje de error especificado y una referencia a la excepción interna que es la causa de esta excepción.
+Inicializa una nueva instancia de la clase [`InvalidFormTypeOperationException`](../) con una referencia a la excepción interna que es la causa de esta excepción.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| innerException | Exception | La excepción que es la causa de la excepción actual o una referencia nula (Nothing en Visual Basic) si no se especifica ninguna excepción interna. |
+| innerException | Exception | La excepción que es la causa de la excepción actual, o una referencia nula (Nothing en Visual Basic) si no se especifica ninguna excepción interna. |
 
-### Ver también
+### Ver También
 
-* class [InvalidFormTypeOperationException](../../invalidformtypeoperationexception)
-* espacio de nombres [Aspose.Pdf](../../invalidformtypeoperationexception)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [InvalidFormTypeOperationException](../)
+* espacio de nombres [Aspose.Pdf](../../../aspose.pdf/)
+* ensamblado [Aspose.PDF](../../../)

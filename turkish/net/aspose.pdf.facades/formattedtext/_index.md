@@ -1,12 +1,12 @@
 ---
-title: FormattedText
-second_title: Aspose.PDF for .NET API Referansı
-description: Biçimlendirilmiş metni temsil eden sınıf. Metin ve rengi boyutu stili hakkında bilgi içerir.
+title: Class FormattedText
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.FormattedText sınıfı. Biçimlendirilmiş metni temsil eden sınıf. Metin ve rengi, boyutu, stili hakkında bilgi içerir.
 type: docs
-weight: 2360
+weight: 4350
 url: /tr/net/aspose.pdf.facades/formattedtext/
 ---
-## FormattedText class
+## FormattedText sınıfı
 
 Biçimlendirilmiş metni temsil eden sınıf. Metin ve rengi, boyutu, stili hakkında bilgi içerir.
 
@@ -14,41 +14,41 @@ Biçimlendirilmiş metni temsil eden sınıf. Metin ve rengi, boyutu, stili hakk
 public sealed class FormattedText
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [FormattedText](formattedtext#constructor)() | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_1)(string) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_8)(string, Color, Color) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_6)(string, Color, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_12)(string, Color, string, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_4)(string, FontColor, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_9)(string, Color, Color, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | FormattedText'i Başlatın. |
-| [FormattedText](formattedtext#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
-| [FormattedText](formattedtext#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor)() | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_1)(string) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_8)(string, Color, Color) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_6)(string, Color, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_12)(string, Color, string, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_4)(string, FontColor, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_9)(string, Color, Color, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
+| [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | FormattedText'i başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [TextHeight](../../aspose.pdf.facades/formattedtext/textheight) { get; } | Metnin yüksekliğini alır. |
-| [TextWidth](../../aspose.pdf.facades/formattedtext/textwidth) { get; } | Metnin genişliğini alır. |
+| [TextHeight](../../aspose.pdf.facades/formattedtext/textheight/) { get; } | Metnin yüksekliğini alır. |
+| [TextWidth](../../aspose.pdf.facades/formattedtext/textwidth/) { get; } | Metnin genişliğini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext)(string) | FormattedText nesnesine yeni bir satır ekler ve newLineText'i sonraki satırın metnine ayarlar. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext_1)(string, float) | FormattedText nesnesine yeni bir satır ekler ve newLineText'i sonraki satırın metnine ayarlar. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | FormattedText nesnesine yeni bir satır ekler ve newLineText'i bir sonraki satırın metni olarak ayarlar. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | FormattedText nesnesine yeni bir satır ekler ve newLineText'i bir sonraki satırın metni olarak ayarlar. |
+| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | Metnin CJK (Çince, Japonca veya Korece) olup olmadığını kontrol eder. |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | CJK (Çince, Japonca veya Korece) yazı tipi için FormattedText yazı tipi stilini değiştirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

@@ -1,63 +1,67 @@
 ---
-title: AddImage
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Fügt ein Bild auf der Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks wobei die Proportionen des Bilds gespeichert werden.
+title: Page.AddImage
+second_title: Aspose.PDF for .NET API Reference
+description: Seitenmethode. Fügt ein Bild zur Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bildes beibehalten werden.
 type: docs
-weight: 340
+weight: 350
 url: /de/net/aspose.pdf/page/addimage/
 ---
-## AddImage(Stream, Rectangle) {#addimage}
+## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-Fügt ein Bild auf der Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bilds gespeichert werden.
+Fügt ein Bild zur Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bildes beibehalten werden.
 
 ```csharp
-public void AddImage(Stream imageStream, Rectangle imageRect)
+public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
+    bool autoAdjustRectangle = true)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | imageStream | Stream | Der Stream des Bildes. |
 | imageRect | Rectangle | Die Position des Bildes. |
+| bbox | Rectangle | Bbox des Bildes. |
+| autoAdjustRectangle | Boolean | Bild im Zentrum des Eingangsrechtecks anpassen. |
 
 ### Siehe auch
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namensraum [Aspose.Pdf](../../page)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Rectangle](../../rectangle/)
+* Klasse [Page](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, Stream, Rectangle) {#addimage_3}
+## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-Fügt ein durchsuchbares Bild auf der Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bilds gespeichert werden.
+Fügt ein durchsuchbares Bild zur Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bildes beibehalten werden.
 
 ```csharp
-public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
+public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| hocr | String | Das Hocr des Bildes. |
+| hocr | String | Der hocr des Bildes. |
 | imageStream | Stream | Der Stream des Bildes. |
 | imageRect | Rectangle | Die Position des Bildes. |
+| bbox | Rectangle | Die bbox des Bildes. |
 
 ### Siehe auch
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namensraum [Aspose.Pdf](../../page)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Rectangle](../../rectangle/)
+* Klasse [Page](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, Rectangle, int, int, bool) {#addimage_1}
+## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-Fügt ein Bild auf der Seite hinzu und platziert es abhängig von der Position des Bildrechtecks.
+Fügt ein Bild zur Seite hinzu und platziert es abhängig von der Position des Bildrechtecks.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
-    bool saveImageProportions)
+    bool saveImageProportions, Rectangle bbox = null)
 ```
 
 | Parameter | Typ | Beschreibung |
@@ -66,20 +70,21 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 | imageRect | Rectangle | Die Standardposition des Bildes auf der Seite. |
 | imageWidth | Int32 | Die Breite des Bildes. |
 | imageHeight | Int32 | Die Höhe des Bildes. |
-| saveImageProportions | Boolean | Wenn das Flag auf true gesetzt ist, wird das Bild in Rechteckposition platziert; andernfalls wird die Größe des Rechtecks gleich der Bildgröße. |
+| saveImageProportions | Boolean | Wenn das Flag auf true gesetzt ist, wird das Bild in der Rechtecksposition platziert; andernfalls wird die Größe des Rechtecks gleich der Bildgröße. |
+| bbox | Rectangle | Die bbox des Bildes. |
 
 ### Siehe auch
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namensraum [Aspose.Pdf](../../page)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Rectangle](../../rectangle/)
+* Klasse [Page](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-Fügt ein Bild auf der Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bilds gespeichert werden.
+Fügt ein Bild zur Seite hinzu und positioniert es in der Mitte des angegebenen Rechtecks, wobei die Proportionen des Bildes beibehalten werden.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
@@ -92,9 +97,7 @@ public void AddImage(string imagePath, Rectangle rectangle)
 
 ### Siehe auch
 
-* class [Rectangle](../../rectangle)
-* class [Page](../../page)
-* namensraum [Aspose.Pdf](../../page)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [Rectangle](../../rectangle/)
+* Klasse [Page](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)

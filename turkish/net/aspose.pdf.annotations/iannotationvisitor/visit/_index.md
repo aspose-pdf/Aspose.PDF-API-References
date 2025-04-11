@@ -1,427 +1,509 @@
 ---
-title: Visit
-second_title: Aspose.PDF for .NET API Referansı
-description: Bağlantı ek açıklamasını ziyaret edin/seçin.
+title: IAnnotationVisitor.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: IAnnotationVisitor yöntemi. Bağlantı anotasyonunu ziyaret et/seç
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_8}
 
-Bağlantı ek açıklamasını ziyaret edin/seçin.
+Bağlantı anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation nesnesi örneği/şablonu. |
+| link | LinkAnnotation | LinkAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LinkAnnotation](../../linkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [LinkAnnotation](../../linkannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Ek açıklamasını ziyaret edin/seçin.
+Ek bağlantı anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation nesnesi örneği/şablonu. |
+| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_17}
+## Visit(TextAnnotation) {#visit_20}
 
-Metin ek açıklamasını ziyaret edin/seçin.
+Metin anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation nesnesi örneği/şablonu. |
+| text | TextAnnotation | TextAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TextAnnotation](../../textannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TextAnnotation](../../textannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_4}
 
-Serbest metin ek açıklamasını ziyaret edin/seçin.
+Serbest metin anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation nesne örneği/şablon. |
+| freetext | FreeTextAnnotation | FreeTextAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [FreeTextAnnotation](../../freetextannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_5}
 
-Vurgu açıklamasını ziyaret edin/seçin.
+Vurgulama anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation nesne örneği/şablon. |
+| highlight | HighlightAnnotation | HighlightAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [HighlightAnnotation](../../highlightannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [HighlightAnnotation](../../highlightannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_18}
+## Visit(UnderlineAnnotation) {#visit_22}
 
-Alt çizgi ek açıklamasını ziyaret edin/seçin.
+Altı çizili anotasyonu ziyaret et/seç.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation nesne örneği/şablon. |
+| underline | UnderlineAnnotation | UnderlineAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [UnderlineAnnotation](../../underlineannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_16}
+## Visit(StrikeOutAnnotation) {#visit_19}
 
-StrikeOut ek açıklamasını ziyaret edin/seçin.
+Üstü çizili anotasyonu ziyaret et/seç.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation nesne örneği/şablon. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [StrikeOutAnnotation](../../strikeoutannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_14}
+## Visit(SquigglyAnnotation) {#visit_17}
 
-Dalgalı ek açıklamayı ziyaret edin/seçin.
+Dalgalı anotasyonu ziyaret et/seç.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation nesnesi örneği/şablonu. |
+| squiggly | SquigglyAnnotation | SquigglyAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [SquigglyAnnotation](../../squigglyannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_11}
+## Visit(PopupAnnotation) {#visit_13}
 
-Açılır pencere ek açıklamasını ziyaret edin/seçin.
+Açılır anotasyonu ziyaret et/seç.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation nesne örneği/şablon. |
+| popup | PopupAnnotation | PopupAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PopupAnnotation](../../popupannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PopupAnnotation](../../popupannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_7}
 
-Satır açıklamasını ziyaret edin/seçin.
+Çizgi anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation nesne örneği/şablon. |
+| line | LineAnnotation | LineAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [LineAnnotation](../../lineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [LineAnnotation](../../lineannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Çevre ek açıklamasını ziyaret edin/seçin.
+Daire anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation nesne örneği/şablon. |
+| circle | CircleAnnotation | CircleAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CircleAnnotation](../../circleannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [CircleAnnotation](../../circleannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_13}
+## Visit(SquareAnnotation) {#visit_16}
 
-Kare ek açıklamayı ziyaret edin/seçin.
+Kare anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation nesne örneği/şablon. |
+| square | SquareAnnotation | SquareAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [SquareAnnotation](../../squareannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [SquareAnnotation](../../squareannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_6}
 
-Mürekkep ek açıklamasını ziyaret edin/seçin.
+Mürekkep anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation nesnesi örneği/şablonu. |
+| ink | InkAnnotation | InkAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [InkAnnotation](../../inkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [InkAnnotation](../../inkannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_10}
+## Visit(PolylineAnnotation) {#visit_12}
 
-Çoklu çizgi ek açıklamasını ziyaret edin/seçin.
+Poligon çizgi anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation nesnesi örneği/şablonu. |
+| polyline | PolylineAnnotation | PolylineAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PolylineAnnotation](../../polylineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PolylineAnnotation](../../polylineannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_9}
+## Visit(PolygonAnnotation) {#visit_11}
 
-Çokgen açıklamasını ziyaret edin/seçin.
+Poligon anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation nesnesi örneği/şablonu. |
+| polygon | PolygonAnnotation | PolygonAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PolygonAnnotation](../../polygonannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PolygonAnnotation](../../polygonannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Şapka ek açıklamasını ziyaret edin/seçin.
+İmleç anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation nesnesi örneği/şablonu. |
+| caret | CaretAnnotation | CaretAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [CaretAnnotation](../../caretannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [CaretAnnotation](../../caretannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_15}
+## Visit(StampAnnotation) {#visit_18}
 
-Damga ek açıklamasını ziyaret edin/seçin.
+Mühür anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation nesne örneği/şablon. |
+| stamp | StampAnnotation | StampAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [StampAnnotation](../../stampannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [StampAnnotation](../../stampannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_19}
+## Visit(WidgetAnnotation) {#visit_23}
 
-Widget ek açıklamasını ziyaret edin/seçin.
+Widget anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation nesnesi örneği/şablonu. |
+| widget | WidgetAnnotation | WidgetAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [WidgetAnnotation](../../widgetannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [WidgetAnnotation](../../widgetannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_9}
 
-Film ek açıklamasını ziyaret edin/seçin.
+Film anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation nesnesi örneği/şablonu. |
+| movie | MovieAnnotation | MovieAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [MovieAnnotation](../../movieannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [MovieAnnotation](../../movieannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_12}
+## Visit(ScreenAnnotation) {#visit_15}
 
-Ekran açıklamasını ziyaret edin/seçin.
+Ekran anotasyonunu ziyaret et/seç.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation nesne örneği/şablon. |
+| screen | ScreenAnnotation | ScreenAnnotation nesne örneği/şablonu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ScreenAnnotation](../../screenannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* ad alanı [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [ScreenAnnotation](../../screenannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(TrimMarkAnnotation) {#visit_21}
+
+Bir trim mark anotasyonunu ziyaret et/seç.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | [`TrimMarkAnnotation`](../../trimmarkannotation/) nesne örneği/şablonu. |
+
+### Ayrıca Bakınız
+
+* sınıf [TrimMarkAnnotation](../../trimmarkannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Bir bleed mark anotasyonunu ziyaret et/seç.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | [`BleedMarkAnnotation`](../../bleedmarkannotation/) nesne örneği/şablonu. |
+
+### Ayrıca Bakınız
+
+* sınıf [BleedMarkAnnotation](../../bleedmarkannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_14}
+
+Bir kayıt mark anotasyonunu ziyaret et/seç.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) nesne örneği/şablonu. |
+
+### Ayrıca Bakınız
+
+* sınıf [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_10}
+
+Bir sayfa bilgi anotasyonunu ziyaret et/seç.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | [`PageInformationAnnotation`](../../pageinformationannotation/) nesne örneği/şablonu. |
+
+### Ayrıca Bakınız
+
+* sınıf [PageInformationAnnotation](../../pageinformationannotation/)
+* arayüz [IAnnotationVisitor](../)
+* ad alanı [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../../)

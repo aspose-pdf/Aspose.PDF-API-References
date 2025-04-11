@@ -1,62 +1,60 @@
 ---
-title: PdfFileMend
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل فئة لإضافة النصوص والصور على صفحات مستند PDF الحالي.
+title: Class PdfFileMend
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Facades.PdfFileMend. تمثل فئة لإضافة النصوص والصور على صفحات مستند PDF الموجود
 type: docs
-weight: 2540
+weight: 4530
 url: /ar/net/aspose.pdf.facades/pdffilemend/
 ---
 ## PdfFileMend class
 
-يمثل فئة لإضافة النصوص والصور على صفحات مستند PDF الحالي.
+تمثل فئة لإضافة النصوص والصور على صفحات مستند PDF الموجود.
 
 ```csharp
 public sealed class PdfFileMend : SaveableFacade
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [PdfFileMend](pdffilemend#constructor)() | المُنشئ. |
-| [PdfFileMend](pdffilemend#constructor_1)(Document) | تهيئة جديد[`PdfFileMend`](../pdffilemend) كائن على قاعدة*document* . |
+| [PdfFileMend](pdffilemend/#constructor)() | المُنشئ. |
+| [PdfFileMend](pdffilemend/#constructor_1)(Document) | يقوم بتهيئة كائن `PdfFileMend` جديد بناءً على *المستند*. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | الحصول على واجهة المستند التي تعمل عليها. |
-| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap) { set; } | يعين قيمة منطقية تشير إلى التفاف الكلمات في طرق AddText . إذا كانت القيمة صحيحة ، فإن النص في FormattedText سوف يلتف. |
-| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode) { get; set; } | يحدد أو يحصل على إستراتيجية تحديد المواقع النصية.[`PositioningMode`](../positioningmode) الوضع الافتراضي قديم . |
-| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | تعيين أو الحصول على خوارزمية التفاف الكلمات. راجع WordWrapMode و IsWordWrap. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة المستند التي يعمل عليها. |
+| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | يحدد قيمة بوليانية تشير إلى التفاف الكلمات في طرق AddText. إذا كانت القيمة صحيحة، فإن النص في FormattedText سيتلف. بشكل افتراضي، تكون القيمة خاطئة. |
+| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode/) { get; set; } | يحدد أو يحصل على استراتيجية وضع النص. [`PositioningMode`](../positioningmode/) الوضع الافتراضي هو Legacy. |
+| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode/) { get; set; } | يحدد أو يحصل على خوارزمية التفاف الكلمات. انظر WordWrapMode و IsWordWrap. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage)(Stream, int, float, float, float, float) | يضيف الصورة إلى الصفحة المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_2)(Stream, int[], float, float, float, float) | إضافة صورة إلى الصفحات المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_4)(string, int, float, float, float, float) | يضيف الصورة إلى الصفحة المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_6)(string, int[], float, float, float, float) | إضافة صورة إلى الصفحات المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | يضيف الصورة إلى الصفحة المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | إضافة صورة إلى الصفحات المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_5)(string, int, float, float, float, float, CompositingParameters) | يضيف الصورة إلى الصفحة المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | إضافة صورة إلى الصفحات المحددة من مستند PDF بالإحداثيات المحددة. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext)(FormattedText, int, float, float) | لم يتم التنفيذ. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_1)(FormattedText, int, float, float, float, float) | لم يتم التنفيذ. |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_2)(FormattedText, int[], float, float, float, float) | لم يتم التنفيذ. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | تهيئة الواجهة . |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | تهيئة الواجهة . |
-| override [Close](../../aspose.pdf.facades/pdffilemend/close)() | يغلق كائن PdfFileMend . |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | التخلص من الواجهة . |
-| override [Save](../../aspose.pdf.facades/pdffilemend/save#save)(Stream) | يحفظ مستند PDF في التدفق المحدد. |
-| override [Save](../../aspose.pdf.facades/pdffilemend/save#save_1)(string) | يحفظ مستند PDF في الملف المحدد. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage)(Stream, int, float, float, float, float) | يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_2)(Stream, int[], float, float, float, float) | يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_4)(string, int, float, float, float, float) | يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_6)(string, int[], float, float, float, float) | يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_5)(string, int, float, float, float, float, CompositingParameters) | يضيف صورة إلى الصفحة المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage/#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | يضيف صورة إلى الصفحات المحددة من مستند PDF عند الإحداثيات المحددة. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext)(FormattedText, int, float, float) | غير مُنفذ. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_1)(FormattedText, int, float, float, float, float) | غير مُنفذ. |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_2)(FormattedText, int[], float, float, float, float) | غير مُنفذ. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يقوم بتهيئة الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يقوم بتهيئة الواجهة. |
+| override [Close](../../aspose.pdf.facades/pdffilemend/close/)() | يغلق كائن PdfFileMend. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | يتخلص من الواجهة. |
+| override [Save](../../aspose.pdf.facades/pdffilemend/save/#save)(Stream) | يحفظ مستند PDF إلى التدفق المحدد. |
+| override [Save](../../aspose.pdf.facades/pdffilemend/save/#save_1)(string) | يحفظ مستند PDF إلى الملف المحدد. |
 
-### أنظر أيضا
+### See Also
 
-* class [SaveableFacade](../saveablefacade)
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

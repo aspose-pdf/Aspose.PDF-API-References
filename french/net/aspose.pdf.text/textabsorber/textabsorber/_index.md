@@ -1,142 +1,140 @@
 ---
-title: TextAbsorber
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Initialise une nouvelle instance duTextAbsorberaspose.pdf.text/textabsorber .
+title: TextAbsorber.TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Constructeur de TextAbsorber. Initialise une nouvelle instance de TextAbsorber
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textabsorber/textabsorber/
 ---
 ## TextAbsorber() {#constructor}
 
-Initialise une nouvelle instance du[`TextAbsorber`](../../textabsorber) .
+Initialise une nouvelle instance de [`TextAbsorber`](../).
 
 ```csharp
 public TextAbsorber()
 ```
 
-### Remarques
+## Remarques
 
-Effectue l'extraction de texte et donne accès au texte extrait via[`Text`](../text) objet.
+Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
 
-### Exemples
+## Exemples
 
-L'exemple montre comment extraire du texte de toutes les pages du document PDF.
+L'exemple démontre comment extraire du texte de toutes les pages du document PDF.
 
 ```csharp
-// ouvre le document
+// open document
 Document doc = new Document(inFile);
 
-// crée un objet TextAbsorber pour extraire le texte
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// accepte l'absorbeur pour toutes les pages du document
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// récupère le texte extrait
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [TextAbsorber](../../textabsorber)
-* espace de noms [Aspose.Pdf.Text](../../textabsorber)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextAbsorber](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-Initialise une nouvelle instance du[`TextAbsorber`](../../textabsorber) avec options d'extraction.
+Initialise une nouvelle instance de [`TextAbsorber`](../) avec des options d'extraction.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Options d'extraction de texte |
 
-### Remarques
+## Remarques
 
-Effectue l'extraction de texte et donne accès au texte extrait via[`Text`](../text) objet.
+Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
 
-### Exemples
+## Exemples
 
-L'exemple montre comment extraire du texte de toutes les pages du document PDF.
+L'exemple démontre comment extraire du texte de toutes les pages du document PDF.
 
 ```csharp
-// ouvre le document
+// open document
 Document doc = new Document(inFile);
 
-// crée un objet TextAbsorber pour extraire du texte avec mise en forme
+// create TextAbsorber object to extract text with formatting
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accepte l'absorbeur pour toutes les pages du document
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// récupère le texte extrait
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Voir également
+### Voir aussi
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextAbsorber](../../textabsorber)
-* espace de noms [Aspose.Pdf.Text](../../textabsorber)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextExtractionOptions](../../textextractionoptions/)
+* classe [TextAbsorber](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-Initialise une nouvelle instance du[`TextAbsorber`](../../textabsorber) avec options d'extraction et de recherche de texte.
+Initialise une nouvelle instance de [`TextAbsorber`](../) avec des options d'extraction et de recherche de texte.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Options d'extraction de texte |
 | textSearchOptions | TextSearchOptions | Options de recherche de texte |
 
-### Remarques
+## Remarques
 
-Effectue l'extraction de texte et donne accès au texte extrait via[`Text`](../text) objet.
+Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
 
-### Voir également
+### Voir aussi
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* espace de noms [Aspose.Pdf.Text](../../textabsorber)
-* Assemblée [Aspose.PDF](../../../)
+* classe [TextExtractionOptions](../../textextractionoptions/)
+* classe [TextSearchOptions](../../textsearchoptions/)
+* classe [TextAbsorber](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-Initialise une nouvelle instance du[`TextAbsorber`](../../textabsorber) avec des options de recherche de texte.
+Initialise une nouvelle instance de [`TextAbsorber`](../) avec des options de recherche de texte.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Options de recherche de texte |
 
-### Remarques
+## Remarques
 
-Effectue l'extraction de texte et donne accès au texte extrait via[`Text`](../text) objet.
+Effectue l'extraction de texte et fournit un accès au texte extrait via l'objet [`Text`](../text/).
 
-### Voir également
+### Voir aussi
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* espace de noms [Aspose.Pdf.Text](../../textabsorber)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [TextSearchOptions](../../textsearchoptions/)
+* classe [TextAbsorber](../)
+* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

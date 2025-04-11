@@ -1,9 +1,9 @@
 ---
-title: AddHeader
-second_title: Aspose.PDF for .NET API Referansı
-description: Sayfaya başlık ekler.
+title: PdfFileStamp.AddHeader
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileStamp metodu. Sayfaya başlık ekler
 type: docs
-weight: 160
+weight: 120
 url: /tr/net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}
@@ -14,12 +14,12 @@ Sayfaya başlık ekler.
 public void AddHeader(FormattedText formattedText, float topMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| formattedText | FormattedText | Metnin başlığı ve özellikleri için metin. |
+| formattedText | FormattedText | Başlık için metin ve metnin özellikleri. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -27,12 +27,12 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,26 +45,26 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
     float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | formattedText | FormattedText | Sayfa metnini ve özelliklerini içeren biçimlendirilmiş metin nesnesi. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
 | leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
 | rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -76,12 +76,12 @@ Dosyanın sayfalarına başlık olarak resim ekler.
 public void AddHeader(string imageFile, float topMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageFile | String | Görüntü dosyasının yolu. |
+| imageFile | String | Resim dosyasının yolu. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -90,30 +90,30 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Sayfalara üst bilgi olarak resim ekler.
+Sayfalara başlık olarak resim ekler.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageFile | String | Görüntü dosyasının yolu. |
+| imageFile | String | Resim dosyasının yolu. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
-| leftMargin | Single | Sayfanın sol tarafında kenar boşluğu. |
-| rightMargin | Single | Sayfanın sağ tarafında kenar boşluğu. |
+| leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
+| rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -122,28 +122,28 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Sayfalara üst bilgi olarak resim ekler.
+Sayfalara başlık olarak resim ekler.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageStream | Stream | Görüntü akışı. |
+| imageStream | Stream | Resmin akışı. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -152,30 +152,30 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float, float, float) {#addheader_3}
 
-Sayfanın en üstüne resim ekler.
+Sayfanın üst kısmına resim ekler.
 
 ```csharp
 public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| inputStream | Stream | Görüntü verilerini içeren akış. |
+| inputStream | Stream | Resim verilerini içeren akış. |
 | topMargin | Single | Sayfanın üst kısmındaki kenar boşluğu. |
-| leftMargin | Single | Sayfanın sol tarafında kenar boşluğu. |
-| rightMargin | Single | Sayfanın sağ tarafında kenar boşluğu. |
+| leftMargin | Single | Sayfanın solundaki kenar boşluğu. |
+| rightMargin | Single | Sayfanın sağındaki kenar boşluğu. |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -184,10 +184,8 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PdfFileStamp](../../pdffilestamp)
-* ad alanı [Aspose.Pdf.Facades](../../pdffilestamp)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

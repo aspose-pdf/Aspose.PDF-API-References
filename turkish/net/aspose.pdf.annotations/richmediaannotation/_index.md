@@ -1,86 +1,84 @@
 ---
-title: RichMediaAnnotation
-second_title: Aspose.PDF for .NET API Referansı
-description: Sınıfı video/ses verilerini PDF belgesine yerleştirmeye izin veren RichMediaAnnotationı açıklar.
+title: Class RichMediaAnnotation
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.RichMediaAnnotation sınıfı. Sınıf, PDF belgesine video/ses verilerini gömmeye olanak tanıyan RichMediaAnnotation'ı tanımlar.
 type: docs
-weight: 1030
+weight: 2480
 url: /tr/net/aspose.pdf.annotations/richmediaannotation/
 ---
-## RichMediaAnnotation class
+## RichMediaAnnotation Sınıfı
 
-Sınıfı, video/ses verilerini PDF belgesine yerleştirmeye izin veren RichMediaAnnotation'ı açıklar.
+Sınıf, PDF belgesine video/ses verilerini gömmeye olanak tanıyan RichMediaAnnotation'ı tanımlar.
 
 ```csharp
 public class RichMediaAnnotation : Annotation
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [RichMediaAnnotation](richmediaannotation)(Page, Rectangle) | RichMediaAnnotation'ı başlatır. |
+| [RichMediaAnnotation](richmediaannotation/)(Sayfa, Dikdörtgen) | RichMediaAnnotation'ı başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } | Açıklama eylemlerinin listesini alır. |
-| [ActivateOn](../../aspose.pdf.annotations/richmediaannotation/activateon) { get; set; } | Uygulamayı etkinleştiren olay. |
-| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } | Geçerli ek açıklama görünüm durumunu alır veya ayarlar. |
-| override [AnnotationType](../../aspose.pdf.annotations/richmediaannotation/annotationtype) { get; } | Açıklama türünü alır. |
-| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } | Açıklamanın görünüm sözlüğünü alır. |
-| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } | Açıklama kenarlığı özelliklerini alır veya ayarlar.[`Border`](../annotation/border) |
-| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | Açıklama özelliklerini alır. |
-| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Açıklama rengini alır veya ayarlar. |
-| [Content](../../aspose.pdf.annotations/richmediaannotation/content) { get; } | Zengin Medya içeriğinin verileri. |
-| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Ek açıklama metnini alır veya ayarlar. |
-| [CustomFlashVariables](../../aspose.pdf.annotations/richmediaannotation/customflashvariables) { get; set; } | Oynatıcıya iletilen flash değişkenlerini ayarlar veya alır. |
-| [CustomPlayer](../../aspose.pdf.annotations/richmediaannotation/customplayer) { get; set; } | Video/ses verilerini oynatmak için özel flash oynatıcı ayarlar veya alır. |
-| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Ek açıklamanın bayrakları. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Açıklamanın tam nitelikli adını alır. |
-| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Açıklamanın yüksekliğini alır veya ayarlar. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Parça köprüsünü alır veya ayarlar (pdf oluşturucu için). |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Bu paragrafın sonraki sütunda olup olmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Satır içi bir paragraf alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Bu paragrafı yeni sayfada oluşturmaya zorlayan bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Geçerli paragrafın sonraki paragrafla birlikte aynı sayfada kalıp kalmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan yanlıştır.(pdf oluşturma için) |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Paragraf için bir dış kenar boşluğu alır veya ayarlar (pdf oluşturma için) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Açıklamanın yakın zamanda değiştirildiği tarih ve saati alır veya ayarlar. |
-| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Sayfadaki ek açıklama adını alır veya ayarlar. |
-| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Açıklama içeren sayfanın dizinini alır. |
-| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | Açıklama dikdörtgenini alır veya ayarlar. |
-| [States](../../aspose.pdf.annotations/annotation/states) { get; } | Açıklamanın görünüm sözlüğünü alır. |
-| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | Açıklama için metin hizalamasını alır veya ayarlar. |
-| [Type](../../aspose.pdf.annotations/richmediaannotation/type) { get; set; } | İçerik türünü alır veya ayarlar. Olası değerler: Ses, Video. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | paragrafının dikey hizalamasını alır veya ayarlar |
-| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } | Açıklamanın genişliğini alır veya ayarlar. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Grafiğin Z sırasını gösteren bir int değeri alır veya ayarlar. Daha büyük ZIndex içeren bir grafik, daha küçük ZIndex içeren grafiğin üzerine yerleştirilecektir. ZIndex negatif olabilir. Negatif ZIndex içeren grafik, sayfadaki metnin arkasına yerleştirilecektir. |
+| [Actions](../../aspose.pdf.annotations/annotation/actions/) { get; } | Notasyon eylemleri listesini alır. |
+| [ActivateOn](../../aspose.pdf.annotations/richmediaannotation/activateon/) { get; set; } | Uygulamayı etkinleştiren olay. |
+| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Mevcut notasyon görünüm durumunu alır veya ayarlar. |
+| override [AnnotationType](../../aspose.pdf.annotations/richmediaannotation/annotationtype/) { get; } | Notasyon türünü alır. |
+| [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Notasyonun görünüm sözlüğünü alır. |
+| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Notasyon kenarlık özelliklerini alır veya ayarlar. [`Border`](../annotation/border/) |
+| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Notasyon özelliklerini alır. |
+| [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Notasyon rengini alır veya ayarlar. |
+| [Content](../../aspose.pdf.annotations/richmediaannotation/content/) { get; } | Zengin Medya içeriğinin verisi. |
+| [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Notasyon metnini alır veya ayarlar. |
+| [CustomFlashVariables](../../aspose.pdf.annotations/richmediaannotation/customflashvariables/) { get; set; } | Oyuncuya geçirilen flash değişkenlerini ayarlar veya alır. |
+| [CustomPlayer](../../aspose.pdf.annotations/richmediaannotation/customplayer/) { get; set; } | Video/ses verilerini oynatmak için özel flash oynatıcıyı ayarlar veya alır. |
+| [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Notasyonun bayrakları. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Notasyonun tam nitelikli adını alır. |
+| virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Notasyonun yüksekliğini alır veya ayarlar. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Parçanın köprü bağlantısını alır veya ayarlar (pdf oluşturucu için). |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Bu paragrafın bir sonraki sütunda olup olmadığını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Bir paragrafın satır içi olup olmadığını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Bu paragrafın yeni bir sayfada oluşturulmasını zorlayan bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mevcut paragrafın bir sonraki paragrafla aynı sayfada kalıp kalmayacağını belirten bir bool değeri alır veya ayarlar. Varsayılan false'dur. (pdf oluşturma için) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Paragraf için dış kenar boşluğunu alır veya ayarlar (pdf oluşturma için) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Notasyonun en son ne zaman değiştirildiğini belirten tarih ve saati alır veya ayarlar. |
+| [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Sayfadaki notasyon adını alır veya ayarlar. |
+| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Notasyonu içeren sayfanın indeksini alır. |
+| virtual [Rect](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Notasyon dikdörtgenini alır veya ayarlar. |
+| [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Notasyonun görünüm sözlüğünü alır. |
+| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Notasyon için metin hizalamasını alır veya ayarlar. |
+| [Type](../../aspose.pdf.annotations/richmediaannotation/type/) { get; set; } | İçerik türünü alır veya ayarlar. Olası değerler: Ses, Video. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Paragrafın dikey hizalamasını alır veya ayarlar. |
+| virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Notasyonun genişliğini alır veya ayarlar. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Grafiğin Z-sırasını belirten bir int değeri alır veya ayarlar. Daha büyük ZIndex'e sahip bir grafik, daha küçük ZIndex'e sahip grafiğin üzerine yerleştirilecektir. ZIndex negatif olabilir. Negatif ZIndex'e sahip bir grafik, sayfadaki metnin arkasına yerleştirilecektir. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| override [Accept](../../aspose.pdf.annotations/richmediaannotation/accept)(AnnotationSelector) | Bu ek açıklama için ziyaretçi kabul eder. |
-| [AddCustomData](../../aspose.pdf.annotations/richmediaannotation/addcustomdata)(string, Stream) | Özel adlandırılmış veri ekleyin (örneğin flash komut dosyası için gereklidir). |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Matris dönüşümüne göre parametreleri ve görünümü güncelleyin. |
-| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Bu örneği klonlar. Sanal yöntem. Her zaman null. döndür |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Açıklama içeriğini doğrudan sayfaya yerleştirir, açıklama nesnesi kaldırılır. |
-| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Sayfa döndürmeyi dikkate alarak açıklamanın dikdörtgenini döndürür. |
-| [SetContent](../../aspose.pdf.annotations/richmediaannotation/setcontent)(string, Stream) | İçerik akışını ayarlayın. |
-| [SetPoster](../../aspose.pdf.annotations/richmediaannotation/setposter)(Stream) | Açıklamanın posterini ayarlayın. |
-| [Update](../../aspose.pdf.annotations/richmediaannotation/update)() | Belirtilen parametrelerle verileri günceller. |
+| override [Accept](../../aspose.pdf.annotations/richmediaannotation/accept/)(NotasyonSeçici) | Bu notasyon için ziyaretçiyi kabul eder. |
+| [AddCustomData](../../aspose.pdf.annotations/richmediaannotation/addcustomdata/)(string, Akış) | Özel adlandırılmış veri ekler (örneğin, flash script için gereklidir). |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matris) | Matris dönüşümüne göre parametreleri ve görünümü günceller. |
+| virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Bu örneği kopyalar. Sanal yöntem. Her zaman null döner. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Notasyon içeriğini doğrudan sayfaya yerleştirir, notasyon nesnesi kaldırılacaktır. |
+| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Sayfa döndürmesini dikkate alarak notasyonun dikdörtgenini döndürür. |
+| [SetContent](../../aspose.pdf.annotations/richmediaannotation/setcontent/)(string, Akış) | İçerik akışını ayarlar. |
+| [SetPoster](../../aspose.pdf.annotations/richmediaannotation/setposter/)(Akış) | Notasyonun posterini ayarlar. |
+| [Update](../../aspose.pdf.annotations/richmediaannotation/update/)() | Belirtilen parametrelerle verileri günceller. |
 
-## Diğer_Üyeler
+## Diğer Üyeler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| enum [ActivationEvent](richmediaannotation.activationevent) | Açıklamayı etkinleştiren olay. |
-| enum [ContentType](richmediaannotation.contenttype) | Multimedya türü. |
+| enum [ActivationEvent](../../aspose.pdf.annotations/richmediaannotation.activationevent) | Notasyonu etkinleştiren olay. |
+| enum [ContentType](../../aspose.pdf.annotations/richmediaannotation.contenttype) | Multimedya türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Annotation](../annotation)
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [Notasyon](../annotation/)
+* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../)

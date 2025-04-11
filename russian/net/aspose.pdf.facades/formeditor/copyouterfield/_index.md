@@ -1,14 +1,14 @@
 ---
-title: CopyOuterField
-second_title: Aspose.PDF для справочника API .NET
-description: Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. Примечание только для полей AcroForm за исключением переключателя.
+title: FormEditor.CopyOuterField
+second_title: Aspose.PDF for .NET API Reference
+description: Метод FormEditor. Копирует существующее поле из одного PDF-документа в другой документ с оригинальным номером страницы и координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
 type: docs
-weight: 200
+weight: 160
 url: /ru/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. Примечание: только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного PDF-документа в другой документ с оригинальным номером страницы и координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -16,29 +16,29 @@ public void CopyOuterField(string srcFileName, string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
-| fieldName | String | Исходное полное имя поля. |
+| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Оригинальное полное имя поля. |
 
-### Примеры
+## Примеры
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-//копирует текстовое поле из source.pdf в PdfForm.pdf
+//copies text field from source.pdf to PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormEditor](../../formeditor)
-* пространство имен [Aspose.Pdf.Facades](../../formeditor)
+* класс [FormEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и исходными ординатами. Примечание: только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного PDF-документа в другой документ с указанным номером страницы и оригинальными координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -46,11 +46,11 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
-| fieldName | String | Исходное полное имя поля. |
-| pageNum | Int32 | Номер страницы для хранения нового поля. Если -1, новое поле будет копировано на ту же страницу, что и старое. |
+| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Оригинальное полное имя поля. |
+| pageNum | Int32 | Номер страницы, на которой будет находиться новое поле. Если -1, новое поле будет скопировано на ту же страницу, на которой находилось старое. |
 
-### Примеры
+## Примеры
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
@@ -58,17 +58,17 @@ formEditor.CopyOuterField("source.pdf", "textField", 2);
 formEditor.Save();
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormEditor](../../formeditor)
-* пространство имен [Aspose.Pdf.Facades](../../formeditor)
+* класс [FormEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и координатами. Примечание: Только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного PDF-документа в другой документ с указанным номером страницы и координатами. Обратите внимание: только для полей AcroForm (исключая радиокнопки).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -77,23 +77,21 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
-| fieldName | String | Исходное полное имя поля. |
-| pageNum | Int32 | Номер страницы для хранения нового поля. Если -1, новое поле будет копировано на ту же страницу, что и старое. |
-| abscissa | Single | Абсцисса нового поля. Если -1, абсцисса будет равна исходной. |
-| ordinate | Single | Ордината нового поля. Если -1, ордината будет равна исходной. |
+| srcFileName | String | Имя PDF-документа, содержащего поле, которое нужно скопировать. |
+| fieldName | String | Оригинальное полное имя поля. |
+| pageNum | Int32 | Номер страницы, на которой будет находиться новое поле. Если -1, новое поле будет скопировано на ту же страницу, на которой находилось старое. |
+| abscissa | Single | Абсцисса нового поля. Если -1, абсцисса будет равна оригинальной. |
+| ordinate | Single | Ордината нового поля. Если -1, ордината будет равна оригинальной. |
 
-### Примеры
+## Примеры
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 ```
 
-### Смотрите также
+### См. также
 
-* class [FormEditor](../../formeditor)
-* пространство имен [Aspose.Pdf.Facades](../../formeditor)
+* класс [FormEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,14 +1,14 @@
 ---
-title: SplitToPages
-second_title: Aspose.PDF для справочника API .NET
-description: Разбивает файл PDF на одностраничные документы.
+title: PdfFileEditor.SplitToPages
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfFileEditor. Разделяет PDF-файл на документы с одной страницей
 type: docs
-weight: 400
+weight: 370
 url: /ru/net/aspose.pdf.facades/pdffileeditor/splittopages/
 ---
 ## SplitToPages(string) {#splittopages_1}
 
-Разбивает файл PDF на одностраничные документы.
+Разделяет PDF-файл на документы с одной страницей.
 
 ```csharp
 public MemoryStream[] SplitToPages(string inputFile)
@@ -16,23 +16,23 @@ public MemoryStream[] SplitToPages(string inputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите имя файла PDF. |
+| inputFile | String | Имя входного PDF-файла. |
 
 ### Возвращаемое значение
 
-Выходные потоки PDF, каждый поток буферизует одностраничный документ PDF.
+Выходные PDF-потоки, каждый поток буферизует документ с одной страницей.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(Stream) {#splittopages}
 
-Разбивает файл Pdf на одностраничные документы.
+Разделяет Pdf-файл на документы с одной страницей.
 
 ```csharp
 public MemoryStream[] SplitToPages(Stream inputStream)
@@ -40,23 +40,23 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток PDF. |
+| inputStream | Stream | Входной поток Pdf. |
 
 ### Возвращаемое значение
 
 Массив потоков памяти, содержащих страницы документа.
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(string, string) {#splittopages_3}
 
-Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля temaplate.
+Разделяет Pdf-файл на документы с одной страницей и сохраняет его в указанном пути. Путь указывается с помощью имени шаблона поля.
 
 ```csharp
 public void SplitToPages(string inputFile, string fileNameTemplate)
@@ -64,20 +64,20 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите имя файла. |
-| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
+| inputFile | String | Имя входного файла. |
+| fileNameTemplate | String | Шаблон имени результирующего файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указан c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т.д. |
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToPages(Stream, string) {#splittopages_2}
 
-Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля temaplate.
+Разделяет Pdf-файл на документы с одной страницей и сохраняет его в указанном пути. Путь указывается с помощью имени шаблона поля.
 
 ```csharp
 public void SplitToPages(Stream inputStream, string fileNameTemplate)
@@ -86,12 +86,10 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток исходного документа. |
-| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
+| fileNameTemplate | String | Шаблон имени результирующего файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указан c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т.д. |
 
-### Смотрите также
+### См. также
 
-* class [PdfFileEditor](../../pdffileeditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdffileeditor)
+* класс [PdfFileEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

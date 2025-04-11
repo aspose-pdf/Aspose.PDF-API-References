@@ -1,218 +1,216 @@
 ---
-title: JpegDevice
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفJpegDeviceaspose.pdf.devices/jpegdevice فئة بدقة افتراضية وأقصى جودة.
+title: JpegDevice.JpegDevice
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ JpegDevice. يقوم بتهيئة مثيل جديد من فئة JpegDevice بدقة افتراضية وجودة قصوى
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/jpegdevice/jpegdevice/
 ---
 ## JpegDevice() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بدقة افتراضية وأقصى جودة.
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) بدقة افتراضية وجودة قصوى.
 
 ```csharp
 public JpegDevice()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة .  دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../).  الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/).
 
 ```csharp
 public JpegDevice(Resolution resolution)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../).
 
 ```csharp
 public JpegDevice(int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| quality | Int32 | يحدد مستوى ضغط الصورة. يتراوح نطاق القيم المفيدة للجودة من 0 إلى 100. كلما انخفض الرقم المحدد ، زاد الضغط وبالتالي انخفضت جودة الصورة. يمنحك الصفر أدنى جودة للصورة و 100 أعلى جودة. |
+| الجودة | Int32 | يحدد مستوى الضغط للصورة. نطاق القيم المفيدة للجودة هو من 0 إلى 100. كلما كان الرقم المحدد أقل، كان الضغط أعلى وبالتالي كانت جودة الصورة أقل. الصفر سيعطيك أدنى جودة للصورة و100 هي الأعلى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution, int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../).
 
 ```csharp
 public JpegDevice(Resolution resolution, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
-| quality | Int32 | يحدد مستوى ضغط الصورة. يتراوح نطاق القيم المفيدة للجودة من 0 إلى 100. كلما انخفض الرقم المحدد ، زاد الضغط وبالتالي انخفضت جودة الصورة. يمنحك الصفر أدنى جودة للصورة و 100 أعلى جودة. |
+| الدقة | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
+| الجودة | Int32 | يحدد مستوى الضغط للصورة. نطاق القيم المفيدة للجودة هو من 0 إلى 100. كلما كان الرقم المحدد أقل، كان الضغط أعلى وبالتالي كانت جودة الصورة أقل. الصفر سيعطيك أدنى جودة للصورة و100 هي الأعلى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بأبعاد الصورة المقدمة ، الدقة الافتراضية (= 150) وأقصى جودة.
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع أبعاد الصورة المقدمة، دقة افتراضية (=150) وجودة قصوى.
 
 ```csharp
 public JpegDevice(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بحجم الصفحة المقدم ، الدقة الافتراضية (= 150) وأقصى جودة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع حجم الصفحة المقدمة، دقة افتراضية (=150) وجودة قصوى.
 
 ```csharp
 public JpegDevice(PageSize pageSize)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بأبعاد الصورة المقدمة ، دقة وأقصى جودة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع أبعاد الصورة المقدمة، الدقة والجودة القصوى.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| الدقة | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice)فئة بحجم الصفحة المقدم ، دقة وأقصى جودة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع حجم الصفحة المقدمة، الدقة والجودة القصوى.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
+| الدقة | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution, int) {#constructor_9}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بأبعاد الصورة المقدمة ، الدقة والجودة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع أبعاد الصورة المقدمة، الدقة والجودة.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض إخراج الصورة . |
-| height | Int32 | ارتفاع إخراج الصورة . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
-| quality | Int32 | يحدد مستوى ضغط الصورة. يتراوح نطاق القيم المفيدة للجودة من 0 إلى 100. كلما انخفض الرقم المحدد ، زاد الضغط وبالتالي انخفضت جودة الصورة. يمنحك الصفر أدنى جودة للصورة و 100 أعلى جودة. |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| الدقة | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
+| الجودة | Int32 | يحدد مستوى الضغط للصورة. نطاق القيم المفيدة للجودة هو من 0 إلى 100. كلما كان الرقم المحدد أقل، كان الضغط أعلى وبالتالي كانت جودة الصورة أقل. الصفر سيعطيك أدنى جودة للصورة و100 هي الأعلى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution, int) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegDevice`](../../jpegdevice) فئة بحجم الصفحة المقدم ، دقة وجودة .
+يهيئ مثيلًا جديدًا من فئة [`JpegDevice`](../) مع حجم الصفحة المقدمة، الدقة والجودة.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| pageSize | PageSize | حجم صفحة صورة الإخراج . |
-| resolution | Resolution | دقة ملف الصورة الناتجة ، راجع[`Resolution`](../../resolution) فئة . |
-| quality | Int32 | يحدد مستوى ضغط الصورة. يتراوح نطاق القيم المفيدة للجودة من 0 إلى 100. كلما انخفض الرقم المحدد ، زاد الضغط وبالتالي انخفضت جودة الصورة. يمنحك الصفر أدنى جودة للصورة و 100 أعلى جودة. |
+| pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
+| الدقة | Resolution | الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../../resolution/). |
+| الجودة | Int32 | يحدد مستوى الضغط للصورة. نطاق القيم المفيدة للجودة هو من 0 إلى 100. كلما كان الرقم المحدد أقل، كان الضغط أعلى وبالتالي كانت جودة الصورة أقل. الصفر سيعطيك أدنى جودة للصورة و100 هي الأعلى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* مساحة الاسم [Aspose.Pdf.Devices](../../jpegdevice)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [PageSize](../../../aspose.pdf/pagesize/)
+* فئة [Resolution](../../resolution/)
+* فئة [JpegDevice](../)
+* مساحة الأسماء [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* التجميع [Aspose.PDF](../../../)

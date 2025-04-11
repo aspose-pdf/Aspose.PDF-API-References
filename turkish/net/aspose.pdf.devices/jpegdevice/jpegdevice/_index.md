@@ -1,218 +1,216 @@
 ---
-title: JpegDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırJpegDeviceaspose.pdf.devices/jpegdevice varsayılan çözünürlük ve maksimum kalite ile sınıf.
+title: JpegDevice.JpegDevice
+second_title: Aspose.PDF for .NET API Reference
+description: JpegDevice yapıcısı. Varsayılan çözünürlük ve maksimum kalite ile JpegDevice sınıfının yeni bir örneğini başlatır.
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/jpegdevice/jpegdevice/
 ---
 ## JpegDevice() {#constructor}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) varsayılan çözünürlük ve maksimum kalite ile sınıf.
+Varsayılan çözünürlük ve maksimum kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution) {#constructor_1}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sınıf.  Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf.
+[`JpegDevice`](../) sınıfının yeni bir örneğini başlatır. Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın.
 
 ```csharp
 public JpegDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int) {#constructor_6}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sınıf.
+[`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| quality | Int32 | Bir görüntünün sıkıştırma düzeyini belirtir. Kalite için faydalı değerler aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, size en düşük kaliteli görüntüyü ve en yüksek 100 görüntüyü verir. |
+| quality | Int32 | Bir görüntü için sıkıştırma seviyesini belirtir. Kalite için yararlı değer aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, en düşük kaliteli görüntüyü verir ve 100 en yüksek olanıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution, int) {#constructor_2}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sınıf.
+[`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(Resolution resolution, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
-| quality | Int32 | Bir görüntünün sıkıştırma düzeyini belirtir. Kalite için faydalı değerler aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, size en düşük kaliteli görüntüyü ve en yüksek 100 görüntüyü verir. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
+| quality | Int32 | Bir görüntü için sıkıştırma seviyesini belirtir. Kalite için yararlı değer aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, en düşük kaliteli görüntüyü verir ve 100 en yüksek olanıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int) {#constructor_7}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları, varsayılan çözünürlük (=150) ve maksimum kalite ile sınıf.
+Verilen görüntü boyutları, varsayılan çözünürlük (=150) ve maksimum kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize) {#constructor_3}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan sayfa boyutu, varsayılan çözünürlük (=150) ve maksimum kalite ile sınıf.
+Verilen sayfa boyutu, varsayılan çözünürlük (=150) ve maksimum kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution) {#constructor_8}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları, çözünürlük ve maksimum kalite ile sınıf.
+Verilen görüntü boyutları, çözünürlük ve maksimum kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution) {#constructor_4}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice)sağlanan sayfa boyutu, çözünürlük ve maksimum kalite ile sınıf.
+Verilen sayfa boyutu, çözünürlük ve maksimum kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution, int) {#constructor_9}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan görüntü boyutları, çözünürlük ve kalite ile sınıf.
+Verilen görüntü boyutları, çözünürlük ve kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Görüntü çıktı genişliği. |
-| height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
-| quality | Int32 | Bir görüntünün sıkıştırma düzeyini belirtir. Kalite için faydalı değerler aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, size en düşük kaliteli görüntüyü ve en yüksek 100 görüntüyü verir. |
+| width | Int32 | Görüntü çıkış genişliği. |
+| height | Int32 | Görüntü çıkış yüksekliği. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
+| quality | Int32 | Bir görüntü için sıkıştırma seviyesini belirtir. Kalite için yararlı değer aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, en düşük kaliteli görüntüyü verir ve 100 en yüksek olanıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution, int) {#constructor_5}
 
-Yeni bir örneğini başlatır[`JpegDevice`](../../jpegdevice) sağlanan sayfa boyutu, çözünürlük ve kalite ile sınıf.
+Verilen sayfa boyutu, çözünürlük ve kalite ile [`JpegDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
-| quality | Int32 | Bir görüntünün sıkıştırma düzeyini belirtir. Kalite için faydalı değerler aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, size en düşük kaliteli görüntüyü ve en yüksek 100 görüntüyü verir. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
+| quality | Int32 | Bir görüntü için sıkıştırma seviyesini belirtir. Kalite için yararlı değer aralığı 0 ile 100 arasındadır. Belirtilen sayı ne kadar düşükse, sıkıştırma o kadar yüksek ve dolayısıyla görüntünün kalitesi o kadar düşük olur. Sıfır, en düşük kaliteli görüntüyü verir ve 100 en yüksek olanıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [JpegDevice](../../jpegdevice)
-* ad alanı [Aspose.Pdf.Devices](../../jpegdevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [JpegDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

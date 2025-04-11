@@ -1,75 +1,73 @@
 ---
-title: FontRepository
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بالبحث عن الخط. البحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. يوفر أيضًا وظائف لفتح الخطوط المخصصة.
+title: Class FontRepository
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Text.FontRepository. تقوم بإجراء بحث عن الخطوط. تبحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. كما توفر وظيفة لفتح الخطوط المخصصة
 type: docs
-weight: 6720
+weight: 10540
 url: /ar/net/aspose.pdf.text/fontrepository/
 ---
 ## FontRepository class
 
-يقوم بالبحث عن الخط. البحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. يوفر أيضًا وظائف لفتح الخطوط المخصصة.
+تقوم بإجراء بحث عن الخطوط. تبحث في الخطوط المثبتة في النظام وخطوط Pdf القياسية. كما توفر وظيفة لفتح الخطوط المخصصة.
 
 ```csharp
 public sealed class FontRepository
 ```
 
-## المنشئون
+## Constructors
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| [FontRepository](fontrepository)() | Default_Constructor |
+| [FontRepository](fontrepository/)() | المُنشئ الافتراضي. |
 
-## الخصائص
+## Properties
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| static [Sources](../../aspose.pdf.text/fontrepository/sources) { get; } | الحصول على مجموعة مصادر الخط. |
-| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions) { get; } | الحصول على مجموعة استراتيجيات استبدال الخطوط. |
+| static [Sources](../../aspose.pdf.text/fontrepository/sources/) { get; } | يحصل على مجموعة مصادر الخطوط. |
+| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions/) { get; } | يحصل على مجموعة استراتيجيات استبدال الخطوط. |
 
-## طُرق
+## Methods
 
-| اسم | وصف |
+| Name | Description |
 | --- | --- |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | للبحث عن الخط وإرجاعه باسم الخط المحدد. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | للبحث عن الخط وإرجاعه باستخدام اسم الخط المحدد مع تجاهل أو مراعاة حساسية حالة الأحرف. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | للبحث عن الخط وإرجاعه باستخدام اسم الخط ونمط الخط المحددين. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | للبحث عن الخط وإرجاعه باستخدام اسم الخط المحدد ونمط الخط تجاهل حساسية حالة الأحرف أو تكريمها . |
-| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | تحميل الخطوط المثبتة من النظام وخطوط Pdf القياسية. تم تصميم هذه الطريقة لتسريع عملية تحميل الخط. يتم تحميل الخطوط افتراضيًا عند الطلب الأول لأي خط. يؤدي استخدام هذه الطريقة إلى تحميل خطوط النظام وقياسية Pdf مباشرة قبل فتح أي مستند Pdf. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | يفتح الخط بمسار ملف الخط المحدد. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | يفتح الخط مع تدفق الخط المحدد. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | يفتح الخط بمسار ملف الخط المحدد ومسار ملف المقاييس. |
-| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts)() | يقوم بإعادة تحميل كل الخطوط المحددة بواسطة الخاصية[`Sources`](./sources) |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont)(string) | يبحث ويعيد الخط بالاسم المحدد. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_3)(string, bool) | يبحث ويعيد الخط بالاسم المحدد مع تجاهل أو احترام حساسية الحالة. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_1)(string, FontStyles) | يبحث ويعيد الخط بالاسم المحدد ونمط الخط. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_2)(string, FontStyles, bool) | يبحث ويعيد الخط بالاسم المحدد ونمط الخط مع تجاهل أو احترام حساسية الحالة. |
+| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts/)() | يحمل الخطوط المثبتة في النظام وخطوط Pdf القياسية. تم تصميم هذه الطريقة لتسريع عملية تحميل الخطوط. بشكل افتراضي، يتم تحميل الخطوط عند أول طلب لأي خط. استخدام هذه الطريقة يحمل الخطوط النظامية وخطوط Pdf القياسية على الفور قبل فتح أي مستند Pdf. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_1)(string) | يفتح الخط بالمسار المحدد لملف الخط. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont)(Stream, FontTypes) | يفتح الخط بتدفق الخط المحدد. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_2)(string, string) | يفتح الخط بالمسار المحدد لملف الخط ومسار ملف القياسات. |
+| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts/)() | يعيد تحميل جميع الخطوط المحددة بواسطة الخاصية [`Sources`](./sources/) |
 
-### أمثلة
+## Examples
 
-يوضح المثال كيفية البحث عن الخط واستبدال خط نص الصفحة الأولى.
+المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// البحث عن الخط
+// Find font
 Font font = FontRepository.FindFont("Arial");
 
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير خط ظهور النص الأول
+// Change font of the first text occurrence
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [Document](../../aspose.pdf/document)
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TextFragmentAbsorber](../textfragmentabsorber/)
+* class [Document](../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)

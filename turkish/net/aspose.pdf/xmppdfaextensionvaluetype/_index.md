@@ -1,50 +1,48 @@
 ---
-title: XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Referansı
-description: PDF/A ValueType şeması XMP 2004 belirtiminde tanımlanmayan tüm özellik değeri türleri için gereklidir yani aşağıdaki listenin dışındaki değer türleri için - Dizi türleri bunlar bir veya daha fazla alan içerebilen kapsayıcı türleridir  Alt Çanta Seq - Temel değer türleri Boolean açık ve kapalı Seçim Tarih Boyutlar Tamsayı Lang Alt Yerel Ayar MIMEType Özel Ad Gerçek Metin Küçük Resim URI URL XPath - Medya Yönetimi değer türleri AgentName RenditionClass ResourceEvent ResourceRef Version - Temel İş/İş Akışı değer türü Job - EXIF şeması değer türleri Flash CFAPattern DeviceSettings GPSCoordinate OECF/SFR Rational Şema ad alanı URI http//www. aiim.org/pdfa/ns/type Gerekli şema ad alanı öneki pdfaType
+title: Class XmpPdfAExtensionValueType
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XmpPdfAExtensionValueType sınıfı. PDF/A ValueType şeması, XMP 2004 spesifikasyonunda tanımlanmayan tüm özellik değer türleri için gereklidir, yani aşağıdaki listedeki değer türleri dışında kalan değer türleri için: - Dizi türleri (bunlar bir veya daha fazla alan içerebilen konteyner türleridir): Alt, Bag, Seq - Temel değer türleri: Boolean, (açık ve kapalı) Seçim, Tarih, Boyutlar, Tam sayı, Lang Alt, Yerel, MIMEType, ProperName, Gerçek, Metin, Küçük resim, URI, URL, XPath - Medya Yönetimi değer türleri: AgentName, RenditionClass, ResourceEvent, ResourceRef, Versiyon - Temel İş/İş Akışı değer türü: İş - EXIF şeması değer türleri: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasyonel Şema ad alanı URI: http://www.aiim.org/pdfa/ns/type# Gerekli şema ad alanı öneki: pdfaType
 type: docs
-weight: 7540
+weight: 11490
 url: /tr/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType class
+## XmpPdfAExtensionValueType sınıfı
 
-PDF/A ValueType şeması, XMP 2004 belirtiminde tanımlanmayan tüm özellik değeri türleri için gereklidir, yani aşağıdaki listenin dışındaki değer türleri için: - Dizi türleri (bunlar bir veya daha fazla alan içerebilen kapsayıcı türleridir) ): Alt, Çanta, Seq - Temel değer türleri: Boolean, (açık ve kapalı) Seçim, Tarih, Boyutlar, Tamsayı, Lang Alt, Yerel Ayar, MIMEType, Özel Ad, Gerçek, Metin, Küçük Resim, URI, URL, XPath - Medya Yönetimi değer türleri: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Temel İş/İş Akışı değer türü: Job - EXIF şeması değer türleri: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Şema ad alanı URI: http://www. aiim.org/pdfa/ns/type# Gerekli şema ad alanı öneki: pdfaType
+PDF/A ValueType şeması, XMP 2004 spesifikasyonunda tanımlanmayan tüm özellik değer türleri için gereklidir, yani aşağıdaki listedeki değer türleri dışında kalan değer türleri için: - Dizi türleri (bunlar bir veya daha fazla alan içerebilen konteyner türleridir): Alt, Bag, Seq - Temel değer türleri: Boolean, (açık ve kapalı) Seçim, Tarih, Boyutlar, Tam sayı, Lang Alt, Yerel, MIMEType, ProperName, Gerçek, Metin, Küçük resim, URI, URL, XPath - Medya Yönetimi değer türleri: AgentName, RenditionClass, ResourceEvent, ResourceRef, Versiyon - Temel İş/İş Akışı değer türü: İş - EXIF şeması değer türleri: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasyonel Şema ad alanı URI: http://www.aiim.org/pdfa/ns/type# Gerekli şema ad alanı öneki: pdfaType
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype)(string, string, string, string) | Yeni nesneyi başlatır. |
+| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype/)(string, string, string, string) | Yeni nesneyi başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | Açıklamayı alır. |
-| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields) { get; } | Alanların listesini alır. |
-| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri) { get; } | Ad alanı URI'sini alır. |
-| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix) { get; } | Ön eki alır. |
-| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type) { get; } | Değer türünü alır. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | Değeri alır veya ayarlar. |
+| [Açıklama](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Açıklamayı alır. |
+| [Alanlar](../../aspose.pdf/xmppdfaextensionvaluetype/fields/) { get; } | Alanların listesini alır. |
+| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/) { get; } | Ad alanı URI'sini alır. |
+| [Önek](../../aspose.pdf/xmppdfaextensionvaluetype/prefix/) { get; } | Öneki alır. |
+| [Tür](../../aspose.pdf/xmppdfaextensionvaluetype/type/) { get; } | Değer türünü alır. |
+| [Değer](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Değeri alır veya ayarlar. |
 
-## yöntemler
+## Metodlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add)(XmpPdfAExtensionField) | Yeni alan ekleyin. |
-| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange)(XmpPdfAExtensionField[]) | Alan aralığını ekler. |
-| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear)() | Tüm alanları temizler. |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml)(XmlDocument) | xml ağacındaki değer türünü temsil eden xml öğelerinin listesini döndürür. |
-| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove)(XmpPdfAExtensionField) | Alanı, alanlar listesinden kaldırır. |
+| [Ekle](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Yeni alan ekler. |
+| [EkleAralık](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Alan aralığını ekler. |
+| [Temizle](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Tüm alanları temizler. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | XML ağacında değer türünü temsil eden XML öğelerinin listesini döndürür. |
+| [Kaldır](../../aspose.pdf/xmppdfaextensionvaluetype/remove/)(XmpPdfAExtensionField) | Alanı alanlar listesinden kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XmpPdfAExtensionObject](../xmppdfaextensionobject)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

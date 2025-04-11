@@ -1,14 +1,14 @@
 ---
-title: AttributeName
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Stellt die Klasse für Attributnamenswerte dar.
+title: Class AttributeName
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.LogicalStructure.AttributeName Klasse. Stellt die Klasse für Attributnamenwerte dar
 type: docs
-weight: 4050
+weight: 6220
 url: /de/net/aspose.pdf.logicalstructure/attributename/
 ---
-## AttributeName class
+## AttributName Klasse
 
-Stellt die Klasse für Attributnamenswerte dar.
+Stellt die Klasse für Attributnamenwerte dar.
 
 ```csharp
 public sealed class AttributeName
@@ -18,90 +18,88 @@ public sealed class AttributeName
 
 | Name | Beschreibung |
 | --- | --- |
-| [AttributeKey](../../aspose.pdf.logicalstructure/attributename/attributekey) { get; } | Ruft den Attributschlüssel ab. |
-| [Name](../../aspose.pdf.logicalstructure/attributename/name) { get; } | Ruft den Namenswert des Attributs ab. |
+| [AttributSchlüssel](../../aspose.pdf.logicalstructure/attributename/attributekey/) { get; } | Gibt den Attributschlüssel zurück. |
+| [Name](../../aspose.pdf.logicalstructure/attributename/name/) { get; } | Gibt den Namen des Attributs zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| static [FromNameAttributeKey](../../aspose.pdf.logicalstructure/attributename/fromnameattributekey)(string, AttributeKey) | Ruft den Attributnamen für den Attributschlüssel ab. |
-| override [ToString](../../aspose.pdf.logicalstructure/attributename/tostring)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
+| static [VonNameAttributSchlüssel](../../aspose.pdf.logicalstructure/attributename/fromnameattributekey/)(string, AttributSchlüssel) | Gibt den Attributnamen für den Attributschlüssel zurück. |
+| override [ToString](../../aspose.pdf.logicalstructure/attributename/tostring/)() | Gibt eine Zeichenfolge zurück, die das aktuelle Objekt darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| static readonly [BlockAlign_After](../../aspose.pdf.logicalstructure/attributename/blockalign_after) | Attribut BlockAlign: After - Nachdem die Kante des Zuordnungsrechtecks des letzten untergeordneten Elements an der des Inhaltsrechtecks der Tabellenzelle ausgerichtet ist. |
-| static readonly [BlockAlign_Before](../../aspose.pdf.logicalstructure/attributename/blockalign_before) | Attribut BlockAlign: Before – Vor dem Rand des Zuweisungsrechtecks des ersten untergeordneten Elements, ausgerichtet an dem des Inhaltsrechtecks der Tabellenzelle. |
-| static readonly [BlockAlign_Justify](../../aspose.pdf.logicalstructure/attributename/blockalign_justify) | Attribut BlockAlign: Justify – Untergeordnete Elemente werden sowohl an den Kanten davor als auch danach des Inhaltsrechtecks der Tabellenzelle ausgerichtet. Das erste Kind wird wie unter „Vorher“ beschrieben und das letzte Kind wie unter „Nachher“ beschrieben platziert, mit gleichem Abstand zwischen den Kindern. Wenn es nur ein untergeordnetes Element gibt, wird es nur an der Before-Kante ausgerichtet, wie bei Before. |
-| static readonly [BlockAlign_Middle](../../aspose.pdf.logicalstructure/attributename/blockalign_middle) | Attribut BlockAlign: Middle- Children zentriert innerhalb der Tabellenzelle. Der Abstand zwischen der Vorkante des Zuordnungsrechtecks des ersten untergeordneten Elements und dem Inhaltsrechteck der Tabellenzelle muss gleich sein wie der Abstand zwischen der Nachkante des Zuordnungsrechtecks des letzten untergeordneten Elements und dem Inhaltsrechteck der Tabellenzelle. |
-| static readonly [BorderStyle_Dashed](../../aspose.pdf.logicalstructure/attributename/borderstyle_dashed) | Attribut BorderStyle: Dashed – Der Rahmen besteht aus einer Reihe kurzer Liniensegmente. |
-| static readonly [BorderStyle_Dotted](../../aspose.pdf.logicalstructure/attributename/borderstyle_dotted) | Attribut BorderStyle: Dotted - Der Rahmen besteht aus einer Reihe von Punkten. |
-| static readonly [BorderStyle_Double](../../aspose.pdf.logicalstructure/attributename/borderstyle_double) | Attribut BorderStyle: Double - Der Rahmen besteht aus zwei durchgezogenen Linien. Die Summe der beiden Linien und des Abstands zwischen ihnen entspricht dem Wert von BorderThickness. |
-| static readonly [BorderStyle_Groove](../../aspose.pdf.logicalstructure/attributename/borderstyle_groove) | Attribut BorderStyle: Groove - Der Rand sieht aus, als wäre er in die Leinwand geschnitzt. |
-| static readonly [BorderStyle_Hidden](../../aspose.pdf.logicalstructure/attributename/borderstyle_hidden) | Attribut BorderStyle: Hidden – Dasselbe wie None, außer in Bezug auf die Auflösung von Rahmenkonflikten für Tabellenelemente. |
-| static readonly [BorderStyle_Inset](../../aspose.pdf.logicalstructure/attributename/borderstyle_inset) | Attribut BorderStyle: Inset – Der Rahmen lässt die gesamte Box so aussehen, als wäre sie in die Leinwand eingebettet. |
-| static readonly [BorderStyle_None](../../aspose.pdf.logicalstructure/attributename/borderstyle_none) | Attribut BorderStyle: None - Kein Rahmen. Erzwingt den berechneten Wert von BorderThickness auf 0. |
-| static readonly [BorderStyle_Outset](../../aspose.pdf.logicalstructure/attributename/borderstyle_outset) | Attribut BorderStyle: Outset – Der Rahmen lässt die gesamte Box so aussehen, als käme sie aus der Leinwand (das Gegenteil von Inset). |
-| static readonly [BorderStyle_Ridge](../../aspose.pdf.logicalstructure/attributename/borderstyle_ridge) | Attribut BorderStyle: Ridge – Der Rand sieht aus, als käme er aus der Leinwand (das Gegenteil von Groove). |
-| static readonly [BorderStyle_Solid](../../aspose.pdf.logicalstructure/attributename/borderstyle_solid) | Attribute BorderStyle: Solid - Der Rahmen ist ein einzelnes Liniensegment. |
-| static readonly [Checked_neutral](../../aspose.pdf.logicalstructure/attributename/checked_neutral) | Attribut überprüft: Neutral – Der Status eines Optionsfelds oder Kontrollkästchenfelds. |
-| static readonly [Checked_off](../../aspose.pdf.logicalstructure/attributename/checked_off) | Attribut geprüft: Aus – Der Status eines Optionsfelds oder Kontrollkästchenfelds. |
-| static readonly [Checked_on](../../aspose.pdf.logicalstructure/attributename/checked_on) | Attribut geprüft: Ein – Der Status eines Optionsfelds oder Kontrollkästchenfelds. |
-| static readonly [GlyphOrientationVertical_Auto](../../aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto) | Attribut GlyphOrientationVertical: Auto – Gibt eine Standardausrichtung für Text an, abhängig davon, ob er die volle Breite hat (so breit wie hoch). |
-| static readonly [Height_Auto](../../aspose.pdf.logicalstructure/attributename/height_auto) | Attribut Höhe: Auto - Die Höhe des Elements wird durch die intrinsische Höhe seines Inhalts bestimmt. |
-| static readonly [InlineAlign_Center](../../aspose.pdf.logicalstructure/attributename/inlinealign_center) | Attribut InlineAlign: Center - Jedes untergeordnete Element wird innerhalb der Tabellenzelle zentriert. Der Abstand zwischen den Anfangskanten des Zuordnungsrechtecks des untergeordneten Elements und dem Inhaltsrechteck der Tabellenzelle muss gleich dem Abstand zwischen ihren Endkanten sein. |
-| static readonly [InlineAlign_End](../../aspose.pdf.logicalstructure/attributename/inlinealign_end) | Attribut InlineAlign: End – Endkante des Zuordnungsrechtecks jedes untergeordneten Elements, ausgerichtet an der des Inhaltsrechtecks der Tabellenzelle. |
-| static readonly [InlineAlign_Start](../../aspose.pdf.logicalstructure/attributename/inlinealign_start) | Attribut InlineAlign: Start – Anfangskante des Zuordnungsrechtecks jedes untergeordneten Elements ausgerichtet mit der des Inhaltsrechtecks der Tabellenzelle. |
-| static readonly [LineHeight_Auto](../../aspose.pdf.logicalstructure/attributename/lineheight_auto) | Attribut LineHeight: Auto - Anpassung für den Wert von BaselineShift soll nicht vorgenommen werden. |
-| static readonly [LineHeight_Normal](../../aspose.pdf.logicalstructure/attributename/lineheight_normal) | Attribut LineHeight: Normal – Passen Sie die Zeilenhöhe so an, dass alle für BaselineShift angegebenen Werte ungleich Null enthalten sind. |
-| static readonly [ListNumbering_Circle](../../aspose.pdf.logicalstructure/attributename/listnumbering_circle) | Attribut ListNumbering: Circle - Kreisförmiges Aufzählungszeichen öffnen. |
-| static readonly [ListNumbering_Decimal](../../aspose.pdf.logicalstructure/attributename/listnumbering_decimal) | Attribute ListNumbering: Decimal - Arabische Dezimalzahlen (1-9, 10-99, ...). |
-| static readonly [ListNumbering_Disc](../../aspose.pdf.logicalstructure/attributename/listnumbering_disc) | Attribut ListNumbering: Disc - Vollständiges kreisförmiges Aufzählungszeichen. |
-| static readonly [ListNumbering_LowerAlpha](../../aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha) | Attribut ListNumbering: LowerAlpha - Kleinbuchstaben (a, b, c, ...). |
-| static readonly [ListNumbering_LowerRoman](../../aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman) | Attribut ListNumbering: LowerRoman - römische Ziffern in Kleinbuchstaben (i, ii, iii, iv, ...). |
-| static readonly [ListNumbering_None](../../aspose.pdf.logicalstructure/attributename/listnumbering_none) | Attribut ListNumbering: None - Keine automatische Nummerierung; Lbl-Elemente (falls vorhanden) enthalten beliebigen Text, der keinem Nummerierungsschema unterliegt. |
-| static readonly [ListNumbering_Square](../../aspose.pdf.logicalstructure/attributename/listnumbering_square) | Attribut ListNumbering: Square - Vollständiges quadratisches Aufzählungszeichen. |
-| static readonly [ListNumbering_UpperAlpha](../../aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha) | Attribut ListNumbering: UpperAlpha - Großbuchstaben (A, B, C, ...). |
-| static readonly [ListNumbering_UpperRoman](../../aspose.pdf.logicalstructure/attributename/listnumbering_upperroman) | Attribute ListNumbering: UpperRoman - Römische Ziffern in Großbuchstaben (I, II, III, IV, ...). |
-| static readonly [Placement_Before](../../aspose.pdf.logicalstructure/attributename/placement_before) | Attributplatzierung: Vorher - Wird so platziert, dass die Vorher-Kante des Zuordnungsrechtecks des Elements mit der des nächsten umschließenden Referenzbereichs zusammenfällt. |
-| static readonly [Placement_Block](../../aspose.pdf.logicalstructure/attributename/placement_block) | Attributplatzierung: Block – Gestapelt in Blockfortschrittsrichtung innerhalb eines umschließenden Referenzbereichs oder übergeordneten BLSE. |
-| static readonly [Placement_End](../../aspose.pdf.logicalstructure/attributename/placement_end) | Attributplatzierung: Ende - Wird so platziert, dass die Endkante des Zuordnungsrechtecks des Elements mit der des nächsten umschließenden Referenzbereichs zusammenfällt. |
-| static readonly [Placement_Inline](../../aspose.pdf.logicalstructure/attributename/placement_inline) | Attributplatzierung: Inline – Gepackt in der Inline-Progressionsrichtung innerhalb einer umschließenden BLSE. |
-| static readonly [Placement_Start](../../aspose.pdf.logicalstructure/attributename/placement_start) | Attributplatzierung: Start - Wird so platziert, dass die Startkante des Zuordnungsrechtecks des Elements mit der des nächsten umschließenden Referenzbereichs zusammenfällt. |
-| static readonly [Role_cb](../../aspose.pdf.logicalstructure/attributename/role_cb) | Attribut Rolle: cb - Kontrollkästchen. |
-| static readonly [Role_pb](../../aspose.pdf.logicalstructure/attributename/role_pb) | Attribut Rolle: pb - Taster. |
-| static readonly [Role_rb](../../aspose.pdf.logicalstructure/attributename/role_rb) | Attributrolle: rb - Optionsfeld. |
-| static readonly [Role_tv](../../aspose.pdf.logicalstructure/attributename/role_tv) | Attributrolle: tv - Textwertfeld. |
-| static readonly [RubyAlign_Center](../../aspose.pdf.logicalstructure/attributename/rubyalign_center) | Attribut RubyAlign: Center - Der Inhalt soll in der Inline-Fortschrittsrichtung zentriert werden. |
-| static readonly [RubyAlign_Distribute](../../aspose.pdf.logicalstructure/attributename/rubyalign_distribute) | Attribut RubyAlign: Distribute - Der Inhalt soll erweitert werden, um die verfügbare Breite in der Inline-Progressionsrichtung auszufüllen. Allerdings soll auch am Anfangs- und Endrand des Textes ein Leerzeichen eingefügt werden. Die Abstände müssen im Verhältnis 1:2:1 (Start:Infix:Ende) verteilt werden. Es soll auf ein Verhältnis von 0:1:1 geändert werden, wenn der Rubin am Anfang einer Textzeile erscheint, oder auf ein Verhältnis von 1:1:0, wenn der Rubin am Ende der Textzeile erscheint. |
-| static readonly [RubyAlign_End](../../aspose.pdf.logicalstructure/attributename/rubyalign_end) | Attribut RubyAlign: End - Der Inhalt soll an der Endkante in der Inline-Fortschrittsrichtung ausgerichtet werden. |
-| static readonly [RubyAlign_Justify](../../aspose.pdf.logicalstructure/attributename/rubyalign_justify) | Attribut RubyAlign: Justify – Der Inhalt soll erweitert werden, um die verfügbare Breite in der Inline-Progressionsrichtung auszufüllen. |
-| static readonly [RubyAlign_Start](../../aspose.pdf.logicalstructure/attributename/rubyalign_start) | Attribut RubyAlign: Start - Der Inhalt soll an der Startkante in Inline-Fortschrittsrichtung ausgerichtet werden. |
-| static readonly [RubyPosition_After](../../aspose.pdf.logicalstructure/attributename/rubyposition_after) | Attribut RubyPosition: After – Der RT-Inhalt soll entlang der hinteren Kante des Elements ausgerichtet werden. |
-| static readonly [RubyPosition_Before](../../aspose.pdf.logicalstructure/attributename/rubyposition_before) | Attribut RubyPosition: Before - Der RT-Inhalt soll entlang der Before-Kante des Elements ausgerichtet werden. |
-| static readonly [RubyPosition_Inline](../../aspose.pdf.logicalstructure/attributename/rubyposition_inline) | Attribut RubyPosition: Inline – Die RT- und zugehörigen RP-Elemente müssen als Kommentar in Klammern nach dem RB-Element formatiert werden. |
-| static readonly [RubyPosition_Warichu](../../aspose.pdf.logicalstructure/attributename/rubyposition_warichu) | Attribut RubyPosition: Warichu – Das RT und die zugehörigen RP-Elemente werden als Warichu formatiert, nach dem RB-Element. |
-| static readonly [Scope_Both](../../aspose.pdf.logicalstructure/attributename/scope_both) | Attributbereich: Beides. |
-| static readonly [Scope_Column](../../aspose.pdf.logicalstructure/attributename/scope_column) | Attributbereich: Spalte. |
-| static readonly [Scope_Row](../../aspose.pdf.logicalstructure/attributename/scope_row) | Attributbereich: Zeile. |
-| static readonly [TextAlign_Center](../../aspose.pdf.logicalstructure/attributename/textalign_center) | Attribut TextAlign: Center – Zentriert zwischen Start- und Endkante. |
-| static readonly [TextAlign_End](../../aspose.pdf.logicalstructure/attributename/textalign_end) | Attribut TextAlign: End - An der Endkante ausgerichtet. |
-| static readonly [TextAlign_Justify](../../aspose.pdf.logicalstructure/attributename/textalign_justify) | Attribut TextAlign: Justify – Ausgerichtet sowohl an den Start- als auch an den Endkanten, wobei der interne Abstand innerhalb jeder Zeile erweitert wird, falls erforderlich, um eine solche Ausrichtung zu erreichen. Die letzte (oder einzige) Linie soll nur an der Startkante ausgerichtet werden. |
-| static readonly [TextAlign_Start](../../aspose.pdf.logicalstructure/attributename/textalign_start) | Attribut TextAlign: Start - Ausgerichtet an der Startkante. |
-| static readonly [TextDecorationType_LineThrough](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough) | Attribut TextDecorationType: LineThrough - Eine Linie durch die Mitte des Textes. |
-| static readonly [TextDecorationType_None](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_none) | Attribut TextDecorationType: None - Keine Textdekoration. |
-| static readonly [TextDecorationType_Overline](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_overline) | Attribut TextDecorationType: Overline - Eine Linie über dem Text. |
-| static readonly [TextDecorationType_Underline](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_underline) | Attribut TextDecorationType: Underline - Eine Linie unter dem Text. |
-| static readonly [Width_Auto](../../aspose.pdf.logicalstructure/attributename/width_auto) | Attribut Breite: Auto - die Breite des Elements wird durch die intrinsische Breite seines Inhalts bestimmt. |
-| static readonly [WritingMode_LrTb](../../aspose.pdf.logicalstructure/attributename/writingmode_lrtb) | Attribut WritingMode: LrTb - Inline-Fortschritt von links nach rechts; Blockierung von oben nach unten. Dies ist der typische Schreibmodus für westliche Schriftsysteme. |
-| static readonly [WritingMode_RlTb](../../aspose.pdf.logicalstructure/attributename/writingmode_rltb) | Attribut WritingMode: RlTb - Inline-Fortschritt von rechts nach links; Blockierung von oben nach unten. Dies ist der typische Schreibmodus für arabische und hebräische Schriftsysteme. |
-| static readonly [WritingMode_TbRl](../../aspose.pdf.logicalstructure/attributename/writingmode_tbrl) | Attribut WritingMode: TbRl - Inline-Progression von oben nach unten; Blockierung von rechts nach links. Dies ist der typische Schreibmodus für chinesische und japanische Schriftsysteme. |
+| static readonly [BlockAusrichtung_Nach](../../aspose.pdf.logicalstructure/attributename/blockalign_after/) | Attribut BlockAusrichtung: Nach - Nachkante des Zuweisungsrechtecks des letzten Kindes, ausgerichtet mit dem Rechteck des Inhalts der Tabellenzelle. |
+| static readonly [BlockAusrichtung_Vor](../../aspose.pdf.logicalstructure/attributename/blockalign_before/) | Attribut BlockAusrichtung: Vor - Vorkante des Zuweisungsrechtecks des ersten Kindes, ausgerichtet mit dem Rechteck des Inhalts der Tabellenzelle. |
+| static readonly [BlockAusrichtung_Justify](../../aspose.pdf.logicalstructure/attributename/blockalign_justify/) | Attribut BlockAusrichtung: Justify - Kinder, die sowohl mit der Vor- als auch mit der Nachkante des Inhaltsrechtecks der Tabellenzelle ausgerichtet sind. Das erste Kind wird wie für Vor beschrieben platziert und das letzte Kind wie für Nach beschrieben, mit gleichmäßigem Abstand zwischen den Kindern. Wenn es nur ein Kind gibt, wird es nur mit der Vorkante ausgerichtet, wie für Vor. |
+| static readonly [BlockAusrichtung_Mitte](../../aspose.pdf.logicalstructure/attributename/blockalign_middle/) | Attribut BlockAusrichtung: Mitte - Kinder, die innerhalb der Tabellenzelle zentriert sind. Der Abstand zwischen der Vorkante des Zuweisungsrechtecks des ersten Kindes und dem Rechteck des Inhalts der Tabellenzelle muss dem Abstand zwischen der Nachkante des Zuweisungsrechtecks des letzten Kindes und dem Rechteck des Inhalts der Tabellenzelle entsprechen. |
+| static readonly [Randstil_Gestrichelt](../../aspose.pdf.logicalstructure/attributename/borderstyle_dashed/) | Attribut Randstil: Gestrichelt - Der Rand besteht aus einer Reihe kurzer Liniensegmente. |
+| static readonly [Randstil_Punktiert](../../aspose.pdf.logicalstructure/attributename/borderstyle_dotted/) | Attribut Randstil: Punktiert - Der Rand besteht aus einer Reihe von Punkten. |
+| static readonly [Randstil_Doppelt](../../aspose.pdf.logicalstructure/attributename/borderstyle_double/) | Attribut Randstil: Doppelt - Der Rand besteht aus zwei durchgehenden Linien. Die Summe der beiden Linien und der Abstand zwischen ihnen entspricht dem Wert von Randdicke. |
+| static readonly [Randstil_Rille](../../aspose.pdf.logicalstructure/attributename/borderstyle_groove/) | Attribut Randstil: Rille - Der Rand sieht aus, als wäre er in die Leinwand eingraviert. |
+| static readonly [Randstil_Verlöscht](../../aspose.pdf.logicalstructure/attributename/borderstyle_hidden/) | Attribut Randstil: Versteckt - Dasselbe wie Keine, außer in Bezug auf die Konfliktlösung für Tabellen-Elemente. |
+| static readonly [Randstil_Eingefügt](../../aspose.pdf.logicalstructure/attributename/borderstyle_inset/) | Attribut Randstil: Eingefügt - Der Rand lässt die gesamte Box so aussehen, als wäre sie in die Leinwand eingebettet. |
+| static readonly [Randstil_Keine](../../aspose.pdf.logicalstructure/attributename/borderstyle_none/) | Attribut Randstil: Keine - Kein Rand. Erzwingt den berechneten Wert der Randdicke auf 0. |
+| static readonly [Randstil_Ausgestoßen](../../aspose.pdf.logicalstructure/attributename/borderstyle_outset/) | Attribut Randstil: Ausgestoßen - Der Rand lässt die gesamte Box so aussehen, als käme sie aus der Leinwand (das Gegenteil von Eingefügt). |
+| static readonly [Randstil_Kante](../../aspose.pdf.logicalstructure/attributename/borderstyle_ridge/) | Attribut Randstil: Kante - Der Rand sieht aus, als käme er aus der Leinwand (das Gegenteil von Rille). |
+| static readonly [Randstil_Durchgehend](../../aspose.pdf.logicalstructure/attributename/borderstyle_solid/) | Attribut Randstil: Durchgehend - Der Rand ist ein einzelnes Liniensegment. |
+| static readonly [Überprüft_neutral](../../aspose.pdf.logicalstructure/attributename/checked_neutral/) | Attribut überprüft: Neutral - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes. |
+| static readonly [Überprüft_aus](../../aspose.pdf.logicalstructure/attributename/checked_off/) | Attribut überprüft: Aus - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes. |
+| static readonly [Überprüft_ein](../../aspose.pdf.logicalstructure/attributename/checked_on/) | Attribut überprüft: Ein - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes. |
+| static readonly [GlyphenOrientierungVertikal_Auto](../../aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/) | Attribut GlyphenOrientierungVertikal: Auto - Gibt eine Standardorientierung für Text an, abhängig davon, ob er vollbreit (so breit wie hoch) ist. |
+| static readonly [Höhe_Auto](../../aspose.pdf.logicalstructure/attributename/height_auto/) | Attribut Höhe: Auto - Die Höhe des Elements wird durch die intrinsische Höhe seines Inhalts bestimmt. |
+| static readonly [InlineAusrichtung_Zentrum](../../aspose.pdf.logicalstructure/attributename/inlinealign_center/) | Attribut InlineAusrichtung: Zentrum - Jedes Kind wird innerhalb der Tabellenzelle zentriert. Der Abstand zwischen den Startkanten des Zuweisungsrechtecks des Kindes und dem Inhaltsrechteck der Tabellenzelle muss dem Abstand zwischen ihren Endkanten entsprechen. |
+| static readonly [InlineAusrichtung_Ende](../../aspose.pdf.logicalstructure/attributename/inlinealign_end/) | Attribut InlineAusrichtung: Ende - Endkante des Zuweisungsrechtecks jedes Kindes, ausgerichtet mit dem Rechteck des Inhalts der Tabellenzelle. |
+| static readonly [InlineAusrichtung_Start](../../aspose.pdf.logicalstructure/attributename/inlinealign_start/) | Attribut InlineAusrichtung: Start - Startkante des Zuweisungsrechtecks jedes Kindes, ausgerichtet mit dem Rechteck des Inhalts der Tabellenzelle. |
+| static readonly [Zeilenhöhe_Auto](../../aspose.pdf.logicalstructure/attributename/lineheight_auto/) | Attribut Zeilenhöhe: Auto - Anpassungen für den Wert von BaselineShift werden nicht vorgenommen. |
+| static readonly [Zeilenhöhe_Normal](../../aspose.pdf.logicalstructure/attributename/lineheight_normal/) | Attribut Zeilenhöhe: Normal - Passt die Zeilenhöhe an, um jeden nicht nullen Wert für BaselineShift einzuschließen. |
+| static readonly [ListenNummerierung_Kreis](../../aspose.pdf.logicalstructure/attributename/listnumbering_circle/) | Attribut ListenNummerierung: Kreis - Offene kreisförmige Aufzählung. |
+| static readonly [ListenNummerierung_Dezimal](../../aspose.pdf.logicalstructure/attributename/listnumbering_decimal/) | Attribut ListenNummerierung: Dezimal - Dezimale arabische Ziffern (1-9, 10-99, ...). |
+| static readonly [ListenNummerierung_Scheibe](../../aspose.pdf.logicalstructure/attributename/listnumbering_disc/) | Attribut ListenNummerierung: Scheibe - Solide kreisförmige Aufzählung. |
+| static readonly [ListenNummerierung_Kleinbuchstaben](../../aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/) | Attribut ListenNummerierung: Kleinbuchstaben - Kleinbuchstaben (a, b, c, ...). |
+| static readonly [ListenNummerierung_Kleinrömisch](../../aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman/) | Attribut ListenNummerierung: Kleinrömisch - Kleinrömische Ziffern (i, ii, iii, iv, ...). |
+| static readonly [ListenNummerierung_Keine](../../aspose.pdf.logicalstructure/attributename/listnumbering_none/) | Attribut ListenNummerierung: Keine - Keine automatische Nummerierung; Lbl-Elemente (falls vorhanden) enthalten beliebigen Text, der keinem Nummerierungsschema unterliegt. |
+| static readonly [ListenNummerierung_Quadrat](../../aspose.pdf.logicalstructure/attributename/listnumbering_square/) | Attribut ListenNummerierung: Quadrat - Solide quadratische Aufzählung. |
+| static readonly [ListenNummerierung_Großbuchstaben](../../aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/) | Attribut ListenNummerierung: Großbuchstaben - Großbuchstaben (A, B, C, ...). |
+| static readonly [ListenNummerierung_Großrömisch](../../aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/) | Attribut ListenNummerierung: Großrömisch - Großrömische Ziffern (I, II, III, IV, ...). |
+| static readonly [Platzierung_Vor](../../aspose.pdf.logicalstructure/attributename/placement_before/) | Attribut Platzierung: Vor - So platziert, dass die Vorkante des Zuweisungsrechtecks des Elements mit der des nächstgelegenen umschließenden Referenzbereichs übereinstimmt. |
+| static readonly [Platzierung_Block](../../aspose.pdf.logicalstructure/attributename/placement_block/) | Attribut Platzierung: Block - In der Blockfortschrittsrichtung innerhalb eines umschließenden Referenzbereichs oder übergeordneten BLSE gestapelt. |
+| static readonly [Platzierung_Ende](../../aspose.pdf.logicalstructure/attributename/placement_end/) | Attribut Platzierung: Ende - So platziert, dass die Endkante des Zuweisungsrechtecks des Elements mit der des nächstgelegenen umschließenden Referenzbereichs übereinstimmt. |
+| static readonly [Platzierung_Inline](../../aspose.pdf.logicalstructure/attributename/placement_inline/) | Attribut Platzierung: Inline - In der Inline-Fortschrittsrichtung innerhalb eines umschließenden BLSE gepackt. |
+| static readonly [Platzierung_Start](../../aspose.pdf.logicalstructure/attributename/placement_start/) | Attribut Platzierung: Start - So platziert, dass die Startkante des Zuweisungsrechtecks des Elements mit der des nächstgelegenen umschließenden Referenzbereichs übereinstimmt. |
+| static readonly [Rolle_cb](../../aspose.pdf.logicalstructure/attributename/role_cb/) | Attribut Rolle: cb - Kontrollkästchen. |
+| static readonly [Rolle_pb](../../aspose.pdf.logicalstructure/attributename/role_pb/) | Attribut Rolle: pb - Druckknopf. |
+| static readonly [Rolle_rb](../../aspose.pdf.logicalstructure/attributename/role_rb/) | Attribut Rolle: rb - Optionsfeld. |
+| static readonly [Rolle_tv](../../aspose.pdf.logicalstructure/attributename/role_tv/) | Attribut Rolle: tv - Text-Wert-Feld. |
+| static readonly [RubyAusrichtung_Zentrum](../../aspose.pdf.logicalstructure/attributename/rubyalign_center/) | Attribut RubyAusrichtung: Zentrum - Der Inhalt wird in der Inline-Fortschrittsrichtung zentriert. |
+| static readonly [RubyAusrichtung_Verteilen](../../aspose.pdf.logicalstructure/attributename/rubyalign_distribute/) | Attribut RubyAusrichtung: Verteilen - Der Inhalt wird erweitert, um die verfügbare Breite in der Inline-Fortschrittsrichtung auszufüllen. Es wird jedoch auch Platz an der Start- und Endkante des Textes eingefügt. Der Abstand wird im Verhältnis 1:2:1 (Start:Infix:Ende) verteilt. Er wird auf ein Verhältnis von 0:1:1 geändert, wenn der Ruby am Anfang einer Textzeile erscheint, oder auf ein Verhältnis von 1:1:0, wenn der Ruby am Ende der Textzeile erscheint. |
+| static readonly [RubyAusrichtung_Ende](../../aspose.pdf.logicalstructure/attributename/rubyalign_end/) | Attribut RubyAusrichtung: Ende - Der Inhalt wird an der Endkante in der Inline-Fortschrittsrichtung ausgerichtet. |
+| static readonly [RubyAusrichtung_Justify](../../aspose.pdf.logicalstructure/attributename/rubyalign_justify/) | Attribut RubyAusrichtung: Justify - Der Inhalt wird erweitert, um die verfügbare Breite in der Inline-Fortschrittsrichtung auszufüllen. |
+| static readonly [RubyAusrichtung_Start](../../aspose.pdf.logicalstructure/attributename/rubyalign_start/) | Attribut RubyAusrichtung: Start - Der Inhalt wird an der Startkante in der Inline-Fortschrittsrichtung ausgerichtet. |
+| static readonly [RubyPosition_Nach](../../aspose.pdf.logicalstructure/attributename/rubyposition_after/) | Attribut RubyPosition: Nach - Der RT-Inhalt wird entlang der Nachkante des Elements ausgerichtet. |
+| static readonly [RubyPosition_Vor](../../aspose.pdf.logicalstructure/attributename/rubyposition_before/) | Attribut RubyPosition: Vor - Der RT-Inhalt wird entlang der Vorkante des Elements ausgerichtet. |
+| static readonly [RubyPosition_Inline](../../aspose.pdf.logicalstructure/attributename/rubyposition_inline/) | Attribut RubyPosition: Inline - Der RT- und die zugehörigen RP-Elemente werden als Klammerkommentar formatiert, der dem RB-Element folgt. |
+| static readonly [RubyPosition_Warichu](../../aspose.pdf.logicalstructure/attributename/rubyposition_warichu/) | Attribut RubyPosition: Warichu - Der RT- und die zugehörigen RP-Elemente werden als Warichu formatiert, die dem RB-Element folgt. |
+| static readonly [Umfang_Beide](../../aspose.pdf.logicalstructure/attributename/scope_both/) | Attribut Umfang: Beide. |
+| static readonly [Umfang_Spalte](../../aspose.pdf.logicalstructure/attributename/scope_column/) | Attribut Umfang: Spalte. |
+| static readonly [Umfang_Reihe](../../aspose.pdf.logicalstructure/attributename/scope_row/) | Attribut Umfang: Reihe. |
+| static readonly [TextAusrichtung_Zentrum](../../aspose.pdf.logicalstructure/attributename/textalign_center/) | Attribut TextAusrichtung: Zentrum - Zentriert zwischen den Start- und Endkanten. |
+| static readonly [TextAusrichtung_Ende](../../aspose.pdf.logicalstructure/attributename/textalign_end/) | Attribut TextAusrichtung: Ende - Ausgerichtet mit der Endkante. |
+| static readonly [TextAusrichtung_Justify](../../aspose.pdf.logicalstructure/attributename/textalign_justify/) | Attribut TextAusrichtung: Justify - Ausgerichtet mit sowohl der Start- als auch der Endkante, wobei der interne Abstand innerhalb jeder Zeile bei Bedarf erweitert wird, um eine solche Ausrichtung zu erreichen. Die letzte (oder einzige) Zeile wird nur mit der Startkante ausgerichtet. |
+| static readonly [TextAusrichtung_Start](../../aspose.pdf.logicalstructure/attributename/textalign_start/) | Attribut TextAusrichtung: Start - Ausgerichtet mit der Startkante. |
+| static readonly [TextDekorationstyp_Durchgestrichen](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/) | Attribut TextDekorationstyp: Durchgestrichen - Eine Linie durch die Mitte des Textes. |
+| static readonly [TextDekorationstyp_Keine](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_none/) | Attribut TextDekorationstyp: Keine - Keine Textdekoration. |
+| static readonly [TextDekorationstyp_Überlinie](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/) | Attribut TextDekorationstyp: Überlinie - Eine Linie über dem Text. |
+| static readonly [TextDekorationstyp_Underline](../../aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/) | Attribut TextDekorationstyp: Unterstrichen - Eine Linie unter dem Text. |
+| static readonly [Breite_Auto](../../aspose.pdf.logicalstructure/attributename/width_auto/) | Attribut Breite: Auto - Die Breite des Elements wird durch die intrinsische Breite seines Inhalts bestimmt. |
+| static readonly [Schreibmodus_LrTb](../../aspose.pdf.logicalstructure/attributename/writingmode_lrtb/) | Attribut Schreibmodus: LrTb - Inline-Fortschritt von links nach rechts; Blockfortschritt von oben nach unten. Dies ist der typische Schreibmodus für westliche Schriftsysteme. |
+| static readonly [Schreibmodus_RlTb](../../aspose.pdf.logicalstructure/attributename/writingmode_rltb/) | Attribut Schreibmodus: RlTb - Inline-Fortschritt von rechts nach links; Blockfortschritt von oben nach unten. Dies ist der typische Schreibmodus für arabische und hebräische Schriftsysteme. |
+| static readonly [Schreibmodus_TbRl](../../aspose.pdf.logicalstructure/attributename/writingmode_tbrl/) | Attribut Schreibmodus: TbRl - Inline-Fortschritt von oben nach unten; Blockfortschritt von rechts nach links. Dies ist der typische Schreibmodus für chinesische und japanische Schriftsysteme. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
-* Montage [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)

@@ -1,14 +1,14 @@
 ---
-title: AddHeader
-second_title: Aspose.PDF för .NET API Referens
-description: Lägger till sidhuvud på sidan.
+title: PdfFileStamp.AddHeader
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileStamp-metod. Lägger till header på sidan
 type: docs
-weight: 160
+weight: 120
 url: /sv/net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}
 
-Lägger till sidhuvud på sidan.
+Lägger till header på sidan.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin)
@@ -16,10 +16,10 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | Text för rubrik och egenskaper för texten. |
-| topMargin | Single | Marginal överst på sidan. |
+| formattedText | FormattedText | Text för header och egenskaper för texten. |
+| topMargin | Single | Marginal på toppen av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -27,18 +27,18 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormattedText](../../formattedtext/)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(FormattedText, float, float, float) {#addheader_1}
 
-Lägger till sidhuvud till filsidorna.
+Lägger till header på sidorna i filen.
 
 ```csharp
 public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
@@ -47,30 +47,30 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | Formaterat textobjekt som innehåller sidtext och dess egenskaper. |
-| topMargin | Single | Marginal överst på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| formattedText | FormattedText | Formaterad textobjekt som innehåller sidtext och dess egenskaper. |
+| topMargin | Single | Marginal på toppen av sidan. |
+| leftMargin | Single | Marginal på vänster sida av sidan. |
+| rightMargin | Single | Marginal på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### Se även
+### Se Även
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FormattedText](../../formattedtext/)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(string, float) {#addheader_4}
 
-Lägger till bild som rubrik på filens sidor.
+Lägger till bild som header på sidorna i filen.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin)
@@ -79,9 +79,9 @@ public void AddHeader(string imageFile, float topMargin)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | imageFile | String | Sökväg till bildfilen. |
-| topMargin | Single | Marginal överst på sidan. |
+| topMargin | Single | Marginal högst upp på sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -90,17 +90,17 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Lägger till bild som rubrik på sidorna.
+Lägger till bild som header på sidorna.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
@@ -109,11 +109,11 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | imageFile | String | Sökväg till bildfilen. |
-| topMargin | Single | Marginal överst på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| topMargin | Single | Marginal högst upp på sidan. |
+| leftMargin | Single | Marginal på vänster sida av sidan. |
+| rightMargin | Single | Marginal på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -122,17 +122,17 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Lägger till bild som rubrik på sidorna.
+Lägger till bild som header på sidorna.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
@@ -140,10 +140,10 @@ public void AddHeader(Stream imageStream, float topMargin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Stream av bilden. |
-| topMargin | Single | Marginal överst på sidan. |
+| imageStream | Stream | Ström av bilden. |
+| topMargin | Single | Marginal högst upp på sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -152,17 +152,17 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float, float, float) {#addheader_3}
 
-Lägger till bild överst på sidan.
+Lägger till bild högst upp på sidan.
 
 ```csharp
 public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
@@ -170,12 +170,12 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Stream som innehåller bilddata. |
-| topMargin | Single | Marginal överst på sidan. |
-| leftMargin | Single | Marginal till vänster på sidan. |
-| rightMargin | Single | Marginal till höger på sidan. |
+| inputStream | Stream | Ström som innehåller bilddata. |
+| topMargin | Single | Marginal högst upp på sidan. |
+| leftMargin | Single | Marginal på vänster sida av sidan. |
+| rightMargin | Single | Marginal på höger sida av sidan. |
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -184,10 +184,8 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilestamp)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileStamp](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

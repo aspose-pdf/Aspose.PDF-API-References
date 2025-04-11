@@ -1,128 +1,126 @@
 ---
-title: EmfDevice
-second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярEmfDeviceaspose.pdf.devices/emfdevice класс с разрешением по умолчанию для растрового изображения записанного в emf.
+title: EmfDevice.EmfDevice
+second_title: Aspose.PDF for .NET API Reference
+description: Конструктор EmfDevice. Инициализирует новый экземпляр класса EmfDevice с разрешением по умолчанию для растрового изображения, записанного в emf
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс с разрешением по умолчанию для растрового изображения, записанного в emf.
+Инициализирует новый экземпляр класса [`EmfDevice`](../) с разрешением по умолчанию для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice()
 ```
 
-### Смотрите также
+### See Also
 
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс.  Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс.
+Инициализирует новый экземпляр класса [`EmfDevice`](../). Разрешение для растрового изображения, записанного в emf, см. класс [`Resolution`](../../resolution/).
 
 ```csharp
 public EmfDevice(Resolution resolution)
 ```
 
-### Смотрите также
+### See Also
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс с предоставленными размерами изображения, и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
+Инициализирует новый экземпляр класса [`EmfDevice`](../) с заданными размерами изображения и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
 
 ```csharp
 public EmfDevice(int width, int height)
 ```
 
-| Параметр | Тип | Описание |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Ширина вывода изображения. |
-| height | Int32 | Высота вывода изображения. |
+| width | Int32 | Ширина выходного изображения. |
+| height | Int32 | Высота выходного изображения. |
 
-### Смотрите также
+### See Also
 
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) class с заданным размером страницы, и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
+Инициализирует новый экземпляр класса [`EmfDevice`](../) с заданным размером страницы и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
 
 ```csharp
 public EmfDevice(PageSize pageSize)
 ```
 
-| Параметр | Тип | Описание |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
 
-### Смотрите также
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения, и разрешением для растрового изображения, записанного в emf.
+Инициализирует новый экземпляр класса [`JpegDevice`](../../jpegdevice/) с заданными размерами изображения и разрешением для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
 ```
 
-| Параметр | Тип | Описание |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Ширина вывода изображения. |
-| height | Int32 | Высота вывода изображения. |
-| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс. |
+| width | Int32 | Ширина выходного изображения. |
+| height | Int32 | Высота выходного изображения. |
+| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см. класс [`Resolution`](../../resolution/). |
 
-### Смотрите также
+### See Also
 
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice)класс с предоставленным размером страницы, и разрешением для растрового изображения, записанного в emf.
+Инициализирует новый экземпляр класса [`JpegDevice`](../../jpegdevice/) с заданным размером страницы и разрешением для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Параметр | Тип | Описание |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс. |
+| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см. класс [`Resolution`](../../resolution/). |
 
-### Смотрите также
+### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [EmfDevice](../../emfdevice)
-* пространство имен [Aspose.Pdf.Devices](../../emfdevice)
-* сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)

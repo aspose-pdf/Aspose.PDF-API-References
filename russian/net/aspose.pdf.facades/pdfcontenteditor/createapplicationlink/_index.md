@@ -1,14 +1,14 @@
 ---
-title: CreateApplicationLink
-second_title: Aspose.PDF для справочника API .NET
-description: Создает ссылку для запуска приложения в документе PDF.
+title: PdfContentEditor.CreateApplicationLink
+second_title: Aspose.PDF for .NET API Reference
+description: Метод PdfContentEditor. Создает ссылку для запуска приложения в PDF документе
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-Создает ссылку для запуска приложения в документе PDF.
+Создает ссылку для запуска приложения в PDF документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
@@ -18,12 +18,12 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| application | String | Путь запускаемого приложения. |
-| page | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
+| application | String | Путь к приложению, которое будет запущено. |
+| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в средстве просмотра Acrobat. |
+| actionName | Enum[] | Массив действий (члены перечисления PredefinedAction), соответствующий выполняемым пунктам меню в просмотрщике Acrobat. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -34,17 +34,17 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdfcontenteditor)
+* класс [PdfContentEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-Создает ссылку для запуска приложения в документе PDF.
+Создает ссылку для запуска приложения в PDF документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
@@ -53,11 +53,11 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| application | String | Путь запускаемого приложения. |
-| page | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
+| application | String | Путь к приложению, которое будет запущено. |
+| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
 | clr | Color | Цвет прямоугольника для активного клика. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -67,17 +67,17 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdfcontenteditor)
+* класс [PdfContentEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-Создает ссылку для запуска приложения в документе PDF.
+Создает ссылку для запуска приложения в PDF документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)
@@ -86,10 +86,10 @@ public void CreateApplicationLink(Rectangle rect, string application, int page)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| application | String | Путь запускаемого приложения. |
-| page | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
+| application | String | Путь к приложению, которое будет запущено. |
+| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
 
-### Примеры
+## Примеры
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -98,10 +98,8 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100), "expl
 editor.Save("example_out.pdf");
 ```
 
-### Смотрите также
+### См. также
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* пространство имен [Aspose.Pdf.Facades](../../pdfcontenteditor)
+* класс [PdfContentEditor](../)
+* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

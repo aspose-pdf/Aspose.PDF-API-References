@@ -1,46 +1,46 @@
 ---
-title: XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Referansı
-description: Koordinatları sol üst pencerenin sol üst köşesine yerleştirilmiş ve sayfa içeriği faktör yakınlaştırmasıyla büyütülmüş olarak sayfayı görüntüleyen açık hedefi temsil eder. Sol üst veya yakınlaştırma parametrelerinden herhangi biri için boş bir değer o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. 0 yakınlaştırma değeri boş değerle aynı anlama gelir.
+title: Class XYZExplicitDestination
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Annotations.XYZExplicitDestination sınıfı. Sayfayı, sol üst köşesi pencerenin sol üst köşesine yerleştirilmiş (sol, üst) koordinatları ile ve sayfanın içeriğini zoom faktörü ile büyütülmüş olarak gösteren açık bir hedefi temsil eder. Sol, üst veya zoom parametrelerinden herhangi biri için null değeri, o parametrenin mevcut değerinin değişmeden korunacağını belirtir. 0 zoom değeri, null değeri ile aynı anlama gelir.
 type: docs
-weight: 1270
+weight: 2730
 url: /tr/net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
-## XYZExplicitDestination class
+## XYZExplicitDestination sınıfı
 
-Koordinatları (sol, üst) pencerenin sol üst köşesine yerleştirilmiş ve sayfa içeriği faktör yakınlaştırmasıyla büyütülmüş olarak sayfayı görüntüleyen açık hedefi temsil eder. Sol, üst veya yakınlaştırma parametrelerinden herhangi biri için boş bir değer, o parametrenin geçerli değerinin değişmeden tutulacağını belirtir. 0 yakınlaştırma değeri, boş değerle aynı anlama gelir.
+Sayfayı, sol üst köşesi pencerenin sol üst köşesine yerleştirilmiş (sol, üst) koordinatları ile ve sayfanın içeriğini zoom faktörü ile büyütülmüş olarak gösteren açık bir hedefi temsil eder. Sol, üst veya zoom parametrelerinden herhangi biri için null değeri, o parametrenin mevcut değerinin değişmeden korunacağını belirtir. 0 zoom değeri, null değeri ile aynı anlama gelir.
 
 ```csharp
 public sealed class XYZExplicitDestination : ExplicitDestination
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_2)(int, double, double, double) | Uzak açık hedef oluşturur. |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_1)(Page, double, double, double) | Yerel açık hedef oluşturur. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor_2)(int, double, double, double) | Uzak açık hedef oluşturur. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor_1)(Page, double, double, double) | Yerel açık hedef oluşturur. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left) { get; } | Pencerenin sol üst köşesinin sol yatay koordinatını alır. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | object hedef sayfasını alır |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Hedef sayfa numarasını alır |
-| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top) { get; } | Pencerenin sol üst köşesinin üst dikey koordinatını alır. |
-| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom) { get; } | Yakınlaştırma faktörünü alır. |
+| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left/) { get; } | Pencerenin sol üst köşesinin sol yatay koordinatını alır. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Hedef sayfa nesnesini alır. |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Hedef sayfa numarasını alır. |
+| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top/) { get; } | Pencerenin sol üst köşesinin üst dikey koordinatını alır. |
+| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom/) { get; } | Zoom faktörünü alır. |
 
-## yöntemler
+## Metotlar
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination)(Page, double, double, double, bool) | Gerekirse sayfa döndürmeyi göz önünde bulundurarak sayfanın belirtilen konumuna hedef oluşturun. |
-| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner)(Page) | Belirtilen sayfa için hedef oluşturun. |
-| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner_1)(Page, double) | Belirtilen sayfanın sol üst köşesine hedef oluşturun. |
-| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | Nesne durumunu dize değerine dönüştürür. Örnek: "1 XYZ 100 200 3". |
+| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination/)(Page, double, double, double, bool) | Gerekirse sayfa döndürmesini dikkate alarak belirtilen sayfa konumuna hedef oluşturur. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner)(Page) | Belirtilen sayfaya hedef oluşturur. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner_1)(Page, double) | Belirtilen sayfanın sol üst köşesine hedef oluşturur. |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring/)() | Nesne durumunu string değerine dönüştürür. Örnek: "1 XYZ 100 200 3". |
 
-### Örnekler
+## Örnekler
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -50,10 +50,8 @@ string top = dest.Top;
 string zoom = dest.Zoom;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [ExplicitDestination](../explicitdestination)
-* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [ExplicitDestination](../explicitdestination/)
+* ad alanı [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* derleme [Aspose.PDF](../../)

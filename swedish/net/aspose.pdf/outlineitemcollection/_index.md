@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection
-second_title: Aspose.PDF för .NET API Referens
-description: Representerar konturpost i konturhierarkin för PDF-dokument.
+title: Class OutlineItemCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.OutlineItemCollection klass. Representerar en outline-post i outline-hierarkin av PDF-dokument
 type: docs
-weight: 5770
+weight: 8010
 url: /sv/net/aspose.pdf/outlineitemcollection/
 ---
-## OutlineItemCollection class
+## OutlineItemCollection klass
 
-Representerar konturpost i konturhierarkin för PDF-dokument.
+Representerar en outline-post i outline-hierarkin av PDF-dokument.
 
 ```csharp
 public sealed class OutlineItemCollection : Outlines
@@ -16,54 +16,52 @@ public sealed class OutlineItemCollection : Outlines
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [OutlineItemCollection](outlineitemcollection)(OutlineCollection) | Initierar dispositionsförekomst med hjälp av rothierarkiobjekt. |
+| [OutlineItemCollection](outlineitemcollection/)(OutlineCollection) | Initierar en instans av outline-objektet med hjälp av rot-hierarkin. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Action](../../aspose.pdf/outlineitemcollection/action) { get; set; } | Hämtar eller ställer in åtgärden för detta dispositionsobjekt. |
-| [Bold](../../aspose.pdf/outlineitemcollection/bold) { get; set; } | Får eller ställer in fet flagga för titeltexten för denna dispositionsartikel |
-| [Color](../../aspose.pdf/outlineitemcollection/color) { get; set; } | Hämtar eller ställer in färgen för titeltexten för detta dispositionsobjekt. |
-| override [Count](../../aspose.pdf/outlineitemcollection/count) { get; } | Antal samlingsobjekt. Blanda inte ihop med VisibleCount: VisibleCount får antalet synliga dispositionsobjekt på alla nivåer. |
-| [Destination](../../aspose.pdf/outlineitemcollection/destination) { get; set; } | Hämtar eller ställer in destinationen för denna disposition. |
-| [First](../../aspose.pdf/outlineitemcollection/first) { get; } | Hämtar dispositionsobjektet som representerar det första objektet på toppnivå i dispositionshierarkin. |
-| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext) { get; } | Kontrollera om dispositionsobjektet representerar nästa objekt relativt detta objekt i dispositionshierarkin. |
-| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly) { get; } | Får ett värde som indikerar om samlingen är skrivskyddad. |
-| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized) { get; } | Hämtar värdet som anger om åtkomst till denna samling är synkroniserad (trådsäker). |
-| [Italic](../../aspose.pdf/outlineitemcollection/italic) { get; set; } | Hämtar eller sätter kursiv flagga för titeltexten för denna dispositionsartikel |
-| [Item](../../aspose.pdf/outlineitemcollection/item) { get; } | Hämtar dispositionsobjekt från samlingen med hjälp av index. |
-| [Last](../../aspose.pdf/outlineitemcollection/last) { get; } | Hämtar dispositionsobjektet som representerar det sista objektet på toppnivå i dispositionshierarkin. |
-| [Level](../../aspose.pdf/outlineitemcollection/level) { get; } | Får hierarkinivå för dispositionsobjektet. |
-| [Next](../../aspose.pdf/outlineitemcollection/next) { get; } | Hämtar dispositionsobjektet som representerar nästa objekt relativt detta objekt i dispositionshierarkin. |
-| [Open](../../aspose.pdf/outlineitemcollection/open) { get; set; } | Hämta eller ställer in öppen status (sant/falskt) för dispositionsobjekt. |
-| [Parent](../../aspose.pdf/outlineitemcollection/parent) { get; } | Hämtar det överordnade objektet för detta dispositionsobjekt i dispositionshierarkin. |
-| [Prev](../../aspose.pdf/outlineitemcollection/prev) { get; } | Hämtar dispositionsobjektet som representerar föregående objekt relativt detta objekt i dispositionshierarkin. |
-| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot) { get; } | Hämtar objektet som kan användas för att synkronisera åtkomst till denna samling. |
-| [Title](../../aspose.pdf/outlineitemcollection/title) { get; set; } | Hämtar eller ställer in titeln för detta dispositionsobjekt. |
-| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount) { get; } | Hämtar det totala antalet dispositionsobjekt på alla nivåer i dokumentets dispositionshierarkin. |
+| [Action](../../aspose.pdf/outlineitemcollection/action/) { get; set; } | Hämtar eller sätter åtgärden för denna outline-post. |
+| [Bold](../../aspose.pdf/outlineitemcollection/bold/) { get; set; } | Hämtar eller sätter fetstilflagga för titeltexten av denna outline-post |
+| [Color](../../aspose.pdf/outlineitemcollection/color/) { get; set; } | Hämtar eller sätter färgen för titeltexten av denna outline-post. |
+| override [Count](../../aspose.pdf/outlineitemcollection/count/) { get; } | Antal objekt i samlingen. Vänligen förväxla inte med VisibleCount: VisibleCount hämtar antalet synliga outline-poster på alla nivåer. |
+| [Destination](../../aspose.pdf/outlineitemcollection/destination/) { get; set; } | Hämtar eller sätter destinationen för denna outline-post. |
+| [First](../../aspose.pdf/outlineitemcollection/first/) { get; } | Hämtar outline-posten som representerar det första översta objektet i outline-hierarkin. |
+| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext/) { get; } | Kontrollerar om outline-posten representerar nästa objekt relativt denna post i outline-hierarkin. |
+| override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly/) { get; } | Hämtar ett värde som indikerar om samlingen är skrivskyddad. |
+| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized/) { get; } | Hämtar värdet som indikerar om åtkomst till denna samling är synkroniserad (trådsäker). |
+| [Italic](../../aspose.pdf/outlineitemcollection/italic/) { get; set; } | Hämtar eller sätter kursivflagga för titeltexten av denna outline-post |
+| [Item](../../aspose.pdf/outlineitemcollection/item/) { get; } | Hämtar outline-posten från samlingen med hjälp av index. |
+| [Last](../../aspose.pdf/outlineitemcollection/last/) { get; } | Hämtar outline-posten som representerar det sista översta objektet i outline-hierarkin. |
+| [Level](../../aspose.pdf/outlineitemcollection/level/) { get; } | Hämtar hierarkisk nivå av outline-posten. |
+| [Next](../../aspose.pdf/outlineitemcollection/next/) { get; } | Hämtar outline-posten som representerar nästa objekt relativt denna post i outline-hierarkin. |
+| [Open](../../aspose.pdf/outlineitemcollection/open/) { get; set; } | Hämtar eller sätter öppet status (true/false) för outline-posten. |
+| [Parent](../../aspose.pdf/outlineitemcollection/parent/) { get; } | Hämtar föräldraobjektet för denna outline-post i outline-hierarkin. |
+| [Prev](../../aspose.pdf/outlineitemcollection/prev/) { get; } | Hämtar outline-posten som representerar föregående objekt relativt denna post i outline-hierarkin. |
+| [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot/) { get; } | Hämtar objektet som kan användas för att synkronisera åtkomst till denna samling. |
+| [Title](../../aspose.pdf/outlineitemcollection/title/) { get; set; } | Hämtar eller sätter titeln för denna outline-post. |
+| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount/) { get; } | Hämtar det totala antalet outline-poster på alla nivåer i dokumentets outline-hierarki. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlineitemcollection/add)(OutlineItemCollection) | Lägger till dispositionsobjekt till samlingen. |
-| override [Clear](../../aspose.pdf/outlineitemcollection/clear)() | Rensar alla objekt från samlingen. |
-| override [Contains](../../aspose.pdf/outlineitemcollection/contains)(OutlineItemCollection) | Kontrollerar om samlingen innehåller ett visst föremål. |
-| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto)(OutlineItemCollection[], int) | Kopierar konturposterna till en System.Array, med början på ett visst System.Array-index. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete)() | Tar bort denna disposition från dokumentets dispositionshierarki. |
-| [Delete](../../aspose.pdf/outlineitemcollection/delete#delete_1)(string) | Tar bort konturpost med angivet namn från dokumentkonturhierarkin. |
-| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator)() | Returnerar en uppräkning som itererar genom samlingen. |
-| [Insert](../../aspose.pdf/outlineitemcollection/insert)(int, OutlineItemCollection) | Infogar dispositionsobjektet i samlingen på angiven plats. |
-| [Remove](../../aspose.pdf/outlineitemcollection/remove#remove_1)(int) | Ta bort objekt efter index. |
-| override [Remove](../../aspose.pdf/outlineitemcollection/remove#remove)(OutlineItemCollection) | Ta bort kontursamlingsobjekt. |
+| override [Add](../../aspose.pdf/outlineitemcollection/add/)(OutlineItemCollection) | Lägger till outline-posten i samlingen. |
+| override [Clear](../../aspose.pdf/outlineitemcollection/clear/)() | Rensar alla objekt från samlingen. |
+| override [Contains](../../aspose.pdf/outlineitemcollection/contains/)(OutlineItemCollection) | Kontrollerar om samlingen innehåller angivet objekt. |
+| override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto/)(OutlineItemCollection[], int) | Kopierar outline-poster till en System.Array, som börjar vid ett visst System.Array-index. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete)() | Tar bort denna outline-post från dokumentets outline-hierarki. |
+| [Delete](../../aspose.pdf/outlineitemcollection/delete/#delete_1)(string) | Tar bort outline-posten med angivet namn från dokumentets outline-hierarki. |
+| override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator/)() | Returnerar en enumerator som itererar genom samlingen. |
+| [Insert](../../aspose.pdf/outlineitemcollection/insert/)(int, OutlineItemCollection) | Infogar outline-posten i samlingen på den angivna platsen. |
+| [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove_1)(int) | Tar bort objektet med index. |
+| override [Remove](../../aspose.pdf/outlineitemcollection/remove/#remove)(OutlineItemCollection) | Tar bort outline-samlingsobjektet. |
 
-### Se även
+### Se Även
 
-* class [Outlines](../outlines)
-* namnutrymme [Aspose.Pdf](../../aspose.pdf)
-* hopsättning [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [Outlines](../outlines/)
+* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../aspose.pdf/)

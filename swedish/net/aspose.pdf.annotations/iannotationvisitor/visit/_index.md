@@ -1,14 +1,14 @@
 ---
-title: Visit
-second_title: Aspose.PDF för .NET API Referens
-description: Besök/välj länkkommentar.
+title: IAnnotationVisitor.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: IAnnotationVisitor metod. Besök/välj länkannotation
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_8}
 
-Besök/välj länkkommentar.
+Besök/välj länkannotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,20 +16,20 @@ public void Visit(LinkAnnotation link)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation objektexempel/mall. |
+| link | LinkAnnotation | Exempel/mall för LinkAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [LinkAnnotation](../../linkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [LinkAnnotation](../../linkannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Besök/välj anteckning för bilaga.
+Besök/välj bilagaannotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,20 +37,20 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation objektexempel/mall. |
+| attachment | FileAttachmentAnnotation | Exempel/mall för FileAttachmentAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(TextAnnotation) {#visit_17}
+## Visit(TextAnnotation) {#visit_20}
 
-Besök/välj textkommentar.
+Besök/välj textannotation.
 
 ```csharp
 public void Visit(TextAnnotation text)
@@ -58,20 +58,20 @@ public void Visit(TextAnnotation text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation objektexempel/mall. |
+| text | TextAnnotation | Exempel/mall för TextAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [TextAnnotation](../../textannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [TextAnnotation](../../textannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_4}
 
-Besök/välj fritextkommentar.
+Besök/välj fritekstannotation.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -79,20 +79,20 @@ public void Visit(FreeTextAnnotation freetext)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation objektexempel/mall. |
+| freetext | FreeTextAnnotation | Exempel/mall för FreeTextAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [FreeTextAnnotation](../../freetextannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_5}
 
-Besök/välj markeringskommentar.
+Besök/välj markeringsannotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -100,20 +100,20 @@ public void Visit(HighlightAnnotation highlight)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation objektexempel/mall. |
+| highlight | HighlightAnnotation | Exempel/mall för HighlightAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [HighlightAnnotation](../../highlightannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [HighlightAnnotation](../../highlightannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_18}
+## Visit(UnderlineAnnotation) {#visit_22}
 
-Besök/välj understrykningsanteckning.
+Besök/välj understrykningannotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -121,20 +121,20 @@ public void Visit(UnderlineAnnotation underline)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation objektexempel/mall. |
+| underline | UnderlineAnnotation | Exempel/mall för UnderlineAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [UnderlineAnnotation](../../underlineannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_16}
+## Visit(StrikeOutAnnotation) {#visit_19}
 
-Besök/välj strykkommentar.
+Besök/välj genomstrykningannotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -142,20 +142,20 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation objektexempel/mall. |
+| strikeOut | StrikeOutAnnotation | Exempel/mall för StrikeOutAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [StrikeOutAnnotation](../../strikeoutannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_14}
+## Visit(SquigglyAnnotation) {#visit_17}
 
-Besök/välj snirklig anteckning.
+Besök/välj vågig annotation.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -163,20 +163,20 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation objektexempel/mall. |
+| squiggly | SquigglyAnnotation | Exempel/mall för SquigglyAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SquigglyAnnotation](../../squigglyannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_11}
+## Visit(PopupAnnotation) {#visit_13}
 
-Besök/välj popup-kommentar.
+Besök/välj popup-annotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -184,20 +184,20 @@ public void Visit(PopupAnnotation popup)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation objektexempel/mall. |
+| popup | PopupAnnotation | Exempel/mall för PopupAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [PopupAnnotation](../../popupannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PopupAnnotation](../../popupannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_7}
 
-Besök/välj radkommentar.
+Besök/välj linjeannotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -205,20 +205,20 @@ public void Visit(LineAnnotation line)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation objektexempel/mall. |
+| line | LineAnnotation | Exempel/mall för LineAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [LineAnnotation](../../lineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [LineAnnotation](../../lineannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
-Besök/välj cirkelkommentar.
+Besök/välj cirkelannotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -226,20 +226,20 @@ public void Visit(CircleAnnotation circle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation objektexempel/mall. |
+| circle | CircleAnnotation | Exempel/mall för CircleAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [CircleAnnotation](../../circleannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [CircleAnnotation](../../circleannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_13}
+## Visit(SquareAnnotation) {#visit_16}
 
-Besök/välj kvadratisk anteckning.
+Besök/välj fyrkantannotation.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -247,20 +247,20 @@ public void Visit(SquareAnnotation square)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation objektexempel/mall. |
+| square | SquareAnnotation | Exempel/mall för SquareAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [SquareAnnotation](../../squareannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [SquareAnnotation](../../squareannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_6}
 
-Besök/välj bläckanteckning.
+Besök/välj bläckannotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,20 +268,20 @@ public void Visit(InkAnnotation ink)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation objektexempel/mall. |
+| ink | InkAnnotation | Exempel/mall för InkAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [InkAnnotation](../../inkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [InkAnnotation](../../inkannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_10}
+## Visit(PolylineAnnotation) {#visit_12}
 
-Besök/välj polylinjekommentar.
+Besök/välj polylineannotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,20 +289,20 @@ public void Visit(PolylineAnnotation polyline)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation objektexempel/mall. |
+| polyline | PolylineAnnotation | Exempel/mall för PolylineAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [PolylineAnnotation](../../polylineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PolylineAnnotation](../../polylineannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_9}
+## Visit(PolygonAnnotation) {#visit_11}
 
-Besök/välj polygonkommentar.
+Besök/välj polygonannotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -310,20 +310,20 @@ public void Visit(PolygonAnnotation polygon)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation objektexempel/mall. |
+| polygon | PolygonAnnotation | Exempel/mall för PolygonAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [PolygonAnnotation](../../polygonannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PolygonAnnotation](../../polygonannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
-Besök/välj markeringskommentar.
+Besök/välj markörannotation.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -331,20 +331,20 @@ public void Visit(CaretAnnotation caret)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation objektexempel/mall. |
+| caret | CaretAnnotation | Exempel/mall för CaretAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [CaretAnnotation](../../caretannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [CaretAnnotation](../../caretannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(StampAnnotation) {#visit_15}
+## Visit(StampAnnotation) {#visit_18}
 
-Besök/välj stämpelkommentar.
+Besök/välj stämpelannotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -352,20 +352,20 @@ public void Visit(StampAnnotation stamp)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation objektexempel/mall. |
+| stamp | StampAnnotation | Exempel/mall för StampAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [StampAnnotation](../../stampannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [StampAnnotation](../../stampannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_19}
+## Visit(WidgetAnnotation) {#visit_23}
 
-Besök/välj widgetkommentar.
+Besök/välj widgetannotation.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -373,20 +373,20 @@ public void Visit(WidgetAnnotation widget)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation objektexempel/mall. |
+| widget | WidgetAnnotation | Exempel/mall för WidgetAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [WidgetAnnotation](../../widgetannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [WidgetAnnotation](../../widgetannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_9}
 
-Besök/välj filmkommentar.
+Besök/välj filmannotation.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,20 +394,20 @@ public void Visit(MovieAnnotation movie)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation objektexempel/mall. |
+| movie | MovieAnnotation | Exempel/mall för MovieAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [MovieAnnotation](../../movieannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [MovieAnnotation](../../movieannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_12}
+## Visit(ScreenAnnotation) {#visit_15}
 
-Besök/välj skärmkommentar.
+Besök/välj skärmanimation.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -415,13 +415,95 @@ public void Visit(ScreenAnnotation screen)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation objektexempel/mall. |
+| screen | ScreenAnnotation | Exempel/mall för ScreenAnnotation-objekt. |
 
-### Se även
+### Se Även
 
-* class [ScreenAnnotation](../../screenannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namnutrymme [Aspose.Pdf.Annotations](../../iannotationvisitor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [ScreenAnnotation](../../screenannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+---
+
+## Visit(TrimMarkAnnotation) {#visit_21}
+
+Besök/välj en trimmarkeringannotation.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | Exempel/mall för [`TrimMarkAnnotation`](../../trimmarkannotation/) objekt. |
+
+### Se Även
+
+* klass [TrimMarkAnnotation](../../trimmarkannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Besök/välj en bleed markeringannotation.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | Exempel/mall för [`BleedMarkAnnotation`](../../bleedmarkannotation/) objekt. |
+
+### Se Även
+
+* klass [BleedMarkAnnotation](../../bleedmarkannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_14}
+
+Besök/välj en registreringsmarkeringannotation.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | Exempel/mall för [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) objekt. |
+
+### Se Även
+
+* klass [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_10}
+
+Besök/välj en sidinformationannotation.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | Exempel/mall för [`PageInformationAnnotation`](../../pageinformationannotation/) objekt. |
+
+### Se Även
+
+* klass [PageInformationAnnotation](../../pageinformationannotation/)
+* gränssnitt [IAnnotationVisitor](../)
+* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)

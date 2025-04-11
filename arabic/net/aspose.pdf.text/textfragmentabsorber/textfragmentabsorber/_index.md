@@ -1,394 +1,438 @@
 ---
-title: TextFragmentAbsorber
-second_title: Aspose.PDF لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفTextFragmentAbsorberaspose.pdf.text/textfragmentabsorber يقوم بالبحث في جميع أجزاء النص من المستند أو الصفحة.
+title: TextFragmentAbsorber.TextFragmentAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: مُنشئ TextFragmentAbsorber. يقوم بتهيئة مثيل جديد من TextFragmentAbsorber الذي يقوم بالبحث عن جميع مقاطع النص في المستند أو الصفحة
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) يقوم بالبحث في جميع أجزاء النص من المستند أو الصفحة.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) الذي يقوم بالبحث عن جميع مقاطع النص في المستند أو الصفحة.
 
 ```csharp
 public TextFragmentAbsorber()
 ```
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث عن النص ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) مجموعة.
+يقوم بإجراء بحث نصي ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص في صفحة مستند PDF الأولى واستبدال النص.
+توضح هذه المثال كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال النص.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ابحث عن الخط الذي سيتم استخدامه لتغيير خط نص المستند
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// إنشاء كائن TextFragmentAbsorber
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// اجعل الممتص للبحث في جميع تكرارات نص "أهلًا بالعالم"
+// Make the absorber to search all "hello world" text occurrences
 absorber.Phrase = "hello world";
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير نص تواجد النص الأول
+// Change text of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber)مع خيارات تحرير النص ، والتي تقوم بالبحث في جميع أجزاء النص من المستند أو الصفحة.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) مع خيارات تحرير النص، الذي يقوم بالبحث عن جميع مقاطع النص في المستند أو الصفحة.
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| textEditOptions | TextEditOptions | خيارات تحرير النص (يسمح بتشغيل بعض ميزات التحرير). |
+| textEditOptions | TextEditOptions | خيارات تحرير النص (تسمح بتفعيل بعض ميزات التحرير). |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث عن النص ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) مجموعة.
+يقوم بإجراء بحث نصي ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية العثور على جميع أجزاء النص في صفحة مستند PDF الأولى واستبدال الخط لها.
+توضح هذه المثال كيفية العثور على جميع مقاطع النص في الصفحة الأولى من مستند PDF واستبدال الخط لها.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// إنشاء كائن TextFragmentAbsorber
+// Create TextFragmentAbsorber object
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace.RemoveUnusedFonts));
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// البحث عن خط Courier
+// Find Courier font
 Pdf.Text.Font font = FontRepository.FindFont("Courier");
 
-// تعيين الخط لجميع أجزاء النص
+// Set the font for all the text fragments
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.TextState.Font = font;
 }
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة للعبارة النصية المحددة.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة.
 
 ```csharp
 public TextFragmentAbsorber(string phrase)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| phrase | String | عبارة أن[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
+| phrase | String | العبارة التي يبحث عنها [`TextFragmentAbsorber`](../) |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص في صفحة مستند PDF الأولى واستبدال النص والخط.
+توضح هذه المثال كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال النص وخطه.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ابحث عن الخط الذي سيتم استخدامه لتغيير خط نص المستند
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات نص "أهلًا بالعالم"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// تغيير النص والخط عند ظهور النص الأول
+// Change text and font of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة لكائن فئة System.Text.RegularExpressions.Regex المحدد.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وكائن فئة System.Text.RegularExpressions.Regex.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex كائن فئة[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
+| regex | Regex | كائن فئة System.Text.RegularExpressions.Regex الذي يبحث عنه [`TextFragmentAbsorber`](../) |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص في صفحة مستند PDF الأولى واستبدال النص والخط.
+توضح هذه المثال كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال النص وخطه.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ابحث عن الخط الذي سيتم استخدامه لتغيير خط نص المستند
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// إنشاء كائن TextAbsorber للعثور على جميع مثيلات إدخال regex
+// Create TextAbsorber object to find all instances of the input regex
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"));
 
-// قبول الماص للصفحة الأولى
+// Accept the absorber for first page
 doc.Pages[1].Accept(absorber);
 
-// يجب أن نجد كلمة "hello" واستبدالها بـ "Hi"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber)فئة للعبارة النصية المحددة وخيارات البحث عن النص.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وخيارات بحث النص.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| phrase | String | عبارة أن[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
-| textSearchOptions | TextSearchOptions | خيارات البحث عن النص (للسماح بتشغيل بعض ميزات البحث. على سبيل المثال ، البحث باستخدام التعبير العادي) |
+| phrase | String | العبارة التي يبحث عنها [`TextFragmentAbsorber`](../) |
+| textSearchOptions | TextSearchOptions | خيارات بحث النص (تسمح بتفعيل بعض ميزات البحث. على سبيل المثال، البحث باستخدام تعبير عادي) |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص ذي تعبير عادي في صفحة مستند PDF الأولى واستبدال النص.
+توضح هذه المثال كيفية العثور على نص باستخدام تعبير عادي في الصفحة الأولى من مستند PDF واستبدال النص.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object الذي يبحث في جميع الكلمات التي تبدأ بـ "h" وتنتهي "o" باستخدام التعبير العادي.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// يجب أن نجد كلمة "hello" واستبدالها بـ "Hi"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
  
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextSearchOptions) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة للعبارة النصية المحددة وخيارات البحث عن النص.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وخيارات بحث النص.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex كائن فئة[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
-| textSearchOptions | TextSearchOptions | خيارات البحث عن النص (يسمح بتشغيل بعض ميزات البحث.) |
+| regex | Regex | كائن فئة System.Text.RegularExpressions.Regex الذي يبحث عنه [`TextFragmentAbsorber`](../) |
+| textSearchOptions | TextSearchOptions | خيارات بحث النص (تسمح بتفعيل بعض ميزات البحث.) |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص ذي تعبير عادي في صفحة مستند PDF الأولى واستبدال النص.
+توضح هذه المثال كيفية العثور على نص باستخدام تعبير عادي في الصفحة الأولى من مستند PDF واستبدال النص.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object الذي يبحث في جميع الكلمات التي تبدأ بـ "h" وتنتهي "o" باستخدام التعبير العادي.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"), new TextSearchOptions(true));
 
-// يجب أن نجد كلمة "hello" واستبدالها بـ "Hi"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextFragmentAbsorber(Regex[], TextSearchOptions) {#constructor_9}
+
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وخيارات بحث النص.
+
+```csharp
+public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions)
+```
+
+| المعامل | النوع | الوصف |
+| --- | --- | --- |
+| regexes | Regex[] | مصفوفة من كائنات فئة System.Text.RegularExpressions.Regex التي يبحث عنها [`TextFragmentAbsorber`](../) . |
+| textSearchOptions | TextSearchOptions | خيارات بحث النص (تسمح بتفعيل بعض ميزات البحث.). |
+
+## ملاحظات
+
+يقوم بإجراء بحث نصي عن مصفوفة العبارات المحددة ويوفر الوصول إلى نتائج البحث عبر قاموس [`RegexResults`](../regexresults/) .
+
+## أمثلة
+
+توضح هذه المثال كيفية العثور على نص باستخدام مصفوفة من التعبيرات العادية في الصفحة الأولى من مستند PDF.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+var regexes = new Regex[]
+{
+new Regex( @"expression1", RegexOptions.IgnoreCase),
+new Regex( @"expression2", RegexOptions.IgnoreCase),
+};
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
+doc.Pages[1].Accept(absorber);
+// Get results of 
+var results = absorber.RegexResults;
+```
+
+### انظر أيضًا
+
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة للعبارة النصية المحددة وخيارات البحث عن النص وخيارات تحرير النص.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة، خيارات بحث النص وخيارات تحرير النص.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
     TextEditOptions textEditOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| phrase | String | عبارة أن[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
-| textSearchOptions | TextSearchOptions | خيارات البحث عن النص (للسماح بتشغيل بعض ميزات البحث. على سبيل المثال ، البحث باستخدام التعبير العادي) |
-| textEditOptions | TextEditOptions | خيارات تحرير النص (يسمح بتشغيل بعض ميزات التحرير). |
+| phrase | String | العبارة التي يبحث عنها [`TextFragmentAbsorber`](../) |
+| textSearchOptions | TextSearchOptions | خيارات بحث النص (تسمح بتفعيل بعض ميزات البحث. على سبيل المثال، البحث باستخدام تعبير عادي) |
+| textEditOptions | TextEditOptions | خيارات تحرير النص (تسمح بتفعيل بعض ميزات التحرير). |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أمثلة
+## أمثلة
 
-يوضح المثال كيفية البحث عن نص ذي تعبير عادي في صفحة مستند PDF الأولى واستبدال النص.
+توضح هذه المثال كيفية العثور على نص باستخدام تعبير عادي في الصفحة الأولى من مستند PDF واستبدال النص.
 
 ```csharp
-// افتح المستند
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object الذي يبحث في جميع الكلمات التي تبدأ بـ "h" وتنتهي "o" باستخدام التعبير العادي.
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// يجب أن نجد كلمة "hello" واستبدالها بـ "Hi"
+// we should find "hello" word and replace it with "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// حفظ الوثيقة
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة للعبارة النصية المحددة وخيارات تحرير النص.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وخيارات تحرير النص.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| phrase | String | عبارة أن[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
-| textEditOptions | TextEditOptions | خيارات تحرير النص (يسمح بتشغيل بعض ميزات التحرير). |
+| phrase | String | العبارة التي يبحث عنها [`TextFragmentAbsorber`](../) |
+| textEditOptions | TextEditOptions | خيارات تحرير النص (تسمح بتفعيل بعض ميزات التحرير). |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`TextFragmentAbsorber`](../../textfragmentabsorber) فئة للعبارة النصية المحددة وخيارات تحرير النص.
+يهيئ مثيلًا جديدًا من [`TextFragmentAbsorber`](../) لفترة النص المحددة وخيارات تحرير النص.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 ```
 
-| معامل | يكتب | وصف |
+| المعامل | النوع | الوصف |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex كائن فئة[`TextFragmentAbsorber`](../../textfragmentabsorber) عمليات البحث |
-| textEditOptions | TextEditOptions | خيارات تحرير النص (يسمح بتشغيل بعض ميزات التحرير). |
+| regex | Regex | كائن فئة System.Text.RegularExpressions.Regex الذي يبحث عنه [`TextFragmentAbsorber`](../) |
+| textEditOptions | TextEditOptions | خيارات تحرير النص (تسمح بتفعيل بعض ميزات التحرير). |
 
-### ملاحظات
+## ملاحظات
 
-يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر[`TextFragments`](../textfragments) جمع .
+يقوم بإجراء بحث نصي عن العبارة المحددة ويوفر الوصول إلى نتائج البحث عبر مجموعة [`TextFragments`](../textfragments/) .
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* مساحة الاسم [Aspose.Pdf.Text](../../textfragmentabsorber)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

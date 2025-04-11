@@ -1,53 +1,53 @@
 ---
-title: TextAbsorber
-second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярTextAbsorberaspose.pdf.text/textabsorber .
+title: TextAbsorber.TextAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Конструктор TextAbsorber. Инициализирует новый экземпляр TextAbsorber
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textabsorber/textabsorber/
 ---
 ## TextAbsorber() {#constructor}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) .
+Инициализирует новый экземпляр [`TextAbsorber`](../).
 
 ```csharp
 public TextAbsorber()
 ```
 
-### Примечания
+## Remarks
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через объект [`Text`](../text/).
 
-### Примеры
+## Examples
 
-Пример демонстрирует, как извлечь текст со всех страниц документа PDF.
+Пример демонстрирует, как извлечь текст со всех страниц PDF-документа.
 
 ```csharp
-// открыть документ
+// open document
 Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения текста
+// create TextAbsorber object to extract text
 TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// получаем извлеченный текст
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Смотрите также
+### See Also
 
-* class [TextAbsorber](../../textabsorber)
-* пространство имен [Aspose.Pdf.Text](../../textabsorber)
+* класс [TextAbsorber](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с опциями извлечения.
+Инициализирует новый экземпляр [`TextAbsorber`](../) с параметрами извлечения.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -57,41 +57,41 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Параметры извлечения текста |
 
-### Примечания
+## Remarks
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через объект [`Text`](../text/).
 
-### Примеры
+## Examples
 
-Пример демонстрирует, как извлечь текст со всех страниц документа PDF.
+Пример демонстрирует, как извлечь текст со всех страниц PDF-документа.
 
 ```csharp
-// открыть документ
+// open document
 Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения текста с форматированием
+// create TextAbsorber object to extract text with formatting
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// принимаем поглотитель для всех страниц документа
+// accept the absorber for all document's pages
 doc.Pages.Accept(absorber);
 
-// получаем извлеченный текст
+// get the extracted text
 string extractedText = absorber.Text;
 
 ```
 
-### Смотрите также
+### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextAbsorber](../../textabsorber)
-* пространство имен [Aspose.Pdf.Text](../../textabsorber)
+* класс [TextExtractionOptions](../../textextractionoptions/)
+* класс [TextAbsorber](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с возможностью извлечения и текстового поиска.
+Инициализирует новый экземпляр [`TextAbsorber`](../) с параметрами извлечения и поиска текста.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -100,25 +100,25 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Параметры извлечения текста |
-| textSearchOptions | TextSearchOptions | Параметры текстового поиска |
+| textSearchOptions | TextSearchOptions | Параметры поиска текста |
 
-### Примечания
+## Remarks
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через объект [`Text`](../text/).
 
-### Смотрите также
+### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions)
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* пространство имен [Aspose.Pdf.Text](../../textabsorber)
+* класс [TextExtractionOptions](../../textextractionoptions/)
+* класс [TextSearchOptions](../../textsearchoptions/)
+* класс [TextAbsorber](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с параметрами текстового поиска.
+Инициализирует новый экземпляр [`TextAbsorber`](../) с параметрами поиска текста.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -126,17 +126,15 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| textSearchOptions | TextSearchOptions | Параметры текстового поиска |
+| textSearchOptions | TextSearchOptions | Параметры поиска текста |
 
-### Примечания
+## Remarks
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через объект [`Text`](../text/).
 
-### Смотрите также
+### See Also
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextAbsorber](../../textabsorber)
-* пространство имен [Aspose.Pdf.Text](../../textabsorber)
+* класс [TextSearchOptions](../../textsearchoptions/)
+* класс [TextAbsorber](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

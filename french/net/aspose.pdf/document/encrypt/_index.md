@@ -1,87 +1,121 @@
 ---
-title: Encrypt
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Crypte le document. Appelez puis Enregistrer pour obtenir une version chiffrée du document.
+title: Document.Encrypt
+second_title: Aspose.PDF for .NET API Reference
+description: Méthode Document. Crypte le document. Appelez ensuite Save pour obtenir la version cryptée du document
 type: docs
-weight: 570
+weight: 620
 url: /fr/net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
 
-Crypte le document. Appelez puis Enregistrer pour obtenir une version chiffrée du document.
+Crypte le document. Appelez ensuite Save pour obtenir la version cryptée du document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| userPassword | String | Mot de passe de l'utilisateur. |
+| userPassword | String | Mot de passe utilisateur. |
 | ownerPassword | String | Mot de passe propriétaire. |
-| privileges | DocumentPrivilege | Autorisations de document, voir[`Permissions`](../permissions) pour plus de détails. |
-| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir[`CryptoAlgorithm`](../cryptoalgorithm) pour plus de détails. |
-| usePdf20 | Boolean | Prise en charge de la révision 6 (extension 8). |
+| privileges | DocumentPrivilege | Permissions du document, voir [`Permissions`](../permissions/) pour plus de détails. |
+| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir [`CryptoAlgorithm`](../cryptoalgorithm/) pour plus de détails. |
+| usePdf20 | Boolean | Support pour la révision 6 (Extension 8). |
 
-### Voir également
+### Exemples
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+L'exemple suivant montre comment crypter des fichiers PDF avec [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
+
+```csharp
+[C#]
+
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath))
+	{
+	// Encrypt PDF
+	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
+
+	// Save updated PDF
+	document.Save(pdfFilePath);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF File.
+    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
+    
+	' Open document
+    Using document As Document = New Document(pdfFilePath)
+        ' Encrypt PDF
+        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
+        ' Save updated PDF
+        document.Save(pdfFilePath)
+    End Using
+```
+
+### Voir aussi
+
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
 
-Crypte le document. Appelez puis Enregistrer pour obtenir une version chiffrée du document.
+Crypte le document. Appelez ensuite Save pour obtenir la version cryptée du document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| userPassword | String | Mot de passe de l'utilisateur. |
+| userPassword | String | Mot de passe utilisateur. |
 | ownerPassword | String | Mot de passe propriétaire. |
-| permissions | Permissions | Autorisations de document, voir[`Permissions`](../permissions) pour plus de détails. |
-| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir[`CryptoAlgorithm`](../cryptoalgorithm) pour plus de détails. |
+| permissions | Permissions | Permissions du document, voir [`Permissions`](../permissions/) pour plus de détails. |
+| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir [`CryptoAlgorithm`](../cryptoalgorithm/) pour plus de détails. |
 
-### Voir également
+### Voir aussi
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
 
-Crypte le document. Appelez puis Enregistrer pour obtenir une version chiffrée du document.
+Crypte le document. Appelez ensuite Save pour obtenir la version cryptée du document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| userPassword | String | Mot de passe de l'utilisateur. |
+| userPassword | String | Mot de passe utilisateur. |
 | ownerPassword | String | Mot de passe propriétaire. |
-| permissions | Permissions | Autorisations de document, voir[`Permissions`](../permissions) pour plus de détails. |
-| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir[`CryptoAlgorithm`](../cryptoalgorithm) pour plus de détails. |
-| usePdf20 | Boolean | Prise en charge de la révision 6 (extension 8). |
+| permissions | Permissions | Permissions du document, voir [`Permissions`](../permissions/) pour plus de détails. |
+| cryptoAlgorithm | CryptoAlgorithm | Algorithme cryptographique, voir [`CryptoAlgorithm`](../cryptoalgorithm/) pour plus de détails. |
+| usePdf20 | Boolean | Support pour la révision 6 (Extension 8). |
 
-### Voir également
+### Voir aussi
 
-* enum [Permissions](../../permissions)
-* enum [CryptoAlgorithm](../../cryptoalgorithm)
-* class [Document](../../document)
-* espace de noms [Aspose.Pdf](../../document)
-* Assemblée [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

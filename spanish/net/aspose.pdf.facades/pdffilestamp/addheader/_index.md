@@ -1,9 +1,9 @@
 ---
-title: AddHeader
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Agrega encabezado a la página.
+title: PdfFileStamp.AddHeader
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileStamp. Agrega encabezado a la página
 type: docs
-weight: 160
+weight: 120
 url: /es/net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}
@@ -14,12 +14,12 @@ Agrega encabezado a la página.
 public void AddHeader(FormattedText formattedText, float topMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| formattedText | FormattedText | Texto para encabezado y propiedades del texto. |
+| formattedText | FormattedText | Texto para el encabezado y propiedades del texto. |
 | topMargin | Single | Margen en la parte superior de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -27,12 +27,12 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -45,26 +45,26 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
     float rightMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| formattedText | FormattedText | Objeto de texto con formato que contiene el texto de la página y sus propiedades. |
+| formattedText | FormattedText | Objeto de texto formateado que contiene el texto de la página y sus propiedades. |
 | topMargin | Single | Margen en la parte superior de la página. |
-| leftMargin | Single | Margen a la izquierda de la página. |
-| rightMargin | Single | Margen a la derecha de la página. |
+| leftMargin | Single | Margen en el lado izquierdo de la página. |
+| rightMargin | Single | Margen en el lado derecho de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -76,12 +76,12 @@ Agrega imagen como encabezado a las páginas del archivo.
 public void AddHeader(string imageFile, float topMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | imageFile | String | Ruta al archivo de imagen. |
 | topMargin | Single | Margen en la parte superior de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -90,11 +90,11 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -106,14 +106,14 @@ Agrega imagen como encabezado en las páginas.
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | imageFile | String | Ruta al archivo de imagen. |
 | topMargin | Single | Margen en la parte superior de la página. |
 | leftMargin | Single | Margen en el lado izquierdo de la página. |
 | rightMargin | Single | Margen en el lado derecho de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -122,11 +122,11 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -138,12 +138,12 @@ Agrega imagen como encabezado en las páginas.
 public void AddHeader(Stream imageStream, float topMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | imageStream | Stream | Flujo de la imagen. |
 | topMargin | Single | Margen en la parte superior de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -152,30 +152,30 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## AddHeader(Stream, float, float, float) {#addheader_3}
 
-Agrega una imagen en la parte superior de la página.
+Agrega imagen en la parte superior de la página.
 
 ```csharp
 public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Stream que contiene datos de imagen. |
+| inputStream | Stream | Flujo que contiene los datos de la imagen. |
 | topMargin | Single | Margen en la parte superior de la página. |
 | leftMargin | Single | Margen en el lado izquierdo de la página. |
 | rightMargin | Single | Margen en el lado derecho de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
@@ -184,10 +184,8 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

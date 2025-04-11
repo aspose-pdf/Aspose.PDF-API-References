@@ -1,57 +1,57 @@
 ---
-title: XImageCollection
-second_title: Aspose.PDF for .NET API 参考
-description: 代表 XImage 集合的类
+title: Class XImageCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XImageCollection class. 类表示 XImage 集合
 type: docs
-weight: 7410
+weight: 11360
 url: /zh/net/aspose.pdf/ximagecollection/
 ---
 ## XImageCollection class
 
-代表 XImage 集合的类。
+类表示 XImage 集合。
 
 ```csharp
 public sealed class XImageCollection : ICollection<XImage>
 ```
 
-## 特性
+## Properties
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/ximagecollection/count) { get; } | 集合中的图像计数。 |
-| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly) { get; } | 获取一个值，该值指示该集合是否为只读。 |
-| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized) { get; } | 如果对象已同步，则返回 true。 |
-| [Item](../../aspose.pdf/ximagecollection/item) { get; } | 通过索引从集合中获取图像。 (2 indexers) |
-| [Names](../../aspose.pdf/ximagecollection/names) { get; } | 获取图像名称数组。 |
-| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot) { get; } | 返回同步对象。 |
+| [Count](../../aspose.pdf/ximagecollection/count/) { get; } | 集合中图像的数量。 |
+| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly/) { get; } | 获取一个值，指示集合是否为只读。 |
+| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized/) { get; } | 如果对象是同步的，则返回 true。 |
+| [Item](../../aspose.pdf/ximagecollection/item/) { get; } | 通过索引从集合中获取图像。 (2 个索引器) |
+| [Names](../../aspose.pdf/ximagecollection/names/) { get; } | 获取图像名称的数组。 |
+| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot/) { get; } | 返回同步对象。 |
 
-## 方法
+## Methods
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/ximagecollection/add#add_1)(Stream) | 将实体添加到集合的末尾，因此可以通过最后一个索引访问实体。 |
-| [Add](../../aspose.pdf/ximagecollection/add#add)(XImage) | 将新图像添加到图像列表。此方法添加图像作为对相同 PdfObject 的引用（允许减小文件大小） |
-| [Add](../../aspose.pdf/ximagecollection/add#add_2)(Stream, ImageFilterType) | 将实体添加到集合的末尾，因此可以通过最后一个索引访问实体。 |
-| [Add](../../aspose.pdf/ximagecollection/add#add_3)(Stream, int) | 将实体添加到集合的末尾，因此可以通过最后一个索引访问实体。 |
-| [Clear](../../aspose.pdf/ximagecollection/clear)() | 清除集合中的所有项目。 |
-| [Contains](../../aspose.pdf/ximagecollection/contains)(XImage) | 确定集合是否包含特定值。 |
-| [CopyTo](../../aspose.pdf/ximagecollection/copyto)(XImage[], int) | 将图像数组复制到集合中。 |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete)() | 从集合中删除图像。 |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_1)(int) | 按索引从集合中删除索引。 |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_3)(string) | 按名称从集合中删除项目。 |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_2)(int, ImageDeleteAction) | 通过执行操作参数指定的操作的索引从集合中删除图像。 |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | 按名称从集合中删除项目。 |
-| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator)() | 返回集合枚举器。 |
-| [GetImageName](../../aspose.pdf/ximagecollection/getimagename)(XImage) | 返回图像列表中的名称，它是给定图像的键。 |
-| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | 从集合中移除项目，抛出未实现异常. |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace)(int, Stream) | 用另一个图像替换集合中的图像。 |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_1)(int, Stream, int) | 用另一个图像替换集合中的图像。 |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_2)(int, Stream, int, bool) | 用另一个图像替换集合中的图像。 |
+| [Add](../../aspose.pdf/ximagecollection/add/#add)(BitmapInfo) | 将实体添加到集合的末尾，以便可以通过最后一个索引访问实体。 |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_3)(Stream) | 将实体添加到集合的末尾，以便可以通过最后一个索引访问实体。 |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_2)(XImage) | 将新图像添加到图像列表。此方法将图像作为对同一 PdfObject 的引用添加（这允许减少文件大小） |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_1)(BitmapInfo, ImageFilterType) | 将实体添加到集合的末尾，以便可以通过最后一个索引访问实体。 |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_4)(Stream, ImageFilterType) | 将实体添加到集合的末尾，以便可以通过最后一个索引访问实体。 |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_5)(Stream, int) | 将实体添加到集合的末尾，以便可以通过最后一个索引访问实体。 |
+| [Clear](../../aspose.pdf/ximagecollection/clear/)() | 清除集合中的所有项。 |
+| [Contains](../../aspose.pdf/ximagecollection/contains/)(XImage) | 确定集合是否包含特定值。 |
+| [CopyTo](../../aspose.pdf/ximagecollection/copyto/)(XImage[], int) | 将图像数组复制到集合中。 |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete)() | 从集合中删除图像。 |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_1)(int) | 通过索引从集合中移除索引。 |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_3)(string) | 通过名称从集合中移除项。 |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_2)(int, ImageDeleteAction) | 通过索引从集合中移除图像，执行由操作参数指定的操作。 |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_4)(string, ImageDeleteAction) | 通过名称从集合中移除项。 |
+| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator/)() | 返回集合枚举器。 |
+| [GetImageName](../../aspose.pdf/ximagecollection/getimagename/)(XImage) | 返回图像列表中给定图像的名称。 |
+| [Remove](../../aspose.pdf/ximagecollection/remove/)(XImage) | 从集合中移除项，抛出 NotImplementedException。 |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace)(int, Stream) | 用另一幅图像替换集合中的图像。 |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_1)(int, Stream, int) | 用另一幅图像替换集合中的图像。 |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_2)(int, Stream, int, bool) | 用另一幅图像替换集合中的图像。 |
 
-### 也可以看看
+### See Also
 
-* class [XImage](../ximage)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf)
-* 部件 [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XImage](../ximage/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)

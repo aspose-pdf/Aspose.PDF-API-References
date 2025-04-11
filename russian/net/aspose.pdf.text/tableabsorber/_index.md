@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель элементов таблицы. Выполняет поиск и предоставляет доступ к результатам поиска черезTableList./tableabsorber/tablelist коллекция.
+title: Class TableAbsorber
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.Text.TableAbsorber. Представляет объект-абсорбер элементов таблицы. Выполняет поиск и предоставляет доступ к результатам поиска через коллекцию TableList
 type: docs
-weight: 6950
+weight: 10790
 url: /ru/net/aspose.pdf.text/tableabsorber/
 ---
-## TableAbsorber class
+## Класс TableAbsorber
 
-Представляет объект-поглотитель элементов таблицы. Выполняет поиск и предоставляет доступ к результатам поиска через[`TableList`](./tablelist) коллекция.
+Представляет объект-абсорбер элементов таблицы. Выполняет поиск и предоставляет доступ к результатам поиска через [`TableList`](./tablelist/) коллекцию.
 
 ```csharp
 public class TableAbsorber
@@ -18,52 +18,51 @@ public class TableAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [TableAbsorber](tableabsorber#constructor)() | Инициализирует новый экземпляр[`TableAbsorber`](../tableabsorber) . |
-| [TableAbsorber](tableabsorber#constructor_1)(TextSearchOptions) | Инициализирует новый экземпляр[`TableAbsorber`](../tableabsorber) с параметрами текстового поиска. |
+| [TableAbsorber](tableabsorber/#constructor)() | Инициализирует новый экземпляр `TableAbsorber`. |
+| [TableAbsorber](tableabsorber/#constructor_1)(TextSearchOptions) | Инициализирует новый экземпляр `TableAbsorber` с параметрами поиска текста. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist) { get; } | Возвращает IList только для чтения, содержащий найденные таблицы |
-| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions) { get; set; } | Получает или задает параметры текстового поиска. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } | * Активировать раннюю альфа-версию альтернативного механизма распознавания таблиц, который можно использовать для преобразования таблиц без границ. Пока не поддерживает редактирование таблиц и получение стилей текста. Значение по умолчанию — ложь; |
+| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist/) { get; } | Возвращает только для чтения IList, содержащий найденные таблицы |
+| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions/) { get; set; } | Получает или задает параметры поиска текста. |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Включает альтернативный движок распознавания таблиц, который превосходит в многочисленных сценариях и способен распознавать таблицы без границ. Пока не поддерживает редактирование таблиц и получение стилей текста. Значение по умолчанию - false; |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Remove](../../aspose.pdf.text/tableabsorber/remove)(AbsorbedTable) | Удаляет[`AbsorbedTable`](../absorbedtable) со страницы. |
-| [Replace](../../aspose.pdf.text/tableabsorber/replace)(Page, AbsorbedTable, Table) | Заменяет[`AbsorbedTable`](../absorbedtable) с[`Table`](../../aspose.pdf/table) на странице. |
-| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit)(Page) | Извлекает таблицы на указанной странице |
+| [Remove](../../aspose.pdf.text/tableabsorber/remove/)(AbsorbedTable) | Удаляет [`AbsorbedTable`](../absorbedtable/) со страницы. |
+| [Replace](../../aspose.pdf.text/tableabsorber/replace/)(Page, AbsorbedTable, Table) | Заменяет [`AbsorbedTable`](../absorbedtable/) на [`Table`](../../aspose.pdf/table/) на странице. |
+| [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit)(Document) | Извлекает таблицы в указанном документе. |
+| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit/#visit_1)(Page) | Извлекает таблицы на указанной странице |
 
-### Примеры
+## Примеры
 
-В примере показано, как найти таблицу на первой странице документа PDF и заменить текст в ячейке таблицы.
+Пример демонстрирует, как найти таблицу на первой странице PDF-документа и заменить текст в ячейке таблицы.
 
 ```csharp
-// Открыть документ
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TableAbsorber для поиска таблиц
+// Create TableAbsorber object to find tables
 TableAbsorber absorber = new TableAbsorber();
 
-// Посетить первую страницу с поглотителем
+// Visit first page with absorber
 absorber.Visit(pdfDocument.Pages[1]);
 
-// Получаем доступ к первой таблице на странице, их первой ячейке и текстовым фрагментам в ней
+// Get access to first table on page, their first cell and text fragments in it
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Изменяем текст первого фрагмента текста в ячейке
+// Change text of the first text fragment in the cell
 fragment.Text = "hi world";
 
-// Сохранить документ
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text)
+* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

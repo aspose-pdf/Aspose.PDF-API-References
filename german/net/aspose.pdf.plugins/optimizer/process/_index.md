@@ -1,0 +1,37 @@
+---
+title: Optimizer.Process
+second_title: Aspose.PDF for .NET API Reference
+description: Optimizer-Methode. Startet die Optimizer-Verarbeitung mit den angegebenen Parametern
+type: docs
+weight: 20
+url: /de/net/aspose.pdf.plugins/optimizer/process/
+---
+## Optimizer.Process-Methode
+
+Startet die [`Optimizer`](../) Verarbeitung mit den angegebenen Parametern.
+
+```csharp
+public ResultContainer Process(IPluginOptions options)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| options | IPluginOptions | Ein Optionsobjekt, das Anweisungen für den [`Optimizer`](../) enthält. |
+
+### Rückgabewert
+
+Ein ResultContainer-Objekt, das das Ergebnis der Operation enthält.
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| InvalidOperationException |  |
+
+### Siehe auch
+
+* Klasse [ResultContainer](../../resultcontainer/)
+* Schnittstelle [IPluginOptions](../../ipluginoptions/)
+* Klasse [Optimizer](../)
+* Namensraum [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* Assembly [Aspose.PDF](../../../)

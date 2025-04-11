@@ -1,99 +1,153 @@
 ---
-title: Add
-second_title: Aspose.PDF لمرجع .NET API
-description: إضافة صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع لنفس PdfObject مما يسمح بتقليل حجم الملف
+title: XImageCollection.Add
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة XImageCollection. تضيف صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع إلى نفس PdfObject مما يسمح بتقليل حجم الملف
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/ximagecollection/add/
 ---
-## Add(XImage) {#add}
+## Add(XImage) {#add_2}
 
-إضافة صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع لنفس PdfObject (مما يسمح بتقليل حجم الملف)
+تضيف صورة جديدة إلى قائمة الصور. تضيف هذه الطريقة الصورة كمرجع إلى نفس PdfObject (مما يسمح بتقليل حجم الملف)
 
 ```csharp
 public string Add(XImage image)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| image | XImage | ستتم إضافة XImage. |
+| image | XImage | XImage ليتم إضافتها. |
 
-### قيمة الإرجاع
+### Return Value
 
 اسم الصورة المضافة.
 
-### أنظر أيضا
+### See Also
 
-* class [XImage](../../ximage)
-* class [XImageCollection](../../ximagecollection)
-* مساحة الاسم [Aspose.Pdf](../../ximagecollection)
-* المجسم [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream) {#add_1}
+## Add(Stream) {#add_3}
 
-إضافة كيان إلى نهاية المجموعة ، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير .
+تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
 
 ```csharp
 public string Add(Stream image)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| image | Stream | دفق يحتوي على بيانات الصورة (بتنسيق JPEG). |
+| image | Stream | Stream يحتوي على بيانات الصورة (بتنسيق JPEG). |
 
-### قيمة الإرجاع
+### Return Value
 
 اسم الصورة المضافة.
 
-### أنظر أيضا
+### See Also
 
-* class [XImageCollection](../../ximagecollection)
-* مساحة الاسم [Aspose.Pdf](../../ximagecollection)
-* المجسم [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, ImageFilterType) {#add_2}
+## Add(BitmapInfo) {#add}
 
-إضافة كيان إلى نهاية المجموعة ، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير .
+تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
 
 ```csharp
-public void Add(Stream image, ImageFilterType filterType)
+public string Add(BitmapInfo bitmapInfo)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| image | Stream | دفق يحتوي على بيانات الصورة. |
-| filterType | ImageFilterType | نوع مرشح الصورة. |
+| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات الصورة النقطية (العرض، الارتفاع، تنسيق البكسل). |
 
-### أنظر أيضا
+### Return Value
 
-* enum [ImageFilterType](../../imagefiltertype)
-* class [XImageCollection](../../ximagecollection)
-* مساحة الاسم [Aspose.Pdf](../../ximagecollection)
-* المجسم [Aspose.PDF](../../../)
+اسم الصورة المضافة.
+
+### See Also
+
+* class [BitmapInfo](../../bitmapinfo/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, int) {#add_3}
+## Add(Stream, ImageFilterType) {#add_4}
 
-إضافة كيان إلى نهاية المجموعة ، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير .
+تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+
+```csharp
+public string Add(Stream image, ImageFilterType filterType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Stream | Stream يحتوي على بيانات الصورة. |
+| filterType | ImageFilterType | نوع فلتر الصورة. |
+
+### Return Value
+
+اسم الصورة المضافة.
+
+### See Also
+
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(BitmapInfo, ImageFilterType) {#add_1}
+
+تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
+
+```csharp
+public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bitmapInfo | BitmapInfo | كائن يحتوي على مصفوفة من البكسلات ومعلومات الصورة النقطية (العرض، الارتفاع، تنسيق البكسل). |
+| filterType | ImageFilterType | نوع فلتر الصورة. |
+
+### Return Value
+
+اسم الصورة المضافة.
+
+### See Also
+
+* class [BitmapInfo](../../bitmapinfo/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(Stream, int) {#add_5}
+
+تضيف الكيان إلى نهاية المجموعة، بحيث يمكن الوصول إلى الكيان بواسطة الفهرس الأخير.
 
 ```csharp
 public void Add(Stream image, int quality)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| image | Stream | دفق يحتوي على بيانات الصورة (بتنسيق JPEG). |
+| image | Stream | Stream يحتوي على بيانات الصورة (بتنسيق JPEG). |
 | quality | Int32 | جودة JPEG. |
 
-### أنظر أيضا
+### See Also
 
-* class [XImageCollection](../../ximagecollection)
-* مساحة الاسم [Aspose.Pdf](../../ximagecollection)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

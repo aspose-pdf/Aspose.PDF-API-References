@@ -1,14 +1,14 @@
 ---
-title: Sign
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Unterschreiben Sie das PDF-Dokument.
+title: PdfFileSignature.Sign
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileSignature-Methode. Erstellen Sie eine Unterschrift im PDF-Dokument
 type: docs
-weight: 280
+weight: 300
 url: /de/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Unterschreiben Sie das PDF-Dokument.
+Erstellen Sie eine Unterschrift im PDF-Dokument.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,14 +17,14 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Seitenzahl, auf der die Unterschrift geleistet wird. |
-| SigReason | String | Der Grund der Unterschrift. |
+| page | Int32 | Die Seitenzahl, auf der die Unterschrift erstellt wird. |
+| SigReason | String | Der Grund für die Unterschrift. |
 | SigContact | String | Der Kontakt der Unterschrift. |
-| SigLocation | String | Der Ort der Signatur. |
+| SigLocation | String | Der Standort der Unterschrift. |
 | visible | Boolean | Die Sichtbarkeit der Unterschrift. |
 | annotRect | Rectangle | Das Rechteck der Unterschrift. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -50,15 +50,15 @@ pdfSign.Save(outFile)
 
 ### Siehe auch
 
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Unterschreiben Sie das Dokument mit der angegebenen Typsignatur.
+Unterzeichnen Sie das Dokument mit der angegebenen Typunterschrift.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,15 +67,15 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Seitenzahl, auf der die Unterschrift geleistet wird. |
-| SigReason | String | Der Grund der Unterschrift. |
+| page | Int32 | Die Seitenzahl, auf der die Unterschrift erstellt wird. |
+| SigReason | String | Der Grund für die Unterschrift. |
 | SigContact | String | Der Kontakt der Unterschrift. |
-| SigLocation | String | Der Ort der Signatur. |
+| SigLocation | String | Der Standort der Unterschrift. |
 | visible | Boolean | Die Sichtbarkeit der Unterschrift. |
 | annotRect | Rectangle | Das Rechteck der Unterschrift. |
-| sig | Signature | Der Typ der Signatur könnte PKCS1, PKCS7 und PKCS7Detached sein. |
+| sig | Signature | Der Typ der Unterschrift, könnte PKCS1, PKCS7 und PKCS7Detached sein. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -100,16 +100,16 @@ pdfSign.Save()
 
 ### Siehe auch
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Signature](../../../aspose.pdf.forms/signature/)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Unterschreiben Sie das Dokument mit der angegebenen Typsignatur.
+Unterzeichnen Sie das Dokument mit der angegebenen Typunterschrift.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,12 +117,12 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Seitenzahl, auf der die Unterschrift geleistet wird. |
+| page | Int32 | Die Seitenzahl, auf der die Unterschrift erstellt wird. |
 | visible | Boolean | Die Sichtbarkeit der Unterschrift. |
 | annotRect | Rectangle | Das Rechteck der Unterschrift. |
-| sig | Signature | Die Art der Signatur, könnte PKCS1, PKCS7 und PKCS7Detached sein. Solche Daten wie Signaturgrund, Kontakt und Ort müssen bereits in diesem Objekt vorhanden sein (siehe entsprechende Eigenschaften). |
+| sig | Signature | Der Typ der Unterschrift, könnte PKCS1, PKCS7 und PKCS7Detached sein. Solche Daten wie Unterschriftsgrund, Kontakt und Standort müssen bereits in diesem Objekt vorhanden sein (siehe entsprechende Eigenschaften). |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -154,16 +154,16 @@ pdfSign.Save()
 
 ### Siehe auch
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Signature](../../../aspose.pdf.forms/signature/)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Unterschreiben Sie das Dokument mit der gegebenen Unterschriftsart, die in das bereits vorhandene Unterschriftsfeld eingefügt wird. Vor dem Unterschreiben muss das Unterschriftsfeld leer sein, dh das Feld darf kein Unterschriftswörterbuch enthalten. Damit das PDF-Dokument bereits ein Unterschriftsfeld hat, sollten Sie den Ort nicht angeben Um die Signatur zu stempeln, werden die entsprechende Seite und das entsprechende Rechteck aus dem Signaturfeld entnommen, das durch den Signaturnamen gefunden wird (siehe Parameter SigName).
+Unterzeichnen Sie das Dokument mit der angegebenen Typunterschrift, die im bereits vorhandenen Unterschriftsfeld platziert ist. Vor der Unterzeichnung muss das Unterschriftsfeld leer sein, d.h. das Feld darf kein Unterschriftswörterbuch enthalten. Da das PDF-Dokument bereits ein Unterschriftsfeld hat, sollten Sie nicht den Platz für die Unterschrift angeben, die entsprechende Seite und das Rechteck werden aus dem Unterschriftsfeld entnommen, das durch den Unterschriftsnamen gefunden wird (siehe SigName-Parameter).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -172,13 +172,13 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| SigName | String | Der Name des Signaturfelds. |
-| SigReason | String | Der Grund der Unterschrift. |
+| SigName | String | Der Name des Unterschriftsfeldes. |
+| SigReason | String | Der Grund für die Unterschrift. |
 | SigContact | String | Der Kontakt der Unterschrift. |
-| SigLocation | String | Der Ort der Signatur. |
-| sig | Signature | Der Typ der Signatur könnte PKCS1, PKCS7 und PKCS7Detached sein. |
+| SigLocation | String | Der Standort der Unterschrift. |
+| sig | Signature | Der Typ der Unterschrift, könnte PKCS1, PKCS7 und PKCS7Detached sein. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -202,16 +202,16 @@ pdfSign.Save()
 
 ### Siehe auch
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Signature](../../../aspose.pdf.forms/signature/)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Signieren Sie das Dokument mit der angegebenen Signatur, die in das bereits angezeigte Signaturfeld eingefügt wird. Vor dem Signieren des PDF-Dokuments sollte bereits ein Signaturfeld vorhanden sein. Die entsprechende Seite und das Rechteck werden aus dem Signaturfeld entnommen, das durch den Signaturnamen gefunden wird (siehe SigName-Parameter) .
+Unterzeichnen Sie das Dokument mit der angegebenen Typunterschrift, die im bereits vorhandenen Unterschriftsfeld platziert ist. Vor der Unterzeichnung muss das PDF-Dokument bereits ein Unterschriftsfeld haben, die entsprechende Seite und das Rechteck werden aus dem Unterschriftsfeld entnommen, das durch den Unterschriftsnamen gefunden wird (siehe SigName-Parameter).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,16 +220,16 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| page | Int32 | Die Seitenzahl, auf der die Unterschrift geleistet wird. |
-| SigName | String | Der Name des Signaturfelds. |
-| SigReason | String | Der Grund der Unterschrift. |
+| page | Int32 | Die Seitenzahl, auf der die Unterschrift erstellt wird. |
+| SigName | String | Der Name des Unterschriftsfeldes. |
+| SigReason | String | Der Grund für die Unterschrift. |
 | SigContact | String | Der Kontakt der Unterschrift. |
-| SigLocation | String | Der Ort der Signatur. |
+| SigLocation | String | Der Standort der Unterschrift. |
 | visible | Boolean | Die Sichtbarkeit der Unterschrift. |
 | annotRect | Rectangle | Das Rechteck der Unterschrift. |
-| sig | Signature | Der Typ der Signatur könnte PKCS1, PKCS7 und PKCS7Detached sein. |
+| sig | Signature | Der Typ der Unterschrift, könnte PKCS1, PKCS7 und PKCS7Detached sein. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -254,16 +254,16 @@ pdfSign.Save(outFile)
 
 ### Siehe auch
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Signature](../../../aspose.pdf.forms/signature/)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, Signature) {#sign_4}
 
-Unterschreiben Sie das Dokument mit der gegebenen Unterschriftsart, die in das bereits vorhandene Unterschriftsfeld eingefügt wird. Vor dem Unterschreiben muss das Unterschriftsfeld leer sein, dh das Feld darf kein Unterschriftswörterbuch enthalten. Damit das PDF-Dokument bereits ein Unterschriftsfeld hat, sollten Sie den Ort nicht angeben Um die Signatur zu stempeln, werden die entsprechende Seite und das entsprechende Rechteck aus dem Signaturfeld entnommen, das durch den Signaturnamen gefunden wird (siehe Parameter SigName). Solche Daten wie Signaturgrund, Kontakt und Ort müssen von entsprechenden Eigenschaften des Signaturobjekts sig. bereitgestellt werden.
+Unterzeichnen Sie das Dokument mit der angegebenen Typunterschrift, die im bereits vorhandenen Unterschriftsfeld platziert ist. Vor der Unterzeichnung muss das Unterschriftsfeld leer sein, d.h. das Feld darf kein Unterschriftswörterbuch enthalten. Da das PDF-Dokument bereits ein Unterschriftsfeld hat, sollten Sie nicht den Platz für die Unterschrift angeben, die entsprechende Seite und das Rechteck werden aus dem Unterschriftsfeld entnommen, das durch den Unterschriftsnamen gefunden wird (siehe SigName-Parameter). Solche Daten wie Unterschriftsgrund, Kontakt und Standort müssen durch die entsprechenden Eigenschaften des Signature-Objekts sig bereitgestellt werden.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -271,10 +271,10 @@ public void Sign(string SigName, Signature sig)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| SigName | String | Der Name des Signaturfelds. |
-| sig | Signature | Der Typ der Signatur könnte PKCS1 (Pkcs1Signature-Objekt), PKCS7 und PKCS7 Detached (Pkcs7Signature-Objekt) sein. |
+| SigName | String | Der Name des Unterschriftsfeldes. |
+| sig | Signature | Der Typ der Unterschrift, könnte PKCS1 (Pkcs1Signature-Objekt), PKCS7 und PKCS7 detached (Pkcs7Signature-Objekt) sein. |
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -304,9 +304,7 @@ pdfSign.Save()
 
 ### Siehe auch
 
-* class [Signature](../../../aspose.pdf.forms/signature)
-* class [PdfFileSignature](../../pdffilesignature)
-* namensraum [Aspose.Pdf.Facades](../../pdffilesignature)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [Signature](../../../aspose.pdf.forms/signature/)
+* Klasse [PdfFileSignature](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

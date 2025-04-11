@@ -1,24 +1,24 @@
 ---
-title: AddPageNumber
-second_title: Aspose.PDF لمرجع .NET API
-description: أضف رقم الصفحة إلى الملف. قد يحتوي نص رقم الصفحة على علامة  والتي سيتم استبدالها برقم الصفحة. يتم وضع رقم الصفحة في أسفل الصفحة يتم توسيطه أفقيًا.
+title: PdfFileStamp.AddPageNumber
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileStamp. إضافة رقم الصفحة إلى الملف. قد يحتوي نص رقم الصفحة على علامة # والتي سيتم استبدالها برقم الصفحة. يتم وضع رقم الصفحة في أسفل الصفحة مركزيًا أفقيًا
 type: docs
-weight: 170
+weight: 130
 url: /ar/net/aspose.pdf.facades/pdffilestamp/addpagenumber/
 ---
 ## AddPageNumber(string) {#addpagenumber_4}
 
-أضف رقم الصفحة إلى الملف. قد يحتوي نص رقم الصفحة على علامة # والتي سيتم استبدالها برقم الصفحة. يتم وضع رقم الصفحة في أسفل الصفحة يتم توسيطه أفقيًا.
+إضافة رقم الصفحة إلى الملف. قد يحتوي نص رقم الصفحة على علامة # والتي سيتم استبدالها برقم الصفحة. يتم وضع رقم الصفحة في أسفل الصفحة مركزيًا أفقيًا.
 
 ```csharp
 public void AddPageNumber(string formatString)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | formatString | String | نص رقم الصفحة |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -26,27 +26,27 @@ fileStamp.AddPageNumber("Page #");
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText) {#addpagenumber}
 
-يضيف رقم الصفحة إلى الصفحة. قد يحتوي رقم الصفحة على علامة # والتي سيتم استبدالها برقم الصفحة . يتم وضع رقم الصفحة في أسفل الصفحة في المنتصف أفقيًا .
+يضيف رقم الصفحة إلى الصفحة. قد يحتوي رقم الصفحة على علامة # والتي سيتم استبدالها برقم الصفحة. يتم وضع رقم الصفحة في أسفل الصفحة مركزيًا أفقيًا.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | تمثل سلسلة التنسيق لرقم الصفحة على أنها FormattedText. |
+| formattedText | FormattedText | سلسلة التنسيق لرقم الصفحة تمثل كـ FormattedText. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -54,34 +54,34 @@ fileStamp.AddPageNumber(new FormattedText("Page #"));
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(string, int, float, float, float, float) {#addpagenumber_6}
 
-يضيف رقم الصفحة إلى صفحات المستند.
+يضيف رقم الصفحة إلى صفحات الوثيقة.
 
 ```csharp
 public void AddPageNumber(string formatString, int position, float leftMargin, float rightMargin, 
     float topMargin, float bottomMargin)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | String | سلسلة تنسيق لرقم الصفحة. |
-| position | Int32 | الموضع حيث سيتم وضع رقم الصفحة على الصفحة. 0 - الوسط السفلي ، 1 - أسفل اليمين ، 2 - أعلى اليمين ، 3 - الجوانب اليمنى ، 4 - الوسط العلوي ، 5 - اليسار السفلي ، 6 - الجوانب اليسرى ، 7 - اليسار العلوي. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0 ، PosBottomRight = 1 ، PosUpperRight = 2 ، PosSidesRight = 3 ، PosUpperMiddle ، PosBottomLeft = 5 ، PosSidesLeft ، PosUpperLeft |
-| leftMargin | Single | الهامش على الحافة اليسرى من الصفحة. |
-| rightMargin | Single | الهامش على الحافة اليمنى من الصفحة. |
-| topMargin | Single | الهامش على الحافة العلوية للصفحة. |
+| formatString | String | سلسلة التنسيق لرقم الصفحة. |
+| position | Int32 | الموضع الذي سيتم وضع رقم الصفحة فيه على الصفحة. 0-أسفل الوسط، 1-أسفل اليمين، 2-أعلى اليمين، 3 - الجوانب اليمنى، 4 - أعلى الوسط، 5 - أسفل اليسار، 6 - الجوانب اليسرى، 7 - أعلى اليسار. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0، PosBottomRight = 1، PosUpperRight = 2، PosSidesRight = 3، PosUpperMiddle، PosBottomLeft = 5، PosSidesLeft، PosUpperLeft |
+| leftMargin | Single | الهامش على الحافة اليسرى للصفحة. |
+| rightMargin | Single | الهامش على الحافة اليمنى للصفحة. |
+| topMargin | Single | الهامش على الحافة العليا للصفحة. |
 | bottomMargin | Single | الهامش على الحافة السفلية للصفحة. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -89,29 +89,29 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(string, float, float) {#addpagenumber_7}
 
-يضيف رقم الصفحة في الموضع المحدد بالصفحة.
+يضيف رقم الصفحة في الموضع المحدد على الصفحة.
 
 ```csharp
 public void AddPageNumber(string formatString, float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | String | تنسيق السلسلة. يمكن أن تحتوي سلسلة التنسيق على علامة # والتي سيتم استبدالها برقم الصفحة. |
-| x | Single | تنسيق X لرقم الصفحة. |
-| y | Single | تنسيق Y لرقم الصفحة. |
+| formatString | String | سلسلة التنسيق. يمكن أن تحتوي سلسلة التنسيق على علامة # والتي سيتم استبدالها برقم الصفحة. |
+| x | Single | إحداثي X لرقم الصفحة. |
+| y | Single | إحداثي Y لرقم الصفحة. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -119,33 +119,33 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText, int, float, float, float, float) {#addpagenumber_2}
 
-يضيف رقم الصفحة إلى صفحات المستند.
+يضيف رقم الصفحة إلى صفحات الوثيقة.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, int position, float leftMargin, 
     float rightMargin, float topMargin, float bottomMargin)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | كائن FormattedText يمثل تنسيق رقم الصفحة وخصائصه في النص. |
-| position | Int32 | الموضع حيث سيتم وضع رقم الصفحة على الصفحة. 0 - الوسط السفلي ، 1 - أسفل اليمين ، 2 - أعلى اليمين ، 3 - الجوانب اليمنى ، 4 - الوسط العلوي ، 5 - اليسار السفلي ، 6 - الجوانب اليسرى ، 7 - اليسار العلوي. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0 ، PosBottomRight = 1 ، PosUpperRight = 2 ، PosSidesRight = 3 ، PosUpperMiddle ، PosBottomLeft = 5 ، PosSidesLeft ، PosUpperLeft |
-| leftMargin | Single | الهامش على الحافة اليسرى من الصفحة. |
-| rightMargin | Single | الهامش على الحافة اليمنى من الصفحة. |
-| topMargin | Single | الهامش على الحافة العلوية للصفحة. |
+| formattedText | FormattedText | كائن FormattedText الذي يمثل تنسيق رقم الصفحة وخصائص النص. |
+| position | Int32 | الموضع الذي سيتم وضع رقم الصفحة فيه على الصفحة. 0-أسفل الوسط، 1-أسفل اليمين، 2-أعلى اليمين، 3 - الجوانب اليمنى، 4 - أعلى الوسط، 5 - أسفل اليسار، 6 - الجوانب اليسرى، 7 - أعلى اليسار. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0، PosBottomRight = 1، PosUpperRight = 2، PosSidesRight = 3، PosUpperMiddle، PosBottomLeft = 5، PosSidesLeft، PosUpperLeft |
+| leftMargin | Single | الهامش على الحافة اليسرى للصفحة. |
+| rightMargin | Single | الهامش على الحافة اليمنى للصفحة. |
+| topMargin | Single | الهامش على الحافة العليا للصفحة. |
 | bottomMargin | Single | الهامش على الحافة السفلية للصفحة. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -153,30 +153,30 @@ fileStamp.AddPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft,
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText, float, float) {#addpagenumber_3}
 
-يضيف رقم الصفحة في الموضع المحدد بالصفحة.
+يضيف رقم الصفحة في الموضع المحدد على الصفحة.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | نص منسق يمثل تنسيق رقم الصفحة وخصائص النص . يمكن أن تحتوي سلسلة التنسيق على علامة # والتي سيتم استبدالها برقم الصفحة. |
-| x | Single | تنسيق X لرقم الصفحة. |
-| y | Single | تنسيق Y لرقم الصفحة. |
+| formattedText | FormattedText | نص منسق يمثل تنسيق رقم الصفحة وخصائص النص. يمكن أن تحتوي سلسلة التنسيق على علامة # والتي سيتم استبدالها برقم الصفحة. |
+| x | Single | إحداثي X لرقم الصفحة. |
+| y | Single | إحداثي Y لرقم الصفحة. |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -184,12 +184,12 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -201,12 +201,12 @@ fileStamp.Close();
 public void AddPageNumber(string formatString, int position)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | formatString | String | تنسيق رقم الصفحة. قد يحتوي هذا النص على # والتي سيتم استبدالها برقم الصفحة. |
-| position | Int32 | الموضع حيث سيتم وضع رقم الصفحة على الصفحة. 0 - الوسط السفلي ، 1 - أسفل اليمين ، 2 - أعلى اليمين ، 3 - الجوانب اليمنى ، 4 - الوسط العلوي ، 5 - اليسار السفلي ، 6 - الجوانب اليسرى ، 7 - اليسار العلوي. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0 ، PosBottomRight = 1 ، PosUpperRight = 2 ، PosSidesRight = 3 ، PosUpperMiddle ، PosBottomLeft = 5 ، PosSidesLeft ، PosUpperLeft |
+| position | Int32 | الموضع الذي سيتم وضع رقم الصفحة فيه على الصفحة. 0-أسفل الوسط، 1-أسفل اليمين، 2-أعلى اليمين، 3 - الجوانب اليمنى، 4 - أعلى الوسط، 5 - أسفل اليسار، 6 - الجوانب اليسرى، 7 - أعلى اليسار. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0، PosBottomRight = 1، PosUpperRight = 2، PosSidesRight = 3، PosUpperMiddle، PosBottomLeft = 5، PosSidesLeft، PosUpperLeft |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -214,11 +214,11 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -230,12 +230,12 @@ fileStamp.Close();
 public void AddPageNumber(FormattedText formattedText, int position)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | كائن FormattedText يحتوي على تنسيق رقم الصفحة وخصائص النص. قد يحتوي هذا النص على # والتي سيتم استبدالها برقم الصفحة. |
-| position | Int32 | الموضع حيث سيتم وضع رقم الصفحة على الصفحة. 0 - الوسط السفلي ، 1 - أسفل اليمين ، 2 - أعلى اليمين ، 3 - الجوانب اليمنى ، 4 - الوسط العلوي ، 5 - اليسار السفلي ، 6 - الجوانب اليسرى ، 7 - اليسار العلوي. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0 ، PosBottomRight = 1 ، PosUpperRight = 2 ، PosSidesRight = 3 ، PosUpperMiddle ، PosBottomLeft = 5 ، PosSidesLeft ، PosUpperLeft |
+| formattedText | FormattedText | كائن FormattedText الذي يحتوي على تنسيق رقم الصفحة وخصائص النص. قد يحتوي هذا النص على # والتي سيتم استبدالها برقم الصفحة. |
+| position | Int32 | الموضع الذي سيتم وضع رقم الصفحة فيه على الصفحة. 0-أسفل الوسط، 1-أسفل اليمين، 2-أعلى اليمين، 3 - الجوانب اليمنى، 4 - أعلى الوسط، 5 - أسفل اليسار، 6 - الجوانب اليسرى، 7 - أعلى اليسار. يمكنك استخدام الثوابت التالية: PosBottomMiddle = 0، PosBottomRight = 1، PosUpperRight = 2، PosSidesRight = 3، PosUpperMiddle، PosBottomLeft = 5، PosSidesLeft، PosUpperLeft |
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -243,11 +243,9 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

@@ -1,71 +1,71 @@
 ---
-title: TrySplitFromFirst
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Divide el archivo PDF desde la primera página a la ubicación especificada y guarda la parte frontal como un nuevo archivo.
+title: PdfFileEditor.TrySplitFromFirst
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileEditor. Divide el archivo Pdf desde la primera página hasta la ubicación especificada y guarda la parte frontal como un nuevo archivo
 type: docs
-weight: 490
+weight: 460
 url: /es/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
-## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
+## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
 
-Divide el archivo PDF desde la primera página a la ubicación especificada y guarda la parte frontal como un nuevo archivo.
+Divide el archivo Pdf desde la primera página hasta la ubicación especificada y guarda la parte frontal como un nuevo archivo.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputFile | String | Archivo PDF de origen. |
+| inputFile | String | Archivo Pdf de origen. |
 | location | Int32 | El punto de división. |
-| outputFile | String | Archivo PDF de salida. |
+| outputFile | String | Archivo Pdf de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero si tiene éxito, o falso.
 
-### Observaciones
+## Observaciones
 
-El método TrySplitFromFirst es como el método SplitFromFirst , excepto que el método TrySplitFromFirst no genera una excepción si la operación falla.
+El método TrySplitFromFirst es como el método SplitFromFirst, excepto que el método TrySplitFromFirst no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst}
 
-Se divide desde el inicio hasta la ubicación especificada y guarda la parte frontal en el flujo de salida.
+Divide desde el inicio hasta la ubicación especificada y guarda la parte frontal en el Stream de salida.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Fuente Pdf archivo Stream. |
+| inputStream | Stream | Stream del archivo Pdf de origen. |
 | location | Int32 | El punto de división. |
-| outputStream | Stream | Archivo de salida Stream. |
+| outputStream | Stream | Stream del archivo de salida. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-Verdadero para el éxito, o falso.
+Verdadero si tiene éxito, o falso.
 
-### Observaciones
+## Observaciones
 
-Los flujos NO se cierran después de esta operación. El método TrySplitFromFirst es como el método SplitFromFirst, excepto que el método TrySplitFromFirst no genera una excepción si la operación falla.
+Los streams NO se cierran después de esta operación. El método TrySplitFromFirst es como el método SplitFromFirst, excepto que el método TrySplitFromFirst no lanza una excepción si la operación falla.
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,13 +74,12 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
----
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 
@@ -90,25 +89,25 @@ Divide el documento desde la primera página hasta la ubicación y guarda el res
 public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | inputFile | String | Nombre del archivo de origen. |
 | location | Int32 | Punto de división. |
 | response | HttpResponse | Objetos HttpResponse. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+verdadero si la operación se completó con éxito; de lo contrario, falso.
 
-### Observaciones
+## Observaciones
 
 El método TrySplitFromFirst es como el método SplitFromFirst, excepto que el método TrySplitFromFirst no lanza una excepción si la operación falla.
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -120,24 +119,22 @@ Divide el documento desde el inicio hasta la ubicación especificada y almacena 
 public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse response)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| inputStream | Stream | Flujo de documento de origen. |
+| inputStream | Stream | Stream del documento de origen. |
 | location | Int32 | El punto de división. |
 | response | HttpResponse | Objeto HttpResponse donde se almacenará el resultado. |
 
-### Valor_devuelto
+### Valor de Retorno
 
-verdadero si la operación se completó con éxito; en caso contrario, falso.
+verdadero si la operación se completó con éxito; de lo contrario, falso.
 
-### Observaciones
+## Observaciones
 
 El método TrySplitFromFirst es como el método SplitFromFirst, excepto que el método TrySplitFromFirst no lanza una excepción si la operación falla.
 
-### Ver también
+### Ver También
 
-* class [PdfFileEditor](../../pdffileeditor)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffileeditor)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [PdfFileEditor](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

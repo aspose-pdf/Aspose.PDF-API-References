@@ -1,77 +1,77 @@
 ---
-title: TryInsert
-second_title: Aspose.PDF for .NET API 参考
-description: 将其他文件中的页面插入到输入 Pdf 文件中
+title: PdfFileEditor.TryInsert
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor 方法。将其他文件的页面插入到输入的 Pdf 文件中
 type: docs
-weight: 450
+weight: 420
 url: /zh/net/aspose.pdf.facades/pdffileeditor/tryinsert/
 ---
-## TryInsert(string, int, string, int[], string) {#tryinsert_2}
+## TryInsert(string, int, string, int[], string) {#tryinsert_1}
 
-将其他文件中的页面插入到输入 Pdf 文件中。
+将其他文件的页面插入到输入的 Pdf 文件中。
 
 ```csharp
 public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     string outputFile)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入PDF文件。 |
-| insertLocation | Int32 | 在输入文件中插入位置。 |
-| portFile | String | Pdf 文件中的页面。 |
-| pageNumber | Int32[] | portFile 中移植的页码。 |
-| outputFile | String | 输出 PDF 文件。 |
+| inputFile | 字符串 | 输入的 Pdf 文件。 |
+| insertLocation | Int32 | 输入文件中的插入位置。 |
+| portFile | 字符串 | 来自 Pdf 文件的页面。 |
+| pageNumber | Int32[] | 在 portFile 中移植的页面编号。 |
+| outputFile | 字符串 | 输出的 Pdf 文件。 |
 
 ### 返回值
 
-真为成功，或为假。
+成功返回 true，失败返回 false。
 
-### 评论
+## 备注
 
-TryInsert 方法与 Insert 方法类似，不同之处在于 TryInsert 方法在操作失败时不会抛出异常。
+TryInsert 方法类似于 Insert 方法，不同之处在于如果操作失败，TryInsert 方法不会抛出异常。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* 类 [PdfFileEditor](../)
+* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* 程序集 [Aspose.PDF](../../../)
 
 ---
 
 ## TryInsert(Stream, int, Stream, int[], Stream) {#tryinsert}
 
-将其他文件中的页面插入到输入 Pdf 文件中。
+将其他文件的页面插入到输入的 Pdf 文件中。
 
 ```csharp
 public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     Stream outputStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | Pdf 文件的输入流。 |
-| insertLocation | Int32 | 在输入文件中插入位置。 |
-| portStream | Stream | 页面的 Pdf 文件流。 |
-| pageNumber | Int32[] | portFile 中移植的页码。 |
-| outputStream | Stream | 输出流。 |
+| inputStream | 流 | 输入的 Pdf 文件流。 |
+| insertLocation | Int32 | 输入文件中的插入位置。 |
+| portStream | 流 | 用于页面的 Pdf 文件流。 |
+| pageNumber | Int32[] | 在 portFile 中移植的页面编号。 |
+| outputStream | 流 | 输出流。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+如果操作成功完成则返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryInsert 方法与 Insert 方法类似，不同之处在于 TryInsert 方法在操作失败时不会抛出异常。
+TryInsert 方法类似于 Insert 方法，不同之处在于如果操作失败，TryInsert 方法不会抛出异常。
 
-### 例子
+## 示例
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -81,76 +81,73 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* 类 [PdfFileEditor](../)
+* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* 程序集 [Aspose.PDF](../../../)
 
----
 
 ## TryInsert(string, int, string, int[], HttpResponse) {#tryinsert_3}
 
-将文件内容插入源文件并将结果存储到 HttpResponse 对象中。
+将文件内容插入到源文件中，并将结果存储到 HttpResponse 对象中。
 
 ```csharp
 public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
     HttpResponse response)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 源文件名。 |
-| insertLocation | Int32 | 将插入第二个文件的页码。 |
-| portFile | String | 将插入的文件的路径。 |
-| pageNumber | Int32[] | 将插入源文件中的页码数组。 |
+| inputFile | 字符串 | 源文件名。 |
+| insertLocation | Int32 | 第二个文件将插入的页面编号。 |
+| portFile | 字符串 | 将要插入的文件路径。 |
+| pageNumber | Int32[] | 源文件中将要插入的页面编号数组。 |
 | response | HttpResponse | 将存储结果的响应对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+如果操作成功完成则返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryInsert 方法与 Insert 方法类似，不同之处在于 TryInsert 方法在操作失败时不会抛出异常。
+TryInsert 方法类似于 Insert 方法，不同之处在于如果操作失败，TryInsert 方法不会抛出异常。
 
-### 也可以看看
+### 另请参阅
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
+* 类 [PdfFileEditor](../)
+* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* 程序集 [Aspose.PDF](../../../)
 
 ---
 
 ## TryInsert(Stream, int, Stream, int[], HttpResponse) {#tryinsert_1}
 
-将文档插入其他文档并将结果存储到响应对象中。
+将文档插入到其他文档中，并将结果存储到响应对象中。
 
 ```csharp
 public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
     HttpResponse response)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 使用源文档流式传输 |
-| insertLocation | Int32 | 将插入其他文档的位置。 |
-| portStream | Stream | 要插入的文档。 |
-| pageNumber | Int32[] | 将插入的第二个文档中的页码数组。 |
+| inputStream | 流 | 源文档的流 |
+| insertLocation | Int32 | 其他文档将插入的位置。 |
+| portStream | 流 | 要插入的文档。 |
+| pageNumber | Int32[] | 在第二个文档中将要插入的页面编号数组。 |
 | response | HttpResponse | 将存储结果的响应对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为 true；否则为假。
+如果操作成功完成则返回 true；否则返回 false。
 
-### 评论
+## 备注
 
-TryInsert 方法与 Insert 方法类似，不同之处在于 TryInsert 方法在操作失败时不会抛出异常。
+TryInsert 方法类似于 Insert 方法，不同之处在于如果操作失败，TryInsert 方法不会抛出异常。
 
-### 也可以看看
+### 另请参阅
 
-* class [PdfFileEditor](../../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../pdffileeditor)
-* 部件 [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* 类 [PdfFileEditor](../)
+* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* 程序集 [Aspose.PDF](../../../)

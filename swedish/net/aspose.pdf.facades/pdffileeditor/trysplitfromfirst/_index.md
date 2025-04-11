@@ -1,14 +1,14 @@
 ---
-title: TrySplitFromFirst
-second_title: Aspose.PDF för .NET API Referens
-description: Delar Pdf-fil från första sidan till angiven plats och sparar den främre delen som en ny fil.
+title: PdfFileEditor.TrySplitFromFirst
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor metod. Dela Pdf-fil från första sidan till angiven plats och spara den främre delen som en ny fil
 type: docs
-weight: 490
+weight: 460
 url: /sv/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
-## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
+## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
 
-Delar Pdf-fil från första sidan till angiven plats och sparar den främre delen som en ny fil.
+Dela Pdf-fil från första sidan till angiven plats och spara den främre delen som en ny fil.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,36 +16,36 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källa pdf-fil. |
-| location | Int32 | Splittringspunkten. |
-| outputFile | String | Utdata pdf-fil. |
+| inputFile | Sträng | Käll Pdf-fil. |
+| location | Int32 | Delningspunkt. |
+| outputFile | Sträng | Utdata Pdf-fil. |
 
 ### Returvärde
 
 Sant för framgång, eller falskt.
 
-### Anmärkningar
+## Kommentarer
 
-TrySplitFromFirst-metoden är som SplitFromFirst -metoden, förutom att TrySplitFromFirst-metoden inte ger ett undantag om operationen misslyckas.
+TrySplitFromFirst-metoden är som SplitFromFirst-metoden, förutom att TrySplitFromFirst-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst}
 
-Delar från start till angiven plats och sparar den främre delen i output Stream.
+Dela från början till angiven plats och spara den främre delen i utdata Stream.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -53,19 +53,19 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Källa Pdf-fil Stream. |
-| location | Int32 | Splittringspunkten. |
-| outputStream | Stream | Utdatafil Stream. |
+| inputStream | Stream | Käll Pdf-fil Stream. |
+| location | Int32 | Delningspunkt. |
+| outputStream | Stream | Utdata fil Stream. |
 
 ### Returvärde
 
 Sant för framgång, eller falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Strömmarna stängs INTE efter denna operation. TrySplitFromFirst-metoden är som SplitFromFirst-metoden, förutom att metoden TrySplitFromFirst inte ger ett undantag om operationen misslyckas.
+Strömmarna stängs INTE efter denna operation. TrySplitFromFirst-metoden är som SplitFromFirst-metoden, förutom att TrySplitFromFirst-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Exempel
+## Exempel
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,17 +74,16 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 
-Delar dokument från första sida till plats och sparar resultatet i HttpResponse-objekt.
+Dela dokumentet från första sidan till plats och spara resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
@@ -92,29 +91,29 @@ public bool TrySplitFromFirst(string inputFile, int location, HttpResponse respo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Källfilens namn. |
-| location | Int32 | Splitpunkt. |
+| inputFile | Sträng | Källfilens namn. |
+| location | Int32 | Delningspunkt. |
 | response | HttpResponse | HttpResponse-objekt. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+Sant om operationen slutfördes framgångsrikt; annars, falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TrySplitFromFirst är som SplitFromFirst-metoden, förutom att metoden TrySplitFromFirst inte ger ett undantag om operationen misslyckas.
+TrySplitFromFirst-metoden är som SplitFromFirst-metoden, förutom att TrySplitFromFirst-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitFromFirst(Stream, int, HttpResponse) {#trysplitfromfirst_1}
 
-Delar dokument från start till angiven plats och lagrar resultatet i HttpResponse-objekt.
+Dela dokumentet från början till angiven plats och lagra resultatet i HttpResponse-objekt.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse response)
@@ -122,22 +121,20 @@ public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse res
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Ström av källdokument. |
-| location | Int32 | Splittringspunkten. |
+| inputStream | Stream | Stream av källdokumentet. |
+| location | Int32 | Delningspunkt. |
 | response | HttpResponse | HttpResponse-objekt där resultatet kommer att lagras. |
 
 ### Returvärde
 
-sant om operationen slutfördes framgångsrikt; annars falskt.
+Sant om operationen slutfördes framgångsrikt; annars, falskt.
 
-### Anmärkningar
+## Kommentarer
 
-Metoden TrySplitFromFirst är som SplitFromFirst-metoden, förutom att metoden TrySplitFromFirst inte ger ett undantag om operationen misslyckas.
+TrySplitFromFirst-metoden är som SplitFromFirst-metoden, förutom att TrySplitFromFirst-metoden inte kastar ett undantag om operationen misslyckas.
 
-### Se även
+### Se Även
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffileeditor)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [PdfFileEditor](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

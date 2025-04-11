@@ -1,24 +1,24 @@
 ---
-title: AddPageNumber
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Agregar número de página al archivo. El texto del número de página puede contener el signo  que será reemplazado por el número de la página. El número de página se coloca en la parte inferior de la página centrado horizontalmente.
+title: PdfFileStamp.AddPageNumber
+second_title: Aspose.PDF for .NET API Reference
+description: Método PdfFileStamp. Agregar número de página al archivo. El texto del número de página puede contener el signo # que será reemplazado por el número de la página. El número de página se coloca en la parte inferior de la página centrado horizontalmente.
 type: docs
-weight: 170
+weight: 130
 url: /es/net/aspose.pdf.facades/pdffilestamp/addpagenumber/
 ---
 ## AddPageNumber(string) {#addpagenumber_4}
 
-Agregar número de página al archivo. El texto del número de página puede contener el signo # que será reemplazado por el número de la página. El número de página se coloca en la parte inferior de la página centrado horizontalmente.
+Agrega el número de página al archivo. El texto del número de página puede contener el signo # que será reemplazado por el número de la página. El número de página se coloca en la parte inferior de la página centrado horizontalmente.
 
 ```csharp
 public void AddPageNumber(string formatString)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | formatString | String | Texto del número de página |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -26,27 +26,27 @@ fileStamp.AddPageNumber("Page #");
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText) {#addpagenumber}
 
-Agrega el número de página a la página. El número de página puede contener el signo # que será reemplazado por el número de página. El número de página se coloca en la parte inferior de la página, centrado horizontalmente.
+Agrega el número de página a la página. El número de página puede contener el signo # que será reemplazado por el número de página. El número de página se coloca en la parte inferior de la página centrado horizontalmente.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| formattedText | FormattedText | La cadena de formato para el número de página se representa como FormattedText. |
+| formattedText | FormattedText | Cadena de formato para el número de página representada como FormattedText. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -54,12 +54,12 @@ fileStamp.AddPageNumber(new FormattedText("Page #"));
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -72,16 +72,16 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
     float topMargin, float bottomMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | formatString | String | Cadena de formato para el número de página. |
-| position | Int32 | Posición donde se colocará el número de página en la página. 0-abajo en el medio, 1-abajo a la derecha, 2-arriba a la derecha, 3 - lados a la derecha, 4 - medio superior, 5 - abajo a la izquierda, 6 - lados a la izquierda,7 - arriba a la izquierda. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | Posición donde se colocará el número de página en la página. 0-centro inferior, 1-derecha inferior, 2-derecha superior, 3 - lados derecho, 4 - centro superior, 5 - izquierda inferior, 6 - lados izquierdo, 7 - izquierda superior. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 | leftMargin | Single | Margen en el borde izquierdo de la página. |
 | rightMargin | Single | Margen en el borde derecho de la página. |
 | topMargin | Single | Margen en el borde superior de la página. |
 | bottomMargin | Single | Margen en el borde inferior de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -89,11 +89,11 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -105,13 +105,13 @@ Agrega el número de página en la posición especificada en la página.
 public void AddPageNumber(string formatString, float x, float y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| formatString | String | Cadena de formato. La cadena de formato puede contener el signo # que se reemplazará con el número de página. |
+| formatString | String | Cadena de formato. La cadena de formato puede contener el signo # que será reemplazado por el número de página. |
 | x | Single | Coordenada X del número de página. |
 | y | Single | Coordenada Y del número de página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -119,11 +119,11 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -136,16 +136,16 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
     float rightMargin, float topMargin, float bottomMargin)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | formattedText | FormattedText | Objeto FormattedText que representa el formato del número de página y las propiedades del texto. |
-| position | Int32 | Posición donde se colocará el número de página en la página. 0-abajo en el medio, 1-abajo a la derecha, 2-arriba a la derecha, 3 - lados a la derecha, 4 - medio superior, 5 - abajo a la izquierda, 6 - lados a la izquierda,7 - arriba a la izquierda. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | Posición donde se colocará el número de página en la página. 0-centro inferior, 1-derecha inferior, 2-derecha superior, 3 - lados derecho, 4 - centro superior, 5 - izquierda inferior, 6 - lados izquierdo, 7 - izquierda superior. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 | leftMargin | Single | Margen en el borde izquierdo de la página. |
 | rightMargin | Single | Margen en el borde derecho de la página. |
 | topMargin | Single | Margen en el borde superior de la página. |
 | bottomMargin | Single | Margen en el borde inferior de la página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -153,12 +153,12 @@ fileStamp.AddPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft,
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -170,13 +170,13 @@ Agrega el número de página en la posición especificada en la página.
 public void AddPageNumber(FormattedText formattedText, float x, float y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| formattedText | FormattedText | Texto formateado que representa el formato del número de página y las propiedades del texto. La cadena de formato puede contener el signo # que se reemplazará con el número de página. |
+| formattedText | FormattedText | Texto formateado que representa el formato del número de página y las propiedades del texto. La cadena de formato puede contener el signo # que será reemplazado por el número de página. |
 | x | Single | Coordenada X del número de página. |
 | y | Single | Coordenada Y del número de página. |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -184,12 +184,12 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -201,12 +201,12 @@ Agrega el número de página a las páginas.
 public void AddPageNumber(string formatString, int position)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | formatString | String | Formato del número de página. Este texto puede contener # que será reemplazado por el número de página. |
-| position | Int32 | Posición donde se colocará el número de página en la página. 0-abajo en el medio, 1-abajo a la derecha, 2-arriba a la derecha, 3 - lados a la derecha, 4 - medio superior, 5 - abajo a la izquierda, 6 - lados a la izquierda,7 - arriba a la izquierda. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | Posición donde se colocará el número de página en la página. 0-centro inferior, 1-derecha inferior, 2-derecha superior, 3 - lados derecho, 4 - centro superior, 5 - izquierda inferior, 6 - lados izquierdo, 7 - izquierda superior. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -214,11 +214,11 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)
 
 ---
 
@@ -230,12 +230,12 @@ Agrega el número de página a las páginas.
 public void AddPageNumber(FormattedText formattedText, int position)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | formattedText | FormattedText | Objeto FormattedText que contiene el formato del número de página y las propiedades del texto. Este texto puede contener # que será reemplazado por el número de página. |
-| position | Int32 | Posición donde se colocará el número de página en la página. 0-abajo en el medio, 1-abajo a la derecha, 2-arriba a la derecha, 3 - lados a la derecha, 4 - medio superior, 5 - abajo a la izquierda, 6 - lados a la izquierda,7 - arriba a la izquierda. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | Posición donde se colocará el número de página en la página. 0-centro inferior, 1-derecha inferior, 2-derecha superior, 3 - lados derecho, 4 - centro superior, 5 - izquierda inferior, 6 - lados izquierdo, 7 - izquierda superior. Puede usar las siguientes constantes: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
-### Ejemplos
+## Ejemplos
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -243,11 +243,9 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### Ver también
+### Ver También
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* espacio de nombres [Aspose.Pdf.Facades](../../pdffilestamp)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* clase [FormattedText](../../formattedtext/)
+* clase [PdfFileStamp](../)
+* espacio de nombres [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* ensamblado [Aspose.PDF](../../../)

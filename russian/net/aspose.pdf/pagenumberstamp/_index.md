@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp
-second_title: Aspose.PDF для справочника API .NET
-description: Представляет штамп номера страницы и используется для нумерации страниц.
+title: Class PageNumberStamp
+second_title: Aspose.PDF for .NET API Reference
+description: Класс Aspose.Pdf.PageNumberStamp. Представляет штамп номера страницы и используется для нумерации страниц
 type: docs
-weight: 5890
+weight: 8230
 url: /ru/net/aspose.pdf/pagenumberstamp/
 ---
-## PageNumberStamp class
+## Класс PageNumberStamp
 
 Представляет штамп номера страницы и используется для нумерации страниц.
 
@@ -16,60 +16,63 @@ public sealed class PageNumberStamp : TextStamp
 
 ## Конструкторы
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [PageNumberStamp](pagenumberstamp#constructor)() | Инициализирует новый экземпляр[`PageNumberStamp`](../pagenumberstamp) учебный класс. Установлен формат "#". |
-| [PageNumberStamp](pagenumberstamp#constructor_1)(FormattedText) | Создает PageNumberStamp по форматированному тексту. |
-| [PageNumberStamp](pagenumberstamp#constructor_2)(string) | Инициализирует новый экземпляр[`PageNumberStamp`](../pagenumberstamp) класс. |
+| [PageNumberStamp](pagenumberstamp/#constructor)() | Инициализирует новый экземпляр класса `PageNumberStamp`. Формат установлен на "#". |
+| [PageNumberStamp](pagenumberstamp/#constructor_1)(FormattedText) | Создает PageNumberStamp по отформатированному тексту. |
+| [PageNumberStamp](pagenumberstamp/#constructor_2)(string) | Инициализирует новый экземпляр класса `PageNumberStamp`. |
 
-## Характеристики
+## Свойства
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [Background](../../aspose.pdf/stamp/background) { get; set; } | Устанавливает или получает логическое значение, указывающее, что содержимое штампуется как фон. Если значение равно true, содержимое штампа размещается внизу. По умолчанию значение равно false, содержимое штампа размещается вверху. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin) { get; set; } | Получает или задает нижнее поле штампа. |
-| [Draw](../../aspose.pdf/textstamp/draw) { get; set; } | Это свойство определяет способ отображения штампа на странице. Если Draw = true, штамп рисуется как графические операторы, а если draw = false, то штамп рисуется как текст. |
-| [Format](../../aspose.pdf/pagenumberstamp/format) { get; set; } | Строковое значение для штамповки номеров страниц. Значение должно включать символ '#', который в процессе штамповки заменяется номером страницы. |
-| override [Height](../../aspose.pdf/textstamp/height) { get; set; } | Желаемая высота штампа на странице. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment) { get; set; } | Получает или задает горизонтальное выравнивание штампа на странице. |
-| [Justify](../../aspose.pdf/textstamp/justify) { get; set; } | Определяет выравнивание текста. Если для этого свойства установлено значение true, выравниваются как левый, так и правый края текста. Значение по умолчанию: ложь. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin) { get; set; } | Получает или задает левое поле штампа. |
-| [MaxRowWidth](../../aspose.pdf/textstamp/maxrowwidth) { get; set; } | Максимальная высота строки для параметра WordWrap. |
-| [NumberingStyle](../../aspose.pdf/pagenumberstamp/numberingstyle) { get; set; } | Стиль нумерации, используемый этим штампом. |
-| [Opacity](../../aspose.pdf/stamp/opacity) { get; set; } | Получает или задает значение, указывающее непрозрачность штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity) { get; set; } | Получает или задает значение, указывающее непрозрачность контура штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth) { get; set; } | Получает или задает значение ширины контура штампа. По умолчанию значение равно 1.0. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin) { get; set; } | Получает или задает правое поле штампа. |
-| [Rotate](../../aspose.pdf/stamp/rotate) { get; set; } | Устанавливает или получает поворот содержимого штампа в соответствии с[`Rotation`](../rotation) значения. Примечание. Это свойство предназначено для установки углов, кратных 90 градусам (0, 90, 180, 270 градусов). Чтобы задать произвольный угол, используйте свойство RotateAngle. Если угол, установленный ArbitraryAngle, не кратен 90, то свойство Rotate возвращает Rotation.None. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle) { get; set; } | Получает или задает угол поворота штампа в градусах. Это свойство позволяет задать произвольный угол поворота. |
-| [Scale](../../aspose.pdf/textstamp/scale) { get; set; } | Определяет масштабирование текста. Если для этого свойства установлено значение true и указано значение ширины, текст будет масштабироваться, чтобы соответствовать указанной ширине. |
-| [StartingNumber](../../aspose.pdf/pagenumberstamp/startingnumber) { get; set; } | Получает или задает значение номера начальной страницы. Остальные страницы будут нумероваться, начиная с этого значения. |
-| [TextAlignment](../../aspose.pdf/textstamp/textalignment) { get; set; } | Выравнивание текста внутри штампа. |
-| [TextState](../../aspose.pdf/textstamp/textstate) { get; } | Получает текстовые свойства штампа. Видеть[`TextState`](../textstamp/textstate) подробнее. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin) { get; set; } | Получает или задает верхнее поле штампа. |
-| [TreatYIndentAsBaseLine](../../aspose.pdf/textstamp/treatyindentasbaseline) { get; set; } | Определяет начало координат для размещения текста. Если TreatYIndentAsBaseLine = true (по умолчанию, когда Draw = true), значение YIndent будет рассматриваться как базовая линия текста. Если TreatYIndentAsBaseLine = false (по умолчанию, когда Draw = false), значение YIndent будет рассматриваться как нижнее ( линия спуска) текста. |
-| [Value](../../aspose.pdf/textstamp/value) { get; set; } | Получает или задает строковое значение, которое используется в качестве штампа на странице. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment) { get; set; } | Получает или задает вертикальное выравнивание штампа на странице. |
-| override [Width](../../aspose.pdf/textstamp/width) { get; set; } | Желаемая ширина штампа на странице. |
-| [WordWrap](../../aspose.pdf/textstamp/wordwrap) { get; set; } | Определяет перенос слов. Если для этого свойства установлено значение true и указано значение ширины, текст будет разбит на несколько строк, чтобы соответствовать указанной ширине. Значение по умолчанию: ложь. |
-| [XIndent](../../aspose.pdf/stamp/xindent) { get; set; } | Горизонтальная координата штампа, начиная слева. |
-| [YIndent](../../aspose.pdf/stamp/yindent) { get; set; } | Вертикальная координата штампа, начиная снизу. |
-| [Zoom](../../aspose.pdf/stamp/zoom) { get; set; } | Коэффициент масштабирования штампа. Позволяет масштабировать штамп. Обратите внимание, что пара свойств ZoomX и ZoomY позволяет установить коэффициент масштабирования для каждой оси отдельно. Установка этого свойства изменяет свойства ZoomX и ZoomY. Если ZoomX и ZoomY различаются, свойство Zoom возвращает значение ZoomX. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx) { get; set; } | Коэффициент масштабирования штампа по горизонтали. Позволяет масштабировать штамп по горизонтали. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy) { get; set; } | Коэффициент масштабирования штампа по вертикали. Позволяет масштабировать штамп по вертикали. |
+| [AutoAdjustFontSizePrecision](../../aspose.pdf/textstamp/autoadjustfontsizeprecision/) { get; set; } | Автоматически регулирует точность размера шрифта. Значение по умолчанию: 0.1; |
+| [AutoAdjustFontSizeToFitStampRectangle](../../aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/) { get; set; } | Если включено, размер шрифта будет автоматически подстраиваться под прямоугольник штампа размером: [`Width`](../textstamp/width/) и [`Height`](../textstamp/height/). Ширина и высота по умолчанию берутся из прямоугольника страницы. |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | Устанавливает или получает логическое значение, указывающее, что содержимое штампуется как фон. Если значение истинно, содержимое штампа располагается внизу. По умолчанию значение ложно, содержимое штампа располагается сверху. |
+| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Получает или устанавливает нижний отступ штампа. |
+| [Draw](../../aspose.pdf/textstamp/draw/) { get; set; } | Это свойство определяет, как штамп рисуется на странице. Если Draw = true, штамп рисуется как графические операторы, а если draw = false, то штамп рисуется как текст. |
+| [FontSize](../../aspose.pdf/textstamp/fontsize/) { get; } | Фактический размер шрифта после размещения штампа. (Может отличаться от начального размера шрифта, указанного через конструктор, если включена опция 'AutoAdjustFontSizeToFitStampRectangle'.) |
+| [Format](../../aspose.pdf/pagenumberstamp/format/) { get; set; } | Строковое значение для штампования номеров страниц. Значение должно включать символ '#', который заменяется номером страницы в процессе штампования. |
+| override [Height](../../aspose.pdf/textstamp/height/) { get; set; } | Желаемая высота штампа на странице. |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Получает или устанавливает горизонтальное выравнивание штампа на странице. |
+| [Justify](../../aspose.pdf/textstamp/justify/) { get; set; } | Определяет выравнивание текста. Если это свойство установлено в true, оба края текста выравниваются. Значение по умолчанию: false. |
+| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Получает или устанавливает левый отступ штампа. |
+| [MaxRowWidth](../../aspose.pdf/textstamp/maxrowwidth/) { get; set; } | Максимальная ширина строки для опции WordWrap. |
+| [NoCharacterBehavior](../../aspose.pdf/textstamp/nocharacterbehavior/) { get; set; } | Получает или устанавливает режим, который определяет поведение в случае, если шрифты не содержат запрашиваемых символов. |
+| [NumberingStyle](../../aspose.pdf/pagenumberstamp/numberingstyle/) { get; set; } | Стиль нумерации, используемый этим штампом. |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Получает или устанавливает значение, указывающее на непрозрачность штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Получает или устанавливает значение, указывающее на непрозрачность контура штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Получает или устанавливает значение ширины контура штампа. По умолчанию значение 1.0. |
+| [ReplacementFont](../../aspose.pdf/textstamp/replacementfont/) { get; set; } | Получает или устанавливает шрифт, используемый для замены, если пользовательский шрифт не содержит требуемого символа. |
+| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Получает или устанавливает правый отступ штампа. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Устанавливает или получает вращение содержимого штампа в соответствии со значениями [`Rotation`](../rotation/). Примечание. Это свойство предназначено для установки углов, которые являются кратными 90 градусам (0, 90, 180, 270 градусов). Чтобы установить произвольный угол, используйте свойство RotateAngle. Если угол, установленный свойством ArbitraryAngle, не кратен 90, то свойство Rotate возвращает Rotation.None. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Получает или устанавливает угол вращения штампа в градусах. Это свойство позволяет установить произвольный угол вращения. |
+| [Scale](../../aspose.pdf/textstamp/scale/) { get; set; } | Определяет масштабирование текста. Если это свойство установлено в true и указано значение Width, текст будет масштабироваться, чтобы соответствовать указанной ширине. |
+| [StartingNumber](../../aspose.pdf/pagenumberstamp/startingnumber/) { get; set; } | Получает или устанавливает значение номера начальной страницы. Другие страницы будут нумероваться, начиная с этого значения. |
+| [TextAlignment](../../aspose.pdf/textstamp/textalignment/) { get; set; } | Выравнивание текста внутри штампа. |
+| [TextState](../../aspose.pdf/textstamp/textstate/) { get; } | Получает свойства текста штампа. См. [`TextState`](../textstamp/textstate/) для получения подробной информации. |
+| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Получает или устанавливает верхний отступ штампа. |
+| [TreatYIndentAsBaseLine](../../aspose.pdf/textstamp/treatyindentasbaseline/) { get; set; } | Определяет координатное начало для размещения текста. Если TreatYIndentAsBaseLine = true (по умолчанию, когда Draw = true), значение YIndent будет рассматриваться как базовая линия текста. Если TreatYIndentAsBaseLine = false (по умолчанию, когда Draw = false), значение YIndent будет рассматриваться как нижняя (линия спуска) текста. |
+| [Value](../../aspose.pdf/textstamp/value/) { get; set; } | Получает или устанавливает строковое значение, которое используется как штамп на странице. |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Получает или устанавливает вертикальное выравнивание штампа на странице. |
+| override [Width](../../aspose.pdf/textstamp/width/) { get; set; } | Желаемая ширина штампа на странице. |
+| [WordWrapMode](../../aspose.pdf/textstamp/wordwrapmode/) { get; set; } | Получает или устанавливает режим переноса слов для рендеринга текста. |
+| virtual [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | Горизонтальная координата штампа, начиная слева. |
+| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | Вертикальная координата штампа, начиная снизу. |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Коэффициент масштабирования штампа. Позволяет масштабировать штамп. Обратите внимание, что пара свойств ZoomX и ZoomY позволяет установить коэффициент масштабирования для каждой оси отдельно. Установка этого свойства изменяет как свойства ZoomX, так и ZoomY. Если ZoomX и ZoomY различны, то свойство Zoom возвращает значение ZoomX. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по горизонтали. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по вертикали. |
 
 ## Методы
 
-| Имя | Описание |
+| Название | Описание |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid)() | Возвращает идентификатор штампа. |
-| override [Put](../../aspose.pdf/pagenumberstamp/put)(Page) | Добавляет номер страницы. |
-| [setStampId](../../aspose.pdf/stamp/setstampid)(int) | Устанавливает идентификатор штампа. |
+| [getStampId](../../aspose.pdf/stamp/getstampid/)() | Возвращает ID штампа. |
+| override [Put](../../aspose.pdf/pagenumberstamp/put/)(Page) | Добавляет номер страницы. |
+| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Устанавливает ID штампа. |
 
-### Смотрите также
+### См. также
 
-* class [TextStamp](../textstamp)
-* пространство имен [Aspose.Pdf](../../aspose.pdf)
+* класс [TextStamp](../textstamp/)
+* пространство имен [Aspose.Pdf](../../aspose.pdf/)
 * сборка [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

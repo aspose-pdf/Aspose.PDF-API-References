@@ -1,14 +1,14 @@
 ---
-title: MakeNUp
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Erstellt ein N-up-Dokument aus der ersten Eingabedatei in die Ausgabedatei.
+title: PdfFileEditor.MakeNUp
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileEditor-Methode. Erstellt ein NUp-Dokument aus den beiden Eingabe-PDF-Streams in outputStream
 type: docs
-weight: 340
+weight: 310
 url: /de/net/aspose.pdf.facades/pdffileeditor/makenup/
 ---
-## MakeNUp(string, string, int, int) {#makenup_8}
+## MakeNUp(Stream, Stream, Stream) {#makenup_2}
 
-Erstellt ein N-up-Dokument aus der ersten Eingabedatei in die Ausgabedatei.
+Erstellt ein N-Up-Dokument aus der firstInputFile in outputFile.
 
 ```csharp
 public bool MakeNUp(string inputFile, string outputFile, int x, int y)
@@ -16,16 +16,16 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Geben Sie Pfad und Namen der PDF-Datei ein. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
+| inputFile | String | Eingabe-PDF-Dateipfad und -name. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Anzahl Zeilen. |
+| y | Int32 | Anzahl der Zeilen. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -34,15 +34,15 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeNUp(Stream, Stream, int, int) {#makenup_2}
 
-Erstellt ein N-up-Dokument aus dem Eingabestrom und speichert das Ergebnis im Ausgabestrom.
+Erstellt ein N-Up-Dokument aus dem Eingabestream und speichert das Ergebnis im Ausgabestream.
 
 ```csharp
 public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
@@ -50,16 +50,16 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | PDF-Stream eingeben. |
-| outputStream | Stream | PDF-Stream ausgeben. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Anzahl Zeilen. |
+| y | Int32 | Anzahl der Zeilen. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -70,15 +70,15 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeNUp(Stream, Stream, int, int, PageSize) {#makenup_3}
 
-Erstellt ein N-up-Dokument vom ersten Eingabestrom zum Ausgabestrom.
+Erstellt ein N-Up-Dokument aus dem ersten Eingabestream in den Ausgabestream.
 
 ```csharp
 public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageSize pageSize)
@@ -86,17 +86,17 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | PDF-Stream eingeben. |
-| outputStream | Stream | PDF-Stream ausgeben. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Anzahl Zeilen. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| y | Int32 | Anzahl der Zeilen. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -107,16 +107,16 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeNUp(string, string, string) {#makenup_10}
 
-Erstellt ein N-up-Dokument aus den beiden PDF-Eingabedateien in eine Ausgabedatei. Jede Seite der Ausgabedatei enthält zwei Seiten, eine Seite stammt aus der ersten Eingabedatei und eine andere aus der zweiten Eingabedatei. Die beiden Seiten werden horizontal gestapelt.
+Erstellt ein N-Up-Dokument aus den beiden Eingabe-PDF-Dateien in outputFile. Jede Seite von outputFile enthält zwei Seiten, eine Seite stammt aus der ersten Eingabedatei und die andere aus der zweiten Eingabedatei. Die beiden Seiten sind horizontal übereinander gestapelt.
 
 ```csharp
 public bool MakeNUp(string firstInputFile, string secondInputFile, string outputFile)
@@ -126,13 +126,13 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 | --- | --- | --- |
 | firstInputFile | String | erste Eingabedatei. |
 | secondInputFile | String | zweite Eingabedatei. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -141,15 +141,15 @@ pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MakeNUp(Stream, Stream, Stream) {#makenup_4}
 
-Erzeugt ein N-up-Dokument aus den beiden PDF-Eingabeströmen in outputStream.
+Erstellt ein N-Up-Dokument aus den beiden Eingabe-PDF-Streams in outputStream.
 
 ```csharp
 public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream outputStream)
@@ -157,15 +157,15 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| firstInputStream | Stream | erster Eingabestrom. |
-| secondInputStream | Stream | zweiter Eingabestrom. |
-| outputStream | Stream | PDF-Stream ausgeben. |
+| firstInputStream | Stream | erster Eingabestream. |
+| secondInputStream | Stream | zweiter Eingabestream. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -177,15 +177,15 @@ pfe.MakeNUp(input1, input2, output);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(string[], string, bool) {#makenup_11}
+## MakeNUp(string[], string, bool) {#makenup_7}
 
-Erstellt ein N-up-Dokument aus den PDF-Dateien mit mehreren Eingaben in eine Ausgabedatei. Jede Seite der Ausgabedatei enthält mehrere Seiten, die mit den Seiten in den Eingabedateien mit derselben Seitenzahl kombiniert werden. Die Multi-Seiten werden horizontal gestapelt, wenn isSidewise wahr ist, und vertikal gestapelt, wenn isSidewise falsch ist.
+Erstellt ein N-Up-Dokument aus den mehreren Eingabe-PDF-Dateien in outputFile. Jede Seite von outputFile enthält mehrere Seiten, die eine Kombination aus Seiten in den Eingabedateien mit derselben Seitennummer sind. Die mehreren Seiten sind horizontal übereinander gestapelt, wenn isSidewise wahr ist, und vertikal, wenn isSidewise falsch ist.
 
 ```csharp
 public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
@@ -193,15 +193,15 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFiles | String[] | Geben Sie PDF-Dateien ein. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
-| isSidewise | Boolean | Aufgestapelt, wahr für horizontal und falsch für vertikal. |
+| inputFiles | String[] | Eingabe-PDF-Dateien. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
+| isSidewise | Boolean | Stapelweise, wahr für horizontal und falsch für vertikal. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -210,15 +210,15 @@ pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.p
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(Stream[], Stream, bool) {#makenup_5}
+## MakeNUp(Stream[], Stream, bool) {#makenup_3}
 
-Erzeugt N-up-Dokumente aus den Multi-Input-PDF-Streams in OutputStream. Jede Seite von OutputStream enthält mehrere Seiten, die mit den Seiten in den Input-Streams derselben Seitennummer kombiniert werden. Die mehreren Seiten werden horizontal gestapelt , wenn isSidewise wahr ist, und vertikal gestapelt, wenn isSidewise falsch ist.
+Erstellt ein N-Up-Dokument aus den mehreren Eingabe-PDF-Streams in outputStream. Jede Seite von outputStream enthält mehrere Seiten, die eine Kombination aus Seiten in den Eingabestreams mit derselben Seitennummer sind. Die Mehrfachseiten sind horizontal übereinander gestapelt, wenn isSidewise wahr ist, und vertikal, wenn isSidewise falsch ist.
 
 ```csharp
 public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
@@ -226,15 +226,15 @@ public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStreams | Stream[] | Geben Sie PDF-Streams ein. |
-| outputStream | Stream | PDF-Stream ausgeben. |
-| isSidewise | Boolean | Aufgestapelt, wahr für horizontal und falsch für vertikal. |
+| inputStreams | Stream[] | Eingabe-PDF-Streams. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
+| isSidewise | Boolean | Stapelweise, wahr für horizontal und falsch für vertikal. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -247,15 +247,15 @@ pfe.MakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(string, string, int, int, PageSize) {#makenup_9}
+## MakeNUp(string, string, int, int, PageSize) {#makenup_5}
 
-Erstellt ein N-up-Dokument aus der Eingabedatei in die Ausgabedatei.
+Erstellt ein N-Up-Dokument aus der Eingabedatei in outputFile.
 
 ```csharp
 public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize pageSize)
@@ -263,17 +263,17 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Geben Sie Pfad und Namen der PDF-Datei ein. |
-| outputFile | String | Pfad und Name der PDF-Datei ausgeben. |
+| inputFile | String | Eingabe-PDF-Dateipfad und -name. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Anzahl Zeilen. |
-| pageSize | PageSize | Die Seitengröße der ausgegebenen PDF-Datei. |
+| y | Int32 | Anzahl der Zeilen. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-boolean – Wahr für Erfolg oder falsch.
+boolean - Wahr für Erfolg oder falsch.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -282,121 +282,148 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(Stream, int, int, PageSize, HttpResponse) {#makenup}
+## MakeNUp(string, string, int, int) {#makenup_4}
 
-Erstellt ein N-up-Dokument und speichert das Ergebnis im HttpResponse-Objekt.
+Erstellt ein N-Up-Dokument aus der firstInputFile in outputFile.
 
 ```csharp
-public bool MakeNUp(Stream inputStream, int x, int y, PageSize pageSize, HttpResponse response)
+public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Stream des Quelldokuments. |
+| inputFile | String | Eingabe-PDF-Dateipfad und -name. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Reihenanzahl. |
-| pageSize | PageSize | Seitengröße in der Ergebnisdatei. |
-| response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
+| y | Int32 | Anzahl der Zeilen. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+boolean - Wahr für Erfolg oder falsch.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
+```
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(string, int, int, PageSize, HttpResponse) {#makenup_6}
+## MakeNUp(Stream, Stream, int, int) {#makenup}
 
-Erstellt ein N-up-Dokument und speichert das Ergebnis im HttpResponse-Objekt.
+Erstellt ein N-Up-Dokument aus dem Eingabestream und speichert das Ergebnis im Ausgabestream.
 
 ```csharp
-public bool MakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpResponse response)
+public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Pfad zur Quelldatei. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Reihenanzahl. |
-| pageSize | PageSize | Seitengröße in der Ergebnisdatei. |
-| response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
+| y | Int32 | Anzahl der Zeilen. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+boolean - Wahr für Erfolg oder falsch.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+pfe.MakeNUp(inputStream, outputStream, 3, 3);
+```
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(string, int, int, HttpResponse) {#makenup_7}
+## MakeNUp(Stream, Stream, int, int, PageSize) {#makenup_1}
 
-Erstellt ein Dokument mit mehreren Seiten und speichert das Ergebnis in HttpResponse.
+Erstellt ein N-Up-Dokument aus dem ersten Eingabestream in den Ausgabestream.
 
 ```csharp
-public bool MakeNUp(string inputFile, int x, int y, HttpResponse response)
+public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageSize pageSize)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputFile | String | Quelldateiname. |
+| inputStream | Stream | Eingabe-PDF-Stream. |
+| outputStream | Stream | Ausgabe-PDF-Stream. |
 | x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Reihenanzahl. |
-| response | HttpResponse | HttpResponse-Objekt, in dem das Ergebnis gespeichert wird. |
+| y | Int32 | Anzahl der Zeilen. |
+| pageSize | PageSize | Die Seitengröße der Ausgabepdf-Datei. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+Wahr, wenn die Operation erfolgreich war.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
+```
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeNUp(Stream, int, int, HttpResponse) {#makenup_1}
+## MakeNUp(string, string, string) {#makenup_6}
 
-Erstellt ein Dokument mit mehreren Seiten und speichert das Ergebnis in HttpResponse.
+Erstellt ein N-Up-Dokument aus den beiden Eingabe-PDF-Dateien in outputFile. Jede Seite von outputFile enthält zwei Seiten, eine Seite stammt aus der ersten Eingabedatei und die andere aus der zweiten Eingabedatei. Die beiden Seiten sind horizontal übereinander gestapelt.
 
 ```csharp
-public bool MakeNUp(Stream inputStream, int x, int y, HttpResponse response)
+public bool MakeNUp(string firstInputFile, string secondInputFile, string outputFile)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| inputStream | Stream | Stream des Eingabedokuments. |
-| x | Int32 | Anzahl der Spalten. |
-| y | Int32 | Reihenanzahl. |
-| response | HttpResponse | HttpResponse wo das Ergebnis gespeichert wird. |
+| firstInputFile | String | erste Eingabedatei. |
+| secondInputFile | String | zweite Eingabedatei. |
+| outputFile | String | Ausgabe-PDF-Dateipfad und -name. |
 
 ### Rückgabewert
 
-True, wenn der Vorgang erfolgreich war.
+boolean - Wahr für Erfolg oder falsch.
+
+## Beispiele
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
+```
 
 ### Siehe auch
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namensraum [Aspose.Pdf.Facades](../../pdffileeditor)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PdfFileEditor](../)
+* Namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* Assembly [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
-title: CreateRubberStamp
-second_title: Aspose.PDF per .NET API Reference
-description: Crea unannotazione del timbro di gomma.
+title: PdfContentEditor.CreateRubberStamp
+second_title: Aspose.PDF for .NET API Reference
+description: Metodo PdfContentEditor. Crea un'annotazione di timbro in gomma
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
 ## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
 
-Crea un'annotazione del timbro di gomma.
+Crea un'annotazione di timbro in gomma.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
@@ -18,12 +18,12 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| annotRect | Rectangle | Il rettangolo di annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| icon | String | Un'icona deve essere utilizzata per visualizzare l'annotazione. Valore predefinito: 'Bozza'." |
-| annotContents | String | Il contenuto dell'annotazione. |
+| annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
+| icon | String | Un'icona da utilizzare per visualizzare l'annotazione. Valore predefinito: 'Draft'. |
+| annotContents | String | I contenuti dell'annotazione. |
 | color | Color | Il colore dell'annotazione. |
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,17 +33,17 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
-Crea un'annotazione del timbro di gomma.
+Crea un'annotazione di timbro in gomma.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -53,12 +53,12 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| annotRect | Rectangle | Il rettangolo di annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| annotContents | String | Il contenuto dell'annotazione. |
+| annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
+| annotContents | String | I contenuti dell'annotazione. |
 | color | Color | Il colore dell'annotazione. |
 | appearanceFile | String | Il percorso del file di aspetto. |
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -68,17 +68,17 @@ editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* assemblea [Aspose.PDF](../../../)
+* classe [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
 
-Crea un'annotazione del timbro di gomma.
+Crea un'annotazione di timbro in gomma.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -88,12 +88,12 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| annotRect | Rectangle | Il rettangolo di annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| annotContents | String | Il contenuto dell'annotazione. |
+| annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
+| annotContents | String | I contenuti dell'annotazione. |
 | color | Color | Il colore dell'annotazione. |
-| appearanceStream | Stream | Il flusso del file dell'aspetto. |
+| appearanceStream | Stream | Il flusso del file di aspetto. |
 
-### Esempi
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -106,10 +106,8 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 }    
 ```
 
-### Guarda anche
+### Vedi Anche
 
-* class [PdfContentEditor](../../pdfcontenteditor)
-* spazio dei nomi [Aspose.Pdf.Facades](../../pdfcontenteditor)
-* assemblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* classe [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

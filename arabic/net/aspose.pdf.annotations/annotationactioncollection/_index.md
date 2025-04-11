@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection
-second_title: Aspose.PDF لمرجع .NET API
-description: يمثل مجموعة إجراءات التعليقات التوضيحية .
+title: Class AnnotationActionCollection
+second_title: Aspose.PDF for .NET API Reference
+description: فئة Aspose.Pdf.Annotations.AnnotationActionCollection. تمثل مجموعة من إجراءات التعليق
 type: docs
-weight: 90
+weight: 1420
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/
 ---
-## AnnotationActionCollection class
+## فئة AnnotationActionCollection
 
-يمثل مجموعة إجراءات التعليقات التوضيحية .
+تمثل مجموعة من إجراءات التعليق.
 
 ```csharp
 public sealed class AnnotationActionCollection : BaseActionCollection
@@ -16,33 +16,31 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate) { get; set; } | الحصول على أو تعيين إجراء لحساب قيمة الحقل. |
-| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | الحصول على أو تعيين إجراء يتم تنفيذه عند إغلاق الصفحة التي تحتوي على التعليق التوضيحي. |
-| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | الحصول على أو تعيين إجراء ليتم تنفيذه عندما يدخل المؤشر منطقة التعليق التوضيحي النشطة. |
-| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | الحصول على أو تعيين إجراء ليتم تنفيذه عندما يخرج المؤشر من منطقة التعليق التوضيحي النشطة. |
-| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat) { get; set; } | الحصول على أو تعيين إجراء يتم تنفيذه لتنسيق قيمة الحقل. |
-| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage) { get; set; } | الحصول على إجراء أو تعيينه ليتم تنفيذه عندما لا تعد الصفحة التي تحتوي على التعليق التوضيحي مرئية في واجهة مستخدم تطبيق العارض. |
-| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | الحصول على إجراء أو تعيينه ليتم تنفيذه عندما يفقد التعليق التوضيحي تركيز الإدخال. |
-| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter) { get; set; } | الحصول على أو تعيين إجراء يتم تنفيذه عندما يقوم المستخدم بتعديل حرف الحقل. |
-| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | الحصول على إجراء أو تعيينه ليتم تنفيذه عند فتح الصفحة التي تحتوي على التعليق التوضيحي. |
-| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn) { get; set; } | الحصول على أو تعيين إجراء ليتم تنفيذه عند الضغط على زر الماوس داخل المنطقة النشطة للتعليق التوضيحي. |
-| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | الحصول على إجراء أو تعيينه ليتم تنفيذه عندما يتلقى التعليق التوضيحي تركيز الإدخال. |
-| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | الحصول على أو تعيين إجراء ليتم تنفيذه عند تحرير زر الماوس داخل المنطقة النشطة للتعليق التوضيحي. |
-| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage) { get; set; } | الحصول على إجراء أو تعيينه ليتم تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق التوضيحي مرئية في واجهة مستخدم تطبيق العارض. |
-| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate) { get; set; } | الحصول على أو تعيين إجراء يتم تنفيذه عندما يغير المستخدم محتويات الحقل. |
+| [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate/) { get; set; } | يحصل أو يحدد إجراء لحساب قيمة الحقل. |
+| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند إغلاق الصفحة التي تحتوي على التعليق. |
+| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند دخول المؤشر منطقة التعليق النشطة. |
+| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند خروج المؤشر من منطقة التعليق النشطة. |
+| [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه لتنسيق قيمة الحقل. |
+| [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما لا تكون الصفحة التي تحتوي على التعليق مرئية بعد الآن في واجهة مستخدم تطبيق العرض. |
+| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما يفقد التعليق التركيز المدخل. |
+| [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما يقوم المستخدم بتعديل حرف الحقل. |
+| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند فتح الصفحة التي تحتوي على التعليق. |
+| [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند الضغط على زر الماوس داخل منطقة التعليق النشطة. |
+| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما يحصل التعليق على التركيز المدخل. |
+| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عند تحرير زر الماوس داخل منطقة التعليق النشطة. |
+| [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق مرئية في واجهة مستخدم تطبيق العرض. |
+| [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate/) { get; set; } | يحصل أو يحدد إجراء يتم تنفيذه عندما يقوم المستخدم بتغيير محتويات الحقل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() | يزيل كافة إجراءات التعليق التوضيحي. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | يزيل جميع إجراءات التعليق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseActionCollection](../../aspose.pdf/baseactioncollection)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* المجسم [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* فئة [BaseActionCollection](../../aspose.pdf/baseactioncollection/)
+* مساحة الأسماء [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* التجميع [Aspose.PDF](../../)

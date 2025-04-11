@@ -1,14 +1,14 @@
 ---
-title: ChangePassword
-second_title: Aspose.PDF för .NET API Referens
-description: Ändrar användarlösenordet och ägarlösenordet med ägarlösenordet behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomt. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar ett undantag om processen misslyckades.
+title: PdfFileSecurity.ChangePassword
+second_title: Aspose.PDF for .NET API Reference
+description: PdfFileSecurity-metod. Ändrar användarlösenordet och ägarens lösenord genom att ägarens lösenord behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Kastar ett undantag om processen misslyckas
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/changepassword/
 ---
 ## ChangePassword(string, string, string) {#changepassword}
 
-Ändrar användarlösenordet och ägarlösenordet med ägarlösenordet, behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomt. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar ett undantag om processen misslyckades.
+Ändrar användarlösenordet och ägarens lösenord genom att ägarens lösenord behåller de ursprungliga säkerhetsinställningarna. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -16,20 +16,20 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | String | Original ägarlösenord. |
-| newUserPassword | String | Nytt användarlösenord. |
-| newOwnerPassword | String | Nytt ägarlösenord. |
+| ownerPassword | Sträng | Ursprungsägarens lösenord. |
+| newUserPassword | Sträng | Nytt användarlösenord. |
+| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
 
 ### Returvärde
 
 Sant för framgång.
 
-### Exempel
+## Exempel
 
 ```csharp
 [C#]
- string inFile = "D:\\input.pdf"; //TestPath kan tilldelas om.
- string outFile = "D:\\output.pdf";	//TestPath kan tilldelas om.
+ string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
+ string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
  fileSecurity.ChangePassword("owner","newuser","newowner");
 
@@ -40,17 +40,17 @@ Sant för framgång.
  fileSecurity.ChangePassword("owner","newuser","newowner")	
 ```
 
-### Se även
+### Se Även
 
-* class [PdfFileSecurity](../../pdffilesecurity)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilesecurity)
-* hopsättning [Aspose.PDF](../../../)
+* klass [PdfFileSecurity](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
 
-Ändrar användarlösenordet och lösenordet med ägarlösenordet, gör det möjligt att återställa Pdf-dokumentsäkerhet. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomt. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Kastar ett undantag om processen misslyckades.
+Ändrar användarlösenordet och lösenordet genom att ägarens lösenord, tillåter att återställa Pdf-dokumentets säkerhet. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -59,22 +59,22 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | String | Ursprungligt ägarlösenord. |
-| newUserPassword | String | Nytt användarlösenord. |
-| newOwnerPassword | String | Nytt ägarlösenord. |
-| privilege | DocumentPrivilege | Återställ säkerheten. |
-| keySize | KeySize | KeySize.x40 för 40 bitars kryptering, KeySize.x128 för 128 bitars kryptering och KeySize.x256 för 256 bitars kryptering. |
+| ownerPassword | Sträng | Ursprungsägarens lösenord. |
+| newUserPassword | Sträng | Nytt användarlösenord. |
+| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
+| privilege | DocumentPrivilege | Återställ säkerhet. |
+| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
 
 ### Returvärde
 
 Sant för framgång.
 
-### Exempel
+## Exempel
 
 ```csharp
 [C#]
-string inFile = ".D:\\input.pdf"; //TestPath kan tilldelas om.
-string outFile = "D:\\output.pdf";	//TestPath kan tilldelas om.
+string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);	
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
 
@@ -85,19 +85,19 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### Se även
+### Se Även
 
-* class [DocumentPrivilege](../../documentprivilege)
-* enum [KeySize](../../keysize)
-* class [PdfFileSecurity](../../pdffilesecurity)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilesecurity)
-* hopsättning [Aspose.PDF](../../../)
+* klass [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* klass [PdfFileSecurity](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
 
-Ändrar användarlösenordet och lösenordet med ägarlösenordet, gör det möjligt att återställa Pdf-dokumentsäkerhet. Det nya användarlösenordet och det nya ägarlösenordet kan vara null eller tomt. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det nya ägarlösenordet är null eller tomt. Det finns 6 möjliga kombinationer av KeySize och Algoritmvärden. Men (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) är ogiltiga och motsvarande undantag kommer att höjas om kitet stöter på denna kombination. Kastar ett undantag om processen misslyckades._x000d
+Ändrar användarlösenordet och lösenordet genom att ägarens lösenord, tillåter att återställa Pdf-dokumentets säkerhet. Det nya användarlösenordet och det nya ägarens lösenord kan vara null eller tomma. Ägarens lösenord kommer att ersättas med en slumpmässig sträng om det nya ägarens lösenord är null eller tomt. Det finns 6 möjliga kombinationer av KeySize och Algorithm-värden. Men (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) är ogiltiga och motsvarande undantag kommer att uppstå om kit stöter på denna kombination. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -106,23 +106,23 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | String | Ursprungligt ägarlösenord. |
-| newUserPassword | String | Nytt användarlösenord. |
-| newOwnerPassword | String | Nytt ägarlösenord. |
-| privilege | DocumentPrivilege | Återställ säkerheten. |
-| keySize | KeySize | KeySize.x40 för 40 bitars kryptering, KeySize.x128 för 128 bitars kryptering och KeySize.x256 för 256 bitars kryptering. |
-| cipher | Algorithm | Algorithm.AES för att kryptera med AES-algoritm eller Algorithm.RC4 för RC4-kryptering. |
+| ownerPassword | Sträng | Ursprungsägarens lösenord. |
+| newUserPassword | Sträng | Nytt användarlösenord. |
+| newOwnerPassword | Sträng | Nytt ägarens lösenord. |
+| privilege | DocumentPrivilege | Återställ säkerhet. |
+| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
+| cipher | Algorithm | Algorithm.AES för att kryptera med AES-algoritmen eller Algorithm.RC4 för RC4-kryptering. |
 
 ### Returvärde
 
 Sant för framgång.
 
-### Exempel
+## Exempel
 
 ```csharp
 [C#]
-string inFile = ".D:\\input.pdf"; //TestPath kan tilldelas om.
-string outFile = "D:\\output.pdf";	//TestPath kan tilldelas om.
+string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);	
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
 
@@ -133,13 +133,11 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### Se även
+### Se Även
 
-* class [DocumentPrivilege](../../documentprivilege)
-* enum [KeySize](../../keysize)
-* enum [Algorithm](../../algorithm)
-* class [PdfFileSecurity](../../pdffilesecurity)
-* namnutrymme [Aspose.Pdf.Facades](../../pdffilesecurity)
-* hopsättning [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* klass [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
+* klass [PdfFileSecurity](../)
+* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

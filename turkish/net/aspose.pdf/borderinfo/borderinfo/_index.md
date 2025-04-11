@@ -1,136 +1,134 @@
 ---
-title: BorderInfo
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırBorderInfoaspose.pdf/borderinfo sınıf.
+title: BorderInfo.BorderInfo
+second_title: Aspose.PDF for .NET API Reference
+description: BorderInfo yapıcısı. BorderInfo sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| borderSide | BorderSide | Sınır kenarları bilgisini gösterir. Örneğin: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
-| borderColor | Color | Kenarlık rengi. |
+| borderSide | BorderSide | Kenar tarafları bilgisini belirtir. Örneğin: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderColor | Color | Kenar rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo() {#constructor}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| borderSide | BorderSide | Sınır kenarları bilgisini gösterir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Kenar tarafları bilgisini belirtir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| borderSide | BorderSide | Sınır kenarları bilgisini gösterir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Sınırın genişliği. |
+| borderSide | BorderSide | Kenar tarafları bilgisini belirtir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Kenarın genişliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [BorderSide](../../borderside)
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| borderSide | BorderSide | Sınır kenarları bilgisini gösterir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Sınırın genişliği. |
-| borderColor | Color | Kenarlık rengi. |
+| borderSide | BorderSide | Kenar tarafları bilgisini belirtir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Kenarın genişliği. |
+| borderColor | Color | Kenar rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [BorderSide](../../borderside)
-* class [Color](../../color)
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Yeni bir örneğini başlatır[`BorderInfo`](../../borderinfo) sınıf.
+[`BorderInfo`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| borderSide | BorderSide | Sınır kenarları bilgisini gösterir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Sınır bilgisi. |
+| borderSide | BorderSide | Kenar tarafları bilgisini belirtir. Örneğin: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | GraphInfo | Kenar bilgisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [BorderSide](../../borderside)
-* class [GraphInfo](../../graphinfo)
-* class [BorderInfo](../../borderinfo)
-* ad alanı [Aspose.Pdf](../../borderinfo)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)

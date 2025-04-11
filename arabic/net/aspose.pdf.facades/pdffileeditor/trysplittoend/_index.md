@@ -1,71 +1,71 @@
 ---
-title: TrySplitToEnd
-second_title: Aspose.PDF لمرجع .NET API
-description: ينقسم عن الموقع ويحفظ الجزء الخلفي كملف جديد.
+title: PdfFileEditor.TrySplitToEnd
+second_title: Aspose.PDF for .NET API Reference
+description: طريقة PdfFileEditor. تقسم من الموقع وتخزن الجزء الخلفي كملف جديد
 type: docs
-weight: 500
+weight: 470
 url: /ar/net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_2}
+## TrySplitToEnd(string, int, string) {#trysplittoend_1}
 
-ينقسم عن الموقع ويحفظ الجزء الخلفي كملف جديد.
+تقسم من الموقع، وتخزن الجزء الخلفي كملف جديد.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | ملف PDF المصدر. |
-| location | Int32 | موقف الانقسام. |
-| outputFile | String | إخراج مسار ملف Pdf. |
+| inputFile | String | ملف Pdf المصدر. |
+| location | Int32 | موضع التقسيم. |
+| outputFile | String | مسار ملف Pdf الناتج. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح للنجاح أو خطأ.
+صحيح عند النجاح، أو خطأ.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TrySplitToEnd طريقة SplitToEnd ، باستثناء أن طريقة TrySplitToEnd لا تطرح استثناءً إذا فشلت العملية.
+طريقة TrySplitToEnd تشبه طريقة SplitToEnd، باستثناء أن طريقة TrySplitToEnd لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-ينقسم عن الموقع المحدد ، ويحفظ الجزء الخلفي كملف جديد.
+تقسم من الموقع المحدد، وتخزن الجزء الخلفي كملف Stream جديد.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | مصدر ملف Pdf دفق. |
-| location | Int32 | موقف الانقسام. |
-| outputStream | Stream | إخراج ملف Pdf دفق. |
+| inputStream | Stream | ملف Pdf المصدر Stream. |
+| location | Int32 | موضع التقسيم. |
+| outputStream | Stream | ملف Pdf الناتج Stream. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح للنجاح أو خطأ.
+صحيح عند النجاح، أو خطأ.
 
-### ملاحظات
+## Remarks
 
-لا يتم إغلاق التدفقات بعد هذه العملية ما لم يتم تحديد CloseConcatedStreams . طريقة TrySplitToEnd تشبه طريقة SplitToEnd ، باستثناء أن طريقة TrySplitToEnd لا تطرح استثناءً إذا فشلت العملية.
+التيارات لا تُغلق بعد هذه العملية ما لم يتم تحديد CloseConcatedStreams. طريقة TrySplitToEnd تشبه طريقة SplitToEnd، باستثناء أن طريقة TrySplitToEnd لا ترمي استثناء إذا فشلت العملية.
 
-### أمثلة
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,70 +74,67 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 ```
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
----
 
 ## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
 
-ينقسم من الموقع المحدد ، ويحفظ الجزء الخلفي في كائن HttpResponse .
+تقسم من الموقع المحدد، وتخزن الجزء الخلفي في كائن HttpResponse.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | مصدر الوثيقة تيار. |
-| location | Int32 | نقطة الانقسام. |
+| inputStream | Stream | تيار الوثيقة المصدر. |
+| location | Int32 | نقطة التقسيم. |
 | response | HttpResponse | كائن HttpResponse. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+صحيح إذا اكتملت العملية بنجاح؛ خلاف ذلك، خطأ.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TrySplitToEnd طريقة SplitToEnd ، باستثناء أن طريقة TrySplitToEnd لا تطرح استثناءً إذا فشلت العملية.
+طريقة TrySplitToEnd تشبه طريقة SplitToEnd، باستثناء أن طريقة TrySplitToEnd لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TrySplitToEnd(string, int, HttpResponse) {#trysplittoend_3}
 
-ينقسم من الموقع المحدد ، ويحفظ الجزء الخلفي في كائن HttpResponse .
+تقسم من الموقع المحدد، وتخزن الجزء الخلفي في كائن HttpResponse.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
 ```
 
-| معامل | يكتب | وصف |
+| Parameter | Type | Description |
 | --- | --- | --- |
 | inputFile | String | اسم الملف المصدر. |
-| location | Int32 | نقطة الانقسام. |
+| location | Int32 | نقطة التقسيم. |
 | response | HttpResponse | كائنات HttpResponse. |
 
-### قيمة الإرجاع
+### Return Value
 
-صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+صحيح إذا اكتملت العملية بنجاح؛ خلاف ذلك، خطأ.
 
-### ملاحظات
+## Remarks
 
-تشبه طريقة TrySplitToEnd طريقة SplitToEnd ، باستثناء أن طريقة TrySplitToEnd لا تطرح استثناءً إذا فشلت العملية.
+طريقة TrySplitToEnd تشبه طريقة SplitToEnd، باستثناء أن طريقة TrySplitToEnd لا ترمي استثناء إذا فشلت العملية.
 
-### أنظر أيضا
+### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
-* المجسم [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)

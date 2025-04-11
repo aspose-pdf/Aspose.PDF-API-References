@@ -1,12 +1,12 @@
 ---
-title: XImageCollection
-second_title: Aspose.PDF for .NET API Referansı
-description: XImage koleksiyonunu temsil eden sınıf.
+title: Class XImageCollection
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.XImageCollection sınıfı. XImage koleksiyonunu temsil eden sınıf
 type: docs
-weight: 7410
+weight: 11360
 url: /tr/net/aspose.pdf/ximagecollection/
 ---
-## XImageCollection class
+## XImageCollection sınıfı
 
 XImage koleksiyonunu temsil eden sınıf.
 
@@ -14,44 +14,44 @@ XImage koleksiyonunu temsil eden sınıf.
 public sealed class XImageCollection : ICollection<XImage>
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Count](../../aspose.pdf/ximagecollection/count) { get; } | Koleksiyondaki resim sayısı. |
-| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly) { get; } | Koleksiyonun salt okunur olup olmadığını gösteren bir değer alır. |
-| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized) { get; } | Nesne eşitlenirse true değerini döndürür. |
-| [Item](../../aspose.pdf/ximagecollection/item) { get; } | Dizinine göre koleksiyondan resim alır. (2 indexers) |
-| [Names](../../aspose.pdf/ximagecollection/names) { get; } | Görüntü adları dizisini alır. |
-| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot) { get; } | Eşitleme nesnesini döndürür. |
+| [Count](../../aspose.pdf/ximagecollection/count/) { get; } | Koleksiyondaki resimlerin sayısı. |
+| [IsReadOnly](../../aspose.pdf/ximagecollection/isreadonly/) { get; } | Koleksiyonun salt okunur olup olmadığını belirten bir değer alır. |
+| [IsSynchronized](../../aspose.pdf/ximagecollection/issynchronized/) { get; } | Nesne senkronize ise true döner. |
+| [Item](../../aspose.pdf/ximagecollection/item/) { get; } | Koleksiyondan indeksine göre resmi alır. (2 indeksleyici) |
+| [Names](../../aspose.pdf/ximagecollection/names/) { get; } | Resim adlarının dizisini alır. |
+| [SyncRoot](../../aspose.pdf/ximagecollection/syncroot/) { get; } | Senkronizasyon nesnesini döner. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| İsim | Açıklama |
 | --- | --- |
-| [Add](../../aspose.pdf/ximagecollection/add#add_1)(Stream) | Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler. |
-| [Add](../../aspose.pdf/ximagecollection/add#add)(XImage) | Görüntü listesine yeni görüntü ekler. Bu yöntem, görüntüyü aynı PdfObject'e referans olarak ekler (dosya boyutunu küçültmeye izin verir) |
-| [Add](../../aspose.pdf/ximagecollection/add#add_2)(Stream, ImageFilterType) | Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler. |
-| [Add](../../aspose.pdf/ximagecollection/add#add_3)(Stream, int) | Varlığa son dizin tarafından erişilebilmesi için koleksiyonun sonuna varlık ekler. |
-| [Clear](../../aspose.pdf/ximagecollection/clear)() | Koleksiyondaki tüm öğeleri temizler. |
-| [Contains](../../aspose.pdf/ximagecollection/contains)(XImage) | Koleksiyonun belirli bir değer içerip içermediğini belirler. |
-| [CopyTo](../../aspose.pdf/ximagecollection/copyto)(XImage[], int) | Görüntü dizisini koleksiyona kopyalar. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete)() | Koleksiyondaki resimleri siler. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_1)(int) | Dizini dizine göre koleksiyondan kaldırır. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_3)(string) | Öğeyi ada göre koleksiyondan kaldırır. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_2)(int, ImageDeleteAction) | action parametresi tarafından belirtilen eylemi indeksleyerek koleksiyondan görüntüyü kaldırır. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | Öğeyi ada göre koleksiyondan kaldırır. |
-| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator)() | Koleksiyon numaralandırıcısını döndürür. |
-| [GetImageName](../../aspose.pdf/ximagecollection/getimagename)(XImage) | Verilen görüntünün anahtarı olan görüntü listesindeki adı döndürür. |
-| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | Öğeyi koleksiyondan kaldırır, atarNotImplementedException . |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace)(int, Stream) | Koleksiyondaki resmi başka bir resimle değiştirin. |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_1)(int, Stream, int) | Koleksiyondaki resmi başka bir resimle değiştirin. |
-| [Replace](../../aspose.pdf/ximagecollection/replace#replace_2)(int, Stream, int, bool) | Koleksiyondaki resmi başka bir resimle değiştirin. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add)(BitmapInfo) | Varlığı koleksiyonun sonuna ekler, böylece varlık son indeksten erişilebilir. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_3)(Stream) | Varlığı koleksiyonun sonuna ekler, böylece varlık son indeksten erişilebilir. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_2)(XImage) | Resim listesine yeni bir resim ekler. Bu yöntem resmi aynı PdfObject'e referans olarak ekler (bu, dosya boyutunu azaltmayı sağlar) |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_1)(BitmapInfo, ImageFilterType) | Varlığı koleksiyonun sonuna ekler, böylece varlık son indeksten erişilebilir. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_4)(Stream, ImageFilterType) | Varlığı koleksiyonun sonuna ekler, böylece varlık son indeksten erişilebilir. |
+| [Add](../../aspose.pdf/ximagecollection/add/#add_5)(Stream, int) | Varlığı koleksiyonun sonuna ekler, böylece varlık son indeksten erişilebilir. |
+| [Clear](../../aspose.pdf/ximagecollection/clear/)() | Koleksiyondaki tüm öğeleri temizler. |
+| [Contains](../../aspose.pdf/ximagecollection/contains/)(XImage) | Koleksiyonun belirli bir değeri içerip içermediğini belirler. |
+| [CopyTo](../../aspose.pdf/ximagecollection/copyto/)(XImage[], int) | Resim dizisini koleksiyona kopyalar. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete)() | Koleksiyondan resimleri siler. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_1)(int) | İndeksi koleksiyondan indeks ile kaldırır. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_3)(string) | Koleksiyondan isme göre öğeyi kaldırır. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_2)(int, ImageDeleteAction) | Belirtilen eylem parametresine göre koleksiyondan indekse göre resmi kaldırır. |
+| [Delete](../../aspose.pdf/ximagecollection/delete/#delete_4)(string, ImageDeleteAction) | Koleksiyondan isme göre öğeyi kaldırır. |
+| [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator/)() | Koleksiyon enumeratörünü döner. |
+| [GetImageName](../../aspose.pdf/ximagecollection/getimagename/)(XImage) | Verilen resmin anahtarının bulunduğu resim listesindeki ismi döner. |
+| [Remove](../../aspose.pdf/ximagecollection/remove/)(XImage) | Koleksiyondan öğeyi kaldırır, NotImplementedException fırlatır. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace)(int, Stream) | Koleksiyondaki resmi başka bir resim ile değiştirir. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_1)(int, Stream, int) | Koleksiyondaki resmi başka bir resim ile değiştirir. |
+| [Replace](../../aspose.pdf/ximagecollection/replace/#replace_2)(int, Stream, int, bool) | Koleksiyondaki resmi başka bir resim ile değiştirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [XImage](../ximage)
-* ad alanı [Aspose.Pdf](../../aspose.pdf)
-* toplantı [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [XImage](../ximage/)
+* ad alanı [Aspose.Pdf](../../aspose.pdf/)
+* derleme [Aspose.PDF](../../)

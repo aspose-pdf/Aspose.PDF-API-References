@@ -1,14 +1,14 @@
 ---
-title: AnnotationSelector
-second_title: Référence de l'API Aspose.PDF pour .NET
-description: Cette classe est utilisée pour sélectionner des annotations à laide dune idée de modèle de visiteur.
+title: Class AnnotationSelector
+second_title: Aspose.PDF for .NET API Reference
+description: Classe Aspose.Pdf.Annotations.AnnotationSelector. Cette classe est utilisée pour sélectionner des annotations en utilisant l'idée du modèle Visitor
 type: docs
-weight: 120
+weight: 1450
 url: /fr/net/aspose.pdf.annotations/annotationselector/
 ---
-## AnnotationSelector class
+## Classe AnnotationSelector
 
-Cette classe est utilisée pour sélectionner des annotations à l'aide d'une idée de modèle de visiteur.
+Cette classe est utilisée pour sélectionner des annotations en utilisant l'idée du modèle Visitor.
 
 ```csharp
 public sealed class AnnotationSelector : IAnnotationVisitor
@@ -16,50 +16,53 @@ public sealed class AnnotationSelector : IAnnotationVisitor
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AnnotationSelector](annotationselector#constructor)() | Initialise la nouvelle instance de la classe AnnotationSelector. |
-| [AnnotationSelector](annotationselector#constructor_1)(Annotation) | Initialise nouveau[`AnnotationSelector`](../annotationselector) objet. |
+| [AnnotationSelector](annotationselector/#constructor)() | Initialise une nouvelle instance de la classe AnnotationSelector. |
+| [AnnotationSelector](annotationselector/#constructor_1)(Annotation) | Initialise un nouvel objet `AnnotationSelector`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Selected](../../aspose.pdf.annotations/annotationselector/selected) { get; } | La liste des objets sélectionnés. |
+| [Selected](../../aspose.pdf.annotations/annotationselector/selected/) { get; } | La liste des objets sélectionnés. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit)(CaretAnnotation) | Sélectionnez l'annotation caret si AnnotationSelector a été initialisé avec l'objet CaretAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_1)(CircleAnnotation) | Sélectionnez l'annotation de cercle si AnnotationSelector a été initialisé avec l'objet CircleAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_2)(FileAttachmentAnnotation) | Sélectionnez l'annotation de pièce jointe si AnnotationSelector a été initialisé avec l'objet FileAttachmentAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_3)(FreeTextAnnotation) | Sélectionnez une annotation en texte libre si AnnotationSelector a été initialisé avec l'objet FreeTextAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_4)(HighlightAnnotation) | Sélectionnez l'annotation de pièce jointe si AnnotationSelector a été initialisé avec l'objet FreeTextAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_5)(InkAnnotation) | Sélectionnez l'annotation manuscrite si AnnotationSelector a été initialisé avec l'objet InkAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_6)(LineAnnotation) | Sélectionnez l'annotation de ligne si AnnotationSelector a été initialisé avec l'objet LineAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_7)(LinkAnnotation) | Sélectionnez l'annotation de lien si AnnotationSelector a été initialisé avec l'objet LinkAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_8)(MovieAnnotation) | Sélectionnez l'annotation de film si AnnotationSelector a été initialisé avec l'objet MovieAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_9)(PDF3DAnnotation) | Sélectionnez l'annotation PDF3D si AnnotationSelector a été initialisé avec l'objet PDF3DAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_10)(PolygonAnnotation) | Sélectionnez l'annotation de polygone si AnnotationSelector a été initialisé avec l'objet PolygonAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_11)(PolylineAnnotation) | Sélectionnez l'annotation polyligne si AnnotationSelector a été initialisé avec l'objet PolylineAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_12)(PopupAnnotation) | Sélectionnez l'annotation contextuelle si AnnotationSelector a été initialisé avec l'objet PopupAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_13)(RedactionAnnotation) | Sélectionnez l'annotation de rédaction si AnnotationSelector a été initialisé avec l'objet RedactAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_14)(RichMediaAnnotation) | Sélectionnez l'annotation de film si AnnotationSelector a été initialisé avec l'objet d'annotation RichMedia. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_15)(ScreenAnnotation) | Sélectionnez l'annotation d'écran si AnnotationSelector a été initialisé avec l'objet ScreenAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_16)(SquareAnnotation) | Sélectionnez l'annotation carrée si AnnotationSelector a été initialisé avec l'objet SquareAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_17)(SquigglyAnnotation) | Sélectionnez l'annotation ondulée si AnnotationSelector a été initialisé avec l'objet SquigglyAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_18)(StampAnnotation) | Sélectionnez l'annotation de tampon si AnnotationSelector a été initialisé avec l'objet StampAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_19)(StrikeOutAnnotation) | Sélectionnez l'annotation strikeOut si AnnotationSelector a été initialisé avec l'objet StrikeOutAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_20)(TextAnnotation) | Sélectionnez l'annotation de texte si AnnotationSelector a été initialisé avec l'objet TextAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_21)(UnderlineAnnotation) | Sélectionnez l'annotation de soulignement si AnnotationSelector a été initialisé avec l'objet UnderlineAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_22)(WatermarkAnnotation) | Sélectionnez l'annotation de filigrane si AnnotationSelector a été initialisé avec l'objet WatermarkAnnotation. |
-| [Visit](../../aspose.pdf.annotations/annotationselector/visit#visit_23)(WidgetAnnotation) | Sélectionnez l'annotation du widget si AnnotationSelector a été initialisé avec l'objet WidgetAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit)(BleedMarkAnnotation) | Sélectionne le *bleedMark* si le `AnnotationSelector` a été initialisé avec un objet [`BleedMarkAnnotation`](../bleedmarkannotation/). |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_1)(CaretAnnotation) | Sélectionne l'annotation caret si AnnotationSelector a été initialisé avec un objet CaretAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_2)(CircleAnnotation) | Sélectionne l'annotation cercle si AnnotationSelector a été initialisé avec un objet CircleAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_3)(ColorBarAnnotation) | Sélectionne l'annotation ColorBar si AnnotationSelector a été initialisé avec un objet ColorBar. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_4)(FileAttachmentAnnotation) | Sélectionne l'annotation de pièce jointe si AnnotationSelector a été initialisé avec un objet FileAttachmentAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_5)(FreeTextAnnotation) | Sélectionne l'annotation de texte libre si AnnotationSelector a été initialisé avec un objet FreeTextAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_6)(HighlightAnnotation) | Sélectionne l'annotation de pièce jointe si AnnotationSelector a été initialisé avec un objet FreeTextAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_7)(InkAnnotation) | Sélectionne l'annotation d'encre si AnnotationSelector a été initialisé avec un objet InkAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_8)(LineAnnotation) | Sélectionne l'annotation de ligne si AnnotationSelector a été initialisé avec un objet LineAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_9)(LinkAnnotation) | Sélectionne l'annotation de lien si AnnotationSelector a été initialisé avec un objet LinkAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_10)(MovieAnnotation) | Sélectionne l'annotation de film si AnnotationSelector a été initialisé avec un objet MovieAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_11)(PageInformationAnnotation) | Sélectionne le *pageInformation* si le `AnnotationSelector` a été initialisé avec un objet [`PageInformationAnnotation`](../pageinformationannotation/). |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_12)(PDF3DAnnotation) | Sélectionne l'annotation PDF3D si AnnotationSelector a été initialisé avec un objet PDF3DAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_13)(PolygonAnnotation) | Sélectionne l'annotation polygonale si AnnotationSelector a été initialisé avec un objet PolygonAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_14)(PolylineAnnotation) | Sélectionne l'annotation polyligne si AnnotationSelector a été initialisé avec un objet PolylineAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_15)(PopupAnnotation) | Sélectionne l'annotation popup si AnnotationSelector a été initialisé avec un objet PopupAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_16)(RedactionAnnotation) | Sélectionne l'annotation de rédaction si AnnotationSelector a été initialisé avec un objet RedactAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_17)(RegistrationMarkAnnotation) | Sélectionne le *registrationMark* si le `AnnotationSelector` a été initialisé avec un objet [`RegistrationMarkAnnotation`](../registrationmarkannotation/). |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_18)(RichMediaAnnotation) | Sélectionne l'annotation de film si AnnotationSelector a été initialisé avec un objet d'annotation RichMedia. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_19)(ScreenAnnotation) | Sélectionne l'annotation d'écran si AnnotationSelector a été initialisé avec un objet ScreenAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_20)(SquareAnnotation) | Sélectionne l'annotation carrée si AnnotationSelector a été initialisé avec un objet SquareAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_21)(SquigglyAnnotation) | Sélectionne l'annotation ondulée si AnnotationSelector a été initialisé avec un objet SquigglyAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_22)(StampAnnotation) | Sélectionne l'annotation de tampon si AnnotationSelector a été initialisé avec un objet StampAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_23)(StrikeOutAnnotation) | Sélectionne l'annotation barrée si AnnotationSelector a été initialisé avec un objet StrikeOutAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_24)(TextAnnotation) | Sélectionne l'annotation de texte si AnnotationSelector a été initialisé avec un objet TextAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_25)(TrimMarkAnnotation) | Sélectionne le *trimMark* si le `AnnotationSelector` a été initialisé avec un objet [`TrimMarkAnnotation`](../trimmarkannotation/). |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_26)(UnderlineAnnotation) | Sélectionne l'annotation soulignée si AnnotationSelector a été initialisé avec un objet UnderlineAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_27)(WatermarkAnnotation) | Sélectionne l'annotation de filigrane si AnnotationSelector a été initialisé avec un objet WatermarkAnnotation. |
+| [Visit](../../aspose.pdf.annotations/annotationselector/visit/#visit_28)(WidgetAnnotation) | Sélectionne l'annotation de widget si AnnotationSelector a été initialisé avec un objet WidgetAnnotation. |
 
-### Voir également
+### Voir aussi
 
-* interface [IAnnotationVisitor](../iannotationvisitor)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
-* Assemblée [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* interface [IAnnotationVisitor](../iannotationvisitor/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)

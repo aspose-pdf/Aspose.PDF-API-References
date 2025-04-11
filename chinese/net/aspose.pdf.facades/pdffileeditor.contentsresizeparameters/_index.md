@@ -1,52 +1,50 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API 参考
-description: 用于指定页面大小调整参数的类 允许设置以下参数 结果页面的大小宽度高度默认空间单位或初始页面大小的百分比 以默认空间单位或初始页面大小的百分比表示的左上下和右页边距 某些值可能为自动计算保留为空这些值将在计算明确指定的值后从页面大小的其余部分计算  例如如果页面宽度  100 并且新页面宽度指定为 60 个单位则自动计算 左右边距 100 - 60 / 2  15. 这个类用于 ResizeContents 方法
+title: Class PdfFileEditor.ContentsResizeParameters
+second_title: Aspose.PDF for .NET API Reference
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters 类。用于指定页面调整大小参数的类。允许设置以下参数：结果页面的大小（宽度、高度），以默认空间单位或初始页面大小的百分比表示；左、上、下和右边距，以默认空间单位或初始页面大小的百分比表示；某些值可以留空以进行自动计算。这些值将在明确指定值后从页面大小的其余部分计算。例如，如果页面宽度为 100，指定的新页面宽度为 60 单位，则左边距和右边距将自动计算为 (100 - 60) / 2 = 15。此类用于 ResizeContents 方法。
 type: docs
-weight: 2490
+weight: 4480
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
 ## PdfFileEditor.ContentsResizeParameters class
 
-用于指定页面大小调整参数的类。 允许设置以下参数： 结果页面的大小（宽度、高度），默认空间单位或初始页面大小的百分比； 以默认空间单位或初始页面大小的百分比表示的左、上、下和右页边距； 某些值可能为自动计算保留为空。这些值将在计算明确指定的值后从页面大小的其余部分计算 。 例如：如果页面宽度 = 100 并且新页面宽度指定为 60 个单位，则自动计算 左右边距： (100 - 60) / 2 = 15. 这个类用于 ResizeContents 方法。
+用于指定页面调整大小参数的类。允许设置以下参数：结果页面的大小（宽度、高度），以默认空间单位或初始页面大小的百分比表示；左、上、下和右边距，以默认空间单位或初始页面大小的百分比表示；某些值可以留空以进行自动计算。这些值将在明确指定值后从页面大小的其余部分计算。例如：如果页面宽度 = 100，指定的新页面宽度为 60 单位，则左边距和右边距将自动计算为：(100 - 60) / 2 = 15。此类用于 ResizeContents 方法。
 
 ```csharp
 public class ContentsResizeParameters
 ```
 
-## 构造函数
+## Constructors
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [ContentsResizeParameters](contentsresizeparameters#constructor)() | 创建所有值设置为“自动”的调整大小参数。如果需要，可以指定以后的边距和内容大小。 |
-| [ContentsResizeParameters](contentsresizeparameters#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | 创建具有指定边距值和内容大小的调整大小参数。 |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | 创建调整大小参数，其中所有值设置为“自动”。如果需要，可以稍后指定边距和内容大小。 |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | 创建具有指定边距值和内容大小的调整大小参数。 |
 
-## 特性
+## Properties
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| [BottomMargin](../../aspose.pdf.facades/contentsresizeparameters/bottommargin) { get; set; } | 获取或设置结果页面的底部边距。 |
-| [ContentsHeight](../../aspose.pdf.facades/contentsresizeparameters/contentsheight) { get; set; } | 获取或设置源页面内容在结果页面上的高度。 |
-| [ContentsWidth](../../aspose.pdf.facades/contentsresizeparameters/contentswidth) { get; set; } | 获取或设置结果页面上源页面内容的宽度。 |
-| [LeftMargin](../../aspose.pdf.facades/contentsresizeparameters/leftmargin) { get; set; } | 获取或设置结果页的左边距。 |
-| [RightMargin](../../aspose.pdf.facades/contentsresizeparameters/rightmargin) { get; set; } | 获取或设置结果页的右边距。 |
-| [TopMargin](../../aspose.pdf.facades/contentsresizeparameters/topmargin) { get; set; } | 获取或设置结果页面的上边距。 |
+| [BottomMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin) { get; set; } | 获取或设置结果页面的下边距。 |
+| [ContentsHeight](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight) { get; set; } | 获取或设置结果页面上源页面内容的高度。 |
+| [ContentsWidth](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth) { get; set; } | 获取或设置结果页面上源页面内容的宽度。 |
+| [LeftMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin) { get; set; } | 获取或设置结果页面的左边距。 |
+| [RightMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin) { get; set; } | 获取或设置结果页面的右边距。 |
+| [TopMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin) { get; set; } | 获取或设置结果页面的上边距。 |
 
-## 方法
+## Methods
 
-| 姓名 | 描述 |
+| Name | Description |
 | --- | --- |
-| static [ContentSize](../../aspose.pdf.facades/contentsresizeparameters/contentsize)(double, double) | 创建具有指定内容大小的调整大小参数。 |
-| static [ContentSizePercent](../../aspose.pdf.facades/contentsresizeparameters/contentsizepercent)(double, double) | 以初始页面大小的百分比创建具有指定内容大小的调整大小参数。 边距自动计算。 |
-| static [Margins](../../aspose.pdf.facades/contentsresizeparameters/margins)(double, double, double, double) | 创建具有指定边距值的调整大小参数。自动计算内容大小。 |
-| static [MarginsPercent](../../aspose.pdf.facades/contentsresizeparameters/marginspercent)(double, double, double, double) | 创建调整大小参数。边距以初始页面大小的百分比指定。 |
-| static [PageResize](../../aspose.pdf.facades/contentsresizeparameters/pageresize)(double, double) | 为页面调整大小创建调整大小参数。 |
-| static [PageResizePct](../../aspose.pdf.facades/contentsresizeparameters/pageresizepct)(double, double) | 为页面调整大小创建调整大小参数。新尺寸以百分比指定。 |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | 创建具有指定内容大小的调整大小参数。 |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | 创建具有指定内容大小的调整大小参数，以初始页面大小的百分比表示。边距自动计算。 |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | 创建具有指定边距值的调整大小参数。内容大小自动计算。 |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | 创建调整大小参数。边距以初始页面大小的百分比表示。 |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | 创建用于页面调整大小的参数。 |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | 创建用于页面调整大小的参数。新大小以百分比表示。 |
 
-### 也可以看看
+### See Also
 
-* class [PdfFileEditor](../pdffileeditor)
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades)
-* 部件 [Aspose.PDF](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)

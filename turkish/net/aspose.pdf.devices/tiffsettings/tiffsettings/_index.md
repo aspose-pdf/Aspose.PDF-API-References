@@ -1,208 +1,206 @@
 ---
-title: TiffSettings
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırTiffSettingsaspose.pdf.devices/tiffsettings sınıf.
+title: TiffSettings.TiffSettings
+second_title: Aspose.PDF for .NET API Reference
+description: TiffSettings yapıcısı. TiffSettings sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | shapeType | ShapeType | Şeklin türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [ShapeType](../../shapetype/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | compressionType | CompressionType | Sıkıştırma türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../compressiontype)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | colorDepth | ColorDepth | Renk derinliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [ColorDepth](../../colordepth)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [ColorDepth](../../colordepth/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(Margins) {#constructor_6}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(Margins margins)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | margins | Margins | Kenar boşlukları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Margins](../../margins/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | compressionType | CompressionType | Sıkıştırma türü. |
 | colorDepth | ColorDepth | Renk derinliği. |
 | margins | Margins | Kenar boşlukları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* sınıf [Margins](../../margins/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | compressionType | CompressionType | Sıkıştırma türü. |
 | colorDepth | ColorDepth | Renk derinliği. |
 | margins | Margins | Kenar boşlukları. |
-| skipBlankPages | Boolean | ayarlanırsa`doğru` boş sayfaları atlamanız gerekir. |
+| skipBlankPages | Boolean | `true` olarak ayarlandığında boş sayfaları atlamak gerekir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* sınıf [Margins](../../margins/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages, ShapeType shapeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | compressionType | CompressionType | Sıkıştırma türü. |
 | colorDepth | ColorDepth | Renk derinliği. |
 | margins | Margins | Kenar boşlukları. |
-| skipBlankPages | Boolean | ayarlanırsa`doğru` boş sayfaları atlamanız gerekir. |
+| skipBlankPages | Boolean | `true` olarak ayarlandığında boş sayfaları atlamak gerekir. |
 | shapeType | ShapeType | Şeklin türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [CompressionType](../../compressiontype)
-* enum [ColorDepth](../../colordepth)
-* class [Margins](../../margins)
-* enum [ShapeType](../../shapetype)
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* sınıf [Margins](../../margins/)
+* enum [ShapeType](../../shapetype/)
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## TiffSettings(bool) {#constructor_8}
 
-Yeni bir örneğini başlatır[`TiffSettings`](../../tiffsettings) sınıf.
+[`TiffSettings`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| skipBlankPages | Boolean | ayarlanırsa`doğru` [boş sayfaları atla]. |
+| skipBlankPages | Boolean | `true` olarak ayarlandığında [boş sayfaları atla]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TiffSettings](../../tiffsettings)
-* ad alanı [Aspose.Pdf.Devices](../../tiffsettings)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [TiffSettings](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

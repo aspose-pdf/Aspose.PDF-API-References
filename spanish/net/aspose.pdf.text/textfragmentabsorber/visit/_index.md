@@ -1,121 +1,119 @@
 ---
-title: Visit
-second_title: Referencia de API de Aspose.PDF para .NET
-description: Realiza la búsqueda en la página especificada.
+title: TextFragmentAbsorber.Visit
+second_title: Aspose.PDF for .NET API Reference
+description: Método TextFragmentAbsorber. Realiza una búsqueda en la página especificada
 type: docs
-weight: 140
+weight: 150
 url: /es/net/aspose.pdf.text/textfragmentabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-Realiza la búsqueda en la página especificada.
+Realiza una búsqueda en la página especificada.
 
 ```csharp
 public override void Visit(Page page)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| page | Page | Objeto de página de documento PDF. |
+| page | Page | Objeto de página del documento PDF. |
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo muestra cómo encontrar texto en la primera página del documento PDF y reemplazar el texto.
+El ejemplo demuestra cómo encontrar texto en la primera página del documento PDF y reemplazar el texto.
 
 ```csharp
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Encuentra la fuente que se usará para cambiar la fuente del texto del documento
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 absorber.Visit(doc.Pages[1]);
 
-// Cambiar el texto de todas las ocurrencias de búsqueda
+// Change text of all search occurrences
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ver también
+### Ver También
 
-* class [Page](../../../aspose.pdf/page)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* espacio de nombres [Aspose.Pdf.Text](../../textfragmentabsorber)
-* asamblea [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Realiza la búsqueda en el documento especificado.
+Realiza una búsqueda en el documento especificado.
 
 ```csharp
 public override void Visit(Document pdf)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pdf | Document | Objeto de documento PDF. |
+| pdf | Document | Objeto del documento PDF. |
 
-### Ejemplos
+## Ejemplos
 
-El ejemplo demuestra cómo buscar texto en un documento PDF y reemplazar el texto de todas las ocurrencias de búsqueda.
+El ejemplo demuestra cómo encontrar texto en el documento PDF y reemplazar el texto de todas las ocurrencias de búsqueda.
 
 ```csharp
-// Abrir documento
+// Open document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Encuentra la fuente que se usará para cambiar la fuente del texto del documento
+// Find font that will be used to change document text font
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Crear objeto TextFragmentAbsorber para encontrar todas las apariciones de texto "hola mundo"
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Aceptar el absorbedor para la primera página
+// Accept the absorber for first page
 absorber.Visit(doc);
 
-// Cambia el texto de la primera aparición de texto
+// Change text of the first text occurrence
 absorber.TextFragments[1].Text = "hi world";
 
-// Guardar documento
+// Save document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Ver también
+### Ver También
 
-* class [Document](../../../aspose.pdf/document)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* espacio de nombres [Aspose.Pdf.Text](../../textfragmentabsorber)
-* asamblea [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(XForm) {#visit_2}
 
-Realiza la búsqueda en el objeto de formulario especificado.
+Realiza una búsqueda en el objeto de formulario especificado.
 
 ```csharp
 public void Visit(XForm xForm)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| xForm | XForm | Objeto de formulario pdf. |
+| xForm | XForm | Objeto de formulario PDF. |
 
-### Ver también
+### Ver También
 
-* class [XForm](../../../aspose.pdf/xform)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* espacio de nombres [Aspose.Pdf.Text](../../textfragmentabsorber)
-* asamblea [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)

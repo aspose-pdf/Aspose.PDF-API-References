@@ -1,14 +1,14 @@
 ---
-title: CustomHtmlSavingStrategy
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten Sie können dieser Eigenschaft einen Delegaten zuweisen der aus einer benutzerdefinierten Methode erstellt wurde die die Verarbeitung einer HTML-Seite genauer gesagt - Markup-HTML ohne externe verknüpfte Dateien falls vorhanden implementiert wurde während der Konvertierung erstellt. In diesem Fall kann die Verarbeitung wie das Speichern des HTML-Codes der Seite im Stream oder auf der Festplatte in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden  da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund vom Konvertercode selbst durchgeführt werden muss nicht im benutzerdefinierten Code setzen Sie bitte im benutzerdefinierten Code das Flag CustomProcessingCancelled der Variable des htmlSavingInfo-Parameters Es wird dem Konverter signalisieren dass dies alles der Fall ist notwendige Schritte zur Verarbeitung dieser Ressource müssen im Konverter selbst auf dieselbe Weise ausgeführt werden als gäbe es keinen externen benutzerdefinierten Code zur Verarbeitung .
+title: HtmlSaveOptions.CustomHtmlSavingStrategy
+second_title: Aspose.PDF for .NET API Reference
+description: HtmlSaveOptions-Feld. Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten. Sie können dieser Eigenschaft ein Delegat zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung einer HTML-Seite implementiert (um genau zu sein - Markup-HTML, ohne externe verlinkte Dateien, falls vorhanden), die während der Konvertierung erstellt wurde. In diesem Fall kann die Verarbeitung (wie das Speichern der HTML-Seite im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund im Code des Konverters selbst und nicht im benutzerdefinierten Code erfolgen muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen 'htmlSavingInfo': Es wird dem Konverter signalisieren, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Code zur Verarbeitung gäbe.
 type: docs
-weight: 220
+weight: 270
 url: /de/net/aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/
 ---
-## HtmlSaveOptions.CustomHtmlSavingStrategy field
+## HtmlSaveOptions.CustomHtmlSavingStrategy-Feld
 
-Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten Sie können dieser Eigenschaft einen Delegaten zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung einer HTML-Seite (genauer gesagt - Markup-HTML, ohne externe verknüpfte Dateien, falls vorhanden) implementiert wurde während der Konvertierung erstellt. In diesem Fall kann die Verarbeitung (wie das Speichern des HTML-Codes der Seite im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden , da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund vom Konvertercode selbst durchgeführt werden muss, nicht im benutzerdefinierten Code, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variable des 'htmlSavingInfo'-Parameters: Es wird dem Konverter signalisieren, dass dies alles der Fall ist notwendige Schritte zur Verarbeitung dieser Ressource müssen im Konverter selbst auf dieselbe Weise ausgeführt werden, als gäbe es keinen externen benutzerdefinierten Code zur Verarbeitung .
+Das Ergebnis der Konvertierung kann eine oder mehrere HTML-Seiten enthalten. Sie können dieser Eigenschaft ein Delegat zuweisen, der aus einer benutzerdefinierten Methode erstellt wurde, die die Verarbeitung einer HTML-Seite implementiert (um genau zu sein - Markup-HTML, ohne externe verlinkte Dateien, falls vorhanden), die während der Konvertierung erstellt wurde. In diesem Fall kann die Verarbeitung (wie das Speichern der HTML-Seite im Stream oder auf der Festplatte) in diesem benutzerdefinierten Code erfolgen. In diesem Fall müssen alle notwendigen Aktionen zum Speichern der HTML-Seite im Code der bereitgestellten Methode durchgeführt werden, da das Speichern des Ergebnisses im Code des Konverters nicht verwendet wird. Wenn die Verarbeitung für diesen oder jenen Fall aus irgendeinem Grund im Code des Konverters selbst und nicht im benutzerdefinierten Code erfolgen muss, setzen Sie bitte im benutzerdefinierten Code das Flag 'CustomProcessingCancelled' der Variablen 'htmlSavingInfo': Es wird dem Konverter signalisieren, dass alle notwendigen Schritte zur Verarbeitung dieser Ressource im Konverter selbst durchgeführt werden müssen, als ob es keinen externen benutzerdefinierten Code zur Verarbeitung gäbe.
 
 ```csharp
 public HtmlPageMarkupSavingStrategy CustomHtmlSavingStrategy;
@@ -16,9 +16,7 @@ public HtmlPageMarkupSavingStrategy CustomHtmlSavingStrategy;
 
 ### Siehe auch
 
-* delegate [HtmlPageMarkupSavingStrategy](../../htmlsaveoptions.htmlpagemarkupsavingstrategy)
-* class [HtmlSaveOptions](../../htmlsaveoptions)
-* namensraum [Aspose.Pdf](../../htmlsaveoptions)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Delegat [HtmlPageMarkupSavingStrategy](../../htmlsaveoptions.htmlpagemarkupsavingstrategy/)
+* Klasse [HtmlSaveOptions](../)
+* Namespace [Aspose.Pdf](../../../aspose.pdf/)
+* Assembly [Aspose.PDF](../../../)

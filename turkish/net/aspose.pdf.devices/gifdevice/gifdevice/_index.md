@@ -1,128 +1,126 @@
 ---
-title: GifDevice
-second_title: Aspose.PDF for .NET API Referansı
-description: Yeni bir örneğini başlatırGifDeviceaspose.pdf.devices/gifdevice varsayılan çözünürlüğe sahip sınıf.
+title: GifDevice.GifDevice
+second_title: Aspose.PDF for .NET API Reference
+description: GifDevice yapıcı. Varsayılan çözünürlük ile GifDevice sınıfının yeni bir örneğini başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.devices/gifdevice/gifdevice/
 ---
 ## GifDevice() {#constructor}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice) varsayılan çözünürlüğe sahip sınıf.
+Varsayılan çözünürlük ile [`GifDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifDevice()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(Resolution) {#constructor_1}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice) sınıf.  Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf.
+[`GifDevice`](../) sınıfının yeni bir örneğini başlatır. Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın.
 
 ```csharp
 public GifDevice(Resolution resolution)
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int, Resolution) {#constructor_5}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice) sağlanan görüntü boyutlarına ve çözünürlüğe sahip sınıf.
+Verilen görüntü boyutları ve çözünürlük ile [`GifDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifDevice(int width, int height, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Int32 | Görüntü çıktı genişliği. |
 | height | Int32 | Görüntü çıktı yüksekliği. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [Resolution](../../resolution/)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize, Resolution) {#constructor_3}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice)sağlanan sayfa boyutu ve çözünürlüğe sahip sınıf.
+Verilen sayfa boyutu ve çözünürlük ile [`GifDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
-| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, bkz.[`Resolution`](../../resolution) sınıf. |
+| resolution | Resolution | Sonuç görüntü dosyası için çözünürlük, [`Resolution`](../../resolution/) sınıfına bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [Resolution](../../resolution/)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(int, int) {#constructor_4}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice) sağlanan görüntü boyutlarına sahip sınıf, varsayılan çözünürlük (=150).
+Verilen görüntü boyutları ile, varsayılan çözünürlük (=150) ile [`GifDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifDevice(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Int32 | Görüntü çıktı genişliği. |
 | height | Int32 | Görüntü çıktı yüksekliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(PageSize) {#constructor_2}
 
-Yeni bir örneğini başlatır[`GifDevice`](../../gifdevice) sağlanan sayfa boyutuna sahip sınıf, varsayılan çözünürlük (=150).
+Verilen sayfa boyutu ile, varsayılan çözünürlük (=150) ile [`GifDevice`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GifDevice(PageSize pageSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pageSize | PageSize | Çıktı görüntüsünün sayfa boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [GifDevice](../../gifdevice)
-* ad alanı [Aspose.Pdf.Devices](../../gifdevice)
-* toplantı [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* sınıf [PageSize](../../../aspose.pdf/pagesize/)
+* sınıf [GifDevice](../)
+* ad alanı [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* derleme [Aspose.PDF](../../../)

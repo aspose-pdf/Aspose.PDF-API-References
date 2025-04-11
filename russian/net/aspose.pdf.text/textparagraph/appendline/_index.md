@@ -1,7 +1,7 @@
 ---
-title: AppendLine
-second_title: Aspose.PDF для справочника API .NET
-description: Добавляет текстовую строку
+title: TextParagraph.AppendLine
+second_title: Aspose.PDF for .NET API Reference
+description: Метод TextParagraph. Добавляет текстовую строку
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.text/textparagraph/appendline/
@@ -18,10 +18,10 @@ public void AppendLine(string line)
 | --- | --- | --- |
 | line | String | Текст новой строки. |
 
-### Смотрите также
+### См. также
 
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -37,12 +37,12 @@ public void AppendLine(string line, float lineSpacing)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | line | String | Текст новой строки. |
-| lineSpacing | Single | Дополнительный интервал (0,0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к межстрочному интервалу по умолчанию для конкретной строки, поэтому вы можете указать 12,0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
+| lineSpacing | Single | Дополнительный интервал (0.0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к стандартному межстрочному интервалу для данной строки, поэтому вы можете указать 12.0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
 
-### Смотрите также
+### См. также
 
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -58,20 +58,20 @@ public void AppendLine(string line, TextState textState)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | line | String | Текст новой строки. |
-| textState | TextState | Текстовое состояние новой строки. |
+| textState | TextState | Состояние текста новой строки. |
 
-### Смотрите также
+### См. также
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextState](../../textstate/)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(string, TextState, float) {#appendline_5}
 
-Добавляет текстовую строку с текстовыми параметрами состояния
+Добавляет текстовую строку с параметрами состояния текста
 
 ```csharp
 public void AppendLine(string line, TextState textState, float lineSpacing)
@@ -80,14 +80,14 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | line | String | Текст новой строки. |
-| textState | TextState | Текстовое состояние новой строки. |
-| lineSpacing | Single | Дополнительный интервал (0,0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к межстрочному интервалу по умолчанию для конкретной строки, поэтому вы можете указать 12,0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
+| textState | TextState | Состояние текста новой строки. |
+| lineSpacing | Single | Дополнительный интервал (0.0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к стандартному межстрочному интервалу для данной строки, поэтому вы можете указать 12.0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
 
-### Смотрите также
+### См. также
 
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextState](../../textstate/)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -104,11 +104,11 @@ public void AppendLine(TextFragment line)
 | --- | --- | --- |
 | line | TextFragment | Текст новой строки. |
 
-### Смотрите также
+### См. также
 
-* class [TextFragment](../../textfragment)
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextFragment](../../textfragment/)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
@@ -124,21 +124,21 @@ public void AppendLine(TextFragment line, TextState textState)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | line | TextFragment | Текст новой строки. |
-| textState | TextState | Текстовое состояние новой строки. |
+| textState | TextState | Состояние текста новой строки. |
 
-### Смотрите также
+### См. также
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextFragment](../../textfragment/)
+* класс [TextState](../../textstate/)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
 
 ---
 
 ## AppendLine(TextFragment, TextState, float) {#appendline_2}
 
-Добавляет текстовую строку с текстовыми параметрами состояния
+Добавляет текстовую строку с параметрами состояния текста
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
@@ -147,15 +147,13 @@ public void AppendLine(TextFragment line, TextState textState, float lineSpacing
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | line | TextFragment | Текст новой строки. |
-| textState | TextState | Текстовое состояние новой строки. |
-| lineSpacing | Single | Дополнительный интервал (0,0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к межстрочному интервалу по умолчанию для конкретной строки, поэтому вы можете указать 12,0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
+| textState | TextState | Состояние текста новой строки. |
+| lineSpacing | Single | Дополнительный интервал (0.0 по умолчанию и соответствует высоте строки текста по умолчанию). Значение интервала добавляется к стандартному межстрочному интервалу для данной строки, поэтому вы можете указать 12.0, чтобы получить пустую строку ПОСЛЕ текстовой строки, нарисованной шрифтом 12pt. |
 
-### Смотрите также
+### См. также
 
-* class [TextFragment](../../textfragment)
-* class [TextState](../../textstate)
-* class [TextParagraph](../../textparagraph)
-* пространство имен [Aspose.Pdf.Text](../../textparagraph)
+* класс [TextFragment](../../textfragment/)
+* класс [TextState](../../textstate/)
+* класс [TextParagraph](../)
+* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * сборка [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

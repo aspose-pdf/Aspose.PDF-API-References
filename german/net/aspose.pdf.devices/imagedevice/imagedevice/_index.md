@@ -1,14 +1,14 @@
 ---
-title: ImageDevice
-second_title: Aspose.PDF für .NET-API-Referenz
-description: Abstrakter Initialisierer fürImageDeviceaspose.pdf.devices/imagedevice Nachkommen Auflösung auf 150x150. setzen
+title: ImageDevice.ImageDevice
+second_title: Aspose.PDF for .NET API Reference
+description: ImageDevice-Konstruktor. Abstrakter Initialisierer für ImageDevice-Nachkommen, setzt die Auflösung auf 150x150
 type: docs
 weight: 10
 url: /de/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-Abstrakter Initialisierer für[`ImageDevice`](../../imagedevice) Nachkommen, Auflösung auf 150x150. setzen
+Abstrakter Initialisierer für [`ImageDevice`](../) Nachkommen, setzt die Auflösung auf 150x150.
 
 ```csharp
 public ImageDevice()
@@ -16,15 +16,15 @@ public ImageDevice()
 
 ### Siehe auch
 
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-Abstrakter Initialisierer für[`ImageDevice`](../../imagedevice) Nachkommen.  Auflösung für die Ergebnisbilddatei, siehe[`Resolution`](../resolution) Klasse.
+Abstrakter Initialisierer für [`ImageDevice`](../) Nachkommen. Auflösung für die resultierende Bilddatei, siehe die Klasse [`Resolution`](../resolution/).
 
 ```csharp
 public ImageDevice(Resolution resolution)
@@ -32,16 +32,16 @@ public ImageDevice(Resolution resolution)
 
 ### Siehe auch
 
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Resolution](../../resolution/)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(int, int) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice) Klasse mit bereitgestellten Bildabmessungen und Standardauflösung (=150).
+Initialisiert eine neue Instanz der Klasse [`JpegDevice`](../../jpegdevice/) mit den angegebenen Bilddimensionen und der Standardauflösung (=150).
 
 ```csharp
 public ImageDevice(int width, int height)
@@ -54,15 +54,15 @@ public ImageDevice(int width, int height)
 
 ### Siehe auch
 
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice) Klasse mit bereitgestellten Bildabmessungen und Standardauflösung (=150).
+Initialisiert eine neue Instanz der Klasse [`JpegDevice`](../../jpegdevice/) mit den angegebenen Bilddimensionen und der Standardauflösung (=150).
 
 ```csharp
 public ImageDevice(PageSize pageSize)
@@ -74,16 +74,16 @@ public ImageDevice(PageSize pageSize)
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice) Klasse mit bereitgestellten Bildabmessungen und Auflösung.
+Initialisiert eine neue Instanz der Klasse [`JpegDevice`](../../jpegdevice/) mit den angegebenen Bilddimensionen und der Auflösung.
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
@@ -93,20 +93,20 @@ public ImageDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Bildausgabebreite. |
 | height | Int32 | Bildausgabehöhe. |
-| resolution | Resolution | Auflösung für die Ergebnisbilddatei, siehe[`Resolution`](../resolution) Klasse. |
+| resolution | Resolution | Auflösung für die resultierende Bilddatei, siehe die Klasse [`Resolution`](../resolution/). |
 
 ### Siehe auch
 
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
+* Klasse [Resolution](../../resolution/)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`JpegDevice`](../../jpegdevice) Klasse mit bereitgestellten Bildabmessungen und Auflösung.
+Initialisiert eine neue Instanz der Klasse [`JpegDevice`](../../jpegdevice/) mit den angegebenen Bilddimensionen und der Auflösung.
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
@@ -115,14 +115,12 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | pageSize | PageSize | Seitengröße des Ausgabebildes. |
-| resolution | Resolution | Auflösung für die Ergebnisbilddatei, siehe[`Resolution`](../resolution) Klasse. |
+| resolution | Resolution | Auflösung für die resultierende Bilddatei, siehe die Klasse [`Resolution`](../resolution/). |
 
 ### Siehe auch
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [ImageDevice](../../imagedevice)
-* namensraum [Aspose.Pdf.Devices](../../imagedevice)
-* Montage [Aspose.PDF](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+* Klasse [PageSize](../../../aspose.pdf/pagesize/)
+* Klasse [Resolution](../../resolution/)
+* Klasse [ImageDevice](../)
+* Namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* Assembly [Aspose.PDF](../../../)
