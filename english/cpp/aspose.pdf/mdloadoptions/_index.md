@@ -4,7 +4,7 @@ linktitle: MdLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MdLoadOptions class. Load options for Markdown format conversion in C++.'
 type: docs
-weight: 10800
+weight: 11000
 url: /cpp/aspose.pdf/mdloadoptions/
 ---
 ## MdLoadOptions class

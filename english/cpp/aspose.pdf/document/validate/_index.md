@@ -4,7 +4,7 @@ linktitle: Validate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Validate method. Validate document into the specified file in C++.'
 type: docs
-weight: 11300
+weight: 11400
 url: /cpp/aspose.pdf/document/validate/
 ---
 ## Document::Validate(System::SharedPtr\<PdfFormatConversionOptions\>) method

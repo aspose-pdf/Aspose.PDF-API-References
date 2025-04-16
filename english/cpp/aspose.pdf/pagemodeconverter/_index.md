@@ -4,7 +4,7 @@ linktitle: PageModeConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::PageModeConverter class in C++.'
 type: docs
-weight: 13600
+weight: 13800
 url: /cpp/aspose.pdf/pagemodeconverter/
 ---
 ## PageModeConverter class

@@ -4,7 +4,7 @@ linktitle: get_TaggedContent
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_TaggedContent method of Aspose::Pdf::Document class in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/aspose.pdf/document/get_taggedcontent/
 ---
 ## Document::get_TaggedContent method

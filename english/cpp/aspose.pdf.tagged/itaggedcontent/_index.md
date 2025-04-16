@@ -58,6 +58,8 @@ class ITaggedContent : public virtual System::Object
 | virtual [get_RootElement](./get_rootelement/)() |  |
 | virtual [get_StructTreeRootElement](./get_structtreerootelement/)() |  |
 | virtual [get_StructureTextState](./get_structuretextstate/)() |  |
+| virtual [PreSave](./presave/)() | Prepares the tagged content of the document for saving. This method performs necessary pre-save operations, ensuring that the structure tree and other tagged content elements are properly configured before the document is saved. |
+| virtual [Save](./save/)() | Saves the current state of the tagged content to the associated PDF document. |
 | virtual [SetLanguage](./setlanguage/)(System::String) |  |
 | virtual [SetTitle](./settitle/)(System::String) |  |
 ## See Also

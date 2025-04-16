@@ -4,7 +4,7 @@ linktitle: Metered
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metered class. Provides methods to set metered key in C++.'
 type: docs
-weight: 11000
+weight: 11200
 url: /cpp/aspose.pdf/metered/
 ---
 ## Metered class

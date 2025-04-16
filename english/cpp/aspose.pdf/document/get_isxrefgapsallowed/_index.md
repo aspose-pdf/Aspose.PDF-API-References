@@ -4,7 +4,7 @@ linktitle: get_IsXrefGapsAllowed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_IsXrefGapsAllowed method. Gets the is document pdfa compliant in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/aspose.pdf/document/get_isxrefgapsallowed/
 ---
 ## Document::get_IsXrefGapsAllowed method

@@ -4,7 +4,7 @@ linktitle: set_ValidationMethod
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationOptions::set_ValidationMethod method. Sets the method used to validate a certificate in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf.security/validationoptions/set_validationmethod/
 ---
 ## ValidationOptions::set_ValidationMethod method

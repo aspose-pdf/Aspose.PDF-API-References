@@ -4,7 +4,7 @@ linktitle: Repair
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Repair method. Repairs broken document in C++.'
 type: docs
-weight: 8000
+weight: 8100
 url: /cpp/aspose.pdf/document/repair/
 ---
 ## Document::Repair method

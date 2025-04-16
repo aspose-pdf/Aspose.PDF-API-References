@@ -4,7 +4,7 @@ linktitle: License
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::License class. Provides methods to license the component in C++.'
 type: docs
-weight: 10100
+weight: 10300
 url: /cpp/aspose.pdf/license/
 ---
 ## License class
@@ -20,6 +20,7 @@ class License : public System::Object
 
 | Method | Description |
 | --- | --- |
+| [ClearLicense](./clearlicense/)() | Clears the current license. |
 | [get_Embedded](./get_embedded/)() const | [License](./) number was added as embedded resource. |
 | [License](./license/)() | Initializes a new instance of this class. |
 | [set_Embedded](./set_embedded/)(bool) | [License](./) number was added as embedded resource. |

@@ -4,7 +4,7 @@ linktitle: SetMarkedState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::SetMarkedState method. Sets Marked and Unmarked state for the annotation. Note, the state stored in other text annotation which has state and statemodel keys in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf.annotations/markupannotation/setmarkedstate/
 ---
 ## MarkupAnnotation::SetMarkedState method

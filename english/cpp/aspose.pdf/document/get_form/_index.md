@@ -4,7 +4,7 @@ linktitle: get_Form
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Form method. Gets Acro Form of the document in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.pdf/document/get_form/
 ---
 ## Document::get_Form method

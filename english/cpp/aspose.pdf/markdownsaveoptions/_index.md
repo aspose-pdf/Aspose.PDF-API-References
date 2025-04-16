@@ -4,7 +4,7 @@ linktitle: MarkdownSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MarkdownSaveOptions class. Represents the document save option class in the markdown format in C++.'
 type: docs
-weight: 10500
+weight: 10700
 url: /cpp/aspose.pdf/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class
@@ -23,7 +23,7 @@ class MarkdownSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [get_AreaToExtract](./get_areatoextract/)() const | Get or set an rectangle area to extract content to markdown. |
 | [get_EmphasisStyle](./get_emphasisstyle/)() const | Gets the style of emphasis for generated document. |
 | [get_ExtractVectorGraphics](./get_extractvectorgraphics/)() const | Gets and sets a property indicating whether vector graphics should be extracted. |
-| [get_HeadingLevels](./get_headinglevels/)() const | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition [PdfToMarkdown::HeadingRecognitionStrategy::Heuristic](../) strategy will be selected when set [PdfToMarkdown::HeadingRecognitionStrategy::Auto](../) strategies even if the document contains bookmarks. |
+| [get_HeadingLevels](./get_headinglevels/)() const | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition [HeadingRecognitionStrategy::Heuristic](../headingrecognitionstrategy/) strategy will be selected when set [PdfToMarkdown::HeadingRecognitionStrategy::Auto](../) strategies even if the document contains bookmarks. |
 | [get_HeadingRecognitionStrategy](./get_headingrecognitionstrategy/)() const | Gets the heading recognition strategy. |
 | [get_HeadingStyle](./get_headingstyle/)() const | Gets the heading style for generated document. |
 | [get_LineBreakStyle](./get_linebreakstyle/)() const | Gets the line break style for generated document. |
@@ -34,7 +34,7 @@ class MarkdownSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [set_AreaToExtract](./set_areatoextract/)(System::SharedPtr\<Rectangle\>) | Get or set an rectangle area to extract content to markdown. |
 | [set_EmphasisStyle](./set_emphasisstyle/)(Aspose::Pdf::EmphasisStyle) | Sets the style of emphasis for generated document. |
 | [set_ExtractVectorGraphics](./set_extractvectorgraphics/)(bool) | Gets and sets a property indicating whether vector graphics should be extracted. |
-| [set_HeadingLevels](./set_headinglevels/)(System::SharedPtr\<Aspose::Pdf::PdfToMarkdown::HeadingLevels\>) | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition [PdfToMarkdown::HeadingRecognitionStrategy::Heuristic](../) strategy will be selected when set [PdfToMarkdown::HeadingRecognitionStrategy::Auto](../) strategies even if the document contains bookmarks. |
+| [set_HeadingLevels](./set_headinglevels/)(System::SharedPtr\<Aspose::Pdf::HeadingLevels\>) | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition [HeadingRecognitionStrategy::Heuristic](../headingrecognitionstrategy/) strategy will be selected when set [PdfToMarkdown::HeadingRecognitionStrategy::Auto](../) strategies even if the document contains bookmarks. |
 | [set_HeadingRecognitionStrategy](./set_headingrecognitionstrategy/)(Aspose::Pdf::HeadingRecognitionStrategy) | Sets the heading recognition strategy. |
 | [set_HeadingStyle](./set_headingstyle/)(Aspose::Pdf::HeadingStyle) | Sets the heading style for generated document. |
 | [set_LineBreakStyle](./set_linebreakstyle/)(Aspose::Pdf::LineBreakStyle) | Sets the line break style for generated document. |

@@ -4,7 +4,7 @@ linktitle: set_OutputIntent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::set_OutputIntent method. Sets the Aspose::Pdf::OutputIntent for the PDF format conversion in C++.'
 type: docs
-weight: 3400
+weight: 3600
 url: /cpp/aspose.pdf/pdfformatconversionoptions/set_outputintent/
 ---
 ## PdfFormatConversionOptions::set_OutputIntent method

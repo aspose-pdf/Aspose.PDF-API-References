@@ -33,6 +33,7 @@ class MarkupAnnotation : public Aspose::Pdf::Annotations::Annotation,
 | [GetState](./getstate/)() | Gets the state of the annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [GetStateModel](./getstatemodel/)() | Gets the state model of the annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [MarkupAnnotation](./markupannotation/)(System::SharedPtr\<Document\>) | Constructor for markup annotation. |
+| [set_CreationDate](./set_creationdate/)(System::DateTime) | Gets date and time when annotation was created. |
 | [set_InReplyTo](./set_inreplyto/)(System::SharedPtr\<Annotation\>) | A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document. |
 | [set_Opacity](./set_opacity/)(double) | Sets the constant opacity value to be used in painting the annotation. |
 | [set_Popup](./set_popup/)(System::SharedPtr\<PopupAnnotation\>) | Pop-up annotation for entering or editing the text associated with this annotation. |

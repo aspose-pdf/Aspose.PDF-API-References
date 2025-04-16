@@ -4,7 +4,7 @@ linktitle: get_NamedDestinations
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_NamedDestinations method. Collection of Named Destination in the document in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.pdf/document/get_nameddestinations/
 ---
 ## Document::get_NamedDestinations method

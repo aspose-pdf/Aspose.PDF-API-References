@@ -4,7 +4,7 @@ linktitle: ImportAnnotationsFromXfdf
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::ImportAnnotationsFromXfdf method. Imports annotations from stream to document in C++.'
 type: docs
-weight: 6900
+weight: 7000
 url: /cpp/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## Document::ImportAnnotationsFromXfdf(System::SharedPtr\<System::IO::Stream\>) method

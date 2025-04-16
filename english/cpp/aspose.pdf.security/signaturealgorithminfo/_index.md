@@ -4,7 +4,7 @@ linktitle: SignatureAlgorithmInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::SignatureAlgorithmInfo class. Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.security/signaturealgorithminfo/
 ---
 ## SignatureAlgorithmInfo class

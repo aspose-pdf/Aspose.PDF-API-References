@@ -4,7 +4,7 @@ linktitle: OptimizationOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::OptimizationOptions class. Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method in C++.'
 type: docs
-weight: 12500
+weight: 12600
 url: /cpp/aspose.pdf/document/optimizationoptions/
 ---
 ## OptimizationOptions class

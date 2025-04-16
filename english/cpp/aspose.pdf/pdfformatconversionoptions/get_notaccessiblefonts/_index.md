@@ -4,7 +4,7 @@ linktitle: get_NotAccessibleFonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_NotAccessibleFonts method. This property is out-property. It holds all the fonts(font names) which were not found on computer at last PDF/A conversion in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_notaccessiblefonts/
 ---
 ## PdfFormatConversionOptions::get_NotAccessibleFonts method

@@ -4,7 +4,7 @@ linktitle: SendTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::SendTo method. Sends the certain pages of the document to the document device for processing in C++.'
 type: docs
-weight: 8300
+weight: 8400
 url: /cpp/aspose.pdf/document/sendto/
 ---
 ## Document::SendTo(System::SharedPtr\<Devices::DocumentDevice\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) method

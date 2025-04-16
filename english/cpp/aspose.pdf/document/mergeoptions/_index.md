@@ -4,7 +4,7 @@ linktitle: MergeOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::MergeOptions class. Represents the options to Merge methods in C++.'
 type: docs
-weight: 12400
+weight: 12500
 url: /cpp/aspose.pdf/document/mergeoptions/
 ---
 ## MergeOptions class

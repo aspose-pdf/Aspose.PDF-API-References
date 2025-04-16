@@ -4,7 +4,7 @@ linktitle: PdfVersion
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfVersion enum. This enum represents version of pdf file in C++.'
 type: docs
-weight: 25100
+weight: 25300
 url: /cpp/aspose.pdf/pdfversion/
 ---
 ## PdfVersion enum

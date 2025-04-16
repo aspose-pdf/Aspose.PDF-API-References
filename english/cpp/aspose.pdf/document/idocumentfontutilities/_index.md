@@ -4,7 +4,7 @@ linktitle: IDocumentFontUtilities
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::IDocumentFontUtilities class. Holds functionality to tune fonts in C++.'
 type: docs
-weight: 12300
+weight: 12400
 url: /cpp/aspose.pdf/document/idocumentfontutilities/
 ---
 ## IDocumentFontUtilities class

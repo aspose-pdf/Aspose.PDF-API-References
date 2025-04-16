@@ -4,7 +4,7 @@ linktitle: get_ValidationMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationOptions::get_ValidationMode method. Gets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictness of the validation process in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.security/validationoptions/get_validationmode/
 ---
 ## ValidationOptions::get_ValidationMode method

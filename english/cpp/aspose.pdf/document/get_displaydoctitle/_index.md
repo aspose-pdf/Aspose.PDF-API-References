@@ -4,7 +4,7 @@ linktitle: get_DisplayDocTitle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_DisplayDocTitle method. Gets flag specifying whether document''s window title bar should display document title in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.pdf/document/get_displaydoctitle/
 ---
 ## Document::get_DisplayDocTitle method

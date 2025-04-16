@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionProperty class. Describes a single property. Schema namespace URI:  Required schema namespace prefix: pdfaProperty in C++.'
 type: docs
-weight: 19800
+weight: 20000
 url: /cpp/aspose.pdf/xmppdfaextensionproperty/
 ---
 ## XmpPdfAExtensionProperty class

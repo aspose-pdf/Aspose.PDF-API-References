@@ -4,7 +4,7 @@ linktitle: PdfFormatConversionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions class. represents set of options for convert PDF document in C++.'
 type: docs
-weight: 14600
+weight: 14800
 url: /cpp/aspose.pdf/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions class
@@ -28,6 +28,7 @@ class PdfFormatConversionOptions : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_AlignText](./get_aligntext/)() const | This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases font substitution causes text overlapping or extra spaces in converted document. When this flag is set special alignment operations will be performed. This flag should be set only for documents which have problems with overlapped text or extra text spaces cause using of this flag decrease performance and in some cases could corrupt text content. |
+| [get_AutoTaggingSettings](./get_autotaggingsettings/)() const | Gets the settings for automatic tagging during PDF format conversion. |
 | [get_ConvertSoftMaskAction](./get_convertsoftmaskaction/)() const | Action for images with soft mask. |
 | static [get_Default](./get_default/)() | Gets [PdfFormatConversionOptions](./) object with default parameters. |
 | [get_ErrorAction](./get_erroraction/)() const | Action for objects that can not be converted. |
@@ -57,6 +58,7 @@ class PdfFormatConversionOptions : public System::Object
 | [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::String, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Constructor. |
 | [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::SharedPtr\<System::IO::Stream\>, PdfFormat, ConvertErrorAction) | Constructor. |
 | [set_AlignText](./set_aligntext/)(bool) | This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases font substitution causes text overlapping or extra spaces in converted document. When this flag is set special alignment operations will be performed. This flag should be set only for documents which have problems with overlapped text or extra text spaces cause using of this flag decrease performance and in some cases could corrupt text content. |
+| [set_AutoTaggingSettings](./set_autotaggingsettings/)(System::SharedPtr\<Aspose::Pdf::AutoTaggingSettings\>) | Sets the settings for automatic tagging during PDF format conversion. |
 | [set_ConvertSoftMaskAction](./set_convertsoftmaskaction/)(Aspose::Pdf::ConvertSoftMaskAction) | Action for images with soft mask. |
 | [set_ErrorAction](./set_erroraction/)(ConvertErrorAction) | Action for objects that can not be converted. |
 | [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |

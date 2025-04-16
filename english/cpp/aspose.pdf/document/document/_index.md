@@ -154,6 +154,57 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, Sys
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::SharedPtr\<System::IO::Stream\>, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+
+
+Initialize new [Document](../) instance from the *input*  stream.
+
+```cpp
+Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, System::String password, bool isManagedStream, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | System::SharedPtr\<System::IO::Stream\> | Stream with pdf document. |
+| password | System::String | User or owner password. |
+| isManagedStream | bool | If set to **true** inner stream is closed before exit; otherwise, is not. |
+| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+
+
+Initialize new [Document](../) instance from the *input*  stream.
+
+```cpp
+Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, System::String password, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | System::SharedPtr\<System::IO::Stream\> | Input stream object, corresponding pdf is password protected. |
+| password | System::String | User or owner password. |
+| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Document::Document(System::String) constructor
 
 
@@ -258,6 +309,55 @@ Aspose::Pdf::Document::Document(System::String filename, System::String password
 ## See Also
 
 * Class [String](../../../system/string/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::String, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+
+
+Initializes new instance of the [Document](../) class for working with encrypted document.
+
+```cpp
+Aspose::Pdf::Document::Document(System::String filename, System::String password, bool isManagedStream, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | System::String | [Document](../) file name. |
+| password | System::String | User or owner password. |
+| isManagedStream | bool | if set to **true** inner stream is closed before exit; otherwise, is not. |
+| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+
+
+Initializes new instance of the [Document](../) class for working with encrypted document.
+
+```cpp
+Aspose::Pdf::Document::Document(System::String filename, System::String password, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | System::String | [Document](../) file name. |
+| password | System::String | User or owner password. |
+| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

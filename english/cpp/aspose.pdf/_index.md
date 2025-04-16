@@ -19,6 +19,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Artifact](./artifact/) | Class represents PDF [Artifact](./artifact/) object. |
 | [ArtifactCollection](./artifactcollection/) | Class represents artifact collection. |
 | [AssemblyConstants](./assemblyconstants/) | Defines the constants that participate in the license check for the component. These used to be defined directly as assembly attributes, but I moved them into separate class because in .NET Compact Framework I cannot access assembly attributes. Now the licensing code when compiled for the .NET Compact Framework uses these constants instead of the assembly attributes. |
+| [AutoTaggingSettings](./autotaggingsettings/) | Provides settings for the auto-tagging functionality in PDF documents. |
 | [BackgroundArtifact](./backgroundartifact/) | Class descibes background artifact. This artifact allows to set background of the page. |
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions. |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Represents base class for operator collection. |
@@ -82,6 +83,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [HeaderFooterData](./headerfooterdata/) | Represents the pagination data for header and footer. |
 | [HeaderFooterSettings](./headerfootersettings/) | Represents the settings for header and footer artifacts. |
 | [Heading](./heading/) | Represents heading. |
+| [HeadingLevels](./headinglevels/) | Represents a class to work with header levels based on font size. |
 | [HtmlFragment](./htmlfragment/) | Represents html fragment. |
 | [HtmlLoadOptions](./htmlloadoptions/) | Represents options for loading/importing html file into pdf document. |
 | [HtmlSaveOptions](./htmlsaveoptions/) | Save options for export to Html format. |
@@ -291,6 +293,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | Typedef | Description |
 | --- | --- |
 | [BoundsOutOfRangeException](./boundsoutofrangeexception/) |  |
+| [ConvertException](./convertexception/) |  |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) |  |
 | [EmbeddedFilesDoesNotExists](./embeddedfilesdoesnotexists/) |  |
 | [EmptyValueException](./emptyvalueexception/) |  |

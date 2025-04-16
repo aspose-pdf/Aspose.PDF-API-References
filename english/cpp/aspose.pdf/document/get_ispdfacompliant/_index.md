@@ -4,7 +4,7 @@ linktitle: get_IsPdfaCompliant
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_IsPdfaCompliant method. Gets the is document pdfa compliant in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf/document/get_ispdfacompliant/
 ---
 ## Document::get_IsPdfaCompliant method
