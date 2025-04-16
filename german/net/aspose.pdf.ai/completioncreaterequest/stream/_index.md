@@ -1,7 +1,7 @@
 ---
 title: CompletionCreateRequest.Stream
 second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest-Eigenschaft. Legt fest, ob Streaming verwendet werden soll. Wenn gesetzt, werden partielle Nachrichten-Deltas gesendet, wie in ChatGPT. Tokens werden als Daten-only server-sent events gesendet, sobald sie verfügbar sind, wobei der Stream durch eine Daten: [DONE]-Nachricht beendet wird.
+description: CompletionCreateRequest-Eigenschaft. Legt fest, ob Streaming verwendet werden soll. Wenn gesetzt, werden partielle Nachrichten-Deltas gesendet, wie in ChatGPT. Tokens werden als Daten-only server-sent events gesendet, sobald sie verfügbar sind, wobei der Stream durch eine Daten: DONE-Nachricht beendet wird.
 type: docs
 weight: 130
 url: /de/net/aspose.pdf.ai/completioncreaterequest/stream/
