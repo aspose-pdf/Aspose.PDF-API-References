@@ -1,7 +1,7 @@
 ---
 title: Class XYZExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.XYZExplicitDestination 类。表示显式目标，该目标显示页面，坐标 (left, top) 位于窗口的左上角，页面内容按缩放因子放大。对于任何参数 left、top 或 zoom 的空值指定该参数的当前值保持不变。缩放值为 0 的含义与空值相同。
+description: Aspose.Pdf.Annotations.XYZExplicitDestination 类。表示显式目标，该目标显示页面，坐标 left, top 位于窗口的左上角，页面内容按缩放因子放大。对于任何参数 left、top 或 zoom 的空值指定该参数的当前值保持不变。缩放值为 0 的含义与空值相同。
 type: docs
 weight: 2730
 url: /zh/net/aspose.pdf.annotations/xyzexplicitdestination/

@@ -1,7 +1,7 @@
 ---
 title: Operator.IsTextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Operatör metodu. Operatörün metin çıktısından (Tj, TJ, vb.) sorumlu olup olmadığını belirler.
+description: Operatör metodu. Operatörün metin çıktısından - Tj, TJ, vb. - sorumlu olup olmadığını belirler.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf/operator/istextshowoperator/

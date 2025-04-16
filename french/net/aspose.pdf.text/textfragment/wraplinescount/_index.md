@@ -1,7 +1,7 @@
 ---
 title: TextFragment.WrapLinesCount
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit le nombre de lignes à envelopper pour ce paragraphe (uniquement pour la génération de PDF)
+description: Propriété TextFragment. Obtient ou définit le nombre de lignes à envelopper pour ce paragraphe
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.text/textfragment/wraplinescount/

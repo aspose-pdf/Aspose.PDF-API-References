@@ -1,7 +1,7 @@
 ---
 title: Class SetDash
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetDash sınıfı. d operatörünü temsil eden sınıf (çizgi kesme deseni ayarlama)
+description: Aspose.Pdf.Operators.SetDash sınıfı. d operatörünü temsil eden sınıf - çizgi kesme deseni ayarlama.
 type: docs
 weight: 7690
 url: /tr/net/aspose.pdf.operators/setdash/

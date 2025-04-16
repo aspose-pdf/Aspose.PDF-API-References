@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.Ruby
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard alanı. Ruby PDF 1.5 Daha küçük bir yazı boyutunda yazılmış ve atıfta bulunduğu temel metnin yanına yerleştirilmiş bir kenar notu (açıklama). Bir Ruby öğesi ayrıca RB, RT ve RP öğelerini de içerebilir.
+description: StructureTypeStandard alanı. Ruby PDF 1.5 Daha küçük bir yazı boyutunda yazılmış ve atıfta bulunduğu temel metnin yanına yerleştirilmiş bir kenar notu. Bir Ruby öğesi ayrıca RB, RT ve RP öğelerini de içerebilir.
 type: docs
 weight: 350
 url: /tr/net/aspose.pdf.logicalstructure/structuretypestandard/ruby/

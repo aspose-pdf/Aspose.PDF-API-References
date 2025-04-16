@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.ClearCustomData
 second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-Methode. Löscht benutzerdefinierte Daten und lässt alle anderen vordefinierten Werte (Titel, Autor usw.) unverändert.
+description: DocumentInfo-Methode. Löscht benutzerdefinierte Daten und lässt alle anderen vordefinierten Werte unverändert.
 type: docs
 weight: 160
 url: /de/net/aspose.pdf/documentinfo/clearcustomdata/

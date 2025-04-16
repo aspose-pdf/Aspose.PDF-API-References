@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.Justification
 second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Hämtar eller ställer in en kod som specificerar formen av kvadrering (justering) som ska användas vid visning av annotationens text
+description: FreeTextAnnotation-egenskap. Hämtar eller ställer in en kod som specificerar formen av kvadrering som ska användas vid visning av annotationens text
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/freetextannotation/justification/

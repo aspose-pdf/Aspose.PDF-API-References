@@ -1,7 +1,7 @@
 ---
 title: Class Opi
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Opi クラス。オープン・プレプレス・インターフェース (OPI) は、低解像度のプレースホルダーまたはプロキシを作成するためのメカニズムです。高解像度の画像のためのものです。
+description: Aspose.Pdf.Opi クラス。オープン・プレプレス・インターフェース （OPI） は、低解像度のプレースホルダーまたはプロキシを作成するためのメカニズムです。高解像度の画像のためのものです。
 type: docs
 weight: 7940
 url: /ja/net/aspose.pdf/opi/

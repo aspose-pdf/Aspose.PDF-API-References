@@ -1,7 +1,7 @@
 ---
 title: PdfFormatConversionOptions.PuaTextProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Стратегия обработки символов из области частного использования юникода (PUA)
+description: Свойство PdfFormatConversionOptions. Стратегия обработки символов из области частного использования юникода - PUA.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/

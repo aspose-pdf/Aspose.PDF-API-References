@@ -1,7 +1,7 @@
 ---
 title: SetGlyphsPositionShowText.Text
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade SetGlyphsPositionShowText. Obtém texto do argumento do operador (o posicionamento do glifo é ignorado)
+description: Propriedade SetGlyphsPositionShowText. Obtém texto do argumento do operador - o posicionamento do glifo é ignorado
 type: docs
 weight: 30
 url: /pt/net/aspose.pdf.operators/setglyphspositionshowtext/text/

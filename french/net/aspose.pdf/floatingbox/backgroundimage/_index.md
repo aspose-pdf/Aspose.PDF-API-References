@@ -1,7 +1,7 @@
 ---
 title: FloatingBox.BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit l'image d'arrière-plan pour la page (pour le générateur uniquement, non remplie lors de la lecture du document)
+description: Propriété FloatingBox. Obtient ou définit l'image d'arrière-plan pour la page.
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/floatingbox/backgroundimage/

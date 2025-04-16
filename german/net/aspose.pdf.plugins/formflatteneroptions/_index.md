@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenerOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattenerOptions-Klasse. Basisklasse für Optionsklassen zum Flatten von Feldern (nicht Anmerkungen) im Dokument durch das FormFlattener-Plugin
+description: Aspose.Pdf.Plugins.FormFlattenerOptions-Klasse. Basisklasse für Optionsklassen zum Flatten von Feldern im Dokument durch das FormFlattener-Plugin
 type: docs
 weight: 8760
 url: /de/net/aspose.pdf.plugins/formflatteneroptions/

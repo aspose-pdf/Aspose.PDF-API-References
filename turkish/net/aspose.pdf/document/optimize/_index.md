@@ -1,7 +1,7 @@
 ---
 title: Document.Optimize
 second_title: Aspose.PDF for .NET API Reference
-description: Belge yöntemi. İlk sayfayı mümkün olan en hızlı şekilde açmak için belgeyi lineerleştirir, bir sonraki sayfayı mümkün olan en hızlı şekilde görüntüler veya bir sonraki sayfaya bağlantı ile geçiş yapar, sayfa verileri yavaş bir kanaldan teslim edildiğinde sayfayı gelen verilerle kademeli olarak görüntüler (en yararlı verileri önce gösterir), kullanıcı etkileşimine izin verir, örneğin bir bağlantıyı takip etmek gibi, tüm sayfa alınmadan ve görüntülenmeden önce bile gerçekleştirilebilir. Bu yöntemi çağırmak belgeyi aslında kaydetmez. Aksine, belge yalnızca optimize edilmiş bir yapıya sahip olacak şekilde hazırlanır, ardından optimize edilmiş belgeyi almak için Kaydet'i çağırın.
+description: Belge yöntemi. İlk sayfayı mümkün olan en hızlı şekilde açmak için belgeyi lineerleştirir, bir sonraki sayfayı mümkün olan en hızlı şekilde görüntüler veya bir sonraki sayfaya bağlantı ile geçiş yapar, sayfa verileri yavaş bir kanaldan teslim edildiğinde sayfayı gelen verilerle kademeli olarak görüntüler, kullanıcı etkileşimine izin verir, örneğin bir bağlantıyı takip etmek gibi, tüm sayfa alınmadan ve görüntülenmeden önce bile gerçekleştirilebilir. Bu yöntemi çağırmak belgeyi aslında kaydetmez. Aksine, belge yalnızca optimize edilmiş bir yapıya sahip olacak şekilde hazırlanır, ardından optimize edilmiş belgeyi almak için Kaydet'i çağırın.
 type: docs
 weight: 750
 url: /tr/net/aspose.pdf/document/optimize/

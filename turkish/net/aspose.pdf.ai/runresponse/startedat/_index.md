@@ -1,7 +1,7 @@
 ---
 title: RunResponse.StartedAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunResponse özelliği. Çalışmanın başlatıldığı zaman için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: RunResponse özelliği. Çalışmanın başlatıldığı zaman için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 190
 url: /tr/net/aspose.pdf.ai/runresponse/startedat/

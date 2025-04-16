@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Required
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare se il campo creato/modificato è richiesto o meno (se sarà impostato).
+description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare se il campo creato/modificato è richiesto o meno.
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.plugins/formfieldoptions/required/

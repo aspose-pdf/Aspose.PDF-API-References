@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo2
 second_title: Aspose.PDF for .NET API Reference
-description: Clase Aspose.Pdf.Operators.CurveTo2. Clase que representa el operador y (agregar curva al camino, punto final replicado).
+description: Clase Aspose.Pdf.Operators.CurveTo2. Clase que representa el operador y - agregar curva al camino, punto final replicado.
 type: docs
 weight: 7260
 url: /es/net/aspose.pdf.operators/curveto2/

@@ -1,7 +1,7 @@
 ---
 title: PdfAOptionsBase.IccProfileFileName
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает или задает имя файла профиля ICC (Международного консорциума цветового профиля), который будет использоваться для конвертации в PDF/A вместо стандартного.
+description: Свойство PdfAOptionsBase. Получает или задает имя файла профиля ICC, который будет использоваться для конвертации в PDF/A вместо стандартного.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/iccprofilefilename/

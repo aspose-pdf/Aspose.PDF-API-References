@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldCreateOptions.Editable
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, является ли созданный ComboBoxField редактируемым или нет (если будет установлено).
+description: Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, является ли созданный ComboBoxField редактируемым или нет,  если будет установлено.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/editable/

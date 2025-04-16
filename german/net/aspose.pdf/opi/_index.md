@@ -1,7 +1,7 @@
 ---
 title: Class Opi
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Opi-Klasse. Stellt die Open Prepress Interface (OPI) dar, ein Mechanismus zur Erstellung von Platzhaltern oder Proxys mit niedriger Auflösung für hochauflösende Bilder.
+description: Aspose.Pdf.Opi-Klasse. Stellt die Open Prepress Interface dar, ein Mechanismus zur Erstellung von Platzhaltern oder Proxys mit niedriger Auflösung für hochauflösende Bilder.
 type: docs
 weight: 7940
 url: /de/net/aspose.pdf/opi/

@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.SaveOptionsBorderPartStyle. Mewakili informasi dari satu bagian batas (atas, bawah, sisi kiri atau sisi kanan)
+description: Kelas Aspose.Pdf.SaveOptionsBorderPartStyle. Mewakili informasi dari satu bagian batas
 type: docs
 weight: 9890
 url: /id/net/aspose.pdf/saveoptions.borderpartstyle/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeCategory.BLSEs
 second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeCategory. Los elementos de estructura a nivel de bloque (BLSEs) describen el diseño general del contenido en la página, avanzando en la dirección de progresión de bloques.
+description: Campo StructureTypeCategory. Los elementos de estructura a nivel de bloque - BLSEs - describen el diseño general del contenido en la página, avanzando en la dirección de progresión de bloques.
 type: docs
 weight: 10
 url: /es/net/aspose.pdf.logicalstructure/structuretypecategory/blses/

@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DataEditor.DictionaryEditor. Uma classe para acessar o dicionário da árvore de um documento (dicionário do documento, dicionário da página, dicionário de recursos).
+description: Classe Aspose.Pdf.DataEditor.DictionaryEditor. Uma classe para acessar o dicionário da árvore de um documento.
 type: docs
 weight: 3470
 url: /pt/net/aspose.pdf.dataeditor/dictionaryeditor/

@@ -1,7 +1,7 @@
 ---
 title: ThreadMessageResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse özelliği. Mesajın oluşturulduğu zaman için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: ThreadMessageResponse özelliği. Mesajın oluşturulduğu zaman için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.ai/threadmessageresponse/createdat/

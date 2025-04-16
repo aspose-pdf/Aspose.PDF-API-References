@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.RasterImagesSavingModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsRasterImagesSavingModes 열거형. 변환된 PDF는 래스터 이미지(.png, .jpeg 등)를 포함할 수 있습니다. 이 열거형은 PDF를 HTML로 변환하는 동안 래스터 이미지를 처리하는 방법을 정의합니다.
+description: Aspose.Pdf.HtmlSaveOptionsRasterImagesSavingModes 열거형. 변환된 PDF는 래스터 이미지（.png, .jpeg 등）를 포함할 수 있습니다. 이 열거형은 PDF를 HTML로 변환하는 동안 래스터 이미지를 처리하는 방법을 정의합니다.
 type: docs
 weight: 5720
 url: /ko/net/aspose.pdf/htmlsaveoptions.rasterimagessavingmodes/

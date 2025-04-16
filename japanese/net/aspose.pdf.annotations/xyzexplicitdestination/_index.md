@@ -1,7 +1,7 @@
 ---
 title: Class XYZExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.XYZExplicitDestination クラス。ウィンドウの左上隅に位置する座標 (left, top) でページを表示し、ページの内容をズームファクターで拡大表示する明示的な目的地を表します。left、top、または zoom のいずれかのパラメーターに対して null 値が指定されると、そのパラメーターの現在の値が変更されずに保持されることを指定します。ズーム値が 0 の場合は、null 値と同じ意味を持ちます。
+description: Aspose.Pdf.Annotations.XYZExplicitDestination クラス。ウィンドウの左上隅に位置する座標 （left, top） でページを表示し、ページの内容をズームファクターで拡大表示する明示的な目的地を表します。left、top、または zoom のいずれかのパラメーターに対して null 値が指定されると、そのパラメーターの現在の値が変更されずに保持されることを指定します。ズーム値が 0 の場合は、null 値と同じ意味を持ちます。
 type: docs
 weight: 2730
 url: /ja/net/aspose.pdf.annotations/xyzexplicitdestination/

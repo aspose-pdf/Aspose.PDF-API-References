@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber-Eigenschaft. Ruft den Wert ab oder legt ihn fest, der angibt, wie oft aufeinanderfolgende Suchen nach feineren Elementen der Struktur durchgeführt werden. Die standardmäßige Suchtiefe beträgt 3. Das bedeutet drei Suchen nach horizontal geteilten Abschnitten (Überschriften, Absätze usw.) und drei Suchen nach vertikal geteilten (Spalten).
+description: ParagraphAbsorber-Eigenschaft. Ruft den Wert ab oder legt ihn fest, der angibt, wie oft aufeinanderfolgende Suchen nach feineren Elementen der Struktur durchgeführt werden. Die standardmäßige Suchtiefe beträgt 3. Das bedeutet drei Suchen nach horizontal geteilten Abschnitten und drei Suchen nach vertikal geteilten.
 type: docs
 weight: 50
 url: /de/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

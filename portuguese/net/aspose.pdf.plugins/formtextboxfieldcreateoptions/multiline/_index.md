@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.Multiline
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade FormTextBoxFieldCreateOptions. Obtém/define o valor para determinar se o TextBoxField criado é multilinha ou não (se será definido).
+description: Propriedade FormTextBoxFieldCreateOptions. Obtém/define o valor para determinar se o TextBoxField criado é multilinha ou não.
 type: docs
 weight: 40
 url: /pt/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/

@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.RightStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo alanı. Kenarın sağ kısmını temsil eder (varsa)
+description: BorderInfo alanı. Kenarın sağ kısmını temsil eder
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/

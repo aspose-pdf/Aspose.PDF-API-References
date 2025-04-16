@@ -1,7 +1,7 @@
 ---
 title: Graph.IsChangePosition
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство графа. Получает или устанавливает изменение текущей позиции после обработки абзаца. (по умолчанию true)
+description: Свойство графа. Получает или устанавливает изменение текущей позиции после обработки абзаца.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.drawing/graph/ischangeposition/

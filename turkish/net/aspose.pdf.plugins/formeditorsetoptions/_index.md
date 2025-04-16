@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorSetOptions sınıfı. Alanların (not annotations) özelliklerini ayarlamak için seçenekleri temsil eder.
+description: Aspose.Pdf.Plugins.FormEditorSetOptions sınıfı. Alanların özelliklerini ayarlamak için seçenekleri temsil eder.
 type: docs
 weight: 8660
 url: /tr/net/aspose.pdf.plugins/formeditorsetoptions/

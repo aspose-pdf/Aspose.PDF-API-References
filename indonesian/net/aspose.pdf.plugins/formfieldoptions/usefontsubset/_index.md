@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UseFontSubset
 second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi menggunakan subset font atau tidak (jika akan diatur).
+description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi menggunakan subset font atau tidak.
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.plugins/formfieldoptions/usefontsubset/

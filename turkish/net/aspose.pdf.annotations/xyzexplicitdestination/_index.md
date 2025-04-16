@@ -1,7 +1,7 @@
 ---
 title: Class XYZExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.XYZExplicitDestination sınıfı. Sayfayı, sol üst köşesi pencerenin sol üst köşesine yerleştirilmiş (sol, üst) koordinatları ile ve sayfanın içeriğini zoom faktörü ile büyütülmüş olarak gösteren açık bir hedefi temsil eder. Sol, üst veya zoom parametrelerinden herhangi biri için null değeri, o parametrenin mevcut değerinin değişmeden korunacağını belirtir. 0 zoom değeri, null değeri ile aynı anlama gelir.
+description: Aspose.Pdf.Annotations.XYZExplicitDestination sınıfı. Sayfayı, sol üst köşesi pencerenin sol üst köşesine yerleştirilmiş koordinatları ile ve sayfanın içeriğini zoom faktörü ile büyütülmüş olarak gösteren açık bir hedefi temsil eder. Sol, üst veya zoom parametrelerinden herhangi biri için null değeri, o parametrenin mevcut değerinin değişmeden korunacağını belirtir. 0 zoom değeri, null değeri ile aynı anlama gelir.
 type: docs
 weight: 2730
 url: /tr/net/aspose.pdf.annotations/xyzexplicitdestination/

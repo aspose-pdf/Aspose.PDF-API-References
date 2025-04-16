@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionValueType klass. PDF/A ValueType-schema krävs för alla egenskapsvärdetyper som inte definieras i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper (dessa är behållartyper som kan innehålla ett eller flera fält): Alt, Bag, Seq - Grundläggande värdetyper: Boolean, (öppen och stängd) Choice, Datum, Dimensioner, Heltal, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Mediehanteringsvärdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande Jobb/Arbetsflöde värdetyper: Jobb - EXIF-schema värdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Krävs schema namespace prefix: pdfaType
+description: Aspose.Pdf.XmpPdfAExtensionValueType klass. PDF/A ValueType-schema krävs för alla egenskapsvärdetyper som inte definieras i XMP 2004-specifikationen, dvs. för värdetyper utanför följande lista: - Arraytyper: Alt, Bag, Seq - Grundläggande värdetyper: Boolean, öppen och stängd Choice, Datum, Dimensioner, Heltal, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Mediehanteringsvärdetyper: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundläggande Jobb/Arbetsflöde värdetyper: Jobb - EXIF-schema värdetyper: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Krävs schema namespace prefix: pdfaType
 type: docs
 weight: 11490
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/

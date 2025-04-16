@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 속성. 저장 중에 발견된 SVG 그래픽(있는 경우)이 SVGZ 형식으로 압축(지퍼)될지를 나타내는 플래그를 가져오거나 설정합니다.
+description: HtmlSaveOptions 속성. 저장 중에 발견된 SVG 그래픽（있는 경우）이 SVGZ 형식으로 압축（지퍼）될지를 나타내는 플래그를 가져오거나 설정합니다.
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/

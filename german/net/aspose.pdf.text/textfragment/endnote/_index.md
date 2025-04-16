@@ -1,7 +1,7 @@
 ---
 title: TextFragment.EndNote
 second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-Eigenschaft. Ruft die Fußnote des Absatzes ab oder legt sie fest. (nur für die PDF-Erstellung)
+description: TextFragment-Eigenschaft. Ruft die Fußnote des Absatzes ab oder legt sie fest. nur für die PDF-Erstellung
 type: docs
 weight: 30
 url: /de/net/aspose.pdf.text/textfragment/endnote/

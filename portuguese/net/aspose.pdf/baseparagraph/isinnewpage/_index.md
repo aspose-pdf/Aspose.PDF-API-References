@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInNewPage
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade BaseParagraph. Obtém ou define um valor bool que força este parágrafo a ser gerado em uma nova página. O padrão é falso. (para geração de pdf)
+description: Propriedade BaseParagraph. Obtém ou define um valor bool que força este parágrafo a ser gerado em uma nova página. O padrão é falso. para geração de pdf
 type: docs
 weight: 50
 url: /pt/net/aspose.pdf/baseparagraph/isinnewpage/

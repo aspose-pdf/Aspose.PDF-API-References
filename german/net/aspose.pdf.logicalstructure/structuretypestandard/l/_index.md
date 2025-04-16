@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.L
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-Feld. Liste Eine Sequenz von Elementen ähnlicher Bedeutung und Wichtigkeit. Seine unmittelbaren Kinder sollten eine optionale Beschriftungsstruktur (Strukturtyp Caption) gefolgt von einem oder mehreren Listenelementen (Strukturtyp LI) sein.
+description: StructureTypeStandard-Feld. Liste Eine Sequenz von Elementen ähnlicher Bedeutung und Wichtigkeit. Seine unmittelbaren Kinder sollten eine optionale Beschriftungsstruktur gefolgt von einem oder mehreren Listenelementen sein.
 type: docs
 weight: 200
 url: /de/net/aspose.pdf.logicalstructure/structuretypestandard/l/

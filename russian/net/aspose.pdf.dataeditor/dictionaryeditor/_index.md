@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DataEditor.DictionaryEditor. Класс для доступа к дереву словарей документа (словари документа, словари страниц, словари ресурсов).
+description: Класс Aspose.Pdf.DataEditor.DictionaryEditor. Класс для доступа к дереву словарей документа.
 type: docs
 weight: 3470
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/

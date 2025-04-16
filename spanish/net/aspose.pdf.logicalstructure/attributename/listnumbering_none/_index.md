@@ -1,7 +1,7 @@
 ---
 title: AttributeName.ListNumbering_None
 second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Atributo ListNumbering Ninguno No autonumeración. Los elementos Lbl (si están presentes) contienen texto arbitrario no sujeto a ningún esquema de numeración.
+description: Campo AttributeName. Atributo ListNumbering Ninguno No autonumeración. Los elementos Lbl contienen texto arbitrario no sujeto a ningún esquema de numeración.
 type: docs
 weight: 300
 url: /es/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/

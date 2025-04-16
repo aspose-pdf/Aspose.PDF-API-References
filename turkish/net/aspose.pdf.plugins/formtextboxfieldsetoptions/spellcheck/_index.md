@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldSetOptions.SpellCheck
 second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions özelliği. Değiştirilen alan için SpellCheck özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormTextBoxFieldSetOptions özelliği. Değiştirilen alan için SpellCheck özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.plugins/formtextboxfieldsetoptions/spellcheck/

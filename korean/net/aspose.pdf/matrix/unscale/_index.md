@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix 메서드. 다음 공식을 사용하여 x1과 y1을 다시 조정하고 행렬 변환 이전의 x와 y를 반환합니다: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+description: Matrix 메서드. 다음 공식을 사용하여 x1과 y1을 다시 조정하고 행렬 변환 이전의 x와 y를 반환합니다: x = （D * x1 - C * y1） / （A * D - C * B）; y = （A* y1 - B* x1） / （A* D - C* B）;
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf/matrix/unscale/

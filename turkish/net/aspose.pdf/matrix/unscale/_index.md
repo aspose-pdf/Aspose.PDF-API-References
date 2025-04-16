@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix metodu. x1 ve y1'i geri ölçeklendirir ve matris dönüşümünden önce x ve y'yi aşağıdaki formülü kullanarak döndürür: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+description: Matrix metodu. x1 ve y1'i geri ölçeklendirir ve matris dönüşümünden önce x ve y'yi aşağıdaki formülü kullanarak döndürür: x = D * x1 - C * y1 / A * D - C * B; y = A* y1 - B* x1 / A* D - C* B;
 type: docs
 weight: 220
 url: /tr/net/aspose.pdf/matrix/unscale/

@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UseFontSubset
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer si le champ créé/modifié utilise un sous-ensemble de police ou non (s'il sera défini).
+description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer si le champ créé/modifié utilise un sous-ensemble de police ou non.
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/usefontsubset/

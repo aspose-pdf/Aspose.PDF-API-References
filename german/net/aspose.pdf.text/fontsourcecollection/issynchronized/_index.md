@@ -1,7 +1,7 @@
 ---
 title: FontSourceCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert (thread-sicher) ist.
+description: FontSourceCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert ist.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf.text/fontsourcecollection/issynchronized/

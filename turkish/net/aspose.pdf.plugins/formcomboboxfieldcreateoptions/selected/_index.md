@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldCreateOptions.Selected
 second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldCreateOptions özelliği. Oluşturulan ComboBoxField için Selected özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormComboBoxFieldCreateOptions özelliği. Oluşturulan ComboBoxField için Selected özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/

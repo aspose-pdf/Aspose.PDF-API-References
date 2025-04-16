@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.SpellCheck
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade FormTextBoxFieldCreateOptions. Obtém/define o valor para determinar se o TextBoxField criado possui verificação ortográfica ou não (se será definido).
+description: Propriedade FormTextBoxFieldCreateOptions. Obtém/define o valor para determinar se o TextBoxField criado possui verificação ortográfica ou não.
 type: docs
 weight: 50
 url: /pt/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/

@@ -1,7 +1,7 @@
 ---
 title: Class DestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DestinationCollection. Kelas ini mewakili koleksi semua tujuan (a name tree mapping name strings to destinations) lihat 12.3.2.3 "Named Destinations" dan lihat 7.7.4 "Name Dictionary" dalam dokumen pdf
+description: Kelas Aspose.Pdf.DestinationCollection. Kelas ini mewakili koleksi semua tujuan lihat 12.3.2.3 "Named Destinations" dan lihat 7.7.4 "Name Dictionary" dalam dokumen pdf
 type: docs
 weight: 3510
 url: /id/net/aspose.pdf/destinationcollection/

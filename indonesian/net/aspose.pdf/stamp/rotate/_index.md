@@ -1,7 +1,7 @@
 ---
 title: Stamp.Rotate
 second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mengatur atau mendapatkan rotasi konten cap sesuai dengan nilai Rotasi. Catatan. Properti ini untuk mengatur sudut yang merupakan kelipatan dari 90 derajat (0, 90, 180, 270 derajat). Untuk mengatur sudut sembarang, gunakan properti RotateAngle. Jika sudut yang diatur oleh ArbitraryAngle bukan kelipatan dari 90, maka properti Rotate mengembalikan Rotation.None.
+description: Properti Stamp. Mengatur atau mendapatkan rotasi konten cap sesuai dengan nilai Rotasi. Catatan. Properti ini untuk mengatur sudut yang merupakan kelipatan dari 90 derajat. Untuk mengatur sudut sembarang, gunakan properti RotateAngle. Jika sudut yang diatur oleh ArbitraryAngle bukan kelipatan dari 90, maka properti Rotate mengembalikan Rotation.None.
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/stamp/rotate/

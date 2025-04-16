@@ -1,7 +1,7 @@
 ---
 title: CompletionResponse.Created
 second_title: Aspose.PDF for .NET API Reference
-description: CompletionResponse özelliği. Sohbet tamamlamasının oluşturulduğu Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: CompletionResponse özelliği. Sohbet tamamlamasının oluşturulduğu Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.ai/completionresponse/created/

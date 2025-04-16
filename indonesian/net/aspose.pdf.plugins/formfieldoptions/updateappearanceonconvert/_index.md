@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UpdateAppearanceOnConvert
 second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi memperbarui penampilan saat dikonversi atau tidak (jika akan diatur).
+description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi memperbarui penampilan saat dikonversi atau tidak.
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/

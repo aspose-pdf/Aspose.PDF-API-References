@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorBarAnnotation 클래스. ColorBarAnnotation 주석을 나타내는 클래스. Color 속성은 무시되며 대신 ColorsOfCMYK 색상이 사용됩니다. 생성 시 너비와 높이의 비율이 주석의 방향(수평 또는 수직)을 결정합니다. 다음으로 주석 사각형이 TrimBox 외부에 있는지 확인하고, 그렇지 않은 경우 주석의 방향을 고려하여 TrimBox 외부의 가장 가까운 위치로 이동합니다. 주석이 TrimBox 외부에 맞도록 너비(높이)를 줄이는 것이 가능합니다. 레이아웃을 위한 공간이 없으면 너비/높이를 0으로 설정할 수 있으며, 이 경우 주석은 페이지에 존재하지만 표시되지 않습니다.
+description: Aspose.Pdf.Annotations.ColorBarAnnotation 클래스. ColorBarAnnotation 주석을 나타내는 클래스. Color 속성은 무시되며 대신 ColorsOfCMYK 색상이 사용됩니다. 생성 시 너비와 높이의 비율이 주석의 방향（수평 또는 수직）을 결정합니다. 다음으로 주석 사각형이 TrimBox 외부에 있는지 확인하고, 그렇지 않은 경우 주석의 방향을 고려하여 TrimBox 외부의 가장 가까운 위치로 이동합니다. 주석이 TrimBox 외부에 맞도록 너비（높이）를 줄이는 것이 가능합니다. 레이아웃을 위한 공간이 없으면 너비/높이를 0으로 설정할 수 있으며, 이 경우 주석은 페이지에 존재하지만 표시되지 않습니다.
 type: docs
 weight: 1600
 url: /ko/net/aspose.pdf.annotations/colorbarannotation/

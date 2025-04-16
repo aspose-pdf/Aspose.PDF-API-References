@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorBarAnnotation klass. Klass som representerar ColorBarAnnotation-annotering. Egenskapen Color ignoreras, istället används färgen ColorsOfCMYK. Vid skapande bestämmer förhållandet mellan bredd och höjd orienteringen av annoteringen - horisontell eller vertikal. Nästa kontrolleras att annoteringsrektangeln är utanför TrimBox, och om inte, flyttas den till närmaste plats utanför TrimBox med hänsyn till annoteringens orientering. Det är möjligt att minska bredden (höjden) så att annoteringen passar utanför TrimBox. Om det inte finns något utrymme för layouten kan bredd/höjd sättas till noll (i detta fall är annoteringen närvarande på sidan men inte synlig).
+description: Aspose.Pdf.Annotations.ColorBarAnnotation klass. Klass som representerar ColorBarAnnotation-annotering. Egenskapen Color ignoreras, istället används färgen ColorsOfCMYK. Vid skapande bestämmer förhållandet mellan bredd och höjd orienteringen av annoteringen - horisontell eller vertikal. Nästa kontrolleras att annoteringsrektangeln är utanför TrimBox, och om inte, flyttas den till närmaste plats utanför TrimBox med hänsyn till annoteringens orientering. Det är möjligt att minska bredden så att annoteringen passar utanför TrimBox. Om det inte finns något utrymme för layouten kan bredd/höjd sättas till noll.
 type: docs
 weight: 1600
 url: /sv/net/aspose.pdf.annotations/colorbarannotation/

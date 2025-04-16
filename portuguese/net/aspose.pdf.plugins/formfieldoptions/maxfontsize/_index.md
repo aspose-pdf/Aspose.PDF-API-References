@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.MaxFontSize
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade FormFieldOptions. Obtém/define o valor para determinar a propriedade MaxFontSize para campo criado/modificado (se será definido).
+description: Propriedade FormFieldOptions. Obtém/define o valor para determinar a propriedade MaxFontSize para campo criado/modificado.
 type: docs
 weight: 100
 url: /pt/net/aspose.pdf.plugins/formfieldoptions/maxfontsize/

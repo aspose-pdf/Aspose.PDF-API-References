@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.ReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad FormFieldOptions. Obtiene/establece el valor para determinar si el campo creado/modificado es de solo lectura o no (si se establecerá).
+description: Propiedad FormFieldOptions. Obtiene/establece el valor para determinar si el campo creado/modificado es de solo lectura o no, si se establecerá.
 type: docs
 weight: 140
 url: /es/net/aspose.pdf.plugins/formfieldoptions/readonly/

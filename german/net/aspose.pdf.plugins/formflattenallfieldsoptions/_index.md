@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenAllFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions-Klasse. Stellt Optionen zum Flatten aller Felder (nicht Anmerkungen) im Dokument durch das FormFlattener-Plugin dar
+description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions-Klasse. Stellt Optionen zum Flatten aller Felder im Dokument durch das FormFlattener-Plugin dar
 type: docs
 weight: 8730
 url: /de/net/aspose.pdf.plugins/formflattenallfieldsoptions/

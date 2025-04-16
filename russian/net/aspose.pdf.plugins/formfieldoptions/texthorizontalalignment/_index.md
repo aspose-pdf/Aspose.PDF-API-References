@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.TextHorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства TextHorizontalAlignment для созданного/измененного поля (если будет установлено).
+description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства TextHorizontalAlignment для созданного/измененного поля.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/

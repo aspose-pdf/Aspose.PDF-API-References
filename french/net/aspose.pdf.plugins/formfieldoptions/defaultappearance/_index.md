@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.DefaultAppearance
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer la propriété DefaultAppearance pour le champ créé/modifié (si elle sera définie).
+description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer la propriété DefaultAppearance pour le champ créé/modifié.
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/defaultappearance/

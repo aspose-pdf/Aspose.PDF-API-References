@@ -1,7 +1,7 @@
 ---
 title: FileHyperlink.NewWindow
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileHyperlink. Получает или устанавливает флаг, указывающий, следует ли открывать целевой документ в новом окне (касается только PDF-документов).
+description: Свойство FileHyperlink. Получает или устанавливает флаг, указывающий, следует ли открывать целевой документ в новом окне.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/filehyperlink/newwindow/

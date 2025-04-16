@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.IsPredefinedKey
 second_title: Aspose.PDF for .NET API Reference
-description: Método DocumentInfo. Determina si la clave es predefinida (Título, Autor, etc.), no personalizada.
+description: Método DocumentInfo. Determina si la clave es predefinida, no personalizada.
 type: docs
 weight: 180
 url: /es/net/aspose.pdf/documentinfo/ispredefinedkey/

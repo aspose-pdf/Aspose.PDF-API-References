@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.PartsEmbeddingModes
 second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsPartsEmbeddingModes do Aspose.Pdf. Este enum enumera os possíveis modos de incorporação de arquivos referenciados em HTML. Ele permite controlar se os arquivos referenciados (HTML, Fonts, Images, CSSes) serão incorporados no arquivo HTML principal ou serão gerados como entidades binárias separadas.
+description: Enum HtmlSaveOptionsPartsEmbeddingModes do Aspose.Pdf. Este enum enumera os possíveis modos de incorporação de arquivos referenciados em HTML. Ele permite controlar se os arquivos referenciados serão incorporados no arquivo HTML principal ou serão gerados como entidades binárias separadas.
 type: docs
 weight: 5710
 url: /pt/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/

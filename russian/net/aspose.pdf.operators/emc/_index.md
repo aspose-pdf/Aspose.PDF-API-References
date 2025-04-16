@@ -1,7 +1,7 @@
 ---
 title: Class EMC
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.EMC. Класс, представляющий оператор EMC (Конец последовательности размеченного содержимого)
+description: Класс Aspose.Pdf.Operators.EMC. Класс, представляющий оператор EMC - Конец последовательности размеченного содержимого
 type: docs
 weight: 7300
 url: /ru/net/aspose.pdf.operators/emc/

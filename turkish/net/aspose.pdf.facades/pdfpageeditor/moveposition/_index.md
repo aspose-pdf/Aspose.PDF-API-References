@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor metodu. Orijini (0, 0) noktasından belirlenen noktaya taşır. Orijin sol-alt köşededir ve birim point(1 inç = 72 point)dir.
+description: PdfPageEditor metodu. Orijini noktasından belirlenen noktaya taşır. Orijin sol-alt köşededir ve birim point - 1 inç = 72 point dir.
 type: docs
 weight: 170
 url: /tr/net/aspose.pdf.facades/pdfpageeditor/moveposition/

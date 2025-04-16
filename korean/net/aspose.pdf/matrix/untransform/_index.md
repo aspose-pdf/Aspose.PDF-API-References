@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnTransform
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix 메서드. 다음 공식을 사용하여 행렬 변환 이전의 x와 y를 반환하고 x1과 y1을 다시 변환합니다: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
+description: Matrix 메서드. 다음 공식을 사용하여 행렬 변환 이전의 x와 y를 반환하고 x1과 y1을 다시 변환합니다: x = （D * x1 - C * y1 + C * F） / （A * D - C * B）; y = （A * y1 - B * x1 + B * E） / （A * D - C * B）.
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf/matrix/untransform/

@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormEditorSetOptions. Représente les options pour définir les propriétés des champs (pas des annotations)
+description: Classe Aspose.Pdf.Plugins.FormEditorSetOptions. Représente les options pour définir les propriétés des champs
 type: docs
 weight: 8660
 url: /fr/net/aspose.pdf.plugins/formeditorsetoptions/

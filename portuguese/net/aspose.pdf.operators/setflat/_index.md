@@ -1,7 +1,7 @@
 ---
 title: Class SetFlat
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetFlat. Classe representando o operador i (tolerância de planicidade)
+description: Classe Aspose.Pdf.Operators.SetFlat. Classe representando o operador i - tolerância de planicidade
 type: docs
 weight: 7700
 url: /pt/net/aspose.pdf.operators/setflat/

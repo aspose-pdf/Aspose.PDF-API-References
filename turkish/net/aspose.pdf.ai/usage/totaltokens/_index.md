@@ -1,7 +1,7 @@
 ---
 title: Usage.TotalTokens
 second_title: Aspose.PDF for .NET API Reference
-description: Kullanım özelliği. İstekte kullanılan toplam token sayısını alır veya ayarlar (istek + tamamlama).
+description: Kullanım özelliği. İstekte kullanılan toplam token sayısını alır veya ayarlar: istek + tamamlama.
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.ai/usage/totaltokens/

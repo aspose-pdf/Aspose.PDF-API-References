@@ -1,7 +1,7 @@
 ---
 title: FormCheckBoxFieldSetOptions.Checked
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormCheckBoxFieldSetOptions. Получает/устанавливает значение для определения свойства Checked для измененного поля (если будет установлено).
+description: Свойство FormCheckBoxFieldSetOptions. Получает/устанавливает значение для определения свойства Checked для измененного поля, если будет установлено.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/checked/

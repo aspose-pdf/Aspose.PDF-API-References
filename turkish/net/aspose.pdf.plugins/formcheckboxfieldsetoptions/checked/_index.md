@@ -1,7 +1,7 @@
 ---
 title: FormCheckBoxFieldSetOptions.Checked
 second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions özelliği. Değiştirilen alan için Checked özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormCheckBoxFieldSetOptions özelliği. Değiştirilen alan için Checked özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/checked/

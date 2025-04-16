@@ -1,7 +1,7 @@
 ---
 title: Class FormExporterValuesToCsvOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions sınıfı. Belirtilen alanların (not anotasyonlar) Value özelliğinin dışa aktarım seçeneklerini temsil eder.
+description: Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions sınıfı. Belirtilen alanların Value özelliğinin dışa aktarım seçeneklerini temsil eder.
 type: docs
 weight: 8690
 url: /tr/net/aspose.pdf.plugins/formexportervaluestocsvoptions/

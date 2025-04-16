@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnTransform
 second_title: Aspose.PDF for .NET API Reference
-description: Метод матрицы. Преобразует обратно x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
+description: Метод матрицы. Преобразует обратно x1 и y1 и возвращает x и y до преобразования матрицы, используя следующую формулу: x = D * x1 - C * y1 + C * F / A * D - C * B; y = A * y1 - B * x1 + B * E / A * D - C * B.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/matrix/untransform/

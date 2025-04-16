@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.IsSharedField
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле общим полем или нет (если будет установлено).
+description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле общим полем или нет.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/issharedfield/

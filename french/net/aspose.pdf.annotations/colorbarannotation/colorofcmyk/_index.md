@@ -1,7 +1,7 @@
 ---
 title: ColorBarAnnotation.ColorOfCMYK
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété ColorBarAnnotation. Obtient ou définit la couleur (l'une des cyan, magenta, jaune, noir) pour laquelle l'annotation est dessinée
+description: Propriété ColorBarAnnotation. Obtient ou définit la couleur pour laquelle l'annotation est dessinée
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/

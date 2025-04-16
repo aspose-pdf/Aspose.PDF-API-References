@@ -1,7 +1,7 @@
 ---
 title: Class BDC
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BDC sınıfı. BDC operatörünü temsil eden sınıf (Başlangıç işaretli içerik dizisi)
+description: Aspose.Pdf.Operators.BDC sınıfı. BDC operatörünü temsil eden sınıf - Başlangıç işaretli içerik dizisi.
 type: docs
 weight: 7100
 url: /tr/net/aspose.pdf.operators/bdc/

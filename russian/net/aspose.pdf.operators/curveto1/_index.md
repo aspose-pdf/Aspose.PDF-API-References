@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo1
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.CurveTo1. Класс, представляющий оператор v (добавить кривую к пути, начальная точка реплицирована)
+description: Класс Aspose.Pdf.Operators.CurveTo1. Класс, представляющий оператор v - добавить кривую к пути, начальная точка реплицирована
 type: docs
 weight: 7250
 url: /ru/net/aspose.pdf.operators/curveto1/

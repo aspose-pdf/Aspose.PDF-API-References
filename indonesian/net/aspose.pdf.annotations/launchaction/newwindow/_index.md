@@ -1,7 +1,7 @@
 ---
 title: LaunchAction.NewWindow
 second_title: Aspose.PDF for .NET API Reference
-description: Properti LaunchAction. Mendapatkan atau mengatur sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru (hanya mempengaruhi dokumen PDF)
+description: Properti LaunchAction. Mendapatkan atau mengatur sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/launchaction/newwindow/

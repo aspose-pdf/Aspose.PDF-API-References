@@ -1,7 +1,7 @@
 ---
 title: Class XYZExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.XYZExplicitDestination. Представляет явное назначение, которое отображает страницу с координатами (left, top), расположенными в верхнем левом углу окна, и содержимое страницы увеличено в соответствии с коэффициентом zoom. Значение null для любого из параметров left, top или zoom указывает на то, что текущее значение этого параметра должно быть сохранено без изменений. Значение zoom равное 0 имеет то же значение, что и значение null.
+description: Класс Aspose.Pdf.Annotations.XYZExplicitDestination. Представляет явное назначение, которое отображает страницу с координатами, расположенными в верхнем левом углу окна, и содержимое страницы увеличено в соответствии с коэффициентом zoom. Значение null для любого из параметров left, top или zoom указывает на то, что текущее значение этого параметра должно быть сохранено без изменений. Значение zoom равное 0 имеет то же значение, что и значение null.
 type: docs
 weight: 2730
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/

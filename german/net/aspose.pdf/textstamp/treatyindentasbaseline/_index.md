@@ -1,7 +1,7 @@
 ---
 title: TextStamp.TreatYIndentAsBaseLine
 second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-Eigenschaft. Definiert den Koordinatenursprung für die Platzierung von Text. Wenn TreatYIndentAsBaseLine true ist (Standard, wenn Draw true ist), wird der YIndent-Wert als Textbasislinie behandelt. Wenn TreatYIndentAsBaseLine false ist (Standard, wenn Draw false ist), wird der YIndent-Wert als untere Abstiegslinie des Textes behandelt.
+description: TextStamp-Eigenschaft. Definiert den Koordinatenursprung für die Platzierung von Text. Wenn TreatYIndentAsBaseLine true ist, wird der YIndent-Wert als Textbasislinie behandelt. Wenn TreatYIndentAsBaseLine false ist, wird der YIndent-Wert als untere Abstiegslinie des Textes behandelt.
 type: docs
 weight: 140
 url: /de/net/aspose.pdf/textstamp/treatyindentasbaseline/

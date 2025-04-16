@@ -1,7 +1,7 @@
 ---
 title: Class PdfAnnotationEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfAnnotationEditor. Représente une classe pour travailler avec les annotations de documents PDF (commentaires)
+description: Classe Aspose.Pdf.Facades.PdfAnnotationEditor. Représente une classe pour travailler avec les annotations de documents PDF
 type: docs
 weight: 4410
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/

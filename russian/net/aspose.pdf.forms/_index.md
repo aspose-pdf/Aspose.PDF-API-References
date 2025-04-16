@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Пространство имен Aspose.Pdf.Forms содержит классы, которые описывают формы (стандартные, статические, динамические) и различные типы полей, такие как текстовое поле, список, радиокнопка и т. д.
+description: Пространство имен Aspose.Pdf.Forms содержит классы, которые описывают формы и различные типы полей, такие как текстовое поле, список, радиокнопка и т. д.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.forms/

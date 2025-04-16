@@ -1,7 +1,7 @@
 ---
 title: Class EMC
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.EMC. Kelas yang mewakili operator EMC (Akhir dari urutan konten yang ditandai)
+description: Kelas Aspose.Pdf.Operators.EMC. Kelas yang mewakili operator EMC - Akhir dari urutan konten yang ditandai
 type: docs
 weight: 7300
 url: /id/net/aspose.pdf.operators/emc/

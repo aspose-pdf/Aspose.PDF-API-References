@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms-namnområdet har klasser som beskriver formulär (standard, statiska, dynamiska) och olika typer av fält som textruta, listbox, radioknapp etc.
+description: Aspose.Pdf.Forms-namnområdet har klasser som beskriver formulär och olika typer av fält som textruta, listbox, radioknapp etc.
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.forms/

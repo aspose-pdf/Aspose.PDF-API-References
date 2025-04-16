@@ -1,7 +1,7 @@
 ---
 title: Class DestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DestinationCollection. Класс представляет собой коллекцию всех назначений (дерево имен, сопоставляющее строковые имена с назначениями, см. 12.3.2.3 "Названные назначения" и см. 7.7.4 "Словарь имен") в документе pdf.
+description: Класс Aspose.Pdf.DestinationCollection. Класс представляет собой коллекцию всех назначений - дерево имен, сопоставляющее строковые имена с назначениями, см. 12.3.2.3 "Названные назначения" и см. 7.7.4 "Словарь имен" - в документе pdf.
 type: docs
 weight: 3510
 url: /ru/net/aspose.pdf/destinationcollection/

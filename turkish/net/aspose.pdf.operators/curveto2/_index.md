@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo2
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo2 sınıfı. Y operatörünü temsil eden sınıf (yola eğri ekle, son nokta kopyalandı).
+description: Aspose.Pdf.Operators.CurveTo2 sınıfı. Y operatörünü temsil eden sınıf - yola eğri ekle, son nokta kopyalandı.
 type: docs
 weight: 7260
 url: /tr/net/aspose.pdf.operators/curveto2/

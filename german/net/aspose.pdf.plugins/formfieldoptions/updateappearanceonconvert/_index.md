@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UpdateAppearanceOnConvert
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld das Erscheinungsbild beim Konvertieren aktualisiert oder nicht (wenn es gesetzt wird).
+description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld das Erscheinungsbild beim Konvertieren aktualisiert oder nicht.
 type: docs
 weight: 170
 url: /de/net/aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/

@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldSetOptions.SpellCheck
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormTextBoxFieldSetOptions. Получает/устанавливает значение для определения свойства SpellCheck для измененного поля (если будет установлено).
+description: Свойство FormTextBoxFieldSetOptions. Получает/устанавливает значение для определения свойства SpellCheck для измененного поля.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldsetoptions/spellcheck/

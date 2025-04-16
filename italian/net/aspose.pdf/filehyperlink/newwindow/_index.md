@@ -1,7 +1,7 @@
 ---
 title: FileHyperlink.NewWindow
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileHyperlink. Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra (riguarda solo i documenti PDF)
+description: Proprietà FileHyperlink. Ottiene o imposta un flag che specifica se aprire il documento di destinazione in una nuova finestra
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/filehyperlink/newwindow/

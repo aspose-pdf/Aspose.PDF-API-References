@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldSetOptions.MaxLen
 second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions özelliği. Değiştirilen alan için MaxLen özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormTextBoxFieldSetOptions özelliği. Değiştirilen alan için MaxLen özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.plugins/formtextboxfieldsetoptions/maxlen/

@@ -1,7 +1,7 @@
 ---
 title: OptimizationOptions.All
 second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions metodu. Tüm seçenekler etkinleştirilmiş optimizasyon stratejisi oluşturur. Lütfen yalnızca belgenin işlevselliğini değiştirmeyen seçeneklerin etkinleştirildiğini unutmayın. Yani, resim sıkıştırma ve yazı tiplerinin ayrıştırılması etkinleştirilmeyecek (ve manuel olarak gömülebilir).
+description: OptimizationOptions metodu. Tüm seçenekler etkinleştirilmiş optimizasyon stratejisi oluşturur. Lütfen yalnızca belgenin işlevselliğini değiştirmeyen seçeneklerin etkinleştirildiğini unutmayın. Yani, resim sıkıştırma ve yazı tiplerinin ayrıştırılması etkinleştirilmeyecek - ve manuel olarak gömülebilir.
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.optimization/optimizationoptions/all/

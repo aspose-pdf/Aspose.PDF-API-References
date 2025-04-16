@@ -1,7 +1,7 @@
 ---
 title: Class CgmImportOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CgmImportOptions-Klasse. Importoption für den Import aus dem Computer Graphics Metafile (CGM)-Format
+description: Aspose.Pdf.CgmImportOptions-Klasse. Importoption für den Import aus dem Computer Graphics Metafile Format
 type: docs
 weight: 3000
 url: /de/net/aspose.pdf/cgmimportoptions/

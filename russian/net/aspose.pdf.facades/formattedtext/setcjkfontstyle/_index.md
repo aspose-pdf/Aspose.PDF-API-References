@@ -1,7 +1,7 @@
 ---
 title: FormattedText.SetCjkFontStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Метод FormattedText. Изменяет стиль шрифта FormattedText для шрифта CJK (китайский, японский или корейский)
+description: Метод FormattedText. Изменяет стиль шрифта FormattedText для шрифта CJK - китайский, японский или корейский.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/formattedtext/setcjkfontstyle/

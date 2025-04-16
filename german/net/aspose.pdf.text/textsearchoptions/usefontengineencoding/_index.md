@@ -1,7 +1,7 @@
 ---
 title: TextSearchOptions.UseFontEngineEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions-Eigenschaft. Gibt an, dass der Text mit der Schriftarten-Engine-Codierung durchsucht wird. true bedeutet, dass die Schriftarten-Engine-Codierung verwendet wird (versuchen Sie dies, wenn die Textsuche aufgrund unvollständiger Codierung im Dokument fehlschlägt) false bedeutet, dass die Dokumentschriftarten-Codierung verwendet wird (Standardwert)
+description: TextSearchOptions-Eigenschaft. Gibt an, dass der Text mit der Schriftarten-Engine-Codierung durchsucht wird. true bedeutet, dass die Schriftarten-Engine-Codierung verwendet wird false bedeutet, dass die Dokumentschriftarten-Codierung verwendet wird
 type: docs
 weight: 110
 url: /de/net/aspose.pdf.text/textsearchoptions/usefontengineencoding/

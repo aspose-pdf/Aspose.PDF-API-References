@@ -1,7 +1,7 @@
 ---
 title: Enum LoadOptions.MarginsAreaUsageModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Dönüşüm sırasında kenar boşluğu alanının kullanım modunu temsil eder (HTML, EPUB vb. gibi), kenar boşluklarının kullanımıyla ilgili olarak içe aktarılan formatın talimatlarının işlenmesini tanımlar.
+description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Dönüşüm sırasında kenar boşluğu alanının kullanım modunu temsil eder, kenar boşluklarının kullanımıyla ilgili olarak içe aktarılan formatın talimatlarının işlenmesini tanımlar.
 type: docs
 weight: 6130
 url: /tr/net/aspose.pdf/loadoptions.marginsareausagemodes/

@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.MarginInfo.RightMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo alanı. Sağ sayfa kenar boşluğunu temsil eder (varsa)
+description: MarginInfo alanı. Sağ sayfa kenar boşluğunu temsil eder
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf/saveoptions.margininfo/rightmarginifany/

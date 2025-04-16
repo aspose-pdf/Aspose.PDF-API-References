@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Name
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için Name özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için Name özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 120
 url: /tr/net/aspose.pdf.plugins/formfieldoptions/name/

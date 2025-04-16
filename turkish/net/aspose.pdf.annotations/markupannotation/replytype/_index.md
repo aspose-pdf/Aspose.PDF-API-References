@@ -1,7 +1,7 @@
 ---
 title: MarkupAnnotation.ReplyType
 second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation özelliği. Bu anotasyon ile InReplyTo tarafından belirtilen bir anotasyon arasındaki ilişkiyi belirten bir dize (cevap türü).
+description: MarkupAnnotation özelliği. Bu anotasyon ile InReplyTo tarafından belirtilen bir anotasyon arasındaki ilişkiyi belirten bir dize - cevap türü.
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.annotations/markupannotation/replytype/

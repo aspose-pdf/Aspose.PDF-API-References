@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad HtmlSaveOptions. Obtiene o establece el indicador que indica si los gráficos SVG encontrados (si los hay) serán comprimidos (zip) en formato SVGZ durante el guardado
+description: Propiedad HtmlSaveOptions. Obtiene o establece el indicador que indica si los gráficos SVG encontrados serán comprimidos en formato SVGZ durante el guardado
 type: docs
 weight: 30
 url: /es/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/

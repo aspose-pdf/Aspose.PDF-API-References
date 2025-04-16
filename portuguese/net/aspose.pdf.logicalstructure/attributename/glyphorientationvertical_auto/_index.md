@@ -1,7 +1,7 @@
 ---
 title: AttributeName.GlyphOrientationVertical_Auto
 second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Atributo GlyphOrientationVertical Auto Especifica uma orientação padrão para o texto, dependendo se é fullwidth (tão largo quanto alto)
+description: Campo AttributeName. Atributo GlyphOrientationVertical Auto Especifica uma orientação padrão para o texto, dependendo se é fullwidth.
 type: docs
 weight: 180
 url: /pt/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/

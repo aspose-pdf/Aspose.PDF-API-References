@@ -1,7 +1,7 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
 second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor QueueItem. Konstruktor secara default menentukan subtable mac(1,0)
+description: Konstruktor QueueItem. Konstruktor secara default menentukan subtable mac
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/

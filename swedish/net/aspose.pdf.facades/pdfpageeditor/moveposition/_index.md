@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-metod. Flyttar ursprunget från 0 0 till den angivna punkten. Ursprunget är vänster-nederst och enheten är punkt(1 tum = 72 punkter).
+description: PdfPageEditor-metod. Flyttar ursprunget från 0 0 till den angivna punkten. Ursprunget är vänster-nederst och enheten är punkt - 1 tum = 72 punkter.
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/moveposition/

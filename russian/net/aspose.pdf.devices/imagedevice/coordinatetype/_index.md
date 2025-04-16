@@ -1,7 +1,7 @@
 ---
 title: ImageDevice.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDevice. Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию
+description: Свойство ImageDevice. Получает или задает тип координат страницы. Значение CropBox используется по умолчанию
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/imagedevice/coordinatetype/

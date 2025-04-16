@@ -1,7 +1,7 @@
 ---
 title: BarcodeField.ECC
 second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField özelliği. Hata düzeltme katsayısını temsil eden bir tam sayı değeri alır. PDF417 için 0 ile 8 arasında olmalıdır. QRCode için 0 ile 3 arasında olmalıdır (0 'L' için, 1 'M' için, 2 'Q' için ve 3 'H' için).
+description: BarcodeField özelliği. Hata düzeltme katsayısını temsil eden bir tam sayı değeri alır. PDF417 için 0 ile 8 arasında olmalıdır. QRCode için 0 ile 3 arasında olmalıdır.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.forms/barcodefield/ecc/

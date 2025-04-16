@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnTransform
 second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Mengubah kembali x1 dan y1 dan mengembalikan x dan y sebelum transformasi matriks menggunakan rumus berikut x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
+description: Metode Matrix. Mengubah kembali x1 dan y1 dan mengembalikan x dan y sebelum transformasi matriks menggunakan rumus berikut x = D * x1 - C * y1 + C * F / A * D - C * B; y = A * y1 - B * x1 + B * E / A * D - C * B.
 type: docs
 weight: 230
 url: /id/net/aspose.pdf/matrix/untransform/

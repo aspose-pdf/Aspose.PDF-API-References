@@ -1,7 +1,7 @@
 ---
 title: PdfAConvertOptions.Outputs
 second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAConvertOptions. Mendapatkan koleksi sumber data target yang ditambahkan (file atau stream) untuk hasil operasi penyimpanan
+description: Properti PdfAConvertOptions. Mendapatkan koleksi sumber data target yang ditambahkan untuk hasil operasi penyimpanan
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/

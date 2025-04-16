@@ -1,7 +1,7 @@
 ---
 title: Enum PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy 列挙型。一部の PDF ドキュメントには、プライベート ユース エリア (PUA) に属する特別な Unicode シンボルがあります。詳細については、https//en.wikipedia.org/wiki/Private_Use_Areas を参照してください。これらのシンボルは、「テキストが Unicode プライベート ユース エリアにマッピングされていますが、ActualText エントリが存在しません」といった PDF/A 準拠のエラーを引き起こします。この列挙型は、PUA シンボルを処理するために使用できる戦略を宣言します。
+description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy 列挙型。一部の PDF ドキュメントには、プライベート ユース エリア （PUA） に属する特別な Unicode シンボルがあります。詳細については、https//en.wikipedia.org/wiki/Private_Use_Areas を参照してください。これらのシンボルは、「テキストが Unicode プライベート ユース エリアにマッピングされていますが、ActualText エントリが存在しません」といった PDF/A 準拠のエラーを引き起こします。この列挙型は、PUA シンボルを処理するために使用できる戦略を宣言します。
 type: docs
 weight: 8390
 url: /ja/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/

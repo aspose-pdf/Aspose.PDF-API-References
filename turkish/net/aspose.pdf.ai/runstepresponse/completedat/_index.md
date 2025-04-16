@@ -1,7 +1,7 @@
 ---
 title: RunStepResponse.CompletedAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse özelliği. Çalışma adımının tamamlandığı zaman için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: RunStepResponse özelliği. Çalışma adımının tamamlandığı zaman için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.ai/runstepresponse/completedat/

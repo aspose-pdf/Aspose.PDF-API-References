@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters 클래스. 페이지 크기 조정 매개변수를 지정하는 클래스. 다음 매개변수를 설정할 수 있습니다: 결과 페이지의 크기(너비, 높이) 기본 공간 단위 또는 초기 페이지 크기의 백분율; 기본 공간 단위 또는 초기 페이지 크기의 백분율로 왼쪽, 위, 아래 및 오른쪽 여백; 일부 값은 자동 계산을 위해 null로 남길 수 있습니다. 이러한 값은 명시적으로 지정된 값의 계산 후 나머지 페이지 크기에서 계산됩니다. 예를 들어, 페이지 너비가 100이고 새 페이지 너비가 60으로 지정되면 왼쪽 및 오른쪽 여백은 자동으로 계산됩니다: (100 - 60) / 2 = 15. 이 클래스는 ResizeContents 메서드에서 사용됩니다.
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters 클래스. 페이지 크기 조정 매개변수를 지정하는 클래스. 다음 매개변수를 설정할 수 있습니다: 결과 페이지의 크기（너비, 높이） 기본 공간 단위 또는 초기 페이지 크기의 백분율; 기본 공간 단위 또는 초기 페이지 크기의 백분율로 왼쪽, 위, 아래 및 오른쪽 여백; 일부 값은 자동 계산을 위해 null로 남길 수 있습니다. 이러한 값은 명시적으로 지정된 값의 계산 후 나머지 페이지 크기에서 계산됩니다. 예를 들어, 페이지 너비가 100이고 새 페이지 너비가 60으로 지정되면 왼쪽 및 오른쪽 여백은 자동으로 계산됩니다: （100 - 60） / 2 = 15. 이 클래스는 ResizeContents 메서드에서 사용됩니다.
 type: docs
 weight: 4480
 url: /ko/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

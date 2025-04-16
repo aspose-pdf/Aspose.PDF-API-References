@@ -1,7 +1,7 @@
 ---
 title: Class SetLineWidth
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetLineWidth. Класс, представляющий оператор w (установить ширину линии)
+description: Класс Aspose.Pdf.Operators.SetLineWidth. Класс, представляющий оператор w - установить ширину линии.
 type: docs
 weight: 7770
 url: /ru/net/aspose.pdf.operators/setlinewidth/

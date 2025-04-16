@@ -1,7 +1,7 @@
 ---
 title: TextEditOptions.AllowLanguageTransformation
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade TextEditOptions. Obtém ou define o valor que permite o uso de transformação de linguagem durante a adição ou edição de texto. true - a transformação de linguagem será aplicada se necessário (valor padrão). false - a transformação de linguagem NÃO será aplicada.
+description: Propriedade TextEditOptions. Obtém ou define o valor que permite o uso de transformação de linguagem durante a adição ou edição de texto. true - a transformação de linguagem será aplicada se necessário. false - a transformação de linguagem NÃO será aplicada.
 type: docs
 weight: 20
 url: /pt/net/aspose.pdf.text/texteditoptions/allowlanguagetransformation/

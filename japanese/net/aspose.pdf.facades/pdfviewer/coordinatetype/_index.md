@@ -1,7 +1,7 @@
 ---
 title: PdfViewer.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。ページ座標タイプ (メディア/クロップボックス) を取得または設定します。デフォルトでは CropBox 値が使用されます。
+description: PdfViewer プロパティ。ページ座標タイプ （メディア/クロップボックス） を取得または設定します。デフォルトでは CropBox 値が使用されます。
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdfviewer/coordinatetype/

@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters クラス。ページのリサイズパラメータを指定するためのクラス。次のパラメータを設定できます。結果ページのサイズ（幅、高さ）をデフォルトの空間単位または初期ページサイズのパーセントで指定します。左、上、下、右のマージンをデフォルトの空間単位または初期ページサイズのパーセントで指定します。一部の値は自動計算のために null のままにすることができます。これらの値は、明示的に指定された値の計算後にページサイズの残りから計算されます。たとえば、ページの幅が 100 で、新しいページの幅が 60 単位と指定された場合、左と右のマージンは自動的に計算されます：(100 - 60) / 2 = 15。このクラスは ResizeContents メソッドで使用されます。
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters クラス。ページのリサイズパラメータを指定するためのクラス。次のパラメータを設定できます。結果ページのサイズ（幅、高さ）をデフォルトの空間単位または初期ページサイズのパーセントで指定します。左、上、下、右のマージンをデフォルトの空間単位または初期ページサイズのパーセントで指定します。一部の値は自動計算のために null のままにすることができます。これらの値は、明示的に指定された値の計算後にページサイズの残りから計算されます。たとえば、ページの幅が 100 で、新しいページの幅が 60 単位と指定された場合、左と右のマージンは自動的に計算されます：（100 - 60） / 2 = 15。このクラスは ResizeContents メソッドで使用されます。
 type: docs
 weight: 4480
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

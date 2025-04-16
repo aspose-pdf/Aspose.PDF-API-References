@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.MinFontSize
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad FormFieldOptions. Obtiene/establece el valor para determinar la propiedad MinFontSize para el campo creado/modificado (si se establecerá).
+description: Propiedad FormFieldOptions. Obtiene/establece el valor para determinar la propiedad MinFontSize para el campo creado/modificado, si se establecerá.
 type: docs
 weight: 110
 url: /es/net/aspose.pdf.plugins/formfieldoptions/minfontsize/

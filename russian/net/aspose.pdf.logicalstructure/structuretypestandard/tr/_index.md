@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.TR
 second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Строка таблицы. Строка заголовков или данных в таблице. Она может содержать ячейки заголовка таблицы и ячейки данных таблицы (типы структуры TH и TD).
+description: Поле StructureTypeStandard. Строка таблицы. Строка заголовков или данных в таблице. Она может содержать ячейки заголовка таблицы и ячейки данных таблицы.
 type: docs
 weight: 460
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/tr/

@@ -1,7 +1,7 @@
 ---
 title: OutlineItemCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-Eigenschaft. Gibt den Wert an, der angibt, ob der Zugriff auf diese Sammlung synchronisiert (thread-sicher) ist.
+description: OutlineItemCollection-Eigenschaft. Gibt den Wert an, der angibt, ob der Zugriff auf diese Sammlung synchronisiert ist.
 type: docs
 weight: 100
 url: /de/net/aspose.pdf/outlineitemcollection/issynchronized/

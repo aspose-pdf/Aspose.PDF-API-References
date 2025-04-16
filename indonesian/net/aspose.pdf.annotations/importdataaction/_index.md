@@ -1,7 +1,7 @@
 ---
 title: Class ImportDataAction
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.ImportDataAction. Setelah pemanggilan aksi importdata, data Format Data Form (FDF) akan diimpor ke dalam formulir interaktif dokumen dari file yang ditentukan.
+description: Kelas Aspose.Pdf.Annotations.ImportDataAction. Setelah pemanggilan aksi importdata, data Format Data Form akan diimpor ke dalam formulir interaktif dokumen dari file yang ditentukan.
 type: docs
 weight: 1910
 url: /id/net/aspose.pdf.annotations/importdataaction/

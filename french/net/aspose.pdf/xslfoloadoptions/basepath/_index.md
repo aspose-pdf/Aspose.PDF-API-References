@@ -1,7 +1,7 @@
 ---
 title: XslFoLoadOptions.BasePath
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété XslFoLoadOptions. Le chemin/url de base à partir duquel sont recherchés les chemins relatifs vers les ressources externes (s'il y en a) référencées dans le fichier SVG chargé
+description: Propriété XslFoLoadOptions. Le chemin/url de base à partir duquel sont recherchés les chemins relatifs vers les ressources externes référencées dans le fichier SVG chargé
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/xslfoloadoptions/basepath/

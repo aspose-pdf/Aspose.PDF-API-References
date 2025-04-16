@@ -1,7 +1,7 @@
 ---
 title: Enum PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy. Некоторые PDF-документы содержат специальные символы юникода, которые принадлежат области частного использования (PUA), см. описание на https//en.wikipedia.org/wiki/Private_Use_Areas. Эти символы вызывают ошибки соответствия PDF/A, такие как "Текст сопоставлен с областью частного использования юникода, но запись ActualText отсутствует". Эта перечисление объявляет стратегии, которые могут быть использованы для обработки символов PUA.
+description: Enum Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy. Некоторые PDF-документы содержат специальные символы юникода, которые принадлежат области частного использования - PUA, см. описание на https//en.wikipedia.org/wiki/Private_Use_Areas. Эти символы вызывают ошибки соответствия PDF/A, такие как "Текст сопоставлен с областью частного использования юникода, но запись ActualText отсутствует". Эта перечисление объявляет стратегии, которые могут быть использованы для обработки символов PUA.
 type: docs
 weight: 8390
 url: /ru/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/

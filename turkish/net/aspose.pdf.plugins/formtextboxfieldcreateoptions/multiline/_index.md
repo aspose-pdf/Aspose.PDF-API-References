@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.Multiline
 second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions özelliği. Oluşturulan TextBoxField'ın çok satırlı olup olmadığını belirlemek için değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormTextBoxFieldCreateOptions özelliği. Oluşturulan TextBoxField'ın çok satırlı olup olmadığını belirlemek için değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/

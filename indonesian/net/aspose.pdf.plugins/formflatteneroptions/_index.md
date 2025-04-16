@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenerOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormFlattenerOptions. Kelas dasar untuk kelas opsi untuk meratakan bidang (bukan anotasi) dalam dokumen oleh plugin FormFlattener
+description: Kelas Aspose.Pdf.Plugins.FormFlattenerOptions. Kelas dasar untuk kelas opsi untuk meratakan bidang dalam dokumen oleh plugin FormFlattener
 type: docs
 weight: 8760
 url: /id/net/aspose.pdf.plugins/formflatteneroptions/

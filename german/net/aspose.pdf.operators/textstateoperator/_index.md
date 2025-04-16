@@ -1,7 +1,7 @@
 ---
 title: Class TextStateOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextStateOperator-Klasse. Abstrakte Basisklasse für Operatoren, die den aktuellen Textzustand ändern (Tc, Tf, TL usw.)
+description: Aspose.Pdf.Operators.TextStateOperator-Klasse. Abstrakte Basisklasse für Operatoren, die den aktuellen Textzustand ändern.
 type: docs
 weight: 7930
 url: /de/net/aspose.pdf.operators/textstateoperator/

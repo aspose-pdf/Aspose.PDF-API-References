@@ -1,7 +1,7 @@
 ---
 title: Class HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo-Klasse. Wenn die SplitToPages-Eigenschaft von HtmlSaveOptions gesetzt ist, werden während der Konvertierung von PDF zu HTML mehrere HTML-Dateien (eine HTML-Datei pro konvertierter Seite) erstellt. Diese Klasse stellt eine Menge von Daten dar, die mit dem benutzerdefinierten Speichern des Markups einer HTML-Seite während der Konvertierung von PDF zu HTML verbunden sind.
+description: Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo-Klasse. Wenn die SplitToPages-Eigenschaft von HtmlSaveOptions gesetzt ist, werden während der Konvertierung von PDF zu HTML mehrere HTML-Dateien erstellt. Diese Klasse stellt eine Menge von Daten dar, die mit dem benutzerdefinierten Speichern des Markups einer HTML-Seite während der Konvertierung von PDF zu HTML verbunden sind.
 type: docs
 weight: 5670
 url: /de/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/

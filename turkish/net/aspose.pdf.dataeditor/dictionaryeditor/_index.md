@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.DictionaryEditor sınıfı. Bir belgenin ağaç sözlüğüne (belge sözlüğü, sayfa sözlüğü, kaynaklar sözlüğü) erişim için bir sınıf.
+description: Aspose.Pdf.DataEditor.DictionaryEditor sınıfı. Bir belgenin ağaç sözlüğüne erişim için bir sınıf.
 type: docs
 weight: 3470
 url: /tr/net/aspose.pdf.dataeditor/dictionaryeditor/

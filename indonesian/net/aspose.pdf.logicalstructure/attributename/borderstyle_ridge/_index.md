@@ -1,7 +1,7 @@
 ---
 title: AttributeName.BorderStyle_Ridge
 second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Gaya Border Attribute Ridge  Border terlihat seolah-olah keluar dari kanvas (kebalikan dari Groove)
+description: Bidang AttributeName. Gaya Border Attribute Ridge  Border terlihat seolah-olah keluar dari kanvas
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeCategory.ILSEs
 second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeCategory. Элементы структуры уровня инлайн (ILSEs) описывают расположение контента внутри BLSE, движущегося в направлении инлайн-прогрессии.
+description: Поле StructureTypeCategory. Элементы структуры уровня инлайн ILSEs описывают расположение контента внутри BLSE, движущегося в направлении инлайн-прогрессии.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/

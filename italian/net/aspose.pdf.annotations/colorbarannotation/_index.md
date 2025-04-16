@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.ColorBarAnnotation. Classe che rappresenta l'annotazione ColorBarAnnotation. Proprietà Color ignorata, invece si utilizza il colore ColorsOfCMYK. Alla creazione, il rapporto tra larghezza e altezza determina l'orientamento dell'annotazione - orizzontale o verticale. Successivamente verifica che il rettangolo dell'annotazione sia al di fuori del TrimBox e, se non lo è, viene spostato nella posizione più vicina al di fuori del TrimBox, tenendo conto dell'orientamento dell'annotazione. È possibile ridurre la larghezza (altezza) in modo che l'annotazione si adatti al di fuori del TrimBox. Se non c'è spazio per il layout, la larghezza/altezza può essere impostata su zero (in questo caso, l'annotazione è presente sulla pagina, ma non viene visualizzata).
+description: Classe Aspose.Pdf.Annotations.ColorBarAnnotation. Classe che rappresenta l'annotazione ColorBarAnnotation. Proprietà Color ignorata, invece si utilizza il colore ColorsOfCMYK. Alla creazione, il rapporto tra larghezza e altezza determina l'orientamento dell'annotazione - orizzontale o verticale. Successivamente verifica che il rettangolo dell'annotazione sia al di fuori del TrimBox e, se non lo è, viene spostato nella posizione più vicina al di fuori del TrimBox, tenendo conto dell'orientamento dell'annotazione. È possibile ridurre la larghezza in modo che l'annotazione si adatti al di fuori del TrimBox. Se non c'è spazio per il layout, la larghezza/altezza può essere impostata su zero.
 type: docs
 weight: 1600
 url: /it/net/aspose.pdf.annotations/colorbarannotation/

@@ -1,7 +1,7 @@
 ---
 title: AttributeName.BorderStyle_Ridge
 second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Estilo de borde Attribute Ridge. El borde parece estar saliendo del lienzo (lo opuesto a Groove).
+description: Campo AttributeName. Estilo de borde Attribute Ridge. El borde parece estar saliendo del lienzo - lo opuesto a Groove.
 type: docs
 weight: 130
 url: /es/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/

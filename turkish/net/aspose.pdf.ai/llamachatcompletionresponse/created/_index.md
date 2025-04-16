@@ -1,7 +1,7 @@
 ---
 title: LlamaChatCompletionResponse.Created
 second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse özelliği. Sohbet tamamlamasının oluşturulduğu Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: LlamaChatCompletionResponse özelliği. Sohbet tamamlamasının oluşturulduğu Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.ai/llamachatcompletionresponse/created/

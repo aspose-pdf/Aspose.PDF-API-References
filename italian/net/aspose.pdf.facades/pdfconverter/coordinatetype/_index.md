@@ -1,7 +1,7 @@
 ---
 title: PdfConverter.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfConverter. Ottiene o imposta il tipo di coordinate della pagina (Media/Crop boxes). Il valore CropBox è utilizzato per impostazione predefinita
+description: Proprietà di PdfConverter. Ottiene o imposta il tipo di coordinate della pagina. Il valore CropBox è utilizzato per impostazione predefinita
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdfconverter/coordinatetype/

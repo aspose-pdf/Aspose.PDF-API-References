@@ -1,7 +1,7 @@
 ---
 title: FloatingBox.BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in bakgrundsbild för sidan (endast för generator, inte ifylld vid läsning av dokument).
+description: FloatingBox-egenskap. Hämtar eller ställer in bakgrundsbild för sidan. endast för generator, inte ifylld vid läsning av dokument.
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/floatingbox/backgroundimage/

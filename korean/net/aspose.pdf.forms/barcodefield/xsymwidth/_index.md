@@ -1,7 +1,7 @@
 ---
 title: BarcodeField.XSymWidth
 second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField 속성. 두 바코드 모듈 간의 수평 거리(픽셀 단위)를 가져옵니다.
+description: BarcodeField 속성. 두 바코드 모듈 간의 수평 거리（픽셀 단위）를 가져옵니다.
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.forms/barcodefield/xsymwidth/

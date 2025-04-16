@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Der Aspose.Pdf.Forms-Namespace enthält Klassen, die Formulare (standard, statisch, dynamisch) und verschiedene Arten von Feldern wie Textfeld, Listenfeld, Optionsfeld usw. beschreiben.
+description: Der Aspose.Pdf.Forms-Namespace enthält Klassen, die Formulare und verschiedene Arten von Feldern wie Textfeld, Listenfeld, Optionsfeld usw. beschreiben.
 type: docs
 weight: 110
 url: /de/net/aspose.pdf.forms/

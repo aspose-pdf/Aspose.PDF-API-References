@@ -1,7 +1,7 @@
 ---
 title: Stamp.Rotate
 second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Sätter eller hämtar rotationen av stämpelinnehåll enligt rotationsvärden. Observera. Denna egenskap är för inställda vinklar som är multiplar av 90 grader (0, 90, 180, 270 grader). För att ställa in en godtycklig vinkel, använd egenskapen RotateAngle. Om vinkeln som ställs in av ArbitraryAngle inte är en multipel av 90, returnerar Rotate-egenskapen Rotation.None.
+description: Stamp-egenskap. Sätter eller hämtar rotationen av stämpelinnehåll enligt rotationsvärden. Observera. Denna egenskap är för inställda vinklar som är multiplar av 90 grader - 0, 90, 180, 270 grader. För att ställa in en godtycklig vinkel, använd egenskapen RotateAngle. Om vinkeln som ställs in av ArbitraryAngle inte är en multipel av 90, returnerar Rotate-egenskapen Rotation.None.
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/stamp/rotate/

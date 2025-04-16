@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.Justification
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FreeTextAnnotation. Ottiene o imposta un codice che specifica la forma di giustificazione (quadding) da utilizzare nella visualizzazione del testo delle annotazioni
+description: Proprietà FreeTextAnnotation. Ottiene o imposta un codice che specifica la forma di giustificazione da utilizzare nella visualizzazione del testo delle annotazioni
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/freetextannotation/justification/

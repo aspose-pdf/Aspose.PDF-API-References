@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.Justification
 second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation özelliği. Açıklama metninin görüntülenmesinde kullanılacak olan quadding (hizalama) biçimini belirten bir kod alır veya ayarlar.
+description: FreeTextAnnotation özelliği. Açıklama metninin görüntülenmesinde kullanılacak olan quadding biçimini belirten bir kod alır veya ayarlar.
 type: docs
 weight: 90
 url: /tr/net/aspose.pdf.annotations/freetextannotation/justification/

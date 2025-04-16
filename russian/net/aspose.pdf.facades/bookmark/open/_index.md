@@ -1,7 +1,7 @@
 ---
 title: Bookmark.Open
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает состояние закладки (открыто, закрыто)
+description: Свойство закладки. Получает или устанавливает состояние закладки: открыто / закрыто.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/bookmark/open/

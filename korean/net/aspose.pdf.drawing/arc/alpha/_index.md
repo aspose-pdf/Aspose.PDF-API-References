@@ -1,7 +1,7 @@
 ---
 title: Arc.Alpha
 second_title: Aspose.PDF for .NET API Reference
-description: Arc 속성. 호의 시작 각도(도)를 나타내는 부동 소수점 값을 가져오거나 설정합니다.
+description: Arc 속성. 호의 시작 각도（도）를 나타내는 부동 소수점 값을 가져오거나 설정합니다.
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.drawing/arc/alpha/

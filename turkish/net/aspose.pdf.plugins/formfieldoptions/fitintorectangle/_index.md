@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.FitIntoRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alanın dikdörtgene uyup uymadığını belirlemek için değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alanın dikdörtgene uyup uymadığını belirlemek için değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.plugins/formfieldoptions/fitintorectangle/

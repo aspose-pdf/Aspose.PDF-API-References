@@ -1,7 +1,7 @@
 ---
 title: SetGlyphsPositionShowText.Text
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetGlyphsPositionShowText. Получает текст из аргумента оператора (позиционирование глифов игнорируется)
+description: Свойство SetGlyphsPositionShowText. Получает текст из аргумента оператора. Позиционирование глифов игнорируется.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setglyphspositionshowtext/text/

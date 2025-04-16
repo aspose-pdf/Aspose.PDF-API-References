@@ -1,7 +1,7 @@
 ---
 title: TextSegment.EndCharIndex
 second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSegment. Mendapatkan indeks karakter akhir dari segmen saat ini dalam operator teks tampil (Tj, TJ) segmen
+description: Properti TextSegment. Mendapatkan indeks karakter akhir dari segmen saat ini dalam operator teks tampil Tj, TJ segmen
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textsegment/endcharindex/

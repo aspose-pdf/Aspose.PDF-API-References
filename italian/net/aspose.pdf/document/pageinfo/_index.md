@@ -1,7 +1,7 @@
 ---
 title: Document.PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta le informazioni sulla pagina. (solo per il generatore, non compilato durante la lettura del documento)
+description: Proprietà del documento. Ottiene o imposta le informazioni sulla pagina. solo per il generatore, non compilato durante la lettura del documento.
 type: docs
 weight: 430
 url: /it/net/aspose.pdf/document/pageinfo/

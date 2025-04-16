@@ -1,7 +1,7 @@
 ---
 title: TextStamp.TreatYIndentAsBaseLine
 second_title: Aspose.PDF for .NET API Reference
-description: TextStamp özelliği. Metin yerleştirmek için koordinat başlangıcını tanımlar. Eğer TreatYIndentAsBaseLine = true (Draw = true olduğunda varsayılan) YIndent değeri metin taban çizgisi olarak kabul edilecektir. Eğer TreatYIndentAsBaseLine = false (Draw = false olduğunda varsayılan) YIndent değeri metnin alt (iniş çizgisi) olarak kabul edilecektir.
+description: TextStamp özelliği. Metin yerleştirmek için koordinat başlangıcını tanımlar. Eğer TreatYIndentAsBaseLine = true YIndent değeri metin taban çizgisi olarak kabul edilecektir. Eğer TreatYIndentAsBaseLine = false YIndent değeri metnin alt olarak kabul edilecektir.
 type: docs
 weight: 140
 url: /tr/net/aspose.pdf/textstamp/treatyindentasbaseline/

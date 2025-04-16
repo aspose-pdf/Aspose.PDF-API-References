@@ -1,7 +1,7 @@
 ---
 title: VectorStoreResponse.LastActiveAt
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse özelliği. Vektör deposunun en son ne zaman aktif olduğunu gösteren Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: VectorStoreResponse özelliği. Vektör deposunun en son ne zaman aktif olduğunu gösteren Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 70
 url: /tr/net/aspose.pdf.ai/vectorstoreresponse/lastactiveat/

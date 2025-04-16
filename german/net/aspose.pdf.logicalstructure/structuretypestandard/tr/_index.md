@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.TR
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-Feld. Tabellenzeile Eine Zeile von Überschriften oder Daten in einer Tabelle. Sie kann Tabellenkopfzellen und Tabellendatenzellen enthalten (Strukturtypen TH und TD).
+description: StructureTypeStandard-Feld. Tabellenzeile Eine Zeile von Überschriften oder Daten in einer Tabelle. Sie kann Tabellenkopfzellen und Tabellendatenzellen enthalten.
 type: docs
 weight: 460
 url: /de/net/aspose.pdf.logicalstructure/structuretypestandard/tr/

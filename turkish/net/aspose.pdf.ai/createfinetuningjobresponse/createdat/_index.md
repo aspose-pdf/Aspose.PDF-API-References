@@ -1,7 +1,7 @@
 ---
 title: CreateFineTuningJobResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse özelliği. İnce ayar işinin oluşturulduğu zamanın Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: CreateFineTuningJobResponse özelliği. İnce ayar işinin oluşturulduğu zamanın Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/

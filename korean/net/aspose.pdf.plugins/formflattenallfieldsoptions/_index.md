@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenAllFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions 클래스. FormFlattener 플러그인을 통해 문서에서 모든 필드(주석 제외)를 평면화하기 위한 옵션을 나타냅니다.
+description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions 클래스. FormFlattener 플러그인을 통해 문서에서 모든 필드（주석 제외）를 평면화하기 위한 옵션을 나타냅니다.
 type: docs
 weight: 8730
 url: /ko/net/aspose.pdf.plugins/formflattenallfieldsoptions/

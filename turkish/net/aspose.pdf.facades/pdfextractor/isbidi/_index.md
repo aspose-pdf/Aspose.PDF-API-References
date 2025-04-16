@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.IsBidi
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor özelliği. Metin İbranice veya Arapça semboller içerdiğinde doğrudur. Bu durum özel olarak dikkate alınmalıdır çünkü dize fonksiyonları davranışlarını değiştirir ve metni sağdan sola işlemeye başlar (sayılar ve diğer metin olmayan karakterler hariç).
+description: PdfExtractor özelliği. Metin İbranice veya Arapça semboller içerdiğinde doğrudur. Bu durum özel olarak dikkate alınmalıdır çünkü dize fonksiyonları davranışlarını değiştirir ve metni sağdan sola işlemeye başlar.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.facades/pdfextractor/isbidi/

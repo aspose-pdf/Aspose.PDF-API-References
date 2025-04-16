@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.MarginPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SaveOptionsMarginPartStyle. Представляет информацию об одной части поля (верх, низ, левая сторона или правая сторона)
+description: Класс Aspose.Pdf.SaveOptionsMarginPartStyle. Представляет информацию об одной части поля - верх, низ, левая сторона или правая сторона.
 type: docs
 weight: 9920
 url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/

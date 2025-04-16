@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.BottomStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-fält. Representerar nederdelen (om någon) av kanten
+description: BorderInfo-fält. Representerar nederdelen av kanten
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/

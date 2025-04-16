@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.PartsEmbeddingMode
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Det definierar huruvida refererade filer (HTML, Typsnitt, Bilder, CSS) kommer att bäddas in i huvud-HTML-filen eller kommer att genereras som separata binära enheter
+description: HtmlSaveOptions-fält. Det definierar huruvida refererade filer kommer att bäddas in i huvud-HTML-filen eller kommer att genereras som separata binära enheter
 type: docs
 weight: 390
 url: /sv/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/

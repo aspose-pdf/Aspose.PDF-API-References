@@ -1,7 +1,7 @@
 ---
 title: Class HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo. Si la propriété SplitToPages de HtmlSaveOptions est activée, plusieurs fichiers HTML (un fichier HTML par page convertie) sont créés lors de la conversion de PDF en HTML. Cette classe représente un ensemble de données liées à l'enregistrement personnalisé du balisage d'une page HTML lors de la conversion de PDF en HTML.
+description: Classe Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo. Si la propriété SplitToPages de HtmlSaveOptions est activée, plusieurs fichiers HTML sont créés lors de la conversion de PDF en HTML. Cette classe représente un ensemble de données liées à l'enregistrement personnalisé du balisage d'une page HTML lors de la conversion de PDF en HTML.
 type: docs
 weight: 5670
 url: /fr/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/

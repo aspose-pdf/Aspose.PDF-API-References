@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters 类。用于指定页面调整大小参数的类。允许设置以下参数：结果页面的大小（宽度、高度），以默认空间单位或初始页面大小的百分比表示；左、上、下和右边距，以默认空间单位或初始页面大小的百分比表示；某些值可以留空以进行自动计算。这些值将在明确指定值后从页面大小的其余部分计算。例如，如果页面宽度为 100，指定的新页面宽度为 60 单位，则左边距和右边距将自动计算为 (100 - 60) / 2 = 15。此类用于 ResizeContents 方法。
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters 类。用于指定页面调整大小参数的类。允许设置以下参数：结果页面的大小（宽度、高度），以默认空间单位或初始页面大小的百分比表示；左、上、下和右边距，以默认空间单位或初始页面大小的百分比表示；某些值可以留空以进行自动计算。这些值将在明确指定值后从页面大小的其余部分计算。此类用于 ResizeContents 方法。
 type: docs
 weight: 4480
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

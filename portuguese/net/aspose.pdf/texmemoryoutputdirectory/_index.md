@@ -1,7 +1,7 @@
 ---
 title: Class TeXMemoryOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TeXMemoryOutputDirectory. Implementa a recuperação de um fluxo de saída da memória. Você pode usá-la, por exemplo, quando não deseja que a saída acompanhante (como um arquivo de log) seja gravada no disco, mas gostaria de lê-la posteriormente da memória.
+description: Classe Aspose.Pdf.TeXMemoryOutputDirectory. Implementa a recuperação de um fluxo de saída da memória. Você pode usá-la, por exemplo, quando não deseja que a saída acompanhante seja gravada no disco, mas gostaria de lê-la posteriormente da memória.
 type: docs
 weight: 10390
 url: /pt/net/aspose.pdf/texmemoryoutputdirectory/

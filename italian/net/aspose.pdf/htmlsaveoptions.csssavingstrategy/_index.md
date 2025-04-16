@@ -1,7 +1,7 @@
 ---
 title: Delegate HtmlSaveOptions.CssSavingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: È possibile assegnare a questa proprietà una strategia personalizzata che implementa l'elaborazione e/o il salvataggio di una parte di CSS che è stata creata durante la conversione da PDF a HTML. In tal caso, l'elaborazione (come il salvataggio su stream o disco) deve essere eseguita in quel codice personalizzato
+description: È possibile assegnare a questa proprietà una strategia personalizzata che implementa l'elaborazione e/o il salvataggio di una parte di CSS che è stata creata durante la conversione da PDF a HTML. In tal caso, l'elaborazione deve essere eseguita in quel codice personalizzato
 type: docs
 weight: 5590
 url: /it/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/

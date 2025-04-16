@@ -1,7 +1,7 @@
 ---
 title: Form.XFA
 second_title: Aspose.PDF for .NET API Reference
-description: Form özelliği. Formun XFA verilerini alır (varsa)
+description: Form özelliği. Formun XFA verilerini alır
 type: docs
 weight: 170
 url: /tr/net/aspose.pdf.forms/form/xfa/

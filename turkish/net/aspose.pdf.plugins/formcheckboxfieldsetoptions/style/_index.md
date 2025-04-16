@@ -1,7 +1,7 @@
 ---
 title: FormCheckBoxFieldSetOptions.Style
 second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions özelliği. Değiştirilen alan için BoxStyle özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormCheckBoxFieldSetOptions özelliği. Değiştirilen alan için BoxStyle özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/style/

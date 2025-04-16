@@ -1,7 +1,7 @@
 ---
 title: TextSearchOptions.IgnoreShadowText
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextSearchOptions. Ottiene o imposta l'indicazione che i frammenti di testo che rappresentano l'ombra del testo normale saranno ignorati durante la ricerca. true significa che il testo ombra non sarà trovato (prova questo se la ricerca di testo restituisce frammenti duplicati in posizioni vicine) false significa che il testo ombra sarà trovato così come il testo normale (valore predefinito)
+description: Proprietà TextSearchOptions. Ottiene o imposta l'indicazione che i frammenti di testo che rappresentano l'ombra del testo normale saranno ignorati durante la ricerca. true significa che il testo ombra non sarà trovato false significa che il testo ombra sarà trovato così come il testo normale
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/textsearchoptions/ignoreshadowtext/

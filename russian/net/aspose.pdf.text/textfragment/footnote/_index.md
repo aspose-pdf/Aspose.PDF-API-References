@@ -1,7 +1,7 @@
 ---
 title: TextFragment.FootNote
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает сноску абзаца. (только для генерации pdf)
+description: Свойство TextFragment. Получает или устанавливает сноску абзаца.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragment/footnote/

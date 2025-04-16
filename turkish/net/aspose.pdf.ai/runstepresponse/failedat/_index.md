@@ -1,7 +1,7 @@
 ---
 title: RunStepResponse.FailedAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse özelliği. Çalışma adımının başarısız olduğu zamanın Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: RunStepResponse özelliği. Çalışma adımının başarısız olduğu zamanın Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 70
 url: /tr/net/aspose.pdf.ai/runstepresponse/failedat/

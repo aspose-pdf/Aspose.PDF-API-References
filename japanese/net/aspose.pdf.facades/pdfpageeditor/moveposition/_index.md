@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor メソッド。原点を (0, 0) から指定された点に移動します。原点は左下で、単位はポイント（1 インチ = 72 ポイント）です。
+description: PdfPageEditor メソッド。原点を （0, 0） から指定された点に移動します。原点は左下で、単位はポイント（1 インチ = 72 ポイント）です。
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/moveposition/

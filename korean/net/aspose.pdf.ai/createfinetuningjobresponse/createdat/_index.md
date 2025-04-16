@@ -1,7 +1,7 @@
 ---
 title: CreateFineTuningJobResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse 속성. 파인튜닝 작업이 생성된 Unix 타임스탬프(초 단위)를 가져오거나 설정합니다.
+description: CreateFineTuningJobResponse 속성. 파인튜닝 작업이 생성된 Unix 타임스탬프（초 단위）를 가져오거나 설정합니다.
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/

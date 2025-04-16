@@ -1,7 +1,7 @@
 ---
 title: Matrix3D.GetAngle
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D 메서드. 회전을 각도(도)로 변환합니다.
+description: Matrix3D 메서드. 회전을 각도（도）로 변환합니다.
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf/matrix3d/getangle/

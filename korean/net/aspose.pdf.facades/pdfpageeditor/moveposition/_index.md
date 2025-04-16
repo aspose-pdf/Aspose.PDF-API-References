@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 메서드. 원점을 (0, 0)에서 지정된 점으로 이동합니다. 원점은 왼쪽 하단이며 단위는 포인트(1인치 = 72포인트)입니다.
+description: PdfPageEditor 메서드. 원점을 （0, 0）에서 지정된 점으로 이동합니다. 원점은 왼쪽 하단이며 단위는 포인트（1인치 = 72포인트）입니다.
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/moveposition/

@@ -1,7 +1,7 @@
 ---
 title: FormCheckBoxFieldCreateOptions.Checked
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormCheckBoxFieldCreateOptions. Ottiene/imposta il valore per determinare se il CheckboxField creato è selezionato o meno (se sarà impostato).
+description: Proprietà FormCheckBoxFieldCreateOptions. Ottiene/imposta il valore per determinare se il CheckboxField creato è selezionato o meno.
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/checked/

@@ -1,7 +1,7 @@
 ---
 title: Usage.TotalTokens
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'utilisation. Obtient ou définit le nombre total de jetons utilisés dans la demande (invite + complétion)
+description: Propriété d'utilisation. Obtient ou définit le nombre total de jetons utilisés dans la demande invite + complétion
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/usage/totaltokens/

@@ -1,7 +1,7 @@
 ---
 title: PdfAConvertOptions.Outputs
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfAConvertOptions. Obtient la collection des cibles ajoutées (fichiers ou flux de données) pour les résultats des opérations de sauvegarde
+description: Propriété PdfAConvertOptions. Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/

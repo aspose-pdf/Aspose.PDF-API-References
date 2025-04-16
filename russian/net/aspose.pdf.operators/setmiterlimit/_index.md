@@ -1,7 +1,7 @@
 ---
 title: Class SetMiterLimit
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetMiterLimit. Класс, представляющий оператор M (установить предел среза)
+description: Класс Aspose.Pdf.Operators.SetMiterLimit. Класс, представляющий оператор M - установить предел среза.
 type: docs
 weight: 7780
 url: /ru/net/aspose.pdf.operators/setmiterlimit/

@@ -1,7 +1,7 @@
 ---
 title: Class ClosePath
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePath sınıfı. h operatörünü temsil eden sınıf (yolu kapat).
+description: Aspose.Pdf.Operators.ClosePath sınıfı. h operatörünü temsil eden sınıf - yolu kapat.
 type: docs
 weight: 7190
 url: /tr/net/aspose.pdf.operators/closepath/

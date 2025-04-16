@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorSetOptions 클래스. 필드(주석이 아님) 속성을 설정하기 위한 옵션을 나타냅니다.
+description: Aspose.Pdf.Plugins.FormEditorSetOptions 클래스. 필드（주석이 아님） 속성을 설정하기 위한 옵션을 나타냅니다.
 type: docs
 weight: 8660
 url: /ko/net/aspose.pdf.plugins/formeditorsetoptions/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.L
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Lista En sekvens av objekt med liknande betydelse och vikt. Dess omedelbara barn bör vara en valfri bildtext (strukturtyp Caption) följt av en eller flera listobjekt (strukturtyp LI)
+description: StructureTypeStandard-fält. Lista En sekvens av objekt med liknande betydelse och vikt. Dess omedelbara barn bör vara en valfri bildtext - strukturtyp Caption - följt av en eller flera listobjekt - strukturtyp LI.
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/l/

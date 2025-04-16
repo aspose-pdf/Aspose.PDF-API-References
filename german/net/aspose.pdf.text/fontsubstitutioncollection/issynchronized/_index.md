@@ -1,7 +1,7 @@
 ---
 title: FontSubstitutionCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert (thread-sicher) ist.
+description: FontSubstitutionCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert ist.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf.text/fontsubstitutioncollection/issynchronized/

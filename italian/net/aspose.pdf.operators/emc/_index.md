@@ -1,7 +1,7 @@
 ---
 title: Class EMC
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EMC. Classe che rappresenta l'operatore EMC (Fine della sequenza di contenuto marcato)
+description: Classe Aspose.Pdf.Operators.EMC. Classe che rappresenta l'operatore EMC - Fine della sequenza di contenuto marcato.
 type: docs
 weight: 7300
 url: /it/net/aspose.pdf.operators/emc/

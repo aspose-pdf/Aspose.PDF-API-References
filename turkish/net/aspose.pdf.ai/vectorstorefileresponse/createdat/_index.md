@@ -1,7 +1,7 @@
 ---
 title: VectorStoreFileResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse özelliği. Vektör depolama dosyasının oluşturulduğu zaman için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: VectorStoreFileResponse özelliği. Vektör depolama dosyasının oluşturulduğu zaman için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.ai/vectorstorefileresponse/createdat/

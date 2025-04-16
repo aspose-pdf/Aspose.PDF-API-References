@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.CurveTo. Kelas yang mewakili operator c (menambahkan kurva ke jalur)
+description: Kelas Aspose.Pdf.Operators.CurveTo. Kelas yang mewakili operator c. menambahkan kurva ke jalur
 type: docs
 weight: 7240
 url: /id/net/aspose.pdf.operators/curveto/

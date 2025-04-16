@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.RemoveSignatures
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-Eigenschaft. Wenn wahr, werden alle Signaturen aus den Feldern entfernt (Felder bleiben erhalten); andernfalls können Sie ungültige Signaturen erhalten.
+description: PdfFileEditor-Eigenschaft. Wenn wahr, werden alle Signaturen aus den Feldern entfernt; andernfalls können Sie ungültige Signaturen erhalten.
 type: docs
 weight: 190
 url: /de/net/aspose.pdf.facades/pdffileeditor/removesignatures/

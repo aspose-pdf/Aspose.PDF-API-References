@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorSetOptions-Klasse. Stellt Optionen für die Eigenschaften von Feldern (nicht Anmerkungen) bereit
+description: Aspose.Pdf.Plugins.FormEditorSetOptions-Klasse. Stellt Optionen für die Eigenschaften von Feldern bereit
 type: docs
 weight: 8660
 url: /de/net/aspose.pdf.plugins/formeditorsetoptions/

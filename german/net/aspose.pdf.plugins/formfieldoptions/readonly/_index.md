@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.ReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld schreibgeschützt ist oder nicht (wenn es gesetzt wird).
+description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld schreibgeschützt ist oder nicht.
 type: docs
 weight: 140
 url: /de/net/aspose.pdf.plugins/formfieldoptions/readonly/

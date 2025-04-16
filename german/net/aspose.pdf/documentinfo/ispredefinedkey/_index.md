@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.IsPredefinedKey
 second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-Methode. Bestimmt, ob der Schlüssel vordefiniert ist (Titel, Autor usw.), nicht benutzerdefiniert.
+description: DocumentInfo-Methode. Bestimmt, ob der Schlüssel vordefiniert ist, nicht benutzerdefiniert.
 type: docs
 weight: 180
 url: /de/net/aspose.pdf/documentinfo/ispredefinedkey/

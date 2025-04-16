@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.IsPredefinedKey
 second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo metodu. Anahtarın önceden tanımlı olup olmadığını belirler (Başlık, Yazar vb.), özel değil.
+description: DocumentInfo metodu. Anahtarın önceden tanımlı olup olmadığını belirler, özel değil.
 type: docs
 weight: 180
 url: /tr/net/aspose.pdf/documentinfo/ispredefinedkey/

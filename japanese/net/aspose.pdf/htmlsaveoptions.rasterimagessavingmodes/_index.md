@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.RasterImagesSavingModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsRasterImagesSavingModes 列挙型。変換された PDF にはラスタ画像が含まれることがあります (.png, .jpeg など)。この列挙型は、PDF を HTML に変換する際にラスタ画像をどのように処理するかの方法を定義します。
+description: Aspose.Pdf.HtmlSaveOptionsRasterImagesSavingModes 列挙型。変換された PDF にはラスタ画像が含まれることがあります （.png, .jpeg など）。この列挙型は、PDF を HTML に変換する際にラスタ画像をどのように処理するかの方法を定義します。
 type: docs
 weight: 5720
 url: /ja/net/aspose.pdf/htmlsaveoptions.rasterimagessavingmodes/

@@ -1,7 +1,7 @@
 ---
 title: Table.ImportArray
 second_title: Aspose.PDF for .NET API Reference
-description: 테이블 메서드. 일차원 데이터 배열을 테이블로 가져옵니다. 가져오기는 각 배열 항목당 하나의 셀로 진행되며, 매개변수에 정의된 행과 열에서 시작합니다. 가져오는 동안 필요한 행이 여전히 없으면(즉, 대상 테이블이 모든 데이터를 수용하기에는 너무 작으면) 필요한 행이 생성됩니다.
+description: 테이블 메서드. 일차원 데이터 배열을 테이블로 가져옵니다. 가져오기는 각 배열 항목당 하나의 셀로 진행되며, 매개변수에 정의된 행과 열에서 시작합니다. 가져오는 동안 필요한 행이 여전히 없으면（즉, 대상 테이블이 모든 데이터를 수용하기에는 너무 작으면） 필요한 행이 생성됩니다.
 type: docs
 weight: 250
 url: /ko/net/aspose.pdf/table/importarray/

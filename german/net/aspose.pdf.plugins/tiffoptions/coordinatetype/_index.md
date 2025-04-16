@@ -1,7 +1,7 @@
 ---
 title: TiffOptions.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions-Eigenschaft. Gibt den Seitensystemtyp an oder setzt ihn (Media/Crop-Boxen). CropBox-Wert wird standardmäßig verwendet
+description: TiffOptions-Eigenschaft. Gibt den Seitensystemtyp an oder setzt ihn. CropBox-Wert wird standardmäßig verwendet
 type: docs
 weight: 40
 url: /de/net/aspose.pdf.plugins/tiffoptions/coordinatetype/

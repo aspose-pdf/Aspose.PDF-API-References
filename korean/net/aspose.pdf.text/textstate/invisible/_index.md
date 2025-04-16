@@ -1,7 +1,7 @@
 ---
 title: TextState.Invisible
 second_title: Aspose.PDF for .NET API Reference
-description: TextState 속성. 텍스트의 불투명성을 가져오거나 설정합니다. 이는 기본적으로 일부 특수한 경우(클리핑과 같은)를 제외하고 [`RenderingMode`](../renderingmode/) 상태를 반영합니다.
+description: TextState 속성. 텍스트의 불투명성을 가져오거나 설정합니다. 이는 기본적으로 일부 특수한 경우（클리핑과 같은）를 제외하고 [`RenderingMode`](../renderingmode/) 상태를 반영합니다.
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.text/textstate/invisible/

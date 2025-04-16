@@ -1,7 +1,7 @@
 ---
 title: Page.Duration
 second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 설정된 페이지 표시 지속 시간을 가져옵니다. 이는 프레젠테이션 중에 페이지가 표시되는 시간(초)입니다. 지속 시간이 정의되지 않은 경우 1을 반환합니다.
+description: 페이지 속성. 설정된 페이지 표시 지속 시간을 가져옵니다. 이는 프레젠테이션 중에 페이지가 표시되는 시간（초）입니다. 지속 시간이 정의되지 않은 경우 1을 반환합니다.
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/page/duration/

@@ -1,7 +1,7 @@
 ---
 title: BarcodeField.Resolution
 second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField 속성. 바코드 객체가 렌더링되는 해상도를 인치당 도트(dpi)로 가져옵니다.
+description: BarcodeField 속성. 바코드 객체가 렌더링되는 해상도를 인치당 도트（dpi）로 가져옵니다.
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/barcodefield/resolution/

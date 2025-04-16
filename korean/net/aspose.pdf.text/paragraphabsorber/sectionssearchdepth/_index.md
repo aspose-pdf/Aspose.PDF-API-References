@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber 속성. 구조의 더 세부적인 요소에 대한 연속 검색이 몇 번 수행될지를 지시하는 값을 가져오거나 설정합니다. 기본 검색 깊이는 3입니다. 이는 수평으로 나누어진 섹션(헤더, 단락 등)에 대해 세 번, 수직으로 나누어진 섹션(열)에 대해 세 번의 검색을 의미합니다.
+description: ParagraphAbsorber 속성. 구조의 더 세부적인 요소에 대한 연속 검색이 몇 번 수행될지를 지시하는 값을 가져오거나 설정합니다. 기본 검색 깊이는 3입니다. 이는 수평으로 나누어진 섹션（헤더, 단락 등）에 대해 세 번, 수직으로 나누어진 섹션（열）에 대해 세 번의 검색을 의미합니다.
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

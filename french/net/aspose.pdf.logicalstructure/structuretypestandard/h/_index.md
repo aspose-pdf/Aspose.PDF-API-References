@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.H
 second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. (Titre) Une étiquette pour une subdivision du contenu d'un document. Il devrait être le premier enfant de la division qu'il dirige.
+description: Champ StructureTypeStandard. Une étiquette pour une subdivision du contenu d'un document. Il devrait être le premier enfant de la division qu'il dirige.
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/h/

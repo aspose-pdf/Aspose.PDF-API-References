@@ -1,7 +1,7 @@
 ---
 title: Class HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo sınıfı. HtmlSaveOptions'ın SplitToPages özelliği varsa, PDF'den HTML'ye dönüştürme sırasında birden fazla HTML dosyası (dönüştürülen her sayfa için bir HTML dosyası) oluşturulur. Bu sınıf, PDF'den HTML'ye dönüştürme sırasında bir HTML sayfasının işaretlemesinin özel olarak kaydedilmesiyle ilgili veri kümesini temsil eder.
+description: Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo sınıfı. HtmlSaveOptions'ın SplitToPages özelliği varsa, PDF'den HTML'ye dönüştürme sırasında birden fazla HTML dosyası oluşturulur. Bu sınıf, PDF'den HTML'ye dönüştürme sırasında bir HTML sayfasının işaretlemesinin özel olarak kaydedilmesiyle ilgili veri kümesini temsil eder.
 type: docs
 weight: 5670
 url: /tr/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/

@@ -1,7 +1,7 @@
 ---
 title: Enum PositioningMode
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PositioningMode 열거형. 위치 지정 모드를 정의합니다. 가능한 값에는 레거시(하위 호환성) 및 현재(업데이트된 텍스트 위치 계산 방법)가 포함됩니다.
+description: Aspose.Pdf.Facades.PositioningMode 열거형. 위치 지정 모드를 정의합니다. 가능한 값에는 레거시（하위 호환성） 및 현재（업데이트된 텍스트 위치 계산 방법）가 포함됩니다.
 type: docs
 weight: 4650
 url: /ko/net/aspose.pdf.facades/positioningmode/

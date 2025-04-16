@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.Warichu
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard alanı. Warichu PDF 1.5 Daha küçük bir yazı boyutunda ve içindeki metin satırının yüksekliği içinde iki daha küçük satıra formatlanmış bir yorum veya not ve referans verdiği temel metnin ardından (satır içi) yerleştirilmiştir. Bir Warichu öğesi ayrıca WT ve WP öğelerini de içerebilir.
+description: StructureTypeStandard alanı. Warichu PDF 1.5 Daha küçük bir yazı boyutunda ve içindeki metin satırının yüksekliği içinde iki daha küçük satıra formatlanmış bir yorum veya not ve referans verdiği temel metnin ardından yerleştirilmiştir. Bir Warichu öğesi ayrıca WT ve WP öğelerini de içerebilir.
 type: docs
 weight: 470
 url: /tr/net/aspose.pdf.logicalstructure/structuretypestandard/warichu/

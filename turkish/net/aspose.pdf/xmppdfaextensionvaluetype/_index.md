@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionValueType sınıfı. PDF/A ValueType şeması, XMP 2004 spesifikasyonunda tanımlanmayan tüm özellik değer türleri için gereklidir, yani aşağıdaki listedeki değer türleri dışında kalan değer türleri için: - Dizi türleri (bunlar bir veya daha fazla alan içerebilen konteyner türleridir): Alt, Bag, Seq - Temel değer türleri: Boolean, (açık ve kapalı) Seçim, Tarih, Boyutlar, Tam sayı, Lang Alt, Yerel, MIMEType, ProperName, Gerçek, Metin, Küçük resim, URI, URL, XPath - Medya Yönetimi değer türleri: AgentName, RenditionClass, ResourceEvent, ResourceRef, Versiyon - Temel İş/İş Akışı değer türü: İş - EXIF şeması değer türleri: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasyonel Şema ad alanı URI: http://www.aiim.org/pdfa/ns/type# Gerekli şema ad alanı öneki: pdfaType
+description: Aspose.Pdf.XmpPdfAExtensionValueType sınıfı. PDF/A ValueType şeması, XMP 2004 spesifikasyonunda tanımlanmayan tüm özellik değer türleri için gereklidir, yani aşağıdaki listedeki değer türleri dışında kalan değer türleri için: - Dizi türleri: Alt, Bag, Seq - Temel değer türleri: Boolean, açık ve kapalı Seçim, Tarih, Boyutlar, Tam sayı, Lang Alt, Yerel, MIMEType, ProperName, Gerçek, Metin, Küçük resim, URI, URL, XPath - Medya Yönetimi değer türleri: AgentName, RenditionClass, ResourceEvent, ResourceRef, Versiyon - Temel İş/İş Akışı değer türü: İş - EXIF şeması değer türleri: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasyonel Şema ad alanı URI: http://www.aiim.org/pdfa/ns/type# Gerekli şema ad alanı öneki: pdfaType
 type: docs
 weight: 11490
 url: /tr/net/aspose.pdf/xmppdfaextensionvaluetype/

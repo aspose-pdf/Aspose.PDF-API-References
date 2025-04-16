@@ -1,7 +1,7 @@
 ---
 title: Page.BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: Seiten-Eigenschaft. Holt oder setzt das Hintergrundbild für die Seite (nur für den Generator, nicht ausgefüllt beim Lesen des Dokuments)
+description: Seiten-Eigenschaft. Holt oder setzt das Hintergrundbild für die Seite
 type: docs
 weight: 60
 url: /de/net/aspose.pdf/page/backgroundimage/

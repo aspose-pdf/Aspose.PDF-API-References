@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Contents
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства Contents для созданного/измененного поля (если будет установлено).
+description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства Contents для созданного/измененного поля, если будет установлено.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/contents/

@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.ForceCombs
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormTextBoxFieldCreateOptions. Obtient/définit la valeur pour déterminer si le TextBoxField créé est un forcecombs ou non (s'il sera défini).
+description: Propriété FormTextBoxFieldCreateOptions. Obtient/définit la valeur pour déterminer si le TextBoxField créé est un forcecombs ou non.
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/forcecombs/

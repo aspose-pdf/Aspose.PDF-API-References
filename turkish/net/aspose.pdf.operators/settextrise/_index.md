@@ -1,7 +1,7 @@
 ---
 title: Class SetTextRise
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextRise sınıfı. Ts operatörünü temsil eden sınıf (metin yükseltme ayarı).
+description: Aspose.Pdf.Operators.SetTextRise sınıfı. Ts operatörünü temsil eden sınıf - metin yükseltme ayarı.
 type: docs
 weight: 7850
 url: /tr/net/aspose.pdf.operators/settextrise/

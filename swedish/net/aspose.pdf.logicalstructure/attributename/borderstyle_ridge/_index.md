@@ -1,7 +1,7 @@
 ---
 title: AttributeName.BorderStyle_Ridge
 second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut BorderStyle Ridge  Gränsen ser ut som om den kom ut ur duken (motsatsen till Groove)
+description: Attributnamn fält. Attribut BorderStyle Ridge  Gränsen ser ut som om den kom ut ur duken. motsatsen till Groove.
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: O namespace Aspose.Pdf.Forms possui classes que descrevem formulários (padrão, estático, dinâmico) e vários tipos de campos, como caixa de texto, caixa de lista, botão de opção, etc.
+description: O namespace Aspose.Pdf.Forms possui classes que descrevem formulários e vários tipos de campos, como caixa de texto, caixa de lista, botão de opção, etc.
 type: docs
 weight: 110
 url: /pt/net/aspose.pdf.forms/

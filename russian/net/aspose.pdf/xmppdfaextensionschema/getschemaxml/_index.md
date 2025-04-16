@@ -1,7 +1,7 @@
 ---
 title: XmpPdfAExtensionSchema.GetSchemaXml
 second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionSchema. Возвращает xml элемент (тег - li), который представляет схему в xml дереве
+description: Метод XmpPdfAExtensionSchema. Возвращает xml элемент, который представляет схему в xml дереве
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/

@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions özelliği. Bulunan SVG grafiklerinin (varsa) kaydedilirken SVGZ formatına sıkıştırılıp sıkıştırılmayacağını belirten bayrağı alır veya ayarlar
+description: HtmlSaveOptions özelliği. Bulunan SVG grafiklerinin kaydedilirken SVGZ formatına sıkıştırılıp sıkıştırılmayacağını belirten bayrağı alır veya ayarlar
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/

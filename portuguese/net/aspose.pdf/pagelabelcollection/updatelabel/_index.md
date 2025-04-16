@@ -1,7 +1,7 @@
 ---
 title: PageLabelCollection.UpdateLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Método PageLabelCollection. Atualiza o rótulo para o índice da página dada (o índice da página começa em 0)
+description: Método PageLabelCollection. Atualiza o rótulo para o índice da página dada. o índice da página começa em 0
 type: docs
 weight: 40
 url: /pt/net/aspose.pdf/pagelabelcollection/updatelabel/

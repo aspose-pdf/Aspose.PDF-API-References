@@ -1,7 +1,7 @@
 ---
 title: Class SetMiterLimit
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetMiterLimit sınıfı. M operatörünü temsil eden sınıf (miter limitini ayarla)
+description: Aspose.Pdf.Operators.SetMiterLimit sınıfı. M operatörünü temsil eden sınıf - miter limitini ayarla.
 type: docs
 weight: 7780
 url: /tr/net/aspose.pdf.operators/setmiterlimit/

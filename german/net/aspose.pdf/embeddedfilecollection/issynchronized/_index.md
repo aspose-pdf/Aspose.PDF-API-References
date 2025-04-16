@@ -1,7 +1,7 @@
 ---
 title: EmbeddedFileCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf diese Sammlung synchronisiert (thread-sicher) ist.
+description: EmbeddedFileCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf diese Sammlung synchronisiert ist.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf/embeddedfilecollection/issynchronized/

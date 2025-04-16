@@ -1,7 +1,7 @@
 ---
 title: TiffOptions.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffOptions. Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию.
+description: Свойство TiffOptions. Получает или задает тип координат страницы. Значение CropBox используется по умолчанию.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/tiffoptions/coordinatetype/

@@ -1,7 +1,7 @@
 ---
 title: AttributeName.GlyphOrientationVertical_Auto
 second_title: Aspose.PDF for .NET API Reference
-description: AttributeName alanı. Attribute GlyphOrientationVertical Auto, metnin tam genişlikte olup olmamasına bağlı olarak varsayılan bir yönlendirme belirtir (yüksekliği kadar geniş).
+description: AttributeName alanı. Attribute GlyphOrientationVertical Auto, metnin tam genişlikte olup olmamasına bağlı olarak varsayılan bir yönlendirme belirtir - yüksekliği kadar geniş.
 type: docs
 weight: 180
 url: /tr/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/

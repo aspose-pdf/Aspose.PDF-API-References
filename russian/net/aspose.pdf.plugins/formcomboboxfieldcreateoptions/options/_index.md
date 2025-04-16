@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldCreateOptions.Options
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение для определения свойства Options для созданного ComboBoxField (если будет установлено).
+description: Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение для определения свойства Options для созданного ComboBoxField, если будет установлено.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/options/

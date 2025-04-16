@@ -1,7 +1,7 @@
 ---
 title: TextSegmentCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert (thread-sicher) ist.
+description: TextSegmentCollection-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die Sammlung synchronisiert ist.
 type: docs
 weight: 30
 url: /de/net/aspose.pdf.text/textsegmentcollection/issynchronized/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Namespace Aspose.Pdf.Forms memiliki kelas yang menggambarkan formulir (standar, statis, dinamis) dan berbagai jenis bidang seperti kotak teks, kotak daftar, tombol radio, dll.
+description: Namespace Aspose.Pdf.Forms memiliki kelas yang menggambarkan formulir dan berbagai jenis bidang seperti kotak teks, kotak daftar, tombol radio, dll.
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.forms/

@@ -1,7 +1,7 @@
 ---
 title: GraphInfo.LineWidth
 second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 속성. 그래프의 선 너비를 나타내는 부동 값(float)을 가져오거나 설정합니다.
+description: GraphInfo 속성. 그래프의 선 너비를 나타내는 부동 값（float）을 가져오거나 설정합니다.
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/graphinfo/linewidth/

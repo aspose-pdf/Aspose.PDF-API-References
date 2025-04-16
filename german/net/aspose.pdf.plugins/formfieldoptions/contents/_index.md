@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Contents
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-Eigenschaft. Holt/setzt den Wert zur Bestimmung der Eigenschaft Inhalte für das erstellte/ändernde Feld (wenn es gesetzt wird).
+description: FormFieldOptions-Eigenschaft. Holt/setzt den Wert zur Bestimmung der Eigenschaft Inhalte für das erstellte/ändernde Feld.
 type: docs
 weight: 30
 url: /de/net/aspose.pdf.plugins/formfieldoptions/contents/

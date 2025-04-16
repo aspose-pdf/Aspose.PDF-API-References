@@ -1,7 +1,7 @@
 ---
 title: Operator.IsTextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: オペレーター メソッド。オペレーターがテキスト出力 (Tj, TJ など) を担当するオペレーターであるかどうかを判断します。
+description: オペレーター メソッド。オペレーターがテキスト出力 （Tj, TJ など） を担当するオペレーターであるかどうかを判断します。
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/operator/istextshowoperator/

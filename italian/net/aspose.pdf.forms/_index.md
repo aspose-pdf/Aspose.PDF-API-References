@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Lo spazio dei nomi Aspose.Pdf.Forms contiene classi che descrivono moduli (standard, statici, dinamici) e vari tipi di campi come casella di testo, casella di selezione, pulsante radio, ecc.
+description: Lo spazio dei nomi Aspose.Pdf.Forms contiene classi che descrivono moduli e vari tipi di campi come casella di testo, casella di selezione, pulsante radio, ecc.
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.forms/

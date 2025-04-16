@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.Ruby
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Ruby PDF 1.5 En sidnotering (annotation) skriven i en mindre textstorlek och placerad intill den grundtext som den hänvisar till. Ett Ruby-element kan också innehålla RB, RT och RP-elementen
+description: StructureTypeStandard-fält. Ruby PDF 1.5 En sidnotering  skriven i en mindre textstorlek och placerad intill den grundtext som den hänvisar till. Ett Ruby-element kan också innehålla RB, RT och RP-elementen
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/ruby/

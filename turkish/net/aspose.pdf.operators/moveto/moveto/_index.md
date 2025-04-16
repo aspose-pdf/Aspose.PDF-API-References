@@ -1,7 +1,7 @@
 ---
 title: MoveTo.MoveTo
 second_title: Aspose.PDF for .NET API Reference
-description: MoveTo yapıcısı. Yeni Operators.m (hareket et) operatörünü başlatır
+description: MoveTo yapıcısı. Yeni Operators.m operatörünü başlatır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.operators/moveto/moveto/

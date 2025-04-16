@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: L'espace de noms Aspose.Pdf.Forms contient des classes qui décrivent des formulaires (standard, statique, dynamique) et divers types de champs comme la zone de texte, la zone de liste, le bouton radio, etc.
+description: L'espace de noms Aspose.Pdf.Forms contient des classes qui décrivent des formulaires et divers types de champs comme la zone de texte, la zone de liste, le bouton radio, etc.
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.forms/
