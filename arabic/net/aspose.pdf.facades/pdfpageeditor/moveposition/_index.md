@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageEditor. تنقل الأصل من 0 0 إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي نقطة (1 بوصة = 72 نقطة)
+description: طريقة PdfPageEditor. تنقل الأصل من 0 0 إلى النقطة المحددة. الأصل هو أسفل اليسار والوحدة هي نقطة 1 بوصة = 72 نقطة
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/moveposition/

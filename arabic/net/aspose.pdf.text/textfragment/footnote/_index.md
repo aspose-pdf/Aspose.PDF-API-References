@@ -1,7 +1,7 @@
 ---
 title: TextFragment.FootNote
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين ملاحظة الفقرة. (لإنشاء PDF فقط)
+description: خاصية TextFragment. تحصل أو تعين ملاحظة الفقرة. 
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textfragment/footnote/

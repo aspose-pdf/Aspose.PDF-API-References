@@ -1,7 +1,7 @@
 ---
 title: StructureTypeCategory.BLSEs
 second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeCategory. تصف عناصر الهيكل على مستوى الكتلة (BLSEs) التخطيط العام للمحتوى على الصفحة الذي يتقدم في اتجاه تقدم الكتلة
+description: حقل StructureTypeCategory. تصف عناصر الهيكل على مستوى الكتلة - BLSEs - التخطيط العام للمحتوى على الصفحة الذي يتقدم في اتجاه تقدم الكتلة
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structuretypecategory/blses/

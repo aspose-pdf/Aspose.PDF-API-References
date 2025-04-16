@@ -1,7 +1,7 @@
 ---
 title: Class DestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DestinationCollection. تمثل الفئة مجموعة من جميع الوجهات (شجرة أسماء تربط بين سلاسل الأسماء والوجهات) انظر 12.3.2.3 "الوجهات المسماة" وانظر 7.7.4 "قاموس الأسماء" في مستند PDF
+description: فئة Aspose.Pdf.DestinationCollection. تمثل الفئة مجموعة من جميع الوجهات انظر 12.3.2.3 "الوجهات المسماة" وانظر 7.7.4 "قاموس الأسماء" في مستند PDF
 type: docs
 weight: 3510
 url: /ar/net/aspose.pdf/destinationcollection/

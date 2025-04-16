@@ -1,7 +1,7 @@
 ---
 title: Class MoveTo
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.MoveTo. فئة تمثل مشغل m (الانتقال إلى وبدء مسار فرعي جديد)
+description: فئة Aspose.Pdf.Operators.MoveTo. فئة تمثل مشغل m
 type: docs
 weight: 7500
 url: /ar/net/aspose.pdf.operators/moveto/

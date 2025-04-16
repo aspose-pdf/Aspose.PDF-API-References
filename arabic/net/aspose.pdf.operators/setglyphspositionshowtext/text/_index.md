@@ -1,7 +1,7 @@
 ---
 title: SetGlyphsPositionShowText.Text
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetGlyphsPositionShowText. تحصل على النص من وسيط المشغل (يتم تجاهل موضع الرموز)
+description: خاصية SetGlyphsPositionShowText. تحصل على النص من وسيط المشغل 
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setglyphspositionshowtext/text/

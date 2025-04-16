@@ -1,7 +1,7 @@
 ---
 title: AttributeName.BorderStyle_Ridge
 second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle Ridge  يبدو أن الحدود تخرج من القماش (عكس Groove)
+description: حقل AttributeName. نمط الحدود Attribute BorderStyle Ridge  يبدو أن الحدود تخرج من القماش 
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/

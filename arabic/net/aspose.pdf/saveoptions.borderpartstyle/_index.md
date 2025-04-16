@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SaveOptionsBorderPartStyle. تمثل معلومات جزء واحد من الحدود (الجزء العلوي، السفلي، الجانب الأيسر أو الجانب الأيمن)
+description: فئة Aspose.Pdf.SaveOptionsBorderPartStyle. تمثل معلومات جزء واحد من الحدود
 type: docs
 weight: 9890
 url: /ar/net/aspose.pdf/saveoptions.borderpartstyle/

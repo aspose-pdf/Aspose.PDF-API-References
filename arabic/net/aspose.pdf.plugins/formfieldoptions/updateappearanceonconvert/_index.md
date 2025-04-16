@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UpdateAppearanceOnConvert
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله سيقوم بتحديث المظهر عند التحويل أم لا (إذا تم تعيينه).
+description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله سيقوم بتحديث المظهر عند التحويل أم لا.
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/

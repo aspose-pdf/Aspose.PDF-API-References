@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.TR
 second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. صف جدول صف من العناوين أو البيانات في جدول. قد يحتوي على خلايا رأس الجدول وخلايا بيانات الجدول (أنواع الهيكل TH و TD)
+description: حقل StructureTypeStandard. صف جدول صف من العناوين أو البيانات في جدول. قد يحتوي على خلايا رأس الجدول وخلايا بيانات الجدول  
 type: docs
 weight: 460
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/tr/

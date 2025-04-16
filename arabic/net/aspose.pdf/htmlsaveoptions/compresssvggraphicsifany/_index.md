@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين العلامة التي تشير إلى ما إذا كانت الرسومات SVG الموجودة (إن وجدت) ستتم ضغطها (تشفيرها) إلى تنسيق SVGZ أثناء الحفظ
+description: خاصية HtmlSaveOptions. تحصل أو تعين العلامة التي تشير إلى ما إذا كانت الرسومات SVG الموجودة ستتم ضغطها إلى تنسيق SVGZ أثناء الحفظ
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/

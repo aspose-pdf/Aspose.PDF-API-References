@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: يحتوي مساحة أسماء Aspose.Pdf.Forms على فئات تصف النماذج (ثابتة، ديناميكية) وأنواع مختلفة من الحقول مثل مربع النص، مربع القائمة، زر الاختيار، إلخ.
+description: يحتوي مساحة أسماء Aspose.Pdf.Forms على فئات تصف النماذج ثابتة، ديناميكية وأنواع مختلفة من الحقول مثل مربع النص، مربع القائمة، زر الاختيار، إلخ.
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.forms/

@@ -1,7 +1,7 @@
 ---
 title: PdfAConvertOptions.Outputs
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAConvertOptions. تحصل على مجموعة من مصادر البيانات المستهدفة المضافة (ملف أو تدفق) لنتائج عملية الحفظ
+description: خاصية PdfAConvertOptions. تحصل على مجموعة من مصادر البيانات المستهدفة المضافة  لنتائج عملية الحفظ
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/

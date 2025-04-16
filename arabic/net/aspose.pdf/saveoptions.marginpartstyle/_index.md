@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.MarginPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SaveOptionsMarginPartStyle. تمثل معلومات جزء واحد من الهامش (الأعلى، الأسفل، الجانب الأيسر أو الجانب الأيمن)
+description: فئة Aspose.Pdf.SaveOptionsMarginPartStyle. تمثل معلومات جزء واحد من الهامش
 type: docs
 weight: 9920
 url: /ar/net/aspose.pdf/saveoptions.marginpartstyle/

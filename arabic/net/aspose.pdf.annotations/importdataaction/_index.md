@@ -1,7 +1,7 @@
 ---
 title: Class ImportDataAction
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.ImportDataAction. عند استدعاء إجراء importdata، سيتم استيراد بيانات تنسيق بيانات النماذج (FDF) إلى النموذج التفاعلي للوثيقة من ملف محدد
+description: فئة Aspose.Pdf.Annotations.ImportDataAction. عند استدعاء إجراء importdata، سيتم استيراد بيانات تنسيق بيانات النماذج - FDF - إلى النموذج التفاعلي للوثيقة من ملف محدد
 type: docs
 weight: 1910
 url: /ar/net/aspose.pdf.annotations/importdataaction/

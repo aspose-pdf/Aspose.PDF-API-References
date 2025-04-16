@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين فقرة كفقرة مضمنة. القيمة الافتراضية هي false. (لإنشاء PDF)
+description: خاصية BaseParagraph. تحصل أو تعين فقرة كفقرة مضمنة. القيمة الافتراضية هي false. 
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/baseparagraph/isinlineparagraph/

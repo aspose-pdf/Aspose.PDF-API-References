@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.Multiline
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormTextBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد ما إذا كان TextBoxField الذي تم إنشاؤه متعدد الأسطر أم لا (إذا تم تعيينه).
+description: خاصية FormTextBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد ما إذا كان TextBoxField الذي تم إنشاؤه متعدد الأسطر أم لا.
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/

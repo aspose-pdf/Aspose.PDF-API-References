@@ -1,7 +1,7 @@
 ---
 title: Class StructureTextState
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.LogicalStructure.StructureTextState. تمثل إعدادات حالة النص لعناصر هيكل النص و TaggedContent (ITextElement, ITaggedContent)
+description: فئة Aspose.Pdf.LogicalStructure.StructureTextState. تمثل إعدادات حالة النص لعناصر هيكل النص و TaggedContent 
 type: docs
 weight: 6710
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/

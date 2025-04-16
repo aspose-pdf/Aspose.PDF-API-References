@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.RightStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: حقل BorderInfo. يمثل الجزء الأيمن (إن وجد) من الحدود
+description: حقل BorderInfo. يمثل الجزء الأيمن من الحدود
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/

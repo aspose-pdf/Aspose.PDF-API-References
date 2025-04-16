@@ -1,7 +1,7 @@
 ---
 title: Class EMC
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EMC. فئة تمثل مشغل EMC (نهاية تسلسل المحتوى المعلم)
+description: فئة Aspose.Pdf.Operators.EMC. فئة تمثل مشغل EMC 
 type: docs
 weight: 7300
 url: /ar/net/aspose.pdf.operators/emc/

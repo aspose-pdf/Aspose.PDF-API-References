@@ -1,7 +1,7 @@
 ---
 title: TextFragment.EndNote
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين ملاحظة نهاية الفقرة. (لإنشاء PDF فقط)
+description: خاصية TextFragment. تحصل أو تعين ملاحظة نهاية الفقرة. 
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textfragment/endnote/
