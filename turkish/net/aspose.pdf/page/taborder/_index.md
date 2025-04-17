@@ -1,7 +1,7 @@
 ---
 title: Page.TabOrder
 second_title: Aspose.PDF for .NET API Reference
-description: Sayfa özelliği. Sayfanın sekme sırasını alır veya ayarlar. Olası değerler: Satır, Sütun. Varsayılan, Manuel
+description: Sayfa özelliği. Sayfanın sekme sırasını alır veya ayarlar. Olası değerler Satır, Sütun. Varsayılan, Manuel
 type: docs
 weight: 270
 url: /tr/net/aspose.pdf/page/taborder/

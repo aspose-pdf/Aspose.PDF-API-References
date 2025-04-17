@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.FontFamilyName
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 속성. 글꼴 패밀리 이름을 가져오거나 설정합니다. 문서에 존재해야 합니다. 기본값: Arial
+description: SignatureCustomAppearance 속성. 글꼴 패밀리 이름을 가져오거나 설정합니다. 문서에 존재해야 합니다. 기본값 Arial
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/

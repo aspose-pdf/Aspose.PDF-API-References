@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.SaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Получает или задает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию: PdfSaveOptions
+description: Свойство PdfFileEditor. Получает или задает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию PdfSaveOptions
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/pdffileeditor/saveoptions/

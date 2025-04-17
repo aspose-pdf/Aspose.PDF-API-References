@@ -1,7 +1,7 @@
 ---
 title: Class AutoFiller
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.AutoFiller. Représente une classe pour recevoir des données d'une base de données ou d'une autre source de données, les remplit dans les champs conçus du pdf modèle et enfin génère un nouveau fichier ou flux pdf. Elle a deux modes d'entrée de fichier modèle : entrée sous forme de flux ou de fichier pdf. Elle a quatre types de modes de sortie : un flux fusionné, un fichier fusionné, de nombreux petits flux, de nombreux petits fichiers. Elle peut recevoir des données littérales contenues dans un System.Data.DataTable.
+description: Classe Aspose.Pdf.Facades.AutoFiller. Représente une classe pour recevoir des données d'une base de données ou d'une autre source de données, les remplit dans les champs conçus du pdf modèle et enfin génère un nouveau fichier ou flux pdf. Elle a deux modes d'entrée de fichier modèle  entrée sous forme de flux ou de fichier pdf. Elle a quatre types de modes de sortie  un flux fusionné, un fichier fusionné, de nombreux petits flux, de nombreux petits fichiers. Elle peut recevoir des données littérales contenues dans un System.Data.DataTable.
 type: docs
 weight: 4150
 url: /fr/net/aspose.pdf.facades/autofiller/

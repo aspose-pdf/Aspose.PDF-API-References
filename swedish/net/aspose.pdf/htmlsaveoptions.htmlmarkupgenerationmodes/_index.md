@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. Ibland finns det specifika krav på den skapade HTML:en. Denna enum definierar HTML-förberedelselägen som kan användas under konvertering av PDF till HTML för att matcha sådana specifika krav.
+description: Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. Ibland finns det specifika krav på den skapade HTMLen. Denna enum definierar HTML-förberedelselägen som kan användas under konvertering av PDF till HTML för att matcha sådana specifika krav.
 type: docs
 weight: 5660
 url: /sv/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/

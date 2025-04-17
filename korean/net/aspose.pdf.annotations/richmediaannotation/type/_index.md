@@ -1,7 +1,7 @@
 ---
 title: RichMediaAnnotation.Type
 second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation 속성. 콘텐츠 유형을 가져오거나 설정합니다. 가능한 값: 오디오 비디오
+description: RichMediaAnnotation 속성. 콘텐츠 유형을 가져오거나 설정합니다. 가능한 값 오디오 비디오
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.annotations/richmediaannotation/type/

@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit la couleur de premier plan du texte. Valeur par défaut : Bleu
+description: Propriété SignatureCustomAppearance. Obtient/définit la couleur de premier plan du texte. Valeur par défaut  Bleu
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/

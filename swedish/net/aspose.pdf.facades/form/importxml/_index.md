@@ -1,7 +1,7 @@
 ---
 title: Form.ImportXml
 second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Importerar innehållet i fälten från xml-filen och lägger dem i den nya pdf:en
+description: Formmetod. Importerar innehållet i fälten från xml-filen och lägger dem i den nya pdfen
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.facades/form/importxml/

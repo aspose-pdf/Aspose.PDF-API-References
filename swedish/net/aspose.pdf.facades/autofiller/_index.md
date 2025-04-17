@@ -1,7 +1,7 @@
 ---
 title: Class AutoFiller
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.AutoFiller klass. Representerar en klass för att ta emot data från databas eller annan datakälla, fyller dem i de utformade fälten i den mallade pdf:en och genererar till sist en ny pdf-fil eller ström. Den har två inmatningslägen för mallfil: inmatning som en ström eller en pdf-fil. Den har fyra typer av utmatningslägen: en sammanslagen ström, en sammanslagen fil, många små strömmar, många små filer. Den kan ta emot bokstavlig data som finns i en System.Data.DataTable
+description: Aspose.Pdf.Facades.AutoFiller klass. Representerar en klass för att ta emot data från databas eller annan datakälla, fyller dem i de utformade fälten i den mallade pdfen och genererar till sist en ny pdf-fil eller ström. Den har två inmatningslägen för mallfil inmatning som en ström eller en pdf-fil. Den har fyra typer av utmatningslägen en sammanslagen ström, en sammanslagen fil, många små strömmar, många små filer. Den kan ta emot bokstavlig data som finns i en System.Data.DataTable
 type: docs
 weight: 4150
 url: /sv/net/aspose.pdf.facades/autofiller/

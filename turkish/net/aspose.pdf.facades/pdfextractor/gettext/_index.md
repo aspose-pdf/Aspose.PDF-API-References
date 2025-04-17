@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetText
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metodu. Metni dosyaya kaydeder. ayrıca bakınız: ExtractText
+description: PdfExtractor metodu. Metni dosyaya kaydeder. ayrıca bakınız ExtractText
 type: docs
 weight: 190
 url: /tr/net/aspose.pdf.facades/pdfextractor/gettext/

@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: Properti XFA. Mendapatkan namespace untuk formulir XFA. Namespace berikut didefinisikan: "data" untuk data formulir dan "tpl" untuk template formulir
+description: Properti XFA. Mendapatkan namespace untuk formulir XFA. Namespace berikut didefinisikan "data" untuk data formulir dan "tpl" untuk template formulir
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/xfa/namespacemanager/

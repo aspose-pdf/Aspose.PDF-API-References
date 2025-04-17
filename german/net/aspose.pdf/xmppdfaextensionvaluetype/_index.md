@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionValueType-Klasse. Das PDF/A ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich, die in der XMP 2004-Spezifikation nicht definiert sind, d.h. für Werttypen außerhalb der folgenden Liste: - Array-Typen: Alt, Bag, Seq - Grundlegende Werttypen: Boolean, Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Medienverwaltungswerttypen: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundlegender Job/Workflow-Werttyp: Job - EXIF-Schema-Werttypen: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema-Namespace-URI: http://www.aiim.org/pdfa/ns/type# Erforderlicher Schema-Namespace-Präfix: pdfaType
+description: Aspose.Pdf.XmpPdfAExtensionValueType-Klasse. Das PDF/A ValueType-Schema ist für alle Eigenschaftswerttypen erforderlich, die in der XMP 2004-Spezifikation nicht definiert sind, d.h. für Werttypen außerhalb der folgenden Liste - Array-Typen Alt, Bag, Seq - Grundlegende Werttypen Boolean, Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Medienverwaltungswerttypen AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Grundlegender Job/Workflow-Werttyp Job - EXIF-Schema-Werttypen Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema-Namespace-URI http//www.aiim.org/pdfa/ns/type# Erforderlicher Schema-Namespace-Präfix pdfaType
 type: docs
 weight: 11490
 url: /de/net/aspose.pdf/xmppdfaextensionvaluetype/

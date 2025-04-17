@@ -1,7 +1,7 @@
 ---
 title: Class LlamaSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaSummaryCopilot-Klasse. Bietet Funktionalität zum Abrufen von Dokumentzusammenfassungen mithilfe von KI-Modellen. Beispiel für die Verwendung eines Llama-Clients, Konfiguration von Optionen und Verwendung des Zusammenfassungs-Copiloten. Hinweis: Dieser Copilot verwendet die Completion-API, sodass die Gesamtmenge an Text, die gesendet werden kann, durch das Kontextfenster des Modells begrenzt ist.
+description: Aspose.Pdf.AI.LlamaSummaryCopilot-Klasse. Bietet Funktionalität zum Abrufen von Dokumentzusammenfassungen mithilfe von KI-Modellen. Beispiel für die Verwendung eines Llama-Clients, Konfiguration von Optionen und Verwendung des Zusammenfassungs-Copiloten. Hinweis Dieser Copilot verwendet die Completion-API, sodass die Gesamtmenge an Text, die gesendet werden kann, durch das Kontextfenster des Modells begrenzt ist.
 type: docs
 weight: 740
 url: /de/net/aspose.pdf.ai/llamasummarycopilot/

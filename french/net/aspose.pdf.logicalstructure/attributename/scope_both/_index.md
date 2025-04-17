@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Scope_Both
 second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Portée de l'attribut : Les deux
+description: Champ AttributeName. Portée de l'attribut  Les deux
 type: docs
 weight: 520
 url: /fr/net/aspose.pdf.logicalstructure/attributename/scope_both/

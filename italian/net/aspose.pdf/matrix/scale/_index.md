@@ -1,14 +1,14 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Metodo matrice. Modifica le scale x e y con la matrice utilizzando il seguente formula: x1 A x C y y1 B x D y
+description: Metodo matrice. Modifica le scale x e y con la matrice utilizzando il seguente formula x1 A x C y y1 B x D y
 type: docs
 weight: 190
 url: /it/net/aspose.pdf/matrix/scale/
 ---
 title: Matrix.Scale  
 second_title: API Reference Aspose.PDF for .NET  
-description: Scala x e y con la matrice utilizzando la seguente formula: x1 = A*x + C*y; y1 = B*x + D*y;  
+description: Scala x e y con la matrice utilizzando la seguente formula x1 = A*x + C*y; y1 = B*x + D*y;  
 type: docs  
 weight: 190  
 url: /net/aspose.pdf/matrix/scale/  

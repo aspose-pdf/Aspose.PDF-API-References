@@ -1,7 +1,7 @@
 ---
 title: AutoFiller.ImportDataTable
 second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-metod. Importerar data av typen DataTable. Varje kolumnnamn i dataTable måste vara detsamma som ett fältnamn i den mallade pdf:en, med skillnad på stora och små bokstäver.
+description: AutoFiller-metod. Importerar data av typen DataTable. Varje kolumnnamn i dataTable måste vara detsamma som ett fältnamn i den mallade pdfen, med skillnad på stora och små bokstäver.
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/autofiller/importdatatable/

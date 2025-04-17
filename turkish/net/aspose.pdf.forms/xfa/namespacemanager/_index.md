@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: XFA özelliği. XFA formu için ad alanını alır. Aşağıdaki ad alanları tanımlanmıştır: form verileri için "data" ve form şablonu için "tpl"
+description: XFA özelliği. XFA formu için ad alanını alır. Aşağıdaki ad alanları tanımlanmıştır form verileri için "data" ve form şablonu için "tpl"
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.forms/xfa/namespacemanager/

@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp özelliği. Sayfa numaralandırma stilini alır veya ayarlar. Olası değerler: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+description: PdfFileStamp özelliği. Sayfa numaralandırma stilini alır veya ayarlar. Olası değerler NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.facades/pdffilestamp/numberingstyle/

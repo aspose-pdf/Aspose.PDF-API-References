@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XmpPdfAExtensionValueType. مخطط PDF/A ValueType مطلوب لجميع أنواع قيم الخصائص التي لم يتم تعريفها في مواصفة XMP 2004، أي لأنواع القيم خارج القائمة التالية: - أنواع المصفوفات : Alt، Bag، Seq - أنواع القيم الأساسية: Boolean، مفتوح ومغلق Choice، Date، Dimensions، Integer، Lang Alt، Locale، MIMEType، ProperName، Real، Text، Thumbnail، URI، URL، XPath - أنواع قيم إدارة الوسائط: AgentName، RenditionClass، ResourceEvent، ResourceRef، Version - نوع قيمة الوظيفة/سير العمل الأساسية: Job - أنواع قيم مخطط EXIF: Flash، CFAPattern، DeviceSettings، GPSCoordinate، OECF/SFR، Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Required schema namespace prefix: pdfaType
+description: فئة Aspose.Pdf.XmpPdfAExtensionValueType. مخطط PDF/A ValueType مطلوب لجميع أنواع قيم الخصائص التي لم يتم تعريفها في مواصفة XMP 2004، أي لأنواع القيم خارج القائمة التالية - أنواع المصفوفات  Alt، Bag، Seq - أنواع القيم الأساسية Boolean، مفتوح ومغلق Choice، Date، Dimensions، Integer، Lang Alt، Locale، MIMEType، ProperName، Real، Text، Thumbnail، URI، URL، XPath - أنواع قيم إدارة الوسائط AgentName، RenditionClass، ResourceEvent، ResourceRef، Version - نوع قيمة الوظيفة/سير العمل الأساسية Job - أنواع قيم مخطط EXIF Flash، CFAPattern، DeviceSettings، GPSCoordinate، OECF/SFR، Rational Schema namespace URI http//www.aiim.org/pdfa/ns/type# Required schema namespace prefix pdfaType
 type: docs
 weight: 11490
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/

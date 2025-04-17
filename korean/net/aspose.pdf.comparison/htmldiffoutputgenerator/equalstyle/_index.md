@@ -1,7 +1,7 @@
 ---
 title: HtmlDiffOutputGenerator.EqualStyle
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlDiffOutputGenerator 속성. Equal 작업을 위한 CSS 스타일 문자열을 가져오고 설정합니다. 예:
+description: HtmlDiffOutputGenerator 속성. Equal 작업을 위한 CSS 스타일 문자열을 가져오고 설정합니다. 예
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/

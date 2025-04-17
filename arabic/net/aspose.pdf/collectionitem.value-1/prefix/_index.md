@@ -1,7 +1,7 @@
 ---
 title: CollectionItem.Value1.Prefix
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية القيمة. تحصل على سلسلة بادئة يجب دمجها مع سلسلة النص المقدمة للمستخدم. يتم تجاهل هذا الإدخال عندما يقوم معالج PDF التفاعلي بفرز العناصر في المجموعة. الافتراضي: لا شيء
+description: خاصية القيمة. تحصل على سلسلة بادئة يجب دمجها مع سلسلة النص المقدمة للمستخدم. يتم تجاهل هذا الإدخال عندما يقوم معالج PDF التفاعلي بفرز العناصر في المجموعة. الافتراضي لا شيء
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/collectionitem.value-1/prefix/

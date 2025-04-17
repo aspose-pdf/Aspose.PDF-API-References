@@ -1,7 +1,7 @@
 ---
 title: PdfContentEditor.DeleteStampByIds
 second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort stämplar med angivna ID:n från alla sidor i dokumentet
+description: PdfContentEditor-metod. Tar bort stämplar med angivna IDn från alla sidor i dokumentet
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/

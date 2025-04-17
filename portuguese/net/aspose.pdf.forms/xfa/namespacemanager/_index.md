@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade XFA. Obtém o namespace para o formulário XFA. Os seguintes namespaces estão definidos: "data" para dados do formulário e "tpl" para template do formulário
+description: Propriedade XFA. Obtém o namespace para o formulário XFA. Os seguintes namespaces estão definidos "data" para dados do formulário e "tpl" para template do formulário
 type: docs
 weight: 60
 url: /pt/net/aspose.pdf.forms/xfa/namespacemanager/

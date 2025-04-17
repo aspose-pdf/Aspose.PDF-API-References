@@ -1,7 +1,7 @@
 ---
 title: Form.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan atau mengatur bagaimana konten akan disimpan ketika hasil operasi disimpan ke dalam objek HttpResponse. Nilai yang mungkin: inline / attachment. Default: inline
+description: Properti Form. Mendapatkan atau mengatur bagaimana konten akan disimpan ketika hasil operasi disimpan ke dalam objek HttpResponse. Nilai yang mungkin inline / attachment. Default inline
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/form/contentdisposition/

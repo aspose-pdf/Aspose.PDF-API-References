@@ -1,7 +1,7 @@
 ---
 title: Page.TabOrder
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta l'ordine delle schede della pagina. Valori possibili: Row, Column. Predefinito: Manual
+description: Proprietà della pagina. Ottiene o imposta l'ordine delle schede della pagina. Valori possibili Row, Column. Predefinito Manual
 type: docs
 weight: 270
 url: /it/net/aspose.pdf/page/taborder/

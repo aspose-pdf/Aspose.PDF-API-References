@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-Eigenschaft. Wenn wahr, werden Aktionen aus Quelldokumenten kopiert. Standardwert: wahr
+description: PdfFileEditor-Eigenschaft. Wenn wahr, werden Aktionen aus Quelldokumenten kopiert. Standardwert wahr
 type: docs
 weight: 110
 url: /de/net/aspose.pdf.facades/pdffileeditor/keepactions/

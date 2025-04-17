@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix 메서드. 다음 공식을 사용하여 행렬로 x와 y를 스케일합니다: x1 = Ax + Cy, y1 = Bx + Dy
+description: Matrix 메서드. 다음 공식을 사용하여 행렬로 x와 y를 스케일합니다 x1 = Ax + Cy, y1 = Bx + Dy
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf/matrix/scale/

@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.FontFamilyName
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-Eigenschaft. Holt/setzt den Schriftfamiliennamen. Er sollte im Dokument vorhanden sein. Standardwert: Arial
+description: SignatureCustomAppearance-Eigenschaft. Holt/setzt den Schriftfamiliennamen. Er sollte im Dokument vorhanden sein. Standardwert Arial
 type: docs
 weight: 100
 url: /de/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/

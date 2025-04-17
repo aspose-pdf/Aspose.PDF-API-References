@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetAttachNames
 second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengembalikan daftar lampiran dalam file PDF. Catatan: ExtractAttachments harus dipanggil sebelum menggunakan metode ini
+description: Metode PdfExtractor. Mengembalikan daftar lampiran dalam file PDF. Catatan ExtractAttachments harus dipanggil sebelum menggunakan metode ini
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdfextractor/getattachnames/

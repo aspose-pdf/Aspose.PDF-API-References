@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters sınıfı. Sayfa yeniden boyutlandırma parametrelerini belirtmek için sınıf. Aşağıdaki parametrelerin ayarlanmasına izin verir: Sonuç sayfasının boyutu varsayılan alan birimlerinde veya başlangıç sayfalarının boyutunun yüzdesi olarak; Sol, Üst, Alt ve Sağ kenar boşlukları varsayılan alan birimlerinde veya başlangıç sayfasının boyutunun yüzdesi olarak; Bazı değerler otomatik hesaplama için boş bırakılabilir. Bu değerler, açıkça belirtilen değerlerin hesaplanmasından sonra sayfa boyutunun geri kalanından hesaplanacaktır. Bu sınıf, ResizeContents yönteminde kullanılır.
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters sınıfı. Sayfa yeniden boyutlandırma parametrelerini belirtmek için sınıf. Aşağıdaki parametrelerin ayarlanmasına izin verir Sonuç sayfasının boyutu varsayılan alan birimlerinde veya başlangıç sayfalarının boyutunun yüzdesi olarak; Sol, Üst, Alt ve Sağ kenar boşlukları varsayılan alan birimlerinde veya başlangıç sayfasının boyutunun yüzdesi olarak; Bazı değerler otomatik hesaplama için boş bırakılabilir. Bu değerler, açıkça belirtilen değerlerin hesaplanmasından sonra sayfa boyutunun geri kalanından hesaplanacaktır. Bu sınıf, ResizeContents yönteminde kullanılır.
 type: docs
 weight: 4480
 url: /tr/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

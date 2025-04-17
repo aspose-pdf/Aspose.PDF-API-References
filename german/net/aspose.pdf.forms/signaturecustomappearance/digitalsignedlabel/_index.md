@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.DigitalSignedLabel
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-Eigenschaft. Ruft das digitale Signaturlabel ab oder legt es fest. Standardwert: "Digital signiert von"
+description: SignatureCustomAppearance-Eigenschaft. Ruft das digitale Signaturlabel ab oder legt es fest. Standardwert "Digital signiert von"
 type: docs
 weight: 80
 url: /de/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/

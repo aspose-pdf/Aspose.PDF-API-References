@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.PdfFileEditor. Реализует операции с PDF файлами: конкатенация, разделение, извлечение страниц, создание буклетов и т.д.
+description: Класс Aspose.Pdf.Facades.PdfFileEditor. Реализует операции с PDF файлами конкатенация, разделение, извлечение страниц, создание буклетов и т.д.
 type: docs
 weight: 4460
 url: /ru/net/aspose.pdf.facades/pdffileeditor/

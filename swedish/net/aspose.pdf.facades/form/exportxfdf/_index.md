@@ -1,7 +1,7 @@
 ---
 title: Form.ExportXfdf
 second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Exporterar innehållet i fälten i pdf:en till xml-strömmen. Värdet av knappfälten kommer inte att exporteras
+description: Formmetod. Exporterar innehållet i fälten i pdfen till xml-strömmen. Värdet av knappfälten kommer inte att exporteras
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/form/exportxfdf/

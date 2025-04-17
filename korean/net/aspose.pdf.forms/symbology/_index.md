@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology 열거형. 바코드 심볼로지는 특정 유형의 바코드의 기술적 세부사항을 정의합니다: 바의 너비, 문자 집합, 인코딩 방법, 체크섬 사양 등
+description: Aspose.Pdf.Forms.Symbology 열거형. 바코드 심볼로지는 특정 유형의 바코드의 기술적 세부사항을 정의합니다 바의 너비, 문자 집합, 인코딩 방법, 체크섬 사양 등
 type: docs
 weight: 5310
 url: /ko/net/aspose.pdf.forms/symbology/

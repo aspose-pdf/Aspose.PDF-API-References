@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.UniqueSuffix
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileEditor. Format du suffixe qui est ajouté au nom du champ pour le rendre unique lorsque les formulaires sont concaténés. Cette chaîne doit contenir la sous-chaîne NUM qui sera remplacée par des chiffres. Par exemple, si UniqueSuffix = ABCNUM alors pour le champ fieldName, les noms seront : fieldNameABC1, fieldNameABC2, fieldNameABC3, etc.
+description: Propriété PdfFileEditor. Format du suffixe qui est ajouté au nom du champ pour le rendre unique lorsque les formulaires sont concaténés. Cette chaîne doit contenir la sous-chaîne NUM qui sera remplacée par des chiffres. Par exemple, si UniqueSuffix = ABCNUM alors pour le champ fieldName, les noms seront  fieldNameABC1, fieldNameABC2, fieldNameABC3, etc.
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/

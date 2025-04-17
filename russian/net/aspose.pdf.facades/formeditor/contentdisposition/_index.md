@@ -1,7 +1,7 @@
 ---
 title: FormEditor.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Получает или устанавливает, как будет храниться содержимое, когда результат операции сохраняется в объекте HttpResponse. Возможные значения: inline / attachment. По умолчанию: inline
+description: Свойство FormEditor. Получает или устанавливает, как будет храниться содержимое, когда результат операции сохраняется в объекте HttpResponse. Возможные значения inline / attachment. По умолчанию inline
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/formeditor/contentdisposition/

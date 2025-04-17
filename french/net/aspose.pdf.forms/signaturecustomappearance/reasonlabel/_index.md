@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ReasonLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit l'étiquette de raison. Valeur par défaut : Raison
+description: Propriété SignatureCustomAppearance. Obtient/définit l'étiquette de raison. Valeur par défaut  Raison
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/

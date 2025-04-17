@@ -1,7 +1,7 @@
 ---
 title: Form.Type
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Получает тип формы. Возможные значения: Standard, Static, Dynamic
+description: Свойство формы. Получает тип формы. Возможные значения Standard, Static, Dynamic
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.forms/form/type/

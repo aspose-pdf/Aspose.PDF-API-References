@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengisi kolom teks dengan nilai teks dan menyimpan dokumen. Relevan untuk dokumen yang ditandatangani. Perhatikan: Hanya dapat diterapkan pada Text Box. Nama dan nilai kolom bersifat case sensitive.
+description: Metode Form. Mengisi kolom teks dengan nilai teks dan menyimpan dokumen. Relevan untuk dokumen yang ditandatangani. Perhatikan Hanya dapat diterapkan pada Text Box. Nama dan nilai kolom bersifat case sensitive.
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/form/fillfields/

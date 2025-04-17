@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.HasNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تتحقق مما إذا كانت هناك المزيد من الصور المتاحة في مستند PDF. ملاحظة: يجب استدعاء ExtractImage قبل استخدام هذه الطريقة
+description: طريقة PdfExtractor. تتحقق مما إذا كانت هناك المزيد من الصور المتاحة في مستند PDF. ملاحظة يجب استدعاء ExtractImage قبل استخدام هذه الطريقة
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/pdfextractor/hasnextimage/

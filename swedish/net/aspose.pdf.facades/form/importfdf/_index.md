@@ -1,7 +1,7 @@
 ---
 title: Form.ImportFdf
 second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Importerar innehållet i fälten från fdf-filen och lägger dem i den nya pdf:en
+description: Formmetod. Importerar innehållet i fälten från fdf-filen och lägger dem i den nya pdfen
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.facades/form/importfdf/

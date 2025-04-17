@@ -1,7 +1,7 @@
 ---
 title: XImage.ImageMask
 second_title: Aspose.PDF for .NET API Reference
-description: XImage プロパティ。画像が画像マスクとして扱われるかどうかを示すフラグを取得します（8.9.6 マスク付き画像を参照）。このフラグが true の場合、BitsPerComponent の値は 1 であり、Mask と ColorSpace は指定されないものとし、マスクされていない領域は現在の非ストロークカラーを使用して塗りつぶされます。デフォルト値: false
+description: XImage プロパティ。画像が画像マスクとして扱われるかどうかを示すフラグを取得します（8.9.6 マスク付き画像を参照）。このフラグが true の場合、BitsPerComponent の値は 1 であり、Mask と ColorSpace は指定されないものとし、マスクされていない領域は現在の非ストロークカラーを使用して塗りつぶされます。デフォルト値 false
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/ximage/imagemask/

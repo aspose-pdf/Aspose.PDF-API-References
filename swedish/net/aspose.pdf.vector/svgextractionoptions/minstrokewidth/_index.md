@@ -1,7 +1,7 @@
 ---
 title: SvgExtractionOptions.MinStrokeWidth
 second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions-egenskap. Hämtar eller ställer in den minimi linjebredd som kommer att användas i den resulterande SVG:n. Om PDF:en använder en tunnare linjebredd kommer den att ersättas med denna bredd. Standardvärdet är 0.5
+description: SvgExtractionOptions-egenskap. Hämtar eller ställer in den minimi linjebredd som kommer att användas i den resulterande SVGn. Om PDFen använder en tunnare linjebredd kommer den att ersättas med denna bredd. Standardvärdet är 0.5
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.vector/svgextractionoptions/minstrokewidth/

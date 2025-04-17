@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: XFA プロパティ。XFA フォームの名前空間を取得します。次の名前空間が定義されています: フォームデータ用の "data" とフォームテンプレート用の "tpl"
+description: XFA プロパティ。XFA フォームの名前空間を取得します。次の名前空間が定義されています フォームデータ用の "data" とフォームテンプレート用の "tpl"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/xfa/namespacemanager/

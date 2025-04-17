@@ -1,7 +1,7 @@
 ---
 title: CommonFigureAnnotation.Frame
 second_title: Aspose.PDF for .NET API Reference
-description: CommonFigureAnnotation-egenskap. Rektangeln som beskriver de numeriska skillnaderna mellan två rektanglar: Rect-posten för annotationen och de faktiska gränserna för den underliggande kvadraten eller cirkeln
+description: CommonFigureAnnotation-egenskap. Rektangeln som beskriver de numeriska skillnaderna mellan två rektanglar Rect-posten för annotationen och de faktiska gränserna för den underliggande kvadraten eller cirkeln
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/commonfigureannotation/frame/

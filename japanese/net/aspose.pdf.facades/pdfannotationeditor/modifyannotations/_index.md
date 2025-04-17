@@ -1,7 +1,7 @@
 ---
 title: PdfAnnotationEditor.ModifyAnnotations
 second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。指定されたページ範囲の指定されたタイプの注釈を修正します。次の注釈プロパティを修正することをサポートします: 修正済み、タイトル、内容、色、件名、およびオープン
+description: PdfAnnotationEditor メソッド。指定されたページ範囲の指定されたタイプの注釈を修正します。次の注釈プロパティを修正することをサポートします 修正済み、タイトル、内容、色、件名、およびオープン
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/

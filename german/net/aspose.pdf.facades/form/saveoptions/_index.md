@@ -1,7 +1,7 @@
 ---
 title: Form.SaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Form-Eigenschaft. Ruft die Speicheroptionen ab oder legt sie fest, wenn das Ergebnis als HttpResponse gespeichert wird. Standardwert: PdfSaveOptions
+description: Form-Eigenschaft. Ruft die Speicheroptionen ab oder legt sie fest, wenn das Ergebnis als HttpResponse gespeichert wird. Standardwert PdfSaveOptions
 type: docs
 weight: 90
 url: /de/net/aspose.pdf.facades/form/saveoptions/

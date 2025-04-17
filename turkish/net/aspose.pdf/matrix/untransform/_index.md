@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnTransform
 second_title: Aspose.PDF for .NET API Reference
-description: Matris metodu. Aşağıdaki formülü kullanarak x1 ve y1'i geri dönüştürür ve matris dönüşümünden önce x ve y'yi döndürür: x = D * x1 - C * y1 + C * F / A * D - C * B; y = A * y1 - B * x1 + B * E / A * D - C * B.
+description: Matris metodu. Aşağıdaki formülü kullanarak x1 ve y1'i geri dönüştürür ve matris dönüşümünden önce x ve y'yi döndürür x = D * x1 - C * y1 + C * F / A * D - C * B; y = A * y1 - B * x1 + B * E / A * D - C * B.
 type: docs
 weight: 230
 url: /tr/net/aspose.pdf/matrix/untransform/

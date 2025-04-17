@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.LocationLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает метку местоположения. Значение по умолчанию: Местоположение
+description: Свойство SignatureCustomAppearance. Получает/устанавливает метку местоположения. Значение по умолчанию Местоположение
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/

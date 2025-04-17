@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Fyller textlådefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Observera: Endast tillämplig på Text Box. Både fältnamn och värden är skiftlägeskänsliga.
+description: Formmetod. Fyller textlådefälten med textvärden och sparar dokumentet. Relevant för signerade dokument. Observera Endast tillämplig på Text Box. Både fältnamn och värden är skiftlägeskänsliga.
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/form/fillfields/

@@ -1,7 +1,7 @@
 ---
 title: Form.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: Form özelliği. İşlem sonucu HttpResponse nesnesine kaydedildiğinde içeriğin nasıl saklanacağını alır veya ayarlar. Olası değerler: inline / attachment. Varsayılan: inline.
+description: Form özelliği. İşlem sonucu HttpResponse nesnesine kaydedildiğinde içeriğin nasıl saklanacağını alır veya ayarlar. Olası değerler inline / attachment. Varsayılan inline.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.facades/form/contentdisposition/

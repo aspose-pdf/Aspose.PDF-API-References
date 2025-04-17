@@ -1,7 +1,7 @@
 ---
 title: Class HtmlSaveOptions.CssUrlRequestInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo klass. Representerar en uppsättning data som relaterar till begäran från konverteraren till anpassad kod avsedd att få önskad URL eller URL-mall för den aktuella CSS:en
+description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo klass. Representerar en uppsättning data som relaterar till begäran från konverteraren till anpassad kod avsedd att få önskad URL eller URL-mall för den aktuella CSSen
 type: docs
 weight: 5610
 url: /sv/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/

@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Matris yöntemi. Aşağıdaki formülü kullanarak matris ile x ve y'yi ölçeklendirir: x1 = A*x + C*y; y1 = B*x + D*y
+description: Matris yöntemi. Aşağıdaki formülü kullanarak matris ile x ve y'yi ölçeklendirir x1 = A*x + C*y; y1 = B*x + D*y
 type: docs
 weight: 190
 url: /tr/net/aspose.pdf/matrix/scale/

@@ -1,7 +1,7 @@
 ---
 title: VectorStoreFileBatchResponse.VectorStoreId
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse-egenskap. Hämtar eller ställer in ID:t för vektorbutiken som filen är kopplad till
+description: VectorStoreFileBatchResponse-egenskap. Hämtar eller ställer in IDt för vektorbutiken som filen är kopplad till
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstoreid/

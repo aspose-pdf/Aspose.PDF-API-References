@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Form yöntemi. Metin kutusu alanlarını metin değerleri ile doldurur ve belgeyi kaydeder. İmzalı belgeler için geçerlidir. Not: Sadece Metin Kutusuna uygulanır. Hem alanların adı hem de değerleri büyük/küçük harf duyarlıdır.
+description: Form yöntemi. Metin kutusu alanlarını metin değerleri ile doldurur ve belgeyi kaydeder. İmzalı belgeler için geçerlidir. Not Sadece Metin Kutusuna uygulanır. Hem alanların adı hem de değerleri büyük/küçük harf duyarlıdır.
 type: docs
 weight: 140
 url: /tr/net/aspose.pdf.facades/form/fillfields/

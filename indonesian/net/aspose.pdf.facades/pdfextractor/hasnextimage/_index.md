@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.HasNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Memeriksa apakah lebih banyak gambar dapat diakses dalam dokumen PDF. Catatan: ExtractImage harus dipanggil sebelum menggunakan metode ini
+description: Metode PdfExtractor. Memeriksa apakah lebih banyak gambar dapat diakses dalam dokumen PDF. Catatan ExtractImage harus dipanggil sebelum menggunakan metode ini
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/pdfextractor/hasnextimage/

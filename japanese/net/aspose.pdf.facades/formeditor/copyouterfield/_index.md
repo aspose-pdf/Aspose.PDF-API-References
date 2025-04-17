@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。既存のフィールドを1つのPDFドキュメントから別のドキュメントに、元のページ番号と座標でコピーします。注意: ラジオボックスを除くAcroFormフィールドのみ対象です。
+description: FormEditor メソッド。既存のフィールドを1つのPDFドキュメントから別のドキュメントに、元のページ番号と座標でコピーします。注意 ラジオボックスを除くAcroFormフィールドのみ対象です。
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/formeditor/copyouterfield/

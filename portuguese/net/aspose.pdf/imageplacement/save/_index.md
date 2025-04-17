@@ -1,7 +1,7 @@
 ---
 title: ImagePlacement.Save
 second_title: Aspose.PDF for .NET API Reference
-description: Método ImagePlacement. Salva a imagem com as transformações correspondentes: escala, rotação e resolução
+description: Método ImagePlacement. Salva a imagem com as transformações correspondentes escala, rotação e resolução
 type: docs
 weight: 110
 url: /pt/net/aspose.pdf/imageplacement/save/

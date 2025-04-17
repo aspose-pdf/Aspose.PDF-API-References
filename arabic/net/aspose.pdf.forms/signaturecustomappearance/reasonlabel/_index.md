@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ReasonLabel
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين تسمية السبب. القيمة الافتراضية: سبب
+description: خاصية SignatureCustomAppearance. تحصل/تعيين تسمية السبب. القيمة الافتراضية سبب
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/

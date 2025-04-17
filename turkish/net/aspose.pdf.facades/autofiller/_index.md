@@ -1,7 +1,7 @@
 ---
 title: Class AutoFiller
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.AutoFiller sınıfı. Veritabanından veya diğer veri kaynaklarından veri almayı, bunları şablon pdf'nin tasarlanmış alanlarına doldurmayı ve en sonunda yeni bir pdf dosyası veya akışı oluşturmayı temsil eden bir sınıftır. İki şablon dosyası girdi modu vardır: bir akış olarak veya bir pdf dosyası olarak. Dört tür çıktı modu vardır: birleştirilmiş bir akış, birleştirilmiş bir dosya, birçok küçük akış, birçok küçük dosya. System.Data.DataTable içinde bulunan literal verileri alabilir.
+description: Aspose.Pdf.Facades.AutoFiller sınıfı. Veritabanından veya diğer veri kaynaklarından veri almayı, bunları şablon pdf'nin tasarlanmış alanlarına doldurmayı ve en sonunda yeni bir pdf dosyası veya akışı oluşturmayı temsil eden bir sınıftır. İki şablon dosyası girdi modu vardır bir akış olarak veya bir pdf dosyası olarak. Dört tür çıktı modu vardır birleştirilmiş bir akış, birleştirilmiş bir dosya, birçok küçük akış, birçok küçük dosya. System.Data.DataTable içinde bulunan literal verileri alabilir.
 type: docs
 weight: 4150
 url: /tr/net/aspose.pdf.facades/autofiller/

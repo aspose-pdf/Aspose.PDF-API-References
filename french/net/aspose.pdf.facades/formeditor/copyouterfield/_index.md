@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Copie un champ existant d'un document PDF à un autre document avec le numéro de page original et les ordonnées. Remarque : uniquement pour les champs AcroForm. excluant les cases à cocher.
+description: Méthode FormEditor. Copie un champ existant d'un document PDF à un autre document avec le numéro de page original et les ordonnées. Remarque  uniquement pour les champs AcroForm. excluant les cases à cocher.
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/formeditor/copyouterfield/

@@ -1,7 +1,7 @@
 ---
 title: Class PdfConverter
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfConverter 클래스. PDF 파일의 각 페이지를 BMP, JPEG, PNG 및 TIFF 형식의 이미지로 변환하는 클래스를 나타냅니다. PDF에서 지원되는 콘텐츠: 그림, 양식, 주석.
+description: Aspose.Pdf.Facades.PdfConverter 클래스. PDF 파일의 각 페이지를 BMP, JPEG, PNG 및 TIFF 형식의 이미지로 변환하는 클래스를 나타냅니다. PDF에서 지원되는 콘텐츠 그림, 양식, 주석.
 type: docs
 weight: 4440
 url: /ko/net/aspose.pdf.facades/pdfconverter/

@@ -1,7 +1,7 @@
 ---
 title: Form.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient ou définit comment le contenu sera stocké lorsque le résultat de l'opération est stocké dans l'objet HttpResponse. Valeur possible : inline / attachment. Par défaut : inline
+description: Propriété Form. Obtient ou définit comment le contenu sera stocké lorsque le résultat de l'opération est stocké dans l'objet HttpResponse. Valeur possible  inline / attachment. Par défaut  inline
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/form/contentdisposition/

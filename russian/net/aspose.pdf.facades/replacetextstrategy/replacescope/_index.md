@@ -1,7 +1,7 @@
 ---
 title: ReplaceTextStrategy.ReplaceScope
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство ReplaceTextStrategy. Область операции замены: заменить первое вхождение или заменить все вхождения
+description: Свойство ReplaceTextStrategy. Область операции замены заменить первое вхождение или заменить все вхождения
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/replacetextstrategy/replacescope/

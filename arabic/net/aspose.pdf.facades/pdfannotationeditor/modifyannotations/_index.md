@@ -1,7 +1,7 @@
 ---
 title: PdfAnnotationEditor.ModifyAnnotations
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تعدل التعليقات التوضيحية من النوع المحدد على نطاق الصفحات المحدد. تدعم تعديل خصائص التعليق التوضيحي التالية: العنوان المعدل، المحتويات، اللون، الموضوع، وفتح
+description: طريقة PdfAnnotationEditor. تعدل التعليقات التوضيحية من النوع المحدد على نطاق الصفحات المحدد. تدعم تعديل خصائص التعليق التوضيحي التالية العنوان المعدل، المحتويات، اللون، الموضوع، وفتح
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/

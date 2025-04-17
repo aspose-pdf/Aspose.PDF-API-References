@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileStamp. تحصل أو تضبط كيفية تخزين المحتوى عند تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة: inline / attachment. القيمة الافتراضية: inline
+description: خاصية PdfFileStamp. تحصل أو تضبط كيفية تخزين المحتوى عند تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة inline / attachment. القيمة الافتراضية inline
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdffilestamp/contentdisposition/

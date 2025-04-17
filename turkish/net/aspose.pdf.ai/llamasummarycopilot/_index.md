@@ -1,7 +1,7 @@
 ---
 title: Class LlamaSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaSummaryCopilot sınıfı. AI modellerini kullanarak belge özetleri alma işlevselliği sağlar. Llama istemcisi oluşturma, seçenekleri yapılandırma ve özet yardımcı pilotunu kullanma örnek kullanımı. Not: Bu yardımcı pilot, tamamlama API'sini kullanır, bu nedenle gönderilebilecek toplam metin miktarı model bağlam penceresi ile sınırlıdır.
+description: Aspose.Pdf.AI.LlamaSummaryCopilot sınıfı. AI modellerini kullanarak belge özetleri alma işlevselliği sağlar. Llama istemcisi oluşturma, seçenekleri yapılandırma ve özet yardımcı pilotunu kullanma örnek kullanımı. Not Bu yardımcı pilot, tamamlama API'sini kullanır, bu nedenle gönderilebilecek toplam metin miktarı model bağlam penceresi ile sınırlıdır.
 type: docs
 weight: 740
 url: /tr/net/aspose.pdf.ai/llamasummarycopilot/

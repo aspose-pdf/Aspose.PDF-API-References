@@ -1,7 +1,7 @@
 ---
 title: Class ViewerPreference
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.ViewerPreference. Описывает предпочтения просмотра: режим страницы, режим страницы без полноэкранного отображения, макет страницы
+description: Класс Aspose.Pdf.Facades.ViewerPreference. Описывает предпочтения просмотра режим страницы, режим страницы без полноэкранного отображения, макет страницы
 type: docs
 weight: 4770
 url: /ru/net/aspose.pdf.facades/viewerpreference/

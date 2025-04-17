@@ -1,7 +1,7 @@
 ---
 title: VectorStoreFileResponse.VectorStoreId
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse-egenskap. Hämtar eller ställer in ID:t för vektorbutiken som filen är kopplad till
+description: VectorStoreFileResponse-egenskap. Hämtar eller ställer in IDt för vektorbutiken som filen är kopplad till
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/vectorstorefileresponse/vectorstoreid/

@@ -1,7 +1,7 @@
 ---
 title: CompletionCreateRequest.Stop
 second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest-egenskap. Hämtar eller ställer in upp till 4 sekvenser där API:et kommer att sluta generera ytterligare token
+description: CompletionCreateRequest-egenskap. Hämtar eller ställer in upp till 4 sekvenser där APIet kommer att sluta generera ytterligare token
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.ai/completioncreaterequest/stop/

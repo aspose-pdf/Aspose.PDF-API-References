@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Om sant kommer åtgärder att kopieras från källdokument. Standardvärde: sant
+description: PdfFileEditor-egenskap. Om sant kommer åtgärder att kopieras från källdokument. Standardvärde sant
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdffileeditor/keepactions/

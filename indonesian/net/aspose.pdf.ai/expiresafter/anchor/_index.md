@@ -1,7 +1,7 @@
 ---
 title: ExpiresAfter.Anchor
 second_title: Aspose.PDF for .NET API Reference
-description: Properti ExpiresAfter. Mengambil atau mengatur cap waktu jangkar setelah kebijakan kedaluwarsa diterapkan. Jangkar yang didukung: last_active_at
+description: Properti ExpiresAfter. Mengambil atau mengatur cap waktu jangkar setelah kebijakan kedaluwarsa diterapkan. Jangkar yang didukung last_active_at
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/expiresafter/anchor/

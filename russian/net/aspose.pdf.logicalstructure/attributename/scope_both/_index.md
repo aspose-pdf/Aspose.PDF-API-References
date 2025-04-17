@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Scope_Both
 second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Область атрибута: Оба
+description: Поле AttributeName. Область атрибута Оба
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf.logicalstructure/attributename/scope_both/

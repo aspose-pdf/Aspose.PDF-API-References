@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetAttachNames
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تُرجع قائمة بالمرفقات في ملف PDF. ملاحظة: يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة
+description: طريقة PdfExtractor. تُرجع قائمة بالمرفقات في ملف PDF. ملاحظة يجب استدعاء ExtractAttachments قبل استخدام هذه الطريقة
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdfextractor/getattachnames/

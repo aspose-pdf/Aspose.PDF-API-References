@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metodu. Mevcut bir alanı bir PDF belgesinden diğerine orijinal sayfa numarası ve ordinatlarla kopyalar. Not: Sadece radyo kutusu hariç AcroForm alanları için
+description: FormEditor metodu. Mevcut bir alanı bir PDF belgesinden diğerine orijinal sayfa numarası ve ordinatlarla kopyalar. Not Sadece radyo kutusu hariç AcroForm alanları için
 type: docs
 weight: 160
 url: /tr/net/aspose.pdf.facades/formeditor/copyouterfield/

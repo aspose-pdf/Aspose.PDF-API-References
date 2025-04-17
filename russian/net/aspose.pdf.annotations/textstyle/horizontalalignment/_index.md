@@ -1,7 +1,7 @@
 ---
 title: TextStyle.HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStyle. Выравнивание текста. Допустимые значения: Слева Центр Справа
+description: Свойство TextStyle. Выравнивание текста. Допустимые значения Слева Центр Справа
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/textstyle/horizontalalignment/

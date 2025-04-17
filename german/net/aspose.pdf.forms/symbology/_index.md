@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology-Enum. Eine Barcode-Symbologie definiert die technischen Details eines bestimmten Typs von Barcode: die Breite der Balken, Zeichensatz, Kodierungsmethode, Prüfziffernspezifikationen usw.
+description: Aspose.Pdf.Forms.Symbology-Enum. Eine Barcode-Symbologie definiert die technischen Details eines bestimmten Typs von Barcode die Breite der Balken, Zeichensatz, Kodierungsmethode, Prüfziffernspezifikationen usw.
 type: docs
 weight: 5310
 url: /de/net/aspose.pdf.forms/symbology/

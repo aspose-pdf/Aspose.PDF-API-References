@@ -1,7 +1,7 @@
 ---
 title: Page.Rect
 second_title: Aspose.PDF for .NET API Reference
-description: Sayfa özelliği. Sayfanın dikdörtgenini alır veya ayarlar. Almak için: belirtilmişse sayfa kırpma kutusu döndürülür, aksi takdirde sayfa medya kutusu döndürülür. Ayarlamak için: sayfa medya kutusu her zaman ayarlanır. Lütfen bu özelliğin sayfa döndürmesini dikkate almadığını unutmayın. Döndürmeyi dikkate alarak sayfa dikdörtgenini almak için lütfen ActualRect kullanın.
+description: Sayfa özelliği. Sayfanın dikdörtgenini alır veya ayarlar. Almak için belirtilmişse sayfa kırpma kutusu döndürülür, aksi takdirde sayfa medya kutusu döndürülür. Ayarlamak için sayfa medya kutusu her zaman ayarlanır. Lütfen bu özelliğin sayfa döndürmesini dikkate almadığını unutmayın. Döndürmeyi dikkate alarak sayfa dikdörtgenini almak için lütfen ActualRect kullanın.
 type: docs
 weight: 230
 url: /tr/net/aspose.pdf/page/rect/

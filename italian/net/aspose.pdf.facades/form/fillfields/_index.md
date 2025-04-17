@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Compila i campi della casella di testo con valori di testo e salva il documento. Rilevante per documenti firmati. Nota: Applicabile solo alla casella di testo. Sia i nomi dei campi che i valori sono sensibili al maiuscolo/minuscolo.
+description: Metodo Form. Compila i campi della casella di testo con valori di testo e salva il documento. Rilevante per documenti firmati. Nota Applicabile solo alla casella di testo. Sia i nomi dei campi che i valori sono sensibili al maiuscolo/minuscolo.
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/form/fillfields/

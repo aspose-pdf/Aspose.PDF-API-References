@@ -1,7 +1,7 @@
 ---
 title: OutlineItemCollection.Count
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. عدد عناصر المجموعة. يرجى عدم الخلط مع VisibleCount: VisibleCount يحصل على عدد عناصر المخطط المرئية على جميع المستويات
+description: خاصية OutlineItemCollection. عدد عناصر المجموعة. يرجى عدم الخلط مع VisibleCount VisibleCount يحصل على عدد عناصر المخطط المرئية على جميع المستويات
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/outlineitemcollection/count/

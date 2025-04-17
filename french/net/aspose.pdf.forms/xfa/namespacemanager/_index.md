@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété XFA. Obtient l'espace de noms pour le formulaire XFA. Les espaces de noms suivants sont définis : "data" pour les données du formulaire et "tpl" pour le modèle de formulaire
+description: Propriété XFA. Obtient l'espace de noms pour le formulaire XFA. Les espaces de noms suivants sont définis  "data" pour les données du formulaire et "tpl" pour le modèle de formulaire
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.forms/xfa/namespacemanager/

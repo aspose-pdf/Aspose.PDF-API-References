@@ -1,7 +1,7 @@
 ---
 title: ExpiresAfter.Anchor
 second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter 속성. 만료 정책이 적용되는 앵커 타임스탬프를 가져오거나 설정합니다. 지원되는 앵커: last_active_at
+description: ExpiresAfter 속성. 만료 정책이 적용되는 앵커 타임스탬프를 가져오거나 설정합니다. 지원되는 앵커 last_active_at
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/expiresafter/anchor/

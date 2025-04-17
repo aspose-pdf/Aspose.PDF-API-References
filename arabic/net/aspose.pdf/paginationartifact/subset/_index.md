@@ -1,7 +1,7 @@
 ---
 title: PaginationArtifact.Subset
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaginationArtifact. يحصل أو يحدد مجموعة الصفحات التي ينطبق عليها الأثر، مثل: جميع الصفحات، الصفحات الزوجية، الصفحات الفردية
+description: خاصية PaginationArtifact. يحصل أو يحدد مجموعة الصفحات التي ينطبق عليها الأثر، مثل جميع الصفحات، الصفحات الزوجية، الصفحات الفردية
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/paginationartifact/subset/

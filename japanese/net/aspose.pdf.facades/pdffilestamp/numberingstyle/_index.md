@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp プロパティ。ページ番号スタイルを取得または設定します。可能な値: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+description: PdfFileStamp プロパティ。ページ番号スタイルを取得または設定します。可能な値 NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/pdffilestamp/numberingstyle/

@@ -1,7 +1,7 @@
 ---
 title: TextStamp.Justify
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Определяет выравнивание текста. Если это свойство установлено в true, то левый и правый края текста выровнены. Значение по умолчанию: false
+description: Свойство TextStamp. Определяет выравнивание текста. Если это свойство установлено в true, то левый и правый края текста выровнены. Значение по умолчанию false
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/textstamp/justify/

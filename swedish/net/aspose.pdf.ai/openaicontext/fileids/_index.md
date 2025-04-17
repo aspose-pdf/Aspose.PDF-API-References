@@ -1,7 +1,7 @@
 ---
 title: OpenAIContext.FileIds
 second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext-egenskap. Hämtar eller ställer in listan över fil-ID:n
+description: OpenAIContext-egenskap. Hämtar eller ställer in listan över fil-IDn
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/openaicontext/fileids/

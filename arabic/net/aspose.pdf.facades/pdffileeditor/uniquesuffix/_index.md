@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.UniqueSuffix
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. تنسيق اللاحقة التي تضاف إلى اسم الحقل لجعلها فريدة عند دمج النماذج. يجب أن تحتوي هذه السلسلة على جزء فرعي NUM الذي سيتم استبداله بأرقام. على سبيل المثال، إذا كانت UniqueSuffix = ABCNUM، فإن أسماء الحقول fieldName ستكون: fieldNameABC1، fieldNameABC2، fieldNameABC3، إلخ.
+description: خاصية PdfFileEditor. تنسيق اللاحقة التي تضاف إلى اسم الحقل لجعلها فريدة عند دمج النماذج. يجب أن تحتوي هذه السلسلة على جزء فرعي NUM الذي سيتم استبداله بأرقام. على سبيل المثال، إذا كانت UniqueSuffix = ABCNUM، فإن أسماء الحقول fieldName ستكون fieldNameABC1، fieldNameABC2، fieldNameABC3، إلخ.
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/

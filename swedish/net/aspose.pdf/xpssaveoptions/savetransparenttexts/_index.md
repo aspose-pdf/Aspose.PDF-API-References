@@ -1,7 +1,7 @@
 ---
 title: XpsSaveOptions.SaveTransparentTexts
 second_title: Aspose.PDF for .NET API Reference
-description: XpsSaveOptions-egenskap. Indikerar huruvida man ska bevara transparent OCR:ad text
+description: XpsSaveOptions-egenskap. Indikerar huruvida man ska bevara transparent OCRad text
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/xpssaveoptions/savetransparenttexts/

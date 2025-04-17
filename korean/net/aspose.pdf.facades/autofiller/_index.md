@@ -1,7 +1,7 @@
 ---
 title: Class AutoFiller
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.AutoFiller 클래스. 데이터베이스 또는 기타 데이터 소스에서 데이터를 수신하고 이를 템플릿 PDF의 설계된 필드에 채운 다음 새로운 PDF 파일 또는 스트림을 생성하는 클래스를 나타냅니다. 두 가지 템플릿 파일 입력 모드가 있습니다: 스트림으로 입력하거나 PDF 파일로 입력합니다. 네 가지 출력 모드가 있습니다: 하나의 병합된 스트림, 하나의 병합된 파일, 여러 개의 작은 스트림, 여러 개의 작은 파일. System.Data.DataTable에 포함된 리터럴 데이터를 수신할 수 있습니다.
+description: Aspose.Pdf.Facades.AutoFiller 클래스. 데이터베이스 또는 기타 데이터 소스에서 데이터를 수신하고 이를 템플릿 PDF의 설계된 필드에 채운 다음 새로운 PDF 파일 또는 스트림을 생성하는 클래스를 나타냅니다. 두 가지 템플릿 파일 입력 모드가 있습니다 스트림으로 입력하거나 PDF 파일로 입력합니다. 네 가지 출력 모드가 있습니다 하나의 병합된 스트림, 하나의 병합된 파일, 여러 개의 작은 스트림, 여러 개의 작은 파일. System.Data.DataTable에 포함된 리터럴 데이터를 수신할 수 있습니다.
 type: docs
 weight: 4150
 url: /ko/net/aspose.pdf.facades/autofiller/

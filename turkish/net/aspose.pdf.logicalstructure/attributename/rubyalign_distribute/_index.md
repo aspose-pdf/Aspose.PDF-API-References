@@ -1,7 +1,7 @@
 ---
 title: AttributeName.RubyAlign_Distribute
 second_title: Aspose.PDF for .NET API Reference
-description: AttributeName alanı. Attribute RubyAlign Dağıtımı İçerik, çevrimiçi ilerleme yönünde mevcut genişliği dolduracak şekilde genişletilecektir. Ancak, metnin başlangıç kenarında ve bitiş kenarında da boşluk eklenmelidir. Boşluk, 1:2:1 - başlangıç:infix:bitiş, oranı kullanılarak dağıtılacaktır. Eğer ruby, bir metin satırının başlangıcında görünüyorsa 0:1:1 oranına veya metin satırının sonunda görünüyorsa 1:1:0 oranına değiştirilecektir.
+description: AttributeName alanı. Attribute RubyAlign Dağıtımı İçerik, çevrimiçi ilerleme yönünde mevcut genişliği dolduracak şekilde genişletilecektir. Ancak, metnin başlangıç kenarında ve bitiş kenarında da boşluk eklenmelidir. Boşluk, 121 - başlangıçinfixbitiş, oranı kullanılarak dağıtılacaktır. Eğer ruby, bir metin satırının başlangıcında görünüyorsa 011 oranına veya metin satırının sonunda görünüyorsa 110 oranına değiştirilecektir.
 type: docs
 weight: 440
 url: /tr/net/aspose.pdf.logicalstructure/attributename/rubyalign_distribute/

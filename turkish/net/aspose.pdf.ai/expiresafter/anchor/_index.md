@@ -1,7 +1,7 @@
 ---
 title: ExpiresAfter.Anchor
 second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter özelliği. Süre sona erme politikasının geçerli olduğu zaman damgasını alır veya ayarlar. Desteklenen zaman damgaları: last_active_at
+description: ExpiresAfter özelliği. Süre sona erme politikasının geçerli olduğu zaman damgasını alır veya ayarlar. Desteklenen zaman damgaları last_active_at
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.ai/expiresafter/anchor/

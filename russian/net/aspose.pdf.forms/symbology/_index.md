@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Forms.Symbology. Символика штрих-кода определяет технические детали конкретного типа штрих-кода: ширину полос, набор символов, метод кодирования, спецификации контрольной суммы и т. д.
+description: Enum Aspose.Pdf.Forms.Symbology. Символика штрих-кода определяет технические детали конкретного типа штрих-кода ширину полос, набор символов, метод кодирования, спецификации контрольной суммы и т. д.
 type: docs
 weight: 5310
 url: /ru/net/aspose.pdf.forms/symbology/

@@ -1,7 +1,7 @@
 ---
 title: ListDataResponse1.LastId
 second_title: Aspose.PDF for .NET API Reference
-description: ListDataResponse-egenskap. Hämtar eller ställer in det sista ID:t i listan
+description: ListDataResponse-egenskap. Hämtar eller ställer in det sista IDt i listan
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/listdataresponse-1/lastid/

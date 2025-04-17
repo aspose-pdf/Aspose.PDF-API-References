@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan untuk mengatur parameter berikut: Ukuran halaman hasil dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Kelas ini digunakan dalam metode ResizeContents.
+description: Kelas Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Kelas untuk menentukan parameter pengubahan ukuran halaman. Memungkinkan untuk mengatur parameter berikut Ukuran halaman hasil dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Margin Kiri, Atas, Bawah, dan Kanan dalam satuan ruang default atau dalam persentase dari ukuran halaman awal; Beberapa nilai dapat dibiarkan null untuk perhitungan otomatis. Nilai-nilai ini akan dihitung dari sisa ukuran halaman setelah perhitungan nilai yang ditentukan secara eksplisit. Kelas ini digunakan dalam metode ResizeContents.
 type: docs
 weight: 4480
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

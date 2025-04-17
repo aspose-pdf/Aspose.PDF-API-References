@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp özelliği. İşlem sonucunun HttpResponse nesnesine kaydedildiğinde içeriğin nasıl saklanacağını alır veya ayarlar. Olası değer: inline / attachment. Varsayılan: inline.
+description: PdfFileStamp özelliği. İşlem sonucunun HttpResponse nesnesine kaydedildiğinde içeriğin nasıl saklanacağını alır veya ayarlar. Olası değer inline / attachment. Varsayılan inline.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.facades/pdffilestamp/contentdisposition/

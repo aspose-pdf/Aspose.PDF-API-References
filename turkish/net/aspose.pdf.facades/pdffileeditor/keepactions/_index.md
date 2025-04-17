@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor özelliği. Eğer doğruysa, eylemler kaynak belgelerden kopyalanacaktır. Varsayılan değer: doğru
+description: PdfFileEditor özelliği. Eğer doğruysa, eylemler kaynak belgelerden kopyalanacaktır. Varsayılan değer doğru
 type: docs
 weight: 110
 url: /tr/net/aspose.pdf.facades/pdffileeditor/keepactions/

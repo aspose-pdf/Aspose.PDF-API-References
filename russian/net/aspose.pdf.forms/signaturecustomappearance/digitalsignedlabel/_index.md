@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.DigitalSignedLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает цифровую подпись. Значение по умолчанию: "Цифровая подпись от"
+description: Свойство SignatureCustomAppearance. Получает/устанавливает цифровую подпись. Значение по умолчанию "Цифровая подпись от"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/

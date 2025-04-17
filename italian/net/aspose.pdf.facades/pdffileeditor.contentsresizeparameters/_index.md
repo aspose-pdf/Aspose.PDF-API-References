@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters classe. Classe per specificare i parametri di ridimensionamento della pagina. Consente di impostare i seguenti parametri: Dimensione della pagina risultante in unità di spazio predefinite o in percentuale delle dimensioni delle pagine iniziali; Margini sinistro, superiore, inferiore e destro in unità di spazio predefinite o in percentuale delle dimensioni della pagina iniziale; Alcuni valori possono essere lasciati null per il calcolo automatico. Questi valori saranno calcolati dal resto delle dimensioni della pagina dopo il calcolo dei valori esplicitamente specificati. Questa classe è utilizzata nel metodo ResizeContents.
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters classe. Classe per specificare i parametri di ridimensionamento della pagina. Consente di impostare i seguenti parametri Dimensione della pagina risultante in unità di spazio predefinite o in percentuale delle dimensioni delle pagine iniziali; Margini sinistro, superiore, inferiore e destro in unità di spazio predefinite o in percentuale delle dimensioni della pagina iniziale; Alcuni valori possono essere lasciati null per il calcolo automatico. Questi valori saranno calcolati dal resto delle dimensioni della pagina dopo il calcolo dei valori esplicitamente specificati. Questa classe è utilizzata nel metodo ResizeContents.
 type: docs
 weight: 4480
 url: /it/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

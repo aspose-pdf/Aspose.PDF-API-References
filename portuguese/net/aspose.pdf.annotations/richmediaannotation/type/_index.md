@@ -1,7 +1,7 @@
 ---
 title: RichMediaAnnotation.Type
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade RichMediaAnnotation. Obtém ou define o tipo de conteúdo. Valores possíveis: Áudio Vídeo
+description: Propriedade RichMediaAnnotation. Obtém ou define o tipo de conteúdo. Valores possíveis Áudio Vídeo
 type: docs
 weight: 70
 url: /pt/net/aspose.pdf.annotations/richmediaannotation/type/

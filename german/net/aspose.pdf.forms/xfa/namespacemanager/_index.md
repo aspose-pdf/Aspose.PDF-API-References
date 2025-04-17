@@ -1,7 +1,7 @@
 ---
 title: XFA.NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: XFA-Eigenschaft. Ruft den Namensraum für das XFA-Formular ab. Die folgenden Namensräume sind definiert: "data" für Formulardaten und "tpl" für das Formular-Template
+description: XFA-Eigenschaft. Ruft den Namensraum für das XFA-Formular ab. Die folgenden Namensräume sind definiert "data" für Formulardaten und "tpl" für das Formular-Template
 type: docs
 weight: 60
 url: /de/net/aspose.pdf.forms/xfa/namespacemanager/

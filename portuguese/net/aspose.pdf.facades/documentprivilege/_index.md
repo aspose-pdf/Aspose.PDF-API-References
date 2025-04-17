@@ -1,7 +1,7 @@
 ---
 title: Class DocumentPrivilege
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.DocumentPrivilege. Representa os privilégios para acessar arquivos Pdf. Consulte PdfFileSecurity. Existem 4 maneiras de usar esta classe: 1. Usando privilégio pré-definido diretamente. 2. Baseado em um privilégio pré-definido e alterando algumas permissões específicas. 3. Baseado em um privilégio pré-definido e alterando algumas combinações específicas de permissões do Adobe Professional. 4. Mistura a maneira 2 e a maneira 3.
+description: Classe Aspose.Pdf.Facades.DocumentPrivilege. Representa os privilégios para acessar arquivos Pdf. Consulte PdfFileSecurity. Existem 4 maneiras de usar esta classe 1. Usando privilégio pré-definido diretamente. 2. Baseado em um privilégio pré-definido e alterando algumas permissões específicas. 3. Baseado em um privilégio pré-definido e alterando algumas combinações específicas de permissões do Adobe Professional. 4. Mistura a maneira 2 e a maneira 3.
 type: docs
 weight: 4230
 url: /pt/net/aspose.pdf.facades/documentprivilege/

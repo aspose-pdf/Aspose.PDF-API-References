@@ -1,7 +1,7 @@
 ---
 title: CommonFigureAnnotation.Frame
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CommonFigureAnnotation. Il rettangolo che descrive le differenze numeriche tra due rettangoli: l'entrata Rect dell'annotazione e i confini effettivi del quadrato o cerchio sottostante.
+description: Proprietà CommonFigureAnnotation. Il rettangolo che descrive le differenze numeriche tra due rettangoli l'entrata Rect dell'annotazione e i confini effettivi del quadrato o cerchio sottostante.
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/commonfigureannotation/frame/

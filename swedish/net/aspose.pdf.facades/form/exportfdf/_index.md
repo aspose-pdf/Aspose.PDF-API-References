@@ -1,7 +1,7 @@
 ---
 title: Form.ExportFdf
 second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Exporterar innehållet i fälten i pdf:en till fdf-strömmen
+description: Formmetod. Exporterar innehållet i fälten i pdfen till fdf-strömmen
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/form/exportfdf/
