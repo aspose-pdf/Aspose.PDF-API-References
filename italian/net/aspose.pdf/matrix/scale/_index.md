@@ -6,13 +6,6 @@ type: docs
 weight: 190
 url: /it/net/aspose.pdf/matrix/scale/
 ---
-title: Matrix.Scale  
-second_title: API Reference Aspose.PDF for .NET  
-description: Scala x e y con la matrice utilizzando la seguente formula x1 = A*x + C*y; y1 = B*x + D*y;  
-type: docs  
-weight: 190  
-url: /net/aspose.pdf/matrix/scale/  
-
 ## Scale(double, double, out double, out double)  
 
 Scala x e y con la matrice utilizzando la seguente formula:  

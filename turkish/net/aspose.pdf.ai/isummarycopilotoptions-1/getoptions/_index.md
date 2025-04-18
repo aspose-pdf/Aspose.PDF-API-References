@@ -1,7 +1,7 @@
 ---
 title: ISummaryCopilotOptions1.GetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilotOptions metodu. *TOptions* türündeki seçenekleri alır
+description: ISummaryCopilotOptions metodu. TOptions türündeki seçenekleri alır
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf.ai/isummarycopilotoptions-1/getoptions/

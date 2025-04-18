@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。使用以下公式缩放 x 和 y：x1 = A*x + C*y; y1 = B*x + D*y
+description: 矩阵方法。使用以下公式缩放 x 和 y：x1 = Ax + Cy; y1 = Bx + Dy
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf/matrix/scale/

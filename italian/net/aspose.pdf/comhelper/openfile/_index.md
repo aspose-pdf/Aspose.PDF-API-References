@@ -1,7 +1,7 @@
 ---
 title: ComHelper.OpenFile
 second_title: Aspose.PDF for .NET API Reference
-description: Metodo ComHelper. Crea e restituisce un Documento utilizzando il *nome file*. Lo stesso di Document
+description: Metodo ComHelper. Crea e restituisce un Documento utilizzando il nome file. Lo stesso di Document
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/comhelper/openfile/

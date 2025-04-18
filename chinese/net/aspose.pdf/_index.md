@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf 是 Aspose.Pdf 库中所有类的根命名空间，这些类直接位于其中，如 **Document**，或通过多个子命名空间间接位于其中。
+description: Aspose.Pdf 是 Aspose.Pdf 库中所有类的根命名空间，这些类直接位于其中，如 Document，或通过多个子命名空间间接位于其中。
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins är ett rot-namespac för alla klasser av Aspose.Pdf.Plugins-klasser som antingen är direkt i det som **PdfOrganizer** eller indirekt genom flera subnamespaces
+description: Aspose.Pdf.Plugins är ett rot-namespac för alla klasser av Aspose.Pdf.Plugins-klasser som antingen är direkt i det som PdfOrganizer eller indirekt genom flera subnamespaces
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.plugins/

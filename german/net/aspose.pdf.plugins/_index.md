@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Das Aspose.Pdf.Plugins ist ein Stamm-Namespace für alle Klassen der Aspose.Pdf.Plugins-Klassen, die entweder direkt darin enthalten sind, wie **PdfOrganizer**, oder indirekt durch mehrere Unternamespaces.
+description: Das Aspose.Pdf.Plugins ist ein Stamm-Namespace für alle Klassen der Aspose.Pdf.Plugins-Klassen, die entweder direkt darin enthalten sind, wie PdfOrganizer, oder indirekt durch mehrere Unternamespaces.
 type: docs
 weight: 190
 url: /de/net/aspose.pdf.plugins/

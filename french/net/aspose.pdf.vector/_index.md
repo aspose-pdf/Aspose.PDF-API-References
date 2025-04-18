@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Vector
 second_title: Aspose.PDF for .NET API Reference
-description: Le **Aspose.Pdf.Vector** est un espace de noms racine pour les opérations graphiques
+description: Le Aspose.Pdf.Vector est un espace de noms racine pour les opérations graphiques
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.vector/

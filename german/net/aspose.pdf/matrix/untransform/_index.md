@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnTransform
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix-Methode. Transformiert x1 und y1 zurück und gibt x und y vor der Matrixtransformation unter Verwendung der folgenden Formel zurück x = D * x1 - C * y1 + C * F / A * D - C * B; y = A * y1 - B * x1 + B * E / A * D - C * B.
+description: Matrix-Methode. Transformiert x1 und y1 zurück und gibt x und y vor der Matrixtransformation unter Verwendung der folgenden Formel zurück x = D  x1 - C  y1 + C  F / A  D - C  B; y = A  y1 - B  x1 + B  E / A  D - C  B.
 type: docs
 weight: 230
 url: /de/net/aspose.pdf/matrix/untransform/

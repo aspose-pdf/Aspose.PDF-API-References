@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins 是 Aspose.Pdf.Plugins 类的根命名空间，这些类要么直接在其中，如 **PdfOrganizer**，要么通过几个子命名空间间接存在。
+description: Aspose.Pdf.Plugins 是 Aspose.Pdf.Plugins 类的根命名空间，这些类要么直接在其中，如 PdfOrganizer，要么通过几个子命名空间间接存在。
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.plugins/

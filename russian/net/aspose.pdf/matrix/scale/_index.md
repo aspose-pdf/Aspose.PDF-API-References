@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Метод матрицы. Масштабирует x и y с помощью матрицы, используя следующую формулу x1 = A*x + C*y; y1 = B*x + D*y
+description: Метод матрицы. Масштабирует x и y с помощью матрицы, используя следующую формулу x1 = Ax + Cy; y1 = Bx + Dy
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/matrix/scale/

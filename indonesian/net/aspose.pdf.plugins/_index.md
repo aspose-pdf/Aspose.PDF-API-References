@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins adalah namespace root untuk semua kelas dari kelas Aspose.Pdf.Plugins yang berada langsung di dalamnya seperti **PdfOrganizer** atau tidak langsung melalui beberapa subnamespace
+description: Aspose.Pdf.Plugins adalah namespace root untuk semua kelas dari kelas Aspose.Pdf.Plugins yang berada langsung di dalamnya seperti PdfOrganizer atau tidak langsung melalui beberapa subnamespace
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.plugins/

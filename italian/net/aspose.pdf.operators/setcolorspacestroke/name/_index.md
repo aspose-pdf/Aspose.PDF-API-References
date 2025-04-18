@@ -1,7 +1,7 @@
 ---
 title: SetColorSpaceStroke.Name
 second_title: Aspose.PDF for .NET API Reference
-description: **SetColorSpaceStroke proprietà.** Imposta o ottiene nome dello spazio di colore.
+description: SetColorSpaceStroke proprietà. Imposta o ottiene nome dello spazio di colore.
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setcolorspacestroke/name/

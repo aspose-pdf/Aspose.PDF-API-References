@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins, doğrudan içinde bulunan **PdfOrganizer** gibi veya birkaç alt ad alanı aracılığıyla dolaylı olarak bulunan tüm Aspose.Pdf.Plugins sınıfları için bir kök ad alanıdır.
+description: Aspose.Pdf.Plugins, doğrudan içinde bulunan PdfOrganizer gibi veya birkaç alt ad alanı aracılığıyla dolaylı olarak bulunan tüm Aspose.Pdf.Plugins sınıfları için bir kök ad alanıdır.
 type: docs
 weight: 190
 url: /tr/net/aspose.pdf.plugins/
