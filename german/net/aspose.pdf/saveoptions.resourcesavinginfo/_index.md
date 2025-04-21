@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.ResourceSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsResourceSavingInfo-Klasse. Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern externer Ressourcendateien verbunden sind, das während der Konvertierung von PDF in ein anderes Format (z. B. HTML) auftritt.
+description: Aspose.Pdf.SaveOptionsResourceSavingInfo-Klasse. Diese Klasse stellt eine Menge von Daten dar, die mit dem Speichern externer Ressourcendateien verbunden sind, das während der Konvertierung von PDF in ein anderes Format auftritt.
 type: docs
 weight: 9940
 url: /de/net/aspose.pdf/saveoptions.resourcesavinginfo/

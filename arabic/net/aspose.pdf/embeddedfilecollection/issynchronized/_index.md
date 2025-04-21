@@ -1,7 +1,7 @@
 ---
 title: EmbeddedFileCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامن (آمن للخيوط)
+description: خاصية EmbeddedFileCollection. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامن 
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/embeddedfilecollection/issynchronized/

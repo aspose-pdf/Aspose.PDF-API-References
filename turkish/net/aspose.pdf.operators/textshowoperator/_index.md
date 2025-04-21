@@ -1,7 +1,7 @@
 ---
 title: Class TextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextShowOperator sınıfı. Metin çıkarmak için kullanılan tüm operatörler için soyut temel sınıf (Tj, TJ vb.)
+description: Aspose.Pdf.Operators.TextShowOperator sınıfı. Metin çıkarmak için kullanılan tüm operatörler için soyut temel sınıf - Tj, TJ vb.
 type: docs
 weight: 7920
 url: /tr/net/aspose.pdf.operators/textshowoperator/

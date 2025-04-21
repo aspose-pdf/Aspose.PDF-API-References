@@ -4,7 +4,7 @@ linktitle: PageNodesToBalancedTree
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::PageNodesToBalancedTree method. Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. Do not call this method while iterating over Pages elements, it may give unpredictable results in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/aspose.pdf/document/pagenodestobalancedtree/
 ---
 ## Document::PageNodesToBalancedTree method

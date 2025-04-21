@@ -1,7 +1,7 @@
 ---
 title: Class GlyphPosition
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.GlyphPosition sınıfı. Sınıf, TJ operatörü ile kullanılacak metin ve konumu tanımlar (konum ile glif ayarla)
+description: Aspose.Pdf.Operators.GlyphPosition sınıfı. Sınıf, TJ operatörü ile kullanılacak metin ve konumu tanımlar. konum ile glif ayarla.
 type: docs
 weight: 7420
 url: /tr/net/aspose.pdf.operators/glyphposition/

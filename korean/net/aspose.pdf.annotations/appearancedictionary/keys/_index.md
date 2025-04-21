@@ -1,7 +1,7 @@
 ---
 title: AppearanceDictionary.Keys
 second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 속성. 사전의 키를 가져옵니다. AppearanceDictionary에 하위 사전이 있는 경우, Keys는 NRD.state 값을 포함합니다. 여기서 N은 일반 모양, R은 롤오버 모양, D는 다운 모양이며, state는 상태의 이름입니다(예: 체크박스의 경우 On, Off).
+description: AppearanceDictionary 속성. 사전의 키를 가져옵니다. AppearanceDictionary에 하위 사전이 있는 경우, Keys는 NRD.state 값을 포함합니다. 여기서 N은 일반 모양, R은 롤오버 모양, D는 다운 모양이며, state는 상태의 이름입니다（예 체크박스의 경우 On, Off）.
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/appearancedictionary/keys/

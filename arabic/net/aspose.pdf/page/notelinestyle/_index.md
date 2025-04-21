@@ -1,7 +1,7 @@
 ---
 title: Page.NoteLineStyle
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين نمط الخط للملحوظات. (للمولد فقط، غير مملوء عند قراءة الوثيقة)
+description: خاصية الصفحة. تحصل أو تعين نمط الخط للملحوظات.
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/page/notelinestyle/

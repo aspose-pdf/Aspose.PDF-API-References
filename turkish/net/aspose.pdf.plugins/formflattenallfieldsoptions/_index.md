@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenAllFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions sınıfı. FormFlattener eklentisi ile belgede tüm alanları (not anotasyonları) düzleştirmek için seçenekleri temsil eder.
+description: Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions sınıfı. FormFlattener eklentisi ile belgede tüm alanları düzleştirmek için seçenekleri temsil eder.
 type: docs
 weight: 8730
 url: /tr/net/aspose.pdf.plugins/formflattenallfieldsoptions/

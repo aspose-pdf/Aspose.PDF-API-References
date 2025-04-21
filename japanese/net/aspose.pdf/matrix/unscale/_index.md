@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix メソッド。次の式を使用して、x1 と y1 を元に戻し、行列変換の前の x と y を返します: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+description: Matrix メソッド。次の式を使用して、x1 と y1 を元に戻し、行列変換の前の x と y を返します x = （D  x1 - C  y1） / （A  D - C  B）; y = （A y1 - B x1） / （A D - C B）;
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf/matrix/unscale/

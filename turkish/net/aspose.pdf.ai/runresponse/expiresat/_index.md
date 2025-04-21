@@ -1,7 +1,7 @@
 ---
 title: RunResponse.ExpiresAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunResponse özelliği. Çalışmanın ne zaman sona ereceği için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: RunResponse özelliği. Çalışmanın ne zaman sona ereceği için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 60
 url: /tr/net/aspose.pdf.ai/runresponse/expiresat/

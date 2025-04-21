@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.MarginInfo.BottomMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo alanı. Alt sayfa kenar boşluğunu temsil eder (varsa)
+description: MarginInfo alanı. Alt sayfa kenar boşluğunu temsil eder
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/

@@ -1,7 +1,7 @@
 ---
 title: TextFragmentState.StrokingColor
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين عمليات تلوين الحدود الخاصة برسم TextFragment (حدود نص، حدود مستطيل)
+description: خاصية TextFragmentState. تحصل أو تعين عمليات تلوين الحدود الخاصة برسم TextFragment
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.text/textfragmentstate/strokingcolor/

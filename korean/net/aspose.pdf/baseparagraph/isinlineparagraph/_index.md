@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph 속성. 단락이 인라인인지 가져오거나 설정합니다. 기본값은 false입니다.(PDF 생성용)
+description: BaseParagraph 속성. 단락이 인라인인지 가져오거나 설정합니다. 기본값은 false입니다.（PDF 생성용）
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/baseparagraph/isinlineparagraph/

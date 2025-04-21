@@ -1,7 +1,7 @@
 ---
 title: Graph.IsChangePosition
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de Graph. Obtiene o establece el cambio de posición actual después de procesar el párrafo. (predeterminado verdadero)
+description: Propiedad de Graph. Obtiene o establece el cambio de posición actual después de procesar el párrafo.
 type: docs
 weight: 50
 url: /es/net/aspose.pdf.drawing/graph/ischangeposition/

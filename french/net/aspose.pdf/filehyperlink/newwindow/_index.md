@@ -1,7 +1,7 @@
 ---
 title: FileHyperlink.NewWindow
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileHyperlink. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre (affecte uniquement les documents PDF).
+description: Propriété FileHyperlink. Obtient ou définit un indicateur spécifiant s'il faut ouvrir le document de destination dans une nouvelle fenêtre.
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/filehyperlink/newwindow/

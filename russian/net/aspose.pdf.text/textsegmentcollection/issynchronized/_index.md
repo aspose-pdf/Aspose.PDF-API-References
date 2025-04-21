@@ -1,7 +1,7 @@
 ---
 title: TextSegmentCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSegmentCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасен для потоков)
+description: Свойство TextSegmentCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textsegmentcollection/issynchronized/

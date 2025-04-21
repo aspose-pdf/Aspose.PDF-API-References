@@ -1,7 +1,7 @@
 ---
 title: Class BMC
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BMC sınıfı. BMC operatörünü temsil eden sınıf (Başlangıç işaretli içerik dizisi)
+description: Aspose.Pdf.Operators.BMC sınıfı. BMC operatörünü temsil eden sınıf - Başlangıç işaretli içerik dizisi.
 type: docs
 weight: 7120
 url: /tr/net/aspose.pdf.operators/bmc/

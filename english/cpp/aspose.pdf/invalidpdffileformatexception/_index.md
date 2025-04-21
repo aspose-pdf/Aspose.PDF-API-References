@@ -4,7 +4,7 @@ linktitle: InvalidPdfFileFormatException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::InvalidPdfFileFormatException typedef in C++.'
 type: docs
-weight: 28100
+weight: 28400
 url: /cpp/aspose.pdf/invalidpdffileformatexception/
 ---
 ## InvalidPdfFileFormatException typedef

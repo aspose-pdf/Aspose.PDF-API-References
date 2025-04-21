@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInNewPage
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или устанавливает логическое значение, которое заставляет этот абзац генерироваться на новой странице. По умолчанию false. (для генерации pdf)
+description: Свойство BaseParagraph. Получает или устанавливает логическое значение, которое заставляет этот абзац генерироваться на новой странице. По умолчанию false.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/baseparagraph/isinnewpage/

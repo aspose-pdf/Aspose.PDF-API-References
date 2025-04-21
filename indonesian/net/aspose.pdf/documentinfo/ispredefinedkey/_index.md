@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.IsPredefinedKey
 second_title: Aspose.PDF for .NET API Reference
-description: Metode DocumentInfo. Menentukan apakah kunci sudah ditentukan sebelumnya (Title, Author, dll.), bukan kustom
+description: Metode DocumentInfo. Menentukan apakah kunci sudah ditentukan sebelumnya, bukan kustom
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/documentinfo/ispredefinedkey/

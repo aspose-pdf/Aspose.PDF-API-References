@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf является корневым пространством имен для всех классов библиотеки Aspose.Pdf, которые находятся в нем напрямую, как **Document**, или косвенно через несколько подпространств имен.
+description: Aspose.Pdf является корневым пространством имен для всех классов библиотеки Aspose.Pdf, которые находятся в нем напрямую, как Document, или косвенно через несколько подпространств имен.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/

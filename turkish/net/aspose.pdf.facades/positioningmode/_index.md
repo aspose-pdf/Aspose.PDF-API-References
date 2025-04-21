@@ -1,7 +1,7 @@
 ---
 title: Enum PositioningMode
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PositioningMode enum. Konumlandırma modunu tanımlar. Olası değerler, Eski (geriye dönük uyumluluk) ve Güncel (güncellenmiş metin konum hesaplama yöntemi) içerir.
+description: Aspose.Pdf.Facades.PositioningMode enum. Konumlandırma modunu tanımlar. Olası değerler, Eski ve Güncel içerir.
 type: docs
 weight: 4650
 url: /tr/net/aspose.pdf.facades/positioningmode/

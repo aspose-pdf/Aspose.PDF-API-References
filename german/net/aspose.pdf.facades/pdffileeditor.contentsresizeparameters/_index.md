@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters-Klasse. Klasse zur Spezifizierung von Seitenänderungsparametern. Ermöglicht das Festlegen der folgenden Parameter: Größe der Ergebnisseite (Breite, Höhe) in Standardraumeinheiten oder in Prozent der ursprünglichen Seitengröße; Linke, Obere, Untere und Rechte Ränder in Standardraumeinheiten oder in Prozent der ursprünglichen Seitengröße; Einige Werte können null gelassen werden für automatische Berechnung. Diese Werte werden aus dem Rest der Seitengröße nach der Berechnung der ausdrücklich angegebenen Werte berechnet. Zum Beispiel: Wenn die Seitenbreite 100 und die neue Seitenbreite 60 Einheiten beträgt, werden die linken und rechten Ränder automatisch berechnet: (100 - 60) / 2 = 15. Diese Klasse wird in der ResizeContents-Methode verwendet.
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters-Klasse. Klasse zur Spezifizierung von Seitenänderungsparametern. Ermöglicht das Festlegen der folgenden Parameter Größe der Ergebnisseite in Standardraumeinheiten oder in Prozent der ursprünglichen Seitengröße; Linke, Obere, Untere und Rechte Ränder in Standardraumeinheiten oder in Prozent der ursprünglichen Seitengröße; Einige Werte können null gelassen werden für automatische Berechnung. Diese Werte werden aus dem Rest der Seitengröße nach der Berechnung der ausdrücklich angegebenen Werte berechnet. Diese Klasse wird in der ResizeContents-Methode verwendet.
 type: docs
 weight: 4480
 url: /de/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

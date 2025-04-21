@@ -1,7 +1,7 @@
 ---
 title: Enum PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy Enum. Einige PDF-Dokumente enthalten spezielle Unicode-Symbole, die zum Private Use Area (PUA) gehören, siehe Beschreibung unter https//de.wikipedia.org/wiki/Private_Use_Areas. Diese Symbole verursachen PDF/A-konforme Fehler wie "Text ist auf den Unicode Private Use Area abgebildet, aber kein ActualText-Eintrag ist vorhanden". Diese Enumeration erklärt Strategien, die verwendet werden können, um PUA-Symbole zu behandeln.
+description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy Enum. Einige PDF-Dokumente enthalten spezielle Unicode-Symbole, die zum Private Use Area gehören, siehe Beschreibung unter https//de.wikipedia.org/wiki/Private_Use_Areas. Diese Symbole verursachen PDF/A-konforme Fehler wie "Text ist auf den Unicode Private Use Area abgebildet, aber kein ActualText-Eintrag ist vorhanden". Diese Enumeration erklärt Strategien, die verwendet werden können, um PUA-Symbole zu behandeln.
 type: docs
 weight: 8390
 url: /de/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/

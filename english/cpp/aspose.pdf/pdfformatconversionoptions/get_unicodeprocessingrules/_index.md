@@ -4,7 +4,7 @@ linktitle: get_UnicodeProcessingRules
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_UnicodeProcessingRules method. Rules to solve problems with unicode mapping. Can be null in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_unicodeprocessingrules/
 ---
 ## PdfFormatConversionOptions::get_UnicodeProcessingRules method

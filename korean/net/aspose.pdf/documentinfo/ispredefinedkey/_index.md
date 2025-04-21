@@ -1,7 +1,7 @@
 ---
 title: DocumentInfo.IsPredefinedKey
 second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo 메서드. 키가 미리 정의된 것인지(제목, 저자 등) 아닌지 확인합니다.
+description: DocumentInfo 메서드. 키가 미리 정의된 것인지（제목, 저자 등） 아닌지 확인합니다.
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf/documentinfo/ispredefinedkey/

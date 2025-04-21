@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。次の式を使用して、マトリックスで x と y をスケーリングします: x1 = A*x + C*y; y1 = B*x + D*y
+description: マトリックスメソッド。次の式を使用して、マトリックスで x と y をスケーリングします x1 = Ax + Cy; y1 = Bx + Dy
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/matrix/scale/

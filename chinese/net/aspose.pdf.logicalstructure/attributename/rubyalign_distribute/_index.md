@@ -1,7 +1,7 @@
 ---
 title: AttributeName.RubyAlign_Distribute
 second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 字段。属性 RubyAlign 分配 内容应扩展以填充可用宽度在行内进展方向。然而，文本的起始边缘和结束边缘也应插入空格。间距应使用 1:2:1 的比例进行分配。如果 ruby 出现在文本行的起始位置，则应更改为 0:1:1 的比例；如果 ruby 出现在文本行的结束位置，则应更改为 1:1:0 的比例。
+description: AttributeName 字段。属性 RubyAlign 分配 内容应扩展以填充可用宽度在行内进展方向。然而，文本的起始边缘和结束边缘也应插入空格。间距应使用 121 的比例进行分配。如果 ruby 出现在文本行的起始位置，则应更改为 011 的比例；如果 ruby 出现在文本行的结束位置，则应更改为 110 的比例。
 type: docs
 weight: 440
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyalign_distribute/

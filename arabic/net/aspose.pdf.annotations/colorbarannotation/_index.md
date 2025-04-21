@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.ColorBarAnnotation. فئة تمثل تعليق ColorBarAnnotation. تم تجاهل خاصية Color، بدلاً من ذلك تم استخدام لون ColorsOfCMYK. عند الإنشاء، تحدد نسبة العرض إلى الارتفاع اتجاه التعليق - أفقي أو عمودي. بعد ذلك، يتحقق من أن مستطيل التعليق خارج TrimBox، وإذا لم يكن كذلك، يتم نقله إلى أقرب موقع خارج TrimBox مع الأخذ في الاعتبار اتجاه التعليق. من الممكن تقليل العرض (الارتفاع) بحيث يتناسب التعليق خارج TrimBox. إذا لم يكن هناك مساحة للتخطيط، يمكن تعيين العرض/الارتفاع إلى صفر (في هذه الحالة، يكون التعليق موجودًا على الصفحة، ولكن لا يتم عرضه).
+description: فئة Aspose.Pdf.Annotations.ColorBarAnnotation. فئة تمثل تعليق ColorBarAnnotation. تم تجاهل خاصية Color، بدلاً من ذلك تم استخدام لون ColorsOfCMYK. عند الإنشاء، تحدد نسبة العرض إلى الارتفاع اتجاه التعليق - أفقي أو عمودي. بعد ذلك، يتحقق من أن مستطيل التعليق خارج TrimBox، وإذا لم يكن كذلك، يتم نقله إلى أقرب موقع خارج TrimBox مع الأخذ في الاعتبار اتجاه التعليق. من الممكن تقليل العرض  بحيث يتناسب التعليق خارج TrimBox. إذا لم يكن هناك مساحة للتخطيط، يمكن تعيين العرض/الارتفاع إلى صفر .
 type: docs
 weight: 1600
 url: /ar/net/aspose.pdf.annotations/colorbarannotation/

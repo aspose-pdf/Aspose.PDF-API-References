@@ -1,7 +1,7 @@
 ---
 title: Enum Justification
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Justification enum. Uppräkning av formerna av kvadrering (justering) som ska användas vid visning av annotationens text
+description: Aspose.Pdf.Annotations.Justification enum. Uppräkning av formerna av kvadrering som ska användas vid visning av annotationens text
 type: docs
 weight: 1940
 url: /sv/net/aspose.pdf.annotations/justification/

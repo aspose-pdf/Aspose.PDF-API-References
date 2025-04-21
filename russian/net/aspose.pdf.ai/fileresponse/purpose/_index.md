@@ -1,7 +1,7 @@
 ---
 title: FileResponse.Purpose
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileResponse. Получает или задает предполагаемое назначение файла. Поддерживаемые значения: assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results и vision
+description: Свойство FileResponse. Получает или задает предполагаемое назначение файла. Поддерживаемые значения assistants, assistants_output, batch, batch_output, fine-tune, fine-tune-results и vision
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/fileresponse/purpose/

@@ -1,7 +1,7 @@
 ---
 title: TextFragment.FootNote
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad TextFragment. Obtiene o establece la nota al pie del párrafo. (solo para generación de pdf)
+description: Propiedad TextFragment. Obtiene o establece la nota al pie del párrafo. solo para generación de pdf.
 type: docs
 weight: 40
 url: /es/net/aspose.pdf.text/textfragment/footnote/

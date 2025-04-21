@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in sidnumreringsstil. Möjliga värden: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+description: PdfFileStamp-egenskap. Hämtar eller ställer in sidnumreringsstil. Möjliga värden NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdffilestamp/numberingstyle/

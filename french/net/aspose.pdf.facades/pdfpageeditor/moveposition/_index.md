@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfPageEditor. Déplace l'origine de (0, 0) au point désigné. L'origine est en bas à gauche et l'unité est point (1 pouce = 72 points)
+description: Méthode PdfPageEditor. Déplace l'origine au point désigné. L'origine est en bas à gauche et l'unité est point. 1 pouce = 72 points
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/moveposition/

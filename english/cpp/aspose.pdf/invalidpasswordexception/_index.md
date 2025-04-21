@@ -4,7 +4,7 @@ linktitle: InvalidPasswordException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::InvalidPasswordException typedef in C++.'
 type: docs
-weight: 28000
+weight: 28300
 url: /cpp/aspose.pdf/invalidpasswordexception/
 ---
 ## InvalidPasswordException typedef

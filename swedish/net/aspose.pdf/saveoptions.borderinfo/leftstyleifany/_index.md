@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.LeftStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-fält. Representerar vänster del (om någon) av kanten
+description: BorderInfo-fält. Representerar vänster del av kanten
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/

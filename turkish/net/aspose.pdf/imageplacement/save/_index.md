@@ -1,7 +1,7 @@
 ---
 title: ImagePlacement.Save
 second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement metodu. Görüntüyü ilgili dönüşümlerle kaydeder: ölçekleme, döndürme ve çözünürlük
+description: ImagePlacement metodu. Görüntüyü ilgili dönüşümlerle kaydeder ölçekleme, döndürme ve çözünürlük
 type: docs
 weight: 110
 url: /tr/net/aspose.pdf/imageplacement/save/

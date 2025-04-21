@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Menyalin field yang ada dari satu dokumen PDF ke dokumen lain dengan nomor halaman dan ordinat asli. Catatan: Hanya untuk field AcroForm (tidak termasuk radio box)
+description: Metode FormEditor. Menyalin field yang ada dari satu dokumen PDF ke dokumen lain dengan nomor halaman dan ordinat asli. Catatan Hanya untuk field AcroForm.
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/formeditor/copyouterfield/

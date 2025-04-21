@@ -1,7 +1,7 @@
 ---
 title: Class DestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DestinationCollection. La classe représente la collection de toutes les destinations (un arbre de noms mappant des chaînes de noms à des destinations, voir 12.3.2.3 "Destinations nommées" et voir 7.7.4 "Dictionnaire de noms") dans le document pdf.
+description: Classe Aspose.Pdf.DestinationCollection. La classe représente la collection de toutes les destinations dans le document pdf.
 type: docs
 weight: 3510
 url: /fr/net/aspose.pdf/destinationcollection/

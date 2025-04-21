@@ -1,7 +1,7 @@
 ---
 title: PdfAnnotationEditor.ModifyAnnotations
 second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor-metod. Modifierar annotationerna av den angivna typen på det angivna sidintervallet. Den stöder att modifiera följande annotationsegenskaper: Modifierad, Titel, Innehåll, Färg, Ämne och Öppen
+description: PdfAnnotationEditor-metod. Modifierar annotationerna av den angivna typen på det angivna sidintervallet. Den stöder att modifiera följande annotationsegenskaper Modifierad, Titel, Innehåll, Färg, Ämne och Öppen
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/

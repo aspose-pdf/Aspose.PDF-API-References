@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Checked_on
 second_title: Aspose.PDF for .NET API Reference
-description: Attributname-Feld. Attribut aktiviert: An - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes
+description: Attributname-Feld. Attribut aktiviert An - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes
 type: docs
 weight: 170
 url: /de/net/aspose.pdf.logicalstructure/attributename/checked_on/

@@ -1,7 +1,7 @@
 ---
 title: Class HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo. Jika properti SplitToPages dari HtmlSaveOptions, maka beberapa file HTML (satu file HTML per halaman yang dikonversi) dibuat selama konversi PDF ke HTML. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan khusus markup satu halaman HTML selama konversi PDF ke HTML
+description: Kelas Aspose.Pdf.HtmlSaveOptionsHtmlPageMarkupSavingInfo. Jika properti SplitToPages dari HtmlSaveOptions, maka beberapa file HTML dibuat selama konversi PDF ke HTML. Kelas ini mewakili sekumpulan data yang terkait dengan penyimpanan khusus markup satu halaman HTML selama konversi PDF ke HTML
 type: docs
 weight: 5670
 url: /id/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/

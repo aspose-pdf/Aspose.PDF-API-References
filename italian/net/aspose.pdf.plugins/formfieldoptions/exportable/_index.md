@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Exportable
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare se il campo creato/modificato è esportabile o meno (se sarà impostato).
+description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare se il campo creato/modificato è esportabile o meno.
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.plugins/formfieldoptions/exportable/

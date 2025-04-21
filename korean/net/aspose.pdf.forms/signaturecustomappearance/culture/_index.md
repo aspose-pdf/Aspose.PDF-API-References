@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.Culture
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 속성. 문화 정보 값을 가져오거나 설정합니다. 기본값: InvariantCulture
+description: SignatureCustomAppearance 속성. 문화 정보 값을 가져오거나 설정합니다. 기본값 InvariantCulture
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/signaturecustomappearance/culture/

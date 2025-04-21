@@ -1,7 +1,7 @@
 ---
 title: CompletionCreateRequest.Stream
 second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionCreateRequest. Mendapatkan atau mengatur apakah akan menggunakan streaming. Jika diatur, delta pesan parsial akan dikirim seperti di ChatGPT. Token akan dikirim sebagai data-only server-sent events saat tersedia, dengan stream diakhiri oleh pesan data: [DONE]
+description: Properti CompletionCreateRequest. Mendapatkan atau mengatur apakah akan menggunakan streaming. Jika diatur, delta pesan parsial akan dikirim seperti di ChatGPT. Token akan dikirim sebagai data-only server-sent events saat tersedia, dengan stream diakhiri oleh pesan data DONE
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.ai/completioncreaterequest/stream/

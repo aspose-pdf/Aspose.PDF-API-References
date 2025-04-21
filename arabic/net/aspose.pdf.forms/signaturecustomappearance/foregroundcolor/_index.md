@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط لون المقدمة (لون النص). القيمة الافتراضية زرقاء
+description: خاصية SignatureCustomAppearance. تحصل/تضبط لون المقدمة . القيمة الافتراضية زرقاء
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/

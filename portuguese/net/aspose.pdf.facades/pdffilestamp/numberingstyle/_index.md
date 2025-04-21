@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade PdfFileStamp. Obtém ou define o estilo de numeração de páginas. Valores possíveis: NumeraisÁrabes, NumeraisRomanosMaiúsculos, NumeraisRomanosMinúsculos, LetrasMaiúsculas, LetrasMinúsculas
+description: Propriedade PdfFileStamp. Obtém ou define o estilo de numeração de páginas. Valores possíveis NumeraisÁrabes, NumeraisRomanosMaiúsculos, NumeraisRomanosMinúsculos, LetrasMaiúsculas, LetrasMinúsculas
 type: docs
 weight: 40
 url: /pt/net/aspose.pdf.facades/pdffilestamp/numberingstyle/

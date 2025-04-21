@@ -1,7 +1,7 @@
 ---
 title: FontSourceCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontSourceCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасен для потоков)
+description: Свойство FontSourceCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/fontsourcecollection/issynchronized/

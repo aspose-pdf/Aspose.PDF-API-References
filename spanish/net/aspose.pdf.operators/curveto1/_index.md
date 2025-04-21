@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo1
 second_title: Aspose.PDF for .NET API Reference
-description: Clase Aspose.Pdf.Operators.CurveTo1. Clase que representa el operador v (agregar curva al camino, punto inicial replicado).
+description: Clase Aspose.Pdf.Operators.CurveTo1. Clase que representa el operador v - agregar curva al camino, punto inicial replicado.
 type: docs
 weight: 7250
 url: /es/net/aspose.pdf.operators/curveto1/

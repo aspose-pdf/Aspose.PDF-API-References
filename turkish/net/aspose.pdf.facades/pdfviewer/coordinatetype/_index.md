@@ -1,7 +1,7 @@
 ---
 title: PdfViewer.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer özelliği. Sayfa koordinat türünü alır veya ayarlar (Medya/Kırpma kutuları). Varsayılan olarak CropBox değeri kullanılır.
+description: PdfViewer özelliği. Sayfa koordinat türünü alır veya ayarlar. Varsayılan olarak CropBox değeri kullanılır.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.facades/pdfviewer/coordinatetype/

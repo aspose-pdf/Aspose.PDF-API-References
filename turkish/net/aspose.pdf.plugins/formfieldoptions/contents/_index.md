@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Contents
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için Contents özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için Contents özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.plugins/formfieldoptions/contents/

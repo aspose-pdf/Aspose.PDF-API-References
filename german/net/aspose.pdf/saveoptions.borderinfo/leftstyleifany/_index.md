@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.LeftStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-Feld. Stellt den linken Teil (falls vorhanden) des Rahmens dar
+description: BorderInfo-Feld. Stellt den linken Teil des Rahmens dar
 type: docs
 weight: 30
 url: /de/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/

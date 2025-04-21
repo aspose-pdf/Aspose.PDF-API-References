@@ -1,7 +1,7 @@
 ---
 title: ImageUrl.Url
 second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageUrl. Mendapatkan atau menetapkan URL eksternal dari gambar yang harus berupa jenis gambar yang didukung: jpeg, jpg, png, gif, webp
+description: Properti ImageUrl. Mendapatkan atau menetapkan URL eksternal dari gambar yang harus berupa jenis gambar yang didukung jpeg, jpg, png, gif, webp
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/imageurl/url/

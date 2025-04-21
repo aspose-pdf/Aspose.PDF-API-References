@@ -2,11 +2,36 @@
 title: Aspose::Pdf::Facades::PdfConverter::BindPdf method
 linktitle: BindPdf
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfConverter::BindPdf method. Binds a Pdf Stream for convert in C++.'
+description: 'Aspose::Pdf::Facades::PdfConverter::BindPdf method. Binds a PDF document to the PdfConverter instance for further processing in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.pdf.facades/pdfconverter/bindpdf/
 ---
+## PdfConverter::BindPdf(System::SharedPtr\<Aspose::Pdf::Document\>) method
+
+
+Binds a PDF document to the [PdfConverter](../) instance for further processing.
+
+```cpp
+void Aspose::Pdf::Facades::PdfConverter::BindPdf(System::SharedPtr<Aspose::Pdf::Document> srcDoc) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | System::SharedPtr\<Aspose::Pdf::Document\> | The [Document](../../../aspose.pdf/document/) object representing the source PDF to be bound. |
+## Remarks
+
+
+
+This method initializes the [PdfConverter](../) with the specified PDF document. It also processes dynamic XFA forms within the document, if present. 
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Document](../../../aspose.pdf/document/)
+* Class [PdfConverter](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PdfConverter::BindPdf(System::SharedPtr\<System::IO::Stream\>) method
 
 

@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.LeftStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Campo BorderInfo. Representa la parte izquierda (si la hay) del borde
+description: Campo BorderInfo. Representa la parte izquierda del borde
 type: docs
 weight: 30
 url: /es/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/

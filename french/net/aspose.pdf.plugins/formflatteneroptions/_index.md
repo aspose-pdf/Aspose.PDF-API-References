@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenerOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormFlattenerOptions. Classe de base pour les classes d'options pour aplatir les champs (pas les annotations) dans le document par le plugin FormFlattener
+description: Classe Aspose.Pdf.Plugins.FormFlattenerOptions. Classe de base pour les classes d'options pour aplatir les champs dans le document par le plugin FormFlattener
 type: docs
 weight: 8760
 url: /fr/net/aspose.pdf.plugins/formflatteneroptions/

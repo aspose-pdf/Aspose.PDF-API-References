@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.MarginPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.SaveOptionsMarginPartStyle. Representa informações de uma parte da margem (superior, inferior, lado esquerdo ou lado direito)
+description: Classe Aspose.Pdf.SaveOptionsMarginPartStyle. Representa informações de uma parte da margem
 type: docs
 weight: 9920
 url: /pt/net/aspose.pdf/saveoptions.marginpartstyle/

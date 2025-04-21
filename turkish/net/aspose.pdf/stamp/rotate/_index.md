@@ -1,7 +1,7 @@
 ---
 title: Stamp.Rotate
 second_title: Aspose.PDF for .NET API Reference
-description: Damga özelliği. Damga içeriğinin döndürülmesini, Dönüş değerlerine göre ayarlar veya alır. Not. Bu özellik, 90 derece (0, 90, 180, 270 derece) katları olan açıları ayarlamak içindir. Rastgele bir açı ayarlamak için RotateAngle özelliğini kullanın. Eğer ArbitraryAngle ile ayarlanan açı 90'ın katı değilse, Rotate özelliği Rotation.None döner.
+description: Damga özelliği. Damga içeriğinin döndürülmesini, Dönüş değerlerine göre ayarlar veya alır. Not. Bu özellik, 90 derece - 0, 90, 180, 270 derece, katları olan açıları ayarlamak içindir. Rastgele bir açı ayarlamak için RotateAngle özelliğini kullanın. Eğer ArbitraryAngle ile ayarlanan açı 90'ın katı değilse, Rotate özelliği Rotation.None döner.
 type: docs
 weight: 100
 url: /tr/net/aspose.pdf/stamp/rotate/

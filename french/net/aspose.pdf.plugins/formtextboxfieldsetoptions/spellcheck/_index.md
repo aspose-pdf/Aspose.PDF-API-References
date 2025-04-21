@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldSetOptions.SpellCheck
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormTextBoxFieldSetOptions. Obtient/définit la valeur pour déterminer la propriété SpellCheck pour le champ modifié (si elle sera définie).
+description: Propriété FormTextBoxFieldSetOptions. Obtient/définit la valeur pour déterminer la propriété SpellCheck pour le champ modifié.
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/formtextboxfieldsetoptions/spellcheck/

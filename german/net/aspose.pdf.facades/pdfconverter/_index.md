@@ -1,7 +1,7 @@
 ---
 title: Class PdfConverter
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfConverter-Klasse. Stellt eine Klasse dar, um jede Seite einer PDF-Datei in Bilder zu konvertieren, die BMP, JPEG, PNG und TIFF unterstützen. Unterstützter Inhalt in PDFs: Bilder, Formulare, Kommentare.
+description: Aspose.Pdf.Facades.PdfConverter-Klasse. Stellt eine Klasse dar, um jede Seite einer PDF-Datei in Bilder zu konvertieren, die BMP, JPEG, PNG und TIFF unterstützen. Unterstützter Inhalt in PDFs Bilder, Formulare, Kommentare.
 type: docs
 weight: 4440
 url: /de/net/aspose.pdf.facades/pdfconverter/

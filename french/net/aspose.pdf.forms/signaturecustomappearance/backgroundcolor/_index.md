@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit la couleur de fond. Valeur par défaut : Transparent
+description: Propriété SignatureCustomAppearance. Obtient/définit la couleur de fond. Valeur par défaut  Transparent
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/

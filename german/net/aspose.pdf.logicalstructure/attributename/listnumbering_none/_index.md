@@ -1,7 +1,7 @@
 ---
 title: AttributeName.ListNumbering_None
 second_title: Aspose.PDF for .NET API Reference
-description: AttributName-Feld. Attribut ListNummerierung Keine  Keine automatische Nummerierung; Lbl-Elemente (sofern vorhanden) enthalten willkürlichen Text, der keinem Nummerierungsschema unterliegt.
+description: AttributName-Feld. Attribut ListNummerierung Keine  Keine automatische Nummerierung; Lbl-Elemente enthalten willkürlichen Text, der keinem Nummerierungsschema unterliegt.
 type: docs
 weight: 300
 url: /de/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/

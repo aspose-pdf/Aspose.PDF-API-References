@@ -4,7 +4,7 @@ linktitle: get_FitWindow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_FitWindow method. Gets flag specifying whether document window must be resized to fit the first displayed page in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pdf/document/get_fitwindow/
 ---
 ## Document::get_FitWindow method

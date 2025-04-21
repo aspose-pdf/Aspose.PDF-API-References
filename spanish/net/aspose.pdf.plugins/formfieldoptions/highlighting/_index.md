@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Highlighting
 second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldOptions. Obtiene/establece el valor para determinar la propiedad Highlighting para el campo creado/modificado (si se establecerá).
+description: Campo FormFieldOptions. Obtiene/establece el valor para determinar la propiedad Highlighting para el campo creado/modificado, si se establecerá.
 type: docs
 weight: 200
 url: /es/net/aspose.pdf.plugins/formfieldoptions/highlighting/

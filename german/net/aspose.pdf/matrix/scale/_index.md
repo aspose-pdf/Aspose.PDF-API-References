@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Matrix-Methode. Skaliert x und y mit der Matrix unter Verwendung der folgenden Formel x1 = A*x + C*y; y1 = B*x + D*y
+description: Matrix-Methode. Skaliert x und y mit der Matrix unter Verwendung der folgenden Formel x1 = Ax + Cy; y1 = Bx + Dy
 type: docs
 weight: 190
 url: /de/net/aspose.pdf/matrix/scale/

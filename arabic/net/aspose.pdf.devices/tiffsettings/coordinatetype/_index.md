@@ -1,7 +1,7 @@
 ---
 title: TiffSettings.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffSettings. الحصول على نوع إحداثيات الصفحة أو تعيينه (صناديق الوسائط/القص). يتم استخدام قيمة CropBox بشكل افتراضي
+description: خاصية TiffSettings. الحصول على نوع إحداثيات الصفحة أو تعيينه . يتم استخدام قيمة CropBox بشكل افتراضي
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.devices/tiffsettings/coordinatetype/

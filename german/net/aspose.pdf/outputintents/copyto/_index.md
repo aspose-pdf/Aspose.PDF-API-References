@@ -1,7 +1,7 @@
 ---
 title: OutputIntents.CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents-Methode. Kopiert die Elemente der Sammlung in das *array*, beginnend bei dem bestimmten *arrayIndex* in das Array.
+description: OutputIntents-Methode. Kopiert die Elemente der Sammlung in das array, beginnend bei dem bestimmten arrayIndex in das Array.
 type: docs
 weight: 70
 url: /de/net/aspose.pdf/outputintents/copyto/

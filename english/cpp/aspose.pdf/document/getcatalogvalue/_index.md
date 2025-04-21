@@ -4,7 +4,7 @@ linktitle: GetCatalogValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::GetCatalogValue method. Returns item value from catalog dictionary in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document::GetCatalogValue method

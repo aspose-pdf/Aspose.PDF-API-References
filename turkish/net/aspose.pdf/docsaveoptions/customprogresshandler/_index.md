@@ -1,7 +1,7 @@
 ---
 title: DocSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions alanı. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir, örneğin ilerleme çubuğu veya işlenen sayfa sayısı hakkında mesajlar göstermek için kullanılabilir, konsolda ilerlemeyi gösteren işleyici kodunun örneği şudur:
+description: DocSaveOptions alanı. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir, örneğin ilerleme çubuğu veya işlenen sayfa sayısı hakkında mesajlar göstermek için kullanılabilir, konsolda ilerlemeyi gösteren işleyici kodunun örneği şudur
 type: docs
 weight: 140
 url: /tr/net/aspose.pdf/docsaveoptions/customprogresshandler/

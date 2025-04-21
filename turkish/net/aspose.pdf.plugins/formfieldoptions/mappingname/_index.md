@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.MappingName
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için MappingName özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormFieldOptions özelliği. Oluşturulan/değiştirilen alan için MappingName özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 90
 url: /tr/net/aspose.pdf.plugins/formfieldoptions/mappingname/

@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Enum de Aspose.Pdf.Forms.Symbology. Una Simbología de Código de Barras define los detalles técnicos de un tipo particular de código de barras: el ancho de las barras, conjunto de caracteres, método de codificación, especificaciones de suma de verificación, etc.
+description: Enum de Aspose.Pdf.Forms.Symbology. Una Simbología de Código de Barras define los detalles técnicos de un tipo particular de código de barras el ancho de las barras, conjunto de caracteres, método de codificación, especificaciones de suma de verificación, etc.
 type: docs
 weight: 5310
 url: /es/net/aspose.pdf.forms/symbology/

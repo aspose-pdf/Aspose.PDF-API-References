@@ -1,7 +1,7 @@
 ---
 title: Graph.IsChangePosition
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم. يحصل أو يحدد تغيير الموضع الحالي بعد معالجة الفقرة. (افتراضي صحيح)
+description: خاصية الرسم. يحصل أو يحدد تغيير الموضع الحالي بعد معالجة الفقرة. 
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.drawing/graph/ischangeposition/

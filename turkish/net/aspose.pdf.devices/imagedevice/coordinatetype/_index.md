@@ -1,7 +1,7 @@
 ---
 title: ImageDevice.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice özelliği. Sayfa koordinat türünü alır veya ayarlar (Medya/Kırpma kutuları). Varsayılan olarak CropBox değeri kullanılır.
+description: ImageDevice özelliği. Sayfa koordinat türünü alır veya ayarlar. Varsayılan olarak CropBox değeri kullanılır.
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.devices/imagedevice/coordinatetype/

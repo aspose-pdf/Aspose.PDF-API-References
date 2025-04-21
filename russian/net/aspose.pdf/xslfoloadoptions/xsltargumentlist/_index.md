@@ -1,7 +1,7 @@
 ---
 title: XslFoLoadOptions.XsltArgumentList
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство XslFoLoadOptions. XsltArgumentList для вставки значений в существующие параметры xls. XLS файл имеет параметр 'animal' без значения. XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); теперь конвертер предполагает, что в XLS файле есть параметр 'animal' со значением 'cat'.
+description: Свойство XslFoLoadOptions. XsltArgumentList для вставки значений в существующие параметры xls.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/

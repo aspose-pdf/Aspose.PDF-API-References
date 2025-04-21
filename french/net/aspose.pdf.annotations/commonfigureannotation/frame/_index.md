@@ -1,7 +1,7 @@
 ---
 title: CommonFigureAnnotation.Frame
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété CommonFigureAnnotation. Le rectangle décrivant les différences numériques entre deux rectangles : l'entrée Rect de l'annotation et les limites réelles du carré ou du cercle sous-jacent.
+description: Propriété CommonFigureAnnotation. Le rectangle décrivant les différences numériques entre deux rectangles  l'entrée Rect de l'annotation et les limites réelles du carré ou du cercle sous-jacent.
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/commonfigureannotation/frame/

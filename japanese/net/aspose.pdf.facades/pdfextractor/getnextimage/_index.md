@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。PDF ドキュメントから次の画像を取得します。注意: このメソッドを使用する前に ExtractImage を呼び出す必要があります。
+description: PdfExtractor メソッド。PDF ドキュメントから次の画像を取得します。注意 このメソッドを使用する前に ExtractImage を呼び出す必要があります。
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdfextractor/getnextimage/

@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.MaxFontSize
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions 속성. 생성/수정된 필드에 대해 MaxFontSize 속성을 결정하는 값을 가져오거나 설정합니다(설정될 경우).
+description: FormFieldOptions 속성. 생성/수정된 필드에 대해 MaxFontSize 속성을 결정하는 값을 가져오거나 설정합니다（설정될 경우）.
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.plugins/formfieldoptions/maxfontsize/

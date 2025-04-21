@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.SpellCheck
 second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att avgöra om den skapade TextBoxField har stavningskontroll eller inte (om det kommer att ställas in).
+description: FormTextBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att avgöra om den skapade TextBoxField har stavningskontroll eller inte.
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/

@@ -1,7 +1,7 @@
 ---
 title: Bookmark.Open
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. الحصول على حالة الإشارة المرجعية أو تعيينها (فتح، إغلاق)
+description: خاصية الإشارة المرجعية. الحصول على حالة الإشارة المرجعية أو تعيينها
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/bookmark/open/

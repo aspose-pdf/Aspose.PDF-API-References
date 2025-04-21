@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает цвет переднего плана текста. Значение по умолчанию: Синий
+description: Свойство SignatureCustomAppearance. Получает/устанавливает цвет переднего плана текста. Значение по умолчанию Синий
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/

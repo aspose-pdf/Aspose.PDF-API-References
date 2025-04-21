@@ -1,7 +1,7 @@
 ---
 title: Class PdfConverter
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfConverter. Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar yang mendukung BMP, JPEG, PNG, dan TIFF sekarang. Konten yang didukung dalam pdf: gambar, formulir, komentar.
+description: Kelas Aspose.Pdf.Facades.PdfConverter. Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar yang mendukung BMP, JPEG, PNG, dan TIFF sekarang. Konten yang didukung dalam pdf gambar, formulir, komentar.
 type: docs
 weight: 4440
 url: /id/net/aspose.pdf.facades/pdfconverter/

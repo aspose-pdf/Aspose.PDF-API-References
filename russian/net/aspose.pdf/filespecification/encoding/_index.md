@@ -1,7 +1,7 @@
 ---
 title: FileSpecification.Encoding
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Получает или задает формат кодирования. Возможные значения: Zip - файл сжат с помощью ZIP, None - файл не сжат.
+description: Свойство FileSpecification. Получает или задает формат кодирования. Возможные значения Zip - файл сжат с помощью ZIP, None - файл не сжат.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/filespecification/encoding/

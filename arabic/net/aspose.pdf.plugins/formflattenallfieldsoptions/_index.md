@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenAllFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions. تمثل الخيارات لتسوية جميع الحقول (ليس التعليقات) في الوثيقة بواسطة مكون FormFlattener
+description: فئة Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions. تمثل الخيارات لتسوية جميع الحقول  في الوثيقة بواسطة مكون FormFlattener
 type: docs
 weight: 8730
 url: /ar/net/aspose.pdf.plugins/formflattenallfieldsoptions/

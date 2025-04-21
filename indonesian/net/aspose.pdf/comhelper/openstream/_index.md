@@ -1,7 +1,7 @@
 ---
 title: ComHelper.OpenStream
 second_title: Aspose.PDF for .NET API Reference
-description: Metode ComHelper. Inisialisasi dan kembalikan instance Dokumen baru dari aliran *input*
+description: Metode ComHelper. Inisialisasi dan kembalikan instance Dokumen baru dari aliran input
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/comhelper/openstream/

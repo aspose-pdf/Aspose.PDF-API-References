@@ -1,7 +1,7 @@
 ---
 title: OutputIntents.CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents metodu. Koleksiyonun elemanlarını belirli bir *arrayIndex* ile başlayarak diziye kopyalar.
+description: OutputIntents metodu. Koleksiyonun elemanlarını belirli bir arrayIndex ile başlayarak diziye kopyalar.
 type: docs
 weight: 70
 url: /tr/net/aspose.pdf/outputintents/copyto/

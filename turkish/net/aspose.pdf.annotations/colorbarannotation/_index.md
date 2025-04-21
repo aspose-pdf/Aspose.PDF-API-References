@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorBarAnnotation sınıfı. ColorBarAnnotation anotasyonunu temsil eden sınıf. Color özelliği göz ardı edilir, bunun yerine ColorsOfCMYK rengi kullanılır. Oluşturulurken, genişlik ve yükseklik oranı anotasyonun yönünü belirler - yatay veya dikey. Sonra, anotasyon dikdörtgeninin TrimBox'un dışında olup olmadığını kontrol eder ve eğer değilse, anotasyonu TrimBox'un dışındaki en yakın konuma kaydırır, anotasyonun yönünü dikkate alarak. Anotasyonun TrimBox'un dışına sığması için genişlik (yükseklik) azaltılabilir. Düzen için yer yoksa, genişlik/yükseklik sıfıra ayarlanabilir; bu durumda, anotasyon sayfada mevcut ancak görüntülenmez.
+description: Aspose.Pdf.Annotations.ColorBarAnnotation sınıfı. ColorBarAnnotation anotasyonunu temsil eden sınıf. Color özelliği göz ardı edilir, bunun yerine ColorsOfCMYK rengi kullanılır. Oluşturulurken, genişlik ve yükseklik oranı anotasyonun yönünü belirler - yatay veya dikey. Sonra, anotasyon dikdörtgeninin TrimBox'un dışında olup olmadığını kontrol eder ve eğer değilse, anotasyonu TrimBox'un dışındaki en yakın konuma kaydırır, anotasyonun yönünü dikkate alarak. Anotasyonun TrimBox'un dışına sığması için genişlik azaltılabilir. Düzen için yer yoksa, genişlik/yükseklik sıfıra ayarlanabilir; bu durumda, anotasyon sayfada mevcut ancak görüntülenmez.
 type: docs
 weight: 1600
 url: /tr/net/aspose.pdf.annotations/colorbarannotation/

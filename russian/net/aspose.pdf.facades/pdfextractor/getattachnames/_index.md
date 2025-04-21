@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetAttachNames
 second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Возвращает список вложений в PDF файле. Примечание: ExtractAttachments должен быть вызван перед использованием этого метода
+description: Метод PdfExtractor. Возвращает список вложений в PDF файле. Примечание ExtractAttachments должен быть вызван перед использованием этого метода
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdfextractor/getattachnames/

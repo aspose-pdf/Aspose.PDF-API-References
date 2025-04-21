@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsBorderPartStyle klass. Representerar information om en del av kanten (övre, nedre, vänster eller höger sida)
+description: Aspose.Pdf.SaveOptionsBorderPartStyle klass. Representerar information om en del av kanten
 type: docs
 weight: 9890
 url: /sv/net/aspose.pdf/saveoptions.borderpartstyle/

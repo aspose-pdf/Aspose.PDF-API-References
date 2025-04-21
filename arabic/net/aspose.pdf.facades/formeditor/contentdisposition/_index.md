@@ -1,7 +1,7 @@
 ---
 title: FormEditor.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تحصل أو تعين كيفية تخزين المحتوى عندما يتم تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة: inline / attachment. القيمة الافتراضية: inline
+description: خاصية FormEditor. تحصل أو تعين كيفية تخزين المحتوى عندما يتم تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة inline / attachment. القيمة الافتراضية inline
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/formeditor/contentdisposition/

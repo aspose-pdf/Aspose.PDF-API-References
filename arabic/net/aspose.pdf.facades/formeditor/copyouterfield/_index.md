@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو)
+description: طريقة FormEditor. تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة فقط لحقول AcroForm 
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/formeditor/copyouterfield/

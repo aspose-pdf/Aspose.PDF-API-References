@@ -1,7 +1,7 @@
 ---
 title: AppearanceDictionary.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf das Wörterbuch synchronisiert (thread-sicher) ist.
+description: AppearanceDictionary-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf das Wörterbuch synchronisiert ist.
 type: docs
 weight: 40
 url: /de/net/aspose.pdf.annotations/appearancedictionary/issynchronized/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.H
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard alanı. (Başlık) Bir belgenin içeriğinin bir alt bölümüne etiket. Başlık olduğu bölümün ilk çocuğu olmalıdır.
+description: StructureTypeStandard alanı. Bir belgenin içeriğinin bir alt bölümüne etiket. Başlık olduğu bölümün ilk çocuğu olmalıdır.
 type: docs
 weight: 120
 url: /tr/net/aspose.pdf.logicalstructure/structuretypestandard/h/

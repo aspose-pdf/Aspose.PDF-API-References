@@ -1,7 +1,7 @@
 ---
 title: Artifact.Image
 second_title: Aspose.PDF for .NET API Reference
-description: 아티팩트 속성. 아티팩트의 이미지를 가져옵니다(존재하는 경우).
+description: 아티팩트 속성. 아티팩트의 이미지를 가져옵니다（존재하는 경우）.
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/artifact/image/

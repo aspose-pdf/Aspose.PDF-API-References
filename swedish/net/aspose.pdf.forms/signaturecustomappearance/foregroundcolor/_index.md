@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger förgrundsfärg (färg på text). Standardvärde Blå
+description: SignatureCustomAppearance-egenskap. Hämtar/anger förgrundsfärg. Standardvärde Blå
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/

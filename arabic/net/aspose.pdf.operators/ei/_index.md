@@ -1,7 +1,7 @@
 ---
 title: Class EI
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EI. فئة تمثل عامل EI (نهاية كائن الصورة المضمنة)
+description: فئة Aspose.Pdf.Operators.EI. فئة تمثل عامل EI  
 type: docs
 weight: 7290
 url: /ar/net/aspose.pdf.operators/ei/

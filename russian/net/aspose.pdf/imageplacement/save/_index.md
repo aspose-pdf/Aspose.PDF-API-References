@@ -1,7 +1,7 @@
 ---
 title: ImagePlacement.Save
 second_title: Aspose.PDF for .NET API Reference
-description: Метод ImagePlacement. Сохраняет изображение с соответствующими преобразованиями: масштабированием, вращением и разрешением
+description: Метод ImagePlacement. Сохраняет изображение с соответствующими преобразованиями масштабированием, вращением и разрешением
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/imageplacement/save/

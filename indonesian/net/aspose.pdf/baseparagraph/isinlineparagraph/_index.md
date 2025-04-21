@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mengambil atau mengatur apakah paragraf adalah inline. Default adalah false. (untuk generasi pdf)
+description: Properti BaseParagraph. Mengambil atau mengatur apakah paragraf adalah inline. Default adalah false.
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/baseparagraph/isinlineparagraph/

@@ -1,7 +1,7 @@
 ---
 title: OptimizationOptions.LinkDuplicateStreamsScanLevel
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de OptimizationOptions. Nivel de escaneo. Escaneos más profundos (valor más alto) tardan más pero pueden producir archivos de resultado más pequeños. Valor predeterminado 10
+description: Propiedad de OptimizationOptions. Nivel de escaneo. Escaneos más profundos tardan más pero pueden producir archivos de resultado más pequeños. Valor predeterminado 10
 type: docs
 weight: 80
 url: /es/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/

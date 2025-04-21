@@ -22,6 +22,7 @@ class PdfConverter : public Aspose::Pdf::Facades::Facade
 | --- | --- |
 | [BindPdf](./bindpdf/)(System::String) override | Binds a [Pdf](../../aspose.pdf/) file for converting. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>) override | Binds a [Pdf](../../aspose.pdf/) Stream for convert. |
+| [BindPdf](./bindpdf/)(System::SharedPtr\<Aspose::Pdf::Document\>) override | Binds a PDF document to the [PdfConverter](./) instance for further processing. |
 | [Close](./close/)() override | Close the instance of [PdfConverter](./) and release the resources. |
 | [DoConvert](./doconvert/)() | Do some initial works for converting a pdf document to images. |
 | [get_CoordinateType](./get_coordinatetype/)() const | Gets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |

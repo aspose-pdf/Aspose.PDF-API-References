@@ -1,7 +1,7 @@
 ---
 title: TextFragment.FootNote
 second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mengambil atau mengatur catatan kaki paragraf. (hanya untuk generasi pdf)
+description: Properti TextFragment. Mengambil atau mengatur catatan kaki paragraf. hanya untuk generasi pdf
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textfragment/footnote/

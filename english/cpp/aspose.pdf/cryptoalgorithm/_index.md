@@ -4,7 +4,7 @@ linktitle: CryptoAlgorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CryptoAlgorithm enum. Represent type of cryptographic algorithm that used in encryption/decryption routines in C++.'
 type: docs
-weight: 21900
+weight: 22100
 url: /cpp/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enum
@@ -24,6 +24,7 @@ enum class CryptoAlgorithm
 | RC4x128 | 1 | RC4 with key length 128. |
 | AESx128 | 2 | AES with key length 128. |
 | AESx256 | 3 | AES with key length 256. |
+| Custom | 4 | The custom encryption algorithm. |
 
 ## See Also
 

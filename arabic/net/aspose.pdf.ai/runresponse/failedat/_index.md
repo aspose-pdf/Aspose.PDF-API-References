@@ -1,7 +1,7 @@
 ---
 title: RunResponse.FailedAt
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الطابع الزمني لنظام Unix (بالثواني) عندما فشل التشغيل
+description: خاصية RunResponse. تحصل أو تعين الطابع الزمني لنظام Unix بالثواني عندما فشل التشغيل
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/runresponse/failedat/

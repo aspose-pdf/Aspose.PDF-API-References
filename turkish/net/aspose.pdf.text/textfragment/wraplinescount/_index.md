@@ -1,7 +1,7 @@
 ---
 title: TextFragment.WrapLinesCount
 second_title: Aspose.PDF for .NET API Reference
-description: TextFragment özelliği. Bu paragraf için sarma satır sayısını alır veya ayarlar (sadece pdf oluşturma için)
+description: TextFragment özelliği. Bu paragraf için sarma satır sayısını alır veya ayarlar. sadece pdf oluşturma için.
 type: docs
 weight: 170
 url: /tr/net/aspose.pdf.text/textfragment/wraplinescount/

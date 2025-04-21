@@ -1,7 +1,7 @@
 ---
 title: FormattedText.IsCjk
 second_title: Aspose.PDF for .NET API Reference
-description: FormattedText-Methode. Überprüft, ob der Text CJK (Chinesisch, Japanisch oder Koreanisch) ist
+description: FormattedText-Methode. Überprüft, ob der Text CJK ist
 type: docs
 weight: 50
 url: /de/net/aspose.pdf.facades/formattedtext/iscjk/

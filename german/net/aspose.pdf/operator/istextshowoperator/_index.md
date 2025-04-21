@@ -1,7 +1,7 @@
 ---
 title: Operator.IsTextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Operator-Methode. Bestimmt, ob der Operator für die Textausgabe (Tj, TJ usw.) verantwortlich ist
+description: Operator-Methode. Bestimmt, ob der Operator für die Textausgabe verantwortlich ist
 type: docs
 weight: 50
 url: /de/net/aspose.pdf/operator/istextshowoperator/

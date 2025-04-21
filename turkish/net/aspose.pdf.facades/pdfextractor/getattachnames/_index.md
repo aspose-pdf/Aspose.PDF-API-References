@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetAttachNames
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metodu. PDF dosyasındaki eklerin listesini döndürür. Not: Bu metodu kullanmadan önce ExtractAttachments çağrılmalıdır.
+description: PdfExtractor metodu. PDF dosyasındaki eklerin listesini döndürür. Not Bu metodu kullanmadan önce ExtractAttachments çağrılmalıdır.
 type: docs
 weight: 160
 url: /tr/net/aspose.pdf.facades/pdfextractor/getattachnames/

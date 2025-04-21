@@ -30,7 +30,6 @@ class OptimizationOptions : public System::Object
 | [get_ImageEncoding](./get_imageencoding/)() const | [Image](../../aspose.pdf/image/) encodre which will be used. |
 | [get_ImageQuality](./get_imagequality/)() | Specifies level of image compression when CompressIamges flag is used. |
 | [get_LinkDuplicateStreams](./get_linkduplicatestreams/)() const | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |
-| [get_LinkDuplicateStreamsScanLevel](./get_linkduplicatestreamsscanlevel/)() const | Level of scanning. Deeper scans (higher value) take longer but may produce smaller result files. Default value: 10. |
 | [get_MaxResoultion](./get_maxresoultion/)() | Specifies maximum resolution of images. If image has higher resolition it will be scaled. |
 | [get_RemovePrivateInfo](./get_removeprivateinfo/)() const | Remove private information (page piece info). |
 | [get_RemoveUnusedObjects](./get_removeunusedobjects/)() const | If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document. |
@@ -47,7 +46,6 @@ class OptimizationOptions : public System::Object
 | [set_ImageEncoding](./set_imageencoding/)(Aspose::Pdf::Optimization::ImageEncoding) | [Image](../../aspose.pdf/image/) encodre which will be used. |
 | [set_ImageQuality](./set_imagequality/)(int32_t) | Specifies level of image compression when CompressIamges flag is used. |
 | [set_LinkDuplicateStreams](./set_linkduplicatestreams/)(bool) | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |
-| [set_LinkDuplicateStreamsScanLevel](./set_linkduplicatestreamsscanlevel/)(int32_t) | Level of scanning. Deeper scans (higher value) take longer but may produce smaller result files. Default value: 10. |
 | [set_MaxResoultion](./set_maxresoultion/)(int32_t) | Specifies maximum resolution of images. If image has higher resolition it will be scaled. |
 | [set_RemovePrivateInfo](./set_removeprivateinfo/)(bool) | Remove private information (page piece info). |
 | [set_RemoveUnusedObjects](./set_removeunusedobjects/)(bool) | If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document. |

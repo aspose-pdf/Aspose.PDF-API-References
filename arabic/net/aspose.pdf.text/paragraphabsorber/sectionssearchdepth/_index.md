@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية ParagraphAbsorber. تحصل أو تعين قيمة تحدد عدد المرات التي سيتم فيها إجراء عمليات بحث متسلسلة عن عناصر هيكلية أكثر دقة. عمق البحث الافتراضي هو 3. وهذا يعني ثلاث عمليات بحث عن الأقسام المقسمة أفقياً (العناوين، الفقرات، إلخ) وثلاث عمليات بحث عن الأقسام المقسمة عمودياً (الأعمدة).
+description: خاصية ParagraphAbsorber. تحصل أو تعين قيمة تحدد عدد المرات التي سيتم فيها إجراء عمليات بحث متسلسلة عن عناصر هيكلية أكثر دقة. عمق البحث الافتراضي هو 3. وهذا يعني ثلاث عمليات بحث عن الأقسام المقسمة أفقياً  وثلاث عمليات بحث عن الأقسام المقسمة عمودياً .
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

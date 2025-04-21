@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-Methode. Bewegt den Ursprung von 0 0 zu dem angegebenen Punkt. Der Ursprung ist unten links und die Einheit ist Punkt (1 Zoll = 72 Punkte).
+description: PdfPageEditor-Methode. Bewegt den Ursprung von 0 0 zu dem angegebenen Punkt. Der Ursprung ist unten links und die Einheit ist Punkt. 1 Zoll = 72 Punkte.
 type: docs
 weight: 170
 url: /de/net/aspose.pdf.facades/pdfpageeditor/moveposition/

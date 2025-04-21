@@ -1,7 +1,7 @@
 ---
 title: CompletionCreateRequest.ResponseFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad CompletionCreateRequest. Obtiene o establece un objeto que especifica el formato que el modelo debe generar. Compatible con GPT-4 Turbo y todos los modelos GPT-3.5 Turbo más nuevos que gpt-3.5turbo1106. Establecer en { "type": "json_object" } habilita el modo JSON, que garantiza que el mensaje que genera el modelo sea un JSON válido.
+description: Propiedad CompletionCreateRequest. Obtiene o establece un objeto que especifica el formato que el modelo debe generar. Compatible con GPT-4 Turbo y todos los modelos GPT-3.5 Turbo más nuevos que gpt-3.5turbo1106. Establecer en "type" "json_object" habilita el modo JSON, que garantiza que el mensaje que genera el modelo sea un JSON válido.
 type: docs
 weight: 100
 url: /es/net/aspose.pdf.ai/completioncreaterequest/responseformat/

@@ -1,7 +1,7 @@
 ---
 title: Class DP
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.DP. Класс, представляющий оператор DP (точка содержимого с пометкой).
+description: Класс Aspose.Pdf.Operators.DP. Класс, представляющий оператор DP - точка содержимого с пометкой.
 type: docs
 weight: 7270
 url: /ru/net/aspose.pdf.operators/dp/

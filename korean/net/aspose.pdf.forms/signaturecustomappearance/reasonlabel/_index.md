@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ReasonLabel
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 속성. 이유 레이블을 가져오거나 설정합니다. 기본값: 이유
+description: SignatureCustomAppearance 속성. 이유 레이블을 가져오거나 설정합니다. 기본값 이유
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/

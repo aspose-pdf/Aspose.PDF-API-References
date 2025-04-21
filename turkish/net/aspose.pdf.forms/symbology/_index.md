@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Sembolojisi enum. Bir Barkod Sembolojisi, belirli bir tür barkodun teknik detaylarını tanımlar: çubukların genişliği, karakter seti, kodlama yöntemi, kontrol toplamı spesifikasyonları vb.
+description: Aspose.Pdf.Forms.Sembolojisi enum. Bir Barkod Sembolojisi, belirli bir tür barkodun teknik detaylarını tanımlar çubukların genişliği, karakter seti, kodlama yöntemi, kontrol toplamı spesifikasyonları vb.
 type: docs
 weight: 5310
 url: /tr/net/aspose.pdf.forms/symbology/

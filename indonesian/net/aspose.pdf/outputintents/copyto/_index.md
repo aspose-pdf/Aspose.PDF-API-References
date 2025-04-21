@@ -1,7 +1,7 @@
 ---
 title: OutputIntents.CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: Metode OutputIntents. Menyalin elemen koleksi ke *array* mulai dari *arrayIndex* tertentu ke dalam array
+description: Metode OutputIntents. Menyalin elemen koleksi ke array mulai dari arrayIndex tertentu ke dalam array
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/outputintents/copyto/

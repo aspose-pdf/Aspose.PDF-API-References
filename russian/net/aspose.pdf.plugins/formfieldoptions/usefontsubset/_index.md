@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UseFontSubset
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, используется ли подмножество шрифта для созданного/измененного поля или нет (если будет установлено).
+description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, используется ли подмножество шрифта для созданного/измененного поля или нет.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/usefontsubset/

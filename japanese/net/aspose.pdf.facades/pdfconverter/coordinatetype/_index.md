@@ -1,7 +1,7 @@
 ---
 title: PdfConverter.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter プロパティ。ページ座標タイプ (メディア/クロップボックス) を取得または設定します。デフォルトでは CropBox 値が使用されます。
+description: PdfConverter プロパティ。ページ座標タイプ （メディア/クロップボックス） を取得または設定します。デフォルトでは CropBox 値が使用されます。
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdfconverter/coordinatetype/

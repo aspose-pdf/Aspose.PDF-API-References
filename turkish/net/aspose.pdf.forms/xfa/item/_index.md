@@ -1,7 +1,7 @@
 ---
 title: XFA.Item
 second_title: Aspose.PDF for .NET API Reference
-description: XFA özelliği. Veritabanı düğüm değerini *yol* göre alır veya ayarlar
+description: XFA özelliği. Veritabanı düğüm değerini yol göre alır veya ayarlar
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.forms/xfa/item/

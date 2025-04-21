@@ -1,7 +1,7 @@
 ---
 title: ThreadMessageResponse.CompletedAt
 second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse özelliği. Mesajın tamamlandığı zaman için Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: ThreadMessageResponse özelliği. Mesajın tamamlandığı zaman için Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.ai/threadmessageresponse/completedat/

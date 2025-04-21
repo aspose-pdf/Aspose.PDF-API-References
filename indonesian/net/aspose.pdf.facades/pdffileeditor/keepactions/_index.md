@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, tindakan akan disalin dari dokumen sumber. Nilai default: benar
+description: Properti PdfFileEditor. Jika benar, tindakan akan disalin dari dokumen sumber. Nilai default benar
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdffileeditor/keepactions/

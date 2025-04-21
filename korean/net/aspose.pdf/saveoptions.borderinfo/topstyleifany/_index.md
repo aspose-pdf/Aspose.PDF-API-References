@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.TopStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo 필드. 경계의 상단 부분(있는 경우)을 나타냅니다.
+description: BorderInfo 필드. 경계의 상단 부분（있는 경우）을 나타냅니다.
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/

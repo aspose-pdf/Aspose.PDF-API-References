@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-Feld. Dieser Handler kann verwendet werden, um Ereignisse zum Fortschritt der Konvertierung zu behandeln, z.B. kann er verwendet werden, um eine Fortschrittsanzeige oder Nachrichten über die aktuelle Anzahl der verarbeiteten Seiten anzuzeigen. Ein Beispiel für den Code des Handlers, der den Fortschritt in der Konsole anzeigt, ist:
+description: HtmlSaveOptions-Feld. Dieser Handler kann verwendet werden, um Ereignisse zum Fortschritt der Konvertierung zu behandeln, z.B. kann er verwendet werden, um eine Fortschrittsanzeige oder Nachrichten über die aktuelle Anzahl der verarbeiteten Seiten anzuzeigen. Ein Beispiel für den Code des Handlers, der den Fortschritt in der Konsole anzeigt, ist
 type: docs
 weight: 280
 url: /de/net/aspose.pdf/htmlsaveoptions/customprogresshandler/

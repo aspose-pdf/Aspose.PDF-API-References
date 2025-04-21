@@ -1,7 +1,7 @@
 ---
 title: PdfAnnotationEditor.ModifyAnnotations
 second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Memodifikasi anotasi dari tipe yang ditentukan pada rentang halaman yang ditentukan. Ini mendukung untuk memodifikasi properti anotasi berikut: Modified, Title, Contents, Color, Subject dan Open
+description: Metode PdfAnnotationEditor. Memodifikasi anotasi dari tipe yang ditentukan pada rentang halaman yang ditentukan. Ini mendukung untuk memodifikasi properti anotasi berikut Modified, Title, Contents, Color, Subject dan Open
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/

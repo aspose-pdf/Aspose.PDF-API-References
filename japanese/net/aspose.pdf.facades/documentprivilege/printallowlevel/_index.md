@@ -1,7 +1,7 @@
 ---
 title: DocumentPrivilege.PrintAllowLevel
 second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege プロパティ。ドキュメントの権限の印刷レベルを取得および設定します。Adobe Professionals Printing Allowed 設定と同様です。0: なし。1: 低解像度 150 dpi。2: 高解像度。
+description: DocumentPrivilege プロパティ。ドキュメントの権限の印刷レベルを取得および設定します。Adobe Professionals Printing Allowed 設定と同様です。0 なし。1 低解像度 150 dpi。2 高解像度。
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/documentprivilege/printallowlevel/

@@ -1,7 +1,7 @@
 ---
 title: Class OpenAIContext
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIContext klass. Representerar enhets-ID:n relaterade till en assistent
+description: Aspose.Pdf.AI.OpenAIContext klass. Representerar enhets-IDn relaterade till en assistent
 type: docs
 weight: 860
 url: /sv/net/aspose.pdf.ai/openaicontext/

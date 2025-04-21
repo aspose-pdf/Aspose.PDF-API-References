@@ -4,7 +4,7 @@ linktitle: PdfVersionMethods
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfVersionMethods class. Extra methods for enum PdfVersion in C++.'
 type: docs
-weight: 14900
+weight: 15100
 url: /cpp/aspose.pdf/pdfversionmethods/
 ---
 ## PdfVersionMethods class

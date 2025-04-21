@@ -4,7 +4,7 @@ linktitle: DefaultNodesNumInSubtrees
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use DefaultNodesNumInSubtrees field of Aspose::Pdf::Document class in C++.'
 type: docs
-weight: 11900
+weight: 12000
 url: /cpp/aspose.pdf/document/defaultnodesnuminsubtrees/
 ---
 ## DefaultNodesNumInSubtrees field

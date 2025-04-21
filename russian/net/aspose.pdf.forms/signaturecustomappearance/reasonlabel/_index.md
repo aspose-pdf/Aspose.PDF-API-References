@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.ReasonLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает метку причины. Значение по умолчанию: Причина
+description: Свойство SignatureCustomAppearance. Получает/устанавливает метку причины. Значение по умолчанию Причина
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/

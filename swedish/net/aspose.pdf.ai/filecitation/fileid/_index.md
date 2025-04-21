@@ -1,7 +1,7 @@
 ---
 title: FileCitation.FileId
 second_title: Aspose.PDF for .NET API Reference
-description: FileCitation-egenskap. Hämtar eller ställer in ID:t för den specifika filen som citatet kommer ifrån
+description: FileCitation-egenskap. Hämtar eller ställer in IDt för den specifika filen som citatet kommer ifrån
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/filecitation/fileid/

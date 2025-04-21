@@ -1,7 +1,7 @@
 ---
 title: FormCheckBoxFieldSetOptions.Checked
 second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um die Eigenschaft Checked für das modifizierte Feld zu bestimmen (ob sie gesetzt wird).
+description: FormCheckBoxFieldSetOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um die Eigenschaft Checked für das modifizierte Feld zu bestimmen.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/checked/

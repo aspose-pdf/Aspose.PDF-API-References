@@ -4,7 +4,7 @@ linktitle: set_Duplex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_Duplex method. Sets print duplex mode handling option to use when printing the file from the print dialog in C++.'
 type: docs
-weight: 9100
+weight: 9200
 url: /cpp/aspose.pdf/document/set_duplex/
 ---
 ## Document::set_Duplex method

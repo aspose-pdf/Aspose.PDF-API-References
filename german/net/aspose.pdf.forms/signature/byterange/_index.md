@@ -1,7 +1,7 @@
 ---
 title: Signature.ByteRange
 second_title: Aspose.PDF for .NET API Reference
-description: Signatur-Eigenschaft. Ein Array von Paaren von Ganzzahlen (Start-Byte-Offset, Länge in Bytes), das den genauen Byte-Bereich für die Digest-Berechnung beschreibt
+description: Signatur-Eigenschaft. Ein Array von Paaren von Ganzzahlen, das den genauen Byte-Bereich für die Digest-Berechnung beschreibt
 type: docs
 weight: 40
 url: /de/net/aspose.pdf.forms/signature/byterange/

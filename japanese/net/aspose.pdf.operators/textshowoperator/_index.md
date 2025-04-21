@@ -1,7 +1,7 @@
 ---
 title: Class TextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextShowOperator クラス。テキストを出力するためのすべてのオペレーターの抽象基本クラス (Tj, TJ など)。
+description: Aspose.Pdf.Operators.TextShowOperator クラス。テキストを出力するためのすべてのオペレーターの抽象基本クラス （Tj, TJ など）。
 type: docs
 weight: 7920
 url: /ja/net/aspose.pdf.operators/textshowoperator/

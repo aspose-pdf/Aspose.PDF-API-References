@@ -21,6 +21,13 @@ url: /go-cpp/organize/
 | [AddTextHeader](./addtextheader/) | Add text in Header of a PDF-document. |
 | [AddTextFooter](./addtextfooter/) | Add text in Footer of a PDF-document. |
 | [Flatten](./flatten/) | Flatten PDF-document. |
+| [RemoveAnnotations](./removeannotations/) | Remove annotations from PDF-document. |
+| [RemoveAttachments](./removeattachments/) | Remove attachments from PDF-document. |
+| [RemoveBlankPages](./removeblankpages/) | Remove blank pages from PDF-document. |
+| [RemoveBookmarks](./removebookmarks/) | Remove bookmarks from PDF-document. |
+| [RemoveHiddenText](./removehiddentext/) | Remove hidden text from PDF-document. |
+| [RemoveImages](./removeimages/) | Remove images from PDF-document. |
+| [RemoveJavaScripts](./removejavascripts/) | Remove java scripts from PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -29,6 +36,9 @@ url: /go-cpp/organize/
 | [PageAddPageNum](./pageaddpagenum/) | Add page number on page. |
 | [PageAddTextHeader](./pageaddtextheader/) | Add text in page header. |
 | [PageAddTextFooter](./pageaddtextfooter/) | Add text in page footer. |
+| [PageRemoveAnnotations](./pageremoveannotations/) | Remove annotations in page. |
+| [PageRemoveHiddenText](./pageremovehiddentext/) | Remove hidden text in page. |
+| [PageRemoveImages](./pageremoveimages/) | Remove images in page. |
 
 
 ## Detailed Description

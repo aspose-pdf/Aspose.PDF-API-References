@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.PartsEmbeddingModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes 열거형. 이 열거형은 HTML에서 참조된 파일의 가능한 포함 모드를 나열합니다. 이는 참조된 파일(HTML, 글꼴, 이미지, CSS)이 주요 HTML 파일에 포함될지 또는 별도의 이진 엔티티로 생성될지를 제어할 수 있게 해줍니다.
+description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes 열거형. 이 열거형은 HTML에서 참조된 파일의 가능한 포함 모드를 나열합니다. 이는 참조된 파일（HTML, 글꼴, 이미지, CSS）이 주요 HTML 파일에 포함될지 또는 별도의 이진 엔티티로 생성될지를 제어할 수 있게 해줍니다.
 type: docs
 weight: 5710
 url: /ko/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/

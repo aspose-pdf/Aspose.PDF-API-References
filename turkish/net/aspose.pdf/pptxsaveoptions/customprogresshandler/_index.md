@@ -1,7 +1,7 @@
 ---
 title: PptxSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions özelliği. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir; örneğin, işlenen sayfa sayısı hakkında ilerleme çubuğu veya mesajlar göstermek için kullanılabilir. Konsolda ilerlemeyi gösteren işleyici kodunun örneği şudur:
+description: PptxSaveOptions özelliği. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir; örneğin, işlenen sayfa sayısı hakkında ilerleme çubuğu veya mesajlar göstermek için kullanılabilir. Konsolda ilerlemeyi gösteren işleyici kodunun örneği şudur
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf/pptxsaveoptions/customprogresshandler/

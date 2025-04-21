@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.Warichu
 second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Warichu PDF 1.5 Комментарий или аннотация меньшего размера текста, отформатированная на две меньшие строки в пределах высоты содержащей строки текста и размещенная после (встраиваемо) основного текста, к которому она относится. Элемент Warichu также может содержать элементы WT и WP
+description: Поле StructureTypeStandard. Warichu PDF 1.5 Комментарий или аннотация меньшего размера текста, отформатированная на две меньшие строки в пределах высоты содержащей строки текста и размещенная после основного текста, к которому она относится. Элемент Warichu также может содержать элементы WT и WP
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/warichu/

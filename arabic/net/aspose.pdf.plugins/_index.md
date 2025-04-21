@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: مساحة الاسم الجذرية **Aspose.Pdf.Plugins** لجميع فئات **Aspose.Pdf.Plugins** التي تكون إما مباشرة فيها مثل **PdfOrganizer** أو غير مباشرة من خلال عدة مساحات فرعية.
+description: مساحة الاسم الجذرية Aspose.Pdf.Plugins لجميع فئات Aspose.Pdf.Plugins التي تكون إما مباشرة فيها مثل PdfOrganizer أو غير مباشرة من خلال عدة مساحات فرعية.
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.plugins/

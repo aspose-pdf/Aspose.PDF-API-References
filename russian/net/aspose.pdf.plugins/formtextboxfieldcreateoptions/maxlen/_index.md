@@ -1,7 +1,7 @@
 ---
 title: FormTextBoxFieldCreateOptions.MaxLen
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение для определения свойства MaxLen для созданного TextBoxField (если будет установлено).
+description: Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение для определения свойства MaxLen для созданного TextBoxField.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/maxlen/

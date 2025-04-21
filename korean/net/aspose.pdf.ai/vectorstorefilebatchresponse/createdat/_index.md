@@ -1,7 +1,7 @@
 ---
 title: VectorStoreFileBatchResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse 속성. 벡터 저장소 파일 배치가 생성된 Unix 타임스탬프(초 단위)를 가져오거나 설정합니다.
+description: VectorStoreFileBatchResponse 속성. 벡터 저장소 파일 배치가 생성된 Unix 타임스탬프（초 단위）를 가져오거나 설정합니다.
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/vectorstorefilebatchresponse/createdat/

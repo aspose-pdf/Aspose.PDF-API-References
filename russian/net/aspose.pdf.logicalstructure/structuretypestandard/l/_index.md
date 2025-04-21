@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.L
 second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Список Последовательность элементов с одинаковым значением и важностью. Его непосредственными дочерними элементами должен быть необязательный заголовок (структурный тип Caption), за которым следуют один или несколько элементов списка (структурный тип LI).
+description: Поле StructureTypeStandard. Список Последовательность элементов с одинаковым значением и важностью. Его непосредственными дочерними элементами должен быть необязательный заголовок - структурный тип Caption, за которым следуют один или несколько элементов списка - структурный тип LI.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/l/

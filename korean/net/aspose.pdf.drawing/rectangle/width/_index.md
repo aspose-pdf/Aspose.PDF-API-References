@@ -1,7 +1,7 @@
 ---
 title: Rectangle.Width
 second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 속성. 사각형의 너비를 나타내는 부동 값(float)을 가져오거나 설정합니다.
+description: Rectangle 속성. 사각형의 너비를 나타내는 부동 값（float）을 가져오거나 설정합니다.
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.drawing/rectangle/width/

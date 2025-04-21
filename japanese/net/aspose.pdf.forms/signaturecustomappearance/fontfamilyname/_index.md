@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.FontFamilyName
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance プロパティ。フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値: Arial
+description: SignatureCustomAppearance プロパティ。フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値 Arial
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/

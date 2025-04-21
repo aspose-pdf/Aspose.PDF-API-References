@@ -1,7 +1,7 @@
 ---
 title: FormEditor.SaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade FormEditor. Obtém ou define opções de salvamento quando o resultado é armazenado como HttpResponse. Valor padrão: PdfSaveOptions
+description: Propriedade FormEditor. Obtém ou define opções de salvamento quando o resultado é armazenado como HttpResponse. Valor padrão PdfSaveOptions
 type: docs
 weight: 120
 url: /pt/net/aspose.pdf.facades/formeditor/saveoptions/

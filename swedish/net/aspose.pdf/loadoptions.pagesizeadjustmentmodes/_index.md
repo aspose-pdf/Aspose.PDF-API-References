@@ -1,7 +1,7 @@
 ---
 title: Enum LoadOptions.PageSizeAdjustmentModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes enum. OBS! Funktionen är implementerad men har ännu inte lagts till i den offentliga API:n eftersom ett blockerande problem i OSHARED-lagret avslöjades för exempel dokument. Representerar användningsläge för sidstorlek under konvertering. Format som HTML, EPUB etc. har vanligtvis flytande design, så det tillåter att anpassa den erforderliga sidstorleken. Men ibland har innehållet specifika horisontella positioner eller storlek som inte tillåter att innehållet passar in i den erforderliga sidstorleken. I sådana fall kan vi definiera vad som ska göras i detta fall, dvs när storleken på innehållet inte passar den erforderliga initiala sidstorleken för den resulterande PDF-dokumentet.
+description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes enum. OBS! Funktionen är implementerad men har ännu inte lagts till i den offentliga APIn eftersom ett blockerande problem i OSHARED-lagret avslöjades för exempel dokument. Representerar användningsläge för sidstorlek under konvertering. Format som HTML, EPUB etc. har vanligtvis flytande design, så det tillåter att anpassa den erforderliga sidstorleken. Men ibland har innehållet specifika horisontella positioner eller storlek som inte tillåter att innehållet passar in i den erforderliga sidstorleken. I sådana fall kan vi definiera vad som ska göras i detta fall, dvs när storleken på innehållet inte passar den erforderliga initiala sidstorleken för den resulterande PDF-dokumentet.
 type: docs
 weight: 6140
 url: /sv/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/

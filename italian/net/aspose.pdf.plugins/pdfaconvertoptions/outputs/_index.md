@@ -1,7 +1,7 @@
 ---
 title: PdfAConvertOptions.Outputs
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfAConvertOptions. Ottiene la collezione delle sorgenti dati di destinazione aggiunte (file o stream) per i risultati dell'operazione di salvataggio
+description: Proprietà PdfAConvertOptions. Ottiene la collezione delle sorgenti dati di destinazione aggiunte per i risultati dell'operazione di salvataggio
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/

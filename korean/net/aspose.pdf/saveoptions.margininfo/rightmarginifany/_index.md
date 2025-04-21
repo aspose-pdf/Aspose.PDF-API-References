@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.MarginInfo.RightMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 필드. 오른쪽 페이지 여백을 나타냅니다(있는 경우)
+description: MarginInfo 필드. 오른쪽 페이지 여백을 나타냅니다（있는 경우）
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/saveoptions.margininfo/rightmarginifany/

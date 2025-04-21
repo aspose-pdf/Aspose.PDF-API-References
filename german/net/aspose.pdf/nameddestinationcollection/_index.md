@@ -1,7 +1,7 @@
 ---
 title: Class NamedDestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.NamedDestinationCollection-Klasse. Die Klasse repräsentiert die Sammlung aller Ziele (ein Namensbaum, der Namenszeichenfolgen zu Zielen zuordnet, siehe 12.3.2.3 "Benannte Ziele" und siehe 7.7.4 "Namenswörterbuch") im PDF-Dokument.
+description: Aspose.Pdf.NamedDestinationCollection-Klasse. Die Klasse repräsentiert die Sammlung aller Ziele im PDF-Dokument.
 type: docs
 weight: 7010
 url: /de/net/aspose.pdf/nameddestinationcollection/

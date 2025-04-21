@@ -1,7 +1,7 @@
 ---
 title: Class SetLineJoin
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetLineJoin sınıfı. j operatörünü temsil eden sınıf (çizgi birleşim stilini ayarlama).
+description: Aspose.Pdf.Operators.SetLineJoin sınıfı. j operatörünü temsil eden sınıf - çizgi birleşim stilini ayarlama.
 type: docs
 weight: 7760
 url: /tr/net/aspose.pdf.operators/setlinejoin/

@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldCreateOptions.Selected
 second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att bestämma egenskapen Selected för skapad ComboBoxField (om den kommer att ställas in).
+description: FormComboBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att bestämma egenskapen Selected för skapad ComboBoxField.
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/

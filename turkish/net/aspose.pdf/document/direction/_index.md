@@ -1,7 +1,7 @@
 ---
 title: Document.Direction
 second_title: Aspose.PDF for .NET API Reference
-description: Belge özelliği. Metnin okuma düzenini alır veya ayarlar: L2R soldan sağa veya R2L sağdan sola
+description: Belge özelliği. Metnin okuma düzenini alır veya ayarlar L2R soldan sağa veya R2L sağdan sola
 type: docs
 weight: 100
 url: /tr/net/aspose.pdf/document/direction/

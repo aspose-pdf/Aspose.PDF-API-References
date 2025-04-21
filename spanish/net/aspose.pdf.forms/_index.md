@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: El espacio de nombres Aspose.Pdf.Forms tiene clases que describen formularios (estáticos, dinámicos) y varios tipos de campos como cuadro de texto, cuadro de lista, botón de opción, etc.
+description: El espacio de nombres Aspose.Pdf.Forms tiene clases que describen formularios y varios tipos de campos como cuadro de texto, cuadro de lista, botón de opción, etc.
 type: docs
 weight: 110
 url: /es/net/aspose.pdf.forms/

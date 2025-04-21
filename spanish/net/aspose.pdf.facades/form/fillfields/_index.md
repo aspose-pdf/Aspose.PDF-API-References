@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Método Form. Rellena los campos de texto con valores de texto y guarda el documento. Relevante para documentos firmados. Nota: Solo se aplica a Text Box. Tanto los nombres de los campos como los valores son sensibles a mayúsculas y minúsculas.
+description: Método Form. Rellena los campos de texto con valores de texto y guarda el documento. Relevante para documentos firmados. Nota Solo se aplica a Text Box. Tanto los nombres de los campos como los valores son sensibles a mayúsculas y minúsculas.
 type: docs
 weight: 140
 url: /es/net/aspose.pdf.facades/form/fillfields/

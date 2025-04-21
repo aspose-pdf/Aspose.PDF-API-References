@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Das Aspose.Pdf ist ein Root-Namespace für alle Klassen der Aspose.Pdf-Bibliothek, die entweder direkt darin enthalten sind, wie **Document**, oder indirekt über mehrere Subnamespaces.
+description: Das Aspose.Pdf ist ein Root-Namespace für alle Klassen der Aspose.Pdf-Bibliothek, die entweder direkt darin enthalten sind, wie Document, oder indirekt über mehrere Subnamespaces.
 type: docs
 weight: 30
 url: /de/net/aspose.pdf/

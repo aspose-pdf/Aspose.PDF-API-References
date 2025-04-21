@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.TOC
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-Feld. Inhaltsverzeichnis Eine Liste, die aus Einträgen des Inhaltsverzeichnisses (Strukturtyp TOCI) und/oder anderen verschachtelten Einträgen des Inhaltsverzeichnisses (TOC) besteht.
+description: StructureTypeStandard-Feld. Inhaltsverzeichnis Eine Liste, die aus Einträgen des Inhaltsverzeichnisses und/oder anderen verschachtelten Einträgen des Inhaltsverzeichnisses besteht.
 type: docs
 weight: 440
 url: /de/net/aspose.pdf.logicalstructure/structuretypestandard/toc/

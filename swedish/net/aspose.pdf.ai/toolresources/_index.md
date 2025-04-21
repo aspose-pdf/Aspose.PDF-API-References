@@ -1,7 +1,7 @@
 ---
 title: Class ToolResources
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolResources klass. Representerar en uppsättning resurser som används av assistentens verktyg. Resurserna är specifika för typen av verktyg. Till exempel kräver verktyget code_interpreter en lista över fil-ID:n medan verktyget file_search kräver en lista över vektorbutiks-ID:n.
+description: Aspose.Pdf.AI.ToolResources klass. Representerar en uppsättning resurser som används av assistentens verktyg. Resurserna är specifika för typen av verktyg. Till exempel kräver verktyget code_interpreter en lista över fil-IDn medan verktyget file_search kräver en lista över vektorbutiks-IDn.
 type: docs
 weight: 1230
 url: /sv/net/aspose.pdf.ai/toolresources/

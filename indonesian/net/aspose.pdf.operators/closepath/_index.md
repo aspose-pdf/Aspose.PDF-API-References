@@ -1,7 +1,7 @@
 ---
 title: Class ClosePath
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.ClosePath. Kelas yang mewakili operator h (tutup jalur)
+description: Kelas Aspose.Pdf.Operators.ClosePath. Kelas yang mewakili operator h
 type: docs
 weight: 7190
 url: /id/net/aspose.pdf.operators/closepath/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.L
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard alanı. Benzer anlam ve öneme sahip bir dizi öğe. Hemen altındaki çocukları isteğe bağlı bir başlık yapısı (Başlık yapısı) ve ardından bir veya daha fazla liste öğesi (LI yapısı) olmalıdır.
+description: StructureTypeStandard alanı. Benzer anlam ve öneme sahip bir dizi öğe. Hemen altındaki çocukları isteğe bağlı bir başlık yapısı - Başlık yapısı - ve ardından bir veya daha fazla liste öğesi - LI yapısı - olmalıdır.
 type: docs
 weight: 200
 url: /tr/net/aspose.pdf.logicalstructure/structuretypestandard/l/

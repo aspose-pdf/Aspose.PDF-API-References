@@ -4,7 +4,7 @@ linktitle: PdfException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::PdfException typedef in C++.'
 type: docs
-weight: 28500
+weight: 28800
 url: /cpp/aspose.pdf/pdfexception/
 ---
 ## PdfException typedef

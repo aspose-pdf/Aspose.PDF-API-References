@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.TextRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Rektangel som beskriver de numeriska skillnaderna mellan två rektanglar: Rect-posten för annoteringen och en rektangel som finns inom den rektangeln. Den inre rektangeln är där annoteringens text ska visas
+description: FreeTextAnnotation-egenskap. Rektangel som beskriver de numeriska skillnaderna mellan två rektanglar Rect-posten för annoteringen och en rektangel som finns inom den rektangeln. Den inre rektangeln är där annoteringens text ska visas
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/freetextannotation/textrectangle/

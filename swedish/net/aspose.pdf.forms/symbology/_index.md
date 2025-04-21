@@ -1,7 +1,7 @@
 ---
 title: Enum Symbology
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology enum. En streckkodssymbologi definierar de tekniska detaljerna för en viss typ av streckkod: bredden på staplarna, teckenuppsättning, metod för kodning, checksumma specifikationer etc.
+description: Aspose.Pdf.Forms.Symbology enum. En streckkodssymbologi definierar de tekniska detaljerna för en viss typ av streckkod bredden på staplarna, teckenuppsättning, metod för kodning, checksumma specifikationer etc.
 type: docs
 weight: 5310
 url: /sv/net/aspose.pdf.forms/symbology/

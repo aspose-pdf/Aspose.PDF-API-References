@@ -1,7 +1,7 @@
 ---
 title: OutputIntents.CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: Метод OutputIntents. Копирует элементы коллекции в массив, начиная с определенного *arrayIndex* в массиве
+description: Метод OutputIntents. Копирует элементы коллекции в массив, начиная с определенного arrayIndex в массиве
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/outputintents/copyto/

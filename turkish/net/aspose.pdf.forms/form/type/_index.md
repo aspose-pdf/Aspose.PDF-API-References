@@ -1,7 +1,7 @@
 ---
 title: Form.Type
 second_title: Aspose.PDF for .NET API Reference
-description: Form özelliği. Formun türünü alır. Olası değerler: Standart Statik Dinamik
+description: Form özelliği. Formun türünü alır. Olası değerler Standart Statik Dinamik
 type: docs
 weight: 160
 url: /tr/net/aspose.pdf.forms/form/type/

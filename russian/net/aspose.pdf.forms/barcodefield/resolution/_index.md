@@ -1,7 +1,7 @@
 ---
 title: BarcodeField.Resolution
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство BarcodeField. Получает разрешение в точках на дюйм (dpi), при котором объект штрих-кода отображается
+description: Свойство BarcodeField. Получает разрешение в точках на дюйм, при котором объект штрих-кода отображается
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/barcodefield/resolution/

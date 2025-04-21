@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.CorruptedFileAction
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Это свойство определяет поведение при объединении, когда процесс столкнулся с поврежденным файлом. Возможные значения: StopWithError и ConcatenateIgnoringCorrupted
+description: Свойство PdfFileEditor. Это свойство определяет поведение при объединении, когда процесс столкнулся с поврежденным файлом. Возможные значения StopWithError и ConcatenateIgnoringCorrupted
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/

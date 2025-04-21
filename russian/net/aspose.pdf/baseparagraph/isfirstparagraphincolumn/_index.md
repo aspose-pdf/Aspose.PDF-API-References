@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsFirstParagraphInColumn
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или устанавливает логическое значение, которое указывает, будет ли этот абзац в следующем столбце. По умолчанию false. (для генерации pdf)
+description: Свойство BaseParagraph. Получает или устанавливает логическое значение, которое указывает, будет ли этот абзац в следующем столбце. По умолчанию false.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/

@@ -1,7 +1,7 @@
 ---
 title: AnnotationCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationCollection. Получает значение, указывающее, синхронизирован ли доступ к Aspose.Pdf.Annotations.AnnotationCollection (безопасен для потоков).
+description: Свойство AnnotationCollection. Получает значение, указывающее, синхронизирован ли доступ к Aspose.Pdf.Annotations.AnnotationCollection.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/annotationcollection/issynchronized/

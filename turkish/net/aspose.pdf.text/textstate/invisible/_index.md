@@ -1,7 +1,7 @@
 ---
 title: TextState.Invisible
 second_title: Aspose.PDF for .NET API Reference
-description: TextState özelliği. Metnin görünmezliğini alır veya ayarlar. Bu, temelde bazı özel durumlar (kesme gibi) hariç, [`RenderingMode`](../renderingmode/) durumunu yansıtır.
+description: TextState özelliği. Metnin görünmezliğini alır veya ayarlar. Bu, temelde bazı özel durumlar hariç, [`RenderingMode`](../renderingmode/) durumunu yansıtır.
 type: docs
 weight: 110
 url: /tr/net/aspose.pdf.text/textstate/invisible/

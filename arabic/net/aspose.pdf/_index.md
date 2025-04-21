@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf هو مساحة اسم جذر لجميع فئات مكتبة Aspose.Pdf التي تكون إما مباشرة فيها مثل **Document** أو غير مباشرة من خلال عدة مساحات فرعية.
+description: Aspose.Pdf هو مساحة اسم جذر لجميع فئات مكتبة Aspose.Pdf التي تكون إما مباشرة فيها مثل Document أو غير مباشرة من خلال عدة مساحات فرعية.
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/

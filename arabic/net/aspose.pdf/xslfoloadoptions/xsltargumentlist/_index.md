@@ -1,7 +1,7 @@
 ---
 title: XslFoLoadOptions.XsltArgumentList
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية XslFoLoadOptions. XsltArgumentList لإدخال القيم في معلمات xls الموجودة. يحتوي ملف XLS على معلمة 'animal' بدون قيمة. XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); الآن يفترض المحول أن هناك معلمة 'animal' بقيمة 'cat' في ملف XLS.
+description: خاصية XslFoLoadOptions. XsltArgumentList لإدخال القيم في معلمات xls 
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/

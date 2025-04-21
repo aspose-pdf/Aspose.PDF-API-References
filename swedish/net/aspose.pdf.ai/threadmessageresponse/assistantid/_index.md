@@ -1,7 +1,7 @@
 ---
 title: ThreadMessageResponse.AssistantId
 second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-egenskap. Hämtar eller ställer in, om tillämpligt, ID:t för den assistent som skrev detta meddelande
+description: ThreadMessageResponse-egenskap. Hämtar eller ställer in, om tillämpligt, IDt för den assistent som skrev detta meddelande
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/assistantid/

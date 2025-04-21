@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.DictionaryEditor 클래스. 문서의 트리 사전(문서 사전, 페이지 사전, 리소스 사전)에 접근하기 위한 클래스입니다.
+description: Aspose.Pdf.DataEditor.DictionaryEditor 클래스. 문서의 트리 사전（문서 사전, 페이지 사전, 리소스 사전）에 접근하기 위한 클래스입니다.
 type: docs
 weight: 3470
 url: /ko/net/aspose.pdf.dataeditor/dictionaryeditor/

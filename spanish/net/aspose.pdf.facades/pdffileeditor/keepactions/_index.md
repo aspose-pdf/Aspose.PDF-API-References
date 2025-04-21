@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de PdfFileEditor. Si es verdadero, las acciones se copiarán de los documentos fuente. Valor predeterminado: verdadero
+description: Propiedad de PdfFileEditor. Si es verdadero, las acciones se copiarán de los documentos fuente. Valor predeterminado verdadero
 type: docs
 weight: 110
 url: /es/net/aspose.pdf.facades/pdffileeditor/keepactions/

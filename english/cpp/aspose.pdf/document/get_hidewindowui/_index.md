@@ -4,7 +4,7 @@ linktitle: get_HideWindowUI
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_HideWindowUI method. Gets flag specifying whether user interface elements should be hidden when document is active in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf/document/get_hidewindowui/
 ---
 ## Document::get_HideWindowUI method

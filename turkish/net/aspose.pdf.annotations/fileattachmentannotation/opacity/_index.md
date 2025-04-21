@@ -1,7 +1,7 @@
 ---
 title: FileAttachmentAnnotation.Opacity
 second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation özelliği. 0 ile 1 arasında ikonların opaklığını alır veya ayarlar: 0 - tamamen şeffaf, 1 - tamamen opak
+description: FileAttachmentAnnotation özelliği. 0 ile 1 arasında ikonların opaklığını alır veya ayarlar 0 - tamamen şeffaf, 1 - tamamen opak
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.annotations/fileattachmentannotation/opacity/

@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Security
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security namespace. The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.pdf.security/
 ---
 
@@ -16,6 +16,8 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 | --- | --- |
 | [DsaAlgorithmInfo](./dsaalgorithminfo/) | Represents a class for the information about the DSA signature algorithm. |
 | [EcdsaAlgorithmInfo](./ecdsaalgorithminfo/) | Represents a class for the information about the ECDSA signature algorithm. |
+| [EncryptionParameters](./encryptionparameters/) | Represents an encryption parameters class. |
+| [ICustomSecurityHandler](./icustomsecurityhandler/) | The custom security handler interface. |
 | [KeyedSignatureAlgorithmInfo](./keyedsignaturealgorithminfo/) | Represents a class for information about a keyed signature algorithm. |
 | [RsaAlgorithmInfo](./rsaalgorithminfo/) | Represents a class for the information about the RSA signature algorithm. |
 | [SignatureAlgorithmInfo](./signaturealgorithminfo/) | Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm. |

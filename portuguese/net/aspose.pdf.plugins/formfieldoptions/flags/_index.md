@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.Flags
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade FormFieldOptions. Obtém/define o valor para determinar a propriedade Flags para o campo criado/modificado (se será definido).
+description: Propriedade FormFieldOptions. Obtém/define o valor para determinar a propriedade Flags para o campo criado/modificado.
 type: docs
 weight: 70
 url: /pt/net/aspose.pdf.plugins/formfieldoptions/flags/

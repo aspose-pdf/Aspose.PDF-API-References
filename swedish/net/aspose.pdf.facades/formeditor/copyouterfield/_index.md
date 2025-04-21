@@ -1,7 +1,7 @@
 ---
 title: FormEditor.CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med ursprungligt sidnummer och koordinater. Observera: Endast för AcroForm-fält (exklusive radioknapp)
+description: FormEditor-metod. Kopierar ett befintligt fält från ett PDF-dokument till ett annat dokument med ursprungligt sidnummer och koordinater. Observera Endast för AcroForm-fält. exklusive radioknapp
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/formeditor/copyouterfield/

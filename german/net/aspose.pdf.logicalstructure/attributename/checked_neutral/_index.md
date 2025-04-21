@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Checked_neutral
 second_title: Aspose.PDF for .NET API Reference
-description: Attributname-Feld. Attribut überprüft: Neutral - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes
+description: Attributname-Feld. Attribut überprüft Neutral - Der Zustand eines Optionsfeldes oder Kontrollkästchenfeldes
 type: docs
 weight: 150
 url: /de/net/aspose.pdf.logicalstructure/attributename/checked_neutral/

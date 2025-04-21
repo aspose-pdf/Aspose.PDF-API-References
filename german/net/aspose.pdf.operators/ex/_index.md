@@ -1,7 +1,7 @@
 ---
 title: Class EX
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EX-Klasse. Klasse, die den EX-Operator darstellt (Ende des Kompatibilitätsabschnitts)
+description: Aspose.Pdf.Operators.EX-Klasse. Klasse, die den EX-Operator darstellt.
 type: docs
 weight: 7350
 url: /de/net/aspose.pdf.operators/ex/

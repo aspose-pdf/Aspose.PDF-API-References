@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.GetAttachNames
 second_title: Aspose.PDF for .NET API Reference
-description: Método PdfExtractor. Devuelve una lista de archivos adjuntos en el archivo PDF. Nota: ExtractAttachments debe ser llamado antes de usar este método
+description: Método PdfExtractor. Devuelve una lista de archivos adjuntos en el archivo PDF. Nota ExtractAttachments debe ser llamado antes de usar este método
 type: docs
 weight: 160
 url: /es/net/aspose.pdf.facades/pdfextractor/getattachnames/

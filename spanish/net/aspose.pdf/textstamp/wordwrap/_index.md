@@ -1,7 +1,7 @@
 ---
 title: TextStamp.WordWrap
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad TextStamp. Define el ajuste de palabras. Si esta propiedad se establece en verdadero y se especifica un valor de Width, el texto se dividirá en varias líneas para ajustarse al ancho especificado. Valor predeterminado: falso
+description: Propiedad TextStamp. Define el ajuste de palabras. Si esta propiedad se establece en verdadero y se especifica un valor de Width, el texto se dividirá en varias líneas para ajustarse al ancho especificado. Valor predeterminado falso
 type: docs
 weight: 120
 url: /es/net/aspose.pdf/textstamp/wordwrap/

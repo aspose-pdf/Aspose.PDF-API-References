@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins является корневым пространством имен для всех классов Aspose.Pdf.Plugins, которые находятся либо непосредственно в нем, такие как **PdfOrganizer**, либо косвенно через несколько подсистем.
+description: Aspose.Pdf.Plugins является корневым пространством имен для всех классов Aspose.Pdf.Plugins, которые находятся либо непосредственно в нем, такие как PdfOrganizer, либо косвенно через несколько подсистем.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.plugins/

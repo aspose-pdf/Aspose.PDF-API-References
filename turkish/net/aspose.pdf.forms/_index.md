@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms ad alanı, formları (standart, statik, dinamik) ve metin kutusu, liste kutusu, radyo düğmesi gibi çeşitli alan türlerini tanımlayan sınıflara sahiptir.
+description: Aspose.Pdf.Forms ad alanı, formları ve metin kutusu, liste kutusu, radyo düğmesi gibi çeşitli alan türlerini tanımlayan sınıflara sahiptir.
 type: docs
 weight: 110
 url: /tr/net/aspose.pdf.forms/

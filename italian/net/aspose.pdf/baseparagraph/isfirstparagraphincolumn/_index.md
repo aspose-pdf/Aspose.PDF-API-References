@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsFirstParagraphInColumn
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BaseParagraph. Ottiene o imposta un valore bool che indica se questo paragrafo sarà nella colonna successiva. Il valore predefinito è falso. (per la generazione di pdf)
+description: Proprietà BaseParagraph. Ottiene o imposta un valore bool che indica se questo paragrafo sarà nella colonna successiva. Il valore predefinito è falso.
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/

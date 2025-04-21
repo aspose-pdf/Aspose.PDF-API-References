@@ -1,7 +1,7 @@
 ---
 title: EmbeddedFileCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство EmbeddedFileCollection. Получает значение, указывающее, синхронизирован ли доступ к этой коллекции (безопасен для потоков)
+description: Свойство EmbeddedFileCollection. Получает значение, указывающее, синхронизирован ли доступ к этой коллекции.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/embeddedfilecollection/issynchronized/

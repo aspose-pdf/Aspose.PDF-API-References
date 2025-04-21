@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileStamp. تحصل أو تضبط نمط ترقيم الصفحات. القيم الممكنة: NumeralsArabic، NumeralsRomanUppercase، NumeralsRomanLowercase، LettersAppercase، LettersLowercase
+description: خاصية PdfFileStamp. تحصل أو تضبط نمط ترقيم الصفحات. القيم الممكنة NumeralsArabic، NumeralsRomanUppercase، NumeralsRomanLowercase، LettersAppercase، LettersLowercase
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdffilestamp/numberingstyle/

@@ -1,7 +1,7 @@
 ---
 title: TextFragment.EndNote
 second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar eller ställer in styckets slutnot. (endast för PDF-generering)
+description: TextFragment-egenskap. Hämtar eller ställer in styckets slutnot.
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/textfragment/endnote/

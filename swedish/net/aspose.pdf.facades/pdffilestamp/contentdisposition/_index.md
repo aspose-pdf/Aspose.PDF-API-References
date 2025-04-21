@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in hur innehållet kommer att lagras när resultatet av operationen lagras i HttpResponse-objektet. Möjliga värden: inline / attachment. Standard: inline
+description: PdfFileStamp-egenskap. Hämtar eller ställer in hur innehållet kommer att lagras när resultatet av operationen lagras i HttpResponse-objektet. Möjliga värden inline / attachment. Standard inline
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffilestamp/contentdisposition/

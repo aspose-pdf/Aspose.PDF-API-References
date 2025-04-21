@@ -1,7 +1,7 @@
 ---
 title: Class DP
 second_title: Aspose.PDF for .NET API Reference
-description: Clase Aspose.Pdf.Operators.DP. Clase que representa el operador DP (punto de contenido marcado).
+description: Clase Aspose.Pdf.Operators.DP. Clase que representa el operador DP - punto de contenido marcado.
 type: docs
 weight: 7270
 url: /es/net/aspose.pdf.operators/dp/

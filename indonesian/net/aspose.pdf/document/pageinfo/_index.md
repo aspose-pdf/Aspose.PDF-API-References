@@ -1,7 +1,7 @@
 ---
 title: Document.PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur informasi halaman. (hanya untuk generator, tidak diisi saat membaca dokumen)
+description: Properti dokumen. Mendapatkan atau mengatur informasi halaman. hanya untuk generator, tidak diisi saat membaca dokumen.
 type: docs
 weight: 430
 url: /id/net/aspose.pdf/document/pageinfo/

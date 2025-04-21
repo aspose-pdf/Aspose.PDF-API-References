@@ -1,7 +1,7 @@
 ---
 title: CollectionField.E
 second_title: Aspose.PDF for .NET API Reference
-description: CollectionField özelliği. Etkileşimli PDF işlemcisinin alan değerini düzenleme desteği sağlayıp sağlamayacağını belirten bir bayrak alır. Varsayılan değer: false
+description: CollectionField özelliği. Etkileşimli PDF işlemcisinin alan değerini düzenleme desteği sağlayıp sağlamayacağını belirten bir bayrak alır. Varsayılan değer false
 type: docs
 weight: 10
 url: /tr/net/aspose.pdf/collectionfield/e/

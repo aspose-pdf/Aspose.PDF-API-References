@@ -1,7 +1,7 @@
 ---
 title: Class FormFlattenerOptions
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormFlattenerOptions. الفئة الأساسية لفئات الخيارات لتسوية الحقول (ليس التعليقات) في الوثيقة بواسطة مكون FormFlattener
+description: فئة Aspose.Pdf.Plugins.FormFlattenerOptions. الفئة الأساسية لفئات الخيارات لتسوية الحقول  في الوثيقة بواسطة مكون FormFlattener
 type: docs
 weight: 8760
 url: /ar/net/aspose.pdf.plugins/formflatteneroptions/

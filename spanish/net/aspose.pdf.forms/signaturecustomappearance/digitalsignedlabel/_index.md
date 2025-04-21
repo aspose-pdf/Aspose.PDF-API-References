@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.DigitalSignedLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad SignatureCustomAppearance. Obtiene/establece la etiqueta firmada digitalmente. Valor predeterminado: Firmado digitalmente por
+description: Propiedad SignatureCustomAppearance. Obtiene/establece la etiqueta firmada digitalmente. Valor predeterminado Firmado digitalmente por
 type: docs
 weight: 80
 url: /es/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/

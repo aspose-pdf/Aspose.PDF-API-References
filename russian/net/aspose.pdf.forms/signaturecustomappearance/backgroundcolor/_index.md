@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает цвет фона. Значение по умолчанию: Прозрачный
+description: Свойство SignatureCustomAppearance. Получает/устанавливает цвет фона. Значение по умолчанию Прозрачный
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/

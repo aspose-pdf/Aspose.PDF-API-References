@@ -1,7 +1,7 @@
 ---
 title: Class CurveTo2
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.CurveTo2. Kelas yang mewakili operator y (menambahkan kurva ke jalur, titik akhir direplikasi).
+description: Kelas Aspose.Pdf.Operators.CurveTo2. Kelas yang mewakili operator y - menambahkan kurva ke jalur, titik akhir direplikasi.
 type: docs
 weight: 7260
 url: /id/net/aspose.pdf.operators/curveto2/

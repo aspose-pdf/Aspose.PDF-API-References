@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.DateSignedAtLabel
 second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-Eigenschaft. Holt/setzt das Datum des unterschriebenen Labels. Standardwert: Datum
+description: SignatureCustomAppearance-Eigenschaft. Holt/setzt das Datum des unterschriebenen Labels. Standardwert Datum
 type: docs
 weight: 50
 url: /de/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/

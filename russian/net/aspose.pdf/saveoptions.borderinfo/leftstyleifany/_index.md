@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.LeftStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Поле BorderInfo. Представляет левую часть (если есть) границы
+description: Поле BorderInfo. Представляет левую часть границы
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/

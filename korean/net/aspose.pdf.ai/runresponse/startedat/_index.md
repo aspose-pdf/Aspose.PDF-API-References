@@ -1,7 +1,7 @@
 ---
 title: RunResponse.StartedAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunResponse 속성. 실행이 시작된 시점의 유닉스 타임스탬프(초)를 가져오거나 설정합니다.
+description: RunResponse 속성. 실행이 시작된 시점의 유닉스 타임스탬프（초）를 가져오거나 설정합니다.
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf.ai/runresponse/startedat/

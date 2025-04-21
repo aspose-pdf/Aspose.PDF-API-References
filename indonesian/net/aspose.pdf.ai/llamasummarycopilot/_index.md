@@ -1,7 +1,7 @@
 ---
 title: Class LlamaSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LlamaSummaryCopilot. Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan untuk membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan: Copilot ini menggunakan API penyelesaian, sehingga jumlah total teks yang dapat dikirim dibatasi oleh jendela konteks model.
+description: Kelas Aspose.Pdf.AI.LlamaSummaryCopilot. Menyediakan fungsionalitas untuk mendapatkan ringkasan dokumen menggunakan model AI. Contoh penggunaan untuk membuat klien Llama, mengonfigurasi opsi, dan menggunakan copilot ringkasan. Catatan Copilot ini menggunakan API penyelesaian, sehingga jumlah total teks yang dapat dikirim dibatasi oleh jendela konteks model.
 type: docs
 weight: 740
 url: /id/net/aspose.pdf.ai/llamasummarycopilot/

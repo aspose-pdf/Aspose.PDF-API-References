@@ -1,7 +1,7 @@
 ---
 title: Class LlamaSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaSummaryCopilot クラス。AI モデルを使用してドキュメントの要約を取得する機能を提供します。Llama クライアントを作成し、オプションを設定し、要約コパイロットを使用する例。注意: このコパイロットはコンプリーション API を使用するため、送信できるテキストの総量はモデルのコンテキストウィンドウによって制限されます。
+description: Aspose.Pdf.AI.LlamaSummaryCopilot クラス。AI モデルを使用してドキュメントの要約を取得する機能を提供します。Llama クライアントを作成し、オプションを設定し、要約コパイロットを使用する例。注意 このコパイロットはコンプリーション API を使用するため、送信できるテキストの総量はモデルのコンテキストウィンドウによって制限されます。
 type: docs
 weight: 740
 url: /ja/net/aspose.pdf.ai/llamasummarycopilot/

@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-Eigenschaft. Legt fest, wie der Inhalt gespeichert wird, wenn das Ergebnis der Operation in das HttpResponse-Objekt gespeichert wird. Möglicher Wert: inline / attachment. Standard: inline
+description: PdfFileEditor-Eigenschaft. Legt fest, wie der Inhalt gespeichert wird, wenn das Ergebnis der Operation in das HttpResponse-Objekt gespeichert wird. Möglicher Wert inline / attachment. Standard inline
 type: docs
 weight: 50
 url: /de/net/aspose.pdf.facades/pdffileeditor/contentdisposition/

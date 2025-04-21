@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.TextRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Properti FreeTextAnnotation. Persegi panjang yang menggambarkan perbedaan numerik antara dua persegi panjang: entri Rect dari anotasi dan persegi panjang yang terdapat di dalam persegi panjang tersebut. Persegi panjang dalam adalah tempat teks anotasi harus ditampilkan.
+description: Properti FreeTextAnnotation. Persegi panjang yang menggambarkan perbedaan numerik antara dua persegi panjang entri Rect dari anotasi dan persegi panjang yang terdapat di dalam persegi panjang tersebut. Persegi panjang dalam adalah tempat teks anotasi harus ditampilkan.
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/freetextannotation/textrectangle/

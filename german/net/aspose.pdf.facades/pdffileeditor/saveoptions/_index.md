@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.SaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-Eigenschaft. Ruft die Speicheroptionen ab oder legt sie fest, wenn das Ergebnis als HttpResponse gespeichert wird. Standardwert: PdfSaveOptions
+description: PdfFileEditor-Eigenschaft. Ruft die Speicheroptionen ab oder legt sie fest, wenn das Ergebnis als HttpResponse gespeichert wird. Standardwert PdfSaveOptions
 type: docs
 weight: 220
 url: /de/net/aspose.pdf.facades/pdffileeditor/saveoptions/

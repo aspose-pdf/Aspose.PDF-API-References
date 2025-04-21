@@ -1,7 +1,7 @@
 ---
 title: PageLabelCollection.UpdateLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Metode PageLabelCollection. Perbarui label untuk indeks halaman yang diberikan (indeks halaman dimulai dari 0)
+description: Metode PageLabelCollection. Perbarui label untuk indeks halaman yang diberikan
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pagelabelcollection/updatelabel/

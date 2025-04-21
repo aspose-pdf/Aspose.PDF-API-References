@@ -1,7 +1,7 @@
 ---
 title: Page.BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de la página. Obtiene o establece la imagen de fondo para la página (solo para generador, no se completa al leer el documento)
+description: Propiedad de la página. Obtiene o establece la imagen de fondo para la página. solo para generador, no se completa al leer el documento.
 type: docs
 weight: 60
 url: /es/net/aspose.pdf/page/backgroundimage/

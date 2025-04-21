@@ -1,7 +1,7 @@
 ---
 title: TextFragment.WrapLinesCount
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de TextFragment. Obtiene o establece el conteo de líneas de ajuste para este párrafo (solo para generación de pdf)
+description: Propiedad de TextFragment. Obtiene o establece el conteo de líneas de ajuste para este párrafo. solo para generación de pdf.
 type: docs
 weight: 170
 url: /es/net/aspose.pdf.text/textfragment/wraplinescount/

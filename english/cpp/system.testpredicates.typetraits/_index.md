@@ -4,7 +4,7 @@ linktitle: System::TestPredicates::TypeTraits
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::TestPredicates::TypeTraits namespace in C++.'
 type: docs
-weight: 6700
+weight: 6600
 url: /cpp/system.testpredicates.typetraits/
 ---
 

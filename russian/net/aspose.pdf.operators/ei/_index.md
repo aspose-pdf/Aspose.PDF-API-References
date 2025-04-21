@@ -1,7 +1,7 @@
 ---
 title: Class EI
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.EI. Класс, представляющий оператор EI (Конец объекта встроенного изображения)
+description: Класс Aspose.Pdf.Operators.EI. Класс, представляющий оператор EI - Конец объекта встроенного изображения.
 type: docs
 weight: 7290
 url: /ru/net/aspose.pdf.operators/ei/

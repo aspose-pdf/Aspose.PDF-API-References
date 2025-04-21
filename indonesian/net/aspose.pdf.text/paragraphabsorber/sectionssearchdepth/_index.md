@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: Properti ParagraphAbsorber. Mendapatkan atau menetapkan nilai yang menginstruksikan berapa kali pencarian berurutan untuk elemen struktur yang lebih halus akan dilakukan. Kedalaman pencarian default adalah 3. Ini berarti tiga pencarian untuk bagian yang dibagi secara horizontal (header, paragraf, dll) dan tiga pencarian untuk yang dibagi secara vertikal (kolom).
+description: Properti ParagraphAbsorber. Mendapatkan atau menetapkan nilai yang menginstruksikan berapa kali pencarian berurutan untuk elemen struktur yang lebih halus akan dilakukan. Kedalaman pencarian default adalah 3. Ini berarti tiga pencarian untuk bagian yang dibagi secara horizontal dan tiga pencarian untuk yang dibagi secara vertikal.
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

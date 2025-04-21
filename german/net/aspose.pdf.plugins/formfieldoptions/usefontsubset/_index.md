@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.UseFontSubset
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-Eigenschaft. Ruft den Wert ab oder setzt ihn, um zu bestimmen, ob das erstellte/ändernde Feld ein Schriftschnitt verwendet oder nicht (wenn es gesetzt wird).
+description: FormFieldOptions-Eigenschaft. Ruft den Wert ab oder setzt ihn, um zu bestimmen, ob das erstellte/ändernde Feld ein Schriftschnitt verwendet oder nicht .
 type: docs
 weight: 180
 url: /de/net/aspose.pdf.plugins/formfieldoptions/usefontsubset/

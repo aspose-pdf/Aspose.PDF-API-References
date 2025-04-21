@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
-description: Método de matriz. Escala x1 y y1 y devuelve x e y antes de la transformación de la matriz utilizando la siguiente fórmula x = (D * x1 - C * y1) / (A * D - C * B); y = (A * y1 - B * x1) / (A * D - C * B);
+description: Método de matriz. Escala x1 y y1 y devuelve x e y antes de la transformación de la matriz utilizando la siguiente fórmula x = D  x1 - C  y1 / A  D - C  B; y = A  y1 - B  x1 / A  D - C  B;
 type: docs
 weight: 220
 url: /es/net/aspose.pdf/matrix/unscale/

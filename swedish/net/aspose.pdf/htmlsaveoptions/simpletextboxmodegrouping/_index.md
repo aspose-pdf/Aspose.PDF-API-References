@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.SimpleTextboxModeGrouping
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Denna attribut specificerar en sekventiell gruppering av glyfer och ord i strängar. Till exempel har taggar och ord olika ordning i den konverterade HTML:en och du vill att de ska matcha. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
+description: HtmlSaveOptions-egenskap. Denna attribut specificerar en sekventiell gruppering av glyfer och ord i strängar. Till exempel har taggar och ord olika ordning i den konverterade HTMLen och du vill att de ska matcha. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/

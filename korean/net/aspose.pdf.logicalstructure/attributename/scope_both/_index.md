@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Scope_Both
 second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 필드. 속성 범위: 둘 다
+description: AttributeName 필드. 속성 범위 둘 다
 type: docs
 weight: 520
 url: /ko/net/aspose.pdf.logicalstructure/attributename/scope_both/

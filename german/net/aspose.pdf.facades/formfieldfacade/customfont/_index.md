@@ -1,7 +1,7 @@
 ---
 title: FormFieldFacade.CustomFont
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-Eigenschaft. Ruft den Namen der Schriftart ab oder legt ihn fest, wenn diese nicht standardmäßig ist (anders als 14 Standard-Schriftarten).
+description: FormFieldFacade-Eigenschaft. Ruft den Namen der Schriftart ab oder legt ihn fest, wenn diese nicht standardmäßig ist. anders als 14 Standard-Schriftarten.
 type: docs
 weight: 100
 url: /de/net/aspose.pdf.facades/formfieldfacade/customfont/

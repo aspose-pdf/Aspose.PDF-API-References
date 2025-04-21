@@ -1,7 +1,7 @@
 ---
 title: PdfFileStamp.SaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileStamp. Получает или задает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию: PdfSaveOptions
+description: Свойство PdfFileStamp. Получает или задает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию PdfSaveOptions
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdffilestamp/saveoptions/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf är ett rot-namespac för alla klasser i Aspose.Pdf-biblioteket som antingen finns direkt i det, som **Document**, eller indirekt genom flera subnamespaces
+description: Aspose.Pdf är ett rot-namespac för alla klasser i Aspose.Pdf-biblioteket som antingen finns direkt i det, som Document, eller indirekt genom flera subnamespaces
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/

@@ -1,7 +1,7 @@
 ---
 title: CodeInterpreter.FileIds
 second_title: Aspose.PDF for .NET API Reference
-description: CodeInterpreter-egenskap. Hämtar eller ställer in en lista över fil-ID:n som görs tillgängliga för code_interpreter-verktyget. Det kan finnas högst 20 filer kopplade till verktyget.
+description: CodeInterpreter-egenskap. Hämtar eller ställer in en lista över fil-IDn som görs tillgängliga för code_interpreter-verktyget. Det kan finnas högst 20 filer kopplade till verktyget.
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/codeinterpreter/fileids/

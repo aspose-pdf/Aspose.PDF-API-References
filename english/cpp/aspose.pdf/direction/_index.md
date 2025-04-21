@@ -4,7 +4,7 @@ linktitle: Direction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Direction enum. Text direction in C++.'
 type: docs
-weight: 22100
+weight: 22300
 url: /cpp/aspose.pdf/direction/
 ---
 ## Direction enum

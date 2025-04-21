@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph özelliği. Bir paragrafın satır içi olup olmadığını alır veya ayarlar. Varsayılan değer false'dur. (pdf oluşturma için)
+description: BaseParagraph özelliği. Bir paragrafın satır içi olup olmadığını alır veya ayarlar. Varsayılan değer false'dur. pdf oluşturma için.
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf/baseparagraph/isinlineparagraph/

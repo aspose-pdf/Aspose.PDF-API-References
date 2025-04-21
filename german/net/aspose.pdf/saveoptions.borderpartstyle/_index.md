@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsBorderPartStyle-Klasse. Stellt Informationen über einen Teil des Rahmens (oben, unten, linke Seite oder rechte Seite) dar
+description: Aspose.Pdf.SaveOptionsBorderPartStyle-Klasse. Stellt Informationen über einen Teil des Rahmens dar
 type: docs
 weight: 9890
 url: /de/net/aspose.pdf/saveoptions.borderpartstyle/

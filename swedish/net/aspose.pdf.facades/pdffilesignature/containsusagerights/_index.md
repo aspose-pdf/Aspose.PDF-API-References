@@ -1,7 +1,7 @@
 ---
 title: PdfFileSignature.ContainsUsageRights
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Kontrollerar om pdf:en har användningsrättigheter eller inte
+description: PdfFileSignature-metod. Kontrollerar om pdfen har användningsrättigheter eller inte
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdffilesignature/containsusagerights/

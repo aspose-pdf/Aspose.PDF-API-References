@@ -1,7 +1,7 @@
 ---
 title: TextReplaceOptions.LeftAdjustment
 second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions özelliği. TextReplaceOptions kullanırken değiştirilmiş metin için sol konum ayarlamasını ayarlar veya alır: - ReplaceAdjustmentAction = IsFormFillingMode;
+description: TextReplaceOptions özelliği. TextReplaceOptions kullanırken değiştirilmiş metin için sol konum ayarlamasını ayarlar veya alır - ReplaceAdjustmentAction = IsFormFillingMode;
 type: docs
 weight: 40
 url: /tr/net/aspose.pdf.text/textreplaceoptions/leftadjustment/

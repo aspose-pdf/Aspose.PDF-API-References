@@ -1,7 +1,7 @@
 ---
 title: IBoundsCheckableItem.CheckBounds
 second_title: Aspose.PDF for .NET API Reference
-description: IBoundsCheckableItem-Methode. Überprüft, ob das Element innerhalb der angegebenen Containerabmessungen (einschließlich) passt
+description: IBoundsCheckableItem-Methode. Überprüft, ob das Element innerhalb der angegebenen Containerabmessungen passt
 type: docs
 weight: 10
 url: /de/net/aspose.pdf.generator/iboundscheckableitem/checkbounds/

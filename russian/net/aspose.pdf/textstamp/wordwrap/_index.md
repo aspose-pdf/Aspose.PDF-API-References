@@ -1,7 +1,7 @@
 ---
 title: TextStamp.WordWrap
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Определяет перенос слов. Если это свойство установлено в true и указано значение Width, текст будет разбит на несколько строк, чтобы вписаться в указанную ширину. Значение по умолчанию: false
+description: Свойство TextStamp. Определяет перенос слов. Если это свойство установлено в true и указано значение Width, текст будет разбит на несколько строк, чтобы вписаться в указанную ширину. Значение по умолчанию false
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/textstamp/wordwrap/

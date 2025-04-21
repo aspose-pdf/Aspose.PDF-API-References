@@ -1,7 +1,7 @@
 ---
 title: Bookmark.Action
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم رقم الصفحة، لا يمكن تحديد الإجراء. نوع الإجراء يشمل: "GoTo"، "GoToR"، "Launch"، "Named".
+description: خاصية الإشارة المرجعية. تحصل أو تعين الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم رقم الصفحة، لا يمكن تحديد الإجراء. نوع الإجراء يشمل "GoTo"، "GoToR"، "Launch"، "Named".
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/bookmark/action/

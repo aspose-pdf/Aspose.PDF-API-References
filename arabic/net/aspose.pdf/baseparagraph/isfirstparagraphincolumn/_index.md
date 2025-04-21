@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsFirstParagraphInColumn
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF)
+description: خاصية BaseParagraph. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي false. 
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/

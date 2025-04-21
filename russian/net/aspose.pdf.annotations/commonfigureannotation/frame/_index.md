@@ -1,7 +1,7 @@
 ---
 title: CommonFigureAnnotation.Frame
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство CommonFigureAnnotation. Прямоугольник, описывающий числовые различия между двумя прямоугольниками: запись Rect аннотации и фактические границы лежащего в основе квадрата или круга.
+description: Свойство CommonFigureAnnotation. Прямоугольник, описывающий числовые различия между двумя прямоугольниками запись Rect аннотации и фактические границы лежащего в основе квадрата или круга.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/commonfigureannotation/frame/

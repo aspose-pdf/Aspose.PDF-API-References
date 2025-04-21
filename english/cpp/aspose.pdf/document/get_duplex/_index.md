@@ -4,7 +4,7 @@ linktitle: get_Duplex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Duplex method. Gets print duplex mode handling option to use when printing the file from the print dialog in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.pdf/document/get_duplex/
 ---
 ## Document::get_Duplex method

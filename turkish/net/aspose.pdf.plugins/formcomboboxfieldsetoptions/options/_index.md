@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldSetOptions.Options
 second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldSetOptions özelliği. Değiştirilen alan için Options özelliğini belirlemek üzere değeri alır/ayarlar (eğer ayarlanacaksa).
+description: FormComboBoxFieldSetOptions özelliği. Değiştirilen alan için Options özelliğini belirlemek üzere değeri alır/ayarlar - eğer ayarlanacaksa.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/options/

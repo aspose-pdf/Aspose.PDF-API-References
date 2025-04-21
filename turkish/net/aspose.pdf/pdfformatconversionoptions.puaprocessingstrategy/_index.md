@@ -1,7 +1,7 @@
 ---
 title: Enum PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy enum. Bazı PDF belgeleri, Özel Kullanım Alanı (PUA) ile ilgili özel unicode sembollerine sahiptir, açıklama için bkz. https//en.wikipedia.org/wiki/Private_Use_Areas. Bu semboller, "Metin Unicode Özel Kullanım Alanına eşlenmiştir ancak ActualText girişi mevcut değildir" gibi PDF/A uyumlu hatalara neden olur. Bu enumeration, PUA sembollerini işlemek için kullanılabilecek stratejileri tanımlar.
+description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy enum. Bazı PDF belgeleri, Özel Kullanım Alanı - PUA - ile ilgili özel unicode sembollerine sahiptir, açıklama için bkz. https//en.wikipedia.org/wiki/Private_Use_Areas. Bu semboller, "Metin Unicode Özel Kullanım Alanına eşlenmiştir ancak ActualText girişi mevcut değildir" gibi PDF/A uyumlu hatalara neden olur. Bu enumeration, PUA sembollerini işlemek için kullanılabilecek stratejileri tanımlar.
 type: docs
 weight: 8390
 url: /tr/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/

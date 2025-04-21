@@ -1,7 +1,7 @@
 ---
 title: CommonFigureAnnotation.Frame
 second_title: Aspose.PDF for .NET API Reference
-description: CommonFigureAnnotation-Eigenschaft. Das Rechteck, das die numerischen Unterschiede zwischen zwei Rechtecken beschreibt: dem Rect-Eintrag der Annotation und den tatsächlichen Grenzen des zugrunde liegenden Quadrats oder Kreises.
+description: CommonFigureAnnotation-Eigenschaft. Das Rechteck, das die numerischen Unterschiede zwischen zwei Rechtecken beschreibt dem Rect-Eintrag der Annotation und den tatsächlichen Grenzen des zugrunde liegenden Quadrats oder Kreises.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf.annotations/commonfigureannotation/frame/

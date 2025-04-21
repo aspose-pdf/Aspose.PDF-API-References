@@ -4,7 +4,7 @@ linktitle: HasIncrementalUpdate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::HasIncrementalUpdate method. Checks if the current PDF document has been saved with incremental updates in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.pdf/document/hasincrementalupdate/
 ---
 ## Document::HasIncrementalUpdate method

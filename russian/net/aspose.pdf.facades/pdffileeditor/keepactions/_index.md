@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.KeepActions
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Если истинно, действия будут скопированы из исходных документов. Значение по умолчанию: истинно
+description: Свойство PdfFileEditor. Если истинно, действия будут скопированы из исходных документов. Значение по умолчанию истинно
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffileeditor/keepactions/

@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.L
 second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Elenco Una sequenza di elementi di significato e importanza simili. I suoi figli immediati dovrebbero essere un tipo di struttura didascalia opzionale (tipo di struttura Caption) seguito da uno o più elementi dell'elenco (tipo di struttura LI).
+description: Campo StructureTypeStandard. Elenco Una sequenza di elementi di significato e importanza simili. I suoi figli immediati dovrebbero essere un tipo di struttura didascalia opzionale seguito da uno o più elementi dell'elenco.
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/l/

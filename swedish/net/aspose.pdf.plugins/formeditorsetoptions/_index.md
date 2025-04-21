@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorSetOptions klass. Representerar alternativ för att ställa in fältens (inte anteckningarnas) egenskaper
+description: Aspose.Pdf.Plugins.FormEditorSetOptions klass. Representerar alternativ för att ställa in fältens egenskaper
 type: docs
 weight: 8660
 url: /sv/net/aspose.pdf.plugins/formeditorsetoptions/

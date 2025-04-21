@@ -4,7 +4,7 @@ linktitle: get_FontUtilities
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_FontUtilities method. IDocumentFontUtilities instance in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/aspose.pdf/document/get_fontutilities/
 ---
 ## Document::get_FontUtilities method

@@ -1,7 +1,7 @@
 ---
 title: DocSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions-Feld. Dieser Handler kann verwendet werden, um Ereignisse zum Fortschritt der Konvertierung zu behandeln, z.B. kann er verwendet werden, um eine Fortschrittsanzeige oder Nachrichten über die aktuelle Anzahl der verarbeiteten Seiten anzuzeigen. Ein Beispiel für den Code des Handlers, der den Fortschritt in der Konsole anzeigt, ist:
+description: DocSaveOptions-Feld. Dieser Handler kann verwendet werden, um Ereignisse zum Fortschritt der Konvertierung zu behandeln, z.B. kann er verwendet werden, um eine Fortschrittsanzeige oder Nachrichten über die aktuelle Anzahl der verarbeiteten Seiten anzuzeigen. Ein Beispiel für den Code des Handlers, der den Fortschritt in der Konsole anzeigt, ist
 type: docs
 weight: 140
 url: /de/net/aspose.pdf/docsaveoptions/customprogresshandler/

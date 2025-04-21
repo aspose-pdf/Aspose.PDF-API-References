@@ -65,6 +65,13 @@ type Document struct {
 | [AddTextHeader](./organize/addtextheader/) | Add text in Header of a PDF-document. |
 | [AddTextFooter](./organize/addtextfooter/) | Add text in Footer of a PDF-document. |
 | [Flatten](./organize/flatten/) | Flatten PDF-document. |
+| [RemoveAnnotations](./organize/removeannotations/) | Remove annotations from PDF-document. |
+| [RemoveAttachments](./organize/removeattachments/) | Remove attachments from PDF-document. |
+| [RemoveBlankPages](./organize/removeblankpages/) | Remove blank pages from PDF-document. |
+| [RemoveBookmarks](./organize/removebookmarks/) | Remove bookmarks from PDF-document. |
+| [RemoveHiddenText](./organize/removehiddentext/) | Remove hidden text from PDF-document. |
+| [RemoveImages](./organize/removeimages/) | Remove images from PDF-document. |
+| [RemoveJavaScripts](./organize/removejavascripts/) | Remove java scripts from PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -73,6 +80,9 @@ type Document struct {
 | [PageAddPageNum](./organize/pageaddpagenum/) | Add page number on page. |
 | [PageAddTextHeader](./organize/pageaddtextheader/) | Add text in page header. |
 | [PageAddTextFooter](./organize/pageaddtextfooter/) | Add text in page footer. |
+| [PageRemoveAnnotations](./organize/pageremoveannotations/) | Remove annotations in page. |
+| [PageRemoveHiddenText](./organize/pageremovehiddentext/) | Remove hidden text in page. |
+| [PageRemoveImages](./organize/pageremoveimages/) | Remove images in page. |
 
 
 ## Core PDF functions

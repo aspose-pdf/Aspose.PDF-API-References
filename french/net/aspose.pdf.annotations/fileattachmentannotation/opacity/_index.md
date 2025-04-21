@@ -1,7 +1,7 @@
 ---
 title: FileAttachmentAnnotation.Opacity
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileAttachmentAnnotation. Obtient ou définit l'opacité des icônes de 0 à 1 : 0 complètement transparent, 1 complètement opaque
+description: Propriété FileAttachmentAnnotation. Obtient ou définit l'opacité des icônes de 0 à 1  0 complètement transparent, 1 complètement opaque
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/fileattachmentannotation/opacity/

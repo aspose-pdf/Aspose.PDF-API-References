@@ -4,7 +4,7 @@ linktitle: UnknownSignatureAlgorithmInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::UnknownSignatureAlgorithmInfo class. Represents a class for the unknown signature algorithm information in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf.security/unknownsignaturealgorithminfo/
 ---
 ## UnknownSignatureAlgorithmInfo class

@@ -1,7 +1,7 @@
 ---
 title: TextSegment.Hyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: TextSegment özelliği. Segmentin bağlantısını alır veya ayarlar (pdf oluşturucu için)
+description: TextSegment özelliği. Segmentin bağlantısını alır veya ayarlar. pdf oluşturucu için.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.text/textsegment/hyperlink/

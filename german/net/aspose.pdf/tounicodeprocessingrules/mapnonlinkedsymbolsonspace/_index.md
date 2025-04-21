@@ -1,7 +1,7 @@
 ---
 title: ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace
 second_title: Aspose.PDF for .NET API Reference
-description: ToUnicodeProcessingRules-Eigenschaft. Einige Schriftarten bieten keine Informationen über Unicodes für einige Textsymbole. Dieser Mangel an Informationen führt zu einem Fehler "Text kann nicht in Unicode umgewandelt werden". Verwenden Sie dieses Flag, um nicht verlinkte Symbole auf den Unicode "Leerzeichen" (Code 32) abzubilden.
+description: ToUnicodeProcessingRules-Eigenschaft. Einige Schriftarten bieten keine Informationen über Unicodes für einige Textsymbole. Dieser Mangel an Informationen führt zu einem Fehler "Text kann nicht in Unicode umgewandelt werden". Verwenden Sie dieses Flag, um nicht verlinkte Symbole auf den Unicode "Leerzeichen" abzubilden.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/

@@ -4,7 +4,7 @@ linktitle: get_ErrorAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_ErrorAction method. Action for objects that can not be converted in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_erroraction/
 ---
 ## PdfFormatConversionOptions::get_ErrorAction method

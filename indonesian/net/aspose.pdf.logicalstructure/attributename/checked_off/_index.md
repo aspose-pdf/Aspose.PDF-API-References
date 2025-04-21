@@ -1,7 +1,7 @@
 ---
 title: AttributeName.Checked_off
 second_title: Aspose.PDF for .NET API Reference
-description: AttributeName bidang. Atribut tercentang: Off  Status dari tombol radio atau kotak centang
+description: AttributeName bidang. Atribut tercentang Off  Status dari tombol radio atau kotak centang
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.logicalstructure/attributename/checked_off/

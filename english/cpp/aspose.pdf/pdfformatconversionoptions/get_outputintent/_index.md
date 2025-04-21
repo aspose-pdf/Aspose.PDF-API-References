@@ -4,7 +4,7 @@ linktitle: get_OutputIntent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_OutputIntent method. Gets the Aspose::Pdf::OutputIntent for the PDF format conversion in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_outputintent/
 ---
 ## PdfFormatConversionOptions::get_OutputIntent method

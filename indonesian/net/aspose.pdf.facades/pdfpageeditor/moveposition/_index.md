@@ -1,7 +1,7 @@
 ---
 title: PdfPageEditor.MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageEditor. Memindahkan titik asal dari 0 0 ke titik yang ditunjuk. Titik asal berada di kiri-bawah dan satuannya adalah point(1 inci = 72 poin)
+description: Metode PdfPageEditor. Memindahkan titik asal dari 0 0 ke titik yang ditunjuk. Titik asal berada di kiri-bawah dan satuannya adalah point. 1 inci = 72 poin
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdfpageeditor/moveposition/

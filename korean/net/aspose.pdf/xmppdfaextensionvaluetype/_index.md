@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionValueType 클래스. PDF/A ValueType 스키마는 XMP 2004 사양에 정의되지 않은 모든 속성 값 유형에 필요합니다. 즉, 다음 목록에 없는 값 유형에 대해 필요합니다: - 배열 유형(이들은 하나 이상의 필드를 포함할 수 있는 컨테이너 유형입니다): Alt, Bag, Seq - 기본 값 유형: Boolean, (열림 및 닫힘) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - 미디어 관리 값 유형: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - 기본 작업/워크플로우 값 유형: Job - EXIF 스키마 값 유형: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational 스키마 네임스페이스 URI: http://www.aiim.org/pdfa/ns/type# 필수 스키마 네임스페이스 접두사: pdfaType
+description: Aspose.Pdf.XmpPdfAExtensionValueType 클래스. PDF/A ValueType 스키마는 XMP 2004 사양에 정의되지 않은 모든 속성 값 유형에 필요합니다. 즉, 다음 목록에 없는 값 유형에 대해 필요합니다 - 배열 유형（이들은 하나 이상의 필드를 포함할 수 있는 컨테이너 유형입니다） Alt, Bag, Seq - 기본 값 유형 Boolean, （열림 및 닫힘） Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - 미디어 관리 값 유형 AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - 기본 작업/워크플로우 값 유형 Job - EXIF 스키마 값 유형 Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational 스키마 네임스페이스 URI http//www.aiim.org/pdfa/ns/type# 필수 스키마 네임스페이스 접두사 pdfaType
 type: docs
 weight: 11490
 url: /ko/net/aspose.pdf/xmppdfaextensionvaluetype/

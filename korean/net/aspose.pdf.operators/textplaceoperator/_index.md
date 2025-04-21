@@ -1,7 +1,7 @@
 ---
 title: Class TextPlaceOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextPlaceOperator 클래스. 텍스트 위치를 변경하는 연산자에 대한 추상 기본 클래스 (Tm, Td 등).
+description: Aspose.Pdf.Operators.TextPlaceOperator 클래스. 텍스트 위치를 변경하는 연산자에 대한 추상 기본 클래스 （Tm, Td 등）.
 type: docs
 weight: 7910
 url: /ko/net/aspose.pdf.operators/textplaceoperator/

@@ -1,7 +1,7 @@
 ---
 title: HtmlDiffOutputGenerator.StrikethroughDeleted
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlDiffOutputGenerator. احصل على أو قم بتعيين نمط تزيين النص: خط متقاطع لعملية الحذف. القيمة الافتراضية هي False
+description: خاصية HtmlDiffOutputGenerator. احصل على أو قم بتعيين نمط تزيين النص خط متقاطع لعملية الحذف. القيمة الافتراضية هي False
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/

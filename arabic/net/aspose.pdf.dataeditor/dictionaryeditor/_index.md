@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DataEditor.DictionaryEditor. فئة للوصول إلى قاموس شجرة المستندات (قاموس المستند، قاموس الصفحة، قاموس الموارد).
+description: فئة Aspose.Pdf.DataEditor.DictionaryEditor. فئة للوصول إلى قاموس شجرة المستندات.
 type: docs
 weight: 3470
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/

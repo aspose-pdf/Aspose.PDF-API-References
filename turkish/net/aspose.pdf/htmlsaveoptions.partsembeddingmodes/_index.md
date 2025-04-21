@@ -1,7 +1,7 @@
 ---
 title: Enum HtmlSaveOptions.PartsEmbeddingModes
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes enum. Bu enum, HTML'de referans verilen dosyaların gömülmesi için olası modları sıralar. Referans verilen dosyaların (HTML, Fontlar, Görseller, CSS'ler) ana HTML dosyasına gömülüp gömülmeyeceğini veya ayrı ikili varlıklar olarak mı oluşturulacağını kontrol etmeye olanak tanır.
+description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes enum. Bu enum, HTML'de referans verilen dosyaların gömülmesi için olası modları sıralar. Referans verilen dosyaların ana HTML dosyasına gömülüp gömülmeyeceğini veya ayrı ikili varlıklar olarak mı oluşturulacağını kontrol etmeye olanak tanır.
 type: docs
 weight: 5710
 url: /tr/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/

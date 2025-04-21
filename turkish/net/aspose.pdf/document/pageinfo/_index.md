@@ -1,7 +1,7 @@
 ---
 title: Document.PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Belge özelliği. Sayfa bilgilerini alır veya ayarlar. (yalnızca oluşturucu için, belge okunurken doldurulmaz)
+description: Belge özelliği. Sayfa bilgilerini alır veya ayarlar. yalnızca oluşturucu için, belge okunurken doldurulmaz.
 type: docs
 weight: 430
 url: /tr/net/aspose.pdf/document/pageinfo/

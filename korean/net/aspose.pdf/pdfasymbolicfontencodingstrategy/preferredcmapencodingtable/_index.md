@@ -1,7 +1,7 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable
 second_title: Aspose.PDF for .NET API Reference
-description: PdfASymbolicFontEncodingStrategy 속성. mac subtable(1,0)에 우선하여 사용될 subtables를 지정합니다. 이 경우 열거형 CMapEncodingTableType의 값 'MacTable'은 의미가 없습니다.
+description: PdfASymbolicFontEncodingStrategy 속성. mac subtable（1,0）에 우선하여 사용될 subtables를 지정합니다. 이 경우 열거형 CMapEncodingTableType의 값 'MacTable'은 의미가 없습니다.
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/

@@ -1,7 +1,7 @@
 ---
 title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。PDF ドキュメント内のプライベート ユース エリア (PUA) シンボルを処理するための戦略を取得または設定します。
+description: PdfAOptionsBase プロパティ。PDF ドキュメント内のプライベート ユース エリア （PUA） シンボルを処理するための戦略を取得または設定します。
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/

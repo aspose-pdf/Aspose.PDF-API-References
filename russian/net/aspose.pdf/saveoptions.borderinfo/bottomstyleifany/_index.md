@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.BottomStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Поле BorderInfo. Представляет нижнюю часть (если есть) границы
+description: Поле BorderInfo. Представляет нижнюю часть границы, если есть.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/

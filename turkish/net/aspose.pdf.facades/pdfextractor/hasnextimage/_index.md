@@ -1,7 +1,7 @@
 ---
 title: PdfExtractor.HasNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metodu. PDF belgesinde daha fazla görüntünün erişilebilir olup olmadığını kontrol eder. Not: Bu metodun kullanımı öncesinde ExtractImage çağrılmalıdır.
+description: PdfExtractor metodu. PDF belgesinde daha fazla görüntünün erişilebilir olup olmadığını kontrol eder. Not Bu metodun kullanımı öncesinde ExtractImage çağrılmalıdır.
 type: docs
 weight: 200
 url: /tr/net/aspose.pdf.facades/pdfextractor/hasnextimage/

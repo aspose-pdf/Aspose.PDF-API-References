@@ -1,7 +1,7 @@
 ---
 title: Page.AddStamp
 second_title: Aspose.PDF for .NET API Reference
-description: Page 메서드. 페이지에 스탬프를 추가합니다. 스탬프는 페이지 번호 이미지 또는 간단한 텍스트(예: 로고)일 수 있습니다.
+description: Page 메서드. 페이지에 스탬프를 추가합니다. 스탬프는 페이지 번호 이미지 또는 간단한 텍스트（예 로고）일 수 있습니다.
 type: docs
 weight: 360
 url: /ko/net/aspose.pdf/page/addstamp/

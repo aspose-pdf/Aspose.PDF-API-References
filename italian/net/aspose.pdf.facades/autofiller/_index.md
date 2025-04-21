@@ -1,7 +1,7 @@
 ---
 title: Class AutoFiller
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.AutoFiller. Rappresenta una classe per ricevere dati da un database o da un'altra fonte di dati, riempirli nei campi progettati del pdf modello e infine generare un nuovo file o stream pdf. Ha due modalità di input del file modello: input come stream o file pdf. Ha quattro tipi di modalità di output: un stream unito, un file unito, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable.
+description: Classe Aspose.Pdf.Facades.AutoFiller. Rappresenta una classe per ricevere dati da un database o da un'altra fonte di dati, riempirli nei campi progettati del pdf modello e infine generare un nuovo file o stream pdf. Ha due modalità di input del file modello input come stream o file pdf. Ha quattro tipi di modalità di output un stream unito, un file unito, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable.
 type: docs
 weight: 4150
 url: /it/net/aspose.pdf.facades/autofiller/

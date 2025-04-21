@@ -1,7 +1,7 @@
 ---
 title: ImageDevice.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade ImageDevice. Obtém ou define o tipo de coordenada da página (caixas Media/Crop). O valor CropBox é usado por padrão
+description: Propriedade ImageDevice. Obtém ou define o tipo de coordenada da página. O valor CropBox é usado por padrão
 type: docs
 weight: 20
 url: /pt/net/aspose.pdf.devices/imagedevice/coordinatetype/

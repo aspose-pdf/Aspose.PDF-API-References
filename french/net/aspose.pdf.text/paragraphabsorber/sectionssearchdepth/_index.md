@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété de ParagraphAbsorber. Obtient ou définit la valeur qui indique combien de fois des recherches séquentielles pour des éléments de structure plus fins seront effectuées. La profondeur de recherche par défaut est de 3. Cela signifie trois recherches pour les sections divisées horizontalement (en-têtes, paragraphes, etc.) et trois recherches pour celles divisées verticalement (colonnes).
+description: Propriété de ParagraphAbsorber. Obtient ou définit la valeur qui indique combien de fois des recherches séquentielles pour des éléments de structure plus fins seront effectuées. La profondeur de recherche par défaut est de 3. Cela signifie trois recherches pour les sections divisées horizontalement et trois recherches pour celles divisées verticalement.
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

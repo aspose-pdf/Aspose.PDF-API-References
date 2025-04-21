@@ -1,7 +1,7 @@
 ---
 title: Class SetTextRise
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetTextRise. Класс, представляющий оператор Ts (установить подъем текста)
+description: Класс Aspose.Pdf.Operators.SetTextRise. Класс, представляющий оператор Ts - установить подъем текста.
 type: docs
 weight: 7850
 url: /ru/net/aspose.pdf.operators/settextrise/

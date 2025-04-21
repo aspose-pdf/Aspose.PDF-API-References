@@ -1,7 +1,7 @@
 ---
 title: Class XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmpPdfAExtensionValueType. Skema ValueType PDF/A diperlukan untuk semua jenis nilai properti yang tidak didefinisikan dalam spesifikasi XMP 2004, yaitu untuk jenis nilai di luar daftar berikut: - Jenis array (ini adalah jenis kontainer yang dapat berisi satu atau lebih bidang): Alt, Bag, Seq - Jenis nilai dasar: Boolean, (pilihan terbuka dan tertutup), Tanggal, Dimensi, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Teks, Thumbnail, URI, URL, XPath - Jenis nilai Manajemen Media: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Jenis nilai Pekerjaan/Alur Kerja Dasar: Pekerjaan - Jenis nilai skema EXIF: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasional URI namespace skema: http://www.aiim.org/pdfa/ns/type# Prefix namespace skema yang diperlukan: pdfaType
+description: Kelas Aspose.Pdf.XmpPdfAExtensionValueType. Skema ValueType PDF/A diperlukan untuk semua jenis nilai properti yang tidak didefinisikan dalam spesifikasi XMP 2004, yaitu untuk jenis nilai di luar daftar berikut - Jenis array Alt, Bag, Seq - Jenis nilai dasar Boolean, Tanggal, Dimensi, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Teks, Thumbnail, URI, URL, XPath - Jenis nilai Manajemen Media AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Jenis nilai Pekerjaan/Alur Kerja Dasar Pekerjaan - Jenis nilai skema EXIF Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rasional URI namespace skema http//www.aiim.org/pdfa/ns/type# Prefix namespace skema yang diperlukan pdfaType
 type: docs
 weight: 11490
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/

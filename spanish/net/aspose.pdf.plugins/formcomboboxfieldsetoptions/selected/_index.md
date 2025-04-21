@@ -1,7 +1,7 @@
 ---
 title: FormComboBoxFieldSetOptions.Selected
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad FormComboBoxFieldSetOptions. Obtiene/establece el valor para determinar la propiedad Selected para el campo modificado (si se establecerá).
+description: Propiedad FormComboBoxFieldSetOptions. Obtiene/establece el valor para determinar la propiedad Selected para el campo modificado, si se establecerá.
 type: docs
 weight: 40
 url: /es/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/selected/

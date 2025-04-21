@@ -1,7 +1,7 @@
 ---
 title: FreeTextAnnotation.TextRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Прямоугольник, описывающий числовые различия между двумя прямоугольниками: запись Rect аннотации и прямоугольник, содержащийся внутри этого прямоугольника. Внутренний прямоугольник - это место, где должен отображаться текст аннотации.
+description: Свойство FreeTextAnnotation. Прямоугольник, описывающий числовые различия между двумя прямоугольниками запись Rect аннотации и прямоугольник, содержащийся внутри этого прямоугольника. Внутренний прямоугольник - это место, где должен отображаться текст аннотации.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/freetextannotation/textrectangle/

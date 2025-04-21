@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderInfo.TopStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo alanı. Kenarlığın üst kısmını temsil eder (varsa)
+description: BorderInfo alanı. Kenarlığın üst kısmını temsil eder
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/

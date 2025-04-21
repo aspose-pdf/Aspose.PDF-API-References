@@ -1,7 +1,7 @@
 ---
 title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormEditorSetOptions. تمثل الخيارات لتعيين خصائص الحقول (ليس التعليقات التوضيحية)
+description: فئة Aspose.Pdf.Plugins.FormEditorSetOptions. تمثل الخيارات لتعيين خصائص الحقول 
 type: docs
 weight: 8660
 url: /ar/net/aspose.pdf.plugins/formeditorsetoptions/

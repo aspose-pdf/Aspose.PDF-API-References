@@ -1,7 +1,7 @@
 ---
 title: Class SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsBorderPartStyle 클래스. 테두리의 한 부분(상단, 하단, 왼쪽 또는 오른쪽)에 대한 정보를 나타냅니다.
+description: Aspose.Pdf.SaveOptionsBorderPartStyle 클래스. 테두리의 한 부분（상단, 하단, 왼쪽 또는 오른쪽）에 대한 정보를 나타냅니다.
 type: docs
 weight: 9890
 url: /ko/net/aspose.pdf/saveoptions.borderpartstyle/

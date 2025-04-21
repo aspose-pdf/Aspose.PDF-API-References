@@ -1,7 +1,7 @@
 ---
 title: Class BX
 second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.BX. Класс, представляющий оператор BX (начало секции совместимости)
+description: Класс Aspose.Pdf.Operators.BX. Класс, представляющий оператор BX - начало секции совместимости
 type: docs
 weight: 7140
 url: /ru/net/aspose.pdf.operators/bx/

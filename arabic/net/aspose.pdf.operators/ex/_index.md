@@ -1,7 +1,7 @@
 ---
 title: Class EX
 second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EX. فئة تمثل مشغل EX (نهاية قسم التوافق)
+description: فئة Aspose.Pdf.Operators.EX. فئة تمثل مشغل EX - نهاية قسم التوافق
 type: docs
 weight: 7350
 url: /ar/net/aspose.pdf.operators/ex/

@@ -1,7 +1,7 @@
 ---
 title: VectorStoreFileListResponse.GetFileIdList
 second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileListResponse-metod. Hämtar listan över fil-ID:n från vektorbutiken
+description: VectorStoreFileListResponse-metod. Hämtar listan över fil-IDn från vektorbutiken
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/

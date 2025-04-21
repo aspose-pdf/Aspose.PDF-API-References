@@ -1,7 +1,7 @@
 ---
 title: BaseParagraph.IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade BaseParagraph. Obtém ou define se um parágrafo é inline. O padrão é falso. (para geração de pdf)
+description: Propriedade BaseParagraph. Obtém ou define se um parágrafo é inline. O padrão é falso. para geração de pdf
 type: docs
 weight: 40
 url: /pt/net/aspose.pdf/baseparagraph/isinlineparagraph/

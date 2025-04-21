@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.BorderPartStyle.LineType
 second_title: Aspose.PDF for .NET API Reference
-description: حقل BorderPartStyle. يمثل نوع خطوط الحدود مثل: متقطع أو صلب
+description: حقل BorderPartStyle. يمثل نوع خطوط الحدود مثل متقطع أو صلب
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/saveoptions.borderpartstyle/linetype/

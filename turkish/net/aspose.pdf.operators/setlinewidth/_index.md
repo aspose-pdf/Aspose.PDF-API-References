@@ -1,7 +1,7 @@
 ---
 title: Class SetLineWidth
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetLineWidth sınıfı. w operatörünü temsil eden sınıf (çizgi kalınlığını ayarla).
+description: Aspose.Pdf.Operators.SetLineWidth sınıfı. w operatörünü temsil eden sınıf - çizgi kalınlığını ayarla.
 type: docs
 weight: 7770
 url: /tr/net/aspose.pdf.operators/setlinewidth/

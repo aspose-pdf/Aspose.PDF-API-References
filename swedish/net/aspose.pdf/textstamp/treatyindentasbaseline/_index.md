@@ -1,7 +1,7 @@
 ---
 title: TextStamp.TreatYIndentAsBaseLine
 second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Definierar koordinatorigin för placering av text. Om TreatYIndentAsBaseLine är true (standard när Draw är true) kommer YIndent-värdet att behandlas som textens baslinje. Om TreatYIndentAsBaseLine är false (standard när Draw är false) kommer YIndent-värdet att behandlas som botten (nedstigningslinje) av text.
+description: TextStamp-egenskap. Definierar koordinatorigin för placering av text. Om TreatYIndentAsBaseLine är true kommer YIndent-värdet att behandlas som textens baslinje. Om TreatYIndentAsBaseLine är false kommer YIndent-värdet att behandlas som botten av text.
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/textstamp/treatyindentasbaseline/

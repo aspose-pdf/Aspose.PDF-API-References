@@ -1,7 +1,7 @@
 ---
 title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。使用以下公式缩放回 x1 和 y1，并返回矩阵变换之前的 x 和 y：x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B);
+description: 矩阵方法。使用以下公式缩放回 x1 和 y1，并返回矩阵变换之前的 x 和 y：x = D  x1  C  y1 / A  D  C  B y  A y1  B x1 / A D  C B
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/matrix/unscale/

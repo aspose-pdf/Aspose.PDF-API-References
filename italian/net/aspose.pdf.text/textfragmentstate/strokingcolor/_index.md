@@ -1,7 +1,7 @@
 ---
 title: TextFragmentState.StrokingColor
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragmentState. Ottiene o imposta le operazioni di colorazione del contorno del rendering del TextFragment (contorno del testo, bordo del rettangolo)
+description: Proprietà TextFragmentState. Ottiene o imposta le operazioni di colorazione del contorno del rendering del TextFragment. contorno del testo, bordo del rettangolo.
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.text/textfragmentstate/strokingcolor/

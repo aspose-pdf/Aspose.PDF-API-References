@@ -1,7 +1,7 @@
 ---
 title: Class ColorBarAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.ColorBarAnnotation. Kelas yang mewakili anotasi ColorBarAnnotation. Properti Color diabaikan, sebaliknya digunakan warna ColorsOfCMYK. Saat dibuat, rasio lebar dan tinggi menentukan orientasi anotasi - horizontal atau vertikal. Selanjutnya, diperiksa bahwa persegi panjang anotasi berada di luar TrimBox, dan jika tidak, maka dipindahkan ke lokasi terdekat di luar TrimBox dengan mempertimbangkan orientasi anotasi. Dimungkinkan untuk mengurangi lebar (tinggi) sehingga anotasi muat di luar TrimBox. Jika tidak ada ruang untuk tata letak, lebar/tinggi dapat diatur menjadi nol (dalam hal ini, anotasi ada di halaman tetapi tidak ditampilkan).
+description: Kelas Aspose.Pdf.Annotations.ColorBarAnnotation. Kelas yang mewakili anotasi ColorBarAnnotation. Properti Color diabaikan, sebaliknya digunakan warna ColorsOfCMYK. Saat dibuat, rasio lebar dan tinggi menentukan orientasi anotasi - horizontal atau vertikal. Selanjutnya, diperiksa bahwa persegi panjang anotasi berada di luar TrimBox, dan jika tidak, maka dipindahkan ke lokasi terdekat di luar TrimBox dengan mempertimbangkan orientasi anotasi. Dimungkinkan untuk mengurangi lebar sehingga anotasi muat di luar TrimBox. Jika tidak ada ruang untuk tata letak, lebar/tinggi dapat diatur menjadi nol.
 type: docs
 weight: 1600
 url: /id/net/aspose.pdf.annotations/colorbarannotation/

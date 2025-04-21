@@ -1,7 +1,7 @@
 ---
 title: RunResponse.Usage
 second_title: Aspose.PDF for .NET API Reference
-description: RunResponse özelliği. Çalışma ile ilgili kullanım istatistiklerini alır veya ayarlar. Bu değer, çalışma terminal bir durumda değilse (yani, devam ediyor, sırada bekliyor vb.) null olacaktır.
+description: RunResponse özelliği. Çalışma ile ilgili kullanım istatistiklerini alır veya ayarlar. Bu değer, çalışma terminal bir durumda değilse null olacaktır.
 type: docs
 weight: 270
 url: /tr/net/aspose.pdf.ai/runresponse/usage/

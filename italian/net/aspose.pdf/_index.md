@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: L'Aspose.Pdf è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Pdf che sono direttamente in esso come **Document** o indirettamente attraverso diversi sottospazi dei nomi
+description: L'Aspose.Pdf è uno spazio dei nomi radice per tutte le classi della libreria Aspose.Pdf che sono direttamente in esso come Document o indirettamente attraverso diversi sottospazi dei nomi
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/

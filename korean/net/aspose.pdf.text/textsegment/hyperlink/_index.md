@@ -1,7 +1,7 @@
 ---
 title: TextSegment.Hyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: TextSegment 속성. 세그먼트 하이퍼링크를 가져오거나 설정합니다(pdf 생성기용).
+description: TextSegment 속성. 세그먼트 하이퍼링크를 가져오거나 설정합니다（pdf 생성기용）.
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/textsegment/hyperlink/

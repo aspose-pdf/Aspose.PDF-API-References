@@ -1,7 +1,7 @@
 ---
 title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
-description: Método de matriz. Escala x e y con la matriz utilizando la siguiente fórmula x1 = A*x + C*y; y1 = B*x + D*y
+description: Método de matriz. Escala x e y con la matriz utilizando la siguiente fórmula x1 = Ax + Cy; y1 = Bx + Dy
 type: docs
 weight: 190
 url: /es/net/aspose.pdf/matrix/scale/

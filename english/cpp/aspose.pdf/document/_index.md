@@ -4,7 +4,7 @@ linktitle: Document
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document class. Class representing PDF document in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.pdf/document/
 ---
 ## Document class
@@ -54,15 +54,21 @@ class Document : public System::IDisposable,
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, bool) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::String) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
 | [Document](./document/)(System::String, bool) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
+| [Document](./document/)(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
 | [Document](./document/)(System::String, System::String) | Initializes new instance of the [Document](./) class for working with encrypted document. |
 | [Document](./document/)(System::String, System::String, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(System::String, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
 | [Document](./document/)() | Initializes empty document. |
 | [Document](./document/)(PdfVersion) | Initializes empty document by version. |
 | [Document](./document/)(System::String, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a file providing necessary converting options to get pdf document. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a stream providing necessary converting to get pdf document. |
+| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. Call then Save to get encrypted version of the document. |
 | [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
 | [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) | Encrypts the document. Call then Save to get encrypted version of the document. |
 | [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
@@ -78,6 +84,7 @@ class Document : public System::IDisposable,
 | [get_CenterWindow](./get_centerwindow/)() | Gets flag specifying whether position of the document's window will be centerd on the screen. |
 | [get_Collection](./get_collection/)() | Gets collection of document. |
 | [get_CryptoAlgorithm](./get_cryptoalgorithm/)() | Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or CryptoAlgorithm will be null for other .net versions. |
+| [get_CustomSecurityHandler](./get_customsecurityhandler/)() const | Gets a custom security handler. |
 | [get_Destinations](./get_destinations/)() | Gets the collection of destinations. Obsolete. Please use NamedDestinations. |
 | [get_Direction](./get_direction/)() | Gets reading order of text: L2R (left to right) or R2L (right to left). |
 | [get_DisableFontLicenseVerifications](./get_disablefontlicenseverifications/)() const | Many operations with font can't be executed if these operations are prohibited by license of this font. For example some font can't be embedded into PDF document if license rules disable embedding for this font. This flag is used to disable any license restrictions for all fonts in current PDF document. Be careful when using this flag. When it is set it means that person who sets this flag, takes all responsibility of possible license/law violations on himself. So He takes it on it's own risk. It's strongly recommended to use this flag only when you are fully confident that you are not breaking the copyright law. By default false. |

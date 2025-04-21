@@ -1,7 +1,7 @@
 ---
 title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters klass. Klass för att specificera sidominskningsparametrar. Möjliggör att ställa in följande parametrar: Storlek på resulterande sida (bredd, höjd) i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vänster, Topp, Botten och Höger marginaler i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidans storlek efter att de explicit angivna värdena har beräknats. Till exempel: om sidans bredd = 100 och ny sidbredd anges till 60 enheter, då beräknas vänster och höger marginaler automatiskt: (100 - 60) / 2 = 15. Denna klass används i ResizeContents-metoden.
+description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters klass. Klass för att specificera sidominskningsparametrar. Möjliggör att ställa in följande parametrar Storlek på resulterande sida i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vänster, Topp, Botten och Höger marginaler i standard rumsenheter eller i procent av den ursprungliga sidans storlek; Vissa värden kan lämnas null för automatisk beräkning. Dessa värden kommer att beräknas från resten av sidans storlek efter att de explicit angivna värdena har beräknats. Denna klass används i ResizeContents-metoden.
 type: docs
 weight: 4480
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/

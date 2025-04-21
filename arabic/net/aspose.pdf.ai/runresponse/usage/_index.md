@@ -1,7 +1,7 @@
 ---
 title: RunResponse.Usage
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين إحصائيات الاستخدام المتعلقة بالتشغيل. ستكون هذه القيمة فارغة إذا لم يكن التشغيل في حالة نهائية (أي قيد التقدم، في قائمة الانتظار، إلخ).
+description: خاصية RunResponse. تحصل أو تعين إحصائيات الاستخدام المتعلقة بالتشغيل. ستكون هذه القيمة فارغة إذا لم يكن التشغيل في حالة نهائية أي قيد التقدم، في قائمة الانتظار، إلخ.
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.ai/runresponse/usage/

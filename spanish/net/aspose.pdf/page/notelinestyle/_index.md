@@ -1,7 +1,7 @@
 ---
 title: Page.NoteLineStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de la página. Obtiene o establece el estilo de línea para notas. (solo para generador, no se completa al leer el documento)
+description: Propiedad de la página. Obtiene o establece el estilo de línea para notas. solo para generador, no se completa al leer el documento.
 type: docs
 weight: 190
 url: /es/net/aspose.pdf/page/notelinestyle/

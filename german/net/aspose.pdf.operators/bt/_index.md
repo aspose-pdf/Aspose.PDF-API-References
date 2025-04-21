@@ -1,7 +1,7 @@
 ---
 title: Class BT
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BT-Klasse. Klasse, die den BT-Operator (Beginn des Textblocks) darstellt
+description: Aspose.Pdf.Operators.BT-Klasse. Klasse, die den BT-Operator darstellt
 type: docs
 weight: 7130
 url: /de/net/aspose.pdf.operators/bt/

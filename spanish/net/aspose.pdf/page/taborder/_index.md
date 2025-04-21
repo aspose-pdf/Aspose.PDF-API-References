@@ -1,7 +1,7 @@
 ---
 title: Page.TabOrder
 second_title: Aspose.PDF for .NET API Reference
-description: Propiedad de la página. Obtiene o establece el orden de tabulación de la página. Valores posibles: Fila, Columna. Predeterminado, Manual
+description: Propiedad de la página. Obtiene o establece el orden de tabulación de la página. Valores posibles Fila, Columna. Predeterminado, Manual
 type: docs
 weight: 270
 url: /es/net/aspose.pdf/page/taborder/

@@ -1,7 +1,7 @@
 ---
 title: SetGlyphsPositionShowText.Text
 second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText-Eigenschaft. Holt Text aus dem Operator-Argument (Glyphenpositionierung wird ignoriert)
+description: SetGlyphsPositionShowText-Eigenschaft. Holt Text aus dem Operator-Argument
 type: docs
 weight: 30
 url: /de/net/aspose.pdf.operators/setglyphspositionshowtext/text/

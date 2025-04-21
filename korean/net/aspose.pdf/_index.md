@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf는 Aspose.Pdf 라이브러리의 모든 클래스의 루트 네임스페이스로, **Document**와 같이 직접 포함되어 있거나 여러 하위 네임스페이스를 통해 간접적으로 포함됩니다.
+description: Aspose.Pdf는 Aspose.Pdf 라이브러리의 모든 클래스의 루트 네임스페이스로, Document와 같이 직접 포함되어 있거나 여러 하위 네임스페이스를 통해 간접적으로 포함됩니다.
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/

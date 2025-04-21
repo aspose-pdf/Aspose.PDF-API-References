@@ -1,7 +1,7 @@
 ---
 title: FormFieldOptions.FitIntoRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld in das Rechteck passt oder nicht (wenn es gesetzt wird).
+description: FormFieldOptions-Eigenschaft. Ruft den Wert ab/setzt den Wert, um zu bestimmen, ob das erstellte/ändernde Feld in das Rechteck passt oder nicht.
 type: docs
 weight: 60
 url: /de/net/aspose.pdf.plugins/formfieldoptions/fitintorectangle/

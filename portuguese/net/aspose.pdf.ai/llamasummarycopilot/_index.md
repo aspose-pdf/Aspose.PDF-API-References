@@ -1,7 +1,7 @@
 ---
 title: Class LlamaSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LlamaSummaryCopilot. Fornece funcionalidade para obter resumos de documentos usando modelos de IA. Exemplo de uso da criação de um cliente Llama, configuração de opções e uso do copiloto de resumo. Nota: Este copiloto usa a API de conclusão, portanto, a quantidade total de texto que pode ser enviada é limitada pela janela de contexto do modelo.
+description: Classe Aspose.Pdf.AI.LlamaSummaryCopilot. Fornece funcionalidade para obter resumos de documentos usando modelos de IA. Exemplo de uso da criação de um cliente Llama, configuração de opções e uso do copiloto de resumo. Nota Este copiloto usa a API de conclusão, portanto, a quantidade total de texto que pode ser enviada é limitada pela janela de contexto do modelo.
 type: docs
 weight: 740
 url: /pt/net/aspose.pdf.ai/llamasummarycopilot/

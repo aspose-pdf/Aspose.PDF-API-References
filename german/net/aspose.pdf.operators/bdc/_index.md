@@ -1,7 +1,7 @@
 ---
 title: Class BDC
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BDC-Klasse. Klasse, die den BDC-Operator darstellt (Beginne markierte Inhaltssequenz)
+description: Aspose.Pdf.Operators.BDC-Klasse. Klasse, die den BDC-Operator darstellt
 type: docs
 weight: 7100
 url: /de/net/aspose.pdf.operators/bdc/

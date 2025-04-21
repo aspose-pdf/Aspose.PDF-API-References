@@ -1,7 +1,7 @@
 ---
 title: OptimizationOptions.LinkDuplicateStreamsScanLevel
 second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions özelliği. Tarama seviyesi. Daha derin taramalar (daha yüksek değer) daha uzun sürer ancak daha küçük sonuç dosyaları üretebilir. Varsayılan değer 10
+description: OptimizationOptions özelliği. Tarama seviyesi. Daha derin taramalar daha uzun sürer ancak daha küçük sonuç dosyaları üretebilir. Varsayılan değer 10
 type: docs
 weight: 80
 url: /tr/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/

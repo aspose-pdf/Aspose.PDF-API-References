@@ -1,7 +1,7 @@
 ---
 title: ColumnInfo.ColumnSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo 속성. 열 사이의 간격을 포함하는 문자열을 가져오거나 설정합니다. 각 간격의 값은 공백으로 구분되어야 합니다. 기본 단위는 포인트이지만 cm와 인치도 지원됩니다. 예: "120 2.5cm 1.5inch"
+description: ColumnInfo 속성. 열 사이의 간격을 포함하는 문자열을 가져오거나 설정합니다. 각 간격의 값은 공백으로 구분되어야 합니다. 기본 단위는 포인트이지만 cm와 인치도 지원됩니다. 예 "120 2.5cm 1.5inch"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/columninfo/columnspacing/

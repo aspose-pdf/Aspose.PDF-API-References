@@ -4,7 +4,7 @@ linktitle: get_IsLicensed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_IsLicensed method. Gets licensed state of the system. Returns true is system works in licensed mode and false otherwise in C++.'
 type: docs
-weight: 11500
+weight: 11600
 url: /cpp/aspose.pdf/document/get_islicensed/
 ---
 ## Document::get_IsLicensed method

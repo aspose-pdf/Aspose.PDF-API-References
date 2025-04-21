@@ -1,7 +1,7 @@
 ---
 title: GraphicElement.Position
 second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement-Eigenschaft. Ruft die Position im aktuellen Koordinatensystem ab oder setzt sie. Wenn [`Parent`](../parent/) nicht !:null ist, hat das Element den xForm-Koordinatenraum.
+description: GraphicElement-Eigenschaft. Ruft die Position im aktuellen Koordinatensystem ab oder setzt sie. Wenn [`Parent`](../parent/) nicht !null ist, hat das Element den xForm-Koordinatenraum.
 type: docs
 weight: 40
 url: /de/net/aspose.pdf.vector/graphicelement/position/

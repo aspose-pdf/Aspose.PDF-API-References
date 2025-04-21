@@ -1,7 +1,7 @@
 ---
 title: CollectionField.E
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionField. Получает флаг, указывающий, должен ли интерактивный PDF процессор предоставлять поддержку для редактирования значения поля. Значение по умолчанию: false
+description: Свойство CollectionField. Получает флаг, указывающий, должен ли интерактивный PDF процессор предоставлять поддержку для редактирования значения поля. Значение по умолчанию false
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/collectionfield/e/

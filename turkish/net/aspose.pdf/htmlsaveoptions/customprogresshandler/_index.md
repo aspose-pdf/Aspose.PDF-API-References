@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions alanı. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir, örneğin ilerleme çubuğu veya işlenen sayfa sayısı hakkında mesajlar göstermek için kullanılabilir, konsolda ilerlemeyi gösteren işleyici kodu örneği şudur:
+description: HtmlSaveOptions alanı. Bu işleyici, dönüşüm ilerleme olaylarını yönetmek için kullanılabilir, örneğin ilerleme çubuğu veya işlenen sayfa sayısı hakkında mesajlar göstermek için kullanılabilir, konsolda ilerlemeyi gösteren işleyici kodu örneği şudur
 type: docs
 weight: 280
 url: /tr/net/aspose.pdf/htmlsaveoptions/customprogresshandler/

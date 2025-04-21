@@ -1,7 +1,7 @@
 ---
 title: OptimizationOptions.LinkDuplicateStreamsScanLevel
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. مستوى الفحص. الفحوصات الأعمق (قيمة أعلى) تستغرق وقتًا أطول ولكن قد تنتج ملفات نتائج أصغر. القيمة الافتراضية 10
+description: خاصية OptimizationOptions. مستوى الفحص. الفحوصات الأعمق  تستغرق وقتًا أطول ولكن قد تنتج ملفات نتائج أصغر. القيمة الافتراضية 10
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/

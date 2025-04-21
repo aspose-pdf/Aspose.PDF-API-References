@@ -1,7 +1,7 @@
 ---
 title: SaveOptions.MarginInfo.BottomMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 필드. 하단 페이지 여백을 나타냅니다(있는 경우)
+description: MarginInfo 필드. 하단 페이지 여백을 나타냅니다（있는 경우）
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/

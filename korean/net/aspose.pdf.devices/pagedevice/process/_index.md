@@ -1,7 +1,7 @@
 ---
 title: PageDevice.Process
 second_title: Aspose.PDF for .NET API Reference
-description: PageDevice 메서드. 주어진 페이지에서 일부 작업을 수행합니다. 예: 페이지를 그래픽 이미지로 변환합니다.
+description: PageDevice 메서드. 주어진 페이지에서 일부 작업을 수행합니다. 예 페이지를 그래픽 이미지로 변환합니다.
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/pagedevice/process/

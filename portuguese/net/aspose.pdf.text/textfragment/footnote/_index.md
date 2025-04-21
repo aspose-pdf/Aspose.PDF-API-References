@@ -1,7 +1,7 @@
 ---
 title: TextFragment.FootNote
 second_title: Aspose.PDF for .NET API Reference
-description: Propriedade TextFragment. Obtém ou define a nota de rodapé do parágrafo. (apenas para geração de pdf)
+description: Propriedade TextFragment. Obtém ou define a nota de rodapé do parágrafo. apenas para geração de pdf
 type: docs
 weight: 40
 url: /pt/net/aspose.pdf.text/textfragment/footnote/

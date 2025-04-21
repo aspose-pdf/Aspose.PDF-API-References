@@ -1,7 +1,7 @@
 ---
 title: AnnotationCollection.IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection özelliği. Aspose.Pdf.Annotations.AnnotationCollection'a erişimin senkronize (iş parçacığı güvenli) olup olmadığını belirten bir değer alır.
+description: AnnotationCollection özelliği. Aspose.Pdf.Annotations.AnnotationCollection'a erişimin senkronize olup olmadığını belirten bir değer alır.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.annotations/annotationcollection/issynchronized/

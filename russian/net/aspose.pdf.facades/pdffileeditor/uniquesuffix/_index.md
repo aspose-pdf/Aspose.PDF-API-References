@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor.UniqueSuffix
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку NUM, которая будет заменена на числа. Например, если UniqueSuffix = ABCNUM, то для поля fieldName имена будут: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
+description: Свойство PdfFileEditor. Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку NUM, которая будет заменена на числа. Например, если UniqueSuffix = ABCNUM, то для поля fieldName имена будут fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/

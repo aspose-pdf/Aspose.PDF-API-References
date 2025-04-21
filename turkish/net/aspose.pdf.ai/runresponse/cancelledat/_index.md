@@ -1,7 +1,7 @@
 ---
 title: RunResponse.CancelledAt
 second_title: Aspose.PDF for .NET API Reference
-description: RunResponse özelliği. Çalışmanın iptal edildiği zamanın Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: RunResponse özelliği. Çalışmanın iptal edildiği zamanın Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf.ai/runresponse/cancelledat/

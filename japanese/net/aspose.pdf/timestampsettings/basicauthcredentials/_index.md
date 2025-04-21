@@ -1,7 +1,7 @@
 ---
 title: TimestampSettings.BasicAuthCredentials
 second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings プロパティ。基本認証資格情報を取得/設定します。ユーザー名とパスワードは文字列 "username:password" に結合されます。
+description: TimestampSettings プロパティ。基本認証資格情報を取得/設定します。ユーザー名とパスワードは文字列 "usernamepassword" に結合されます。
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/timestampsettings/basicauthcredentials/

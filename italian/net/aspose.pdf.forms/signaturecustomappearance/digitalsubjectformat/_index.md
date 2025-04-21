@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.DigitalSubjectFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottenuto/Impostato il formato per l'ordine degli elementi della stringa Oggetto. Esempi: CUK CNOrg Organizzazione, o CNOrg CUK Organizzazione, o Organizzazione.
+description: Proprietà SignatureCustomAppearance. Ottenuto/Impostato il formato per l'ordine degli elementi della stringa Oggetto. Esempi CUK CNOrg Organizzazione, o CNOrg CUK Organizzazione, o Organizzazione.
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/

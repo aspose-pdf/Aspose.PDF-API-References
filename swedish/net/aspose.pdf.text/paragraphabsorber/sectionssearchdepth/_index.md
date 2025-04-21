@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber-egenskap. Hämtar eller ställer in värde som instruerar hur många gånger sekventiella sökningar efter mer fina element av struktur kommer att utföras. Standard sökdjup är 3. Det betyder tre sökningar efter horisontellt delade sektioner (rubriker, stycken etc.) och tre sökningar efter vertikalt delade (kolumner).
+description: ParagraphAbsorber-egenskap. Hämtar eller ställer in värde som instruerar hur många gånger sekventiella sökningar efter mer fina element av struktur kommer att utföras. Standard sökdjup är 3. Det betyder tre sökningar efter horisontellt delade sektioner och tre sökningar efter vertikalt delade.
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

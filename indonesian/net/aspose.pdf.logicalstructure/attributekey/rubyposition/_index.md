@@ -1,7 +1,7 @@
 ---
 title: AttributeKey.RubyPosition
 second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut RubyPosition (pemilik atribut Layout)
+description: Field AttributeKey. Atribut RubyPosition
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.logicalstructure/attributekey/rubyposition/

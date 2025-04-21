@@ -1,7 +1,7 @@
 ---
 title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DataEditor.DictionaryEditor. Kelas untuk mengakses kamus pohon dokumen (kamus dokumen, kamus halaman, kamus sumber daya).
+description: Kelas Aspose.Pdf.DataEditor.DictionaryEditor. Kelas untuk mengakses kamus pohon dokumen.
 type: docs
 weight: 3470
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/

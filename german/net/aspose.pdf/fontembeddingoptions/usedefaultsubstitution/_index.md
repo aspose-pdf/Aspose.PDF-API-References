@@ -1,7 +1,7 @@
 ---
 title: FontEmbeddingOptions.UseDefaultSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: FontEmbeddingOptions-Eigenschaft. Gibt an, ob nicht eingebettete Schriftarten mit der Standard-Schriftart-Ersatzstrategie ersetzt werden sollen. Standardwert: false
+description: FontEmbeddingOptions-Eigenschaft. Gibt an, ob nicht eingebettete Schriftarten mit der Standard-Schriftart-Ersatzstrategie ersetzt werden sollen. Standardwert false
 type: docs
 weight: 20
 url: /de/net/aspose.pdf/fontembeddingoptions/usedefaultsubstitution/

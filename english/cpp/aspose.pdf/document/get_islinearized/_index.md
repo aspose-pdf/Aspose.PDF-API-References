@@ -4,7 +4,7 @@ linktitle: get_IsLinearized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_IsLinearized method. Gets a value indicating whether document is linearized in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.pdf/document/get_islinearized/
 ---
 ## Document::get_IsLinearized method

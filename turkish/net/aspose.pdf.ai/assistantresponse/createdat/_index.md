@@ -1,7 +1,7 @@
 ---
 title: AssistantResponse.CreatedAt
 second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse özelliği. Asistanın oluşturulduğu zamanın Unix zaman damgasını (saniye cinsinden) alır veya ayarlar
+description: AssistantResponse özelliği. Asistanın oluşturulduğu zamanın Unix zaman damgasını alır veya ayarlar
 type: docs
 weight: 20
 url: /tr/net/aspose.pdf.ai/assistantresponse/createdat/

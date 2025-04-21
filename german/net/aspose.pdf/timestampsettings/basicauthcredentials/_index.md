@@ -1,7 +1,7 @@
 ---
 title: TimestampSettings.BasicAuthCredentials
 second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings-Eigenschaft. Holt/setzt die grundlegenden Authentifizierungsanmeldeinformationen. Benutzername und Passwort werden zu einem String "username:password" kombiniert.
+description: TimestampSettings-Eigenschaft. Holt/setzt die grundlegenden Authentifizierungsanmeldeinformationen. Benutzername und Passwort werden zu einem String "usernamepassword" kombiniert.
 type: docs
 weight: 20
 url: /de/net/aspose.pdf/timestampsettings/basicauthcredentials/

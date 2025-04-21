@@ -1,7 +1,7 @@
 ---
 title: ExpiresAfter.Anchor
 second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExpiresAfter. Obtient ou définit le timestamp d'ancrage après lequel la politique d'expiration s'applique. Ancrages pris en charge : last_active_at
+description: Propriété ExpiresAfter. Obtient ou définit le timestamp d'ancrage après lequel la politique d'expiration s'applique. Ancrages pris en charge  last_active_at
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/expiresafter/anchor/

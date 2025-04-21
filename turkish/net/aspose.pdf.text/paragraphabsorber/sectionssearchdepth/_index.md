@@ -1,7 +1,7 @@
 ---
 title: ParagraphAbsorber.SectionsSearchDepth
 second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber özelliği. Yapının daha ince elemanları için ardışık aramaların kaç kez gerçekleştirileceğini belirten değeri alır veya ayarlar. Varsayılan arama derinliği 3'tür. Bu, yatay olarak bölünmüş bölümlerin (başlıklar, paragraflar vb.) ve dikey olarak bölünmüş olanların (sütunlar) üçer arama yapılacağı anlamına gelir.
+description: ParagraphAbsorber özelliği. Yapının daha ince elemanları için ardışık aramaların kaç kez gerçekleştirileceğini belirten değeri alır veya ayarlar. Varsayılan arama derinliği 3'tür. Bu, yatay olarak bölünmüş bölümlerin ve dikey olarak bölünmüş olanların üçer arama yapılacağı anlamına gelir.
 type: docs
 weight: 50
 url: /tr/net/aspose.pdf.text/paragraphabsorber/sectionssearchdepth/

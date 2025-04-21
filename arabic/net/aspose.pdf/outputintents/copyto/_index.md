@@ -1,7 +1,7 @@
 ---
 title: OutputIntents.CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تنسخ عناصر المجموعة إلى المصفوفة بدءًا من *arrayIndex* المحدد في المصفوفة
+description: طريقة OutputIntents. تنسخ عناصر المجموعة إلى المصفوفة بدءًا من arrayIndex المحدد في المصفوفة
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/outputintents/copyto/

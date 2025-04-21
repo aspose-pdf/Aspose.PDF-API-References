@@ -1,7 +1,7 @@
 ---
 title: StructureTypeCategory.BLSEs
 second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-fält. Blocknivåstruktur-element (BLSE) beskriver den övergripande layouten av innehåll på sidan som fortskrider i blockprogressionsriktningen
+description: StructureTypeCategory-fält. Blocknivåstruktur-element - BLSE - beskriver den övergripande layouten av innehåll på sidan som fortskrider i blockprogressionsriktningen
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/blses/

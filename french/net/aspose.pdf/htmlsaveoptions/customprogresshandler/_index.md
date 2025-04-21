@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Ce gestionnaire peut être utilisé pour gérer les événements de progression de conversion, par exemple, il peut être utilisé pour afficher une barre de progression ou des messages sur le nombre actuel de pages traitées. Un exemple de code de gestionnaire qui montre la progression sur la console est :
+description: Champ HtmlSaveOptions. Ce gestionnaire peut être utilisé pour gérer les événements de progression de conversion, par exemple, il peut être utilisé pour afficher une barre de progression ou des messages sur le nombre actuel de pages traitées. Un exemple de code de gestionnaire qui montre la progression sur la console est 
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf/htmlsaveoptions/customprogresshandler/

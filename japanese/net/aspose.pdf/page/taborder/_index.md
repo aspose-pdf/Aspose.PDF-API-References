@@ -1,7 +1,7 @@
 ---
 title: Page.TabOrder
 second_title: Aspose.PDF for .NET API Reference
-description: Page プロパティ。ページのタブ順を取得または設定します。可能な値: Row, Column。デフォルトは Manual
+description: Page プロパティ。ページのタブ順を取得または設定します。可能な値 Row, Column。デフォルトは Manual
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf/page/taborder/

@@ -1,7 +1,7 @@
 ---
 title: MarginInfo.Bottom
 second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 속성. 하단 여백을 나타내는 부동 값(float value)을 가져오거나 설정합니다.
+description: MarginInfo 속성. 하단 여백을 나타내는 부동 값（float value）을 가져오거나 설정합니다.
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/margininfo/bottom/

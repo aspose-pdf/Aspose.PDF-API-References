@@ -1,7 +1,7 @@
 ---
 title: FloatingBox.Width
 second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox 속성. 플로팅 박스의 너비를 나타내는 부동 값(float value)을 가져오거나 설정합니다.
+description: FloatingBox 속성. 플로팅 박스의 너비를 나타내는 부동 값（float value）을 가져오거나 설정합니다.
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/floatingbox/width/

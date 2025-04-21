@@ -4,7 +4,7 @@ linktitle: SetReviewState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::SetReviewState method. Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation. Note, the state stored in other text annotation which has state and statemodel keys in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.annotations/markupannotation/setreviewstate/
 ---
 ## MarkupAnnotation::SetReviewState(AnnotationState) method

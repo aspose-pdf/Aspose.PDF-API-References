@@ -1,7 +1,7 @@
 ---
 title: StructureTypeStandard.TOCI
 second_title: Aspose.PDF for .NET API Reference
-description: Campo del tipo Struttura Standard. Elemento dell'indice: un membro individuale dell'indice. I figli di questo entry possono essere qualsiasi tipo di struttura seguenti.
+description: Campo del tipo Struttura Standard. Elemento dell'indice un membro individuale dell'indice. I figli di questo entry possono essere qualsiasi tipo di struttura seguenti.
 type: docs
 weight: 450
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/toci/

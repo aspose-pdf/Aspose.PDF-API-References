@@ -1,7 +1,7 @@
 ---
 title: Enum PositioningMode
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PositioningMode enum. Definiert den Positionierungsmodus. Mögliche Werte umfassen Legacy (Rückwärtskompatibilität) und Current (aktualisierte Methode zur Berechnung der Textposition)
+description: Aspose.Pdf.Facades.PositioningMode enum. Definiert den Positionierungsmodus. Mögliche Werte umfassen Legacy und Current.
 type: docs
 weight: 4650
 url: /de/net/aspose.pdf.facades/positioningmode/

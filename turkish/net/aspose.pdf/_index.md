@@ -1,7 +1,7 @@
 ---
 title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf, doğrudan içinde bulunan (örneğin **Document**) veya birkaç alt ad alanı aracılığıyla dolaylı olarak bulunan Aspose.Pdf kütüphanesinin tüm sınıfları için bir kök ad alanıdır.
+description: Aspose.Pdf, doğrudan içinde bulunan veya birkaç alt ad alanı aracılığıyla dolaylı olarak bulunan Aspose.Pdf kütüphanesinin tüm sınıfları için bir kök ad alanıdır.
 type: docs
 weight: 30
 url: /tr/net/aspose.pdf/

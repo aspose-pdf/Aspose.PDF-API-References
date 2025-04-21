@@ -1,7 +1,7 @@
 ---
 title: PdfConverter.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfConverter. تحصل أو تعين نوع إحداثيات الصفحة (Media/Crop boxes). يتم استخدام قيمة CropBox بشكل افتراضي
+description: خاصية PdfConverter. تحصل أو تعين نوع إحداثيات الصفحة . يتم استخدام قيمة CropBox بشكل افتراضي
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfconverter/coordinatetype/

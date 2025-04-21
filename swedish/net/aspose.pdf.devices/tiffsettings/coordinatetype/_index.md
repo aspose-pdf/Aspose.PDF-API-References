@@ -1,7 +1,7 @@
 ---
 title: TiffSettings.CoordinateType
 second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar eller ställer in sidans koordinattyp (Media/Crop-boxar). CropBox-värdet används som standard
+description: TiffSettings-egenskap. Hämtar eller ställer in sidans koordinattyp. CropBox-värdet används som standard
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.devices/tiffsettings/coordinatetype/

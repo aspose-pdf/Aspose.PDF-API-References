@@ -1,7 +1,7 @@
 ---
 title: Form.FillFields
 second_title: Aspose.PDF for .NET API Reference
-description: Form 메서드. 텍스트 상자 필드를 텍스트 값으로 채우고 문서를 저장합니다. 서명된 문서에 관련이 있습니다. 주의: 텍스트 상자에만 적용됩니다. 필드 이름과 값 모두 대소문자를 구분합니다.
+description: Form 메서드. 텍스트 상자 필드를 텍스트 값으로 채우고 문서를 저장합니다. 서명된 문서에 관련이 있습니다. 주의 텍스트 상자에만 적용됩니다. 필드 이름과 값 모두 대소문자를 구분합니다.
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.facades/form/fillfields/

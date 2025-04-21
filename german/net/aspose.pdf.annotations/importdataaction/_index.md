@@ -1,7 +1,7 @@
 ---
 title: Class ImportDataAction
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ImportDataAction-Klasse. Bei der Ausführung einer Importdatenaktion sollen FDF-Daten (Forms Data Format) aus einer angegebenen Datei in das interaktive Formular des Dokuments importiert werden.
+description: Aspose.Pdf.Annotations.ImportDataAction-Klasse. Bei der Ausführung einer Importdatenaktion sollen FDF-Daten aus einer angegebenen Datei in das interaktive Formular des Dokuments importiert werden.
 type: docs
 weight: 1910
 url: /de/net/aspose.pdf.annotations/importdataaction/

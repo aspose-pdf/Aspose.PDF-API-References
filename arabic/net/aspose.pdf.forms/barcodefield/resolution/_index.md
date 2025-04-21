@@ -1,7 +1,7 @@
 ---
 title: BarcodeField.Resolution
 second_title: Aspose.PDF for .NET API Reference
-description: خاصية BarcodeField. تحصل على الدقة بوحدات النقاط لكل بوصة (dpi) التي يتم بها عرض كائن الرمز الشريطي
+description: خاصية BarcodeField. تحصل على الدقة بوحدات النقاط لكل بوصة التي يتم بها عرض كائن الرمز الشريطي
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/barcodefield/resolution/

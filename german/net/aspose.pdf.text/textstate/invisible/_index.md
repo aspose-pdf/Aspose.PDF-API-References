@@ -1,7 +1,7 @@
 ---
 title: TextState.Invisible
 second_title: Aspose.PDF for .NET API Reference
-description: TextState-Eigenschaft. Ruft die Unsichtbarkeit von Text ab oder legt sie fest. Dies spiegelt im Grunde den Zustand des [`RenderingMode`](../renderingmode/) wider, mit Ausnahme einiger spezieller Fälle (wie Clipping).
+description: TextState-Eigenschaft. Ruft die Unsichtbarkeit von Text ab oder legt sie fest. Dies spiegelt im Grunde den Zustand des [`RenderingMode`](../renderingmode/) wider, mit Ausnahme einiger spezieller Fälle.
 type: docs
 weight: 110
 url: /de/net/aspose.pdf.text/textstate/invisible/

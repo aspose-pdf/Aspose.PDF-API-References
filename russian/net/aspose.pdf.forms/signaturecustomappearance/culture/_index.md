@@ -1,7 +1,7 @@
 ---
 title: SignatureCustomAppearance.Culture
 second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает значение информации о культуре. Значение по умолчанию: InvariantCulture
+description: Свойство SignatureCustomAppearance. Получает/устанавливает значение информации о культуре. Значение по умолчанию InvariantCulture
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/culture/
