@@ -16,6 +16,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ApsSaveOptions](./apssaveoptions/) | Save options for export to APS XML format. |
 | [Artifact](./artifact/) | Class represents PDF Artifact object. |
 | [ArtifactCollection](./artifactcollection/) | Class represents artifact collection. |
+| [AutoTaggingSettings](./autotaggingsettings/) | Provides settings for the auto-tagging functionality in PDF documents. |
 | [BackgroundArtifact](./backgroundartifact/) | Class descibes background artifact. This artifact allows to set background of the page. |
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Represents base class for operator collection. |
@@ -40,6 +41,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ColumnInfo](./columninfo/) | This class represents a columns info. |
 | [ComHelper](./comhelper/) | Provides methods for COM clients to load a document into Aspose.Pdf. |
 | [CompositingParameters](./compositingparameters/) | Represents an object containing graphics compositing parameters of current graphics state. |
+| [ConvertException](./convertexception/) | Represents errors that occur during PDF_A conversion with helpers objects. |
 | [CrashReportOptions](./crashreportoptions/) | Options for crash report generating. |
 | [DateComponent](./datecomponent/) | Represents a base class for date components with a format attribute. |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) | The exception that is thrown when a feature is deprecated in current pdf version. |
@@ -77,6 +79,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [HeaderFooterData](./headerfooterdata/) | Represents the pagination data for header and footer. |
 | [HeaderFooterSettings](./headerfootersettings/) | Represents the settings for header and footer artifacts. |
 | [Heading](./heading/) | Represents heading. |
+| [HeadingLevels](./headinglevels/) | Represents a class to work with header levels based on font size. |
 | [HtmlFragment](./htmlfragment/) | Represents html fragment. |
 | [HtmlLoadOptions](./htmlloadoptions/) | Represents options for loading/importing html file into pdf document. |
 | [HtmlSaveOptions](./htmlsaveoptions/) | Save options for export to Html format |

@@ -3,7 +3,7 @@ title: Enum CryptographicStandard
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.CryptographicStandard enum. Represents the available cryptographic standards for securing PDF documents
 type: docs
-weight: 9950
+weight: 10060
 url: /net/aspose.pdf.security/cryptographicstandard/
 ---
 ## CryptographicStandard enumeration

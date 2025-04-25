@@ -3,7 +3,7 @@ title: Document.PdfFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets PDF format
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.pdf/document/pdfformat/
 ---
 ## Document.PdfFormat property

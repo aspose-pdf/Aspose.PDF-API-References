@@ -3,7 +3,7 @@ title: Enum CryptoAlgorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CryptoAlgorithm enum. Represent type of cryptographic algorithm that used in encryption/decryption routines
 type: docs
-weight: 3400
+weight: 3510
 url: /net/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enumeration
@@ -22,6 +22,7 @@ public enum CryptoAlgorithm
 | RC4x128 | `1` | RC4 with key length 128. |
 | AESx128 | `2` | AES with key length 128. |
 | AESx256 | `3` | AES with key length 256. |
+| Custom | `4` | The custom encryption algorithm |
 
 ### See Also
 

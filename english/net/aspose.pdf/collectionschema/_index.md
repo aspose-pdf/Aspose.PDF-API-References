@@ -3,7 +3,7 @@ title: Class CollectionSchema
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CollectionSchema class. Represents a class that describes the Schema of a document collection
 type: docs
-weight: 3070
+weight: 3170
 url: /net/aspose.pdf/collectionschema/
 ---
 ## CollectionSchema class

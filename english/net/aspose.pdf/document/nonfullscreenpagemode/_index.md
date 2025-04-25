@@ -3,7 +3,7 @@ title: Document.NonFullScreenPageMode
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets page mode specifying how to display the document on exiting fullscreen mode
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.pdf/document/nonfullscreenpagemode/
 ---
 ## Document.NonFullScreenPageMode property

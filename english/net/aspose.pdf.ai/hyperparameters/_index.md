@@ -3,7 +3,7 @@ title: Class Hyperparameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Hyperparameters class. Represents the hyperparameters used for a finetuning job
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.pdf.ai/hyperparameters/
 ---
 ## Hyperparameters class

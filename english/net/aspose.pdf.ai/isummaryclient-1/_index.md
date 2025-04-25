@@ -3,7 +3,7 @@ title: Interface ISummaryClientTOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ISummaryClient1TOptions interface. Represents an interface for a summary client with specific options
 type: docs
-weight: 580
+weight: 630
 url: /net/aspose.pdf.ai/isummaryclient-1/
 ---
 ## ISummaryClient&lt;TOptions&gt; interface

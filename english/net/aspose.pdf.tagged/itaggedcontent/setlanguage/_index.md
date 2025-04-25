@@ -3,7 +3,7 @@ title: ITaggedContent.SetLanguage
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Sets natural language for pdf document
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 ---
 ## ITaggedContent.SetLanguage method

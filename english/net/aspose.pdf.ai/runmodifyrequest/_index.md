@@ -3,7 +3,7 @@ title: Class RunModifyRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.RunModifyRequest class. Represents a request to modify a run
 type: docs
-weight: 1010
+weight: 1090
 url: /net/aspose.pdf.ai/runmodifyrequest/
 ---
 ## RunModifyRequest class

@@ -3,7 +3,7 @@ title: Class FitBExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FitBExplicitDestination class. Represents explicit destination that displays the page with its contents magnified just enough to fit its bounding box entirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different use the smaller of the two centering the bounding box within the window in the other dimension
 type: docs
-weight: 1730
+weight: 1820
 url: /net/aspose.pdf.annotations/fitbexplicitdestination/
 ---
 ## FitBExplicitDestination class

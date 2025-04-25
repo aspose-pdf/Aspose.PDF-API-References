@@ -3,7 +3,7 @@ title: License.SetLicense
 second_title: Aspose.PDF for .NET API Reference
 description: License method. Licenses the component
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}

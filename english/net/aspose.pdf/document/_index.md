@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 3780
+weight: 3890
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -21,15 +21,19 @@ public sealed class Document : IDisposable
 | [Document](document/#constructor)() | Initializes empty document. |
 | [Document](document/#constructor_1)(PdfVersion) | Initializes empty document by version. |
 | [Document](document/#constructor_2)(Stream) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_7)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_9)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
 | [Document](document/#constructor_4)(Stream, bool) | Initialize new Document instance from the *input* stream. |
 | [Document](document/#constructor_3)(Stream, LoadOptions) | Opens an existing document from a stream providing necessary converting to get pdf document. |
 | [Document](document/#constructor_5)(Stream, string) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_9)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
-| [Document](document/#constructor_8)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
-| [Document](document/#constructor_10)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
-| [Document](document/#constructor_6)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_11)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_11)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_10)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
+| [Document](document/#constructor_12)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_7)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_6)(Stream, string, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_14)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_13)(string, string, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_8)(Stream, string, bool, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_15)(string, string, bool, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
 
 ## Properties
 
@@ -41,6 +45,7 @@ public sealed class Document : IDisposable
 | [CenterWindow](../../aspose.pdf/document/centerwindow/) { get; set; } | Gets or sets flag specifying whether position of the document's window will be centerd on the screen. |
 | [Collection](../../aspose.pdf/document/collection/) { get; set; } | Gets collection of document. |
 | [CryptoAlgorithm](../../aspose.pdf/document/cryptoalgorithm/) { get; } | Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or CryptoAlgorithm will be null for other .net versions. |
+| [CustomSecurityHandler](../../aspose.pdf/document/customsecurityhandler/) { get; } | Gets a custom security handler. |
 | [Destinations](../../aspose.pdf/document/destinations/) { get; } | Gets the collection of destinations. Obsolete. Please use NamedDestinations. |
 | [Direction](../../aspose.pdf/document/direction/) { get; set; } | Gets or sets reading order of text: L2R (left to right) or R2L (right to left). |
 | [DisableFontLicenseVerifications](../../aspose.pdf/document/disablefontlicenseverifications/) { get; set; } | Many operations with font can't be executed if these operations are prohibited by license of this font. For example some font can't be embedded into PDF document if license rules disable embedding for this font. This flag is used to disable any license restrictions for all fonts in current PDF document. Be careful when using this flag. When it is set it means that person who sets this flag, takes all responsibility of possible license/law violations on himself. So He takes it on it's own risk. It's strongly recommended to use this flag only when you are fully confident that you are not breaking the copyright law. By default false. |
@@ -116,9 +121,11 @@ public sealed class Document : IDisposable
 | [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream/)(Page) | Convert page to PNG for DSR, OMR, OCR image stream. |
 | [Decrypt](../../aspose.pdf/document/decrypt/)() | Decrypts the document. Call then Save to obtain decrypted version of the document. |
 | [Dispose](../../aspose.pdf/document/dispose/)() | Closes all resources used by this document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_1)(string, string, Permissions, CryptoAlgorithm) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_1)(string, string, DocumentPrivilege, ICustomSecurityHandler) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_2)(string, string, Permissions, CryptoAlgorithm) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_4)(string, string, Permissions, ICustomSecurityHandler) | Encrypts the document. Call then Save to get encrypted version of the document. |
 | [Encrypt](../../aspose.pdf/document/encrypt/#encrypt)(string, string, DocumentPrivilege, CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_2)(string, string, Permissions, CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_3)(string, string, Permissions, CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf)(Stream) | Export all document annotations into stream. |
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf_1)(string) | Exports all document annotations to XFDF file |
 | [Flatten](../../aspose.pdf/document/flatten/#flatten)() | Removes all fields from the document and place their values instead. |

@@ -3,7 +3,7 @@ title: Class ImageDescriptionResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ImageDescriptionResult class. Represents the response containing image descriptions
 type: docs
-weight: 620
+weight: 670
 url: /net/aspose.pdf.ai/imagedescriptionresult/
 ---
 ## ImageDescriptionResult class

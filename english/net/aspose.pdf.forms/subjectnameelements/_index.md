@@ -3,7 +3,7 @@ title: Enum SubjectNameElements
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.SubjectNameElements enum. Enumeration describes elements in signature subject string
 type: docs
-weight: 5300
+weight: 5410
 url: /net/aspose.pdf.forms/subjectnameelements/
 ---
 ## SubjectNameElements enumeration

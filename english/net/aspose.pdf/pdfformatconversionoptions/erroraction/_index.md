@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions.ErrorAction
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFormatConversionOptions property. Action for objects that can not be converted
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/pdfformatconversionoptions/erroraction/
 ---
 ## PdfFormatConversionOptions.ErrorAction property

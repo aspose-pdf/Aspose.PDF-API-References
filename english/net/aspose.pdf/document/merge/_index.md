@@ -3,7 +3,7 @@ title: Document.Merge
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Merges documents
 type: docs
-weight: 740
+weight: 750
 url: /net/aspose.pdf/document/merge/
 ---
 ## Merge(MergeOptions, params Document[]) {#merge_1}

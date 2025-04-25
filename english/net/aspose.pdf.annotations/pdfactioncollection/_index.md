@@ -3,7 +3,7 @@ title: Class PdfActionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PdfActionCollection class. Class describes list of actions
 type: docs
-weight: 2280
+weight: 2370
 url: /net/aspose.pdf.annotations/pdfactioncollection/
 ---
 ## PdfActionCollection class

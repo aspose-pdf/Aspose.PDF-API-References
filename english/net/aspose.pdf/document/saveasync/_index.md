@@ -1,11 +1,44 @@
 ---
 title: Document.SaveAsync
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Stores document into stream
+description: Document method. Saves the document to a stream with a save options
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+Saves the document to a stream with a save options.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | Stream where the document will be stored. |
+| options | SaveOptions | Save options. |
+| cancellationToken | CancellationToken | Caclellation token. |
+
+### Return Value
+
+Asynchronous task.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
+
+### See Also
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
 Stores document into stream.
@@ -188,39 +221,6 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 ### Return Value
 
 Asynchronous task.
-
-### See Also
-
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-Saves the document to a stream with a save options.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | Stream | Stream where the document will be stored. |
-| options | SaveOptions | Save options. |
-| cancellationToken | CancellationToken | Caclellation token. |
-
-### Return Value
-
-Asynchronous task.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: OpenAIClient.ModifyAssistantAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Modifies an existing assistant asynchronously
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.pdf.ai/openaiclient/modifyassistantasync/
 ---
 ## OpenAIClient.ModifyAssistantAsync method

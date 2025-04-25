@@ -3,7 +3,7 @@ title: Class TextStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.TextStyle class. Represents a text style class
 type: docs
-weight: 3330
+weight: 3430
 url: /net/aspose.pdf.comparison/textstyle/
 ---
 ## TextStyle class

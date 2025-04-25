@@ -3,7 +3,7 @@ title: Aspose.Pdf.Security
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.pdf.security/
 ---
 The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.
@@ -14,6 +14,7 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | --- | --- |
 | [DsaAlgorithmInfo](./dsaalgorithminfo/) | Represents a class for the information about the DSA signature algorithm. |
 | [EcdsaAlgorithmInfo](./ecdsaalgorithminfo/) | Represents a class for the information about the ECDSA signature algorithm. |
+| [EncryptionParameters](./encryptionparameters/) | Represents an encryption parameters class. |
 | [KeyedSignatureAlgorithmInfo](./keyedsignaturealgorithminfo/) | Represents a class for information about a keyed signature algorithm. |
 | [RsaAlgorithmInfo](./rsaalgorithminfo/) | Represents a class for the information about the RSA signature algorithm. |
 | [SignatureAlgorithmInfo](./signaturealgorithminfo/) | Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm. |
@@ -22,6 +23,11 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [UnknownSignatureAlgorithmInfo](./unknownsignaturealgorithminfo/) | Represents a class for the unknown signature algorithm information. |
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
+## Interfaces
+
+| Interface | Description |
+| --- | --- |
+| [ICustomSecurityHandler](./icustomsecurityhandler/) | The custom security handler interface. |
 ## Enumeration
 
 | Enumeration | Description |

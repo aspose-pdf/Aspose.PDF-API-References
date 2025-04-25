@@ -3,7 +3,7 @@ title: Class MessageContentBase
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.MessageContentBase class. The content of the message in array of text and/or images
 type: docs
-weight: 770
+weight: 820
 url: /net/aspose.pdf.ai/messagecontentbase/
 ---
 ## MessageContentBase class

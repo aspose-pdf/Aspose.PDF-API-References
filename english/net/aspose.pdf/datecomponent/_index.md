@@ -3,7 +3,7 @@ title: Class DateComponent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DateComponent class. Represents a base class for date components with a format attribute
 type: docs
-weight: 3490
+weight: 3600
 url: /net/aspose.pdf/datecomponent/
 ---
 ## DateComponent class

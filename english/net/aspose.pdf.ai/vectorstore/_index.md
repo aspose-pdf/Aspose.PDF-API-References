@@ -3,7 +3,7 @@ title: Class VectorStore
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStore class. A helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread
 type: docs
-weight: 1260
+weight: 1350
 url: /net/aspose.pdf.ai/vectorstore/
 ---
 ## VectorStore class

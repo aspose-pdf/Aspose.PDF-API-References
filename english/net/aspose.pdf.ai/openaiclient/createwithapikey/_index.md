@@ -3,7 +3,7 @@ title: OpenAIClient.CreateWithApiKey
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Creates a new instance of Builder with the provided API key
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
 ## OpenAIClient.CreateWithApiKey method

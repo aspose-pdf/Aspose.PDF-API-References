@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithDocuments
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the document collection for the summary copilot options
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}

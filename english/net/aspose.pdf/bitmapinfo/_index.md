@@ -3,7 +3,7 @@ title: Class BitmapInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BitmapInfo class. Object containing array of pixels and bitmap information
 type: docs
-weight: 2860
+weight: 2960
 url: /net/aspose.pdf/bitmapinfo/
 ---
 ## BitmapInfo class

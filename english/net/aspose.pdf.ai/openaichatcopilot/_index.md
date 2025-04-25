@@ -3,7 +3,7 @@ title: Class OpenAIChatCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAIChatCopilot class. Represents a chat copilot for interacting with documents via AI models. Example usage of creating an OpenAI client configuring options and using the ChatCopilot to interact with user queries and manage conversation context
 type: docs
-weight: 820
+weight: 880
 url: /net/aspose.pdf.ai/openaichatcopilot/
 ---
 ## OpenAIChatCopilot class

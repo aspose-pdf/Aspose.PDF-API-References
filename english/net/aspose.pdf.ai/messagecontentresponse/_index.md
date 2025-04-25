@@ -3,7 +3,7 @@ title: Class MessageContentResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.MessageContentResponse class. The content of the response message in array of text and/or images
 type: docs
-weight: 790
+weight: 840
 url: /net/aspose.pdf.ai/messagecontentresponse/
 ---
 ## MessageContentResponse class

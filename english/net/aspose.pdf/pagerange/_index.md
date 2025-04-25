@@ -3,7 +3,7 @@ title: Class PageRange
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageRange class. Represents the range of pages for header and footer settings
 type: docs
-weight: 8240
+weight: 8360
 url: /net/aspose.pdf/pagerange/
 ---
 ## PageRange class

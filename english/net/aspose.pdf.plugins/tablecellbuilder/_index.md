@@ -3,7 +3,7 @@ title: Class TableCellBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableCellBuilder class. Class represents builder for table cell
 type: docs
-weight: 9340
+weight: 9450
 url: /net/aspose.pdf.plugins/tablecellbuilder/
 ---
 ## TableCellBuilder class

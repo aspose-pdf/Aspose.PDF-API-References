@@ -3,7 +3,7 @@ title: Class VectorStoreCreateRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStoreCreateRequest class. Create a vector store request
 type: docs
-weight: 1270
+weight: 1360
 url: /net/aspose.pdf.ai/vectorstorecreaterequest/
 ---
 ## VectorStoreCreateRequest class

@@ -3,7 +3,7 @@ title: Interface ILlamaClient
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ILlamaClient interface. Represents a client interface for interacting with the Llama API
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.pdf.ai/illamaclient/
 ---
 ## ILlamaClient interface

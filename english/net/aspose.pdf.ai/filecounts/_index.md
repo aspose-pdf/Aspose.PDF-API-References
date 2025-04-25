@@ -3,7 +3,7 @@ title: Class FileCounts
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.FileCounts class. 
 type: docs
-weight: 380
+weight: 400
 url: /net/aspose.pdf.ai/filecounts/
 ---
 ## FileCounts class

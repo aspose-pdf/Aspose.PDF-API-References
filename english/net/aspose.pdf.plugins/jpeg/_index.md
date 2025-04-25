@@ -3,7 +3,7 @@ title: Class Jpeg
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Jpeg class. Represents Pdf to Jpeg plugin
 type: docs
-weight: 8910
+weight: 9020
 url: /net/aspose.pdf.plugins/jpeg/
 ---
 ## Jpeg class

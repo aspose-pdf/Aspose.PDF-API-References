@@ -3,7 +3,7 @@ title: Class ChoiceField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.ChoiceField class. Represents base class for choice fields
 type: docs
-weight: 4990
+weight: 5100
 url: /net/aspose.pdf.forms/choicefield/
 ---
 ## ChoiceField class

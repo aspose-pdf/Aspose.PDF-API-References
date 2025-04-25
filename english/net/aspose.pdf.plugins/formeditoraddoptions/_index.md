@@ -3,7 +3,7 @@ title: Class FormEditorAddOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormEditorAddOptions class. Represents options for add Fields to document by FormEditor plugin
 type: docs
-weight: 8630
+weight: 8740
 url: /net/aspose.pdf.plugins/formeditoraddoptions/
 ---
 ## FormEditorAddOptions class

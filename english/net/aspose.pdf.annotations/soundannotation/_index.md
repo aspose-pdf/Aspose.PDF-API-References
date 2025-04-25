@@ -3,7 +3,7 @@ title: Class SoundAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundAnnotation class. Represents a sound annotation that contains sound recorded from the computers microphone or imported from a file
 type: docs
-weight: 2530
+weight: 2620
 url: /net/aspose.pdf.annotations/soundannotation/
 ---
 ## SoundAnnotation class
@@ -33,7 +33,7 @@ public sealed class SoundAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Gets full qualified name of the annotation. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Gets or sets height of the annotation. |

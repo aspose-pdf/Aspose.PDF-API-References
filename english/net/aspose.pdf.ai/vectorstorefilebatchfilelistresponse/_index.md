@@ -3,7 +3,7 @@ title: Class VectorStoreFileBatchFileListResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStoreFileBatchFileListResponse class. Represents a list response containing vector store file batch data
 type: docs
-weight: 1300
+weight: 1390
 url: /net/aspose.pdf.ai/vectorstorefilebatchfilelistresponse/
 ---
 ## VectorStoreFileBatchFileListResponse class

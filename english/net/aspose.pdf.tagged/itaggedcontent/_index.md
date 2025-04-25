@@ -3,7 +3,7 @@ title: Interface ITaggedContent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Tagged.ITaggedContent interface. Represents interface for work with TaggedPdf content of document
 type: docs
-weight: 10310
+weight: 10440
 url: /net/aspose.pdf.tagged/itaggedcontent/
 ---
 ## ITaggedContent interface
@@ -61,6 +61,8 @@ public interface ITaggedContent
 | [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | Creates [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/). |
 | [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | Creates [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/). |
 | [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | Creates [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
+| [PreSave](../../aspose.pdf.tagged/itaggedcontent/presave/)() | Prepares the tagged content of the document for saving. This method performs necessary pre-save operations, ensuring that the structure tree and other tagged content elements are properly configured before the document is saved. |
+| [Save](../../aspose.pdf.tagged/itaggedcontent/save/)() | Saves the current state of the tagged content to the associated PDF document. |
 | [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | Sets natural language for pdf document. |
 | [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | Sets title for PDF document. |
 

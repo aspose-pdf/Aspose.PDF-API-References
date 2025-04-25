@@ -3,7 +3,7 @@ title: Class ToolCall
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ToolCall class. Represents a tool call within a message
 type: docs
-weight: 1200
+weight: 1290
 url: /net/aspose.pdf.ai/toolcall/
 ---
 ## ToolCall class

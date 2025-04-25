@@ -3,7 +3,7 @@ title: Class PdfFileInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileInfo class. Represents a class for accessing meta information of PDF document
 type: docs
-weight: 4520
+weight: 4630
 url: /net/aspose.pdf.facades/pdffileinfo/
 ---
 ## PdfFileInfo class
@@ -21,9 +21,11 @@ public sealed class PdfFileInfo : SaveableFacade
 | [PdfFileInfo](pdffileinfo/#constructor)() | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values. |
 | [PdfFileInfo](pdffileinfo/#constructor_1)(Document) | Initializes new `PdfFileInfo` object on base of the *document*. |
 | [PdfFileInfo](pdffileinfo/#constructor_2)(Stream) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
-| [PdfFileInfo](pdffileinfo/#constructor_4)(string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_5)(string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 | [PdfFileInfo](pdffileinfo/#constructor_3)(Stream, string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
-| [PdfFileInfo](pdffileinfo/#constructor_5)(string, string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_6)(string, string) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_4)(Stream, string, ICustomSecurityHandler) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
+| [PdfFileInfo](pdffileinfo/#constructor_7)(string, string, ICustomSecurityHandler) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 
 ## Properties
 

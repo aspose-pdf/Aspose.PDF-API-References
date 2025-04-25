@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.GetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Gets the current OpenAIChatCopilotOptions
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
 ## OpenAIChatCopilotOptions.GetOptions method

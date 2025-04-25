@@ -44,4 +44,29 @@ public override void BindPdf(Stream inputStream)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
+---
+
+## BindPdf(Document) {#bindpdf}
+
+Binds a PDF document to the [`PdfConverter`](../) instance for further processing.
+
+```csharp
+public override void BindPdf(Document srcDoc)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | Document | The [`Document`](../../../aspose.pdf/document/) object representing the source PDF to be bound. |
+
+## Remarks
+
+This method initializes the [`PdfConverter`](../) with the specified PDF document. It also processes dynamic XFA forms within the document, if present.
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
 

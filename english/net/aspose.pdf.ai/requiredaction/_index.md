@@ -3,7 +3,7 @@ title: Class RequiredAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.RequiredAction class. Details on the action required to continue the run. Will be null if no action is required
 type: docs
-weight: 950
+weight: 1030
 url: /net/aspose.pdf.ai/requiredaction/
 ---
 ## RequiredAction class

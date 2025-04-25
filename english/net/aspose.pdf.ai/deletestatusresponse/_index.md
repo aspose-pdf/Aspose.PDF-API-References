@@ -3,7 +3,7 @@ title: Class DeleteStatusResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.DeleteStatusResponse class. Represents the status of an object deletion
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.pdf.ai/deletestatusresponse/
 ---
 ## DeleteStatusResponse class

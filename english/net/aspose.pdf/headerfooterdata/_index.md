@@ -3,7 +3,7 @@ title: Class HeaderFooterData
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HeaderFooterData class. Represents the pagination data for header and footer
 type: docs
-weight: 5440
+weight: 5550
 url: /net/aspose.pdf/headerfooterdata/
 ---
 ## HeaderFooterData class

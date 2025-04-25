@@ -3,7 +3,7 @@ title: Class VectorStoreFileResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStoreFileResponse class. A vector store file response
 type: docs
-weight: 1350
+weight: 1440
 url: /net/aspose.pdf.ai/vectorstorefileresponse/
 ---
 ## VectorStoreFileResponse class

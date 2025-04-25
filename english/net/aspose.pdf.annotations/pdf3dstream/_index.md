@@ -3,7 +3,7 @@ title: Class PDF3DStream
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
 type: docs
-weight: 2230
+weight: 2320
 url: /net/aspose.pdf.annotations/pdf3dstream/
 ---
 ## PDF3DStream class

@@ -3,7 +3,7 @@ title: Interface IStatus
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IStatus interface. Represents the status of an operation
 type: docs
-weight: 560
+weight: 610
 url: /net/aspose.pdf.ai/istatus/
 ---
 ## IStatus interface

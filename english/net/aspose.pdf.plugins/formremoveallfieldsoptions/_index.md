@@ -3,7 +3,7 @@ title: Class FormRemoveAllFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormRemoveAllFieldsOptions class. Represents options for remove all fields in document by FormEditor plugin
 type: docs
-weight: 8780
+weight: 8890
 url: /net/aspose.pdf.plugins/formremoveallfieldsoptions/
 ---
 ## FormRemoveAllFieldsOptions class

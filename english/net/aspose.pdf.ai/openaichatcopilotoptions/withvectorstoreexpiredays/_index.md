@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithVectorStoreExpireDays
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the number of days for vector store expiration in the chat copilot options
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/
 ---
 ## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method

@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions.OutputIntent
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFormatConversionOptions property. Gets or sets the OutputIntent for the PDF format conversion
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf/pdfformatconversionoptions/outputintent/
 ---
 ## PdfFormatConversionOptions.OutputIntent property

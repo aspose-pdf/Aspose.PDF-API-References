@@ -3,7 +3,7 @@ title: Enum ScalingReason
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.ScalingReason enum. The circumstances under which the icon shall be scaled inside the annotation rectangle
 type: docs
-weight: 5250
+weight: 5360
 url: /net/aspose.pdf.forms/scalingreason/
 ---
 ## ScalingReason enumeration

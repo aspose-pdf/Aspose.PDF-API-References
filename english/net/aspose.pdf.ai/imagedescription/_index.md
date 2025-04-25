@@ -3,7 +3,7 @@ title: Class ImageDescription
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ImageDescription class. Represents an image description
 type: docs
-weight: 610
+weight: 660
 url: /net/aspose.pdf.ai/imagedescription/
 ---
 ## ImageDescription class

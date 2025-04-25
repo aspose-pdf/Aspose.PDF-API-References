@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.GetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Gets the current OpenAISummaryCopilotOptions
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/getoptions/
 ---
 ## OpenAISummaryCopilotOptions.GetOptions method

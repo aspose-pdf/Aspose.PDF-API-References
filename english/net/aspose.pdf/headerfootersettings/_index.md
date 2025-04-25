@@ -3,7 +3,7 @@ title: Class HeaderFooterSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HeaderFooterSettings class. Represents the settings for header and footer artifacts
 type: docs
-weight: 5450
+weight: 5560
 url: /net/aspose.pdf/headerfootersettings/
 ---
 ## HeaderFooterSettings class

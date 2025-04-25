@@ -3,7 +3,7 @@ title: OpenAIClient.ModifyVectorStoreAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Modifies an existing vector store asynchronously
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/
 ---
 ## OpenAIClient.ModifyVectorStoreAsync method

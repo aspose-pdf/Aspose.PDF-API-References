@@ -3,7 +3,7 @@ title: Class CustomExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CustomExplicitDestination class. Represents custom explicit destination
 type: docs
-weight: 1640
+weight: 1730
 url: /net/aspose.pdf.annotations/customexplicitdestination/
 ---
 ## CustomExplicitDestination class

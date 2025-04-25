@@ -3,7 +3,7 @@ title: Class OpenAIImageDescriptionCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAIImageDescriptionCopilot class. Provides image processing functionality for OpenAICopilot class. Example usage of creating an OpenAI client configuration of ImageDescriptionCopilot options and usage of the copilot to generate image descriptions and add descriptions to attached documents
 type: docs
-weight: 880
+weight: 940
 url: /net/aspose.pdf.ai/openaiimagedescriptioncopilot/
 ---
 ## OpenAIImageDescriptionCopilot class

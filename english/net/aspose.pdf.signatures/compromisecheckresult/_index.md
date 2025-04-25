@@ -3,7 +3,7 @@ title: Class CompromiseCheckResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Signatures.CompromiseCheckResult class. Represents a class for checking document digital signatures for compromise
 type: docs
-weight: 10100
+weight: 10230
 url: /net/aspose.pdf.signatures/compromisecheckresult/
 ---
 ## CompromiseCheckResult class

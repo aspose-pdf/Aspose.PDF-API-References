@@ -3,7 +3,7 @@ title: Class SetSpacingMoveToNextLineShowText
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText class. Class representing  operator set word and character spacing move to the next line and show text
 type: docs
-weight: 7810
+weight: 7930
 url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
 ## SetSpacingMoveToNextLineShowText class

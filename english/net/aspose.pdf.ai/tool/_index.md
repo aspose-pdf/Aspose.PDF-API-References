@@ -3,7 +3,7 @@ title: Class Tool
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Tool class. Represents a tool that can be called by the model
 type: docs
-weight: 1190
+weight: 1280
 url: /net/aspose.pdf.ai/tool/
 ---
 ## Tool class

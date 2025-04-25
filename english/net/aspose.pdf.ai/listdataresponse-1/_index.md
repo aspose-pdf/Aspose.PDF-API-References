@@ -3,7 +3,7 @@ title: Class ListDataResponseT
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ListDataResponse1T class. Represents a list data response containing additional information such as first and last IDs and whether there are more items
 type: docs
-weight: 670
+weight: 720
 url: /net/aspose.pdf.ai/listdataresponse-1/
 ---
 ## ListDataResponse&lt;T&gt; class

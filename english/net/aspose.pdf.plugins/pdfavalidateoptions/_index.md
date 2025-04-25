@@ -3,7 +3,7 @@ title: Class PdfAValidateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfAValidateOptions class. Represents options for validating PDF/A compliance of PDF documents with the PdfAConverter plugin
 type: docs
-weight: 9030
+weight: 9140
 url: /net/aspose.pdf.plugins/pdfavalidateoptions/
 ---
 ## PdfAValidateOptions class

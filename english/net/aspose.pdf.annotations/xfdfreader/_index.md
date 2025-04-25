@@ -3,7 +3,7 @@ title: Class XfdfReader
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.XfdfReader class. Class which peroformes reading of XFDF format
 type: docs
-weight: 2740
+weight: 2830
 url: /net/aspose.pdf.annotations/xfdfreader/
 ---
 ## XfdfReader class

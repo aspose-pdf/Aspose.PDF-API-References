@@ -3,7 +3,7 @@ title: Interface IQueryParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IQueryParameters interface. Represents query parameters for API requests
 type: docs
-weight: 550
+weight: 600
 url: /net/aspose.pdf.ai/iqueryparameters/
 ---
 ## IQueryParameters interface

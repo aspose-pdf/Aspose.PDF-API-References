@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithAssistantName
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the assistant name for the summary copilot options
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
 ## OpenAISummaryCopilotOptions.WithAssistantName method

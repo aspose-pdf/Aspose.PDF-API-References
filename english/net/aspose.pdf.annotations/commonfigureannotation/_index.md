@@ -3,7 +3,7 @@ title: Class CommonFigureAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CommonFigureAnnotation class. Abstract class representing common figure annotation
 type: docs
-weight: 1620
+weight: 1710
 url: /net/aspose.pdf.annotations/commonfigureannotation/
 ---
 ## CommonFigureAnnotation class
@@ -32,7 +32,7 @@ public abstract class CommonFigureAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [Frame](../../aspose.pdf.annotations/commonfigureannotation/frame/) { get; set; } | The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual boundaries of the underlying square or circle. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Gets full qualified name of the annotation. |

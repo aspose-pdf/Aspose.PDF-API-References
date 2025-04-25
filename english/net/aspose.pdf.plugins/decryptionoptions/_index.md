@@ -3,7 +3,7 @@ title: Class DecryptionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.DecryptionOptions class. Represents Decryption Options for Security plugin
 type: docs
-weight: 8520
+weight: 8630
 url: /net/aspose.pdf.plugins/decryptionoptions/
 ---
 ## DecryptionOptions class

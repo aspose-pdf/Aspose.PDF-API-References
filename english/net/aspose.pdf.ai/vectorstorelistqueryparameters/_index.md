@@ -3,7 +3,7 @@ title: Class VectorStoreListQueryParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStoreListQueryParameters class. Query parameters object for listing vector stores
 type: docs
-weight: 1360
+weight: 1450
 url: /net/aspose.pdf.ai/vectorstorelistqueryparameters/
 ---
 ## VectorStoreListQueryParameters class

@@ -3,7 +3,7 @@ title: Interface ISaveTarget
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ISaveTarget interface. General save target interface that defines common members that concrete operation result save target should implement
 type: docs
-weight: 8880
+weight: 8990
 url: /net/aspose.pdf.plugins/isavetarget/
 ---
 ## ISaveTarget interface

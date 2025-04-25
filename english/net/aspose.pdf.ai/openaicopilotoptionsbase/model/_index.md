@@ -11,7 +11,7 @@ url: /net/aspose.pdf.ai/openaicopilotoptionsbase/model/
 Gets or sets the model to use for the assistant.
 
 ```csharp
-public virtual string Model { get; set; }
+public string Model { get; set; }
 ```
 
 ### See Also

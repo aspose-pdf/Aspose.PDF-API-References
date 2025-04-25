@@ -3,7 +3,7 @@ title: Class FreeTextAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FreeTextAnnotation class. Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotation a free text annotation has no open or closed state instead of being displayed in a popup window the text is always visible
 type: docs
-weight: 1810
+weight: 1900
 url: /net/aspose.pdf.annotations/freetextannotation/
 ---
 ## FreeTextAnnotation class
@@ -34,7 +34,7 @@ public sealed class FreeTextAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [DefaultAppearance](../../aspose.pdf.annotations/freetextannotation/defaultappearance/) { get; set; } | Gets or sets the default appearance string to be used in formatting the text. |
 | [DefaultAppearanceObject](../../aspose.pdf.annotations/freetextannotation/defaultappearanceobject/) { get; } | Object which represents default appearance of FreeText annotation. |
 | [DefaultStyle](../../aspose.pdf.annotations/freetextannotation/defaultstyle/) { get; set; } | Gets or sets a default style string. |

@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.SummaryPrompt
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions property. Gets or sets the prompt to instruct the model to provide a document summary
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
 ## OpenAISummaryCopilotOptions.SummaryPrompt property

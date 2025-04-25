@@ -3,7 +3,7 @@ title: Class SystemFontsSubstitution
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.SystemFontsSubstitution class. Represents a class for font substitution strategy that substitutes fonts with system fonts
 type: docs
-weight: 10740
+weight: 10870
 url: /net/aspose.pdf.text/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution class

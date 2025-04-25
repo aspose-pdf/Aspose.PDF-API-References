@@ -52,22 +52,6 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ---
 
-## CheckboxField() {#constructor}
-
-Create instance of CheckboxField.
-
-```csharp
-public CheckboxField()
-```
-
-### See Also
-
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## CheckboxField(Document) {#constructor_1}
 
 Constructor to use with Generator.

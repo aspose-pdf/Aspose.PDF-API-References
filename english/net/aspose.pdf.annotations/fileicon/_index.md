@@ -3,7 +3,7 @@ title: Enum FileIcon
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FileIcon enum. An icon to be used in displaying the annotation
 type: docs
-weight: 1720
+weight: 1810
 url: /net/aspose.pdf.annotations/fileicon/
 ---
 ## FileIcon enumeration

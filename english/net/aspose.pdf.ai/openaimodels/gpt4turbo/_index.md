@@ -3,7 +3,7 @@ title: OpenAIModels.Gpt4Turbo
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIModels property. Gets the identifier for the GPT4 Turbo model
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.ai/openaimodels/gpt4turbo/
 ---
 ## OpenAIModels.Gpt4Turbo property

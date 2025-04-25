@@ -3,7 +3,7 @@ title: Class OpenAIClient.Builder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAIClientBuilder class. Builder class for creating an instance of OpenAIClient
 type: docs
-weight: 850
+weight: 910
 url: /net/aspose.pdf.ai/openaiclient.builder/
 ---
 ## OpenAIClient.Builder class

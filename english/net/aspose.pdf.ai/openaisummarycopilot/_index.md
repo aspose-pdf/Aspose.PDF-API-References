@@ -3,7 +3,7 @@ title: Class OpenAISummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAISummaryCopilot class. Provides functionality for getting document summaries using AI models. Example usage of creating an OpenAI client configuring options and using the summary copilot
 type: docs
-weight: 920
+weight: 1000
 url: /net/aspose.pdf.ai/openaisummarycopilot/
 ---
 ## OpenAISummaryCopilot class

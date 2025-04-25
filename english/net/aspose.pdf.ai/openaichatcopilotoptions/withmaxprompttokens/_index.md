@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithMaxPromptTokens
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the max prompt tokens for the chat copilot options
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
 ---
 ## OpenAIChatCopilotOptions.WithMaxPromptTokens method

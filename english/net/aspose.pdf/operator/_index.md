@@ -3,7 +3,7 @@ title: Class Operator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operator class. Abstract class representing operator
 type: docs
-weight: 7070
+weight: 7190
 url: /net/aspose.pdf/operator/
 ---
 ## Operator class

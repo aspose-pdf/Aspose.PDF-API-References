@@ -3,7 +3,7 @@ title: Class FileContentResponseT
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.FileContentResponse1T class. 
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.pdf.ai/filecontentresponse-1/
 ---
 ## FileContentResponse&lt;T&gt; class

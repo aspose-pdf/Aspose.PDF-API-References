@@ -3,7 +3,7 @@ title: Class CompressOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.CompressOptions class. Represents Compress options for Optimizer plugin
 type: docs
-weight: 8490
+weight: 8600
 url: /net/aspose.pdf.plugins/compressoptions/
 ---
 ## CompressOptions class

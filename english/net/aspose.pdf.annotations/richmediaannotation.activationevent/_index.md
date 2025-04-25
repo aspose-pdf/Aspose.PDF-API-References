@@ -3,7 +3,7 @@ title: Enum RichMediaAnnotation.ActivationEvent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent enum. Event which activates annotation
 type: docs
-weight: 2490
+weight: 2580
 url: /net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
 ## RichMediaAnnotation.ActivationEvent enumeration

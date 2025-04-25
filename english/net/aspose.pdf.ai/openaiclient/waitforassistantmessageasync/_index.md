@@ -3,7 +3,7 @@ title: OpenAIClient.WaitForAssistantMessageAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Waits for the first message from the assistant within a thread asynchronously
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/
 ---
 ## OpenAIClient.WaitForAssistantMessageAsync method

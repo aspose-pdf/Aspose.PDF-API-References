@@ -3,7 +3,7 @@ title: Class Document.MergeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocumentMergeOptions class. Represents the options to Merge methods
 type: docs
-weight: 3830
+weight: 3940
 url: /net/aspose.pdf/document.mergeoptions/
 ---
 ## Document.MergeOptions class

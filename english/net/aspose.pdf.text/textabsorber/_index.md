@@ -3,7 +3,7 @@ title: Class TextAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextAbsorber class. Represents an absorber object of a text. Performs text extraction and provides access to the result via Text object
 type: docs
-weight: 10800
+weight: 10930
 url: /net/aspose.pdf.text/textabsorber/
 ---
 ## TextAbsorber class

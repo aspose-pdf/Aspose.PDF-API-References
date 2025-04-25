@@ -3,7 +3,7 @@ title: Class FileAttachmentAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FileAttachmentAnnotation class. Class describes file attachment annotation
 type: docs
-weight: 1710
+weight: 1800
 url: /net/aspose.pdf.annotations/fileattachmentannotation/
 ---
 ## FileAttachmentAnnotation class
@@ -32,7 +32,7 @@ public sealed class FileAttachmentAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [File](../../aspose.pdf.annotations/fileattachmentannotation/file/) { get; set; } | The specification of the file associated with this annotation. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Gets full qualified name of the annotation. |

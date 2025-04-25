@@ -3,7 +3,7 @@ title: Class OpenAIImageDescriptionCopilotExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions class. Provides extension methods for OpenAIImageDescriptionCopilot class
 type: docs
-weight: 890
+weight: 950
 url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/
 ---
 ## OpenAIImageDescriptionCopilotExtensions class

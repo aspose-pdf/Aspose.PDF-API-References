@@ -3,7 +3,7 @@ title: Class LlamaModels
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.LlamaModels class. Contains constants related to different Llama models
 type: docs
-weight: 730
+weight: 780
 url: /net/aspose.pdf.ai/llamamodels/
 ---
 ## LlamaModels class

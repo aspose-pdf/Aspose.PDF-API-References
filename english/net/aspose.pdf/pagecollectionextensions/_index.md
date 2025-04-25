@@ -3,7 +3,7 @@ title: Class PageCollectionExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageCollectionExtensions class. Represents the extension method for updating header and footer pagination
 type: docs
-weight: 8090
+weight: 8210
 url: /net/aspose.pdf/pagecollectionextensions/
 ---
 ## PageCollectionExtensions class

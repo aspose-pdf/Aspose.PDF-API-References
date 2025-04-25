@@ -3,7 +3,7 @@ title: Class NoteElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.NoteElement class. Represents Note structure element in logical structure
 type: docs
-weight: 6520
+weight: 6640
 url: /net/aspose.pdf.logicalstructure/noteelement/
 ---
 ## NoteElement class

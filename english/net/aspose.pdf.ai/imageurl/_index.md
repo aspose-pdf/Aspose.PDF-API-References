@@ -3,7 +3,7 @@ title: Class ImageUrl
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ImageUrl class. Represents an image URL in the content of a message
 type: docs
-weight: 640
+weight: 690
 url: /net/aspose.pdf.ai/imageurl/
 ---
 ## ImageUrl class

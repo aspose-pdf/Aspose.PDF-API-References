@@ -3,7 +3,7 @@ title: OpenAIClient.GetRunStepsAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Retrieves a list of steps for a specific run within a thread asynchronously
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf.ai/openaiclient/getrunstepsasync/
 ---
 ## OpenAIClient.GetRunStepsAsync method

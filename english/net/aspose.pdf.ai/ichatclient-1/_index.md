@@ -3,7 +3,7 @@ title: Interface IChatClientTOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IChatClient1TOptions interface. Represents an interface for a chat client with specific options
 type: docs
-weight: 460
+weight: 480
 url: /net/aspose.pdf.ai/ichatclient-1/
 ---
 ## IChatClient&lt;TOptions&gt; interface

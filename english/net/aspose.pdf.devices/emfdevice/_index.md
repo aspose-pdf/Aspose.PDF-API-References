@@ -3,7 +3,7 @@ title: Class EmfDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.EmfDevice class. Represents image device that helps to save pdf document pages into emf
 type: docs
-weight: 3580
+weight: 3690
 url: /net/aspose.pdf.devices/emfdevice/
 ---
 ## EmfDevice class

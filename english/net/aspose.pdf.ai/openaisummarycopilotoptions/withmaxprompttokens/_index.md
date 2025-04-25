@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithMaxPromptTokens
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the max prompt tokens for the summary copilot options
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxprompttokens/
 ---
 ## OpenAISummaryCopilotOptions.WithMaxPromptTokens method

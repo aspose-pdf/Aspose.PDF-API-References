@@ -3,7 +3,7 @@ title: Class PdfDocument
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.PdfDocument class. Represents a PDF document with a name
 type: docs
-weight: 940
+weight: 1020
 url: /net/aspose.pdf.ai/pdfdocument/
 ---
 ## PdfDocument class

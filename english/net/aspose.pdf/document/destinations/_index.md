@@ -3,7 +3,7 @@ title: Document.Destinations
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets the collection of destinations. Obsolete. Please use NamedDestinations
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf/document/destinations/
 ---
 ## Document.Destinations property

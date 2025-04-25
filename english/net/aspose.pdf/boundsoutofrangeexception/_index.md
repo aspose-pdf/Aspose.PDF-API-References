@@ -3,7 +3,7 @@ title: Class BoundsOutOfRangeException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BoundsOutOfRangeException class. Represents an exception which occurs when an item doesnt fit within the given container dimensions
 type: docs
-weight: 2940
+weight: 3040
 url: /net/aspose.pdf/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException class

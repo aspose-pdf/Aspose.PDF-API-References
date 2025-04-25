@@ -3,7 +3,7 @@ title: Class ThreadModifyRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ThreadModifyRequest class. Represents a request to modify a thread
 type: docs
-weight: 1170
+weight: 1260
 url: /net/aspose.pdf.ai/threadmodifyrequest/
 ---
 ## ThreadModifyRequest class

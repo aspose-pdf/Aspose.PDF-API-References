@@ -3,7 +3,7 @@ title: Class ListLBodyElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ListLBodyElement class. Represents LBody structure element in logical structure of the list
 type: docs
-weight: 6470
+weight: 6590
 url: /net/aspose.pdf.logicalstructure/listlbodyelement/
 ---
 ## ListLBodyElement class

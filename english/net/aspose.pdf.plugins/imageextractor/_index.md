@@ -3,7 +3,7 @@ title: Class ImageExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ImageExtractor class. Represents ImageExtractor plugin
 type: docs
-weight: 8890
+weight: 9000
 url: /net/aspose.pdf.plugins/imageextractor/
 ---
 ## ImageExtractor class

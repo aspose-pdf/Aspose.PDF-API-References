@@ -3,7 +3,7 @@ title: Interface IChatCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IChatCopilot interface. Represents a chat copilot for interacting with documents via AI models
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.pdf.ai/ichatcopilot/
 ---
 ## IChatCopilot interface

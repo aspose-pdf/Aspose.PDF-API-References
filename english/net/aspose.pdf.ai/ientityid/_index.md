@@ -3,7 +3,7 @@ title: Interface IEntityId
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IEntityId interface. Represents an entity with an ID
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.pdf.ai/ientityid/
 ---
 ## IEntityId interface

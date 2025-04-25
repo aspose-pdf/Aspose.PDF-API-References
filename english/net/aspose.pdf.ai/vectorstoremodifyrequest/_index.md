@@ -3,7 +3,7 @@ title: Class VectorStoreModifyRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.VectorStoreModifyRequest class. Modify a vector store request
 type: docs
-weight: 1380
+weight: 1470
 url: /net/aspose.pdf.ai/vectorstoremodifyrequest/
 ---
 ## VectorStoreModifyRequest class

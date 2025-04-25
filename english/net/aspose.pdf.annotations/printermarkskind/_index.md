@@ -3,7 +3,7 @@ title: Enum PrinterMarksKind
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PrinterMarksKind enum. Specifies the types of printers marks to be added to a document
 type: docs
-weight: 2380
+weight: 2470
 url: /net/aspose.pdf.annotations/printermarkskind/
 ---
 ## PrinterMarksKind enumeration

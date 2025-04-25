@@ -3,7 +3,7 @@ title: Class RunListResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.RunListResponse class. Represents a list response containing run data
 type: docs
-weight: 1000
+weight: 1080
 url: /net/aspose.pdf.ai/runlistresponse/
 ---
 ## RunListResponse class

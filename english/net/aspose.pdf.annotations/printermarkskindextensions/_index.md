@@ -3,7 +3,7 @@ title: Class PrinterMarksKindExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PrinterMarksKindExtensions class. Provides extension methods for the PrinterMarksKind enumeration
 type: docs
-weight: 2390
+weight: 2480
 url: /net/aspose.pdf.annotations/printermarkskindextensions/
 ---
 ## PrinterMarksKindExtensions class

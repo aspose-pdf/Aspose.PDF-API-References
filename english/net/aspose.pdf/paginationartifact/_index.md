@@ -3,7 +3,7 @@ title: Class PaginationArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PaginationArtifact class. Represents an abstract base class for pagination artifacts in a document
 type: docs
-weight: 8260
+weight: 8380
 url: /net/aspose.pdf/paginationartifact/
 ---
 ## PaginationArtifact class

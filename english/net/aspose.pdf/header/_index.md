@@ -3,7 +3,7 @@ title: Class Header
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Header class. Represents the header settings
 type: docs
-weight: 5410
+weight: 5520
 url: /net/aspose.pdf/header/
 ---
 ## Header class

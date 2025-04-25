@@ -3,7 +3,7 @@ title: Class Logprobs
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Logprobs class. Represents log probability information for a choice
 type: docs
-weight: 760
+weight: 810
 url: /net/aspose.pdf.ai/logprobs/
 ---
 ## Logprobs class

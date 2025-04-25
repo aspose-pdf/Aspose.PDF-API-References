@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the max completion tokens for the chat copilot options
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
 ---
 ## OpenAIChatCopilotOptions.WithMaxCompletionTokens method

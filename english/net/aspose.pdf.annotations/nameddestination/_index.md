@@ -3,7 +3,7 @@ title: Class NamedDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.NamedDestination class. Instead of being defined directly with the explicit syntax a destination may be referred to indirectly by means of a name object or a byte string
 type: docs
-weight: 2130
+weight: 2220
 url: /net/aspose.pdf.annotations/nameddestination/
 ---
 ## NamedDestination class

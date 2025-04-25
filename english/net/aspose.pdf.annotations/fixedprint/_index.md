@@ -3,7 +3,7 @@ title: Class FixedPrint
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FixedPrint class. Represent Fixed print data of Watermark Annotation
 type: docs
-weight: 1800
+weight: 1890
 url: /net/aspose.pdf.annotations/fixedprint/
 ---
 ## FixedPrint class

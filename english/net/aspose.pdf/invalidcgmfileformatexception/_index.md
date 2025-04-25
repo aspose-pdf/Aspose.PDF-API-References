@@ -3,7 +3,7 @@ title: Class InvalidCgmFileFormatException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.InvalidCgmFileFormatException class. The exception that is thrown when a Cgm file is invalid
 type: docs
-weight: 5980
+weight: 6100
 url: /net/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException class

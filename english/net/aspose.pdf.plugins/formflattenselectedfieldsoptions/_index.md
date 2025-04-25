@@ -3,7 +3,7 @@ title: Class FormFlattenSelectedFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormFlattenSelectedFieldsOptions class. Represents options for flatten selected fields not annotations in document by FormFlattener plugin
 type: docs
-weight: 8740
+weight: 8850
 url: /net/aspose.pdf.plugins/formflattenselectedfieldsoptions/
 ---
 ## FormFlattenSelectedFieldsOptions class

@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions.IsTransferInfo
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFormatConversionOptions property. Gets or sets whether to pass data from Info to Metadata when converted to PDF 2.0. True by default
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/pdfformatconversionoptions/istransferinfo/
 ---
 ## PdfFormatConversionOptions.IsTransferInfo property

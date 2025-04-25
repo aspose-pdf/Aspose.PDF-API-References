@@ -3,7 +3,7 @@ title: OpenAIClient.WaitForVectorStoreFileToCompleteAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Waits for a specific vector store file to complete asynchronously
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.pdf.ai/openaiclient/waitforvectorstorefiletocompleteasync/
 ---
 ## OpenAIClient.WaitForVectorStoreFileToCompleteAsync method

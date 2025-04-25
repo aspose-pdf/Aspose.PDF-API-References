@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithDocument
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}

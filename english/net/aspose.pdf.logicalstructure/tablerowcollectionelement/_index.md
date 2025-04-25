@@ -3,7 +3,7 @@ title: Class TableRowCollectionElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableRowCollectionElement class. Represents a base class for children elements of the Table Head Body and Foot in logical structure
 type: docs
-weight: 6790
+weight: 6910
 url: /net/aspose.pdf.logicalstructure/tablerowcollectionelement/
 ---
 ## TableRowCollectionElement class

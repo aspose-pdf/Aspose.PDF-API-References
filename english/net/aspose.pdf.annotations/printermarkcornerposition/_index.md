@@ -3,7 +3,7 @@ title: Enum PrinterMarkCornerPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. Represents a position of a mark in a corner of a page
 type: docs
-weight: 2360
+weight: 2450
 url: /net/aspose.pdf.annotations/printermarkcornerposition/
 ---
 ## PrinterMarkCornerPosition enumeration

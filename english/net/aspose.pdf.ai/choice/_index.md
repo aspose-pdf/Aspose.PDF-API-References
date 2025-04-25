@@ -3,7 +3,7 @@ title: Class Choice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Choice class. Represents a choice in a chat completion response
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf.ai/choice/
 ---
 ## Choice class

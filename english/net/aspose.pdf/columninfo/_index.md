@@ -3,7 +3,7 @@ title: Class ColumnInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ColumnInfo class. This class represents a columns info
 type: docs
-weight: 3120
+weight: 3220
 url: /net/aspose.pdf/columninfo/
 ---
 ## ColumnInfo class

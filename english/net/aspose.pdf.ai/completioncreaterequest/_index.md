@@ -3,7 +3,7 @@ title: Class CompletionCreateRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.CompletionCreateRequest class. Represents a request for the Create Chat Completion endpoint
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.ai/completioncreaterequest/
 ---
 ## CompletionCreateRequest class
@@ -27,7 +27,7 @@ public class CompletionCreateRequest
 | [FrequencyPenalty](../../aspose.pdf.ai/completioncreaterequest/frequencypenalty/) { get; set; } | Gets or sets a number between -2.0 and 2.0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim. |
 | [LogitBias](../../aspose.pdf.ai/completioncreaterequest/logitbias/) { get; set; } | Gets or sets the likelihood of specified tokens appearing in the completion. Accepts a JSON object that maps tokens (specified by their token ID in the tokenizer) to an associated bias value from -100 to 100. |
 | [Logprobs](../../aspose.pdf.ai/completioncreaterequest/logprobs/) { get; set; } | Gets or sets whether to return log probabilities of the output tokens or not. If true, returns the log probabilities of each output token returned in the content of the message. |
-| [MaxTokens](../../aspose.pdf.ai/completioncreaterequest/maxtokens/) { get; set; } | Gets or sets the maximum number of tokens to generate in the completion. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/completioncreaterequest/maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of tokens to generate in the completion. |
 | [Messages](../../aspose.pdf.ai/completioncreaterequest/messages/) { get; set; } | Gets or sets a list of messages comprising the conversation so far. |
 | [Model](../../aspose.pdf.ai/completioncreaterequest/model/) { get; set; } | Gets or sets the ID of the model to use. |
 | [NumberOfChoices](../../aspose.pdf.ai/completioncreaterequest/numberofchoices/) { get; set; } | Gets or sets how many chat completion choices to generate for each input message. Note that you will be charged based on the number of generated tokens across all of the choices. Keep n as 1 to minimize costs. |

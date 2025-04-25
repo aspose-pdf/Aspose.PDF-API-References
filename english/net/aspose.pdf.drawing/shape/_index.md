@@ -3,7 +3,7 @@ title: Class Shape
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Shape class. Represents shape  the base graphics object
 type: docs
-weight: 4000
+weight: 4110
 url: /net/aspose.pdf.drawing/shape/
 ---
 ## Shape class

@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithTopP
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the top P value for the chat copilot options
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
 ## OpenAIChatCopilotOptions.WithTopP method
