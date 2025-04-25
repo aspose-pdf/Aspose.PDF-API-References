@@ -3,7 +3,7 @@ title: Enum FontTypes
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.FontTypes enum. Supported font types enumeration
 type: docs
-weight: 10600
+weight: 10730
 url: /net/aspose.pdf.text/fonttypes/
 ---
 ## FontTypes enumeration

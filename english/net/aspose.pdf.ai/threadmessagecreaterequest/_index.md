@@ -3,7 +3,7 @@ title: Class ThreadMessageCreateRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ThreadMessageCreateRequest class. Represents a request to create a message within a thread
 type: docs
-weight: 1120
+weight: 1210
 url: /net/aspose.pdf.ai/threadmessagecreaterequest/
 ---
 ## ThreadMessageCreateRequest class

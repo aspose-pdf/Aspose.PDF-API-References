@@ -3,7 +3,7 @@ title: Class FileResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.FileResponse class. The FileResponse object represents a document that has been uploaded to OpenAI
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.pdf.ai/fileresponse/
 ---
 ## FileResponse class

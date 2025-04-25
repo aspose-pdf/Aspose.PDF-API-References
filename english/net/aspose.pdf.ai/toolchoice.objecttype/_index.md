@@ -3,7 +3,7 @@ title: Class ToolChoice.ObjectType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ToolChoiceObjectType class. Represents an object value in the ToolChoice
 type: docs
-weight: 1220
+weight: 1310
 url: /net/aspose.pdf.ai/toolchoice.objecttype/
 ---
 ## ToolChoice.ObjectType class

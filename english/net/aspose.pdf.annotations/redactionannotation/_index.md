@@ -3,7 +3,7 @@ title: Class RedactionAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RedactionAnnotation class. Represents Redact annotation
 type: docs
-weight: 2400
+weight: 2490
 url: /net/aspose.pdf.annotations/redactionannotation/
 ---
 ## RedactionAnnotation class
@@ -34,7 +34,7 @@ public sealed class RedactionAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [DefaultAppearance](../../aspose.pdf.annotations/redactionannotation/defaultappearance/) { get; set; } | Gets or sets the default appearance string to be used in formatting the text. |
 | [FillColor](../../aspose.pdf.annotations/redactionannotation/fillcolor/) { get; set; } | Gets or sets color to fill annotation. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |

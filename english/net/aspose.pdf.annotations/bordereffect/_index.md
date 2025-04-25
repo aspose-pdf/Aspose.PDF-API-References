@@ -3,7 +3,7 @@ title: Enum BorderEffect
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.BorderEffect enum. Describes effect which should be applied to the border of the annotations
 type: docs
-weight: 1520
+weight: 1610
 url: /net/aspose.pdf.annotations/bordereffect/
 ---
 ## BorderEffect enumeration

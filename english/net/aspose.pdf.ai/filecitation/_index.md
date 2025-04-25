@@ -3,7 +3,7 @@ title: Class FileCitation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.FileCitation class. Represents the file citation
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.pdf.ai/filecitation/
 ---
 ## FileCitation class

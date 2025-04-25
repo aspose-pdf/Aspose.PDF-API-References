@@ -3,7 +3,7 @@ title: Class DocumentInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocumentInfo class. Represents meta information of PDF document
 type: docs
-weight: 3870
+weight: 3980
 url: /net/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class

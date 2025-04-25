@@ -3,7 +3,7 @@ title: Interface ISummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ISummaryCopilot interface. Represents a summary copilot for generating summaries for documents using AI models
 type: docs
-weight: 590
+weight: 640
 url: /net/aspose.pdf.ai/isummarycopilot/
 ---
 ## ISummaryCopilot interface

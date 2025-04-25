@@ -3,7 +3,7 @@ title: Class FileSearch
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.FileSearch class. Represents the file search tool resources
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.pdf.ai/filesearch/
 ---
 ## FileSearch class

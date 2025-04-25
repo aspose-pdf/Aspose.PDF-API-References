@@ -3,7 +3,7 @@ title: Class TocOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TocOptions class. Represents options for add table of contents to document by TocGenerator plugin
 type: docs
-weight: 9440
+weight: 9550
 url: /net/aspose.pdf.plugins/tocoptions/
 ---
 ## TocOptions class

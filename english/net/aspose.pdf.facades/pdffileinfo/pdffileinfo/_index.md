@@ -63,7 +63,31 @@ public PdfFileInfo(Stream inputStream, string password)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Stream where input file is placed. |
+| password | String | Password for access to file. |
+| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+
+### See Also
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -83,7 +107,7 @@ public PdfFileInfo(string inputFile)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -98,6 +122,29 @@ public PdfFileInfo(string inputFile, string password)
 
 ### See Also
 
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Name of file containing input file. |
+| password | String | Password for access to file. |
+| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+
+### See Also
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -3,7 +3,7 @@ title: Enum AnnotationState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.AnnotationState enum. The enumeration of states to which the original annotation can be set
 type: docs
-weight: 1460
+weight: 1550
 url: /net/aspose.pdf.annotations/annotationstate/
 ---
 ## AnnotationState enumeration

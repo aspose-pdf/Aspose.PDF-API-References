@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.TruncationStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions property. Gets or sets the truncation strategy for the thread
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
 ## OpenAIChatCopilotOptions.TruncationStrategy property

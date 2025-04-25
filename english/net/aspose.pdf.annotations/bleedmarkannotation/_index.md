@@ -3,7 +3,7 @@ title: Class BleedMarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.BleedMarkAnnotation class. Represents a Bleed Mark annotation
 type: docs
-weight: 1500
+weight: 1590
 url: /net/aspose.pdf.annotations/bleedmarkannotation/
 ---
 ## BleedMarkAnnotation class

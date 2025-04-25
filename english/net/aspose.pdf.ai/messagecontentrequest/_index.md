@@ -3,7 +3,7 @@ title: Class MessageContentRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.MessageContentRequest class. The content of the message in array of text and/or images
 type: docs
-weight: 780
+weight: 830
 url: /net/aspose.pdf.ai/messagecontentrequest/
 ---
 ## MessageContentRequest class

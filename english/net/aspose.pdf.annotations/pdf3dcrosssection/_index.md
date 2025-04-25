@@ -3,7 +3,7 @@ title: Class PDF3DCrossSection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DCrossSection class. Class PDF3DCrossSection
 type: docs
-weight: 2180
+weight: 2270
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/
 ---
 ## PDF3DCrossSection class

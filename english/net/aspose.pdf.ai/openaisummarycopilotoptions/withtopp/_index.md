@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithTopP
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the top P value for the summary copilot options
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/
 ---
 ## OpenAISummaryCopilotOptions.WithTopP method

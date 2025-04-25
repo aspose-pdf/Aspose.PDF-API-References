@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithTruncationStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the truncation strategy for the chat copilot options
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
 ## OpenAIChatCopilotOptions.WithTruncationStrategy method

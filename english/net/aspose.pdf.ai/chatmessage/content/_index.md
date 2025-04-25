@@ -11,11 +11,12 @@ url: /net/aspose.pdf.ai/chatmessage/content/
 Gets or sets the contents of the message.
 
 ```csharp
-public string Content { get; set; }
+public List<MessageContentRequest> Content { get; set; }
 ```
 
 ### See Also
 
+* class [MessageContentRequest](../../messagecontentrequest/)
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

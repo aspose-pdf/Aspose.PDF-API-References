@@ -3,7 +3,7 @@ title: Document.PickTrayByPdfSize
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets a flag specifying whether the PDF page size shall be used to select the input paper tray
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.pdf/document/picktraybypdfsize/
 ---
 ## Document.PickTrayByPdfSize property

@@ -3,7 +3,7 @@ title: Class ExpiresAfter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ExpiresAfter class. Represents the expiration policy for a vector store
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.pdf.ai/expiresafter/
 ---
 ## ExpiresAfter class

@@ -3,7 +3,7 @@ title: Class TextDocument
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.TextDocument class. Represents a text document with a name and content
 type: docs
-weight: 1090
+weight: 1170
 url: /net/aspose.pdf.ai/textdocument/
 ---
 ## TextDocument class

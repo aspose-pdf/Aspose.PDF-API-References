@@ -3,7 +3,7 @@ title: Class PdfConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfConverter class. Represents a class to convert a pdf files each page to images supporting BMP JPEG PNG and TIFF now. Supported content in pdfs pictures form comment
 type: docs
-weight: 4440
+weight: 4550
 url: /net/aspose.pdf.facades/pdfconverter/
 ---
 ## PdfConverter class
@@ -40,7 +40,7 @@ public sealed class PdfConverter : Facade
 
 | Name | Description |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initializes the facade. |
+| override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf)(Document) | Binds a PDF document to the `PdfConverter` instance for further processing. |
 | override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf_1)(Stream) | Binds a Pdf Stream for convert. |
 | override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf_2)(string) | Binds a Pdf file for converting. |
 | override [Close](../../aspose.pdf.facades/pdfconverter/close/)() | Close the instance of PdfConverter and release the resources. |

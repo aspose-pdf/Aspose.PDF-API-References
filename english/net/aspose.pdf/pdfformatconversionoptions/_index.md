@@ -3,7 +3,7 @@ title: Class PdfFormatConversionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfFormatConversionOptions class. represents set of options for convert PDF document
 type: docs
-weight: 8380
+weight: 8500
 url: /net/aspose.pdf/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions class
@@ -31,6 +31,7 @@ public class PdfFormatConversionOptions
 | --- | --- |
 | static [Default](../../aspose.pdf/pdfformatconversionoptions/default/) { get; } | Gets PdfFormatConversionOptions object with default parameters |
 | [AlignText](../../aspose.pdf/pdfformatconversionoptions/aligntext/) { get; set; } | This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases font substitution causes text overlapping or extra spaces in converted document. When this flag is set special alignment operations will be performed. This flag should be set only for documents which have problems with overlapped text or extra text spaces cause using of this flag decrease performance and in some cases could corrupt text content. |
+| [AutoTaggingSettings](../../aspose.pdf/pdfformatconversionoptions/autotaggingsettings/) { get; set; } | Gets or sets the settings for automatic tagging during PDF format conversion. |
 | [ConvertSoftMaskAction](../../aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/) { get; set; } | Action for images with soft mask. |
 | [ErrorAction](../../aspose.pdf/pdfformatconversionoptions/erroraction/) { get; set; } | Action for objects that can not be converted |
 | [ExcludeFontsStrategy](../../aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/) { get; set; } | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [`OptimizeFileSize`](./optimizefilesize/) is set to true. By default combination of strategies SubsetFonts and RemoveDuplicatedFonts is used. |

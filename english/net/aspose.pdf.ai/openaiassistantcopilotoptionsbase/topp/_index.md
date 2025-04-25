@@ -3,7 +3,7 @@ title: OpenAIAssistantCopilotOptionsBase.TopP
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIAssistantCopilotOptionsBase property. Gets or sets the topp value for nucleus sampling
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
 ## OpenAIAssistantCopilotOptionsBase.TopP property

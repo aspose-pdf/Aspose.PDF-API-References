@@ -3,7 +3,7 @@ title: Class BorderInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BorderInfo class. This class represents border for graphics elements
 type: docs
-weight: 2900
+weight: 3000
 url: /net/aspose.pdf/borderinfo/
 ---
 ## BorderInfo class

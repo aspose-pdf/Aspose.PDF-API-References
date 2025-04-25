@@ -3,7 +3,7 @@ title: Class PaperSize
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperSize class. Specifies the size of a piece of paper
 type: docs
-weight: 9570
+weight: 9680
 url: /net/aspose.pdf.printing/papersize/
 ---
 ## PaperSize class

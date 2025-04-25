@@ -3,7 +3,7 @@ title: Class PaperSizes
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperSizes class. Represents the standard paper sizes
 type: docs
-weight: 9590
+weight: 9700
 url: /net/aspose.pdf.printing/papersizes/
 ---
 ## PaperSizes class

@@ -3,7 +3,7 @@ title: Class CreateFineTuningJobRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.CreateFineTuningJobRequest class. Represents a request for the Create FineTuning Job endpoint
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
 ## CreateFineTuningJobRequest class

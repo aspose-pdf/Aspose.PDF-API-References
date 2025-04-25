@@ -3,7 +3,7 @@ title: Class Usage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Usage class. Represents usage statistics for a request
 type: docs
-weight: 1250
+weight: 1340
 url: /net/aspose.pdf.ai/usage/
 ---
 ## Usage class

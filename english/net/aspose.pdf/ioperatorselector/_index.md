@@ -3,7 +3,7 @@ title: Interface IOperatorSelector
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.IOperatorSelector interface. Defines Visitor for visiting different pdf operators
 type: docs
-weight: 5790
+weight: 5910
 url: /net/aspose.pdf/ioperatorselector/
 ---
 ## IOperatorSelector interface

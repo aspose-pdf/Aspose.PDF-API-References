@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithTemperature
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the temperature for the summary copilot options
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
 ## OpenAISummaryCopilotOptions.WithTemperature method

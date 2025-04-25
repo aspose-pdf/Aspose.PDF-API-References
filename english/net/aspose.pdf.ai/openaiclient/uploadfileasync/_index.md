@@ -3,7 +3,7 @@ title: OpenAIClient.UploadFileAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Uploads a file asynchronously to the OpenAI server
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.pdf.ai/openaiclient/uploadfileasync/
 ---
 ## OpenAIClient.UploadFileAsync method

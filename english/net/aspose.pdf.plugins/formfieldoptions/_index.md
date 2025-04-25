@@ -3,7 +3,7 @@ title: Class FormFieldOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormFieldOptions class. Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions
 type: docs
-weight: 8710
+weight: 8820
 url: /net/aspose.pdf.plugins/formfieldoptions/
 ---
 ## FormFieldOptions class

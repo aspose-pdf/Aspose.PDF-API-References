@@ -3,7 +3,7 @@ title: Enum CaretSymbol
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CaretSymbol enum. A symbol to be associated with the caret
 type: docs
-weight: 1570
+weight: 1660
 url: /net/aspose.pdf.annotations/caretsymbol/
 ---
 ## CaretSymbol enumeration

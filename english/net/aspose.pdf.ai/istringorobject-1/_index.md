@@ -3,7 +3,7 @@ title: Interface IStringOrObjectT
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IStringOrObject1T interface. Represents an object that can be either a string value or an object value
 type: docs
-weight: 570
+weight: 620
 url: /net/aspose.pdf.ai/istringorobject-1/
 ---
 ## IStringOrObject&lt;T&gt; interface

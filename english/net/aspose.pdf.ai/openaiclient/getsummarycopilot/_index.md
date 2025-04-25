@@ -3,7 +3,7 @@ title: OpenAIClient.GetSummaryCopilot
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Gets an instance of ISummaryCopilot with the specified options
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
 ## OpenAIClient.GetSummaryCopilot method

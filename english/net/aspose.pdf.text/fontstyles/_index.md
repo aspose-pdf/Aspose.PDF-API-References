@@ -3,7 +3,7 @@ title: Enum FontStyles
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.FontStyles enum. Specifies style information applied to text
 type: docs
-weight: 10570
+weight: 10700
 url: /net/aspose.pdf.text/fontstyles/
 ---
 ## FontStyles enumeration

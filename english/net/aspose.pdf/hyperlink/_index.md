@@ -3,7 +3,7 @@ title: Class Hyperlink
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Hyperlink class. Represents abstract hyperlink
 type: docs
-weight: 5740
+weight: 5860
 url: /net/aspose.pdf/hyperlink/
 ---
 ## Hyperlink class

@@ -3,7 +3,7 @@ title: Class ImageFile
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ImageFile class. Represents an image File in the content of a message
 type: docs
-weight: 630
+weight: 680
 url: /net/aspose.pdf.ai/imagefile/
 ---
 ## ImageFile class

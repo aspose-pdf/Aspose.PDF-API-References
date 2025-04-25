@@ -3,7 +3,7 @@ title: Class FormOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormOptions class. Represents options for a family Form.... plugins
 type: docs
-weight: 8770
+weight: 8880
 url: /net/aspose.pdf.plugins/formoptions/
 ---
 ## FormOptions class

@@ -3,7 +3,7 @@ title: Class ObsoleteFill
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.ObsoleteFill class. Class representing F operator fill path using nonzero winding rule
 type: docs
-weight: 7530
+weight: 7650
 url: /net/aspose.pdf.operators/obsoletefill/
 ---
 ## ObsoleteFill class

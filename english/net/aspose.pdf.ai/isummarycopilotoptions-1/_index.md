@@ -3,7 +3,7 @@ title: Interface ISummaryCopilotOptionsTOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions interface. Represents an interface for summary copilot options with a specific type
 type: docs
-weight: 600
+weight: 650
 url: /net/aspose.pdf.ai/isummarycopilotoptions-1/
 ---
 ## ISummaryCopilotOptions&lt;TOptions&gt; interface

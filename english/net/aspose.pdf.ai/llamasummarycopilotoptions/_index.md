@@ -3,7 +3,7 @@ title: Class LlamaSummaryCopilotOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.LlamaSummaryCopilotOptions class. Represents the options for configuring the OpenAICopilot
 type: docs
-weight: 750
+weight: 800
 url: /net/aspose.pdf.ai/llamasummarycopilotoptions/
 ---
 ## LlamaSummaryCopilotOptions class

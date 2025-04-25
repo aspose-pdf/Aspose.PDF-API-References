@@ -3,7 +3,7 @@ title: Class FormCheckBoxFieldCreateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormCheckBoxFieldCreateOptions class. Represents options for creating CheckBoxField by FormEditor plugin
 type: docs
-weight: 8580
+weight: 8690
 url: /net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/
 ---
 ## FormCheckBoxFieldCreateOptions class

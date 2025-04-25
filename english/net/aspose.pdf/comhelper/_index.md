@@ -3,7 +3,7 @@ title: Class ComHelper
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ComHelper class. Provides methods for COM clients to load a document into Aspose.Pdf
 type: docs
-weight: 3130
+weight: 3230
 url: /net/aspose.pdf/comhelper/
 ---
 ## ComHelper class

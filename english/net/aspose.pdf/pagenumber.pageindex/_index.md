@@ -3,7 +3,7 @@ title: Class PageNumber.PageIndex
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageNumberPageIndex class. Represents the page index component in the page number format
 type: docs
-weight: 8210
+weight: 8330
 url: /net/aspose.pdf/pagenumber.pageindex/
 ---
 ## PageNumber.PageIndex class

@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithModel
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the model for the chat copilot options
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
 ## OpenAIChatCopilotOptions.WithModel method

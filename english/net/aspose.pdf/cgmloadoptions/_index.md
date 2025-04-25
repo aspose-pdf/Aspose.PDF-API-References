@@ -3,7 +3,7 @@ title: Class CgmLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CgmLoadOptions class. Contains options for loading/importing CGM file into pdf document
 type: docs
-weight: 3010
+weight: 3110
 url: /net/aspose.pdf/cgmloadoptions/
 ---
 ## CgmLoadOptions class

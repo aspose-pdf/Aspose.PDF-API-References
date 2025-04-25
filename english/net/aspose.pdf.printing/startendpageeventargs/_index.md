@@ -3,7 +3,7 @@ title: Class StartEndPageEventArgs
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.StartEndPageEventArgs class. Provides data for the StartPage and EndPage events of the PdfViewer class
 type: docs
-weight: 9710
+weight: 9820
 url: /net/aspose.pdf.printing/startendpageeventargs/
 ---
 ## StartEndPageEventArgs class

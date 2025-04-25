@@ -3,7 +3,7 @@ title: Class PageInformationAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PageInformationAnnotation class. Represents a Page Information annotation in a PDF document. This annotation contains the file name page number and the date and time of the annotation creation
 type: docs
-weight: 2260
+weight: 2350
 url: /net/aspose.pdf.annotations/pageinformationannotation/
 ---
 ## PageInformationAnnotation class

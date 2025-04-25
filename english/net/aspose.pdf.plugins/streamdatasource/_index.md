@@ -3,7 +3,7 @@ title: Class StreamDataSource
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.StreamDataSource class. Represents stream data source for load and save operations of a plugin
 type: docs
-weight: 9290
+weight: 9400
 url: /net/aspose.pdf.plugins/streamdatasource/
 ---
 ## StreamDataSource class

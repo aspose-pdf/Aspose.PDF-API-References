@@ -3,7 +3,7 @@ title: Class PolygonAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PolygonAnnotation class. Class representing polygon annotation
 type: docs
-weight: 2310
+weight: 2400
 url: /net/aspose.pdf.annotations/polygonannotation/
 ---
 ## PolygonAnnotation class
@@ -33,7 +33,7 @@ public sealed class PolygonAnnotation : PolyAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [EndingStyle](../../aspose.pdf.annotations/polyannotation/endingstyle/) { get; set; } | Gets or sets the style of second line ending. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Gets full qualified name of the annotation. |

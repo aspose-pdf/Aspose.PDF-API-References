@@ -3,7 +3,7 @@ title: Enum PdfToXlsOptions.ExcelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToXlsOptionsExcelFormat enum. Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX
 type: docs
-weight: 9160
+weight: 9270
 url: /net/aspose.pdf.plugins/pdftoxlsoptions.excelformat/
 ---
 ## PdfToXlsOptions.ExcelFormat enumeration

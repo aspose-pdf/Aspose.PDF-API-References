@@ -3,7 +3,7 @@ title: Class FormattedText
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FormattedText class. Class which represents formatted text. Contains information about text and its color size style
 type: docs
-weight: 4350
+weight: 4460
 url: /net/aspose.pdf.facades/formattedtext/
 ---
 ## FormattedText class

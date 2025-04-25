@@ -3,7 +3,7 @@ title: Class BatesNArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BatesNArtifact class. Class describes Bates Numbering artifact
 type: docs
-weight: 2850
+weight: 2950
 url: /net/aspose.pdf/batesnartifact/
 ---
 ## BatesNArtifact class

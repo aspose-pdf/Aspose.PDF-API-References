@@ -3,7 +3,7 @@ title: Class PdfAConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfAConverter class. Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A conformance
 type: docs
-weight: 9000
+weight: 9110
 url: /net/aspose.pdf.plugins/pdfaconverter/
 ---
 ## PdfAConverter class

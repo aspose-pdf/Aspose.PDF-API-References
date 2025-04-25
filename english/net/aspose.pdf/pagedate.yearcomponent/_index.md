@@ -3,7 +3,7 @@ title: Class PageDate.YearComponent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageDateYearComponent class. Represents the year component of a date
 type: docs
-weight: 8140
+weight: 8260
 url: /net/aspose.pdf/pagedate.yearcomponent/
 ---
 ## PageDate.YearComponent class

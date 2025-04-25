@@ -3,7 +3,7 @@ title: Class RunCreateRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.RunCreateRequest class. Represents a request to create a run
 type: docs
-weight: 980
+weight: 1060
 url: /net/aspose.pdf.ai/runcreaterequest/
 ---
 ## RunCreateRequest class

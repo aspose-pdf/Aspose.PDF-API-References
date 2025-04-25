@@ -3,7 +3,7 @@ title: Interface IChatCopilotOptionsTOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IChatCopilotOptions1TOptions interface. Represents an interface for chat copilot options with a specific type
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.pdf.ai/ichatcopilotoptions-1/
 ---
 ## IChatCopilotOptions&lt;TOptions&gt; interface

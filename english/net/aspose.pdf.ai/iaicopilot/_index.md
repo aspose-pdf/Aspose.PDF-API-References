@@ -3,7 +3,7 @@ title: Interface IAICopilot
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.IAICopilot interface. Represents a copilot for AI interactions
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.pdf.ai/iaicopilot/
 ---
 ## IAICopilot interface

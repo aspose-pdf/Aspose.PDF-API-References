@@ -3,7 +3,7 @@ title: Document.Decrypt
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Decrypts the document. Call then Save to obtain decrypted version of the document
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.pdf/document/decrypt/
 ---
 ## Document.Decrypt method

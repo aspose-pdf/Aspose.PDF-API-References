@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the max completion tokens for the summary copilot options
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
 ## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method

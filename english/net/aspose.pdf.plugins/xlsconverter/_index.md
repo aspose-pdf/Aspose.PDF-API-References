@@ -3,7 +3,7 @@ title: Class XlsConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.XlsConverter class. Represents XlsConverter plugin
 type: docs
-weight: 9450
+weight: 9560
 url: /net/aspose.pdf.plugins/xlsconverter/
 ---
 ## XlsConverter class

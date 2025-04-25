@@ -3,7 +3,7 @@ title: OpenAIClient.GetRunAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Retrieves details of a specific run within a thread asynchronously
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.pdf.ai/openaiclient/getrunasync/
 ---
 ## OpenAIClient.GetRunAsync method

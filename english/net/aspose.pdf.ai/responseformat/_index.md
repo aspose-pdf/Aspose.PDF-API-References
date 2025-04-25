@@ -3,7 +3,7 @@ title: Class ResponseFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ResponseFormat class. Represents the format of a response which can be either a string value or an object value
 type: docs
-weight: 960
+weight: 1040
 url: /net/aspose.pdf.ai/responseformat/
 ---
 ## ResponseFormat class

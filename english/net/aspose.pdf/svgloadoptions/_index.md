@@ -3,7 +3,7 @@ title: Class SvgLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SvgLoadOptions class. Represents options for loading/importing SVG file into pdf document
 type: docs
-weight: 10210
+weight: 10340
 url: /net/aspose.pdf/svgloadoptions/
 ---
 ## SvgLoadOptions class

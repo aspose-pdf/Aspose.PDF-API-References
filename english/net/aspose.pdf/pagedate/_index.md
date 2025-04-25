@@ -3,7 +3,7 @@ title: Class PageDate
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageDate class. Represents a date format composed of day month and year components
 type: docs
-weight: 8110
+weight: 8230
 url: /net/aspose.pdf/pagedate/
 ---
 ## PageDate class

@@ -11,7 +11,7 @@ url: /net/aspose.pdf.annotations/markupannotation/creationdate/
 Gets date and time when annotation was created.
 
 ```csharp
-public DateTime CreationDate { get; }
+public DateTime CreationDate { get; set; }
 ```
 
 ### See Also

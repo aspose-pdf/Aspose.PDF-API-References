@@ -3,7 +3,7 @@ title: Class OpenAIClient
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.OpenAIClient class. Provides methods to interact with the OpenAI API for managing vector store file batches
 type: docs
-weight: 840
+weight: 900
 url: /net/aspose.pdf.ai/openaiclient/
 ---
 ## OpenAIClient class
@@ -32,8 +32,8 @@ Provides methods to interact with the OpenAI API for managing runs within thread
 
 ```csharp
 public class OpenAIClient : AIClientBase, IChatClient<OpenAIChatCopilotOptions>, 
-    IImageDescriptionClient<OpenAIImageDescriptionCopilotOptions>, IOpenAIClient, 
-    ISummaryClient<OpenAISummaryCopilotOptions>
+    IImageDescriptionClient<OpenAIImageDescriptionCopilotOptions>, 
+    IOcrClient<OpenAIOcrCopilotOptions>, IOpenAIClient, ISummaryClient<OpenAISummaryCopilotOptions>
 ```
 
 ## Properties
@@ -74,6 +74,7 @@ public class OpenAIClient : AIClientBase, IChatClient<OpenAIChatCopilotOptions>,
 | [GetFileAsync](../../aspose.pdf.ai/openaiclient/getfileasync/)(string, CancellationToken?) | Retrieves details of a specific file asynchronously. |
 | [GetFilesAsync](../../aspose.pdf.ai/openaiclient/getfilesasync/)(string, CancellationToken?) | Retrieves a list of files asynchronously based on the specified purpose. |
 | [GetImageDescriptionCopilot](../../aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;OpenAIImageDescriptionCopilotOptions&gt;) | Gets an instance of [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) with the specified options. |
+| [GetOcrCopilot](../../aspose.pdf.ai/openaiclient/getocrcopilot/)(IOcrCopilotOptions&lt;OpenAIOcrCopilotOptions&gt;) | Gets an instance of [`IOcrCopilot`](../iocrcopilot/) with the specified options. |
 | [GetRunAsync](../../aspose.pdf.ai/openaiclient/getrunasync/)(string, string, CancellationToken?) | Retrieves details of a specific run within a thread asynchronously. |
 | [GetRunsAsync](../../aspose.pdf.ai/openaiclient/getrunsasync/)(string, RunListQueryParameters, CancellationToken?) | Retrieves a list of runs for a specified thread asynchronously. |
 | [GetRunStepAsync](../../aspose.pdf.ai/openaiclient/getrunstepasync/)(string, string, string, CancellationToken?) | Retrieves details of a specific step within a run asynchronously. |
@@ -115,6 +116,8 @@ public class OpenAIClient : AIClientBase, IChatClient<OpenAIChatCopilotOptions>,
 * class [OpenAIChatCopilotOptions](../openaichatcopilotoptions/)
 * interface [IImageDescriptionClient&lt;TOptions&gt;](../iimagedescriptionclient-1/)
 * class [OpenAIImageDescriptionCopilotOptions](../openaiimagedescriptioncopilotoptions/)
+* interface [IOcrClient&lt;TOptions&gt;](../iocrclient-1/)
+* class [OpenAIOcrCopilotOptions](../openaiocrcopilotoptions/)
 * interface [IOpenAIClient](../iopenaiclient/)
 * interface [ISummaryClient&lt;TOptions&gt;](../isummaryclient-1/)
 * class [OpenAISummaryCopilotOptions](../openaisummarycopilotoptions/)

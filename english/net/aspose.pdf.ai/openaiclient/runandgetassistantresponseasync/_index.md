@@ -3,7 +3,7 @@ title: OpenAIClient.RunAndGetAssistantResponseAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Runs the assistant with the specified threadId and runCreateRequest and asynchronously gets the assistant response
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/
 ---
 ## OpenAIClient.RunAndGetAssistantResponseAsync method

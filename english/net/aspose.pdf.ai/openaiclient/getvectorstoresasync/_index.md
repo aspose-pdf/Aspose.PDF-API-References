@@ -3,7 +3,7 @@ title: OpenAIClient.GetVectorStoresAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Retrieves a list of vector stores asynchronously
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.pdf.ai/openaiclient/getvectorstoresasync/
 ---
 ## OpenAIClient.GetVectorStoresAsync method

@@ -3,7 +3,7 @@ title: OpenAIClient.GetThreadMessagesAsync
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIClient method. Retrieves a list of messages for a specific thread asynchronously
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
 ## OpenAIClient.GetThreadMessagesAsync method

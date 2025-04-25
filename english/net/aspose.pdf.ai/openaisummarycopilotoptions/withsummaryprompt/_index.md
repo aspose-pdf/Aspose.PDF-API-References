@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithSummaryPrompt
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the summary prompt for the summary copilot options
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
 ## OpenAISummaryCopilotOptions.WithSummaryPrompt method

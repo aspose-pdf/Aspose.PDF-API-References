@@ -3,7 +3,7 @@ title: OpenAISummaryCopilotOptions.WithInstructions
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAISummaryCopilotOptions method. Sets the instructions for the summary copilot options
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
 ---
 ## OpenAISummaryCopilotOptions.WithInstructions method

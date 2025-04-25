@@ -3,7 +3,7 @@ title: Class ThreadMessageListQueryParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ThreadMessageListQueryParameters class. Query parameters object for listing thread messages
 type: docs
-weight: 1130
+weight: 1220
 url: /net/aspose.pdf.ai/threadmessagelistqueryparameters/
 ---
 ## ThreadMessageListQueryParameters class

@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithInstructions
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the instructions for the chat copilot options
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
 ## OpenAIChatCopilotOptions.WithInstructions method

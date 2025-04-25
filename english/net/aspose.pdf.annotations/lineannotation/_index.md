@@ -3,7 +3,7 @@ title: Class LineAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.LineAnnotation class. Class representing line annotation
 type: docs
-weight: 1980
+weight: 2070
 url: /net/aspose.pdf.annotations/lineannotation/
 ---
 ## LineAnnotation class
@@ -35,7 +35,7 @@ public sealed class LineAnnotation : MarkupAnnotation
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Gets date and time when annotation was created. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Gets date and time when annotation was created. |
 | [Ending](../../aspose.pdf.annotations/lineannotation/ending/) { get; set; } | Gets or sets line ending point. |
 | [EndingStyle](../../aspose.pdf.annotations/lineannotation/endingstyle/) { get; set; } | Gets or sets ending style for end point of line. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |

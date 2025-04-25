@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithAssistantName
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets the assistant name for the chat copilot options
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/
 ---
 ## OpenAIChatCopilotOptions.WithAssistantName method

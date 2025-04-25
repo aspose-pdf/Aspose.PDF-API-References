@@ -3,7 +3,7 @@ title: Class ThreadCreateRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.ThreadCreateRequest class. Represents a request to create a thread
 type: docs
-weight: 1110
+weight: 1200
 url: /net/aspose.pdf.ai/threadcreaterequest/
 ---
 ## ThreadCreateRequest class

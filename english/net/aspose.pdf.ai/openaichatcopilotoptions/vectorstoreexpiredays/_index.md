@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.VectorStoreExpireDays
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions property. Gets or sets the number of days before the vector store expires
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 ---
 ## OpenAIChatCopilotOptions.VectorStoreExpireDays property

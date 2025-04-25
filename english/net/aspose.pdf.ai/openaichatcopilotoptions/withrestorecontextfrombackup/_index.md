@@ -3,7 +3,7 @@ title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
 second_title: Aspose.PDF for .NET API Reference
 description: OpenAIChatCopilotOptions method. Sets whether to restore the context from backup in the chat copilot options
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
 ## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
