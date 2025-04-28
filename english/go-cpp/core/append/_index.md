@@ -13,7 +13,7 @@ func (document *Document) Append(anotherdocument *Document) error
 ```
 
 **Parameters**: 
-  * **filename** - new filename
+  * **anotherdocument** - reference to PDF-document instance
 
 **Return**: 
   * **error** - contains an error or nil if absent
