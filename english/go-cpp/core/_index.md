@@ -19,6 +19,7 @@ url: /go-cpp/core/
 | [ExtractText](./extracttext/) | Return the PDF-document contents as plain text. |
 | [WordCount](./wordcount/) | Return word count in PDF-document. |
 | [CharacterCount](./charactercount/) | Return character count in PDF-document. |
+| [Append](./append/) | Append pages from another PDF-document. |
 | [PageAdd](./pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./pagedelete/) | Delete specified page in PDF-document. |
