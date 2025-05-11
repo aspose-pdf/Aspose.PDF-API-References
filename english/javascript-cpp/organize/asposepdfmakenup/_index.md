@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfMakeNUp"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Make N-Up document from a PDF-file"
+description:  "Make N-Up document from a PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfmakenup/
 ---
 
-_Make N-Up document from a PDF-file_
+_Make N-Up document from a PDF-file._
 
 ```js
 function AsposePdfMakeNUp(

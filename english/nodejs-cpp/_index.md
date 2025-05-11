@@ -90,6 +90,8 @@ is_root: true
 | [AsposePdfMakeBooklet](./organize/asposepdfmakebooklet/) | Make booklet from a PDF-file. |
 | [AsposePdfMakeNUp](./organize/asposepdfmakenup/) | Make N-Up document from a PDF-file. |
 | [AsposePdfDeleteBlankPages](./organize/asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
+| [AsposePdfEmbedFonts](./organize/asposepdfembedfonts/) | Embed fonts a PDF-file. |
+| [AsposePdfUnembedFonts](./organize/asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
 
 
 ## Metadata PDF functions

@@ -1,15 +1,15 @@
 ---
-title: "AsposePdfDeleteBlankPages"
+title: "AsposePdfUnembedFonts"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Delete blank pages from a PDF-file."
+description:  "Unembed fonts a PDF-file."
 type: docs
-url: /javascript-cpp/organize/asposepdfdeleteblankpages/
+url: /javascript-cpp/organize/asposepdfunembedfonts/
 ---
 
-_Delete blank pages from a PDF-file._
+_Unembed fonts a PDF-file._
 
 ```js
-function AsposePdfDeleteBlankPages(
+function AsposePdfUnembedFonts(
     fileBlob,
     fileName,
     fileNameResult 
@@ -38,11 +38,11 @@ JSON object
       (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "application/pdf", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
 
   /*Event handler*/
-  const ffileDeleteBlankPages = e => {
+  const ffileUnembedFonts = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Delete blank pages from a PDF-file and save the "ResultDeleteBlankPages.pdf" - Ask Web Worker*/
-      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfDeleteBlankPages', "params": [event.target.result, e.target.files[0].name, "ResultDeleteBlankPages.pdf"] }, [event.target.result]);
+      /*Unembed fonts a PDF-file and save the "ResultUnembedFonts.pdf" - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfUnembedFonts', "params": [event.target.result, e.target.files[0].name, "ResultUnembedFonts.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
@@ -61,11 +61,11 @@ JSON object
 ```
 **Simple example**:
 ```js
-  var ffileDeleteBlankPages = function (e) {
+  var ffileUnembedFonts = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Delete blank pages from a PDF-file and save the "ResultDeleteBlankPages.pdf"*/
-      const json = AsposePdfDeleteBlankPages(event.target.result, e.target.files[0].name, "ResultDeleteBlankPages.pdf");
+      /*Unembed fonts a PDF-file and save the "ResultUnembedFonts.pdf"*/
+      const json = AsposePdfUnembedFonts(event.target.result, e.target.files[0].name, "ResultUnembedFonts.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
       else document.getElementById('output').textContent = json.errorText;
       /*Make a link to download the result file*/
