@@ -274,7 +274,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Permissions](./permissions/) | This enum represents user's permissions for a pdf. |
 | [PrintDuplex](./printduplex/) | The paper handling option to use when printing the file from the print dialog.. |
 | [PrintScaling](./printscaling/) | The page scaling option that shall be selected when a print dialog is displayed for this document. |
-| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate, Documentize. |
+| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate. |
 | [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types that can occure during conversion. |
 | [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [IWarningCallback::Warning(Aspose::Pdf::WarningInfo)](../) method. |
 | [Rotation](./rotation/) | Enumeration of possible rotation values. |

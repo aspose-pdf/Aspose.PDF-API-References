@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Tagged::ITaggedContent::Save method. Saves the current state of the tagged content to the associated PDF document in C++.'
 type: docs
-weight: 3900
+weight: 4200
 url: /cpp/aspose.pdf.tagged/itaggedcontent/save/
 ---
 ## ITaggedContent::Save method

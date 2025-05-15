@@ -4,7 +4,7 @@ linktitle: MakeFormAnnotationsIndependent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::MakeFormAnnotationsIndependent method. Makes form fields annotations independent in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
 ## Form::MakeFormAnnotationsIndependent method

@@ -4,7 +4,7 @@ linktitle: CreateNonStructElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateNonStructElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
 ## ITaggedContent::CreateNonStructElement method

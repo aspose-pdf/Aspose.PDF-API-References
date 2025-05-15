@@ -21,6 +21,7 @@ class SignatureField : public Aspose::Pdf::Forms::Field
 | Method | Description |
 | --- | --- |
 | [ExtractCertificate](./extractcertificate/)() | Extracts the single X.509 certificate in DER format as a stream. |
+| [ExtractCertificateObject](./extractcertificateobject/)() | Extracts the single X.509 certificate object. |
 | [ExtractImage](./extractimage/)() | Extracts signature's image as jpeg encoded stream. |
 | [ExtractImage](./extractimage/)(System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) | Extracts signature's image as encoded stream. |
 | [get_Signature](./get_signature/)() | Gets signature object. This object contains signature data regarding public-key cryptographic standards. Classes [PKCS1](../pkcs1/), [PKCS7](../pkcs7/) and [PKCS7Detached](../pkcs7detached/) represent all supported types of signature objects. |

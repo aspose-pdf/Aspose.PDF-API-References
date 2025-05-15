@@ -4,7 +4,7 @@ linktitle: CreatePrivateElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreatePrivateElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
 ## ITaggedContent::CreatePrivateElement method

@@ -4,7 +4,7 @@ linktitle: GetFieldsInRect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::GetFieldsInRect method. Returns fields inside of specified rectangle in C++.'
 type: docs
-weight: 2300
+weight: 2500
 url: /cpp/aspose.pdf.forms/form/getfieldsinrect/
 ---
 ## Form::GetFieldsInRect method
