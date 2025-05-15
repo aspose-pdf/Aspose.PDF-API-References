@@ -13,7 +13,7 @@ func Open(filename string) (*Document, error)
 ```
 
 **Parameters**: 
-  * **Document** - pointer to document
+  * **\*Document** - pointer to document
   * **filename** - full file name of the PDF-document
 
 **Return**: 

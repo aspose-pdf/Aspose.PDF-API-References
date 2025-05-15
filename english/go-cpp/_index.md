@@ -99,6 +99,10 @@ type Document struct {
 | [WordCount](./core/wordcount/) | Return word count in PDF-document. |
 | [CharacterCount](./core/charactercount/) | Return character count in PDF-document. |
 | [Append](./core/append/) | Append pages from another PDF-document. |
+| [AppendPages](./core/appendpages/) | Append selected pages from another PDF-document. |
+| [MergeDocuments](./core/mergedocuments/) | Create a new PDF-document by merging the provided PDF-documents. |
+| [SplitDocument](./core/splitdocument/) | Create multiple new PDF-documents by extracting pages from the source PDF-document. |
+| [SplitAtPage](./core/splitatpage/) | Split the PDF-document into two new PDF-documents. |
 | [PageAdd](./core/pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./core/pagedelete/) | Delete specified page in PDF-document. |
