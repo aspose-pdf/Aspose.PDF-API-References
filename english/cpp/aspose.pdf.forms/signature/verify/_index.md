@@ -53,3 +53,32 @@ true if document is valid.
 * Class [Signature](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Signature::Verify(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::SharedPtr\<Aspose::Pdf::Security::ValidationOptions\>, System::SharedPtr\<Aspose::Pdf::Security::ValidationResult\>\&) method
+
+
+Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate.
+
+```cpp
+bool Aspose::Pdf::Forms::Signature::Verify(System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> publicKeyCertificate, System::SharedPtr<Aspose::Pdf::Security::ValidationOptions> options, System::SharedPtr<Aspose::Pdf::Security::ValidationResult> &validationResult)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| publicKeyCertificate | System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\> | The public key certificate for verification. |
+| options | System::SharedPtr\<Aspose::Pdf::Security::ValidationOptions\> | The verification options. |
+| validationResult | System::SharedPtr\<Aspose::Pdf::Security::ValidationResult\>\& | The certificate validation result. |
+
+### ReturnValue
+
+true if document is valid.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [X509Certificate2](../../../system.security.cryptography.x509certificates/x509certificate2/)
+* Class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* Class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* Class [Signature](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)

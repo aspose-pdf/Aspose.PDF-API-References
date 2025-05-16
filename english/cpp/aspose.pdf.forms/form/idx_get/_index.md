@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::idx_get method. Gets field of the form by field index in C++.'
 type: docs
-weight: 2500
+weight: 2700
 url: /cpp/aspose.pdf.forms/form/idx_get/
 ---
 ## Form::idx_get(int32_t) method

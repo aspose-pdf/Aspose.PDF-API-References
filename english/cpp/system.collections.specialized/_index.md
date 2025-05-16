@@ -4,7 +4,7 @@ linktitle: System::Collections::Specialized
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::Specialized namespace in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system.collections.specialized/
 ---
 

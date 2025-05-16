@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Tagged
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Tagged namespace. The Aspose.Pdf.Tagged is a namespace for classes for support of Tagged PDF documents in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.tagged/
 ---
 

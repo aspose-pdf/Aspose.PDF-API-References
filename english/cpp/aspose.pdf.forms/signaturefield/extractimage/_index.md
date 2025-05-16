@@ -4,7 +4,7 @@ linktitle: ExtractImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureField::ExtractImage method. Extracts signature''s image as jpeg encoded stream in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## SignatureField::ExtractImage() method

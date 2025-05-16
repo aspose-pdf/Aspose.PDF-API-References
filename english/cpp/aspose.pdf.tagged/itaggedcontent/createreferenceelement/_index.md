@@ -4,7 +4,7 @@ linktitle: CreateReferenceElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateReferenceElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 2100
+weight: 2400
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
 ## ITaggedContent::CreateReferenceElement method

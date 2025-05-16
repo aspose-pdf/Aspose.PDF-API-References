@@ -45,6 +45,8 @@ url: /nodejs-cpp/organize/
 | [AsposePdfMakeBooklet](./asposepdfmakebooklet/) | Make booklet from a PDF-file. |
 | [AsposePdfMakeNUp](./asposepdfmakenup/) | Make N-Up document from a PDF-file. |
 | [AsposePdfDeleteBlankPages](./asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
+| [AsposePdfEmbedFonts](./asposepdfembedfonts/) | Embed fonts a PDF-file. |
+| [AsposePdfUnembedFonts](./asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
 
 
 ## Detailed Description

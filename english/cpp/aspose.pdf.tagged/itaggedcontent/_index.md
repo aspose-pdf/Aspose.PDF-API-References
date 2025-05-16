@@ -34,7 +34,10 @@ class ITaggedContent : public virtual System::Object
 | virtual [CreateHeaderElement](./createheaderelement/)(int32_t) |  |
 | virtual [CreateIndexElement](./createindexelement/)() |  |
 | virtual [CreateLinkElement](./createlinkelement/)() |  |
-| virtual [CreateListElement](./createlistelement/)() |  |
+| virtual [CreateListElement](./createlistelement/)() | Creates [Aspose::Pdf::LogicalStructure::ListElement](../../aspose.pdf.logicalstructure/listelement/). |
+| virtual [CreateListLblElement](./createlistlblelement/)() | Creates [Aspose::Pdf::LogicalStructure::ListLblElement](../../aspose.pdf.logicalstructure/listlblelement/). |
+| virtual [CreateListLBodyElement](./createlistlbodyelement/)() | Creates [Aspose::Pdf::LogicalStructure::ListLBodyElement](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| virtual [CreateListLIElement](./createlistlielement/)() | Creates [Aspose::Pdf::LogicalStructure::ListLIElement](../../aspose.pdf.logicalstructure/listlielement/). |
 | virtual [CreateNonStructElement](./createnonstructelement/)() |  |
 | virtual [CreateNoteElement](./createnoteelement/)() |  |
 | virtual [CreateParagraphElement](./createparagraphelement/)() |  |

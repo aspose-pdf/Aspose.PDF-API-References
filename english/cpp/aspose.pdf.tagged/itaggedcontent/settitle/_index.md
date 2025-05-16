@@ -4,7 +4,7 @@ linktitle: SetTitle
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use SetTitle method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 4100
+weight: 4400
 url: /cpp/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
 ## ITaggedContent::SetTitle method

@@ -4,7 +4,7 @@ linktitle: get_StructureTextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_StructureTextState method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3700
+weight: 4000
 url: /cpp/aspose.pdf.tagged/itaggedcontent/get_structuretextstate/
 ---
 ## ITaggedContent::get_StructureTextState method

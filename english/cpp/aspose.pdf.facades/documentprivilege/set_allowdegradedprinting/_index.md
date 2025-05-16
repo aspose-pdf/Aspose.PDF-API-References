@@ -16,6 +16,10 @@ Sets the permission which allow degraded printing or not. true is allow and fals
 void Aspose::Pdf::Facades::DocumentPrivilege::set_AllowDegradedPrinting(bool value)
 ```
 
+## Remarks
+
+
+When set, printing will be limited to a low-level representation of the appearance, possibly of degraded quality. 
 ## See Also
 
 * Class [DocumentPrivilege](../)

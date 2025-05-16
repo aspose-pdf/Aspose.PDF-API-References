@@ -4,7 +4,7 @@ linktitle: CreateTableTFootElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateTableTFootElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 2800
+weight: 3100
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
 ## ITaggedContent::CreateTableTFootElement method

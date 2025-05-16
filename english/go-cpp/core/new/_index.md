@@ -15,7 +15,7 @@ func New() (*Document, error)
 **Parameters**: 
 
 **Return**:
-  * **Document** - pointer to document
+  * **\*Document** - pointer to document
   * **error** - contains an error or nil if absent
 
 

@@ -16,6 +16,11 @@ Represents information about interruption.
 class InterruptMonitor : public Aspose::Pdf::Multithreading::IInterruptMonitor
 ```
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [Dispose](./dispose/)() override | Does nothing. |
 ## See Also
 
 * Class [IInterruptMonitor](../iinterruptmonitor/)
