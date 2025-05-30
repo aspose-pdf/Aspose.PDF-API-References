@@ -47,6 +47,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfDeleteBlankPages](./asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
 | [AsposePdfEmbedFonts](./asposepdfembedfonts/) | Embed fonts a PDF-file. |
 | [AsposePdfUnembedFonts](./asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
+| [AsposePdfOptimizeFileSize](./asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 
 
 ## Detailed Description
