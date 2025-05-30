@@ -93,6 +93,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfDeleteBlankPages](./organize/asposepdfdeleteblankpages/) | Delete blank pages from a PDF-file. |
 | [AsposePdfEmbedFonts](./organize/asposepdfembedfonts/) | Embed fonts a PDF-file. |
 | [AsposePdfUnembedFonts](./organize/asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
+| [AsposePdfOptimizeFileSize](./organize/asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 
 
 ## Metadata PDF functions
