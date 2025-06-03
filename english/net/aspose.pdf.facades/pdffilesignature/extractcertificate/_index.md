@@ -20,7 +20,7 @@ public Stream ExtractCertificate(SignatureName signName)
 
 ### Return Value
 
-If certificate was found returns X.509 single certificate; otherwise, null.
+If a certificate was found returns X.509 single certificate; otherwise, null.
 
 ### See Also
 

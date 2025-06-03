@@ -3,7 +3,7 @@ title: Form.SignaturesExist
 second_title: Aspose.PDF for .NET API Reference
 description: Form property. If set the document contains at least one signature field
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.pdf.forms/form/signaturesexist/
 ---
 ## Form.SignaturesExist property

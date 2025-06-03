@@ -3,7 +3,7 @@ title: ITaggedContent.CreateSectElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates SectElement
 type: docs
-weight: 260
+weight: 290
 url: /net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
 ## ITaggedContent.CreateSectElement method

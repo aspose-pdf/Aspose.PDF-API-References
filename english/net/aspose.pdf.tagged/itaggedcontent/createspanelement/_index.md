@@ -3,7 +3,7 @@ title: ITaggedContent.CreateSpanElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates SpanElement
 type: docs
-weight: 270
+weight: 300
 url: /net/aspose.pdf.tagged/itaggedcontent/createspanelement/
 ---
 ## ITaggedContent.CreateSpanElement method

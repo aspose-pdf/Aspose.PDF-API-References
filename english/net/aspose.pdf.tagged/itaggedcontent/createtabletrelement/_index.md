@@ -3,7 +3,7 @@ title: ITaggedContent.CreateTableTRElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates TableTRElement
 type: docs
-weight: 340
+weight: 370
 url: /net/aspose.pdf.tagged/itaggedcontent/createtabletrelement/
 ---
 ## ITaggedContent.CreateTableTRElement method

@@ -3,7 +3,7 @@ title: ITaggedContent.CreateParagraphElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates ParagraphElement
 type: docs
-weight: 200
+weight: 230
 url: /net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
 ## ITaggedContent.CreateParagraphElement method

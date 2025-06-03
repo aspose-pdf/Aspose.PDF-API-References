@@ -3,7 +3,7 @@ title: ITaggedContent.CreateWarichuElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates WarichuElement
 type: docs
-weight: 370
+weight: 400
 url: /net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
 ## ITaggedContent.CreateWarichuElement method

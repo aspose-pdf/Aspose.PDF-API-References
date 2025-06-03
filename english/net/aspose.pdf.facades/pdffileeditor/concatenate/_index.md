@@ -1,108 +1,11 @@
 ---
 title: PdfFileEditor.Concatenate
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Concatenates two files
+description: PdfFileEditor method. Concatenates files into one file
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
-## Concatenate(string, string, string) {#concatenate_4}
-
-Concatenates two files.
-
-```csharp
-public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputFile | String | First file to concatenate. |
-| secInputFile | String | Second file to concatenate. |
-| outputFile | String | Output file. |
-
-### Return Value
-
-True if operation was succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
-```
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Concatenate(Stream, Stream, Stream) {#concatenate_1}
-
-Concatenates two files.
-
-```csharp
-public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream outputStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputStream | Stream | Stream of first file. |
-| secInputStream | Stream | Stream of second file. |
-| outputStream | Stream | Stream where result file will be stored. |
-
-### Return Value
-
-True if operation was succeeded.
-
-True if operation was succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
-Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
-Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
-fileEditor.Concatenate(stream1, stream2, outstream);
-```
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Concatenate(Document[], Document) {#concatenate}
-
-Concatenates documents.
-
-```csharp
-public bool Concatenate(Document[] src, Document dest)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | Document[] | Array of source documents. |
-| dest | Document | Destination document. |
-
-### Return Value
-
-True if concatenation is successful.
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Concatenate(string[], string) {#concatenate_6}
 
 Concatenates files into one file.
@@ -242,23 +145,32 @@ fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
+---
 
-## Concatenate(string[], HttpResponse) {#concatenate_8}
+## Concatenate(string, string, string) {#concatenate_4}
 
-Concatenates files and saves reslt into HttpResposnse object.
+Concatenates two files.
 
 ```csharp
-public bool Concatenate(string[] inputFiles, HttpResponse response)
+public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | String[] | Array of files to concatenate. |
-| response | HttpResponse | Response object. |
+| firstInputFile | String | First file to concatenate. |
+| secInputFile | String | Second file to concatenate. |
+| outputFile | String | Output file. |
 
 ### Return Value
 
-true if concatenation was successful.
+True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
+```
 
 ### See Also
 
@@ -268,25 +180,64 @@ true if concatenation was successful.
 
 ---
 
-## Concatenate(Stream[], HttpResponse) {#concatenate_4}
+## Concatenate(Stream, Stream, Stream) {#concatenate_1}
 
-Concatenates files and stores result into HttpResponse object.
+Concatenates two files.
 
 ```csharp
-public bool Concatenate(Stream[] inputStream, HttpResponse response)
+public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream[] | Streams array which contain files to concatenate. |
-| response | HttpResponse | Response object/ |
+| firstInputStream | Stream | Stream of first file. |
+| secInputStream | Stream | Stream of second file. |
+| outputStream | Stream | Stream where result file will be stored. |
 
 ### Return Value
 
-true if operation was succeeded.
+True if operation was succeeded.
+
+True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
+fileEditor.Concatenate(stream1, stream2, outstream);
+```
 
 ### See Also
 
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Concatenate(Document[], Document) {#concatenate}
+
+Concatenates documents.
+
+```csharp
+public bool Concatenate(Document[] src, Document dest)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | Document[] | Array of source documents. |
+| dest | Document | Destination document. |
+
+### Return Value
+
+True if concatenation is successful.
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

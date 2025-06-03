@@ -3,7 +3,7 @@ title: Form.Delete
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Delete field from the form
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}

@@ -3,7 +3,7 @@ title: ITaggedContent.CreateRubyElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates RubyElement
 type: docs
-weight: 250
+weight: 280
 url: /net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
 ## ITaggedContent.CreateRubyElement method

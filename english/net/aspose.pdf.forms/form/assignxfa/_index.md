@@ -3,7 +3,7 @@ title: Form.AssignXfa
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Sets XFA of the form to specified value
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.pdf.forms/form/assignxfa/
 ---
 ## Form.AssignXfa method

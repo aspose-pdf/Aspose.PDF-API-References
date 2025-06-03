@@ -21,7 +21,7 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 
 ### Return Value
 
-[`TextSegmentCollection`](../../textsegmentcollection/) containing text segments represeting text substring starting at a specifing position and having a specified length.
+[`TextSegmentCollection`](../../textsegmentcollection/) containing text segments representing text substring starting at a specified position and having a specified length.
 
 ### See Also
 

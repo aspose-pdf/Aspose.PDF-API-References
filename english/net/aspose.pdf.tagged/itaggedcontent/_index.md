@@ -41,6 +41,9 @@ public interface ITaggedContent
 | [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | Creates [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
 | [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | Creates [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
 | [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | Creates [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateListLblElement](../../aspose.pdf.tagged/itaggedcontent/createlistlblelement/)() | Creates [`ListLblElement`](../../aspose.pdf.logicalstructure/listlblelement/). |
+| [CreateListLBodyElement](../../aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/)() | Creates [`ListLBodyElement`](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| [CreateListLIElement](../../aspose.pdf.tagged/itaggedcontent/createlistlielement/)() | Creates [`ListLIElement`](../../aspose.pdf.logicalstructure/listlielement/). |
 | [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | Creates [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
 | [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | Creates [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
 | [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | Creates [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |

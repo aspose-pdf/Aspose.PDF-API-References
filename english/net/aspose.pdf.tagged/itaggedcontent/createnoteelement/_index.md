@@ -3,7 +3,7 @@ title: ITaggedContent.CreateNoteElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates NoteElement
 type: docs
-weight: 190
+weight: 220
 url: /net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
 ## ITaggedContent.CreateNoteElement method

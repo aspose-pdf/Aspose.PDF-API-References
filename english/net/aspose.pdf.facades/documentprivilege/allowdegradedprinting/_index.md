@@ -14,6 +14,10 @@ Sets the permission which allow degraded printing or not. true is allow and fals
 public bool AllowDegradedPrinting { get; set; }
 ```
 
+## Remarks
+
+When set, printing will be limited to a low-level representation of the appearance, possibly of degraded quality.
+
 ### See Also
 
 * class [DocumentPrivilege](../)

@@ -3,7 +3,7 @@ title: Form.CopyTo
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Copies fields placed on the form into array
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.pdf.forms/form/copyto/
 ---
 ## Form.CopyTo method
