@@ -3,7 +3,7 @@ title: Form.GetFieldsInRect
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Returns fields inside of specified rectangle
 type: docs
-weight: 270
+weight: 290
 url: /net/aspose.pdf.forms/form/getfieldsinrect/
 ---
 ## Form.GetFieldsInRect method

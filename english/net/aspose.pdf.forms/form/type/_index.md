@@ -3,7 +3,7 @@ title: Form.Type
 second_title: Aspose.PDF for .NET API Reference
 description: Form property. Gets type of the form. Possible values are Standard Static Dynamic
 type: docs
-weight: 160
+weight: 180
 url: /net/aspose.pdf.forms/form/type/
 ---
 ## Form.Type property

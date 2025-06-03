@@ -3,7 +3,7 @@ title: SignatureField.Sign
 second_title: Aspose.PDF for .NET API Reference
 description: SignatureField method. Signs the document using this signature field
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.forms/signaturefield/sign/
 ---
 ## Sign(Signature, Stream, string) {#sign_1}

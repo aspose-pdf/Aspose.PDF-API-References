@@ -3,7 +3,7 @@ title: Form.Flatten
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Removes all form fields and place their values directly on the page
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.pdf.forms/form/flatten/
 ---
 ## Form.Flatten method

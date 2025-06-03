@@ -1,45 +1,33 @@
 ---
 title: Document.Save
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Stores document into stream
+description: Document method. Saves the document to a stream with a save options
 type: docs
 weight: 840
 url: /net/aspose.pdf/document/save/
 ---
-## Save(Stream) {#save_2}
+## Save(Stream, SaveOptions) {#save_4}
 
-Stores document into stream.
+Saves the document to a stream with a save options.
 
 ```csharp
-public void Save(Stream output)
+public void Save(Stream outputStream, SaveOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
+| outputStream | Stream | Stream where the document will be stored. |
+| options | SaveOptions | Save options. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_5}
-
-Saves document into the specified file.
-
-```csharp
-public void Save(string outputFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-
-### See Also
-
+* class [SaveOptions](../../saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -159,28 +147,40 @@ public void Save(string outputFileName, SaveOptions options)
 
 ---
 
-## Save(Stream, SaveOptions) {#save_4}
+## Save(Stream) {#save_2}
 
-Saves the document to a stream with a save options.
+Stores document into stream.
 
 ```csharp
-public void Save(Stream outputStream, SaveOptions options)
+public void Save(Stream output)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | Stream | Stream where the document will be stored. |
-| options | SaveOptions | Save options. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
+| output | Stream | Stream where document shell be stored. |
 
 ### See Also
 
-* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string) {#save_5}
+
+Saves document into the specified file.
+
+```csharp
+public void Save(string outputFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+
+### See Also
+
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

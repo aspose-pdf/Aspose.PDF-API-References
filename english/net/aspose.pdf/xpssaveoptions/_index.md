@@ -27,9 +27,11 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 | [BatchSize](../../aspose.pdf/xpssaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
 | [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [DefaultFont](../../aspose.pdf/xpssaveoptions/defaultfont/) { get; set; } | Gets/sets the default font name. Used if the embedded font name is not found in the system. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
 | [SaveTransparentTexts](../../aspose.pdf/xpssaveoptions/savetransparenttexts/) { get; set; } | Indicates whether to preserve transparent (OCR'ed) text. |
+| [UseEmbeddedTrueTypeFonts](../../aspose.pdf/xpssaveoptions/useembeddedtruetypefonts/) { get; set; } | Gets/sets the flag to use embedded TrueType fonts. Avoiding the use of embedded TrueType fonts can reduce conversion time. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields

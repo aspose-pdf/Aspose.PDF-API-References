@@ -3,7 +3,7 @@ title: Form.Add
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Adds field on the form
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.pdf.forms/form/add/
 ---
 ## Add(Field, int) {#add_2}

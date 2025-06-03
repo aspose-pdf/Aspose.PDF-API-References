@@ -3,7 +3,7 @@ title: Form.AddFieldAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Adds additional appearance of the field to specified page of the document in the specified location
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.pdf.forms/form/addfieldappearance/
 ---
 ## Form.AddFieldAppearance method

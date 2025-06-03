@@ -3,7 +3,7 @@ title: ITaggedContent.CreateTOCElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates TOCElement
 type: docs
-weight: 350
+weight: 380
 url: /net/aspose.pdf.tagged/itaggedcontent/createtocelement/
 ---
 ## ITaggedContent.CreateTOCElement method

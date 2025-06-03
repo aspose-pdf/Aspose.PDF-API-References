@@ -3,7 +3,7 @@ title: SignatureField.ExtractImage
 second_title: Aspose.PDF for .NET API Reference
 description: SignatureField method. Extracts signatures image as jpeg encoded stream
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}

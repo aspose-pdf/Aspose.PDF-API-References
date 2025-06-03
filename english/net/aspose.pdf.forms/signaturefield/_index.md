@@ -85,6 +85,7 @@ public sealed class SignatureField : Field
 | [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(string, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the specified file. |
 | [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exports the content of the specified field into a JSON stream. Button field value are not exported. |
 | [ExtractCertificate](../../aspose.pdf.forms/signaturefield/extractcertificate/)() | Extracts the single X.509 certificate in DER format as a stream. |
+| [ExtractCertificateObject](../../aspose.pdf.forms/signaturefield/extractcertificateobject/)() | Extracts the single X.509 certificate object. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage)() | Extracts signature's image as jpeg encoded stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage_1)(ImageFormat) | Extracts signature's image as encoded stream. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten/)() | Removes this field and place its value directly on the page. |

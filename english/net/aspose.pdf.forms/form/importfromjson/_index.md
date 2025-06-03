@@ -3,7 +3,7 @@ title: Form.ImportFromJson
 second_title: Aspose.PDF for .NET API Reference
 description: Form method. Imports the PDF form fields from JSON format provided in the stream
 type: docs
-weight: 290
+weight: 310
 url: /net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}

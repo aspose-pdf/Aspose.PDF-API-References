@@ -3,7 +3,7 @@ title: ITaggedContent.Save
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Saves the current state of the tagged content to the associated PDF document
 type: docs
-weight: 390
+weight: 420
 url: /net/aspose.pdf.tagged/itaggedcontent/save/
 ---
 ## ITaggedContent.Save method

@@ -3,7 +3,7 @@ title: ITaggedContent.CreateReferenceElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates ReferenceElement
 type: docs
-weight: 240
+weight: 270
 url: /net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
 ## ITaggedContent.CreateReferenceElement method

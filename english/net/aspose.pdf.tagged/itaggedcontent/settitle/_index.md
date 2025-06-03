@@ -3,7 +3,7 @@ title: ITaggedContent.SetTitle
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Sets title for PDF document
 type: docs
-weight: 410
+weight: 440
 url: /net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
 ## ITaggedContent.SetTitle method

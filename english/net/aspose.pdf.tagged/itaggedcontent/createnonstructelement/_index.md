@@ -3,7 +3,7 @@ title: ITaggedContent.CreateNonStructElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates NonStructElement
 type: docs
-weight: 180
+weight: 210
 url: /net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
 ## ITaggedContent.CreateNonStructElement method

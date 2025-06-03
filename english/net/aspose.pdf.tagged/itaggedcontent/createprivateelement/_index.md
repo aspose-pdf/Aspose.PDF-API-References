@@ -3,7 +3,7 @@ title: ITaggedContent.CreatePrivateElement
 second_title: Aspose.PDF for .NET API Reference
 description: ITaggedContent method. Creates PrivateElement
 type: docs
-weight: 220
+weight: 250
 url: /net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
 ## ITaggedContent.CreatePrivateElement method
