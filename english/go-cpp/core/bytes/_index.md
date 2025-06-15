@@ -9,13 +9,13 @@ url: /go-cpp/core/bytes/
 _Return the contents of the PDF-document as a byte slice._
 
 ```go
-func Bytes() ([]byte, error)
+func (document *Document) Bytes() ([]byte, error)
 ```
 
 **Parameters**: 
 
 **Return**:
-  * **[]byte** - raw bytes of the PDF-document
+  * **\[\]byte** - raw bytes of the PDF-document
   * **error** - contains an error or nil if absent
 
 
