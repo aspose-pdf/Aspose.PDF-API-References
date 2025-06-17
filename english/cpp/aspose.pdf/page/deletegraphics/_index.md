@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/deletegraphics/
 Deletes graphics from the page. Works faster than deleting elements one by one with [GraphicElement::Remove](../) method.
 
 ```cpp
-void Aspose::Pdf::Page::DeleteGraphics(System::SharedPtr<Vector::GraphicElementCollection> elementsToDelete)
+void Aspose::Pdf::Page::DeleteGraphics(System::SharedPtr<Aspose::Pdf::Vector::GraphicElementCollection> elementsToDelete)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elementsToDelete | System::SharedPtr\<Vector::GraphicElementCollection\> | Graphics collection that will be deleted from the page. |
+| elementsToDelete | System::SharedPtr\<Aspose::Pdf::Vector::GraphicElementCollection\> | Graphics collection that will be deleted from the page. |
 
 ## See Also
 

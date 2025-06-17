@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_header/
 Gets page header.
 
 ```cpp
-System::SharedPtr<HeaderFooter> Aspose::Pdf::Page::get_Header() const
+System::SharedPtr<Aspose::Pdf::HeaderFooter> Aspose::Pdf::Page::get_Header() const
 ```
 
 ## Remarks

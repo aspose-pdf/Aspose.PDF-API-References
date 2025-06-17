@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_actions/
 Gets collection of page properties.
 
 ```cpp
-System::SharedPtr<PageActionCollection> Aspose::Pdf::Page::get_Actions()
+System::SharedPtr<Aspose::Pdf::PageActionCollection> Aspose::Pdf::Page::get_Actions()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_Rotation method. Sets signature rotation in C++.'
 type: docs
-weight: 3300
+weight: 3500
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_rotation/
 ---
 ## SignatureCustomAppearance::set_Rotation method

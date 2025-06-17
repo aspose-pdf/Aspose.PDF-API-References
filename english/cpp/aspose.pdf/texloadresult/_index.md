@@ -4,7 +4,7 @@ linktitle: TeXLoadResult
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXLoadResult enum. Results for TeX load and compiling in C++.'
 type: docs
-weight: 26500
+weight: 26600
 url: /cpp/aspose.pdf/texloadresult/
 ---
 ## TeXLoadResult enum

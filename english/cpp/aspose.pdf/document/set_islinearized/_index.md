@@ -4,7 +4,7 @@ linktitle: set_IsLinearized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_IsLinearized method. Sets a value indicating whether document is linearized in C++.'
 type: docs
-weight: 10200
+weight: 10400
 url: /cpp/aspose.pdf/document/set_islinearized/
 ---
 ## Document::set_IsLinearized method

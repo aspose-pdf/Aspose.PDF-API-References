@@ -4,7 +4,7 @@ linktitle: set_DigitalSignedLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSignedLabel method. Gets/sets digital signed label. Default value: "Digitally signed by" in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_digitalsignedlabel/
 ---
 ## SignatureCustomAppearance::set_DigitalSignedLabel method

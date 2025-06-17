@@ -45,6 +45,8 @@ class FreeTextAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [set_StartingStyle](./set_startingstyle/)(LineEnding) | Sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle. |
 | [set_TextRectangle](./set_textrectangle/)(System::SharedPtr\<Rectangle\>) | [Rectangle](../../aspose.pdf/rectangle/) describing the numerical differences between two rectangles: the Rect entry of the annotation and a rectangle contained within that rectangle. The inner rectangle is where the annotation's text should be displayed. |
 | [set_TextStyle](./set_textstyle/)(System::SharedPtr\<Aspose::Pdf::Annotations::TextStyle\>) | Sets style of the text in appearance. when text style is changed, text appearance is updated. |
+| [SetTextStyle](./settextstyle/)(RichTextFontStyles, System::String, double, System::Drawing::Color) | Sets the formatting determined by the parameter textStyle for all annotation text. |
+| [SetTextStyle](./settextstyle/)(int32_t, int32_t, RichTextFontStyles) | Sets the formatting determined by the parameter textStyle for a text fragment from fromInd index to toInd index. |
 ## See Also
 
 * Class [MarkupAnnotation](../markupannotation/)

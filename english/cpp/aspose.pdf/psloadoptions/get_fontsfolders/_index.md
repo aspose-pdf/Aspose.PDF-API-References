@@ -4,7 +4,7 @@ linktitle: get_FontsFolders
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PsLoadOptions::get_FontsFolders method. Gets fonts folders paths in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/psloadoptions/get_fontsfolders/
 ---
 ## PsLoadOptions::get_FontsFolders method

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_background/
 Sets the background color of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_Background(System::SharedPtr<Color> value)
+void Aspose::Pdf::Page::set_Background(System::SharedPtr<Aspose::Pdf::Color> value)
 ```
 
 ## See Also

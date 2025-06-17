@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/rotationtoint/
 Translates rotation enumeration member into integer value.
 
 ```cpp
-static int32_t Aspose::Pdf::Page::RotationToInt(Rotation rotation)
+static int32_t Aspose::Pdf::Page::RotationToInt(Aspose::Pdf::Rotation rotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | Rotation | Rotation enumeratioom member. |
+| rotation | Aspose::Pdf::Rotation | Rotation enumeratioom member. |
 
 ### ReturnValue
 

@@ -16,14 +16,6 @@ Contains additional information about OnSegmentChangedEvent that is delivered to
 class OnSegmentChangedEventArgs : public System::EventArgs
 ```
 
-## Methods
-
-| Method | Description |
-| --- | --- |
-| [get_InitialSegmentTextLength](./get_initialsegmenttextlength/)() const |  |
-| [get_SegmentAfter](./get_segmentafter/)() const |  |
-| [get_SegmentChanged](./get_segmentchanged/)() const |  |
-| [OnSegmentChangedEventArgs](./onsegmentchangedeventargs/)(System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Segmenting::PhysicalTextSegment\>, System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Segmenting::PhysicalTextSegment\>, int32_t) |  |
 ## Fields
 
 | Field | Description |

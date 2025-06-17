@@ -4,7 +4,7 @@ linktitle: DetectColorType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::DetectColorType method. Returns color type of image in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/aspose.pdf/ximage/detectcolortype/
 ---
 ## XImage::DetectColorType method

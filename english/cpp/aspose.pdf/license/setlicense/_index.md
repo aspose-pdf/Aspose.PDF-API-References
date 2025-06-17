@@ -4,7 +4,7 @@ linktitle: SetLicense
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::License::SetLicense method. Licenses the component in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf/license/setlicense/
 ---
 ## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method

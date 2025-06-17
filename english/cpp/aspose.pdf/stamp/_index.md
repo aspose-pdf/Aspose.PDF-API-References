@@ -4,7 +4,7 @@ linktitle: Stamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp class. An abstract class for various kinds of stamps which come as descendants in C++.'
 type: docs
-weight: 17000
+weight: 17100
 url: /cpp/aspose.pdf/stamp/
 ---
 ## Stamp class

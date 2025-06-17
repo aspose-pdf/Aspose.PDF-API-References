@@ -4,7 +4,7 @@ linktitle: set_Direction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_Direction method. Sets reading order of text: L2R (left to right) or R2L (right to left) in C++.'
 type: docs
-weight: 8900
+weight: 9000
 url: /cpp/aspose.pdf/document/set_direction/
 ---
 ## Document::set_Direction method

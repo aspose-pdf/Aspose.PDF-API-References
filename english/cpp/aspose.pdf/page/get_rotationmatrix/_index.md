@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_rotationmatrix/
 Gets transofmation matrix for the page.
 
 ```cpp
-System::SharedPtr<Matrix> Aspose::Pdf::Page::get_RotationMatrix()
+System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Page::get_RotationMatrix()
 ```
 
 ## See Also

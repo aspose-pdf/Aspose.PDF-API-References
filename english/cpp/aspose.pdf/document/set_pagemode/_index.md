@@ -4,7 +4,7 @@ linktitle: set_PageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_PageMode method. Sets page mode, specifying how document should be displayed when opened in C++.'
 type: docs
-weight: 10900
+weight: 11100
 url: /cpp/aspose.pdf/document/set_pagemode/
 ---
 ## Document::set_PageMode method

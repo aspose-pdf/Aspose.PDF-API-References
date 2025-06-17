@@ -4,7 +4,7 @@ linktitle: PdfXmlSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfXmlSaveOptions class. Save options for PdfXml format in C++.'
 type: docs
-weight: 15300
+weight: 15400
 url: /cpp/aspose.pdf/pdfxmlsaveoptions/
 ---
 ## PdfXmlSaveOptions class

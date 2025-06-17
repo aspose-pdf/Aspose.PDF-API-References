@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_rotate/
 Sets rotation of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_Rotate(Rotation value)
+void Aspose::Pdf::Page::set_Rotate(Aspose::Pdf::Rotation value)
 ```
 
 ## See Also

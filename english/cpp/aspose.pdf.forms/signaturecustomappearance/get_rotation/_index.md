@@ -4,7 +4,7 @@ linktitle: get_Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_Rotation method. Gets signature rotation in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_rotation/
 ---
 ## SignatureCustomAppearance::get_Rotation method

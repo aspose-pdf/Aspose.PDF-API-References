@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_background/
 Gets the background color of the page.
 
 ```cpp
-System::SharedPtr<Color> Aspose::Pdf::Page::get_Background()
+System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Page::get_Background()
 ```
 
 ## See Also

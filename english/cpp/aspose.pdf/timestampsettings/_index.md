@@ -4,7 +4,7 @@ linktitle: TimestampSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TimestampSettings class. Represents the ocsp settings using during signing process in C++.'
 type: docs
-weight: 18100
+weight: 18200
 url: /cpp/aspose.pdf/timestampsettings/
 ---
 ## TimestampSettings class

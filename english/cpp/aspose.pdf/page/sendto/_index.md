@@ -7,19 +7,19 @@ type: docs
 weight: 5200
 url: /cpp/aspose.pdf/page/sendto/
 ---
-## Page::SendTo(System::SharedPtr\<Devices::PageDevice\>, System::SharedPtr\<System::IO::Stream\>) method
+## Page::SendTo(System::SharedPtr\<Aspose::Pdf::Devices::PageDevice\>, System::SharedPtr\<System::IO::Stream\>) method
 
 
 Sends page to process with given page device.
 
 ```cpp
-void Aspose::Pdf::Page::SendTo(System::SharedPtr<Devices::PageDevice> device, System::SharedPtr<System::IO::Stream> output)
+void Aspose::Pdf::Page::SendTo(System::SharedPtr<Aspose::Pdf::Devices::PageDevice> device, System::SharedPtr<System::IO::Stream> output)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| device | System::SharedPtr\<Devices::PageDevice\> | The device to process page. |
+| device | System::SharedPtr\<Aspose::Pdf::Devices::PageDevice\> | The device to process page. |
 | output | System::SharedPtr\<System::IO::Stream\> | Result stream which is used with device to save its output. |
 
 ## See Also
@@ -30,19 +30,19 @@ void Aspose::Pdf::Page::SendTo(System::SharedPtr<Devices::PageDevice> device, Sy
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::SendTo(System::SharedPtr\<Devices::PageDevice\>, System::String) method
+## Page::SendTo(System::SharedPtr\<Aspose::Pdf::Devices::PageDevice\>, System::String) method
 
 
 Sends page to process with given page device.
 
 ```cpp
-void Aspose::Pdf::Page::SendTo(System::SharedPtr<Devices::PageDevice> device, System::String outputFileName)
+void Aspose::Pdf::Page::SendTo(System::SharedPtr<Aspose::Pdf::Devices::PageDevice> device, System::String outputFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| device | System::SharedPtr\<Devices::PageDevice\> | The device to process page. |
+| device | System::SharedPtr\<Aspose::Pdf::Devices::PageDevice\> | The device to process page. |
 | outputFileName | System::String | File which is used with device to save its output. |
 
 ## See Also

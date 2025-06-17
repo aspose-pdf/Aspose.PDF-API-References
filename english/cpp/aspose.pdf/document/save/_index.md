@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Save method. Save document incrementally (i.e. using incremental update technique) in C++.'
 type: docs
-weight: 8200
+weight: 8300
 url: /cpp/aspose.pdf/document/save/
 ---
 ## Document::Save() method

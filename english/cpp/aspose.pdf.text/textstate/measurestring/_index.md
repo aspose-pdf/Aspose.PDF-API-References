@@ -4,7 +4,7 @@ linktitle: MeasureString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::MeasureString method. Measures the string in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/aspose.pdf.text/textstate/measurestring/
 ---
 ## TextState::MeasureString method
