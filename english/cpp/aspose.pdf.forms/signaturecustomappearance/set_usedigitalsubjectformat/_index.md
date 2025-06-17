@@ -4,7 +4,7 @@ linktitle: set_UseDigitalSubjectFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_UseDigitalSubjectFormat method. Gets/sets the usage state of the DigitalSubjectFormat in C++.'
 type: docs
-weight: 3700
+weight: 3900
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_usedigitalsubjectformat/
 ---
 ## SignatureCustomAppearance::set_UseDigitalSubjectFormat method

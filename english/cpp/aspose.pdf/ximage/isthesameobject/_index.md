@@ -4,7 +4,7 @@ linktitle: IsTheSameObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::IsTheSameObject method. Returns true if both images references to the same object in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf/ximage/isthesameobject/
 ---
 ## XImage::IsTheSameObject method

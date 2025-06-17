@@ -4,7 +4,7 @@ linktitle: get_OutputIntents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_OutputIntents method. Gets the collection of Output intents in the document in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.pdf/document/get_outputintents/
 ---
 ## Document::get_OutputIntents method

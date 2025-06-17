@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_fieldsintaborder/
 Gets list of Field object in Tab order on this page.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Forms::Field>>> Aspose::Pdf::Page::get_FieldsInTabOrder()
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Forms::Field>>> Aspose::Pdf::Page::get_FieldsInTabOrder()
 ```
 
 ## See Also

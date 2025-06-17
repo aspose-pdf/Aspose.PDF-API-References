@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_backgroundimage/
 Sets background image for page (for generator only, not filled in when reading document).
 
 ```cpp
-void Aspose::Pdf::Page::set_BackgroundImage(System::SharedPtr<Image> value)
+void Aspose::Pdf::Page::set_BackgroundImage(System::SharedPtr<Aspose::Pdf::Image> value)
 ```
 
 ## See Also

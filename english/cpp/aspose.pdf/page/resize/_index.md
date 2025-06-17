@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/resize/
 Resizes the page.
 
 ```cpp
-void Aspose::Pdf::Page::Resize(System::SharedPtr<PageSize> targetSize)
+void Aspose::Pdf::Page::Resize(System::SharedPtr<Aspose::Pdf::PageSize> targetSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetSize | System::SharedPtr\<PageSize\> | The target size. |
+| targetSize | System::SharedPtr\<Aspose::Pdf::PageSize\> | The target size. |
 
 ## See Also
 

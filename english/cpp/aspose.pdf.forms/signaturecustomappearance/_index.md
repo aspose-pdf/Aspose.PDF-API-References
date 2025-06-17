@@ -31,6 +31,7 @@ class SignatureCustomAppearance : public System::Object
 | [get_FontFamilyName](./get_fontfamilyname/)() const | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [get_FontSize](./get_fontsize/)() const | Gets/sets font size. Default value: 10. |
 | [get_ForegroundColor](./get_foregroundcolor/)() const | Gets/sets foreground color (color of text). Default value: Blue. |
+| [get_IsForegroundImage](./get_isforegroundimage/)() const | Gets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
 | [get_LocationLabel](./get_locationlabel/)() const | Gets/sets location label. Default value: "Location". |
 | [get_ReasonLabel](./get_reasonlabel/)() const | Gets/sets reason label. Default value: "Reason". |
 | [get_Rotation](./get_rotation/)() const | Gets signature rotation. |
@@ -49,6 +50,7 @@ class SignatureCustomAppearance : public System::Object
 | [set_FontFamilyName](./set_fontfamilyname/)(System::String) | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [set_FontSize](./set_fontsize/)(double) | Gets/sets font size. Default value: 10. |
 | [set_ForegroundColor](./set_foregroundcolor/)(System::SharedPtr\<Color\>) | Gets/sets foreground color (color of text). Default value: Blue. |
+| [set_IsForegroundImage](./set_isforegroundimage/)(bool) | Sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
 | [set_LocationLabel](./set_locationlabel/)(System::String) | Gets/sets location label. Default value: "Location". |
 | [set_ReasonLabel](./set_reasonlabel/)(System::String) | Gets/sets reason label. Default value: "Reason". |
 | [set_Rotation](./set_rotation/)(Aspose::Pdf::Rotation) | Sets signature rotation. |

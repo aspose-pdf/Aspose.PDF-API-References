@@ -4,7 +4,7 @@ linktitle: GetRawImageData
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::GetRawImageData method. Retrieves the raw image data from the source image in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf/ximage/getrawimagedata/
 ---
 ## XImage::GetRawImageData method

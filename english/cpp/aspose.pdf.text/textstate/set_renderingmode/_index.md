@@ -4,7 +4,7 @@ linktitle: set_RenderingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_RenderingMode method. Sets rendering mode of text in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.pdf.text/textstate/set_renderingmode/
 ---
 ## TextState::set_RenderingMode method

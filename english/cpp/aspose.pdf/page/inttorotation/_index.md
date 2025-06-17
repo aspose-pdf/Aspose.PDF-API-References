@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/inttorotation/
 Translates integer value into corresponding rotation enumeration member.
 
 ```cpp
-static Rotation Aspose::Pdf::Page::IntToRotation(int32_t rotation)
+static Aspose::Pdf::Rotation Aspose::Pdf::Page::IntToRotation(int32_t rotation)
 ```
 
 

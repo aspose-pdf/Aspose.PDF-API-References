@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_layers/
 Sets layers collection.
 
 ```cpp
-void Aspose::Pdf::Page::set_Layers(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Layer>>> value)
+void Aspose::Pdf::Page::set_Layers(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::Pdf::Layer>>> value)
 ```
 
 ## Remarks

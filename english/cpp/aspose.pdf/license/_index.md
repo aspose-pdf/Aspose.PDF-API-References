@@ -22,6 +22,7 @@ class License : public System::Object
 | --- | --- |
 | [ClearLicense](./clearlicense/)() | Clears the current license. |
 | [get_Embedded](./get_embedded/)() const | [License](./) number was added as embedded resource. |
+| [get_LicenseInfo](./get_licenseinfo/)() const | Gets the current license information. |
 | [License](./license/)() | Initializes a new instance of this class. |
 | [set_Embedded](./set_embedded/)(bool) | [License](./) number was added as embedded resource. |
 | [SetLicense](./setlicense/)(System::String) | Licenses the component. |

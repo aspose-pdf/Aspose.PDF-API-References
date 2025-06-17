@@ -4,7 +4,7 @@ linktitle: InvalidFormTypeOperationException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::InvalidFormTypeOperationException typedef in C++.'
 type: docs
-weight: 28200
+weight: 28300
 url: /cpp/aspose.pdf/invalidformtypeoperationexception/
 ---
 ## InvalidFormTypeOperationException typedef

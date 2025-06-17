@@ -4,7 +4,7 @@ linktitle: TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextAlignment enum. Alignment of text in annotation in C++.'
 type: docs
-weight: 15400
+weight: 15500
 url: /cpp/aspose.pdf.annotations/textalignment/
 ---
 ## TextAlignment enum

@@ -4,7 +4,7 @@ linktitle: GetXmpMetadata
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::GetXmpMetadata method. Get XMP metadata from document in C++.'
 type: docs
-weight: 6800
+weight: 6900
 url: /cpp/aspose.pdf/document/getxmpmetadata/
 ---
 ## Document::GetXmpMetadata method

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_rotate/
 Gets rotation of the page.
 
 ```cpp
-Rotation Aspose::Pdf::Page::get_Rotate()
+Aspose::Pdf::Rotation Aspose::Pdf::Page::get_Rotate()
 ```
 
 ## See Also

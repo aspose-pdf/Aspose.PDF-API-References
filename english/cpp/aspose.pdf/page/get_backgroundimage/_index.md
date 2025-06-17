@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_backgroundimage/
 Gets background image for page (for generator only, not filled in when reading document).
 
 ```cpp
-System::SharedPtr<Image> Aspose::Pdf::Page::get_BackgroundImage() const
+System::SharedPtr<Aspose::Pdf::Image> Aspose::Pdf::Page::get_BackgroundImage() const
 ```
 
 ## See Also

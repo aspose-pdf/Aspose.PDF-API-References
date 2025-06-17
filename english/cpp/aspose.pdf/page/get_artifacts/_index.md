@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_artifacts/
 Gets collection of artifacts on the page.
 
 ```cpp
-System::SharedPtr<ArtifactCollection> Aspose::Pdf::Page::get_Artifacts()
+System::SharedPtr<Aspose::Pdf::ArtifactCollection> Aspose::Pdf::Page::get_Artifacts()
 ```
 
 ## See Also

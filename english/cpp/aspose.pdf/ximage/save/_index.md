@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::Save method. Saves image data into stream as JPEG image in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf/ximage/save/
 ---
 ## XImage::Save(const System::SharedPtr\<System::IO::Stream\>\&) method

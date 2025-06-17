@@ -4,7 +4,7 @@ linktitle: ColorSpace
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ColorSpace enum. The color spaces enumeration in C++.'
 type: docs
-weight: 21400
+weight: 21500
 url: /cpp/aspose.pdf/colorspace/
 ---
 ## ColorSpace enum

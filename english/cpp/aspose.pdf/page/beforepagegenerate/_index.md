@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/beforepagegenerate/
 Procedure for customize header and footer.
 
 ```cpp
-using Aspose::Pdf::Page::BeforePageGenerate =  System::MulticastDelegate<void(System::SharedPtr<Page>)>
+using Aspose::Pdf::Page::BeforePageGenerate =  System::MulticastDelegate<void(System::SharedPtr<Aspose::Pdf::Page>)>
 ```
 
 ## Remarks

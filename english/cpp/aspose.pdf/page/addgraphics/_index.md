@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/addgraphics/
 Adds graphics to the page. Works faster than adding elements one by one with [GraphicElement::AddOnPage(Page)](../) method.
 
 ```cpp
-void Aspose::Pdf::Page::AddGraphics(System::SharedPtr<Vector::GraphicElementCollection> elements, System::SharedPtr<Aspose::Pdf::Rectangle> rectangle=nullptr)
+void Aspose::Pdf::Page::AddGraphics(System::SharedPtr<Aspose::Pdf::Vector::GraphicElementCollection> elements, System::SharedPtr<Aspose::Pdf::Rectangle> rectangle=nullptr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elements | System::SharedPtr\<Vector::GraphicElementCollection\> | Graphics collection. |
+| elements | System::SharedPtr\<Aspose::Pdf::Vector::GraphicElementCollection\> | Graphics collection. |
 | rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | Elements will be added to the page if it's 
 GraphicElement::Position
 

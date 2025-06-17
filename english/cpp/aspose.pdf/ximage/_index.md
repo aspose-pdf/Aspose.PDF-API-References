@@ -4,7 +4,7 @@ linktitle: XImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage class. Class representing image X-Object in C++.'
 type: docs
-weight: 19200
+weight: 19300
 url: /cpp/aspose.pdf/ximage/
 ---
 ## XImage class
@@ -30,6 +30,7 @@ class XImage : public System::Object
 | [get_Metadata](./get_metadata/)() | [Metadata](../metadata/) of the image. |
 | [get_Name](./get_name/)() | Gets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use [XImage.Rename](./rename/) method in this case. |
 | [get_Width](./get_width/)() | Gets width of the image. |
+| [GetAlternativeText](./getalternativetext/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Returns a list of strings with Alternative [Text](../../aspose.pdf.text/) for an [XImage](./). |
 | [GetColorType](./getcolortype/)() | Returns color type of image. |
 | [GetNameInCollection](./getnameincollection/)() | Returns the name of the image in its collection. |
 | [GetRawImageData](./getrawimagedata/)() | Retrieves the raw image data from the source image. |
@@ -41,6 +42,7 @@ class XImage : public System::Object
 | [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&, int32_t) | Saves image into stream with requested format with specified resolution. |
 | [set_Name](./set_name/)(System::String) | Sets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use [XImage.Rename](./rename/) method in this case. |
 | [ToStream](./tostream/)() | Returns the original image stream. |
+| [TrySetAlternativeText](./trysetalternativetext/)(System::String, System::SharedPtr\<Aspose::Pdf::Page\>) | Sets alternative text for an [XImage](./) on the page. |
 ## See Also
 
 * Class [Object](../../system/object/)

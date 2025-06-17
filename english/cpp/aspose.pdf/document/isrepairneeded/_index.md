@@ -4,7 +4,7 @@ linktitle: IsRepairNeeded
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::IsRepairNeeded method. Checks if document requires Repair method call in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/aspose.pdf/document/isrepairneeded/
 ---
 ## Document::IsRepairNeeded method

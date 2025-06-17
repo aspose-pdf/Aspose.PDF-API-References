@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_annotations/
 Gets collection of page annotations. [Annotations](../../../aspose.pdf.annotations/)
 
 ```cpp
-System::SharedPtr<Annotations::AnnotationCollection> Aspose::Pdf::Page::get_Annotations()
+System::SharedPtr<Aspose::Pdf::Annotations::AnnotationCollection> Aspose::Pdf::Page::get_Annotations()
 ```
 
 ## See Also

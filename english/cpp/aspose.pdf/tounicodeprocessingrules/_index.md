@@ -4,7 +4,7 @@ linktitle: ToUnicodeProcessingRules
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ToUnicodeProcessingRules class. This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode" in C++.'
 type: docs
-weight: 18300
+weight: 18400
 url: /cpp/aspose.pdf/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class

@@ -117,6 +117,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Left](./left/) | Represents the left alignment settings for header and footer data. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
+| [LicenseInfo](./licenseinfo/) | Represents a license information. |
 | [LoadOptions](./loadoptions/) | [LoadOptions](./loadoptions/) type holds level of abstraction on individual load options. |
 | [LocalHyperlink](./localhyperlink/) | Represents local hyperlink object. |
 | [MarginInfo](./margininfo/) | This class represents a margin for different objects. |

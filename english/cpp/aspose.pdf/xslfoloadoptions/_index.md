@@ -4,7 +4,7 @@ linktitle: XslFoLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XslFoLoadOptions class. Represents options for loading/importing XSL-FO file into pdf document in C++.'
 type: docs
-weight: 20700
+weight: 20800
 url: /cpp/aspose.pdf/xslfoloadoptions/
 ---
 ## XslFoLoadOptions class

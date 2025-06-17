@@ -4,7 +4,7 @@ linktitle: set_ForegroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_ForegroundColor method. Sets foreground color of the text in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.pdf.text/textstate/set_foregroundcolor/
 ---
 ## TextState::set_ForegroundColor method

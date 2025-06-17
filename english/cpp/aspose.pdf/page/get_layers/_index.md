@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_layers/
 Gets layers collection.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Layer>>> Aspose::Pdf::Page::get_Layers()
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::Pdf::Layer>>> Aspose::Pdf::Page::get_Layers()
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: PdfSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfSaveOptions class. Save options for export to Pdf format in C++.'
 type: docs
-weight: 15000
+weight: 15100
 url: /cpp/aspose.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

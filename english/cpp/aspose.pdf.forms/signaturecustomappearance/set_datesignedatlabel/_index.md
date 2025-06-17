@@ -4,7 +4,7 @@ linktitle: set_DateSignedAtLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::set_DateSignedAtLabel method. Gets/sets date signed label. Default value: "Date" in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_datesignedatlabel/
 ---
 ## SignatureCustomAppearance::set_DateSignedAtLabel method

@@ -4,7 +4,7 @@ linktitle: set_HorizontalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_HorizontalAlignment method. Sets horizontal alignment for the text in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/aspose.pdf.text/textstate/set_horizontalalignment/
 ---
 ## TextState::set_HorizontalAlignment method

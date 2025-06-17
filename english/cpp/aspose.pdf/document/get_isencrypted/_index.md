@@ -4,7 +4,7 @@ linktitle: get_IsEncrypted
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_IsEncrypted method. Gets encrypted status of the document. True if document is encrypted in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.pdf/document/get_isencrypted/
 ---
 ## Document::get_IsEncrypted method

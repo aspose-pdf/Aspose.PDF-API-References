@@ -4,7 +4,7 @@ linktitle: TextStamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp class. Represents textual stamp in C++.'
 type: docs
-weight: 18000
+weight: 18100
 url: /cpp/aspose.pdf/textstamp/
 ---
 ## TextStamp class

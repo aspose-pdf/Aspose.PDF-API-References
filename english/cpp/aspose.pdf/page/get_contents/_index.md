@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_contents/
 Gets collection of operators in the content stream of the page. [OperatorCollection](../../operatorcollection/)
 
 ```cpp
-System::SharedPtr<OperatorCollection> Aspose::Pdf::Page::get_Contents() override
+System::SharedPtr<Aspose::Pdf::OperatorCollection> Aspose::Pdf::Page::get_Contents() override
 ```
 
 ## See Also

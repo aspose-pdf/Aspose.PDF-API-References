@@ -4,7 +4,7 @@ linktitle: LoadFrom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::LoadFrom method. Loads a file, converting it to PDF in C++.'
 type: docs
-weight: 7200
+weight: 7300
 url: /cpp/aspose.pdf/document/loadfrom/
 ---
 ## Document::LoadFrom method

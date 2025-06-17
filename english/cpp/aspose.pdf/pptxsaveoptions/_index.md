@@ -4,7 +4,7 @@ linktitle: PptxSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions class. Save options for export to SVG format in C++.'
 type: docs
-weight: 15600
+weight: 15700
 url: /cpp/aspose.pdf/pptxsaveoptions/
 ---
 ## PptxSaveOptions class

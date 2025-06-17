@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/addstamp/
 Put stamp into page. [Stamp](../../stamp/) can be page number, image or simple text, e.g. some logo.
 
 ```cpp
-void Aspose::Pdf::Page::AddStamp(System::SharedPtr<Stamp> stamp)
+void Aspose::Pdf::Page::AddStamp(System::SharedPtr<Aspose::Pdf::Stamp> stamp)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | System::SharedPtr\<Stamp\> | [Stamp](../../stamp/) to add on the page. Each stamp has its coordinates and corresponding properties regarding to the kind of stamp, i.e. image or text value. |
+| stamp | System::SharedPtr\<Aspose::Pdf::Stamp\> | [Stamp](../../stamp/) to add on the page. Each stamp has its coordinates and corresponding properties regarding to the kind of stamp, i.e. image or text value. |
 
 ## See Also
 

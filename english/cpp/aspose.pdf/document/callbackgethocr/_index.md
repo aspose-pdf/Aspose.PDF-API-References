@@ -4,7 +4,7 @@ linktitle: CallBackGetHocr
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::CallBackGetHocr typedef. The call back procedure for hocr recognize in C++.'
 type: docs
-weight: 12100
+weight: 12300
 url: /cpp/aspose.pdf/document/callbackgethocr/
 ---
 ## CallBackGetHocr typedef

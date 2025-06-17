@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/asbytearray/
 Converts current page as bitmap and than returns array of bytes.
 
 ```cpp
-System::ArrayPtr<uint8_t> Aspose::Pdf::Page::AsByteArray(System::SharedPtr<Devices::Resolution> resolution)
+System::ArrayPtr<uint8_t> Aspose::Pdf::Page::AsByteArray(System::SharedPtr<Aspose::Pdf::Devices::Resolution> resolution)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resolution | System::SharedPtr\<Devices::Resolution\> | The resolution. |
+| resolution | System::SharedPtr\<Aspose::Pdf::Devices::Resolution\> | The resolution. |
 
 ### ReturnValue
 

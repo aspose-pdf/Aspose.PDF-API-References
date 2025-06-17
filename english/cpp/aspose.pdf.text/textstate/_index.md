@@ -37,6 +37,7 @@ class TextState : public System::Object
 | virtual [get_StrokingColor](./get_strokingcolor/)() | Gets foreground color of the text. |
 | virtual [get_Subscript](./get_subscript/)() | Gets subscript of the text. |
 | virtual [get_Superscript](./get_superscript/)() | Gets superscript of the text. |
+| [get_TabTag](./get_tabtag/)() | You can place this tag in text to declare tabulation. |
 | virtual [get_Underline](./get_underline/)() | Gets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | virtual [get_WordSpacing](./get_wordspacing/)() | Gets word spacing of the text. |
 | [MeasureHeight](./measureheight/)(char16_t) | Measures character height. |
