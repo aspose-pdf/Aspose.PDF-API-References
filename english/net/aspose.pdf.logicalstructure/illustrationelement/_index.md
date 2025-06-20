@@ -3,7 +3,7 @@ title: Class IllustrationElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.IllustrationElement class. Represents a base class for illustration structure elements in logical structure
 type: docs
-weight: 6540
+weight: 6560
 url: /net/aspose.pdf.logicalstructure/illustrationelement/
 ---
 ## IllustrationElement class

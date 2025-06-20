@@ -3,7 +3,7 @@ title: Class DocSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocSaveOptions class. Save options for export to Doc format
 type: docs
-weight: 3860
+weight: 3870
 url: /net/aspose.pdf/docsaveoptions/
 ---
 ## DocSaveOptions class

@@ -3,7 +3,7 @@ title: Class Html
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Html class. Represents Html plugin
 type: docs
-weight: 8930
+weight: 8950
 url: /net/aspose.pdf.plugins/html/
 ---
 ## Html class

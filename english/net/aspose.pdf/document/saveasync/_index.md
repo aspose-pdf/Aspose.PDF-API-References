@@ -3,7 +3,7 @@ title: Document.SaveAsync
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Saves the document to a stream with a save options
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.pdf/document/saveasync/
 ---
 ## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
@@ -33,6 +33,56 @@ Asynchronous task.
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SaveAsync(Stream, CancellationToken) {#saveasync_3}
+
+Stores document into stream.
+
+```csharp
+public Task SaveAsync(Stream output, CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| output | Stream | Stream where document shell be stored. |
+| cancellationToken | CancellationToken | Caclellation token. |
+
+### Return Value
+
+Asynchronous task.
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SaveAsync(string, CancellationToken) {#saveasync_6}
+
+Saves document into the specified file.
+
+```csharp
+public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+| cancellationToken | CancellationToken | Caclellation token. |
+
+### Return Value
+
+Asynchronous task.
+
+### See Also
+
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -175,56 +225,6 @@ Asynchronous task.
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(Stream, CancellationToken) {#saveasync_3}
-
-Stores document into stream.
-
-```csharp
-public Task SaveAsync(Stream output, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
-| cancellationToken | CancellationToken | Caclellation token. |
-
-### Return Value
-
-Asynchronous task.
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(string, CancellationToken) {#saveasync_6}
-
-Saves document into the specified file.
-
-```csharp
-public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-| cancellationToken | CancellationToken | Caclellation token. |
-
-### Return Value
-
-Asynchronous task.
-
-### See Also
-
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

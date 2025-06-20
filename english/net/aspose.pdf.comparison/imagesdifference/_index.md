@@ -3,7 +3,7 @@ title: Class ImagesDifference
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.ImagesDifference class. Represents the result class of comparing two PDF pages
 type: docs
-weight: 3330
+weight: 3340
 url: /net/aspose.pdf.comparison/imagesdifference/
 ---
 ## ImagesDifference class

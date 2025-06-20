@@ -3,7 +3,7 @@ title: Class FileResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FileResult class. Represents operation result in the form of string path to file
 type: docs
-weight: 8670
+weight: 8690
 url: /net/aspose.pdf.plugins/fileresult/
 ---
 ## FileResult class

@@ -3,7 +3,7 @@ title: Class SystemFontSource
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.SystemFontSource class. Represents all fonts installed to the system
 type: docs
-weight: 10860
+weight: 10880
 url: /net/aspose.pdf.text/systemfontsource/
 ---
 ## SystemFontSource class

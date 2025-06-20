@@ -3,7 +3,7 @@ title: Enum ComparisonMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.ComparisonMode enum. The comparison mode enumeration
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.pdf.comparison/comparisonmode/
 ---
 ## ComparisonMode enumeration

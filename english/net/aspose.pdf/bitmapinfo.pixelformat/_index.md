@@ -3,7 +3,7 @@ title: Enum BitmapInfo.PixelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BitmapInfoPixelFormat enum. Bitmap pixel format
 type: docs
-weight: 2970
+weight: 2980
 url: /net/aspose.pdf/bitmapinfo.pixelformat/
 ---
 ## BitmapInfo.PixelFormat enumeration

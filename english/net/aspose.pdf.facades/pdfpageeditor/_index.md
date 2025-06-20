@@ -3,7 +3,7 @@ title: Class PdfPageEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfPageEditor class. Represents a class to edit the PDF files page including rotating page zooming page moving position and changing page size
 type: docs
-weight: 4700
+weight: 4710
 url: /net/aspose.pdf.facades/pdfpageeditor/
 ---
 ## PdfPageEditor class

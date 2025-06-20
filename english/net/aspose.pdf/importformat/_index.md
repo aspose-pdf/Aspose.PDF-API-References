@@ -3,7 +3,7 @@ title: Enum ImportFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImportFormat enum. Specifies import format
 type: docs
-weight: 6060
+weight: 6070
 url: /net/aspose.pdf/importformat/
 ---
 ## ImportFormat enumeration

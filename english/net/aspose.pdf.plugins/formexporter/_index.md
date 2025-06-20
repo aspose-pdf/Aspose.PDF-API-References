@@ -3,7 +3,7 @@ title: Class FormExporter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormExporter class. Represents FormExporter plugin
 type: docs
-weight: 8780
+weight: 8800
 url: /net/aspose.pdf.plugins/formexporter/
 ---
 ## FormExporter class

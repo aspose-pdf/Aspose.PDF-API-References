@@ -3,7 +3,7 @@ title: XImage.IsTheSameObject
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Returns true if both images references to the same object
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/ximage/isthesameobject/
 ---
 ## XImage.IsTheSameObject method

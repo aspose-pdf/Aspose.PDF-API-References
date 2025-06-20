@@ -3,7 +3,7 @@ title: Class FormRemoveSelectedFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions class. Represents options for remove selected fields in document by FormEditor plugin
 type: docs
-weight: 8900
+weight: 8920
 url: /net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
 ## FormRemoveSelectedFieldsOptions class

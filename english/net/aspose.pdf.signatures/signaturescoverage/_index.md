@@ -3,7 +3,7 @@ title: Enum SignaturesCoverage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Signatures.SignaturesCoverage enum. Represents enum for the level of coverage provided by digital signatures in a document
 type: docs
-weight: 10240
+weight: 10260
 url: /net/aspose.pdf.signatures/signaturescoverage/
 ---
 ## SignaturesCoverage enumeration

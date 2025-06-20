@@ -3,7 +3,7 @@ title: Document.FontSubstitution
 second_title: Aspose.PDF for .NET API Reference
 description: Document event. Occurs when font replaces another font in document
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.pdf/document/fontsubstitution/
 ---
 ## Document.FontSubstitution event

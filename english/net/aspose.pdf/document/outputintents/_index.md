@@ -3,7 +3,7 @@ title: Document.OutputIntents
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets the collection of Output intents in the document
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.pdf/document/outputintents/
 ---
 ## Document.OutputIntents property

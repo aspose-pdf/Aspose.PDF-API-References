@@ -3,7 +3,7 @@ title: Enum BorderSide
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BorderSide enum. Enumerates the border sides
 type: docs
-weight: 3010
+weight: 3020
 url: /net/aspose.pdf/borderside/
 ---
 ## BorderSide enumeration

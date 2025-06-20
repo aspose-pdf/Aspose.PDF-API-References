@@ -3,7 +3,7 @@ title: Class SignatureName
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.SignatureName class. Represents a class for a signature name
 type: docs
-weight: 4820
+weight: 4830
 url: /net/aspose.pdf.facades/signaturename/
 ---
 ## SignatureName class

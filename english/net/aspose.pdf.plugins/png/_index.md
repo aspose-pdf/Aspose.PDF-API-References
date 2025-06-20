@@ -3,7 +3,7 @@ title: Class Png
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Png class. Represents Pdf to Png plugin
 type: docs
-weight: 9280
+weight: 9300
 url: /net/aspose.pdf.plugins/png/
 ---
 ## Png class

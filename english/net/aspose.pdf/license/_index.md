@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.License class. Provides methods to license the component
 type: docs
-weight: 6210
+weight: 6220
 url: /net/aspose.pdf/license/
 ---
 ## License class
@@ -19,6 +19,12 @@ public class License
 | Name | Description |
 | --- | --- |
 | [License](license/)() | The default constructor. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | Gets the current license information. |
 
 ## Methods
 

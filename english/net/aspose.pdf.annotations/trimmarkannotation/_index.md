@@ -3,7 +3,7 @@ title: Class TrimMarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.TrimMarkAnnotation class. Represents a Trim Mark annotation
 type: docs
-weight: 2780
+weight: 2790
 url: /net/aspose.pdf.annotations/trimmarkannotation/
 ---
 ## TrimMarkAnnotation class

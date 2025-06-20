@@ -3,7 +3,7 @@ title: Class GraphicalPdfComparer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.GraphicalPdfComparer class. Represents a class for graphically comparing PDF documents. Should be used to search for small changes mainly of a graphical nature. To compare text content changes use other PDF comparison classes
 type: docs
-weight: 3290
+weight: 3300
 url: /net/aspose.pdf.comparison/graphicalpdfcomparer/
 ---
 ## GraphicalPdfComparer class

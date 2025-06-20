@@ -3,7 +3,7 @@ title: Class SquareAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SquareAnnotation class. Class representing square annotation
 type: docs
-weight: 2680
+weight: 2690
 url: /net/aspose.pdf.annotations/squareannotation/
 ---
 ## SquareAnnotation class
@@ -57,7 +57,7 @@ public sealed class SquareAnnotation : CommonFigureAnnotation
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Gets appearance dictionary of annotation. |
 | [Subject](../../aspose.pdf.annotations/markupannotation/subject/) { get; set; } | Gets text representing desciption of the object. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Gets or sets text alignment for annotation. |
-| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Gets or sets a text that shall be displayed in title bar of annotation. |
+| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Gets or sets a text label that shall be displayed in the title bar of the annotation’s popup window when open and active. This entry shall identify the user who added the annotation. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Gets or sets width of the annotation. |
 | [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |

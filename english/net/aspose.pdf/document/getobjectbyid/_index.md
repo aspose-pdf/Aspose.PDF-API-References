@@ -3,7 +3,7 @@ title: Document.GetObjectById
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Gets a object with specified ID in the document
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.pdf/document/getobjectbyid/
 ---
 ## Document.GetObjectById method

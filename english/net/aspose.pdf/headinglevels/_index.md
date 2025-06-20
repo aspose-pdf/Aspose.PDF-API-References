@@ -3,7 +3,7 @@ title: Class HeadingLevels
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HeadingLevels class. Represents a class to work with header levels based on font size
 type: docs
-weight: 5590
+weight: 5600
 url: /net/aspose.pdf/headinglevels/
 ---
 ## HeadingLevels class

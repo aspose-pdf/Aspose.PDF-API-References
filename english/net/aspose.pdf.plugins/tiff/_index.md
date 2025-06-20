@@ -3,7 +3,7 @@ title: Class Tiff
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Tiff class. Represents Pdf to Tiff plugin
 type: docs
-weight: 9520
+weight: 9540
 url: /net/aspose.pdf.plugins/tiff/
 ---
 ## Tiff class

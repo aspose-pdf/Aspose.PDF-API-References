@@ -3,7 +3,7 @@ title: Class EncryptionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.EncryptionOptions class. Represents Encryption Options for Security plugin
 type: docs
-weight: 8650
+weight: 8670
 url: /net/aspose.pdf.plugins/encryptionoptions/
 ---
 ## EncryptionOptions class

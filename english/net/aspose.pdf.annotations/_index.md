@@ -145,6 +145,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of Rendition. |
 | [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |
+| [RichTextFontStyles](./richtextfontstyles/) | Options for styling text fragments in RichText. |
 | [SoundEncoding](./soundencoding/) | The encoding format for the sample data. |
 | [SoundIcon](./soundicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | The encoding format for the sound sample data. |

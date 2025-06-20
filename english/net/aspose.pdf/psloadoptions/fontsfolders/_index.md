@@ -3,7 +3,7 @@ title: PsLoadOptions.FontsFolders
 second_title: Aspose.PDF for .NET API Reference
 description: PsLoadOptions property. Gets or sets fonts folders paths
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/psloadoptions/fontsfolders/
 ---
 ## PsLoadOptions.FontsFolders property

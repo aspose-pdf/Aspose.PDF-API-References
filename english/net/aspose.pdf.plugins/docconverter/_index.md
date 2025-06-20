@@ -3,7 +3,7 @@ title: Class DocConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.DocConverter class. Represents DocConverter plugin
 type: docs
-weight: 8640
+weight: 8660
 url: /net/aspose.pdf.plugins/docconverter/
 ---
 ## DocConverter class

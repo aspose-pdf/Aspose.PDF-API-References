@@ -3,7 +3,7 @@ title: Class TextFragmentState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragmentState class. Represents a text state of a text fragment
 type: docs
-weight: 11100
+weight: 11120
 url: /net/aspose.pdf.text/textfragmentstate/
 ---
 ## TextFragmentState class
@@ -44,6 +44,7 @@ public sealed class TextFragmentState : TextState
 | override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript/) { get; set; } | Gets or sets subscript of the text, represented by the [`TextFragment`](../textfragment/) object. |
 | override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript/) { get; set; } | Gets or sets superscript of the text, represented by the [`TextFragment`](../textfragment/) object. |
 | [TabStops](../../aspose.pdf.text/textfragmentstate/tabstops/) { get; } | Gets tabstops for the text. |
+| [TabTag](../../aspose.pdf.text/textstate/tabtag/) { get; } | You can place this tag in text to declare tabulation. |
 | override [Underline](../../aspose.pdf.text/textfragmentstate/underline/) { get; set; } | Gets or sets underline for the text, represented by the [`TextFragment`](../textfragment/) object |
 | override [WordSpacing](../../aspose.pdf.text/textfragmentstate/wordspacing/) { get; set; } | Gets or sets word spacing of the text. |
 
@@ -61,7 +62,6 @@ public sealed class TextFragmentState : TextState
 | Name | Description |
 | --- | --- |
 | readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
-| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag/) | You can place this tag in text to declare tabulation. |
 
 ## Remarks
 

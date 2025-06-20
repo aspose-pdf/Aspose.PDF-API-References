@@ -3,7 +3,7 @@ title: Class TableGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableGenerator class. Represents Aspose.PDF TableGenerator plugin
 type: docs
-weight: 9460
+weight: 9480
 url: /net/aspose.pdf.plugins/tablegenerator/
 ---
 ## TableGenerator class

@@ -3,7 +3,7 @@ title: Class OutlineCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OutlineCollection class. Represents document outline hierarchy
 type: docs
-weight: 8120
+weight: 8140
 url: /net/aspose.pdf/outlinecollection/
 ---
 ## OutlineCollection class

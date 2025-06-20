@@ -3,7 +3,7 @@ title: TextState.WordSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: TextState property. Gets or sets word spacing of the text
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.text/textstate/wordspacing/
 ---
 ## TextState.WordSpacing property

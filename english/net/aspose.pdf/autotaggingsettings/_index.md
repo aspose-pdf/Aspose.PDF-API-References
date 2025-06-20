@@ -3,7 +3,7 @@ title: Class AutoTaggingSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AutoTaggingSettings class. Provides settings for the autotagging functionality in PDF documents
 type: docs
-weight: 2900
+weight: 2910
 url: /net/aspose.pdf/autotaggingsettings/
 ---
 ## AutoTaggingSettings class

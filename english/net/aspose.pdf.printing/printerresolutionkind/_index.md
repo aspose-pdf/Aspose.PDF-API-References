@@ -3,7 +3,7 @@ title: Enum PrinterResolutionKind
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PrinterResolutionKind enum. Specifies a printer resolution
 type: docs
-weight: 9790
+weight: 9810
 url: /net/aspose.pdf.printing/printerresolutionkind/
 ---
 ## PrinterResolutionKind enumeration

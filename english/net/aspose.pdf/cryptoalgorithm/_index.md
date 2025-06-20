@@ -3,7 +3,7 @@ title: Enum CryptoAlgorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CryptoAlgorithm enum. Represent type of cryptographic algorithm that used in encryption/decryption routines
 type: docs
-weight: 3510
+weight: 3520
 url: /net/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enumeration

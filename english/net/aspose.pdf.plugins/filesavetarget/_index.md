@@ -3,7 +3,7 @@ title: Class FileSaveTarget
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FileSaveTarget class. Represents file save target for a plugin
 type: docs
-weight: 8680
+weight: 8700
 url: /net/aspose.pdf.plugins/filesavetarget/
 ---
 ## FileSaveTarget class

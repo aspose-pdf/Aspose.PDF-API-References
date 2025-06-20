@@ -3,7 +3,7 @@ title: Class ViewerPreference
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.ViewerPreference class. Describes viewer prefereces page mode non full screen page mode page layout
 type: docs
-weight: 4880
+weight: 4890
 url: /net/aspose.pdf.facades/viewerpreference/
 ---
 ## ViewerPreference class

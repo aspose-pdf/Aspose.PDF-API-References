@@ -59,7 +59,7 @@ public sealed class PolylineAnnotation : PolyAnnotation
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Gets appearance dictionary of annotation. |
 | [Subject](../../aspose.pdf.annotations/markupannotation/subject/) { get; set; } | Gets text representing desciption of the object. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Gets or sets text alignment for annotation. |
-| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Gets or sets a text that shall be displayed in title bar of annotation. |
+| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Gets or sets a text label that shall be displayed in the title bar of the annotation’s popup window when open and active. This entry shall identify the user who added the annotation. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph |
 | [Vertices](../../aspose.pdf.annotations/polyannotation/vertices/) { get; set; } | Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex. |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Gets or sets width of the annotation. |

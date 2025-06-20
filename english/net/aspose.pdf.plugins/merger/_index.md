@@ -3,7 +3,7 @@ title: Class Merger
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Merger class. Represents Merger plugin
 type: docs
-weight: 9050
+weight: 9070
 url: /net/aspose.pdf.plugins/merger/
 ---
 ## Merger class

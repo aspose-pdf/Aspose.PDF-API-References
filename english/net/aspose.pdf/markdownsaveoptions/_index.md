@@ -3,7 +3,7 @@ title: Class MarkdownSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MarkdownSaveOptions class. Represents the document save option class in the markdown format
 type: docs
-weight: 7030
+weight: 7050
 url: /net/aspose.pdf/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class

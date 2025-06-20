@@ -3,7 +3,7 @@ title: Enum BoundsCheckMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BoundsCheckMode enum. Specifies the behavior for bounds checking when adding items to a collection
 type: docs
-weight: 3020
+weight: 3030
 url: /net/aspose.pdf/boundscheckmode/
 ---
 ## BoundsCheckMode enumeration

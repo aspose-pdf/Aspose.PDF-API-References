@@ -3,7 +3,7 @@ title: Class HeaderFooterSettings.HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment class. Represents horizontal alignment settings for header and footer
 type: docs
-weight: 5570
+weight: 5580
 url: /net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
 ## HeaderFooterSettings.HorizontalAlignment class

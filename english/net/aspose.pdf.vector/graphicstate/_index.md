@@ -3,7 +3,7 @@ title: Class GraphicState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.GraphicState class. Represents graphic state of the current GraphicElement
 type: docs
-weight: 11330
+weight: 11350
 url: /net/aspose.pdf.vector/graphicstate/
 ---
 ## GraphicState class

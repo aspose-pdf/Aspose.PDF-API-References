@@ -3,7 +3,7 @@ title: Interface IAdjustPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Tagged.IAdjustPosition interface. Interface for positioning methods
 type: docs
-weight: 10430
+weight: 10450
 url: /net/aspose.pdf.tagged/iadjustposition/
 ---
 ## IAdjustPosition interface

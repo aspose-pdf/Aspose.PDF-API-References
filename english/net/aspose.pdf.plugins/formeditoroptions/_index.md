@@ -3,7 +3,7 @@ title: Class FormEditorOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormEditorOptions class. Represents options for FormEditor plugin
 type: docs
-weight: 8750
+weight: 8770
 url: /net/aspose.pdf.plugins/formeditoroptions/
 ---
 ## FormEditorOptions class

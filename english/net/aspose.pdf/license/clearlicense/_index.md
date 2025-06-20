@@ -3,7 +3,7 @@ title: License.ClearLicense
 second_title: Aspose.PDF for .NET API Reference
 description: License method. Clears the current license
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/license/clearlicense/
 ---
 ## License.ClearLicense method
