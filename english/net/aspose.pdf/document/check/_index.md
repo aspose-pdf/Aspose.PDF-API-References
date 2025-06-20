@@ -3,7 +3,7 @@ title: Document.Check
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Validates document
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.pdf/document/check/
 ---
 ## Document.Check method

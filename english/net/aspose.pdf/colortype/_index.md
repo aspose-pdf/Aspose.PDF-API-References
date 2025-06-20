@@ -3,7 +3,7 @@ title: Enum ColorType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ColorType enum. Specifies color type of elements on page
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.pdf/colortype/
 ---
 ## ColorType enumeration

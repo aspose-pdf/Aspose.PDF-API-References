@@ -3,7 +3,7 @@ title: Class SetDash
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetDash class. Class representing d operator set line dash pattern
 type: docs
-weight: 7810
+weight: 7830
 url: /net/aspose.pdf.operators/setdash/
 ---
 ## SetDash class

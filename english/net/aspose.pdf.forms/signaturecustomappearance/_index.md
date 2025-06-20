@@ -3,7 +3,7 @@ title: Class SignatureCustomAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.SignatureCustomAppearance class. An abstract class which represents signature custon appearance object
 type: docs
-weight: 5390
+weight: 5400
 url: /net/aspose.pdf.forms/signaturecustomappearance/
 ---
 ## SignatureCustomAppearance class
@@ -35,6 +35,7 @@ public sealed class SignatureCustomAppearance
 | [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname/) { get; set; } | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize/) { get; set; } | Gets/sets font size. Default value: 10. |
 | [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor/) { get; set; } | Gets/sets foreground color (color of text). Default value: Blue. |
+| [IsForegroundImage](../../aspose.pdf.forms/signaturecustomappearance/isforegroundimage/) { get; set; } | Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
 | [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel/) { get; set; } | Gets/sets location label. Default value: "Location". |
 | [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel/) { get; set; } | Gets/sets reason label. Default value: "Reason". |
 | [Rotation](../../aspose.pdf.forms/signaturecustomappearance/rotation/) { get; set; } | Gets or sets signature rotation. |

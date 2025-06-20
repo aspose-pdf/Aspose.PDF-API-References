@@ -3,7 +3,7 @@ title: Class Arc
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Arc class. Represents arc
 type: docs
-weight: 3990
+weight: 4000
 url: /net/aspose.pdf.drawing/arc/
 ---
 ## Arc class

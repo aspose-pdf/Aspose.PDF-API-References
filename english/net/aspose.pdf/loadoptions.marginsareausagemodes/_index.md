@@ -3,7 +3,7 @@ title: Enum LoadOptions.MarginsAreaUsageModes
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Represents mode of usage of margins area during conversion like HTML EPUB etc defines treatement of instructions of imported format related to usage of margins
 type: docs
-weight: 6250
+weight: 6270
 url: /net/aspose.pdf/loadoptions.marginsareausagemodes/
 ---
 ## LoadOptions.MarginsAreaUsageModes enumeration

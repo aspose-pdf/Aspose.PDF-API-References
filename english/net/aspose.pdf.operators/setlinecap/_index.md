@@ -3,7 +3,7 @@ title: Class SetLineCap
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetLineCap class. Class representing J operator set line cap style
 type: docs
-weight: 7870
+weight: 7890
 url: /net/aspose.pdf.operators/setlinecap/
 ---
 ## SetLineCap class

@@ -3,7 +3,7 @@ title: Class Outlines
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Outlines class. Class describes collection of outlines
 type: docs
-weight: 8140
+weight: 8160
 url: /net/aspose.pdf/outlines/
 ---
 ## Outlines class

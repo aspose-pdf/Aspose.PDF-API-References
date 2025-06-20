@@ -3,7 +3,7 @@ title: Class PositionSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Tagged.PositionSettings class. Position settings
 type: docs
-weight: 10450
+weight: 10470
 url: /net/aspose.pdf.tagged/positionsettings/
 ---
 ## PositionSettings class

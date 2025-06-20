@@ -3,7 +3,7 @@ title: Class CosPdfDictionary
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DataEditor.CosPdfDictionary class. A class for accessing an objects dictionary
 type: docs
-weight: 3530
+weight: 3540
 url: /net/aspose.pdf.dataeditor/cospdfdictionary/
 ---
 ## CosPdfDictionary class

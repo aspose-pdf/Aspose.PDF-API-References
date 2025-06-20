@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 3890
+weight: 3900
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -53,6 +53,7 @@ public sealed class Document : IDisposable
 | [Duplex](../../aspose.pdf/document/duplex/) { get; set; } | Gets or sets print duplex mode handling option to use when printing the file from the print dialog. |
 | [EmbeddedFiles](../../aspose.pdf/document/embeddedfiles/) { get; } | Gets collection of files embedded to document. |
 | [EmbedStandardFonts](../../aspose.pdf/document/embedstandardfonts/) { get; set; } | Property which declares that document must embed all standard Type1 fonts which has flag IsEmbedded set into true. All PDF fonts can be embedded into document simply via setting of flag IsEmbedded into true, but PDF standard Type1 fonts is an exception from this rule. Standard Type1 font embedding requires much time, so to embed these fonts it's necessary not only set flag IsEmbedded into true for specified font but also set an additiona flag on document's level - EmbedStandardFonts = true; This property can be set only one time for all fonts. By default false. |
+| [EnableNotificationLogging](../../aspose.pdf/document/enablenotificationlogging/) { get; set; } | Gets or sets a value indicating whether to enable the logging of notifications. |
 | [EnableObjectUnload](../../aspose.pdf/document/enableobjectunload/) { get; set; } | Get or sets flag which enables document partially be unloaded from memory. This allow to decrease memory usage but may have negative effect on perfomance. |
 | [EnableSignatureSanitization](../../aspose.pdf/document/enablesignaturesanitization/) { get; set; } | Gets or sets flag to manage signature fields sanitization. Enabled by default. |
 | [FileName](../../aspose.pdf/document/filename/) { get; } | Name of the PDF file that caused this document |

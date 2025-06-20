@@ -3,7 +3,7 @@ title: Document.Save
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Saves the document to a stream with a save options
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.pdf/document/save/
 ---
 ## Save(Stream, SaveOptions) {#save_4}
@@ -28,6 +28,46 @@ public void Save(Stream outputStream, SaveOptions options)
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream) {#save_2}
+
+Stores document into stream.
+
+```csharp
+public void Save(Stream output)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| output | Stream | Stream where document shell be stored. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string) {#save_5}
+
+Saves document into the specified file.
+
+```csharp
+public void Save(string outputFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+
+### See Also
+
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -141,46 +181,6 @@ public void Save(string outputFileName, SaveOptions options)
 ### See Also
 
 * class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(Stream) {#save_2}
-
-Stores document into stream.
-
-```csharp
-public void Save(Stream output)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_5}
-
-Saves document into the specified file.
-
-```csharp
-public void Save(string outputFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-
-### See Also
-
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -3,7 +3,7 @@ title: Class PasswordBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PasswordBoxField class. Class descibes text field for entering password
 type: docs
-weight: 5310
+weight: 5320
 url: /net/aspose.pdf.forms/passwordboxfield/
 ---
 ## PasswordBoxField class

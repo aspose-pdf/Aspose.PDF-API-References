@@ -3,7 +3,7 @@ title: SignatureCustomAppearance.Rotation
 second_title: Aspose.PDF for .NET API Reference
 description: SignatureCustomAppearance property. Gets or sets signature rotation
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf.forms/signaturecustomappearance/rotation/
 ---
 ## SignatureCustomAppearance.Rotation property

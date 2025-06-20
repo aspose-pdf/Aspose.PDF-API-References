@@ -3,7 +3,7 @@ title: Enum PageLayout
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageLayout enum. Descibes page layout
 type: docs
-weight: 8300
+weight: 8320
 url: /net/aspose.pdf/pagelayout/
 ---
 ## PageLayout enumeration

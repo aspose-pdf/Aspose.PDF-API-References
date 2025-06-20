@@ -3,7 +3,7 @@ title: XImage.GetRawImageData
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Retrieves the raw image data from the source image
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/ximage/getrawimagedata/
 ---
 ## XImage.GetRawImageData method

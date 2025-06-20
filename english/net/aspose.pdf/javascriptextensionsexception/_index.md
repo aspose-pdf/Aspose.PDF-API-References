@@ -3,7 +3,7 @@ title: Class JavascriptExtensionsException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.JavascriptExtensionsException class. The exception that is thrown on errors when working with JavascriptExtensions
 type: docs
-weight: 6170
+weight: 6180
 url: /net/aspose.pdf/javascriptextensionsexception/
 ---
 ## JavascriptExtensionsException class

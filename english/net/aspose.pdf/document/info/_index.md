@@ -3,7 +3,7 @@ title: Document.Info
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets document info
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.pdf/document/info/
 ---
 ## Document.Info property

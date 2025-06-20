@@ -3,7 +3,7 @@ title: Class PageDate.MonthComponent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageDateMonthComponent class. Represents the month component of a date
 type: docs
-weight: 8250
+weight: 8270
 url: /net/aspose.pdf/pagedate.monthcomponent/
 ---
 ## PageDate.MonthComponent class

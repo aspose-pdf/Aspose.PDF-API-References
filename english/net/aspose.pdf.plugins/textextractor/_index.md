@@ -3,7 +3,7 @@ title: Class TextExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TextExtractor class. Represents TextExtractor plugin
 type: docs
-weight: 9490
+weight: 9510
 url: /net/aspose.pdf.plugins/textextractor/
 ---
 ## TextExtractor class

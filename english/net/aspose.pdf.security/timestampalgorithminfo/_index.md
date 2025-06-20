@@ -3,7 +3,7 @@ title: Class TimestampAlgorithmInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.TimestampAlgorithmInfo class. Represents a class for the information about the timestamp signature algorithm
 type: docs
-weight: 10160
+weight: 10180
 url: /net/aspose.pdf.security/timestampalgorithminfo/
 ---
 ## TimestampAlgorithmInfo class

@@ -3,7 +3,7 @@ title: Class PngOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PngOptions class. Represents Pdf to Png converter options for the Png plugin
 type: docs
-weight: 9290
+weight: 9310
 url: /net/aspose.pdf.plugins/pngoptions/
 ---
 ## PngOptions class

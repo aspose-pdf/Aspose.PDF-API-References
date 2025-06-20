@@ -3,7 +3,7 @@ title: Class ObjectResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ObjectResult class. Represents operation result in the form of string
 type: docs
-weight: 9060
+weight: 9080
 url: /net/aspose.pdf.plugins/objectresult/
 ---
 ## ObjectResult class

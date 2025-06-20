@@ -3,7 +3,7 @@ title: Class TextState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextState class. Represents a text state of a text
 type: docs
-weight: 11200
+weight: 11220
 url: /net/aspose.pdf.text/textstate/
 ---
 ## TextState class
@@ -46,6 +46,7 @@ public class TextState
 | virtual [StrokingColor](../../aspose.pdf.text/textstate/strokingcolor/) { get; set; } | Gets or sets foreground color of the text. |
 | virtual [Subscript](../../aspose.pdf.text/textstate/subscript/) { get; set; } | Gets or sets subscript of the text. |
 | virtual [Superscript](../../aspose.pdf.text/textstate/superscript/) { get; set; } | Gets or sets superscript of the text. |
+| [TabTag](../../aspose.pdf.text/textstate/tabtag/) { get; } | You can place this tag in text to declare tabulation. |
 | virtual [Underline](../../aspose.pdf.text/textstate/underline/) { get; set; } | Gets or sets underline for the text, represented by the [`TextFragment`](../textfragment/) object |
 | virtual [WordSpacing](../../aspose.pdf.text/textstate/wordspacing/) { get; set; } | Gets or sets word spacing of the text. |
 
@@ -62,7 +63,6 @@ public class TextState
 | Name | Description |
 | --- | --- |
 | readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
-| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag/) | You can place this tag in text to declare tabulation. |
 
 ### See Also
 

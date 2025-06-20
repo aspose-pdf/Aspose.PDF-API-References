@@ -1,14 +1,14 @@
 ---
 title: MarkupAnnotation.Title
 second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation property. Gets or sets a text that shall be displayed in title bar of annotation
+description: MarkupAnnotation property. Gets or sets a text label that shall be displayed in the title bar of the annotations popup window when open and active. This entry shall identify the user who added the annotation
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/markupannotation/title/
 ---
 ## MarkupAnnotation.Title property
 
-Gets or sets a text that shall be displayed in title bar of annotation.
+Gets or sets a text label that shall be displayed in the title bar of the annotation’s popup window when open and active. This entry shall identify the user who added the annotation.
 
 ```csharp
 public string Title { get; set; }

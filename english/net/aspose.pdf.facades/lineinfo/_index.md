@@ -3,7 +3,7 @@ title: Class LineInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.LineInfo class. Represents the information of line
 type: docs
-weight: 4510
+weight: 4520
 url: /net/aspose.pdf.facades/lineinfo/
 ---
 ## LineInfo class

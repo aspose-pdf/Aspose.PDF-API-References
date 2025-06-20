@@ -3,7 +3,7 @@ title: Enum BorderCornerStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.BorderCornerStyle enum. Enumerates the border corner styles for border
 type: docs
-weight: 2990
+weight: 3000
 url: /net/aspose.pdf/bordercornerstyle/
 ---
 ## BorderCornerStyle enumeration

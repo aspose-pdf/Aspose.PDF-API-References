@@ -3,7 +3,7 @@ title: Document.IsRepairNeeded
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Checks if document requires Repair method call
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.pdf/document/isrepairneeded/
 ---
 ## Document.IsRepairNeeded method

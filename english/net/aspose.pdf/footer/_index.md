@@ -3,7 +3,7 @@ title: Class Footer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Footer class. Represents the footer settings
 type: docs
-weight: 5030
+weight: 5040
 url: /net/aspose.pdf/footer/
 ---
 ## Footer class

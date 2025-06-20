@@ -3,7 +3,7 @@ title: Class Cell
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Cell class. Represents a cell of the tables row
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.pdf/cell/
 ---
 ## Cell class

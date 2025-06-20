@@ -3,7 +3,7 @@ title: Document.Pages
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets collection of document pages. Note that pages are numbered from 1 in collection
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.pdf/document/pages/
 ---
 ## Document.Pages property

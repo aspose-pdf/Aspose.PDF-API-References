@@ -1,17 +1,17 @@
 ---
 title: TextState.TabTag
 second_title: Aspose.PDF for .NET API Reference
-description: TextState field. You can place this tag in text to declare tabulation
+description: TextState property. You can place this tag in text to declare tabulation
 type: docs
-weight: 210
+weight: 180
 url: /net/aspose.pdf.text/textstate/tabtag/
 ---
-## TextState.TabTag field
+## TextState.TabTag property
 
 You can place this tag in text to declare tabulation.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## Remarks
