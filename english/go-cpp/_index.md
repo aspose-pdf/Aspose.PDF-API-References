@@ -38,6 +38,7 @@ type Document struct {
 | [SaveBooklet](./convert/savebooklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
 | [SaveNUp](./convert/savenup/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [SaveMarkdown](./convert/savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [SaveTiff](./convert/savetiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [ExportFdf](./convert/exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [ExportXfdf](./convert/exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [ExportXml](./convert/exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
