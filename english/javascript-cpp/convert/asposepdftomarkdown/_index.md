@@ -36,7 +36,7 @@ JSON object
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
   AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
     (evt.data == 'ready') ? 'loaded!' :
-      (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "text/plain", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
+      (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "text/markdown", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
 
   /*Event handler*/
   const ffileToMarkdown = e => {
