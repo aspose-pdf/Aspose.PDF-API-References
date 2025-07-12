@@ -18,6 +18,10 @@ url: /rust-cpp/convert/
 | [save_xps](./save_xps/) | Convert and save the previously opened PDF-document as Xps-document. |
 | [save_tex](./save_tex/) | Convert and save the previously opened PDF-document as TeX-document. |
 | [save_epub](./save_epub/) | Convert and save the previously opened PDF-document as Epub-document. |
+| [save_booklet](./save_booklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
+| [save_n_up](./save_n_up/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
+| [save_markdown](./save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [save_tiff](./save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [page_to_jpg](./page_to_jpg/) | Convert and save the specified page as Jpg-image. |
 | [page_to_png](./page_to_png/) | Convert and save the specified page as Png-image. |
 | [page_to_bmp](./page_to_bmp/) | Convert and save the specified page as Bmp-image. |
