@@ -31,7 +31,7 @@ It provides a wide range of features for document processing, including:
 
 These are links to some useful resources:
 - [Aspose.PDF for .NET API Reference](/pdf/net/)
-- [Aspose.PDF for .NET API Tutorials](/tutorials/pdf/net/)
+- [Aspose.PDF for .NET API Tutorials](https://tutorials.aspose.com/pdf/net/)
 
 ## Aspose.PDF for Java API Reference
 
@@ -54,7 +54,7 @@ Developers can enhance the efficiency of their document processing tasks by util
 
 These are links to some useful resources:
 - [Aspose.PDF for Java API Reference](/pdf/java/)
-- [Aspose.PDF for Java API Tutorials](/tutorials/pdf/java/)
+- [Aspose.PDF for Java API Tutorials](https://tutorials.aspose.com/pdf/java/)
 
 ## Aspose.PDF for C++ API Reference
 
