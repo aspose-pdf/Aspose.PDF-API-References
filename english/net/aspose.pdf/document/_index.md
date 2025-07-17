@@ -21,19 +21,23 @@ public sealed class Document : IDisposable
 | [Document](document/#constructor)() | Initializes empty document. |
 | [Document](document/#constructor_1)(PdfVersion) | Initializes empty document by version. |
 | [Document](document/#constructor_2)(Stream) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_9)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
-| [Document](document/#constructor_4)(Stream, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_11)(string) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_6)(Stream, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_4)(Stream, CertificateEncryptionOptions) | Initialize new Document instance from the *input* stream. |
 | [Document](document/#constructor_3)(Stream, LoadOptions) | Opens an existing document from a stream providing necessary converting to get pdf document. |
-| [Document](document/#constructor_5)(Stream, string) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_11)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
-| [Document](document/#constructor_10)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
-| [Document](document/#constructor_12)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
-| [Document](document/#constructor_7)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_6)(Stream, string, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_14)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
-| [Document](document/#constructor_13)(string, string, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
-| [Document](document/#constructor_8)(Stream, string, bool, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_15)(string, string, bool, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_7)(Stream, string) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_15)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
+| [Document](document/#constructor_13)(string, CertificateEncryptionOptions) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_12)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
+| [Document](document/#constructor_16)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_5)(Stream, CertificateEncryptionOptions, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_9)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_8)(Stream, string, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_14)(string, CertificateEncryptionOptions, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_18)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_17)(string, string, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_10)(Stream, string, bool, ICustomSecurityHandler) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_19)(string, string, bool, ICustomSecurityHandler) | Initializes new instance of the `Document` class for working with encrypted document. |
 
 ## Properties
 
@@ -122,11 +126,12 @@ public sealed class Document : IDisposable
 | [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream/)(Page) | Convert page to PNG for DSR, OMR, OCR image stream. |
 | [Decrypt](../../aspose.pdf/document/decrypt/)() | Decrypts the document. Call then Save to obtain decrypted version of the document. |
 | [Dispose](../../aspose.pdf/document/dispose/)() | Closes all resources used by this document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_1)(string, string, DocumentPrivilege, ICustomSecurityHandler) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_2)(string, string, Permissions, CryptoAlgorithm) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_4)(string, string, Permissions, ICustomSecurityHandler) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt)(string, string, DocumentPrivilege, CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_3)(string, string, Permissions, CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt)(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) | Encrypts the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_2)(string, string, DocumentPrivilege, ICustomSecurityHandler) | Encrypts the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_3)(string, string, Permissions, CryptoAlgorithm) | Encrypts the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_5)(string, string, Permissions, ICustomSecurityHandler) | Encrypts the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_1)(string, string, DocumentPrivilege, CryptoAlgorithm, bool) | Encrypts the document. |
+| [Encrypt](../../aspose.pdf/document/encrypt/#encrypt_4)(string, string, Permissions, CryptoAlgorithm, bool) | Encrypts the document. |
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf)(Stream) | Export all document annotations into stream. |
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf/#exportannotationstoxfdf_1)(string) | Exports all document annotations to XFDF file |
 | [Flatten](../../aspose.pdf/document/flatten/#flatten)() | Removes all fields from the document and place their values instead. |

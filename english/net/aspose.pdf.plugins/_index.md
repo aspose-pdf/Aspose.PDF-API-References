@@ -52,6 +52,8 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [MergeOptions](./mergeoptions/) | Represents Merge options for [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
 | [Merger](./merger/) | Represents [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
 | [ObjectResult](./objectresult/) | Represents operation result in the form of string. |
+| [Ofd](./ofd/) | Represents the [`Ofd`](../aspose.pdf.plugins/ofd/) plugin. |
+| [OfdToPdfOptions](./ofdtopdfoptions/) | Represents options for converting OFD to PDF. |
 | [OptimizeOptions](./optimizeoptions/) | Represents Optimize options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [Optimizer](./optimizer/) | Represents [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [OrganizerBaseOptions](./organizerbaseoptions/) | Represents base options for plugins. |

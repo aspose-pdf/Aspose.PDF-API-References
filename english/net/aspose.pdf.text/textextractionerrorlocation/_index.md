@@ -3,7 +3,7 @@ title: Class TextExtractionErrorLocation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextExtractionErrorLocation class. Represents the location in the PDF document where text extraction error has appeared
 type: docs
-weight: 11030
+weight: 11060
 url: /net/aspose.pdf.text/textextractionerrorlocation/
 ---
 ## TextExtractionErrorLocation class

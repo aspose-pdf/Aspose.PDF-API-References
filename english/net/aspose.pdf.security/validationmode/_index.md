@@ -3,7 +3,7 @@ title: Enum ValidationMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.ValidationMode enum. Specifies the validation mode for PDF signature validation processes
 type: docs
-weight: 10210
+weight: 10240
 url: /net/aspose.pdf.security/validationmode/
 ---
 ## ValidationMode enumeration

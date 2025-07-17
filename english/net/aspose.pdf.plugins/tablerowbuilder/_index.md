@@ -3,7 +3,7 @@ title: Class TableRowBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableRowBuilder class. Class represents builder for table row
 type: docs
-weight: 9500
+weight: 9520
 url: /net/aspose.pdf.plugins/tablerowbuilder/
 ---
 ## TableRowBuilder class

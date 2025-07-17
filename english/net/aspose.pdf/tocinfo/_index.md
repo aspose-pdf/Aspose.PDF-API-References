@@ -3,7 +3,7 @@ title: Class TocInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TocInfo class. Represents table of contents info
 type: docs
-weight: 11270
+weight: 11310
 url: /net/aspose.pdf/tocinfo/
 ---
 ## TocInfo class

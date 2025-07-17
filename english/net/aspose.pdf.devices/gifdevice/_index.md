@@ -40,6 +40,7 @@ public sealed class GifDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
 | override [Process](../../aspose.pdf.devices/gifdevice/process/#process)(Page, Stream) | Converts the page into gif and saves it in the output stream. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 

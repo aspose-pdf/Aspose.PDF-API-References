@@ -3,7 +3,7 @@ title: Class XImage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XImage class. Class representing image XObject
 type: docs
-weight: 11500
+weight: 11540
 url: /net/aspose.pdf/ximage/
 ---
 ## XImage class
@@ -43,7 +43,7 @@ public sealed class XImage
 | [Save](../../aspose.pdf/ximage/save/#save_1)(Stream, int) | Saves image data into stream as JPEG image with specified resolution. |
 | [Save](../../aspose.pdf/ximage/save/#save_3)(Stream, ImageFormat, int) | Saves image into stream with requested format with specified resolution. |
 | [ToStream](../../aspose.pdf/ximage/tostream/)() | Returns the original image stream. |
-| [TrySetAlternativeText](../../aspose.pdf/ximage/trysetalternativetext/)(string, Page) |  |
+| [TrySetAlternativeText](../../aspose.pdf/ximage/trysetalternativetext/)(string, Page) | Sets alternative text for an XImage on the page. |
 | static [DetectColorType](../../aspose.pdf/ximage/detectcolortype/)(Bitmap) |  |
 
 ### See Also

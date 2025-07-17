@@ -3,7 +3,7 @@ title: Class PdfToDocOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToDocOptions class. Represents PDF to DOC converter options for DocConverter plugin
 type: docs
-weight: 9220
+weight: 9240
 url: /net/aspose.pdf.plugins/pdftodocoptions/
 ---
 ## PdfToDocOptions class

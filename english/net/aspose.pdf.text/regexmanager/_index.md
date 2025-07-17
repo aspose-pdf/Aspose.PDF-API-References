@@ -3,7 +3,7 @@ title: Class RegexManager
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.RegexManager class. Provides a wrapper for regular expression operations with configurable timeout settings
 type: docs
-weight: 10850
+weight: 10880
 url: /net/aspose.pdf.text/regexmanager/
 ---
 ## RegexManager class

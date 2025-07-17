@@ -3,7 +3,7 @@ title: Enum PdfAStandardVersion
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfAStandardVersion enum. Specifies the PDF/A standard version for a PDF document
 type: docs
-weight: 9150
+weight: 9170
 url: /net/aspose.pdf.plugins/pdfastandardversion/
 ---
 ## PdfAStandardVersion enumeration

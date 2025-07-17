@@ -3,7 +3,7 @@ title: Class SignOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.SignOptions class. Represents Sign Options for Signature plugin
 type: docs
-weight: 9380
+weight: 9400
 url: /net/aspose.pdf.plugins/signoptions/
 ---
 ## SignOptions class

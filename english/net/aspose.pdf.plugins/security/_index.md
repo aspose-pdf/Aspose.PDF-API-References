@@ -3,7 +3,7 @@ title: Class Security
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Security class. Represents Security plugin
 type: docs
-weight: 9360
+weight: 9380
 url: /net/aspose.pdf.plugins/security/
 ---
 ## Security class
