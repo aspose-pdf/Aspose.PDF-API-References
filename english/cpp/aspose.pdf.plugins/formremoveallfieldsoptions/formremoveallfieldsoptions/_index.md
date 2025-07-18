@@ -16,9 +16,6 @@ Initializes new instance of the [FormRemoveAllFieldsOptions](../) object.
 Aspose::Pdf::Plugins::FormRemoveAllFieldsOptions::FormRemoveAllFieldsOptions()
 ```
 
-
-
-
 ## See Also
 
 * Class [FormRemoveAllFieldsOptions](../)

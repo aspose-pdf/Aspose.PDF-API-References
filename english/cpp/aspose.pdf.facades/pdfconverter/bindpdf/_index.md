@@ -67,8 +67,6 @@ void Aspose::Pdf::Facades::PdfConverter::BindPdf(System::String inputFile) overr
 | --- | --- | --- |
 | inputFile | System::String | The pdf file. |
 
-
-
 ## See Also
 
 * Class [String](../../../system/string/)

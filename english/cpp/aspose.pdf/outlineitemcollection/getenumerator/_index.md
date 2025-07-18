@@ -23,7 +23,6 @@ An [System.Collections.IEnumerator](../../../system.collections/ienumerator/) ob
 ## Remarks
 
 
-[System.Collections.IEnumerator](../../../system.collections/ienumerator/)[System.Collections.IEnumerable.GetEnumerator()](../../../system.collections/ienumerable/getenumerator/) { return new OutlineCollection.OutlinesEnumerator(EngineDict, document); }
 
 Returns an enumerator that iterates through the collection.
 

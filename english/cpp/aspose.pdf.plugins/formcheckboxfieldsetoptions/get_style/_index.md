@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/formcheckboxfieldsetoptions/get_style/
 Gets/sets the value to determine property BoxStyle for modified field (if will be set).
 
 ```cpp
-System::Nullable<Aspose::Pdf::Forms::BoxStyle> Aspose::Pdf::Plugins::FormCheckBoxFieldSetOptions::get_Style() const
+System::Nullable<Forms::BoxStyle> Aspose::Pdf::Plugins::FormCheckBoxFieldSetOptions::get_Style() const
 ```
 
 ## See Also

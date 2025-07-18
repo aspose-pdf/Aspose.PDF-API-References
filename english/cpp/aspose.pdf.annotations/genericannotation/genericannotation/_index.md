@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/genericannotation/genericannotation/
 
 
 ```cpp
-Aspose::Pdf::Annotations::GenericAnnotation::GenericAnnotation(System::SharedPtr<Aspose::Pdf::Engine::Data::IPdfObject> engineAnnot, System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::GenericAnnotation::GenericAnnotation(System::SharedPtr<Engine::Data::IPdfObject> engineAnnot, System::SharedPtr<Document> document)
 ```
 
 ## See Also

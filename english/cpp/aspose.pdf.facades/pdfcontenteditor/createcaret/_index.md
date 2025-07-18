@@ -26,9 +26,6 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateCaret(int32_t page, System::D
 | annotContents | System::String | The contents of the annotation. |
 | color | System::Drawing::Color | The color of the annotation. |
 
-
-
-
 ## See Also
 
 * Class [Rectangle](../../../system.drawing/rectangle/)

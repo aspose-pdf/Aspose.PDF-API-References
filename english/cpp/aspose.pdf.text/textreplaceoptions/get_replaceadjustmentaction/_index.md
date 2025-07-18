@@ -4,7 +4,7 @@ linktitle: get_ReplaceAdjustmentAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextReplaceOptions::get_ReplaceAdjustmentAction method. Gets an action that will be done after replace of text fragment to more short in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.text/textreplaceoptions/get_replaceadjustmentaction/
 ---
 ## TextReplaceOptions::get_ReplaceAdjustmentAction method

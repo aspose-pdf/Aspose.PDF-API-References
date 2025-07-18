@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::NonStructElement> Aspose::Pdf::Tagged::ITaggedContent::CreateNonStructElement()=0
+virtual System::SharedPtr<LogicalStructure::NonStructElement> Aspose::Pdf::Tagged::ITaggedContent::CreateNonStructElement()=0
 ```
 
 

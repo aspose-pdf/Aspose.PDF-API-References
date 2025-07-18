@@ -4,7 +4,7 @@ linktitle: Signature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Signature class. Represents Signature plugin in C++.'
 type: docs
-weight: 7100
+weight: 7300
 url: /cpp/aspose.pdf.plugins/signature/
 ---
 ## Signature class

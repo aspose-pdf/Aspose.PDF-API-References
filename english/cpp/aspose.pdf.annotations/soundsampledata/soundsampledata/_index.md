@@ -84,8 +84,6 @@ Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate,
 | bitsPerChannel | int32_t | The number of bits per sample value per channel. |
 | soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | The encoding format for the sample data. |
 
-
-
 ## See Also
 
 * Enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)

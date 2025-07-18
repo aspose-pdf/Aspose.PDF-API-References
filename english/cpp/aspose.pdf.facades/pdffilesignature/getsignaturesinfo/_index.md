@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/
 Retrieves information about all signatures algorithm present in the PDF document.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Aspose::Pdf::Security::SignatureAlgorithmInfo>>> Aspose::Pdf::Facades::PdfFileSignature::GetSignaturesInfo()
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Security::SignatureAlgorithmInfo>>> Aspose::Pdf::Facades::PdfFileSignature::GetSignaturesInfo()
 ```
 
 

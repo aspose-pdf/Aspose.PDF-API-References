@@ -4,7 +4,7 @@ linktitle: StreamDataSource
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::StreamDataSource class. Represents stream data source for load and save operations of a plugin in C++.'
 type: docs
-weight: 7500
+weight: 7700
 url: /cpp/aspose.pdf.plugins/streamdatasource/
 ---
 ## StreamDataSource class

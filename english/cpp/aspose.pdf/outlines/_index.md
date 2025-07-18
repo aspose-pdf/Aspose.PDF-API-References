@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlines/
 Class describes collection of outlines.
 
 ```cpp
-class Outlines : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::OutlineItemCollection>>
+class Outlines : public System::Collections::Generic::ICollection<System::SharedPtr<OutlineItemCollection>>
 ```
 
 ## Methods

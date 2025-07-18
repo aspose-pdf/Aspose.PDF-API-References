@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/
 Creates [Aspose::Pdf::LogicalStructure::ListLBodyElement](../../../aspose.pdf.logicalstructure/listlbodyelement/).
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::ListLBodyElement> Aspose::Pdf::Tagged::ITaggedContent::CreateListLBodyElement()=0
+virtual System::SharedPtr<LogicalStructure::ListLBodyElement> Aspose::Pdf::Tagged::ITaggedContent::CreateListLBodyElement()=0
 ```
 
 

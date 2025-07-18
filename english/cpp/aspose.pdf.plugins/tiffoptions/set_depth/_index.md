@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/set_depth/
 Sets the color depth.
 
 ```cpp
-void Aspose::Pdf::Plugins::TiffOptions::set_Depth(Aspose::Pdf::Devices::ColorDepth value)
+void Aspose::Pdf::Plugins::TiffOptions::set_Depth(Devices::ColorDepth value)
 ```
 
 ## Remarks

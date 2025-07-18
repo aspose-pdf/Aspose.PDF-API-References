@@ -20,9 +20,9 @@ enum class FontStyles
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Regular | 0 | Regular text. |
-| Bold | 1 | Bold text. |
-| Italic | 2 | Italic text. |
+| Regular | n/a | Regular text. |
+| Bold | n/a | Bold text. |
+| Italic | n/a | Italic text. |
 
 ## Remarks
 

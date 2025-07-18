@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/shape/get_text/
 Gets a text for shape.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Text::TextFragment> Aspose::Pdf::Drawing::Shape::get_Text() const
+System::SharedPtr<Text::TextFragment> Aspose::Pdf::Drawing::Shape::get_Text() const
 ```
 
 ## See Also

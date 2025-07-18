@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/
 Represents [GraphicElement](../graphicelement/) collection.
 
 ```cpp
-class GraphicElementCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Vector::GraphicElement>>
+class GraphicElementCollection : public System::Collections::Generic::ICollection<System::SharedPtr<GraphicElement>>
 ```
 
 ## Methods

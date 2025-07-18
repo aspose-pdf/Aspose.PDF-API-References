@@ -4,7 +4,7 @@ linktitle: KeyedSignatureAlgorithmInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::KeyedSignatureAlgorithmInfo class. Represents a class for information about a keyed signature algorithm in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.security/keyedsignaturealgorithminfo/
 ---
 ## KeyedSignatureAlgorithmInfo class

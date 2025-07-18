@@ -53,10 +53,10 @@ class PdfFileInfo : public Aspose::Pdf::Facades::SaveableFacade
 | [PdfFileInfo](./pdffileinfo/)() | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class with default values. |
 | [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
 | [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Aspose::Pdf::Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
 | [PdfFileInfo](./pdffileinfo/)(System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
 | [PdfFileInfo](./pdffileinfo/)(System::String, System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::String, System::String, System::SharedPtr\<Aspose::Pdf::Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
 | [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfFileInfo](./) object on base of the *document* . |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified file. |
 | [Save](./save/)(System::String) override | Saves the PDF document to the specified file. |

@@ -36,7 +36,7 @@ class TableTRElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 | [set_Border](./set_border/)(System::SharedPtr\<BorderInfo\>) | Sets the row border. |
 | [set_DefaultCellBorder](./set_defaultcellborder/)(System::SharedPtr\<BorderInfo\>) | Gets default cell border. |
 | [set_DefaultCellPadding](./set_defaultcellpadding/)(System::SharedPtr\<MarginInfo\>) | Sets default margin for row cells. |
-| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets default text state for row cells. |
+| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Text::TextState\>) | Sets default text state for row cells. |
 | [set_FixedRowHeight](./set_fixedrowheight/)(double) | Gets fixed row height - row may have fixed height. |
 | [set_IsInNewPage](./set_isinnewpage/)(bool) | Gets fixed row is in new page - page with this property should be printed to next page Default false. |
 | [set_IsRowBroken](./set_isrowbroken/)(bool) | Gets is row can be broken between two pages. |

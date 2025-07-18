@@ -16,9 +16,6 @@ Default rdf namespace uri.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::RdfNamespaceURI
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

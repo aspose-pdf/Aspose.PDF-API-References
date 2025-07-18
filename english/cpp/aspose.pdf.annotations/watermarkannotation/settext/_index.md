@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/watermarkannotation/settext/
 Set text of the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::WatermarkAnnotation::SetText(System::SharedPtr<Aspose::Pdf::Facades::FormattedText> text)
+void Aspose::Pdf::Annotations::WatermarkAnnotation::SetText(System::SharedPtr<Facades::FormattedText> text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::SharedPtr\<Aspose::Pdf::Facades::FormattedText\> | [Text](../../../aspose.pdf.text/) value. |
+| text | System::SharedPtr\<Facades::FormattedText\> | [Text](../../../aspose.pdf.text/) value. |
 
 ## See Also
 

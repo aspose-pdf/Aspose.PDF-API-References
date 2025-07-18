@@ -14,7 +14,7 @@ A class for accessing an object's dictionary.
 
 ```cpp
 class CosPdfDictionary : public Aspose::Pdf::DataEditor::CosPdfPrimitive,
-                         public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::DataEditor::ICosPdfPrimitive>>
+                         public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<ICosPdfPrimitive>>
 ```
 
 ## Methods
@@ -40,7 +40,6 @@ class CosPdfDictionary : public Aspose::Pdf::DataEditor::CosPdfPrimitive,
 | [idx_set](./idx_set/)(const System::String\&, System::SharedPtr\<ICosPdfPrimitive\>) override | Sets the element with the specified key. |
 | [Remove](./remove/)(const System::String\&) override | Removes the element with the specified key from the [CosPdfDictionary](./). |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\&) override | Removes the first occurrence of a specific object from the [CosPdfDictionary](./). |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | [ToCosPdfDictionary](./tocospdfdictionary/)() override | Tries cast this instance to [CosPdfDictionary](./). |
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<ICosPdfPrimitive\>\&) const override | For access to simple data type like string, name, bool, number. Returns null for other types. |
 ## See Also

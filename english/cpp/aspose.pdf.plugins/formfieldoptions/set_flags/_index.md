@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/formfieldoptions/set_flags/
 Gets/sets the value to determine property Flags for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::Plugins::FormFieldOptions::set_Flags(System::Nullable<Aspose::Pdf::Annotations::AnnotationFlags> value)
+void Aspose::Pdf::Plugins::FormFieldOptions::set_Flags(System::Nullable<Annotations::AnnotationFlags> value)
 ```
 
 ## See Also

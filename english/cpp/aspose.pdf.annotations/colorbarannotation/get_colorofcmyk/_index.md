@@ -16,9 +16,6 @@ Gets color (one of cyan, magenta, yellow, black) for which the annotation is dra
 ColorsOfCMYK Aspose::Pdf::Annotations::ColorBarAnnotation::get_ColorOfCMYK() const
 ```
 
-
-
-
 ## See Also
 
 * Enum [ColorsOfCMYK](../../colorsofcmyk/)

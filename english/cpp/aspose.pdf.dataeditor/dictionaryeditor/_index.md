@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.dataeditor/dictionaryeditor/
 A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary).
 
 ```cpp
-class DictionaryEditor : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::DataEditor::ICosPdfPrimitive>>
+class DictionaryEditor : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<ICosPdfPrimitive>>
 ```
 
 ## Methods

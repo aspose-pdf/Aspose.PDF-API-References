@@ -2,7 +2,7 @@
 title: Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory method
 linktitle: to_StructureTypeCategory
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use to_StructureTypeCategory method of Aspose::Pdf::LogicalStructure::StructureTypeCategory class in C++.'
+description: 'Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory method. Performs an explicit conversion from System::String to Aspose::Pdf::LogicalStructure::StructureTypeCategory in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/to_structuretypecategory/
@@ -10,11 +10,20 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/to_structuretypecate
 ## StructureTypeCategory::to_StructureTypeCategory method
 
 
-
+Performs an explicit conversion from [System::String](../../../system/string/) to [Aspose::Pdf::LogicalStructure::StructureTypeCategory](../).
 
 ```cpp
 static System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory(System::String name)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | System::String | The name. |
+
+### ReturnValue
+
+The result of the conversion.
 
 ## See Also
 

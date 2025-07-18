@@ -16,9 +16,6 @@ Default schema namespace uri.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultSchemaNamespaceUri
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

@@ -43,9 +43,7 @@ class PdfFormatConversionOptions : public System::Object
 | [get_LogStream](./get_logstream/)() const | Stream where comments will be stored. |
 | [get_NonSpecificationCases](./get_nonspecificationcases/)() const | Holds flags to control PDF/A conversion process for cases when source document doesn't correspond to PDF/A specification. |
 | [get_NotAccessibleFonts](./get_notaccessiblefonts/)() | This property is out-property. It holds all the fonts(font names) which were not found on computer at last PDF/A conversion. |
-| [get_OptimizeFileSize](./get_optimizefilesize/)() const | Gets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. 
-
- Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
+| [get_OptimizeFileSize](./get_optimizefilesize/)() const | Gets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
 | [get_OutputIntent](./get_outputintent/)() const | Gets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
 | [get_PuaTextProcessingStrategy](./get_puatextprocessingstrategy/)() const | Strategy to process symbols from unicode Private Use Area (PUA). |
 | [get_SymbolicFontEncodingStrategy](./get_symbolicfontencodingstrategy/)() const | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
@@ -69,9 +67,7 @@ class PdfFormatConversionOptions : public System::Object
 | [set_IsTransferInfo](./set_istransferinfo/)(bool) | Sets whether to pass data from Info to [Metadata](../metadata/) when converted to PDF 2.0. True by default. |
 | [set_LogFileName](./set_logfilename/)(System::String) | Path to file where comments will be stored. |
 | [set_LogStream](./set_logstream/)(System::SharedPtr\<System::IO::Stream\>) | Stream where comments will be stored. |
-| [set_OptimizeFileSize](./set_optimizefilesize/)(bool) | Sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. 
-
- Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
+| [set_OptimizeFileSize](./set_optimizefilesize/)(bool) | Sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
 | [set_OutputIntent](./set_outputintent/)(System::SharedPtr\<Aspose::Pdf::OutputIntent\>) | Sets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
 | [set_PuaTextProcessingStrategy](./set_puatextprocessingstrategy/)(PdfFormatConversionOptions::PuaProcessingStrategy) | Strategy to process symbols from unicode Private Use Area (PUA). |
 | [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::BibEntryElement> Aspose::Pdf::Tagged::ITaggedContent::CreateBibEntryElement()=0
+virtual System::SharedPtr<LogicalStructure::BibEntryElement> Aspose::Pdf::Tagged::ITaggedContent::CreateBibEntryElement()=0
 ```
 
 

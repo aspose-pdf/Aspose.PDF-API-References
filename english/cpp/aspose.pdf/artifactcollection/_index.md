@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifactcollection/
 Class represents artifact collection.
 
 ```cpp
-class ArtifactCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Artifact>>
+class ArtifactCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Artifact>>
 ```
 
 ## Methods

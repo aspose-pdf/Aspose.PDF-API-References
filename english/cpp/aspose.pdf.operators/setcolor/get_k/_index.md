@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_k/
 Gets the black component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColor::get_K() const
+double Aspose::Pdf::Operators::SetColor::get_K()
 ```
 
 ## See Also

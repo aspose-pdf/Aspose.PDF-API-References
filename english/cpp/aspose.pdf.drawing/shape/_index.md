@@ -24,7 +24,7 @@ class Shape : public Aspose::Pdf::IBoundsCheckableItem
 | [get_GraphInfo](./get_graphinfo/)() const | Gets a [GraphInfo](../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
 | [get_Text](./get_text/)() const | Gets a text for shape. |
 | [set_GraphInfo](./set_graphinfo/)(System::SharedPtr\<Aspose::Pdf::GraphInfo\>) | Sets a [GraphInfo](../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
-| [set_Text](./set_text/)(System::SharedPtr\<Aspose::Pdf::Text::TextFragment\>) | Sets a text for shape. |
+| [set_Text](./set_text/)(System::SharedPtr\<Text::TextFragment\>) | Sets a text for shape. |
 | [Shape](./shape/)() |  |
 ## See Also
 

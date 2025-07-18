@@ -25,7 +25,7 @@ class RadioButtonOptionField : public Aspose::Pdf::Forms::Field
 | [get_Style](./get_style/)() | Gets style of check box. |
 | [RadioButtonOptionField](./radiobuttonoptionfield/)() | Create new [RadioButtonOptionField](./) instance. |
 | [RadioButtonOptionField](./radiobuttonoptionfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates radiobutton in the specified recangle on specified page. |
-| [set_Caption](./set_caption/)(System::SharedPtr\<Aspose::Pdf::Text::TextFragment\>) | Sets caption. |
+| [set_Caption](./set_caption/)(System::SharedPtr\<Text::TextFragment\>) | Sets caption. |
 | [set_OptionName](./set_optionname/)(System::String) | Sets name of the option. |
 | [set_Style](./set_style/)(BoxStyle) | Sets style of check box. |
 ## See Also

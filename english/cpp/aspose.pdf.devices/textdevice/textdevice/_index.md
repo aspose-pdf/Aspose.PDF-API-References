@@ -21,50 +21,6 @@ Aspose::Pdf::Devices::TextDevice::TextDevice()
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextDevice::TextDevice(System::SharedPtr\<Aspose::Pdf::Text::TextExtractionOptions\>) constructor
-
-
-Initializes a new instance of the [TextDevice](../) with text extraction options.
-
-```cpp
-Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> extractionOptions)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| extractionOptions | System::SharedPtr\<Aspose::Pdf::Text::TextExtractionOptions\> | [Text](../../../aspose.pdf.text/) extraction options. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* Class [TextDevice](../)
-* Namespace [Aspose::Pdf::Devices](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TextDevice::TextDevice(System::SharedPtr\<Aspose::Pdf::Text::TextExtractionOptions\>, System::SharedPtr\<System::Text::Encoding\>) constructor
-
-
-Initializes a new instance of the [TextDevice](../) for the specified encoding with text extraction options.
-
-```cpp
-Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> extractionOptions, System::SharedPtr<System::Text::Encoding> encoding)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| extractionOptions | System::SharedPtr\<Aspose::Pdf::Text::TextExtractionOptions\> | [Text](../../../aspose.pdf.text/) extraction options. |
-| encoding | System::SharedPtr\<System::Text::Encoding\> | Encoding of extracted text. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* Class [Encoding](../../../system.text/encoding/)
-* Class [TextDevice](../)
-* Namespace [Aspose::Pdf::Devices](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## TextDevice::TextDevice(System::SharedPtr\<System::Text::Encoding\>) constructor
 
 
@@ -82,6 +38,50 @@ Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<System::Text::Enc
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Encoding](../../../system.text/encoding/)
+* Class [TextDevice](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TextDevice::TextDevice(System::SharedPtr\<Text::TextExtractionOptions\>) constructor
+
+
+Initializes a new instance of the [TextDevice](../) with text extraction options.
+
+```cpp
+Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Text::TextExtractionOptions> extractionOptions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| extractionOptions | System::SharedPtr\<Text::TextExtractionOptions\> | [Text](../../../aspose.pdf.text/) extraction options. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* Class [TextDevice](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TextDevice::TextDevice(System::SharedPtr\<Text::TextExtractionOptions\>, System::SharedPtr\<System::Text::Encoding\>) constructor
+
+
+Initializes a new instance of the [TextDevice](../) for the specified encoding with text extraction options.
+
+```cpp
+Aspose::Pdf::Devices::TextDevice::TextDevice(System::SharedPtr<Text::TextExtractionOptions> extractionOptions, System::SharedPtr<System::Text::Encoding> encoding)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| extractionOptions | System::SharedPtr\<Text::TextExtractionOptions\> | [Text](../../../aspose.pdf.text/) extraction options. |
+| encoding | System::SharedPtr\<System::Text::Encoding\> | Encoding of extracted text. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * Class [Encoding](../../../system.text/encoding/)
 * Class [TextDevice](../)
 * Namespace [Aspose::Pdf::Devices](../../)

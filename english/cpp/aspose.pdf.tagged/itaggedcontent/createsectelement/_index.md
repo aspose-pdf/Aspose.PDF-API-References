@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createsectelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::SectElement> Aspose::Pdf::Tagged::ITaggedContent::CreateSectElement()=0
+virtual System::SharedPtr<LogicalStructure::SectElement> Aspose::Pdf::Tagged::ITaggedContent::CreateSectElement()=0
 ```
 
 

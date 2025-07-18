@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/
 [Collection](../../aspose.pdf/collection/) of base logical structure elements.
 
 ```cpp
-class ElementCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::Structure::Element>>
+class ElementCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Element>>
 ```
 
 ## Methods

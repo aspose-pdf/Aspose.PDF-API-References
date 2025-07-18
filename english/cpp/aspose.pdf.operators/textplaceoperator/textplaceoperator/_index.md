@@ -21,19 +21,19 @@ Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator()
 * Class [TextPlaceOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextPlaceOperator::TextPlaceOperator(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) constructor
+## TextPlaceOperator::TextPlaceOperator(System::SharedPtr\<Facades::TextProperties\>) constructor
 
 
 Initializes [TextPlaceOperator](../) which accepts TextProperties.
 
 ```cpp
-Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator(System::SharedPtr<Aspose::Pdf::Facades::TextProperties> textProperties)
+Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator(System::SharedPtr<Facades::TextProperties> textProperties)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textProperties | System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
+| textProperties | System::SharedPtr\<Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
 
 ## See Also
 

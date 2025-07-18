@@ -75,4 +75,4 @@ The **[Aspose.Pdf.Facades](./)** namespace provides classes originaly came from 
 
 | Typedef | Description |
 | --- | --- |
-| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) |  |
+| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the [PdfViewer::PdfQueryPageSettings](../) event of a [PdfViewer](../). |

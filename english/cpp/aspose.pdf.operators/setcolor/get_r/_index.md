@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_r/
 Gets the red component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColor::get_R() const
+double Aspose::Pdf::Operators::SetColor::get_R()
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/idx_get/
 Gets subfield contained in this field by index.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Field::idx_get(int32_t index)
+System::SharedPtr<Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Field::idx_get(int32_t index)
 ```
 
 
@@ -38,7 +38,7 @@ System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms
 Gets subfield contained in this field by name of the subfield.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Field::idx_get(System::String name)
+System::SharedPtr<Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Field::idx_get(System::String name)
 ```
 
 

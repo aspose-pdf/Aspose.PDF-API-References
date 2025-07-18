@@ -31,7 +31,7 @@ class AttributeOwnerStandard : public System::Object
 | static [PrintField](./printfield/)() | PrintField attribute owner. |
 | static [Rtf_105](./rtf_105/)() | RTF-1.05 attribute owner. |
 | static [Table](./table/)() | [Table](../../aspose.pdf/table/) attribute owner. |
-| static [to_AttributeOwnerStandard](./to_attributeownerstandard/)(System::String) |  |
+| static [to_AttributeOwnerStandard](./to_attributeownerstandard/)(System::String) | Performs an explicit conversion from [System::String](../../system/string/) to [Aspose::Pdf::LogicalStructure::AttributeOwnerStandard](./). |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 | static [Xml_100](./xml_100/)() | XML-1.0.0 attribute owner. |
 ## See Also

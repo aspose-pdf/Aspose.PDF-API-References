@@ -107,6 +107,53 @@ Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, Sys
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>) constructor
+
+
+Initialize new [Document](../) instance from the *input*  stream.
+
+```cpp
+Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, System::SharedPtr<Security::CertificateEncryptionOptions> certOptions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | System::SharedPtr\<System::IO::Stream\> | Input stream object, corresponding pdf is password protected. |
+| certOptions | System::SharedPtr\<Security::CertificateEncryptionOptions\> | The certificate encryption options. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) constructor
+
+
+Initialize new [Document](../) instance from the *input*  stream.
+
+```cpp
+Aspose::Pdf::Document::Document(System::SharedPtr<System::IO::Stream> input, System::SharedPtr<Security::CertificateEncryptionOptions> certOptions, bool isManagedStream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | System::SharedPtr\<System::IO::Stream\> | Stream with pdf document. |
+| certOptions | System::SharedPtr\<Security::CertificateEncryptionOptions\> | The certificate encryption options. |
+| isManagedStream | bool | If set to **true** inner stream is closed before exit; otherwise, is not. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Document::Document(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
 
 
@@ -266,6 +313,53 @@ Aspose::Pdf::Document::Document(System::String filename, System::SharedPtr<LoadO
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LoadOptions](../../loadoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>) constructor
+
+
+Initializes new instance of the [Document](../) class for working with encrypted document.
+
+```cpp
+Aspose::Pdf::Document::Document(System::String filename, System::SharedPtr<Security::CertificateEncryptionOptions> certOptions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | System::String | [Document](../) file name. |
+| certOptions | System::SharedPtr\<Security::CertificateEncryptionOptions\> | The certificate encryption options. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Document(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) constructor
+
+
+Initializes new instance of the [Document](../) class for working with encrypted document.
+
+```cpp
+Aspose::Pdf::Document::Document(System::String filename, System::SharedPtr<Security::CertificateEncryptionOptions> certOptions, bool isManagedStream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | System::String | [Document](../) file name. |
+| certOptions | System::SharedPtr\<Security::CertificateEncryptionOptions\> | The certificate encryption options. |
+| isManagedStream | bool | if set to **true** inner stream is closed before exit; otherwise, is not. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

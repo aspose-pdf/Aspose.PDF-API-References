@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/stamp/bindtextstate/
 Sets text state of stamp text.
 
 ```cpp
-void Aspose::Pdf::Facades::Stamp::BindTextState(System::SharedPtr<Aspose::Pdf::Text::TextState> textState)
+void Aspose::Pdf::Facades::Stamp::BindTextState(System::SharedPtr<Text::TextState> textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textState | System::SharedPtr\<Aspose::Pdf::Text::TextState\> | TextState object which specifies text properties. |
+| textState | System::SharedPtr\<Text::TextState\> | TextState object which specifies text properties. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: TableBuilder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::TableBuilder class. Class represents builder for table in pdf page in C++.'
 type: docs
-weight: 7900
+weight: 8100
 url: /cpp/aspose.pdf.plugins/tablebuilder/
 ---
 ## TableBuilder class
@@ -24,7 +24,7 @@ class TableBuilder : public System::Object
 | [AddTable](./addtable/)() | Add new table to document. |
 | [InsertPageAfter](./insertpageafter/)(int32_t) | Insert page after specified page. |
 | [InsertPageBefore](./insertpagebefore/)(int32_t) | Insert page before specified page. |
-| static [to_TableOptions](./to_tableoptions/)(System::SharedPtr\<TableBuilder\>) |  |
+| static [to_TableOptions](./to_tableoptions/)(System::SharedPtr\<TableBuilder\>) | Converts builder [TableBuilder](./) to options [TableOptions](../tableoptions/) |
 ## See Also
 
 * Class [Object](../../system/object/)

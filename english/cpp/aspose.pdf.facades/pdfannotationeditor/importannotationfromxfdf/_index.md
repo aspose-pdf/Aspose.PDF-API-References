@@ -31,20 +31,20 @@ Method is obsolete, please use ImportAnnotationsFromXfdf instead
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::ImportAnnotationFromXfdf(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ImportAnnotationFromXfdf(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Imports the specified annotations from XFDF data stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationFromXfdf(System::SharedPtr<System::IO::Stream> xfdfStream, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationFromXfdf(System::SharedPtr<System::IO::Stream> xfdfStream, System::ArrayPtr<Annotations::AnnotationType> annotType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xfdfStream | System::SharedPtr\<System::IO::Stream\> | The input XFDF data stream. |
-| annotType | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The array of annotation types to be imported. |
+| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The array of annotation types to be imported. |
 
 ## See Also
 
@@ -78,20 +78,20 @@ Method is obsolete, please use ImportAnnotationsFromXfdf instead
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::ImportAnnotationFromXfdf(System::String, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ImportAnnotationFromXfdf(System::String, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Imports the specified annotations from XFDF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationFromXfdf(System::String xfdfFile, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationFromXfdf(System::String xfdfFile, System::ArrayPtr<Annotations::AnnotationType> annotType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xfdfFile | System::String | The input XFDF file. |
-| annotType | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The annotations array to be imported. |
+| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The annotations array to be imported. |
 
 ## See Also
 

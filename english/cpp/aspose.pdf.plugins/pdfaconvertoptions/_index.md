@@ -4,7 +4,7 @@ linktitle: PdfAConvertOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfAConvertOptions class. Represents options for converting PDF documents to PDF/A format with the PdfAConverter plugin in C++.'
 type: docs
-weight: 5200
+weight: 5400
 url: /cpp/aspose.pdf.plugins/pdfaconvertoptions/
 ---
 ## PdfAConvertOptions class

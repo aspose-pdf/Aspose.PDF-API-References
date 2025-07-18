@@ -4,7 +4,7 @@ linktitle: ReplaceAdjustment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextReplaceOptions::ReplaceAdjustment enum. Determines action that will be done after replace of text fragment to more short. None - no action, replaced text may overlaps rest of the line; AdjustSpaceWidth - tries adjust spaces between words to keep line length; WholeWordsHyphenation - tries distribute words between paragraph lines to keep paragraph''s right field; ShiftRestOfLine - shifts rest of the line according to changing length of text, length of the line may be changed; Default value is ShiftRestOfLine in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/aspose.pdf.text/textreplaceoptions/replaceadjustment/
 ---
 ## ReplaceAdjustment enum

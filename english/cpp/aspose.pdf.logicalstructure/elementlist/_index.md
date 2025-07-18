@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/elementlist/
 Represents an ordered collection of elements.
 
 ```cpp
-class ElementList : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::LogicalStructure::Element>>
+class ElementList : public System::Collections::Generic::IEnumerable<System::SharedPtr<Element>>
 ```
 
 ## Methods

@@ -14,7 +14,7 @@ Represents row of table that exist on the page.
 
 ```cpp
 class AbsorbedRow : public Aspose::Pdf::Text::ITableElement,
-                    public System::IComparable<System::SharedPtr<Aspose::Pdf::Text::AbsorbedRow>>
+                    public System::IComparable<System::SharedPtr<AbsorbedRow>>
 ```
 
 ## Methods

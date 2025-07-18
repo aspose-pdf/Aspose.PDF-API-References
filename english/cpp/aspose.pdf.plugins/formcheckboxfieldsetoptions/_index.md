@@ -23,7 +23,7 @@ class FormCheckBoxFieldSetOptions : public Aspose::Pdf::Plugins::FormFieldSetOpt
 | [get_Checked](./get_checked/)() const | Gets/sets the value to determine property Checked for modified field (if will be set). |
 | [get_Style](./get_style/)() const | Gets/sets the value to determine property BoxStyle for modified field (if will be set). |
 | [set_Checked](./set_checked/)(System::Nullable\<bool\>) | Gets/sets the value to determine property Checked for modified field (if will be set). |
-| [set_Style](./set_style/)(System::Nullable\<Aspose::Pdf::Forms::BoxStyle\>) | Gets/sets the value to determine property BoxStyle for modified field (if will be set). |
+| [set_Style](./set_style/)(System::Nullable\<Forms::BoxStyle\>) | Gets/sets the value to determine property BoxStyle for modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldSetOptions](../formfieldsetoptions/)

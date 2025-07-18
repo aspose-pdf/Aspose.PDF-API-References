@@ -7,13 +7,13 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 ---
-## PdfAnnotationEditor::ExportAnnotationsXfdf(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ExportAnnotationsXfdf(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Exports the content of the specified annotations types into XFDF.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsXfdf(System::SharedPtr<System::IO::Stream> xmlOutputStream, int32_t start, int32_t end, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotTypes)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsXfdf(System::SharedPtr<System::IO::Stream> xmlOutputStream, int32_t start, int32_t end, System::ArrayPtr<Annotations::AnnotationType> annotTypes)
 ```
 
 
@@ -22,7 +22,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsXfdf(System::Sh
 | xmlOutputStream | System::SharedPtr\<System::IO::Stream\> | The output XFDF stream. |
 | start | int32_t | Start page from which the annotations of the document will be exported. |
 | end | int32_t | End page to which the annotations of the document will be exported. |
-| annotTypes | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The array of annotation types need be exported. |
+| annotTypes | System::ArrayPtr\<Annotations::AnnotationType\> | The array of annotation types need be exported. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/get_dash/
 Gets dash pattern.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::Dash> Aspose::Pdf::Annotations::Border::get_Dash() const
+System::SharedPtr<Aspose::Pdf::Annotations::Dash> Aspose::Pdf::Annotations::Border::get_Dash()
 ```
 
 ## See Also

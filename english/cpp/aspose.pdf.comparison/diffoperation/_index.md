@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/diffoperation/
 Represents a class of diff operation.
 
 ```cpp
-class DiffOperation : public System::IEquatable<System::SharedPtr<Aspose::Pdf::Comparison::DiffOperation>>
+class DiffOperation : public System::IEquatable<System::SharedPtr<DiffOperation>>
 ```
 
 ## Methods

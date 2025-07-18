@@ -60,4 +60,4 @@ The **[Aspose.Pdf.Forms](./)** namespace has classes which describes forms (stan
 
 | Typedef | Description |
 | --- | --- |
-| [SignHash](./signhash/) |  |
+| [SignHash](./signhash/) | Delegate for custom sign the document hash. |

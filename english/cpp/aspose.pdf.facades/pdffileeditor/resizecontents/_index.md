@@ -23,9 +23,6 @@ void Aspose::Pdf::Facades::PdfFileEditor::ResizeContents(System::SharedPtr<Docum
 | pages | System::ArrayPtr\<int32_t\> | List of page indexes. |
 | parameters | System::SharedPtr\<PdfFileEditor::ContentsResizeParameters\> | Resize parameters. |
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
@@ -49,9 +46,6 @@ void Aspose::Pdf::Facades::PdfFileEditor::ResizeContents(System::SharedPtr<Docum
 | --- | --- | --- |
 | source | System::SharedPtr\<Document\> | Source document. |
 | parameters | System::SharedPtr\<PdfFileEditor::ContentsResizeParameters\> | Resize parameters. |
-
-
-
 
 ## See Also
 

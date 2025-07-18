@@ -4,7 +4,7 @@ linktitle: TableOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::TableOptions class. Represents options for add table to document by TableGenerator plugin in C++.'
 type: docs
-weight: 8200
+weight: 8400
 url: /cpp/aspose.pdf.plugins/tableoptions/
 ---
 ## TableOptions class

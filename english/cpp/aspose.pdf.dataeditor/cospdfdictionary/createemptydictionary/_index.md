@@ -4,7 +4,7 @@ linktitle: CreateEmptyDictionary
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfDictionary::CreateEmptyDictionary method. Creates an empty dictionary that will be attached to the document in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
 ---
 ## CosPdfDictionary::CreateEmptyDictionary(System::SharedPtr\<Document\>) method

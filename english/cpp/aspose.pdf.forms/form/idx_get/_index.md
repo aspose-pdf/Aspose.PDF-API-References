@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/idx_get/
 Gets field of the form by field index.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Form::idx_get(int32_t index)
+System::SharedPtr<Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Form::idx_get(int32_t index)
 ```
 
 
@@ -38,7 +38,7 @@ Retreived field.
 Gets field of the form by field name. Throws excpetion if the field was not found.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Form::idx_get(System::String name)
+System::SharedPtr<Annotations::WidgetAnnotation> Aspose::Pdf::Forms::Form::idx_get(System::String name)
 ```
 
 

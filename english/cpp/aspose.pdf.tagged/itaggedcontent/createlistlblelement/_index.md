@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createlistlblelement/
 Creates [Aspose::Pdf::LogicalStructure::ListLblElement](../../../aspose.pdf.logicalstructure/listlblelement/).
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::ListLblElement> Aspose::Pdf::Tagged::ITaggedContent::CreateListLblElement()=0
+virtual System::SharedPtr<LogicalStructure::ListLblElement> Aspose::Pdf::Tagged::ITaggedContent::CreateListLblElement()=0
 ```
 
 

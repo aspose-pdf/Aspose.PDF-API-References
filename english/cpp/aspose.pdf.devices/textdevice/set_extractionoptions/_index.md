@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/textdevice/set_extractionoptions/
 Sets text extraction options.
 
 ```cpp
-void Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions(System::SharedPtr<Aspose::Pdf::Text::TextExtractionOptions> value)
+void Aspose::Pdf::Devices::TextDevice::set_ExtractionOptions(System::SharedPtr<Text::TextExtractionOptions> value)
 ```
 
 ## See Also

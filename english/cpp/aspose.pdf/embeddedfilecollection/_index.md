@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilecollection/
 Class representing embedded files collection.
 
 ```cpp
-class EmbeddedFileCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::FileSpecification>>
+class EmbeddedFileCollection : public System::Collections::Generic::ICollection<System::SharedPtr<FileSpecification>>
 ```
 
 ## Methods

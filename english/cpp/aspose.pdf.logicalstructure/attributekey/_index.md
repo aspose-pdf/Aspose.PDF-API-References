@@ -22,7 +22,7 @@ class AttributeKey : public System::Object
 | --- | --- |
 | [get_Key](./get_key/)() const | Get Attribute Key. |
 | [get_Owner](./get_owner/)() const | Get Attribute Owner. |
-| static [to_AttributeKey](./to_attributekey/)(System::String) |  |
+| static [to_AttributeKey](./to_attributekey/)(System::String) | Performs an explicit conversion from [System::String](../../system/string/) to [Aspose::Pdf::LogicalStructure::AttributeKey](./). |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 ## Fields
 

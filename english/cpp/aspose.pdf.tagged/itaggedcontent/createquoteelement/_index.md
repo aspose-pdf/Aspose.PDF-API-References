@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::QuoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateQuoteElement()=0
+virtual System::SharedPtr<LogicalStructure::QuoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateQuoteElement()=0
 ```
 
 

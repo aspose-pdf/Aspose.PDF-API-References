@@ -4,7 +4,7 @@ linktitle: ToCosPdfDictionary
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfDictionary::ToCosPdfDictionary method. Tries cast this instance to CosPdfDictionary in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
 ## CosPdfDictionary::ToCosPdfDictionary method

@@ -2,8 +2,7 @@
 title: Aspose::Pdf::LoadOptions::MarginsAreaUsageModes enum
 linktitle: MarginsAreaUsageModes
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::LoadOptions::MarginsAreaUsageModes enum. Represents mode of usage of margins area during conversion 
- (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins in C++.'
+description: 'Aspose::Pdf::LoadOptions::MarginsAreaUsageModes enum. Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.pdf/loadoptions/marginsareausagemodes/
@@ -11,9 +10,7 @@ url: /cpp/aspose.pdf/loadoptions/marginsareausagemodes/
 ## MarginsAreaUsageModes enum
 
 
-Represents mode of usage of margins area during conversion 
-
- (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins.
+Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins.
 
 ```cpp
 enum class MarginsAreaUsageModes

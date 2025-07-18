@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/
 Class representing form object.
 
 ```cpp
-class Form : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>
+class Form : public System::Collections::Generic::ICollection<System::SharedPtr<Annotations::WidgetAnnotation>>
 ```
 
 ## Nested classes

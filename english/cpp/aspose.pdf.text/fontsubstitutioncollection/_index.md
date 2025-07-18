@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontsubstitutioncollection/
 Represents font substitution strategies collection.
 
 ```cpp
-class FontSubstitutionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Text::FontSubstitution>>
+class FontSubstitutionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<FontSubstitution>>
 ```
 
 ## Methods

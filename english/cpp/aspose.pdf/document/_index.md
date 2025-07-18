@@ -54,6 +54,10 @@ class Document : public System::IDisposable,
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, bool) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool) | Initialize new [Document](./) instance from the *input*  stream. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
@@ -67,15 +71,16 @@ class Document : public System::IDisposable,
 | [Document](./document/)(PdfVersion) | Initializes empty document by version. |
 | [Document](./document/)(System::String, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a file providing necessary converting options to get pdf document. |
 | [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a stream providing necessary converting to get pdf document. |
-| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) | Encrypts the document. Call then Save to get encrypted version of the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. Call then Save to get encrypted version of the document. |
+| [Encrypt](./encrypt/)(Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>) | Encrypts the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) | Encrypts the document. |
+| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
 | [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(System::String) | Exports all document annotations to XFDF file. |
 | [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Export all document annotations into stream. |
 | [Flatten](./flatten/)() | Removes all fields from the document and place their values instead. |
-| [Flatten](./flatten/)(System::SharedPtr\<Aspose::Pdf::Forms::Form::FlattenSettings\>) | Removes all fields (and annotations) from the document and place their values instead. |
+| [Flatten](./flatten/)(System::SharedPtr\<Forms::Form::FlattenSettings\>) | Removes all fields (and annotations) from the document and place their values instead. |
 | [FlattenTransparency](./flattentransparency/)() | Replaces transparent content with non-transparent raster and vector graphics. |
 | [FreeMemory](./freememory/)() override | Clears memory. |
 | [get_Actions](./get_actions/)() | Gets document actions. This property is instance of DocumentActions class which allows to get/set BeforClosing, BeforSaving, etc. actions. |

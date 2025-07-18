@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentcollection/
 Represents a text fragments collection.
 
 ```cpp
-class TextFragmentCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Text::TextFragment>>
+class TextFragmentCollection : public System::Collections::Generic::ICollection<System::SharedPtr<TextFragment>>
 ```
 
 ## Methods

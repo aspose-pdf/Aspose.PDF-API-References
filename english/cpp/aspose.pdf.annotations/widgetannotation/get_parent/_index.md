@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/get_parent/
 Gets annotation parent.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Forms::Field> Aspose::Pdf::Annotations::WidgetAnnotation::get_Parent()
+System::SharedPtr<Forms::Field> Aspose::Pdf::Annotations::WidgetAnnotation::get_Parent()
 ```
 
 ## See Also

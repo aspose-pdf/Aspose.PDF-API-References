@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/field/executefieldjavascript/
 Executes a specified JavaScript action for the field.
 
 ```cpp
-void Aspose::Pdf::Forms::Field::ExecuteFieldJavaScript(System::SharedPtr<Aspose::Pdf::Annotations::JavascriptAction> javaScriptAction)
+void Aspose::Pdf::Forms::Field::ExecuteFieldJavaScript(System::SharedPtr<Annotations::JavascriptAction> javaScriptAction)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| javaScriptAction | System::SharedPtr\<Aspose::Pdf::Annotations::JavascriptAction\> | The JavaScript action to execute. |
+| javaScriptAction | System::SharedPtr\<Annotations::JavascriptAction\> | The JavaScript action to execute. |
 
 ## See Also
 

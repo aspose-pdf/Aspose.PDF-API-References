@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintents/
 Represents the collection of [OutputIntent](../outputintent/).
 
 ```cpp
-class OutputIntents : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::OutputIntent>>
+class OutputIntents : public System::Collections::Generic::ICollection<System::SharedPtr<OutputIntent>>
 ```
 
 ## Methods

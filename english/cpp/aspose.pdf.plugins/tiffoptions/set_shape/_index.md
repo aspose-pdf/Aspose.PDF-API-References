@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/set_shape/
 Sets the type of the shape.
 
 ```cpp
-void Aspose::Pdf::Plugins::TiffOptions::set_Shape(Aspose::Pdf::Devices::ShapeType value)
+void Aspose::Pdf::Plugins::TiffOptions::set_Shape(Devices::ShapeType value)
 ```
 
 ## Remarks

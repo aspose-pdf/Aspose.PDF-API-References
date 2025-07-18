@@ -13,8 +13,9 @@ url: /cpp/aspose.pdf/document/callbackgethocrwithpage/
 The call back procedure for hocr recognize.
 
 ```cpp
-using Aspose::Pdf::Document::CallBackGetHocrWithPage =  System::MulticastDelegate<System::String(System::SharedPtr<System::Drawing::Image>, System::SharedPtr<Page>)>
+using Aspose::Pdf::Document::CallBackGetHocrWithPage =  System::MulticastDelegate<System::String(System::SharedPtr<System::Drawing::Image>, System::SharedPtr<Aspose::Pdf::Page>)>
 ```
+
 
 ## See Also
 

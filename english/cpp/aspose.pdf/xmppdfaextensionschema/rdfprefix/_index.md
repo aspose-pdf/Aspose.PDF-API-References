@@ -16,9 +16,6 @@ Default rdf namespace prefix.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::RdfPrefix
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

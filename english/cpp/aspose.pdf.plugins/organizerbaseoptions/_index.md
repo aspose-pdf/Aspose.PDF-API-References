@@ -4,7 +4,7 @@ linktitle: OrganizerBaseOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::OrganizerBaseOptions class. Represents base options for plugins in C++.'
 type: docs
-weight: 5000
+weight: 5200
 url: /cpp/aspose.pdf.plugins/organizerbaseoptions/
 ---
 ## OrganizerBaseOptions class

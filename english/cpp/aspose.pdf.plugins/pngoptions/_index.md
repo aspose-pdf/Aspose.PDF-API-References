@@ -4,7 +4,7 @@ linktitle: PngOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PngOptions class. Represents Pdf to Png converter options for the Png plugin in C++.'
 type: docs
-weight: 6600
+weight: 6800
 url: /cpp/aspose.pdf.plugins/pngoptions/
 ---
 ## PngOptions class

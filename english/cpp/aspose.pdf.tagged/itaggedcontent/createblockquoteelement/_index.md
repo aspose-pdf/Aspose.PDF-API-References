@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::BlockQuoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateBlockQuoteElement()=0
+virtual System::SharedPtr<LogicalStructure::BlockQuoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateBlockQuoteElement()=0
 ```
 
 

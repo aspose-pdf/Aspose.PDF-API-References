@@ -4,7 +4,7 @@ linktitle: Splitter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Splitter class. Represents Splitter plugin in C++.'
 type: docs
-weight: 7400
+weight: 7600
 url: /cpp/aspose.pdf.plugins/splitter/
 ---
 ## Splitter class

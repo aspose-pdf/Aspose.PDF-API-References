@@ -16,9 +16,6 @@ Sets color (one of cyan, magenta, yellow, black) for which the annotation is dra
 void Aspose::Pdf::Annotations::ColorBarAnnotation::set_ColorOfCMYK(ColorsOfCMYK value)
 ```
 
-
-
-
 ## See Also
 
 * Enum [ColorsOfCMYK](../../colorsofcmyk/)

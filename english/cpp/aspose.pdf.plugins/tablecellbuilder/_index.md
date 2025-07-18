@@ -4,7 +4,7 @@ linktitle: TableCellBuilder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::TableCellBuilder class. Class represents builder for table cell in C++.'
 type: docs
-weight: 8000
+weight: 8200
 url: /cpp/aspose.pdf.plugins/tablecellbuilder/
 ---
 ## TableCellBuilder class

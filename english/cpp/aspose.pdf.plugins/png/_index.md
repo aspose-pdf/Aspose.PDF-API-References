@@ -4,7 +4,7 @@ linktitle: Png
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Png class. Represents Pdf to Png plugin in C++.'
 type: docs
-weight: 6500
+weight: 6700
 url: /cpp/aspose.pdf.plugins/png/
 ---
 ## Png class

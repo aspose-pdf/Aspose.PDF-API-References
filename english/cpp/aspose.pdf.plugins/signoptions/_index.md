@@ -4,7 +4,7 @@ linktitle: SignOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::SignOptions class. Represents Sign Options for Signature plugin in C++.'
 type: docs
-weight: 7200
+weight: 7400
 url: /cpp/aspose.pdf.plugins/signoptions/
 ---
 ## SignOptions class

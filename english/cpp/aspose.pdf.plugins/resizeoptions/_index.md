@@ -4,7 +4,7 @@ linktitle: ResizeOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::ResizeOptions class. Represents Resize options for Optimizer plugin in C++.'
 type: docs
-weight: 6700
+weight: 6900
 url: /cpp/aspose.pdf.plugins/resizeoptions/
 ---
 ## ResizeOptions class

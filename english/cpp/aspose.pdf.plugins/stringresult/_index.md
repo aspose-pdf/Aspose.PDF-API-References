@@ -4,7 +4,7 @@ linktitle: StringResult
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::StringResult class. Represents operation result in the form of string in C++.'
 type: docs
-weight: 7800
+weight: 8000
 url: /cpp/aspose.pdf.plugins/stringresult/
 ---
 ## StringResult class

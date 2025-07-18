@@ -23,8 +23,6 @@ void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::Share
 | fileAttachmentName | System::String | The attachment name. |
 | description | System::String | The description information. |
 
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

@@ -4,7 +4,7 @@ linktitle: PdfToImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfToImage class. Represents PDF to image plugin in C++.'
 type: docs
-weight: 6200
+weight: 6400
 url: /cpp/aspose.pdf.plugins/pdftoimage/
 ---
 ## PdfToImage class

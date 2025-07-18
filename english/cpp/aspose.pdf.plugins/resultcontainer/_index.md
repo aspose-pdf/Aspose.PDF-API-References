@@ -4,7 +4,7 @@ linktitle: ResultContainer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::ResultContainer class. Represents container that contains the result collection of processing the plugin in C++.'
 type: docs
-weight: 6800
+weight: 7000
 url: /cpp/aspose.pdf.plugins/resultcontainer/
 ---
 ## ResultContainer class

@@ -16,9 +16,6 @@ Default property namespace prefix.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultPropertyNamespacePrefix
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

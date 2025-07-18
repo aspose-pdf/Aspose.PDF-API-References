@@ -28,8 +28,6 @@ True if success otherwise is false.
 ## Deprecated
 Use Save(destination) method for saving facade results. 
 
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
@@ -54,8 +52,6 @@ bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfo(System::String outputFile)
 ### ReturnValue
 
 True if success otherwise is false.
-
-
 
 ## See Also
 

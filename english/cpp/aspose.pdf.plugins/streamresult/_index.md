@@ -4,7 +4,7 @@ linktitle: StreamResult
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::StreamResult class. Represents operation result in the form of Stream in C++.'
 type: docs
-weight: 7600
+weight: 7800
 url: /cpp/aspose.pdf.plugins/streamresult/
 ---
 ## StreamResult class

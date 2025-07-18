@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements
 Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with respect to page layout. An illustration can be treated as either a BLSE or an ILSE.
 
 ```cpp
-static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::IllustrationElements()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::IllustrationElements()
 ```
 
 ## See Also

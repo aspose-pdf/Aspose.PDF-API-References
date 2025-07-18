@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/
 [Annotation](../annotation/) appearance dictionary specifying how the annotation shall be presented visually on the page.
 
 ```cpp
-class AppearanceDictionary : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::XForm>>
+class AppearanceDictionary : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<XForm>>
 ```
 
 ## Methods

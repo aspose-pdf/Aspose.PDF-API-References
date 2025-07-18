@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/get_viewarray/
 Gets the view array.
 
 ```cpp
-System::SharedPtr<PDF3DViewArray> Aspose::Pdf::Annotations::PDF3DArtwork::get_ViewArray() const
+System::SharedPtr<PDF3DViewArray> Aspose::Pdf::Annotations::PDF3DArtwork::get_ViewArray()
 ```
 
 ## Remarks

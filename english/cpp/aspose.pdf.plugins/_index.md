@@ -61,6 +61,8 @@ url: /cpp/aspose.pdf.plugins/
 | [MergeOptions](./mergeoptions/) | Represents Merge options for [Merger](./merger/) plugin. |
 | [Merger](./merger/) | Represents [Merger](./merger/) plugin. |
 | [ObjectResult](./objectresult/) | Represents operation result in the form of string. |
+| [Ofd](./ofd/) | Represents the [Ofd](./ofd/) plugin. |
+| [OfdToPdfOptions](./ofdtopdfoptions/) | Represents options for converting [OFD](../aspose.pdf.ofd/) to PDF. |
 | [OptimizeOptions](./optimizeoptions/) | Represents Optimize options for [Optimizer](./optimizer/) plugin. |
 | [Optimizer](./optimizer/) | Represents [Optimizer](./optimizer/) plugin. |
 | [OrganizerBaseOptions](./organizerbaseoptions/) | Represents base options for plugins. |

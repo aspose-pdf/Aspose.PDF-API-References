@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedSet::BaseType typedef. Vase type in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.generic/sortedset/basetype/
 ---
 ## BaseType typedef

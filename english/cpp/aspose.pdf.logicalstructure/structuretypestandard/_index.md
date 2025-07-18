@@ -22,7 +22,7 @@ class StructureTypeStandard : public System::Object
 | --- | --- |
 | [get_Category](./get_category/)() const | Gets category of Standard [Structure](../../aspose.pdf.structure/) Type. |
 | [get_Tag](./get_tag/)() const | Gets tag name of [Aspose::Pdf::LogicalStructure::StructureElement](../structureelement/). |
-| static [to_StructureTypeStandard](./to_structuretypestandard/)(System::String) |  |
+| static [to_StructureTypeStandard](./to_structuretypestandard/)(System::String) | Performs an explicit conversion from [System::String](../../system/string/) to [Aspose::Pdf::LogicalStructure::StructureTypeStandard](./). |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 ## Fields
 

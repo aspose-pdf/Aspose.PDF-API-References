@@ -26,6 +26,7 @@ class ImageDevice : public Aspose::Pdf::Devices::PageDevice
 | [get_RenderingOptions](./get_renderingoptions/)() const | Gets rendering options. |
 | [get_Resolution](./get_resolution/)() const | Gets image resolution. |
 | [get_Width](./get_width/)() const | Gets image output width. |
+| [GetBitmap](./getbitmap/)(System::SharedPtr\<Page\>) | Converts the page into [Bitmap](../). |
 | [ImageDevice](./imagedevice/)() | Abstract initializer for [ImageDevice](./) descendants, set resolution to 150x150. |
 | [ImageDevice](./imagedevice/)(System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>) | Abstract initializer for [ImageDevice](./) descendants. |
 | [ImageDevice](./imagedevice/)(int32_t, int32_t) | Initializes a new instance of the [JpegDevice](../jpegdevice/) class with provided image dimensions and default resolution (=150). |

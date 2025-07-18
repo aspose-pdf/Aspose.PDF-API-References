@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/
 Represents a cells collection of row.
 
 ```cpp
-class Cells : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::Cell>>
+class Cells : public System::Collections::Generic::IEnumerable<System::SharedPtr<Cell>>
 ```
 
 ## Methods

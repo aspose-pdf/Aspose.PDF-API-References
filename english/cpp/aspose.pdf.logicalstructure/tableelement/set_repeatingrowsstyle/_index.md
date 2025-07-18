@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/set_repeatingrowsstyle/
 Gets the style for repeating rows.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableElement::set_RepeatingRowsStyle(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::LogicalStructure::TableElement::set_RepeatingRowsStyle(System::SharedPtr<Text::TextState> value)
 ```
 
 ## See Also

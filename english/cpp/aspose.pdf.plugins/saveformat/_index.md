@@ -4,7 +4,7 @@ linktitle: SaveFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::SaveFormat enum. Allows to specify .doc or .docx file format in C++.'
 type: docs
-weight: 9400
+weight: 9600
 url: /cpp/aspose.pdf.plugins/saveformat/
 ---
 ## SaveFormat enum

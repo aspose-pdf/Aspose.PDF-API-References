@@ -22,7 +22,7 @@ class PDF3DArtwork : public System::Object
 | --- | --- |
 | [get_LightingScheme](./get_lightingscheme/)() const | Gets the lighting scheme. |
 | [get_RenderMode](./get_rendermode/)() const | Gets the render mode. |
-| [get_ViewArray](./get_viewarray/)() const | Gets the view array. |
+| [get_ViewArray](./get_viewarray/)() | Gets the view array. |
 | [GetViewsArray](./getviewsarray/)() | Gets the views array. |
 | [GetViewsList](./getviewslist/)() | Get the views as list. |
 | [PDF3DArtwork](./pdf3dartwork/)(System::SharedPtr\<Document\>, System::SharedPtr\<PDF3DContent\>, System::SharedPtr\<PDF3DLightingScheme\>, System::SharedPtr\<PDF3DRenderMode\>) | Initializes a new instance of the [PDF3DArtwork](./) class. |

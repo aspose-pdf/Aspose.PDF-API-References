@@ -25,7 +25,7 @@ class Stamp : public System::Object
 | [BindLogo](./bindlogo/)(System::SharedPtr\<FormattedText\>) | Sets text as stamp. |
 | [BindPdf](./bindpdf/)(System::String, int32_t) | Sets PDF file and number of page which will be used as stamp. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>, int32_t) | Sets PDF file and number of page which will be used as stamp. |
-| [BindTextState](./bindtextstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets text state of stamp text. |
+| [BindTextState](./bindtextstate/)(System::SharedPtr\<Text::TextState\>) | Sets text state of stamp text. |
 | [get_BlendingSpace](./get_blendingspace/)() const | Gets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page. |
 | [get_IsBackground](./get_isbackground/)() const | Gets background status. If true stamp will be placed as background of the spamped page. By default is set to false. |
 | [get_Opacity](./get_opacity/)() | Gets opacity of the stamp. |

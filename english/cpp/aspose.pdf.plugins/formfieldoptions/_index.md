@@ -45,7 +45,7 @@ class FormFieldOptions : public System::Object
 | [set_DefaultAppearance](./set_defaultappearance/)(System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>) | Gets/sets the value to determine property DefaultAppearance for created/modified field (if will be set). |
 | [set_Exportable](./set_exportable/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is exportable or not (if will be set). |
 | [set_FitIntoRectangle](./set_fitintorectangle/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is fit into rectangle or not (if will be set). |
-| [set_Flags](./set_flags/)(System::Nullable\<Aspose::Pdf::Annotations::AnnotationFlags\>) | Gets/sets the value to determine property Flags for created/modified field (if will be set). |
+| [set_Flags](./set_flags/)(System::Nullable\<Annotations::AnnotationFlags\>) | Gets/sets the value to determine property Flags for created/modified field (if will be set). |
 | [set_IsSharedField](./set_issharedfield/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is shared field or not (if will be set). |
 | [set_MappingName](./set_mappingname/)(System::String) | Gets/sets the value to determine property MappingName for created/modified field (if will be set). |
 | [set_MaxFontSize](./set_maxfontsize/)(System::Nullable\<double\>) | Gets/sets the value to determine property MaxFontSize for created/modified field (if will be set). |
@@ -58,9 +58,6 @@ class FormFieldOptions : public System::Object
 | [set_UpdateAppearanceOnConvert](./set_updateappearanceonconvert/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |
 | [set_UseFontSubset](./set_usefontsubset/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set). |
 | [set_Value](./set_value/)(System::String) | Gets/sets the value to determine property Value for created/modified field (if will be set). |
-
-
-
 ## See Also
 
 * Class [Object](../../system/object/)

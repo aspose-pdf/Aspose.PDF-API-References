@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/
 Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on layout.
 
 ```cpp
-static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::GroupingElements()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::GroupingElements()
 ```
 
 ## See Also

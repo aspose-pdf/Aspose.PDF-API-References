@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/formeditor/setfieldappearance/
 Set field flags.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetFieldAppearance(System::String fieldName, Aspose::Pdf::Annotations::AnnotationFlags flags)
+bool Aspose::Pdf::Facades::FormEditor::SetFieldAppearance(System::String fieldName, Annotations::AnnotationFlags flags)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | System::String | Name of field whose flags should be updated. |
-| flags | Aspose::Pdf::Annotations::AnnotationFlags | Flag of the field. |
+| flags | Annotations::AnnotationFlags | Flag of the field. |
 
 ### ReturnValue
 

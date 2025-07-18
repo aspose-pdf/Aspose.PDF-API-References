@@ -2,7 +2,7 @@
 title: Aspose::Pdf::operator!= method
 linktitle: operator!=
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use operator!= method of  class in C++.'
+description: 'Aspose::Pdf::operator!= method. Returns true if two Colors are not equal in C++.'
 type: docs
 weight: 29100
 url: /cpp/aspose.pdf/operator!=/
@@ -10,11 +10,21 @@ url: /cpp/aspose.pdf/operator!=/
 ## Aspose::Pdf::operator!=(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) method
 
 
-
+Returns true if two Colors are not equal.
 
 ```cpp
 bool Aspose::Pdf::operator!=(const System::SharedPtr<Color> &x, const System::SharedPtr<Color> &y)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | const System::SharedPtr\<Color\>\& | First [Color](../color/) object. |
+| y | const System::SharedPtr\<Color\>\& | Second [Color](../color/) object. |
+
+### ReturnValue
+
+True in case [Color](../color/) objects are not equal.
 
 ## See Also
 
@@ -25,11 +35,21 @@ bool Aspose::Pdf::operator!=(const System::SharedPtr<Color> &x, const System::Sh
 ## Aspose::Pdf::operator!=(const System::SharedPtr\<XmpField\>\&, const System::SharedPtr\<XmpField\>\&) method
 
 
-
+Implements the operator !=.
 
 ```cpp
 bool Aspose::Pdf::operator!=(const System::SharedPtr<XmpField> &field1, const System::SharedPtr<XmpField> &field2)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field1 | const System::SharedPtr\<XmpField\>\& | The field1. |
+| field2 | const System::SharedPtr\<XmpField\>\& | The field2. |
+
+### ReturnValue
+
+The result of the operator.
 
 ## See Also
 

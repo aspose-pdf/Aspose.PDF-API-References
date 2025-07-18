@@ -21,7 +21,7 @@ class TextStateOperator : public Aspose::Pdf::Operators::TextOperator
 | Method | Description |
 | --- | --- |
 | [TextStateOperator](./textstateoperator/)() | Initializes [TextStateOperator](./). |
-| [TextStateOperator](./textstateoperator/)(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) | Initializes TextStateoperator which allows to pass TextProperties. |
+| [TextStateOperator](./textstateoperator/)(System::SharedPtr\<Facades::TextProperties\>) | Initializes TextStateoperator which allows to pass TextProperties. |
 ## See Also
 
 * Class [TextOperator](../textoperator/)

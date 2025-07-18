@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstateextensions/setpositionse
 
 
 ```cpp
-static void Aspose::Pdf::LogicalStructure::StructureTextStateExtensions::SetPositionSettings(System::SharedPtr<StructureTextState> state, System::SharedPtr<Aspose::Pdf::Tagged::PositionSettings> positionSettings)
+static void Aspose::Pdf::LogicalStructure::StructureTextStateExtensions::SetPositionSettings(System::SharedPtr<StructureTextState> state, System::SharedPtr<Tagged::PositionSettings> positionSettings)
 ```
 
 ## See Also

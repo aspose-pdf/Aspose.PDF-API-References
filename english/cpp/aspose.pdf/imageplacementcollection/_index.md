@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imageplacementcollection/
 Represents an image placements collection.
 
 ```cpp
-class ImagePlacementCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::ImagePlacement>>
+class ImagePlacementCollection : public System::Collections::Generic::ICollection<System::SharedPtr<ImagePlacement>>
 ```
 
 ## Methods

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontsourcecollection/
 Represents font sources collection.
 
 ```cpp
-class FontSourceCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Text::FontSource>>
+class FontSourceCollection : public System::Collections::Generic::ICollection<System::SharedPtr<FontSource>>
 ```
 
 ## Methods

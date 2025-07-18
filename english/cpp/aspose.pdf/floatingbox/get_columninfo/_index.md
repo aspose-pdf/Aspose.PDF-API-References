@@ -16,9 +16,6 @@ Gets a column info.
 const System::SharedPtr<Aspose::Pdf::ColumnInfo> & Aspose::Pdf::FloatingBox::get_ColumnInfo() const
 ```
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

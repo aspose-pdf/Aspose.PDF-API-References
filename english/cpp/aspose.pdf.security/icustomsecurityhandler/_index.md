@@ -4,7 +4,7 @@ linktitle: ICustomSecurityHandler
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ICustomSecurityHandler class. The custom security handler interface in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.security/icustomsecurityhandler/
 ---
 ## ICustomSecurityHandler class

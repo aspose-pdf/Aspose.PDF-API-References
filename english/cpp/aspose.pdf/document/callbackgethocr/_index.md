@@ -16,6 +16,7 @@ The call back procedure for hocr recognize.
 using Aspose::Pdf::Document::CallBackGetHocr =  System::MulticastDelegate<System::String(System::SharedPtr<System::Drawing::Image>)>
 ```
 
+
 ## See Also
 
 * Class [Document](../)

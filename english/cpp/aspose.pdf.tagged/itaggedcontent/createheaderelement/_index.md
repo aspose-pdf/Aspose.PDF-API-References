@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createheaderelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::HeaderElement> Aspose::Pdf::Tagged::ITaggedContent::CreateHeaderElement()=0
+virtual System::SharedPtr<LogicalStructure::HeaderElement> Aspose::Pdf::Tagged::ITaggedContent::CreateHeaderElement()=0
 ```
 
 
@@ -38,7 +38,7 @@ Creates [Aspose::Pdf::LogicalStructure::HeaderElement](../../../aspose.pdf.logic
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::HeaderElement> Aspose::Pdf::Tagged::ITaggedContent::CreateHeaderElement(int32_t level)=0
+virtual System::SharedPtr<LogicalStructure::HeaderElement> Aspose::Pdf::Tagged::ITaggedContent::CreateHeaderElement(int32_t level)=0
 ```
 
 

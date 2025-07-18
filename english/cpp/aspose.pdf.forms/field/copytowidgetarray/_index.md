@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/field/copytowidgetarray/
 Copies subfields of this field into array starting from specified index.
 
 ```cpp
-void Aspose::Pdf::Forms::Field::CopyToWidgetArray(System::ArrayPtr<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>> array, int32_t index)
+void Aspose::Pdf::Forms::Field::CopyToWidgetArray(System::ArrayPtr<System::SharedPtr<Annotations::WidgetAnnotation>> array, int32_t index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<Aspose::Pdf::Annotations::WidgetAnnotation\>\> | Array where field must be copied. |
+| array | System::ArrayPtr\<System::SharedPtr\<Annotations::WidgetAnnotation\>\> | Array where field must be copied. |
 | index | int32_t | Starting index where fields will be copied. |
 
 ## See Also

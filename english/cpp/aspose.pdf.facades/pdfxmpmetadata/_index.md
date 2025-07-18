@@ -14,7 +14,7 @@ Class for manipulation with XMP metadata.
 
 ```cpp
 class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
-                       public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::XmpValue>>
+                       public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<XmpValue>>
 ```
 
 ## Methods
@@ -52,7 +52,6 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | [Remove](./remove/)(DefaultMetadataProperties) | Removes element with specified key. |
 | [Remove](./remove/)(const System::String\&) override | Removes key from the dictionary. |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Removes key/value pair from the collection. |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<XmpValue\>\&) const override | Tries to find key in the dictionary and retreives value if found. |
 ## See Also
 

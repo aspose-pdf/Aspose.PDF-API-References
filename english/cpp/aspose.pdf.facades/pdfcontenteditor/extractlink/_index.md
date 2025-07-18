@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/extractlink/
 Extracts the collection of Link instances contained in PDF document.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>> Aspose::Pdf::Facades::PdfContentEditor::ExtractLink()
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfContentEditor::ExtractLink()
 ```
 
 

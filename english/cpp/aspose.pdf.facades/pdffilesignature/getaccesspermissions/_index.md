@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 Returns the access permissions value of certified document by the MDP signature type.
 
 ```cpp
-Aspose::Pdf::Forms::DocMDPAccessPermissions Aspose::Pdf::Facades::PdfFileSignature::GetAccessPermissions()
+Forms::DocMDPAccessPermissions Aspose::Pdf::Facades::PdfFileSignature::GetAccessPermissions()
 ```
 
 
