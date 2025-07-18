@@ -3,7 +3,7 @@ title: Class OptimizeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.OptimizeOptions class. Represents Optimize options for Optimizer plugin
 type: docs
-weight: 9090
+weight: 9110
 url: /net/aspose.pdf.plugins/optimizeoptions/
 ---
 ## OptimizeOptions class

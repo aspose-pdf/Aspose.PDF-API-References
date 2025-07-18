@@ -21,6 +21,7 @@ url: /go-cpp/convert/
 | [SaveBooklet](./savebooklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
 | [SaveNUp](./savenup/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [SaveMarkdown](./savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [SaveTiff](./savetiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [ExportFdf](./exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [ExportXfdf](./exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [ExportXml](./exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |

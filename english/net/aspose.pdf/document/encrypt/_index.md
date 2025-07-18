@@ -1,14 +1,43 @@
 ---
 title: Document.Encrypt
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Encrypts the document. Call then Save to get encrypted version of the document
+description: Document method. Encrypts the document
 type: docs
 weight: 640
 url: /net/aspose.pdf/document/encrypt/
 ---
-## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_1}
+## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
 
-Encrypts the document. Call then Save to get encrypted version of the document.
+Encrypts the document.
+
+```csharp
+public void Encrypt(Permissions permissions, CryptoAlgorithm cryptoAlgorithm, 
+    IList<X509Certificate2> publicCertificates)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| permissions | Permissions | Document permissions, see [`Permissions`](../permissions/) for details. |
+| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm/) for details. |
+| publicCertificates | IList`1 | The public certificates used for encryption — one per recipient. |
+
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
+### See Also
+
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_2}
+
+Encrypts the document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -22,6 +51,10 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | privileges | DocumentPrivilege | Document permissions, see [`Permissions`](../permissions/) for details. |
 | customHandler | ICustomSecurityHandler | The custom security handler. |
 
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
@@ -32,9 +65,9 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ---
 
-## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_4}
+## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_5}
 
-Encrypts the document. Call then Save to get encrypted version of the document.
+Encrypts the document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -48,6 +81,10 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | permissions | Permissions | Document permissions, see [`Permissions`](../permissions/) for details. |
 | customHandler | ICustomSecurityHandler | The custom security handler. |
 
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
 ### See Also
 
 * enum [Permissions](../../permissions/)
@@ -58,9 +95,9 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ---
 
-## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
+## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_1}
 
-Encrypts the document. Call then Save to get encrypted version of the document.
+Encrypts the document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -75,6 +112,10 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm/) for details. |
 | usePdf20 | Boolean | Support for revision 6 (Extension 8). |
 
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
@@ -85,9 +126,9 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_2}
+## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_3}
 
-Encrypts the document. Call then Save to get encrypted version of the document.
+Encrypts the document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -101,6 +142,10 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | permissions | Permissions | Document permissions, see [`Permissions`](../permissions/) for details. |
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm/) for details. |
 
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
 ### See Also
 
 * enum [Permissions](../../permissions/)
@@ -111,9 +156,9 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_3}
+## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_4}
 
-Encrypts the document. Call then Save to get encrypted version of the document.
+Encrypts the document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -127,6 +172,10 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | permissions | Permissions | Document permissions, see [`Permissions`](../permissions/) for details. |
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm/) for details. |
 | usePdf20 | Boolean | Support for revision 6 (Extension 8). |
+
+## Remarks
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Enum WarningType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.WarningType enum. Enum represented warning type
 type: docs
-weight: 11440
+weight: 11480
 url: /net/aspose.pdf/warningtype/
 ---
 ## WarningType enumeration

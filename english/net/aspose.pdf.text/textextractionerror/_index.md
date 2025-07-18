@@ -3,7 +3,7 @@ title: Class TextExtractionError
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextExtractionError class. Describes the text extraction error has appeared in the PDF document
 type: docs
-weight: 11020
+weight: 11050
 url: /net/aspose.pdf.text/textextractionerror/
 ---
 ## TextExtractionError class

@@ -34,6 +34,10 @@ pub struct Document { /* private fields */ }
 | [save_xps](./convert/save_xps/) | Convert and save the previously opened PDF-document as Xps-document. |
 | [save_tex](./convert/save_tex/) | Convert and save the previously opened PDF-document as TeX-document. |
 | [save_epub](./convert/save_epub/) | Convert and save the previously opened PDF-document as Epub-document. |
+| [save_booklet](./convert/save_booklet/) | Convert and save the previously opened PDF-document as booklet PDF-document. |
+| [save_n_up](./convert/save_n_up/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
+| [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
+| [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [page_to_jpg](./convert/page_to_jpg/) | Convert and save the specified page as Jpg-image. |
 | [page_to_png](./convert/page_to_png/) | Convert and save the specified page as Png-image. |
 | [page_to_bmp](./convert/page_to_bmp/) | Convert and save the specified page as Bmp-image. |

@@ -3,7 +3,7 @@ title: Class PdfToXlsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToXlsOptions class. Represents PDF to XLSX converter options for XlsConverter plugin
 type: docs
-weight: 9280
+weight: 9300
 url: /net/aspose.pdf.plugins/pdftoxlsoptions/
 ---
 ## PdfToXlsOptions class

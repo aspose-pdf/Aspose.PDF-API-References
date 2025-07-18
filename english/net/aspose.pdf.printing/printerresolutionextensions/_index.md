@@ -3,7 +3,7 @@ title: Class PrinterResolutionExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PrinterResolutionExtensions class. Represents extensions methods for PrinterResolution
 type: docs
-weight: 9800
+weight: 9820
 url: /net/aspose.pdf.printing/printerresolutionextensions/
 ---
 ## PrinterResolutionExtensions class

@@ -3,7 +3,7 @@ title: Class PrinterResolution
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PrinterResolution class. Represents the resolution supported by a printer
 type: docs
-weight: 9790
+weight: 9810
 url: /net/aspose.pdf.printing/printerresolution/
 ---
 ## PrinterResolution class

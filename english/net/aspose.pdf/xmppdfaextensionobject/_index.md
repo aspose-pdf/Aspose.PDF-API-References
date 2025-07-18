@@ -3,7 +3,7 @@ title: Class XmpPdfAExtensionObject
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpPdfAExtensionObject class. Represents the base class for field property value type instances
 type: docs
-weight: 11600
+weight: 11640
 url: /net/aspose.pdf/xmppdfaextensionobject/
 ---
 ## XmpPdfAExtensionObject class

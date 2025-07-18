@@ -3,7 +3,7 @@ title: Class StreamSaveTarget
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.StreamSaveTarget class. Represents stream save target for a plugin
 type: docs
-weight: 9440
+weight: 9460
 url: /net/aspose.pdf.plugins/streamsavetarget/
 ---
 ## StreamSaveTarget class

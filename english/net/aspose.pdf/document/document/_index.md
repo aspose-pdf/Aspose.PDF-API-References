@@ -26,7 +26,7 @@ public Document(Stream input)
 
 ---
 
-## Document(Stream, bool) {#constructor_4}
+## Document(Stream, bool) {#constructor_6}
 
 Initialize new Document instance from the *input* stream.
 
@@ -47,7 +47,7 @@ public Document(Stream input, bool isManagedStream)
 
 ---
 
-## Document(Stream, string) {#constructor_5}
+## Document(Stream, string) {#constructor_7}
 
 Initialize new Document instance from the *input* stream.
 
@@ -68,7 +68,97 @@ public Document(Stream input, string password)
 
 ---
 
-## Document(Stream, string, ICustomSecurityHandler) {#constructor_6}
+## Document(Stream, CertificateEncryptionOptions) {#constructor_4}
+
+Initialize new Document instance from the *input* stream.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream object, corresponding pdf is password protected. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+
+### See Also
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_5}
+
+Initialize new Document instance from the *input* stream.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### See Also
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions) {#constructor_13}
+
+Initializes new instance of the [`Document`](../) class for working with encrypted document.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Document file name. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+
+### See Also
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions, bool) {#constructor_14}
+
+Initializes new instance of the [`Document`](../) class for working with encrypted document.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Document file name. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### See Also
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, ICustomSecurityHandler) {#constructor_8}
 
 Initialize new Document instance from the *input* stream.
 
@@ -91,7 +181,7 @@ public Document(Stream input, string password, ICustomSecurityHandler customSecu
 
 ---
 
-## Document(Stream, string, bool) {#constructor_7}
+## Document(Stream, string, bool) {#constructor_9}
 
 Initialize new Document instance from the *input* stream.
 
@@ -113,7 +203,7 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ---
 
-## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_8}
+## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_10}
 
 Initialize new Document instance from the *input* stream.
 
@@ -138,7 +228,7 @@ public Document(Stream input, string password, bool isManagedStream,
 
 ---
 
-## Document(string) {#constructor_9}
+## Document(string) {#constructor_11}
 
 Just init Document using *filename*. The same as `Document`.
 
@@ -158,7 +248,7 @@ public Document(string filename)
 
 ---
 
-## Document(string, bool) {#constructor_11}
+## Document(string, bool) {#constructor_15}
 
 Just init Document using *filename*. The same as `Document`.
 
@@ -179,7 +269,7 @@ public Document(string filename, bool isManagedStream)
 
 ---
 
-## Document(string, string, ICustomSecurityHandler) {#constructor_13}
+## Document(string, string, ICustomSecurityHandler) {#constructor_17}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -202,7 +292,7 @@ public Document(string filename, string password, ICustomSecurityHandler customS
 
 ---
 
-## Document(string, string) {#constructor_12}
+## Document(string, string) {#constructor_16}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -223,7 +313,7 @@ public Document(string filename, string password)
 
 ---
 
-## Document(string, string, bool) {#constructor_14}
+## Document(string, string, bool) {#constructor_18}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -245,7 +335,7 @@ public Document(string filename, string password, bool isManagedStream)
 
 ---
 
-## Document(string, string, bool, ICustomSecurityHandler) {#constructor_15}
+## Document(string, string, bool, ICustomSecurityHandler) {#constructor_19}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -307,7 +397,7 @@ public Document(PdfVersion version)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_10}
+## Document(string, LoadOptions) {#constructor_12}
 
 Opens an existing document from a file providing necessary converting options to get pdf document.
 

@@ -54,6 +54,7 @@ Developers can enhance the efficiency of their document processing tasks by util
 
 These are links to some useful resources:
 - [Aspose.PDF for Java API Reference](/pdf/java/)
+- [Aspose.PDF for Java API Tutorials](https://tutorials.aspose.com/pdf/java/)
 
 ## Aspose.PDF for C++ API Reference
 

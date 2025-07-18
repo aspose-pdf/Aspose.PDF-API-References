@@ -3,7 +3,7 @@ title: Class SplitOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.SplitOptions class. Represents Split options for Splitter plugin
 type: docs
-weight: 9400
+weight: 9420
 url: /net/aspose.pdf.plugins/splitoptions/
 ---
 ## SplitOptions class

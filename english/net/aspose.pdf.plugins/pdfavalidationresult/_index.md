@@ -3,7 +3,7 @@ title: Class PdfAValidationResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfAValidationResult class. Represents the result of a PDF/A validation process
 type: docs
-weight: 9170
+weight: 9190
 url: /net/aspose.pdf.plugins/pdfavalidationresult/
 ---
 ## PdfAValidationResult class

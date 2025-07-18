@@ -3,7 +3,7 @@ title: Class PdfAOptionsBase
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfAOptionsBase class. Represents the base class for the PdfAConverter plugin options. This class provides properties and methods for configuring the PDF/A conversion and validation process
 type: docs
-weight: 9140
+weight: 9160
 url: /net/aspose.pdf.plugins/pdfaoptionsbase/
 ---
 ## PdfAOptionsBase class

@@ -3,7 +3,7 @@ title: Class Optimizer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Optimizer class. Represents Optimizer plugin
 type: docs
-weight: 9100
+weight: 9120
 url: /net/aspose.pdf.plugins/optimizer/
 ---
 ## Optimizer class

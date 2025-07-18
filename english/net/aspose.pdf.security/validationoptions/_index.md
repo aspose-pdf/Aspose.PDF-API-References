@@ -3,7 +3,7 @@ title: Class ValidationOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.ValidationOptions class. Represents options for validating a digital signature in a PDF document
 type: docs
-weight: 10220
+weight: 10250
 url: /net/aspose.pdf.security/validationoptions/
 ---
 ## ValidationOptions class

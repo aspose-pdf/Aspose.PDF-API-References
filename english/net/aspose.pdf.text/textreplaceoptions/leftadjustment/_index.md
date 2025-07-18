@@ -3,7 +3,7 @@ title: TextReplaceOptions.LeftAdjustment
 second_title: Aspose.PDF for .NET API Reference
 description: TextReplaceOptions property. Sets or gets left position adjustment for replaced text when using TextReplaceOptions  ReplaceAdjustmentAction  IsFormFillingMode
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.text/textreplaceoptions/leftadjustment/
 ---
 ## TextReplaceOptions.LeftAdjustment property
