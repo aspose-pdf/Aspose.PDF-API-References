@@ -4,7 +4,7 @@ linktitle: EncryptionParameters
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::EncryptionParameters class. Represents an encryption parameters class in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.security/encryptionparameters/
 ---
 ## EncryptionParameters class

@@ -16,9 +16,6 @@ Default property namespace uri.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultPropertyNamespaceUri
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

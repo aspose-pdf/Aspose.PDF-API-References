@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/
 Class representing collection of options of the choice field.
 
 ```cpp
-class OptionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Forms::Option>>
+class OptionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Option>>
 ```
 
 ## Methods

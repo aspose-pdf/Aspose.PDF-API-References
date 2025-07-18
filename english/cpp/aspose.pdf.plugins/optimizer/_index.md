@@ -4,7 +4,7 @@ linktitle: Optimizer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Optimizer class. Represents Optimizer plugin in C++.'
 type: docs
-weight: 4900
+weight: 5100
 url: /cpp/aspose.pdf.plugins/optimizer/
 ---
 ## Optimizer class

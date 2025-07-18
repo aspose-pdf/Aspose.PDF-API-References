@@ -4,7 +4,7 @@ linktitle: PdfAOptionsBase
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfAOptionsBase class. Represents the base class for the PdfAConverter plugin options. This class provides properties and methods for configuring the PDF/A conversion and validation process in C++.'
 type: docs
-weight: 5300
+weight: 5500
 url: /cpp/aspose.pdf.plugins/pdfaoptionsbase/
 ---
 ## PdfAOptionsBase class

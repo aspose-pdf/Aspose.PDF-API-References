@@ -38,7 +38,7 @@ class Graph : public Aspose::Pdf::BaseParagraph
 | [set_IsChangePosition](./set_ischangeposition/)(bool) | Sets change curret position after process paragraph.(default true) |
 | [set_Left](./set_left/)(double) | Sets the table left coordinate. |
 | [set_Shapes](./set_shapes/)(System::SharedPtr\<BoundsCheckableList\<System::SharedPtr\<Shape\>\>\>) | Sets a [Shapes](../) collection that indicates all shapes in the graph. |
-| [set_Title](./set_title/)(System::SharedPtr\<Aspose::Pdf::Text::TextFragment\>) | Sets a string value that indicates the title of the graph. |
+| [set_Title](./set_title/)(System::SharedPtr\<Text::TextFragment\>) | Sets a string value that indicates the title of the graph. |
 | [set_Top](./set_top/)(double) | Sets the table top coordinate. |
 | [set_Width](./set_width/)(double) | Sets a float value that indicates the graph width. The unit is point. |
 ## See Also

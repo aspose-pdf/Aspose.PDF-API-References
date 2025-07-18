@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createannotelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::AnnotElement> Aspose::Pdf::Tagged::ITaggedContent::CreateAnnotElement()=0
+virtual System::SharedPtr<LogicalStructure::AnnotElement> Aspose::Pdf::Tagged::ITaggedContent::CreateAnnotElement()=0
 ```
 
 

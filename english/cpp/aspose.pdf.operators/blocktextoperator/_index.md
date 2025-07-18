@@ -21,7 +21,7 @@ class BlockTextOperator : public Aspose::Pdf::Operators::TextOperator
 | Method | Description |
 | --- | --- |
 | [BlockTextOperator](./blocktextoperator/)() | Initializes operator. |
-| [BlockTextOperator](./blocktextoperator/)(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) | Initializes [BlockTextOperator](./) which accepts TextProperties. |
+| [BlockTextOperator](./blocktextoperator/)(System::SharedPtr\<Facades::TextProperties\>) | Initializes [BlockTextOperator](./) which accepts TextProperties. |
 ## See Also
 
 * Class [TextOperator](../textoperator/)

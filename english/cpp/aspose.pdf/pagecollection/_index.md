@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/
 [Collection](../collection/) of PDF document pages.
 
 ```cpp
-class PageCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Page>>,
+class PageCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Page>>,
                        public Aspose::Pdf::ISupportsMemoryCleanup
 ```
 

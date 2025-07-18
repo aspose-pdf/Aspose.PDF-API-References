@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::PrivateElement> Aspose::Pdf::Tagged::ITaggedContent::CreatePrivateElement()=0
+virtual System::SharedPtr<LogicalStructure::PrivateElement> Aspose::Pdf::Tagged::ITaggedContent::CreatePrivateElement()=0
 ```
 
 

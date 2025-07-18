@@ -16,9 +16,6 @@ Default valie type namespace prefix.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultValueTypeNamespacePrefix
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

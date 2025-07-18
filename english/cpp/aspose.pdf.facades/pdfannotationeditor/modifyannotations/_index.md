@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 Modifies the annotations of the specifed type on the specified page range. It supports to modify next annotation properties: Modified, Title, Contents, [Color](../../../aspose.pdf/color/), Subject and Open.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotations(int32_t start, int32_t end, System::SharedPtr<Aspose::Pdf::Annotations::Annotation> annotation)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotations(int32_t start, int32_t end, System::SharedPtr<Annotations::Annotation> annotation)
 ```
 
 
@@ -21,7 +21,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotations(int32_t start,
 | --- | --- | --- |
 | start | int32_t | The start page number. |
 | end | int32_t | The end page number. |
-| annotation | System::SharedPtr\<Aspose::Pdf::Annotations::Annotation\> | The annotation object contains new properties. |
+| annotation | System::SharedPtr\<Annotations::Annotation\> | The annotation object contains new properties. |
 
 ## See Also
 

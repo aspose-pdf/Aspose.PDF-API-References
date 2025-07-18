@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::CaptionElement> Aspose::Pdf::Tagged::ITaggedContent::CreateCaptionElement()=0
+virtual System::SharedPtr<LogicalStructure::CaptionElement> Aspose::Pdf::Tagged::ITaggedContent::CreateCaptionElement()=0
 ```
 
 

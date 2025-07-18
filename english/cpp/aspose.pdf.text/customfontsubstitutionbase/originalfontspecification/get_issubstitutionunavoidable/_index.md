@@ -22,7 +22,6 @@ bool Aspose::Pdf::Text::CustomFontSubstitutionBase::OriginalFontSpecification::g
 Returns true in case substitution was requested because of absence of the original font or in case original font cannot be used in context of some task. In case user ignores the flag and doesn't substitute the font - default font substitution procedure is performed. But it provides opportunity for the user to alternate standard font substitution procedure and set better font to the system.
 
 Returns false in case original font is present, valid, but it is allowed for the user to substitute it. 
-
 ## See Also
 
 * Class [OriginalFontSpecification](../)

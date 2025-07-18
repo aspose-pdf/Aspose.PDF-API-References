@@ -28,21 +28,21 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstituti
 * Class [IFontSubstitutionRegistrator](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Aspose::Pdf::Engine::Data::ITrailerable\>) method
+## IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\>, System::SharedPtr\<Engine::Data::ITrailerable\>) method
 
 
 Register substitution for passed fonts. Fonts passed as IPdfFont objects in this method.
 
 ```cpp
-virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont> oldFont, System::SharedPtr<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont> newFont, System::SharedPtr<Aspose::Pdf::Engine::Data::ITrailerable> trailerable)=0
+virtual void Aspose::Pdf::Text::IFontSubstitutionRegistrator::RegistrySubstitution(System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> oldFont, System::SharedPtr<Engine::CommonData::Text::Fonts::IPdfFont> newFont, System::SharedPtr<Engine::Data::ITrailerable> trailerable)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldFont | System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont\> | original font |
-| newFont | System::SharedPtr\<Aspose::Pdf::Engine::CommonData::Text::Fonts::IPdfFont\> | new font which replaces an original font |
-| trailerable | System::SharedPtr\<Aspose::Pdf::Engine::Data::ITrailerable\> | trailerable |
+| oldFont | System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\> | original font |
+| newFont | System::SharedPtr\<Engine::CommonData::Text::Fonts::IPdfFont\> | new font which replaces an original font |
+| trailerable | System::SharedPtr\<Engine::Data::ITrailerable\> | trailerable |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/charinfocollection/
 Represents [CharInfo](../charinfo/) objects collection.
 
 ```cpp
-class CharInfoCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Text::CharInfo>>
+class CharInfoCollection : public System::Collections::Generic::ICollection<System::SharedPtr<CharInfo>>
 ```
 
 ## Methods

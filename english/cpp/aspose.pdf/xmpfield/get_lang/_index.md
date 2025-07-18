@@ -16,9 +16,6 @@ Gets xml:lang qualifier.
 static System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Lang()
 ```
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

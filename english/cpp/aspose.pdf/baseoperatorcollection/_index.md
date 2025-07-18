@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseoperatorcollection/
 Represents base class for operator collection.
 
 ```cpp
-class BaseOperatorCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Operator>>
+class BaseOperatorCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Operator>>
 ```
 
 ## Methods

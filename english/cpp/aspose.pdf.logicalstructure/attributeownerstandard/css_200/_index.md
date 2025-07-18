@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/css_200/
 CSS-2.00 attribute owner.
 
 ```cpp
-static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Css_200()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Css_200()
 ```
 
 ## See Also

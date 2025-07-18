@@ -38,7 +38,7 @@ class StructureTextState : public System::Object
 | [set_CharacterSpacing](./set_characterspacing/)(System::Nullable\<float\>) | Sets character spacing of the text. |
 | [set_Font](./set_font/)(System::SharedPtr\<Aspose::Pdf::Text::Font\>) | Sets the font of text. |
 | [set_FontSize](./set_fontsize/)(System::Nullable\<float\>) | Sets font size of the text. |
-| [set_FontStyle](./set_fontstyle/)(System::Nullable\<Aspose::Pdf::Text::FontStyles\>) | Sets font style of the text. |
+| [set_FontStyle](./set_fontstyle/)(System::Nullable\<Text::FontStyles\>) | Sets font style of the text. |
 | [set_ForegroundColor](./set_foregroundcolor/)(System::SharedPtr\<Color\>) | Sets foreground color of the text. |
 | [set_HorizontalScaling](./set_horizontalscaling/)(System::Nullable\<float\>) | Sets horizontal scaling of the text. |
 | [set_LineSpacing](./set_linespacing/)(System::Nullable\<float\>) | Sets line spacing of the text. |

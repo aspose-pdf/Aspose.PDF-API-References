@@ -28,20 +28,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, Aspose::Pdf::Devices::CompressionType) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, Devices::CompressionType) method
 
 
 Converts each pages of a pdf document to images and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, Aspose::Pdf::Devices::CompressionType compressionType)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, Devices::CompressionType compressionType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The output stream. |
-| compressionType | Aspose::Pdf::Devices::CompressionType | Type of the compression. |
+| compressionType | Devices::CompressionType | Type of the compression. |
 
 ## See Also
 
@@ -74,13 +74,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, Aspose::Pdf::Devices::CompressionType) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, Devices::CompressionType) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, Aspose::Pdf::Devices::CompressionType compressionType)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, Devices::CompressionType compressionType)
 ```
 
 
@@ -89,7 +89,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| compressionType | Aspose::Pdf::Devices::CompressionType | Type of the compression. |
+| compressionType | Devices::CompressionType | Type of the compression. |
 
 ## See Also
 
@@ -99,13 +99,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
@@ -114,7 +114,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 
@@ -124,13 +124,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
 ```
 
 
@@ -139,7 +139,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 | converter | System::SharedPtr\<IIndexBitmapConverter\> | External converter |
 
 ## See Also
@@ -151,20 +151,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 
@@ -174,20 +174,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
 
 
 Converts each pages of a pdf document to images and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 | converter | System::SharedPtr\<IIndexBitmapConverter\> | External converter |
 
 ## See Also
@@ -222,13 +222,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images with page size and saves images to a single TIFF stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<PageSize> pageSize, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<PageSize> pageSize, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
@@ -236,7 +236,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::SharedPtr<System::IO
 | --- | --- | --- |
 | outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the TIFF image. |
 | pageSize | System::SharedPtr\<PageSize\> | The page size of the image. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 
@@ -267,20 +267,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile)
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, Aspose::Pdf::Devices::CompressionType) method
+## PdfConverter::SaveAsTIFF(System::String, Devices::CompressionType) method
 
 
 Converts each pages of a pdf document to images and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, Aspose::Pdf::Devices::CompressionType compressionType)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, Devices::CompressionType compressionType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | System::String | The output file. |
-| compressionType | Aspose::Pdf::Devices::CompressionType | Type of the compression. |
+| compressionType | Devices::CompressionType | Type of the compression. |
 
 ## See Also
 
@@ -311,13 +311,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, Aspose::Pdf::Devices::CompressionType) method
+## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, Devices::CompressionType) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, Aspose::Pdf::Devices::CompressionType compressionType)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, Devices::CompressionType compressionType)
 ```
 
 
@@ -326,7 +326,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 | outputFile | System::String | The file name to save the TIFF image |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| compressionType | Aspose::Pdf::Devices::CompressionType | Type of the compression. |
+| compressionType | Devices::CompressionType | Type of the compression. |
 
 ## See Also
 
@@ -335,13 +335,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
@@ -350,7 +350,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 | outputFile | System::String | The file name to save the TIFF image |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 
@@ -360,13 +360,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
+## PdfConverter::SaveAsTIFF(System::String, int32_t, int32_t, System::SharedPtr\<Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
 
 
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, int32_t imageWidth, int32_t imageHeight, System::SharedPtr<Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
 ```
 
 
@@ -375,7 +375,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 | outputFile | System::String | The file name to save the TIFF image |
 | imageWidth | int32_t | The image width, the unit is pixel. |
 | imageHeight | int32_t | The image height, the unit is pixel. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 | converter | System::SharedPtr\<IIndexBitmapConverter\> | External converter |
 
 ## See Also
@@ -387,20 +387,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, i
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images with and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | System::String | The file name to save the TIFF image |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 
@@ -410,20 +410,20 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
+## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<Devices::TiffSettings\>, System::SharedPtr\<IIndexBitmapConverter\>) method
 
 
 Converts each pages of a pdf document to images with and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<Devices::TiffSettings> settings, System::SharedPtr<IIndexBitmapConverter> converter)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | System::String | The file name to save the TIFF image |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 | converter | System::SharedPtr\<IIndexBitmapConverter\> | External converter |
 
 ## See Also
@@ -458,13 +458,13 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<PageSize\>, System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\>) method
+## PdfConverter::SaveAsTIFF(System::String, System::SharedPtr\<PageSize\>, System::SharedPtr\<Devices::TiffSettings\>) method
 
 
 Converts each pages of a pdf document to images with page size and saves images to a single TIFF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<PageSize> pageSize, System::SharedPtr<Aspose::Pdf::Devices::TiffSettings> settings)
+void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, System::SharedPtr<PageSize> pageSize, System::SharedPtr<Devices::TiffSettings> settings)
 ```
 
 
@@ -472,7 +472,7 @@ void Aspose::Pdf::Facades::PdfConverter::SaveAsTIFF(System::String outputFile, S
 | --- | --- | --- |
 | outputFile | System::String | The file name to save the TIFF image |
 | pageSize | System::SharedPtr\<PageSize\> | The page size of the image. |
-| settings | System::SharedPtr\<Aspose::Pdf::Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
+| settings | System::SharedPtr\<Devices::TiffSettings\> | Settings object that defines TIFF parameters. |
 
 ## See Also
 

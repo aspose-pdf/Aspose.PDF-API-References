@@ -21,7 +21,7 @@ class IllustrationElement : public Aspose::Pdf::LogicalStructure::StructureEleme
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
 | virtual [SetImage](./setimage/)(System::String, double) | Appends image to current illustration element. |
 | virtual [SetImage](./setimage/)(System::String, double, double) | Appends image to current illustration element. |
 ## See Also

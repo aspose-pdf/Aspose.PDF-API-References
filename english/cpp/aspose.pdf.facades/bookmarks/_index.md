@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmarks/
 Represents a collection of [Bookmark](../bookmark/) objects.
 
 ```cpp
-class Bookmarks : public System::Collections::Generic::List<System::SharedPtr<Aspose::Pdf::Facades::Bookmark>>
+class Bookmarks : public System::Collections::Generic::List<System::SharedPtr<Bookmark>>
 ```
 
 ## Methods

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/set_defaultcelltextstate/
 Sets the default cell text state.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableCellElement::set_DefaultCellTextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::LogicalStructure::TableCellElement::set_DefaultCellTextState(System::SharedPtr<Text::TextState> value)
 ```
 
 ## See Also

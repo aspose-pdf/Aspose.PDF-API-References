@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/list/
 List attribute owner.
 
 ```cpp
-static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::List()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::List()
 ```
 
 ## See Also

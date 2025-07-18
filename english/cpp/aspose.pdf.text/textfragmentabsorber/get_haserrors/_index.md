@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_haserrors/
 Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
 
 ```cpp
-bool Aspose::Pdf::Text::TextFragmentAbsorber::get_HasErrors() const
+bool Aspose::Pdf::Text::TextFragmentAbsorber::get_HasErrors()
 ```
 
 ## See Also

@@ -30,16 +30,16 @@ class XmpValue : public System::Object
 | [get_IsRaw](./get_israw/)() | Value is unsupported/unknown and raw XML code is provided. |
 | [get_IsString](./get_isstring/)() | Returns true if value is string. |
 | [get_IsStructure](./get_isstructure/)() | Returns true is [XmpValue](./) represents structure. |
-| static [to_KeyValuePair](./to_keyvaluepair/)(System::SharedPtr\<XmpValue\>) |  |
-| static [to_KeyValuePairArray](./to_keyvaluepairarray/)(System::SharedPtr\<XmpValue\>) |  |
-| static [to_ObjectArray](./to_objectarray/)(System::SharedPtr\<XmpValue\>) |  |
-| static [to_String](./to_string/)(System::SharedPtr\<XmpValue\>) |  |
-| static [to_XmpValue](./to_xmpvalue/)(System::String) |  |
-| static [to_XmpValue](./to_xmpvalue/)(int32_t) |  |
-| static [to_XmpValue](./to_xmpvalue/)(double) |  |
-| static [to_XmpValue](./to_xmpvalue/)(System::DateTime) |  |
-| static [to_XmpValue](./to_xmpvalue/)(System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) |  |
-| static [to_XmpValueArray](./to_xmpvaluearray/)(System::SharedPtr\<XmpValue\>) |  |
+| static [to_KeyValuePair](./to_keyvaluepair/)(System::SharedPtr\<XmpValue\>) | Converts [XmpValue](./) to named value. |
+| static [to_KeyValuePairArray](./to_keyvaluepairarray/)(System::SharedPtr\<XmpValue\>) | Converts XmlValue to named collection value. |
+| static [to_ObjectArray](./to_objectarray/)(System::SharedPtr\<XmpValue\>) | Converts [XmpValue](./) into array. |
+| static [to_String](./to_string/)(System::SharedPtr\<XmpValue\>) | Converts [XmpValue](./) into string. |
+| static [to_XmpValue](./to_xmpvalue/)(System::String) | Converts string to [XmpValue](./). |
+| static [to_XmpValue](./to_xmpvalue/)(int32_t) | Converts integer into [XmpValue](./). |
+| static [to_XmpValue](./to_xmpvalue/)(double) | Converts double into [XmpValue](./). |
+| static [to_XmpValue](./to_xmpvalue/)(System::DateTime) | Converts DateTime into [XmpValue](./). |
+| static [to_XmpValue](./to_xmpvalue/)(System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Converts array to [XmpValue](./). |
+| static [to_XmpValueArray](./to_xmpvaluearray/)(System::SharedPtr\<XmpValue\>) | Converts [XmpValue](./) to array. |
 | [ToArray](./toarray/)() | Returns array. |
 | [ToDateTime](./todatetime/)() | Converts to date time. |
 | [ToDictionary](./todictionary/)() | Returns dictionary which contains named values. |

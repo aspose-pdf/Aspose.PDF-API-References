@@ -23,7 +23,7 @@ class TextShowOperator : public Aspose::Pdf::Operators::TextOperator
 | virtual [get_Text](./get_text/)() | Gets text which operator out on the page. |
 | virtual [set_Text](./set_text/)(System::String) | Gets text which operator out on the page. |
 | [TextShowOperator](./textshowoperator/)() | Initializes [TextShowOperator](./). |
-| [TextShowOperator](./textshowoperator/)(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) | Initializes [TextShowOperator](./) which allows to pass TextProperties. |
+| [TextShowOperator](./textshowoperator/)(System::SharedPtr\<Facades::TextProperties\>) | Initializes [TextShowOperator](./) which allows to pass TextProperties. |
 ## See Also
 
 * Class [TextOperator](../textoperator/)

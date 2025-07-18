@@ -4,7 +4,7 @@ linktitle: Tiff
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Tiff class. Represents Pdf to Tiff plugin in C++.'
 type: docs
-weight: 8600
+weight: 8800
 url: /cpp/aspose.pdf.plugins/tiff/
 ---
 ## Tiff class

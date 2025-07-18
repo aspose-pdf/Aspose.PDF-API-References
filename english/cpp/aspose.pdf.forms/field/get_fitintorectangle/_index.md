@@ -4,7 +4,7 @@ linktitle: get_FitIntoRectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_FitIntoRectangle method. If true then font size will reduced to fit text to specified rectangle in C++.'
 type: docs
-weight: 3200
+weight: 3100
 url: /cpp/aspose.pdf.forms/field/get_fitintorectangle/
 ---
 ## Field::get_FitIntoRectangle method

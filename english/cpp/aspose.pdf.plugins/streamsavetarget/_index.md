@@ -4,7 +4,7 @@ linktitle: StreamSaveTarget
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::StreamSaveTarget class. Represents stream save target for a plugin in C++.'
 type: docs
-weight: 7700
+weight: 7900
 url: /cpp/aspose.pdf.plugins/streamsavetarget/
 ---
 ## StreamSaveTarget class

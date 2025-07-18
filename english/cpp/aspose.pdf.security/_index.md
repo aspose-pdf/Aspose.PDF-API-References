@@ -14,6 +14,7 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 
 | Class | Description |
 | --- | --- |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/) | Represents a class for encrypting options a PDF document using a certificate-based encryption method. Used to open encrypted PDF documents. |
 | [DsaAlgorithmInfo](./dsaalgorithminfo/) | Represents a class for the information about the DSA signature algorithm. |
 | [EcdsaAlgorithmInfo](./ecdsaalgorithminfo/) | Represents a class for the information about the ECDSA signature algorithm. |
 | [EncryptionParameters](./encryptionparameters/) | Represents an encryption parameters class. |

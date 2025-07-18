@@ -24,9 +24,14 @@ bool Aspose::Pdf::XImage::TrySetAlternativeText(System::String alternativeText, 
 
 ### ReturnValue
 
-True if alternativeText for [XImage](../) is set. False if alternativeText for [XImage](../) not set. 
+True if alternativeText for [XImage](../) is set. False if alternativeText for [XImage](../) not set.
+## Remarks
 
-The method returns false in the following cases:
+
+
+The method returns false in the following cases:* The [XImage](../) is not found on the specified page.
+* The [XImage](../) appears multiple times on the page with different structural elements, making it ambiguous which instance should receive the alternative text.
+
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::ReferenceElement> Aspose::Pdf::Tagged::ITaggedContent::CreateReferenceElement()=0
+virtual System::SharedPtr<LogicalStructure::ReferenceElement> Aspose::Pdf::Tagged::ITaggedContent::CreateReferenceElement()=0
 ```
 
 

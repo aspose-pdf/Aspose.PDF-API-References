@@ -21,7 +21,7 @@ class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement,
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
 | [CreateTBody](./createtbody/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |
 | [CreateTFoot](./createtfoot/)() | Creates [Aspose::Pdf::LogicalStructure::TableTFootElement](../tabletfootelement/) and added it to current table. |
 | [CreateTHead](./createthead/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |
@@ -52,14 +52,14 @@ class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement,
 | [set_CornerStyle](./set_cornerstyle/)(BorderCornerStyle) | Sets the styles of the border corners. |
 | [set_DefaultCellBorder](./set_defaultcellborder/)(System::SharedPtr\<BorderInfo\>) | Gets default cell border. |
 | [set_DefaultCellPadding](./set_defaultcellpadding/)(System::SharedPtr\<MarginInfo\>) | Sets the default cell padding. |
-| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets the default cell text state. |
+| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Text::TextState\>) | Sets the default cell text state. |
 | [set_DefaultColumnWidth](./set_defaultcolumnwidth/)(System::String) | Sets default column width. |
 | [set_IsBordersIncluded](./set_isbordersincluded/)(bool) | Sets border included in column widhts. |
 | [set_IsBroken](./set_isbroken/)(bool) | Sets the table is broken - will be truncated for next page. |
 | [set_Left](./set_left/)(float) | Sets the table left coordinate. |
 | [set_RepeatingColumnsCount](./set_repeatingcolumnscount/)(int32_t) | Sets the maximum columns count for table. |
 | [set_RepeatingRowsCount](./set_repeatingrowscount/)(int32_t) | Gets the first rows count repeated for several pages. |
-| [set_RepeatingRowsStyle](./set_repeatingrowsstyle/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Gets the style for repeating rows. |
+| [set_RepeatingRowsStyle](./set_repeatingrowsstyle/)(System::SharedPtr\<Text::TextState\>) | Gets the style for repeating rows. |
 | [set_Top](./set_top/)(float) | Sets the table top coordinate. |
 ## See Also
 

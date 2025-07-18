@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/blses/
 Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction.
 
 ```cpp
-static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::BLSEs()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::BLSEs()
 ```
 
 ## See Also

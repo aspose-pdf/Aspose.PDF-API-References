@@ -2,11 +2,37 @@
 title: Aspose::Pdf::LogicalStructure::Element::Tag method
 linktitle: Tag
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::LogicalStructure::Element::Tag method. Bind a structure element to the Artifact in C++.'
+description: 'Aspose::Pdf::LogicalStructure::Element::Tag method. Bind a structure element to the Annotation in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.pdf.logicalstructure/element/tag/
 ---
+## Element::Tag(System::SharedPtr\<Annotations::Annotation\>) method
+
+
+Bind a structure element to the Annotation.
+
+```cpp
+virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Annotations::Annotation> annotation)=0
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | System::SharedPtr\<Annotations::Annotation\> | [Pdf](../../../aspose.pdf/) annotation. |
+
+### ReturnValue
+
+[T:/Aspose::Pdf::LogicalStructure::OBJRElement](../)[Structure](../../../aspose.pdf.structure/) element.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [OBJRElement](../../objrelement/)
+* Class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* Class [Element](../)
+* Namespace [Aspose::Pdf::LogicalStructure](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Element::Tag(System::SharedPtr\<Artifact\>) method
 
 
@@ -33,45 +59,19 @@ virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Ta
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<Aspose::Pdf::Annotations::Annotation\>) method
-
-
-Bind a structure element to the Annotation.
-
-```cpp
-virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Aspose::Pdf::Annotations::Annotation> annotation)=0
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | System::SharedPtr\<Aspose::Pdf::Annotations::Annotation\> | [Pdf](../../../aspose.pdf/) annotation. |
-
-### ReturnValue
-
-[T:/Aspose::Pdf::LogicalStructure::OBJRElement](../)[Structure](../../../aspose.pdf.structure/) element.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OBJRElement](../../objrelement/)
-* Class [Annotation](../../../aspose.pdf.annotations/annotation/)
-* Class [Element](../)
-* Namespace [Aspose::Pdf::LogicalStructure](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<Aspose::Pdf::Operators::BDC\>) method
+## Element::Tag(System::SharedPtr\<Operators::BDC\>) method
 
 
 Bind a structure element to the content stream BDC operator.
 
 ```cpp
-virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Aspose::Pdf::Operators::BDC> bdc)=0
+virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Operators::BDC> bdc)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bdc | System::SharedPtr\<Aspose::Pdf::Operators::BDC\> | Content stream bdc operator. |
+| bdc | System::SharedPtr\<Operators::BDC\> | Content stream bdc operator. |
 
 ### ReturnValue
 

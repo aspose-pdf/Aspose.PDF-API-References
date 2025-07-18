@@ -4,7 +4,7 @@ linktitle: Scope
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextReplaceOptions::Scope enum. Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber in C++.'
 type: docs
-weight: 1500
+weight: 2000
 url: /cpp/aspose.pdf.text/textreplaceoptions/scope/
 ---
 ## Scope enum

@@ -22,7 +22,7 @@ class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) override | Adjust position. |
+| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
 | [get_Alignment](./get_alignment/)() const | Gets the cell alignment. |
 | [get_BackgroundColor](./get_backgroundcolor/)() const | Gets the cell background color. |
 | [get_Border](./get_border/)() const | Gets the cell border. |
@@ -38,7 +38,7 @@ class TableCellElement : public Aspose::Pdf::LogicalStructure::TableChildElement
 | [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets the cell background color. |
 | [set_Border](./set_border/)(System::SharedPtr\<BorderInfo\>) | Sets the cell border. |
 | [set_ColSpan](./set_colspan/)(int32_t) | Sets the column span. |
-| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets the default cell text state. |
+| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Text::TextState\>) | Sets the default cell text state. |
 | [set_IsNoBorder](./set_isnoborder/)(bool) | Sets the cell have border. |
 | [set_IsWordWrapped](./set_iswordwrapped/)(bool) | Sets the cell's text word wrapped. |
 | [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets the padding. |

@@ -21,13 +21,13 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations()
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::FlatteningAnnotations(int32_t, int32_t, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::FlatteningAnnotations(int32_t, int32_t, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Flattens the annotations of the specified types.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t start, int32_t end, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t start, int32_t end, System::ArrayPtr<Annotations::AnnotationType> annotType)
 ```
 
 
@@ -35,7 +35,7 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t st
 | --- | --- | --- |
 | start | int32_t | The start page. |
 | end | int32_t | Then end page. |
-| annotType | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The annotation types should be flattened. |
+| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The annotation types should be flattened. |
 
 ## See Also
 

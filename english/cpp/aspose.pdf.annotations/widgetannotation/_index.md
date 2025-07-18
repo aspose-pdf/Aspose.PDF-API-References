@@ -21,7 +21,7 @@ class WidgetAnnotation : public Aspose::Pdf::Annotations::Annotation
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor. |
-| [get_Actions](./get_actions/)() const | Gets the annotation actions. |
+| [get_Actions](./get_actions/)() | Gets the annotation actions. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_DefaultAppearance](./get_defaultappearance/)() | Gets default appearance of the field. |
 | [get_Exportable](./get_exportable/)() | Gets exportable flag of the field. |

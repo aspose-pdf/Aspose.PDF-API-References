@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::FigureElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFigureElement()=0
+virtual System::SharedPtr<LogicalStructure::FigureElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFigureElement()=0
 ```
 
 

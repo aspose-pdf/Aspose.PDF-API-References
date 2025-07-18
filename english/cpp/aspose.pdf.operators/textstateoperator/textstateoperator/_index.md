@@ -21,19 +21,19 @@ Aspose::Pdf::Operators::TextStateOperator::TextStateOperator()
 * Class [TextStateOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextStateOperator::TextStateOperator(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) constructor
+## TextStateOperator::TextStateOperator(System::SharedPtr\<Facades::TextProperties\>) constructor
 
 
 Initializes TextStateoperator which allows to pass TextProperties.
 
 ```cpp
-Aspose::Pdf::Operators::TextStateOperator::TextStateOperator(System::SharedPtr<Aspose::Pdf::Facades::TextProperties> textProperties)
+Aspose::Pdf::Operators::TextStateOperator::TextStateOperator(System::SharedPtr<Facades::TextProperties> textProperties)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textProperties | System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
+| textProperties | System::SharedPtr\<Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
 
 ## See Also
 

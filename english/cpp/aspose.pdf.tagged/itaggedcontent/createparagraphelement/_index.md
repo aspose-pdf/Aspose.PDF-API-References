@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::ParagraphElement> Aspose::Pdf::Tagged::ITaggedContent::CreateParagraphElement()=0
+virtual System::SharedPtr<LogicalStructure::ParagraphElement> Aspose::Pdf::Tagged::ITaggedContent::CreateParagraphElement()=0
 ```
 
 

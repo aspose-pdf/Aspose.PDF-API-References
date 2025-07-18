@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/set_caption/
 Sets caption.
 
 ```cpp
-void Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
+void Aspose::Pdf::Forms::RadioButtonOptionField::set_Caption(System::SharedPtr<Text::TextFragment> value)
 ```
 
 ## See Also

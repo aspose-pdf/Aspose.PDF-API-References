@@ -4,7 +4,7 @@ linktitle: const_iterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::const_iterator typedef. Const iterator type in C++.'
 type: docs
-weight: 2400
+weight: 2300
 url: /cpp/aspose.pdf/paragraphs/const_iterator/
 ---
 ## const_iterator typedef

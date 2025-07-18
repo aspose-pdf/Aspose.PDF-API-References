@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_errors/
 List of [TextExtractionError](../../textextractionerror/) objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextExtractionError>>> Aspose::Pdf::Text::TextFragmentAbsorber::get_Errors() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextExtractionError>>> Aspose::Pdf::Text::TextFragmentAbsorber::get_Errors()
 ```
 
 ## See Also

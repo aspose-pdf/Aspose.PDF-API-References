@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/watermarkannotation/settextandstate/
 Set text of the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::WatermarkAnnotation::SetTextAndState(System::ArrayPtr<System::String> text, System::SharedPtr<Aspose::Pdf::Text::TextState> textState)
+void Aspose::Pdf::Annotations::WatermarkAnnotation::SetTextAndState(System::ArrayPtr<System::String> text, System::SharedPtr<Text::TextState> textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | System::ArrayPtr\<System::String\> | [Text](../../../aspose.pdf.text/) value. |
-| textState | System::SharedPtr\<Aspose::Pdf::Text::TextState\> | [Text](../../../aspose.pdf.text/) state. |
+| textState | System::SharedPtr\<Text::TextState\> | [Text](../../../aspose.pdf.text/) state. |
 
 ## See Also
 

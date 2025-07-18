@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/actioncollection/
 [Collection](../../aspose.pdf/collection/) of actions.
 
 ```cpp
-class ActionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Annotations::PdfAction>>
+class ActionCollection : public System::Collections::Generic::ICollection<System::SharedPtr<PdfAction>>
 ```
 
 ## Methods

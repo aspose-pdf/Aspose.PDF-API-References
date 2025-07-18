@@ -22,7 +22,7 @@ class BDC : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [BDC](./bdc/)(System::String) | Initializes operator. |
-| [BDC](./bdc/)(System::String, System::SharedPtr\<Aspose::Pdf::Facades::BDCProperties\>) |  |
+| [BDC](./bdc/)(System::String, System::SharedPtr\<Facades::BDCProperties\>) |  |
 | [get_Properties](./get_properties/)() const |  |
 | [get_Tag](./get_tag/)() const | Gets marked content tag. |
 | [set_Tag](./set_tag/)(System::String) | Sets marked content tag. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/ifontsubstitutioncallback/get_registrar/
 IRegistrar for current document.
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::Engine::Addressing::IRegistrar> Aspose::Pdf::Text::IFontSubstitutionCallback::get_Registrar()=0
+virtual System::SharedPtr<Engine::Addressing::IRegistrar> Aspose::Pdf::Text::IFontSubstitutionCallback::get_Registrar()=0
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/get_rootelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureElement> Aspose::Pdf::Tagged::ITaggedContent::get_RootElement()=0
+virtual System::SharedPtr<LogicalStructure::StructureElement> Aspose::Pdf::Tagged::ITaggedContent::get_RootElement()=0
 ```
 
 ## Remarks

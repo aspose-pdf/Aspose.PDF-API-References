@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegmentcollection/
 Represents a text segments collection.
 
 ```cpp
-class TextSegmentCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Text::TextSegment>>
+class TextSegmentCollection : public System::Collections::Generic::ICollection<System::SharedPtr<TextSegment>>
 ```
 
 ## Methods

@@ -38,8 +38,6 @@ Aspose::Pdf::MarginInfo::MarginInfo(double left, double bottom, double right, do
 | right | double | [Right](../../right/) margin. |
 | top | double | Top margin. |
 
-
-
 ## See Also
 
 * Class [MarginInfo](../)

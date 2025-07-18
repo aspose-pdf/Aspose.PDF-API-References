@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createtabletheadelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::TableTHeadElement> Aspose::Pdf::Tagged::ITaggedContent::CreateTableTHeadElement()=0
+virtual System::SharedPtr<LogicalStructure::TableTHeadElement> Aspose::Pdf::Tagged::ITaggedContent::CreateTableTHeadElement()=0
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/getenumerator/
 Returns enumerator of contained fields.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>> Aspose::Pdf::Forms::Field::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Annotations::WidgetAnnotation>>> Aspose::Pdf::Forms::Field::GetEnumerator() override
 ```
 
 

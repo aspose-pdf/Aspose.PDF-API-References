@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/get_c/
 Gets the cyan component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColorStroke::get_C() const
+double Aspose::Pdf::Operators::SetColorStroke::get_C()
 ```
 
 ## See Also

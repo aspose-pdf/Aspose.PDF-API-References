@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_g/
 Gets the green component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColor::get_G() const
+double Aspose::Pdf::Operators::SetColor::get_G()
 ```
 
 ## Remarks

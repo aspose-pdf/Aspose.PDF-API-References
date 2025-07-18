@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 Retrieves information about the signature algorithm used in the signature.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Security::SignatureAlgorithmInfo> Aspose::Pdf::Forms::Signature::GetSignatureAlgorithmInfo()
+System::SharedPtr<Security::SignatureAlgorithmInfo> Aspose::Pdf::Forms::Signature::GetSignatureAlgorithmInfo()
 ```
 
 

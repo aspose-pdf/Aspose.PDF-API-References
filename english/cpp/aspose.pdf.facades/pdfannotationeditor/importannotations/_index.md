@@ -29,20 +29,20 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Imports the specified annotations into document from array of another PDF document streams.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> annotFileStream, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> annotFileStream, System::ArrayPtr<Annotations::AnnotationType> annotType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotFileStream | System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\> | The array of streams of PDF documents that contain source annotations. |
-| annotType | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The annotation types to be imported. |
+| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The annotation types to be imported. |
 
 ## See Also
 
@@ -74,20 +74,20 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayP
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr\<System::String\>, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr\<System::String\>, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Imports the specified annotations into document from array of another PDF documents.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr<System::String> annotFile, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotations(System::ArrayPtr<System::String> annotFile, System::ArrayPtr<Annotations::AnnotationType> annotType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotFile | System::ArrayPtr\<System::String\> | The array of paths of PDF documents that contain source annotations. |
-| annotType | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The array of annotation types to be imported. |
+| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The array of annotation types to be imported. |
 
 ## See Also
 

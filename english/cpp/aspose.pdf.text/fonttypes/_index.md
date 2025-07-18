@@ -20,8 +20,8 @@ enum class FontTypes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TTF | 0 | TTF font type. |
-| OTF | 1 | OTF font type. |
+| TTF | n/a | TTF font type. |
+| OTF | n/a | OTF font type. |
 
 ## See Also
 

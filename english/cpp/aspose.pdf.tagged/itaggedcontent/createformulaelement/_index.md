@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::FormulaElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFormulaElement()=0
+virtual System::SharedPtr<LogicalStructure::FormulaElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFormulaElement()=0
 ```
 
 

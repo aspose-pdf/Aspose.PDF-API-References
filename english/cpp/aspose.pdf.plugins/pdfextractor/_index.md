@@ -4,7 +4,7 @@ linktitle: PdfExtractor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfExtractor class. Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents in C++.'
 type: docs
-weight: 5700
+weight: 5900
 url: /cpp/aspose.pdf.plugins/pdfextractor/
 ---
 ## PdfExtractor class

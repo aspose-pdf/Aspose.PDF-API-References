@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_title/
 Sets a string value that indicates the title of the graph.
 
 ```cpp
-void Aspose::Pdf::Drawing::Graph::set_Title(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
+void Aspose::Pdf::Drawing::Graph::set_Title(System::SharedPtr<Text::TextFragment> value)
 ```
 
 ## See Also

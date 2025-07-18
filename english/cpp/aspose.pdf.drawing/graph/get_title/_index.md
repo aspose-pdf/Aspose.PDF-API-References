@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_title/
 Gets a string value that indicates the title of the graph.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Text::TextFragment> Aspose::Pdf::Drawing::Graph::get_Title() const
+System::SharedPtr<Text::TextFragment> Aspose::Pdf::Drawing::Graph::get_Title() const
 ```
 
 ## See Also

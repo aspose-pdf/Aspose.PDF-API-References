@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/get_compression/
 Gets the type of the compression.
 
 ```cpp
-Aspose::Pdf::Devices::CompressionType Aspose::Pdf::Plugins::TiffOptions::get_Compression()
+Devices::CompressionType Aspose::Pdf::Plugins::TiffOptions::get_Compression()
 ```
 
 ## Remarks
