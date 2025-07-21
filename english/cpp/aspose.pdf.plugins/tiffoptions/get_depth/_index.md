@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/get_depth/
 Gets the color depth.
 
 ```cpp
-Aspose::Pdf::Devices::ColorDepth Aspose::Pdf::Plugins::TiffOptions::get_Depth()
+Devices::ColorDepth Aspose::Pdf::Plugins::TiffOptions::get_Depth()
 ```
 
 ## Remarks

@@ -16,6 +16,15 @@ Returns color type of image.
 static Aspose::Pdf::ColorType Aspose::Pdf::XImage::DetectColorType(const System::SharedPtr<System::Drawing::Bitmap> &bmp)
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bmp | const System::SharedPtr\<System::Drawing::Bitmap\>\& | [Image](../../image/). |
+
+### ReturnValue
+
+[Color](../../color/) type.
+
 ## See Also
 
 * Enum [ColorType](../../colortype/)

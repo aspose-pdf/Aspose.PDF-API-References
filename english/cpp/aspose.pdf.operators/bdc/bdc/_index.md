@@ -27,13 +27,13 @@ Aspose::Pdf::Operators::BDC::BDC(System::String tag)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## BDC::BDC(System::String, System::SharedPtr\<Aspose::Pdf::Facades::BDCProperties\>) constructor
+## BDC::BDC(System::String, System::SharedPtr\<Facades::BDCProperties\>) constructor
 
 
 
 
 ```cpp
-Aspose::Pdf::Operators::BDC::BDC(System::String tag, System::SharedPtr<Aspose::Pdf::Facades::BDCProperties> properties)
+Aspose::Pdf::Operators::BDC::BDC(System::String tag, System::SharedPtr<Facades::BDCProperties> properties)
 ```
 
 ## See Also

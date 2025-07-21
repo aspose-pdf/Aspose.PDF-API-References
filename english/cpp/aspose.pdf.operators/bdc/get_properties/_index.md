@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bdc/get_properties/
 
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Facades::BDCProperties> Aspose::Pdf::Operators::BDC::get_Properties() const
+System::SharedPtr<Facades::BDCProperties> Aspose::Pdf::Operators::BDC::get_Properties() const
 ```
 
 ## See Also

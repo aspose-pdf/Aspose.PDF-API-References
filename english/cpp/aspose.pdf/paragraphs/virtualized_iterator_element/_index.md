@@ -4,7 +4,7 @@ linktitle: virtualized_iterator_element
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::virtualized_iterator_element typedef. Virtualized element type in C++.'
 type: docs
-weight: 2800
+weight: 2700
 url: /cpp/aspose.pdf/paragraphs/virtualized_iterator_element/
 ---
 ## virtualized_iterator_element typedef

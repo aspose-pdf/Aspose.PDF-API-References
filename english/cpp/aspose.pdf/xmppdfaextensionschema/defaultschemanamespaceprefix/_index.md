@@ -16,9 +16,6 @@ Default schema namespace prefix.
 static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultSchemaNamespacePrefix
 ```
 
-
-
-
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

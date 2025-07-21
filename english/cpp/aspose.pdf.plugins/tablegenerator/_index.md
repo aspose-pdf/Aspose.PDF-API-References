@@ -4,7 +4,7 @@ linktitle: TableGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::TableGenerator class. Represents Aspose.PDF TableGenerator plugin in C++.'
 type: docs
-weight: 8100
+weight: 8300
 url: /cpp/aspose.pdf.plugins/tablegenerator/
 ---
 ## TableGenerator class

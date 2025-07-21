@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/get_shape/
 Gets the type of the shape.
 
 ```cpp
-Aspose::Pdf::Devices::ShapeType Aspose::Pdf::Plugins::TiffOptions::get_Shape()
+Devices::ShapeType Aspose::Pdf::Plugins::TiffOptions::get_Shape()
 ```
 
 ## Remarks

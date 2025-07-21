@@ -20,6 +20,7 @@ template<typename T>class SortedSet : public System::Collections::Generic::BaseS
 
 | Method | Description |
 | --- | --- |
+| [get_Max](./get_max/)() const | Gets the maximum value in the [SortedSet](./). |
 | [SortedSet](./sortedset/)() | RTTI information. |
 | [SortedSet](./sortedset/)(int) | Creates empty set with specified capacity. |
 | [SortedSet](./sortedset/)(const SharedPtr\<IComparer\<T\>\>\&) | Creates empty set that uses the specified equality comparer. |

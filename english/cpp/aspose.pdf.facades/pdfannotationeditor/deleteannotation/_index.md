@@ -21,9 +21,6 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotation(System::String 
 | --- | --- | --- |
 | annotName | System::String | The annotation name |
 
-
-
-
 ## See Also
 
 * Class [String](../../../system/string/)

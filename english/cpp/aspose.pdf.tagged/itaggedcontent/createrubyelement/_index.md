@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::RubyElement> Aspose::Pdf::Tagged::ITaggedContent::CreateRubyElement()=0
+virtual System::SharedPtr<LogicalStructure::RubyElement> Aspose::Pdf::Tagged::ITaggedContent::CreateRubyElement()=0
 ```
 
 

@@ -24,7 +24,7 @@ class StructureTypeCategory : public System::Object
 | static [GroupingElements](./groupingelements/)() | Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on layout. |
 | static [IllustrationElements](./illustrationelements/)() | Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with respect to page layout. An illustration can be treated as either a BLSE or an ILSE. |
 | static [ILSEs](./ilses/)() | Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction. |
-| static [to_StructureTypeCategory](./to_structuretypecategory/)(System::String) |  |
+| static [to_StructureTypeCategory](./to_structuretypecategory/)(System::String) | Performs an explicit conversion from [System::String](../../system/string/) to [Aspose::Pdf::LogicalStructure::StructureTypeCategory](./). |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 ## See Also
 

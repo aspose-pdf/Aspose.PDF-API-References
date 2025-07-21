@@ -16,9 +16,6 @@ Sets a column info.
 void Aspose::Pdf::FloatingBox::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnInfo> value)
 ```
 
-
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

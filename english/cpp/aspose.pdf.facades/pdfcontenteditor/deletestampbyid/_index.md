@@ -41,9 +41,6 @@ void Aspose::Pdf::Facades::PdfContentEditor::DeleteStampById(int32_t stampId)
 | --- | --- | --- |
 | stampId | int32_t | Identifier of stamp which should be deleted. |
 
-
-
-
 ## See Also
 
 * Class [PdfContentEditor](../)

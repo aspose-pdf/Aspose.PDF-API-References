@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/
 This class represents paragraph collection.
 
 ```cpp
-class Paragraphs : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::BaseParagraph>>,
+class Paragraphs : public System::Collections::Generic::IEnumerable<System::SharedPtr<BaseParagraph>>,
                    public System::ICloneable
 ```
 
@@ -21,7 +21,6 @@ class Paragraphs : public System::Collections::Generic::IEnumerable<System::Shar
 
 | Method | Description |
 | --- | --- |
-| static [_anonymous_method_0](./_anonymous_method_0/)(System::SharedPtr\<BaseParagraph\>, System::SharedPtr\<BaseParagraph\>) |  |
 | [Add](./add/)(System::SharedPtr\<BaseParagraph\>) | Add paragraph to collection. |
 | [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |

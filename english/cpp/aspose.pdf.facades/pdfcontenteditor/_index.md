@@ -83,10 +83,10 @@ class PdfContentEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [PdfContentEditor](./pdfcontenteditor/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfContentEditor](./) object on base of the *document* . |
 | [RemoveDocumentOpenAction](./removedocumentopenaction/)() | Removes open action from the document. This operation is useful when concatenating multiple documents that use explicit 'GoTo' action on startup. |
 | [ReplaceImage](./replaceimage/)(int32_t, int32_t, System::String) | Replaces the specified image on the specified page of PDF document with another image. |
-| [ReplaceText](./replacetext/)(System::String, int32_t, System::String, System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Replaces text in the PDF file on the specified page. [TextState](../) object (font family, color) can be specified to replaced text. |
+| [ReplaceText](./replacetext/)(System::String, int32_t, System::String, System::SharedPtr\<Text::TextState\>) | Replaces text in the PDF file on the specified page. [TextState](../) object (font family, color) can be specified to replaced text. |
 | [ReplaceText](./replacetext/)(System::String, System::String) | Replaces text in the PDF file. |
 | [ReplaceText](./replacetext/)(System::String, int32_t, System::String) | Replaces text in the PDF file on the specified page. |
-| [ReplaceText](./replacetext/)(System::String, System::String, System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Replaces text in the PDF file using specified [TextState](../) object. |
+| [ReplaceText](./replacetext/)(System::String, System::String, System::SharedPtr\<Text::TextState\>) | Replaces text in the PDF file using specified [TextState](../) object. |
 | [ReplaceText](./replacetext/)(System::String, System::String, int32_t) | Replaces text in the PDF file and sets font size. |
 | [set_ReplaceTextStrategy](./set_replacetextstrategy/)(System::SharedPtr\<Aspose::Pdf::Facades::ReplaceTextStrategy\>) | A set of parameters for replace text operation. |
 | [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. |

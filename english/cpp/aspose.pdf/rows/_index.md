@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/
 Represents a rows collection of table.
 
 ```cpp
-class Rows : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::Row>>
+class Rows : public System::Collections::Generic::IEnumerable<System::SharedPtr<Row>>
 ```
 
 ## Methods

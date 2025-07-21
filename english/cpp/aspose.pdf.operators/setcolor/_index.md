@@ -21,13 +21,13 @@ class SetColor : public Aspose::Pdf::Operators::BasicSetColorOperator
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
-| [get_B](./get_b/)() const | Gets the blue component. |
-| [get_C](./get_c/)() const | Gets the cyan component. |
-| [get_G](./get_g/)() const | Gets the green component. |
-| [get_K](./get_k/)() const | Gets the black component. |
-| [get_M](./get_m/)() const | Gets the magenta component. |
-| [get_R](./get_r/)() const | Gets the red component. |
-| [get_Y](./get_y/)() const | Gets the yellow component. |
+| [get_B](./get_b/)() | Gets the blue component. |
+| [get_C](./get_c/)() | Gets the cyan component. |
+| [get_G](./get_g/)() | Gets the green component. |
+| [get_K](./get_k/)() | Gets the black component. |
+| [get_M](./get_m/)() | Gets the magenta component. |
+| [get_R](./get_r/)() | Gets the red component. |
+| [get_Y](./get_y/)() | Gets the yellow component. |
 | [getColor](./getcolor/)() override | Returns color specified by the operator. |
 | [set_B](./set_b/)(double) | Sets the blue component. |
 | [set_C](./set_c/)(double) | Sets the cyan component. |

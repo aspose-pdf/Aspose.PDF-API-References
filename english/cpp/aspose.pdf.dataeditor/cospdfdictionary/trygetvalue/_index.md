@@ -4,7 +4,7 @@ linktitle: TryGetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DataEditor::CosPdfDictionary::TryGetValue method. For access to simple data type like string, name, bool, number. Returns null for other types in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/trygetvalue/
 ---
 ## CosPdfDictionary::TryGetValue method

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createspanelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::SpanElement> Aspose::Pdf::Tagged::ITaggedContent::CreateSpanElement()=0
+virtual System::SharedPtr<LogicalStructure::SpanElement> Aspose::Pdf::Tagged::ITaggedContent::CreateSpanElement()=0
 ```
 
 

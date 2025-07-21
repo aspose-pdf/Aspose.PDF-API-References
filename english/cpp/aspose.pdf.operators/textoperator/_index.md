@@ -22,7 +22,7 @@ class TextOperator : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [TextOperator](./textoperator/)() | Initializes operator. |
-| [TextOperator](./textoperator/)(System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\>) | [Text](../../aspose.pdf.text/) operator which accepts text properties. |
+| [TextOperator](./textoperator/)(System::SharedPtr\<Facades::TextProperties\>) | [Text](../../aspose.pdf.text/) operator which accepts text properties. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

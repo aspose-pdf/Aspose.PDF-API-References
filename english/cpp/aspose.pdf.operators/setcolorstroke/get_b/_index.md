@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/get_b/
 Gets the blue component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColorStroke::get_B() const
+double Aspose::Pdf::Operators::SetColorStroke::get_B()
 ```
 
 ## Remarks

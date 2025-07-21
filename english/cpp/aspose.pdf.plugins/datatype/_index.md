@@ -4,7 +4,7 @@ linktitle: DataType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::DataType enum. Represents possible types of data for plugin processing in C++.'
 type: docs
-weight: 9200
+weight: 9400
 url: /cpp/aspose.pdf.plugins/datatype/
 ---
 ## DataType enum

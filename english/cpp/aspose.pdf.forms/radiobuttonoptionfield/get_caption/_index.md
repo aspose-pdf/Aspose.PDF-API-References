@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonoptionfield/get_caption/
 Gets caption.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Text::TextFragment> Aspose::Pdf::Forms::RadioButtonOptionField::get_Caption() const
+System::SharedPtr<Text::TextFragment> Aspose::Pdf::Forms::RadioButtonOptionField::get_Caption() const
 ```
 
 ## See Also

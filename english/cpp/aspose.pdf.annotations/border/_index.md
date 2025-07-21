@@ -21,7 +21,7 @@ class Border : public System::Object
 | Method | Description |
 | --- | --- |
 | [Border](./border/)(System::SharedPtr\<Annotation\>) | Constructor for border object. |
-| [get_Dash](./get_dash/)() const | Gets dash pattern. |
+| [get_Dash](./get_dash/)() | Gets dash pattern. |
 | [get_Effect](./get_effect/)() const | Gets border effect. |
 | [get_EffectIntensity](./get_effectintensity/)() const | Gets effect intencity. Valid range of value is [0..2]. |
 | [get_HCornerRadius](./get_hcornerradius/)() | Gets horizontal corner radius. |

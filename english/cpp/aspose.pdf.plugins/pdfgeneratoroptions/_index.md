@@ -4,7 +4,7 @@ linktitle: PdfGeneratorOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfGeneratorOptions class. Represents options for Generator plugins in C++.'
 type: docs
-weight: 5900
+weight: 6100
 url: /cpp/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
 ## PdfGeneratorOptions class

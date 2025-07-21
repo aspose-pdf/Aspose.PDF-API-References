@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/get_r/
 Gets the red component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColorStroke::get_R() const
+double Aspose::Pdf::Operators::SetColorStroke::get_R()
 ```
 
 ## Remarks

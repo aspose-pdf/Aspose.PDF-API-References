@@ -14,7 +14,7 @@ Base class for acro form fields.
 
 ```cpp
 class Field : public Aspose::Pdf::Annotations::WidgetAnnotation,
-              public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Annotations::WidgetAnnotation>>
+              public System::Collections::Generic::ICollection<System::SharedPtr<Annotations::WidgetAnnotation>>
 ```
 
 ## Methods
@@ -22,8 +22,8 @@ class Field : public Aspose::Pdf::Annotations::WidgetAnnotation,
 | Method | Description |
 | --- | --- |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Field\>\>, int32_t) | Copies subfields of this field into array starting from specified index. |
-| [CopyToWidgetArray](./copytowidgetarray/)(System::ArrayPtr\<System::SharedPtr\<Aspose::Pdf::Annotations::WidgetAnnotation\>\>, int32_t) | Copies subfields of this field into array starting from specified index. |
-| [ExecuteFieldJavaScript](./executefieldjavascript/)(System::SharedPtr\<Aspose::Pdf::Annotations::JavascriptAction\>) | Executes a specified JavaScript action for the field. |
+| [CopyToWidgetArray](./copytowidgetarray/)(System::ArrayPtr\<System::SharedPtr\<Annotations::WidgetAnnotation\>\>, int32_t) | Copies subfields of this field into array starting from specified index. |
+| [ExecuteFieldJavaScript](./executefieldjavascript/)(System::SharedPtr\<Annotations::JavascriptAction\>) | Executes a specified JavaScript action for the field. |
 | [Field](./field/)(System::SharedPtr\<Document\>) | Creates field for use in Generator. |
 | [Flatten](./flatten/)() override | Removes this field and place its value directly on the page. |
 | [get_AlternateName](./get_alternatename/)() | Gets alternate name of the field (An alternate field name that shall be used in place of the actual field name wherever the field shall be identified in the user interface). Alternate name is used as field tooltip in Adobe Acrobat. |
@@ -58,7 +58,6 @@ class Field : public Aspose::Pdf::Annotations::WidgetAnnotation,
 | [set_TabOrder](./set_taborder/)(int32_t) | Sets tab order of the field. |
 | virtual [set_Value](./set_value/)(System::String) | Sets value of the field. |
 | virtual [SetPosition](./setposition/)(System::SharedPtr\<Point\>) | Set position of the field. |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(uint32_t) override | Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode. |
 ## See Also
 
 * Class [WidgetAnnotation](../../aspose.pdf.annotations/widgetannotation/)

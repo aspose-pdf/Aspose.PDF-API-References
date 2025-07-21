@@ -4,7 +4,7 @@ linktitle: OptimizeOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::OptimizeOptions class. Represents Optimize options for Optimizer plugin in C++.'
 type: docs
-weight: 4800
+weight: 5000
 url: /cpp/aspose.pdf.plugins/optimizeoptions/
 ---
 ## OptimizeOptions class

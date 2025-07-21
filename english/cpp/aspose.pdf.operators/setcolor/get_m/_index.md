@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_m/
 Gets the magenta component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColor::get_M() const
+double Aspose::Pdf::Operators::SetColor::get_M()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/get_defaultcelltextstate/
 Gets default text state for row cells.
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::LogicalStructure::TableTRElement::get_DefaultCellTextState()
+System::SharedPtr<Text::TextState> Aspose::Pdf::LogicalStructure::TableTRElement::get_DefaultCellTextState()
 ```
 
 ## See Also

@@ -224,8 +224,6 @@ Aspose::Pdf::Devices::TiffDevice::TiffDevice(System::SharedPtr<Aspose::Pdf::Devi
 | settings | System::SharedPtr\<TiffSettings\> | Tiff settings, see [TiffSettings](../../tiffsettings/) class. |
 | converter | System::SharedPtr\<IIndexBitmapConverter\> | External converter |
 
-
-
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)

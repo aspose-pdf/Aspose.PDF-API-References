@@ -4,7 +4,7 @@ linktitle: XlsConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::XlsConverter class. Represents XlsConverter plugin in C++.'
 type: docs
-weight: 9000
+weight: 9200
 url: /cpp/aspose.pdf.plugins/xlsconverter/
 ---
 ## XlsConverter class

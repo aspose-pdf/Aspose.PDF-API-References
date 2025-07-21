@@ -4,7 +4,7 @@ linktitle: ConversionMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::ConversionMode enum. Defines conversion mode of the output document in C++.'
 type: docs
-weight: 9100
+weight: 9300
 url: /cpp/aspose.pdf.plugins/conversionmode/
 ---
 ## ConversionMode enum

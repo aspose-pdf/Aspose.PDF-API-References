@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createformelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::FormElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFormElement()=0
+virtual System::SharedPtr<LogicalStructure::FormElement> Aspose::Pdf::Tagged::ITaggedContent::CreateFormElement()=0
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationcollection/
 Class representing annotation collection.
 
 ```cpp
-class AnnotationCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>
+class AnnotationCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Annotation>>
 ```
 
 ## Methods

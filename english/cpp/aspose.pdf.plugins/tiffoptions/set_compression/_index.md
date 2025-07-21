@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.plugins/tiffoptions/set_compression/
 Sets the type of the compression.
 
 ```cpp
-void Aspose::Pdf::Plugins::TiffOptions::set_Compression(Aspose::Pdf::Devices::CompressionType value)
+void Aspose::Pdf::Plugins::TiffOptions::set_Compression(Devices::CompressionType value)
 ```
 
 ## Remarks

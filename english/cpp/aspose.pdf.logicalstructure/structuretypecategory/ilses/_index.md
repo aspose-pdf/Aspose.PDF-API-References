@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction.
 
 ```cpp
-static System::SharedPtr<StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::ILSEs()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTypeCategory> & Aspose::Pdf::LogicalStructure::StructureTypeCategory::ILSEs()
 ```
 
 ## See Also

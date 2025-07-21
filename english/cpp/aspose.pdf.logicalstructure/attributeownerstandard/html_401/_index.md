@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/html_401/
 HTML-4.01 attribute owner.
 
 ```cpp
-static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Html_401()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Html_401()
 ```
 
 ## See Also

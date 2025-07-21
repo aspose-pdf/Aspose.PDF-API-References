@@ -4,7 +4,7 @@ linktitle: PdfAValidateOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfAValidateOptions class. Represents options for validating PDF/A compliance of PDF documents with the PdfAConverter plugin in C++.'
 type: docs
-weight: 5400
+weight: 5600
 url: /cpp/aspose.pdf.plugins/pdfavalidateoptions/
 ---
 ## PdfAValidateOptions class

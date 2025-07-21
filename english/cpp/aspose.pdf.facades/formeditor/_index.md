@@ -85,7 +85,7 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [set_SubmitFlag](./set_submitflag/)(SubmitFormFlag) | Set the submit button's submission flags. |
 | [SetFieldAlignment](./setfieldalignment/)(System::String, int32_t) | Set the alignment style of a text field. |
 | [SetFieldAlignmentV](./setfieldalignmentv/)(System::String, int32_t) | Set the vertical alignment style of a text field. |
-| [SetFieldAppearance](./setfieldappearance/)(System::String, Aspose::Pdf::Annotations::AnnotationFlags) | Set field flags. |
+| [SetFieldAppearance](./setfieldappearance/)(System::String, Annotations::AnnotationFlags) | Set field flags. |
 | [SetFieldAttribute](./setfieldattribute/)(System::String, PropertyFlag) | Set attributes of field. |
 | [SetFieldCombNumber](./setfieldcombnumber/)(System::String, int32_t) | Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter). |
 | [SetFieldLimit](./setfieldlimit/)(System::String, int32_t) | Sets maximum character count of the text field. |

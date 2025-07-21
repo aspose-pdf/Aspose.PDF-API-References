@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/shape/set_text/
 Sets a text for shape.
 
 ```cpp
-void Aspose::Pdf::Drawing::Shape::set_Text(System::SharedPtr<Aspose::Pdf::Text::TextFragment> value)
+void Aspose::Pdf::Drawing::Shape::set_Text(System::SharedPtr<Text::TextFragment> value)
 ```
 
 ## See Also

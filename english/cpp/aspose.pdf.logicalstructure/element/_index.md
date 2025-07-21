@@ -27,11 +27,11 @@ class Element : public virtual System::Object
 | [get_ParentElement](./get_parentelement/)() const | Get parent element. |
 | [InsertChild](./insertchild/)(System::SharedPtr\<Element\>, int32_t, bool) | Insert [T:/Aspose::Pdf::LogicalStructure::Element](../) to collection of children at specified index. |
 | [RemoveChild](./removechild/)(int32_t) | Remove child at. |
-| virtual [Tag](./tag/)(System::SharedPtr\<Aspose::Pdf::Operators::BDC\>) | Bind a structure element to the content stream BDC operator. |
+| virtual [Tag](./tag/)(System::SharedPtr\<Operators::BDC\>) | Bind a structure element to the content stream BDC operator. |
 | virtual [Tag](./tag/)(System::SharedPtr\<XForm\>) | Bind a structure element to the content stream [XForm](../../aspose.pdf/xform/). |
 | virtual [Tag](./tag/)(System::SharedPtr\<XImage\>) | Bind a structure element to the [XImage](../../aspose.pdf/ximage/). |
 | virtual [Tag](./tag/)(System::SharedPtr\<Artifact\>) | Bind a structure element to the [Artifact](../../aspose.pdf/artifact/). |
-| virtual [Tag](./tag/)(System::SharedPtr\<Aspose::Pdf::Annotations::Annotation\>) | Bind a structure element to the Annotation. |
+| virtual [Tag](./tag/)(System::SharedPtr\<Annotations::Annotation\>) | Bind a structure element to the Annotation. |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |
 ## See Also
 

@@ -30,10 +30,7 @@ class UnifiedSaveOptions : public Aspose::Pdf::SaveOptions
 
 | Typedef | Description |
 | --- | --- |
-| [ConversionProgressEventHandler](./conversionprogresseventhandler/) |  |
-
-
-
+| [ConversionProgressEventHandler](./conversionprogresseventhandler/) | Represents method that usually supplied by calling side and handles progress events that comes from converter. Usually such suplied customer's handler can be used to show total conversion progress on console or in progress bar. |
 ## See Also
 
 * Class [SaveOptions](../saveoptions/)

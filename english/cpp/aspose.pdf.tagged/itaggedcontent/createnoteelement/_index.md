@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::NoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateNoteElement()=0
+virtual System::SharedPtr<LogicalStructure::NoteElement> Aspose::Pdf::Tagged::ITaggedContent::CreateNoteElement()=0
 ```
 
 

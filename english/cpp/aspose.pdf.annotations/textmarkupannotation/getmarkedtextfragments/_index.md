@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 Gets text under markup annotation as [TextFragmentCollection](../).
 
 ```cpp
-System::SharedPtr<Aspose::Pdf::Text::TextFragmentCollection> Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedTextFragments()
+System::SharedPtr<Text::TextFragmentCollection> Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedTextFragments()
 ```
 
 

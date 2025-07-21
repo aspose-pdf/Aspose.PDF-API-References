@@ -16,9 +16,6 @@ Gets the value type.
 System::String Aspose::Pdf::XmpPdfAExtensionValueType::get_Type() const
 ```
 
-
-
-
 ## See Also
 
 * Class [String](../../../system/string/)

@@ -64,7 +64,7 @@ form.FillField("radiobuttonField", 2);
 
 ```cpp
 //how to search field by its partial name:
-Form form = new Form("input.pdf", "output.pdf"); 
+Form form = new Form("input.pdf", "output.pdf");
 foreach(string fieldName in form.FieldNames)
 {
   if (fieldName.EndsWith("ListBoxField"))

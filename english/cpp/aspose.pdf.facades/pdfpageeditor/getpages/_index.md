@@ -21,8 +21,6 @@ int32_t Aspose::Pdf::Facades::PdfPageEditor::GetPages()
 
 Number of pages.
 
-
-
 ## See Also
 
 * Class [PdfPageEditor](../)

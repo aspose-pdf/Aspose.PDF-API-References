@@ -4,7 +4,7 @@ linktitle: Security
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::Security class. Represents Security plugin in C++.'
 type: docs
-weight: 7000
+weight: 7200
 url: /cpp/aspose.pdf.plugins/security/
 ---
 ## Security class

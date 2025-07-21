@@ -7,13 +7,13 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf.facades/pdfannotationeditor/extractannotations/
 ---
-## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, System::ArrayPtr\<Annotations::AnnotationType\>) method
 
 
 Gets the list of annotations of the specified types.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<Aspose::Pdf::Annotations::AnnotationType> annotTypes)
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<Annotations::AnnotationType> annotTypes)
 ```
 
 
@@ -21,7 +21,7 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 | --- | --- | --- |
 | start | int32_t | Start page from which the annotations will be selected. |
 | end | int32_t | End page to which the annotations will be selected. |
-| annotTypes | System::ArrayPtr\<Aspose::Pdf::Annotations::AnnotationType\> | The array of needed annotation types. |
+| annotTypes | System::ArrayPtr\<Annotations::AnnotationType\> | The array of needed annotation types. |
 
 ### ReturnValue
 
@@ -43,7 +43,7 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::
 Gets the list of annotations of the specified types.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Aspose::Pdf::Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<System::String> annotTypes)
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<System::String> annotTypes)
 ```
 
 

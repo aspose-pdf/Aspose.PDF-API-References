@@ -4,7 +4,7 @@ linktitle: PdfToHtmlOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Plugins::PdfToHtmlOptions class. Represents PDF to HTML converter options for Html plugin in C++.'
 type: docs
-weight: 6100
+weight: 6300
 url: /cpp/aspose.pdf.plugins/pdftohtmloptions/
 ---
 ## PdfToHtmlOptions class

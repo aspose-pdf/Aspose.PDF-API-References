@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 OEB-1.00 attribute owner.
 
 ```cpp
-static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Oeb_100()
+static System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Oeb_100()
 ```
 
 ## See Also

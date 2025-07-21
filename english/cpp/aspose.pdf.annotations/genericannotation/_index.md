@@ -21,7 +21,7 @@ class GenericAnnotation : public Aspose::Pdf::Annotations::Annotation
 | Method | Description |
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
-| [GenericAnnotation](./genericannotation/)(System::SharedPtr\<Aspose::Pdf::Engine::Data::IPdfObject\>, System::SharedPtr\<Document\>) |  |
+| [GenericAnnotation](./genericannotation/)(System::SharedPtr\<Engine::Data::IPdfObject\>, System::SharedPtr\<Document\>) |  |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 ## See Also
 

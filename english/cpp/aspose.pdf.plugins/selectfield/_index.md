@@ -4,7 +4,7 @@ linktitle: SelectField
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Plugins::SelectField typedef in C++.'
 type: docs
-weight: 9500
+weight: 9700
 url: /cpp/aspose.pdf.plugins/selectfield/
 ---
 ## SelectField typedef

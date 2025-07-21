@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdfactioncollection/
 Class describes list of actions.
 
 ```cpp
-class PdfActionCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<Aspose::Pdf::Annotations::PdfAction>>
+class PdfActionCollection : public System::Collections::Generic::IEnumerable<System::SharedPtr<PdfAction>>
 ```
 
 ## Methods

@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedSet::ThisType typedef. Self type in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/sortedset/thistype/
 ---
 ## ThisType typedef

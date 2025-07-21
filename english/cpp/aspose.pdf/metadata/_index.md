@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/
 Provides access to XMP metadata stream.
 
 ```cpp
-class Metadata : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<Aspose::Pdf::XmpValue>>
+class Metadata : public System::Collections::Generic::IDictionary<System::String, System::SharedPtr<XmpValue>>
 ```
 
 ## Methods

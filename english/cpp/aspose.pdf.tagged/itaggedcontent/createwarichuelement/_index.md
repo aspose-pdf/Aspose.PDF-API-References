@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::WarichuElement> Aspose::Pdf::Tagged::ITaggedContent::CreateWarichuElement()=0
+virtual System::SharedPtr<LogicalStructure::WarichuElement> Aspose::Pdf::Tagged::ITaggedContent::CreateWarichuElement()=0
 ```
 
 

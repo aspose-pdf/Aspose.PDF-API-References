@@ -23,9 +23,7 @@ class LoadOptions : public virtual System::Object
 
 | Enum | Description |
 | --- | --- |
-| [MarginsAreaUsageModes](./marginsareausagemodes/) | Represents mode of usage of margins area during conversion 
-
- (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins. |
+| [MarginsAreaUsageModes](./marginsareausagemodes/) | Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins. |
 | [PageSizeAdjustmentModes](./pagesizeadjustmentmodes/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
 ## Methods
 
@@ -49,7 +47,7 @@ class LoadOptions : public virtual System::Object
 
 | Typedef | Description |
 | --- | --- |
-| [ResourceLoadingStrategy](./resourceloadingstrategy/) |  |
+| [ResourceLoadingStrategy](./resourceloadingstrategy/) | Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested resources from somewhere. For example during usage of [Aspose.Pdf](../) in cloud direct access to referenced files impossible, and some custome code put into special method should be used. This delegate defines signature of such custom method. |
 ## See Also
 
 * Class [Object](../../system/object/)

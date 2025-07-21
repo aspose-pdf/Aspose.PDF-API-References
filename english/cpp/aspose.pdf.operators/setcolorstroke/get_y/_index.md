@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/get_y/
 Gets the yellow component.
 
 ```cpp
-double Aspose::Pdf::Operators::SetColorStroke::get_Y() const
+double Aspose::Pdf::Operators::SetColorStroke::get_Y()
 ```
 
 ## See Also

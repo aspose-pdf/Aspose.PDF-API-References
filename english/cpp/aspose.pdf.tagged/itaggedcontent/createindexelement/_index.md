@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/createindexelement/
 
 
 ```cpp
-virtual System::SharedPtr<Aspose::Pdf::LogicalStructure::IndexElement> Aspose::Pdf::Tagged::ITaggedContent::CreateIndexElement()=0
+virtual System::SharedPtr<LogicalStructure::IndexElement> Aspose::Pdf::Tagged::ITaggedContent::CreateIndexElement()=0
 ```
 
 

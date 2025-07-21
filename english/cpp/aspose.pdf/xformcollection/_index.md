@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xformcollection/
 Class represents collection of [XFormCollection](./).
 
 ```cpp
-class XFormCollection : public System::Collections::Generic::ICollection<System::SharedPtr<Aspose::Pdf::XForm>>,
+class XFormCollection : public System::Collections::Generic::ICollection<System::SharedPtr<XForm>>,
                         public Aspose::Pdf::ISupportsMemoryCleanup
 ```
 

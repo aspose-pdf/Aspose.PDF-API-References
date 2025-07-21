@@ -20,7 +20,7 @@ class StructureTextStateExtensions
 
 | Method | Description |
 | --- | --- |
-| static [SetPositionSettings](./setpositionsettings/)(System::SharedPtr\<StructureTextState\>, System::SharedPtr\<Aspose::Pdf::Tagged::PositionSettings\>) |  |
+| static [SetPositionSettings](./setpositionsettings/)(System::SharedPtr\<StructureTextState\>, System::SharedPtr\<Tagged::PositionSettings\>) |  |
 | [StructureTextStateExtensions](./structuretextstateextensions/)() |  |
 ## See Also
 
