@@ -38,6 +38,9 @@ pub struct Document { /* private fields */ }
 | [save_n_up](./convert/save_n_up/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
+| [export_fdf](./convert/export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
+| [export_xfdf](./convert/export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
+| [export_xml](./convert/export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
 | [page_to_jpg](./convert/page_to_jpg/) | Convert and save the specified page as Jpg-image. |
 | [page_to_png](./convert/page_to_png/) | Convert and save the specified page as Png-image. |
 | [page_to_bmp](./convert/page_to_bmp/) | Convert and save the specified page as Bmp-image. |
