@@ -36,6 +36,7 @@ url: /javascript-cpp/convert/
 | [AsposePdfExportXml](./asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
 | [AsposePdfPagesToPDF](./asposepdfpagestopdf/) | Convert a PDF-file to PDF (separate pages). |
 | [AsposePdfToMarkdown](./asposepdftomarkdown/) | Convert a PDF-file to Markdown. |
+| [AsposePdfToDocXEnhanced](./asposepdftodocxenhanced/) | Convert a PDF-file to DocX with Enhanced Recognition Mode. |
 
 
 ## Detailed Description

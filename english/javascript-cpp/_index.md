@@ -43,6 +43,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfExportXml](./convert/asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
 | [AsposePdfPagesToPDF](./convert/asposepdfpagestopdf/) | Convert a PDF-file to PDF (separate pages). |
 | [AsposePdfToMarkdown](./convert/asposepdftomarkdown/) | Convert a PDF-file to Markdown. |
+| [AsposePdfToDocXEnhanced](./convert/asposepdftodocxenhanced/) | Convert a PDF-file to DocX with Enhanced Recognition Mode. |
 
 
 ## Convert to PDF functions
