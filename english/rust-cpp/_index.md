@@ -38,6 +38,7 @@ pub struct Document { /* private fields */ }
 | [save_n_up](./convert/save_n_up/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
+| [save_docx_enhanced](./convert/save_docx_enhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
 | [export_fdf](./convert/export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [export_xfdf](./convert/export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [export_xml](./convert/export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
