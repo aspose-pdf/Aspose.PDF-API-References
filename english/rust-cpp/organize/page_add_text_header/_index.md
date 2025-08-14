@@ -1,19 +1,20 @@
 ---
-title: "page_grayscale"
+title: "page_add_text_header"
 second_title: Aspose.PDF for Rust via C++
-description: "Converts a page to black and white."
+description: "Adds text in page header."
 type: docs
-url: /rust-cpp/organize/page_grayscale/
+url: /rust-cpp/organize/page_add_text_header/
 ---
 
-_Converts a page to black and white._
+_Adds text in page header._
 
 ```rust
-pub fn page_grayscale(&self, num: i32) -> Result<(), PdfError>
+pub fn page_add_text_header(&self, num: i32, header: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
   * **num** - the page number (1-based)
+  * **header** - the pages header
 
 **Returns**
   * **Ok(())** - if the operation succeeds
@@ -25,14 +26,14 @@ pub fn page_grayscale(&self, num: i32) -> Result<(), PdfError>
 use asposepdf::Document;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    // Open a PDF-document from file
+    // Open a PDF-document with filename
     let pdf = Document::open("sample.pdf")?;
 
-    // Convert page to black and white
-    pdf.page_grayscale(1)?;
+    // Add text in page header
+    pdf.page_add_text_header(1, "HEADER")?;
 
     // Save the previously opened PDF-document with new filename
-    pdf.save_as("sample_page1_grayscale.pdf")?;
+    pdf.save_as("sample_page1_add_text_header.pdf")?;
 
     Ok(())
 }

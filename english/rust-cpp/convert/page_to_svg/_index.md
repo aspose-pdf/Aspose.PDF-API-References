@@ -13,8 +13,8 @@ pub fn page_to_svg(&self, num: i32, filename: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **num** – the page number (1-based)
-  * **filename** – the path to the output file
+  * **num** - the page number (1-based)
+  * **filename** - the path to the output file
 
 **Returns**
   * **Ok(())** - if the operation succeeds

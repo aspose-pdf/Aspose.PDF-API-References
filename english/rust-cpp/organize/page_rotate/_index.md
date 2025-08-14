@@ -13,8 +13,8 @@ pub fn page_rotate(&self, num: i32, rotation: Rotation) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **num** – the page number (1-based)
-  * **rotation** – rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
+  * **num** - the page number (1-based)
+  * **rotation** - rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
 
 **Returns**
   * **Ok(())** - if the operation succeeds

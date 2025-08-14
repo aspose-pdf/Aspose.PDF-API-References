@@ -60,10 +60,18 @@ pub struct Document { /* private fields */ }
 | [rotate](./organize/rotate/) | Rotate PDF-document. |
 | [set_background](./organize/set_background/) | Set PDF-document background color using RGB values. |
 | [repair](./organize/repair/) | Repair PDF-document. |
+| [replace_text](./organize/replace_text/) | Replace text in PDF-document |
+| [add_page_num](./organize/add_page_num/) | Add page number to a PDF-document |
+| [add_text_header](./organize/add_text_header/) | Add text in Header of a PDF-document |
+| [add_text_footer](./organize/add_text_footer/) | Add text in Footer of a PDF-document |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
 | [page_add_text](./organize/page_add_text/) | Add text on page. |
+| [page_replace_text](./organize/page_replace_text/) | Replace text on page |
+| [page_add_page_num](./organize/page_add_page_num/) | Add page number on page |
+| [page_add_text_header](./organize/page_add_text_header/) | Add text in page header |
+| [page_add_text_footer](./organize/page_add_text_footer/) | Add text in page footer |
 
 
 ## Core PDF functions

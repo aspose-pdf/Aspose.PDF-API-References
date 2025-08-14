@@ -1,20 +1,19 @@
 ---
-title: "page_to_pdf"
+title: "page_add_page_num"
 second_title: Aspose.PDF for Rust via C++
-description: "Converts and saves the specified page as a PDF-document."
+description: "Adds page number on page."
 type: docs
-url: /rust-cpp/convert/page_to_pdf/
+url: /rust-cpp/organize/page_add_page_num/
 ---
 
-_Converts and saves the specified page as a PDF-document._
+_Adds page number on page._
 
 ```rust
-pub fn page_to_pdf(&self, num: i32, filename: &str) -> Result<(), PdfError>
+pub fn page_add_page_num(&self, num: i32) -> Result<(), PdfError>
 ```
 
 **Arguments**
   * **num** - the page number (1-based)
-  * **filename** - the path to the output file
 
 **Returns**
   * **Ok(())** - if the operation succeeds
@@ -29,8 +28,11 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Open a PDF-document with filename
     let pdf = Document::open("sample.pdf")?;
 
-    // Convert and save the specified page as PDF-document
-    pdf.page_to_pdf(1, "sample_page1.pdf")?;
+    // Add page number on page
+    pdf.page_add_page_num(1)?;
+
+    // Save the previously opened PDF-document with new filename
+    pdf.save_as("sample_page1_add_page_num.pdf")?;
 
     Ok(())
 }

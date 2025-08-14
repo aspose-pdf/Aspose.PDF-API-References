@@ -13,9 +13,9 @@ pub fn page_to_tiff(&self, num: i32, resolution_dpi: i32, filename: &str) -> Res
 ```
 
 **Arguments**
-  * **num** – the page number (1-based)
-  * **resolution_dpi** – the resolution in DPI
-  * **filename** – the path to the output file
+  * **num** - the page number (1-based)
+  * **resolution_dpi** - the resolution in DPI
+  * **filename** - the path to the output file
 
 **Returns**
   * **Ok(())** - if the operation succeeds

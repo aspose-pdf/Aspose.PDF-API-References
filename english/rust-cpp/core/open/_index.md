@@ -13,7 +13,7 @@ pub fn open(filename: &str) -> Result<Self, PdfError>
 ```
 
 **Arguments**
-  * **filename** – path to the PDF-document to open
+  * **filename** - path to the PDF-document to open
 
 **Returns**
   * **Ok(Self)** - if the operation succeeds

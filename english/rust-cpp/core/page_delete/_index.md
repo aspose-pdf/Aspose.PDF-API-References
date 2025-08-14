@@ -13,7 +13,7 @@ pub fn page_delete(&self, num: i32) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **num** – the page number (1-based)
+  * **num** - the page number (1-based)
 
 **Returns**
   * **Ok(())** - if the operation succeeds

@@ -13,8 +13,8 @@ pub fn save_tiff(&self, resolution_dpi: i32, filename: &str) -> Result<(), PdfEr
 ```
 
 **Arguments**
-  * **resolution_dpi** – the resolution in DPI
-  * **filename** – the path to the output file
+  * **resolution_dpi** - the resolution in DPI
+  * **filename** - the path to the output file
 
 **Returns**
   * **Ok(())** - if the operation succeeds

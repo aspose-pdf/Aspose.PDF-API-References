@@ -13,7 +13,7 @@ pub fn save_as(&self, filename: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **filename** – the path to the output file
+  * **filename** - the path to the output file
 
 **Returns**
   * **Ok(())** - if the operation succeeds

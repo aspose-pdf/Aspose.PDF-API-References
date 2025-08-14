@@ -1,19 +1,19 @@
 ---
-title: "rotate"
+title: "add_text_footer"
 second_title: Aspose.PDF for Rust via C++
-description: "Rotates the PDF-document."
+description: "Adds text in Footer of a PDF-document."
 type: docs
-url: /rust-cpp/organize/rotate/
+url: /rust-cpp/organize/add_text_footer/
 ---
 
-_Rotates the PDF-document._
+_Adds text in Footer of a PDF-document._
 
 ```rust
-pub fn rotate(&self, rotation: Rotation) -> Result<(), PdfError>
+pub fn add_text_footer(&self, footer: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **rotation** - rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
+  * **footer** - the pages footer
 
 **Returns**
   * **Ok(())** - if the operation succeeds
@@ -22,17 +22,17 @@ pub fn rotate(&self, rotation: Rotation) -> Result<(), PdfError>
 **Example**
 
 ```rust
-use asposepdf::{Document, Rotation};
+use asposepdf::Document;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Open a PDF-document with filename
     let pdf = Document::open("sample.pdf")?;
 
-    // Rotate PDF-document
-    pdf.rotate(Rotation::On270)?;
+    // Add text in Footer of a PDF-document
+    pdf.add_text_footer("FOOTER")?;
 
     // Save the previously opened PDF-document with new filename
-    pdf.save_as("sample_rotate.pdf")?;
+    pdf.save_as("sample_add_text_footer.pdf")?;
 
     Ok(())
 }

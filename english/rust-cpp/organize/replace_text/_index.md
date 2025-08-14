@@ -1,19 +1,20 @@
 ---
-title: "rotate"
+title: "replace_text"
 second_title: Aspose.PDF for Rust via C++
-description: "Rotates the PDF-document."
+description: "Replaces text."
 type: docs
-url: /rust-cpp/organize/rotate/
+url: /rust-cpp/organize/replace_text/
 ---
 
-_Rotates the PDF-document._
+_Replaces text._
 
 ```rust
-pub fn rotate(&self, rotation: Rotation) -> Result<(), PdfError>
+pub fn replace_text(&self, find_text: &str, replace_text: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **rotation** - rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
+  * **find_text** - the text fragment to search
+  * **replace_text** - the text fragment to replace
 
 **Returns**
   * **Ok(())** - if the operation succeeds
@@ -22,17 +23,17 @@ pub fn rotate(&self, rotation: Rotation) -> Result<(), PdfError>
 **Example**
 
 ```rust
-use asposepdf::{Document, Rotation};
+use asposepdf::Document;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Open a PDF-document with filename
     let pdf = Document::open("sample.pdf")?;
 
-    // Rotate PDF-document
-    pdf.rotate(Rotation::On270)?;
+    // Replace text in PDF-document
+    pdf.replace_text("PDF", "TXT")?;
 
     // Save the previously opened PDF-document with new filename
-    pdf.save_as("sample_rotate.pdf")?;
+    pdf.save_as("sample_replace_text.pdf")?;
 
     Ok(())
 }

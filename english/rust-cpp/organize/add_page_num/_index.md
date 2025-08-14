@@ -1,19 +1,19 @@
 ---
-title: "page_grayscale"
+title: "add_page_num"
 second_title: Aspose.PDF for Rust via C++
-description: "Converts a page to black and white."
+description: "Adds page number to a PDF-document."
 type: docs
-url: /rust-cpp/organize/page_grayscale/
+url: /rust-cpp/organize/add_page_num/
 ---
 
-_Converts a page to black and white._
+_Adds page number to a PDF-document._
 
 ```rust
-pub fn page_grayscale(&self, num: i32) -> Result<(), PdfError>
+pub fn add_page_num(&self) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **num** - the page number (1-based)
+
 
 **Returns**
   * **Ok(())** - if the operation succeeds
@@ -25,14 +25,14 @@ pub fn page_grayscale(&self, num: i32) -> Result<(), PdfError>
 use asposepdf::Document;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    // Open a PDF-document from file
+    // Open a PDF-document with filename
     let pdf = Document::open("sample.pdf")?;
 
-    // Convert page to black and white
-    pdf.page_grayscale(1)?;
+    // Add page number to a PDF-document
+    pdf.add_page_num()?;
 
     // Save the previously opened PDF-document with new filename
-    pdf.save_as("sample_page1_grayscale.pdf")?;
+    pdf.save_as("sample_add_page_num.pdf")?;
 
     Ok(())
 }
