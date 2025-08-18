@@ -4,7 +4,7 @@ linktitle: ListLBodyElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ListLBodyElement class. Represents LBody structure element in logical structure of the list in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/aspose.pdf.logicalstructure/listlbodyelement/
 ---
 ## ListLBodyElement class

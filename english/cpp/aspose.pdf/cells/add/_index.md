@@ -49,6 +49,32 @@ void Aspose::Pdf::Cells::Add(System::SharedPtr<Cell> cell)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Cells::Add(System::SharedPtr\<Text::TextFragment\>) method
+
+
+Add cell to collection.
+
+```cpp
+System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(System::SharedPtr<Text::TextFragment> textFragment)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textFragment | System::SharedPtr\<Text::TextFragment\> | The text fragment for cell. |
+
+### ReturnValue
+
+The new cell
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Cell](../../cell/)
+* Class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* Class [Cells](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Cells::Add(System::String) method
 
 

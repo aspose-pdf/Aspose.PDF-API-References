@@ -4,7 +4,7 @@ linktitle: SmartPtrMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::SmartPtrMode enum. SmartPtr pointer type: weak or shared. Defines whether pointer is being counted when it is being decided whether to delete object or not in C++.'
 type: docs
-weight: 8200
+weight: 8500
 url: /cpp/system/smartptrmode/
 ---
 ## SmartPtrMode enum

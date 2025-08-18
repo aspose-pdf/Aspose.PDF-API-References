@@ -4,7 +4,7 @@ linktitle: SmartPtrInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::SmartPtrInfo class. Service class to test and alter SmartPtr''s contents without knowing final type. Used for garbage collection and loop references detection, etc. Think of it as of ''pointer to pointer''. We can''t use SmartPtr''s basetype as it doesn''t have any; instead, we use this ''info'' class in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system/smartptrinfo/
 ---
 ## SmartPtrInfo class

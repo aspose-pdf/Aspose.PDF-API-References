@@ -4,7 +4,7 @@ linktitle: set_LeftMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_LeftMargin method. Sets left margin on the resultant page in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_leftmargin/
 ---
 ## ContentsResizeParameters::set_LeftMargin method

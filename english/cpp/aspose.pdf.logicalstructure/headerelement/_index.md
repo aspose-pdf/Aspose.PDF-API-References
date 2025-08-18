@@ -16,6 +16,13 @@ Represents [Header](../../aspose.pdf/header/) structure element in logical struc
 class HeaderElement : public Aspose::Pdf::LogicalStructure::BLSTextElement
 ```
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [AddEntryToTocPage](./addentrytotocpage/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<TOCIElement\>) | Creates a header on the specified [Table](../../aspose.pdf/table/) of Contents (TOC) page and associates it with a TOCI element. |
+| [AddEntryToTocPage](./addentrytotocpage/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<ListLIElement\>) | Creates a header on the specified [Table](../../aspose.pdf/table/) of Contents (TOC) page and associates it with a TOCI element. |
+| [SetText](./settext/)(System::String) override | Appends text content to current text element. |
 ## See Also
 
 * Class [BLSTextElement](../blstextelement/)

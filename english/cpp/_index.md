@@ -17,7 +17,7 @@ is_root: true
 | [Aspose::Pdf](./aspose.pdf/) | The **[Aspose.Pdf](./aspose.pdf/)** is a root namespace for all classes of [Aspose.Pdf](./aspose.pdf/) library which are either directly in it like **[Document](./aspose.pdf/document/)** or indirectly through several subnamespaces. |
 | [Aspose::Pdf::Annotations](./aspose.pdf.annotations/) | The **[Aspose.Pdf.Annotations](./aspose.pdf.annotations/)** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose::Pdf::Collections](./aspose.pdf.collections/) |  |
-| [Aspose::Pdf::Comparison](./aspose.pdf.comparison/) |  |
+| [Aspose::Pdf::Comparison](./aspose.pdf.comparison/) | The **[Aspose.Pdf.Comparison](./aspose.pdf.comparison/)** namespace provides classes for the PDF comparison functionalities. |
 | [Aspose::Pdf::DataEditor](./aspose.pdf.dataeditor/) | The **[Aspose.Pdf.DataEditor](./aspose.pdf.dataeditor/)** contains tools for editing data within a document. |
 | [Aspose::Pdf::Devices](./aspose.pdf.devices/) | The **[Aspose.Pdf.Devices](./aspose.pdf.devices/)** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation. |
 | [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) | The **[Aspose.Pdf.Drawing](./aspose.pdf.drawing/)** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents. |
@@ -33,7 +33,7 @@ is_root: true
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) | The **[Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/)** is a namespace for sanitization operations. |
 | [Aspose::Pdf::Security](./aspose.pdf.security/) | The **[Aspose.Pdf.Security](./aspose.pdf.security/)** namespace contains classes used for encryption and digital signing. |
 | [Aspose::Pdf::Security::Impl](./aspose.pdf.security.impl/) |  |
-| [Aspose::Pdf::Signatures](./aspose.pdf.signatures/) |  |
+| [Aspose::Pdf::Signatures](./aspose.pdf.signatures/) | The **[Aspose.Pdf.Signatures](./aspose.pdf.signatures/)** namespace provides classes for signatures functionalities. |
 | [Aspose::Pdf::Structure](./aspose.pdf.structure/) | The **[Aspose.Pdf.Structure](./aspose.pdf.structure/)** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose::Pdf::Tagged](./aspose.pdf.tagged/) | The **[Aspose.Pdf.Tagged](./aspose.pdf.tagged/)** is a namespace for classes for support of [Tagged](./aspose.pdf.tagged/) PDF documents. |
 | [Aspose::Pdf::Text](./aspose.pdf.text/) |  |

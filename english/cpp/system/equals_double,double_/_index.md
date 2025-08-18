@@ -4,7 +4,7 @@ linktitle: Equals< double, double >
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Equals< double, double > method. Specialization for double-precision floating point values in C++.'
 type: docs
-weight: 17200
+weight: 17500
 url: /cpp/system/equals_double,double_/
 ---
 ## System::Equals< double, double > method

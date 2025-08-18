@@ -23,6 +23,7 @@ class Cells : public System::Collections::Generic::IEnumerable<System::SharedPtr
 | [Add](./add/)() | Add cell to collection. |
 | [Add](./add/)(System::String, System::SharedPtr\<Text::TextState\>) | Add cell to collection. |
 | [Add](./add/)(System::String) | Add cell to collection. |
+| [Add](./add/)(System::SharedPtr\<Text::TextFragment\>) | Add cell to collection. |
 | [Add](./add/)(System::SharedPtr\<Cell\>) | Add cell to collection. |
 | [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |

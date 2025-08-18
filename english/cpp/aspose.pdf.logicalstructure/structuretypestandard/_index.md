@@ -4,7 +4,7 @@ linktitle: StructureTypeStandard
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard class. Represents Standard Structure Types in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/
 ---
 ## StructureTypeStandard class

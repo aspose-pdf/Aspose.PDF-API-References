@@ -4,7 +4,7 @@ linktitle: OBJRElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::OBJRElement class. Represents object reference entity in logical structure in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/aspose.pdf.logicalstructure/objrelement/
 ---
 ## OBJRElement class

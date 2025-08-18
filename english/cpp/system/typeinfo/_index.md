@@ -4,7 +4,7 @@ linktitle: TypeInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo class. Represents a particular type and provides information about it in C++.'
 type: docs
-weight: 6400
+weight: 6600
 url: /cpp/system/typeinfo/
 ---
 ## TypeInfo class

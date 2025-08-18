@@ -4,7 +4,7 @@ linktitle: EncoderReplacementFallbackPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EncoderReplacementFallbackPtr typedef. An alias for a smart pointer that points to an instance of System::Text::EncoderReplacementFallback class in C++.'
 type: docs
-weight: 10600
+weight: 10900
 url: /cpp/system/encoderreplacementfallbackptr/
 ---
 ## EncoderReplacementFallbackPtr typedef

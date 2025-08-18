@@ -41,6 +41,7 @@ The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Stru
 | [ILSTextElement](./ilstextelement/) | Represents a base class for inline-level text structure elements in logical structure. |
 | [IndexElement](./indexelement/) | Represents Index structure element in logical structure. |
 | [ITextElement](./itextelement/) | Interface for presenting text structure elements. |
+| [ITociElement](./itocielement/) | Represents an element that can function as a table of contents entry (TOCI) in a tagged PDF document. |
 | [LinkElement](./linkelement/) | Represents Link structure element in logical structure. |
 | [ListChildElement](./listchildelement/) | Represents a base class for children elements of the List in logical structure. |
 | [ListElement](./listelement/) | Represents List structure element in logical structure. |
@@ -88,6 +89,12 @@ The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Stru
 | [WarichuElement](./warichuelement/) | Represents Warichu structure element in logical structure. |
 | [WarichuWPElement](./warichuwpelement/) | Represents WP structure element in logical structure of the Warichu. |
 | [WarichuWTElement](./warichuwtelement/) | Represents WT structure element in logical structure of the Warichu. |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [HeaderElementTextConflictException](./headerelementtextconflictexception/) |  |
+| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/) |  |
 ## Functions
 
 | Function | Description |

@@ -4,7 +4,7 @@ linktitle: NoteElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::NoteElement class. Represents Note structure element in logical structure in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf.logicalstructure/noteelement/
 ---
 ## NoteElement class

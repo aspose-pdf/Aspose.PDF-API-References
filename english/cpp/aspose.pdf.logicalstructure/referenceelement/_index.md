@@ -4,7 +4,7 @@ linktitle: ReferenceElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ReferenceElement class. Represents Reference structure element in logical structure in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/aspose.pdf.logicalstructure/referenceelement/
 ---
 ## ReferenceElement class

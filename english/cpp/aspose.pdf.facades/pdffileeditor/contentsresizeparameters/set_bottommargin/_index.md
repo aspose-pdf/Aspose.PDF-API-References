@@ -4,7 +4,7 @@ linktitle: set_BottomMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_BottomMargin method. Sets bottom margin on the resultant page in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_bottommargin/
 ---
 ## ContentsResizeParameters::set_BottomMargin method

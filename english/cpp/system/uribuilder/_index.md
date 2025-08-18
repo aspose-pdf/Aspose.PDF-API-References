@@ -4,7 +4,7 @@ linktitle: UriBuilder
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::UriBuilder class. Provides methods to construct and modify universial resource identifiers (URIs). Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 6600
+weight: 6800
 url: /cpp/system/uribuilder/
 ---
 ## UriBuilder class

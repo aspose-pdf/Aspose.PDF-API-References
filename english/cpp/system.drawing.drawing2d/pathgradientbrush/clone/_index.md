@@ -13,7 +13,7 @@ url: /cpp/system.drawing.drawing2d/pathgradientbrush/clone/
 Creates a copy of the current object.
 
 ```cpp
-virtual SharedPtr<Brush> System::Drawing::Drawing2D::PathGradientBrush::Clone() override
+virtual SharedPtr<Object> System::Drawing::Drawing2D::PathGradientBrush::Clone() override
 ```
 
 
@@ -24,7 +24,7 @@ A shared pointer to the copy of the current object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../../system.drawing/brush/)
+* Class [Object](../../../system/object/)
 * Class [PathGradientBrush](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.PDF for C++](../../../)

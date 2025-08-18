@@ -4,7 +4,7 @@ linktitle: RubyElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::RubyElement class. Represents Ruby structure element in logical structure in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/aspose.pdf.logicalstructure/rubyelement/
 ---
 ## RubyElement class

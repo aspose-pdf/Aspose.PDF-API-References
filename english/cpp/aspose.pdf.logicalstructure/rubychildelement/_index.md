@@ -4,7 +4,7 @@ linktitle: RubyChildElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::RubyChildElement class. Represents a base class for children elements of the Ruby in logical structure in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.pdf.logicalstructure/rubychildelement/
 ---
 ## RubyChildElement class

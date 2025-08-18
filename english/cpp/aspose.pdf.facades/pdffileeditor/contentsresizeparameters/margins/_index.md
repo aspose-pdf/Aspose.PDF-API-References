@@ -4,7 +4,7 @@ linktitle: Margins
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::Margins method. Creates resize parameters with specifed margins value. Contents size is automatically calculated in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/margins/
 ---
 ## ContentsResizeParameters::Margins method

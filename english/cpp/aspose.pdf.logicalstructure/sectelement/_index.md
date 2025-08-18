@@ -4,7 +4,7 @@ linktitle: SectElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::SectElement class. Represents Sect structure element in logical structure in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/aspose.pdf.logicalstructure/sectelement/
 ---
 ## SectElement class
