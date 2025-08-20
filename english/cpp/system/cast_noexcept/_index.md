@@ -4,7 +4,7 @@ linktitle: Cast_noexcept
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Cast_noexcept method. Performs cast on SmartPtr objects in C++.'
 type: docs
-weight: 14300
+weight: 14600
 url: /cpp/system/cast_noexcept/
 ---
 ## System::Cast_noexcept method

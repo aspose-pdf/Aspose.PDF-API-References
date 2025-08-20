@@ -4,7 +4,7 @@ linktitle: WeakReference< T >
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::WeakReference< T > class. Represents a weak reference, which references an object while still allowing that object to be deleted in C++.'
 type: docs
-weight: 7400
+weight: 7700
 url: /cpp/system/weakreference_t_/
 ---
 ## WeakReference< T > class

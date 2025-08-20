@@ -4,7 +4,7 @@ linktitle: set_ContentsWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_ContentsWidth method. Sets width of the content of the source page on the resultant page in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_contentswidth/
 ---
 ## ContentsResizeParameters::set_ContentsWidth method

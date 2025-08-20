@@ -38,6 +38,10 @@ pub struct Document { /* private fields */ }
 | [save_n_up](./convert/save_n_up/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
+| [save_docx_enhanced](./convert/save_docx_enhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [export_fdf](./convert/export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
+| [export_xfdf](./convert/export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
+| [export_xml](./convert/export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
 | [page_to_jpg](./convert/page_to_jpg/) | Convert and save the specified page as Jpg-image. |
 | [page_to_png](./convert/page_to_png/) | Convert and save the specified page as Png-image. |
 | [page_to_bmp](./convert/page_to_bmp/) | Convert and save the specified page as Bmp-image. |
@@ -57,10 +61,18 @@ pub struct Document { /* private fields */ }
 | [rotate](./organize/rotate/) | Rotate PDF-document. |
 | [set_background](./organize/set_background/) | Set PDF-document background color using RGB values. |
 | [repair](./organize/repair/) | Repair PDF-document. |
+| [replace_text](./organize/replace_text/) | Replace text in PDF-document |
+| [add_page_num](./organize/add_page_num/) | Add page number to a PDF-document |
+| [add_text_header](./organize/add_text_header/) | Add text in Header of a PDF-document |
+| [add_text_footer](./organize/add_text_footer/) | Add text in Footer of a PDF-document |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
 | [page_add_text](./organize/page_add_text/) | Add text on page. |
+| [page_replace_text](./organize/page_replace_text/) | Replace text on page |
+| [page_add_page_num](./organize/page_add_page_num/) | Add page number on page |
+| [page_add_text_header](./organize/page_add_text_header/) | Add text in page header |
+| [page_add_text_footer](./organize/page_add_text_footer/) | Add text in page footer |
 
 
 ## Core PDF functions

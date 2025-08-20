@@ -4,7 +4,7 @@ linktitle: ParagraphElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ParagraphElement class. Represents Paragraph structure element in logical structure in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.pdf.logicalstructure/paragraphelement/
 ---
 ## ParagraphElement class

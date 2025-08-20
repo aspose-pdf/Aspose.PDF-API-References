@@ -4,7 +4,7 @@ linktitle: SpanElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::SpanElement class. Represents Span structure element in logical structure in C++.'
 type: docs
-weight: 4900
+weight: 5000
 url: /cpp/aspose.pdf.logicalstructure/spanelement/
 ---
 ## SpanElement class

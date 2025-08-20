@@ -39,6 +39,7 @@ type Document struct {
 | [SaveNUp](./convert/savenup/) | Convert and save the previously opened PDF-document as N-Up PDF-document. |
 | [SaveMarkdown](./convert/savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [SaveTiff](./convert/savetiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
+| [SaveDocXEnhanced](./convert/savedocxenhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
 | [ExportFdf](./convert/exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [ExportXfdf](./convert/exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [ExportXml](./convert/exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |

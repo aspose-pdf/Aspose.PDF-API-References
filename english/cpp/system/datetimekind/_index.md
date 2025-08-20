@@ -4,7 +4,7 @@ linktitle: DateTimeKind
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DateTimeKind enum. Enumeration values of which represent the kinds of date and time in C++.'
 type: docs
-weight: 7700
+weight: 8000
 url: /cpp/system/datetimekind/
 ---
 ## DateTimeKind enum

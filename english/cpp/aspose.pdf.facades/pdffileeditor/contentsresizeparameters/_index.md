@@ -25,6 +25,7 @@ class ContentsResizeParameters : public System::Object
 | [ContentsResizeParameters](./contentsresizeparameters/)() | Creates resize parameters where al values are set to "auto". Later margins and contents size may be specified if required. |
 | [ContentsResizeParameters](./contentsresizeparameters/)(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) | Creates resize parameters with specified margin values and contents size. |
 | [get_BottomMargin](./get_bottommargin/)() const | Gets bottom margin on the resultant page. |
+| [get_ChangeMediaBox](./get_changemediabox/)() const | Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is **false** |
 | [get_ContentsHeight](./get_contentsheight/)() const | Gets height of the content of the source page on the resultant page. |
 | [get_ContentsWidth](./get_contentswidth/)() const | Gets width of the content of the source page on the resultant page. |
 | [get_LeftMargin](./get_leftmargin/)() const | Gets left margin on the resultant page. |
@@ -35,6 +36,7 @@ class ContentsResizeParameters : public System::Object
 | static [PageResize](./pageresize/)(double, double) | Creates resize paramters for page resize. |
 | static [PageResizePct](./pageresizepct/)(double, double) | Creates resize paramters for page resize. New sizes are specified in percent. |
 | [set_BottomMargin](./set_bottommargin/)(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) | Sets bottom margin on the resultant page. |
+| [set_ChangeMediaBox](./set_changemediabox/)(bool) | Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is **false** |
 | [set_ContentsHeight](./set_contentsheight/)(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) | Sets height of the content of the source page on the resultant page. |
 | [set_ContentsWidth](./set_contentswidth/)(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) | Sets width of the content of the source page on the resultant page. |
 | [set_LeftMargin](./set_leftmargin/)(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) | Sets left margin on the resultant page. |

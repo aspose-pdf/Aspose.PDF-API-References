@@ -4,7 +4,7 @@ linktitle: LinkElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::LinkElement class. Represents Link structure element in logical structure in C++.'
 type: docs
-weight: 2800
+weight: 2900
 url: /cpp/aspose.pdf.logicalstructure/linkelement/
 ---
 ## LinkElement class

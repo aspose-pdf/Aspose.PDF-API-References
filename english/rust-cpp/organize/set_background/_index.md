@@ -13,9 +13,9 @@ pub fn set_background(&self, r: i32, g: i32, b: i32) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **r** – red component (0-255)
-  * **g** – green component (0-255)
-  * **b** – blue component (0-255)
+  * **r** - red component (0-255)
+  * **g** - green component (0-255)
+  * **b** - blue component (0-255)
 
 **Returns**
   * **Ok(())** - if the operation succeeds

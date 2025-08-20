@@ -4,7 +4,7 @@ linktitle: RubyRBElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::RubyRBElement class. Represents RB structure element in logical structure of the Ruby in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.pdf.logicalstructure/rubyrbelement/
 ---
 ## RubyRBElement class

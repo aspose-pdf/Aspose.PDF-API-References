@@ -4,7 +4,7 @@ linktitle: ContentSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentSize method. Creates resize parameters with specified contents size in C++.'
 type: docs
-weight: 1400
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/contentsize/
 ---
 ## ContentsResizeParameters::ContentSize method

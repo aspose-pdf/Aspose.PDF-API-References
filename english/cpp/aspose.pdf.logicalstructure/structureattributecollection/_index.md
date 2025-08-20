@@ -4,7 +4,7 @@ linktitle: StructureAttributeCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttributeCollection class. Represents collection of attributes of structure elements in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/aspose.pdf.logicalstructure/structureattributecollection/
 ---
 ## StructureAttributeCollection class

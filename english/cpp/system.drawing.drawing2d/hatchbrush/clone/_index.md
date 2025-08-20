@@ -13,13 +13,13 @@ url: /cpp/system.drawing.drawing2d/hatchbrush/clone/
 Creates an exact copy of the current object.
 
 ```cpp
-virtual SharedPtr<Brush> System::Drawing::Drawing2D::HatchBrush::Clone() override
+virtual SharedPtr<Object> System::Drawing::Drawing2D::HatchBrush::Clone() override
 ```
 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../../system.drawing/brush/)
+* Class [Object](../../../system/object/)
 * Class [HatchBrush](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.PDF for C++](../../../)

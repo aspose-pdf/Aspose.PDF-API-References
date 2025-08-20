@@ -4,7 +4,7 @@ linktitle: Exception
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Exception typedef. Alias to be used instead of Details::Exception in C++.'
 type: docs
-weight: 11200
+weight: 11500
 url: /cpp/system/exception/
 ---
 ## Exception typedef

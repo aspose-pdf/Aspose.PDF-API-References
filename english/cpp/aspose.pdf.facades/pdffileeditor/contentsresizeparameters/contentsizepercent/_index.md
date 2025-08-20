@@ -4,7 +4,7 @@ linktitle: ContentSizePercent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentSizePercent method. Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/contentsizepercent/
 ---
 ## ContentsResizeParameters::ContentSizePercent method

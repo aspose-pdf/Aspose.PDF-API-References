@@ -4,7 +4,7 @@ linktitle: IsConstant
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IsConstant method. Implements ''is'' constant pattern translation in C++.'
 type: docs
-weight: 20000
+weight: 20300
 url: /cpp/system/isconstant/
 ---
 ## System::IsConstant method

@@ -2,13 +2,13 @@
 title: Aspose::Pdf::Comparison namespace
 linktitle: Aspose::Pdf::Comparison
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use Aspose::Pdf::Comparison namespace in C++.'
+description: 'Aspose::Pdf::Comparison namespace. The Aspose.Pdf.Comparison namespace provides classes for the PDF comparison functionalities in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.pdf.comparison/
 ---
 
-
+The **[Aspose.Pdf.Comparison](./)** namespace provides classes for the PDF comparison functionalities.
 
 ## Classes
 

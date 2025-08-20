@@ -4,7 +4,7 @@ linktitle: StructureTextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState class. Represents text state settings for TextStructure Elements and TaggedContent (ITextElement, ITaggedContent) in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/
 ---
 ## StructureTextState class

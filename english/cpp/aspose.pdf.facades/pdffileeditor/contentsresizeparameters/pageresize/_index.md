@@ -4,7 +4,7 @@ linktitle: PageResize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::PageResize method. Creates resize paramters for page resize in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/pageresize/
 ---
 ## ContentsResizeParameters::PageResize method

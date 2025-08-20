@@ -4,7 +4,7 @@ linktitle: ScopedCulture
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ScopedCulture class. Represents a culture used within the scope in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/system/scopedculture/
 ---
 ## ScopedCulture class

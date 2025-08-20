@@ -13,7 +13,7 @@ pub fn rotate(&self, rotation: Rotation) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **rotation** – rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
+  * **rotation** - rotation angle as enum `Rotation`: `None`, `On90`, `On180`, `On270`, or `On360`
 
 **Returns**
   * **Ok(())** - if the operation succeeds

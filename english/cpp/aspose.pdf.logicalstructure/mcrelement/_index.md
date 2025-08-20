@@ -4,7 +4,7 @@ linktitle: MCRElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::MCRElement class. Represents marked-content reference object in logical structure in C++.'
 type: docs
-weight: 3400
+weight: 3500
 url: /cpp/aspose.pdf.logicalstructure/mcrelement/
 ---
 ## MCRElement class

@@ -2,11 +2,59 @@
 title: System::Int32::Parse method
 linktitle: Parse
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Int32::Parse method. Converts the specified string containing the string representation of a number to the equivalent 32-bit signed integer in C++.'
+description: 'How to use Parse method of System::Int32 class in C++.'
 type: docs
 weight: 100
 url: /cpp/system/int32/parse/
 ---
+## Int32::Parse(const ReadOnlySpan\<char16_t\>\&) method
+
+
+
+
+```cpp
+static int32_t System::Int32::Parse(const ReadOnlySpan<char16_t> &span)
+```
+
+## See Also
+
+* Class [ReadOnlySpan](../../readonlyspan/)
+* Class [Int32](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Int32::Parse(const ReadOnlySpan\<char16_t\>\&, Globalization::NumberStyles, const SharedPtr\<IFormatProvider\>\&) method
+
+
+
+
+```cpp
+static int32_t System::Int32::Parse(const ReadOnlySpan<char16_t> &span, Globalization::NumberStyles styles, const SharedPtr<IFormatProvider> &provider)
+```
+
+## See Also
+
+* Class [ReadOnlySpan](../../readonlyspan/)
+* Enum [NumberStyles](../../../system.globalization/numberstyles/)
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [IFormatProvider](../../iformatprovider/)
+* Class [Int32](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Int32::Parse(const ReadOnlySpan\<char16_t\>\&, std::nullptr_t) method
+
+
+
+
+```cpp
+static int32_t System::Int32::Parse(const ReadOnlySpan<char16_t> &span, std::nullptr_t)
+```
+
+## See Also
+
+* Class [ReadOnlySpan](../../readonlyspan/)
+* Class [Int32](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Int32::Parse(const String\&) method
 
 

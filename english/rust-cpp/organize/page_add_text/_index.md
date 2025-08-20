@@ -13,8 +13,8 @@ pub fn page_add_text(&self, num: i32, add_text: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **num** – the page number (1-based)
-  * **add_text** – the text to add
+  * **num** - the page number (1-based)
+  * **add_text** - the text to add
 
 **Returns**
   * **Ok(())** - if the operation succeeds

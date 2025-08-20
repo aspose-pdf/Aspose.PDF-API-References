@@ -13,7 +13,7 @@ url: /cpp/system.drawing/solidbrush/clone/
 Creates a copy of the current object.
 
 ```cpp
-virtual SharedPtr<Brush> System::Drawing::SolidBrush::Clone() override
+virtual SharedPtr<Object> System::Drawing::SolidBrush::Clone() override
 ```
 
 
@@ -24,7 +24,7 @@ A shared pointer to the copy of the current object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Brush](../../brush/)
+* Class [Object](../../../system/object/)
 * Class [SolidBrush](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

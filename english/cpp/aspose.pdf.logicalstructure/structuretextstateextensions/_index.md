@@ -4,7 +4,7 @@ linktitle: StructureTextStateExtensions
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::LogicalStructure::StructureTextStateExtensions class in C++.'
 type: docs
-weight: 5600
+weight: 5700
 url: /cpp/aspose.pdf.logicalstructure/structuretextstateextensions/
 ---
 ## StructureTextStateExtensions class

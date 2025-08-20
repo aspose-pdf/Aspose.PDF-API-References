@@ -4,7 +4,7 @@ linktitle: get_ContentsHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::get_ContentsHeight method. Gets height of the content of the source page on the resultant page in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/get_contentsheight/
 ---
 ## ContentsResizeParameters::get_ContentsHeight method

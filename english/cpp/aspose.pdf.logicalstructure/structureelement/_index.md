@@ -4,7 +4,7 @@ linktitle: StructureElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement class. Represents a base class for structure elements in logical structure in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/aspose.pdf.logicalstructure/structureelement/
 ---
 ## StructureElement class

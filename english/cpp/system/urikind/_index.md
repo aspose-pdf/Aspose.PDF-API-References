@@ -4,7 +4,7 @@ linktitle: UriKind
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::UriKind enum. Represents the kinds of URIs in C++.'
 type: docs
-weight: 8900
+weight: 9200
 url: /cpp/system/urikind/
 ---
 ## UriKind enum

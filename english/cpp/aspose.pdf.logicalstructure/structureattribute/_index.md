@@ -4,7 +4,7 @@ linktitle: StructureAttribute
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureAttribute class. Represents attribute of structure element in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/aspose.pdf.logicalstructure/structureattribute/
 ---
 ## StructureAttribute class

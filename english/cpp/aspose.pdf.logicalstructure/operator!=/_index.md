@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use operator!= method of  class in C++.'
 type: docs
-weight: 7500
+weight: 7800
 url: /cpp/aspose.pdf.logicalstructure/operator!=/
 ---
 ## Aspose::Pdf::LogicalStructure::operator!= method

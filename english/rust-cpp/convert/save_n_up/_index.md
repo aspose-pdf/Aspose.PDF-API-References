@@ -13,9 +13,9 @@ pub fn save_n_up(&self, filename: &str, columns: i32, rows: i32) -> Result<(), P
 ```
 
 **Arguments**
-  * **filename** – the path to the output file
-  * **columns** – the number of columns
-  * **rows** – the number of rows
+  * **filename** - the path to the output file
+  * **columns** - the number of columns
+  * **rows** - the number of rows
 
 **Returns**
   * **Ok(())** - if the operation succeeds

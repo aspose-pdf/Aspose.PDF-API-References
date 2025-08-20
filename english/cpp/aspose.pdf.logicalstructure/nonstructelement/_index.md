@@ -4,7 +4,7 @@ linktitle: NonStructElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::NonStructElement class. Represents NonStruct structure element in logical structure in C++.'
 type: docs
-weight: 3500
+weight: 3600
 url: /cpp/aspose.pdf.logicalstructure/nonstructelement/
 ---
 ## NonStructElement class

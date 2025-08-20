@@ -4,7 +4,7 @@ linktitle: TableCellElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement class. Represents a base class for table cell elements (TH and TD) in logical structure in C++.'
 type: docs
-weight: 5900
+weight: 6000
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/
 ---
 ## TableCellElement class

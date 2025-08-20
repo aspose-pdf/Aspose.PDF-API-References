@@ -13,7 +13,7 @@ pub fn set_license(&self, filename: &str) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **filename** – the path to the license-file
+  * **filename** - the path to the license-file
 
 **Returns**
   * **Ok(())** - if the operation succeeds

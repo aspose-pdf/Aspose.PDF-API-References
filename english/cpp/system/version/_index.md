@@ -4,7 +4,7 @@ linktitle: Version
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Version class. Represents a version number. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 7000
+weight: 7300
 url: /cpp/system/version/
 ---
 ## Version class

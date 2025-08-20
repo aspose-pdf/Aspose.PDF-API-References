@@ -4,7 +4,7 @@ linktitle: TableTHElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTHElement class. Represents TH structure element in logical structure of the table in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/aspose.pdf.logicalstructure/tablethelement/
 ---
 ## TableTHElement class
