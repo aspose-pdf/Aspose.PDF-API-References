@@ -20,6 +20,14 @@ url: /rust-cpp/organize/
 | [add_page_num](./add_page_num/) | Add page number to a PDF-document |
 | [add_text_header](./add_text_header/) | Add text in Header of a PDF-document |
 | [add_text_footer](./add_text_footer/) | Add text in Footer of a PDF-document |
+| [flatten](./flatten/) | Flatten PDF-document |
+| [remove_annotations](./remove_annotations/) | Remove annotations from PDF-document |
+| [remove_attachments](./remove_attachments/) | Remove attachments from PDF-document |
+| [remove_blank_pages](./remove_blank_pages/) | Remove blank pages from PDF-document |
+| [remove_bookmarks](./remove_bookmarks/) | Remove bookmarks from PDF-document |
+| [remove_hidden_text](./remove_hidden_text/) | Remove hidden text from PDF-document |
+| [remove_images](./remove_images/) | Remove images from PDF-document |
+| [remove_javascripts](./remove_javascripts/) | Remove java scripts from PDF-document |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |

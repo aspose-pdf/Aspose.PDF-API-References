@@ -65,6 +65,14 @@ pub struct Document { /* private fields */ }
 | [add_page_num](./organize/add_page_num/) | Add page number to a PDF-document |
 | [add_text_header](./organize/add_text_header/) | Add text in Header of a PDF-document |
 | [add_text_footer](./organize/add_text_footer/) | Add text in Footer of a PDF-document |
+| [flatten](./organize/flatten/) | Flatten PDF-document |
+| [remove_annotations](./organize/remove_annotations/) | Remove annotations from PDF-document |
+| [remove_attachments](./organize/remove_attachments/) | Remove attachments from PDF-document |
+| [remove_blank_pages](./organize/remove_blank_pages/) | Remove blank pages from PDF-document |
+| [remove_bookmarks](./organize/remove_bookmarks/) | Remove bookmarks from PDF-document |
+| [remove_hidden_text](./organize/remove_hidden_text/) | Remove hidden text from PDF-document |
+| [remove_images](./organize/remove_images/) | Remove images from PDF-document |
+| [remove_javascripts](./organize/remove_javascripts/) | Remove java scripts from PDF-document |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
