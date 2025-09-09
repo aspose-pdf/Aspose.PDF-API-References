@@ -115,6 +115,13 @@ type Document struct {
 | [PageIsBlank](./core/pageisblank/) | Return page is blank in PDF-document. |
 
 
+## Miscellaneous
+
+| Function | Description |
+| -------- | ----------- |
+| [About](./miscellaneous/about/) | Return metadata information about the Aspose.PDF for Go via C++. |
+
+
 # Constants
 
 ## Enumeration of possible rotation values.
@@ -144,5 +151,19 @@ const (
     PageSizePageLedger int32 = 10 // PageLedger size.
     PageSizeP11x17     int32 = 11 // P11x17 size.
 )
+```
+
+# Structs
+
+## ProductInfo contains metadata about the Aspose.PDF for Go via C++.
+```go
+type ProductInfo struct {
+	Product     string `json:"product"`     // Name
+	Family      string `json:"family"`      // Family (e.g., "Aspose.PDF")
+	Version     string `json:"version"`     // Version
+	ReleaseDate string `json:"releasedate"` // Release date in ISO format (YYYY-MM-DD)
+	Producer    string `json:"producer"`    // Producer
+	IsLicensed  bool   `json:"islicensed"`  // License status (true if licensed)
+}
 ```
 
