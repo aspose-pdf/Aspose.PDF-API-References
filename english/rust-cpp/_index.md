@@ -99,6 +99,13 @@ pub struct Document { /* private fields */ }
 | [page_count](./core/page_count/) | Return the number of pages in the PDF-document. |
 
 
+## Miscellaneous
+
+| Function | Description |
+| -------- | ----------- |
+| [about](./miscellaneous/about/) | Return metadata information about the Aspose.PDF for Rust via C++. |
+
+
 # Enums
 
 ## Enumeration of possible page size values.
@@ -147,3 +154,29 @@ pub enum Rotation {
 }
 ```
 
+
+# Structs
+
+## ProductInfo contains metadata about the Aspose.PDF for Rust via C++.
+```rust
+#[derive(Debug, Deserialize)]
+pub struct ProductInfo {
+    #[serde(rename = "product")]
+    pub product: String,
+
+    #[serde(rename = "family")]
+    pub family: String,
+
+    #[serde(rename = "version")]
+    pub version: String,
+
+    #[serde(rename = "releasedate")]
+    pub release_date: String,
+
+    #[serde(rename = "producer")]
+    pub producer: String,
+
+    #[serde(rename = "islicensed")]
+    pub is_licensed: bool,
+}
+```
