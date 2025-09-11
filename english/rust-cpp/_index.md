@@ -39,6 +39,7 @@ pub struct Document { /* private fields */ }
 | [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [save_docx_enhanced](./convert/save_docx_enhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [save_svg_zip](./convert/save_svg_zip/) | Convert and save the previously opened PDF-document as SVG-archive. |
 | [export_fdf](./convert/export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [export_xfdf](./convert/export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [export_xml](./convert/export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
@@ -106,6 +107,34 @@ pub struct Document { /* private fields */ }
 | [about](./miscellaneous/about/) | Return metadata information about the Aspose.PDF for Rust via C++. |
 
 
+
+# Structs secondary
+
+## ProductInfo contains metadata about the Aspose.PDF for Rust via C++.
+```rust
+#[derive(Debug, Deserialize)]
+pub struct ProductInfo {
+    #[serde(rename = "product")]
+    pub product: String,
+
+    #[serde(rename = "family")]
+    pub family: String,
+
+    #[serde(rename = "version")]
+    pub version: String,
+
+    #[serde(rename = "releasedate")]
+    pub release_date: String,
+
+    #[serde(rename = "producer")]
+    pub producer: String,
+
+    #[serde(rename = "islicensed")]
+    pub is_licensed: bool,
+}
+```
+
+
 # Enums
 
 ## Enumeration of possible page size values.
@@ -151,32 +180,5 @@ pub enum Rotation {
     On270 = 3,
     /// Rotated on 360 degrees clockwise.
     On360 = 4,
-}
-```
-
-
-# Structs
-
-## ProductInfo contains metadata about the Aspose.PDF for Rust via C++.
-```rust
-#[derive(Debug, Deserialize)]
-pub struct ProductInfo {
-    #[serde(rename = "product")]
-    pub product: String,
-
-    #[serde(rename = "family")]
-    pub family: String,
-
-    #[serde(rename = "version")]
-    pub version: String,
-
-    #[serde(rename = "releasedate")]
-    pub release_date: String,
-
-    #[serde(rename = "producer")]
-    pub producer: String,
-
-    #[serde(rename = "islicensed")]
-    pub is_licensed: bool,
 }
 ```
