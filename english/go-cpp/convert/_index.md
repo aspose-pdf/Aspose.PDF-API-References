@@ -23,6 +23,7 @@ url: /go-cpp/convert/
 | [SaveMarkdown](./savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [SaveTiff](./savetiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [SaveDocXEnhanced](./savedocxenhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [SaveSvgZip](./savesvgzip/) | Convert and save the previously opened PDF-document as SVG-archive. |
 | [ExportFdf](./exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [ExportXfdf](./exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [ExportXml](./exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
