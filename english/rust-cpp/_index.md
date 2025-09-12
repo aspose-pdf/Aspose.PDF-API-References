@@ -82,6 +82,9 @@ pub struct Document { /* private fields */ }
 | [page_add_page_num](./organize/page_add_page_num/) | Add page number on page |
 | [page_add_text_header](./organize/page_add_text_header/) | Add text in page header |
 | [page_add_text_footer](./organize/page_add_text_footer/) | Add text in page footer |
+| [page_remove_annotations](./organize/page_remove_annotations/) | Remove annotations in page. |
+| [page_remove_hidden_text](./organize/page_remove_hidden_text/) | Remove hidden text in page. |
+| [page_remove_images](./organize/page_remove_images/) | Remove images in page. |
 
 
 ## Core PDF functions

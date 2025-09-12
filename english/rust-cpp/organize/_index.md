@@ -36,6 +36,9 @@ url: /rust-cpp/organize/
 | [page_add_page_num](./page_add_page_num/) | Add page number on page |
 | [page_add_text_header](./page_add_text_header/) | Add text in page header |
 | [page_add_text_footer](./page_add_text_footer/) | Add text in page footer |
+| [page_remove_annotations](./page_remove_annotations/) | Remove annotations in page. |
+| [page_remove_hidden_text](./page_remove_hidden_text/) | Remove hidden text in page. |
+| [page_remove_images](./page_remove_images/) | Remove images in page. |
 
 
 ## Detailed Description
