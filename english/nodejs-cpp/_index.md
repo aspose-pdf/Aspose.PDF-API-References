@@ -95,6 +95,7 @@ is_root: true
 | [AsposePdfEmbedFonts](./organize/asposepdfembedfonts/) | Embed fonts a PDF-file. |
 | [AsposePdfUnembedFonts](./organize/asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
 | [AsposePdfOptimizeFileSize](./organize/asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
+| [AsposePdfDeleteTables](./organize/asposepdfdeletetables/) | Delete tables from a PDF-file. |
 
 
 ## Metadata PDF functions
