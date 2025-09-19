@@ -4,7 +4,7 @@ linktitle: get_CanSeek
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::get_CanSeek method. Determines if the stream supports seeking in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.io/stream/get_canseek/
 ---
 ## Stream::get_CanSeek method

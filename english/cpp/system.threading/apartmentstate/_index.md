@@ -4,7 +4,7 @@ linktitle: ApartmentState
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::ApartmentState enum. Sets apartment state of the thread in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.threading/apartmentstate/
 ---
 ## ApartmentState enum

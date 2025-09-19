@@ -4,7 +4,7 @@ linktitle: DefaultBufferSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::FileStream::DefaultBufferSize field. Default value of the number of bytes bufferred during read and write operations in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/system.io/filestream/defaultbuffersize/
 ---
 ## DefaultBufferSize field

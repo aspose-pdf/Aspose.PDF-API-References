@@ -4,7 +4,7 @@ linktitle: System::Drawing::Imaging
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Drawing::Imaging namespace in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/system.drawing.imaging/
 ---
 

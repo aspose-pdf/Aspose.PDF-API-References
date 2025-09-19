@@ -4,7 +4,7 @@ linktitle: WriteByte
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::FileStream::WriteByte method. Writes the specified unsigned 8-bit integer value to the stream in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/system.io/filestream/writebyte/
 ---
 ## FileStream::WriteByte method

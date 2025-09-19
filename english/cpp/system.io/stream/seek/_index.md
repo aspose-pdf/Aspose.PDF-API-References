@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::Seek method. Sets the position of the stream represented by the current object in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/system.io/stream/seek/
 ---
 ## Stream::Seek method

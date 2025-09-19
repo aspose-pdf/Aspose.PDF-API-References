@@ -29,6 +29,8 @@ class Stream : public System::IDisposable
 | virtual [EndRead](./endread/)(System::SharedPtr\<System::IAsyncResult\>) | Waits until the specified asynchronous read operation completes. |
 | virtual [EndWrite](./endwrite/)(System::SharedPtr\<System::IAsyncResult\>) | Ends an asynchronous write operation. Waits until the specified asynchronous write operation completes. |
 | virtual [Flush](./flush/)() | Clears this stream's buffers and writes all buffered data to the underlying storage. |
+| virtual [FlushAsync](./flushasync/)(const Threading::CancellationToken\&) | Asynchronously clears all buffers for this stream, causes any buffered data to be written to the underlying device, and monitors cancellation requests. |
+| [FlushAsync](./flushasync/)() | Asynchronously clears all buffers for this stream, causes any buffered data to be written to the underlying device, and monitors cancellation requests. |
 | virtual [get_CanRead](./get_canread/)() const | Determines if the stream is readable. |
 | virtual [get_CanSeek](./get_canseek/)() const | Determines if the stream supports seeking. |
 | virtual [get_CanTimeout](./get_cantimeout/)() const | Gets a value that determines whether the current stream can time out. |
@@ -40,6 +42,8 @@ class Stream : public System::IDisposable
 | virtual [Read](./read/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
 | virtual [Read](./read/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
 | [Read](./read/)(const System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
+| virtual [ReadAsync](./readasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t, const Threading::CancellationToken\&) | Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests. |
+| [ReadAsync](./readasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests. |
 | virtual [ReadByte](./readbyte/)() | Reads a single byte from the stream and returns a 32-bit integer value equivalent to the value of the read byte. |
 | virtual [Seek](./seek/)(int64_t, SeekOrigin) | Sets the position of the stream represented by the current object. |
 | virtual [set_Position](./set_position/)(int64_t) | Sets the stream's position. |
@@ -49,6 +53,8 @@ class Stream : public System::IDisposable
 | virtual [Write](./write/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
 | virtual [Write](./write/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
 | [Write](./write/)(const System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
+| virtual [WriteAsync](./writeasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t, const Threading::CancellationToken\&) | Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests. |
+| [WriteAsync](./writeasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests. |
 | virtual [WriteByte](./writebyte/)(uint8_t) | Writes the specified unsigned 8-bit integer value to the stream. |
 ## Fields
 

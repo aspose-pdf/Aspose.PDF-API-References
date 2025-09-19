@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/set_flowlayoutparagraphfullwidth/
 ## HtmlSaveOptions::set_FlowLayoutParagraphFullWidth method
 
 
-This attribute specifies full width paragraph text for Flow mode, FixedLayout = false.
+This attribute specifies full width paragraph text for [Flow](../../../aspose.pdf.flow/) mode, FixedLayout = false.
 
 ```cpp
 void Aspose::Pdf::HtmlSaveOptions::set_FlowLayoutParagraphFullWidth(bool value)

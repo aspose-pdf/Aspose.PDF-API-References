@@ -4,7 +4,7 @@ linktitle: Interlocked
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Interlocked class. Provides API for thread-safe operations. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.threading/interlocked/
 ---
 ## Interlocked class

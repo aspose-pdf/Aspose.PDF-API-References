@@ -4,7 +4,7 @@ linktitle: get_CanRead
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::get_CanRead method. Determines if the stream is readable in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.io/stream/get_canread/
 ---
 ## Stream::get_CanRead method

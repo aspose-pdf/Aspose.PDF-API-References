@@ -4,7 +4,7 @@ linktitle: System::Web::Services::Description
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Web::Services::Description namespace in C++.'
 type: docs
-weight: 7400
+weight: 7600
 url: /cpp/system.web.services.description/
 ---
 

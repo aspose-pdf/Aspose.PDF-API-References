@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::FileStream::Write method. Writes the specified subrange of bytes from the specified byte array to the stream in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.io/filestream/write/
 ---
 ## FileStream::Write(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method

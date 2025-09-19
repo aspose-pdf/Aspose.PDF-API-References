@@ -4,7 +4,7 @@ linktitle: System
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System namespace in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system/
 ---
 
@@ -141,16 +141,19 @@ url: /cpp/system/
 | [FileInfoPtr](./fileinfoptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileInfo](../system.io/fileinfo/) class. |
 | [FileStreamPtr](./filestreamptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileStream](../system.io/filestream/) class. |
 | [FileSystemInfoPtr](./filesysteminfoptr/) | An alias for a smart pointer that points to an instance of [System::IO::FileSystemInfo](../system.io/filesysteminfo/) class. |
+| [FunctionPtr](./functionptr/) | An alias for function type with default calling convention. |
 | [IAsyncResultPtr](./iasyncresultptr/) | Shared pointer to [IAsyncResult](./iasyncresult/). |
 | [IFormatProviderPtr](./iformatproviderptr/) | An alias for a smart pointer that points to an instance of [System::IFormatProvider](./iformatprovider/) class. |
 | [MakeConstRef_t](./makeconstref_t/) | Helper type for [MakeConstRef](./makeconstref/) modifier. |
 | [MemoryStreamPtr](./memorystreamptr/) | An alias for a smart pointer that points to an instance of [System::IO::MemoryStream](../system.io/memorystream/) class. |
 | [Predicate](./predicate/) | Represents a pointer to a predicate - an invokable entity that accepts a single argument and returns a bool value. |
+| [RTaskPtr](./rtaskptr/) | An alias for a smart pointer that points to an instance of [System::Threading::Tasks::ResultTask](../system.threading.tasks/resulttask/) class. |
 | [SharedPtr](./sharedptr/) | Alias for smart pointer widely used in the library. |
 | [StreamPtr](./streamptr/) | An alias for a smart pointer that points to an instance of [System::IO::Stream](../system.io/stream/) class. |
 | [StreamReaderPtr](./streamreaderptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamReader](../system.io/streamreader/) class. |
 | [StreamWriterPtr](./streamwriterptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamWriter](../system.io/streamwriter/) class. |
 | [StringComparerPtr](./stringcomparerptr/) | An alias for a shared pointer to an instance of [StringComparer](./stringcomparer/) class. |
+| [TaskPtr](./taskptr/) | An alias for a smart pointer that points to an instance of [System::Threading::Tasks::Task](../system.threading.tasks/task/) class. |
 | [TimeZoneInfoPtr](./timezoneinfoptr/) | Alias for shared pointer to an instance of [TimeZoneInfo](./timezoneinfo/) class. |
 | [TimeZonePtr](./timezoneptr/) | Shared pointer to an instance of [TimeZone](./timezone/) class. |
 ## Functions
@@ -246,12 +249,16 @@ url: /cpp/system/
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeArray | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeScopeGuard | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeYieldEnumerable | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeYieldEnumerator | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MemberwiseClone | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ObjectType::GetType< System::DateTime > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ObjectType::GetType< System::String > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

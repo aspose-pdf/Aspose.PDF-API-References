@@ -4,7 +4,7 @@ linktitle: Read
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::Read method. Reads the specified number of bytes from the stream and writes them to the specified byte array in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.io/stream/read/
 ---
 ## Stream::Read(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) method
