@@ -4,7 +4,7 @@ linktitle: System::Net::Http::Headers
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Net::Http::Headers namespace in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/system.net.http.headers/
 ---
 

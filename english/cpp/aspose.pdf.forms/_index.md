@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Forms
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms namespace. The Aspose.Pdf.Forms namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.forms/
 ---
 

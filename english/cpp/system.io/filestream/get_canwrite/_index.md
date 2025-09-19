@@ -4,7 +4,7 @@ linktitle: get_CanWrite
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::FileStream::get_CanWrite method. Determines if the stream is writable in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.io/filestream/get_canwrite/
 ---
 ## FileStream::get_CanWrite method

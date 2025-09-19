@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Optimization
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization namespace. The Aspose.Pdf.Optimization is a namespace for classes for managing of document optimization process in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/aspose.pdf.optimization/
 ---
 

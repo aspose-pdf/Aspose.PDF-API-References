@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use operator= method of System::IO::FileStream class in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.io/filestream/operator=/
 ---
 ## FileStream::operator= method

@@ -4,7 +4,7 @@ linktitle: Semaphore
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Semaphore class. Semaphore implementation. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/system.threading/semaphore/
 ---
 ## Semaphore class
