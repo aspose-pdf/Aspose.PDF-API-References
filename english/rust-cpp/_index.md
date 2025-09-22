@@ -39,6 +39,7 @@ pub struct Document { /* private fields */ }
 | [save_markdown](./convert/save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./convert/save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [save_docx_enhanced](./convert/save_docx_enhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [save_svg_zip](./convert/save_svg_zip/) | Convert and save the previously opened PDF-document as SVG-archive. |
 | [export_fdf](./convert/export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [export_xfdf](./convert/export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [export_xml](./convert/export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
@@ -65,6 +66,14 @@ pub struct Document { /* private fields */ }
 | [add_page_num](./organize/add_page_num/) | Add page number to a PDF-document |
 | [add_text_header](./organize/add_text_header/) | Add text in Header of a PDF-document |
 | [add_text_footer](./organize/add_text_footer/) | Add text in Footer of a PDF-document |
+| [flatten](./organize/flatten/) | Flatten PDF-document |
+| [remove_annotations](./organize/remove_annotations/) | Remove annotations from PDF-document |
+| [remove_attachments](./organize/remove_attachments/) | Remove attachments from PDF-document |
+| [remove_blank_pages](./organize/remove_blank_pages/) | Remove blank pages from PDF-document |
+| [remove_bookmarks](./organize/remove_bookmarks/) | Remove bookmarks from PDF-document |
+| [remove_hidden_text](./organize/remove_hidden_text/) | Remove hidden text from PDF-document |
+| [remove_images](./organize/remove_images/) | Remove images from PDF-document |
+| [remove_javascripts](./organize/remove_javascripts/) | Remove java scripts from PDF-document |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
@@ -73,6 +82,9 @@ pub struct Document { /* private fields */ }
 | [page_add_page_num](./organize/page_add_page_num/) | Add page number on page |
 | [page_add_text_header](./organize/page_add_text_header/) | Add text in page header |
 | [page_add_text_footer](./organize/page_add_text_footer/) | Add text in page footer |
+| [page_remove_annotations](./organize/page_remove_annotations/) | Remove annotations in page. |
+| [page_remove_hidden_text](./organize/page_remove_hidden_text/) | Remove hidden text in page. |
+| [page_remove_images](./organize/page_remove_images/) | Remove images in page. |
 
 
 ## Core PDF functions
@@ -89,6 +101,41 @@ pub struct Document { /* private fields */ }
 | [page_insert](./core/page_insert/) | Insert new page at the specified position in PDF-document. |
 | [page_delete](./core/page_delete/) | Delete specified page in PDF-document. |
 | [page_count](./core/page_count/) | Return the number of pages in the PDF-document. |
+
+
+## Miscellaneous
+
+| Function | Description |
+| -------- | ----------- |
+| [about](./miscellaneous/about/) | Return metadata information about the Aspose.PDF for Rust via C++. |
+
+
+
+# Structs secondary
+
+## ProductInfo contains metadata about the Aspose.PDF for Rust via C++.
+```rust
+#[derive(Debug, Deserialize)]
+pub struct ProductInfo {
+    #[serde(rename = "product")]
+    pub product: String,
+
+    #[serde(rename = "family")]
+    pub family: String,
+
+    #[serde(rename = "version")]
+    pub version: String,
+
+    #[serde(rename = "releasedate")]
+    pub release_date: String,
+
+    #[serde(rename = "producer")]
+    pub producer: String,
+
+    #[serde(rename = "islicensed")]
+    pub is_licensed: bool,
+}
+```
 
 
 # Enums
@@ -138,4 +185,3 @@ pub enum Rotation {
     On360 = 4,
 }
 ```
-

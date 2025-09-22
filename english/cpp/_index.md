@@ -22,14 +22,15 @@ is_root: true
 | [Aspose::Pdf::Devices](./aspose.pdf.devices/) | The **[Aspose.Pdf.Devices](./aspose.pdf.devices/)** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation. |
 | [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) | The **[Aspose.Pdf.Drawing](./aspose.pdf.drawing/)** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents. |
 | [Aspose::Pdf::Facades](./aspose.pdf.facades/) | The **[Aspose.Pdf.Facades](./aspose.pdf.facades/)** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure. |
+| [Aspose::Pdf::Flow](./aspose.pdf.flow/) |  |
 | [Aspose::Pdf::Forms](./aspose.pdf.forms/) | The **[Aspose.Pdf.Forms](./aspose.pdf.forms/)** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc. |
 | [Aspose::Pdf::GroupProcessor](./aspose.pdf.groupprocessor/) |  |
 | [Aspose::Pdf::GroupProcessor::Creators](./aspose.pdf.groupprocessor.creators/) |  |
 | [Aspose::Pdf::LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.Tagged.LogicalStructure ** is a namespace for PDF Logical [Structure](./aspose.pdf.structure/) classes. |
+| [Aspose::Pdf::LowCode](./aspose.pdf.lowcode/) |  |
 | [Aspose::Pdf::Multithreading](./aspose.pdf.multithreading/) | The **[Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/)** namespace provides classes that are meant to be used in multi-threaded scenarios. |
 | [Aspose::Pdf::Operators](./aspose.pdf.operators/) | The **[Aspose.Pdf.Operators](./aspose.pdf.operators/)** is a namespace for [Operator](./aspose.pdf/operator/) implementations. These classes describes operators used in PDF page contents. |
 | [Aspose::Pdf::Optimization](./aspose.pdf.optimization/) | The **[Aspose.Pdf.Optimization](./aspose.pdf.optimization/)** is a namespace for classes for managing of document optimization process. |
-| [Aspose::Pdf::Plugins](./aspose.pdf.plugins/) |  |
 | [Aspose::Pdf::Sanitization](./aspose.pdf.sanitization/) | The **[Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/)** is a namespace for sanitization operations. |
 | [Aspose::Pdf::Security](./aspose.pdf.security/) | The **[Aspose.Pdf.Security](./aspose.pdf.security/)** namespace contains classes used for encryption and digital signing. |
 | [Aspose::Pdf::Security::Impl](./aspose.pdf.security.impl/) |  |
@@ -84,6 +85,7 @@ is_root: true
 | [System::Text](./system.text/) |  |
 | [System::Text::RegularExpressions](./system.text.regularexpressions/) |  |
 | [System::Threading](./system.threading/) |  |
+| [System::Threading::Tasks](./system.threading.tasks/) |  |
 | [System::Timers](./system.timers/) |  |
 | [System::Web](./system.web/) |  |
 | [System::Web::Services](./system.web.services/) |  |

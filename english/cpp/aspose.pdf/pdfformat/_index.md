@@ -46,6 +46,7 @@ enum class PdfFormat
 | PDF_A_4E | 23 | PDF/A-4e format. |
 | PDF_A_4F | 24 | PDF/A-4f format. |
 | PDF_X_4 | 25 | PDF/X-4 format. |
+| PDF_E_1 | 26 | PDF/E-1 (PDF 1.6) format. |
 
 ## See Also
 

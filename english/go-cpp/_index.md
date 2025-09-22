@@ -40,6 +40,7 @@ type Document struct {
 | [SaveMarkdown](./convert/savemarkdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [SaveTiff](./convert/savetiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [SaveDocXEnhanced](./convert/savedocxenhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [SaveSvgZip](./convert/savesvgzip/) | Convert and save the previously opened PDF-document as SVG-archive. |
 | [ExportFdf](./convert/exportfdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [ExportXfdf](./convert/exportxfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [ExportXml](./convert/exportxml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |
@@ -115,6 +116,28 @@ type Document struct {
 | [PageIsBlank](./core/pageisblank/) | Return page is blank in PDF-document. |
 
 
+## Miscellaneous
+
+| Function | Description |
+| -------- | ----------- |
+| [About](./miscellaneous/about/) | Return metadata information about the Aspose.PDF for Go via C++. |
+
+
+# Types secondary
+
+## ProductInfo contains metadata about the Aspose.PDF for Go via C++.
+```go
+type ProductInfo struct {
+	Product     string `json:"product"`     // Name
+	Family      string `json:"family"`      // Family (e.g., "Aspose.PDF")
+	Version     string `json:"version"`     // Version
+	ReleaseDate string `json:"releasedate"` // Release date in ISO format (YYYY-MM-DD)
+	Producer    string `json:"producer"`    // Producer
+	IsLicensed  bool   `json:"islicensed"`  // License status (true if licensed)
+}
+```
+
+
 # Constants
 
 ## Enumeration of possible rotation values.
@@ -145,4 +168,3 @@ const (
     PageSizeP11x17     int32 = 11 // P11x17 size.
 )
 ```
-

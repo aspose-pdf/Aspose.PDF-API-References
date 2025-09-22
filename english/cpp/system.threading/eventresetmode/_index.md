@@ -4,7 +4,7 @@ linktitle: EventResetMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::EventResetMode enum. Indicates how event state resets in C++.'
 type: docs
-weight: 1500
+weight: 1800
 url: /cpp/system.threading/eventresetmode/
 ---
 ## EventResetMode enum

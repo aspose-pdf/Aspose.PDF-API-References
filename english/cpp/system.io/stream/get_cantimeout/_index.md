@@ -4,7 +4,7 @@ linktitle: get_CanTimeout
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::get_CanTimeout method. Gets a value that determines whether the current stream can time out in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.io/stream/get_cantimeout/
 ---
 ## Stream::get_CanTimeout method

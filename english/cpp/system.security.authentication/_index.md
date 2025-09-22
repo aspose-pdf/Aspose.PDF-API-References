@@ -4,7 +4,7 @@ linktitle: System::Security::Authentication
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Authentication namespace in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/system.security.authentication/
 ---
 

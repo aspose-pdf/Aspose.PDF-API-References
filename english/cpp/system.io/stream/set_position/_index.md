@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Stream::set_Position method. Sets the stream''s position in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.io/stream/set_position/
 ---
 ## Stream::set_Position method

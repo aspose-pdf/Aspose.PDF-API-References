@@ -23,6 +23,7 @@ url: /rust-cpp/convert/
 | [save_markdown](./save_markdown/) | Convert and save the previously opened PDF-document as Markdown-document. |
 | [save_tiff](./save_tiff/) | Convert and save the previously opened PDF-document as Tiff-document. |
 | [save_docx_enhanced](./save_docx_enhanced/) | Convert and save the previously opened PDF-document as DocX-document with Enhanced Recognition Mode (fully editable tables and paragraphs). |
+| [save_svg_zip](./save_svg_zip/) | Convert and save the previously opened PDF-document as SVG-archive. |
 | [export_fdf](./export_fdf/) | Export from the previously opened PDF-document with AcroForm to FDF-document. |
 | [export_xfdf](./export_xfdf/) | Export from the previously opened PDF-document with AcroForm to XFDF-document. |
 | [export_xml](./export_xml/) | Export from the previously opened PDF-document with AcroForm to XML-document. |

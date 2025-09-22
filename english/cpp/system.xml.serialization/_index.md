@@ -4,7 +4,7 @@ linktitle: System::Xml::Serialization
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Xml::Serialization namespace in C++.'
 type: docs
-weight: 8100
+weight: 8300
 url: /cpp/system.xml.serialization/
 ---
 
