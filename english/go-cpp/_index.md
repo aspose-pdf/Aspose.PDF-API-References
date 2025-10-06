@@ -75,6 +75,7 @@ type Document struct {
 | [RemoveHiddenText](./organize/removehiddentext/) | Remove hidden text from PDF-document. |
 | [RemoveImages](./organize/removeimages/) | Remove images from PDF-document. |
 | [RemoveJavaScripts](./organize/removejavascripts/) | Remove java scripts from PDF-document. |
+| [RemoveTables](./organize/removetables/) | Remove tables from PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -86,6 +87,7 @@ type Document struct {
 | [PageRemoveAnnotations](./organize/pageremoveannotations/) | Remove annotations in page. |
 | [PageRemoveHiddenText](./organize/pageremovehiddentext/) | Remove hidden text in page. |
 | [PageRemoveImages](./organize/pageremoveimages/) | Remove images in page. |
+| [PageRemoveTables](./organize/pageremovetables/) | Remove tables in page. |
 
 
 ## Core PDF functions
