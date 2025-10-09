@@ -74,6 +74,7 @@ pub struct Document { /* private fields */ }
 | [remove_hidden_text](./organize/remove_hidden_text/) | Remove hidden text from PDF-document |
 | [remove_images](./organize/remove_images/) | Remove images from PDF-document |
 | [remove_javascripts](./organize/remove_javascripts/) | Remove java scripts from PDF-document |
+| [remove_tables](./organize/remove_tables/) | Remove tables from a PDF-document. |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
@@ -85,6 +86,7 @@ pub struct Document { /* private fields */ }
 | [page_remove_annotations](./organize/page_remove_annotations/) | Remove annotations in page. |
 | [page_remove_hidden_text](./organize/page_remove_hidden_text/) | Remove hidden text in page. |
 | [page_remove_images](./organize/page_remove_images/) | Remove images in page. |
+| [page_remove_tables](./organize/page_remove_tables/) | Remove tables in page. |
 
 
 ## Core PDF functions
@@ -97,10 +99,15 @@ pub struct Document { /* private fields */ }
 | [save_as](./core/save_as/) | Save the previously opened PDF-document with new filename. |
 | [set_license](./core/set_license/) | Set license with filename. |
 | [extract_text](./core/extract_text/) | Return the PDF-document contents as plain text. |
+| [word_count](./core/word_count/) | Return word count in PDF-document. |
+| [character_count](./core/character_count/) | Return character count in PDF-document. |
 | [page_add](./core/page_add/) | Add new page in PDF-document. |
 | [page_insert](./core/page_insert/) | Insert new page at the specified position in PDF-document. |
 | [page_delete](./core/page_delete/) | Delete specified page in PDF-document. |
 | [page_count](./core/page_count/) | Return the number of pages in the PDF-document. |
+| [page_word_count](./core/page_word_count/) | Return word count on specified page in PDF-document. |
+| [page_character_count](./core/page_character_count/) | Return character count on specified page in PDF-document. |
+| [page_is_blank](./core/page_is_blank/) | Return page is blank in PDF-document. |
 
 
 ## Miscellaneous

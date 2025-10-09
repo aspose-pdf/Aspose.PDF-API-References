@@ -28,6 +28,7 @@ url: /rust-cpp/organize/
 | [remove_hidden_text](./remove_hidden_text/) | Remove hidden text from PDF-document |
 | [remove_images](./remove_images/) | Remove images from PDF-document |
 | [remove_javascripts](./remove_javascripts/) | Remove java scripts from PDF-document |
+| [remove_tables](./remove_tables/) | Remove tables from a PDF-document. |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
@@ -39,6 +40,7 @@ url: /rust-cpp/organize/
 | [page_remove_annotations](./page_remove_annotations/) | Remove annotations in page. |
 | [page_remove_hidden_text](./page_remove_hidden_text/) | Remove hidden text in page. |
 | [page_remove_images](./page_remove_images/) | Remove images in page. |
+| [page_remove_tables](./page_remove_tables/) | Remove tables in page. |
 
 
 ## Detailed Description
