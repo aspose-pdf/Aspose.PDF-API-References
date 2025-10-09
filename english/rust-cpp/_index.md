@@ -101,6 +101,7 @@ pub struct Document { /* private fields */ }
 | [extract_text](./core/extract_text/) | Return the PDF-document contents as plain text. |
 | [word_count](./core/word_count/) | Return word count in PDF-document. |
 | [character_count](./core/character_count/) | Return character count in PDF-document. |
+| [bytes](./core/bytes/) | Return the contents of the PDF-document as a byte vector. |
 | [page_add](./core/page_add/) | Add new page in PDF-document. |
 | [page_insert](./core/page_insert/) | Insert new page at the specified position in PDF-document. |
 | [page_delete](./core/page_delete/) | Delete specified page in PDF-document. |
