@@ -107,7 +107,9 @@ type Document struct {
 | [AppendPages](./core/appendpages/) | Append selected pages from another PDF-document. |
 | [MergeDocuments](./core/mergedocuments/) | Create a new PDF-document by merging the provided PDF-documents. |
 | [SplitDocument](./core/splitdocument/) | Create multiple new PDF-documents by extracting pages from the source PDF-document. |
+| [Split](./core/split/) | Create multiple new PDF-documents by extracting pages from the current PDF-document. |
 | [SplitAtPage](./core/splitatpage/) | Split the PDF-document into two new PDF-documents. |
+| [SplitAt](./core/splitat/) | Split the current PDF-document into two new PDF-documents. |
 | [Bytes](./core/bytes/) | Return the contents of the PDF-document as a byte slice. |
 | [PageAdd](./core/pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |
