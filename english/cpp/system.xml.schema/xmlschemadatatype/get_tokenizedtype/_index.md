@@ -19,7 +19,7 @@ virtual XmlTokenizedType System::Xml::Schema::XmlSchemaDatatype::get_TokenizedTy
 
 ### ReturnValue
 
-An XmlTokenizedType value for the **string**.
+An [XmlTokenizedType](../../../system.xml/xmltokenizedtype/) value for the **string**.
 
 ## See Also
 

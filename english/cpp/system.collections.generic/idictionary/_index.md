@@ -28,6 +28,7 @@ template<typename TKey,typename TValue>class IDictionary : public System::Collec
 | virtual [Add](./add/)(const TKey\&, const TValue\&) | Adds key-value pair into container. |
 | virtual [ContainsKey](./containskey/)(const TKey\&) const | Checks if container contains key. |
 | [CopyTo](./copyto/)(ArrayPtr\<KeyValuePair\<TKey, TValue\>\>, int) override | Copies dictionary contents into existing array elements. |
+| virtual [get_Count](./get_count/)() const | Unhides get_Count member function. |
 | [get_IsFixedSize](./get_isfixedsize/)() const | Checks if collection size is fixed. |
 | [get_IsSynchronized](./get_issynchronized/)() const | Checks if container is thread-safe. |
 | virtual [get_Keys](./get_keys/)() const | Accesses key collection. |

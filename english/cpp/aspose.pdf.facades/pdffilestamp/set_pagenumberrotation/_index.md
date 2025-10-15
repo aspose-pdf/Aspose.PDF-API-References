@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_pagenumberrotation/
 ## PdfFileStamp::set_PageNumberRotation method
 
 
-Sets rotation of page number. Rotation is in degrees. Default is 0.
+Sets rotation of page number. [Rotation](../../../aspose.pdf/rotation/) is in degrees. Default is 0.
 
 ```cpp
 void Aspose::Pdf::Facades::PdfFileStamp::set_PageNumberRotation(float value)

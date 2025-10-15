@@ -22,9 +22,9 @@ class TeXSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | --- | --- |
 | [AddFontEncs](./addfontencs/)(const System::ArrayPtr\<System::String\>\&) | Adds a font ancoding to the font encoding list. |
 | [ClearFontEncs](./clearfontencs/)() | Clears the font encoding list. |
-| [get_OutDirectoryPath](./get_outdirectorypath/)() const | Property for **_outDirectoryPath** parameter. |
+| [get_OutDirectoryPath](./get_outdirectorypath/)() const | Property for [_outDirectoryPath](../) parameter. |
 | [get_PagesCount](./get_pagescount/)() const | Returns the number of pages after conversion. |
-| [set_OutDirectoryPath](./set_outdirectorypath/)(System::String) | Property for **_outDirectoryPath** parameter. |
+| [set_OutDirectoryPath](./set_outdirectorypath/)(System::String) | Property for [_outDirectoryPath](../) parameter. |
 | [TeXSaveOptions](./texsaveoptions/)() | Initializes a new instance of the [TeXSaveOptions](./) class. |
 ## See Also
 

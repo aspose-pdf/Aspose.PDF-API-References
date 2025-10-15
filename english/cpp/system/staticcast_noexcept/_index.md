@@ -4,13 +4,13 @@ linktitle: StaticCast_noexcept
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StaticCast_noexcept method. Performs static cast on Exception objects in C++.'
 type: docs
-weight: 41200
+weight: 42100
 url: /cpp/system/staticcast_noexcept/
 ---
 ## System::StaticCast_noexcept(const TFrom\&) method
 
 
-Performs static cast on Exception objects.
+Performs static cast on [Exception](../exception/) objects.
 
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::value &&IsExceptionWrapper<TTo>::value &&(std::is_convertible<TTo, TFrom>::value||std::is_base_of<TTo, TFrom>::value), TTo>::type System::StaticCast_noexcept(const TFrom &obj)
@@ -19,8 +19,8 @@ template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
-| TFrom | Source Exception type. |
+| TTo | Target [Exception](../exception/) type. |
+| TFrom | Source [Exception](../exception/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Left for backwards compatibility. Use AsCast instead.
 ## System::StaticCast_noexcept(SmartPtr\<TFrom\>) method
 
 
-Performs static cast on Objects to Exception objects.
+Performs static cast on Objects to [Exception](../exception/) objects.
 
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object, TFrom>::value &&IsExceptionWrapper<TTo>::value, TTo>::type System::StaticCast_noexcept(SmartPtr<TFrom> obj) noexcept
@@ -80,7 +80,7 @@ template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
+| TTo | Target [Exception](../exception/) type. |
 | TFrom | [Object](../object/) type. |
 
 | Parameter | Type | Description |

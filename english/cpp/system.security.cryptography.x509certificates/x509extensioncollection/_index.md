@@ -21,6 +21,7 @@ class X509ExtensionCollection : public System::Collections::Generic::List<Shared
 | Method | Description |
 | --- | --- |
 | [idx_get](./idx_get/)(const String\&) const | Accessor. Not implemented. |
+| [idx_get](./idx_get/)(int) const override | RTTI data. |
 | [X509ExtensionCollection](./x509extensioncollection/)() | Constructs empty collection. |
 ## See Also
 

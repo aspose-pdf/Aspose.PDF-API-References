@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/valuecollection/
 Collection of values to extract.
 
 ```cpp
-ICollection<TValue> System::Collections::Generic::Dictionary< TKey, TValue >::ValueCollection
+typedef ICollection<TValue> System::Collections::Generic::Dictionary< TKey, TValue >::ValueCollection
 ```
 
 ## See Also

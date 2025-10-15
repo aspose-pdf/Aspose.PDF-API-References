@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionaryptr/
 Sorted dictionary pointer with access operators. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-template<typename T,typename V>class SortedDictionaryPtr : public System::SmartPtr<SortedDictionary<T, V>>
+template<typename T,typename V>class SortedDictionaryPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

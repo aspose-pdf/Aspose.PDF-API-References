@@ -29,7 +29,7 @@ class XmlTextReader : public System::Xml::XmlReader,
 | [get_CanReadValueChunk](./get_canreadvaluechunk/)() override | Returns a value indicating whether the [XmlTextReader](./) implements the [XmlReader::ReadValueChunk](../xmlreader/readvaluechunk/) method. |
 | [get_CanResolveEntity](./get_canresolveentity/)() override | Returns a value indicating whether this reader can parse and resolve entities. |
 | [get_Depth](./get_depth/)() override | Returns the depth of the current node in the XML document. |
-| [get_DtdProcessing](./get_dtdprocessing/)() | Returns the DtdProcessing enumeration. |
+| [get_DtdProcessing](./get_dtdprocessing/)() | Returns the [DtdProcessing](../dtdprocessing/) enumeration. |
 | [get_Encoding](./get_encoding/)() | Returns the encoding of the document. |
 | [get_EntityHandling](./get_entityhandling/)() | Returns a value that specifies how the reader handles entities. |
 | [get_EOF](./get_eof/)() override | Returns a value indicating whether the reader is positioned at the end of the stream. |
@@ -78,7 +78,7 @@ class XmlTextReader : public System::Xml::XmlReader,
 | [ReadString](./readstring/)() override | Reads the contents of an element or a text node as a string. |
 | [ResetState](./resetstate/)() | Resets the state of the reader to [ReadState::Initial](../readstate/). |
 | [ResolveEntity](./resolveentity/)() override | Resolves the entity reference for **EntityReference** nodes. |
-| [set_DtdProcessing](./set_dtdprocessing/)(System::Xml::DtdProcessing) | Sets the DtdProcessing enumeration. |
+| [set_DtdProcessing](./set_dtdprocessing/)(System::Xml::DtdProcessing) | Sets the [DtdProcessing](../dtdprocessing/) enumeration. |
 | [set_EntityHandling](./set_entityhandling/)(System::Xml::EntityHandling) | Sets a value that specifies how the reader handles entities. |
 | [set_Namespaces](./set_namespaces/)(bool) | Sets a value indicating whether to do namespace support. |
 | [set_Normalization](./set_normalization/)(bool) | Sets a value indicating whether to normalize white space and attribute values. |
@@ -94,8 +94,8 @@ class XmlTextReader : public System::Xml::XmlReader,
 | [XmlTextReader](./xmltextreader/)(const String\&, const SharedPtr\<IO::TextReader\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified URL and TextReader. |
 | [XmlTextReader](./xmltextreader/)(const SharedPtr\<IO::TextReader\>\&, const SharedPtr\<XmlNameTable\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified TextReader and [XmlNameTable](../xmlnametable/). |
 | [XmlTextReader](./xmltextreader/)(const String\&, const SharedPtr\<IO::TextReader\>\&, const SharedPtr\<XmlNameTable\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified URL, TextReader and [XmlNameTable](../xmlnametable/). |
-| [XmlTextReader](./xmltextreader/)(const SharedPtr\<IO::Stream\>\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified stream, XmlNodeType, and [XmlParserContext](../xmlparsercontext/). |
-| [XmlTextReader](./xmltextreader/)(const String\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified string, XmlNodeType, and [XmlParserContext](../xmlparsercontext/). |
+| [XmlTextReader](./xmltextreader/)(const SharedPtr\<IO::Stream\>\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified stream, [XmlNodeType](../xmlnodetype/), and [XmlParserContext](../xmlparsercontext/). |
+| [XmlTextReader](./xmltextreader/)(const String\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified string, [XmlNodeType](../xmlnodetype/), and [XmlParserContext](../xmlparsercontext/). |
 | [XmlTextReader](./xmltextreader/)(const String\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified file. |
 | [XmlTextReader](./xmltextreader/)(const String\&, const SharedPtr\<XmlNameTable\>\&) | Initializes a new instance of the [XmlTextReader](./) class with the specified file and [XmlNameTable](../xmlnametable/). |
 ## Typedefs

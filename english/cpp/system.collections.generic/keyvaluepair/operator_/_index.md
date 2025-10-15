@@ -10,7 +10,7 @@ url: /cpp/system.collections.generic/keyvaluepair/operator_/
 ## KeyValuePair::operator< method
 
 
-Patch for classes inherited from IComparer<KeyValuePair<TKey, TValue>>, doesn't compare anything.
+Patch for classes inherited from [IComparer<KeyValuePair<TKey, TValue>>](../../icomparer/), doesn't compare anything.
 
 ```cpp
 bool System::Collections::Generic::KeyValuePair<TKey, TValue>::operator<(const KeyValuePair &kvp) const

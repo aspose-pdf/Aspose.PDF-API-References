@@ -57,7 +57,7 @@ The **[Aspose.Pdf.Facades](./)** namespace provides classes originaly came from 
 | Enum | Description |
 | --- | --- |
 | [Algorithm](./algorithm/) | Represents algorithms which can be used to encrypt pdf document. |
-| [AutoRotateMode](./autorotatemode/) | Direction of the rotation when document is printed. |
+| [AutoRotateMode](./autorotatemode/) | [Direction](../aspose.pdf/direction/) of the rotation when document is printed. |
 | [BlendingColorSpace](./blendingcolorspace/) | Class represents blending color space. |
 | [DataType](./datatype/) | Enumerates field types definitions. |
 | [DefaultMetadataProperties](./defaultmetadataproperties/) | Enumeration of standard XMP properties. |

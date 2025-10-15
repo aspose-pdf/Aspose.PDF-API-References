@@ -4,7 +4,7 @@ linktitle: FromResult
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use FromResult method of  class in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/system.threading.tasks/fromresult/
 ---
 ## System::Threading::Tasks::FromResult method

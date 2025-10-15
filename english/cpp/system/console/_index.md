@@ -62,7 +62,7 @@ class Console
 | static [WriteLine](./writeline/)(uint32_t) | Outputs the string representation of unsigned 32-bit integer value followed by the current line terminator to the standard output stream. |
 | static [WriteLine](./writeline/)(uint64_t) | Outputs the string representation of unsigned 64-bit integer value followed by the current line terminator to the standard output stream. |
 | static [WriteLine](./writeline/)(const ArrayPtr\<char_t\>\&, int, int) | Outputs the string representation of the specified range of the specified character array followed by the current line terminator to the standard output stream. |
-| static [WriteLine](./writeline/)(const Exception\&) | Outputs the string representation of the specified Exception object followed by the current line terminator to the standard output stream. |
+| static [WriteLine](./writeline/)(const Exception\&) | Outputs the string representation of the specified [Exception](../exception/) object followed by the current line terminator to the standard output stream. |
 | static [WriteLine](./writeline/)(const String\&, Args\&&...) | Outputs the string representation of the specified arguments formatted according to the specified format followed by the current line terminator to the standard output stream. |
 | static [WriteLine](./writeline/)(const char *) |  |
 ## Remarks

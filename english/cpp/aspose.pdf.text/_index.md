@@ -72,7 +72,7 @@ url: /cpp/aspose.pdf.text/
 
 | Enum | Description |
 | --- | --- |
-| [CoordinateOrigin](./coordinateorigin/) | [Text](./) CoordinateOrigin enumeration. |
+| [CoordinateOrigin](./coordinateorigin/) | [Text](./)[CoordinateOrigin](./coordinateorigin/) enumeration. |
 | [FontStyles](./fontstyles/) | Specifies style information applied to text. |
 | [FontTypes](./fonttypes/) | Supported font types enumeration. |
 | [SubstitutionFontCategories](./substitutionfontcategories/) | Represents font categories that can be substituted. |

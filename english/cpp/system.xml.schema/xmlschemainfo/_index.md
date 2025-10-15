@@ -20,22 +20,22 @@ class XmlSchemaInfo : public System::Xml::Schema::IXmlSchemaInfo
 
 | Method | Description |
 | --- | --- |
-| [get_ContentType](./get_contenttype/)() | Returns the XmlSchemaContentType object that corresponds to the content type of this validated XML node. |
+| [get_ContentType](./get_contenttype/)() | Returns the [XmlSchemaContentType](../xmlschemacontenttype/) object that corresponds to the content type of this validated XML node. |
 | [get_IsDefault](./get_isdefault/)() override | Returns a value indicating if this validated XML node was set as the result of a default being applied during XML [Schema](../) Definition Language (XSD) schema validation. |
 | [get_IsNil](./get_isnil/)() override | Returns a value indicating if the value for this validated XML node is **nil**. |
 | [get_MemberType](./get_membertype/)() override | Returns the dynamic schema type for this validated XML node. |
 | [get_SchemaAttribute](./get_schemaattribute/)() override | Returns the compiled [XmlSchemaAttribute](../xmlschemaattribute/) object that corresponds to this validated XML node. |
 | [get_SchemaElement](./get_schemaelement/)() override | Returns the compiled [XmlSchemaElement](../xmlschemaelement/) object that corresponds to this validated XML node. |
 | [get_SchemaType](./get_schematype/)() override | Returns the static XML [Schema](../) Definition Language (XSD) schema type of this validated XML node. |
-| [get_Validity](./get_validity/)() override | Returns the XmlSchemaValidity value of this validated XML node. |
-| [set_ContentType](./set_contenttype/)(XmlSchemaContentType) | Sets the XmlSchemaContentType object that corresponds to the content type of this validated XML node. |
+| [get_Validity](./get_validity/)() override | Returns the [XmlSchemaValidity](../xmlschemavalidity/) value of this validated XML node. |
+| [set_ContentType](./set_contenttype/)(XmlSchemaContentType) | Sets the [XmlSchemaContentType](../xmlschemacontenttype/) object that corresponds to the content type of this validated XML node. |
 | [set_IsDefault](./set_isdefault/)(bool) | Sets a value indicating if this validated XML node was set as the result of a default being applied during XML [Schema](../) Definition Language (XSD) schema validation. |
 | [set_IsNil](./set_isnil/)(bool) | Sets a value indicating if the value for this validated XML node is **nil**. |
 | [set_MemberType](./set_membertype/)(const SharedPtr\<XmlSchemaSimpleType\>\&) | Sets the dynamic schema type for this validated XML node. |
 | [set_SchemaAttribute](./set_schemaattribute/)(const SharedPtr\<XmlSchemaAttribute\>\&) | Sets the compiled [XmlSchemaAttribute](../xmlschemaattribute/) object that corresponds to this validated XML node. |
 | [set_SchemaElement](./set_schemaelement/)(const SharedPtr\<XmlSchemaElement\>\&) | Sets the compiled [XmlSchemaElement](../xmlschemaelement/) object that corresponds to this validated XML node. |
 | [set_SchemaType](./set_schematype/)(const SharedPtr\<XmlSchemaType\>\&) | Sets the static XML [Schema](../) Definition Language (XSD) schema type of this validated XML node. |
-| [set_Validity](./set_validity/)(XmlSchemaValidity) | Sets the XmlSchemaValidity value of this validated XML node. |
+| [set_Validity](./set_validity/)(XmlSchemaValidity) | Sets the [XmlSchemaValidity](../xmlschemavalidity/) value of this validated XML node. |
 | [XmlSchemaInfo](./xmlschemainfo/)() | Initializes a new instance of the [XmlSchemaInfo](./) class. |
 ## Typedefs
 

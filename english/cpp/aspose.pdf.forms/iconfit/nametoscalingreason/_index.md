@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/iconfit/nametoscalingreason/
 ## IconFit::NameToScalingReason method
 
 
-Converts name of scaling reason into ScalingReason object.
+Converts name of scaling reason into [ScalingReason](../../scalingreason/) object.
 
 ```cpp
 static Aspose::Pdf::Forms::ScalingReason Aspose::Pdf::Forms::IconFit::NameToScalingReason(System::String reason)

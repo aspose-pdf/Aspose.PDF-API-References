@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/begin/
 ## SmartPtr::begin() method
 
 
-Accessor for [begin()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./) method.
+Accessor for [begin()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [begin()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<Q>().begin()) System::SmartPtr<T>::begin()
@@ -29,7 +29,7 @@ iterator to the begin of collection
 ## SmartPtr::begin() const method
 
 
-Accessor for [begin()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./) method.
+Accessor for [begin()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [begin()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<const Q>().begin()) System::SmartPtr<T>::begin() const

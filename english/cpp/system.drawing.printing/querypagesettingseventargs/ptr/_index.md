@@ -13,7 +13,7 @@ url: /cpp/system.drawing.printing/querypagesettingseventargs/ptr/
 An alias for a shared pointer to an instance of this class.
 
 ```cpp
-SharedPtr<QueryPageSettingsEventArgs> System::Drawing::Printing::QueryPageSettingsEventArgs::ptr
+typedef SharedPtr<QueryPageSettingsEventArgs> System::Drawing::Printing::QueryPageSettingsEventArgs::ptr
 ```
 
 ## See Also

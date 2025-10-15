@@ -13,7 +13,7 @@ url: /cpp/system.collections/bitarray/bitset/
 RTTI information.
 
 ```cpp
-Detail::BitsetType System::Collections::BitArray::bitset
+typedef Detail::BitsetType System::Collections::BitArray::bitset
 ```
 
 ## Remarks

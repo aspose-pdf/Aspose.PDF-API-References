@@ -24,7 +24,7 @@ System::Array<T>::Array()
 ## Array::Array(const std::array\<UnderlyingType, InitArraySize\>\&) constructor
 
 
-Constructs an [Array](../) object and fills it with values from the specified array containing elements of **UnderlyingType** type.
+Constructs an [Array](../) object and fills it with values from the specified array containing elements of **[UnderlyingType](../underlyingtype/)** type.
 
 ```cpp
 template<std::size_t> System::Array<T>::Array(const std::array<UnderlyingType, InitArraySize> &init)
@@ -48,7 +48,7 @@ template<std::size_t> System::Array<T>::Array(const std::array<UnderlyingType, I
 ## Array::Array(const std::vector\<Q\>\&) constructor
 
 
-Constructs an [Array](../) object and fills it with values copied from an std::vector object whose values' type is the same as **T** but different from **UnderlyingType**.
+Constructs an [Array](../) object and fills it with values copied from an std::vector object whose values' type is the same as **T** but different from **[UnderlyingType](../underlyingtype/)**.
 
 ```cpp
 template<typename Q,typename> System::Array<T>::Array(const std::vector<Q> &value)
@@ -149,7 +149,7 @@ System::Array<T>::Array(std::initializer_list<bool> init, int=0)
 ## Array::Array(std::initializer_list\<UnderlyingType\>) constructor
 
 
-Constructs an [Array](../) object and fills it with values from the specified initializer list containing elements of **UnderlyingType** type.
+Constructs an [Array](../) object and fills it with values from the specified initializer list containing elements of **[UnderlyingType](../underlyingtype/)** type.
 
 ```cpp
 System::Array<T>::Array(std::initializer_list<UnderlyingType> init)
@@ -169,7 +169,7 @@ System::Array<T>::Array(std::initializer_list<UnderlyingType> init)
 ## Array::Array(std::vector\<Q\>\&&) constructor
 
 
-Constructs an [Array](../) object and fills it with values moved from an std::vector object whose values' type is the same as **T** but different from **UnderlyingType**.
+Constructs an [Array](../) object and fills it with values moved from an std::vector object whose values' type is the same as **T** but different from **[UnderlyingType](../underlyingtype/)**.
 
 ```cpp
 template<typename Q,typename> System::Array<T>::Array(std::vector<Q> &&value)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/getenumerator/
 Returns an enumerator that iterates through the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IEnumerator<T>> Aspose::Pdf::BoundsCheckableList<typename>::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<T>> Aspose::Pdf::BoundsCheckableList<T>::GetEnumerator() override
 ```
 
 

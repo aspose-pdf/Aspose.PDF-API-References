@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/virtualized_iterator_element/
 Virtualized element type.
 
 ```cpp
-using Aspose::Pdf::BoundsCheckableList< typename >::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element
+using Aspose::Pdf::BoundsCheckableList< T >::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element
 ```
 
 ## See Also

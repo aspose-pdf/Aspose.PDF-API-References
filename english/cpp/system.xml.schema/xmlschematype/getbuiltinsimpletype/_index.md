@@ -45,7 +45,7 @@ static SharedPtr<XmlSchemaSimpleType> System::Xml::Schema::XmlSchemaType::GetBui
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| typeCode | XmlTypeCode | One of the XmlTypeCode values representing the simple type. |
+| typeCode | XmlTypeCode | One of the [XmlTypeCode](../../xmltypecode/) values representing the simple type. |
 
 ### ReturnValue
 

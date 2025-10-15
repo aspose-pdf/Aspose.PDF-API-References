@@ -13,7 +13,7 @@ url: /cpp/system.collections/bitarrayptr/
 Pointer to [BitArray](../bitarray/). This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-class BitArrayPtr : public System::SmartPtr<BitArray>
+class BitArrayPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

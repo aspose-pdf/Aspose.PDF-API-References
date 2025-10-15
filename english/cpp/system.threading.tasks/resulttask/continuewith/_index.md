@@ -19,11 +19,11 @@ TaskPtr System::Threading::Tasks::ResultTask<T>::ContinueWith(const Action<RTask
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| continuationAction | const Action\<RTaskPtr\<T\>\>\& | Action to execute when this task completes, receiving this result task |
+| continuationAction | const Action\<RTaskPtr\<T\>\>\& | [Action](../../../system/action/) to execute when this task completes, receiving this result task |
 
 ### ReturnValue
 
-TaskPtr A new task representing the continuation
+[TaskPtr](../../../system/taskptr/) A new task representing the continuation
 ## Remarks
 
 

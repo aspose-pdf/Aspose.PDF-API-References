@@ -18,7 +18,7 @@ Aspose::Pdf::Forms::CheckboxField::CheckboxField()
 
 
 ## Deprecated
-For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
+For full field functionality, a binding to the document is required - use CheckboxField(Document doc) 
 
 ## See Also
 

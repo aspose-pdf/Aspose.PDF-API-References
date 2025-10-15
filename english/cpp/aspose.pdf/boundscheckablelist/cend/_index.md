@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/cend/
 Gets iterator pointing right after the last const-qualified element (if any) of the collection.
 
 ```cpp
-const_iterator Aspose::Pdf::BoundsCheckableList<typename>::cend() const noexcept
+const_iterator Aspose::Pdf::BoundsCheckableList<T>::cend() const noexcept
 ```
 
 

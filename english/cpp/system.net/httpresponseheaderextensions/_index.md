@@ -10,7 +10,7 @@ url: /cpp/system.net/httpresponseheaderextensions/
 ## HttpResponseHeaderExtensions class
 
 
-Contains utility methods to work with the HttpResponseHeader enumeration values.
+Contains utility methods to work with the [HttpResponseHeader](../httpresponseheader/) enumeration values.
 
 ```cpp
 class HttpResponseHeaderExtensions : public System::Object

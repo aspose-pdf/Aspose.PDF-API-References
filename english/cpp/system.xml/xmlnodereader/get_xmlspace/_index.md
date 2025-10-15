@@ -19,7 +19,7 @@ System::Xml::XmlSpace System::Xml::XmlNodeReader::get_XmlSpace() override
 
 ### ReturnValue
 
-One of the XmlSpace values. If no **xml:space** scope exists, this value defaults to [XmlSpace::None](../../xmlspace/).
+One of the [XmlSpace](../../xmlspace/) values. If no **xml:space** scope exists, this value defaults to [XmlSpace::None](../../xmlspace/).
 
 ## See Also
 

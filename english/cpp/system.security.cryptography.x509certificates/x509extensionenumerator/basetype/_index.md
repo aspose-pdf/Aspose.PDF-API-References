@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography.x509certificates/x509extensionenumerator/
 Parent type.
 
 ```cpp
-System::Collections::Generic::IEnumerator<SharedPtr<X509Extension> > System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::BaseType
+typedef System::Collections::Generic::IEnumerator<SharedPtr<X509Extension> > System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::BaseType
 ```
 
 ## See Also

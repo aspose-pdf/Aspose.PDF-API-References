@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/listext/basetypes/
 
 
 ```cpp
-System::BaseTypesInfo<System::Object> System::Collections::Generic::ListExt< T >::BaseTypes
+typedef System::BaseTypesInfo<System::Object> System::Collections::Generic::ListExt< T >::BaseTypes
 ```
 
 ## See Also

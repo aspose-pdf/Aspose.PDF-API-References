@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.security/validationoptions/set_validationmode/
 ## ValidationOptions::set_ValidationMode method
 
 
-Sets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictness of the validation process.
+Sets the mode of validation for digital signatures in a PDF document. The [ValidationMode](../../validationmode/) property determines the strictness of the validation process.
 
 ```cpp
 void Aspose::Pdf::Security::ValidationOptions::set_ValidationMode(Aspose::Pdf::Security::ValidationMode value)

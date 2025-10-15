@@ -13,7 +13,7 @@ url: /cpp/system/array/const_iterator/
 Const iterator type.
 
 ```cpp
-vector_t::const_iterator System::Array< T >::const_iterator
+typedef vector_t::const_iterator System::Array< T >::const_iterator
 ```
 
 ## See Also

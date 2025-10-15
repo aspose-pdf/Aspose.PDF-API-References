@@ -22,7 +22,7 @@ System::Xml::Schema::XmlSchemaValidator::XmlSchemaValidator(const SharedPtr<XmlN
 | nameTable | const SharedPtr\<XmlNameTable\>\& | An [XmlNameTable](../../../system.xml/xmlnametable/) object containing element and attribute names as atomized strings. |
 | schemas | const SharedPtr\<XmlSchemaSet\>\& | An [XmlSchemaSet](../../xmlschemaset/) object containing the XML [Schema](../../) Definition Language (XSD) schemas used for validation. |
 | namespaceResolver | const SharedPtr\<IXmlNamespaceResolver\>\& | An [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/) object used for resolving namespaces encountered during validation. |
-| validationFlags | XmlSchemaValidationFlags | An XmlSchemaValidationFlags value specifying schema validation options. |
+| validationFlags | XmlSchemaValidationFlags | An [XmlSchemaValidationFlags](../../xmlschemavalidationflags/) value specifying schema validation options. |
 
 ## See Also
 

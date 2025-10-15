@@ -19,7 +19,7 @@ T System::Collections::Generic::List<T>::FindLast(System::Predicate<T> match)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

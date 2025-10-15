@@ -13,7 +13,7 @@ url: /cpp/system.text/encoding/ptr/
 RTTI.
 
 ```cpp
-System::SharedPtr<Encoding> System::Text::Encoding::Ptr
+typedef System::SharedPtr<Encoding> System::Text::Encoding::Ptr
 ```
 
 ## Remarks

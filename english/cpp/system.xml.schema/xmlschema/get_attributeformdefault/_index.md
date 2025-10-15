@@ -19,7 +19,7 @@ XmlSchemaForm System::Xml::Schema::XmlSchema::get_AttributeFormDefault()
 
 ### ReturnValue
 
-The XmlSchemaForm value that indicates if attributes from the target namespace are required to be qualified with the namespace prefix. The default is [XmlSchemaForm::None](../../xmlschemaform/).
+The [XmlSchemaForm](../../xmlschemaform/) value that indicates if attributes from the target namespace are required to be qualified with the namespace prefix. The default is [XmlSchemaForm::None](../../xmlschemaform/).
 
 ## See Also
 

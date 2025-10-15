@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/ienumerableptr/
 Collection of same elements.
 
 ```cpp
-SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::SortedDictionary< TKey, TValue >::IEnumerablePtr
+typedef SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::SortedDictionary< TKey, TValue >::IEnumerablePtr
 ```
 
 ## See Also

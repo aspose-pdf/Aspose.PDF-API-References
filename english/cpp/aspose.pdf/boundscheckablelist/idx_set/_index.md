@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/idx_set/
 Sets paragraph from or to collection.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::idx_set(int32_t index, T value) override
+void Aspose::Pdf::BoundsCheckableList<T>::idx_set(int32_t index, T value) override
 ```
 
 

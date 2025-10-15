@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/type/
 ## SmartPtr::Type method
 
 
-Shortcut to get [System::TypeInfo](../../typeinfo/) object for the Pointee_ type.
+Shortcut to get [System::TypeInfo](../../typeinfo/) object for the [Pointee_](../pointee_/) type.
 
 ```cpp
 static const System::TypeInfo & System::SmartPtr<T>::Type()
@@ -19,7 +19,7 @@ static const System::TypeInfo & System::SmartPtr<T>::Type()
 
 ### ReturnValue
 
-Const reference to [TypeInfo](../../typeinfo/) structure which describes Pointee_ type.
+Const reference to [TypeInfo](../../typeinfo/) structure which describes [Pointee_](../pointee_/) type.
 
 ## See Also
 

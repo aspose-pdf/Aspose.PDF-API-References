@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography/md5/ptr/
 RTTI information.
 
 ```cpp
-SharedPtr<MD5> System::Security::Cryptography::MD5::ptr
+typedef SharedPtr<MD5> System::Security::Cryptography::MD5::ptr
 ```
 
 ## Remarks

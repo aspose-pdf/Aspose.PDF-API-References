@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschematype/get_typecode/
 ## XmlSchemaType::get_TypeCode method
 
 
-Returns the XmlTypeCode of the type.
+Returns the [XmlTypeCode](../../xmltypecode/) of the type.
 
 ```cpp
 XmlTypeCode System::Xml::Schema::XmlSchemaType::get_TypeCode()
@@ -19,7 +19,7 @@ XmlTypeCode System::Xml::Schema::XmlSchemaType::get_TypeCode()
 
 ### ReturnValue
 
-One of the XmlTypeCode values.
+One of the [XmlTypeCode](../../xmltypecode/) values.
 
 ## See Also
 

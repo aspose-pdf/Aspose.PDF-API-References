@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/_valuecollection/tvalue/
 Value type.
 
 ```cpp
-Dict::map_t::mapped_type System::Collections::Generic::_ValueCollection< Dict >::TValue
+typedef Dict::map_t::mapped_type System::Collections::Generic::_ValueCollection< Dict >::TValue
 ```
 
 ## See Also

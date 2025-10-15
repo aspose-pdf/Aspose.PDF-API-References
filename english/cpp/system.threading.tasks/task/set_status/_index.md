@@ -4,7 +4,7 @@ linktitle: set_Status
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::set_Status method. Sets the task status in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.threading.tasks/task/set_status/
 ---
 ## Task::set_Status method

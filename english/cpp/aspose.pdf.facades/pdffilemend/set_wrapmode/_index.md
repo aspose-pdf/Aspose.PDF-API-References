@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilemend/set_wrapmode/
 ## PdfFileMend::set_WrapMode method
 
 
-Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap.
+Sets or gets word wrapping algorithm. See [WordWrapMode](../../wordwrapmode/) and IsWordWrap.
 
 ```cpp
 void Aspose::Pdf::Facades::PdfFileMend::set_WrapMode(WordWrapMode value)

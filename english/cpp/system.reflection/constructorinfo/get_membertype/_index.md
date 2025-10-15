@@ -10,7 +10,7 @@ url: /cpp/system.reflection/constructorinfo/get_membertype/
 ## ConstructorInfo::get_MemberType method
 
 
-Gets a MemberTypes value indicating that this member is a constructor.
+Gets a [MemberTypes](../../membertypes/) value indicating that this member is a constructor.
 
 ```cpp
 virtual MemberTypes System::Reflection::ConstructorInfo::get_MemberType() const override

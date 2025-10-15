@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/clear/
 Removes all elements from the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::Clear() override
+void Aspose::Pdf::BoundsCheckableList<T>::Clear() override
 ```
 
 ## See Also

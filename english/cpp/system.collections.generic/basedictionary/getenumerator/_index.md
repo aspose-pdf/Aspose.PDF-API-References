@@ -19,7 +19,7 @@ SharedPtr<IEnumerator<KeyValuePair<key_t, mapped_t>>> System::Collections::Gener
 
 ### ReturnValue
 
-Enumerator bound to this object.
+[Enumerator](../../baseset/) bound to this object.
 
 ## See Also
 

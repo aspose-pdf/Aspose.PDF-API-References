@@ -4,7 +4,7 @@ linktitle: Ref
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Ref method. Wrapper to make sure Ref(std::ref(DynamicWeakPtr)) works in C++.'
 type: docs
-weight: 34500
+weight: 35400
 url: /cpp/system/ref/
 ---
 ## System::Ref(const std::reference_wrapper\<T\>\&) method

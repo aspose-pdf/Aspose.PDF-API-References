@@ -4,7 +4,7 @@ linktitle: IsNullOrWhiteSpace
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::IsNullOrWhiteSpace method. Indicates whether a specified string is null, empty, or consists only of white-space characters in C++.'
 type: docs
-weight: 7000
+weight: 7100
 url: /cpp/system/string/isnullorwhitespace/
 ---
 ## String::IsNullOrWhiteSpace method

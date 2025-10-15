@@ -30,7 +30,7 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateWhitespace(const String &e
 ## XmlSchemaValidator::ValidateWhitespace(XmlValueGetter) method
 
 
-Validates whether the white space returned by the XmlValueGetter object specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content.
+Validates whether the white space returned by the [XmlValueGetter](../../xmlvaluegetter/) object specified is allowed in the current element context, and accumulates the white space for validation if the current element has simple content.
 
 ```cpp
 void System::Xml::Schema::XmlSchemaValidator::ValidateWhitespace(XmlValueGetter elementValue)
@@ -39,7 +39,7 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateWhitespace(XmlValueGetter 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elementValue | XmlValueGetter | An XmlValueGetter callback used to pass the white space value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
+| elementValue | XmlValueGetter | An [XmlValueGetter](../../xmlvaluegetter/) callback used to pass the white space value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
 
 ## See Also
 

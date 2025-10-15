@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/map_t/
 Internal map type.
 
 ```cpp
-Map System::Collections::Generic::BaseDictionary< Map >::map_t
+typedef Map System::Collections::Generic::BaseDictionary< Map >::map_t
 ```
 
 ## See Also

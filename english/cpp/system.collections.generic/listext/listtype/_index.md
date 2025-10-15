@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/listext/listtype/
 
 
 ```cpp
-System::Collections::Generic::List<T> System::Collections::Generic::ListExt< T >::ListType
+typedef System::Collections::Generic::List<T> System::Collections::Generic::ListExt< T >::ListType
 ```
 
 ## See Also

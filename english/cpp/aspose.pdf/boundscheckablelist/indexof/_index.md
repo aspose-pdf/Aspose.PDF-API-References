@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/indexof/
 Searches for the specified object and returns the zero-based index of the first occurrence within the entire [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-int32_t Aspose::Pdf::BoundsCheckableList<typename>::IndexOf(const T &item) const override
+int32_t Aspose::Pdf::BoundsCheckableList<T>::IndexOf(const T &item) const override
 ```
 
 

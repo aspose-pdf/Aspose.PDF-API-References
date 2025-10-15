@@ -10,7 +10,7 @@ url: /cpp/system.io/filenotfoundexception/
 ## FileNotFoundException typedef
 
 
-The exception that is thrown when an attempt to access a file that does not exist on disk fails. Never wrap the FileNotFoundException class instances into [System::SmartPtr](../../system/smartptr/).
+The exception that is thrown when an attempt to access a file that does not exist on disk fails. Never wrap the [FileNotFoundException](./) class instances into [System::SmartPtr](../../system/smartptr/).
 
 ```cpp
 using System::IO::FileNotFoundException =  System::ExceptionWrapper<Details_FileNotFoundException>

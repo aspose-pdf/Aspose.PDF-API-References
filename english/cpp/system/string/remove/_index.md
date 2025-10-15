@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::Remove method. Extracts everything but substring from current string in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/system/string/remove/
 ---
 ## String::Remove method

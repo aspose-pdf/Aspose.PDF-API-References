@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionaryptr/
 [Dictionary](../dictionary/) pointer class with operator overloads. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-template<typename T,typename V>class DictionaryPtr : public System::SmartPtr<Dictionary<T, V>>
+template<typename T,typename V>class DictionaryPtr : public System::SmartPtr<T0>
 ```
 
 

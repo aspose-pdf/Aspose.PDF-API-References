@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/ienumeratorptr/
 Pointer to enumerator.
 
 ```cpp
-SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::Dictionary< TKey, TValue >::IEnumeratorPtr
+typedef SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::Dictionary< TKey, TValue >::IEnumeratorPtr
 ```
 
 ## See Also

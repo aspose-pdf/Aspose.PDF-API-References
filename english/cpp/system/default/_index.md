@@ -4,7 +4,7 @@ linktitle: Default
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Default method. Returns the reference to the single default-constructed instance of the exception type in C++.'
 type: docs
-weight: 15700
+weight: 16100
 url: /cpp/system/default/
 ---
 ## System::Default() method

@@ -23,7 +23,7 @@ class TextState : public System::Object
 | virtual [ApplyChangesFrom](./applychangesfrom/)(System::SharedPtr\<TextState\>) | Applies settings from another textState. |
 | virtual [get_BackgroundColor](./get_backgroundcolor/)() | Sets background color of the text. |
 | virtual [get_CharacterSpacing](./get_characterspacing/)() | Gets character spacing of the text. |
-| virtual [get_CoordinateOrigin](./get_coordinateorigin/)() | Gets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering. |
+| virtual [get_CoordinateOrigin](./get_coordinateorigin/)() | Gets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |
 | virtual [get_Font](./get_font/)() | Gets font of the text. |
 | virtual [get_FontSize](./get_fontsize/)() | Gets font size of the text. |
 | virtual [get_FontStyle](./get_fontstyle/)() | Sets font style of the text. |
@@ -44,7 +44,7 @@ class TextState : public System::Object
 | virtual [MeasureString](./measurestring/)(System::String) | Measures the string. |
 | virtual [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets background color of the text. |
 | virtual [set_CharacterSpacing](./set_characterspacing/)(float) | Sets character spacing of the text. |
-| virtual [set_CoordinateOrigin](./set_coordinateorigin/)(Aspose::Pdf::Text::CoordinateOrigin) | Sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering. |
+| virtual [set_CoordinateOrigin](./set_coordinateorigin/)(Aspose::Pdf::Text::CoordinateOrigin) | Sets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |
 | virtual [set_Font](./set_font/)(System::SharedPtr\<Aspose::Pdf::Text::Font\>) | Sets font of the text. |
 | virtual [set_FontSize](./set_fontsize/)(float) | Sets font size of the text. |
 | virtual [set_FontStyle](./set_fontstyle/)(FontStyles) | Sets font style of the text. |

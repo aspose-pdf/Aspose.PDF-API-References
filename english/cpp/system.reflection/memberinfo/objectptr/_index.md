@@ -13,7 +13,7 @@ url: /cpp/system.reflection/memberinfo/objectptr/
 Alias for a shared pointer to [Object](../../../system/object/).
 
 ```cpp
-SharedPtr<Object> System::Reflection::MemberInfo::ObjectPtr
+typedef SharedPtr<Object> System::Reflection::MemberInfo::ObjectPtr
 ```
 
 ## See Also

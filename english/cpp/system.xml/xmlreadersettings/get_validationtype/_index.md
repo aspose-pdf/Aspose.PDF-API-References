@@ -19,7 +19,7 @@ System::Xml::ValidationType System::Xml::XmlReaderSettings::get_ValidationType()
 
 ### ReturnValue
 
-One of the ValidationType values that indicates whether [XmlReader](../../xmlreader/) will perform validation or type assignment when reading. The default is [ValidationType::None](../../validationtype/).
+One of the [ValidationType](../../validationtype/) values that indicates whether [XmlReader](../../xmlreader/) will perform validation or type assignment when reading. The default is [ValidationType::None](../../validationtype/).
 
 ## See Also
 

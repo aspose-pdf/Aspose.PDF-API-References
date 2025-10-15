@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/stack/stack_t/
 RTTI information.
 
 ```cpp
-std::list<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::Stack< T >::stack_t
+typedef std::list<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::Stack< T >::stack_t
 ```
 
 ## Remarks

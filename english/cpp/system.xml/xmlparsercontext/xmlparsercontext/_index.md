@@ -27,7 +27,7 @@ System::Xml::XmlParserContext::XmlParserContext(const SharedPtr<XmlNameTable> &n
 | internalSubset | const String\& | The internal DTD subset. The DTD subset is used for entity resolution, not for document validation. |
 | baseURI | const String\& | The base URI for the XML fragment (the location from which the fragment was loaded). |
 | xmlLang | const String\& | The **xml:lang** scope. |
-| xmlSpace | System::Xml::XmlSpace | An XmlSpace value indicating the **xml:space** scope. |
+| xmlSpace | System::Xml::XmlSpace | An [XmlSpace](../../xmlspace/) value indicating the **xml:space** scope. |
 
 ## See Also
 
@@ -59,7 +59,7 @@ System::Xml::XmlParserContext::XmlParserContext(const SharedPtr<XmlNameTable> &n
 | internalSubset | const String\& | The internal DTD subset. The DTD is used for entity resolution, not for document validation. |
 | baseURI | const String\& | The base URI for the XML fragment (the location from which the fragment was loaded). |
 | xmlLang | const String\& | The **xml:lang** scope. |
-| xmlSpace | System::Xml::XmlSpace | An XmlSpace value indicating the **xml:space** scope. |
+| xmlSpace | System::Xml::XmlSpace | An [XmlSpace](../../xmlspace/) value indicating the **xml:space** scope. |
 | enc | const SharedPtr\<System::Text::Encoding\>\& | An Encoding object indicating the encoding setting. |
 
 ## See Also
@@ -88,7 +88,7 @@ System::Xml::XmlParserContext::XmlParserContext(const SharedPtr<XmlNameTable> &n
 | nt | const SharedPtr\<XmlNameTable\>\& | The [XmlNameTable](../../xmlnametable/) to use to atomize strings. If this is **nullptr**, the name table used to construct the **nsMgr** is used instead. For more information about atomized strings, see [XmlNameTable](../../xmlnametable/). |
 | nsMgr | const SharedPtr\<XmlNamespaceManager\>\& | The [XmlNamespaceManager](../../xmlnamespacemanager/) to use for looking up namespace information, or **nullptr**. |
 | xmlLang | const String\& | The **xml:lang** scope. |
-| xmlSpace | System::Xml::XmlSpace | An XmlSpace value indicating the **xml:space** scope. |
+| xmlSpace | System::Xml::XmlSpace | An [XmlSpace](../../xmlspace/) value indicating the **xml:space** scope. |
 
 ## See Also
 
@@ -115,7 +115,7 @@ System::Xml::XmlParserContext::XmlParserContext(const SharedPtr<XmlNameTable> &n
 | nt | const SharedPtr\<XmlNameTable\>\& | The [XmlNameTable](../../xmlnametable/) to use to atomize strings. If this is **nullptr**, the name table used to construct the **nsMgr** is used instead. For more information on atomized strings, see [XmlNameTable](../../xmlnametable/). |
 | nsMgr | const SharedPtr\<XmlNamespaceManager\>\& | The [XmlNamespaceManager](../../xmlnamespacemanager/) to use for looking up namespace information, or **nullptr**. |
 | xmlLang | const String\& | The **xml:lang** scope. |
-| xmlSpace | System::Xml::XmlSpace | An XmlSpace value indicating the **xml:space** scope. |
+| xmlSpace | System::Xml::XmlSpace | An [XmlSpace](../../xmlspace/) value indicating the **xml:space** scope. |
 | enc | const SharedPtr\<System::Text::Encoding\>\& | An Encoding object indicating the encoding setting. |
 
 ## See Also

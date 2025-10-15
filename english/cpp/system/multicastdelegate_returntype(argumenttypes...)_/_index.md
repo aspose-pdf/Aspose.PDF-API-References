@@ -27,7 +27,7 @@ template<class ReturnType,class...>class MulticastDelegate< ReturnType(ArgumentT
 | --- | --- |
 | [BeginInvoke](./begininvoke/)(ArgumentTypes..., const AsyncCallback\&, const CallbackArgumentType\&) | NOT IMPLEMENTED. |
 | [connect](./connect/)(Callback) | Adds the specified delegate to the collection. |
-| [connect](./connect/)(std::function\<R(Args...)>) | Adds the specified function object to the delegate collection. The function object is converted to the Callback delegate type before being added to the collection. |
+| [connect](./connect/)(std::function\<R(Args...)>) | Adds the specified function object to the delegate collection. The function object is converted to the [Callback](./callback/) delegate type before being added to the collection. |
 | [connect](./connect/)(MulticastDelegate\&) | Adds the specified MulticastDelegate object to the delegate collection. |
 | [connect](./connect/)(MemberType ClassType::*, ClassType *) | Adds the specified non-static method of the specified object to the delegate collection. |
 | [connect](./connect/)(MemberType ClassType::*, const SharedPtr\<ClassType\>\&) | Adds the specified non-static method of the specified object to the delegate collection. |

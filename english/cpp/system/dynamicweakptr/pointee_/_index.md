@@ -13,7 +13,7 @@ url: /cpp/system/dynamicweakptr/pointee_/
 Pointed type.
 
 ```cpp
-T System::SmartPtr< T >::Pointee_
+typedef T System::SmartPtr< T >::Pointee_
 ```
 
 ## See Also

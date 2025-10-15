@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.security/validationoptions/get_validationmode/
 ## ValidationOptions::get_ValidationMode method
 
 
-Gets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictness of the validation process.
+Gets the mode of validation for digital signatures in a PDF document. The [ValidationMode](../../validationmode/) property determines the strictness of the validation process.
 
 ```cpp
 Aspose::Pdf::Security::ValidationMode Aspose::Pdf::Security::ValidationOptions::get_ValidationMode() const

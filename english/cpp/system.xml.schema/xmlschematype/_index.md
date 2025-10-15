@@ -29,7 +29,7 @@ class XmlSchemaType : public System::Xml::Schema::XmlSchemaAnnotated
 | virtual [get_IsMixed](./get_ismixed/)() | Returns a value indicating if this type has a mixed content model. This call is only valid in a complex type. |
 | [get_Name](./get_name/)() | Returns the name of the type. |
 | [get_QualifiedName](./get_qualifiedname/)() | Returns the qualified name for the type built from the **Name** attribute of this type. This is a post-schema-compilation value. |
-| [get_TypeCode](./get_typecode/)() | Returns the XmlTypeCode of the type. |
+| [get_TypeCode](./get_typecode/)() | Returns the [XmlTypeCode](../xmltypecode/) of the type. |
 | static [GetBuiltInComplexType](./getbuiltincomplextype/)(XmlTypeCode) | Returns an [XmlSchemaComplexType](../xmlschemacomplextype/) that represents the built-in complex type of the complex type specified. |
 | static [GetBuiltInComplexType](./getbuiltincomplextype/)(const SharedPtr\<XmlQualifiedName\>\&) | Returns an [XmlSchemaComplexType](../xmlschemacomplextype/) that represents the built-in complex type of the complex type specified by qualified name. |
 | static [GetBuiltInSimpleType](./getbuiltinsimpletype/)(const SharedPtr\<XmlQualifiedName\>\&) | Returns an [XmlSchemaSimpleType](../xmlschemasimpletype/) that represents the built-in simple type of the simple type that is specified by the qualified name. |

@@ -13,7 +13,7 @@ url: /cpp/system.threading.tasks/resulttask/get_result/
 Gets the result of the asynchronous operation.
 
 ```cpp
-T System::Threading::Tasks::ResultTask<T>::get_Result()
+T System::Threading::Tasks::ResultTask<T>::get_Result() const
 ```
 
 

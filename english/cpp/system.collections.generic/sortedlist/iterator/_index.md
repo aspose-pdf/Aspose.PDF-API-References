@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/iterator/
 Iterator type.
 
 ```cpp
-_BaseType::iterator System::Collections::Generic::SortedList< TKey, TValue >::iterator
+typedef _BaseType::iterator System::Collections::Generic::SortedList< TKey, TValue >::iterator
 ```
 
 ## See Also

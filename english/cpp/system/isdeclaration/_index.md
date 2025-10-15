@@ -4,7 +4,7 @@ linktitle: IsDeclaration
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IsDeclaration method. Implements ''is'' declaration pattern translation in C++.'
 type: docs
-weight: 20700
+weight: 21400
 url: /cpp/system/isdeclaration/
 ---
 ## System::IsDeclaration method

@@ -60,7 +60,7 @@ The operation result. If there are no images in the document returns [false](../
 ## Document::Convert(Fixup, System::SharedPtr\<System::IO::Stream\>, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) method
 
 
-Convert document by applying the Fixup.
+Convert document by applying the [Fixup](../../fixup/).
 
 ```cpp
 bool Aspose::Pdf::Document::Convert(Fixup fixup, System::SharedPtr<System::IO::Stream> outputLog, bool onlyValidation=false, System::ArrayPtr<System::SharedPtr<System::Object>> parameters=nullptr)
@@ -69,10 +69,10 @@ bool Aspose::Pdf::Document::Convert(Fixup fixup, System::SharedPtr<System::IO::S
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
+| fixup | Fixup | The [Fixup](../../fixup/) type. |
 | outputLog | System::SharedPtr\<System::IO::Stream\> | The log of process. |
 | onlyValidation | bool | Only document validation. |
-| parameters | System::ArrayPtr\<System::SharedPtr\<System::Object\>\> | Properties for Fixup that can not be set. |
+| parameters | System::ArrayPtr\<System::SharedPtr\<System::Object\>\> | Properties for [Fixup](../../fixup/) that can not be set. |
 
 ### ReturnValue
 
@@ -91,7 +91,7 @@ The operation result.
 ## Document::Convert(Fixup, System::String, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) method
 
 
-Convert document by applying the Fixup.
+Convert document by applying the [Fixup](../../fixup/).
 
 ```cpp
 bool Aspose::Pdf::Document::Convert(Fixup fixup, System::String outputLog, bool onlyValidation=false, System::ArrayPtr<System::SharedPtr<System::Object>> parameters=nullptr)
@@ -100,10 +100,10 @@ bool Aspose::Pdf::Document::Convert(Fixup fixup, System::String outputLog, bool 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
+| fixup | Fixup | The [Fixup](../../fixup/) type. |
 | outputLog | System::String | The log of process. |
 | onlyValidation | bool | Only document validation. |
-| parameters | System::ArrayPtr\<System::SharedPtr\<System::Object\>\> | Properties for Fixup that can not be set. |
+| parameters | System::ArrayPtr\<System::SharedPtr\<System::Object\>\> | Properties for [Fixup](../../fixup/) that can not be set. |
 
 ### ReturnValue
 

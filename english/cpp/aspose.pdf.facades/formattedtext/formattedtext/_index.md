@@ -250,7 +250,7 @@ Aspose::Pdf::Facades::FormattedText::FormattedText(System::String text, System::
 | text | System::String | [Text](../../../aspose.pdf.text/) content of the string. |
 | fontColor | System::SharedPtr\<FontColor\> | [Color](../../../aspose.pdf/color/) of the text. |
 | fontStyle | FontStyle | Style of the text. |
-| encodingType | EncodingType | Encoding type (value of EncodingType enumeration). |
+| encodingType | EncodingType | Encoding type (value of [EncodingType](../../encodingtype/) enumeration). |
 | embedded | bool | True if the font will be embedded. |
 | textSize | float | Size of the text. |
 

@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmltextwriter/get_xmlspace/
 ## XmlTextWriter::get_XmlSpace method
 
 
-Returns an XmlSpace representing the current **xml:space** scope.
+Returns an [XmlSpace](../../xmlspace/) representing the current **xml:space** scope.
 
 ```cpp
 System::Xml::XmlSpace System::Xml::XmlTextWriter::get_XmlSpace() override
@@ -19,7 +19,7 @@ System::Xml::XmlSpace System::Xml::XmlTextWriter::get_XmlSpace() override
 
 ### ReturnValue
 
-An XmlSpace representing the current **xml:space** scope.
+An [XmlSpace](../../xmlspace/) representing the current **xml:space** scope.
 
 |||
 |-|-|

@@ -109,7 +109,7 @@ A string representation of the [DateTime](../../../system/datetime/) in the spec
 ## XmlConvert::ToString(DateTime, XmlDateTimeSerializationMode) method
 
 
-Converts the [DateTime](../../../system/datetime/) to a [String](../../../system/string/) using the XmlDateTimeSerializationMode specified.
+Converts the [DateTime](../../../system/datetime/) to a [String](../../../system/string/) using the [XmlDateTimeSerializationMode](../../xmldatetimeserializationmode/) specified.
 
 ```cpp
 static String System::Xml::XmlConvert::ToString(DateTime value, XmlDateTimeSerializationMode dateTimeOption)
@@ -119,7 +119,7 @@ static String System::Xml::XmlConvert::ToString(DateTime value, XmlDateTimeSeria
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | DateTime | The [DateTime](../../../system/datetime/) value to convert. |
-| dateTimeOption | XmlDateTimeSerializationMode | One of the XmlDateTimeSerializationMode values that specify how to treat the [DateTime](../../../system/datetime/) value. |
+| dateTimeOption | XmlDateTimeSerializationMode | One of the [XmlDateTimeSerializationMode](../../xmldatetimeserializationmode/) values that specify how to treat the [DateTime](../../../system/datetime/) value. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/system.net.sockets/socket/implptr/
 The socket implementation.
 
 ```cpp
-std::shared_ptr<System::Details::socket_impl> System::Net::Sockets::Socket::ImplPtr
+typedef std::shared_ptr<System::Details::socket_impl> System::Net::Sockets::Socket::ImplPtr
 ```
 
 ## See Also

@@ -19,7 +19,7 @@ virtual TypeCode System::BoxedValueBase::GetTypeCode() const =0
 
 ### ReturnValue
 
-Value of TypeCode enum representing the type of the boxed value represented by the current object
+Value of [TypeCode](../../typecode/) enum representing the type of the boxed value represented by the current object
 
 ## See Also
 

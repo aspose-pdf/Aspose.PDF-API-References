@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/iterator/
 Iterator type.
 
 ```cpp
-KVPairIterator<KVPair, Map> System::Collections::Generic::BaseDictionary< Map >::iterator
+typedef KVPairIterator<KVPair, Map> System::Collections::Generic::BaseDictionary< Map >::iterator
 ```
 
 ## See Also

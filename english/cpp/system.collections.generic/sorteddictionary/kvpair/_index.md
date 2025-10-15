@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/kvpair/
 Key-value pair type.
 
 ```cpp
-KeyValuePair<TKey, TValue> System::Collections::Generic::SortedDictionary< TKey, TValue >::KVPair
+typedef KeyValuePair<TKey, TValue> System::Collections::Generic::SortedDictionary< TKey, TValue >::KVPair
 ```
 
 ## See Also

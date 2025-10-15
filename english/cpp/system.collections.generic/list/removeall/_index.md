@@ -19,7 +19,7 @@ int System::Collections::Generic::List<T>::RemoveAll(Predicate<T> match)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| match | Predicate\<T\> | Predicate to check elements with. |
+| match | Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

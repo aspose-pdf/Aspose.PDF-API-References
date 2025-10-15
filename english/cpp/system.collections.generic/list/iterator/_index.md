@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/iterator/
 Iterator type.
 
 ```cpp
-vector_t::iterator System::Collections::Generic::List< T >::iterator
+typedef vector_t::iterator System::Collections::Generic::List< T >::iterator
 ```
 
 ## See Also

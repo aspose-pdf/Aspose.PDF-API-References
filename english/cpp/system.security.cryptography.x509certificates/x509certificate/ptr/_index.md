@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography.x509certificates/x509certificate/ptr/
 Pointer type.
 
 ```cpp
-SharedPtr<X509Certificate> System::Security::Cryptography::X509Certificates::X509Certificate::Ptr
+typedef SharedPtr<X509Certificate> System::Security::Cryptography::X509Certificates::X509Certificate::Ptr
 ```
 
 ## See Also

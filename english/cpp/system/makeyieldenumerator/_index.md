@@ -4,7 +4,7 @@ linktitle: MakeYieldEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeYieldEnumerator method. Creates an IEnumerator from a yield function in C++.'
 type: docs
-weight: 23300
+weight: 24200
 url: /cpp/system/makeyieldenumerator/
 ---
 ## System::MakeYieldEnumerator method

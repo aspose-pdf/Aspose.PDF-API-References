@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/const_iterator/
 Const iterator type.
 
 ```cpp
-_BaseType::const_iterator System::Collections::Generic::SortedList< TKey, TValue >::const_iterator
+typedef _BaseType::const_iterator System::Collections::Generic::SortedList< TKey, TValue >::const_iterator
 ```
 
 ## See Also

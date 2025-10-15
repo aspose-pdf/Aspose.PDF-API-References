@@ -10,7 +10,7 @@ url: /cpp/system/exceptionwrapper/
 ## ExceptionWrapper class
 
 
-Template that represents wrapper of exceptions that are derived from Exception class.
+Template that represents wrapper of exceptions that are derived from [Exception](../exception/) class.
 
 ```cpp
 template<typename T>class ExceptionWrapper
@@ -24,14 +24,14 @@ template<typename T>class ExceptionWrapper
 | [ExceptionWrapper](./exceptionwrapper/)(const ExceptionPtr\&) | Constructs a instance of [ExceptionWrapper](./) class that contains passed pointer. |
 | [ExceptionWrapper](./exceptionwrapper/)(const ExceptionWrapper\&) | Copy constructor. |
 | [ExceptionWrapper](./exceptionwrapper/)(ExceptionWrapper\&&) | Move constructor. |
-| explicit [ExceptionWrapper](./exceptionwrapper/)(Args\&&...) | Constructor that forwards parameters to the Exception class constructors and creates smart pointer that holds new Exception class instance. |
+| explicit [ExceptionWrapper](./exceptionwrapper/)(Args\&&...) | Constructor that forwards parameters to the [Exception](../exception/) class constructors and creates smart pointer that holds new [Exception](../exception/) class instance. |
 | static [operator new](./operatornew/)(std::size_t) |  |
 | static [operator new[]](./operatornew[]/)(std::size_t) |  |
-| [operator SharedPtr< Object >](./operatorsharedptr_object_/)() | Implicit cast operator to SharedPtr<Object> |
-| [operator->](./operator-_/)() const | Allows to access members of the Exception object. |
+| [operator SharedPtr< Object >](./operatorsharedptr_object_/)() | Implicit cast operator to [SharedPtr<Object>](../sharedptr/) |
+| [operator->](./operator-_/)() const | Allows to access members of the [Exception](../exception/) object. |
 | [operator=](./operator=/)(const ExceptionWrapper\&) | Assignment operator. |
 | [operator=](./operator=/)(ExceptionWrapper\&&) | Move assignment operator. |
-| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the Exception type. |
+| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the [Exception](../exception/) type. |
 ## Typedefs
 
 | Typedef | Description |

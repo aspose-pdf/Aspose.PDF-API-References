@@ -4,7 +4,7 @@ linktitle: setter_exor_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_exor_wrap method of  class in C++.'
 type: docs
-weight: 36400
+weight: 37300
 url: /cpp/system/setter_exor_wrap/
 ---
 ## System::setter_exor_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/queue/valuetype/
 This type.
 
 ```cpp
-T System::Collections::Generic::Queue< T >::ValueType
+typedef T System::Collections::Generic::Queue< T >::ValueType
 ```
 
 ## See Also

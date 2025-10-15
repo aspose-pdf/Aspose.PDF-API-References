@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/ilist/valuetype/
 Value type.
 
 ```cpp
-T System::Collections::Generic::IList< T >::ValueType
+typedef T System::Collections::Generic::IList< T >::ValueType
 ```
 
 ## See Also

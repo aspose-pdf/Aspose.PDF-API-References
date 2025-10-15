@@ -4,13 +4,13 @@ linktitle: DynamicCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DynamicCast method. Performs dynamic cast on Exception objects in C++.'
 type: docs
-weight: 16400
+weight: 16800
 url: /cpp/system/dynamiccast/
 ---
 ## System::DynamicCast(const TFrom\&) method
 
 
-Performs dynamic cast on Exception objects.
+Performs dynamic cast on [Exception](../exception/) objects.
 
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::value &&IsExceptionWrapper<TTo>::value &&(std::is_convertible<TTo, TFrom>::value||std::is_base_of<TTo, TFrom>::value), TTo>::type System::DynamicCast(const TFrom &obj)
@@ -19,8 +19,8 @@ template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
-| TFrom | Source Exception type. |
+| TTo | Target [Exception](../exception/) type. |
+| TFrom | Source [Exception](../exception/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Left for backwards compatibility. Use ExplicitCast instead.
 ## System::DynamicCast(SmartPtr\<TFrom\>) method
 
 
-Performs dynamic cast on Objects to Exception objects.
+Performs dynamic cast on Objects to [Exception](../exception/) objects.
 
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object, TFrom>::value &&IsExceptionWrapper<TTo>::value, TTo>::type System::DynamicCast(SmartPtr<TFrom> obj)
@@ -111,7 +111,7 @@ template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
+| TTo | Target [Exception](../exception/) type. |
 | TFrom | [Object](../object/) type. |
 
 | Parameter | Type | Description |

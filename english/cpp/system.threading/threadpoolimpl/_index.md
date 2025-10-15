@@ -4,7 +4,7 @@ linktitle: ThreadPoolImpl
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::ThreadPoolImpl class. Thread pool internal data. This is a singleton type with memory management done by access function(s). You should never create instances of it directly in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.threading/threadpoolimpl/
 ---
 ## ThreadPoolImpl class

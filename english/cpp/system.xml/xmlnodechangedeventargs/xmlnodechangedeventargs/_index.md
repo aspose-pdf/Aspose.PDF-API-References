@@ -24,7 +24,7 @@ System::Xml::XmlNodeChangedEventArgs::XmlNodeChangedEventArgs(const SharedPtr<Xm
 | newParent | const SharedPtr\<XmlNode\>\& | The new parent [XmlNode](../../xmlnode/) of the [XmlNode](../../xmlnode/) that generated the event. |
 | oldValue | const String\& | The old value of the [XmlNode](../../xmlnode/) that generated the event. |
 | newValue | const String\& | The new value of the [XmlNode](../../xmlnode/) that generated the event. |
-| action | XmlNodeChangedAction | The XmlNodeChangedAction. |
+| action | XmlNodeChangedAction | The [XmlNodeChangedAction](../../xmlnodechangedaction/). |
 
 ## See Also
 

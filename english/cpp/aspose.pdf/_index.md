@@ -37,7 +37,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [CgmLoadOptions](./cgmloadoptions/) | Contains options for loading/importing CGM file into pdf document. |
 | [Collection](./collection/) | Represents class for [Collection](./collection/)(12.3.5 [Collections](../aspose.pdf.collections/)). |
 | [CollectionField](./collectionfield/) | Represents a document collection schema field class. |
-| [CollectionFieldSubtypeConverter](./collectionfieldsubtypeconverter/) | Represents a class for converting CollectionFieldSubtype values. |
+| [CollectionFieldSubtypeConverter](./collectionfieldsubtypeconverter/) | Represents a class for converting [CollectionFieldSubtype](./collectionfieldsubtype/) values. |
 | [CollectionItem](./collectionitem/) | Represents a collection item class. The collection item contains the data described by the collection schema. |
 | [CollectionSchema](./collectionschema/) | Represents a class that describes the "Schema" of a document collection. |
 | [CollectionSort](./collectionsort/) | Represents a class for a collection sort definition. |
@@ -249,7 +249,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [FieldSerializationStatus](./fieldserializationstatus/) | Represents the status of the form field serialization. |
 | [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
-| [Fixup](./fixup/) | This enum represents an type of Fixup. |
+| [Fixup](./fixup/) | This enum represents an type of [Fixup](./fixup/). |
 | [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |
 | [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Represents types of header recognition strategies. |
 | [HeadingStyle](./headingstyle/) | Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings. |

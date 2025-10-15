@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedsetptr/
 Pointer to keep [SortedSet](../sortedset/) references. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-template<typename T>class SortedSetPtr : public System::SmartPtr<SortedSet<T>>
+template<typename T>class SortedSetPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

@@ -13,7 +13,7 @@ url: /cpp/system/object/ptr/
 Alias for smart pointer type.
 
 ```cpp
-SmartPtr<Object> System::Object::ptr
+typedef SmartPtr<Object> System::Object::ptr
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/iset/ienumerableptr/
 RTTI information.
 
 ```cpp
-SharedPtr<IEnumerable<T> > System::Collections::Generic::ISet< T >::IEnumerablePtr
+typedef SharedPtr<IEnumerable<T> > System::Collections::Generic::ISet< T >::IEnumerablePtr
 ```
 
 ## Remarks

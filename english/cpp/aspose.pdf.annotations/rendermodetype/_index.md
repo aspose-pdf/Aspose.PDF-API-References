@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/rendermodetype/
 ## RenderModeType enum
 
 
-Enum RenderModeType: set of render mode types.
+Enum [RenderModeType](./): set of render mode types.
 
 ```cpp
 enum class RenderModeType

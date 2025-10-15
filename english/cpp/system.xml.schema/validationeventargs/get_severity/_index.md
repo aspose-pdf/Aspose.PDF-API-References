@@ -19,7 +19,7 @@ XmlSeverityType System::Xml::Schema::ValidationEventArgs::get_Severity()
 
 ### ReturnValue
 
-An XmlSeverityType value representing the severity of the validation event.
+An [XmlSeverityType](../../xmlseveritytype/) value representing the severity of the validation event.
 
 ## See Also
 

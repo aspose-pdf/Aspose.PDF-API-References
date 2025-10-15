@@ -4,7 +4,7 @@ linktitle: TryGetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::TryGetValue method. Tries to find key in the dictionary and retreives value if found in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/
 ---
 ## PdfXmpMetadata::TryGetValue method

@@ -4,7 +4,7 @@ linktitle: FromAscii
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::FromAscii method. Creates String from ASCII string in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/system/string/fromascii/
 ---
 ## String::FromAscii(const char *) method

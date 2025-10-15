@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/lightingschemetype/
 ## LightingSchemeType enum
 
 
-Enum LightingSchemeType: set of lighting scheme types.
+Enum [LightingSchemeType](./): set of lighting scheme types.
 
 ```cpp
 enum class LightingSchemeType

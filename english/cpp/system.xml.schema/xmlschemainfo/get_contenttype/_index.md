@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschemainfo/get_contenttype/
 ## XmlSchemaInfo::get_ContentType method
 
 
-Returns the XmlSchemaContentType object that corresponds to the content type of this validated XML node.
+Returns the [XmlSchemaContentType](../../xmlschemacontenttype/) object that corresponds to the content type of this validated XML node.
 
 ```cpp
 XmlSchemaContentType System::Xml::Schema::XmlSchemaInfo::get_ContentType()
@@ -19,7 +19,7 @@ XmlSchemaContentType System::Xml::Schema::XmlSchemaInfo::get_ContentType()
 
 ### ReturnValue
 
-An XmlSchemaContentType object.
+An [XmlSchemaContentType](../../xmlschemacontenttype/) object.
 
 ## See Also
 

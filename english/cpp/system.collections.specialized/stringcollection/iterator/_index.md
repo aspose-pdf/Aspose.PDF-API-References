@@ -13,7 +13,7 @@ url: /cpp/system.collections.specialized/stringcollection/iterator/
 Iterator type.
 
 ```cpp
-std::vector<System::String>::iterator System::Collections::Specialized::StringCollection::iterator
+typedef std::vector<System::String>::iterator System::Collections::Specialized::StringCollection::iterator
 ```
 
 ## See Also

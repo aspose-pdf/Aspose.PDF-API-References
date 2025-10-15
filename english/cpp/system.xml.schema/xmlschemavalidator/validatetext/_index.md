@@ -30,7 +30,7 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateText(const String &element
 ## XmlSchemaValidator::ValidateText(XmlValueGetter) method
 
 
-Validates whether the text returned by the XmlValueGetter object specified is allowed in the current element context, and accumulates the text for validation if the current element has simple content.
+Validates whether the text returned by the [XmlValueGetter](../../xmlvaluegetter/) object specified is allowed in the current element context, and accumulates the text for validation if the current element has simple content.
 
 ```cpp
 void System::Xml::Schema::XmlSchemaValidator::ValidateText(XmlValueGetter elementValue)
@@ -39,7 +39,7 @@ void System::Xml::Schema::XmlSchemaValidator::ValidateText(XmlValueGetter elemen
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elementValue | XmlValueGetter | An XmlValueGetter callback used to pass the text value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
+| elementValue | XmlValueGetter | An [XmlValueGetter](../../xmlvaluegetter/) callback used to pass the text value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
 
 ## See Also
 

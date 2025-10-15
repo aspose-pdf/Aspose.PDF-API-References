@@ -124,7 +124,7 @@ template<class T,typename> System::MulticastDelegate<ReturnType(ArgumentTypes...
 
 | Parameter | Description |
 | --- | --- |
-| T | Type of the value to put to the delegate collection of the newly constructed instance; the type must be convertible to Callback type. |
+| T | Type of the value to put to the delegate collection of the newly constructed instance; the type must be convertible to [Callback](../callback/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |

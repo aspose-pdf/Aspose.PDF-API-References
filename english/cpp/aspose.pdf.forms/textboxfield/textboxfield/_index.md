@@ -18,7 +18,7 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField()
 
 
 ## Deprecated
-For full field functionality, a binding to the document is required - use TextBoxField(Document doc)
+For full field functionality, a binding to the document is required - use TextBoxField(Document doc) 
 
 ## See Also
 

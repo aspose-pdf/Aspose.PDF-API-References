@@ -13,7 +13,7 @@ url: /cpp/system.web.ui.webcontrols/datagrid/ptr/
 Self pointer type.
 
 ```cpp
-SharedPtr<DataGrid> System::Web::UI::WebControls::DataGrid::ptr
+typedef SharedPtr<DataGrid> System::Web::UI::WebControls::DataGrid::ptr
 ```
 
 ## See Also

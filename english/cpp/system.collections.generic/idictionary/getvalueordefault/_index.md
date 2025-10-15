@@ -4,7 +4,7 @@ linktitle: GetValueOrDefault
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::GetValueOrDefault method. Returns value if found; or Value() otherwise in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.collections.generic/idictionary/getvalueordefault/
 ---
 ## IDictionary::GetValueOrDefault(const TKey\&) const method

@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschemainfo/set_validity/
 ## XmlSchemaInfo::set_Validity method
 
 
-Sets the XmlSchemaValidity value of this validated XML node.
+Sets the [XmlSchemaValidity](../../xmlschemavalidity/) value of this validated XML node.
 
 ```cpp
 void System::Xml::Schema::XmlSchemaInfo::set_Validity(XmlSchemaValidity value)

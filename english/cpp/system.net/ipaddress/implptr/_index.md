@@ -13,7 +13,7 @@ url: /cpp/system.net/ipaddress/implptr/
 A pointer to the implementation type.
 
 ```cpp
-std::shared_ptr<System::Details::ip_address_impl> System::Net::IPAddress::ImplPtr
+typedef std::shared_ptr<System::Details::ip_address_impl> System::Net::IPAddress::ImplPtr
 ```
 
 ## See Also

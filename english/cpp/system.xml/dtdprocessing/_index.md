@@ -10,7 +10,7 @@ url: /cpp/system.xml/dtdprocessing/
 ## DtdProcessing enum
 
 
-Specifies the options for processing DTDs. The DtdProcessing enumeration is used by the [XmlReaderSettings](../xmlreadersettings/) class.
+Specifies the options for processing DTDs. The [DtdProcessing](./) enumeration is used by the [XmlReaderSettings](../xmlreadersettings/) class.
 
 ```cpp
 enum class DtdProcessing
@@ -20,7 +20,7 @@ enum class DtdProcessing
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Prohibit | 0 | Specifies that when a DTD is encountered, an XmlException is thrown with a message that states that DTDs are prohibited. This is the default behavior. |
+| Prohibit | 0 | Specifies that when a DTD is encountered, an [XmlException](../xmlexception/) is thrown with a message that states that DTDs are prohibited. This is the default behavior. |
 | Ignore | 1 | Causes the DOCTYPE element to be ignored. No DTD processing occurs, and the DTD/DOCTYPE is lost on output. |
 | Parse | 2 | Used for parsing DTDs. |
 

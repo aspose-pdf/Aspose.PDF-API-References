@@ -54,7 +54,7 @@ System::Xml::XmlTextReader::XmlTextReader(const SharedPtr<IO::Stream> &input, co
 ## XmlTextReader::XmlTextReader(const SharedPtr\<IO::Stream\>\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) constructor
 
 
-Initializes a new instance of the [XmlTextReader](../) class with the specified stream, XmlNodeType, and [XmlParserContext](../../xmlparsercontext/).
+Initializes a new instance of the [XmlTextReader](../) class with the specified stream, [XmlNodeType](../../xmlnodetype/), and [XmlParserContext](../../xmlparsercontext/).
 
 ```cpp
 System::Xml::XmlTextReader::XmlTextReader(const SharedPtr<IO::Stream> &xmlFragment, XmlNodeType fragType, const SharedPtr<XmlParserContext> &context)
@@ -64,7 +64,7 @@ System::Xml::XmlTextReader::XmlTextReader(const SharedPtr<IO::Stream> &xmlFragme
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmlFragment | const SharedPtr\<IO::Stream\>\& | The stream containing the XML fragment to parse. |
-| fragType | XmlNodeType | The XmlNodeType of the XML fragment. This also determines what the fragment can contain. |
+| fragType | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the XML fragment. This also determines what the fragment can contain. |
 | context | const SharedPtr\<XmlParserContext\>\& | The [XmlParserContext](../../xmlparsercontext/) in which the **xmlFragment** is to be parsed. This includes the [XmlNameTable](../../xmlnametable/) to use, encoding, namespace scope, the current **xml:lang**, and the **xml:space** scope. |
 
 ## See Also
@@ -262,7 +262,7 @@ System::Xml::XmlTextReader::XmlTextReader(const String &url, const SharedPtr<Xml
 ## XmlTextReader::XmlTextReader(const String\&, XmlNodeType, const SharedPtr\<XmlParserContext\>\&) constructor
 
 
-Initializes a new instance of the [XmlTextReader](../) class with the specified string, XmlNodeType, and [XmlParserContext](../../xmlparsercontext/).
+Initializes a new instance of the [XmlTextReader](../) class with the specified string, [XmlNodeType](../../xmlnodetype/), and [XmlParserContext](../../xmlparsercontext/).
 
 ```cpp
 System::Xml::XmlTextReader::XmlTextReader(const String &xmlFragment, XmlNodeType fragType, const SharedPtr<XmlParserContext> &context)
@@ -272,7 +272,7 @@ System::Xml::XmlTextReader::XmlTextReader(const String &xmlFragment, XmlNodeType
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmlFragment | const String\& | The string containing the XML fragment to parse. |
-| fragType | XmlNodeType | The XmlNodeType of the XML fragment. This also determines what the fragment string can contain. |
+| fragType | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the XML fragment. This also determines what the fragment string can contain. |
 | context | const SharedPtr\<XmlParserContext\>\& | The [XmlParserContext](../../xmlparsercontext/) in which the **xmlFragment** is to be parsed. This includes the [XmlNameTable](../../xmlnametable/) to use, encoding, namespace scope, the current **xml:lang**, and the **xml:space** scope. |
 
 ## See Also

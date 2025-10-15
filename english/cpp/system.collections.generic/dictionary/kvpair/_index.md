@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/kvpair/
 Key-value pair type.
 
 ```cpp
-KeyValuePair<TKey, TValue> System::Collections::Generic::Dictionary< TKey, TValue >::KVPair
+typedef KeyValuePair<TKey, TValue> System::Collections::Generic::Dictionary< TKey, TValue >::KVPair
 ```
 
 ## See Also

@@ -34,7 +34,7 @@ true if strings match, false otherwise.
 ## String::Equals(const String\&, System::StringComparison) const method
 
 
-[String](../) equality comparison. Several modes provided by StringComparison enumeration are supported.
+[String](../) equality comparison. Several modes provided by [StringComparison](../../stringcomparison/) enumeration are supported.
 
 ```cpp
 bool System::String::Equals(const String &str, System::StringComparison comparison_type) const

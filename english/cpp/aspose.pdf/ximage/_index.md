@@ -26,7 +26,7 @@ class XImage : public System::Object
 | [get_FilterType](./get_filtertype/)() | Gets image filter type. |
 | [get_Grayscaled](./get_grayscaled/)() | Gets grayscaled version of image. |
 | [get_Height](./get_height/)() | Gets height of the image. |
-| [get_ImageMask](./get_imagemask/)() | Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, "Masked Images"). If this flag is true, the value of BitsPerComponent shall be 1 and Mask and ColorSpace shall not be specified; unmasked areas shall bepainted using the current nonstroking colour. Default value: false. |
+| [get_ImageMask](./get_imagemask/)() | Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, "Masked Images"). If this flag is true, the value of BitsPerComponent shall be 1 and Mask and [ColorSpace](../colorspace/) shall not be specified; unmasked areas shall bepainted using the current nonstroking colour. Default value: false. |
 | [get_Metadata](./get_metadata/)() | [Metadata](../metadata/) of the image. |
 | [get_Name](./get_name/)() | Gets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use [XImage.Rename](./rename/) method in this case. |
 | [get_Width](./get_width/)() | Gets width of the image. |

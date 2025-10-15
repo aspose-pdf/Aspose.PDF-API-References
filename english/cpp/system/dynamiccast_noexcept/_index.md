@@ -4,7 +4,7 @@ linktitle: DynamicCast_noexcept
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DynamicCast_noexcept method. Old obsolete casts. Will be removed in future versions in C++.'
 type: docs
-weight: 17100
+weight: 17500
 url: /cpp/system/dynamiccast_noexcept/
 ---
 ## System::DynamicCast_noexcept(const TFrom\&) method
@@ -19,8 +19,8 @@ template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
-| TFrom | Source Exception type. |
+| TTo | Target [Exception](../exception/) type. |
+| TFrom | Source [Exception](../exception/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Cast result if cast is allowed or nullptr otherwise.
 ## Remarks
 
 
-Performs dynamic cast on Exception objects. ## Deprecated
+Performs dynamic cast on [Exception](../exception/) objects. ## Deprecated
 Left for backwards compatibility. Use AsCast instead. 
 
 ## See Also
@@ -73,7 +73,7 @@ Left for backwards compatibility. Use AsCast instead.
 ## System::DynamicCast_noexcept(SmartPtr\<TFrom\>) method
 
 
-Performs dynamic cast on Objects to Exception objects.
+Performs dynamic cast on Objects to [Exception](../exception/) objects.
 
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object, TFrom>::value &&IsExceptionWrapper<TTo>::value, TTo>::type System::DynamicCast_noexcept(SmartPtr<TFrom> obj) noexcept
@@ -82,7 +82,7 @@ template<typename TTo,typename TFrom> std::enable_if<std::is_same<System::Object
 
 | Parameter | Description |
 | --- | --- |
-| TTo | Target Exception type. |
+| TTo | Target [Exception](../exception/) type. |
 | TFrom | [Object](../object/) type. |
 
 | Parameter | Type | Description |

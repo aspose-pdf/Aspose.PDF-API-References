@@ -4,7 +4,7 @@ linktitle: Concat
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::Concat method. Concatenates strings in C++.'
 type: docs
-weight: 6200
+weight: 6300
 url: /cpp/system/string/concat/
 ---
 ## String::Concat(const ArrayPtr\<String\>\&) method

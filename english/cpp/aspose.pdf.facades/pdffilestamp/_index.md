@@ -52,7 +52,7 @@ class PdfFileStamp : public Aspose::Pdf::Facades::SaveableFacade
 | [get_OutputFile](./get_outputfile/)() const | Gets name and path of output file. |
 | [get_OutputStream](./get_outputstream/)() const | Gets output stream. |
 | [get_PageHeight](./get_pageheight/)() | Gets height of first page in souorce file. |
-| [get_PageNumberRotation](./get_pagenumberrotation/)() | Gets rotation of page number. Rotation is in degrees. Default is 0. |
+| [get_PageNumberRotation](./get_pagenumberrotation/)() | Gets rotation of page number. [Rotation](../../aspose.pdf/rotation/) is in degrees. Default is 0. |
 | [get_PageWidth](./get_pagewidth/)() | Gets width of first page in input file. |
 | [get_Response](./get_response/)() const | Gets Response object where result of operation will be stored. |
 | [get_SaveOptions](./get_saveoptions/)() const | Gets save options when result is stored as HttpResponse. Default value: [PdfSaveOptions](../../aspose.pdf/pdfsaveoptions/). |
@@ -80,7 +80,7 @@ class PdfFileStamp : public Aspose::Pdf::Facades::SaveableFacade
 | [set_OptimizeSize](./set_optimizesize/)(bool) | Sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
 | [set_OutputFile](./set_outputfile/)(System::String) | Sets name and path of output file. |
 | [set_OutputStream](./set_outputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets output stream. |
-| [set_PageNumberRotation](./set_pagenumberrotation/)(float) | Sets rotation of page number. Rotation is in degrees. Default is 0. |
+| [set_PageNumberRotation](./set_pagenumberrotation/)(float) | Sets rotation of page number. [Rotation](../../aspose.pdf/rotation/) is in degrees. Default is 0. |
 | [set_Response](./set_response/)(System::SharedPtr\<System::Web::HttpResponse\>) | Sets Response object where result of operation will be stored. |
 | [set_SaveOptions](./set_saveoptions/)(System::SharedPtr\<Aspose::Pdf::SaveOptions\>) | Sets save options when result is stored as HttpResponse. Default value: [PdfSaveOptions](../../aspose.pdf/pdfsaveoptions/). |
 | [set_StampId](./set_stampid/)(int32_t) | [Stamp](../stamp/) ID of next added stamp (incluiding page headers/hooters/page numbers). |

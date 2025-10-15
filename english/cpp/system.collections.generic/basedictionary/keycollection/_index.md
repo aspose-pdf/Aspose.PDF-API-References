@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/keycollection/
 Make sure we use correct allocator with underlying storage type.
 
 ```cpp
-ICollection<key_t> System::Collections::Generic::BaseDictionary< Map >::KeyCollection
+typedef ICollection<key_t> System::Collections::Generic::BaseDictionary< Map >::KeyCollection
 ```
 
 ## Remarks

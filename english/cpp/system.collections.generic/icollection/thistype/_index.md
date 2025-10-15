@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/icollection/thistype/
 Collection type name.
 
 ```cpp
-ICollection<T> System::Collections::Generic::ICollection< T >::ThisType
+typedef ICollection<T> System::Collections::Generic::ICollection< T >::ThisType
 ```
 
 ## See Also

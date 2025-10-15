@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/iterator_holder_type/
 A collection type whose iterator types is used as iterator types in the current collection.
 
 ```cpp
-using Aspose::Pdf::BoundsCheckableList< typename >::iterator_holder_type =  System::Collections::Generic::List<T>
+using Aspose::Pdf::BoundsCheckableList< T >::iterator_holder_type =  System::Collections::Generic::List<T>
 ```
 
 ## See Also

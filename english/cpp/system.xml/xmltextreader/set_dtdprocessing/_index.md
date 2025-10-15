@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmltextreader/set_dtdprocessing/
 ## XmlTextReader::set_DtdProcessing method
 
 
-Sets the DtdProcessing enumeration.
+Sets the [DtdProcessing](../../dtdprocessing/) enumeration.
 
 ```cpp
 void System::Xml::XmlTextReader::set_DtdProcessing(System::Xml::DtdProcessing value)

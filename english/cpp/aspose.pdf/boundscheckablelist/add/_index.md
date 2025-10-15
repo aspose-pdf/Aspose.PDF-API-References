@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/add/
 Adds an object to the end of the [System.Collections.Generic.List](../../../system.collections.generic/list/) depending on "boundsCheckMode" parameter.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::Add(const T &item) override
+void Aspose::Pdf::BoundsCheckableList<T>::Add(const T &item) override
 ```
 
 

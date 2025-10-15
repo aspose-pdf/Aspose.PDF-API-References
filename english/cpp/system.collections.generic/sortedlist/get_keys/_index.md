@@ -2,7 +2,7 @@
 title: System::Collections::Generic::SortedList::get_Keys method
 linktitle: get_Keys
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use get_Keys method of System::Collections::Generic::SortedList class in C++.'
+description: 'System::Collections::Generic::SortedList::get_Keys method. Accesses key collection in C++.'
 type: docs
 weight: 500
 url: /cpp/system.collections.generic/sortedlist/get_keys/
@@ -10,11 +10,16 @@ url: /cpp/system.collections.generic/sortedlist/get_keys/
 ## SortedList::get_Keys method
 
 
-
+Accesses key collection.
 
 ```cpp
 SharedPtr<IList<TKey>> System::Collections::Generic::SortedListHelper<TKey, TValue>::get_Keys() const
 ```
+
+
+### ReturnValue
+
+Pointer to interface providing access to stored keys via [ICollection](../../icollection/) interface.
 
 ## See Also
 

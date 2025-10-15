@@ -13,7 +13,7 @@ url: /cpp/system/nullable/valuetype/
 An alias for a type of the value represented by this class.
 
 ```cpp
-T System::Nullable< T >::ValueType
+typedef T System::Nullable< T >::ValueType
 ```
 
 ## See Also

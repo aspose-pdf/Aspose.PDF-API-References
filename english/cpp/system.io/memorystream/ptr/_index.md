@@ -13,7 +13,7 @@ url: /cpp/system.io/memorystream/ptr/
 An alias for a shared pointer to the self.
 
 ```cpp
-System::SharedPtr<System::IO::MemoryStream> System::IO::MemoryStream::Ptr
+typedef System::SharedPtr<System::IO::MemoryStream> System::IO::MemoryStream::Ptr
 ```
 
 ## See Also

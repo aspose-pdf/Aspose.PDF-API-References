@@ -42,8 +42,8 @@ class Document : public System::IDisposable,
 | [Convert](./convert/)(Document::CallBackGetHocrWithPage, bool) | Recognize images inside the document and add hocr strings over it. |
 | [Convert](./convert/)(Document::CallBackGetHocr, bool) | Recognize images inside the document and add hocr strings over it. |
 | [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, Aspose::Pdf::PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
-| [Convert](./convert/)(Fixup, System::SharedPtr\<System::IO::Stream\>, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the Fixup. |
-| [Convert](./convert/)(Fixup, System::String, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the Fixup. |
+| [Convert](./convert/)(Fixup, System::SharedPtr\<System::IO::Stream\>, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the [Fixup](../fixup/). |
+| [Convert](./convert/)(Fixup, System::String, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the [Fixup](../fixup/). |
 | static [Convert](./convert/)(System::String, System::SharedPtr\<LoadOptions\>, System::String, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into destination file in destination format. |
 | static [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>, System::String, System::SharedPtr\<SaveOptions\>) | Converts stream in source format into destination file in destination format. |
 | static [Convert](./convert/)(System::String, System::SharedPtr\<LoadOptions\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into stream in destination format. |
@@ -88,7 +88,7 @@ class Document : public System::IDisposable,
 | [get_Background](./get_background/)() | Gets the background color of the document. |
 | [get_CenterWindow](./get_centerwindow/)() | Gets flag specifying whether position of the document's window will be centerd on the screen. |
 | [get_Collection](./get_collection/)() | Gets collection of document. |
-| [get_CryptoAlgorithm](./get_cryptoalgorithm/)() | Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or CryptoAlgorithm will be null for other .net versions. |
+| [get_CryptoAlgorithm](./get_cryptoalgorithm/)() | Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or [CryptoAlgorithm](../cryptoalgorithm/) will be null for other .net versions. |
 | [get_CustomSecurityHandler](./get_customsecurityhandler/)() const | Gets a custom security handler. |
 | [get_Destinations](./get_destinations/)() | Gets the collection of destinations. Obsolete. Please use NamedDestinations. |
 | [get_Direction](./get_direction/)() | Gets reading order of text: L2R (left to right) or R2L (right to left). |

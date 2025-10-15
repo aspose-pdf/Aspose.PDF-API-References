@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/ienumeratorptr/
 [Enumerator](../enumerator/) type.
 
 ```cpp
-SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::SortedDictionary< TKey, TValue >::IEnumeratorPtr
+typedef SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::SortedDictionary< TKey, TValue >::IEnumeratorPtr
 ```
 
 ## See Also

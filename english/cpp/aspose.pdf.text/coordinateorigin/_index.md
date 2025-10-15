@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Text::CoordinateOrigin enum
 linktitle: CoordinateOrigin
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Text::CoordinateOrigin enum. Text CoordinateOrigin enumeration in C++.'
+description: 'Aspose::Pdf::Text::CoordinateOrigin enum. TextCoordinateOrigin enumeration in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.pdf.text/coordinateorigin/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/coordinateorigin/
 ## CoordinateOrigin enum
 
 
-[Text](../) CoordinateOrigin enumeration.
+[Text](../)[CoordinateOrigin](./) enumeration.
 
 ```cpp
 enum class CoordinateOrigin

@@ -19,7 +19,7 @@ System::Xml::ValidationType System::Xml::XmlValidatingReader::get_ValidationType
 
 ### ReturnValue
 
-One of the ValidationType values. If this value is not set, it defaults to [ValidationType::Auto](../../validationtype/).
+One of the [ValidationType](../../validationtype/) values. If this value is not set, it defaults to [ValidationType::Auto](../../validationtype/).
 
 ## See Also
 

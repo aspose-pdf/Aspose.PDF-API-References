@@ -20,7 +20,7 @@ class Reference
 
 | Method | Description |
 | --- | --- |
-| [operator DynamicWeakPtr_ &](./operatordynamicweakptr_&/)() const | Conversion operator. Allows using [Reference](./) in contexts where DynamicWeakPtr_ is needed. |
+| [operator DynamicWeakPtr_ &](./operatordynamicweakptr_&/)() const | Conversion operator. Allows using [Reference](./) in contexts where [DynamicWeakPtr_](../dynamicweakptr_/) is needed. |
 | [Reference](./reference/)(DynamicWeakPtr_\&) | Creates smart pointer reference. |
 | [Reference](./reference/)(Reference\&&) | Move-constructs smart pointer reference. |
 | [~Reference](./~reference/)() | Destroys reference. Ensures Apply() call on referenced smart pointer. |

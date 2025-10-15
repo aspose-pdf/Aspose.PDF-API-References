@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::Remove method. Removes key/value pair from the collection in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/remove/
 ---
 ## PdfXmpMetadata::Remove(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) method

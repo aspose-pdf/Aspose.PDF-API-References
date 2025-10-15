@@ -26,7 +26,7 @@ class Stamp : public System::Object
 | [BindPdf](./bindpdf/)(System::String, int32_t) | Sets PDF file and number of page which will be used as stamp. |
 | [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>, int32_t) | Sets PDF file and number of page which will be used as stamp. |
 | [BindTextState](./bindtextstate/)(System::SharedPtr\<Text::TextState\>) | Sets text state of stamp text. |
-| [get_BlendingSpace](./get_blendingspace/)() const | Gets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page. |
+| [get_BlendingSpace](./get_blendingspace/)() const | Gets a [BlendingColorSpace](../blendingcolorspace/) value that defines a color space that is used to perform transparency and blending operations on the page. |
 | [get_IsBackground](./get_isbackground/)() const | Gets background status. If true stamp will be placed as background of the spamped page. By default is set to false. |
 | [get_Opacity](./get_opacity/)() | Gets opacity of the stamp. |
 | [get_PageNumber](./get_pagenumber/)() const | Gets page number. |
@@ -34,7 +34,7 @@ class Stamp : public System::Object
 | [get_Quality](./get_quality/)() const | Gets quality of image stamp in percent. Valiued values 0..100%. |
 | [get_Rotation](./get_rotation/)() const | Gets rotation of the stamp in degrees. |
 | [get_StampId](./get_stampid/)() const | Gets identifier of stamp. |
-| [set_BlendingSpace](./set_blendingspace/)(BlendingColorSpace) | Sets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page. |
+| [set_BlendingSpace](./set_blendingspace/)(BlendingColorSpace) | Sets a [BlendingColorSpace](../blendingcolorspace/) value that defines a color space that is used to perform transparency and blending operations on the page. |
 | [set_IsBackground](./set_isbackground/)(bool) | Sets background status. If true stamp will be placed as background of the spamped page. By default is set to false. |
 | [set_Opacity](./set_opacity/)(float) | Sets opacity of the stamp. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | Sets page number. |

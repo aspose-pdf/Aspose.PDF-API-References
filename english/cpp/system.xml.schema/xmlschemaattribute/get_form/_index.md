@@ -19,7 +19,7 @@ XmlSchemaForm System::Xml::Schema::XmlSchemaAttribute::get_Form()
 
 ### ReturnValue
 
-One of the XmlSchemaForm values. The default is the [XmlSchema::get_AttributeFormDefault](../../xmlschema/get_attributeformdefault/) value of the schema element containing the attribute. Optional.
+One of the [XmlSchemaForm](../../xmlschemaform/) values. The default is the [XmlSchema::get_AttributeFormDefault](../../xmlschema/get_attributeformdefault/) value of the schema element containing the attribute. Optional.
 
 ## See Also
 

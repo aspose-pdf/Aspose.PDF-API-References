@@ -10,7 +10,7 @@ url: /cpp/system.reflection/methodinfo/get_membertype/
 ## MethodInfo::get_MemberType method
 
 
-Gets a MemberTypes value indicating that this member is a method.
+Gets a [MemberTypes](../../membertypes/) value indicating that this member is a method.
 
 ```cpp
 virtual MemberTypes System::Reflection::MethodInfo::get_MemberType() const override

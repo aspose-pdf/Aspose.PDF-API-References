@@ -70,7 +70,7 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_SelectMany](./linq_selectmany/)(const Func\<Source, SharedPtr\<IEnumerable\<Result\>\>\>\&) |  |
 | [LINQ_Take](./linq_take/)(int32_t) | Returns a specified number of contiguous elements from the start of a sequence. |
 | [LINQ_ToArray](./linq_toarray/)() | Creates an array from a sequence. |
-| [LINQ_ToList](./linq_tolist/)() | Creates a List<T> from a sequence. |
+| [LINQ_ToList](./linq_tolist/)() | Creates a [List<T>](../list/) from a sequence. |
 | [LINQ_Where](./linq_where/)(std::function\<bool(T)>) | Filters a sequence based on the specified predicate. |
 | virtual [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const | Gets the implementation of begin const iterator for the current container. |
 | virtual [virtualizeBeginIterator](./virtualizebeginiterator/)() | Gets the implementation of begin iterator for the current container. |

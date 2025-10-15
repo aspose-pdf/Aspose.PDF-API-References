@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschemainfo/get_validity/
 ## XmlSchemaInfo::get_Validity method
 
 
-Returns the XmlSchemaValidity value of this validated XML node.
+Returns the [XmlSchemaValidity](../../xmlschemavalidity/) value of this validated XML node.
 
 ```cpp
 XmlSchemaValidity System::Xml::Schema::XmlSchemaInfo::get_Validity() override
@@ -19,7 +19,7 @@ XmlSchemaValidity System::Xml::Schema::XmlSchemaInfo::get_Validity() override
 
 ### ReturnValue
 
-An XmlSchemaValidity value.
+An [XmlSchemaValidity](../../xmlschemavalidity/) value.
 
 ## See Also
 

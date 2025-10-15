@@ -19,7 +19,7 @@ static double Aspose::Pdf::Matrix3D::GetAngle(Rotation rotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | Rotation | Rotation value. |
+| rotation | Rotation | [Rotation](../../rotation/) value. |
 
 ### ReturnValue
 

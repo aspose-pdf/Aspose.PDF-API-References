@@ -20,7 +20,7 @@ class PropertyInfo : public System::Reflection::MemberInfo
 
 | Method | Description |
 | --- | --- |
-| [get_MemberType](./get_membertype/)() const override | Gets a MemberTypes value indicating that this member is a property. |
+| [get_MemberType](./get_membertype/)() const override | Gets a [MemberTypes](../membertypes/) value indicating that this member is a property. |
 | [get_PropertyType](./get_propertytype/)() | Gets property type. |
 | [GetValue](./getvalue/)(System::SharedPtr\<System::Object\>) | Gets property value from specific object. |
 | [GetValue](./getvalue/)(System::SharedPtr\<System::Object\>, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Gets property value from specific object. |

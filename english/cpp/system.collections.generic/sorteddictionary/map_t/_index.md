@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/map_t/
 Underlying data type.
 
 ```cpp
-std::map<TKey, TValue, ComparerAdapter<typename BasePointerType<TKey>::type>, ASPOSE_MAP_ALLOCATOR_TYPE(TKey, TValue)> System::Collections::Generic::SortedDictionary< TKey, TValue >::map_t
+typedef std::map<TKey, TValue, ComparerAdapter<typename BasePointerType<TKey>::type>, ASPOSE_MAP_ALLOCATOR_TYPE(TKey, TValue)> System::Collections::Generic::SortedDictionary< TKey, TValue >::map_t
 ```
 
 ## See Also

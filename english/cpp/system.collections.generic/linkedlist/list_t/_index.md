@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/linkedlist/list_t/
 Underlying data type.
 
 ```cpp
-std::list<T, typename pointer_mode_t::allocator_type> System::Collections::Generic::LinkedList< T >::list_t
+typedef std::list<T, typename pointer_mode_t::allocator_type> System::Collections::Generic::LinkedList< T >::list_t
 ```
 
 ## See Also

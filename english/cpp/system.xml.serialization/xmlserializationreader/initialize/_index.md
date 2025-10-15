@@ -20,7 +20,7 @@ void System::Xml::Serialization::XmlSerializationReader::Initialize(System::Shar
 | Parameter | Type | Description |
 | --- | --- | --- |
 | reader | System::SharedPtr\<XmlReader\> | Reader to use. |
-| eventSource | System::SharedPtr\<XmlSerializer\> | Event source to use. |
+| eventSource | System::SharedPtr\<XmlSerializer\> | [Event](../../../system/event/) source to use. |
 
 ## See Also
 

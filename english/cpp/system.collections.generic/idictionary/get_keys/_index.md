@@ -4,7 +4,7 @@ linktitle: get_Keys
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::get_Keys method. Accesses key collection in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.collections.generic/idictionary/get_keys/
 ---
 ## IDictionary::get_Keys method

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::idx_get method. Getter function in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.collections.generic/idictionary/idx_get/
 ---
 ## IDictionary::idx_get method

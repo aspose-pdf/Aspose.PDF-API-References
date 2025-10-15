@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/ptr/
 Pointer type.
 
 ```cpp
-SharedPtr< Dictionary<TKey, TValue> > System::Collections::Generic::Dictionary< TKey, TValue >::Ptr
+typedef SharedPtr< Dictionary<TKey, TValue> > System::Collections::Generic::Dictionary< TKey, TValue >::Ptr
 ```
 
 ## See Also

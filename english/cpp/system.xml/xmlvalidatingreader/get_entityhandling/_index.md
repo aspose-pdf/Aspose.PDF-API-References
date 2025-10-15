@@ -19,7 +19,7 @@ System::Xml::EntityHandling System::Xml::XmlValidatingReader::get_EntityHandling
 
 ### ReturnValue
 
-One of the EntityHandling values. If no EntityHandling is specified, it defaults to [EntityHandling::ExpandEntities](../../entityhandling/).
+One of the [EntityHandling](../../entityhandling/) values. If no [EntityHandling](../../entityhandling/) is specified, it defaults to [EntityHandling::ExpandEntities](../../entityhandling/).
 
 ## See Also
 

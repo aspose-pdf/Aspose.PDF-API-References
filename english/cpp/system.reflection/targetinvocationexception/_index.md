@@ -10,7 +10,7 @@ url: /cpp/system.reflection/targetinvocationexception/
 ## TargetInvocationException typedef
 
 
-TargetInvocationException is thrown by methods invoked through reflection. Never wrap the TargetInvocationException class instances into [System::SmartPtr](../../system/smartptr/).
+[TargetInvocationException](./) is thrown by methods invoked through reflection. Never wrap the [TargetInvocationException](./) class instances into [System::SmartPtr](../../system/smartptr/).
 
 ```cpp
 using System::Reflection::TargetInvocationException =  System::ExceptionWrapper<Details_TargetInvocationException>

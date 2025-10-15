@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/collectionfieldsubtypeconverter/converttofieldtype/
 ## CollectionFieldSubtypeConverter::ConvertToFieldType method
 
 
-Converts a CollectionFieldSubtype enumeration value to its corresponding FieldValueType enumeration value.
+Converts a [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value to its corresponding [FieldValueType](../../fieldvaluetype/) enumeration value.
 
 ```cpp
 static FieldValueType Aspose::Pdf::CollectionFieldSubtypeConverter::ConvertToFieldType(CollectionFieldSubtype subtype)
@@ -19,11 +19,11 @@ static FieldValueType Aspose::Pdf::CollectionFieldSubtypeConverter::ConvertToFie
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| subtype | CollectionFieldSubtype | The CollectionFieldSubtype value to convert. |
+| subtype | CollectionFieldSubtype | The [CollectionFieldSubtype](../../collectionfieldsubtype/) value to convert. |
 
 ### ReturnValue
 
-The FieldValueType value corresponding to the given subtype.
+The [FieldValueType](../../fieldvaluetype/) value corresponding to the given subtype.
 
 ## See Also
 

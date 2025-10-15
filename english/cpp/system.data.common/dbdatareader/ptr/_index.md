@@ -13,7 +13,7 @@ url: /cpp/system.data.common/dbdatareader/ptr/
 RTTI information.
 
 ```cpp
-SharedPtr<DbDataReader> System::Data::Common::DbDataReader::Ptr
+typedef SharedPtr<DbDataReader> System::Data::Common::DbDataReader::Ptr
 ```
 
 ## Remarks

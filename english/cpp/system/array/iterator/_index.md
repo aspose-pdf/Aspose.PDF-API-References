@@ -13,7 +13,7 @@ url: /cpp/system/array/iterator/
 Iterator type.
 
 ```cpp
-vector_t::iterator System::Array< T >::iterator
+typedef vector_t::iterator System::Array< T >::iterator
 ```
 
 ## See Also

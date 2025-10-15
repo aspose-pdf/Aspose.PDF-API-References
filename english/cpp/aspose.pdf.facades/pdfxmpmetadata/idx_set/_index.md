@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::idx_set method. Gets value of XMP metadata by key in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/idx_set/
 ---
 ## PdfXmpMetadata::idx_set(const DefaultMetadataProperties\&, System::SharedPtr\<XmpValue\>) method

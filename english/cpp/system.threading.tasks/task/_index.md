@@ -4,7 +4,7 @@ linktitle: Task
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task class. Represents an asynchronous operation that can be awaited and composed with other tasks in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.threading.tasks/task/
 ---
 ## Task class
@@ -40,6 +40,7 @@ class Task : public System::IDisposable
 | [RunSynchronously](./runsynchronously/)() | Runs the task synchronously on the current thread. |
 | [RunSynchronously](./runsynchronously/)(const SharedPtr\<TaskScheduler\>\&) | Runs the task synchronously using the specified scheduler. |
 | [set_Function](./set_function/)(const FunctionT\&) | Sets the internal function to execute. |
+| [set_Scheduler](./set_scheduler/)(TaskScheduler *) | Sets the scheduler associated with this task. |
 | [set_Status](./set_status/)(TaskStatus) | Sets the task status. |
 | [Start](./start/)() | Starts the task execution using the default scheduler. |
 | [Start](./start/)(const SharedPtr\<TaskScheduler\>\&) | Starts the task execution using the specified scheduler. |
@@ -48,8 +49,8 @@ class Task : public System::IDisposable
 | [Task](./task/)(const Action\<SharedPtr\<Object\>\>\&, const SharedPtr\<Object\>\&) | Constructs a [Task](./) with a stateful action and state object. |
 | [Task](./task/)(const Action\<SharedPtr\<Object\>\>\&, const SharedPtr\<Object\>\&, const CancellationToken\&) | Constructs a [Task](./) with stateful action, state, and cancellation token. |
 | [Task](./task/)() | Internal constructor for creating uninitialized tasks. |
-| [Wait](./wait/)(const CancellationToken\&) | Waits for the task to complete with cancellation support. |
-| [Wait](./wait/)() | Waits for the task to complete. |
+| [Wait](./wait/)(const CancellationToken\&) const | Waits for the task to complete with cancellation support. |
+| [Wait](./wait/)() const | Waits for the task to complete. |
 | [~Task](./~task/)() | Destructor. |
 ## Typedefs
 

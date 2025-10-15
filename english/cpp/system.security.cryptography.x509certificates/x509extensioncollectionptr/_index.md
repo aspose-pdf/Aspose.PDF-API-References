@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography.x509certificates/x509extensioncollectionp
 Pointer to collection of X509 extensions. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-class X509ExtensionCollectionPtr : public System::SmartPtr<X509ExtensionCollection>
+class X509ExtensionCollectionPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

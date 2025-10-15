@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/linkedlist/reverse_iterator/
 Reverse iterator type.
 
 ```cpp
-list_t::reverse_iterator System::Collections::Generic::LinkedList< T >::reverse_iterator
+typedef list_t::reverse_iterator System::Collections::Generic::LinkedList< T >::reverse_iterator
 ```
 
 ## See Also

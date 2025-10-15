@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/const_iterator/
 Const iterator type.
 
 ```cpp
-KVPairIterator<KVPair, Map> System::Collections::Generic::BaseDictionary< Map >::const_iterator
+typedef KVPairIterator<KVPair, Map> System::Collections::Generic::BaseDictionary< Map >::const_iterator
 ```
 
 ## See Also

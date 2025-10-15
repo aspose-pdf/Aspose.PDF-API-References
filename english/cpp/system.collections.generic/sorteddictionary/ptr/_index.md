@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/ptr/
 Pointer type.
 
 ```cpp
-SharedPtr<this_t> System::Collections::Generic::SortedDictionary< TKey, TValue >::Ptr
+typedef SharedPtr<this_t> System::Collections::Generic::SortedDictionary< TKey, TValue >::Ptr
 ```
 
 ## See Also

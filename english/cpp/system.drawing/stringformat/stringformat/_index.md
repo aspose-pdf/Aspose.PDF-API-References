@@ -54,7 +54,7 @@ System::Drawing::StringFormat::StringFormat(StringFormatFlags options, int32_t l
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | StringFormatFlags | A bitwise combination of StringFormatFlags enum value that specify the string format to be represented by the object being created |
+| options | StringFormatFlags | A bitwise combination of [StringFormatFlags](../../stringformatflags/) enum value that specify the string format to be represented by the object being created |
 | language | int32_t | A language of the text |
 
 ## See Also

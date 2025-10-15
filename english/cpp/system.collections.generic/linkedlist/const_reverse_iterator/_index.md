@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/linkedlist/const_reverse_iterator/
 Const reverse iterator type.
 
 ```cpp
-list_t::const_reverse_iterator System::Collections::Generic::LinkedList< T >::const_reverse_iterator
+typedef list_t::const_reverse_iterator System::Collections::Generic::LinkedList< T >::const_reverse_iterator
 ```
 
 ## See Also

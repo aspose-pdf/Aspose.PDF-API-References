@@ -13,7 +13,7 @@ url: /cpp/system.collections.specialized/stringcollection/reverse_iterator/
 Reverse iterator type.
 
 ```cpp
-std::vector<System::String>::reverse_iterator System::Collections::Specialized::StringCollection::reverse_iterator
+typedef std::vector<System::String>::reverse_iterator System::Collections::Specialized::StringCollection::reverse_iterator
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/system.collections.generic/ienumerable/ienumeratortype/
 RTTI information.
 
 ```cpp
-IEnumerator<T> System::Collections::Generic::IEnumerable< T >::IEnumeratorType
+typedef IEnumerator<T> System::Collections::Generic::IEnumerable< T >::IEnumeratorType
 ```
 
 ## Remarks
 
 
-Enumerator type. 
+[Enumerator](../../baseset/) type. 
 ## See Also
 
 * Class [IEnumerable](../)

@@ -4,7 +4,7 @@ linktitle: Delay
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Delay method. Creates a task that completes after a time delay in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/system.threading.tasks/delay/
 ---
 ## System::Threading::Tasks::Delay(int32_t) method

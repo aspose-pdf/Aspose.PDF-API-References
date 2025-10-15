@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textreplaceoptions/scope/
 ## Scope enum
 
 
-Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to [TextFragmentAbsorber](../../textfragmentabsorber/).
+[Scope](./) where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to [TextFragmentAbsorber](../../textfragmentabsorber/).
 
 ```cpp
 enum class Scope

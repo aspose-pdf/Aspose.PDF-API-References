@@ -40,7 +40,7 @@ True for success.
 ## PdfFileSecurity::MfEncryptFile(System::String, System::String, System::SharedPtr\<DocumentPrivilege\>, KeySize, Algorithm) method
 
 
-Encrypts [Pdf](../../../aspose.pdf/) file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However ([KeySize.x40](../../keysize/), [Algorithm.AES](../../algorithm/)) and ([KeySize.x256](../../keysize/), [Algorithm.RC4](../../algorithm/)) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed.
+Encrypts [Pdf](../../../aspose.pdf/) file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. There are 6 possible combinations of [KeySize](../../keysize/) and [Algorithm](../../algorithm/) values. However ([KeySize.x40](../../keysize/), [Algorithm.AES](../../algorithm/)) and ([KeySize.x256](../../keysize/), [Algorithm.RC4](../../algorithm/)) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed.
 
 ```cpp
 bool Aspose::Pdf::Facades::PdfFileSecurity::MfEncryptFile(System::String userPassword, System::String ownerPassword, System::SharedPtr<DocumentPrivilege> privilege, KeySize keySize, Algorithm cipher)

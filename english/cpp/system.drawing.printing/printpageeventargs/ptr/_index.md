@@ -13,7 +13,7 @@ url: /cpp/system.drawing.printing/printpageeventargs/ptr/
 An alias for a shared pointer to an instance of this class.
 
 ```cpp
-SharedPtr<PrintPageEventArgs> System::Drawing::Printing::PrintPageEventArgs::ptr
+typedef SharedPtr<PrintPageEventArgs> System::Drawing::Printing::PrintPageEventArgs::ptr
 ```
 
 ## See Also

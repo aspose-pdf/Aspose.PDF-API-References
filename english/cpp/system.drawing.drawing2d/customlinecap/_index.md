@@ -25,12 +25,12 @@ class CustomLineCap : public System::Object
 | [Dispose](./dispose/)() | Releases all operating system resources acquired by the current object. |
 | [get_BaseCap](./get_basecap/)() const | Returns the base line cap from which this custom cap is created. |
 | [get_BaseInset](./get_baseinset/)() const | Returns the distance between the line and the cap. |
-| [get_StrokeJoin](./get_strokejoin/)() const | Returns the LineJoin value which determines how lines of this custom cap are joined. |
+| [get_StrokeJoin](./get_strokejoin/)() const | Returns the [LineJoin](../linejoin/) value which determines how lines of this custom cap are joined. |
 | [get_WidthScale](./get_widthscale/)() const | Returns the scale of this custom cap. |
 | [GetStrokeCaps](./getstrokecaps/)(LineCap\&, LineCap\&) | Gets the start and end line caps of the custom cap represented by the current object. |
 | [set_BaseCap](./set_basecap/)(LineCap) | Sets the base line cap value for this custom cap. |
 | [set_BaseInset](./set_baseinset/)(float) | Sets the distance between the line and the cap. |
-| [set_StrokeJoin](./set_strokejoin/)(LineJoin) | Sets the LineJoin value which determines how lines of this custom cap are joined. |
+| [set_StrokeJoin](./set_strokejoin/)(LineJoin) | Sets the [LineJoin](../linejoin/) value which determines how lines of this custom cap are joined. |
 | [set_WidthScale](./set_widthscale/)(float) | Sets the scale value of this custom cap. |
 | [SetStrokeCaps](./setstrokecaps/)(LineCap, LineCap) | Sets the start and end line caps of the custom cap represented by the current object. |
 ## See Also

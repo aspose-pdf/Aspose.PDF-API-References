@@ -4,7 +4,7 @@ linktitle: ToU32Str
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::ToU32Str method. Converts string to std::u32string in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system/string/tou32str/
 ---
 ## String::ToU32Str method

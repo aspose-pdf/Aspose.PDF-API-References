@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/fixup/
 ## Fixup enum
 
 
-This enum represents an type of Fixup.
+This enum represents an type of [Fixup](./).
 
 ```cpp
 enum class Fixup

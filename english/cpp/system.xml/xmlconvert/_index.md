@@ -36,7 +36,7 @@ class XmlConvert : public System::Object
 | static [ToDateTime](./todatetime/)(const String\&) | Converts the [String](../../system/string/) to a [DateTime](../../system/datetime/) equivalent. |
 | static [ToDateTime](./todatetime/)(const String\&, const String\&) | Converts the [String](../../system/string/) to a [DateTime](../../system/datetime/) equivalent. |
 | static [ToDateTime](./todatetime/)(const String\&, const ArrayPtr\<String\>\&) | Converts the [String](../../system/string/) to a [DateTime](../../system/datetime/) equivalent. |
-| static [ToDateTime](./todatetime/)(const String\&, XmlDateTimeSerializationMode) | Converts the [String](../../system/string/) to a [DateTime](../../system/datetime/) using the XmlDateTimeSerializationMode specified. |
+| static [ToDateTime](./todatetime/)(const String\&, XmlDateTimeSerializationMode) | Converts the [String](../../system/string/) to a [DateTime](../../system/datetime/) using the [XmlDateTimeSerializationMode](../xmldatetimeserializationmode/) specified. |
 | static [ToDateTimeOffset](./todatetimeoffset/)(const String\&) | Converts the supplied [String](../../system/string/) to a [DateTimeOffset](../../system/datetimeoffset/) equivalent. |
 | static [ToDateTimeOffset](./todatetimeoffset/)(const String\&, const String\&) | Converts the supplied [String](../../system/string/) to a [DateTimeOffset](../../system/datetimeoffset/) equivalent. |
 | static [ToDateTimeOffset](./todatetimeoffset/)(const String\&, const ArrayPtr\<String\>\&) | Converts the supplied [String](../../system/string/) to a [DateTimeOffset](../../system/datetimeoffset/) equivalent. |
@@ -64,7 +64,7 @@ class XmlConvert : public System::Object
 | static [ToString](./tostring/)(TimeSpan) | Converts the [TimeSpan](../../system/timespan/) to a [String](../../system/string/). |
 | static [ToString](./tostring/)(DateTime) | Converts the [DateTime](../../system/datetime/) to a [String](../../system/string/). |
 | static [ToString](./tostring/)(DateTime, const String\&) | Converts the [DateTime](../../system/datetime/) to a [String](../../system/string/). |
-| static [ToString](./tostring/)(DateTime, XmlDateTimeSerializationMode) | Converts the [DateTime](../../system/datetime/) to a [String](../../system/string/) using the XmlDateTimeSerializationMode specified. |
+| static [ToString](./tostring/)(DateTime, XmlDateTimeSerializationMode) | Converts the [DateTime](../../system/datetime/) to a [String](../../system/string/) using the [XmlDateTimeSerializationMode](../xmldatetimeserializationmode/) specified. |
 | static [ToString](./tostring/)(DateTimeOffset) | Converts the supplied [DateTimeOffset](../../system/datetimeoffset/) to a [String](../../system/string/). |
 | static [ToString](./tostring/)(DateTimeOffset, const String\&) | Converts the supplied [DateTimeOffset](../../system/datetimeoffset/) to a [String](../../system/string/) in the specified format. |
 | static [ToString](./tostring/)(Guid) | Converts the [Guid](../../system/guid/) to a [String](../../system/string/). |
@@ -78,7 +78,7 @@ class XmlConvert : public System::Object
 | static [VerifyPublicId](./verifypublicid/)(const String\&) | Returns the passed in string instance if all the characters in the string argument are valid public id characters. |
 | static [VerifyTOKEN](./verifytoken/)(const String\&) | Verifies that the string is a valid token according to the W3C XML [Schema](../../system.xml.schema/) Part2: Datatypes recommendation. |
 | static [VerifyWhitespace](./verifywhitespace/)(const String\&) | Returns the passed-in string instance if all the characters in the string argument are valid whitespace characters. |
-| static [VerifyXmlChars](./verifyxmlchars/)(const String\&) | Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered. |
+| static [VerifyXmlChars](./verifyxmlchars/)(const String\&) | Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an [XmlException](../xmlexception/) is thrown with information on the first invalid character encountered. |
 ## Typedefs
 
 | Typedef | Description |

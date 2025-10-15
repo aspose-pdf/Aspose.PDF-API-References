@@ -7,7 +7,7 @@ type: docs
 weight: 800
 url: /cpp/system.text.regularexpressions/groupcollection/operator[]/
 ---
-## GroupCollection::operator[] method
+## GroupCollection::operator[](const String\&) const method
 
 
 [Group](../../group/) accessor.
@@ -29,6 +29,34 @@ GroupPtr System::Text::RegularExpressions::GroupCollection::operator[](const Str
 
 * Typedef [GroupPtr](../../groupptr/)
 * Class [String](../../../system/string/)
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.PDF for C++](../../../)
+## GroupCollection::operator[](int) method
+
+
+[Group](../../group/) accessor.
+
+```cpp
+vector_t::reference System::Collections::Generic::List<GroupPtr>::operator[](int index)
+```
+
+## See Also
+
+* Class [GroupCollection](../)
+* Namespace [System::Text::RegularExpressions](../../)
+* Library [Aspose.PDF for C++](../../../)
+## GroupCollection::operator[](int) const method
+
+
+[Group](../../group/) accessor.
+
+```cpp
+vector_t::const_reference System::Collections::Generic::List<GroupPtr>::operator[](int index) const
+```
+
+## See Also
+
 * Class [GroupCollection](../)
 * Namespace [System::Text::RegularExpressions](../../)
 * Library [Aspose.PDF for C++](../../../)

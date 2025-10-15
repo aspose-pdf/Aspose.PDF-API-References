@@ -21,7 +21,7 @@ class HttpResponseMessage : public System::IDisposable
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the current instance. This method also disposes content of the HTTP response. |
-| [EnsureSuccessStatusCode](./ensuresuccessstatuscode/)() | Checks the status code. HttpRequestException will be thrown when the status code doesn't belong to 2xx. |
+| [EnsureSuccessStatusCode](./ensuresuccessstatuscode/)() | Checks the status code. [HttpRequestException](../httprequestexception/) will be thrown when the status code doesn't belong to 2xx. |
 | [get_Content](./get_content/)() const | Gets content of the HTTP response. |
 | [get_Headers](./get_headers/)() const | Returns the HTTP content headers. |
 | [get_IsSuccessStatusCode](./get_issuccessstatuscode/)() const | Checks if the status code indicates that the action requested by the client was received, understood, and accepted. |

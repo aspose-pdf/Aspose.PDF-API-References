@@ -19,7 +19,7 @@ CancellationTokenRegistration System::Threading::CancellationToken::Register(con
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callback | const Action<>\& | The Action<> to execute when cancellation is requested. |
+| callback | const Action<>\& | The [Action<>](../../../system/action/) to execute when cancellation is requested. |
 
 ### ReturnValue
 

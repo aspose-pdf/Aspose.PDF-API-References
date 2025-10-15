@@ -26,7 +26,7 @@ class IXmlSchemaInfo : public virtual System::Object
 | virtual [get_SchemaAttribute](./get_schemaattribute/)() | Returns the compiled [XmlSchemaAttribute](../xmlschemaattribute/) that corresponds to this validated XML node. |
 | virtual [get_SchemaElement](./get_schemaelement/)() | Returns the compiled [XmlSchemaElement](../xmlschemaelement/) that corresponds to this validated XML node. |
 | virtual [get_SchemaType](./get_schematype/)() | Returns the static XML [Schema](../) Definition Language (XSD) schema type of this validated XML node. |
-| virtual [get_Validity](./get_validity/)() | Returns the XmlSchemaValidity value of this validated XML node. |
+| virtual [get_Validity](./get_validity/)() | Returns the [XmlSchemaValidity](../xmlschemavalidity/) value of this validated XML node. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/map_t/
 Underlying data type.
 
 ```cpp
-Detail::FlatMap<TKey, TValue, ComparerAdapter<TKey> > System::Collections::Generic::SortedList< TKey, TValue >::map_t
+typedef Detail::FlatMap<TKey, TValue, ComparerAdapter<TKey> > System::Collections::Generic::SortedList< TKey, TValue >::map_t
 ```
 
 ## See Also

@@ -19,7 +19,7 @@ SharedPtr<Collections::Generic::IDictionary<String, String>> System::Xml::XPath:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scope | XmlNamespaceScope | An XmlNamespaceScope value specifying the namespaces to return. |
+| scope | XmlNamespaceScope | An [XmlNamespaceScope](../../../system.xml/xmlnamespacescope/) value specifying the namespaces to return. |
 
 ### ReturnValue
 

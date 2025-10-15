@@ -45,3 +45,17 @@ System::Threading::Tasks::ResultTask<T>::ResultTask(const Func<T> &function)
 * Class [ResultTask](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)
+## ResultTask::ResultTask(const T\&) constructor
+
+
+Internal constructor for creating result tasks with specified result.
+
+```cpp
+System::Threading::Tasks::ResultTask<T>::ResultTask(const T &result)
+```
+
+## See Also
+
+* Class [ResultTask](../)
+* Namespace [System::Threading::Tasks](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -23,7 +23,7 @@ virtual XmlNodeOrder System::Xml::XPath::XPathNavigator::ComparePosition(SharedP
 
 ### ReturnValue
 
-An XmlNodeOrder value representing the comparative position of the two [XPathNavigator](../) objects.
+An [XmlNodeOrder](../../../system.xml/xmlnodeorder/) value representing the comparative position of the two [XPathNavigator](../) objects.
 
 ## See Also
 

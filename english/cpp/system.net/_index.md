@@ -29,8 +29,8 @@ url: /cpp/system.net/
 | [FtpWebResponse](./ftpwebresponse/) | Dummy class making it possible linking translated code with [FtpWebResponse](./ftpwebresponse/) references, but not executing it. Contains no properly implemented members. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [HeaderVariantInfo](./headervariantinfo/) | Used to match the cookie name and specification. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [HttpKnownHeaderNames](./httpknownheadernames/) | Contains the string values of the known header names. |
-| [HttpRequestHeaderExtensions](./httprequestheaderextensions/) | Contains utility methods to work with the HttpRequestHeader enumeration values. |
-| [HttpResponseHeaderExtensions](./httpresponseheaderextensions/) | Contains utility methods to work with the HttpResponseHeader enumeration values. |
+| [HttpRequestHeaderExtensions](./httprequestheaderextensions/) | Contains utility methods to work with the [HttpRequestHeader](./httprequestheader/) enumeration values. |
+| [HttpResponseHeaderExtensions](./httpresponseheaderextensions/) | Contains utility methods to work with the [HttpResponseHeader](./httpresponseheader/) enumeration values. |
 | [HttpStatusDescription](./httpstatusdescription/) | Contains the utility methods to get the string representation of the HTTP status. |
 | [HttpVersion](./httpversion/) | Contains versions of HTTP. |
 | [HttpWebRequest](./httpwebrequest/) | Represents the HTTP web request. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
@@ -66,7 +66,7 @@ url: /cpp/system.net/
 | [HttpStatusCode](./httpstatuscode/) |  |
 | [SecurityProtocolType](./securityprotocoltype/) | Enumerates the security protocol types. |
 | [TransportType](./transporttype/) | Defines the transport type allowed for the socket. |
-| [WebExceptionStatus](./webexceptionstatus/) | Enumerates the status codes of the WebException class. |
+| [WebExceptionStatus](./webexceptionstatus/) | Enumerates the status codes of the [WebException](./webexception/) class. |
 | [WebHeaderCollectionType](./webheadercollectiontype/) | Enumerates the types of the protocol headers collection. |
 ## Typedefs
 

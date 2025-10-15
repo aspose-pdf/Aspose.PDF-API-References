@@ -4,7 +4,7 @@ linktitle: StartsWith
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::StartsWith method. Checks if string begins with specified substring in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/system/string/startswith/
 ---
 ## String::StartsWith(const String\&) const method

@@ -37,7 +37,7 @@ class PdfFileMend : public Aspose::Pdf::Facades::SaveableFacade
 | [get_OutputFile](./get_outputfile/)() const | Sets the output file. |
 | [get_OutputStream](./get_outputstream/)() const | Sets the output stream. |
 | [get_TextPositioningMode](./get_textpositioningmode/)() const | Sets or gets text positioning strategy. [PositioningMode](../positioningmode/) Default mode is Legacy. |
-| [get_WrapMode](./get_wrapmode/)() const | Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap. |
+| [get_WrapMode](./get_wrapmode/)() const | Sets or gets word wrapping algorithm. See [WordWrapMode](../wordwrapmode/) and IsWordWrap. |
 | [PdfFileMend](./pdffilemend/)() | Constructor. |
 | [PdfFileMend](./pdffilemend/)(System::String, System::String) | Constructor. |
 | [PdfFileMend](./pdffilemend/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) | Constructor. |
@@ -52,7 +52,7 @@ class PdfFileMend : public Aspose::Pdf::Facades::SaveableFacade
 | [set_OutputFile](./set_outputfile/)(System::String) | Sets the output file. |
 | [set_OutputStream](./set_outputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the output stream. |
 | [set_TextPositioningMode](./set_textpositioningmode/)(PositioningMode) | Sets or gets text positioning strategy. [PositioningMode](../positioningmode/) Default mode is Legacy. |
-| [set_WrapMode](./set_wrapmode/)(WordWrapMode) | Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap. |
+| [set_WrapMode](./set_wrapmode/)(WordWrapMode) | Sets or gets word wrapping algorithm. See [WordWrapMode](../wordwrapmode/) and IsWordWrap. |
 ## See Also
 
 * Class [SaveableFacade](../saveablefacade/)

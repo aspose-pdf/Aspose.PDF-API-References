@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/this_t/
 This type.
 
 ```cpp
-SortedList<TKey, TValue> System::Collections::Generic::SortedList< TKey, TValue >::this_t
+typedef SortedList<TKey, TValue> System::Collections::Generic::SortedList< TKey, TValue >::this_t
 ```
 
 ## See Also

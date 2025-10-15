@@ -32,7 +32,7 @@ The **[Aspose.Pdf.Annotations](./)** namespace provides classes for working with
 | [CaretSymbolConverter](./caretsymbolconverter/) |  |
 | [Characteristics](./characteristics/) | Represents annotation characteristics. |
 | [CircleAnnotation](./circleannotation/) | Class representing Circle annotation. |
-| [ColorBarAnnotation](./colorbarannotation/) | Class representing [ColorBarAnnotation](./colorbarannotation/) annotation. Property [Color](../aspose.pdf/color/) ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed). |
+| [ColorBarAnnotation](./colorbarannotation/) | Class representing [ColorBarAnnotation](./colorbarannotation/) annotation. Property [Color](../aspose.pdf/color/) ignored, instead used [ColorsOfCMYK](./colorsofcmyk/) color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed). |
 | [ColorsOfCMYKConverter](./colorsofcmykconverter/) |  |
 | [CommonFigureAnnotation](./commonfigureannotation/) | Abstract class representing common figure annotation. |
 | [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | Represents annotation types that are placed in the corners of the printed page. |
@@ -154,16 +154,16 @@ The **[Aspose.Pdf.Annotations](./)** namespace provides classes for working with
 | [HighlightingMode](./highlightingmode/) | Enumerates the annotation's highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area. |
 | [Justification](./justification/) | Enumerates the forms of quadding (justification) to be used in displaying the annotation's text. |
 | [LaunchActionOperation](./launchactionoperation/) | Enumerates the operations to perform with document during launch action executing. |
-| [LightingSchemeType](./lightingschemetype/) | Enum LightingSchemeType: set of lighting scheme types. |
+| [LightingSchemeType](./lightingschemetype/) | Enum [LightingSchemeType](./lightingschemetype/): set of lighting scheme types. |
 | [LineEnding](./lineending/) | Enumerates the line ending styles to be used in drawing the line. |
 | [LineIntent](./lineintent/) | Enumerates the intents of the line annotation. |
-| [PDF3DActivation](./pdf3dactivation/) | Enum PDF3DActivation: set of 3D annotation activation mode. |
+| [PDF3DActivation](./pdf3dactivation/) | Enum [PDF3DActivation](./pdf3dactivation/): set of 3D annotation activation mode. |
 | [PolyIntent](./polyintent/) | Enumerates the intents of the polygon or polyline annotation. |
 | [PredefinedAction](./predefinedaction/) | Defines different actions which can be triggered from a PDF file. |
 | [PrinterMarkCornerPosition](./printermarkcornerposition/) | Represents a position of a mark in a corner of a page. |
 | [PrinterMarkSidePosition](./printermarksideposition/) | Represents a position of a registration mark on a page. |
 | [PrinterMarksKind](./printermarkskind/) | Specifies the types of printer's marks to be added to a document. |
-| [RenderModeType](./rendermodetype/) | Enum RenderModeType: set of render mode types. |
+| [RenderModeType](./rendermodetype/) | Enum [RenderModeType](./rendermodetype/): set of render mode types. |
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of [Rendition](./rendition/). |
 | [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |

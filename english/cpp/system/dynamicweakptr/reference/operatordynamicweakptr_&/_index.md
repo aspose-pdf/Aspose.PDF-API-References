@@ -10,7 +10,7 @@ url: /cpp/system/dynamicweakptr/reference/operatordynamicweakptr_&/
 ## Reference::operator DynamicWeakPtr_ & method
 
 
-Conversion operator. Allows using [Reference](../) in contexts where DynamicWeakPtr_ is needed.
+Conversion operator. Allows using [Reference](../) in contexts where [DynamicWeakPtr_](../../dynamicweakptr_/) is needed.
 
 ```cpp
 System::DynamicWeakPtr<T, trunkMode, weakLeafs>::Reference::operator DynamicWeakPtr_ &() const

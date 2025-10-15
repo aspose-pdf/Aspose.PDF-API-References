@@ -10,10 +10,10 @@ url: /cpp/system.text/icuencoder/base/
 ## Base typedef
 
 
-Base type.
+[Base](./) type.
 
 ```cpp
-Encoder System::Text::ICUEncoder::Base
+typedef Encoder System::Text::ICUEncoder::Base
 ```
 
 ## See Also

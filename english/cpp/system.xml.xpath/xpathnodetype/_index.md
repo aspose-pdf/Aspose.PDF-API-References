@@ -29,7 +29,7 @@ enum class XPathNodeType
 | Whitespace | 6 | A node with only white space characters and no significant white space. White space characters are **'\x20'**, **'\x0d'**, **'\x0a'**, **'\x09'**. |
 | ProcessingInstruction | 7 | A processing instruction, such as **<?pi test?>**. This does not include XML declarations, which are not visible to the [XPathNavigator](../xpathnavigator/) class. |
 | Comment | 8 | A comment, such as ****. |
-| All | 9 | Any of the XPathNodeType node types. |
+| All | 9 | Any of the [XPathNodeType](./) node types. |
 
 ## See Also
 

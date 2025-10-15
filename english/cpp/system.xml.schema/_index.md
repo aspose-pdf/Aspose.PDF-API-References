@@ -15,7 +15,7 @@ url: /cpp/system.xml.schema/
 | Class | Description |
 | --- | --- |
 | [IXmlSchemaInfo](./ixmlschemainfo/) | Defines the post-schema-validation infoset of a validated XML node. |
-| [ValidationEventArgs](./validationeventargs/) | Returns detailed information related to the ValidationEventHandler. |
+| [ValidationEventArgs](./validationeventargs/) | Returns detailed information related to the [ValidationEventHandler](./validationeventhandler/). |
 | [XmlAtomicValue](./xmlatomicvalue/) | Represents the typed value of a validated XML element or attribute. The [XmlAtomicValue](./xmlatomicvalue/) class cannot be inherited. |
 | [XmlSchema](./xmlschema/) | An in-memory representation of an XML [Schema](./), as specified in the World Wide [Web](../system.web/) Consortium (W3C) [XML Schema Part 1: Structures](https://www.w3.org/TR/xmlschema-1/) and [XML Schema Part 2: Datatypes](https://www.w3.org/TR/xmlschema-2/). |
 | [XmlSchemaAll](./xmlschemaall/) | Represents the World Wide [Web](../system.web/) Consortium (W3C) **all** element (compositor). |

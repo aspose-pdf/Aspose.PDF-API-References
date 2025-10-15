@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/settemplateweakptr/
 Set n'th template argument a weak pointer (rather than shared). Allows switching pointers in containers to weak mode.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::SetTemplateWeakPtr(uint32_t argument) override
+void Aspose::Pdf::BoundsCheckableList<T>::SetTemplateWeakPtr(uint32_t argument) override
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/const_iterator/
 Const iterator type.
 
 ```cpp
-vector_t::const_iterator System::Collections::Generic::List< T >::const_iterator
+typedef vector_t::const_iterator System::Collections::Generic::List< T >::const_iterator
 ```
 
 ## See Also

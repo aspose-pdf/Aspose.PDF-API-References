@@ -10,7 +10,7 @@ url: /cpp/system/exceptionwrapper/operator-_/
 ## ExceptionWrapper::operator-> method
 
 
-Allows to access members of the Exception object.
+Allows to access members of the [Exception](../../exception/) object.
 
 ```cpp
 T * System::ExceptionWrapper<T>::operator->() const
@@ -19,7 +19,7 @@ T * System::ExceptionWrapper<T>::operator->() const
 
 ### ReturnValue
 
-Raw pointer to the Exception object.
+Raw pointer to the [Exception](../../exception/) object.
 
 ## See Also
 

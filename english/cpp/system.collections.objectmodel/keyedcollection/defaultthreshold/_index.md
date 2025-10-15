@@ -16,10 +16,6 @@ Lookup dictionary creation threshold, default.
 static const int System::Collections::ObjectModel::KeyedCollection<TKey, TItem>::defaultThreshold
 ```
 
-## Remarks
-
-
-Sets default lookup dictionary creation threshold to zero, can be overwrited for concrete types. 
 ## See Also
 
 * Class [KeyedCollection](../)

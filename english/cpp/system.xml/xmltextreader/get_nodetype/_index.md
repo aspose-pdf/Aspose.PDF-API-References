@@ -19,7 +19,7 @@ XmlNodeType System::Xml::XmlTextReader::get_NodeType() override
 
 ### ReturnValue
 
-One of the XmlNodeType values representing the type of the current node.
+One of the [XmlNodeType](../../xmlnodetype/) values representing the type of the current node.
 
 ## See Also
 

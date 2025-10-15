@@ -10,7 +10,7 @@ url: /cpp/system/exceptionwrapper/type/
 ## ExceptionWrapper::Type method
 
 
-Shortcut to get [System::TypeInfo](../../typeinfo/) object for the Exception type.
+Shortcut to get [System::TypeInfo](../../typeinfo/) object for the [Exception](../../exception/) type.
 
 ```cpp
 static const System::TypeInfo & System::ExceptionWrapper<T>::Type()
@@ -19,7 +19,7 @@ static const System::TypeInfo & System::ExceptionWrapper<T>::Type()
 
 ### ReturnValue
 
-Const reference to [TypeInfo](../../typeinfo/) structure which describes Exception type.
+Const reference to [TypeInfo](../../typeinfo/) structure which describes [Exception](../../exception/) type.
 
 ## See Also
 

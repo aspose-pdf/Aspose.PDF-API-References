@@ -10,7 +10,7 @@ url: /cpp/system.drawing/stringformat/get_formatflags/
 ## StringFormat::get_FormatFlags method
 
 
-Returns a bitwise combination of StringFormatFlags that specifies the string format represented by the current object.
+Returns a bitwise combination of [StringFormatFlags](../../stringformatflags/) that specifies the string format represented by the current object.
 
 ```cpp
 StringFormatFlags System::Drawing::StringFormat::get_FormatFlags() const
