@@ -101,6 +101,13 @@ pub struct Document { /* private fields */ }
 | [extract_text](./core/extract_text/) | Return the PDF-document contents as plain text. |
 | [word_count](./core/word_count/) | Return word count in PDF-document. |
 | [character_count](./core/character_count/) | Return character count in PDF-document. |
+| [append](./core/append/) | Append pages from another PDF-document. |
+| [append_pages](./core/append_pages/) | Append selected pages from another PDF-document. |
+| [merge_documents](./core/merge_documents/) | Create a new PDF-document by merging the provided PDF-documents. |
+| [split_document](./core/split_document/) | Create multiple new PDF-documents by extracting pages from the source PDF-document. |
+| [split](./core/split/) | Create multiple new PDF-documents by extracting pages from the current PDF-document. |
+| [split_at_page](./core/split_at_page/) | Split the PDF-document into two new PDF-documents. |
+| [split_at](./core/split_at/) | Split the current PDF-document into two new PDF-documents. |
 | [bytes](./core/bytes/) | Return the contents of the PDF-document as a byte vector. |
 | [page_add](./core/page_add/) | Add new page in PDF-document. |
 | [page_insert](./core/page_insert/) | Insert new page at the specified position in PDF-document. |
