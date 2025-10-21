@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/replacetextstrategy/scope/
 ## Scope enum
 
 
-Scope where replace text operation is applied REPLACE_FIRST by default.
+[Scope](./) where replace text operation is applied REPLACE_FIRST by default.
 
 ```cpp
 enum class Scope

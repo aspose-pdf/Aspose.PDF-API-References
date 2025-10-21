@@ -21,6 +21,9 @@ class ApsLoadOptions : public Aspose::Pdf::LoadOptions
 | Method | Description |
 | --- | --- |
 | [ApsLoadOptions](./apsloadoptions/)() | Default constructor. |
+| [GetType](./gettype/)() const override | Gets actual type of object. Analog of C# [System.Object.GetType()](../../system/object/gettype/) call. |
+| [Is](./is/)(const System::TypeInfo\&) const override | Check if object represents an instance of type described by targetType. Analog of C# 'is' operator. |
+| static [Type](./type/)() |  |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

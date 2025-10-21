@@ -28,6 +28,7 @@ url: /go-cpp/organize/
 | [RemoveHiddenText](./removehiddentext/) | Remove hidden text from PDF-document. |
 | [RemoveImages](./removeimages/) | Remove images from PDF-document. |
 | [RemoveJavaScripts](./removejavascripts/) | Remove java scripts from PDF-document. |
+| [RemoveTables](./removetables/) | Remove tables from PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -39,6 +40,7 @@ url: /go-cpp/organize/
 | [PageRemoveAnnotations](./pageremoveannotations/) | Remove annotations in page. |
 | [PageRemoveHiddenText](./pageremovehiddentext/) | Remove hidden text in page. |
 | [PageRemoveImages](./pageremoveimages/) | Remove images in page. |
+| [PageRemoveTables](./pageremovetables/) | Remove tables in page. |
 
 
 ## Detailed Description

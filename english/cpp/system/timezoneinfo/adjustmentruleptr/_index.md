@@ -13,7 +13,7 @@ url: /cpp/system/timezoneinfo/adjustmentruleptr/
 An alias for a shared pointer to an instance of [AdjustmentRule](../adjustmentrule/) class.
 
 ```cpp
-SharedPtr<AdjustmentRule> System::TimeZoneInfo::AdjustmentRulePtr
+typedef SharedPtr<AdjustmentRule> System::TimeZoneInfo::AdjustmentRulePtr
 ```
 
 ## See Also

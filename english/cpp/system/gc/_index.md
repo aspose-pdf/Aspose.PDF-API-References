@@ -20,6 +20,7 @@ class GC : public System::Object
 
 | Method | Description |
 | --- | --- |
+| static [GetTotalAllocatedBytes](./gettotalallocatedbytes/)(bool) | Returns total allocated bytes. |
 | static [GetTotalMemory](./gettotalmemory/)(bool) | Returns the number of bytes of private memory currently allocated by the current process. |
 ## See Also
 

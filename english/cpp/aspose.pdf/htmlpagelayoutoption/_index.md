@@ -20,7 +20,7 @@ enum class HtmlPageLayoutOption
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | 0 | Default value which indicates that the HtmlPageLayoutOption will not affect the sizes and layouts of pages. |
+| None | 0 | Default value which indicates that the [HtmlPageLayoutOption](./) will not affect the sizes and layouts of pages. |
 | FitToWidestContentWidth | n/a | Indicates that the width of the page is determinated from the content size itself, not from the specified page width. |
 | ScaleToPageWidth | 256 | Indicates the content of the document will be scaled to fit the page. |
 

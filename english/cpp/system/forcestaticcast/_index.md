@@ -4,7 +4,7 @@ linktitle: ForceStaticCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ForceStaticCast method. Performs real static cast on SmartPtr objects in C++.'
 type: docs
-weight: 19600
+weight: 20300
 url: /cpp/system/forcestaticcast/
 ---
 ## System::ForceStaticCast method

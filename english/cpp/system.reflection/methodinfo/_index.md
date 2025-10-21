@@ -20,7 +20,7 @@ class MethodInfo : public System::Reflection::MemberInfo
 
 | Method | Description |
 | --- | --- |
-| [get_MemberType](./get_membertype/)() const override | Gets a MemberTypes value indicating that this member is a method. |
+| [get_MemberType](./get_membertype/)() const override | Gets a [MemberTypes](../membertypes/) value indicating that this member is a method. |
 | [MethodInfo](./methodinfo/)(const String\&) | Initializes a new instance of the [MethodInfo](./) class. |
 ## See Also
 

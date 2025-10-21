@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/insert/
 Inserts an element into the [System.Collections.Generic.List](../../../system.collections.generic/list/) at the specified index.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::Insert(int32_t index, const T &item) override
+void Aspose::Pdf::BoundsCheckableList<T>::Insert(int32_t index, const T &item) override
 ```
 
 

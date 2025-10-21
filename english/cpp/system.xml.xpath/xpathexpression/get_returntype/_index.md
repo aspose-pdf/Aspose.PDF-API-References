@@ -19,7 +19,7 @@ virtual XPathResultType System::Xml::XPath::XPathExpression::get_ReturnType()=0
 
 ### ReturnValue
 
-An XPathResultType value representing the result type of the [XPath](../../) expression.
+An [XPathResultType](../../xpathresulttype/) value representing the result type of the [XPath](../../) expression.
 
 ## See Also
 

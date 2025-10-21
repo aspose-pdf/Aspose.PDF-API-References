@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/kvpair/
 Key-value pair type.
 
 ```cpp
-KeyValuePair<key_t, mapped_t> System::Collections::Generic::BaseDictionary< Map >::KVPair
+typedef KeyValuePair<key_t, mapped_t> System::Collections::Generic::BaseDictionary< Map >::KVPair
 ```
 
 ## See Also

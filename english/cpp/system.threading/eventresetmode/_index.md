@@ -4,7 +4,7 @@ linktitle: EventResetMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::EventResetMode enum. Indicates how event state resets in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.threading/eventresetmode/
 ---
 ## EventResetMode enum
@@ -20,8 +20,8 @@ enum class EventResetMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| AutoReset | 0 | Event state resets automatically on reading. |
-| ManualReset | 1 | Event state should be reset manually. |
+| AutoReset | 0 | [Event](../../system/event/) state resets automatically on reading. |
+| ManualReset | 1 | [Event](../../system/event/) state should be reset manually. |
 
 ## See Also
 

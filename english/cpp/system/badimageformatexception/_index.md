@@ -10,7 +10,7 @@ url: /cpp/system/badimageformatexception/
 ## BadImageFormatException typedef
 
 
-The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the BadImageFormatException class instances into [System::SmartPtr](../smartptr/).
+The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the [BadImageFormatException](./) class instances into [System::SmartPtr](../smartptr/).
 
 ```cpp
 using System::BadImageFormatException =  System::ExceptionWrapper<Details_BadImageFormatException>

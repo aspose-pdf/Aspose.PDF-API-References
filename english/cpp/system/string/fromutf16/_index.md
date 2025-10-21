@@ -4,7 +4,7 @@ linktitle: FromUtf16
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::FromUtf16 method. Creates String from utf16 string in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/system/string/fromutf16/
 ---
 ## String::FromUtf16 method

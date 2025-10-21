@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/valuecollection/
 Collection of values.
 
 ```cpp
-ICollection<mapped_t> System::Collections::Generic::BaseDictionary< Map >::ValueCollection
+typedef ICollection<mapped_t> System::Collections::Generic::BaseDictionary< Map >::ValueCollection
 ```
 
 ## See Also

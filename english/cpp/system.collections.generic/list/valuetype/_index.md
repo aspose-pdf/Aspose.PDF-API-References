@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/valuetype/
 This type.
 
 ```cpp
-T System::Collections::Generic::List< T >::ValueType
+typedef T System::Collections::Generic::List< T >::ValueType
 ```
 
 ## See Also

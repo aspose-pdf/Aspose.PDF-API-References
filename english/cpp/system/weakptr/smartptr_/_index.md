@@ -13,7 +13,7 @@ url: /cpp/system/weakptr/smartptr_/
 Alias for corresponding [SmartPtr](../../smartptr/) class.
 
 ```cpp
-SmartPtr<T> System::WeakPtr< T >::SmartPtr_
+typedef SmartPtr<T> System::WeakPtr< T >::SmartPtr_
 ```
 
 ## See Also

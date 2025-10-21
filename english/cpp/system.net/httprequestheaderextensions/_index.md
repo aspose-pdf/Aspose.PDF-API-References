@@ -10,7 +10,7 @@ url: /cpp/system.net/httprequestheaderextensions/
 ## HttpRequestHeaderExtensions class
 
 
-Contains utility methods to work with the HttpRequestHeader enumeration values.
+Contains utility methods to work with the [HttpRequestHeader](../httprequestheader/) enumeration values.
 
 ```cpp
 class HttpRequestHeaderExtensions

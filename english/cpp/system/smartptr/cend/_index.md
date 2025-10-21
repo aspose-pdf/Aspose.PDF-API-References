@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/cend/
 ## SmartPtr::cend method
 
 
-Accessor for [cend()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cend()](./) method.
+Accessor for [cend()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [cend()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<const Q>().cend()) System::SmartPtr<T>::cend() const

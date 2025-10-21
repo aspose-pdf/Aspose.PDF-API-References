@@ -13,7 +13,7 @@ url: /cpp/system.collections.objectmodel/collection/reverse_iterator/
 
 
 ```cpp
-reverse_iterator_prototype<T> System::Collections::ObjectModel::Collection< T >::reverse_iterator
+typedef reverse_iterator_prototype<T> System::Collections::ObjectModel::Collection< T >::reverse_iterator
 ```
 
 ## See Also

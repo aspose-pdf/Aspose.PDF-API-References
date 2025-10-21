@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/ienumerableptr/
 Collection of same pairs type.
 
 ```cpp
-SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::SortedList< TKey, TValue >::IEnumerablePtr
+typedef SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::SortedList< TKey, TValue >::IEnumerablePtr
 ```
 
 ## See Also

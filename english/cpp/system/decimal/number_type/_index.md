@@ -13,7 +13,7 @@ url: /cpp/system/decimal/number_type/
 An alias for Detail::decimal_number_type.
 
 ```cpp
-Detail::decimal_number_type System::Decimal::number_type
+typedef Detail::decimal_number_type System::Decimal::number_type
 ```
 
 ## See Also

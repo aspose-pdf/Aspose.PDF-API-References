@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/idx_get/
 Gets paragraph from or to collection.
 
 ```cpp
-T Aspose::Pdf::BoundsCheckableList<typename>::idx_get(int32_t index) const override
+T Aspose::Pdf::BoundsCheckableList<T>::idx_get(int32_t index) const override
 ```
 
 

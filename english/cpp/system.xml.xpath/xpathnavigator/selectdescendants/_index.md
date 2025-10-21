@@ -38,7 +38,7 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected node
 ## XPathNavigator::SelectDescendants(XPathNodeType, bool) method
 
 
-Selects all the descendant nodes of the current node that have a matching XPathNodeType.
+Selects all the descendant nodes of the current node that have a matching [XPathNodeType](../../xpathnodetype/).
 
 ```cpp
 virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectDescendants(XPathNodeType type, bool matchSelf)
@@ -47,7 +47,7 @@ virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectD
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the descendant nodes. |
+| type | XPathNodeType | The [XPathNodeType](../../xpathnodetype/) of the descendant nodes. |
 | matchSelf | bool | **true** to include the context node in the selection; otherwise, **false**. |
 
 ### ReturnValue

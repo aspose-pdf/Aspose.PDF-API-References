@@ -13,7 +13,7 @@ url: /cpp/system/array/const_reverse_iterator/
 Const reverse iterator type.
 
 ```cpp
-vector_t::const_reverse_iterator System::Array< T >::const_reverse_iterator
+typedef vector_t::const_reverse_iterator System::Array< T >::const_reverse_iterator
 ```
 
 ## See Also

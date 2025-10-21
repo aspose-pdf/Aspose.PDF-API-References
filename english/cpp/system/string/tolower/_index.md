@@ -4,7 +4,7 @@ linktitle: ToLower
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::ToLower method. Converts all string''s characters to lower case in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/system/string/tolower/
 ---
 ## String::ToLower() const method

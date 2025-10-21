@@ -35,7 +35,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToChild(String localName, S
 ## XPathNavigator::MoveToChild(XPathNodeType) method
 
 
-Moves the [XPathNavigator](../) to the child node of the XPathNodeType specified.
+Moves the [XPathNavigator](../) to the child node of the [XPathNodeType](../../xpathnodetype/) specified.
 
 ```cpp
 virtual bool System::Xml::XPath::XPathNavigator::MoveToChild(XPathNodeType type)
@@ -44,7 +44,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToChild(XPathNodeType type)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the child node to move to. |
+| type | XPathNodeType | The [XPathNodeType](../../xpathnodetype/) of the child node to move to. |
 
 ### ReturnValue
 

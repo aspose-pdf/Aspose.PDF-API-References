@@ -19,7 +19,7 @@ virtual SharedPtr<XmlNode> System::Xml::XmlDocument::CreateNode(const String &no
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| nodeTypeString | const String\& | [String](../../../system/string/) version of the XmlNodeType of the new node. This parameter must be one of the values listed in the table below. |
+| nodeTypeString | const String\& | [String](../../../system/string/) version of the [XmlNodeType](../../xmlnodetype/) of the new node. This parameter must be one of the values listed in the table below. |
 | name | const String\& | The qualified name of the new node. If the name contains a colon, it is parsed into [XmlNode::get_Prefix](../../xmlnode/get_prefix/) and [XmlDocument::get_LocalName](../get_localname/) components. |
 | namespaceURI | const String\& | The namespace URI of the new node. |
 
@@ -32,7 +32,7 @@ The new [XmlNode](../../xmlnode/).
 
 The **nodeTypeString** parameter is case sensitive and must be one of the values in the following table: |||
 |-|-|
-|nodeTypeString|XmlNodeType |
+|nodeTypeString|XmlNodeType|
 |attribute|Attribute|
 |cdatasection|CDATA |
 |comment|Comment |
@@ -57,7 +57,7 @@ The **nodeTypeString** parameter is case sensitive and must be one of the values
 ## XmlDocument::CreateNode(XmlNodeType, const String\&, const String\&) method
 
 
-Creates an [XmlNode](../../xmlnode/) with the specified XmlNodeType, [XmlDocument::get_Name](../get_name/), and [XmlNode::get_NamespaceURI](../../xmlnode/get_namespaceuri/).
+Creates an [XmlNode](../../xmlnode/) with the specified [XmlNodeType](../../xmlnodetype/), [XmlDocument::get_Name](../get_name/), and [XmlNode::get_NamespaceURI](../../xmlnode/get_namespaceuri/).
 
 ```cpp
 virtual SharedPtr<XmlNode> System::Xml::XmlDocument::CreateNode(XmlNodeType type, const String &name, const String &namespaceURI)
@@ -66,7 +66,7 @@ virtual SharedPtr<XmlNode> System::Xml::XmlDocument::CreateNode(XmlNodeType type
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XmlNodeType | The XmlNodeType of the new node. |
+| type | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the new node. |
 | name | const String\& | The qualified name of the new node. If the name contains a colon then it is parsed into [XmlNode::get_Prefix](../../xmlnode/get_prefix/) and [XmlDocument::get_LocalName](../get_localname/) components. |
 | namespaceURI | const String\& | The namespace URI of the new node. |
 
@@ -86,7 +86,7 @@ The new [XmlNode](../../xmlnode/).
 ## XmlDocument::CreateNode(XmlNodeType, const String\&, const String\&, const String\&) method
 
 
-Creates a [XmlNode](../../xmlnode/) with the specified XmlNodeType, [XmlNode::get_Prefix](../../xmlnode/get_prefix/), [XmlDocument::get_Name](../get_name/), and [XmlNode::get_NamespaceURI](../../xmlnode/get_namespaceuri/).
+Creates a [XmlNode](../../xmlnode/) with the specified [XmlNodeType](../../xmlnodetype/), [XmlNode::get_Prefix](../../xmlnode/get_prefix/), [XmlDocument::get_Name](../get_name/), and [XmlNode::get_NamespaceURI](../../xmlnode/get_namespaceuri/).
 
 ```cpp
 virtual SharedPtr<XmlNode> System::Xml::XmlDocument::CreateNode(XmlNodeType type, const String &prefix, const String &name, const String &namespaceURI)
@@ -95,7 +95,7 @@ virtual SharedPtr<XmlNode> System::Xml::XmlDocument::CreateNode(XmlNodeType type
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XmlNodeType | The XmlNodeType of the new node. |
+| type | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the new node. |
 | prefix | const String\& | The prefix of the new node. |
 | name | const String\& | The local name of the new node. |
 | namespaceURI | const String\& | The namespace URI of the new node. |

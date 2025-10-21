@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/toobjectptr/
 ## SmartPtr::ToObjectPtr method
 
 
-Converts any pointer type to pointer to [Object](../../object/). Doesn't require Pointee_ type to be complete.
+Converts any pointer type to pointer to [Object](../../object/). Doesn't require [Pointee_](../pointee_/) type to be complete.
 
 ```cpp
 SmartPtr<Object> System::SmartPtr<T>::ToObjectPtr() const

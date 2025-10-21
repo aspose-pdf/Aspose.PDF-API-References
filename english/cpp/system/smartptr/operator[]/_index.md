@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/operator[]/
 ## SmartPtr::operator[] method
 
 
-Accessor for array elements. Only compiles if SmartPtr_ is specialization of [System::Array](../../array/).
+Accessor for array elements. Only compiles if [SmartPtr_](../smartptr_/) is specialization of [System::Array](../../array/).
 
 ```cpp
 template<typename IdxType> decltype(System::Details::GetByIndex(std::declval<const SmartPtr_ *>(), std::declval<IdxType>())) System::SmartPtr<T>::operator[](IdxType idx) const

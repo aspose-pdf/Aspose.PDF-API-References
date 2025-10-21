@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/stackptr/
 [Stack](../stack/) pointer. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-template<typename T>class StackPtr : public System::SmartPtr<Stack<T>>
+template<typename T>class StackPtr : public System::SmartPtr<T0>
 ```
 
 

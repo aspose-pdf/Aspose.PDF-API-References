@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/copyto/
 Copies the entire [System.Collections.Generic.List](../../../system.collections.generic/list/) to a compatible one-dimensional array, starting at the specified index of the target array.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::CopyTo(System::ArrayPtr<T> array, int32_t arrayIndex) override
+void Aspose::Pdf::BoundsCheckableList<T>::CopyTo(System::ArrayPtr<T> array, int32_t arrayIndex) override
 ```
 
 

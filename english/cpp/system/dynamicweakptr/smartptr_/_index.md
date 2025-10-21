@@ -13,7 +13,7 @@ url: /cpp/system/dynamicweakptr/smartptr_/
 [SmartPtr](../../smartptr/) baseclass alias.
 
 ```cpp
-SmartPtr<T> System::DynamicWeakPtr< T, trunkMode, weakLeafs >::SmartPtr_
+typedef SmartPtr<T> System::DynamicWeakPtr< T, trunkMode, weakLeafs >::SmartPtr_
 ```
 
 ## See Also

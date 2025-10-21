@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/updateboundscheckmode/
 Updates boundsCheckMode parameter for initialized collection.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
+void Aspose::Pdf::BoundsCheckableList<T>::UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 ```
 
 
@@ -33,7 +33,7 @@ void Aspose::Pdf::BoundsCheckableList<typename>::UpdateBoundsCheckMode(BoundsChe
 Updates boundsCheckMode parameter for initialized collection.
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
+void Aspose::Pdf::BoundsCheckableList<T>::UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
 ```
 
 

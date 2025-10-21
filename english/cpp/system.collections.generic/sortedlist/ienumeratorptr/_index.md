@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/ienumeratorptr/
 [Enumerator](../enumerator/) type.
 
 ```cpp
-SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::SortedList< TKey, TValue >::IEnumeratorPtr
+typedef SharedPtr< IEnumerator<KVPair> > System::Collections::Generic::SortedList< TKey, TValue >::IEnumeratorPtr
 ```
 
 ## See Also

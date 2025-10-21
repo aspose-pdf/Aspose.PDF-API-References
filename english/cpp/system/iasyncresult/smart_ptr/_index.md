@@ -13,7 +13,7 @@ url: /cpp/system/iasyncresult/smart_ptr/
 Shared pointer to [IAsyncResult](../).
 
 ```cpp
-SharedPtr<IAsyncResult> System::IAsyncResult::smart_ptr
+typedef SharedPtr<IAsyncResult> System::IAsyncResult::smart_ptr
 ```
 
 ## See Also

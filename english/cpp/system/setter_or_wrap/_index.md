@@ -4,7 +4,7 @@ linktitle: setter_or_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_or_wrap method of  class in C++.'
 type: docs
-weight: 37800
+weight: 38700
 url: /cpp/system/setter_or_wrap/
 ---
 ## System::setter_or_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

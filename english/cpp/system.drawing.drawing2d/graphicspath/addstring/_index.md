@@ -21,7 +21,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddString(const String &text, con
 | --- | --- | --- |
 | text | const String\& | The text to add |
 | family | const SharedPtr\<FontFamily\>\& | The font family used to draw the text |
-| style | int | A FontStyle enumeration value tha specifies the font style to use |
+| style | int | A [FontStyle](../../../system.drawing/fontstyle/) enumeration value tha specifies the font style to use |
 | emSize | float | The height of the em square box that bounds each character of the string |
 | origin | Point | Specifies the location where the text starts |
 | stringFormat | const SharedPtr\<StringFormat\>\& | The format of the string |
@@ -50,7 +50,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddString(const String &text, con
 | --- | --- | --- |
 | text | const String\& | The text to add |
 | family | const SharedPtr\<FontFamily\>\& | The font family used to draw the text |
-| style | int | A FontStyle enumeration value tha specifies the font style to use |
+| style | int | A [FontStyle](../../../system.drawing/fontstyle/) enumeration value tha specifies the font style to use |
 | emSize | float | The height of the em square box that bounds each character of the string |
 | origin | PointF | Specifies the location where the text starts |
 | stringFormat | const SharedPtr\<StringFormat\>\& | The format of the string |
@@ -79,7 +79,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddString(const String &text, con
 | --- | --- | --- |
 | text | const String\& | The text to add |
 | family | const SharedPtr\<FontFamily\>\& | The font family used to draw the text |
-| style | int | A FontStyle enumeration value tha specifies the font style to use |
+| style | int | A [FontStyle](../../../system.drawing/fontstyle/) enumeration value tha specifies the font style to use |
 | emSize | float | The height of the em square box that bounds each character of the string |
 | layoutRect | Rectangle | A rectangle that bounds the text |
 | stringFormat | const SharedPtr\<StringFormat\>\& | The format of the string |
@@ -108,7 +108,7 @@ void System::Drawing::Drawing2D::GraphicsPath::AddString(const String &text, con
 | --- | --- | --- |
 | text | const String\& | The text to add |
 | family | const SharedPtr\<FontFamily\>\& | The font family used to draw the text |
-| style | int | A FontStyle enumeration value tha specifies the font style to use |
+| style | int | A [FontStyle](../../../system.drawing/fontstyle/) enumeration value tha specifies the font style to use |
 | emSize | float | The height of the em square box that bounds each character of the string |
 | layoutRect | RectangleF | A rectangle that bounds the text |
 | stringFormat | const SharedPtr\<StringFormat\>\& | The format of the string |

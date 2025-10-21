@@ -4,7 +4,7 @@ linktitle: get_IsFixedSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::get_IsFixedSize method. Checks if collection size is fixed in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/idictionary/get_isfixedsize/
 ---
 ## IDictionary::get_IsFixedSize method

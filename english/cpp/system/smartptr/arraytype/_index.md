@@ -10,10 +10,10 @@ url: /cpp/system/smartptr/arraytype/
 ## ArrayType typedef
 
 
-Same as Pointee_, if it is a specialization of [System::Array](../../array/), and void otherwise.
+Same as [Pointee_](../pointee_/), if it is a specialization of [System::Array](../../array/), and void otherwise.
 
 ```cpp
-System::Details::ArrayTypeResolver<T>::type System::SmartPtr< T >::ArrayType
+typedef System::Details::ArrayTypeResolver<T>::type System::SmartPtr< T >::ArrayType
 ```
 
 ## See Also

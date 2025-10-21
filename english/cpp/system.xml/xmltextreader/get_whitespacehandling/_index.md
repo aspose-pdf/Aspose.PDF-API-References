@@ -19,7 +19,7 @@ System::Xml::WhitespaceHandling System::Xml::XmlTextReader::get_WhitespaceHandli
 
 ### ReturnValue
 
-One of the WhitespaceHandling values. The default is **[WhitespaceHandling.All](../../whitespacehandling/)** (returns **Whitespace** and **SignificantWhitespace** nodes).
+One of the [WhitespaceHandling](../../whitespacehandling/) values. The default is **[WhitespaceHandling.All](../../whitespacehandling/)** (returns **Whitespace** and **SignificantWhitespace** nodes).
 
 ## See Also
 

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/autorotatemode/
 ## AutoRotateMode enum
 
 
-Direction of the rotation when document is printed.
+[Direction](../../aspose.pdf/direction/) of the rotation when document is printed.
 
 ```cpp
 enum class AutoRotateMode
@@ -21,8 +21,8 @@ enum class AutoRotateMode
 | Name | Value | Description |
 | --- | --- | --- |
 | None | 0 | No rotation. |
-| ClockWise | 1 | Rotation direction is clockwise. |
-| AntiClockWise | 2 | Rotation directon is counterclockwise. |
+| ClockWise | 1 | [Rotation](../../aspose.pdf/rotation/) direction is clockwise. |
+| AntiClockWise | 2 | [Rotation](../../aspose.pdf/rotation/) directon is counterclockwise. |
 
 ## See Also
 

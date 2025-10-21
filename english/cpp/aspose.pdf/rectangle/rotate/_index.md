@@ -38,7 +38,7 @@ void Aspose::Pdf::Rectangle::Rotate(Rotation angle)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| angle | Rotation | Angle of rotation. Member of Rotation enumeration. |
+| angle | Rotation | Angle of rotation. Member of [Rotation](../../rotation/) enumeration. |
 
 ## See Also
 

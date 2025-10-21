@@ -28,9 +28,9 @@ template<typename T,typename>class BasicSTDOStreamWrapper : public virtual Syste
 | [Read](./read/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) override | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
 | [ReadByte](./readbyte/)() override | If wrapping mode is binary, reads a single byte from the last decoded character storage, otherwise read a single character from the stream and convert it to uint8_t type. Not supported! |
 | [SetLength](./setlength/)(int64_t) override | Sets the length of the stream represented by the current object. |
-| [Write](./write/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) override | If wrapping mode is binary, writes to the stream the specified subrange of bytes from the specified byte array, otherwise convert the specified subrange of bytes from the specified byte array to char_type type ant then writes result to the stream. |
+| [Write](./write/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) override | If wrapping mode is binary, writes to the stream the specified subrange of bytes from the specified byte array, otherwise convert the specified subrange of bytes from the specified byte array to [char_type](./char_type/) type ant then writes result to the stream. |
 | [Write](./write/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) override | Writes the specified subrange of bytes from the specified byte array to the stream. |
-| [WriteByte](./writebyte/)(uint8_t) override | If wrapping mode is binary, writes to the stream the specified unsigned 8-bit integer value, otherwise convert it to char_type type and then write the result to the stream. |
+| [WriteByte](./writebyte/)(uint8_t) override | If wrapping mode is binary, writes to the stream the specified unsigned 8-bit integer value, otherwise convert it to [char_type](./char_type/) type and then write the result to the stream. |
 ## Fields
 
 | Field | Description |

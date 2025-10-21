@@ -33,7 +33,7 @@ class ICUEncoder : public System::Text::Encoder
 
 | Typedef | Description |
 | --- | --- |
-| [Base](./base/) | Base type. |
+| [Base](./base/) | [Base](./base/) type. |
 ## See Also
 
 * Class [Encoder](../encoder/)

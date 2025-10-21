@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/ilist/basetype/
 RTTI information.
 
 ```cpp
-ICollection<T> System::Collections::Generic::IList< T >::BaseType
+typedef ICollection<T> System::Collections::Generic::IList< T >::BaseType
 ```
 
 ## Remarks

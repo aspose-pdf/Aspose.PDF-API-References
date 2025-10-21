@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/keycollection/
 Key collection type.
 
 ```cpp
-ICollection<TKey> System::Collections::Generic::SortedList< TKey, TValue >::KeyCollection
+typedef ICollection<TKey> System::Collections::Generic::SortedList< TKey, TValue >::KeyCollection
 ```
 
 ## See Also

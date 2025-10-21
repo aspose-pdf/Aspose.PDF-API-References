@@ -30,7 +30,7 @@ class XmlTextWriter : public System::Xml::XmlWriter
 | [get_QuoteChar](./get_quotechar/)() | Returns which character to use to quote attribute values. |
 | [get_WriteState](./get_writestate/)() override | Returns the state of the writer. |
 | [get_XmlLang](./get_xmllang/)() override | Returns the current **xml:lang** scope. |
-| [get_XmlSpace](./get_xmlspace/)() override | Returns an XmlSpace representing the current **xml:space** scope. |
+| [get_XmlSpace](./get_xmlspace/)() override | Returns an [XmlSpace](../xmlspace/) representing the current **xml:space** scope. |
 | [LookupPrefix](./lookupprefix/)(String) override | Returns the closest prefix defined in the current namespace scope for the namespace URI. |
 | [set_Formatting](./set_formatting/)(System::Xml::Formatting) | Indicates how the output is formatted. |
 | [set_Indentation](./set_indentation/)(int32_t) | Sets how many IndentChars to write for each level in the hierarchy when [XmlTextWriter::set_Formatting](./set_formatting/) is set to [Formatting::Indented](../formatting/). |

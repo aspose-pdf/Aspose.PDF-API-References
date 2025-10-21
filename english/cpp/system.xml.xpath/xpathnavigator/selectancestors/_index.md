@@ -38,7 +38,7 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected node
 ## XPathNavigator::SelectAncestors(XPathNodeType, bool) method
 
 
-Selects all the ancestor nodes of the current node that have a matching XPathNodeType.
+Selects all the ancestor nodes of the current node that have a matching [XPathNodeType](../../xpathnodetype/).
 
 ```cpp
 virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectAncestors(XPathNodeType type, bool matchSelf)
@@ -47,7 +47,7 @@ virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectA
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the ancestor nodes. |
+| type | XPathNodeType | The [XPathNodeType](../../xpathnodetype/) of the ancestor nodes. |
 | matchSelf | bool | To include the context node in the selection, **true**; otherwise, **false**. |
 
 ### ReturnValue

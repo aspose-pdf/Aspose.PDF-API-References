@@ -10,7 +10,7 @@ url: /cpp/system.collections.generic/sorteddictionary/get_comparer/
 ## SortedDictionary::get_Comparer method
 
 
-Gets the IComparer<TKey> used to order the elements of the SortedDictionary<TKey,TValue>.
+Gets the [IComparer<TKey>](../../icomparer/) used to order the elements of the SortedDictionary<TKey,TValue>.
 
 ```cpp
 SharedPtr<System::Collections::Generic::IComparer<TKey>> System::Collections::Generic::SortedDictionary<TKey, TValue>::get_Comparer() const

@@ -19,7 +19,7 @@ T System::Collections::Generic::List<T>::Find(System::Predicate<T> predicate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| predicate | System::Predicate\<T\> | Predicate to check elements with. |
+| predicate | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

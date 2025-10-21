@@ -13,7 +13,7 @@ url: /cpp/system.net/endpoint/implptr/
 A pointer to implementation.
 
 ```cpp
-std::shared_ptr<System::Details::io_endpoint_impl> System::Net::EndPoint::ImplPtr
+typedef std::shared_ptr<System::Details::io_endpoint_impl> System::Net::EndPoint::ImplPtr
 ```
 
 ## See Also

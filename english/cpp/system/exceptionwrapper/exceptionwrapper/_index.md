@@ -10,7 +10,7 @@ url: /cpp/system/exceptionwrapper/exceptionwrapper/
 ## ExceptionWrapper::ExceptionWrapper(Args\&&...) constructor
 
 
-Constructor that forwards parameters to the Exception class constructors and creates smart pointer that holds new Exception class instance.
+Constructor that forwards parameters to the [Exception](../../exception/) class constructors and creates smart pointer that holds new [Exception](../../exception/) class instance.
 
 ```cpp
 template<typename ...,typename> System::ExceptionWrapper<T>::ExceptionWrapper(Args &&...args)
@@ -33,7 +33,7 @@ System::ExceptionWrapper<T>::ExceptionWrapper(const ExceptionPtr &ptr)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | const ExceptionPtr\& | Smart pointer to the instance of Exception class. |
+| ptr | const ExceptionPtr\& | Smart pointer to the instance of [Exception](../../exception/) class. |
 
 ## See Also
 

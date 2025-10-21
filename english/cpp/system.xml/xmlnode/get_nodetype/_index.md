@@ -19,7 +19,7 @@ virtual XmlNodeType System::Xml::XmlNode::get_NodeType()=0
 
 ### ReturnValue
 
-One of the XmlNodeType values.
+One of the [XmlNodeType](../../xmlnodetype/) values.
 
 ## See Also
 

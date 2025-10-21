@@ -32,8 +32,8 @@ template<typename TKey,typename TValue>class SortedList : public System::Collect
 | [crbegin](./crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [crend](./crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
 | [get_Capacity](./get_capacity/)() const | Gets current list capacity. |
-| [get_Keys](./get_keys/)() const |  |
-| [get_Values](./get_values/)() const |  |
+| virtual [get_Keys](./get_keys/)() const | Accesses key collection. |
+| virtual [get_Values](./get_values/)() const | Accesses value collection. |
 | [GetEnumerator](./getenumerator/)() override | Gets enumerator iterating through current list. |
 | [IndexOfKey](./indexofkey/)(TKey) const | Looks for specific key. |
 | [IndexOfValue](./indexofvalue/)(TValue) const | Looks for specific value. |

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/basedictionary/basetype/
 Implemented interface.
 
 ```cpp
-IDictionary<typename Map::key_type, typename Map::mapped_type> System::Collections::Generic::BaseDictionary< Map >::BaseType
+typedef IDictionary<typename Map::key_type, typename Map::mapped_type> System::Collections::Generic::BaseDictionary< Map >::BaseType
 ```
 
 ## See Also

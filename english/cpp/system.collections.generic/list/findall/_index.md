@@ -19,7 +19,7 @@ ListPtr<T> System::Collections::Generic::List<T>::FindAll(System::Predicate<T> m
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/system.net.security/sslstream/streamimplementationptr/
 Type of pointer to the implementation.
 
 ```cpp
-std::shared_ptr<System::Net::Details::TlsStreamImplSocket> System::Net::Security::SslStream::StreamImplementationPtr
+typedef std::shared_ptr<System::Net::Details::TlsStreamImplSocket> System::Net::Security::SslStream::StreamImplementationPtr
 ```
 
 ## See Also

@@ -37,7 +37,7 @@ An [XPathNodeIterator](../../xpathnodeiterator/) that contains the selected node
 ## XPathNavigator::SelectChildren(XPathNodeType) method
 
 
-Selects all the child nodes of the current node that have the matching XPathNodeType.
+Selects all the child nodes of the current node that have the matching [XPathNodeType](../../xpathnodetype/).
 
 ```cpp
 virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectChildren(XPathNodeType type)
@@ -46,7 +46,7 @@ virtual SharedPtr<XPathNodeIterator> System::Xml::XPath::XPathNavigator::SelectC
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the child nodes. |
+| type | XPathNodeType | The [XPathNodeType](../../xpathnodetype/) of the child nodes. |
 
 ### ReturnValue
 

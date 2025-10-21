@@ -13,7 +13,7 @@ url: /cpp/system.io/textwriter/ptr/
 An alias for a shared pointer to this class.
 
 ```cpp
-System::SharedPtr<TextWriter> System::IO::TextWriter::Ptr
+typedef System::SharedPtr<TextWriter> System::IO::TextWriter::Ptr
 ```
 
 ## See Also

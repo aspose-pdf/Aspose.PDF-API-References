@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmlconvert/verifyxmlchars/
 ## XmlConvert::VerifyXmlChars method
 
 
-Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered.
+Returns the passed-in string if all the characters and surrogate pair characters in the string argument are valid XML characters, otherwise an [XmlException](../../xmlexception/) is thrown with information on the first invalid character encountered.
 
 ```cpp
 static String System::Xml::XmlConvert::VerifyXmlChars(const String &content)
@@ -23,7 +23,7 @@ static String System::Xml::XmlConvert::VerifyXmlChars(const String &content)
 
 ### ReturnValue
 
-The passed-in string if all the characters and surrogate-pair characters in the string argument are valid XML characters, otherwise an XmlException is thrown with information on the first invalid character encountered.
+The passed-in string if all the characters and surrogate-pair characters in the string argument are valid XML characters, otherwise an [XmlException](../../xmlexception/) is thrown with information on the first invalid character encountered.
 
 ## See Also
 

@@ -22,7 +22,7 @@ class RequestCachePolicy : public System::Object
 | --- | --- |
 | [get_Level](./get_level/)() | RTTI information. |
 | [RequestCachePolicy](./requestcachepolicy/)() | Constructs a new instance. |
-| [RequestCachePolicy](./requestcachepolicy/)(RequestCacheLevel) | Construct a new instance with the specified RequestCacheLevel value. |
+| [RequestCachePolicy](./requestcachepolicy/)(RequestCacheLevel) | Construct a new instance with the specified [RequestCacheLevel](../requestcachelevel/) value. |
 | [ToString](./tostring/)() const override | Analog of C# [Object.ToString()](../../system/object/tostring/) method. Enables converting custom objects to string. |
 ## See Also
 

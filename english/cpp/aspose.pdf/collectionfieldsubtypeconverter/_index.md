@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/collectionfieldsubtypeconverter/
 ## CollectionFieldSubtypeConverter class
 
 
-Represents a class for converting CollectionFieldSubtype values.
+Represents a class for converting [CollectionFieldSubtype](../collectionfieldsubtype/) values.
 
 ```cpp
 class CollectionFieldSubtypeConverter : public System::Object
@@ -20,10 +20,10 @@ class CollectionFieldSubtypeConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [Convert](./convert/)(System::SharedPtr\<Engine::Data::IPdfName\>) | Converts a PdfName value to its corresponding CollectionFieldSubtype enumeration value. |
-| static [Convert](./convert/)(System::String) | Converts a string value to its corresponding CollectionFieldSubtype enumeration value. |
-| static [Convert](./convert/)(CollectionFieldSubtype) | Converts a CollectionFieldSubtype value to its string representation. |
-| static [ConvertToFieldType](./converttofieldtype/)(CollectionFieldSubtype) | Converts a CollectionFieldSubtype enumeration value to its corresponding FieldValueType enumeration value. |
+| static [Convert](./convert/)(System::SharedPtr\<Engine::Data::IPdfName\>) | Converts a PdfName value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
+| static [Convert](./convert/)(System::String) | Converts a string value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
+| static [Convert](./convert/)(CollectionFieldSubtype) | Converts a [CollectionFieldSubtype](../collectionfieldsubtype/) value to its string representation. |
+| static [ConvertToFieldType](./converttofieldtype/)(CollectionFieldSubtype) | Converts a [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value to its corresponding [FieldValueType](../fieldvaluetype/) enumeration value. |
 ## See Also
 
 * Class [Object](../../system/object/)

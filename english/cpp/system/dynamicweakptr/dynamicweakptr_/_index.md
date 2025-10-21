@@ -13,7 +13,7 @@ url: /cpp/system/dynamicweakptr/dynamicweakptr_/
 Self type alias.
 
 ```cpp
-DynamicWeakPtr<T, trunkMode, weakLeafs...> System::DynamicWeakPtr< T, trunkMode, weakLeafs >::DynamicWeakPtr_
+typedef DynamicWeakPtr<T, trunkMode, weakLeafs...> System::DynamicWeakPtr< T, trunkMode, weakLeafs >::DynamicWeakPtr_
 ```
 
 ## See Also

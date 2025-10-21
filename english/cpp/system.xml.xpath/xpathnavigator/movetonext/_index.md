@@ -54,7 +54,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNext(String localName, St
 ## XPathNavigator::MoveToNext(XPathNodeType) method
 
 
-Moves the [XPathNavigator](../) to the next sibling node of the current node that matches the XPathNodeType specified.
+Moves the [XPathNavigator](../) to the next sibling node of the current node that matches the [XPathNodeType](../../xpathnodetype/) specified.
 
 ```cpp
 virtual bool System::Xml::XPath::XPathNavigator::MoveToNext(XPathNodeType type)
@@ -63,7 +63,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNext(XPathNodeType type)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | XPathNodeType | The XPathNodeType of the sibling node to move to. |
+| type | XPathNodeType | The [XPathNodeType](../../xpathnodetype/) of the sibling node to move to. |
 
 ### ReturnValue
 

@@ -4,7 +4,7 @@ linktitle: ITuple
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::CompilerServices::ITuple class. Defines a general-purpose Tuple implementation that allows access to Tuple instance members without knowing the underlying Tuple type in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/system.runtime.compilerservices/ituple/
 ---
 ## ITuple class

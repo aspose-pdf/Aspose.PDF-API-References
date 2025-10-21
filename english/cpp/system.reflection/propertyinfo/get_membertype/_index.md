@@ -10,7 +10,7 @@ url: /cpp/system.reflection/propertyinfo/get_membertype/
 ## PropertyInfo::get_MemberType method
 
 
-Gets a MemberTypes value indicating that this member is a property.
+Gets a [MemberTypes](../../membertypes/) value indicating that this member is a property.
 
 ```cpp
 virtual MemberTypes System::Reflection::PropertyInfo::get_MemberType() const override

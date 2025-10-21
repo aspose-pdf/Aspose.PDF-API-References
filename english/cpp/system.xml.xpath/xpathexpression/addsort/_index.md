@@ -43,10 +43,10 @@ virtual void System::Xml::XPath::XPathExpression::AddSort(SharedPtr<Object> expr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | expr | SharedPtr\<Object\> | An object representing the sort key. This can be the **string** value of the node or an [XPathExpression](../) object with a compiled [XPath](../../) expression. |
-| order | XmlSortOrder | An XmlSortOrder value indicating the sort order. |
-| caseOrder | XmlCaseOrder | An XmlCaseOrder value indicating how to sort uppercase and lowercase letters. |
+| order | XmlSortOrder | An [XmlSortOrder](../../xmlsortorder/) value indicating the sort order. |
+| caseOrder | XmlCaseOrder | An [XmlCaseOrder](../../xmlcaseorder/) value indicating how to sort uppercase and lowercase letters. |
 | lang | String | The language to use for comparison. Uses the [Globalization::CultureInfo](../../../system.globalization/cultureinfo/) class that can be passed to the [String::Compare](../../../system/string/compare/) method for the language types, for example, "us-en" for U.S. English. If an empty string is specified, the system environment is used to determine the [Globalization::CultureInfo](../../../system.globalization/cultureinfo/). |
-| dataType | XmlDataType | An XmlDataType value indicating the sort order for the data type. |
+| dataType | XmlDataType | An [XmlDataType](../../xmldatatype/) value indicating the sort order for the data type. |
 
 ## See Also
 

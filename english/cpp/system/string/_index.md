@@ -42,7 +42,7 @@ class String
 | [EndsWith](./endswith/)(const String\&) const | Checks if string ends with specified substring. |
 | [EndsWith](./endswith/)(const String\&, System::StringComparison) const | Checks if string ends with specified substring. |
 | [EndsWith](./endswith/)(const String\&, bool, const SharedPtr\<System::Globalization::CultureInfo\>\&) const | Checks if string ends with specified substring. |
-| [Equals](./equals/)(const String\&, System::StringComparison) const | [String](./) equality comparison. Several modes provided by StringComparison enumeration are supported. |
+| [Equals](./equals/)(const String\&, System::StringComparison) const | [String](./) equality comparison. Several modes provided by [StringComparison](../stringcomparison/) enumeration are supported. |
 | [Equals](./equals/)(const String\&) const | [String](./) equality comparison. Uses [System::StringComparison::Ordinal](../stringcomparison/) comparison mode. |
 | static [Equals](./equals/)(const String\&, const String\&) | Equal-compares two strings using Ordial comparison mode. |
 | static [Equals](./equals/)(const String\&, const String\&, System::StringComparison) | Equal-compares two strings. |
@@ -128,6 +128,7 @@ class String
 | [operator=](./operator=/)(String\&&) | Move assignment operator. |
 | [operator==](./operator==/)(const String\&) const | Equality comparison operator. |
 | [operator==](./operator==/)(std::nullptr_t) const | Checks if string is null. Applies same logic as [IsNull()](./isnull/) call. |
+| [operator>](./operator_/)(const String\&) const | Order-compares strings. |
 | [operator[]](./operator[]/)(int) const | Gets character at specified position. |
 | [PadLeft](./padleft/)(int, char_t) const | Adds padding on the left of original string. |
 | [PadRight](./padright/)(int, char_t) const | Adds padding on the right of original string. |

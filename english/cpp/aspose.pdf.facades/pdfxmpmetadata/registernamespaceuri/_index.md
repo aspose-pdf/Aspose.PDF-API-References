@@ -4,7 +4,7 @@ linktitle: RegisterNamespaceURI
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::RegisterNamespaceURI method. Registers the namespace URI in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/
 ---
 ## PdfXmpMetadata::RegisterNamespaceURI method

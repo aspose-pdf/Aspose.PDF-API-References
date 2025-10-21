@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/queue/ienumerableptr/
 Container of same type elements.
 
 ```cpp
-SharedPtr<IEnumerable<T> > System::Collections::Generic::Queue< T >::IEnumerablePtr
+typedef SharedPtr<IEnumerable<T> > System::Collections::Generic::Queue< T >::IEnumerablePtr
 ```
 
 ## See Also

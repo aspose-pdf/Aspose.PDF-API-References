@@ -88,7 +88,7 @@ A [DateTime](../../../system/datetime/) equivalent of the string.
 ## XmlConvert::ToDateTime(const String\&, XmlDateTimeSerializationMode) method
 
 
-Converts the [String](../../../system/string/) to a [DateTime](../../../system/datetime/) using the XmlDateTimeSerializationMode specified.
+Converts the [String](../../../system/string/) to a [DateTime](../../../system/datetime/) using the [XmlDateTimeSerializationMode](../../xmldatetimeserializationmode/) specified.
 
 ```cpp
 static DateTime System::Xml::XmlConvert::ToDateTime(const String &s, XmlDateTimeSerializationMode dateTimeOption)

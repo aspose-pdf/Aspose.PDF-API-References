@@ -37,6 +37,8 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | [get_IsFixedSize](./get_isfixedsize/)() const | Returns true is collection has fixed size. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Returns true if collection is read-only. |
 | [get_IsSynchronized](./get_issynchronized/)() | Returns true if collection is synchronized. |
+| [get_Keys](./get_keys/)() const override | Gets keys from the dictionary. |
+| [get_Values](./get_values/)() const override | Gets the collection of values in dictionary. |
 | [GetEnumerator](./getenumerator/)() override | Gets enumerator object of the dictionary. |
 | [GetNamespaceURIByPrefix](./getnamespaceuribyprefix/)(System::String) | Gets namespace URI by prefix. |
 | [GetPrefixByNamespaceURI](./getprefixbynamespaceuri/)(System::String) | Gets the prefix by namespace URI. |

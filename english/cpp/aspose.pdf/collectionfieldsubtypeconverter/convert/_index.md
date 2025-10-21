@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/collectionfieldsubtypeconverter/convert/
 ## CollectionFieldSubtypeConverter::Convert(CollectionFieldSubtype) method
 
 
-Converts a CollectionFieldSubtype value to its string representation.
+Converts a [CollectionFieldSubtype](../../collectionfieldsubtype/) value to its string representation.
 
 ```cpp
 static System::String Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(CollectionFieldSubtype suptype)
@@ -19,11 +19,11 @@ static System::String Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(Coll
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| suptype | CollectionFieldSubtype | The CollectionFieldSubtype value to be converted. |
+| suptype | CollectionFieldSubtype | The [CollectionFieldSubtype](../../collectionfieldsubtype/) value to be converted. |
 
 ### ReturnValue
 
-The string representation of the CollectionFieldSubtype value. If suptype is None then returns empty string.
+The string representation of the [CollectionFieldSubtype](../../collectionfieldsubtype/) value. If suptype is None then returns empty string.
 
 ## See Also
 
@@ -35,7 +35,7 @@ The string representation of the CollectionFieldSubtype value. If suptype is Non
 ## CollectionFieldSubtypeConverter::Convert(System::SharedPtr\<Engine::Data::IPdfName\>) method
 
 
-Converts a PdfName value to its corresponding CollectionFieldSubtype enumeration value.
+Converts a PdfName value to its corresponding [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value.
 
 ```cpp
 static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(System::SharedPtr<Engine::Data::IPdfName> pdfName)
@@ -48,7 +48,7 @@ static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Conv
 
 ### ReturnValue
 
-The CollectionFieldSubtype enumeration value that corresponds to the PdfName value. If the name value is not recognized, returns [CollectionFieldSubtype.None](../../collectionfieldsubtype/).
+The [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value that corresponds to the PdfName value. If the name value is not recognized, returns [CollectionFieldSubtype.None](../../collectionfieldsubtype/).
 
 ## See Also
 
@@ -60,7 +60,7 @@ The CollectionFieldSubtype enumeration value that corresponds to the PdfName val
 ## CollectionFieldSubtypeConverter::Convert(System::String) method
 
 
-Converts a string value to its corresponding CollectionFieldSubtype enumeration value.
+Converts a string value to its corresponding [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value.
 
 ```cpp
 static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(System::String name)
@@ -73,7 +73,7 @@ static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Conv
 
 ### ReturnValue
 
-The CollectionFieldSubtype enumeration value that corresponds to the string value. If the string value is not recognized, returns [CollectionFieldSubtype.None](../../collectionfieldsubtype/).
+The [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value that corresponds to the string value. If the string value is not recognized, returns [CollectionFieldSubtype.None](../../collectionfieldsubtype/).
 
 ## See Also
 

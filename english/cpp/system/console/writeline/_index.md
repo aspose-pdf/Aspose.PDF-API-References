@@ -157,7 +157,7 @@ static void System::Console::WriteLine(const Decimal &value)
 ## Console::WriteLine(const Exception\&) method
 
 
-Outputs the string representation of the specified Exception object followed by the current line terminator to the standard output stream.
+Outputs the string representation of the specified [Exception](../../exception/) object followed by the current line terminator to the standard output stream.
 
 ```cpp
 static void System::Console::WriteLine(const Exception &e)

@@ -13,7 +13,7 @@ url: /cpp/system/typeinfo/defaultconstructor/
 Function pointer to construct type.
 
 ```cpp
-std::function<ObjectPtr()> System::TypeInfo::DefaultConstructor
+typedef std::function<ObjectPtr()> System::TypeInfo::DefaultConstructor
 ```
 
 ## See Also

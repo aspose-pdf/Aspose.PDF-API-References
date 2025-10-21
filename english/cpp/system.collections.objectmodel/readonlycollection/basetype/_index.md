@@ -13,7 +13,7 @@ url: /cpp/system.collections.objectmodel/readonlycollection/basetype/
 Implemented interface.
 
 ```cpp
-Generic::IList<T> System::Collections::ObjectModel::ReadOnlyCollection< T >::BaseType
+typedef Generic::IList<T> System::Collections::ObjectModel::ReadOnlyCollection< T >::BaseType
 ```
 
 ## See Also

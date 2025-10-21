@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/ienumeratorptr/
 [Enumerator](../enumerator/) type.
 
 ```cpp
-SharedPtr<IEnumerator<T> > System::Collections::Generic::List< T >::IEnumeratorPtr
+typedef SharedPtr<IEnumerator<T> > System::Collections::Generic::List< T >::IEnumeratorPtr
 ```
 
 ## See Also

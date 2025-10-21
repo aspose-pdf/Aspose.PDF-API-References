@@ -24,7 +24,7 @@ class StringFormat : public System::Object
 | [get_Alignment](./get_alignment/)() const | Returns a value that indicates horizontal alignment of the string. |
 | [get_DigitSubstitutionLanguage](./get_digitsubstitutionlanguage/)() const | Returns a value that indicats the language that is used when local digits are substituted with western digits. |
 | [get_DigitSubstitutionMethod](./get_digitsubstitutionmethod/)() const | Returns digit substitution method. |
-| [get_FormatFlags](./get_formatflags/)() const | Returns a bitwise combination of StringFormatFlags that specifies the string format represented by the current object. |
+| [get_FormatFlags](./get_formatflags/)() const | Returns a bitwise combination of [StringFormatFlags](../stringformatflags/) that specifies the string format represented by the current object. |
 | static [get_GenericDefault](./get_genericdefault/)() | Returns a [StringFormat](./) object that represents a generic default format. |
 | static [get_GenericTypographic](./get_generictypographic/)() | Returns a [StringFormat](./) object that represents a generic typographic format. |
 | [get_HotkeyPrefix](./get_hotkeyprefix/)() const | Returns the value that indicates how the hot key prefix is displayed. |

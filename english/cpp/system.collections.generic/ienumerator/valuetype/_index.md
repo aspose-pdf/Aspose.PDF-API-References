@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/ienumerator/valuetype/
 Value type.
 
 ```cpp
-T System::Collections::Generic::IEnumerator< T >::ValueType
+typedef T System::Collections::Generic::IEnumerator< T >::ValueType
 ```
 
 ## See Also

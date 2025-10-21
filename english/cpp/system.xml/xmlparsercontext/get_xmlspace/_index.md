@@ -19,7 +19,7 @@ System::Xml::XmlSpace System::Xml::XmlParserContext::get_XmlSpace()
 
 ### ReturnValue
 
-An XmlSpace value indicating the **xml:space** scope.
+An [XmlSpace](../../xmlspace/) value indicating the **xml:space** scope.
 
 ## See Also
 

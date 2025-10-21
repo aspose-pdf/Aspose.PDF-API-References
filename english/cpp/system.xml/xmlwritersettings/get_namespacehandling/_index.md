@@ -19,7 +19,7 @@ System::Xml::NamespaceHandling System::Xml::XmlWriterSettings::get_NamespaceHand
 
 ### ReturnValue
 
-The NamespaceHandling enumeration used to specify whether to remove duplicate namespace declarations in the [XmlWriter](../../xmlwriter/).
+The [NamespaceHandling](../../namespacehandling/) enumeration used to specify whether to remove duplicate namespace declarations in the [XmlWriter](../../xmlwriter/).
 
 ## See Also
 

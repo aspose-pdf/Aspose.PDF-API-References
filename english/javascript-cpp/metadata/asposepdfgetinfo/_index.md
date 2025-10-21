@@ -48,6 +48,7 @@ JSON object
 * **metadatacount** - Metadata count
 * **javascriptcount** - JavaScript count
 * **imagecount** - Image count
+* **tablecount** - Table count
 
 
 **Web Worker example**:
@@ -86,7 +87,8 @@ evt.data.json.errorCode !== 0
     "\nAttachment count  : " + evt.data.json.attachmentcount +
     "\nMetadata count    : " + evt.data.json.metadatacount +
     "\nJavaScript count  : " + evt.data.json.javascriptcount +
-    "\nImage count       : " + evt.data.json.imagecount;
+    "\nImage count       : " + evt.data.json.imagecount +
+    "\nTable count       : " + evt.data.json.tablecount;
 
   /*Event handler*/
   const ffilePdfGetInfo = e => {
@@ -128,6 +130,7 @@ evt.data.json.errorCode !== 0
        Metadata count    : json.metadatacount
        JavaScript count  : json.javascriptcount
        Image count       : json.imagecount
+       Table count       : json.tablecount
       */
       if (json.errorCode == 0) document.getElementById('output').textContent = 
           "Title               : " + json.title
@@ -152,6 +155,7 @@ evt.data.json.errorCode !== 0
         + "\nMetadata count    : " + json.metadatacount
         + "\nJavaScript count  : " + json.javascriptcount
         + "\nImage count       : " + json.imagecount
+        + "\nTable count       : " + json.tablecount
       else document.getElementById('output').textContent = json.errorText;
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/get_count/
 Gets the number of elements contained in the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-int32_t Aspose::Pdf::BoundsCheckableList<typename>::get_Count() const override
+int32_t Aspose::Pdf::BoundsCheckableList<T>::get_Count() const override
 ```
 
 

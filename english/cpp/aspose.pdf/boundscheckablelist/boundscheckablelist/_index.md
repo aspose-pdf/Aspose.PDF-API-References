@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/boundscheckablelist/
 Initializes a new instance of the [BoundsCheckableList](../) class.
 
 ```cpp
-Aspose::Pdf::BoundsCheckableList<typename>::BoundsCheckableList()
+Aspose::Pdf::BoundsCheckableList<T>::BoundsCheckableList()
 ```
 
 ## See Also
@@ -27,7 +27,7 @@ Aspose::Pdf::BoundsCheckableList<typename>::BoundsCheckableList()
 Initializes a new instance of the [BoundsCheckableList](../) class.
 
 ```cpp
-Aspose::Pdf::BoundsCheckableList<typename>::BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
+Aspose::Pdf::BoundsCheckableList<T>::BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
 ```
 
 

@@ -19,11 +19,11 @@ HttpRequestCacheLevel System::Net::Cache::HttpRequestCachePolicy::get_Level() co
 
 ### ReturnValue
 
-The specified HttpRequestCacheLevel value.
+The specified [HttpRequestCacheLevel](../../httprequestcachelevel/) value.
 ## Remarks
 
 
-Gets the specified HttpRequestCacheLevel value. 
+Gets the specified [HttpRequestCacheLevel](../../httprequestcachelevel/) value. 
 ## See Also
 
 * Enum [HttpRequestCacheLevel](../../httprequestcachelevel/)

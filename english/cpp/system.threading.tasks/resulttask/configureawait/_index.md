@@ -23,7 +23,7 @@ Runtime::CompilerServices::ConfiguredResultTaskAwaitable<T> System::Threading::T
 
 ### ReturnValue
 
-Runtime::CompilerServices::ConfiguredResultTaskAwaitable<T> A configured awaitable for the result
+[Runtime::CompilerServices::ConfiguredResultTaskAwaitable<T>](../../../system.runtime.compilerservices/configuredresulttaskawaitable/) A configured awaitable for the result
 ## Remarks
 
 

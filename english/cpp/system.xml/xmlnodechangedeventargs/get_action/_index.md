@@ -19,7 +19,7 @@ XmlNodeChangedAction System::Xml::XmlNodeChangedEventArgs::get_Action()
 
 ### ReturnValue
 
-One of the enumeration values that describes the node change event. The **Action** value does not differentiate between when the event occurred (before or after). You can create separate event handlers to handle both instances.
+One of the enumeration values that describes the node change event. The **[Action](../../../system/action/)** value does not differentiate between when the event occurred (before or after). You can create separate event handlers to handle both instances.
 
 ## See Also
 

@@ -19,7 +19,7 @@ template<class...> void System::Xml::Schema::XmlSchemaSet::ValidationEventHandle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | Args... | A bound or static method or ValidationEventHandler instance. |
+| value | Args... | A bound or static method or [ValidationEventHandler](../../validationeventhandler/) instance. |
 
 ## See Also
 

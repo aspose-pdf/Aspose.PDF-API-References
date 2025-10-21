@@ -19,7 +19,7 @@ void System::IO::FileSystemInfo::set_Attributes(FileAttributes value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | FileAttributes | A bitwise combination of FileAttributes values representing the attributes to set |
+| value | FileAttributes | A bitwise combination of [FileAttributes](../../fileattributes/) values representing the attributes to set |
 
 ## See Also
 

@@ -23,7 +23,7 @@ SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlS
 
 ### ReturnValue
 
-An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a ValidationEventHandler is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an XmlSchemaException is thrown.
+An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a [ValidationEventHandler](../../validationeventhandler/) is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an [XmlSchemaException](../../xmlschemaexception/) is thrown.
 
 ## See Also
 
@@ -70,7 +70,7 @@ SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(String targetNamespa
 
 ### ReturnValue
 
-An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a ValidationEventHandler is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an XmlSchemaException is thrown.
+An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a [ValidationEventHandler](../../validationeventhandler/) is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an [XmlSchemaException](../../xmlschemaexception/) is thrown.
 
 ## See Also
 
@@ -98,7 +98,7 @@ SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Add(String targetNamespa
 
 ### ReturnValue
 
-An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a ValidationEventHandler is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an XmlSchemaException is thrown.
+An [XmlSchema](../../xmlschema/) object if the schema is valid. If the schema is not valid and a [ValidationEventHandler](../../validationeventhandler/) is specified, then **nullptr** is returned and the appropriate validation event is raised. Otherwise, an [XmlSchemaException](../../xmlschemaexception/) is thrown.
 
 ## See Also
 

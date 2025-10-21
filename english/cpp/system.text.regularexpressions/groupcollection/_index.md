@@ -30,12 +30,14 @@ class GroupCollection : public System::Collections::Generic::List<GroupPtr>
 | [idx_get](./idx_get/)(int) const override | [Group](../group/) accessor. |
 | [IsReadOnly](./isreadonly/)() const | Marks collection as read-only. |
 | [operator[]](./operator[]/)(const String\&) const | [Group](../group/) accessor. |
+| [operator[]](./operator[]/)(int) | [Group](../group/) accessor. |
+| [operator[]](./operator[]/)(int) const | [Group](../group/) accessor. |
 | [Remove](./remove/)(const GroupPtr\&) override | Disables removing element from collection. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [Base](./base/) | Base class. |
+| [Base](./base/) | [Base](./base/) class. |
 ## See Also
 
 * Class [List](../../system.collections.generic/list/)

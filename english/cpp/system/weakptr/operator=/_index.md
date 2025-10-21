@@ -10,7 +10,7 @@ url: /cpp/system/weakptr/operator=/
 ## WeakPtr::operator= method
 
 
-Assigns value to weak pointer. Calls into specific assignment operator of SmartPtr_.
+Assigns value to weak pointer. Calls into specific assignment operator of [SmartPtr_](../smartptr_/).
 
 ```cpp
 template<typename Q> WeakPtr & System::WeakPtr<T>::operator=(Q &&value)

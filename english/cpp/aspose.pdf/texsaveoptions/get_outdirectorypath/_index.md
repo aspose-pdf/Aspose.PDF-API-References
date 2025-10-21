@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/texsaveoptions/get_outdirectorypath/
 ## TeXSaveOptions::get_OutDirectoryPath method
 
 
-Property for **_outDirectoryPath** parameter.
+Property for [_outDirectoryPath](../) parameter.
 
 ```cpp
 System::String Aspose::Pdf::TeXSaveOptions::get_OutDirectoryPath() const

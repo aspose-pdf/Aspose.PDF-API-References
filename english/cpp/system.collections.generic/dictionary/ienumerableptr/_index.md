@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/ienumerableptr/
 Pointer to enumerable interface.
 
 ```cpp
-SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::Dictionary< TKey, TValue >::IEnumerablePtr
+typedef SharedPtr< IEnumerable<KVPair> > System::Collections::Generic::Dictionary< TKey, TValue >::IEnumerablePtr
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/stack/valuetype/
 Value type.
 
 ```cpp
-T System::Collections::Generic::Stack< T >::ValueType
+typedef T System::Collections::Generic::Stack< T >::ValueType
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/virtualizebeginconstiterator/
 Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection.
 
 ```cpp
-virtualized_iterator * Aspose::Pdf::BoundsCheckableList<typename>::virtualizeBeginConstIterator() const override
+virtualized_iterator * Aspose::Pdf::BoundsCheckableList<T>::virtualizeBeginConstIterator() const override
 ```
 
 

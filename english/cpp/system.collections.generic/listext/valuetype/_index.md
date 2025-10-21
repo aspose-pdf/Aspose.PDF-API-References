@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/listext/valuetype/
 
 
 ```cpp
-T System::Collections::Generic::ListExt< T >::ValueType
+typedef T System::Collections::Generic::ListExt< T >::ValueType
 ```
 
 ## See Also

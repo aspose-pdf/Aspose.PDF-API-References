@@ -4,7 +4,7 @@ linktitle: STDIOStreamWrapper
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::STDIOStreamWrapper typedef. Specializations of BasicSTDIOStreamWrapper for char character types in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/system.io/stdiostreamwrapper/
 ---
 ## STDIOStreamWrapper typedef

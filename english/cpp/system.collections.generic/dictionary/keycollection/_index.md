@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/keycollection/
 RTTI information.
 
 ```cpp
-ICollection<TKey> System::Collections::Generic::Dictionary< TKey, TValue >::KeyCollection
+typedef ICollection<TKey> System::Collections::Generic::Dictionary< TKey, TValue >::KeyCollection
 ```
 
 ## Remarks

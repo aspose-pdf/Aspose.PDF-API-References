@@ -13,14 +13,14 @@ url: /cpp/system.collections.generic/list/addinitializer/
 Adds elements to list; used when translating initializers.
 
 ```cpp
-void System::Collections::Generic::List<T>::AddInitializer(int size, const T inits[])
+void System::Collections::Generic::List<T>::AddInitializer(int size, const T *inits)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | size | int | Number of elements to insert. |
-| inits | const T | Elements to insert. |
+| inits | const T * | Elements to insert. |
 
 ## See Also
 

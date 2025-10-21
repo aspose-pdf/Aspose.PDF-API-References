@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/stamp/get_blendingspace/
 ## Stamp::get_BlendingSpace method
 
 
-Gets a BlendingColorSpace value that defines a color space that is used to perform transparency and blending operations on the page.
+Gets a [BlendingColorSpace](../../blendingcolorspace/) value that defines a color space that is used to perform transparency and blending operations on the page.
 
 ```cpp
 BlendingColorSpace Aspose::Pdf::Facades::Stamp::get_BlendingSpace() const

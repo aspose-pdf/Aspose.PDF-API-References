@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/icollection/valuetype/
 RTTI information.
 
 ```cpp
-T System::Collections::Generic::ICollection< T >::ValueType
+typedef T System::Collections::Generic::ICollection< T >::ValueType
 ```
 
 ## Remarks

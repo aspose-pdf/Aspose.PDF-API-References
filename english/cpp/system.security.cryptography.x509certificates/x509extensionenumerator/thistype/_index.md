@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography.x509certificates/x509extensionenumerator/
 This type.
 
 ```cpp
-X509ExtensionEnumerator System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::ThisType
+typedef X509ExtensionEnumerator System::Security::Cryptography::X509Certificates::X509ExtensionEnumerator::ThisType
 ```
 
 ## See Also

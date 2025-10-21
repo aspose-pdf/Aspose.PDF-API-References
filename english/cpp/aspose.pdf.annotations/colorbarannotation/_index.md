@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/colorbarannotation/
 ## ColorBarAnnotation class
 
 
-Class representing [ColorBarAnnotation](./) annotation. Property [Color](../../aspose.pdf/color/) ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed).
+Class representing [ColorBarAnnotation](./) annotation. Property [Color](../../aspose.pdf/color/) ignored, instead used [ColorsOfCMYK](../colorsofcmyk/) color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed).
 
 ```cpp
 class ColorBarAnnotation : public Aspose::Pdf::Annotations::PrinterMarkAnnotation

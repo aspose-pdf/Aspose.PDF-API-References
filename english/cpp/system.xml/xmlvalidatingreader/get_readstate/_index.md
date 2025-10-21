@@ -19,7 +19,7 @@ System::Xml::ReadState System::Xml::XmlValidatingReader::get_ReadState() overrid
 
 ### ReturnValue
 
-One of the ReadState values.
+One of the [ReadState](../../readstate/) values.
 
 ## See Also
 

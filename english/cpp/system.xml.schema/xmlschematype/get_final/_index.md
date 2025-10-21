@@ -19,7 +19,7 @@ XmlSchemaDerivationMethod System::Xml::Schema::XmlSchemaType::get_Final()
 
 ### ReturnValue
 
-One of the valid XmlSchemaDerivationMethod values. The default is [XmlSchemaDerivationMethod::None](../../xmlschemaderivationmethod/).
+One of the valid [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/) values. The default is [XmlSchemaDerivationMethod::None](../../xmlschemaderivationmethod/).
 
 ## See Also
 

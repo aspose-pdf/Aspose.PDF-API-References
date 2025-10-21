@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/ilist/thistype/
 This type.
 
 ```cpp
-IList<T> System::Collections::Generic::IList< T >::ThisType
+typedef IList<T> System::Collections::Generic::IList< T >::ThisType
 ```
 
 ## See Also

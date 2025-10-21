@@ -4,7 +4,7 @@ linktitle: ExplicitCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ExplicitCast method. Casts the source type to the result type using explicit cast. Used when the source and the result types are the same in C++.'
 type: docs
-weight: 18000
+weight: 18400
 url: /cpp/system/explicitcast/
 ---
 ## System::ExplicitCast(const Source\&) method
@@ -120,7 +120,7 @@ The cast result.
 ## System::ExplicitCast(const Source\&) method
 
 
-Casts the source type to the result type using explicit cast. Used when the source and result both are smart pointers (without expicit SmartPtr<...> in result type).
+Casts the source type to the result type using explicit cast. Used when the source and result both are smart pointers (without expicit [SmartPtr<...>](../smartptr/) in result type).
 
 ```cpp
 template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::Pointer, typename CastResult<Result>::type> System::ExplicitCast(const Source &value)
@@ -147,7 +147,7 @@ The cast result.
 ## System::ExplicitCast(const Source\&) method
 
 
-Casts the source type to the result type using explicit cast. Used when the source and result both are smart pointers (with expicit SmartPtr<...> in result type).
+Casts the source type to the result type using explicit cast. Used when the source and result both are smart pointers (with expicit [SmartPtr<...>](../smartptr/) in result type).
 
 ```cpp
 template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::PointerToPointer, Result> System::ExplicitCast(const Source &value)
@@ -284,6 +284,60 @@ The cast result.
 ## System::ExplicitCast(const Source\&) method
 
 
+Casts the source type to the result type using explicit cast. Used for copying value types to heap when value type should be referenced as smart pointer (in generics constrained with interface type but specialized with structure implementing this interface).
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::HeapifyBoxing, typename CastResult<Result>::type> System::ExplicitCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+The cast result.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::ExplicitCast(const Source\&) method
+
+
+Casts the source type to the result type using explicit cast. Used for getting interfaces from value types.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::InterfaceBoxing, typename CastResult<Result>::type> System::ExplicitCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+The cast result.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::ExplicitCast(const Source\&) method
+
+
 Casts the source type to the result type using explicit cast. Used for common boxing.
 
 ```cpp
@@ -315,6 +369,33 @@ Casts the source type to the result type using explicit cast. Used for [System::
 
 ```cpp
 template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::StringBoxing, typename CastResult<Result>::type> System::ExplicitCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+The cast result.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::ExplicitCast(const Source\&) method
+
+
+Casts the source type to the result type using explicit cast. Used for unboxing interfaces.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::InterfaceUnboxing, Result> System::ExplicitCast(const Source &value)
 ```
 
 

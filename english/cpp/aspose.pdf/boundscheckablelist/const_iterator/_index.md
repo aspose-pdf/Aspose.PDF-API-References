@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/const_iterator/
 Const iterator type.
 
 ```cpp
-using Aspose::Pdf::BoundsCheckableList< typename >::const_iterator =  typename iterator_holder_type::const_iterator
+using Aspose::Pdf::BoundsCheckableList< T >::const_iterator =  typename iterator_holder_type::const_iterator
 ```
 
 ## See Also

@@ -26,16 +26,17 @@ template<typename T>class ResultTask : public System::Threading::Tasks::Task
 | --- | --- |
 | [ConfigureAwait](./configureawait/)(bool) const | Configures how awaits on this result task should behave regarding context capture. |
 | [ContinueWith](./continuewith/)(const Action\<RTaskPtr\<T\>\>\&) | Creates a continuation that executes when the result task completes. |
-| [get_Result](./get_result/)() | Gets the result of the asynchronous operation. |
+| [get_Result](./get_result/)() const | Gets the result of the asynchronous operation. |
 | [GetAwaiter](./getawaiter/)() const | Gets an awaiter for this result task for use with Await. |
 | [ResultTask](./resulttask/)(const Func\<T\>\&) | Constructs a [ResultTask](./) with a function that returns a value. |
 | [ResultTask](./resulttask/)() | Internal implementation. Not for user code. |
+| [ResultTask](./resulttask/)(const T\&) | Internal constructor for creating result tasks with specified result. |
 | [set_Result](./set_result/)(const T\&) | Sets the result value for the task. |
 ## Remarks
 
 
 
-Represents an asynchronous operation that produces a result, similar to System.Threading.Tasks.Task<TResult> in .NET 
+Represents an asynchronous operation that produces a result, similar to [System.Threading.Tasks.Task<TResult>](../task/) in .NET 
 ## See Also
 
 * Class [Task](../task/)

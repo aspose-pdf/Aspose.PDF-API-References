@@ -116,7 +116,7 @@ A reference to the self
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::connect(std::function\<R(Args...)>) method
 
 
-Adds the specified function object to the delegate collection. The function object is converted to the Callback delegate type before being added to the collection.
+Adds the specified function object to the delegate collection. The function object is converted to the [Callback](../callback/) delegate type before being added to the collection.
 
 ```cpp
 template<class R,class...> MulticastDelegate & System::MulticastDelegate<ReturnType(ArgumentTypes...)>::connect(std::function<R(Args...)> f)

@@ -19,7 +19,7 @@ System::Xml::NewLineHandling System::Xml::XmlWriterSettings::get_NewLineHandling
 
 ### ReturnValue
 
-One of the NewLineHandling values. The default is [NewLineHandling::Replace](../../newlinehandling/).
+One of the [NewLineHandling](../../newlinehandling/) values. The default is [NewLineHandling::Replace](../../newlinehandling/).
 
 ## See Also
 

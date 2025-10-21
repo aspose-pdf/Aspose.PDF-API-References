@@ -4,7 +4,7 @@ linktitle: wait_handle_t
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::wait_handle_t typedef. Handle type in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.threading/wait_handle_t/
 ---
 ## wait_handle_t typedef

@@ -147,7 +147,7 @@ The cast result. Returns nullptr if no conversion available.
 ## System::AsCast(const Source\&) method
 
 
-Casts the source type to the result type using 'as' operator cast. Used when the source and result both are smart pointers (with expicit SmartPtr<...> in result type).
+Casts the source type to the result type using 'as' operator cast. Used when the source and result both are smart pointers (with expicit [SmartPtr<...>](../smartptr/) in result type).
 
 ```cpp
 template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::PointerToPointer, Result> System::AsCast(const Source &value)
@@ -201,6 +201,33 @@ The cast result. Returns empty nullable if no conversion available.
 ## System::AsCast(const Source\&) method
 
 
+Casts the source type to the result type using 'as' operator cast. Invalid unboxing to non-object type.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::InterfaceUnboxingToNullable, Result> System::AsCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+Always returns null.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::AsCast(const Source\&) method
+
+
 Invalid unboxing to non-object type.
 
 ```cpp
@@ -232,6 +259,33 @@ Casts the source type to the result type using 'as' operator cast. Used for boxi
 
 ```cpp
 template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::NullableBoxing, Result> System::AsCast(const Source &value)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| Source | The source type. |
+| Result | The result type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const Source\& | [Object](../object/) to cast. |
+
+### ReturnValue
+
+The cast result.
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::AsCast(const Source\&) method
+
+
+Casts the source type to the result type using 'as' operator cast. Used for boxing common object.
+
+```cpp
+template<typename Result,typename Source> std::enable_if_t<Details::CastType<Source, Result>::InterfaceBoxing, typename CastResult<Result>::type> System::AsCast(const Source &value)
 ```
 
 

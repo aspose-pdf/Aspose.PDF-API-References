@@ -24,18 +24,18 @@ template<class T>class SmartPtr
 
 | Method | Description |
 | --- | --- |
-| [begin](./begin/)() | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./begin/) method. |
-| [begin](./begin/)() const | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [begin()](./begin/) method. |
+| [begin](./begin/)() | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [begin()](./begin/) method. |
+| [begin](./begin/)() const | Accessor for [begin()](./begin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [begin()](./begin/) method. |
 | [Cast](./cast/)() const | Casts pointer to its type itself. |
 | [Cast](./cast/)() const | Casts pointer to base type using static_cast. |
 | [Cast](./cast/)() const | Casts pointer to derived type dynamic_cast. |
 | [Cast](./cast/)() const | Casts pointer to derived type dynamic_cast. |
-| [cbegin](./cbegin/)() const | Accessor for [cbegin()](./cbegin/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cbegin()](./cbegin/) method. |
-| [cend](./cend/)() const | Accessor for [cend()](./cend/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cend()](./cend/) method. |
+| [cbegin](./cbegin/)() const | Accessor for [cbegin()](./cbegin/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [cbegin()](./cbegin/) method. |
+| [cend](./cend/)() const | Accessor for [cend()](./cend/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [cend()](./cend/) method. |
 | [const_pointer_cast](./const_pointer_cast/)() const | Casts pointer to different type using const_cast on pointed object. |
 | [dynamic_pointer_cast](./dynamic_pointer_cast/)() const | Casts pointer to different type using dynamic_cast on pointed object. |
-| [end](./end/)() | Accessor for [end()](./end/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./end/) method. |
-| [end](./end/)() const | Accessor for [end()](./end/) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./end/) method. |
+| [end](./end/)() | Accessor for [end()](./end/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [end()](./end/) method. |
+| [end](./end/)() const | Accessor for [end()](./end/) method of an underling collection. Only compiles if [SmartPtr_](./smartptr_/) is specialization type with [end()](./end/) method. |
 | [get](./get/)() const | Gets pointed object. |
 | [get_Mode](./get_mode/)() const | Gets pointer mode. |
 | [get_shared](./get_shared/)() const | Gets pointed object, but asserts that pointer is in shared mode. |
@@ -61,7 +61,7 @@ template<class T>class SmartPtr
 | [operator=](./operator=/)(Pointee_ *) | Assigns raw pointer to [SmartPtr](./) object. |
 | [operator=](./operator=/)(std::nullptr_t) | Sets pointer value to nullptr. |
 | [operator==](./operator==/)(std::nullptr_t) const | Checks if pointer points to nullptr. |
-| [operator[]](./operator[]/)(IdxType) const | Accessor for array elements. Only compiles if SmartPtr_ is specialization of [System::Array](../array/). |
+| [operator[]](./operator[]/)(IdxType) const | Accessor for array elements. Only compiles if [SmartPtr_](./smartptr_/) is specialization of [System::Array](../array/). |
 | [RemoveAliasing](./removealiasing/)() const | Removes aliasing (created by an aliasing constructor) from pointer, makes sure it manages (if shared) or tracks (if weak) the same object it points to. |
 | [reset](./reset/)(Pointee_ *) | Sets pointed object. |
 | [reset](./reset/)() | Makes pointer pointing to nullptr. |
@@ -77,14 +77,14 @@ template<class T>class SmartPtr
 | explicit [SmartPtr](./smartptr/)(const Y\&) | Initializes empty array. Used to translate some C# code constructs. |
 | [SmartPtr](./smartptr/)(const SmartPtr\<P\>\&, Pointee_ *, SmartPtrMode) | Constructs a [SmartPtr](./) which shares ownership information with the initial value of ptr, but holds an unrelated and unmanaged pointer p. |
 | [static_pointer_cast](./static_pointer_cast/)() const | Casts pointer to different type using static_cast on pointed object. |
-| [ToObjectPtr](./toobjectptr/)() const | Converts any pointer type to pointer to [Object](../object/). Doesn't require Pointee_ type to be complete. |
-| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the Pointee_ type. |
+| [ToObjectPtr](./toobjectptr/)() const | Converts any pointer type to pointer to [Object](../object/). Doesn't require [Pointee_](./pointee_/) type to be complete. |
+| static [Type](./type/)() | Shortcut to get [System::TypeInfo](../typeinfo/) object for the [Pointee_](./pointee_/) type. |
 | [~SmartPtr](./~smartptr/)() | Destroys [SmartPtr](./) object. If required, decreases pointed object's reference counter and deletes object. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [ArrayType](./arraytype/) | Same as Pointee_, if it is a specialization of [System::Array](../array/), and void otherwise. |
+| [ArrayType](./arraytype/) | Same as [Pointee_](./pointee_/), if it is a specialization of [System::Array](../array/), and void otherwise. |
 | [Pointee_](./pointee_/) | Pointed type. |
 | [SmartPtr_](./smartptr_/) | Specialized smart pointer type. |
 | [ValueType](./valuetype/) | Storage type of pointed array. Only meaningful if T is a specialization of [System::Array](../array/). |

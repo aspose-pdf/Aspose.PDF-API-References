@@ -13,7 +13,7 @@ url: /cpp/system.io/stream/ptr/
 An alias for a shared pointer to this class.
 
 ```cpp
-SharedPtr<Stream> System::IO::Stream::Ptr
+typedef SharedPtr<Stream> System::IO::Stream::Ptr
 ```
 
 ## See Also

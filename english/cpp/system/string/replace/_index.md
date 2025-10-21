@@ -4,7 +4,7 @@ linktitle: Replace
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::Replace method. Replaces all occurrences of character in the string in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/system/string/replace/
 ---
 ## String::Replace(char_t, char_t) const method

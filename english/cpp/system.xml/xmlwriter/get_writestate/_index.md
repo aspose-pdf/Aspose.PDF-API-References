@@ -19,7 +19,7 @@ virtual System::Xml::WriteState System::Xml::XmlWriter::get_WriteState()=0
 
 ### ReturnValue
 
-One of the WriteState values.
+One of the [WriteState](../../writestate/) values.
 
 ## See Also
 

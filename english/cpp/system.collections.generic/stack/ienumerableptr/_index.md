@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/stack/ienumerableptr/
 Collection containing elements of same type.
 
 ```cpp
-SharedPtr<IEnumerable<T> > System::Collections::Generic::Stack< T >::IEnumerablePtr
+typedef SharedPtr<IEnumerable<T> > System::Collections::Generic::Stack< T >::IEnumerablePtr
 ```
 
 ## See Also

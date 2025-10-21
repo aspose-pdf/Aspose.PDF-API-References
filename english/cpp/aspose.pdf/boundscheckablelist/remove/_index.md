@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/remove/
 Removes the first occurrence of a specific object from the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-bool Aspose::Pdf::BoundsCheckableList<typename>::Remove(const T &item) override
+bool Aspose::Pdf::BoundsCheckableList<T>::Remove(const T &item) override
 ```
 
 

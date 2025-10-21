@@ -39,7 +39,7 @@ url: /cpp/system/
 | [EnumValues](./enumvalues/) | Provides meta information about enumeration constants of enum type **E**. |
 | [EnumValuesBase](./enumvaluesbase/) | A base class for a class that represents meta information of enumeration type. |
 | [EventArgs](./eventargs/) | The base class for classes that represent a context that is passed to the event subscribers when an event is triggered. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
-| [ExceptionWrapper](./exceptionwrapper/) | Template that represents wrapper of exceptions that are derived from Exception class. |
+| [ExceptionWrapper](./exceptionwrapper/) | Template that represents wrapper of exceptions that are derived from [Exception](./exception/) class. |
 | [FlagsAttribute](./flagsattribute/) | Indicates that an enumeration can be treated as a bit field; that is, a set of. |
 | [Func](./func/) | Function delegate. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [GC](./gc/) | Represents an emulated Garbage Collection which acts more like a stub which effectively does nothing. This is a static type with no instance services. You should never create instances of it by any means. |
@@ -118,7 +118,7 @@ url: /cpp/system/
 | [Action](./action/) | Delegate type that references methods that have no return value. |
 | [ArrayPtr](./arrayptr/) | Alias for 'pointer to array' type. |
 | [AsyncCallback](./asynccallback/) | A delegate type that represents a method to be called when asynchronous operation completes. |
-| [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the BadImageFormatException class instances into [System::SmartPtr](./smartptr/). |
+| [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the [BadImageFormatException](./badimageformatexception/) class instances into [System::SmartPtr](./smartptr/). |
 | [ByteArrayPtr](./bytearrayptr/) | An alias for a smart pointer object that points to an array of unsigned 8-bit integers. |
 | [Converter](./converter/) | Represents a pointer to the invokable entity that accepts a single argument of the **TInput** type and returns a value of the **TOutput** type. |
 | [DecoderFallbackBufferPtr](./decoderfallbackbufferptr/) | An alias for a smart pointer that points to an instance of [System::Text::DecoderFallbackBuffer](../system.text/decoderfallbackbuffer/) class. |
@@ -173,6 +173,10 @@ url: /cpp/system/
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| AsCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Build | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| BuildObject | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Cast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Cast_noexcept | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | CastEnumerableTo | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -205,6 +209,9 @@ url: /cpp/system/
 | Equals | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Equals< double, double > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Equals< float, float > | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ExplicitCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -257,6 +264,8 @@ url: /cpp/system/
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeSharedPtr | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeValueAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| MakeValueAsync | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeYieldEnumerable | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MakeYieldEnumerator | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | MemberwiseClone | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

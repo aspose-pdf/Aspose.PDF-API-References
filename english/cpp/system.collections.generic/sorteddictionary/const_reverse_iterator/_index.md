@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/const_reverse_iterator/
 Const reverse iterator type.
 
 ```cpp
-map_t::const_reverse_iterator System::Collections::Generic::SortedDictionary< TKey, TValue >::const_reverse_iterator
+typedef map_t::const_reverse_iterator System::Collections::Generic::SortedDictionary< TKey, TValue >::const_reverse_iterator
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/system.collections.specialized/stringcollectionptr/
 Stirng collection poiner with access operator.
 
 ```cpp
-class StringCollectionPtr : public System::SmartPtr<StringCollection>
+class StringCollectionPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

@@ -35,10 +35,10 @@ template<typename T>class Array : public virtual System::Object,
 | [Array](./array/)(int, const T) | Filling constructor. |
 | [Array](./array/)(vector_t\&&) | Move constructor. |
 | [Array](./array/)(const vector_t\&) | Copy constructor. |
-| [Array](./array/)(const std::vector\<Q\>\&) | Constructs an [Array](./) object and fills it with values copied from an std::vector object whose values' type is the same as **T** but different from **UnderlyingType**. |
-| [Array](./array/)(std::vector\<Q\>\&&) | Constructs an [Array](./) object and fills it with values moved from an std::vector object whose values' type is the same as **T** but different from **UnderlyingType**. |
-| [Array](./array/)(std::initializer_list\<UnderlyingType\>) | Constructs an [Array](./) object and fills it with values from the specified initializer list containing elements of **UnderlyingType** type. |
-| [Array](./array/)(const std::array\<UnderlyingType, InitArraySize\>\&) | Constructs an [Array](./) object and fills it with values from the specified array containing elements of **UnderlyingType** type. |
+| [Array](./array/)(const std::vector\<Q\>\&) | Constructs an [Array](./) object and fills it with values copied from an std::vector object whose values' type is the same as **T** but different from **[UnderlyingType](./underlyingtype/)**. |
+| [Array](./array/)(std::vector\<Q\>\&&) | Constructs an [Array](./) object and fills it with values moved from an std::vector object whose values' type is the same as **T** but different from **[UnderlyingType](./underlyingtype/)**. |
+| [Array](./array/)(std::initializer_list\<UnderlyingType\>) | Constructs an [Array](./) object and fills it with values from the specified initializer list containing elements of **[UnderlyingType](./underlyingtype/)** type. |
+| [Array](./array/)(const std::array\<UnderlyingType, InitArraySize\>\&) | Constructs an [Array](./) object and fills it with values from the specified array containing elements of **[UnderlyingType](./underlyingtype/)** type. |
 | [Array](./array/)(std::initializer_list\<bool\>, int) | Constructs an [Array](./) object and fills it with values from the specified initializer list containing elements of bool type. |
 | [begin](./begin/)() | Returns an iterator to the first element of the container. If the container is empty, the returned iterator will be equal to [end()](./end/). |
 | [begin](./begin/)() const | Returns an iterator to the first element of the const-qualified container. If the container is empty, the returned iterator will be equal to [end()](./end/). |

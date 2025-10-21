@@ -20,7 +20,7 @@ static void System::IO::File::SetAttributes(const String &path, FileAttributes f
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | const String\& | The path of the file on which the attributes to be set |
-| fileAttributes | FileAttributes | A bitwise combination of FileAttributes values representing the attributes to set |
+| fileAttributes | FileAttributes | A bitwise combination of [FileAttributes](../../fileattributes/) values representing the attributes to set |
 
 ## See Also
 

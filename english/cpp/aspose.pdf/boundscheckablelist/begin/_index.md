@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/begin/
 Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection.
 
 ```cpp
-const_iterator Aspose::Pdf::BoundsCheckableList<typename>::begin() const noexcept
+const_iterator Aspose::Pdf::BoundsCheckableList<T>::begin() const noexcept
 ```
 
 
@@ -33,7 +33,7 @@ An iterator pointing to the first element (if any) of the const-qualified instan
 Gets iterator pointing to the first element (if any) of the collection.
 
 ```cpp
-iterator Aspose::Pdf::BoundsCheckableList<typename>::begin() noexcept
+iterator Aspose::Pdf::BoundsCheckableList<T>::begin() noexcept
 ```
 
 

@@ -25,7 +25,7 @@ class CspKeyContainerInfo : public virtual System::Object
 | [get_Exportable](./get_exportable/)() const | Gets a flag indicating whether a key can be exported from a container. |
 | [get_HardwareDevice](./get_hardwaredevice/)() const | Gets a flag indicating whether a key is a hardware key. |
 | [get_KeyContainerName](./get_keycontainername/)() const | Gets a key container name. |
-| [get_KeyNumber](./get_keynumber/)() const | Gets a KeyNumber object. |
+| [get_KeyNumber](./get_keynumber/)() const | Gets a [KeyNumber](../keynumber/) object. |
 | [get_MachineKeyStore](./get_machinekeystore/)() const | Gets a flag indicating whether a key is loaded from machine key store. |
 | [get_Protected](./get_protected/)() const | Gets a flag indicating whether a key is protected from copy. |
 | [get_ProviderName](./get_providername/)() const | Gets provider name. |

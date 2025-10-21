@@ -83,7 +83,7 @@ System::Xml::XPath::XPathDocument::XPathDocument(const SharedPtr<XmlReader> &rea
 | Parameter | Type | Description |
 | --- | --- | --- |
 | reader | const SharedPtr\<XmlReader\>\& | The [XmlReader](../../../system.xml/xmlreader/) object that contains the XML data. |
-| space | XmlSpace | An XmlSpace object. |
+| space | XmlSpace | An [XmlSpace](../../../system.xml/xmlspace/) object. |
 
 ## See Also
 
@@ -126,7 +126,7 @@ System::Xml::XPath::XPathDocument::XPathDocument(const String &uri, XmlSpace spa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | uri | const String\& | The path of the file that contains the XML data. |
-| space | XmlSpace | An XmlSpace object. |
+| space | XmlSpace | An [XmlSpace](../../../system.xml/xmlspace/) object. |
 
 ## See Also
 

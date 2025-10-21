@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/contains/
 Determines whether an element is in the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-bool Aspose::Pdf::BoundsCheckableList<typename>::Contains(const T &item) const override
+bool Aspose::Pdf::BoundsCheckableList<T>::Contains(const T &item) const override
 ```
 
 

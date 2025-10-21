@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschemainfo/set_contenttype/
 ## XmlSchemaInfo::set_ContentType method
 
 
-Sets the XmlSchemaContentType object that corresponds to the content type of this validated XML node.
+Sets the [XmlSchemaContentType](../../xmlschemacontenttype/) object that corresponds to the content type of this validated XML node.
 
 ```cpp
 void System::Xml::Schema::XmlSchemaInfo::set_ContentType(XmlSchemaContentType value)

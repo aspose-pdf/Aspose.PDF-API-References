@@ -21,6 +21,7 @@ class ImageConverter : public System::ComponentModel::TypeConverter
 | Method | Description |
 | --- | --- |
 | [ConvertTo](./convertto/)(const System::SharedPtr\<System::ComponentModel::ITypeDescriptorContext\>\&, const System::SharedPtr\<System::Globalization::CultureInfo\>\&, const System::SharedPtr\<System::Object\>\&, const System::TypeInfo\&) override | Converts object to specific type. |
+| [ConvertTo](./convertto/)(const System::SharedPtr\<System::Object\>\&, const System::TypeInfo\&) | Converts object to specific type. |
 | [ImageConverter](./imageconverter/)() | Constructs a new instance of [ImageConverter](./). |
 ## See Also
 

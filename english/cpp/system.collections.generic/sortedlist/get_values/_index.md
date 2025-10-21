@@ -2,7 +2,7 @@
 title: System::Collections::Generic::SortedList::get_Values method
 linktitle: get_Values
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use get_Values method of System::Collections::Generic::SortedList class in C++.'
+description: 'System::Collections::Generic::SortedList::get_Values method. Accesses value collection in C++.'
 type: docs
 weight: 600
 url: /cpp/system.collections.generic/sortedlist/get_values/
@@ -10,11 +10,16 @@ url: /cpp/system.collections.generic/sortedlist/get_values/
 ## SortedList::get_Values method
 
 
-
+Accesses value collection.
 
 ```cpp
 SharedPtr<IList<TValue>> System::Collections::Generic::SortedListHelper<TKey, TValue>::get_Values() const
 ```
+
+
+### ReturnValue
+
+Pointer to interface providing access to stored values via [ICollection](../../icollection/) interface.
 
 ## See Also
 

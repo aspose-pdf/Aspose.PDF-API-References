@@ -27,7 +27,7 @@ template<typename TKey,typename TValue>class KeyValuePair
 | [KeyValuePair](./keyvaluepair/)() | Null key-value pair initializer. |
 | [KeyValuePair](./keyvaluepair/)(const TKey\&, const TValue\&) | Constructor. |
 | [KeyValuePair](./keyvaluepair/)(const std::pair\<OtherK, OtherV\>\&) | Type conversion constructor. |
-| [operator<](./operator_/)(const KeyValuePair\&) const | Patch for classes inherited from IComparer<KeyValuePair<TKey, TValue>>, doesn't compare anything. |
+| [operator<](./operator_/)(const KeyValuePair\&) const | Patch for classes inherited from [IComparer<KeyValuePair<TKey, TValue>>](../icomparer/), doesn't compare anything. |
 | [ToString](./tostring/)() const | Converts key-value pair to string. |
 
 ## See Also

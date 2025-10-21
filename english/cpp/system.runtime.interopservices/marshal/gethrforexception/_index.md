@@ -19,7 +19,7 @@ static int32_t System::Runtime::InteropServices::Marshal::GetHRForException(cons
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| exc | const System::Exception\& | Exception to get HResult for. |
+| exc | const System::Exception\& | [Exception](../../../system/exception/) to get HResult for. |
 
 ### ReturnValue
 

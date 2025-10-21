@@ -13,7 +13,7 @@ url: /cpp/system.collections.specialized/stringcollection/const_iterator/
 Const iterator type.
 
 ```cpp
-std::vector<System::String>::const_iterator System::Collections::Specialized::StringCollection::const_iterator
+typedef std::vector<System::String>::const_iterator System::Collections::Specialized::StringCollection::const_iterator
 ```
 
 ## See Also

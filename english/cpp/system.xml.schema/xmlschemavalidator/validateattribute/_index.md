@@ -51,7 +51,7 @@ SharedPtr<Object> System::Xml::Schema::XmlSchemaValidator::ValidateAttribute(con
 | --- | --- | --- |
 | localName | const String\& | The local name of the attribute to validate. |
 | namespaceUri | const String\& | The namespace URI of the attribute to validate. |
-| attributeValue | XmlValueGetter | An XmlValueGetter callback used to pass the attribute's value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
+| attributeValue | XmlValueGetter | An [XmlValueGetter](../../xmlvaluegetter/) callback used to pass the attribute's value as a type compatible with the XML [Schema](../../) Definition Language (XSD) type of the attribute. |
 | schemaInfo | const SharedPtr\<XmlSchemaInfo\>\& | An [XmlSchemaInfo](../../xmlschemainfo/) object whose properties are set on successful validation of the attribute. This parameter and can be **nullptr**. |
 
 ### ReturnValue

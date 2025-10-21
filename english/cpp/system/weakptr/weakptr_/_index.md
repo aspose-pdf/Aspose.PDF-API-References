@@ -13,7 +13,7 @@ url: /cpp/system/weakptr/weakptr_/
 Alias for self type.
 
 ```cpp
-WeakPtr<T> System::WeakPtr< T >::WeakPtr_
+typedef WeakPtr<T> System::WeakPtr< T >::WeakPtr_
 ```
 
 ## See Also

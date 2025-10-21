@@ -19,7 +19,7 @@ String System::Uri::GetComponents(UriComponents components, UriFormat format) co
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| components | UriComponents | A bitwise combination of the UriComponents values that specifies which parts of URI to return |
+| components | UriComponents | A bitwise combination of the [UriComponents](../../uricomponents/) values that specifies which parts of URI to return |
 | format | UriFormat | Specifies how the special characters are escaped |
 
 ### ReturnValue

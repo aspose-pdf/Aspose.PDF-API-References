@@ -13,7 +13,7 @@ url: /cpp/system.text.regularexpressions/groupcollectionptr/
 [Group](../group/) collection pointer. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-class GroupCollectionPtr : public System::SmartPtr<GroupCollection>
+class GroupCollectionPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

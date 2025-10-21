@@ -21,7 +21,7 @@ static bool System::Xml::Schema::XmlSchemaType::IsDerivedFrom(SharedPtr<XmlSchem
 | --- | --- | --- |
 | derivedType | SharedPtr\<XmlSchemaType\> | The derived [XmlSchemaType](../) to test. |
 | baseType | const SharedPtr\<XmlSchemaType\>\& | The base [XmlSchemaType](../) to test the derived [XmlSchemaType](../) against. |
-| except | XmlSchemaDerivationMethod | One of the XmlSchemaDerivationMethod values representing a type derivation method to exclude from testing. |
+| except | XmlSchemaDerivationMethod | One of the [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/) values representing a type derivation method to exclude from testing. |
 
 ### ReturnValue
 

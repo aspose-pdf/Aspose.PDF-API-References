@@ -4,7 +4,7 @@ linktitle: PadLeft
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::PadLeft method. Adds padding on the left of original string in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/system/string/padleft/
 ---
 ## String::PadLeft method

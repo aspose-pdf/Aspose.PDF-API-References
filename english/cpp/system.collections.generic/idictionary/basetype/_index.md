@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::BaseType typedef. RTTI information in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.collections.generic/idictionary/basetype/
 ---
 ## BaseType typedef
@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/idictionary/basetype/
 RTTI information.
 
 ```cpp
-ICollection<KeyValuePair<TKey, TValue> > System::Collections::Generic::IDictionary< TKey, TValue >::BaseType
+typedef ICollection<KeyValuePair<TKey, TValue> > System::Collections::Generic::IDictionary< TKey, TValue >::BaseType
 ```
 
 ## Remarks

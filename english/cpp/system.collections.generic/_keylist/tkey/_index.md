@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/_keylist/tkey/
 Key type.
 
 ```cpp
-Dict::map_t::key_type System::Collections::Generic::_KeyList< Dict >::TKey
+typedef Dict::map_t::key_type System::Collections::Generic::_KeyList< Dict >::TKey
 ```
 
 ## See Also

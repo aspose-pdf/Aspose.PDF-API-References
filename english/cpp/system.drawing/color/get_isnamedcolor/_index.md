@@ -10,7 +10,7 @@ url: /cpp/system.drawing/color/get_isnamedcolor/
 ## Color::get_IsNamedColor method
 
 
-Returns a value that determines whether the [Color](../) structure represents a named color or a member of the KnownColor enumeration.
+Returns a value that determines whether the [Color](../) structure represents a named color or a member of the [KnownColor](../../knowncolor/) enumeration.
 
 ```cpp
 bool System::Drawing::Color::get_IsNamedColor() const

@@ -23,7 +23,7 @@ static Aspose::Pdf::Rotation Aspose::Pdf::Page::IntToRotation(int32_t rotation)
 
 ### ReturnValue
 
-Rotation enumeration member
+[Rotation](../../rotation/) enumeration member
 
 ## See Also
 

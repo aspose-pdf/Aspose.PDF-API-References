@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/dictionary/map_t/
 Underlying data type.
 
 ```cpp
-std::unordered_map<TKey, TValue, EqualityComparerHashAdapter<TKey>, EqualityComparerAdapter<TKey>, ASPOSE_MAP_ALLOCATOR_TYPE(TKey, TValue)> System::Collections::Generic::Dictionary< TKey, TValue >::map_t
+typedef std::unordered_map<TKey, TValue, EqualityComparerHashAdapter<TKey>, EqualityComparerAdapter<TKey>, ASPOSE_MAP_ALLOCATOR_TYPE(TKey, TValue)> System::Collections::Generic::Dictionary< TKey, TValue >::map_t
 ```
 
 ## See Also

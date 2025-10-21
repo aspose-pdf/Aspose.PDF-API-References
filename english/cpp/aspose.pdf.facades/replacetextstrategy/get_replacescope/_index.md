@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/replacetextstrategy/get_replacescope/
 ## ReplaceTextStrategy::get_ReplaceScope method
 
 
-Scope of the replacement operation (replace first occurence or replace all occurences).
+[Scope](../scope/) of the replacement operation (replace first occurence or replace all occurences).
 
 ```cpp
 ReplaceTextStrategy::Scope Aspose::Pdf::Facades::ReplaceTextStrategy::get_ReplaceScope() const

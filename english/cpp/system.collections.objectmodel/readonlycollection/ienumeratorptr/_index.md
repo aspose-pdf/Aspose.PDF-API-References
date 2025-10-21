@@ -13,7 +13,7 @@ url: /cpp/system.collections.objectmodel/readonlycollection/ienumeratorptr/
 Container of same elements.
 
 ```cpp
-SharedPtr<System::Collections::Generic::IEnumerator<T> > System::Collections::ObjectModel::ReadOnlyCollection< T >::IEnumeratorPtr
+typedef SharedPtr<System::Collections::Generic::IEnumerator<T> > System::Collections::ObjectModel::ReadOnlyCollection< T >::IEnumeratorPtr
 ```
 
 ## See Also

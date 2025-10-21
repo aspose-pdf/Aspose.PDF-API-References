@@ -10,7 +10,7 @@ url: /cpp/system.drawing.drawing2d/customlinecap/set_strokejoin/
 ## CustomLineCap::set_StrokeJoin method
 
 
-Sets the LineJoin value which determines how lines of this custom cap are joined.
+Sets the [LineJoin](../../linejoin/) value which determines how lines of this custom cap are joined.
 
 ```cpp
 void System::Drawing::Drawing2D::CustomLineCap::set_StrokeJoin(LineJoin value)

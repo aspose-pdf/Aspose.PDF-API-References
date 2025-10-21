@@ -61,7 +61,8 @@ url: /cpp/system.io/
 | Typedef | Description |
 | --- | --- |
 | [BinaryWriterPtr](./binarywriterptr/) | An alias for a shared pointer to this class. |
-| [FileNotFoundException](./filenotfoundexception/) | The exception that is thrown when an attempt to access a file that does not exist on disk fails. Never wrap the FileNotFoundException class instances into [System::SmartPtr](../system/smartptr/). |
+| [FileNotFoundException](./filenotfoundexception/) | The exception that is thrown when an attempt to access a file that does not exist on disk fails. Never wrap the [FileNotFoundException](./filenotfoundexception/) class instances into [System::SmartPtr](../system/smartptr/). |
+| [IsTemplateBaseOf](./istemplatebaseof/) | Represents std::is_base_of<Base, Derived> counterpart that determine the inheritance of not instantiated Base template class from instantiated Derived template class. Will fail with multiple inheritance or non-public inheritance from Base. |
 | [STDIOStreamWrapper](./stdiostreamwrapper/) | Specializations of [BasicSTDIOStreamWrapper](./basicstdiostreamwrapper/) for char character types. |
 | [STDIStreamWrapper](./stdistreamwrapper/) | Specializations of [BasicSTDIStreamWrapper](./basicstdistreamwrapper/) for char character types. |
 | [STDOStreamWrapper](./stdostreamwrapper/) | Specializations of [BasicSTDOStreamWrapper](./basicstdostreamwrapper/) for char character types. |

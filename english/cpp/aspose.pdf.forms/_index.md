@@ -55,7 +55,7 @@ The **[Aspose.Pdf.Forms](./)** namespace has classes which describes forms (stan
 | [ScalingMode](./scalingmode/) | The type of scaling that shall be used. |
 | [ScalingReason](./scalingreason/) | The circumstances under which the icon shall be scaled inside the annotation rectangle. |
 | [SubjectNameElements](./subjectnameelements/) | Enumeration describes elements in signature subject string. |
-| [Symbology](./symbology/) | A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc. |
+| [Symbology](./symbology/) | A (Barcode) [Symbology](./symbology/) defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc. |
 ## Typedefs
 
 | Typedef | Description |

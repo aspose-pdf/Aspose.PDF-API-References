@@ -13,7 +13,7 @@ url: /cpp/system.collections.objectmodel/readonlycollection/valuetype/
 Value type.
 
 ```cpp
-T System::Collections::ObjectModel::ReadOnlyCollection< T >::ValueType
+typedef T System::Collections::ObjectModel::ReadOnlyCollection< T >::ValueType
 ```
 
 ## See Also

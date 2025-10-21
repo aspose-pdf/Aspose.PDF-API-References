@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/end/
 ## SmartPtr::end() method
 
 
-Accessor for [end()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./) method.
+Accessor for [end()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [end()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<Q>().end()) System::SmartPtr<T>::end()
@@ -29,7 +29,7 @@ iterator to the end of collection
 ## SmartPtr::end() const method
 
 
-Accessor for [end()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [end()](./) method.
+Accessor for [end()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [end()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<const Q>().end()) System::SmartPtr<T>::end() const

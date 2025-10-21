@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/listext/thistype/
 
 
 ```cpp
-System::Collections::Generic::ListExt<T> System::Collections::Generic::ListExt< T >::ThisType
+typedef System::Collections::Generic::ListExt<T> System::Collections::Generic::ListExt< T >::ThisType
 ```
 
 ## See Also

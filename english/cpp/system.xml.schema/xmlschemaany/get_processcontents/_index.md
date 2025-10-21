@@ -19,7 +19,7 @@ XmlSchemaContentProcessing System::Xml::Schema::XmlSchemaAny::get_ProcessContent
 
 ### ReturnValue
 
-One of the XmlSchemaContentProcessing values. If no **processContents** attribute is specified, the default is **Strict**.
+One of the [XmlSchemaContentProcessing](../../xmlschemacontentprocessing/) values. If no **processContents** attribute is specified, the default is **Strict**.
 
 ## See Also
 

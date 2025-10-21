@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_pagenumberrotation/
 ## PdfFileStamp::get_PageNumberRotation method
 
 
-Gets rotation of page number. Rotation is in degrees. Default is 0.
+Gets rotation of page number. [Rotation](../../../aspose.pdf/rotation/) is in degrees. Default is 0.
 
 ```cpp
 float Aspose::Pdf::Facades::PdfFileStamp::get_PageNumberRotation()

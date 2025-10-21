@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/vector_t/
 RTTI information.
 
 ```cpp
-std::vector<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::List< T >::vector_t
+typedef std::vector<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::List< T >::vector_t
 ```
 
 ## Remarks

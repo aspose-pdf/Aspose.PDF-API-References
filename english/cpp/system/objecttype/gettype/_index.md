@@ -326,7 +326,7 @@ template<typename T> static std::enable_if<IsExceptionWrapper<T>::value, constSy
 
 | Parameter | Description |
 | --- | --- |
-| T | Exception type. |
+| T | [Exception](../../exception/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |

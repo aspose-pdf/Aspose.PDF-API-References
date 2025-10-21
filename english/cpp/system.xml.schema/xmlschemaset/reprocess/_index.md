@@ -23,7 +23,7 @@ SharedPtr<XmlSchema> System::Xml::Schema::XmlSchemaSet::Reprocess(SharedPtr<XmlS
 
 ### ReturnValue
 
-An [XmlSchema](../../xmlschema/) object if the schema is a valid schema. If the schema is not valid and a ValidationEventHandler is specified, **nullptr** is returned and the appropriate validation event is raised. Otherwise, an XmlSchemaException is thrown.
+An [XmlSchema](../../xmlschema/) object if the schema is a valid schema. If the schema is not valid and a [ValidationEventHandler](../../validationeventhandler/) is specified, **nullptr** is returned and the appropriate validation event is raised. Otherwise, an [XmlSchemaException](../../xmlschemaexception/) is thrown.
 
 ## See Also
 

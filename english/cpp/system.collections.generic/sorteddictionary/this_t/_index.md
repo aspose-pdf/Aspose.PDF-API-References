@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/this_t/
 Self type.
 
 ```cpp
-SortedDictionary<TKey, TValue> System::Collections::Generic::SortedDictionary< TKey, TValue >::this_t
+typedef SortedDictionary<TKey, TValue> System::Collections::Generic::SortedDictionary< TKey, TValue >::this_t
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: FromException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use FromException method of  class in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.threading.tasks/fromexception/
 ---
 ## System::Threading::Tasks::FromException(const Exception\&) method

@@ -4,7 +4,7 @@ linktitle: Run
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Run method of  class in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/system.threading.tasks/run/
 ---
 ## System::Threading::Tasks::Run(const Action<>\&) method
@@ -36,6 +36,21 @@ TaskPtr System::Threading::Tasks::Run(const Action<> &action, const Cancellation
 * Typedef [TaskPtr](../../system/taskptr/)
 * Typedef [Action](../../system/action/)
 * Class [CancellationToken](../../system.threading/cancellationtoken/)
+* Namespace [System::Threading::Tasks](../)
+* Library [Aspose.PDF for C++](../../)
+## System::Threading::Tasks::Run(const Func\<TaskPtr\>\&) method
+
+
+
+
+```cpp
+TaskPtr System::Threading::Tasks::Run(const Func<TaskPtr> &function)
+```
+
+## See Also
+
+* Typedef [TaskPtr](../../system/taskptr/)
+* Class [Func](../../system/func/)
 * Namespace [System::Threading::Tasks](../)
 * Library [Aspose.PDF for C++](../../)
 ## System::Threading::Tasks::Run(const Func\<TResult\>\&) method

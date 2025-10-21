@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/linkedlist/iterator/
 Iterator type.
 
 ```cpp
-list_t::iterator System::Collections::Generic::LinkedList< T >::iterator
+typedef list_t::iterator System::Collections::Generic::LinkedList< T >::iterator
 ```
 
 ## See Also

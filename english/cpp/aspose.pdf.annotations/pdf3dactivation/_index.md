@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dactivation/
 ## PDF3DActivation enum
 
 
-Enum PDF3DActivation: set of 3D annotation activation mode.
+Enum [PDF3DActivation](./): set of 3D annotation activation mode.
 
 ```cpp
 enum class PDF3DActivation

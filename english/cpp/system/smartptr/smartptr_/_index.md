@@ -13,7 +13,7 @@ url: /cpp/system/smartptr/smartptr_/
 Specialized smart pointer type.
 
 ```cpp
-SmartPtr<T> System::SmartPtr< T >::SmartPtr_
+typedef SmartPtr<T> System::SmartPtr< T >::SmartPtr_
 ```
 
 ## See Also

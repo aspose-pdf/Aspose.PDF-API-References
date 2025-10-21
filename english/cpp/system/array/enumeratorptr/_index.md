@@ -13,7 +13,7 @@ url: /cpp/system/array/enumeratorptr/
 An alias for shared pointer type pointing to IEnumerator object containing elements of type **T**.
 
 ```cpp
-SharedPtr<Collections::Generic::IEnumerator<T> > System::Array< T >::EnumeratorPtr
+typedef SharedPtr<Collections::Generic::IEnumerator<T> > System::Array< T >::EnumeratorPtr
 ```
 
 ## See Also

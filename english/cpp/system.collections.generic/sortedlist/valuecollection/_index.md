@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedlist/valuecollection/
 Value collection type.
 
 ```cpp
-ICollection<TValue> System::Collections::Generic::SortedList< TKey, TValue >::ValueCollection
+typedef ICollection<TValue> System::Collections::Generic::SortedList< TKey, TValue >::ValueCollection
 ```
 
 ## See Also

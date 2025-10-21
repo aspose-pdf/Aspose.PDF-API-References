@@ -26,12 +26,15 @@ class CaptureCollection : public System::Collections::Generic::List<CapturePtr>
 | [get_Count](./get_count/)() const override | Gets number of captures. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Marks collection as read-only. |
 | [get_IsSynchronized](./get_issynchronized/)() const | Marks collection as unsynchronized. |
+| [idx_get](./idx_get/)(int) const override | [Capture](../capture/) accessor. |
+| [operator[]](./operator[]/)(int) | [Capture](../capture/) accessor. |
+| [operator[]](./operator[]/)(int) const | [Capture](../capture/) accessor. |
 | [Remove](./remove/)(const CapturePtr\&) override | Disables collection ammendment. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [Base](./base/) | Base type. |
+| [Base](./base/) | [Base](./base/) type. |
 ## See Also
 
 * Class [List](../../system.collections.generic/list/)

@@ -19,11 +19,11 @@ RequestCacheLevel System::Net::Cache::RequestCachePolicy::get_Level()
 
 ### ReturnValue
 
-The specified RequestCacheLevel value.
+The specified [RequestCacheLevel](../../requestcachelevel/) value.
 ## Remarks
 
 
-Gets the specified RequestCacheLevel value. 
+Gets the specified [RequestCacheLevel](../../requestcachelevel/) value. 
 ## See Also
 
 * Enum [RequestCacheLevel](../../requestcachelevel/)

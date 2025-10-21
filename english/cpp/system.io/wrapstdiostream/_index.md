@@ -4,7 +4,7 @@ linktitle: WrapSTDIOStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::WrapSTDIOStream method. Wrapper function for std::basic_iostream-like streams in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/system.io/wrapstdiostream/
 ---
 ## System::IO::WrapSTDIOStream(std::basic_iostream\<char_type, traits_type\>\&, STDIOStreamWrappingMode, STDIOStreamPositionPreference) method

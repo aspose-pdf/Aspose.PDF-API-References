@@ -4,7 +4,7 @@ linktitle: MakeTuple
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeTuple method. Creates tuple on stack in C++.'
 type: docs
-weight: 23100
+weight: 23800
 url: /cpp/system/maketuple/
 ---
 ## System::MakeTuple method

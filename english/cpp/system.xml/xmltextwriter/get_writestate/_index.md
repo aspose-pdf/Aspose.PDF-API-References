@@ -19,7 +19,7 @@ System::Xml::WriteState System::Xml::XmlTextWriter::get_WriteState() override
 
 ### ReturnValue
 
-One of the WriteState values.
+One of the [WriteState](../../writestate/) values.
 
 ## See Also
 

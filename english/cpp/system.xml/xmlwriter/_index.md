@@ -36,7 +36,7 @@ class XmlWriter : public System::IDisposable
 | virtual [get_Settings](./get_settings/)() | Returns the [XmlWriterSettings](../xmlwritersettings/) object used to create this [XmlWriter](./) instance. |
 | virtual [get_WriteState](./get_writestate/)() | When overridden in a derived class, gets the state of the writer. |
 | virtual [get_XmlLang](./get_xmllang/)() | When overridden in a derived class, gets the current **xml:lang** scope. |
-| virtual [get_XmlSpace](./get_xmlspace/)() | When overridden in a derived class, gets an XmlSpace representing the current **xml:space** scope. |
+| virtual [get_XmlSpace](./get_xmlspace/)() | When overridden in a derived class, gets an [XmlSpace](../xmlspace/) representing the current **xml:space** scope. |
 | virtual [LookupPrefix](./lookupprefix/)(String) | When overridden in a derived class, returns the closest prefix defined in the current namespace scope for the namespace URI. |
 | virtual [WriteAttributes](./writeattributes/)(SharedPtr\<XmlReader\>, bool) | When overridden in a derived class, writes out all the attributes found at the current position in the [XmlReader](../xmlreader/). |
 | [WriteAttributeString](./writeattributestring/)(const String\&, const String\&, const String\&) | When overridden in a derived class, writes an attribute with the specified local name, namespace URI, and value. |

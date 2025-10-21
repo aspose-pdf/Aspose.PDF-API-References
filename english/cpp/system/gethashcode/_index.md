@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::GetHashCode method. Specialization for std::thread::id; Returns the hash code for the specified thread object in C++.'
 type: docs
-weight: 19900
+weight: 20600
 url: /cpp/system/gethashcode/
 ---
 ## System::GetHashCode(const std::thread::id\&) method
@@ -88,7 +88,7 @@ template<typename T> std::enable_if<System::IsExceptionWrapper<T>::value, int>::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | const T\& | The Exception Wrapper that contains the object to generate hash code for |
+| obj | const T\& | The [Exception](../exception/) Wrapper that contains the object to generate hash code for |
 
 ### ReturnValue
 

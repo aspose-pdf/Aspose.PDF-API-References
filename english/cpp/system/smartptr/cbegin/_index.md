@@ -10,7 +10,7 @@ url: /cpp/system/smartptr/cbegin/
 ## SmartPtr::cbegin method
 
 
-Accessor for [cbegin()](./) method of an underling collection. Only compiles if SmartPtr_ is specialization type with [cbegin()](./) method.
+Accessor for [cbegin()](./) method of an underling collection. Only compiles if [SmartPtr_](../smartptr_/) is specialization type with [cbegin()](./) method.
 
 ```cpp
 template<typename Q> decltype(std::declval<const Q>().cbegin()) System::SmartPtr<T>::cbegin() const

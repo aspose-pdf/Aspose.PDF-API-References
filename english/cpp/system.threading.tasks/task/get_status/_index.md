@@ -19,7 +19,7 @@ TaskStatus System::Threading::Tasks::Task::get_Status() const
 
 ### ReturnValue
 
-TaskStatus The current execution status
+[TaskStatus](../../taskstatus/) The current execution status
 
 ## See Also
 

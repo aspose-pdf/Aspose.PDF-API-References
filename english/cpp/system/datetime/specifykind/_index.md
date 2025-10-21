@@ -24,7 +24,7 @@ static DateTime System::DateTime::SpecifyKind(DateTime value, DateTimeKind kind)
 
 ### ReturnValue
 
-A new [DateTime](../) object that represents the same number of ticks as **value** and DateTimeKind value specified by **kind**.
+A new [DateTime](../) object that represents the same number of ticks as **value** and [DateTimeKind](../../datetimekind/) value specified by **kind**.
 
 ## See Also
 

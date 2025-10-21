@@ -19,7 +19,7 @@ static int32_t Aspose::Pdf::Page::RotationToInt(Aspose::Pdf::Rotation rotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | Aspose::Pdf::Rotation | Rotation enumeratioom member. |
+| rotation | Aspose::Pdf::Rotation | [Rotation](../../rotation/) enumeratioom member. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/removeat/
 Removes the element at the specified index of the [System.Collections.Generic.List](../../../system.collections.generic/list/).
 
 ```cpp
-void Aspose::Pdf::BoundsCheckableList<typename>::RemoveAt(int32_t index) override
+void Aspose::Pdf::BoundsCheckableList<T>::RemoveAt(int32_t index) override
 ```
 
 

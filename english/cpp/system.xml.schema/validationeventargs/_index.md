@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/validationeventargs/
 ## ValidationEventArgs class
 
 
-Returns detailed information related to the ValidationEventHandler.
+Returns detailed information related to the [ValidationEventHandler](../validationeventhandler/).
 
 ```cpp
 class ValidationEventArgs : public System::EventArgs
@@ -20,7 +20,7 @@ class ValidationEventArgs : public System::EventArgs
 
 | Method | Description |
 | --- | --- |
-| [get_Exception](./get_exception/)() | Returns the XmlSchemaException associated with the validation event. |
+| [get_Exception](./get_exception/)() | Returns the [XmlSchemaException](../xmlschemaexception/) associated with the validation event. |
 | [get_Message](./get_message/)() | Returns the text description corresponding to the validation event. |
 | [get_Severity](./get_severity/)() | Returns the severity of the validation event. |
 ## Fields

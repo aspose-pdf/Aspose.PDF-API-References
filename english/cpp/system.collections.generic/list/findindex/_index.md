@@ -21,7 +21,7 @@ int System::Collections::Generic::List<T>::FindIndex(int startIndex, int count, 
 | --- | --- | --- |
 | startIndex | int | Index to start search from. |
 | count | int | Number of elements to look through. |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 
@@ -46,7 +46,7 @@ int System::Collections::Generic::List<T>::FindIndex(int startIndex, System::Pre
 | Parameter | Type | Description |
 | --- | --- | --- |
 | startIndex | int | Index to start search from. |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 
@@ -70,7 +70,7 @@ int System::Collections::Generic::List<T>::FindIndex(System::Predicate<T> match)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

@@ -4,7 +4,7 @@ linktitle: idx_set
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::idx_set method. Setter function in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.collections.generic/idictionary/idx_set/
 ---
 ## IDictionary::idx_set method

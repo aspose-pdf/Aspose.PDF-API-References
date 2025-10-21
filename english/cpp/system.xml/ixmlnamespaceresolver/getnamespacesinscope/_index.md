@@ -19,7 +19,7 @@ virtual SharedPtr<Collections::Generic::IDictionary<String, String>> System::Xml
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scope | XmlNamespaceScope | An XmlNamespaceScope value that specifies the type of namespace nodes to return. |
+| scope | XmlNamespaceScope | An [XmlNamespaceScope](../../xmlnamespacescope/) value that specifies the type of namespace nodes to return. |
 
 ### ReturnValue
 

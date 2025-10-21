@@ -10,10 +10,10 @@ url: /cpp/system.text.regularexpressions/groupcollection/base/
 ## Base typedef
 
 
-Base class.
+[Base](./) class.
 
 ```cpp
-System::Collections::Generic::List<GroupPtr> System::Text::RegularExpressions::GroupCollection::Base
+typedef System::Collections::Generic::List<GroupPtr> System::Text::RegularExpressions::GroupCollection::Base
 ```
 
 ## See Also

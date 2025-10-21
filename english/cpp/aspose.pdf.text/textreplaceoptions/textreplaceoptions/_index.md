@@ -19,7 +19,7 @@ Aspose::Pdf::Text::TextReplaceOptions::TextReplaceOptions(TextReplaceOptions::Re
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| adjustment | TextReplaceOptions::ReplaceAdjustment | ReplaceAdjustment object. |
+| adjustment | TextReplaceOptions::ReplaceAdjustment | [ReplaceAdjustment](../replaceadjustment/) object. |
 
 ## See Also
 
@@ -39,7 +39,7 @@ Aspose::Pdf::Text::TextReplaceOptions::TextReplaceOptions(TextReplaceOptions::Sc
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scope | TextReplaceOptions::Scope | Scope object. |
+| scope | TextReplaceOptions::Scope | [Scope](../scope/) object. |
 
 ## See Also
 

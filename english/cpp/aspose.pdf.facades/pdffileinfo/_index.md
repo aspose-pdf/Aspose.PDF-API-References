@@ -27,7 +27,7 @@ class PdfFileInfo : public Aspose::Pdf::Facades::SaveableFacade
 | [get_CreationDate](./get_creationdate/)() | Gets the CreationDate information of PDF document. |
 | [get_Creator](./get_creator/)() | Gets the Creator information of PDF document. |
 | [get_HasCollection](./get_hascollection/)() | Returns true if the current input file is a 'Portfolio' file containing collection of PDF files in it. |
-| [get_HasEditPassword](./get_haseditpassword/)() | Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read only if valid password was provided in [PdfFileInfo](./) constructor. In case PasswordType is Inaccessible (means that invalid password was provided) reading this property will fail with [InvalidPasswordException](../../aspose.pdf/invalidpasswordexception/). |
+| [get_HasEditPassword](./get_haseditpassword/)() | Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read only if valid password was provided in [PdfFileInfo](./) constructor. In case [PasswordType](../../aspose.pdf/passwordtype/) is Inaccessible (means that invalid password was provided) reading this property will fail with [InvalidPasswordException](../../aspose.pdf/invalidpasswordexception/). |
 | [get_HasOpenPassword](./get_hasopenpassword/)() | Returns true if password is needed to open password protected pdf document. |
 | [get_Header](./get_header/)() const | Gets the customized information of PDF document. |
 | [get_InputFile](./get_inputfile/)() const | Gets the input file. |

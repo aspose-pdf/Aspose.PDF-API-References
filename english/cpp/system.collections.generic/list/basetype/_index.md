@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/basetype/
 Interface type.
 
 ```cpp
-IList<T> System::Collections::Generic::List< T >::BaseType
+typedef IList<T> System::Collections::Generic::List< T >::BaseType
 ```
 
 ## See Also

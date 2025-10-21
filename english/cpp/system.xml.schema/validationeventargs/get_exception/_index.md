@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/validationeventargs/get_exception/
 ## ValidationEventArgs::get_Exception method
 
 
-Returns the XmlSchemaException associated with the validation event.
+Returns the [XmlSchemaException](../../xmlschemaexception/) associated with the validation event.
 
 ```cpp
 XmlSchemaException System::Xml::Schema::ValidationEventArgs::get_Exception()
@@ -19,7 +19,7 @@ XmlSchemaException System::Xml::Schema::ValidationEventArgs::get_Exception()
 
 ### ReturnValue
 
-The XmlSchemaException associated with the validation event.
+The [XmlSchemaException](../../xmlschemaexception/) associated with the validation event.
 
 ## See Also
 

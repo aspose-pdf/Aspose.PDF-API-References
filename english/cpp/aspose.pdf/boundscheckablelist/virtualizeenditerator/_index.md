@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/virtualizeenditerator/
 Gets iterator pointing right after the last element (if any) of the collection.
 
 ```cpp
-virtualized_iterator * Aspose::Pdf::BoundsCheckableList<typename>::virtualizeEndIterator() override
+virtualized_iterator * Aspose::Pdf::BoundsCheckableList<T>::virtualizeEndIterator() override
 ```
 
 

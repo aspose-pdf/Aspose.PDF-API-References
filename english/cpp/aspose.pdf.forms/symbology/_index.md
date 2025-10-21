@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/symbology/
 ## Symbology enum
 
 
-A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.
+A (Barcode) [Symbology](./) defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.
 
 ```cpp
 enum class Symbology

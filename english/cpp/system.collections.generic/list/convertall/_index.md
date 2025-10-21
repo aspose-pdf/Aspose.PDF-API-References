@@ -23,7 +23,7 @@ template<typename OutputType> SharedPtr<List<OutputType>> System::Collections::G
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| converter | Converter\<T, OutputType\> | Converter to use for items conversion. |
+| converter | Converter\<T, OutputType\> | [Converter](../../../system/converter/) to use for items conversion. |
 
 ### ReturnValue
 

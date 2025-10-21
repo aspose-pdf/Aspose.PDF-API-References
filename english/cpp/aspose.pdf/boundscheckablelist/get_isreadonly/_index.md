@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/get_isreadonly/
 Gets the value indicating if collection is readonly.
 
 ```cpp
-bool Aspose::Pdf::BoundsCheckableList<typename>::get_IsReadOnly() const override
+bool Aspose::Pdf::BoundsCheckableList<T>::get_IsReadOnly() const override
 ```
 
 ## See Also

@@ -29,7 +29,7 @@ bool System::Xml::XPath::XPathNavigator::MoveToNextNamespace()
 ## XPathNavigator::MoveToNextNamespace(XPathNamespaceScope) method
 
 
-When overridden in a derived class, moves the [XPathNavigator](../) to the next namespace node matching the XPathNamespaceScope specified.
+When overridden in a derived class, moves the [XPathNavigator](../) to the next namespace node matching the [XPathNamespaceScope](../../xpathnamespacescope/) specified.
 
 ```cpp
 virtual bool System::Xml::XPath::XPathNavigator::MoveToNextNamespace(XPathNamespaceScope namespaceScope)=0
@@ -38,7 +38,7 @@ virtual bool System::Xml::XPath::XPathNavigator::MoveToNextNamespace(XPathNamesp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceScope | XPathNamespaceScope | An XPathNamespaceScope value describing the namespace scope. |
+| namespaceScope | XPathNamespaceScope | An [XPathNamespaceScope](../../xpathnamespacescope/) value describing the namespace scope. |
 
 ### ReturnValue
 

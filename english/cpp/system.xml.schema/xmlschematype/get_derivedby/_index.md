@@ -19,7 +19,7 @@ XmlSchemaDerivationMethod System::Xml::Schema::XmlSchemaType::get_DerivedBy()
 
 ### ReturnValue
 
-One of the valid XmlSchemaDerivationMethod values.
+One of the valid [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/) values.
 
 ## See Also
 

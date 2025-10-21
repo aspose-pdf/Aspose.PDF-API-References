@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/
 Represents [BoundsCheckableList](./) - wrapper around [System.Collections.Generic.List](../../system.collections.generic/list/).
 
 ```cpp
-template<typename>class BoundsCheckableList : public System::Collections::Generic::IList<T>
+template<typename T>class BoundsCheckableList : public System::Collections::Generic::IList<T>
 ```
 
 ## Methods

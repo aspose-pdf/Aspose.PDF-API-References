@@ -4,7 +4,7 @@ linktitle: TrimStart
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::TrimStart method. Removes all whitespace characters from beginning of the string in C++.'
 type: docs
-weight: 5800
+weight: 5900
 url: /cpp/system/string/trimstart/
 ---
 ## String::TrimStart() const method

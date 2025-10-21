@@ -4,7 +4,7 @@ linktitle: TaskStatus
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Threading::Tasks::TaskStatus enum in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/system.threading.tasks/taskstatus/
 ---
 ## TaskStatus enum

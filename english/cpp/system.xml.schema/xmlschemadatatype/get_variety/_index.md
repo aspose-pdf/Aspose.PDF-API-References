@@ -10,7 +10,7 @@ url: /cpp/system.xml.schema/xmlschemadatatype/get_variety/
 ## XmlSchemaDatatype::get_Variety method
 
 
-Returns the XmlSchemaDatatypeVariety value for the simple type.
+Returns the [XmlSchemaDatatypeVariety](../../xmlschemadatatypevariety/) value for the simple type.
 
 ```cpp
 virtual XmlSchemaDatatypeVariety System::Xml::Schema::XmlSchemaDatatype::get_Variety()
@@ -19,7 +19,7 @@ virtual XmlSchemaDatatypeVariety System::Xml::Schema::XmlSchemaDatatype::get_Var
 
 ### ReturnValue
 
-The XmlSchemaDatatypeVariety value for the simple type.
+The [XmlSchemaDatatypeVariety](../../xmlschemadatatypevariety/) value for the simple type.
 
 ## See Also
 

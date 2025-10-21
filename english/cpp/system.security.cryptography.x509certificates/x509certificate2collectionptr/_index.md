@@ -13,7 +13,7 @@ url: /cpp/system.security.cryptography.x509certificates/x509certificate2collecti
 Pointer to collection of X509 certificates. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference.
 
 ```cpp
-class X509Certificate2CollectionPtr : public System::SmartPtr<X509Certificate2Collection>
+class X509Certificate2CollectionPtr : public System::SmartPtr<T0>
 ```
 
 ## Methods

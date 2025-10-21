@@ -19,7 +19,7 @@ System::Xml::ReadState System::Xml::XmlNodeReader::get_ReadState() override
 
 ### ReturnValue
 
-One of the ReadState values.
+One of the [ReadState](../../readstate/) values.
 
 ## See Also
 

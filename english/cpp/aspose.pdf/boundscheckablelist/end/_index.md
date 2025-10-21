@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundscheckablelist/end/
 Gets iterator pointing right after the last element (if any) of the const-qualified instance of the collection.
 
 ```cpp
-const_iterator Aspose::Pdf::BoundsCheckableList<typename>::end() const noexcept
+const_iterator Aspose::Pdf::BoundsCheckableList<T>::end() const noexcept
 ```
 
 
@@ -33,7 +33,7 @@ An iterator pointing right after the last element (if any) of the const-qualifie
 Gets iterator pointing right after the last element (if any) of the collection.
 
 ```cpp
-iterator Aspose::Pdf::BoundsCheckableList<typename>::end() noexcept
+iterator Aspose::Pdf::BoundsCheckableList<T>::end() noexcept
 ```
 
 

@@ -75,6 +75,7 @@ type Document struct {
 | [RemoveHiddenText](./organize/removehiddentext/) | Remove hidden text from PDF-document. |
 | [RemoveImages](./organize/removeimages/) | Remove images from PDF-document. |
 | [RemoveJavaScripts](./organize/removejavascripts/) | Remove java scripts from PDF-document. |
+| [RemoveTables](./organize/removetables/) | Remove tables from PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -86,6 +87,7 @@ type Document struct {
 | [PageRemoveAnnotations](./organize/pageremoveannotations/) | Remove annotations in page. |
 | [PageRemoveHiddenText](./organize/pageremovehiddentext/) | Remove hidden text in page. |
 | [PageRemoveImages](./organize/pageremoveimages/) | Remove images in page. |
+| [PageRemoveTables](./organize/pageremovetables/) | Remove tables in page. |
 
 
 ## Core PDF functions
@@ -105,7 +107,9 @@ type Document struct {
 | [AppendPages](./core/appendpages/) | Append selected pages from another PDF-document. |
 | [MergeDocuments](./core/mergedocuments/) | Create a new PDF-document by merging the provided PDF-documents. |
 | [SplitDocument](./core/splitdocument/) | Create multiple new PDF-documents by extracting pages from the source PDF-document. |
+| [Split](./core/split/) | Create multiple new PDF-documents by extracting pages from the current PDF-document. |
 | [SplitAtPage](./core/splitatpage/) | Split the PDF-document into two new PDF-documents. |
+| [SplitAt](./core/splitat/) | Split the current PDF-document into two new PDF-documents. |
 | [Bytes](./core/bytes/) | Return the contents of the PDF-document as a byte slice. |
 | [PageAdd](./core/pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |

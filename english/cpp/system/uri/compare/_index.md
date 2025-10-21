@@ -23,7 +23,7 @@ static int32_t System::Uri::Compare(const SharedPtr<Uri> &uri1, const SharedPtr<
 | uri2 | const SharedPtr\<Uri\>\& | The second comparand |
 | partsToCompare | UriComponents | Specifies the parts of **uri1** and **uri2** to compare |
 | compareFormat | UriFormat | Specifies the character escaping used when components of URIs are compared |
-| comparisonType | StringComparison | One of the StringComparison values |
+| comparisonType | StringComparison | One of the [StringComparison](../../stringcomparison/) values |
 
 ### ReturnValue
 

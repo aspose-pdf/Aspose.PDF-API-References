@@ -19,7 +19,7 @@ XmlOutputMethod System::Xml::XmlWriterSettings::get_OutputMethod()
 
 ### ReturnValue
 
-One of the XmlOutputMethod values. The default is [XmlOutputMethod::Xml](../../xmloutputmethod/).
+One of the [XmlOutputMethod](../../xmloutputmethod/) values. The default is [XmlOutputMethod::Xml](../../xmloutputmethod/).
 
 ## See Also
 

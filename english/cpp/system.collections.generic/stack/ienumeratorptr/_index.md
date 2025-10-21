@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/stack/ienumeratorptr/
 [Enumerator](../enumerator/) type.
 
 ```cpp
-SharedPtr<IEnumerator<T> > System::Collections::Generic::Stack< T >::IEnumeratorPtr
+typedef SharedPtr<IEnumerator<T> > System::Collections::Generic::Stack< T >::IEnumeratorPtr
 ```
 
 ## See Also

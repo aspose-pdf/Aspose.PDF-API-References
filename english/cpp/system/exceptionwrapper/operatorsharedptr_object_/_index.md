@@ -10,7 +10,7 @@ url: /cpp/system/exceptionwrapper/operatorsharedptr_object_/
 ## ExceptionWrapper::operator SharedPtr< Object > method
 
 
-Implicit cast operator to SharedPtr<Object>
+Implicit cast operator to [SharedPtr<Object>](../../sharedptr/)
 
 ```cpp
 System::ExceptionWrapper<T>::operator SharedPtr<Object>()

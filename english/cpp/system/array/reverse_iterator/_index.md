@@ -13,7 +13,7 @@ url: /cpp/system/array/reverse_iterator/
 Reverse iterator type.
 
 ```cpp
-vector_t::reverse_iterator System::Array< T >::reverse_iterator
+typedef vector_t::reverse_iterator System::Array< T >::reverse_iterator
 ```
 
 ## See Also

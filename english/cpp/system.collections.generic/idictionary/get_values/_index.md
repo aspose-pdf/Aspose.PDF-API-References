@@ -4,7 +4,7 @@ linktitle: get_Values
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IDictionary::get_Values method. Accesses value collection in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.collections.generic/idictionary/get_values/
 ---
 ## IDictionary::get_Values method

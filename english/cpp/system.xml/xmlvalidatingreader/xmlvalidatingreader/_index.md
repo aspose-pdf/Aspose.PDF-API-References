@@ -20,7 +20,7 @@ System::Xml::XmlValidatingReader::XmlValidatingReader(const SharedPtr<IO::Stream
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmlFragment | const SharedPtr\<IO::Stream\>\& | The stream containing the XML fragment to parse. |
-| fragType | XmlNodeType | The XmlNodeType of the XML fragment. This determines what the fragment can contain (see table below). |
+| fragType | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the XML fragment. This determines what the fragment can contain (see table below). |
 | context | const SharedPtr\<XmlParserContext\>\& | The [XmlParserContext](../../xmlparsercontext/) in which the XML fragment is to be parsed. This includes the [XmlNameTable](../../xmlnametable/) to use, encoding, namespace scope, current **xml:lang**, and **xml:space** scope. |
 ## Remarks
 
@@ -28,7 +28,7 @@ System::Xml::XmlValidatingReader::XmlValidatingReader(const SharedPtr<IO::Stream
 
 The following table lists valid values for **fragType** and how the reader parses each of the different node types. |||
 |-|-|
-|XmlNodeType |Fragment May Contain |
+|XmlNodeType|Fragment May Contain |
 |Element|Any valid element content (for example, any combination of elements, comments, processing instructions, cdata, text, and entity references). |
 |Attribute|The value of an attribute (the part inside the quotes). |
 |Document|The contents of an entire XML document; this enforces document level rules. |
@@ -76,7 +76,7 @@ System::Xml::XmlValidatingReader::XmlValidatingReader(const String &xmlFragment,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmlFragment | const String\& | The string containing the XML fragment to parse. |
-| fragType | XmlNodeType | The XmlNodeType of the XML fragment. This also determines what the fragment string can contain (see table below). |
+| fragType | XmlNodeType | The [XmlNodeType](../../xmlnodetype/) of the XML fragment. This also determines what the fragment string can contain (see table below). |
 | context | const SharedPtr\<XmlParserContext\>\& | The [XmlParserContext](../../xmlparsercontext/) in which the XML fragment is to be parsed. This includes the [NameTable](../../nametable/) to use, encoding, namespace scope, current **xml:lang**, and **xml:space** scope. |
 ## Remarks
 
@@ -84,7 +84,7 @@ System::Xml::XmlValidatingReader::XmlValidatingReader(const String &xmlFragment,
 
 The following table lists valid values for **fragType** and how the reader parses each of the different node types. |||
 |-|-|
-|XmlNodeType |Fragment May Contain |
+|XmlNodeType|Fragment May Contain |
 |Element|Any valid element content (for example, any combination of elements, comments, processing instructions, cdata, text, and entity references). |
 |Attribute|The value of an attribute (the part inside the quotes). |
 |Document|The contents of an entire XML document; this enforces document level rules. |

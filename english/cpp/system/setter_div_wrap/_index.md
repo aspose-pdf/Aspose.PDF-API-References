@@ -4,7 +4,7 @@ linktitle: setter_div_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_div_wrap method of  class in C++.'
 type: docs
-weight: 36000
+weight: 36900
 url: /cpp/system/setter_div_wrap/
 ---
 ## System::setter_div_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

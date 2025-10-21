@@ -23,7 +23,9 @@ url: /go-cpp/core/
 | [AppendPages](./appendpages/) | Append selected pages from another PDF-document. |
 | [MergeDocuments](./mergedocuments/) | Create a new PDF-document by merging the provided PDF-documents. |
 | [SplitDocument](./splitdocument/) | Create multiple new PDF-documents by extracting pages from the source PDF-document. |
+| [Split](./split/) | Create multiple new PDF-documents by extracting pages from the current PDF-document. |
 | [SplitAtPage](./splitatpage/) | Split the PDF-document into two new PDF-documents. |
+| [SplitAt](./splitat/) | Split the current PDF-document into two new PDF-documents. |
 | [Bytes](./bytes/) | Return the contents of the PDF-document as a byte slice. |
 | [PageAdd](./pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./pageinsert/) | Insert new page at the specified position in PDF-document. |

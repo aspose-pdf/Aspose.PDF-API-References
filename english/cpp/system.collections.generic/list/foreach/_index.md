@@ -19,7 +19,7 @@ void System::Collections::Generic::List<T>::ForEach(System::Action<T> action)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| action | System::Action\<T\> | Action to apply. |
+| action | System::Action\<T\> | [Action](../../../system/action/) to apply. |
 
 ## See Also
 

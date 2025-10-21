@@ -30,7 +30,7 @@ template<typename TKey,typename TValue>class SortedDictionary : public System::C
 | --- | --- |
 | [crbegin](./crbegin/)() const | Gets a reverse iterator to the last const-qualified element of collection (first in reverse). |
 | [crend](./crend/)() const | Gets a reverse iterator for a non-existent const-qualified element before the start of the collection. |
-| [get_Comparer](./get_comparer/)() const | Gets the IComparer<TKey> used to order the elements of the SortedDictionary<TKey,TValue>. |
+| [get_Comparer](./get_comparer/)() const | Gets the [IComparer<TKey>](../icomparer/) used to order the elements of the SortedDictionary<TKey,TValue>. |
 | static [GetDefaultKeyComparer](./getdefaultkeycomparer/)() | Singleton accessor function. |
 | [GetEnumerator](./getenumerator/)() override | Gets enumerator to iterate through current dictionary. |
 | [rbegin](./rbegin/)() | Gets a reverse iterator to the last element of collection (first in reverse). |

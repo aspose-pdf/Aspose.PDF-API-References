@@ -25,7 +25,7 @@ template<typename InputType,typename OutputType> static ArrayPtr<OutputType> Sys
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input_array | ArrayPtr\<InputType\> | An [Array](../) object |
-| converter | Converter\<InputType, OutputType\> | A Converter object used to convert each element of the input array to equivalent values of **OutputType** type |
+| converter | Converter\<InputType, OutputType\> | A [Converter](../../converter/) object used to convert each element of the input array to equivalent values of **OutputType** type |
 
 ### ReturnValue
 

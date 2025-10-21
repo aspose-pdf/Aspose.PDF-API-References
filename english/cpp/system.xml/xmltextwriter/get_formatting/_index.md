@@ -19,7 +19,7 @@ System::Xml::Formatting System::Xml::XmlTextWriter::get_Formatting()
 
 ### ReturnValue
 
-One of the Formatting values. The default is [Formatting::None](../../formatting/) (no special formatting).
+One of the [Formatting](../../formatting/) values. The default is [Formatting::None](../../formatting/) (no special formatting).
 
 ## See Also
 

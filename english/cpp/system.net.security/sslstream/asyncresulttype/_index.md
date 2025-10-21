@@ -13,13 +13,13 @@ url: /cpp/system.net.security/sslstream/asyncresulttype/
 RTTI information.
 
 ```cpp
-TlsStreamAsyncResult System::Net::Security::SslStream::AsyncResultType
+typedef TlsStreamAsyncResult System::Net::Security::SslStream::AsyncResultType
 ```
 
 ## Remarks
 
 
-Type of AsyncResultType 
+Type of [AsyncResultType](./)
 ## See Also
 
 * Class [SslStream](../)

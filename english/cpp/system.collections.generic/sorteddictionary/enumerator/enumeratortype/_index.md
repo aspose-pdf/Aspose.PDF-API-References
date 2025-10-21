@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sorteddictionary/enumerator/enumeratortype/
 [Enumerator](../) type alias.
 
 ```cpp
-SortedDictionary<TKey,TValue>::Enumerator System::Collections::Generic::SortedDictionary< TKey, TValue >::Enumerator::EnumeratorType
+typedef SortedDictionary<TKey,TValue>::Enumerator System::Collections::Generic::SortedDictionary< TKey, TValue >::Enumerator::EnumeratorType
 ```
 
 ## See Also

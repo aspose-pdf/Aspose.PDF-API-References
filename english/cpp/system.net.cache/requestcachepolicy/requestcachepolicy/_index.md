@@ -24,7 +24,7 @@ System::Net::Cache::RequestCachePolicy::RequestCachePolicy()
 ## RequestCachePolicy::RequestCachePolicy(RequestCacheLevel) constructor
 
 
-Construct a new instance with the specified RequestCacheLevel value.
+Construct a new instance with the specified [RequestCacheLevel](../../requestcachelevel/) value.
 
 ```cpp
 System::Net::Cache::RequestCachePolicy::RequestCachePolicy(RequestCacheLevel level)
@@ -33,7 +33,7 @@ System::Net::Cache::RequestCachePolicy::RequestCachePolicy(RequestCacheLevel lev
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | RequestCacheLevel | The RequestCacheLevel value. |
+| level | RequestCacheLevel | The [RequestCacheLevel](../../requestcachelevel/) value. |
 
 ## See Also
 

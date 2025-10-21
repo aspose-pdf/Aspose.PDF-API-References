@@ -10,7 +10,7 @@ url: /cpp/system.security.cryptography/cspkeycontainerinfo/get_keynumber/
 ## CspKeyContainerInfo::get_KeyNumber method
 
 
-Gets a KeyNumber object.
+Gets a [KeyNumber](../../keynumber/) object.
 
 ```cpp
 SharedPtr<KeyNumber> System::Security::Cryptography::CspKeyContainerInfo::get_KeyNumber() const

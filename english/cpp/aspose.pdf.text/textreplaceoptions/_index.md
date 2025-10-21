@@ -22,7 +22,7 @@ class TextReplaceOptions : public Aspose::Pdf::Text::TextOptions
 | --- | --- |
 | [FontSizeAdjustment](./fontsizeadjustment/) | Specifies a policy for how the font size of text should be adjusted to fit within a containing area. |
 | [ReplaceAdjustment](./replaceadjustment/) | Determines action that will be done after replace of text fragment to more short. None - no action, replaced text may overlaps rest of the line; AdjustSpaceWidth - tries adjust spaces between words to keep line length; WholeWordsHyphenation - tries distribute words between paragraph lines to keep paragraph's right field; ShiftRestOfLine - shifts rest of the line according to changing length of text, length of the line may be changed; Default value is ShiftRestOfLine. |
-| [Scope](./scope/) | Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to [TextFragmentAbsorber](../textfragmentabsorber/). |
+| [Scope](./scope/) | [Scope](./scope/) where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to [TextFragmentAbsorber](../textfragmentabsorber/). |
 ## Methods
 
 | Method | Description |

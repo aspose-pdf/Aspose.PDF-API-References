@@ -52,7 +52,7 @@ class XPathNavigator : public System::Xml::XPath::XPathItem,
 | virtual [get_NamespaceURI](./get_namespaceuri/)() | When overridden in a derived class, gets the namespace URI of the current node. |
 | virtual [get_NameTable](./get_nametable/)() | When overridden in a derived class, gets the [XmlNameTable](../../system.xml/xmlnametable/) of the [XPathNavigator](./). |
 | static [get_NavigatorComparer](./get_navigatorcomparer/)() | Returns an [Collections::IEqualityComparer](../../system.collections/iequalitycomparer/) used for equality comparison of [XPathNavigator](./) objects. |
-| virtual [get_NodeType](./get_nodetype/)() | When overridden in a derived class, gets the XPathNodeType of the current node. |
+| virtual [get_NodeType](./get_nodetype/)() | When overridden in a derived class, gets the [XPathNodeType](../xpathnodetype/) of the current node. |
 | virtual [get_OuterXml](./get_outerxml/)() | Returns the markup representing the opening and closing tags of the current node and its child nodes. |
 | virtual [get_Prefix](./get_prefix/)() | When overridden in a derived class, gets the namespace prefix associated with the current node. |
 | virtual [get_SchemaInfo](./get_schemainfo/)() | Returns the schema information that has been assigned to the current node as a result of schema validation. |
@@ -88,23 +88,23 @@ class XPathNavigator : public System::Xml::XPath::XPathItem,
 | virtual [MoveTo](./moveto/)(SharedPtr\<XPathNavigator\>) | When overridden in a derived class, moves the [XPathNavigator](./) to the same position as the specified [XPathNavigator](./). |
 | virtual [MoveToAttribute](./movetoattribute/)(String, String) | Moves the [XPathNavigator](./) to the attribute with the matching local name and namespace URI. |
 | virtual [MoveToChild](./movetochild/)(String, String) | Moves the [XPathNavigator](./) to the child node with the local name and namespace URI specified. |
-| virtual [MoveToChild](./movetochild/)(XPathNodeType) | Moves the [XPathNavigator](./) to the child node of the XPathNodeType specified. |
+| virtual [MoveToChild](./movetochild/)(XPathNodeType) | Moves the [XPathNavigator](./) to the child node of the [XPathNodeType](../xpathnodetype/) specified. |
 | virtual [MoveToFirst](./movetofirst/)() | Moves the [XPathNavigator](./) to the first sibling node of the current node. |
 | virtual [MoveToFirstAttribute](./movetofirstattribute/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the first attribute of the current node. |
 | virtual [MoveToFirstChild](./movetofirstchild/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the first child node of the current node. |
-| virtual [MoveToFirstNamespace](./movetofirstnamespace/)(XPathNamespaceScope) | When overridden in a derived class, moves the [XPathNavigator](./) to the first namespace node that matches the XPathNamespaceScope specified. |
+| virtual [MoveToFirstNamespace](./movetofirstnamespace/)(XPathNamespaceScope) | When overridden in a derived class, moves the [XPathNavigator](./) to the first namespace node that matches the [XPathNamespaceScope](../xpathnamespacescope/) specified. |
 | [MoveToFirstNamespace](./movetofirstnamespace/)() | Moves the [XPathNavigator](./) to first namespace node of the current node. |
 | virtual [MoveToFollowing](./movetofollowing/)(String, String) | Moves the [XPathNavigator](./) to the element with the local name and namespace URI specified in document order. |
 | virtual [MoveToFollowing](./movetofollowing/)(String, String, SharedPtr\<XPathNavigator\>) | Moves the [XPathNavigator](./) to the element with the local name and namespace URI specified, to the boundary specified, in document order. |
-| virtual [MoveToFollowing](./movetofollowing/)(XPathNodeType) | Moves the [XPathNavigator](./) to the following element of the XPathNodeType specified in document order. |
-| virtual [MoveToFollowing](./movetofollowing/)(XPathNodeType, SharedPtr\<XPathNavigator\>) | Moves the [XPathNavigator](./) to the following element of the XPathNodeType specified, to the boundary specified, in document order. |
+| virtual [MoveToFollowing](./movetofollowing/)(XPathNodeType) | Moves the [XPathNavigator](./) to the following element of the [XPathNodeType](../xpathnodetype/) specified in document order. |
+| virtual [MoveToFollowing](./movetofollowing/)(XPathNodeType, SharedPtr\<XPathNavigator\>) | Moves the [XPathNavigator](./) to the following element of the [XPathNodeType](../xpathnodetype/) specified, to the boundary specified, in document order. |
 | virtual [MoveToId](./movetoid/)(String) | When overridden in a derived class, moves to the node that has an attribute of type **ID** whose value matches the specified [String](../../system/string/). |
 | virtual [MoveToNamespace](./movetonamespace/)(String) | Moves the [XPathNavigator](./) to the namespace node with the specified namespace prefix. |
 | virtual [MoveToNext](./movetonext/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the next sibling node of the current node. |
 | virtual [MoveToNext](./movetonext/)(String, String) | Moves the [XPathNavigator](./) to the next sibling node with the local name and namespace URI specified. |
-| virtual [MoveToNext](./movetonext/)(XPathNodeType) | Moves the [XPathNavigator](./) to the next sibling node of the current node that matches the XPathNodeType specified. |
+| virtual [MoveToNext](./movetonext/)(XPathNodeType) | Moves the [XPathNavigator](./) to the next sibling node of the current node that matches the [XPathNodeType](../xpathnodetype/) specified. |
 | virtual [MoveToNextAttribute](./movetonextattribute/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the next attribute. |
-| virtual [MoveToNextNamespace](./movetonextnamespace/)(XPathNamespaceScope) | When overridden in a derived class, moves the [XPathNavigator](./) to the next namespace node matching the XPathNamespaceScope specified. |
+| virtual [MoveToNextNamespace](./movetonextnamespace/)(XPathNamespaceScope) | When overridden in a derived class, moves the [XPathNavigator](./) to the next namespace node matching the [XPathNamespaceScope](../xpathnamespacescope/) specified. |
 | [MoveToNextNamespace](./movetonextnamespace/)() | Moves the [XPathNavigator](./) to the next namespace node. |
 | virtual [MoveToParent](./movetoparent/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the parent node of the current node. |
 | virtual [MoveToPrevious](./movetoprevious/)() | When overridden in a derived class, moves the [XPathNavigator](./) to the previous sibling node of the current node. |
@@ -122,11 +122,11 @@ class XPathNavigator : public System::Xml::XPath::XPathItem,
 | virtual [Select](./select/)(String) | Selects a node set, using the specified [XPath](../) expression. |
 | virtual [Select](./select/)(String, SharedPtr\<IXmlNamespaceResolver\>) | Selects a node set using the specified [XPath](../) expression with the [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/) object specified to resolve namespace prefixes. |
 | virtual [Select](./select/)(SharedPtr\<XPathExpression\>) | Selects a node set using the specified [XPathExpression](../xpathexpression/). |
-| virtual [SelectAncestors](./selectancestors/)(XPathNodeType, bool) | Selects all the ancestor nodes of the current node that have a matching XPathNodeType. |
+| virtual [SelectAncestors](./selectancestors/)(XPathNodeType, bool) | Selects all the ancestor nodes of the current node that have a matching [XPathNodeType](../xpathnodetype/). |
 | virtual [SelectAncestors](./selectancestors/)(String, String, bool) | Selects all the ancestor nodes of the current node that have the specified local name and namespace URI. |
-| virtual [SelectChildren](./selectchildren/)(XPathNodeType) | Selects all the child nodes of the current node that have the matching XPathNodeType. |
+| virtual [SelectChildren](./selectchildren/)(XPathNodeType) | Selects all the child nodes of the current node that have the matching [XPathNodeType](../xpathnodetype/). |
 | virtual [SelectChildren](./selectchildren/)(String, String) | Selects all the child nodes of the current node that have the local name and namespace URI specified. |
-| virtual [SelectDescendants](./selectdescendants/)(XPathNodeType, bool) | Selects all the descendant nodes of the current node that have a matching XPathNodeType. |
+| virtual [SelectDescendants](./selectdescendants/)(XPathNodeType, bool) | Selects all the descendant nodes of the current node that have a matching [XPathNodeType](../xpathnodetype/). |
 | virtual [SelectDescendants](./selectdescendants/)(String, String, bool) | Selects all the descendant nodes of the current node with the local name and namespace URI specified. |
 | virtual [SelectSingleNode](./selectsinglenode/)(String) | Selects a single node in the [XPathNavigator](./) using the specified [XPath](../) query. |
 | virtual [SelectSingleNode](./selectsinglenode/)(String, SharedPtr\<IXmlNamespaceResolver\>) | Selects a single node in the [XPathNavigator](./) object using the specified [XPath](../) query with the [IXmlNamespaceResolver](../../system.xml/ixmlnamespaceresolver/) object specified to resolve namespace prefixes. |

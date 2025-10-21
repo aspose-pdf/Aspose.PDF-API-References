@@ -4,7 +4,7 @@ linktitle: ThreadPool
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::ThreadPool class. Thread pool API allowing it pushing jobs into queue to be read by pool of worker threads. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.threading/threadpool/
 ---
 ## ThreadPool class

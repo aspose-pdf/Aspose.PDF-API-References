@@ -45,7 +45,7 @@ static SharedPtr<XmlSchemaComplexType> System::Xml::Schema::XmlSchemaType::GetBu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| typeCode | XmlTypeCode | One of the XmlTypeCode values representing the complex type. |
+| typeCode | XmlTypeCode | One of the [XmlTypeCode](../../xmltypecode/) values representing the complex type. |
 
 ### ReturnValue
 

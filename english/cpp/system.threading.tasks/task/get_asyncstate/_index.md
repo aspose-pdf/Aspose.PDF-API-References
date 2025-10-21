@@ -19,7 +19,7 @@ const SharedPtr<Object> & System::Threading::Tasks::Task::get_AsyncState() const
 
 ### ReturnValue
 
-SharedPtr<Object> The state object provided during construction
+[SharedPtr<Object>](../../../system/sharedptr/) The state object provided during construction
 
 ## See Also
 

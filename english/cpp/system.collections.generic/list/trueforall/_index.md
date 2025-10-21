@@ -19,7 +19,7 @@ bool System::Collections::Generic::List<T>::TrueForAll(System::Predicate<T> matc
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| match | System::Predicate\<T\> | Predicate to check elements with. |
+| match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 

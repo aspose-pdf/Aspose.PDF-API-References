@@ -10,7 +10,7 @@ url: /cpp/system.xml/xmltextreader/get_dtdprocessing/
 ## XmlTextReader::get_DtdProcessing method
 
 
-Returns the DtdProcessing enumeration.
+Returns the [DtdProcessing](../../dtdprocessing/) enumeration.
 
 ```cpp
 System::Xml::DtdProcessing System::Xml::XmlTextReader::get_DtdProcessing()
@@ -19,7 +19,7 @@ System::Xml::DtdProcessing System::Xml::XmlTextReader::get_DtdProcessing()
 
 ### ReturnValue
 
-The DtdProcessing enumeration.
+The [DtdProcessing](../../dtdprocessing/) enumeration.
 
 ## See Also
 

@@ -10,7 +10,7 @@ url: /cpp/system.net/webexceptionstatus/
 ## WebExceptionStatus enum
 
 
-Enumerates the status codes of the WebException class.
+Enumerates the status codes of the [WebException](../webexception/) class.
 
 ```cpp
 enum class WebExceptionStatus

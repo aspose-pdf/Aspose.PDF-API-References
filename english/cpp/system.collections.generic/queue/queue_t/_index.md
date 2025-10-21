@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/queue/queue_t/
 RTTI information.
 
 ```cpp
-std::list<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::Queue< T >::queue_t
+typedef std::list<T, ASPOSE_COLLECTION_ALLOCATOR_TYPE> System::Collections::Generic::Queue< T >::queue_t
 ```
 
 ## Remarks

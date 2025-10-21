@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/ximage/get_imagemask/
 ## XImage::get_ImageMask method
 
 
-Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, "Masked Images"). If this flag is true, the value of BitsPerComponent shall be 1 and Mask and ColorSpace shall not be specified; unmasked areas shall bepainted using the current nonstroking colour. Default value: false.
+Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, "Masked Images"). If this flag is true, the value of BitsPerComponent shall be 1 and Mask and [ColorSpace](../../colorspace/) shall not be specified; unmasked areas shall bepainted using the current nonstroking colour. Default value: false.
 
 ```cpp
 bool Aspose::Pdf::XImage::get_ImageMask()

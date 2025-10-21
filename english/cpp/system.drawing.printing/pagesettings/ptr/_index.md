@@ -13,7 +13,7 @@ url: /cpp/system.drawing.printing/pagesettings/ptr/
 An alias for a shared pointer to an instance of this class.
 
 ```cpp
-SharedPtr<PageSettings> System::Drawing::Printing::PageSettings::ptr
+typedef SharedPtr<PageSettings> System::Drawing::Printing::PageSettings::ptr
 ```
 
 ## See Also

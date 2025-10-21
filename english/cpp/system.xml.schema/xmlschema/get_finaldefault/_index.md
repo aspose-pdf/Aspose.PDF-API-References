@@ -19,7 +19,7 @@ XmlSchemaDerivationMethod System::Xml::Schema::XmlSchema::get_FinalDefault()
 
 ### ReturnValue
 
-An XmlSchemaDerivationMethod value representing the different methods for preventing derivation. The default value is [XmlSchemaDerivationMethod::None](../../xmlschemaderivationmethod/).
+An [XmlSchemaDerivationMethod](../../xmlschemaderivationmethod/) value representing the different methods for preventing derivation. The default value is [XmlSchemaDerivationMethod::None](../../xmlschemaderivationmethod/).
 
 ## See Also
 

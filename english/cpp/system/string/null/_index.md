@@ -4,7 +4,7 @@ linktitle: Null
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::Null field. Null string in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/system/string/null/
 ---
 ## Null field

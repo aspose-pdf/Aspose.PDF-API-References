@@ -13,7 +13,7 @@ url: /cpp/system/array/enumerableptr/
 An alias for shared pointer type pointing to IEnumerable object containing elements of type **T**.
 
 ```cpp
-SharedPtr<Collections::Generic::IEnumerable<T> > System::Array< T >::EnumerablePtr
+typedef SharedPtr<Collections::Generic::IEnumerable<T> > System::Array< T >::EnumerablePtr
 ```
 
 ## See Also
