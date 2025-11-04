@@ -97,6 +97,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfUnembedFonts](./organize/asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
 | [AsposePdfOptimizeFileSize](./organize/asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 | [AsposePdfDeleteTables](./organize/asposepdfdeletetables/) | Delete tables from a PDF-file. |
+| [AsposePdfCropPages](./organize/asposepdfcroppages/) | Crop PDF-pages. |
 
 
 ## Metadata PDF functions

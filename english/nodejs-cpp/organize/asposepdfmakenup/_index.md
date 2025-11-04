@@ -42,7 +42,8 @@ AsposePdf().then(AsposePdfModule => {
     /*Make N-Up document from a PDF-file and save the "ResultMakeNUp.pdf"*/
     const json = AsposePdfModule.AsposePdfMakeNUp(pdf_file, columns, rows, "ResultMakeNUp.pdf");
     console.log("AsposePdfMakeNUp => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);
-});```
+});
+```
 
 **ECMAScript/ES6**:
 
