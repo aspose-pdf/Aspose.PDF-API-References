@@ -1,12 +1,12 @@
 ---
 title: "RemoveTables"
 second_title: Aspose.PDF for Go via C++
-description: "Remove tables from PDF-document"
+description: "Remove tables from PDF-document."
 type: docs
 url: /go-cpp/organize/removetables/
 ---
 
-_Remove tables from PDF-document_
+_Remove tables from PDF-document._
 
 ```go
 func (document *Document) RemoveTables() error

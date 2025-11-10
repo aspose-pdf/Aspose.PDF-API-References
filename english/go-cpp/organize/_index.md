@@ -29,6 +29,11 @@ url: /go-cpp/organize/
 | [RemoveImages](./removeimages/) | Remove images from PDF-document. |
 | [RemoveJavaScripts](./removejavascripts/) | Remove java scripts from PDF-document. |
 | [RemoveTables](./removetables/) | Remove tables from PDF-document. |
+| [RemoveWatermarks](./removewatermarks/) | Remove watermarks from PDF-document. |
+| [AddWatermark](./addwatermark/) | Add watermark to PDF-document. |
+| [EmbedFonts](./embedfonts/) | Embed fonts a PDF-document. |
+| [UnembedFonts](./unembedfonts/) | Unembed fonts a PDF-document. |
+| [OptimizeFileSize](./optimizefilesize/) | Optimize size of PDF-document with image compression quality. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -41,6 +46,8 @@ url: /go-cpp/organize/
 | [PageRemoveHiddenText](./pageremovehiddentext/) | Remove hidden text in page. |
 | [PageRemoveImages](./pageremoveimages/) | Remove images in page. |
 | [PageRemoveTables](./pageremovetables/) | Remove tables in page. |
+| [PageRemoveWatermarks](./pageremovewatermarks/) | Remove watermarks in page. |
+| [PageAddWatermark](./pageaddwatermark/) | Add watermark on page. |
 
 
 ## Detailed Description
