@@ -32,6 +32,8 @@ func main() {
         if err != nil {
                 log.Fatal(err)
         }
+        // Close() releases allocated resources for PDF-document
+        defer pdf.Close()
         // OptimizeFileSize(imageQuality int32) optimizes size of PDF-document with image compression quality
         err = pdf.OptimizeFileSize(20)
         if err != nil {
@@ -42,7 +44,5 @@ func main() {
         if err != nil {
                 log.Fatal(err)
         }
-        // Close() releases allocated resources for PDF-document
-        defer pdf.Close()
 }
 ```

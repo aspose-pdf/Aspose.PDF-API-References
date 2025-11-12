@@ -31,6 +31,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// RemoveJavaScripts() removes java scripts from PDF-document
 	err = pdf.RemoveJavaScripts()
 	if err != nil {
@@ -41,7 +43,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

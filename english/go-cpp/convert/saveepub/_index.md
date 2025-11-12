@@ -32,12 +32,12 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SaveEpub(filename string) saves previously opened PDF-document as Epub-document with filename
 	err = pdf.SaveEpub("sample.epub")
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

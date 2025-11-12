@@ -40,6 +40,8 @@ func main() {
         if err != nil {
                 log.Fatal(err)
         }
+        // Close() releases allocated resources for PDF-document
+        defer pdf.Close()
         // AddWatermark(text string, fontName string, fontSize float64, foregroundColor string, xPosition int32, yPosition int32, rotation int32, isBackground bool, opacity float64) adds watermark to PDF-document
         err = pdf.AddWatermark("Watermark", "Arial", 16, "#010101", 100, 100, 45, true, 0.5)
         if err != nil {
@@ -50,7 +52,5 @@ func main() {
         if err != nil {
                 log.Fatal(err)
         }
-        // Close() releases allocated resources for PDF-document
-        defer pdf.Close()
 }
 ```

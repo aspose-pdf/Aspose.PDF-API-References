@@ -34,6 +34,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageReplaceText(num int32, findText, replaceText string) replaces text on page
 	err = pdf.PageReplaceText(1, "PDF", "TXT")
 	if err != nil {
@@ -44,7 +46,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

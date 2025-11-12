@@ -32,6 +32,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// AddTextFooter(footer string) adds text in Footer of a PDF-document
 	err = pdf.AddTextFooter("Footer")
 	if err != nil {
@@ -42,7 +44,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

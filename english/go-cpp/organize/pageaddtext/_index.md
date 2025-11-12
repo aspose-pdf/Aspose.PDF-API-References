@@ -33,6 +33,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageAddText(num int32, addText string) adds text on page
 	err = pdf.PageAddText(1, "added text")
 	if err != nil {
@@ -43,7 +45,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

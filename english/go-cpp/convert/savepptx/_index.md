@@ -32,12 +32,12 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SavePptX(filename string) saves previously opened PDF-document as PptX-document with filename
 	err = pdf.SavePptX("sample.pptx")
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```
