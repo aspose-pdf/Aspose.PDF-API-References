@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.text/textbuilder/textbuilder/
 ---
-## TextBuilder::TextBuilder(System::SharedPtr\<Aspose::Pdf::Page\>) constructor
+## TextBuilder::TextBuilder(const System::SharedPtr\<Aspose::Pdf::Page\>\&) constructor
 
 
 Initializes a new instance of [TextBuilder](../) class for the [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page)
+Aspose::Pdf::Text::TextBuilder::TextBuilder(const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) object. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) object. |
 ## Remarks
 
 
@@ -32,20 +32,20 @@ The [TextBuilder](../) allows to append text objects to [Pdf](../../../aspose.pd
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBuilder::TextBuilder(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<BaseOperatorCollection\>) constructor
+## TextBuilder::TextBuilder(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<BaseOperatorCollection\>\&) constructor
 
 
 Initializes a new instance of [TextBuilder](../) class for the [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-Aspose::Pdf::Text::TextBuilder::TextBuilder(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<BaseOperatorCollection> operatorCollection)
+Aspose::Pdf::Text::TextBuilder::TextBuilder(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<BaseOperatorCollection> &operatorCollection)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) object. |
-| operatorCollection | System::SharedPtr\<BaseOperatorCollection\> | [Operator](../../../aspose.pdf/operator/) collection. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) object. |
+| operatorCollection | const System::SharedPtr\<BaseOperatorCollection\>\& | [Operator](../../../aspose.pdf/operator/) collection. |
 ## Remarks
 
 

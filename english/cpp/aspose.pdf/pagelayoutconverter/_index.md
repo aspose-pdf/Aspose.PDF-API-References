@@ -4,7 +4,7 @@ linktitle: PageLayoutConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::PageLayoutConverter class in C++.'
 type: docs
-weight: 13800
+weight: 13900
 url: /cpp/aspose.pdf/pagelayoutconverter/
 ---
 ## PageLayoutConverter class

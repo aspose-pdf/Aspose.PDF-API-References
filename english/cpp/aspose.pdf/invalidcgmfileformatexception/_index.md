@@ -4,7 +4,7 @@ linktitle: InvalidCgmFileFormatException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::InvalidCgmFileFormatException typedef in C++.'
 type: docs
-weight: 28100
+weight: 28300
 url: /cpp/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException typedef

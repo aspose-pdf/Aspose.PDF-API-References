@@ -4,7 +4,7 @@ linktitle: System::Data::Common
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Data::Common namespace in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/system.data.common/
 ---
 

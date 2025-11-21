@@ -4,7 +4,7 @@ linktitle: get_ItalicFlag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_ItalicFlag method. Gets the italic flag of bookmark''s title in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf.facades/bookmark/get_italicflag/
 ---
 ## Bookmark::get_ItalicFlag method

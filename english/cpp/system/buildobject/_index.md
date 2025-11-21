@@ -4,7 +4,7 @@ linktitle: BuildObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::BuildObject method. Build an object with shared ownership in C++.'
 type: docs
-weight: 15100
+weight: 15200
 url: /cpp/system/buildobject/
 ---
 ## System::BuildObject method
@@ -34,7 +34,7 @@ ObjectBuilder configured for shared pointer construction
 
 
 Creates a [SharedPtr<T>](../sharedptr/) and returns a builder for it 
-[Object](../object/) construction must be finished with Get() call 
+[Object](../object/) construction must be finished with [Get()](../get/) call 
 
 ## See Also
 

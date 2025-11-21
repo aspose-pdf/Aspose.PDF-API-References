@@ -4,7 +4,7 @@ linktitle: System::Xml::Schema
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Xml::Schema namespace in C++.'
 type: docs
-weight: 8200
+weight: 8300
 url: /cpp/system.xml.schema/
 ---
 

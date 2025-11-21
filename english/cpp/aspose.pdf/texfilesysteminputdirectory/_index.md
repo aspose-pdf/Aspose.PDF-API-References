@@ -4,7 +4,7 @@ linktitle: TeXFileSystemInputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXFileSystemInputDirectory class. Implements the regular file system''s method for getting a file stream to read from in C++.'
 type: docs
-weight: 17500
+weight: 17600
 url: /cpp/aspose.pdf/texfilesysteminputdirectory/
 ---
 ## TeXFileSystemInputDirectory class

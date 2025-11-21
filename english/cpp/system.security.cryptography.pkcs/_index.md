@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography::Pkcs
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Cryptography::Pkcs namespace in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/system.security.cryptography.pkcs/
 ---
 

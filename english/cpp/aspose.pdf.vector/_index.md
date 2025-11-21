@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Vector
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector namespace. The Aspose.Pdf.Vector is a root namespace for graphics operations in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.pdf.vector/
 ---
 

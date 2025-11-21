@@ -4,7 +4,7 @@ linktitle: CryptoAlgorithm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CryptoAlgorithm enum. Represent type of cryptographic algorithm that used in encryption/decryption routines in C++.'
 type: docs
-weight: 22200
+weight: 22300
 url: /cpp/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enum

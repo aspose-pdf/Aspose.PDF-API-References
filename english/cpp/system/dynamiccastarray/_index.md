@@ -4,7 +4,7 @@ linktitle: DynamicCastArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DynamicCastArray method. Performs casting of elements of the specified array to different type in C++.'
 type: docs
-weight: 17800
+weight: 17900
 url: /cpp/system/dynamiccastarray/
 ---
 ## System::DynamicCastArray method

@@ -16,6 +16,12 @@ Represents information about interruption.
 class IInterruptMonitor : public System::IDisposable
 ```
 
+## Methods
+
+| Method | Description |
+| --- | --- |
+| virtual [get_CancellationToken](./get_cancellationtoken/)() | Monitor's cancellation token used for process interruption. By default each [IInterruptMonitor](./) generates its own cancellationSource. |
+| virtual [Interrupt](./interrupt/)() | Sends a request to interrupt operations. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

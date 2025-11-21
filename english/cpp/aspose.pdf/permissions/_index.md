@@ -4,7 +4,7 @@ linktitle: Permissions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Permissions enum. This enum represents user''s permissions for a pdf in C++.'
 type: docs
-weight: 25500
+weight: 25700
 url: /cpp/aspose.pdf/permissions/
 ---
 ## Permissions enum

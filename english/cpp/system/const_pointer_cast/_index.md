@@ -4,7 +4,7 @@ linktitle: const_pointer_cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::const_pointer_cast method. Casts smart pointers using const_cast in C++.'
 type: docs
-weight: 15900
+weight: 16000
 url: /cpp/system/const_pointer_cast/
 ---
 ## System::const_pointer_cast method

@@ -4,7 +4,7 @@ linktitle: UnifiedSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::UnifiedSaveOptions class. This class represents saving options for saving that uses unified conversion way (with unified internal document model) in C++.'
 type: docs
-weight: 18600
+weight: 18700
 url: /cpp/aspose.pdf/unifiedsaveoptions/
 ---
 ## UnifiedSaveOptions class

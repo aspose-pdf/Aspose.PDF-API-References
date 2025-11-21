@@ -4,7 +4,7 @@ linktitle: operator<=
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator<= method. Determines if the specified value is less or equal to the value represented by the specified Nullable object by applying operator<=() to these values in C++.'
 type: docs
-weight: 30700
+weight: 31900
 url: /cpp/system/operator_=/
 ---
 ## System::operator<=(const T1\&, const Nullable\<T2\>\&) method
@@ -98,7 +98,7 @@ linktitle: operator>=
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator>= method. Determines if the specified value is greater or equal to the value represented by the specified Nullable object by applying operator>=() to these values in C++.'
 type: docs
-weight: 33400
+weight: 34600
 url: /cpp/system/operator_=/
 ---
 ## System::operator>=(const T1\&, const Nullable\<T2\>\&) method

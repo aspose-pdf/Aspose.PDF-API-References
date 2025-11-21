@@ -14,5 +14,5 @@ url: /cpp/aspose.pdf.flow/
 
 | Class | Description |
 | --- | --- |
-| [IStructureRecognitionVisitor](./istructurerecognitionvisitor/) |  |
-| [StructureRecognitionVisitor](./structurerecognitionvisitor/) |  |
+| [IStructureRecognitionVisitor](./istructurerecognitionvisitor/) | Base interface for a custom document structure recognition visitor. |
+| [StructureRecognitionVisitor](./structurerecognitionvisitor/) | Base class for a custom document structure recognition visitor. |

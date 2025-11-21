@@ -30,7 +30,7 @@ url: /cpp/aspose.pdf.lowcode/
 | [FormEditorOptions](./formeditoroptions/) | Represents options for [FormEditor](./formeditor/) plugin. |
 | [FormEditorRemoveOptions](./formeditorremoveoptions/) | Base class for option classes for remove fields in document by [FormEditor](./formeditor/) plugin. |
 | [FormEditorSetOptions](./formeditorsetoptions/) | Represents options for set fields (not annotations) properties. |
-| [FormExporter](./formexporter/) | Represents [FormExporter](./formexporter/) plugin. |
+| [FormExporter](./formexporter/) | Represents the [FormExporter](./formexporter/) plugin. |
 | [FormExporterOptions](./formexporteroptions/) | Represents options for [FormExporter](./formexporter/) plugin. |
 | [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | Represents options for export Value property(s) of specified field(s) (not annotations). |
 | [FormFieldCreateOptions](./formfieldcreateoptions/) | Represents options for creating Field. |

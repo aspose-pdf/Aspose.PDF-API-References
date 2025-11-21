@@ -4,7 +4,7 @@ linktitle: set_ImageQuality
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_ImageQuality method. Specifies level of image compression when CompressIamges flag is used in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_imagequality/
 ---
 ## OptimizationOptions::set_ImageQuality method

@@ -4,7 +4,7 @@ linktitle: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXMemoryOutputDirectory class. Implements fetching an output stream from memory. You can use it, for example, when you don''t want the accompanying output (like a log file) to be written to disk but you''d like to read it afterwards from memory in C++.'
 type: docs
-weight: 17900
+weight: 18000
 url: /cpp/aspose.pdf/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory class

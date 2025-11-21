@@ -4,7 +4,7 @@ linktitle: XmlLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmlLoadOptions class. Represents options for loading/importing XML file into pdf document in C++.'
 type: docs
-weight: 19600
+weight: 19700
 url: /cpp/aspose.pdf/xmlloadoptions/
 ---
 ## XmlLoadOptions class

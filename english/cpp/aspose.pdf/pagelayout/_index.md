@@ -4,7 +4,7 @@ linktitle: PageLayout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageLayout enum. Descibes page layout in C++.'
 type: docs
-weight: 24900
+weight: 25100
 url: /cpp/aspose.pdf/pagelayout/
 ---
 ## PageLayout enum

@@ -4,7 +4,7 @@ linktitle: ColumnAdjustment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ColumnAdjustment enum. Enumerates column adjustment types in C++.'
 type: docs
-weight: 21700
+weight: 21800
 url: /cpp/aspose.pdf/columnadjustment/
 ---
 ## ColumnAdjustment enum

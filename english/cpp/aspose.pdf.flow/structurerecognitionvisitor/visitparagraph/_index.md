@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitParagraph method
 linktitle: VisitParagraph
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitParagraph method. Visits a recognized paragraph in the document structure in C++.'
+description: 'Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitParagraph method. Called when a paragraph node is visited in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.pdf.flow/structurerecognitionvisitor/visitparagraph/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.flow/structurerecognitionvisitor/visitparagraph/
 ## StructureRecognitionVisitor::VisitParagraph method
 
 
-Visits a recognized paragraph in the document structure.
+Called when a paragraph node is visited.
 
 ```cpp
 void Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitParagraph(System::SharedPtr<BaseParagraph> paragraph) override

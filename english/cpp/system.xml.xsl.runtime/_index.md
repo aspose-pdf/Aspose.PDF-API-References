@@ -4,7 +4,7 @@ linktitle: System::Xml::Xsl::Runtime
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Xml::Xsl::Runtime namespace in C++.'
 type: docs
-weight: 8600
+weight: 8700
 url: /cpp/system.xml.xsl.runtime/
 ---
 

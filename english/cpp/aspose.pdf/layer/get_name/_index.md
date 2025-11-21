@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Layer::get_Name method. Gets the layer name in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf/layer/get_name/
 ---
 ## Layer::get_Name method

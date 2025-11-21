@@ -4,7 +4,7 @@ linktitle: get_PageNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_PageNumber method. Gets the number of bookmark''s destination page in C++.'
 type: docs
-weight: 1700
+weight: 1600
 url: /cpp/aspose.pdf.facades/bookmark/get_pagenumber/
 ---
 ## Bookmark::get_PageNumber method

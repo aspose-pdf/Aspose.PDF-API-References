@@ -4,7 +4,7 @@ linktitle: ConvertErrorAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ConvertErrorAction enum. This class represents action for conversion errors in C++.'
 type: docs
-weight: 21900
+weight: 22000
 url: /cpp/aspose.pdf/converterroraction/
 ---
 ## ConvertErrorAction enum

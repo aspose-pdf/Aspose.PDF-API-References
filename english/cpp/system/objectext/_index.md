@@ -40,6 +40,7 @@ class ObjectExt : public System::ObjectType
 | static [ExplicitCastToObject](./explicitcasttoobject/)(const T\&) |  |
 | static [ExplicitCastToObject](./explicitcasttoobject/)(const T\&) |  |
 | static [GetHashCode](./gethashcode/)(const T\&) | Implements [GetHashCode()](./gethashcode/) calls; works on both [Object](../object/) subclasses and unrelated types. |
+| static [Is](./is/)(const T\&) | Implements 'is' operator translation. Specialization for boxable (value) types which exactly is that they are. |
 | static [Is](./is/)(const U\&) | Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes. |
 | static [Is](./is/)(const U\&) | Implements 'is' operator translation. Specialization for pointer types. |
 | static [Is](./is/)(const Object\&) | Implements 'is' operator translation. Specialization for value types. |

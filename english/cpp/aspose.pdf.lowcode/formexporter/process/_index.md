@@ -2,7 +2,7 @@
 title: Aspose::Pdf::LowCode::FormExporter::Process method
 linktitle: Process
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::LowCode::FormExporter::Process method. Starts the FormExporter processing with the specified parameters in C++.'
+description: 'Aspose::Pdf::LowCode::FormExporter::Process method. Starts the FormExporter processing with the specified options in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.lowcode/formexporter/process/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.lowcode/formexporter/process/
 ## FormExporter::Process method
 
 
-Starts the [FormExporter](../) processing with the specified parameters.
+Starts the [FormExporter](../) processing with the specified options.
 
 ```cpp
 System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormExporter::Process(System::SharedPtr<IPluginOptions> options) override
@@ -23,7 +23,7 @@ System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormExporter::Process(S
 
 ### ReturnValue
 
-An [ResultContainer](../../resultcontainer/) object containing the result of the operation.
+A [ResultContainer](../../resultcontainer/) containing the result of the operation.
 
 ## See Also
 

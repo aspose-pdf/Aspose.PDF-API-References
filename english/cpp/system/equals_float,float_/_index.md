@@ -4,7 +4,7 @@ linktitle: Equals< float, float >
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Equals< float, float > method. Specialization for single-precision floating point values. Although two floating point NaNs are defined by IEC 60559:1989 to always compare as unequal, the contract for System.Object.Equals, requires that overrides must satisfy the requirements for an equivalence operator. Therefore, System.Double.Equals and System.Single.Equals return True when comparing two NaNs, while the equality operator returns False in that case, as required by the standard in C++.'
 type: docs
-weight: 18300
+weight: 18400
 url: /cpp/system/equals_float,float_/
 ---
 ## System::Equals< float, float > method

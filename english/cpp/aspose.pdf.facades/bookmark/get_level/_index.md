@@ -4,7 +4,7 @@ linktitle: get_Level
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_Level method. Gets bookmark''s hierarchy level in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf.facades/bookmark/get_level/
 ---
 ## Bookmark::get_Level method

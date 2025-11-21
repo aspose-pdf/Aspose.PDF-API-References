@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Signatures
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Signatures namespace. The Aspose.Pdf.Signatures namespace provides classes for signatures functionalities in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf.signatures/
 ---
 

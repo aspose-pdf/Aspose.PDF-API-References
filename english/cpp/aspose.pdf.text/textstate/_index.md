@@ -20,7 +20,7 @@ class TextState : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [ApplyChangesFrom](./applychangesfrom/)(System::SharedPtr\<TextState\>) | Applies settings from another textState. |
+| virtual [ApplyChangesFrom](./applychangesfrom/)(const System::SharedPtr\<TextState\>\&) | Applies settings from another textState. |
 | virtual [get_BackgroundColor](./get_backgroundcolor/)() | Sets background color of the text. |
 | virtual [get_CharacterSpacing](./get_characterspacing/)() | Gets character spacing of the text. |
 | virtual [get_CoordinateOrigin](./get_coordinateorigin/)() | Gets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |
@@ -41,7 +41,7 @@ class TextState : public System::Object
 | virtual [get_Underline](./get_underline/)() | Gets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | virtual [get_WordSpacing](./get_wordspacing/)() | Gets word spacing of the text. |
 | [MeasureHeight](./measureheight/)(char16_t) | Measures character height. |
-| virtual [MeasureString](./measurestring/)(System::String) | Measures the string. |
+| virtual [MeasureString](./measurestring/)(const System::String\&) | Measures the string. |
 | virtual [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets background color of the text. |
 | virtual [set_CharacterSpacing](./set_characterspacing/)(float) | Sets character spacing of the text. |
 | virtual [set_CoordinateOrigin](./set_coordinateorigin/)(Aspose::Pdf::Text::CoordinateOrigin) | Sets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |

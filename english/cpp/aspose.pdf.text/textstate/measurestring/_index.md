@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textstate/measurestring/
 Measures the string.
 
 ```cpp
-virtual double Aspose::Pdf::Text::TextState::MeasureString(System::String str)
+virtual double Aspose::Pdf::Text::TextState::MeasureString(const System::String &str)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | System::String | The string. |
+| str | const System::String\& | The string. |
 
 ### ReturnValue
 

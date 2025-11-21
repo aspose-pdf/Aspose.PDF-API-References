@@ -4,7 +4,7 @@ linktitle: XmpFieldType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpFieldType enum. This enum represents types of a XMP field in C++.'
 type: docs
-weight: 27000
+weight: 27200
 url: /cpp/aspose.pdf/xmpfieldtype/
 ---
 ## XmpFieldType enum

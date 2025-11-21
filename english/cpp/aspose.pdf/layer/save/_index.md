@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Layer::Save method. Saves the current layer to a PDF document in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf/layer/save/
 ---
 ## Layer::Save(System::SharedPtr\<System::IO::Stream\>) method

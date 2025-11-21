@@ -4,7 +4,7 @@ linktitle: SafeInvoke
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::SafeInvoke method. Implementation of ''?.'' operator translation in C++.'
 type: docs
-weight: 35700
+weight: 36900
 url: /cpp/system/safeinvoke/
 ---
 ## System::SafeInvoke method

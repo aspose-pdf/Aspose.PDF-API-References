@@ -4,7 +4,7 @@ linktitle: set_ExportPasswordValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExportFieldsOptions::set_ExportPasswordValue method. Sets a value indicating whether the password value should be exported in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/exportfieldsoptions/set_exportpasswordvalue/
 ---
 ## ExportFieldsOptions::set_ExportPasswordValue method

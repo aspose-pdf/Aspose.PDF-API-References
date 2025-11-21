@@ -13,7 +13,8 @@ url: /cpp/aspose.pdf.comparison/pdfoutputgenerator/
 Represents a class for generating PDF representation of texts differences.
 
 ```cpp
-class PdfOutputGenerator : public Aspose::Pdf::Comparison::IFileOutputGenerator
+class PdfOutputGenerator : public Aspose::Pdf::Comparison::IFileOutputGenerator,
+                           public Aspose::Pdf::LicenseManagement::IVentureLicenseTarget
 ```
 
 ## Methods

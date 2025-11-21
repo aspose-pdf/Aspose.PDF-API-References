@@ -4,7 +4,7 @@ linktitle: PageRange
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageRange class. Represents the range of pages for header and footer settings in C++.'
 type: docs
-weight: 14200
+weight: 14300
 url: /cpp/aspose.pdf/pagerange/
 ---
 ## PageRange class

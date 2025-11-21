@@ -22,7 +22,9 @@ class ExportFieldsOptions : public System::Object
 | --- | --- |
 | [ExportFieldsOptions](./exportfieldsoptions/)() |  |
 | [get_ExportPasswordValue](./get_exportpasswordvalue/)() const | Gets a value indicating whether the password value should be exported. |
+| [get_FieldSelector](./get_fieldselector/)() const | Gets a delegate that determines whether a particular field should be exported. If the delegate is **null**, all fields are exported (the default behaviour). |
 | [set_ExportPasswordValue](./set_exportpasswordvalue/)(bool) | Sets a value indicating whether the password value should be exported. |
+| [set_FieldSelector](./set_fieldselector/)(System::Predicate\<System::SharedPtr\<Forms::Field\>\>) | Sets a delegate that determines whether a particular field should be exported. If the delegate is **null**, all fields are exported (the default behaviour). |
 ## See Also
 
 * Class [Object](../../system/object/)

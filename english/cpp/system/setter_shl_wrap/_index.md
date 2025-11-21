@@ -4,7 +4,7 @@ linktitle: setter_shl_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_shl_wrap method of  class in C++.'
 type: docs
-weight: 39700
+weight: 41000
 url: /cpp/system/setter_shl_wrap/
 ---
 ## System::setter_shl_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

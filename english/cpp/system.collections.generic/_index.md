@@ -4,7 +4,7 @@ linktitle: System::Collections::Generic
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::Generic namespace in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system.collections.generic/
 ---
 

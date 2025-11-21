@@ -33,7 +33,7 @@ ObjectBuilder configured for direct object construction
 
 
 
-[Object](../object/) construction must be finished with Get() call 
+[Object](../object/) construction must be finished with [Get()](../get/) call 
 
 ## See Also
 

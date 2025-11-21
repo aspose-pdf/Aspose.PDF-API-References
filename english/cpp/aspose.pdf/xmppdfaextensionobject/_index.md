@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionObject class. Represents the base class for field, property, value type instances in C++.'
 type: docs
-weight: 20000
+weight: 20100
 url: /cpp/aspose.pdf/xmppdfaextensionobject/
 ---
 ## XmpPdfAExtensionObject class

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textstate/applychangesfrom/
 Applies settings from another textState.
 
 ```cpp
-virtual void Aspose::Pdf::Text::TextState::ApplyChangesFrom(System::SharedPtr<TextState> textState)
+virtual void Aspose::Pdf::Text::TextState::ApplyChangesFrom(const System::SharedPtr<TextState> &textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textState | System::SharedPtr\<TextState\> | [Text](../../) state object. |
+| textState | const System::SharedPtr\<TextState\>\& | [Text](../../) state object. |
 ## Remarks
 
 

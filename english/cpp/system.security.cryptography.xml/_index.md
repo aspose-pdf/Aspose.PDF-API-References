@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography::Xml
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Cryptography::Xml namespace in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/system.security.cryptography.xml/
 ---
 

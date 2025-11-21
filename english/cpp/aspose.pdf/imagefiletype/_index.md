@@ -4,7 +4,7 @@ linktitle: ImageFileType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageFileType enum. Enumerates the image file types in C++.'
 type: docs
-weight: 24100
+weight: 24300
 url: /cpp/aspose.pdf/imagefiletype/
 ---
 ## ImageFileType enum

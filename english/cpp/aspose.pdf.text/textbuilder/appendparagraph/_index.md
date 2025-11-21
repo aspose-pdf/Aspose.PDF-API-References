@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textbuilder/appendparagraph/
 Appends text paragraph to [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-void Aspose::Pdf::Text::TextBuilder::AppendParagraph(System::SharedPtr<TextParagraph> textParagraph)
+void Aspose::Pdf::Text::TextBuilder::AppendParagraph(const System::SharedPtr<TextParagraph> &textParagraph)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textParagraph | System::SharedPtr\<TextParagraph\> | [Text](../../) paragraph object. |
+| textParagraph | const System::SharedPtr\<TextParagraph\>\& | [Text](../../) paragraph object. |
 
 ## See Also
 

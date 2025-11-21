@@ -1,19 +1,19 @@
 ---
-title: System::IsConstant method
-linktitle: IsConstant
+title: System::Less method
+linktitle: Less
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::IsConstant method. Implements ''is'' constant pattern translation in C++.'
+description: 'System::Less method. Implements ''<'' relative pattern translation in C++.'
 type: docs
-weight: 21300
-url: /cpp/system/isconstant/
+weight: 23900
+url: /cpp/system/less/
 ---
-## System::IsConstant method
+## System::Less method
 
 
-Implements 'is' constant pattern translation.
+Implements '<' relative pattern translation.
 
 ```cpp
-template<class ExpressionT,class ConstantT> bool System::IsConstant(const ExpressionT &left, const ConstantT &constant)
+template<class ExpressionT,class ConstantT> bool System::Less(const ExpressionT &left, const ConstantT &constant)
 ```
 
 

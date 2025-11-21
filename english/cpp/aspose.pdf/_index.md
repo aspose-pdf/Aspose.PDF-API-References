@@ -148,6 +148,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [PageCollection](./pagecollection/) | [Collection](./collection/) of PDF document pages. |
 | [PageCollectionExtensions](./pagecollectionextensions/) | Represents the extension method for updating header and footer pagination. |
 | [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
+| [PageExtensions](./pageextensions/) | Provides additional capabilities for the [Page](./page/) class. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing [Page](./page/) Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
@@ -240,6 +241,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [ConvertSoftMaskAction](./convertsoftmaskaction/) | This action represents actions for conversion of images with soft mask. |
 | [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
 | [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
+| [DefaultState](./defaultstate/) | Represents the default state of a PDF layer. |
 | [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash". |
 | [Direction](./direction/) | [Text](../aspose.pdf.text/) direction. |
 | [EditionType](./editiontype/) | Specifies the edition type of the license. |

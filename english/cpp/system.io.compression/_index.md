@@ -4,7 +4,7 @@ linktitle: System::IO::Compression
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::IO::Compression namespace in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/system.io.compression/
 ---
 
