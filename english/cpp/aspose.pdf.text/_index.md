@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Text namespace in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/aspose.pdf.text/
 ---
 

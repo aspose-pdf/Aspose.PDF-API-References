@@ -4,7 +4,7 @@ linktitle: set_RemoteFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_RemoteFile method. Sets the file (path) which is required for "GoToR" action of bookmark in C++.'
 type: docs
-weight: 3600
+weight: 3500
 url: /cpp/aspose.pdf.facades/bookmark/set_remotefile/
 ---
 ## Bookmark::set_RemoteFile method

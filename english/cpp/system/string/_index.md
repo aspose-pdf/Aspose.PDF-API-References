@@ -36,6 +36,7 @@ class String
 | static [Concat](./concat/)(const String\&, const String\&, const String\&) | Concatenates strings. |
 | static [Concat](./concat/)(const String\&, const String\&, const String\&, const String\&) | Concatenates strings. |
 | [Contains](./contains/)(const String\&) const | Checks if str is a substring of current string. |
+| [Contains](./contains/)(char16_t) const | Checks if string contains given character. |
 | static [Copy](./copy/)(const String\&) | Creates string copy. |
 | [CopyTo](./copyto/)(int, const ArrayPtr\<char_t\>\&, int, int) const | Copies string characters into existing array elements. No resize is being done. |
 | [end](./end/)() const | Returns pointer to the end of actual string buffer. Never reallocates anything. Doesn't guarantee buffer to be null-terminated. |

@@ -32,12 +32,12 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SaveTeX(filename string) saves previously opened PDF-document as TeX-document with filename
 	err = pdf.SaveTeX("sample.tex")
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

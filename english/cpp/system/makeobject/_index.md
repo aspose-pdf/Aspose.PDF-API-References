@@ -4,7 +4,7 @@ linktitle: MakeObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeObject method. Creates object on heap and returns shared pointer to it in C++.'
 type: docs
-weight: 23300
+weight: 24500
 url: /cpp/system/makeobject/
 ---
 ## System::MakeObject(Args\&&...) method

@@ -4,7 +4,7 @@ linktitle: Right
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Right class. Represents the right alignment settings for header and footer data in C++.'
 type: docs
-weight: 16600
+weight: 16700
 url: /cpp/aspose.pdf/right/
 ---
 ## Right class

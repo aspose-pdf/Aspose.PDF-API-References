@@ -4,7 +4,7 @@ linktitle: CastEnumerableTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::CastEnumerableTo method. Performs the explicit casting of elements of the specified enumerable object to different type in C++.'
 type: docs
-weight: 15400
+weight: 15500
 url: /cpp/system/castenumerableto/
 ---
 ## System::CastEnumerableTo(const From\&) method

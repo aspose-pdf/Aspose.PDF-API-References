@@ -4,7 +4,7 @@ linktitle: SignaturesCompromiseDetector
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SignaturesCompromiseDetector class. Represents a class for checking compromising signatures of the document in C++.'
 type: docs
-weight: 17000
+weight: 17100
 url: /cpp/aspose.pdf/signaturescompromisedetector/
 ---
 ## SignaturesCompromiseDetector class

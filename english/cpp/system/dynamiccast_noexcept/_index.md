@@ -4,7 +4,7 @@ linktitle: DynamicCast_noexcept
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DynamicCast_noexcept method. Old obsolete casts. Will be removed in future versions in C++.'
 type: docs
-weight: 17500
+weight: 17600
 url: /cpp/system/dynamiccast_noexcept/
 ---
 ## System::DynamicCast_noexcept(const TFrom\&) method

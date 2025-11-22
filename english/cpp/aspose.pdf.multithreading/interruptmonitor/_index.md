@@ -20,7 +20,12 @@ class InterruptMonitor : public Aspose::Pdf::Multithreading::IInterruptMonitor
 
 | Method | Description |
 | --- | --- |
-| [Dispose](./dispose/)() override | Does nothing. |
+| [Dispose](./dispose/)() override | Disposes used resources. |
+| [get_CancellationToken](./get_cancellationtoken/)() override | Monitor's cancellation token used for process interruption. By default each [IInterruptMonitor](../iinterruptmonitor/) generates its own cancellationSource. |
+| static [get_ThreadLocalInstance](./get_threadlocalinstance/)() | Gets the [IInterruptMonitor](../iinterruptmonitor/) instance which is unique for each thread. |
+| [Interrupt](./interrupt/)() override | Sends a request to interrupt operations. |
+| [InterruptMonitor](./interruptmonitor/)() | Initializes a new instance of the [InterruptMonitor](./) class. |
+| static [set_ThreadLocalInstance](./set_threadlocalinstance/)(System::SharedPtr\<IInterruptMonitor\>) | Sets the [IInterruptMonitor](../iinterruptmonitor/) instance which is unique for each thread. |
 ## See Also
 
 * Class [IInterruptMonitor](../iinterruptmonitor/)

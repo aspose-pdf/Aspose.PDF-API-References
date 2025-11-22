@@ -4,7 +4,7 @@ linktitle: Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle class. Class represents rectangle in C++.'
 type: docs
-weight: 16200
+weight: 16300
 url: /cpp/aspose.pdf/rectangle/
 ---
 ## Rectangle class

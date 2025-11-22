@@ -26,8 +26,11 @@ template<typename ...>class ValueTuple : public System::Details::BoxableObjectBa
 | [Item](./item/)() | Gets the reference to value of the [ValueTuple](./) object's component. |
 | [Item](./item/)() const | Gets the value of the [ValueTuple](./) object's component. |
 | [operator=](./operator=/)(const ValueTuple\<OtherArgs...\>\&) |  |
+| [operator=](./operator=/)(const SharedPtr\<T\>\&) | Deconstructs object to this value tuple. |
 | [operator==](./operator==/)(const ValueTuple\&) const |  |
 | [ToString](./tostring/)() const |  |
+| [tuple](./tuple/)() |  |
+| [tuple](./tuple/)() const |  |
 | static [Type](./type/)() | Returns a reference to the [TypeInfo](../typeinfo/) object representing the [ValueTuple](./) class type information. |
 | [ValueTuple](./valuetuple/)() |  |
 | [ValueTuple](./valuetuple/)(Args...) | Constructs a tuple object. |

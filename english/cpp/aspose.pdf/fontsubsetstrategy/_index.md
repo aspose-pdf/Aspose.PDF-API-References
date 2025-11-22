@@ -4,7 +4,7 @@ linktitle: FontSubsetStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FontSubsetStrategy enum. enumerates strategies for font subsetting in C++.'
 type: docs
-weight: 23300
+weight: 23500
 url: /cpp/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enum

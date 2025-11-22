@@ -4,7 +4,7 @@ linktitle: System::Reflection
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Reflection namespace in C++.'
 type: docs
-weight: 5500
+weight: 5600
 url: /cpp/system.reflection/
 ---
 

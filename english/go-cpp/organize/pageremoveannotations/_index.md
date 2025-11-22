@@ -32,6 +32,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageRemoveAnnotations(num int32) removes annotations in page
 	err = pdf.PageRemoveAnnotations(1)
 	if err != nil {
@@ -42,7 +44,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

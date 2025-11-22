@@ -4,7 +4,7 @@ linktitle: System::Security::Permissions
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Permissions namespace in C++.'
 type: docs
-weight: 6600
+weight: 6700
 url: /cpp/system.security.permissions/
 ---
 

@@ -4,7 +4,7 @@ linktitle: get_ChildItem
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_ChildItem method. Gets bookmark''s children in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf.facades/bookmark/get_childitem/
 ---
 ## Bookmark::get_ChildItem method

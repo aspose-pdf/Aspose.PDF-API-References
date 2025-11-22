@@ -49,6 +49,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfUnembedFonts](./asposepdfunembedfonts/) | Unembed fonts a PDF-file. |
 | [AsposePdfOptimizeFileSize](./asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 | [AsposePdfDeleteTables](./asposepdfdeletetables/) | Delete tables from a PDF-file. |
+| [AsposePdfCropPages](./asposepdfcroppages/) | Crop PDF-pages. |
 
 
 ## Detailed Description

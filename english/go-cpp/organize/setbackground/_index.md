@@ -34,6 +34,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SetBackground(r, g, b int32) sets PDF-document background color
 	err = pdf.SetBackground(200, 100, 101)
 	if err != nil {
@@ -44,7 +46,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

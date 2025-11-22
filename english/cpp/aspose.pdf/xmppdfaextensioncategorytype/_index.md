@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionCategoryType enum. Property category: internal or external in C++.'
 type: docs
-weight: 27100
+weight: 27300
 url: /cpp/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enum

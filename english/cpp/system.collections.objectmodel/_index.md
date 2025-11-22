@@ -4,7 +4,7 @@ linktitle: System::Collections::ObjectModel
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::ObjectModel namespace in C++.'
 type: docs
-weight: 3100
+weight: 3200
 url: /cpp/system.collections.objectmodel/
 ---
 

@@ -42,6 +42,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageRotate(num int32, rotation int32) rotates page
 	err = pdf.PageRotate(1, asposepdf.RotationOn180)
 	if err != nil {
@@ -52,7 +54,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

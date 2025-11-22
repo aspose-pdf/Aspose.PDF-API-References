@@ -4,7 +4,7 @@ linktitle: ExtractImageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExtractImageMode enum. Defines different modes which can be used while extracting images from documents in C++.'
 type: docs
-weight: 22800
+weight: 23000
 url: /cpp/aspose.pdf/extractimagemode/
 ---
 ## ExtractImageMode enum

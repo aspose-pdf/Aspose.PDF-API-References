@@ -4,7 +4,7 @@ linktitle: ImportFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImportFormat enum. Specifies import format in C++.'
 type: docs
-weight: 24300
+weight: 24500
 url: /cpp/aspose.pdf/importformat/
 ---
 ## ImportFormat enum

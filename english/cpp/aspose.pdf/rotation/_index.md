@@ -4,7 +4,7 @@ linktitle: Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rotation enum. Enumeration of possible rotation values in C++.'
 type: docs
-weight: 26100
+weight: 26300
 url: /cpp/aspose.pdf/rotation/
 ---
 ## Rotation enum

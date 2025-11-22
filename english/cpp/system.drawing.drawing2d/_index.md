@@ -4,7 +4,7 @@ linktitle: System::Drawing::Drawing2D
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Drawing::Drawing2D namespace in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/system.drawing.drawing2d/
 ---
 

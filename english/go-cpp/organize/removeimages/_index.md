@@ -1,12 +1,12 @@
 ---
 title: "RemoveImages"
 second_title: Aspose.PDF for Go via C++
-description: "Remove images from PDF-document"
+description: "Remove images from PDF-document."
 type: docs
 url: /go-cpp/organize/removeimages/
 ---
 
-_Remove images from PDF-document_
+_Remove images from PDF-document._
 
 ```go
 func (document *Document) RemoveImages() error
@@ -31,6 +31,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// RemoveImages() removes images from PDF-document
 	err = pdf.RemoveImages()
 	if err != nil {
@@ -41,7 +43,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

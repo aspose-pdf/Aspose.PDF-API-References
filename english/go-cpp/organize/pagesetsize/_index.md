@@ -49,6 +49,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageSetSize(num int32, pageSize int32) sets size of page
 	err = pdf.PageSetSize(1, asposepdf.PageSizeA1)
 	if err != nil {
@@ -59,7 +61,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

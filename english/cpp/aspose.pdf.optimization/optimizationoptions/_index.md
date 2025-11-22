@@ -22,6 +22,11 @@ class OptimizationOptions : public System::Object
 | --- | --- |
 | static [All](./all/)() | Creates optimization strategy will all options activated. Please note that activated only options which does not change any functionality of the document. I.e. image compressing and fonts unembedding will not enabled (and can be embedded manually). |
 | [get_AllowReusePageContent](./get_allowreusepagecontent/)() const | If true page contents will be reused when document is optimized for equal pages. |
+| [get_CompressAllContentStreams](./get_compressallcontentstreams/)() const | If set to **true**
+
+, all uncompressed page content streams will be compressed using the FlateDecode filter during [Document::OptimizeResources()](../../aspose.pdf/document/optimizeresources/). Default is **false**
+
+to preserve backward compatibility. |
 | [get_CompressImages](./get_compressimages/)() | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
 | [get_CompressObjects](./get_compressobjects/)() const | If this flag is set to **true**
 
@@ -39,6 +44,11 @@ class OptimizationOptions : public System::Object
 | [get_UnembedFonts](./get_unembedfonts/)() const | Make fonts not embedded if set to true. |
 | [OptimizationOptions](./optimizationoptions/)() |  |
 | [set_AllowReusePageContent](./set_allowreusepagecontent/)(bool) | If true page contents will be reused when document is optimized for equal pages. |
+| [set_CompressAllContentStreams](./set_compressallcontentstreams/)(bool) | If set to **true**
+
+, all uncompressed page content streams will be compressed using the FlateDecode filter during [Document::OptimizeResources()](../../aspose.pdf/document/optimizeresources/). Default is **false**
+
+to preserve backward compatibility. |
 | [set_CompressImages](./set_compressimages/)(bool) | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
 | [set_CompressObjects](./set_compressobjects/)(bool) | If this flag is set to **true**
 

@@ -4,7 +4,7 @@ linktitle: get_PageDisplay_Bottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_PageDisplay_Bottom method. Gets the bottom coordinate of page display in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.pdf.facades/bookmark/get_pagedisplay_bottom/
 ---
 ## Bookmark::get_PageDisplay_Bottom method

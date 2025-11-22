@@ -4,7 +4,7 @@ linktitle: set_BoldFlag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_BoldFlag method. Sets the bold flag of bookmark''s title in C++.'
 type: docs
-weight: 2200
+weight: 2100
 url: /cpp/aspose.pdf.facades/bookmark/set_boldflag/
 ---
 ## Bookmark::set_BoldFlag method

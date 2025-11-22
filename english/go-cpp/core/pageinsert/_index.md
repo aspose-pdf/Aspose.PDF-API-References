@@ -32,6 +32,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// PageInsert(num int32) inserts new page at the specified position in PDF-document
 	err = pdf.PageInsert(1)
 	if err != nil {
@@ -42,7 +44,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

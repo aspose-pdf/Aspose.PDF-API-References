@@ -4,7 +4,7 @@ linktitle: get_Destination
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_Destination method. Gets bookmark''s destination page. Required if action is set as string.Empty in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.facades/bookmark/get_destination/
 ---
 ## Bookmark::get_Destination method

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textfragmentstate/applychangesfrom/
 Applies settings from another textState.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentState::ApplyChangesFrom(System::SharedPtr<TextState> textState) override
+void Aspose::Pdf::Text::TextFragmentState::ApplyChangesFrom(const System::SharedPtr<TextState> &textState) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textState | System::SharedPtr\<TextState\> | [Text](../../) state object. |
+| textState | const System::SharedPtr\<TextState\>\& | [Text](../../) state object. |
 ## Remarks
 
 

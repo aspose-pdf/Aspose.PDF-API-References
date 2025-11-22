@@ -32,6 +32,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SetLicense(filename string) licenses with filename
 	err = pdf.SetLicense("Aspose.PDF.GoViaCPP.lic")
 	if err != nil {
@@ -39,7 +41,5 @@ func main() {
 	}
 	// Working with PDF-document
 	// ...
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

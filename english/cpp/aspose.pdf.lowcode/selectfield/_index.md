@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/selectfield/
 
 
 ```cpp
-using Aspose::Pdf::LowCode::SelectField =  System::MulticastDelegate<bool(System::SharedPtr<Aspose::Pdf::Forms::Field>)>
+typedef System::MulticastDelegate< bool(System::SharedPtr< Aspose::Pdf::Forms::Field >)> Aspose::Pdf::LowCode::SelectField =  System::MulticastDelegate<bool(System::SharedPtr<Aspose::Pdf::Forms::Field>)>
 ```
 
 ## See Also

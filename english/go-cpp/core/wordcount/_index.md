@@ -33,6 +33,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// WordCount() returns word count in PDF-document
 	word_count, err := pdf.WordCount()
 	if err != nil {
@@ -40,7 +42,5 @@ func main() {
 	}
 	// Print
 	fmt.Println("Word count:", word_count)
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

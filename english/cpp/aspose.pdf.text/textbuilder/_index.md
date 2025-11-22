@@ -20,11 +20,11 @@ class TextBuilder : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [AppendParagraph](./appendparagraph/)(System::SharedPtr\<TextParagraph\>) | Appends text paragraph to [Pdf](../../aspose.pdf/) page. |
-| [AppendText](./appendtext/)(System::SharedPtr\<TextFragment\>) | Appends text fragment to [Pdf](../../aspose.pdf/) page. |
-| [AppendText](./appendtext/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>) | /// |
-| [TextBuilder](./textbuilder/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
-| [TextBuilder](./textbuilder/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<BaseOperatorCollection\>) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
+| [AppendParagraph](./appendparagraph/)(const System::SharedPtr\<TextParagraph\>\&) | Appends text paragraph to [Pdf](../../aspose.pdf/) page. |
+| [AppendText](./appendtext/)(const System::SharedPtr\<TextFragment\>\&) | Appends text fragment to [Pdf](../../aspose.pdf/) page. |
+| [AppendText](./appendtext/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>\&) | /// |
+| [TextBuilder](./textbuilder/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
+| [TextBuilder](./textbuilder/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<BaseOperatorCollection\>\&) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
 ## See Also
 
 * Class [Object](../../system/object/)

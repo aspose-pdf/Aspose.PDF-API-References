@@ -4,7 +4,7 @@ linktitle: setter_increment_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::setter_increment_wrap method. Translator translates C#''s increment expressions targeting class'' property that has setter and getter defined, into invocation of this function in C++.'
 type: docs
-weight: 37700
+weight: 39000
 url: /cpp/system/setter_increment_wrap/
 ---
 ## System::setter_increment_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) method

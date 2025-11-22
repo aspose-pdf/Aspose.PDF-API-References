@@ -4,7 +4,7 @@ linktitle: PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo class. Represents the page information in C++.'
 type: docs
-weight: 13500
+weight: 13600
 url: /cpp/aspose.pdf/pageinfo/
 ---
 ## PageInfo class

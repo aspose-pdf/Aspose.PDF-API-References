@@ -4,7 +4,7 @@ linktitle: XmlSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmlSaveOptions class. Save options for export to Xml format in C++.'
 type: docs
-weight: 19700
+weight: 19800
 url: /cpp/aspose.pdf/xmlsaveoptions/
 ---
 ## XmlSaveOptions class

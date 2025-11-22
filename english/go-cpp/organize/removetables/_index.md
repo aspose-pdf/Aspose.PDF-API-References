@@ -1,12 +1,12 @@
 ---
 title: "RemoveTables"
 second_title: Aspose.PDF for Go via C++
-description: "Remove tables from PDF-document"
+description: "Remove tables from PDF-document."
 type: docs
 url: /go-cpp/organize/removetables/
 ---
 
-_Remove tables from PDF-document_
+_Remove tables from PDF-document._
 
 ```go
 func (document *Document) RemoveTables() error
@@ -31,6 +31,8 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// RemoveTables() removes tables from PDF-document
 	err = pdf.RemoveTables()
 	if err != nil {
@@ -41,7 +43,5 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

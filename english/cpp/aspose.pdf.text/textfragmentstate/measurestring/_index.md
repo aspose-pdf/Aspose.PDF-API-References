@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textfragmentstate/measurestring/
 Measures the string.
 
 ```cpp
-double Aspose::Pdf::Text::TextFragmentState::MeasureString(System::String str) override
+double Aspose::Pdf::Text::TextFragmentState::MeasureString(const System::String &str) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | System::String | The string. |
+| str | const System::String\& | The string. |
 
 ### ReturnValue
 

@@ -4,7 +4,7 @@ linktitle: ImageDeleteAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageDeleteAction enum. Action which performed with image object when image is removed from collection. If image object is removed in C++.'
 type: docs
-weight: 24000
+weight: 24200
 url: /cpp/aspose.pdf/imagedeleteaction/
 ---
 ## ImageDeleteAction enum

@@ -4,7 +4,7 @@ linktitle: EnumGetName
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use EnumGetName method of  class in C++.'
 type: docs
-weight: 17900
+weight: 18000
 url: /cpp/system/enumgetname/
 ---
 ## System::EnumGetName(T) method

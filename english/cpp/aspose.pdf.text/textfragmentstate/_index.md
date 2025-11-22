@@ -20,7 +20,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 
 | Method | Description |
 | --- | --- |
-| [ApplyChangesFrom](./applychangesfrom/)(System::SharedPtr\<TextState\>) override | Applies settings from another textState. |
+| [ApplyChangesFrom](./applychangesfrom/)(const System::SharedPtr\<TextState\>\&) override | Applies settings from another textState. |
 | [get_BackgroundColor](./get_backgroundcolor/)() override | Sets background color of the text, represented by the [TextFragment](../textfragment/) object. |
 | [get_CharacterSpacing](./get_characterspacing/)() override | Gets character spacing of the text, represented by the [TextFragment](../textfragment/) object. |
 | [get_CoordinateOrigin](./get_coordinateorigin/)() override | Gets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |
@@ -45,7 +45,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [get_WordSpacing](./get_wordspacing/)() override | Gets word spacing of the text. |
 | [IsFitRectangle](./isfitrectangle/)(System::String, System::SharedPtr\<Rectangle\>) | Checks if input string could be placed inside defined rectangle. |
 | [MeasureHeight](./measureheight/)(char16_t) | Measures character height. |
-| [MeasureString](./measurestring/)(System::String) override | Measures the string. |
+| [MeasureString](./measurestring/)(const System::String\&) override | Measures the string. |
 | [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) override | Sets background color of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_CharacterSpacing](./set_characterspacing/)(float) override | Sets character spacing of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_CoordinateOrigin](./set_coordinateorigin/)(Aspose::Pdf::Text::CoordinateOrigin) override | Sets text [CoordinateOrigin](../coordinateorigin/). If [CoordinateOrigin](../coordinateorigin/) is Descender, the text Y coordinate corresponds to the font's lowest point. If [CoordinateOrigin](../coordinateorigin/) is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, [CoordinateOrigin](../coordinateorigin/) BaseLine can be selected for better text rendering. |

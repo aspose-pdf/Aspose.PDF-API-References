@@ -76,6 +76,11 @@ type Document struct {
 | [RemoveImages](./organize/removeimages/) | Remove images from PDF-document. |
 | [RemoveJavaScripts](./organize/removejavascripts/) | Remove java scripts from PDF-document. |
 | [RemoveTables](./organize/removetables/) | Remove tables from PDF-document. |
+| [RemoveWatermarks](./organize/removewatermarks/) | Remove watermarks from PDF-document. |
+| [AddWatermark](./organize/addwatermark/) | Add watermark to PDF-document. |
+| [EmbedFonts](./organize/embedfonts/) | Embed fonts a PDF-document. |
+| [UnembedFonts](./organize/unembedfonts/) | Unembed fonts a PDF-document. |
+| [OptimizeFileSize](./organize/optimizefilesize/) | Optimize size of PDF-document with image compression quality. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -88,6 +93,8 @@ type Document struct {
 | [PageRemoveHiddenText](./organize/pageremovehiddentext/) | Remove hidden text in page. |
 | [PageRemoveImages](./organize/pageremoveimages/) | Remove images in page. |
 | [PageRemoveTables](./organize/pageremovetables/) | Remove tables in page. |
+| [PageRemoveWatermarks](./organize/pageremovewatermarks/) | Remove watermarks in page. |
+| [PageAddWatermark](./organize/pageaddwatermark/) | Add watermark on page. |
 
 
 ## Core PDF functions

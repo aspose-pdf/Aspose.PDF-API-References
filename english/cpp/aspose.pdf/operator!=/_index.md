@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::operator!= method. Returns true if two Colors are not equal in C++.'
 type: docs
-weight: 29100
+weight: 29300
 url: /cpp/aspose.pdf/operator!=/
 ---
 ## Aspose::Pdf::operator!=(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) method

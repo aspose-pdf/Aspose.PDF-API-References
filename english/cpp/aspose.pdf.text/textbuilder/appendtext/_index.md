@@ -7,19 +7,19 @@ type: docs
 weight: 300
 url: /cpp/aspose.pdf.text/textbuilder/appendtext/
 ---
-## TextBuilder::AppendText(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>) method
+## TextBuilder::AppendText(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>\&) method
 
 
 ///
 
 ```cpp
-void Aspose::Pdf::Text::TextBuilder::AppendText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> textFragments)
+void Aspose::Pdf::Text::TextBuilder::AppendText(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> &textFragments)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textFragments | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\> | [Collection](../../../aspose.pdf/collection/) of text fragments |
+| textFragments | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>\& | [Collection](../../../aspose.pdf/collection/) of text fragments |
 ## Remarks
 
 
@@ -33,19 +33,19 @@ Appends list of text fragments to [Pdf](../../../aspose.pdf/) page.
 * Class [TextBuilder](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBuilder::AppendText(System::SharedPtr\<TextFragment\>) method
+## TextBuilder::AppendText(const System::SharedPtr\<TextFragment\>\&) method
 
 
 Appends text fragment to [Pdf](../../../aspose.pdf/) page.
 
 ```cpp
-void Aspose::Pdf::Text::TextBuilder::AppendText(System::SharedPtr<TextFragment> textFragment)
+void Aspose::Pdf::Text::TextBuilder::AppendText(const System::SharedPtr<TextFragment> &textFragment)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textFragment | System::SharedPtr\<TextFragment\> | [Text](../../) fragment object. |
+| textFragment | const System::SharedPtr\<TextFragment\>\& | [Text](../../) fragment object. |
 
 ## See Also
 

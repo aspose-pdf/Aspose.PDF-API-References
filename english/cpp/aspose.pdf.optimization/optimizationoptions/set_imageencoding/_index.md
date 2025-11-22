@@ -4,7 +4,7 @@ linktitle: set_ImageEncoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_ImageEncoding method. Image encodre which will be used in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_imageencoding/
 ---
 ## OptimizationOptions::set_ImageEncoding method

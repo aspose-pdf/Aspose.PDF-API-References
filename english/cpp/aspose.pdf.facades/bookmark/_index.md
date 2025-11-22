@@ -21,7 +21,6 @@ class Bookmark : public System::Object
 | Method | Description |
 | --- | --- |
 | [Bookmark](./bookmark/)() | Initializes a new instance of the [Bookmark](./) class. |
-| [CompareTo](./compareto/)(const System::SharedPtr\<Bookmark\>\&) |  |
 | [get_Action](./get_action/)() const | Gets the action bound with the bookmark. If [PageNumber](../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
 | [get_BoldFlag](./get_boldflag/)() const | Gets the bold flag of bookmark's title. |
 | [get_ChildItem](./get_childitem/)() | Gets bookmark's children. |

@@ -4,7 +4,7 @@ linktitle: PdfFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormat enum. This class represents an pdf format in C++.'
 type: docs
-weight: 25300
+weight: 25500
 url: /cpp/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enum

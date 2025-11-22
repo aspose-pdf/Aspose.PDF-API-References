@@ -32,12 +32,12 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	// Close() releases allocated resources for PDF-document
+	defer pdf.Close()
 	// SaveBooklet(filename string) saves previously opened PDF-document as booklet PDF-document with filename
 	err = pdf.SaveBooklet("sample_Booklet.pdf")
 	if err != nil {
 		log.Fatal(err)
 	}
-	// Close() releases allocated resources for PDF-document
-	defer pdf.Close()
 }
 ```

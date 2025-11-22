@@ -4,7 +4,7 @@ linktitle: XfaTag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XfaTag enum. The xfa stream tag in C++.'
 type: docs
-weight: 26900
+weight: 27100
 url: /cpp/aspose.pdf/xfatag/
 ---
 ## XfaTag enum
