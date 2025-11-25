@@ -58,8 +58,8 @@ class Decimal
 | explicit [operator float](./operatorfloat/)() const | Converts the value represented by the current object to single-precision floating-point value. |
 | [operator!=](./operator!=/)(const Decimal\&) const | Determines if the values represented by the current object and the specified object are not equal. |
 | [operator!=](./operator!=/)(std::nullptr_t) const | Determines if the value represented by the current object is different from 0. |
-| [operator%](./operator%/)(const Decimal\&) const | Returns a new instance of [Decimal](./) class that represents a value that is a result of modulo operation with the values represented by the current and the specified objects. |
-| [operator%=](./operator%=/)(const Decimal\&) | Assigns to the current object a new value that is the result of modulo operation with the values represented by the current and the specified objects. |
+| [operator%](./operator-percent/)(const Decimal\&) const | Returns a new instance of [Decimal](./) class that represents a value that is a result of modulo operation with the values represented by the current and the specified objects. |
+| [operator%=](./operator-percent-equal/)(const Decimal\&) | Assigns to the current object a new value that is the result of modulo operation with the values represented by the current and the specified objects. |
 | [operator*](./operator_/)(const Decimal\&) const | Returns a new instance of [Decimal](./) class that represents a value that is a result of multiplication of values represented by the current and specified objects. |
 | [operator*=](./operator_=/)(const Decimal\&) | Assigns to the current object a new value that is the result of multiplication of values represented by the current and specified objects. |
 | [operator+](./operator+/)(const Decimal\&) const | Returns a new instance of [Decimal](./) class that represents a value that is a sum of values represented by the current and specified objects. |
