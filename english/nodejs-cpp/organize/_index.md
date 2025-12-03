@@ -50,6 +50,8 @@ url: /nodejs-cpp/organize/
 | [AsposePdfOptimizeFileSize](./asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 | [AsposePdfDeleteTables](./asposepdfdeletetables/) | Delete tables from a PDF-file. |
 | [AsposePdfCropPages](./asposepdfcroppages/) | Crop PDF-pages. |
+| [AsposePdfDeleteTextHeaders](./asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
+| [AsposePdfDeleteTextFooters](./asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 
 
 ## Detailed Description
