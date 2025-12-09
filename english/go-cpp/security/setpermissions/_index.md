@@ -15,7 +15,7 @@ func (document *Document) SetPermissions(userPassword string, ownerPassword stri
 **Parameters**: 
   * **userPassword** - user password
   * **ownerPassword** - owner password
-  * **permissions** - defines allowed permissions for user (can combine flags using |):
+  * **permissions** - bitmask of allowed PDF permissions (combine flags using `|`):
 ```go
 type Permissions int32
 const (

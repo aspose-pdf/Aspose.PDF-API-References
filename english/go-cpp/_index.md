@@ -202,7 +202,7 @@ const (
 )
 ```
 
-## Enumeration of possible permissions.
+## Bitflag set representing PDF permission capabilities.
 ```go
 type Permissions int32
 const (

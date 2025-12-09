@@ -15,7 +15,7 @@ func (document *Document) GetPermissions() (Permissions, error)
 **Parameters**: 
 
 **Return**: 
-  * **Permissions** - bitmask of permissions:
+  * **Permissions** - bitmask of PDF permission flags:
 ```go
 type Permissions int32
 const (
