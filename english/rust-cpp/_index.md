@@ -125,6 +125,16 @@ pub struct Document { /* private fields */ }
 | [page_is_blank](./core/page_is_blank/) | Return page is blank in PDF-document. |
 
 
+## Security
+| Function | Description |
+| -------- | ----------- |
+| [open_with_password](./security/open_with_password/) | Open a password-protected PDF-document. |
+| [encrypt](./security/encrypt/) | Encrypt PDF-document. |
+| [decrypt](./security/decrypt/) | Decrypt PDF-document. |
+| [set_permissions](./security/set_permissions/) | Set permissions for PDF-document. |
+| [get_permissions](./security/get_permissions/) | Get current permissions of PDF-document. |
+
+
 ## Miscellaneous
 
 | Function | Description |
@@ -159,6 +169,23 @@ pub struct ProductInfo {
 }
 ```
 
+## Bitflag set representing PDF permission capabilities.
+```rust
+bitflags! {
+    /// Bitflag set representing PDF permission capabilities.
+    #[derive(Copy, Clone, PartialEq, Eq)]
+    pub struct Permissions: i32 {
+        const PRINT_DOCUMENT                    = 1 << 2;  // 4
+        const MODIFY_CONTENT                    = 1 << 3;  // 8
+        const EXTRACT_CONTENT                   = 1 << 4;  // 16
+        const MODIFY_TEXT_ANNOTATIONS           = 1 << 5;  // 32
+        const FILL_FORM                         = 1 << 8;  // 256
+        const EXTRACT_CONTENT_WITH_DISABILITIES = 1 << 9;  // 512
+        const ASSEMBLE_DOCUMENT                 = 1 << 10; // 1024
+        const PRINTING_QUALITY                  = 1 << 11; // 2048
+    }
+}
+```
 
 # Enums
 
@@ -205,5 +232,19 @@ pub enum Rotation {
     On270 = 3,
     /// Rotated on 360 degrees clockwise.
     On360 = 4,
+}
+```
+
+## An enumeration of possible crypto algorithms.
+```rust
+pub enum CryptoAlgorithm {
+    /// RC4 with key length 40.
+    RC4x40 = 0,
+    /// RC4 with key length 128.
+    RC4x128 = 1,
+    /// AES with key length 128.
+    AESx128 = 2,
+    /// AES with key length 256.
+    AESx256 = 3,
 }
 ```
