@@ -4,7 +4,7 @@ linktitle: get_SaveFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::get_SaveFormat method. Format of data save in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/saveoptions/get_saveformat/
 ---
 ## SaveOptions::get_SaveFormat method

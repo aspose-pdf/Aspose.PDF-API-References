@@ -4,7 +4,7 @@ linktitle: HtmlPageLayoutOption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlPageLayoutOption enum. Specifies flags that together other options determine sizes and layouts of pages in C++.'
 type: docs
-weight: 24100
+weight: 24300
 url: /cpp/aspose.pdf/htmlpagelayoutoption/
 ---
 ## HtmlPageLayoutOption enum

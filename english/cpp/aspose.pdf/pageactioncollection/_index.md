@@ -4,7 +4,7 @@ linktitle: PageActionCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageActionCollection class. This class describes page actions in C++.'
 type: docs
-weight: 13100
+weight: 13300
 url: /cpp/aspose.pdf/pageactioncollection/
 ---
 ## PageActionCollection class

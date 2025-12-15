@@ -4,7 +4,7 @@ linktitle: PrintDuplex
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PrintDuplex enum. The paper handling option to use when printing the file from the print dialog in C++.'
 type: docs
-weight: 25800
+weight: 26000
 url: /cpp/aspose.pdf/printduplex/
 ---
 ## PrintDuplex enum

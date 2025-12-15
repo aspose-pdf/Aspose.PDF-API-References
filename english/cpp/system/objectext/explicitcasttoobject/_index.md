@@ -4,7 +4,7 @@ linktitle: ExplicitCastToObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ExplicitCastToObject method of System::ObjectExt class in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/objectext/explicitcasttoobject/
 ---
 ## ObjectExt::ExplicitCastToObject(const T\&) method

@@ -4,7 +4,7 @@ linktitle: ConvertTransparencyAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ConvertTransparencyAction enum. This class represents action for conversion of transparency in C++.'
 type: docs
-weight: 22200
+weight: 22400
 url: /cpp/aspose.pdf/converttransparencyaction/
 ---
 ## ConvertTransparencyAction enum

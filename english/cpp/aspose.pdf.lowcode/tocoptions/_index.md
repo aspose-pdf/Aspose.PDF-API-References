@@ -4,7 +4,7 @@ linktitle: TocOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LowCode::TocOptions class. Represents options for add table of contents to document by TocGenerator plugin in C++.'
 type: docs
-weight: 9100
+weight: 9300
 url: /cpp/aspose.pdf.lowcode/tocoptions/
 ---
 ## TocOptions class

@@ -4,7 +4,7 @@ linktitle: MarginPartStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::MarginPartStyle class. Represents information of one part of margin(top, botom, left side or right side) in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf/saveoptions/marginpartstyle/
 ---
 ## MarginPartStyle class

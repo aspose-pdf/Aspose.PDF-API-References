@@ -4,7 +4,7 @@ linktitle: CollectionSchema
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionSchema class. Represents a class that describes the "Schema" of a document collection in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.pdf/collectionschema/
 ---
 ## CollectionSchema class

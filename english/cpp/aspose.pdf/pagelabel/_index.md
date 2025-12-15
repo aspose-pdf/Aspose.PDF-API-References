@@ -4,7 +4,7 @@ linktitle: PageLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageLabel class. Class representing Page Label range in C++.'
 type: docs
-weight: 13700
+weight: 13900
 url: /cpp/aspose.pdf/pagelabel/
 ---
 ## PageLabel class

@@ -4,7 +4,7 @@ linktitle: HtmlBorderLineType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::HtmlBorderLineType enum. Represents line types that can be used in result document for drawing borders or another lines in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf/saveoptions/htmlborderlinetype/
 ---
 ## HtmlBorderLineType enum

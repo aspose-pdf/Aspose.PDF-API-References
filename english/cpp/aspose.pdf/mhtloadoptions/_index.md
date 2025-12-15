@@ -4,7 +4,7 @@ linktitle: MhtLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MhtLoadOptions class. Represents options for loading/importing of .mht-file into pdf document in C++.'
 type: docs
-weight: 11400
+weight: 11600
 url: /cpp/aspose.pdf/mhtloadoptions/
 ---
 ## MhtLoadOptions class

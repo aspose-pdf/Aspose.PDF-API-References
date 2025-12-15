@@ -103,6 +103,8 @@ url: /cpp/aspose.pdf.lowcode/
 | [TextExtractorOptions](./textextractoroptions/) | Represents text extraction options for the [TextExtractor](./textextractor/) plugin. |
 | [Tiff](./tiff/) | Represents [Pdf](../aspose.pdf/) to [Tiff](./tiff/) plugin. |
 | [TiffOptions](./tiffoptions/) | Represents [Pdf](../aspose.pdf/) to [Tiff](./tiff/) converter options for the [Tiff](./tiff/) plugin. |
+| [Timestamp](./timestamp/) | Plugin that adds a timestamp to a digital signature using a timestamp server. |
+| [TimestampOptions](./timestampoptions/) | Options for the [Timestamp](./timestamp/) Low‑Code plugin. |
 | [TocGenerator](./tocgenerator/) | Represents Aspose.PDF [TocGenerator](./tocgenerator/) plugin. |
 | [TocOptions](./tocoptions/) | Represents options for add table of contents to document by [TocGenerator](./tocgenerator/) plugin. |
 | [XlsConverter](./xlsconverter/) | Represents [XlsConverter](./xlsconverter/) plugin. |

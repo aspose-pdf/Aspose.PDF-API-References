@@ -24,6 +24,7 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 | [SignatureAlgorithmInfo](./signaturealgorithminfo/) | Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm. |
 | [TimestampAlgorithmInfo](./timestampalgorithminfo/) | Represents a class for the information about the timestamp signature algorithm. |
 | [UnknownSignatureAlgorithmInfo](./unknownsignaturealgorithminfo/) | Represents a class for the unknown signature algorithm information. |
+| [UnsignedContentAbsorber](./unsignedcontentabsorber/) | Represents a class for extracting unsigned content from a PDF file managed by digital signatures. |
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
 ## Enums

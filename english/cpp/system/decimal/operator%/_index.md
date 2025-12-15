@@ -5,9 +5,7 @@ second_title: Aspose.PDF for C++ API Reference
 description: 'System::Decimal::operator% method. Returns a new instance of Decimal class that represents a value that is a result of modulo operation with the values represented by the current and the specified objects in C++.'
 type: docs
 weight: 1100
-url: /cpp/system/decimal/operator-percent/
-aliases: 
-  - /cpp/system/decimal/operator%/
+url: /cpp/system/decimal/operator%/
 ---
 ## Decimal::operator% method
 

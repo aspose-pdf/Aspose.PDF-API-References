@@ -4,7 +4,7 @@ linktitle: CoalesceInternal
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::CoalesceInternal method. Implementation of ''??'' operator translation for non-nullable types. Overload for case if RT2 is convertable to RT1 in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system/objectext/coalesceinternal/
 ---
 ## ObjectExt::CoalesceInternal method

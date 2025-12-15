@@ -4,7 +4,7 @@ linktitle: NodeLevelResourceType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::NodeLevelResourceType enum. enumerates possible types of saved external resources in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf/saveoptions/nodelevelresourcetype/
 ---
 ## NodeLevelResourceType enum

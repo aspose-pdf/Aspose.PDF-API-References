@@ -4,7 +4,7 @@ linktitle: TextRenderingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextRenderingMode enum. The text rendering mode, Tmode, determines whether showing text shall cause glyph outlines to be stroked, filled, used as a clipping boundary, or some combination of the three in C++.'
 type: docs
-weight: 6100
+weight: 6300
 url: /cpp/aspose.pdf.text/textrenderingmode/
 ---
 ## TextRenderingMode enum

@@ -4,7 +4,7 @@ linktitle: HeadingLevels
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeadingLevels class. Represents a class to work with header levels based on font size in C++.'
 type: docs
-weight: 7000
+weight: 7200
 url: /cpp/aspose.pdf/headinglevels/
 ---
 ## HeadingLevels class

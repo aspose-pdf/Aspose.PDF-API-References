@@ -4,7 +4,7 @@ linktitle: ImagePlacementAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImagePlacementAbsorber class. Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via ImagePlacementAbsorber::ImagePlacements collection in C++.'
 type: docs
-weight: 8100
+weight: 8300
 url: /cpp/aspose.pdf/imageplacementabsorber/
 ---
 ## ImagePlacementAbsorber class

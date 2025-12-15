@@ -4,7 +4,7 @@ linktitle: Header
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Header class. Represents the header settings in C++.'
 type: docs
-weight: 6400
+weight: 6600
 url: /cpp/aspose.pdf/header/
 ---
 ## Header class

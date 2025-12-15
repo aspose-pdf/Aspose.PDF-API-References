@@ -4,7 +4,7 @@ linktitle: TeXFileSystemOutputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXFileSystemOutputDirectory class. Implements the regular file system''s method for getting a file stream to write to in C++.'
 type: docs
-weight: 17700
+weight: 17900
 url: /cpp/aspose.pdf/texfilesystemoutputdirectory/
 ---
 ## TeXFileSystemOutputDirectory class

@@ -4,7 +4,7 @@ linktitle: ResourceSavingInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::ResourceSavingInfo class. This class represents set of data that related to external resource file''s saving that occures during conversion of PDF to some other format (f.e. HTML) in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf/saveoptions/resourcesavinginfo/
 ---
 ## ResourceSavingInfo class

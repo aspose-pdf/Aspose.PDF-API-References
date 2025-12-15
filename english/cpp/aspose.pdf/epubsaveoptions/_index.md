@@ -4,7 +4,7 @@ linktitle: EpubSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EpubSaveOptions class. Save options for export to EPUB format in C++.'
 type: docs
-weight: 4600
+weight: 4800
 url: /cpp/aspose.pdf/epubsaveoptions/
 ---
 ## EpubSaveOptions class

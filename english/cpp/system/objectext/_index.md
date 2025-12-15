@@ -29,6 +29,7 @@ class ObjectExt : public System::ObjectType
 | static [CastToIList](./casttoilist/)(const SmartPtr\<Object\>\&) |  |
 | static [Coalesce](./coalesce/)(T0, T1) | Implementation of '??' operator translation for non-nullable types. |
 | static [Coalesce](./coalesce/)(System::Nullable\<T0\>, T1) | Implementation of '??' operator translation for nullable types. |
+| static [CoalesceAssign](./coalesceassign/)(T0\&, T1) | Implementation of '??=' operator translation. |
 | static [CoalesceInternal](./coalesceinternal/)(RT1, F) | Implementation of '??' operator translation for non-nullable types. Overload for case if RT2 is convertable to RT1. |
 | static [Equals](./equals/)(const T\&, const T2\&) |  |
 | static [Equals](./equals/)(const T\&, const T2\&) | Substitution for C# [Object.Equals](../object/equals/) calls working for any type in C++. Overload for smart pointer types. |

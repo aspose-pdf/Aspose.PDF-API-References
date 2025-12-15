@@ -4,7 +4,7 @@ linktitle: XpsSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XpsSaveOptions class. Save options for export to Xps format in C++.'
 type: docs
-weight: 20800
+weight: 21000
 url: /cpp/aspose.pdf/xpssaveoptions/
 ---
 ## XpsSaveOptions class

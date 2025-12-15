@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::operator== method. Returns true if two Colors are equal in C++.'
 type: docs
-weight: 29500
+weight: 29700
 url: /cpp/aspose.pdf/operator==/
 ---
 ## Aspose::Pdf::operator==(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) method

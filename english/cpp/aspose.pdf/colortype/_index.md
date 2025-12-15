@@ -4,7 +4,7 @@ linktitle: ColorType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ColorType enum. Specifies color type of elements on page in C++.'
 type: docs
-weight: 21700
+weight: 21900
 url: /cpp/aspose.pdf/colortype/
 ---
 ## ColorType enum

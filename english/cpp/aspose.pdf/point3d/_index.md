@@ -4,7 +4,7 @@ linktitle: Point3D
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Point3D class. Represent point with fractional coordinates in C++.'
 type: docs
-weight: 15700
+weight: 15900
 url: /cpp/aspose.pdf/point3d/
 ---
 ## Point3D class

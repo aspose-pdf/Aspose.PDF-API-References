@@ -4,7 +4,7 @@ linktitle: Matrix3D
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D class. Class represents transformation matrix in C++.'
 type: docs
-weight: 11000
+weight: 11200
 url: /cpp/aspose.pdf/matrix3d/
 ---
 ## Matrix3D class

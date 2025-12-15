@@ -4,7 +4,7 @@ linktitle: CgmImportOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CgmImportOptions class. Import option for import from Computer Graphics Metafile(CGM) format in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class

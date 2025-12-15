@@ -4,7 +4,7 @@ linktitle: XImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage class. Class representing image X-Object in C++.'
 type: docs
-weight: 19400
+weight: 19600
 url: /cpp/aspose.pdf/ximage/
 ---
 ## XImage class

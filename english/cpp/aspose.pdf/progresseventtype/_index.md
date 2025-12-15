@@ -4,7 +4,7 @@ linktitle: ProgressEventType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ProgressEventType enum. This enum describes possible progress event types that can occure during conversion in C++.'
 type: docs
-weight: 26100
+weight: 26300
 url: /cpp/aspose.pdf/progresseventtype/
 ---
 ## ProgressEventType enum

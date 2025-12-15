@@ -4,7 +4,7 @@ linktitle: set_PageLayoutOption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::set_PageLayoutOption method. Sets layout option in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/aspose.pdf/htmlloadoptions/set_pagelayoutoption/
 ---
 ## HtmlLoadOptions::set_PageLayoutOption method

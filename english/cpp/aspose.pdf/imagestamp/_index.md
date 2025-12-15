@@ -4,7 +4,7 @@ linktitle: ImageStamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageStamp class. Represents a graphic stamp in C++.'
 type: docs
-weight: 8300
+weight: 8500
 url: /cpp/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class

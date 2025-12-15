@@ -4,7 +4,7 @@ linktitle: BorderCornerStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BorderCornerStyle enum. Enumerates the border corner styles for border in C++.'
 type: docs
-weight: 21200
+weight: 21400
 url: /cpp/aspose.pdf/bordercornerstyle/
 ---
 ## BorderCornerStyle enum

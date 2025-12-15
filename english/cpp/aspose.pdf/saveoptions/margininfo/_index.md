@@ -4,7 +4,7 @@ linktitle: MarginInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::MarginInfo class. Instance of this class represents information about page margin That can be drown on some result document in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf/saveoptions/margininfo/
 ---
 ## MarginInfo class

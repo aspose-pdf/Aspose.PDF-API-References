@@ -4,7 +4,7 @@ linktitle: set_IsEmbedFonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::set_IsEmbedFonts method. Sets fonts embedding to result document in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/aspose.pdf/htmlloadoptions/set_isembedfonts/
 ---
 ## HtmlLoadOptions::set_IsEmbedFonts method

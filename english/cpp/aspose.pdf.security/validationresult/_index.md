@@ -4,7 +4,7 @@ linktitle: ValidationResult
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationResult class. Represents the result of a validation process for a certificate in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf.security/validationresult/
 ---
 ## ValidationResult class

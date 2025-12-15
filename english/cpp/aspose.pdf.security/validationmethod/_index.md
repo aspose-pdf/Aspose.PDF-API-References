@@ -4,7 +4,7 @@ linktitle: ValidationMethod
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationMethod enum. Represents an enum defined the method used for certificate validation in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf.security/validationmethod/
 ---
 ## ValidationMethod enum

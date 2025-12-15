@@ -4,7 +4,7 @@ linktitle: BaseParagraph
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseParagraph class. Represents a abstract base object can be added to the page(doc.Paragraphs.Add()) in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf/baseparagraph/
 ---
 ## BaseParagraph class

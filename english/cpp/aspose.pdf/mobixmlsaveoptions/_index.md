@@ -4,7 +4,7 @@ linktitle: MobiXmlSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MobiXmlSaveOptions class. Save options for export to Xml format in C++.'
 type: docs
-weight: 11500
+weight: 11700
 url: /cpp/aspose.pdf/mobixmlsaveoptions/
 ---
 ## MobiXmlSaveOptions class

@@ -4,7 +4,7 @@ linktitle: AFRelationship
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::AFRelationship enum. Enumeration describes associated files relationship in C++.'
 type: docs
-weight: 21000
+weight: 21200
 url: /cpp/aspose.pdf/afrelationship/
 ---
 ## AFRelationship enum

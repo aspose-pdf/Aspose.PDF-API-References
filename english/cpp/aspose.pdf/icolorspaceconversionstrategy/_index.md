@@ -4,7 +4,7 @@ linktitle: IColorSpaceConversionStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IColorSpaceConversionStrategy class. Interface for color space conversion strategies in C++.'
 type: docs
-weight: 7600
+weight: 7800
 url: /cpp/aspose.pdf/icolorspaceconversionstrategy/
 ---
 ## IColorSpaceConversionStrategy class

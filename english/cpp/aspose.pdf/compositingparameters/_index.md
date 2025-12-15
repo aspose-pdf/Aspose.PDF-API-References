@@ -4,7 +4,7 @@ linktitle: CompositingParameters
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CompositingParameters class. Represents an object containing graphics compositing parameters of current graphics state in C++.'
 type: docs
-weight: 3200
+weight: 3400
 url: /cpp/aspose.pdf/compositingparameters/
 ---
 ## CompositingParameters class

@@ -4,7 +4,7 @@ linktitle: HeadingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeadingStyle enum. Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings in C++.'
 type: docs
-weight: 23700
+weight: 23900
 url: /cpp/aspose.pdf/headingstyle/
 ---
 ## HeadingStyle enum

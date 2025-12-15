@@ -4,7 +4,7 @@ linktitle: ContentDisposition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ContentDisposition enum. MIME protocol Content-Disposition header in C++.'
 type: docs
-weight: 21900
+weight: 22100
 url: /cpp/aspose.pdf/contentdisposition/
 ---
 ## ContentDisposition enum

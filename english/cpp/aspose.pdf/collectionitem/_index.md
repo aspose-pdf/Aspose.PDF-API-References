@@ -4,7 +4,7 @@ linktitle: CollectionItem
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionItem class. Represents a collection item class. The collection item contains the data described by the collection schema in C++.'
 type: docs
-weight: 2500
+weight: 2700
 url: /cpp/aspose.pdf/collectionitem/
 ---
 ## CollectionItem class

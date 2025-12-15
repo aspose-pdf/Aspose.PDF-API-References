@@ -4,7 +4,7 @@ linktitle: Resources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Resources class. Class representing page resources in C++.'
 type: docs
-weight: 16500
+weight: 16700
 url: /cpp/aspose.pdf/resources/
 ---
 ## Resources class

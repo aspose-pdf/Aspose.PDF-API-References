@@ -4,7 +4,7 @@ linktitle: EmbeddedFileCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EmbeddedFileCollection class. Class representing embedded files collection in C++.'
 type: docs
-weight: 4300
+weight: 4500
 url: /cpp/aspose.pdf/embeddedfilecollection/
 ---
 ## EmbeddedFileCollection class

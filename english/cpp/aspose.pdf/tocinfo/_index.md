@@ -4,7 +4,7 @@ linktitle: TocInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo class. Represents table of contents info in C++.'
 type: docs
-weight: 18400
+weight: 18600
 url: /cpp/aspose.pdf/tocinfo/
 ---
 ## TocInfo class

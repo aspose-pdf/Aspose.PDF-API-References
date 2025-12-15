@@ -4,7 +4,7 @@ linktitle: ValidationOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationOptions class. Represents options for validating a digital signature in a PDF document in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf.security/validationoptions/
 ---
 ## ValidationOptions class

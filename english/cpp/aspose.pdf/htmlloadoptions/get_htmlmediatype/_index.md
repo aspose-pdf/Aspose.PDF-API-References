@@ -4,7 +4,7 @@ linktitle: get_HtmlMediaType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::get_HtmlMediaType method. Gets possible media types used during rendering in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/htmlloadoptions/get_htmlmediatype/
 ---
 ## HtmlLoadOptions::get_HtmlMediaType method
