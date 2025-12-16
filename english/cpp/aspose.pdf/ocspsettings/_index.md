@@ -4,7 +4,7 @@ linktitle: OcspSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OcspSettings class. Represents the ocsp settings using during signing process in C++.'
 type: docs
-weight: 11800
+weight: 12000
 url: /cpp/aspose.pdf/ocspsettings/
 ---
 ## OcspSettings class

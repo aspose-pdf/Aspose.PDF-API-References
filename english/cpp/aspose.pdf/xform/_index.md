@@ -4,7 +4,7 @@ linktitle: XForm
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm class. Class represent XForm in C++.'
 type: docs
-weight: 19200
+weight: 19400
 url: /cpp/aspose.pdf/xform/
 ---
 ## XForm class

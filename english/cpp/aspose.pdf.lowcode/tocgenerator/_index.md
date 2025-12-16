@@ -4,7 +4,7 @@ linktitle: TocGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LowCode::TocGenerator class. Represents Aspose.PDF TocGenerator plugin in C++.'
 type: docs
-weight: 9000
+weight: 9200
 url: /cpp/aspose.pdf.lowcode/tocgenerator/
 ---
 ## TocGenerator class

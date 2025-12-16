@@ -4,7 +4,7 @@ linktitle: PclLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PclLoadOptions class. Represents options for loading(import) PCL file into pdf document in C++.'
 type: docs
-weight: 14700
+weight: 14900
 url: /cpp/aspose.pdf/pclloadoptions/
 ---
 ## PclLoadOptions class

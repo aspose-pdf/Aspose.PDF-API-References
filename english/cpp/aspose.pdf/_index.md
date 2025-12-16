@@ -19,6 +19,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Artifact](./artifact/) | Class represents PDF [Artifact](./artifact/) object. |
 | [ArtifactCollection](./artifactcollection/) | Class represents artifact collection. |
 | [AssemblyConstants](./assemblyconstants/) | Defines the constants that participate in the license check for the component. These used to be defined directly as assembly attributes, but I moved them into separate class because in .NET Compact Framework I cannot access assembly attributes. Now the licensing code when compiled for the .NET Compact Framework uses these constants instead of the assembly attributes. |
+| [AutoDetectedFormatLoadOptions](./autodetectedformatloadoptions/) | Represents options for loading/importing PCL file into pdf document. |
 | [AutoTaggingSettings](./autotaggingsettings/) | Provides settings for the auto-tagging functionality in PDF documents. |
 | [BackgroundArtifact](./backgroundartifact/) | Class descibes background artifact. This artifact allows to set background of the page. |
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions. |
@@ -28,6 +29,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
 | [BoundsCheckableList](./boundscheckablelist/) | Represents [BoundsCheckableList](./boundscheckablelist/) - wrapper around [System.Collections.Generic.List](../system.collections.generic/list/). |
+| [Brush](./brush/) | This class represents abstract brush. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
 | [Cell](./cell/) | Represents a cell of the table's row. |

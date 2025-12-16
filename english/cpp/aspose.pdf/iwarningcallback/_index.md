@@ -4,7 +4,7 @@ linktitle: IWarningCallback
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IWarningCallback class. Interface for user''s callback mechanism support in C++.'
 type: docs
-weight: 9500
+weight: 9700
 url: /cpp/aspose.pdf/iwarningcallback/
 ---
 ## IWarningCallback class

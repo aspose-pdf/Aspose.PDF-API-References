@@ -4,7 +4,7 @@ linktitle: BatesNArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BatesNArtifact class. Class describes Bates Numbering artifact in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf/batesnartifact/
 ---
 ## BatesNArtifact class

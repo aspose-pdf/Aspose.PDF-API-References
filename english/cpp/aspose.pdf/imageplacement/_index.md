@@ -4,7 +4,7 @@ linktitle: ImagePlacement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImagePlacement class. Represents characteristics of an image placed to Pdf document page in C++.'
 type: docs
-weight: 8000
+weight: 8200
 url: /cpp/aspose.pdf/imageplacement/
 ---
 ## ImagePlacement class

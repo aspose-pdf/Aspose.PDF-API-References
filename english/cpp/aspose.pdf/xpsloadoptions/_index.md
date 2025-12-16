@@ -4,7 +4,7 @@ linktitle: XpsLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XpsLoadOptions class. Represents options for loading/importing xps file into pdf document in C++.'
 type: docs
-weight: 20700
+weight: 20900
 url: /cpp/aspose.pdf/xpsloadoptions/
 ---
 ## XpsLoadOptions class

@@ -4,7 +4,7 @@ linktitle: ExtendedBoolean
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExtendedBoolean enum. Represents boolean type that supports Undefined value in C++.'
 type: docs
-weight: 22900
+weight: 23100
 url: /cpp/aspose.pdf/extendedboolean/
 ---
 ## ExtendedBoolean enum

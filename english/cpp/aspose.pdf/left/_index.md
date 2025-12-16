@@ -4,7 +4,7 @@ linktitle: Left
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Left class. Represents the left alignment settings for header and footer data in C++.'
 type: docs
-weight: 10100
+weight: 10300
 url: /cpp/aspose.pdf/left/
 ---
 ## Left class

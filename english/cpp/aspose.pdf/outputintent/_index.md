@@ -4,7 +4,7 @@ linktitle: OutputIntent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutputIntent class. Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which the document will be printed in C++.'
 type: docs
-weight: 12800
+weight: 13000
 url: /cpp/aspose.pdf/outputintent/
 ---
 ## OutputIntent class

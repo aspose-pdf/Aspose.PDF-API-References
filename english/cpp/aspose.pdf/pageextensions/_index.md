@@ -4,7 +4,7 @@ linktitle: PageExtensions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageExtensions class. Provides additional capabilities for the Page class in C++.'
 type: docs
-weight: 13500
+weight: 13700
 url: /cpp/aspose.pdf/pageextensions/
 ---
 ## PageExtensions class

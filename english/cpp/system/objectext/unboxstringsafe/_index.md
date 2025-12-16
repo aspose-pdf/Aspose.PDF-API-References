@@ -4,7 +4,7 @@ linktitle: UnboxStringSafe
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::UnboxStringSafe method. Unboxes string from boxed value in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system/objectext/unboxstringsafe/
 ---
 ## ObjectExt::UnboxStringSafe method

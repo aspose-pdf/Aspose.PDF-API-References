@@ -4,7 +4,7 @@ linktitle: TextSearchOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSearchOptions class. Represents text search options in C++.'
 type: docs
-weight: 5000
+weight: 5200
 url: /cpp/aspose.pdf.text/textsearchoptions/
 ---
 ## TextSearchOptions class

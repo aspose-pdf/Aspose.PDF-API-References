@@ -4,7 +4,7 @@ linktitle: IncorrectCMapUsageException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::IncorrectCMapUsageException typedef in C++.'
 type: docs
-weight: 28100
+weight: 28300
 url: /cpp/aspose.pdf/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException typedef

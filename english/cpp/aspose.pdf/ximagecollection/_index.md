@@ -4,7 +4,7 @@ linktitle: XImageCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImageCollection class. Class representing XImage collection in C++.'
 type: docs
-weight: 19600
+weight: 19800
 url: /cpp/aspose.pdf/ximagecollection/
 ---
 ## XImageCollection class

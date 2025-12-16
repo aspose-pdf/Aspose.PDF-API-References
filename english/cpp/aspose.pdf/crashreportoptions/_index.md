@@ -4,7 +4,7 @@ linktitle: CrashReportOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CrashReportOptions class. Options for crash report generating in C++.'
 type: docs
-weight: 3300
+weight: 3500
 url: /cpp/aspose.pdf/crashreportoptions/
 ---
 ## CrashReportOptions class

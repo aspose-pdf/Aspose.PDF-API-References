@@ -4,7 +4,7 @@ linktitle: ValidationMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::ValidationMode enum. Specifies the validation mode for PDF signature validation processes in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf.security/validationmode/
 ---
 ## ValidationMode enum

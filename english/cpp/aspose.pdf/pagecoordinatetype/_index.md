@@ -4,7 +4,7 @@ linktitle: PageCoordinateType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCoordinateType enum. Describes page coordinate type in C++.'
 type: docs
-weight: 25000
+weight: 25200
 url: /cpp/aspose.pdf/pagecoordinatetype/
 ---
 ## PageCoordinateType enum

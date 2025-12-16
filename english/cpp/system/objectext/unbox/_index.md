@@ -4,7 +4,7 @@ linktitle: Unbox
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::Unbox method. Unboxes value types after converting to Object. Implementation for enum types in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system/objectext/unbox/
 ---
 ## ObjectExt::Unbox(const SmartPtr\<Object\>\&) method

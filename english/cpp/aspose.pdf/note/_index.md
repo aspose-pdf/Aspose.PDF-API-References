@@ -4,7 +4,7 @@ linktitle: Note
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Note class. This class represents generator paragraph note in C++.'
 type: docs
-weight: 11700
+weight: 11900
 url: /cpp/aspose.pdf/note/
 ---
 ## Note class

@@ -4,7 +4,7 @@ linktitle: FloatingBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox class. Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned in C++.'
 type: docs
-weight: 5700
+weight: 5900
 url: /cpp/aspose.pdf/floatingbox/
 ---
 ## FloatingBox class

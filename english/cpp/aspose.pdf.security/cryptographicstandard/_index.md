@@ -4,7 +4,7 @@ linktitle: CryptographicStandard
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Security::CryptographicStandard enum. Represents the available cryptographic standards for securing PDF documents in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf.security/cryptographicstandard/
 ---
 ## CryptographicStandard enum

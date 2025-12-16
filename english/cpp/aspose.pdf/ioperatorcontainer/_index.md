@@ -4,7 +4,7 @@ linktitle: IOperatorContainer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IOperatorContainer class. Represents objects that contain a collection of operators as their contents in C++.'
 type: docs
-weight: 8800
+weight: 9000
 url: /cpp/aspose.pdf/ioperatorcontainer/
 ---
 ## IOperatorContainer class

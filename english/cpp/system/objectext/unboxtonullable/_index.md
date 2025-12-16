@@ -4,7 +4,7 @@ linktitle: UnboxToNullable
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::UnboxToNullable method. Unboxes object to nullable type in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system/objectext/unboxtonullable/
 ---
 ## ObjectExt::UnboxToNullable method

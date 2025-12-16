@@ -4,7 +4,7 @@ linktitle: set_PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::set_PageInfo method. Sets document page info in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/aspose.pdf/htmlloadoptions/set_pageinfo/
 ---
 ## HtmlLoadOptions::set_PageInfo method

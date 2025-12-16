@@ -4,7 +4,7 @@ linktitle: ExportFieldsOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExportFieldsOptions class. Represents base class of options for exporting form fields in C++.'
 type: docs
-weight: 4800
+weight: 5000
 url: /cpp/aspose.pdf/exportfieldsoptions/
 ---
 ## ExportFieldsOptions class

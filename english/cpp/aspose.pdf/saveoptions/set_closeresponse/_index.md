@@ -4,7 +4,7 @@ linktitle: set_CloseResponse
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SaveOptions::set_CloseResponse method. Sets boolean value which indicates will Response object be closed after document saved into response in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/saveoptions/set_closeresponse/
 ---
 ## SaveOptions::set_CloseResponse method

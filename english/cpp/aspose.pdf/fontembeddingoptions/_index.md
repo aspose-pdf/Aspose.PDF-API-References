@@ -4,7 +4,7 @@ linktitle: FontEmbeddingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FontEmbeddingOptions class. PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it''s not possible to embed some font cause this font is absent on destination PC in C++.'
 type: docs
-weight: 5800
+weight: 6000
 url: /cpp/aspose.pdf/fontembeddingoptions/
 ---
 ## FontEmbeddingOptions class

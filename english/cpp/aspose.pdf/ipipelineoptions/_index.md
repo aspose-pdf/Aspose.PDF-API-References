@@ -4,7 +4,7 @@ linktitle: IPipelineOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IPipelineOptions class. Defines conversion options related to pipeline configuration in C++.'
 type: docs
-weight: 9100
+weight: 9300
 url: /cpp/aspose.pdf/ipipelineoptions/
 ---
 ## IPipelineOptions class

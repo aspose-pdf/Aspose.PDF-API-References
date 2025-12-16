@@ -4,7 +4,7 @@ linktitle: ImportFieldsToJsonOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImportFieldsToJsonOptions class. Represents options for importing form fields to Json format in C++.'
 type: docs
-weight: 8500
+weight: 8700
 url: /cpp/aspose.pdf/importfieldstojsonoptions/
 ---
 ## ImportFieldsToJsonOptions class

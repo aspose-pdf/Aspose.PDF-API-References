@@ -4,7 +4,7 @@ linktitle: HeaderArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderArtifact class. Class describes Heaader artifact. This artifacgt may be used to set heading of the page in C++.'
 type: docs
-weight: 6500
+weight: 6700
 url: /cpp/aspose.pdf/headerartifact/
 ---
 ## HeaderArtifact class

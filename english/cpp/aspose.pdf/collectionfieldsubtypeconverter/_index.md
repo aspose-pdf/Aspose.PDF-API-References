@@ -4,7 +4,7 @@ linktitle: CollectionFieldSubtypeConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionFieldSubtypeConverter class. Represents a class for converting CollectionFieldSubtype values in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/aspose.pdf/collectionfieldsubtypeconverter/
 ---
 ## CollectionFieldSubtypeConverter class

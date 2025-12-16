@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionField class. This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of a property. Schema namespace URI:  Required schema namespace prefix: pdfaField in C++.'
 type: docs
-weight: 20000
+weight: 20200
 url: /cpp/aspose.pdf/xmppdfaextensionfield/
 ---
 ## XmpPdfAExtensionField class

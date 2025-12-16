@@ -4,7 +4,7 @@ linktitle: TeXLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXLoadOptions class. Represents options for loading/importing TeX file into PDF document in C++.'
 type: docs
-weight: 17900
+weight: 18100
 url: /cpp/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class

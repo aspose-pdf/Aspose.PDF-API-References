@@ -97,6 +97,8 @@ is_root: true
 | [AsposePdfOptimizeFileSize](./organize/asposepdfoptimizefilesize/) | Optimize size of PDF-file with image compression quality. |
 | [AsposePdfDeleteTables](./organize/asposepdfdeletetables/) | Delete tables from a PDF-file. |
 | [AsposePdfCropPages](./organize/asposepdfcroppages/) | Crop PDF-pages. |
+| [AsposePdfDeleteTextHeaders](./organize/asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
+| [AsposePdfDeleteTextFooters](./organize/asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 
 
 ## Metadata PDF functions

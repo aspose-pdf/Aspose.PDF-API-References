@@ -4,7 +4,7 @@ linktitle: BlendMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BlendMode enum. The blend modes enumeration in C++.'
 type: docs
-weight: 21100
+weight: 21300
 url: /cpp/aspose.pdf/blendmode/
 ---
 ## BlendMode enum

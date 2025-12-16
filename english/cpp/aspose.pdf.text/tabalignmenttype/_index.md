@@ -4,7 +4,7 @@ linktitle: TabAlignmentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabAlignmentType enum. Enumerates the tab alignment types in C++.'
 type: docs
-weight: 5900
+weight: 6100
 url: /cpp/aspose.pdf.text/tabalignmenttype/
 ---
 ## TabAlignmentType enum

@@ -4,7 +4,7 @@ linktitle: PdfAStandardVersion
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LowCode::PdfAStandardVersion enum. Specifies the PDF/A standard version for a PDF document in C++.'
 type: docs
-weight: 9500
+weight: 9700
 url: /cpp/aspose.pdf.lowcode/pdfastandardversion/
 ---
 ## PdfAStandardVersion enum

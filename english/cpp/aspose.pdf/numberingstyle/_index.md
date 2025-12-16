@@ -4,7 +4,7 @@ linktitle: NumberingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::NumberingStyle enum. Enumeration of supported page numbering style for PageLabel class in C++.'
 type: docs
-weight: 24900
+weight: 25100
 url: /cpp/aspose.pdf/numberingstyle/
 ---
 ## NumberingStyle enum

@@ -21,7 +21,11 @@ void Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo(System::ArrayPtr<Sys
 | --- | --- | --- |
 | array | System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XForm\>\>\> | The one-dimensional Array that is the destination of the elements copied from ICollection. The Array must have zero-based indexing. |
 | arrayIndex | int32_t | The zero-based index in array at which copying begins. |
+## Remarks
 
+
+
+No bounds checking is performed.
 ## See Also
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)

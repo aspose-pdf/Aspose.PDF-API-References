@@ -4,7 +4,7 @@ linktitle: FooterArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FooterArtifact class. Describes footer artifact. This may be used to set footer of the page in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/aspose.pdf/footerartifact/
 ---
 ## FooterArtifact class

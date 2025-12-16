@@ -4,7 +4,7 @@ linktitle: FileSpecification
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification class. Class representing embedded file in C++.'
 type: docs
-weight: 5500
+weight: 5700
 url: /cpp/aspose.pdf/filespecification/
 ---
 ## FileSpecification class

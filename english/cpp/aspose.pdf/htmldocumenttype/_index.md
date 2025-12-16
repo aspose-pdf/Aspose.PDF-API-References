@@ -4,7 +4,7 @@ linktitle: HtmlDocumentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlDocumentType enum. Represents enumeration of the Html document types in C++.'
 type: docs
-weight: 23900
+weight: 24100
 url: /cpp/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enum

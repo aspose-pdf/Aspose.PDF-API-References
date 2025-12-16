@@ -4,7 +4,7 @@ linktitle: SvgSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SvgSaveOptions class. Save options for export to SVG format in C++.'
 type: docs
-weight: 17400
+weight: 17600
 url: /cpp/aspose.pdf/svgsaveoptions/
 ---
 ## SvgSaveOptions class

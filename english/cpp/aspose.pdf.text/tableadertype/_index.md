@@ -4,7 +4,7 @@ linktitle: TabLeaderType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TabLeaderType enum. Enumerates the tab leader types in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/aspose.pdf.text/tableadertype/
 ---
 ## TabLeaderType enum

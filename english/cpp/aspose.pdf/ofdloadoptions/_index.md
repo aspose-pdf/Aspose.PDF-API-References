@@ -4,7 +4,7 @@ linktitle: OfdLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OfdLoadOptions class. Load options for OFD format in C++.'
 type: docs
-weight: 11900
+weight: 12100
 url: /cpp/aspose.pdf/ofdloadoptions/
 ---
 ## OfdLoadOptions class
