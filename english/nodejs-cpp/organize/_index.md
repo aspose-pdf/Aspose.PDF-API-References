@@ -52,6 +52,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfCropPages](./asposepdfcroppages/) | Crop PDF-pages. |
 | [AsposePdfDeleteTextHeaders](./asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
 | [AsposePdfDeleteTextFooters](./asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
+| [AsposePdfReplaceTextEx](./asposepdfreplacetextex/) | Replace text in a PDF-file with alignment control. |
 
 
 ## Detailed Description
