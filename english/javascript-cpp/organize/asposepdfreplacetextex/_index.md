@@ -31,7 +31,7 @@ function AsposePdfReplaceTextEx(
     * number, page number as 2
     * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
     * Array, array of page numbers, such as [1,3]
-  Pass an empty object `{}` for default behavior
+  * empty object `{}` for default behavior
 * **fileNameResult** result file name
 
 **Return**: 
