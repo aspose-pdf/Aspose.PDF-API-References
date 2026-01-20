@@ -4,7 +4,7 @@ linktitle: HeaderFooter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderFooter class. Class represents header or footer pdf page in C++.'
 type: docs
-weight: 6800
+weight: 6600
 url: /cpp/aspose.pdf/headerfooter/
 ---
 ## HeaderFooter class

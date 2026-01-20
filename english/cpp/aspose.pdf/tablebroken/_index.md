@@ -4,7 +4,7 @@ linktitle: TableBroken
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TableBroken enum. Enumerates the table broken in C++.'
 type: docs
-weight: 26800
+weight: 26900
 url: /cpp/aspose.pdf/tablebroken/
 ---
 ## TableBroken enum

@@ -4,7 +4,7 @@ linktitle: ReturnAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ReturnAction enum. Enum represented a program workflow action in case of invoking the IWarningCallback::Warning(Aspose::Pdf::WarningInfo) method in C++.'
 type: docs
-weight: 26400
+weight: 26500
 url: /cpp/aspose.pdf/returnaction/
 ---
 ## ReturnAction enum

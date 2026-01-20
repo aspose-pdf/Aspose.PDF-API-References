@@ -4,7 +4,7 @@ linktitle: LineBreakStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LineBreakStyle enum. Represents the possible line break styles for a file in C++.'
 type: docs
-weight: 24900
+weight: 25000
 url: /cpp/aspose.pdf/linebreakstyle/
 ---
 ## LineBreakStyle enum

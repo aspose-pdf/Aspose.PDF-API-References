@@ -4,7 +4,7 @@ linktitle: HorizontalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HorizontalAlignment enum. Describes horizontal alignment in C++.'
 type: docs
-weight: 24000
+weight: 24100
 url: /cpp/aspose.pdf/horizontalalignment/
 ---
 ## HorizontalAlignment enum

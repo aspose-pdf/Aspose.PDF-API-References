@@ -4,7 +4,7 @@ linktitle: IOperatorSelector
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IOperatorSelector class. Defines Visitor for visiting different pdf operators in C++.'
 type: docs
-weight: 9100
+weight: 8900
 url: /cpp/aspose.pdf/ioperatorselector/
 ---
 ## IOperatorSelector class

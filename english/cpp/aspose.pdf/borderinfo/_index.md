@@ -4,7 +4,7 @@ linktitle: BorderInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BorderInfo class. This class represents border for graphics elements in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.pdf/borderinfo/
 ---
 ## BorderInfo class

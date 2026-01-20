@@ -4,7 +4,7 @@ linktitle: PageCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection class. Collection of PDF document pages in C++.'
 type: docs
-weight: 13400
+weight: 13200
 url: /cpp/aspose.pdf/pagecollection/
 ---
 ## PageCollection class

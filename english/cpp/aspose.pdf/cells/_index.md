@@ -4,7 +4,7 @@ linktitle: Cells
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cells class. Represents a cells collection of row in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.pdf/cells/
 ---
 ## Cells class

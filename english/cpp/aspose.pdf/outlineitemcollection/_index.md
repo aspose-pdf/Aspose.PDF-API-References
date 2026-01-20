@@ -4,7 +4,7 @@ linktitle: OutlineItemCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection class. Represents outline entry in outline hierarchy of PDF document in C++.'
 type: docs
-weight: 12800
+weight: 12600
 url: /cpp/aspose.pdf/outlineitemcollection/
 ---
 ## OutlineItemCollection class

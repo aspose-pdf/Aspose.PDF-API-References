@@ -4,7 +4,7 @@ linktitle: IsBoxedValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::IsBoxedValue method. Checks if object is a boxed value in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/system/objectext/isboxedvalue/
 ---
 ## ObjectExt::IsBoxedValue method

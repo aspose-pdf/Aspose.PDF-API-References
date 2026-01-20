@@ -4,7 +4,7 @@ linktitle: IIndexBitmapConverter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IIndexBitmapConverter class. This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code) in C++.'
 type: docs
-weight: 8000
+weight: 7800
 url: /cpp/aspose.pdf/iindexbitmapconverter/
 ---
 ## IIndexBitmapConverter class

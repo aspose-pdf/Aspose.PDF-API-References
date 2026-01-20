@@ -4,7 +4,7 @@ linktitle: ITeXInputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ITeXInputDirectory class. Interface of generalized TeX input directory in C++.'
 type: docs
-weight: 9500
+weight: 9300
 url: /cpp/aspose.pdf/itexinputdirectory/
 ---
 ## ITeXInputDirectory class

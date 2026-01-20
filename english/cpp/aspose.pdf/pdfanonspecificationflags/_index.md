@@ -4,7 +4,7 @@ linktitle: PdfANonSpecificationFlags
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfANonSpecificationFlags class. This class holds flags to control PDF/A conversion for cases when source PDF document doesn''t correspond to PDF specification. If flags of this clas are used it decreases performance but it''s necessary when source PDF document can''t be convert into PDF/A format by usual way. By default all flags are set to false in C++.'
 type: docs
-weight: 15000
+weight: 14800
 url: /cpp/aspose.pdf/pdfanonspecificationflags/
 ---
 ## PdfANonSpecificationFlags class

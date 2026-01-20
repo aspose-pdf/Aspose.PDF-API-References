@@ -4,7 +4,7 @@ linktitle: DocumentExtensions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentExtensions class. Provides additional capabilities for the Document class in C++.'
 type: docs
-weight: 4200
+weight: 4000
 url: /cpp/aspose.pdf/documentextensions/
 ---
 ## DocumentExtensions class

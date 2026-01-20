@@ -4,7 +4,7 @@ linktitle: AutoTaggingSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::AutoTaggingSettings class. Provides settings for the auto-tagging functionality in PDF documents in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf/autotaggingsettings/
 ---
 ## AutoTaggingSettings class

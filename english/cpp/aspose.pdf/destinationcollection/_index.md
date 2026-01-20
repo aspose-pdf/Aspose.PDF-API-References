@@ -4,7 +4,7 @@ linktitle: DestinationCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DestinationCollection class. Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document in C++.'
 type: docs
-weight: 3700
+weight: 3500
 url: /cpp/aspose.pdf/destinationcollection/
 ---
 ## DestinationCollection class

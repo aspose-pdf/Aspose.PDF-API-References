@@ -4,7 +4,7 @@ linktitle: ImagePlacementCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImagePlacementCollection class. Represents an image placements collection in C++.'
 type: docs
-weight: 8400
+weight: 8200
 url: /cpp/aspose.pdf/imageplacementcollection/
 ---
 ## ImagePlacementCollection class

@@ -4,7 +4,7 @@ linktitle: BaseOperatorCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseOperatorCollection class. Represents base class for operator collection in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.pdf/baseoperatorcollection/
 ---
 ## BaseOperatorCollection class

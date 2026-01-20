@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Nullable::ValueType typedef. An alias for a type of the value represented by this class in C++.'
 type: docs
-weight: 2600
+weight: 2500
 url: /cpp/system/nullable/valuetype/
 ---
 ## ValueType typedef

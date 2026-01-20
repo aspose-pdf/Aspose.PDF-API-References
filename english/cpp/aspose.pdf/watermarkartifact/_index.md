@@ -4,7 +4,7 @@ linktitle: WatermarkArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WatermarkArtifact class. Class describes watermark artifact. This may be used to in C++.'
 type: docs
-weight: 19200
+weight: 19300
 url: /cpp/aspose.pdf/watermarkartifact/
 ---
 ## WatermarkArtifact class

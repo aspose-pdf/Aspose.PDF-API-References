@@ -19,7 +19,6 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Artifact](./artifact/) | Class represents PDF [Artifact](./artifact/) object. |
 | [ArtifactCollection](./artifactcollection/) | Class represents artifact collection. |
 | [AssemblyConstants](./assemblyconstants/) | Defines the constants that participate in the license check for the component. These used to be defined directly as assembly attributes, but I moved them into separate class because in .NET Compact Framework I cannot access assembly attributes. Now the licensing code when compiled for the .NET Compact Framework uses these constants instead of the assembly attributes. |
-| [AutoDetectedFormatLoadOptions](./autodetectedformatloadoptions/) | Represents options for loading/importing PCL file into pdf document. |
 | [AutoTaggingSettings](./autotaggingsettings/) | Provides settings for the auto-tagging functionality in PDF documents. |
 | [BackgroundArtifact](./backgroundartifact/) | Class descibes background artifact. This artifact allows to set background of the page. |
 | [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions. |
@@ -29,7 +28,6 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
 | [BoundsCheckableList](./boundscheckablelist/) | Represents [BoundsCheckableList](./boundscheckablelist/) - wrapper around [System.Collections.Generic.List](../system.collections.generic/list/). |
-| [Brush](./brush/) | This class represents abstract brush. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
 | [Cell](./cell/) | Represents a cell of the table's row. |
@@ -185,6 +183,8 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [Right](./right/) | Represents the right alignment settings for header and footer data. |
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
+| [RtfConverter](./rtfconverter/) | Converts RTF formatted documents into PDF. |
+| [RtfLoadOptions](./rtfloadoptions/) | Load options for RTF format. |
 | [SaveOptions](./saveoptions/) | [SaveOptions](./saveoptions/) type hold level of abstraction on individual save options. |
 | [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Represents a class for checking compromising signatures of the document. |
 | [Stamp](./stamp/) | An abstract class for various kinds of stamps which come as descendants. |
@@ -201,6 +201,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [TimestampSettings](./timestampsettings/) | Represents the ocsp settings using during signing process. |
 | [TocInfo](./tocinfo/) | Represents table of contents info. |
 | [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode". |
+| [TwipConverter](./twipconverter/) | Class, designed to convert RTF measurements into points. |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |
 | [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model) |
 | [WarningInfo](./warninginfo/) | Immutable object for encapsulating warning information. |

@@ -4,7 +4,7 @@ linktitle: HtmlMediaType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlMediaType enum. Specifies possible media types used during rendering in C++.'
 type: docs
-weight: 24200
+weight: 24300
 url: /cpp/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enum

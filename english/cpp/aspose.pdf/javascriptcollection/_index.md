@@ -4,7 +4,7 @@ linktitle: JavaScriptCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::JavaScriptCollection class. This class represents collection of JavaScript in C++.'
 type: docs
-weight: 9800
+weight: 9600
 url: /cpp/aspose.pdf/javascriptcollection/
 ---
 ## JavaScriptCollection class

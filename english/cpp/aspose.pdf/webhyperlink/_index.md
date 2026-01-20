@@ -4,7 +4,7 @@ linktitle: WebHyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WebHyperlink class. Represents web hyperlink object in C++.'
 type: docs
-weight: 19300
+weight: 19400
 url: /cpp/aspose.pdf/webhyperlink/
 ---
 ## WebHyperlink class

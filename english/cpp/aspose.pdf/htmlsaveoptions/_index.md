@@ -4,7 +4,7 @@ linktitle: HtmlSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions class. Save options for export to Html format in C++.'
 type: docs
-weight: 7500
+weight: 7300
 url: /cpp/aspose.pdf/htmlsaveoptions/
 ---
 ## HtmlSaveOptions class

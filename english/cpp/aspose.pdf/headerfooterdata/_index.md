@@ -4,7 +4,7 @@ linktitle: HeaderFooterData
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderFooterData class. Represents the pagination data for header and footer in C++.'
 type: docs
-weight: 6900
+weight: 6700
 url: /cpp/aspose.pdf/headerfooterdata/
 ---
 ## HeaderFooterData class

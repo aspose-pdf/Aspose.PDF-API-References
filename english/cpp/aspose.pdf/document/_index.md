@@ -4,7 +4,7 @@ linktitle: Document
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document class. Class representing PDF document in C++.'
 type: docs
-weight: 4100
+weight: 3900
 url: /cpp/aspose.pdf/document/
 ---
 ## Document class

@@ -4,7 +4,7 @@ linktitle: DefaultState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DefaultState enum. Represents the default state of a PDF layer in C++.'
 type: docs
-weight: 22600
+weight: 22700
 url: /cpp/aspose.pdf/defaultstate/
 ---
 ## DefaultState enum

@@ -73,7 +73,6 @@ template<typename T>class Nullable
 | [operator>=](./operator_=/)(const Nullable\<T1\>\&) const | Determines if the value represented by the current object is greater or equal to the value represented by the specified [Nullable](./) object by applying [operator>=()](./operator_=/) to these values. |
 | [operator|=](./operator_=/)(bool) | Applies [operator|=()](./operator_=/) to the value represented by the current object using the specified value as a right-side argument. |
 | [reset](./reset/)() | Sets the currently represented value to null. |
-| [set_Value](./set_value/)(const T\&) | Sets a new value to nullable object. |
 | [ToString](./tostring/)() const | Converts the value represented by the current object to string. |
 ## Typedefs
 

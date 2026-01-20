@@ -4,7 +4,7 @@ linktitle: DocumentFactory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentFactory class. Class which allows to create/load documents of different types in C++.'
 type: docs
-weight: 4300
+weight: 4100
 url: /cpp/aspose.pdf/documentfactory/
 ---
 ## DocumentFactory class

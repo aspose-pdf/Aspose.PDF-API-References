@@ -4,7 +4,7 @@ linktitle: LoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LoadOptions class. LoadOptions type holds level of abstraction on individual load options in C++.'
 type: docs
-weight: 10700
+weight: 10500
 url: /cpp/aspose.pdf/loadoptions/
 ---
 ## LoadOptions class

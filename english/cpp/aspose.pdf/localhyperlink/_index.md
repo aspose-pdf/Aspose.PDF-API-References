@@ -4,7 +4,7 @@ linktitle: LocalHyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LocalHyperlink class. Represents local hyperlink object in C++.'
 type: docs
-weight: 10800
+weight: 10600
 url: /cpp/aspose.pdf/localhyperlink/
 ---
 ## LocalHyperlink class

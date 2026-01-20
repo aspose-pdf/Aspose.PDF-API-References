@@ -4,7 +4,7 @@ linktitle: TextSegment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSegment class. Represents segment of Pdf text in C++.'
 type: docs
-weight: 5300
+weight: 5100
 url: /cpp/aspose.pdf.text/textsegment/
 ---
 ## TextSegment class

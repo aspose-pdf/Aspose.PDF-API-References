@@ -4,7 +4,7 @@ linktitle: IncorrectFontUsageException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::IncorrectFontUsageException typedef in C++.'
 type: docs
-weight: 28400
+weight: 28500
 url: /cpp/aspose.pdf/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException typedef

@@ -4,7 +4,7 @@ linktitle: PaginationArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PaginationArtifact class. Represents an abstract base class for pagination artifacts in a document in C++.'
 type: docs
-weight: 14700
+weight: 14500
 url: /cpp/aspose.pdf/paginationartifact/
 ---
 ## PaginationArtifact class

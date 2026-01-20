@@ -4,7 +4,7 @@ linktitle: ConvertException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::ConvertException typedef in C++.'
 type: docs
-weight: 27700
+weight: 27800
 url: /cpp/aspose.pdf/convertexception/
 ---
 ## ConvertException typedef

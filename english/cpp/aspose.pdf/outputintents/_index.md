@@ -4,7 +4,7 @@ linktitle: OutputIntents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutputIntents class. Represents the collection of OutputIntent in C++.'
 type: docs
-weight: 13100
+weight: 12900
 url: /cpp/aspose.pdf/outputintents/
 ---
 ## OutputIntents class

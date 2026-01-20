@@ -4,7 +4,7 @@ linktitle: DocumentInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentInfo class. Represents meta information of PDF document in C++.'
 type: docs
-weight: 4400
+weight: 4200
 url: /cpp/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class

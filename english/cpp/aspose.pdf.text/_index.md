@@ -62,8 +62,6 @@ url: /cpp/aspose.pdf.text/
 | [TextFragmentState](./textfragmentstate/) | Represents a text state of a text fragment. |
 | [TextOptions](./textoptions/) | Represents text processing options. |
 | [TextParagraph](./textparagraph/) | Represents text paragraphs as multiline text object. |
-| [TextParagraphAbsorber](./textparagraphabsorber/) | Represents an absorber object of text paragraphs. Performs text search and provides access to search results via [TextParagraphAbsorber::TextParagraphs](../) collection. |
-| [TextParagraphCollection](./textparagraphcollection/) | Represents a text paragraphs collection. |
 | [TextReplaceOptions](./textreplaceoptions/) | Represents text replace options. |
 | [TextSearchOptions](./textsearchoptions/) | Represents text search options. |
 | [TextSegment](./textsegment/) | Represents segment of [Pdf](../aspose.pdf/) text. |

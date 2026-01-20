@@ -4,7 +4,7 @@ linktitle: PdfPageStamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfPageStamp class. Class represents stamp which uses PDF page as stamp in C++.'
 type: docs
-weight: 15300
+weight: 15100
 url: /cpp/aspose.pdf/pdfpagestamp/
 ---
 ## PdfPageStamp class

@@ -4,7 +4,7 @@ linktitle: Heading
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading class. Represents heading in C++.'
 type: docs
-weight: 7100
+weight: 6900
 url: /cpp/aspose.pdf/heading/
 ---
 ## Heading class

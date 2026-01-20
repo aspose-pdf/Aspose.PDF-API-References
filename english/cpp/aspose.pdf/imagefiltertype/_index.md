@@ -4,7 +4,7 @@ linktitle: ImageFilterType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImageFilterType enum. Enumeration representing image filter type in C++.'
 type: docs
-weight: 24600
+weight: 24700
 url: /cpp/aspose.pdf/imagefiltertype/
 ---
 ## ImageFilterType enum

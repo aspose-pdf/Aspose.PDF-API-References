@@ -4,7 +4,7 @@ linktitle: UnknownIsNull
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::UnknownIsNull method. Checks whether unknown type object is nullptr. Overload for non-scalar types in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/system/objectext/unknownisnull/
 ---
 ## ObjectExt::UnknownIsNull(T) method

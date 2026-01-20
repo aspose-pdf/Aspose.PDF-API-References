@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionSchema
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema class. Describes the XMP extension schema which is provided by PDF/A-1 in C++.'
 type: docs
-weight: 20500
+weight: 20600
 url: /cpp/aspose.pdf/xmppdfaextensionschema/
 ---
 ## XmpPdfAExtensionSchema class

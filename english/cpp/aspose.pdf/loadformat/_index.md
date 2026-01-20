@@ -4,7 +4,7 @@ linktitle: LoadFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LoadFormat enum. Specifies load format in C++.'
 type: docs
-weight: 25000
+weight: 25100
 url: /cpp/aspose.pdf/loadformat/
 ---
 ## LoadFormat enum
@@ -38,7 +38,7 @@ enum class LoadFormat
 | OFD | 15 | means loading document in [OFD](../../aspose.pdf.ofd/) format. |
 | DJVU | 16 | means loading document in Djvu format. |
 | CDR | 17 | means loading document in CDR format. |
-| AutoDetect | 18 | This option allows to loading engine try detection of format itself Currently only SVG,XML,XSLFO formats can be autodetected. If engine cannot detect type of file, HTML will be used. This logic came from old GEnerator cause method itself came from old Genedrator. |
+| RTF | 18 | means loading document in RTF format. |
 
 ## See Also
 

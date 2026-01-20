@@ -4,7 +4,7 @@ linktitle: TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState class. Represents a text state of a text in C++.'
 type: docs
-weight: 5500
+weight: 5300
 url: /cpp/aspose.pdf.text/textstate/
 ---
 ## TextState class

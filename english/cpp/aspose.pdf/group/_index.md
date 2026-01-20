@@ -4,7 +4,7 @@ linktitle: Group
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Group class. A group attributes class specifying the attributes of the page''s page group for use in the transparent imaging model in C++.'
 type: docs
-weight: 6500
+weight: 6300
 url: /cpp/aspose.pdf/group/
 ---
 ## Group class

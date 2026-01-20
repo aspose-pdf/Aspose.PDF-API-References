@@ -4,7 +4,7 @@ linktitle: OperatorSelector
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OperatorSelector class. This class is used for selecting operators using Visitor template idea in C++.'
 type: docs
-weight: 12400
+weight: 12200
 url: /cpp/aspose.pdf/operatorselector/
 ---
 ## OperatorSelector class

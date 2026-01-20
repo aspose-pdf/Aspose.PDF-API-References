@@ -4,7 +4,7 @@ linktitle: IPageSetOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::IPageSetOptions class. Defines conversion options related to a set of pages to convert in C++.'
 type: docs
-weight: 9200
+weight: 9000
 url: /cpp/aspose.pdf/ipagesetoptions/
 ---
 ## IPageSetOptions class

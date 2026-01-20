@@ -4,7 +4,7 @@ linktitle: CollectionSort
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionSort class. Represents a class for a collection sort definition in C++.'
 type: docs
-weight: 2900
+weight: 2700
 url: /cpp/aspose.pdf/collectionsort/
 ---
 ## CollectionSort class

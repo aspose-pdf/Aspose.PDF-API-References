@@ -4,7 +4,7 @@ linktitle: XImageAddingParams
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 19700
+weight: 19800
 url: /cpp/aspose.pdf/ximageaddingparams/
 ---
 ## XImageAddingParams class

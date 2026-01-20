@@ -4,7 +4,7 @@ linktitle: Opi
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Opi class. Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolution images in C++.'
 type: docs
-weight: 12500
+weight: 12300
 url: /cpp/aspose.pdf/opi/
 ---
 ## Opi class

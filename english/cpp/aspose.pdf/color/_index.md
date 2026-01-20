@@ -4,7 +4,7 @@ linktitle: Color
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color class. Represents class for color value which can be expressed in different color space in C++.'
 type: docs
-weight: 3000
+weight: 2800
 url: /cpp/aspose.pdf/color/
 ---
 ## Color class

@@ -4,7 +4,7 @@ linktitle: MarkdownSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MarkdownSaveOptions class. Represents the document save option class in the markdown format in C++.'
 type: docs
-weight: 11000
+weight: 10800
 url: /cpp/aspose.pdf/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class

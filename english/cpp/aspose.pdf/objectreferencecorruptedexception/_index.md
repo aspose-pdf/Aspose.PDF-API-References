@@ -4,7 +4,7 @@ linktitle: ObjectReferenceCorruptedException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::ObjectReferenceCorruptedException typedef in C++.'
 type: docs
-weight: 29200
+weight: 29300
 url: /cpp/aspose.pdf/objectreferencecorruptedexception/
 ---
 ## ObjectReferenceCorruptedException typedef

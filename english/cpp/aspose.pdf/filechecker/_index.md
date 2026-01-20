@@ -4,7 +4,7 @@ linktitle: FileChecker
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileChecker class. Represents a class for checking file security in C++.'
 type: docs
-weight: 5400
+weight: 5200
 url: /cpp/aspose.pdf/filechecker/
 ---
 ## FileChecker class

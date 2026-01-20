@@ -4,7 +4,7 @@ linktitle: ExportImportMessages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExportImportMessages class. Contains various error messages for export and import operations of form fields in C++.'
 type: docs
-weight: 5200
+weight: 5000
 url: /cpp/aspose.pdf/exportimportmessages/
 ---
 ## ExportImportMessages class

@@ -4,7 +4,7 @@ linktitle: CollectionFieldSubtype
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CollectionFieldSubtype enum. Represents the subtype parameter of a field in a sceme collection in C++.'
 type: docs
-weight: 21700
+weight: 21800
 url: /cpp/aspose.pdf/collectionfieldsubtype/
 ---
 ## CollectionFieldSubtype enum

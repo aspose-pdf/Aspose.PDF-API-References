@@ -4,7 +4,7 @@ linktitle: ImportFieldsOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImportFieldsOptions class. Represents base class of options for importing form fields in C++.'
 type: docs
-weight: 8600
+weight: 8400
 url: /cpp/aspose.pdf/importfieldsoptions/
 ---
 ## ImportFieldsOptions class

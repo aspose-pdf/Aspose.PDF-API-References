@@ -4,7 +4,7 @@ linktitle: XmpField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField class. Represents XMP field in C++.'
 type: docs
-weight: 20100
+weight: 20200
 url: /cpp/aspose.pdf/xmpfield/
 ---
 ## XmpField class

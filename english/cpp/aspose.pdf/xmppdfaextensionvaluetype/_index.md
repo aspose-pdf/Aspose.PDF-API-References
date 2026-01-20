@@ -4,7 +4,7 @@ linktitle: XmpPdfAExtensionValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionValueType class. The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. for value types outside of the following list: in C++.'
 type: docs
-weight: 20700
+weight: 20800
 url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/
 ---
 ## XmpPdfAExtensionValueType class

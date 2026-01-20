@@ -4,7 +4,7 @@ linktitle: TxtLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TxtLoadOptions class. Load options for TXT to PDF conversion in C++.'
 type: docs
-weight: 18800
+weight: 18900
 url: /cpp/aspose.pdf/txtloadoptions/
 ---
 ## TxtLoadOptions class

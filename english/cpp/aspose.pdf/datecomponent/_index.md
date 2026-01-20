@@ -4,7 +4,7 @@ linktitle: DateComponent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DateComponent class. Represents a base class for date components with a format attribute in C++.'
 type: docs
-weight: 3600
+weight: 3400
 url: /cpp/aspose.pdf/datecomponent/
 ---
 ## DateComponent class

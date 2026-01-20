@@ -4,7 +4,7 @@ linktitle: FileParams
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileParams class. Defines an embedded file parameter dictionary that shall contain additional file-specific information in C++.'
 type: docs
-weight: 5600
+weight: 5400
 url: /cpp/aspose.pdf/fileparams/
 ---
 ## FileParams class

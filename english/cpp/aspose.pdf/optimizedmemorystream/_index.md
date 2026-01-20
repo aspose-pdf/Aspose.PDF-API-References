@@ -4,7 +4,7 @@ linktitle: OptimizedMemoryStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream class. Defines a MemoryStream that can contains more standard capacity in C++.'
 type: docs
-weight: 12600
+weight: 12400
 url: /cpp/aspose.pdf/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream class

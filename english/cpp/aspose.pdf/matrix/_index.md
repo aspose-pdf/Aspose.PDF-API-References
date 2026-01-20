@@ -4,7 +4,7 @@ linktitle: Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix class. Class represents transformation matrix in C++.'
 type: docs
-weight: 11100
+weight: 10900
 url: /cpp/aspose.pdf/matrix/
 ---
 ## Matrix class

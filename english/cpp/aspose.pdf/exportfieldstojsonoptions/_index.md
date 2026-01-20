@@ -4,7 +4,7 @@ linktitle: ExportFieldsToJsonOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExportFieldsToJsonOptions class. Represents options for exporting form fields to Json format in C++.'
 type: docs
-weight: 5100
+weight: 4900
 url: /cpp/aspose.pdf/exportfieldstojsonoptions/
 ---
 ## ExportFieldsToJsonOptions class

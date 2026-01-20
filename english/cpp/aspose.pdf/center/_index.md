@@ -4,7 +4,7 @@ linktitle: Center
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Center class. Represents the center alignment settings for header and footer data in C++.'
 type: docs
-weight: 2100
+weight: 1900
 url: /cpp/aspose.pdf/center/
 ---
 ## Center class

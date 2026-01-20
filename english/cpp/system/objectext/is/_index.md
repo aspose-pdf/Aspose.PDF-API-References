@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::Is method. Implements ''is'' operator translation. Specialization for string literal in C++.'
 type: docs
-weight: 1100
+weight: 1000
 url: /cpp/system/objectext/is/
 ---
 ## ObjectExt::Is(const char16_t *) method

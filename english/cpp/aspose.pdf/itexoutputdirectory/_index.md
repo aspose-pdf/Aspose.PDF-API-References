@@ -4,7 +4,7 @@ linktitle: ITeXOutputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ITeXOutputDirectory class. Interface of generalized TeX output directory in C++.'
 type: docs
-weight: 9600
+weight: 9400
 url: /cpp/aspose.pdf/itexoutputdirectory/
 ---
 ## ITeXOutputDirectory class

@@ -4,7 +4,7 @@ linktitle: PrintScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PrintScaling enum. The page scaling option that shall be selected when a print dialog is displayed for this document in C++.'
 type: docs
-weight: 26100
+weight: 26200
 url: /cpp/aspose.pdf/printscaling/
 ---
 ## PrintScaling enum

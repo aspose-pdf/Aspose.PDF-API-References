@@ -4,7 +4,7 @@ linktitle: FileSpecificationComparer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecificationComparer class. Represents a comparator class for a file specification. The comparator compares according to the specification, using the list of fields to sort in the collection definition. According to the specification, sorting is done by collection items values. If there is no collection items dictionary, then sorting is done by Params values in C++.'
 type: docs
-weight: 5800
+weight: 5600
 url: /cpp/aspose.pdf/filespecificationcomparer/
 ---
 ## FileSpecificationComparer class

@@ -4,7 +4,7 @@ linktitle: BaseActionCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseActionCollection class. Class incapsulates basic actions wuth page/annotation/field interactive actions in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf/baseactioncollection/
 ---
 ## BaseActionCollection class

@@ -4,7 +4,7 @@ linktitle: Subset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Subset enum. Represents the subset of pages to which a pagination artifact can apply in C++.'
 type: docs
-weight: 26700
+weight: 26800
 url: /cpp/aspose.pdf/subset/
 ---
 ## Subset enum

@@ -4,7 +4,7 @@ linktitle: BackgroundArtifact
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BackgroundArtifact class. Class descibes background artifact. This artifact allows to set background of the page in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf/backgroundartifact/
 ---
 ## BackgroundArtifact class

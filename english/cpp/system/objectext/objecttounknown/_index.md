@@ -4,7 +4,7 @@ linktitle: ObjectToUnknown
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::ObjectToUnknown method. Converts Object to unknown type, handling both smart pointer type and bpxed value situations in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/system/objectext/objecttounknown/
 ---
 ## ObjectExt::ObjectToUnknown(SmartPtr\<Object\>) method

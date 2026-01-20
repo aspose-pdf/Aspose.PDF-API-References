@@ -4,7 +4,7 @@ linktitle: ParagraphPositioningMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ParagraphPositioningMode enum. Specifies variant for determining the location of the element on the page in C++.'
 type: docs
-weight: 25500
+weight: 25600
 url: /cpp/aspose.pdf/paragraphpositioningmode/
 ---
 ## ParagraphPositioningMode enum

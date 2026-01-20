@@ -4,7 +4,7 @@ linktitle: WarningInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WarningInfo class. Immutable object for encapsulating warning information in C++.'
 type: docs
-weight: 19000
+weight: 19100
 url: /cpp/aspose.pdf/warninginfo/
 ---
 ## WarningInfo class

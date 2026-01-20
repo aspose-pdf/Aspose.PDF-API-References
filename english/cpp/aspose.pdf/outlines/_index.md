@@ -4,7 +4,7 @@ linktitle: Outlines
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Outlines class. Class describes collection of outlines in C++.'
 type: docs
-weight: 12900
+weight: 12700
 url: /cpp/aspose.pdf/outlines/
 ---
 ## Outlines class

@@ -4,7 +4,7 @@ linktitle: LicenseInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LicenseInfo class. Represents a license information in C++.'
 type: docs
-weight: 10600
+weight: 10400
 url: /cpp/aspose.pdf/licenseinfo/
 ---
 ## LicenseInfo class

@@ -4,7 +4,7 @@ linktitle: INamedDestinationCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::INamedDestinationCollection class. Collection of Named Destinations in C++.'
 type: docs
-weight: 8900
+weight: 8700
 url: /cpp/aspose.pdf/inameddestinationcollection/
 ---
 ## INamedDestinationCollection class

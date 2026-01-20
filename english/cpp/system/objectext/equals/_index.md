@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::Equals method. Substitution for C# Object.Equals calls working for any type in C++. Overload for string literal with string comparison in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/system/objectext/equals/
 ---
 ## ObjectExt::Equals(const char_t(&), String) method

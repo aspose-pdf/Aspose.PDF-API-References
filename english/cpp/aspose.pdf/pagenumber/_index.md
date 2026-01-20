@@ -4,7 +4,7 @@ linktitle: PageNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageNumber class. Represents a page number format that includes an index, total number of pages, and a delimiter in C++.'
 type: docs
-weight: 14300
+weight: 14100
 url: /cpp/aspose.pdf/pagenumber/
 ---
 ## PageNumber class

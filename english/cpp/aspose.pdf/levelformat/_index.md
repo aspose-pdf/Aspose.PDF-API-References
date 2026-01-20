@@ -4,7 +4,7 @@ linktitle: LevelFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LevelFormat class. Represents format of the table of contents in C++.'
 type: docs
-weight: 10400
+weight: 10200
 url: /cpp/aspose.pdf/levelformat/
 ---
 ## LevelFormat class

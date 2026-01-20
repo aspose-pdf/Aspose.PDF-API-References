@@ -4,7 +4,7 @@ linktitle: PageDate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageDate class. Represents a date format composed of day, month, and year components in C++.'
 type: docs
-weight: 13600
+weight: 13400
 url: /cpp/aspose.pdf/pagedate/
 ---
 ## PageDate class
