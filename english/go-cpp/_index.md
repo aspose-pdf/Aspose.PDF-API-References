@@ -81,6 +81,8 @@ type Document struct {
 | [EmbedFonts](./organize/embedfonts/) | Embed fonts a PDF-document. |
 | [UnembedFonts](./organize/unembedfonts/) | Unembed fonts a PDF-document. |
 | [OptimizeFileSize](./organize/optimizefilesize/) | Optimize size of PDF-document with image compression quality. |
+| [RemoveTextHeaders](./organize/removetextheaders/) | Remove text headers from PDF-document. |
+| [RemoveTextFooters](./organize/removetextfooters/) | Remove text footers from PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -95,6 +97,8 @@ type Document struct {
 | [PageRemoveTables](./organize/pageremovetables/) | Remove tables in page. |
 | [PageRemoveWatermarks](./organize/pageremovewatermarks/) | Remove watermarks in page. |
 | [PageAddWatermark](./organize/pageaddwatermark/) | Add watermark on page. |
+| [PageRemoveTextHeaders](./organize/pageremovetextheaders/) | Remove text headers in page. |
+| [PageRemoveTextFooters](./organize/pageremovetextfooters/) | Remove text footers in page. |
 
 
 ## Core PDF functions

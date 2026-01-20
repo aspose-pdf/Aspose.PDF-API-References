@@ -34,6 +34,8 @@ url: /go-cpp/organize/
 | [EmbedFonts](./embedfonts/) | Embed fonts a PDF-document. |
 | [UnembedFonts](./unembedfonts/) | Unembed fonts a PDF-document. |
 | [OptimizeFileSize](./optimizefilesize/) | Optimize size of PDF-document with image compression quality. |
+| [RemoveTextHeaders](./removetextheaders/) | Remove text headers from PDF-document. |
+| [RemoveTextFooters](./removetextfooters/) | Remove text footers from PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -48,6 +50,8 @@ url: /go-cpp/organize/
 | [PageRemoveTables](./pageremovetables/) | Remove tables in page. |
 | [PageRemoveWatermarks](./pageremovewatermarks/) | Remove watermarks in page. |
 | [PageAddWatermark](./pageaddwatermark/) | Add watermark on page. |
+| [PageRemoveTextHeaders](./pageremovetextheaders/) | Remove text headers in page. |
+| [PageRemoveTextFooters](./pageremovetextfooters/) | Remove text footers in page. |
 
 
 ## Detailed Description
