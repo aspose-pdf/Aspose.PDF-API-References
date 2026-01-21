@@ -34,6 +34,8 @@ url: /rust-cpp/organize/
 | [embed_fonts](./embed_fonts/) | Embed fonts a PDF-document. |
 | [unembed_fonts](./unembed_fonts/) | Unembed fonts a PDF-document. |
 | [optimize_file_size](./optimize_file_size/) | Optimize size of PDF-document with image compression quality. |
+| [remove_text_headers](./remove_text_headers/) | Remove text headers from PDF-document. |
+| [remove_text_footers](./remove_text_footers/) | Remove text footers from PDF-document. |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
@@ -48,6 +50,8 @@ url: /rust-cpp/organize/
 | [page_remove_tables](./page_remove_tables/) | Remove tables in page. |
 | [page_remove_watermarks](./page_remove_watermarks/) | Remove watermarks in page. |
 | [page_add_watermark](./page_add_watermark/) | Add watermark on page. |
+| [page_remove_text_headers](./page_remove_text_headers/) | Remove text headers in page. |
+| [page_remove_text_footers](./page_remove_text_footers/) | Remove text footers in page. |
 
 
 ## Detailed Description
