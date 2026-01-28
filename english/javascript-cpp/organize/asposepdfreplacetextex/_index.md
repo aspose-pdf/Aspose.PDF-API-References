@@ -12,8 +12,7 @@ _Replace text in a PDF-file with alignment control._
 function AsposePdfReplaceTextEx(
     fileBlob,
     fileName,
-    findText,
-    replaceText,
+    findReplaceSpec,
     options,
     fileNameResult
 )
@@ -23,10 +22,21 @@ function AsposePdfReplaceTextEx(
 
 * **fileBlob** Blob object
 * **fileName** file name
-* **findText** text fragment to search
-* **replaceText** text fragment to replace
+* **findReplaceSpec** Array, replacement specification:
+  * Array of objects describing replacements:
+    ```js
+    [
+      { findText: "text1", replaceText: "value1" },
+      { findText: "text2", replaceText: "value2" }
+    ]
+    ```
+  * Each object must contain `findText` and `replaceText` string properties
 * **options** object, settings for text replacement:
   * `alignment` (string), text alignment (e.g., "left", "right", "auto")
+    * When `"auto"` is used, text direction is detected automatically.
+      Direction can also be explicitly forced by prefixing `replaceText`
+      with special Unicode characters:
+      `\u200F` (RTL) or `\u200E` (LTR), preferably as the first character
   * `numPages` (string|number|Array), target pages to process:
     * number, page number as 2
     * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
@@ -56,11 +66,23 @@ JSON object
   const ffileReplaceTextEx = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      const findText = 'Aspose';
-      const replaceText = 'ASPOSE';
+      const findReplaceSpec = [
+            {
+            findText: 'Aspose',
+            replaceText: 'ASPOSE'
+            },
+            {
+            findText: 'Node',
+            replaceText: 'NODE'
+            },
+            {
+            findText: 'ECMAScript',
+            replaceText: '\u200FScript'
+            }
+      ];
       const optionsText = {numPages: 1, alignment: "auto"};
       /*Replace text in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf" - Ask Web Worker*/
-      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfReplaceTextEx', "params": [event.target.result, e.target.files[0].name, findText, replaceText, optionsText, "ResultReplaceTextEx.pdf"] }, [event.target.result]);
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfReplaceTextEx', "params": [event.target.result, e.target.files[0].name, findReplaceSpec, optionsText, "ResultReplaceTextEx.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
@@ -83,7 +105,7 @@ JSON object
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
       /*Replace text in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf"*/
-      const json = AsposePdfReplaceTextEx(event.target.result, e.target.files[0].name, "Aspose", "ASPOSE", {alignment: "left"}, "ResultReplaceTextEx.pdf");
+      const json = AsposePdfReplaceTextEx(event.target.result, e.target.files[0].name, [{findText: 'Aspose',replaceText: 'ASPOSE'}], {alignment: "left"}, "ResultReplaceTextEx.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
       else document.getElementById('output').textContent = json.errorText;
       /*Make a link to download the result file*/

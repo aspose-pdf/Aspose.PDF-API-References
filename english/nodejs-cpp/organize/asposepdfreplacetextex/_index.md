@@ -11,8 +11,7 @@ _Replace text in a PDF-file with alignment control._
 ```js
 function AsposePdfReplaceTextEx(
     fileName,
-    findText,
-    replaceText,
+    findReplaceSpec,
     options,
     fileNameResult
 )
@@ -21,10 +20,21 @@ function AsposePdfReplaceTextEx(
 **Parameters**: 
 
 * **fileName** file name 
-* **findText** text fragment to search
-* **replaceText** text fragment to replace
+* **findReplaceSpec** Array, replacement specification:
+  * Array of objects describing replacements:
+    ```js
+    [
+      { findText: "text1", replaceText: "value1" },
+      { findText: "text2", replaceText: "value2" }
+    ]
+    ```
+  * Each object must contain `findText` and `replaceText` string properties
 * **options** object, settings for text replacement:
   * `alignment` (string), text alignment (e.g., "left", "right", "auto")
+    * When `"auto"` is used, text direction is detected automatically.
+      Direction can also be explicitly forced by prefixing `replaceText`
+      with special Unicode characters:
+      `\u200F` (RTL) or `\u200E` (LTR), preferably as the first character
   * `numPages` (string|number|Array), target pages to process:
     * number, page number as 2
     * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
@@ -47,11 +57,23 @@ JSON object
 const AsposePdf = require('asposepdfnodejs');
 const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
-    const findText = 'Aspose';
-    const replaceText = 'ASPOSE';
+    const findReplaceSpec = [
+            {
+            findText: 'Aspose',
+            replaceText: 'ASPOSE'
+            },
+            {
+            findText: 'Node',
+            replaceText: 'NODE'
+            },
+            {
+            findText: 'ECMAScript',
+            replaceText: '\u200FScript'
+            }
+    ];
     const optionsText = {numPages: 1, alignment: "auto"};
     /*Replace text in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
-    const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findText, replaceText, optionsText, "ResultPdfReplaceTextEx.pdf");
+    const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findReplaceSpec, optionsText, "ResultPdfReplaceTextEx.pdf");
     console.log("AsposePdfReplaceTextEx => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);
 });
 ```
@@ -62,10 +84,22 @@ AsposePdf().then(AsposePdfModule => {
 import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const pdf_file = 'Aspose.pdf';
-const findText = 'Aspose';
-const replaceText = 'ASPOSE';
+const findReplaceSpec = [
+            {
+            findText: 'Aspose',
+            replaceText: 'ASPOSE'
+            },
+            {
+            findText: 'Node',
+            replaceText: 'NODE'
+            },
+            {
+            findText: 'ECMAScript',
+            replaceText: '\u200FScript'
+            }
+];
 const optionsText = {numPages: 1, alignment: "auto"};
 /*Replace text in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
-const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findText, replaceText, optionsText, "ResultPdfReplaceTextEx.pdf");
+const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findReplaceSpec, optionsText, "ResultPdfReplaceTextEx.pdf");
 console.log("AsposePdfReplaceTextEx => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);
 ```
