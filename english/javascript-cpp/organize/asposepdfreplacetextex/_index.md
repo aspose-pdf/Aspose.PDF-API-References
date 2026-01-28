@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfReplaceTextEx"
 second_title: Aspose.PDF for JavaScript via C++
-description: "Replace text in a PDF-file with alignment control."
+description: "Replace multiple text fragments in a PDF-file with alignment control."
 type: docs
 url: /javascript-cpp/organize/asposepdfreplacetextex/
 ---
 
-_Replace text in a PDF-file with alignment control._
+_Replace multiple text fragments in a PDF-file with alignment control._
 
 ```js
 function AsposePdfReplaceTextEx(
@@ -81,7 +81,7 @@ JSON object
             }
       ];
       const optionsText = {numPages: 1, alignment: "auto"};
-      /*Replace text in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf" - Ask Web Worker*/
+      /*Replace multiple text fragments in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfReplaceTextEx', "params": [event.target.result, e.target.files[0].name, findReplaceSpec, optionsText, "ResultReplaceTextEx.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
@@ -104,7 +104,7 @@ JSON object
   var ffileReplaceTextEx = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Replace text in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf"*/
+      /*RReplace multiple text fragments in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf"*/
       const json = AsposePdfReplaceTextEx(event.target.result, e.target.files[0].name, [{findText: 'Aspose',replaceText: 'ASPOSE'}], {alignment: "left"}, "ResultReplaceTextEx.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
       else document.getElementById('output').textContent = json.errorText;

@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfReplaceTextEx"
 second_title: Aspose.PDF for Node.js via C++
-description: "Replace text in a PDF-file with alignment control."
+description: "Replace multiple text fragments in a PDF-file with alignment control."
 type: docs
 url: /nodejs-cpp/organize/asposepdfreplacetextex/
 ---
 
-_Replace text in a PDF-file with alignment control._
+_Replace multiple text fragments in a PDF-file with alignment control._
 
 ```js
 function AsposePdfReplaceTextEx(
@@ -72,7 +72,7 @@ AsposePdf().then(AsposePdfModule => {
             }
     ];
     const optionsText = {numPages: 1, alignment: "auto"};
-    /*Replace text in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
+    /*Replace multiple text fragments in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
     const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findReplaceSpec, optionsText, "ResultPdfReplaceTextEx.pdf");
     console.log("AsposePdfReplaceTextEx => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);
 });
@@ -99,7 +99,7 @@ const findReplaceSpec = [
             }
 ];
 const optionsText = {numPages: 1, alignment: "auto"};
-/*Replace text in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
+/*Replace multiple text fragments in a PDF-file with alignment control and save the "ResultPdfReplaceTextEx.pdf"*/
 const json = AsposePdfModule.AsposePdfReplaceTextEx(pdf_file, findReplaceSpec, optionsText, "ResultPdfReplaceTextEx.pdf");
 console.log("AsposePdfReplaceTextEx => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);
 ```

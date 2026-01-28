@@ -100,7 +100,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfCropPages](./organize/asposepdfcroppages/) | Crop PDF-pages. |
 | [AsposePdfDeleteTextHeaders](./organize/asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
 | [AsposePdfDeleteTextFooters](./organize/asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
-| [AsposePdfReplaceTextEx](./organize/asposepdfreplacetextex/) | Replace text in a PDF-file with alignment control. |
+| [AsposePdfReplaceTextEx](./organize/asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
 
 
 ## Metadata PDF functions
