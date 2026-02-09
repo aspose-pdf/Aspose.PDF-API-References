@@ -9,7 +9,7 @@ url: /rust-cpp/organize/page_crop/
 _Crops a page._
 
 ```rust
-    pub fn page_crop(&self, num: i32, margin: f64) -> Result<(), PdfError>
+pub fn page_crop(&self, num: i32, margin: f64) -> Result<(), PdfError>
 ```
 
 **Arguments**
