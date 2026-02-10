@@ -13,7 +13,7 @@ pub fn crop(&self, margin: f64) -> Result<(), PdfError>
 ```
 
 **Arguments**
-  * **margin** - page margins
+  * **margin** - pages margins
 
 **Returns**
   * **Ok(())** - if the operation succeeds
