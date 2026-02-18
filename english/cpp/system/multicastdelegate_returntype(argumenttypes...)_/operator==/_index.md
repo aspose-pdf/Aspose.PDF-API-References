@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::operator== method. Determines whether two instances of MulticastDelegate - the current object and the specified object - are equal in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/operator==/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator==(const MulticastDelegate\&) const method

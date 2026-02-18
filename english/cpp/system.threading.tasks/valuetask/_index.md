@@ -4,7 +4,7 @@ linktitle: ValueTask
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::ValueTask class. Provides an awaitable result of an asynchronous operation in C++.'
 type: docs
-weight: 500
+weight: 800
 url: /cpp/system.threading.tasks/valuetask/
 ---
 ## ValueTask class

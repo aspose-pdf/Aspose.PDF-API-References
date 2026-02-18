@@ -4,7 +4,7 @@ linktitle: operator=
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::operator= method. Assigns the collection of delegates represented by the specified object to the current object. As a result both objects point to the same collection of delegates in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/operator=/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::operator=(const MulticastDelegate\&) method

@@ -4,7 +4,7 @@ linktitle: RTaskPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::RTaskPtr typedef. An alias for a smart pointer that points to an instance of System::Threading::Tasks::ResultTask class in C++.'
 type: docs
-weight: 12600
+weight: 12700
 url: /cpp/system/rtaskptr/
 ---
 ## RTaskPtr typedef

@@ -4,7 +4,7 @@ linktitle: ResultValueTask
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::ResultValueTask class. Represents a hybrid task-like type that can wrap either a direct result value or a ResultTask<T> in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.threading.tasks/resultvaluetask/
 ---
 ## ResultValueTask class
@@ -33,7 +33,7 @@ template<typename T>class ResultValueTask : public System::IEquatable<ResultValu
 | [get_IsCompleted](./get_iscompleted/)() const | Gets a value indicating whether the task has completed. |
 | [get_IsCompletedSuccessfully](./get_iscompletedsuccessfully/)() const | Gets a value indicating whether the task completed successfully. |
 | [get_IsFaulted](./get_isfaulted/)() const | Gets a value indicating whether the task completed due to an unhandled exception. |
-| [get_Result](./get_result/)() const | Gets the result of the completed task. |
+| [get_Result](./get_result/)() | Gets the result of the completed task. |
 | [GetAwaiter](./getawaiter/)() const | Gets an awaiter for this task to support await expressions. |
 | [operator!=](./operator!=/)(const ResultValueTask\&) const | Inequality operator for [ResultValueTask](./). |
 | [operator==](./operator==/)(const ResultValueTask\&) const | Equality operator for [ResultValueTask](./). |

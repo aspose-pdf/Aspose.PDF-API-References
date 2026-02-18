@@ -24,4 +24,4 @@ url: /cpp/system.runtime.compilerservices/
 | [RuntimeHelpers](./runtimehelpers/) | Helper class to get some object information in runtime. |
 | [TaskAwaiter](./taskawaiter/) |  |
 | [ValueTaskAwaiter](./valuetaskawaiter/) |  |
-| [YieldAwaitable](./yieldawaitable/) |  |
+| [YieldAwaitable](./yieldawaitable/) | An awaitable type that is returned from TaskUtils::Yield(). |

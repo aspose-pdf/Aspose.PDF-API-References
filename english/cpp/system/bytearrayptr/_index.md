@@ -4,7 +4,7 @@ linktitle: ByteArrayPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ByteArrayPtr typedef. An alias for a smart pointer object that points to an array of unsigned 8-bit integers in C++.'
 type: docs
-weight: 9800
+weight: 9900
 url: /cpp/system/bytearrayptr/
 ---
 ## ByteArrayPtr typedef

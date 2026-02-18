@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use operator== method of  class in C++.'
 type: docs
-weight: 32400
+weight: 32500
 url: /cpp/system/operator==/
 ---
 ## System::operator==(ArraySegment\<T\>, ArraySegment\<T\>) method

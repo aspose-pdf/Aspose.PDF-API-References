@@ -30,7 +30,7 @@ class TextFragmentCollection : public System::Collections::Generic::ICollection<
 | [get_SyncRoot](./get_syncroot/)() const | Gets an object that can be used to synchronize access to the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator for the entire collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets the text fragment element at the specified index. |
-| [Remove](./remove/)(const System::SharedPtr\<TextFragment\>\&) override | Deletes specified item from collection. |
+| [Remove](./remove/)(const System::SharedPtr\<TextFragment\>\&) override | Deletes specified item from the collection and also removes it from the document. |
 ## See Also
 
 * Class [ICollection](../../system.collections.generic/icollection/)

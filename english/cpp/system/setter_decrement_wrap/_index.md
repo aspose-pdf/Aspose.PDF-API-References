@@ -4,7 +4,7 @@ linktitle: setter_decrement_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::setter_decrement_wrap method. Translator translates C#''s pre-decrement expressions targeting instance''s property that has setter and getter defined, into invocation of this function (overload for const getter) in C++.'
 type: docs
-weight: 37900
+weight: 38000
 url: /cpp/system/setter_decrement_wrap/
 ---
 ## System::setter_decrement_wrap(Host *const, T(HostConstGet::*)() const, void(HostSet::*)(T)) method

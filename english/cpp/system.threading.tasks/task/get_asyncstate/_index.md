@@ -4,7 +4,7 @@ linktitle: get_AsyncState
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_AsyncState method. Gets the user-defined state object associated with the task in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.threading.tasks/task/get_asyncstate/
 ---
 ## Task::get_AsyncState method

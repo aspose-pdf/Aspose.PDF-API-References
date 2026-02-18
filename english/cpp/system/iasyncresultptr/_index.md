@@ -4,7 +4,7 @@ linktitle: IAsyncResultPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IAsyncResultPtr typedef. Shared pointer to IAsyncResult in C++.'
 type: docs
-weight: 12100
+weight: 12200
 url: /cpp/system/iasyncresultptr/
 ---
 ## IAsyncResultPtr typedef

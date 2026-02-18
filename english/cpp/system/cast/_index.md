@@ -4,7 +4,7 @@ linktitle: Cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Cast method. Performs cast on SmartPtr objects in C++.'
 type: docs
-weight: 15300
+weight: 15400
 url: /cpp/system/cast/
 ---
 ## System::Cast method

@@ -38,6 +38,7 @@ template<class ReturnType,class...>class MulticastDelegate< ReturnType(ArgumentT
 | [disconnect_all_slots](./disconnect_all_slots/)() | Removes all delegates from the delegate collection. |
 | [empty](./empty/)() const | Determines whether the delegate collection is empty. |
 | [EndInvoke](./endinvoke/)(const SharedPtr\<IAsyncResult\>\&) | NOT IMPLEMENTED. |
+| [Equals](./equals/)(const MulticastDelegate\&) |  |
 | [GetHashCode](./gethashcode/)() const |  |
 | [GetType](./gettype/)() const |  |
 | [invoke](./invoke/)(ArgumentTypes...) const | Invokes all delegates currently present in the delegates collection. Delegates are invoked in the same order as they were added to the collection. The method blocks while the delegates are executed. |

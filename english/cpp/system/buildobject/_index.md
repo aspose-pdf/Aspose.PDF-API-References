@@ -4,7 +4,7 @@ linktitle: BuildObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::BuildObject method. Build an object with shared ownership in C++.'
 type: docs
-weight: 15200
+weight: 15300
 url: /cpp/system/buildobject/
 ---
 ## System::BuildObject method

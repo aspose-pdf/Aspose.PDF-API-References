@@ -4,7 +4,7 @@ linktitle: GetAwaiter
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::ResultTask::GetAwaiter method. Gets an awaiter for this result task for use with Await in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.threading.tasks/resulttask/getawaiter/
 ---
 ## ResultTask::GetAwaiter method

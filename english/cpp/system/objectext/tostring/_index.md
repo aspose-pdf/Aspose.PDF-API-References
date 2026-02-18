@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::ToString method. Substitution for C# ToString method to work on any C++ type in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system/objectext/tostring/
 ---
 ## ObjectExt::ToString(const char_t *) method

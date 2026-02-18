@@ -4,7 +4,7 @@ linktitle: MakeArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeArray method. A factory function that constructs a new Array object passing the specified arguments to its constructor in C++.'
 type: docs
-weight: 24000
+weight: 24100
 url: /cpp/system/makearray/
 ---
 ## System::MakeArray(Args\&&...) method

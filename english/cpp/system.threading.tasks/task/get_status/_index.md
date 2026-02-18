@@ -4,7 +4,7 @@ linktitle: get_Status
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_Status method. Gets the current status of the task in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/system.threading.tasks/task/get_status/
 ---
 ## Task::get_Status method

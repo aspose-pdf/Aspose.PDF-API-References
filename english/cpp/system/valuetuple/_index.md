@@ -21,6 +21,7 @@ template<typename ...>class ValueTuple : public System::Details::BoxableObjectBa
 | Method | Description |
 | --- | --- |
 | [Equals](./equals/)(SharedPtr\<Object\>) | Determines if the current and the specified objects are identical. |
+| [Equals](./equals/)(const ValueTuple\&) |  |
 | [GetHashCode](./gethashcode/)() const |  |
 | [GetType](./gettype/)() const |  |
 | [Item](./item/)() | Gets the reference to value of the [ValueTuple](./) object's component. |

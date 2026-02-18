@@ -4,7 +4,7 @@ linktitle: MakeSharedPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeSharedPtr method. Converts raw pointer to smart pointer. Overload for const pointers. Useful e. g. when using ''this'' variable in C# methods translated as const in C++.'
 type: docs
-weight: 24800
+weight: 24900
 url: /cpp/system/makesharedptr/
 ---
 ## System::MakeSharedPtr(const X *) method

@@ -4,7 +4,7 @@ linktitle: set_Scheduler
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::set_Scheduler method. Sets the scheduler associated with this task in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.threading.tasks/task/set_scheduler/
 ---
 ## Task::set_Scheduler method
@@ -13,11 +13,12 @@ url: /cpp/system.threading.tasks/task/set_scheduler/
 Sets the scheduler associated with this task.
 
 ```cpp
-void System::Threading::Tasks::Task::set_Scheduler(TaskScheduler *scheduler)
+void System::Threading::Tasks::Task::set_Scheduler(const SharedPtr<TaskScheduler> &scheduler)
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TaskScheduler](../../taskscheduler/)
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)

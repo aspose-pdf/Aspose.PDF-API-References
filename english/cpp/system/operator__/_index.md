@@ -4,7 +4,7 @@ linktitle: operator<<
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator<< method. Outputs a string to the output stream using UTF-8 encoding in C++.'
 type: docs
-weight: 29100
+weight: 29200
 url: /cpp/system/operator__/
 ---
 ## System::operator<<(std::ostream\&, const String\&) method
@@ -685,7 +685,7 @@ linktitle: operator>>
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator>> method. Gets a string from the input streamusing UTF-8 encoding in C++.'
 type: docs
-weight: 35100
+weight: 35200
 url: /cpp/system/operator__/
 ---
 ## System::operator>>(std::istream\&, String\&) method

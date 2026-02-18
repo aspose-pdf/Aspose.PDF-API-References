@@ -4,7 +4,7 @@ linktitle: Type
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Type method. Returns a reference to the TypeInfo object representing the MulticastDelegate class type information in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/type/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::Type method

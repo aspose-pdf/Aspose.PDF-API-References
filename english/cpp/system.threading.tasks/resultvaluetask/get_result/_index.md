@@ -13,7 +13,7 @@ url: /cpp/system.threading.tasks/resultvaluetask/get_result/
 Gets the result of the completed task.
 
 ```cpp
-T System::Threading::Tasks::ResultValueTask<T>::get_Result() const
+T System::Threading::Tasks::ResultValueTask<T>::get_Result()
 ```
 
 

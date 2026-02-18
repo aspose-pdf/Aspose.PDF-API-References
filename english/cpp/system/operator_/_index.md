@@ -4,7 +4,7 @@ linktitle: operator*
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator* method. Returns a new instance of Decimal class that represents a value that is a result of multiplication of the specified value and the value represented by the specified Decimal object in C++.'
 type: docs
-weight: 27400
+weight: 27500
 url: /cpp/system/operator_/
 ---
 ## System::operator* method
@@ -37,7 +37,7 @@ linktitle: operator<
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator< method. Determines if the specified value is less than the value represented by the specified Nullable object by applying operator<() to these values in C++.'
 type: docs
-weight: 28600
+weight: 28700
 url: /cpp/system/operator_/
 ---
 ## System::operator<(const T1\&, const Nullable\<T2\>\&) method
@@ -131,7 +131,7 @@ linktitle: operator>
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator> method. Determines if the specified value is greater than the value represented by the specified Nullable object by applying operator>() to these values in C++.'
 type: docs
-weight: 34100
+weight: 34200
 url: /cpp/system/operator_/
 ---
 ## System::operator>(const T1\&, const Nullable\<T2\>\&) method

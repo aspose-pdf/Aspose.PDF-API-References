@@ -4,7 +4,7 @@ linktitle: get_CompletedTask
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_CompletedTask method. Gets a completed task (singleton) in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/system.threading.tasks/task/get_completedtask/
 ---
 ## Task::get_CompletedTask method

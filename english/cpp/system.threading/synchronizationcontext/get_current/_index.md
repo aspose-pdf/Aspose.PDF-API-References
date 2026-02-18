@@ -4,7 +4,7 @@ linktitle: get_Current
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::SynchronizationContext::get_Current method. Gets the synchronization context for the current thread in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/system.threading/synchronizationcontext/get_current/
 ---
 ## SynchronizationContext::get_Current method
