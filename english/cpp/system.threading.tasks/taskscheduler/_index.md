@@ -4,7 +4,7 @@ linktitle: TaskScheduler
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::TaskScheduler class. Represents an object that handles the low-level work of queuing tasks onto threads in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.threading.tasks/taskscheduler/
 ---
 ## TaskScheduler class

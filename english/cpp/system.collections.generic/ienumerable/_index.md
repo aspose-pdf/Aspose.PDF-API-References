@@ -48,7 +48,9 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_FirstOrDefault](./linq_firstordefault/)() | Returns the first element of a sequence, or a default value if the sequence is empty. |
 | [LINQ_FirstOrDefault](./linq_firstordefault/)(std::function\<bool(T)>) | Returns the first element of the sequence that satisfies a condition or a default value if no such element is found. |
 | [LINQ_GroupBy](./linq_groupby/)(System::Func\<T, Key\>) | Groups the elements of a sequence. |
+| [LINQ_GroupBy](./linq_groupby/)(System::Func\<T, Key\>, System::Func\<T, Element\>) | Groups the elements of a sequence. |
 | [LINQ_GroupBy](./linq_groupby/)(System::Func\<Source, Key\>) |  |
+| [LINQ_GroupBy](./linq_groupby/)(System::Func\<Source, Key\>, System::Func\<Source, Element\>) |  |
 | [LINQ_Last](./linq_last/)() | Returns the last element of a sequence. |
 | [LINQ_LastOrDefault](./linq_lastordefault/)() | Returns the last element of a sequence, or a default value if the sequence is empty. |
 | [LINQ_Max](./linq_max/)(const Func\<T, ResultType\>\&) | Invokes a transform function on each element of a generic sequence and returns the maximum resulting value. |

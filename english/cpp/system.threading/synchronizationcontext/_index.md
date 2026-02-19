@@ -21,6 +21,8 @@ class SynchronizationContext : public System::Object
 | Method | Description |
 | --- | --- |
 | static [get_Current](./get_current/)() | Gets the synchronization context for the current thread. |
+| virtual [Post](./post/)(SendOrPostCallback, SharedPtr\<Object\>) | Runs callback asynchronously. |
+| virtual [Send](./send/)(SendOrPostCallback, SharedPtr\<Object\>) | Runs callback synchronously. |
 | static [SetSynchronizationContext](./setsynchronizationcontext/)(const SharedPtr\<SynchronizationContext\>\&) | Sets the synchronization context for the current thread. |
 | [SynchronizationContext](./synchronizationcontext/)() | RTTI information. |
 ## Remarks

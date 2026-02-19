@@ -4,7 +4,7 @@ linktitle: RunSynchronously
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::RunSynchronously method. Runs the task synchronously on the current thread in C++.'
 type: docs
-weight: 1800
+weight: 2000
 url: /cpp/system.threading.tasks/task/runsynchronously/
 ---
 ## Task::RunSynchronously() method

@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::Dispose method. Releases resources associated with the task in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.threading.tasks/task/dispose/
 ---
 ## Task::Dispose method

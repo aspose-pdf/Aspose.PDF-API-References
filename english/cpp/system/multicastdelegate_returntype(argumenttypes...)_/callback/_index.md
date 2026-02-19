@@ -4,7 +4,7 @@ linktitle: Callback
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Callback typedef. The type of the delegates represented by the MulticastDelegate class in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/callback/
 ---
 ## Callback typedef

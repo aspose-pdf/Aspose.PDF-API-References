@@ -4,7 +4,7 @@ linktitle: StringComparerPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StringComparerPtr typedef. An alias for a shared pointer to an instance of StringComparer class in C++.'
 type: docs
-weight: 13100
+weight: 13200
 url: /cpp/system/stringcomparerptr/
 ---
 ## StringComparerPtr typedef

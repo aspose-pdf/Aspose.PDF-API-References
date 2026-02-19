@@ -13,11 +13,12 @@ url: /cpp/system.threading.tasks/task/activate/
 Activates the task for execution on a scheduler.
 
 ```cpp
-void System::Threading::Tasks::Task::Activate(TaskScheduler *=nullptr)
+void System::Threading::Tasks::Task::Activate(const SharedPtr<TaskScheduler> &scheduler=nullptr)
 ```
 
 ## See Also
 
+* Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TaskScheduler](../../taskscheduler/)
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)

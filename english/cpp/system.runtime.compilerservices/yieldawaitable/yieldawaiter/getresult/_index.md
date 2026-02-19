@@ -2,7 +2,7 @@
 title: System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::GetResult method
 linktitle: GetResult
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use GetResult method of System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter class in C++.'
+description: 'System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::GetResult method. Ends the await operation in C++.'
 type: docs
 weight: 200
 url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/getresult/
@@ -10,7 +10,7 @@ url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/getresult/
 ## YieldAwaiter::GetResult method
 
 
-
+Ends the await operation.
 
 ```cpp
 void System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::GetResult() const

@@ -4,7 +4,7 @@ linktitle: setter_shr_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_shr_wrap method of  class in C++.'
 type: docs
-weight: 41400
+weight: 41500
 url: /cpp/system/setter_shr_wrap/
 ---
 ## System::setter_shr_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

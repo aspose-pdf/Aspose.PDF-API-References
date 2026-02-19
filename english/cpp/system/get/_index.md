@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Get method. Function to get N-th element of tuple given. Overload for base object in C++.'
 type: docs
-weight: 20700
+weight: 20800
 url: /cpp/system/get/
 ---
 ## System::Get(const SharedPtr\<Object\>\&) method

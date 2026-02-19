@@ -116,6 +116,7 @@ url: /cpp/system/
 | Typedef | Description |
 | --- | --- |
 | [Action](./action/) | Delegate type that references methods that have no return value. |
+| [AggregateException](./aggregateexception/) |  |
 | [ArrayPtr](./arrayptr/) | Alias for 'pointer to array' type. |
 | [AsyncCallback](./asynccallback/) | A delegate type that represents a method to be called when asynchronous operation completes. |
 | [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the [BadImageFormatException](./badimageformatexception/) class instances into [System::SmartPtr](./smartptr/). |

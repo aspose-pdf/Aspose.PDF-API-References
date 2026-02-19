@@ -4,7 +4,7 @@ linktitle: FileInfoPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::FileInfoPtr typedef. An alias for a smart pointer that points to an instance of System::IO::FileInfo class in C++.'
 type: docs
-weight: 11700
+weight: 11800
 url: /cpp/system/fileinfoptr/
 ---
 ## FileInfoPtr typedef

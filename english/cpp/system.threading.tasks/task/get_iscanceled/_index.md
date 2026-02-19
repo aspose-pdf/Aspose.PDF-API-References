@@ -4,7 +4,7 @@ linktitle: get_IsCanceled
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_IsCanceled method. Gets whether the task completed due to cancellation in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.threading.tasks/task/get_iscanceled/
 ---
 ## Task::get_IsCanceled method

@@ -4,7 +4,7 @@ linktitle: setter_mod_wrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use setter_mod_wrap method of  class in C++.'
 type: docs
-weight: 39200
+weight: 39300
 url: /cpp/system/setter_mod_wrap/
 ---
 ## System::setter_mod_wrap(HostT *const, PropT(HostGetT::*)(), void(HostSetT::*)(const PropT\&), PropValT) method

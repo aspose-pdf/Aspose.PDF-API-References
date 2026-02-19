@@ -2,7 +2,7 @@
 title: System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::continueOnCapturedContext field
 linktitle: continueOnCapturedContext
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use continueOnCapturedContext field of System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter class in C++.'
+description: 'System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::continueOnCapturedContext field. Specifies whether to continue on the captured synchronization context in C++.'
 type: docs
 weight: 400
 url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/continueoncapturedcontext/
@@ -10,7 +10,7 @@ url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/continueon
 ## continueOnCapturedContext field
 
 
-
+Specifies whether to continue on the captured synchronization context.
 
 ```cpp
 static bool System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::continueOnCapturedContext

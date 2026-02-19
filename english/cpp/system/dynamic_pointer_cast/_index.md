@@ -4,7 +4,7 @@ linktitle: dynamic_pointer_cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::dynamic_pointer_cast method. Casts smart pointers using dynamic_cast in C++.'
 type: docs
-weight: 16800
+weight: 16900
 url: /cpp/system/dynamic_pointer_cast/
 ---
 ## System::dynamic_pointer_cast method

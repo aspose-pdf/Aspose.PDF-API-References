@@ -29,7 +29,7 @@ class MarkupAnnotation : public Aspose::Pdf::Annotations::Annotation,
 | [get_ReplyType](./get_replytype/)() | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
 | [get_RichText](./get_richtext/)() | Gets a rich text string to be displayed in the pop-up window when the annotation is opened. |
 | [get_Subject](./get_subject/)() | Gets text representing desciption of the object. |
-| [get_Title](./get_title/)() override | Gets a text label that shall be displayed in the title bar of the annotation's popup window when open and active. This entry shall identify the user who added the annotation. |
+| [get_Title](./get_title/)() override | Gets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This entry shall identify the user who added the annotation. |
 | [GetState](./getstate/)() | Gets the state of the annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [GetStateModel](./getstatemodel/)() | Gets the state model of the annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [MarkupAnnotation](./markupannotation/)(System::SharedPtr\<Document\>) | Constructor for markup annotation. |
@@ -40,7 +40,7 @@ class MarkupAnnotation : public Aspose::Pdf::Annotations::Annotation,
 | [set_ReplyType](./set_replytype/)(Aspose::Pdf::Annotations::ReplyType) | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
 | [set_RichText](./set_richtext/)(System::String) | Sets a rich text string to be displayed in the pop-up window when the annotation is opened. |
 | [set_Subject](./set_subject/)(System::String) | Gets text representing desciption of the object. |
-| [set_Title](./set_title/)(System::String) override | Sets a text label that shall be displayed in the title bar of the annotation's popup window when open and active. This entry shall identify the user who added the annotation. |
+| [set_Title](./set_title/)(System::String) override | Sets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This entry shall identify the user who added the annotation. |
 | [SetMarkedState](./setmarkedstate/)(bool) | Sets Marked and Unmarked state for the annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [SetReviewState](./setreviewstate/)(AnnotationState, System::String) | Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |
 | [SetReviewState](./setreviewstate/)(AnnotationState) | Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation. [Note](../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys. |

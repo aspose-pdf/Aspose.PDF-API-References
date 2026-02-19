@@ -4,7 +4,7 @@ linktitle: EncodingInfoPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EncodingInfoPtr typedef. An alias for a smart pointer that points to an instance of System::Text::EncodingInfo class in C++.'
 type: docs
-weight: 11000
+weight: 11100
 url: /cpp/system/encodinginfoptr/
 ---
 ## EncodingInfoPtr typedef

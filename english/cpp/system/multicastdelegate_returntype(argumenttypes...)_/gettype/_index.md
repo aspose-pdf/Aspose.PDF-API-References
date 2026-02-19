@@ -4,7 +4,7 @@ linktitle: GetType
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use GetType method of System::MulticastDelegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/gettype/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::GetType method

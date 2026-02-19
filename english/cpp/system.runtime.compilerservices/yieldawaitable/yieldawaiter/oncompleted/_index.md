@@ -2,7 +2,7 @@
 title: System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::OnCompleted method
 linktitle: OnCompleted
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use OnCompleted method of System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter class in C++.'
+description: 'System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::OnCompleted method. Schedules the continuation action for when the yield operation completes in C++.'
 type: docs
 weight: 300
 url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/oncompleted/
@@ -10,11 +10,16 @@ url: /cpp/system.runtime.compilerservices/yieldawaitable/yieldawaiter/oncomplete
 ## YieldAwaiter::OnCompleted method
 
 
-
+Schedules the continuation action for when the yield operation completes.
 
 ```cpp
 void System::Runtime::CompilerServices::YieldAwaitable::YieldAwaiter::OnCompleted(const Action<> &continuation)
 ```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| continuation | const Action<>\& | The action to invoke when the yield completes. |
 
 ## See Also
 

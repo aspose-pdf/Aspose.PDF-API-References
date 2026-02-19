@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToString method of System::MulticastDelegate< ReturnType(ArgumentTypes...)> class in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/tostring/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)>::ToString method

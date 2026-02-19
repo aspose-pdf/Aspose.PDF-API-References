@@ -4,7 +4,7 @@ linktitle: ConfigureAwait
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::ConfigureAwait method. Configures how awaits on this task should behave regarding context capture in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.threading.tasks/task/configureawait/
 ---
 ## Task::ConfigureAwait method

@@ -36,6 +36,7 @@ url: /rust-cpp/organize/
 | [optimize_file_size](./optimize_file_size/) | Optimize size of PDF-document with image compression quality. |
 | [remove_text_headers](./remove_text_headers/) | Remove text headers from PDF-document. |
 | [remove_text_footers](./remove_text_footers/) | Remove text footers from PDF-document. |
+| [crop](./crop/) | Crop pages of a PDF-document. |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
@@ -52,6 +53,7 @@ url: /rust-cpp/organize/
 | [page_add_watermark](./page_add_watermark/) | Add watermark on page. |
 | [page_remove_text_headers](./page_remove_text_headers/) | Remove text headers in page. |
 | [page_remove_text_footers](./page_remove_text_footers/) | Remove text footers in page. |
+| [page_crop](./page_crop/) | Crop a page. |
 
 
 ## Detailed Description

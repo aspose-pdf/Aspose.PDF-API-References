@@ -4,7 +4,7 @@ linktitle: ExplicitCast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ExplicitCast method. Casts the source type to the result type using explicit cast. Used when the source and the result types are the same in C++.'
 type: docs
-weight: 18500
+weight: 18600
 url: /cpp/system/explicitcast/
 ---
 ## System::ExplicitCast(const Source\&) method

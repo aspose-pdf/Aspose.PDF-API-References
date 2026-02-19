@@ -4,7 +4,7 @@ linktitle: DoTryFinally
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DoTryFinally method. The sigle function that emulates behavior of C#''s try[-catch]-finally statement. During translation of C#''s try[-catch]-finally statement with translator''s option finally_statement_as_lambda set to true, the statement is translated into the invocation of this method in C++.'
 type: docs
-weight: 16500
+weight: 16600
 url: /cpp/system/dotryfinally/
 ---
 ## System::DoTryFinally(T\&&, F\&&) method

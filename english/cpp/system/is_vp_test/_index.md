@@ -4,7 +4,7 @@ linktitle: is_vp_test
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use is_vp_test method of  class in C++.'
 type: docs
-weight: 22300
+weight: 22400
 url: /cpp/system/is_vp_test/
 ---
 ## System::is_vp_test method

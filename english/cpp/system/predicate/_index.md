@@ -4,7 +4,7 @@ linktitle: Predicate
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Predicate typedef. Represents a pointer to a predicate - an invokable entity that accepts a single argument and returns a bool value in C++.'
 type: docs
-weight: 12500
+weight: 12600
 url: /cpp/system/predicate/
 ---
 ## Predicate typedef

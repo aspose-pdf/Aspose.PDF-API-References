@@ -4,7 +4,7 @@ linktitle: static_pointer_cast
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::static_pointer_cast method. Casts smart pointers using static_cast in C++.'
 type: docs
-weight: 42400
+weight: 42500
 url: /cpp/system/static_pointer_cast/
 ---
 ## System::static_pointer_cast method

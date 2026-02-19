@@ -4,7 +4,7 @@ linktitle: SafeInvoke
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::SafeInvoke method. Implementation of ''?.'' operator translation in C++.'
 type: docs
-weight: 36900
+weight: 37000
 url: /cpp/system/safeinvoke/
 ---
 ## System::SafeInvoke method
@@ -13,7 +13,7 @@ url: /cpp/system/safeinvoke/
 Implementation of '?.' operator translation.
 
 ```cpp
-template<typename T0,typename T1> static auto System::SafeInvoke(T0 expr, T1 func)
+template<typename T0,typename T1> static auto System::SafeInvoke(T0 &&expr, T1 &&func)
 ```
 
 
@@ -24,8 +24,8 @@ template<typename T0,typename T1> static auto System::SafeInvoke(T0 expr, T1 fun
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| expr | T0 | expression value. |
-| func | T1 | 'WhenTrue' expression bound to functor. |
+| expr | T0\&& | expression value. |
+| func | T1\&& | 'WhenTrue' expression bound to functor. |
 
 ### ReturnValue
 

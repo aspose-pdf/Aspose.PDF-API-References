@@ -4,7 +4,7 @@ linktitle: EncoderFallbackBufferPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EncoderFallbackBufferPtr typedef. An alias for a smart pointer that points to an instance of System::Text::EncoderFallbackBuffer class in C++.'
 type: docs
-weight: 10500
+weight: 10600
 url: /cpp/system/encoderfallbackbufferptr/
 ---
 ## EncoderFallbackBufferPtr typedef

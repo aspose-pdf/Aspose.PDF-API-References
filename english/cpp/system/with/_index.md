@@ -4,7 +4,7 @@ linktitle: With
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::With method. Clones reference record and applies initializer functor to it in C++.'
 type: docs
-weight: 44100
+weight: 44200
 url: /cpp/system/with/
 ---
 ## System::With(const SharedPtr\<T\>\&, const A\&) method

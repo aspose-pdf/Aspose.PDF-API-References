@@ -4,7 +4,7 @@ linktitle: AsyncCallback
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::AsyncCallback typedef. A delegate type that represents a method to be called when asynchronous operation completes in C++.'
 type: docs
-weight: 9600
+weight: 9700
 url: /cpp/system/asynccallback/
 ---
 ## AsyncCallback typedef

@@ -4,16 +4,16 @@ linktitle: Wait
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::Wait method. Waits for the task to complete in C++.'
 type: docs
-weight: 2300
+weight: 2500
 url: /cpp/system.threading.tasks/task/wait/
 ---
-## Task::Wait() const method
+## Task::Wait() method
 
 
 Waits for the task to complete.
 
 ```cpp
-void System::Threading::Tasks::Task::Wait() const
+void System::Threading::Tasks::Task::Wait()
 ```
 
 
@@ -22,13 +22,13 @@ void System::Threading::Tasks::Task::Wait() const
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Task::Wait(const CancellationToken\&) const method
+## Task::Wait(const CancellationToken\&) method
 
 
 Waits for the task to complete with cancellation support.
 
 ```cpp
-void System::Threading::Tasks::Task::Wait(const CancellationToken &cancellationToken) const
+void System::Threading::Tasks::Task::Wait(const CancellationToken &cancellationToken)
 ```
 
 

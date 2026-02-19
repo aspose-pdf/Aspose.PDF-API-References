@@ -36,6 +36,7 @@ url: /go-cpp/organize/
 | [OptimizeFileSize](./optimizefilesize/) | Optimize size of PDF-document with image compression quality. |
 | [RemoveTextHeaders](./removetextheaders/) | Remove text headers from PDF-document. |
 | [RemoveTextFooters](./removetextfooters/) | Remove text footers from PDF-document. |
+| [Crop](./crop/) | Crop pages of a PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -52,6 +53,7 @@ url: /go-cpp/organize/
 | [PageAddWatermark](./pageaddwatermark/) | Add watermark on page. |
 | [PageRemoveTextHeaders](./pageremovetextheaders/) | Remove text headers in page. |
 | [PageRemoveTextFooters](./pageremovetextfooters/) | Remove text footers in page. |
+| [PageCrop](./pagecrop/) | Crop page. |
 
 
 ## Detailed Description
