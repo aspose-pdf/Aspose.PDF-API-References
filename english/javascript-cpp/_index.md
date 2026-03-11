@@ -101,6 +101,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfDeleteTextHeaders](./organize/asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
 | [AsposePdfDeleteTextFooters](./organize/asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 | [AsposePdfReplaceTextEx](./organize/asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
+| [AsposePdfRecover](./organize/asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 
 
 ## Metadata PDF functions
