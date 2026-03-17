@@ -50,9 +50,9 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) override | Sets a vertical alignment of text fragment. |
 | [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only) |
 | [TextFragment](./textfragment/)() | Initializes new instance of the [TextFragment](./) object. |
-| [TextFragment](./textfragment/)(System::SharedPtr\<TabStops\>) | Initializes new instance of the [TextFragment](./) object with predefined [TabStops](../tabstops/) positions. |
-| [TextFragment](./textfragment/)(System::String) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside. Specifies text string inside the segment. |
-| [TextFragment](./textfragment/)(System::String, System::SharedPtr\<TabStops\>) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside and predefined [TabStops](../tabstops/) positions. |
+| [TextFragment](./textfragment/)(const System::SharedPtr\<TabStops\>\&) | Initializes new instance of the [TextFragment](./) object with predefined [TabStops](../tabstops/) positions. |
+| [TextFragment](./textfragment/)(const System::String\&) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside. Specifies text string inside the segment. |
+| [TextFragment](./textfragment/)(const System::String\&, const System::SharedPtr\<TabStops\>\&) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside and predefined [TabStops](../tabstops/) positions. |
 ## Remarks
 
 

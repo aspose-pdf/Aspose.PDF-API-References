@@ -4,7 +4,7 @@ linktitle: Delete
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Delete method. Deletes all pages from collection in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf/pagecollection/delete/
 ---
 ## PageCollection::Delete() method

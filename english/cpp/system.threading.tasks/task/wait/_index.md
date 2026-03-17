@@ -4,7 +4,7 @@ linktitle: Wait
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::Wait method. Waits for the task to complete in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.threading.tasks/task/wait/
 ---
 ## Task::Wait() method

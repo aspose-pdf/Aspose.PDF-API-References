@@ -4,7 +4,7 @@ linktitle: get_Exception
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_Exception method. Gets the ID for task in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.threading.tasks/task/get_exception/
 ---
 ## Task::get_Exception method

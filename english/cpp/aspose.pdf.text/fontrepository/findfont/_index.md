@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.text/fontrepository/findfont/
 ---
-## FontRepository::FindFont(System::String, FontStyles) method
+## FontRepository::FindFont(const System::String\&, FontStyles) method
 
 
 Searches and returns font with specified font name and font style.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(System::String fontFamilyName, FontStyles stl)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(const System::String &fontFamilyName, FontStyles stl)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | System::String | [Font](../../font/) family name. |
+| fontFamilyName | const System::String\& | [Font](../../font/) family name. |
 | stl | FontStyles | [Font](../../font/) style value. |
 
 ### ReturnValue
@@ -35,19 +35,19 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FontRepository::FindFont(System::String, FontStyles, bool) method
+## FontRepository::FindFont(const System::String\&, FontStyles, bool) method
 
 
 Searches and returns font with specified font name and font style ignoring or honoring case sensitivity.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(System::String fontFamilyName, FontStyles stl, bool ignoreCase)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(const System::String &fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | System::String | [Font](../../font/) family name. |
+| fontFamilyName | const System::String\& | [Font](../../font/) family name. |
 | stl | FontStyles | [Font](../../font/) style value. |
 | ignoreCase | bool | case sensitivity |
 
@@ -64,19 +64,19 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FontRepository::FindFont(System::String) method
+## FontRepository::FindFont(const System::String\&) method
 
 
 Searches and returns font with specified font name.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(System::String fontName)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(const System::String &fontName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontName | System::String | [Font](../../font/) name. |
+| fontName | const System::String\& | [Font](../../font/) name. |
 
 ### ReturnValue
 
@@ -90,19 +90,19 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(Syste
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FontRepository::FindFont(System::String, bool) method
+## FontRepository::FindFont(const System::String\&, bool) method
 
 
 Searches and returns font with specified font name ignoring or honoring case sensitivity.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(System::String fontName, bool ignoreCase)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::FindFont(const System::String &fontName, bool ignoreCase)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontName | System::String | [Font](../../font/) name. |
+| fontName | const System::String\& | [Font](../../font/) name. |
 | ignoreCase | bool | case sensitivity |
 
 ### ReturnValue

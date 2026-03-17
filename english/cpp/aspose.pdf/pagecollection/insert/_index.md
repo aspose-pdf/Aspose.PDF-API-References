@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Insert method. Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/aspose.pdf/pagecollection/insert/
 ---
 ## PageCollection::Insert(int32_t) method

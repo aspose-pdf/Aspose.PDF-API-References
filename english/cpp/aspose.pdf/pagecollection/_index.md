@@ -28,6 +28,7 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 | [Add](./add/)() | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Add](./add/)(const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\&) | Adds to collection all pages from list. |
 | [Add](./add/)(const System::ArrayPtr\<System::SharedPtr\<Page\>\>\&) | Adds to collection all pages from array. |
+| [BeginUpdate](./beginupdate/)() | Updates when group changes begin. Stops page cache recalculation on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Clear](./clear/)() override | Clear page collection. |
 | [Contains](./contains/)(const System::SharedPtr\<Page\>\&) const override | Determines whether this instance contains the object. |
 | [CopyPage](./copypage/)(System::SharedPtr\<Page\>) | Adds page to collection. |
@@ -35,6 +36,7 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 | [Delete](./delete/)(int32_t) | Delete specified page. |
 | [Delete](./delete/)() | Deletes all pages from collection. |
 | [Delete](./delete/)(System::ArrayPtr\<int32_t\>) | Delete pages specified which numbers are specified in array. |
+| [EndUpdate](./endupdate/)() | Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Flatten](./flatten/)() | Removes all fields located on the pages and place their values instead. |
 | [FreeMemory](./freememory/)() override | Clears cached data. |
 | [get_Count](./get_count/)() const override | Gets count of pages in the document. |

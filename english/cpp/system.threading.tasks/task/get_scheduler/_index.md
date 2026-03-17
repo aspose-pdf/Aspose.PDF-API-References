@@ -4,7 +4,7 @@ linktitle: get_Scheduler
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Threading::Tasks::Task::get_Scheduler method. Gets the scheduler associated with this task in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.threading.tasks/task/get_scheduler/
 ---
 ## Task::get_Scheduler method

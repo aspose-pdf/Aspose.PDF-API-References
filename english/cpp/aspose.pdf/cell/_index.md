@@ -20,7 +20,7 @@ class Cell : public System::ICloneable
 
 | Method | Description |
 | --- | --- |
-| [Cell](./cell/)(System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [Cell](./) class. |
+| [Cell](./cell/)(const System::SharedPtr\<Rectangle\>\&) | Initializes a new instance of the [Cell](./) class. |
 | [Cell](./cell/)() | Initializes a new instance of the [Cell](./) class. |
 | [Clone](./clone/)() override | Clone the cell. |
 | [get_Alignment](./get_alignment/)() const | Gets the alignment. |
