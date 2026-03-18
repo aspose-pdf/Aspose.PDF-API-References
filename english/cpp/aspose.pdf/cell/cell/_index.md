@@ -21,19 +21,19 @@ Aspose::Pdf::Cell::Cell()
 * Class [Cell](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Cell::Cell(System::SharedPtr\<Rectangle\>) constructor
+## Cell::Cell(const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes a new instance of the [Cell](../) class.
 
 ```cpp
-Aspose::Pdf::Cell::Cell(System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Cell::Cell(const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | System::SharedPtr\<Rectangle\> | The rectangle of the cell in page's coordinates. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The rectangle of the cell in page's coordinates. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::idx_get method. Gets page by index in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/aspose.pdf/pagecollection/idx_get/
 ---
 ## PageCollection::idx_get method

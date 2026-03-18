@@ -7,20 +7,20 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf.text/fontrepository/openfont/
 ---
-## FontRepository::OpenFont(System::SharedPtr\<System::IO::Stream\>, FontTypes) method
+## FontRepository::OpenFont(const System::SharedPtr\<System::IO::Stream\>\&, const FontTypes\&) method
 
 
 Opens font with specified font stream.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(System::SharedPtr<System::IO::Stream> fontStream, FontTypes fontType)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(const System::SharedPtr<System::IO::Stream> &fontStream, const FontTypes &fontType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontStream | System::SharedPtr\<System::IO::Stream\> | [Font](../../font/) stream. |
-| fontType | FontTypes | [Font](../../font/) type value. |
+| fontStream | const System::SharedPtr\<System::IO::Stream\>\& | [Font](../../font/) stream. |
+| fontType | const FontTypes\& | [Font](../../font/) type value. |
 
 ### ReturnValue
 
@@ -35,19 +35,19 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(Syste
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FontRepository::OpenFont(System::String) method
+## FontRepository::OpenFont(const System::String\&) method
 
 
 Opens font with specified font file path.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(System::String fontFilePath)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(const System::String &fontFilePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFilePath | System::String | [Font](../../font/) file path. |
+| fontFilePath | const System::String\& | [Font](../../font/) file path. |
 
 ### ReturnValue
 
@@ -61,20 +61,20 @@ static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(Syste
 * Class [FontRepository](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FontRepository::OpenFont(System::String, System::String) method
+## FontRepository::OpenFont(const System::String\&, const System::String\&) method
 
 
 Opens font with specified font file path and metrics file path.
 
 ```cpp
-static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(System::String fontFilePath, System::String metricsFilePath)
+static System::SharedPtr<Font> Aspose::Pdf::Text::FontRepository::OpenFont(const System::String &fontFilePath, const System::String &metricsFilePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFilePath | System::String | [Font](../../font/) file path. |
-| metricsFilePath | System::String | [Font](../../font/) metrics file patrh. |
+| fontFilePath | const System::String\& | [Font](../../font/) file path. |
+| metricsFilePath | const System::String\& | [Font](../../font/) metrics file patrh. |
 
 ### ReturnValue
 

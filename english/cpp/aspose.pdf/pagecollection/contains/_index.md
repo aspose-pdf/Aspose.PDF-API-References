@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Contains method. Determines whether this instance contains the object in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/pagecollection/contains/
 ---
 ## PageCollection::Contains method

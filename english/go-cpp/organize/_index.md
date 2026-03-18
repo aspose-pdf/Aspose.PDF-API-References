@@ -37,6 +37,7 @@ url: /go-cpp/organize/
 | [RemoveTextHeaders](./removetextheaders/) | Remove text headers from PDF-document. |
 | [RemoveTextFooters](./removetextfooters/) | Remove text footers from PDF-document. |
 | [Crop](./crop/) | Crop pages of a PDF-document. |
+| [ReplaceFont](./replacefont/) | Replace font in a PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -54,6 +55,7 @@ url: /go-cpp/organize/
 | [PageRemoveTextHeaders](./pageremovetextheaders/) | Remove text headers in page. |
 | [PageRemoveTextFooters](./pageremovetextfooters/) | Remove text footers in page. |
 | [PageCrop](./pagecrop/) | Crop page. |
+| [PageReplaceFont](./pagereplacefont/) | Replace font in page. |
 
 
 ## Detailed Description

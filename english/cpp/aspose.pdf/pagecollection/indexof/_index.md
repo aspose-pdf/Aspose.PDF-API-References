@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::IndexOf method. Returns index of the specified page in C++.'
 type: docs
-weight: 1600
+weight: 1800
 url: /cpp/aspose.pdf/pagecollection/indexof/
 ---
 ## PageCollection::IndexOf method

@@ -27,6 +27,7 @@ class Task : public System::IDisposable
 | [ConfigureAwait](./configureawait/)(bool) const | Configures how awaits on this task should behave regarding context capture. |
 | [ContinueWith](./continuewith/)(const Action\<TaskPtr\>\&) | Creates a continuation that executes when the task completes. |
 | [ContinueWith](./continuewith/)(const Func\<TaskPtr, TResult\>\&) | Creates a continuation that executes when the task completes. |
+| [Deactivate](./deactivate/)() | Deactivates the task for execution on its curent scheduler if any. |
 | [Dispose](./dispose/)() override | Releases resources associated with the task. |
 | [Execute](./execute/)() | Executes the task's function. |
 | [get_AsyncState](./get_asyncstate/)() const | Gets the user-defined state object associated with the task. |

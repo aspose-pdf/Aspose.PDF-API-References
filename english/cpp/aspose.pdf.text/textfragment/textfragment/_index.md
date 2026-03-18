@@ -21,19 +21,19 @@ Aspose::Pdf::Text::TextFragment::TextFragment()
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextFragment::TextFragment(System::SharedPtr\<TabStops\>) constructor
+## TextFragment::TextFragment(const System::SharedPtr\<TabStops\>\&) constructor
 
 
 Initializes new instance of the [TextFragment](../) object with predefined [TabStops](../../tabstops/) positions.
 
 ```cpp
-Aspose::Pdf::Text::TextFragment::TextFragment(System::SharedPtr<TabStops> tabStops)
+Aspose::Pdf::Text::TextFragment::TextFragment(const System::SharedPtr<TabStops> &tabStops)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tabStops | System::SharedPtr\<TabStops\> | Tabulation positions |
+| tabStops | const System::SharedPtr\<TabStops\>\& | Tabulation positions |
 
 ## See Also
 
@@ -42,19 +42,19 @@ Aspose::Pdf::Text::TextFragment::TextFragment(System::SharedPtr<TabStops> tabSto
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextFragment::TextFragment(System::String) constructor
+## TextFragment::TextFragment(const System::String\&) constructor
 
 
 Creates [TextFragment](../) object with single [TextSegment](../../textsegment/) object inside. Specifies text string inside the segment.
 
 ```cpp
-Aspose::Pdf::Text::TextFragment::TextFragment(System::String text)
+Aspose::Pdf::Text::TextFragment::TextFragment(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../) fragment's text. |
+| text | const System::String\& | [Text](../../) fragment's text. |
 
 ## See Also
 
@@ -62,20 +62,20 @@ Aspose::Pdf::Text::TextFragment::TextFragment(System::String text)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextFragment::TextFragment(System::String, System::SharedPtr\<TabStops\>) constructor
+## TextFragment::TextFragment(const System::String\&, const System::SharedPtr\<TabStops\>\&) constructor
 
 
 Creates [TextFragment](../) object with single [TextSegment](../../textsegment/) object inside and predefined [TabStops](../../tabstops/) positions.
 
 ```cpp
-Aspose::Pdf::Text::TextFragment::TextFragment(System::String text, System::SharedPtr<TabStops> tabStops)
+Aspose::Pdf::Text::TextFragment::TextFragment(const System::String &text, const System::SharedPtr<TabStops> &tabStops)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../) fragment's text. |
-| tabStops | System::SharedPtr\<TabStops\> | Tabulation positions |
+| text | const System::String\& | [Text](../../) fragment's text. |
+| tabStops | const System::SharedPtr\<TabStops\>\& | Tabulation positions |
 
 ## See Also
 

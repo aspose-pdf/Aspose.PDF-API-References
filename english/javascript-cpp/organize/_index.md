@@ -53,6 +53,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfDeleteTextHeaders](./asposepdfdeletetextheaders/) | Delete text headers from a PDF-file. |
 | [AsposePdfDeleteTextFooters](./asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 | [AsposePdfReplaceTextEx](./asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
+| [AsposePdfRecover](./asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 
 
 ## Detailed Description

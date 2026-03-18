@@ -84,6 +84,7 @@ type Document struct {
 | [RemoveTextHeaders](./organize/removetextheaders/) | Remove text headers from PDF-document. |
 | [RemoveTextFooters](./organize/removetextfooters/) | Remove text footers from PDF-document. |
 | [Crop](./organize/crop/) | Crop pages of a PDF-document. |
+| [ReplaceFont](./organize/replacefont/) | Replace font in a PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -101,6 +102,7 @@ type Document struct {
 | [PageRemoveTextHeaders](./organize/pageremovetextheaders/) | Remove text headers in page. |
 | [PageRemoveTextFooters](./organize/pageremovetextfooters/) | Remove text footers in page. |
 | [PageCrop](./organize/pagecrop/) | Crop page. |
+| [PageReplaceFont](./organize/pagereplacefont/) | Replace font in page. |
 
 
 ## Core PDF functions
