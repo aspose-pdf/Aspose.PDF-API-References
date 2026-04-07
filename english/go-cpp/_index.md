@@ -144,6 +144,11 @@ type Document struct {
 | [Decrypt](./security/decrypt/) | Decrypt PDF-document. |
 | [SetPermissions](./security/setpermissions/) | Set permissions for PDF-document. |
 | [GetPermissions](./security/getpermissions/) | Get current permissions of PDF-document. |
+| [IsEncrypted](./security/isencrypted/) | Get encrypted status of PDF-document. |
+| [SignPKCS7](./security/signpkcs7/) | Sign a PDF-document using PKCS#7 digital signatures. |
+| [SignPKCS7Detached](./security/signpkcs7detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
+| [IsSigned](./security/issigned/) | Get signed status of PDF-document. |
+| [RemoveSigns](./security/removesigns/) | Remove signs from PDF-document. |
 
 
 ## Miscellaneous
