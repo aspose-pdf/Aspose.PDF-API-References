@@ -3,7 +3,7 @@ title: "RemoveSigns"
 second_title: Aspose.PDF for Go via C++
 description: "Remove signs from PDF-document."
 type: docs
-url: /go-cpp/organize/removesigns/
+url: /go-cpp/security/removesigns/
 ---
 
 _Remove signs from PDF-document._
