@@ -20,8 +20,8 @@ func (document *Document) SignPKCS7Detached(num int32, signData []byte, pswSign 
   * **setYIndent** - the y indent of the signature
   * **setHeight** - the height of the signature
   * **setWidth** - the width of the signature
-  * **reason** - the location of a signature
-  * **contact** - the reason of a signature
+  * **reason** - the reason of a signature
+  * **contact** - the contact of a signature
   * **location** -  the location of a signature
   * **isVisible** - the visiblity of signature
   * **appearanceData** - the raw bytes of the graphic appearance for the signature
