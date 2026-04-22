@@ -141,6 +141,11 @@ pub struct Document { /* private fields */ }
 | [decrypt](./security/decrypt/) | Decrypt PDF-document. |
 | [set_permissions](./security/set_permissions/) | Set permissions for PDF-document. |
 | [get_permissions](./security/get_permissions/) | Get current permissions of PDF-document. |
+| [is_encrypted](./security/is_encrypted/) | Get encrypted status of PDF-document. |
+| [sign_pkcs7](./security/sign_pkcs7/) | Sign a PDF-document using PKCS#7 digital signatures. |
+| [sign_pkcs7_detached](./security/sign_pkcs7_detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
+| [is_signed](./security/is_signed/) | Get signed status of PDF-document. |
+| [remove_signs](./security/remove_signs/) | Remove signs from PDF-document. |
 
 
 ## Miscellaneous

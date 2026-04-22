@@ -1,15 +1,15 @@
 ---
 title: "page_is_blank"
 second_title: Aspose.PDF for Rust via C++
-description: "Returns page is blank in PDF-document."
+description: "Return page is blank in PDF-document."
 type: docs
 url: /rust-cpp/core/page_is_blank/
 ---
 
-_Returns page is blank in PDF-document._
+_Return page is blank in PDF-document._
 
 ```rust
-pub fn page_is_blank(&self) -> Result<bool, PdfError>
+pub fn page_is_blank(&self, num: i32) -> Result<bool, PdfError>
 ```
 
 **Arguments**
