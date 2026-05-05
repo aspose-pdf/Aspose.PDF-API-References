@@ -102,6 +102,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfDeleteTextFooters](./organize/asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 | [AsposePdfReplaceTextEx](./organize/asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
 | [AsposePdfRecover](./organize/asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
+| [AsposePdfRebuildXrefAndTrailer](./organize/asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 
 
 ## Metadata PDF functions

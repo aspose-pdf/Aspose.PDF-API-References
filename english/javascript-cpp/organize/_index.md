@@ -54,6 +54,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfDeleteTextFooters](./asposepdfdeletetextfooters/) | Delete text footers from a PDF-file. |
 | [AsposePdfReplaceTextEx](./asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
 | [AsposePdfRecover](./asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
+| [AsposePdfRebuildXrefAndTrailer](./asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 
 
 ## Detailed Description
