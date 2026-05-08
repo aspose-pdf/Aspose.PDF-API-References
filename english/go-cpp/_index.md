@@ -85,6 +85,12 @@ type Document struct {
 | [RemoveTextFooters](./organize/removetextfooters/) | Remove text footers from PDF-document. |
 | [Crop](./organize/crop/) | Crop pages of a PDF-document. |
 | [ReplaceFont](./organize/replacefont/) | Replace font in a PDF-document. |
+| [Convert](./organize/convert/) | Convert a PDF-document into a PDF-document with the specified PDF format. |
+| [Validate](./organize/validate/) | Validate a PDF-document for compliance with the PDF format. |
+| [RemovePdfaCompliance](./organize/removepdfacompliance/) | Remove PDF/A compliance from a PDF-document. |
+| [RemovePdfUaCompliance](./organize/removepdfuacompliance/) | Remove PDF/UA compliance from a PDF-document. |
+| [IsPdfaCompliant](./organize/ispdfacompliant/) | Get is a PDF-document PDF/A compliant. |
+| [IsPdfUaCompliant](./organize/ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
