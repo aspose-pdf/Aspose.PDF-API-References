@@ -16,6 +16,10 @@ Gets/sets timestamp settings.
 System::SharedPtr<Aspose::Pdf::TimestampSettings> Aspose::Pdf::Forms::Signature::get_TimestampSettings() const
 ```
 
+## Remarks
+
+
+If the property is set and a certificate is provided to the constructor of the [Signature](../) class, the digital signature will be timestamped with an embedded timestamp. If the property is set but no certificate is provided to the constructor of the [Signature](../) class, the timestamp will be added as a separate signature. 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
