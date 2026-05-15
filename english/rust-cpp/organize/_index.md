@@ -38,6 +38,12 @@ url: /rust-cpp/organize/
 | [remove_text_footers](./remove_text_footers/) | Remove text footers from PDF-document. |
 | [crop](./crop/) | Crop pages of a PDF-document. |
 | [replace_font](./replace_font/) | Replace font in a PDF-document. |
+| [convert](./convert/) | Convert a PDF-document into a PDF-document with the specified PDF format |
+| [validate](./validate/) | Validate a PDF-document for compliance with the PDF format |
+| [remove_pdfa_compliance](./remove_pdfa_compliance/) | Remove PDF/A compliance from a PDF-document |
+| [remove_pdfua_compliance](./remove_pdfua_compliance/) | Remove PDF/UA compliance from a PDF-document |
+| [is_pdfa_compliant](./is_pdfa_compliant/) | Get is a PDF-document PDF/A compliant |
+| [is_pdfua_compliant](./is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
