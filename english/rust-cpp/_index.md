@@ -84,6 +84,12 @@ pub struct Document { /* private fields */ }
 | [remove_text_footers](./organize/remove_text_footers/) | Remove text footers from PDF-document. |
 | [crop](./organize/crop/) | Crop pages of a PDF-document. |
 | [replace_font](./organize/replace_font/) | Replace font in a PDF-document. |
+| [convert](./organize/convert/) | Convert a PDF-document into a PDF-document with the specified PDF format |
+| [validate](./organize/validate/) | Validate a PDF-document for compliance with the PDF format |
+| [remove_pdfa_compliance](./organize/remove_pdfa_compliance/) | Remove PDF/A compliance from a PDF-document |
+| [remove_pdfua_compliance](./organize/remove_pdfua_compliance/) | Remove PDF/UA compliance from a PDF-document |
+| [is_pdfa_compliant](./organize/is_pdfa_compliant/) | Get is a PDF-document PDF/A compliant |
+| [is_pdfua_compliant](./organize/is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
@@ -261,3 +267,74 @@ pub enum CryptoAlgorithm {
     AESx256 = 3,
 }
 ```
+
+## An enumeration of possible PDF format standards.
+```rust
+pub enum PdfFormat {
+    /// PDF/A-1a format.
+    PDF_A_1A = 0,
+    /// PDF/A-1b format.
+    PDF_A_1B = 1,
+    /// PDF/A-2a format.
+    PDF_A_2A = 2,
+    /// PDF/A-3a format.
+    PDF_A_3A = 3,
+    /// PDF/A-2b format.
+    PDF_A_2B = 4,
+    /// PDF/A-2u format.
+    PDF_A_2U = 5,
+    /// PDF/A-3b format.
+    PDF_A_3B = 6,
+    /// PDF/A-3u format.
+    PDF_A_3U = 7,
+    /// Adobe version 1.0.
+    V_1_0 = 8,
+    /// Adobe version 1.1.
+    V_1_1 = 9,
+    /// Adobe version 1.2.
+    V_1_2 = 10,
+    /// Adobe version 1.3.
+    V_1_3 = 11,
+    /// Adobe version 1.4.
+    V_1_4 = 12,
+    /// Adobe version 1.5.
+    V_1_5 = 13,
+    /// Adobe version 1.6.
+    V_1_6 = 14,
+    /// Adobe version 1.7.
+    V_1_7 = 15,
+    /// ISO Standard PDF 2.0.
+    V_2_0 = 16,
+    /// PDF/UA-1 format.
+    PDF_UA_1 = 17,
+    /// PDF/X-1a:2001 format.
+    PDF_X_1A_2001 = 18,
+    /// PDF/X-1a format.
+    PDF_X_1A = 19,
+    /// PDF/X-3 format.
+    PDF_X_3 = 20,
+    /// ZUGFeRD format.
+    ZUGFeRD = 21,
+    /// PDF/A-4 format.
+    PDF_A_4 = 22,
+    /// PDF/A-4e format.
+    PDF_A_4E = 23,
+    /// PDF/A-4f format.
+    PDF_A_4F = 24,
+    /// PDF/X-4 format.
+    PDF_X_4 = 25,
+    /// PDF/E-1 (PDF 1.6) format.
+    PDF_E_1 = 26,
+}
+```
+
+## An enumeration of actions to take when a conversion error occurs.
+```rust
+pub enum ConvertErrorAction {
+    /// Delete non-conforming elements.
+    Delete = 0,
+    /// Do nothing, keep non-conforming elements.
+    None = 1,
+}
+```
+

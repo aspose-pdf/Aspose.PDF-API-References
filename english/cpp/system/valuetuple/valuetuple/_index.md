@@ -27,7 +27,7 @@ System::ValueTuple<Args>::ValueTuple()
 Constructs a tuple object.
 
 ```cpp
-template<typename> System::ValueTuple<Args>::ValueTuple(Args... args)
+template<std::size_t,typename> System::ValueTuple<Args>::ValueTuple(Args... args)
 ```
 
 

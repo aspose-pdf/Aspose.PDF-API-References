@@ -38,6 +38,12 @@ url: /go-cpp/organize/
 | [RemoveTextFooters](./removetextfooters/) | Remove text footers from PDF-document. |
 | [Crop](./crop/) | Crop pages of a PDF-document. |
 | [ReplaceFont](./replacefont/) | Replace font in a PDF-document. |
+| [Convert](./convert/) | Convert a PDF-document into a PDF-document with the specified PDF format. |
+| [Validate](./validate/) | Validate a PDF-document for compliance with the PDF format. |
+| [RemovePdfaCompliance](./removepdfacompliance/) | Remove PDF/A compliance from a PDF-document. |
+| [RemovePdfUaCompliance](./removepdfuacompliance/) | Remove PDF/UA compliance from a PDF-document. |
+| [IsPdfaCompliant](./ispdfacompliant/) | Get is a PDF-document PDF/A compliant. |
+| [IsPdfUaCompliant](./ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |

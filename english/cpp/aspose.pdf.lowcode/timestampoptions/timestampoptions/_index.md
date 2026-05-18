@@ -2,11 +2,25 @@
 title: Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions constructor
 linktitle: TimestampOptions
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions constructor. Creates a new instance with a PFX stream and password in C++.'
+description: 'Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions constructor. Creates a new instance with default values. Used to sing TSA with a PFX file in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.lowcode/timestampoptions/timestampoptions/
 ---
+## TimestampOptions::TimestampOptions() constructor
+
+
+Creates a new instance with default values. Used to sing TSA with a PFX file.
+
+```cpp
+Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions()
+```
+
+## See Also
+
+* Class [TimestampOptions](../)
+* Namespace [Aspose::Pdf::LowCode](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## TimestampOptions::TimestampOptions(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
 
 

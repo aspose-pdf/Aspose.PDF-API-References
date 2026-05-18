@@ -21,6 +21,31 @@ Aspose::Pdf::Forms::PKCS7::PKCS7()
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
+## PKCS7::PKCS7(System::SharedPtr\<Aspose::Pdf::TimestampSettings\>) constructor
+
+
+Inititalizes new instance of the [PKCS7](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<Aspose::Pdf::TimestampSettings> timestampSettings)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| timestampSettings | System::SharedPtr\<Aspose::Pdf::TimestampSettings\> | The timestamp settings for the signature. |
+## Remarks
+
+
+
+The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature. 
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* Class [PKCS7](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PKCS7::PKCS7(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
 
 

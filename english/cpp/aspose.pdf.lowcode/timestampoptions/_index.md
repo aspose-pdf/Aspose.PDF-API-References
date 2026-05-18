@@ -41,6 +41,7 @@ class TimestampOptions : public Aspose::Pdf::LowCode::PdfConverterOptions
 | [set_Visible](./set_visible/)(bool) | Visibility flag – false for a pure timestamp (no visible annotation). |
 | [TimestampOptions](./timestampoptions/)(System::String, System::String) | Creates a new instance with a PFX file path and password. |
 | [TimestampOptions](./timestampoptions/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Creates a new instance with a PFX stream and password. |
+| [TimestampOptions](./timestampoptions/)() | Creates a new instance with default values. Used to sing TSA with a PFX file. |
 ## See Also
 
 * Class [PdfConverterOptions](../pdfconverteroptions/)
