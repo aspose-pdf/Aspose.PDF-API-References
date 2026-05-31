@@ -13,6 +13,7 @@ url: /nodejs-cpp/security/
 | [AsposePdfEncrypt](./asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
+| [AsposePdfSignPKCS7Detached](./asposepdfsignpkcs7detached/) | Sign a PDF-file with detached digital signatures. |
 | [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords of the PDF-file. |
 
 ## Detailed Description

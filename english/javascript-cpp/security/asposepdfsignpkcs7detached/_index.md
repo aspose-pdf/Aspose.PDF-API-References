@@ -6,7 +6,7 @@ type: docs
 url: /javascript-cpp/security/asposepdfsignpkcs7detached/
 ---
 
-_Sign a PDF-file with digital signatures._
+_Sign a PDF-file with detached digital signatures._
 
 ```js
 function AsposePdfSignPKCS7Detached(
@@ -57,7 +57,6 @@ JSON object
 
 **Web Worker example**:
 ```js
-  /*Create Web Worker*/
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
