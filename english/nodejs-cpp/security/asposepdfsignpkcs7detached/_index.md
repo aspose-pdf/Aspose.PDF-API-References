@@ -3,7 +3,7 @@ title: "AsposePdfSignPKCS7Detached"
 second_title: Aspose.PDF for Node.js via C++
 description: "Sign a PDF-file with detached digital signatures."
 type: docs
-url: /nodejs-cpp/security/asposepdfsignpkcs7/
+url: /nodejs-cpp/security/asposepdfsignpkcs7detached/
 ---
 
 _Sign a PDF-file with detached digital signatures._
