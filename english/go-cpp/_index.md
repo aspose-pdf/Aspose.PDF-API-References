@@ -109,6 +109,7 @@ type Document struct {
 | [PageRemoveTextFooters](./organize/pageremovetextfooters/) | Remove text footers in page. |
 | [PageCrop](./organize/pagecrop/) | Crop page. |
 | [PageReplaceFont](./organize/pagereplacefont/) | Replace font in page. |
+| [PageMergeLayers](./organize/pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 
 
 ## Core PDF functions
@@ -132,6 +133,10 @@ type Document struct {
 | [SplitAtPage](./core/splitatpage/) | Split the PDF-document into two new PDF-documents. |
 | [SplitAt](./core/splitat/) | Split the current PDF-document into two new PDF-documents. |
 | [Bytes](./core/bytes/) | Return the contents of the PDF-document as a byte slice. |
+| [GetMetaInfo](./core/getmetainfo/) | Get meta information value of PDF-document.. |
+| [SetMetaInfo](./core/setmetainfo/) | Set meta information value of PDF-document.. |
+| [ClearMetaInfo](./core/clearmetainfo/) | Clear all meta information values of PDF-document.. |
+| [IsLinearized](./core/islinearized/) | Get a value indicating whether document is linearized. |
 | [PageAdd](./core/pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./core/pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./core/pagedelete/) | Delete specified page in PDF-document. |

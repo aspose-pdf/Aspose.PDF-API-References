@@ -62,6 +62,7 @@ url: /go-cpp/organize/
 | [PageRemoveTextFooters](./pageremovetextfooters/) | Remove text footers in page. |
 | [PageCrop](./pagecrop/) | Crop page. |
 | [PageReplaceFont](./pagereplacefont/) | Replace font in page. |
+| [PageMergeLayers](./pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 
 
 ## Detailed Description
