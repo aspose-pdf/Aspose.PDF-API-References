@@ -1,12 +1,12 @@
 ---
 title: "is_pdfua_compliant"
 second_title: Aspose.PDF for Rust via C++
-description: "Get is a PDF-document PDF/UA compliant."
+description: "Gets is a PDF-document PDF/UA compliant."
 type: docs
 url: /rust-cpp/organize/is_pdfua_compliant/
 ---
 
-_Get is a PDF-document PDF/UA compliant._
+_Gets is a PDF-document PDF/UA compliant._
 
 ```rust
 pub fn is_pdfua_compliant(&self) -> Result<bool, PdfError>

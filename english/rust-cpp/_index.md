@@ -108,6 +108,7 @@ pub struct Document { /* private fields */ }
 | [page_remove_text_footers](./organize/page_remove_text_footers/) | Remove text footers in page. |
 | [page_crop](./organize/page_crop/) | Crop a page. |
 | [page_replace_font](./organize/page_replace_font/) | Replace font in page. |
+| [page_merge_layers](./organize/page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 
 
 ## Core PDF functions
@@ -130,6 +131,10 @@ pub struct Document { /* private fields */ }
 | [split_at_page](./core/split_at_page/) | Split the PDF-document into two new PDF-documents. |
 | [split_at](./core/split_at/) | Split the current PDF-document into two new PDF-documents. |
 | [bytes](./core/bytes/) | Return the contents of the PDF-document as a byte vector. |
+| [get_meta_info](./core/get_meta_info/) | Get meta information value of PDF-document. |
+| [set_meta_info](./core/set_meta_info/) | Set meta information value of PDF-document. |
+| [clear_meta_info](./core/clear_meta_info/) | Clear all meta information values of PDF-document. |
+| [is_linearized](./core/is_linearized/) | Get a value indicating whether document is linearized. |
 | [page_add](./core/page_add/) | Add new page in PDF-document. |
 | [page_insert](./core/page_insert/) | Insert new page at the specified position in PDF-document. |
 | [page_delete](./core/page_delete/) | Delete specified page in PDF-document. |

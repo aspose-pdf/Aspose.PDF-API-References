@@ -1,12 +1,12 @@
 ---
 title: "validate"
 second_title: Aspose.PDF for Rust via C++
-description: "Validate a PDF-document for compliance with the PDF format."
+description: "Validates a PDF-document for compliance with the PDF format."
 type: docs
 url: /rust-cpp/organize/validate/
 ---
 
-_Validate a PDF-document for compliance with the PDF format._
+_Validates a PDF-document for compliance with the PDF format._
 
 ```rust
     pub fn validate(

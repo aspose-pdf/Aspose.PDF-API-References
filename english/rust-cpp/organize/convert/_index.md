@@ -1,12 +1,12 @@
 ---
 title: "convert"
 second_title: Aspose.PDF for Rust via C++
-description: "Convert a PDF-document into a PDF-document with the specified PDF format."
+description: "Converts a PDF-document into a PDF-document with the specified PDF format."
 type: docs
 url: /rust-cpp/organize/convert/
 ---
 
-_Convert a PDF-document into a PDF-document with the specified PDF format._
+_Converts a PDF-document into a PDF-document with the specified PDF format._
 
 ```rust
     pub fn convert(
