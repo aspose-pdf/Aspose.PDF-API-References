@@ -4,7 +4,7 @@ linktitle: SetIn
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Console::SetIn method. Sets the In property to the specified TextReader object in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/console/setin/
 ---
 ## Console::SetIn method

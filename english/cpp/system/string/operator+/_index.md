@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::operator+ method. Adds character to the end of the string in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system/string/operator+/
 ---
 ## String::operator+(char_t) const method

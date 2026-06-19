@@ -4,7 +4,7 @@ linktitle: ReadByte
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::Marshal::ReadByte method. Reads byte from memory in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.runtime.interopservices/marshal/readbyte/
 ---
 ## Marshal::ReadByte method

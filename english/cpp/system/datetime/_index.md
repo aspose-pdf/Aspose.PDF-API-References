@@ -4,7 +4,7 @@ linktitle: DateTime
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DateTime class. Represents a specific date and time value on the time continuum. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system/datetime/
 ---
 ## DateTime class

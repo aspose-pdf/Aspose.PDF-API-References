@@ -4,7 +4,7 @@ linktitle: PtrToStringUni
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::Marshal::PtrToStringUni method. Creates a managed String from an unmanaged zero-terminated unicode string in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.runtime.interopservices/marshal/ptrtostringuni/
 ---
 ## Marshal::PtrToStringUni(IntPtr) method

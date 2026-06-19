@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system/array/virtualizebeginiterator/
 ---
 ## Array::virtualizeBeginIterator method

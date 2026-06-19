@@ -4,7 +4,7 @@ linktitle: DynamicWeakPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::DynamicWeakPtr class. Smart pointer class which tracks pointer modes of template arguments of stored object and updates them after each assignment. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system/dynamicweakptr/
 ---
 ## DynamicWeakPtr class

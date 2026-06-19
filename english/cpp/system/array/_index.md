@@ -13,7 +13,7 @@ url: /cpp/system/array/
 Class that represents an array data structure. Objects of this class should only be allocated using [System::MakeArray()](../makearray/) and [System::MakeObject()](../makeobject/) functions. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-template<typename T>class Array : public virtual System::Object,
+template<typename T>class Array : public System::ArrayBase,
                                   public System::Collections::Generic::IList<T>
 ```
 
@@ -40,6 +40,7 @@ template<typename T>class Array : public virtual System::Object,
 | [Array](./array/)(std::initializer_list\<UnderlyingType\>) | Constructs an [Array](./) object and fills it with values from the specified initializer list containing elements of **[UnderlyingType](./underlyingtype/)** type. |
 | [Array](./array/)(const std::array\<UnderlyingType, InitArraySize\>\&) | Constructs an [Array](./) object and fills it with values from the specified array containing elements of **[UnderlyingType](./underlyingtype/)** type. |
 | [Array](./array/)(std::initializer_list\<bool\>, int) | Constructs an [Array](./) object and fills it with values from the specified initializer list containing elements of bool type. |
+| static [AsReadOnly](./asreadonly/)(const SharedPtr\<Array\<T\>\>\&) | Casts array to read only collection. |
 | [begin](./begin/)() | Returns an iterator to the first element of the container. If the container is empty, the returned iterator will be equal to [end()](./end/). |
 | [begin](./begin/)() const | Returns an iterator to the first element of the const-qualified container. If the container is empty, the returned iterator will be equal to [end()](./end/). |
 | static [BinarySearch](./binarysearch/)(System::ArrayPtr\<T\>, const T\&) | Performs binary search in the sorted array. |
@@ -89,7 +90,7 @@ template<typename T>class Array : public virtual System::Object,
 | static [ForEach](./foreach/)(const ArrayPtr\<T\>\&, System::Action\<T\>) | Performs specified action on each element of the specified array. |
 | [get_Count](./get_count/)() const override | Returns the size of the array. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Indicates whether the array is read-only. |
-| [get_Length](./get_length/)() const | Returns 32-bit integer that represents the total number of all elements in all dimensions of the array. |
+| [get_Length](./get_length/)() const override | Returns 32-bit integer that represents the total number of all elements in all dimensions of the array. |
 | [get_LongLength](./get_longlength/)() const | Returns 64-bit integer that represents the total number of all elements in all dimensions of the array. |
 | [get_Rank](./get_rank/)() const | NOT IMPLEMENTED. |
 | [GetEnumerator](./getenumerator/)() override | Returns a pointer to [Enumerator](./enumerator/) object that provides IEnumerator interface to elements of the array represented by the current object. |
@@ -114,6 +115,7 @@ template<typename T>class Array : public virtual System::Object,
 | [Min](./min/)() const | Finds the smallest element in the array using [operator<()](../operator_/) to compare elements. |
 | [operator[]](./operator[]/)(int) | Returns an item at the specified index. |
 | [operator[]](./operator[]/)(int) const | Returns an item at the specified index. |
+| [raw_data_ptr](./raw_data_ptr/)() override | Returns pointer to the first element of single-dimension array. For multi-dimensional arrays result undefined. |
 | [rbegin](./rbegin/)() | Returns a reverse iterator to the first element of the reversed container. It corresponds to the last element of the non-reversed container. If the container is empty, the returned iterator is equal to [rend()](./rend/). |
 | [rbegin](./rbegin/)() const | Returns a reverse iterator to the first element of the reversed container. It corresponds to the last element of the non-reversed container. If the container is empty, the returned iterator is equal to [rend()](./rend/). |
 | [Remove](./remove/)(const T\&) override | Not supported because the array represented by the current object is read-only. |
@@ -129,6 +131,7 @@ template<typename T>class Array : public virtual System::Object,
 | static [Sort](./sort/)(const ArrayPtr\<Type\>\&, int, int) | Sorts a range of elements in the specified array using default comparer. |
 | static [Sort](./sort/)(const ArrayPtr\<Type\>\&, const SharedPtr\<System::Collections::Generic::IComparer\<T\>\>\&) | Sorts elements in the specified array using specified comparer. |
 | static [Sort](./sort/)(const ArrayPtr\<Type\>\&, const SharedPtr\<System::Collections::Generic::IComparer\<Y\>\>\&) | NOT IMPLEMENTED. |
+| static [Sort](./sort/)(const ArrayPtr\<Type\>\&, const System::Comparison\<T\>\&) | Sorts elements in the specified array using specified comparison. |
 | static [Sort](./sort/)(const ArrayPtr\<TKey\>\&, const ArrayPtr\<TValue\>\&) | Sorts two arrays one containing keys and the other - corresponding items, based on the values of array containing keys, elements of which are compared using operator<. |
 | static [Sort](./sort/)(const ArrayPtr\<TKey\>\&, const ArrayPtr\<TValue\>\&, int, int) | Sorts two arrays one containing keys and the other - corresponding items, based on the values of array containing keys, elements of which are compared using default comparer. |
 | static [TrueForAll](./trueforall/)(System::ArrayPtr\<T\>, System::Predicate\<T\>) | Determines whether all elements in the specified array satisfy the conditions defined by specified predicate. |
@@ -211,7 +214,7 @@ This code example produces the following output:
 
 ## See Also
 
-* Class [Object](../object/)
+* Class [ArrayBase](../arraybase/)
 * Class [IList](../../system.collections.generic/ilist/)
 * Namespace [System](../)
 * Library [Aspose.PDF for C++](../../)

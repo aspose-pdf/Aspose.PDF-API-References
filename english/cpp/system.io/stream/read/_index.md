@@ -87,3 +87,27 @@ The number of bytes read
 * Class [Stream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Stream::Read(const System::Span\<uint8_t\>\&) method
+
+
+Reads the specified number of bytes from the stream and writes them to the specified byte span.
+
+```cpp
+virtual int32_t System::IO::Stream::Read(const System::Span<uint8_t> &buffer)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | const System::Span\<uint8_t\>\& | The byte span to write the read bytes to |
+
+### ReturnValue
+
+The number of bytes read
+
+## See Also
+
+* Class [Span](../../../system/span/)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.PDF for C++](../../../)

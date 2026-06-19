@@ -4,7 +4,7 @@ linktitle: rend
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::rend method. Returns a reverse iterator to the element following the last element of the reversed container. It corresponds to the element preceding the first element of the non-reversed container. This element acts as a placeholder, attempting to access it results in undefined behavior in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system/array/rend/
 ---
 ## Array::rend() const method

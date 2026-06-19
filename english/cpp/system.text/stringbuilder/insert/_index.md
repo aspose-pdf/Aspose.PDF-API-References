@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::Insert method. Inserts characters into builder''s fixed position in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.text/stringbuilder/insert/
 ---
 ## StringBuilder::Insert(int, const System::ArrayPtr\<char_t\>\&, int, int) method

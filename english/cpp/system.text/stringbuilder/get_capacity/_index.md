@@ -4,7 +4,7 @@ linktitle: get_Capacity
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::get_Capacity method. Gets current capacity of string builder in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.text/stringbuilder/get_capacity/
 ---
 ## StringBuilder::get_Capacity method

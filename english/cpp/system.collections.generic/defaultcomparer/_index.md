@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/defaultcomparer/
 Default comparator class. Uses operator < and operator == to compare values. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-template<class T>class DefaultComparer : public System::Collections::Generic::IComparer<T>
+template<class T,typename>class DefaultComparer : public System::Collections::Generic::IComparer<T>
 ```
 
 

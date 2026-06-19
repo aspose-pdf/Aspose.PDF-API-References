@@ -4,7 +4,7 @@ linktitle: set_Capacity
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::set_Capacity method. Sets current capacity of string builder in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.text/stringbuilder/set_capacity/
 ---
 ## StringBuilder::set_Capacity method

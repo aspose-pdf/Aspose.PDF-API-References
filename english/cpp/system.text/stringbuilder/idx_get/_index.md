@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::idx_get method. Gets character at specified position in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.text/stringbuilder/idx_get/
 ---
 ## StringBuilder::idx_get method

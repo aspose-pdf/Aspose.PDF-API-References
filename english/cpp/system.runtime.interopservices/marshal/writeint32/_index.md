@@ -4,7 +4,7 @@ linktitle: WriteInt32
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::Marshal::WriteInt32 method. Writes int to memory in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/system.runtime.interopservices/marshal/writeint32/
 ---
 ## Marshal::WriteInt32 method

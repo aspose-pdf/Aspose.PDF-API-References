@@ -15,6 +15,9 @@ url: /cpp/system.runtime.interopservices/
 | Class | Description |
 | --- | --- |
 | [Marshal](./marshal/) | Provides marshalling implementation. For compatibility with translated code only, as no managed code is supported on C++ side. This is a static type with no instance services. You should never create instances of it by any means. |
+| [MemoryMarshal](./memorymarshal/) | Provides memory marshalling implementation. For compatibility with translated code only, as no managed code is supported on C++ side. This is a static type with no instance services. You should never create instances of it by any means. |
+| [NativeLibrary](./nativelibrary/) |  |
+| [OSPlatform](./osplatform/) |  |
 ## Enums
 
 | Enum | Description |

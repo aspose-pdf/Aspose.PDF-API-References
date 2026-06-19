@@ -4,7 +4,7 @@ linktitle: Byte
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Byte class. Contains methods to work with the unsigned 8-bit integer in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system/byte/
 ---
 ## Byte class

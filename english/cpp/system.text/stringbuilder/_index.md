@@ -39,6 +39,7 @@ class StringBuilder : public System::Object
 | [AppendLine](./appendline/)(const String\&) | Appends string followed by new line character to builder. |
 | [Clear](./clear/)() | Removes all characters from the builder. |
 | [CopyTo](./copyto/)(int, System::ArrayPtr\<char_t\> const\&, int, int) | Copies builder's data into existing array positions. |
+| [EnsureCapacity](./ensurecapacity/)(int32_t) | Ensures that the capacity of this instance of [System.Text.StringBuilder](./) is at least the specified value. |
 | [get_Capacity](./get_capacity/)() const | Gets current capacity of string builder. |
 | [get_Length](./get_length/)() const | Gets length of string currently in builder. |
 | [idx_get](./idx_get/)(int) const | Gets character at specified position. |

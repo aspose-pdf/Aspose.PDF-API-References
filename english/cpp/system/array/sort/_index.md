@@ -4,7 +4,7 @@ linktitle: Sort
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::Sort method. Sorts two arrays one containing keys and the other - corresponding items, based on the values of array containing keys, elements of which are compared using operator< in C++.'
 type: docs
-weight: 5800
+weight: 6000
 url: /cpp/system/array/sort/
 ---
 ## Array::Sort(const ArrayPtr\<TKey\>\&, const ArrayPtr\<TValue\>\&) method
@@ -119,6 +119,22 @@ template<typename Type,typename Y> static void System::Array<T>::Sort(const Arra
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IComparer](../../../system.collections.generic/icomparer/)
+* Class [Array](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Array::Sort(const ArrayPtr\<Type\>\&, const System::Comparison\<T\>\&) method
+
+
+Sorts elements in the specified array using specified comparison.
+
+```cpp
+template<typename Type> static void System::Array<T>::Sort(const ArrayPtr<Type> &arr, const System::Comparison<T> &comparison)
+```
+
+## See Also
+
+* Typedef [ArrayPtr](../../arrayptr/)
+* Class [Comparison](../../comparison/)
 * Class [Array](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

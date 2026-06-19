@@ -4,7 +4,7 @@ linktitle: Console
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Console class. Provides methods for outputting data to the standard output stream. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system/console/
 ---
 ## Console class
@@ -26,6 +26,7 @@ class Console
 | static [get_Out](./get_out/)() | Returns a shared pointer pointing to the object that represents the standard output stream. |
 | static [Mute](./mute/)(bool) | Mutes or unmutes the standard output stream. |
 | static [ReadKey](./readkey/)() | NOT IMPLEMENTED. |
+| static [set_Title](./set_title/)(const String\&) | Sets console window caption. |
 | static [SetError](./seterror/)(const SharedPtr\<System::IO::TextWriter\>\&) | Assigns the specified object to the class' Error property. |
 | static [SetIn](./setin/)(const SharedPtr\<System::IO::TextReader\>\&) | Sets the In property to the specified TextReader object. |
 | static [SetOut](./setout/)(const SharedPtr\<System::IO::TextWriter\>\&) | Assigns the specified object to the class' Out property. |

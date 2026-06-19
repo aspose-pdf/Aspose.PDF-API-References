@@ -52,6 +52,7 @@ class UTF7Encoding : public System::Text::Encoding
 | [GetMaxCharCount](./getmaxcharcount/)(int) override | Get the maximum number of characters needed to decode a specified number of bytes. |
 | [GetString](./getstring/)(ArrayPtr\<uint8_t\>, int, int) override | Decodes a buffer of bytes into a string. |
 | virtual [GetString](./getstring/)(uint8_t *, int) | Decodes a buffer of bytes into a string. |
+| [GetString](./getstring/)(const ReadOnlySpan\<uint8_t\>\&) | Decodes a buffer of bytes into a string. |
 | virtual [GetString](./getstring/)(ArrayPtr\<uint8_t\>) | Decodes a buffer of bytes into a string. |
 | virtual [GetString](./getstring/)(const System::Details::ArrayView\<uint8_t\>\&) | Decodes a buffer of bytes into a string. |
 | [GetString](./getstring/)(System::Details::StackArray\<uint8_t, N\>\&) | Decodes a buffer of bytes into a string. |

@@ -4,7 +4,7 @@ linktitle: GCHandleType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::GCHandleType enum. Defines how handle is treated by garbage collector in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/system.runtime.interopservices/gchandletype/
 ---
 ## GCHandleType enum

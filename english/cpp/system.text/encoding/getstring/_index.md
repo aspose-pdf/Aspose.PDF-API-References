@@ -59,6 +59,31 @@ virtual String System::Text::Encoding::GetString(ArrayPtr<uint8_t> bytes, int in
 * Class [Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Encoding::GetString(const ReadOnlySpan\<uint8_t\>\&) method
+
+
+Decodes a buffer of bytes into a string.
+
+```cpp
+String System::Text::Encoding::GetString(const ReadOnlySpan<uint8_t> &bytes)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | const ReadOnlySpan\<uint8_t\>\& | [Buffer](../../../system/buffer/) to read bytes from. |
+
+### ReturnValue
+
+[String](../../../system/string/) of decoded characters.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [ReadOnlySpan](../../../system/readonlyspan/)
+* Class [Encoding](../)
+* Namespace [System::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Encoding::GetString(const System::Details::ArrayView\<uint8_t\>\&) method
 
 

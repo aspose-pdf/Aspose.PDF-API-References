@@ -4,7 +4,7 @@ linktitle: SetError
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Console::SetError method. Assigns the specified object to the class'' Error property in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system/console/seterror/
 ---
 ## Console::SetError method

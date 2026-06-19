@@ -4,7 +4,7 @@ linktitle: rbegin
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::rbegin method. Returns a reverse iterator to the first element of the reversed container. It corresponds to the last element of the non-reversed container. If the container is empty, the returned iterator is equal to rend() in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/system/array/rbegin/
 ---
 ## Array::rbegin() const method

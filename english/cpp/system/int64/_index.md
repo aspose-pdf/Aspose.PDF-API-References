@@ -4,7 +4,7 @@ linktitle: Int64
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Int64 class. Contains methods to work with the 64-bit integer in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/system/int64/
 ---
 ## Int64 class

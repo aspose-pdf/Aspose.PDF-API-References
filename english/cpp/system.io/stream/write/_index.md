@@ -75,3 +75,23 @@ template<std::size_t> void System::IO::Stream::Write(const System::Details::Stac
 * Class [Stream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Stream::Write(const System::ReadOnlySpan\<uint8_t\>\&) method
+
+
+Writes the specified subrange of bytes from the specified byte span to the stream.
+
+```cpp
+virtual void System::IO::Stream::Write(const System::ReadOnlySpan<uint8_t> &buffer)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | const System::ReadOnlySpan\<uint8_t\>\& | The byte span to read the written bytes from |
+
+## See Also
+
+* Class [ReadOnlySpan](../../../system/readonlyspan/)
+* Class [Stream](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.PDF for C++](../../../)

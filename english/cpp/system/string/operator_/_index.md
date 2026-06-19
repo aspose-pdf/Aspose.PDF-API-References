@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::operator< method. Order-compares strings in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/system/string/operator_/
 ---
 ## String::operator< method
@@ -37,7 +37,7 @@ linktitle: operator>
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::operator> method. Order-compares strings in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/system/string/operator_/
 ---
 ## String::operator> method

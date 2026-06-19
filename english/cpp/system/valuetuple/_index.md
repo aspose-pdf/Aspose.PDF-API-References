@@ -4,7 +4,7 @@ linktitle: ValueTuple
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ValueTuple class. Class that represents a ValueTuple data structure in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/system/valuetuple/
 ---
 ## ValueTuple class

@@ -4,7 +4,7 @@ linktitle: SetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::SetValue method. Sets value of the element at specified index in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/system/array/setvalue/
 ---
 ## Array::SetValue method

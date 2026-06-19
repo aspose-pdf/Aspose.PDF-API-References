@@ -4,7 +4,7 @@ linktitle: VarEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::VarEnum enum. Defines how array elements should be marshalled in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.runtime.interopservices/varenum/
 ---
 ## VarEnum enum

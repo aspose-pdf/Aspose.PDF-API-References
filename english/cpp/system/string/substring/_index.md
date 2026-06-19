@@ -4,7 +4,7 @@ linktitle: Substring
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::Substring method. Extracts substring in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system/string/substring/
 ---
 ## String::Substring(int32_t) const method

@@ -4,7 +4,7 @@ linktitle: Write
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Console::Write method. Outputs the string representation of bool value to the standard output stream in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system/console/write/
 ---
 ## Console::Write(bool) method
