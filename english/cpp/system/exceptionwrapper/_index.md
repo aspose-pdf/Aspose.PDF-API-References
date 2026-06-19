@@ -4,7 +4,7 @@ linktitle: ExceptionWrapper
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ExceptionWrapper class. Template that represents wrapper of exceptions that are derived from Exception class in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system/exceptionwrapper/
 ---
 ## ExceptionWrapper class

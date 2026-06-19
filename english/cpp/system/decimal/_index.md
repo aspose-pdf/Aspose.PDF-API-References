@@ -4,7 +4,7 @@ linktitle: Decimal
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Decimal class. Represents a decimal number. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system/decimal/
 ---
 ## Decimal class

@@ -4,7 +4,7 @@ linktitle: ToCharArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::ToCharArray method. Converts string or substring to array of characters in C++.'
 type: docs
-weight: 4700
+weight: 4800
 url: /cpp/system/string/tochararray/
 ---
 ## String::ToCharArray method

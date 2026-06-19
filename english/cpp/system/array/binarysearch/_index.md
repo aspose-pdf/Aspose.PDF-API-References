@@ -4,7 +4,7 @@ linktitle: BinarySearch
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array::BinarySearch method. Performs binary search in the sorted array in C++.'
 type: docs
-weight: 4600
+weight: 4800
 url: /cpp/system/array/binarysearch/
 ---
 ## Array::BinarySearch(System::ArrayPtr\<T\>, const T\&) method

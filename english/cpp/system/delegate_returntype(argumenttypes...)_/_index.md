@@ -4,7 +4,7 @@ linktitle: Delegate< ReturnType(ArgumentTypes...)>
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Delegate< ReturnType(ArgumentTypes...)> class. Represents a pointer to a function, method or a function object. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/system/delegate_returntype(argumenttypes...)_/
 ---
 ## Delegate< ReturnType(ArgumentTypes...)> class

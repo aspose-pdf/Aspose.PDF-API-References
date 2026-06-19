@@ -4,7 +4,7 @@ linktitle: StringToHGlobalAuto
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::Marshal::StringToHGlobalAuto method. Copies the contents of a specified string into unmanaged memory, converting to ANSI format if required in C++.'
 type: docs
-weight: 1500
+weight: 1700
 url: /cpp/system.runtime.interopservices/marshal/stringtohglobalauto/
 ---
 ## Marshal::StringToHGlobalAuto method

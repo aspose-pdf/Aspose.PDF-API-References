@@ -4,7 +4,7 @@ linktitle: u_str
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String::u_str method. Returns ICU-styled null-terminated buffer. May reallocate the string in C++.'
 type: docs
-weight: 6000
+weight: 6100
 url: /cpp/system/string/u_str/
 ---
 ## String::u_str method

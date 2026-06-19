@@ -124,6 +124,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfEncrypt](./security/asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
+| [AsposePdfSignPKCS7Detached](./security/asposepdfsignpkcs7detached/) | Sign a PDF-file with detached digital signatures. |
 | [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords of the PDF-file. |
 
 

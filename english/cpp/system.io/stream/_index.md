@@ -42,6 +42,7 @@ class Stream : public System::IDisposable
 | virtual [Read](./read/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
 | virtual [Read](./read/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
 | [Read](./read/)(const System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t) | Reads the specified number of bytes from the stream and writes them to the specified byte array. |
+| virtual [Read](./read/)(const System::Span\<uint8_t\>\&) | Reads the specified number of bytes from the stream and writes them to the specified byte span. |
 | virtual [ReadAsync](./readasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t, const Threading::CancellationToken\&) | Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests. |
 | [ReadAsync](./readasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests. |
 | virtual [ReadByte](./readbyte/)() | Reads a single byte from the stream and returns a 32-bit integer value equivalent to the value of the read byte. |
@@ -53,6 +54,7 @@ class Stream : public System::IDisposable
 | virtual [Write](./write/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
 | virtual [Write](./write/)(const System::Details::ArrayView\<uint8_t\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
 | [Write](./write/)(const System::Details::StackArray\<uint8_t, N\>\&, int32_t, int32_t) | Writes the specified subrange of bytes from the specified byte array to the stream. |
+| virtual [Write](./write/)(const System::ReadOnlySpan\<uint8_t\>\&) | Writes the specified subrange of bytes from the specified byte span to the stream. |
 | virtual [WriteAsync](./writeasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t, const Threading::CancellationToken\&) | Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests. |
 | [WriteAsync](./writeasync/)(const ArrayPtr\<uint8_t\>\&, int32_t, int32_t) | Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests. |
 | virtual [WriteByte](./writebyte/)(uint8_t) | Writes the specified unsigned 8-bit integer value to the stream. |

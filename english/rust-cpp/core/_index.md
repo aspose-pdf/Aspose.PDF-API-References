@@ -26,6 +26,10 @@ url: /rust-cpp/core/
 | [split_at_page](./split_at_page/) | Split the PDF-document into two new PDF-documents. |
 | [split_at](./split_at/) | Split the current PDF-document into two new PDF-documents. |
 | [bytes](./bytes/) | Return the contents of the PDF-document as a byte vector. |
+| [get_meta_info](./get_meta_info/) | Get meta information value of PDF-document. |
+| [set_meta_info](./set_meta_info/) | Set meta information value of PDF-document. |
+| [clear_meta_info](./clear_meta_info/) | Clear all meta information values of PDF-document. |
+| [is_linearized](./is_linearized/) | Get a value indicating whether document is linearized. |
 | [page_add](./page_add/) | Add new page in PDF-document. |
 | [page_insert](./page_insert/) | Insert new page at the specified position in PDF-document. |
 | [page_delete](./page_delete/) | Delete specified page in PDF-document. |

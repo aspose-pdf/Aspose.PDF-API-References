@@ -182,6 +182,26 @@ System::String::String(const codeporting_icu::UnicodeString &str)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
+## String::String(const ReadOnlySpan\<char16_t\>\&) constructor
+
+
+Initializes a new instance of the [System.String](../) class to the Unicode characters indicated in the specified read-only span.
+
+```cpp
+System::String::String(const ReadOnlySpan<char16_t> &value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const ReadOnlySpan\<char16_t\>\& | A read-only span of Unicode characters. |
+
+## See Also
+
+* Class [ReadOnlySpan](../../readonlyspan/)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## String::String(const std::string\&) constructor
 
 

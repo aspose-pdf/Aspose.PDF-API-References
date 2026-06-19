@@ -4,7 +4,7 @@ linktitle: BrotliStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IO::Compression::BrotliStream typedef. An alias for Aspose::Brotli::BrotliStream in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system.io.compression/brotlistream/
 ---
 ## BrotliStream typedef

@@ -4,7 +4,7 @@ linktitle: MakeScopeGuard
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeScopeGuard method. A factory function that creates instances of ScopedGuard class in C++.'
 type: docs
-weight: 24800
+weight: 24900
 url: /cpp/system/makescopeguard/
 ---
 ## System::MakeScopeGuard method

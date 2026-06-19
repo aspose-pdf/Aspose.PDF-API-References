@@ -4,7 +4,7 @@ linktitle: EnumValues
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EnumValues class. Provides meta information about enumeration constants of enum type E in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/system/enumvalues/
 ---
 ## EnumValues class

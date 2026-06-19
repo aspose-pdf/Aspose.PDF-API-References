@@ -4,7 +4,7 @@ linktitle: SecureStringToGlobalAllocAnsi
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Runtime::InteropServices::Marshal::SecureStringToGlobalAllocAnsi method. Copies contents of specified secure string into unmanaged memory, converting into ANSI format in C++.'
 type: docs
-weight: 1200
+weight: 1400
 url: /cpp/system.runtime.interopservices/marshal/securestringtoglobalallocansi/
 ---
 ## Marshal::SecureStringToGlobalAllocAnsi method

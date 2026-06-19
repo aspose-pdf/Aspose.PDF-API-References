@@ -4,7 +4,7 @@ linktitle: Char
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Char class. Provides methods for manipulation of characters represented as UTF-16 code units. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system/char/
 ---
 ## Char class

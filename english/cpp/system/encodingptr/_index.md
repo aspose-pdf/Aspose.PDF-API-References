@@ -4,7 +4,7 @@ linktitle: EncodingPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EncodingPtr typedef. An alias for a smart pointer that points to an instance of System::Text::Encoding class in C++.'
 type: docs
-weight: 11200
+weight: 11300
 url: /cpp/system/encodingptr/
 ---
 ## EncodingPtr typedef

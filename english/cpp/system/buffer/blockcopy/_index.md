@@ -98,6 +98,31 @@ template<typename TSrc,typename TDst,std::size_t> static void System::Buffer::Bl
 * Class [Buffer](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Buffer::BlockCopy(const SharedPtr\<ArrayBase\>\&, int, const SharedPtr\<ArrayBase\>\&, int, int) method
+
+
+Interprets two specified arrays as raw arrays of bytes and copies data from one of them to another.
+
+```cpp
+static void System::Buffer::BlockCopy(const SharedPtr<ArrayBase> &src, int srcOffset, const SharedPtr<ArrayBase> &dst, int dstOffset, int count)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | const SharedPtr\<ArrayBase\>\& | The source array |
+| srcOffset | int | A byte offset in the tho source array at which copying starts |
+| dst | const SharedPtr\<ArrayBase\>\& | The destination array |
+| dstOffset | int | A byte offset in the destination array at which to start inserting data |
+| count | int | The number of bytes to copy |
+
+## See Also
+
+* Typedef [SharedPtr](../../sharedptr/)
+* Class [ArrayBase](../../arraybase/)
+* Class [Buffer](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Buffer::BlockCopy(const System::Details::ArrayView\<TSrc\>\&, int, const SharedPtr\<Array\<TDst\>\>\&, int, int) method
 
 

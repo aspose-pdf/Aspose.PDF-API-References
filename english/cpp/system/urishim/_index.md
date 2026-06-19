@@ -4,7 +4,7 @@ linktitle: UriShim
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::UriShim class. Service class in C++.'
 type: docs
-weight: 7000
+weight: 7100
 url: /cpp/system/urishim/
 ---
 ## UriShim class

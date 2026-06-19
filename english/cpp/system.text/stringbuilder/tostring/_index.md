@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::ToString method. Gets string currently contained in builder in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.text/stringbuilder/tostring/
 ---
 ## StringBuilder::ToString() const method

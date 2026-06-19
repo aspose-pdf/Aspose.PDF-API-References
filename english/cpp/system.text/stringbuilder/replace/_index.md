@@ -4,7 +4,7 @@ linktitle: Replace
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder::Replace method. Replaces character through the builder in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.text/stringbuilder/replace/
 ---
 ## StringBuilder::Replace(char_t, char_t) method

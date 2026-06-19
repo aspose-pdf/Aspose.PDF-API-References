@@ -1,28 +1,20 @@
 ---
-title: System::IO::Compression::CompressionLevel enum
+title: System::IO::Compression::CompressionLevel typedef
 linktitle: CompressionLevel
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::IO::Compression::CompressionLevel enum. Specifies values that indicate whether a compression operation emphasizes speed or compression size in C++.'
+description: 'System::IO::Compression::CompressionLevel typedef. An alias for Aspose::Zip::CompressionLevel enum in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.io.compression/compressionlevel/
 ---
-## CompressionLevel enum
+## CompressionLevel typedef
 
 
-Specifies values that indicate whether a compression operation emphasizes speed or compression size.
+An alias for Aspose::Zip::CompressionLevel enum.
 
 ```cpp
-enum class CompressionLevel
+using System::IO::Compression::CompressionLevel =  Aspose::Zip::CompressionLevel
 ```
-
-### Values
-
-| Name | Value | Description |
-| --- | --- | --- |
-| Optimal | 0 |  |
-| Fastest | 1 |  |
-| NoCompression | 2 |  |
 
 ## See Also
 

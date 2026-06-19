@@ -27,6 +27,7 @@ class Marshal
 | static [Copy](./copy/)(const container\&, int, void *, int) | Implements public static void Copy(char[] source, int startIndex, IntPtr destination, int length). |
 | static [Copy](./copy/)(const container\&, int, IntPtr, int) | Implements public static void Copy(char[] source, int startIndex, IntPtr destination, int length). |
 | static [FreeHGlobal](./freehglobal/)(IntPtr) | Frees unmanaged memory. |
+| static [GetDelegateForFunctionPointer](./getdelegateforfunctionpointer/)(IntPtr) | Converts an unmanaged function pointer to a delegate of a specified type. |
 | static [GetHRForException](./gethrforexception/)(const System::Exception\&) | Gets HResult from exception. |
 | static [PtrToStringAnsi](./ptrtostringansi/)(IntPtr) | Creates a managed [String](../../system/string/) from an unmanaged zero-terminated UTF8-string. |
 | static [PtrToStringAnsi](./ptrtostringansi/)(IntPtr, int) | Creates a managed [String](../../system/string/) from an unmanaged UTF8-string. |
@@ -39,6 +40,7 @@ class Marshal
 | static [ReadByte](./readbyte/)(IntPtr, int) | Reads byte from memory. |
 | static [ReadInt16](./readint16/)(IntPtr, int) | Reads short from memory. |
 | static [ReadInt32](./readint32/)(IntPtr, int) | Reads int from memory. |
+| static [ReadIntPtr](./readintptr/)(IntPtr, int) | Reads IntPtr from memory. |
 | static [SecureStringToGlobalAllocAnsi](./securestringtoglobalallocansi/)(const SharedPtr\<Security::SecureString\>\&) | Copies contents of specified secure string into unmanaged memory, converting into ANSI format. |
 | static [SecureStringToGlobalAllocUnicode](./securestringtoglobalallocunicode/)(const SharedPtr\<Security::SecureString\>\&) | Copies contents of specified secure string into unmanaged memory. |
 | static [StringToHGlobalAnsi](./stringtohglobalansi/)(const String\&) | Copies the contents of a specified string into unmanaged memory. |
@@ -49,6 +51,7 @@ class Marshal
 | static [WriteInt16](./writeint16/)(IntPtr, int, int16_t) | Writes short to memory. |
 | static [WriteInt32](./writeint32/)(IntPtr, int, int32_t) | Writes int to memory. |
 | static [WriteInt64](./writeint64/)(IntPtr, int, int64_t) | Writes long to memory. |
+| static [WriteIntPtr](./writeintptr/)(IntPtr, int, IntPtr) | Writes IntPtr to memory. |
 | static [ZeroFreeGlobalAllocAnsi](./zerofreeglobalallocansi/)(IntPtr) | Frees unmanaged string pointer that was allocated using the SecureStringToGlobalAllocAnsi method. |
 | static [ZeroFreeGlobalAllocUnicode](./zerofreeglobalallocunicode/)(IntPtr) | Frees unmanaged string pointer that was allocated using the SecureStringToGlobalAllocUnicode method. |
 ## See Also

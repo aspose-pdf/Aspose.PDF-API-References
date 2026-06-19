@@ -27,6 +27,10 @@ url: /go-cpp/core/
 | [SplitAtPage](./splitatpage/) | Split the PDF-document into two new PDF-documents. |
 | [SplitAt](./splitat/) | Split the current PDF-document into two new PDF-documents. |
 | [Bytes](./bytes/) | Return the contents of the PDF-document as a byte slice. |
+| [GetMetaInfo](./getmetainfo/) | Get meta information value of PDF-document.. |
+| [SetMetaInfo](./setmetainfo/) | Set meta information value of PDF-document.. |
+| [ClearMetaInfo](./clearmetainfo/) | Clear all meta information values of PDF-document.. |
+| [IsLinearized](./islinearized/) | Get a value indicating whether document is linearized. |
 | [PageAdd](./pageadd/) | Add new page in PDF-document. |
 | [PageInsert](./pageinsert/) | Insert new page at the specified position in PDF-document. |
 | [PageDelete](./pagedelete/) | Delete specified page in PDF-document. |
