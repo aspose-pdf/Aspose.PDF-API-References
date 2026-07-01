@@ -103,6 +103,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfReplaceTextEx](./organize/asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
 | [AsposePdfRecover](./organize/asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 | [AsposePdfRebuildXrefAndTrailer](./organize/asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
+| [AsposePdfReversePages](./organize/asposepdfreversepages/) | Reverse the page order of a PDF-file. |
 
 
 ## Metadata PDF functions
