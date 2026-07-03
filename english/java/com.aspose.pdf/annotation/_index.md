@@ -1,642 +1,492 @@
 ---
 title: Annotation
 second_title: Aspose.PDF for Java API Reference
-description: Class representing annotation object.
+description: Class representing an annotation object.
 type: docs
-weight: 14
+weight: 60
 url: /java/com.aspose.pdf/annotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
 public abstract class Annotation extends BaseParagraph
 ```
 
-Class representing annotation object.
+Class representing an annotation object.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [initialize(IDocument doc)](#initialize-com.aspose.pdf.IDocument-) | Instance initialization |
-| [getEngineObj()](#getEngineObj--) | For Internal usage only |
-| [getEngineDict()](#getEngineDict--) | Internal only |
-| [isUpdateAppearanceOnConvert()](#isUpdateAppearanceOnConvert--) | If true, annotation appearance will be updated before converting PDF document into image. |
-| [setUpdateAppearanceOnConvert(boolean value)](#setUpdateAppearanceOnConvert-boolean-) | If true, annotation appearance will be updated before converting PDF document into image. |
-| [isUseFontSubset()](#isUseFontSubset--) | If this property set to true, fonts will be added to document as subsets. |
-| [setUseFontSubset(boolean value)](#setUseFontSubset-boolean-) | If this property set to true, fonts will be added to document as subsets. |
-| [getNormalAppearance()](#getNormalAppearance--) | Gets normal appearance. |
-| [getFlags()](#getFlags--) | Get flags of the annotation. |
-| [setFlags(int value)](#setFlags-int-) | Set flags of the annotation. |
-| [getPage()](#getPage--) | Gets the page object with which this annotation is associated. |
-| [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
-| [getWidth()](#getWidth--) | Gets width of the annotation. |
-| [setWidth(double value)](#setWidth-double-) | Sets width of the annotation. |
-| [getPdfActions()](#getPdfActions--) | Gets list of annotation actions. |
-| [getHeight()](#getHeight--) | Gets height of the annotation. |
-| [setHeight(double value)](#setHeight-double-) | Sets height of the annotation. |
-| [getRect()](#getRect--) | Gets annotation rectangle. |
-| [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Sets annotation rectangle. |
-| [getRectangle(boolean considerRotation)](#getRectangle-boolean-) | Returns rectangle of annotation taking into consideration page rotation. |
-| [getContents()](#getContents--) | Gets annotation text. |
-| [setContents(String value)](#setContents-java.lang.String-) | Sets annotation text. |
-| [getName()](#getName--) | Gets annotation name on the page. |
-| [setName(String value)](#setName-java.lang.String-) | Sets annotation name on the page. |
-| [getModifiedInternal()](#getModifiedInternal--) | Gets date and time when annotation was recently modified. |
-| [getModified()](#getModified--) | Gets date and time when annotation was recently modified. |
-| [setModifiedInternal(System.DateTime value)](#setModifiedInternal-com.aspose.ms.System.DateTime-) | Sets date and time when annotation was recently modified. |
-| [setModified(Date value)](#setModified-java.util.Date-) | Sets date and time when annotation was recently modified. |
-| [getColor()](#getColor--) | Gets annotation color. |
-| [setColor(Color value)](#setColor-com.aspose.pdf.Color-) | Sets annotation color. |
-| [getBorder()](#getBorder--) | Gets annotation border characteristics. |
-| [setBorder(Border value)](#setBorder-com.aspose.pdf.Border-) | Sets annotation border characteristics. |
-| [getActiveState()](#getActiveState--) | Gets current annotation appearance state. |
-| [setActiveState(String value)](#setActiveState-java.lang.String-) | Sets current annotation appearance state. |
-| [getCharacteristics()](#getCharacteristics--) | Gets annotation characteristics. |
-| [getStates()](#getStates--) | Gets appearance dictionary of annotation. |
-| [getAlignment()](#getAlignment--) | Annotation alignment. |
-| [setAlignment(TextAlignment value)](#setAlignment-com.aspose.pdf.TextAlignment-) | Annotation alignment. |
-| [getHorizontalAlignment_Annotation_New()](#getHorizontalAlignment-Annotation-New--) | Gets or sets text alignment for annotation. |
-| [setHorizontalAlignment_Annotation_New(HorizontalAlignment value)](#setHorizontalAlignment-Annotation-New-com.aspose.pdf.HorizontalAlignment-) | Gets or sets text alignment for annotation. |
-| [getTextHorizontalAlignment()](#getTextHorizontalAlignment--) | Gets text alignment for annotation. |
-| [setTextHorizontalAlignment(HorizontalAlignment value)](#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets text alignmennt for annotation. |
-| [createAnnotation(IPdfObject annotEngineObj, Page page)](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor for annotation processing. |
-| [flatten()](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
-| [getFullName()](#getFullName--) | Gets full qualified name of the annotation. |
-| [getAppearance()](#getAppearance--) | Gets appearance dictionary of the annotation. |
-| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Update parameters and appearance, according to the matrix transform. |
-| [getPageIndex()](#getPageIndex--) | Gets index of page which contains annotation. |
-| [getPageIndex(Annotation annotation)](#getPageIndex-com.aspose.pdf.Annotation-) | Gets index of page which contains annotation. |
-### initialize(IDocument doc) {#initialize-com.aspose.pdf.IDocument-}
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor for annotation processing. |
+| [changeAfterResize](#changeAfterResize-com.aspose.pdf.Matrix-) | Update parameters and appearance, according to the matrix transform. |
+| [createAnnotation](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
+| [flatten](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
+| [getActiveState](#getActiveState--) | Gets current annotation appearance state. |
+| [getAlignment](#getAlignment--) | ff / * / * Returns name of "checked" state according to existing state names. / * / * / * |
+| [getAnnotationType](#getAnnotationType--) | Gets type of annotation. |
+| [getAppearance](#getAppearance--) | Gets appearance dictionary of the annotation. |
+| [getAssignedPageIndex](#getAssignedPageIndex--) | Gets the page index (one-based) where the annotation should appear. |
+| [getBorder](#getBorder--) | Gets annotation border characteristics. {@code Border} |
+| [getCharacteristics](#getCharacteristics--) | Gets annotation characteristics. |
+| [getColor](#getColor--) | Gets annotation color. |
+| [getContents](#getContents--) | Gets annotation text. |
+| [getEngineDict](#getEngineDict--) | Internal only |
+| [getEngineObj](#getEngineObj--) | For Internal usage only |
+| [getFlags](#getFlags--) | Get flags of the annotation. |
+| [getFullName](#getFullName--) | Gets full qualified name of the annotation. |
+| [getHeight](#getHeight--) | Gets height of the annotation. |
+| [getHorizontalAlignment_Annotation_New](#getHorizontalAlignment_Annotation_New--) | Gets or sets text alignment for annotation. |
+| [getModified](#getModified--) | Gets date and time when annotation was recently modified. |
+| [getModifiedInternal](#getModifiedInternal--) | Gets date and time when annotation was recently modified. |
+| [getName](#getName--) | Gets annotation name on the page. |
+| [getNormalAppearance](#getNormalAppearance--) | Gets normal appearance. |
+| [getPage](#getPage--) | Gets the page object with which this annotation is associated. |
+| [getPageIndex](#getPageIndex--) | Gets index of page which contains annotation. |
+| [getPageIndex](#getPageIndex-com.aspose.pdf.Annotation-) | Gets index of page which contains annotation. |
+| [getPdfActions](#getPdfActions--) | Gets list of annotation actions. |
+| [getRect](#getRect--) | Gets annotation rectangle. |
+| [getRectangle](#getRectangle-boolean-) | Returns rectangle of annotation taking into consideration page rotation. |
+| [getStates](#getStates--) | Gets appearance dictionary of annotation. |
+| [getTextHorizontalAlignment](#getTextHorizontalAlignment--) | Gets text alignment for annotation. |
+| [getWidth](#getWidth--) | Gets width of the annotation. |
+| [initialize](#initialize-com.aspose.pdf.IDocument-) | Instance initialization |
+| [isUpdateAppearanceOnConvert](#isUpdateAppearanceOnConvert--) | If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time. |
+| [isUseFontSubset](#isUseFontSubset--) | If this property set to true, fonts will be added to document as subsets. Default value is true. |
+| [setActiveState](#setActiveState-java.lang.String-) | Sets current annotation appearance state. |
+| [setAlignment](#setAlignment-com.aspose.pdf.TextAlignment-) | Annotation alignment. This property is obsolete. Use getHorizontalAlignment_Annotation_New instead. |
+| [setAssignedPageIndex](#setAssignedPageIndex-com.aspose.ms.System.Nullable-) | Sets the page index (one-based) where the annotation should appear. |
+| [setBorder](#setBorder-com.aspose.pdf.Border-) | Sets annotation border characteristics. {@code Border} |
+| [setColor](#setColor-com.aspose.pdf.Color-) | Sets annotation color. |
+| [setContents](#setContents-java.lang.String-) | Sets annotation text. |
+| [setFlags](#setFlags-int-) | Set flags of the annotation. |
+| [setHeight](#setHeight-double-) | Sets height of the annotation. |
+| [setHorizontalAlignment_Annotation_New](#setHorizontalAlignment_Annotation_New-com.aspose.pdf.HorizontalAlignment-) | Gets or sets text alignment for annotation. |
+| [setModified](#setModified-java.util.Date-) | Sets date and time when annotation was recently modified. |
+| [setModifiedInternal](#setModifiedInternal-com.aspose.ms.System.DateTime-) | Sets date and time when annotation was recently modified. |
+| [setName](#setName-java.lang.String-) | Sets annotation name on the page. |
+| [setRect](#setRect-com.aspose.pdf.Rectangle-) | Sets annotation rectangle. |
+| [setTextHorizontalAlignment](#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets text alignmennt for annotation. |
+| [setUpdateAppearanceOnConvert](#setUpdateAppearanceOnConvert-boolean-) | If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time. |
+| [setUseFontSubset](#setUseFontSubset-boolean-) | If this property set to true, fonts will be added to document as subsets. Default value is true. |
+| [setWidth](#setWidth-double-) | Sets width of the annotation. |
+
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Accepts visitor for annotation processing.
+
+### changeAfterResize {#changeAfterResize-com.aspose.pdf.Matrix-}
+Update parameters and appearance, according to the matrix transform.
+
+### createAnnotation {#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-}
+For internal usage only
+
+### flatten {#flatten--}
 ```
-public void initialize(IDocument doc)
+public void flatten()
 ```
 
+Places annotation contents directly on the page, annotation object will be removed.
 
-Instance initialization
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | IDocument object |
-
-### getEngineObj() {#getEngineObj--}
+### getActiveState {#getActiveState--}
 ```
-public IPdfObject getEngineObj()
+public String getActiveState()
 ```
 
-
-For Internal usage only
+Gets current annotation appearance state.
 
 **Returns:**
-[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - Internal onject
-### getEngineDict() {#getEngineDict--}
+String value
+
+### getAlignment {#getAlignment--}
 ```
-public IPdfDictionary getEngineDict()
+@Deprecated public TextAlignment getAlignment()
 ```
 
-
-Internal only
+ff / * / * Returns name of "checked" state according to existing state names. / * / * / *
 
 **Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
-### isUpdateAppearanceOnConvert() {#isUpdateAppearanceOnConvert--}
-```
-public static synchronized boolean isUpdateAppearanceOnConvert()
-```
+String value /
 
-
-If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
-
-**Returns:**
-boolean - boolean value
-### setUpdateAppearanceOnConvert(boolean value) {#setUpdateAppearanceOnConvert-boolean-}
-```
-public static synchronized void setUpdateAppearanceOnConvert(boolean value)
-```
-
-
-If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### isUseFontSubset() {#isUseFontSubset--}
-```
-public static synchronized boolean isUseFontSubset()
-```
-
-
-If this property set to true, fonts will be added to document as subsets. Default value is true.
-
-**Returns:**
-boolean - boolean value
-### setUseFontSubset(boolean value) {#setUseFontSubset-boolean-}
-```
-public static synchronized void setUseFontSubset(boolean value)
-```
-
-
-If this property set to true, fonts will be added to document as subsets. Default value is true.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getNormalAppearance() {#getNormalAppearance--}
-```
-public XForm getNormalAppearance()
-```
-
-
-Gets normal appearance.
-
-**Returns:**
-[XForm](../../com.aspose.pdf/xform) - XForm object
-### getFlags() {#getFlags--}
-```
-public int getFlags()
-```
-
-
-Get flags of the annotation.
-
-**Returns:**
-int - Flags of the annotation
-### setFlags(int value) {#setFlags-int-}
-```
-public void setFlags(int value)
-```
-
-
-Set flags of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | flags of the annotation |
-
-### getPage() {#getPage--}
-```
-public Page getPage()
-```
-
-
-Gets the page object with which this annotation is associated.
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Page object
-### getAnnotationType() {#getAnnotationType--}
+### getAnnotationType {#getAnnotationType--}
 ```
 public abstract AnnotationType getAnnotationType()
 ```
 
-
 Gets type of annotation.
 
 **Returns:**
-[AnnotationType](../../com.aspose.pdf/annotationtype) - int value
-### getWidth() {#getWidth--}
+int value @see AnnotationType
+
+### getAppearance {#getAppearance--}
 ```
-public double getWidth()
+public AppearanceDictionary getAppearance()
 ```
 
-
-Gets width of the annotation.
+Gets appearance dictionary of the annotation.
 
 **Returns:**
-double - double value, width of the annotation.
-### setWidth(double value) {#setWidth-double-}
+AppearanceDictionary object
+
+### getAssignedPageIndex {#getAssignedPageIndex--}
 ```
-public void setWidth(double value)
-```
-
-
-Sets width of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | width of the annotation. |
-
-### getPdfActions() {#getPdfActions--}
-```
-public PdfActionCollection getPdfActions()
+public final com.aspose.ms.System.Nullable< Integer > getAssignedPageIndex()
 ```
 
-
-Gets list of annotation actions.
+Gets the page index (one-based) where the annotation should appear.
 
 **Returns:**
-[PdfActionCollection](../../com.aspose.pdf/pdfactioncollection) - PdfActionCollection instance
-### getHeight() {#getHeight--}
+the page index (one-based) where the annotation should appear.
+
+### getBorder {#getBorder--}
+```
+public Border getBorder()
+```
+
+Gets annotation border characteristics. {@code Border}
+
+**Returns:**
+Border object
+
+### getCharacteristics {#getCharacteristics--}
+```
+public Characteristics getCharacteristics()
+```
+
+Gets annotation characteristics.
+
+**Returns:**
+Characteristics object
+
+### getColor {#getColor--}
+```
+public Color getColor()
+```
+
+Gets annotation color.
+
+**Returns:**
+Color object
+
+### getContents {#getContents--}
+```
+public String getContents()
+```
+
+Gets annotation text.
+
+**Returns:**
+String value
+
+### getEngineDict {#getEngineDict--}
+```
+public com.aspose.pdf.engine.data.IPdfDictionary getEngineDict()
+```
+
+Internal only
+
+**Returns:**
+IPdfDictionary object
+
+### getEngineObj {#getEngineObj--}
+```
+public com.aspose.pdf.engine.data.IPdfObject getEngineObj()
+```
+
+For Internal usage only
+
+**Returns:**
+Internal onject
+
+### getFlags {#getFlags--}
+```
+public int getFlags()
+```
+
+Get flags of the annotation.
+
+**Returns:**
+Flags of the annotation @see AnnotationFlags
+
+### getFullName {#getFullName--}
+```
+public String getFullName()
+```
+
+Gets full qualified name of the annotation.
+
+**Returns:**
+String value
+
+### getHeight {#getHeight--}
 ```
 public double getHeight()
 ```
 
-
 Gets height of the annotation.
 
 **Returns:**
-double - height of the annotation
-### setHeight(double value) {#setHeight-double-}
+height of the annotation
+
+### getHorizontalAlignment_Annotation_New {#getHorizontalAlignment_Annotation_New--}
 ```
-public void setHeight(double value)
+@Deprecated public final HorizontalAlignment getHorizontalAlignment_Annotation_New()
 ```
 
+Gets or sets text alignment for annotation.
 
-Sets height of the annotation.
+**Returns:**
+text alignment for annotation. @see HorizontalAlignment @deprecated Use TextHorizontalAlignment property
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | height of the annotation |
+### getModified {#getModified--}
+```
+public Date getModified()
+```
 
-### getRect() {#getRect--}
+Gets date and time when annotation was recently modified.
+
+**Returns:**
+date and time when annotation was recently modified.
+
+### getModifiedInternal {#getModifiedInternal--}
+```
+public com.aspose.ms.System.DateTime getModifiedInternal()
+```
+
+Gets date and time when annotation was recently modified.
+
+**Returns:**
+DateTime object
+
+### getName {#getName--}
+```
+public String getName()
+```
+
+Gets annotation name on the page.
+
+**Returns:**
+String value
+
+### getNormalAppearance {#getNormalAppearance--}
+```
+public XForm getNormalAppearance()
+```
+
+Gets normal appearance.
+
+**Returns:**
+XForm object
+
+### getPage {#getPage--}
+```
+public Page getPage()
+```
+
+Gets the page object with which this annotation is associated.
+
+**Returns:**
+Page object
+
+### getPageIndex {#getPageIndex--}
+```
+public int getPageIndex()
+```
+
+Gets index of page which contains annotation.
+
+**Returns:**
+int value
+
+### getPageIndex {#getPageIndex-com.aspose.pdf.Annotation-}
+Gets index of page which contains annotation.
+
+**Returns:**
+int value
+
+### getPdfActions {#getPdfActions--}
+```
+public PdfActionCollection getPdfActions()
+```
+
+Gets list of annotation actions.
+
+**Returns:**
+PdfActionCollection instance
+
+### getRect {#getRect--}
 ```
 public Rectangle getRect()
 ```
 
-
 Gets annotation rectangle.
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### setRect(Rectangle value) {#setRect-com.aspose.pdf.Rectangle-}
-```
-public void setRect(Rectangle value)
-```
+Rectangle object
 
-
-Sets annotation rectangle.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle value |
-
-### getRectangle(boolean considerRotation) {#getRectangle-boolean-}
+### getRectangle {#getRectangle-boolean-}
 ```
 public Rectangle getRectangle(boolean considerRotation)
 ```
-
 
 Returns rectangle of annotation taking into consideration page rotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| considerRotation | boolean | If true, page rotation is taken into consideration. |
+| considerRotation |  | If true, page rotation is taken into consideration. |
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getContents() {#getContents--}
-```
-public String getContents()
-```
+Rectangle object
 
-
-Gets annotation text.
-
-**Returns:**
-java.lang.String - String value
-### setContents(String value) {#setContents-java.lang.String-}
-```
-public void setContents(String value)
-```
-
-
-Sets annotation text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getName() {#getName--}
-```
-public String getName()
-```
-
-
-Gets annotation name on the page.
-
-**Returns:**
-java.lang.String - String value
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
-
-
-Sets annotation name on the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getModifiedInternal() {#getModifiedInternal--}
-```
-public System.DateTime getModifiedInternal()
-```
-
-
-Gets date and time when annotation was recently modified.
-
-**Returns:**
-com.aspose.ms.System.DateTime - DateTime object
-### getModified() {#getModified--}
-```
-public Date getModified()
-```
-
-
-Gets date and time when annotation was recently modified.
-
-**Returns:**
-[Date](../../java.util/date) - date and time when annotation was recently modified.
-### setModifiedInternal(System.DateTime value) {#setModifiedInternal-com.aspose.ms.System.DateTime-}
-```
-public void setModifiedInternal(System.DateTime value)
-```
-
-
-Sets date and time when annotation was recently modified.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.DateTime | DateTime object |
-
-### setModified(Date value) {#setModified-java.util.Date-}
-```
-public void setModified(Date value)
-```
-
-
-Sets date and time when annotation was recently modified.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.util.Date | Date object |
-
-### getColor() {#getColor--}
-```
-public Color getColor()
-```
-
-
-Gets annotation color.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color object
-### setColor(Color value) {#setColor-com.aspose.pdf.Color-}
-```
-public void setColor(Color value)
-```
-
-
-Sets annotation color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
-
-### getBorder() {#getBorder--}
-```
-public Border getBorder()
-```
-
-
-Gets annotation border characteristics.  Border 
-
-**Returns:**
-[Border](../../com.aspose.pdf/border) - Border object
-### setBorder(Border value) {#setBorder-com.aspose.pdf.Border-}
-```
-public void setBorder(Border value)
-```
-
-
-Sets annotation border characteristics.  Border 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Border](../../com.aspose.pdf/border) | Border value |
-
-### getActiveState() {#getActiveState--}
-```
-public String getActiveState()
-```
-
-
-Gets current annotation appearance state.
-
-**Returns:**
-java.lang.String - String value
-### setActiveState(String value) {#setActiveState-java.lang.String-}
-```
-public void setActiveState(String value)
-```
-
-
-Sets current annotation appearance state.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getCharacteristics() {#getCharacteristics--}
-```
-public Characteristics getCharacteristics()
-```
-
-
-Gets annotation characteristics.
-
-**Returns:**
-[Characteristics](../../com.aspose.pdf/characteristics) - Characteristics object
-### getStates() {#getStates--}
+### getStates {#getStates--}
 ```
 public AppearanceDictionary getStates()
 ```
 
-
 Gets appearance dictionary of annotation.
 
 **Returns:**
-[AppearanceDictionary](../../com.aspose.pdf/appearancedictionary) - AppearanceDictionary object
-### getAlignment() {#getAlignment--}
-```
-public TextAlignment getAlignment()
-```
+AppearanceDictionary object
 
-
-Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Annotation\_New instead.
-
-**Returns:**
-[TextAlignment](../../com.aspose.pdf/textalignment) - TextAlignment element
-### setAlignment(TextAlignment value) {#setAlignment-com.aspose.pdf.TextAlignment-}
-```
-public void setAlignment(TextAlignment value)
-```
-
-
-Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Annotation\_New instead.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextAlignment](../../com.aspose.pdf/textalignment) | TextAlignment element |
-
-### getHorizontalAlignment_Annotation_New() {#getHorizontalAlignment-Annotation-New--}
-```
-public final HorizontalAlignment getHorizontalAlignment_Annotation_New()
-```
-
-
-Gets or sets text alignment for annotation.
-
-**Returns:**
-[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - text alignment for annotation.
-### setHorizontalAlignment_Annotation_New(HorizontalAlignment value) {#setHorizontalAlignment-Annotation-New-com.aspose.pdf.HorizontalAlignment-}
-```
-public final void setHorizontalAlignment_Annotation_New(HorizontalAlignment value)
-```
-
-
-Gets or sets text alignment for annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | text alignmennt for annotation. |
-
-### getTextHorizontalAlignment() {#getTextHorizontalAlignment--}
+### getTextHorizontalAlignment {#getTextHorizontalAlignment--}
 ```
 public HorizontalAlignment getTextHorizontalAlignment()
 ```
 
-
 Gets text alignment for annotation.
 
 **Returns:**
-[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - text alignment for annotation.
-### setTextHorizontalAlignment(HorizontalAlignment value) {#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
+text alignment for annotation. @see HorizontalAlignment
+
+### getWidth {#getWidth--}
 ```
-public void setTextHorizontalAlignment(HorizontalAlignment value)
+public double getWidth()
 ```
 
+Gets width of the annotation.
 
+**Returns:**
+double value, width of the annotation.
+
+### initialize {#initialize-com.aspose.pdf.IDocument-}
+Instance initialization
+
+### isUpdateAppearanceOnConvert {#isUpdateAppearanceOnConvert--}
+```
+public static boolean isUpdateAppearanceOnConvert()
+```
+
+If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
+
+**Returns:**
+boolean value
+
+### isUseFontSubset {#isUseFontSubset--}
+```
+public static boolean isUseFontSubset()
+```
+
+If this property set to true, fonts will be added to document as subsets. Default value is true.
+
+**Returns:**
+boolean value
+
+### setActiveState {#setActiveState-java.lang.String-}
+Sets current annotation appearance state.
+
+### setAlignment {#setAlignment-com.aspose.pdf.TextAlignment-}
+Annotation alignment. This property is obsolete. Use getHorizontalAlignment_Annotation_New instead.
+
+### setAssignedPageIndex {#setAssignedPageIndex-com.aspose.ms.System.Nullable-}
+Sets the page index (one-based) where the annotation should appear.
+
+### setBorder {#setBorder-com.aspose.pdf.Border-}
+Sets annotation border characteristics. {@code Border}
+
+### setColor {#setColor-com.aspose.pdf.Color-}
+Sets annotation color.
+
+### setContents {#setContents-java.lang.String-}
+Sets annotation text.
+
+### setFlags {#setFlags-int-}
+```
+public void setFlags(int value)
+```
+
+Set flags of the annotation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | flags of the annotation @see AnnotationFlags |
+
+### setHeight {#setHeight-double-}
+```
+public void setHeight(double value)
+```
+
+Sets height of the annotation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | height of the annotation |
+
+### setHorizontalAlignment_Annotation_New {#setHorizontalAlignment_Annotation_New-com.aspose.pdf.HorizontalAlignment-}
+Gets or sets text alignment for annotation.
+
+### setModified {#setModified-java.util.Date-}
+Sets date and time when annotation was recently modified.
+
+### setModifiedInternal {#setModifiedInternal-com.aspose.ms.System.DateTime-}
+Sets date and time when annotation was recently modified.
+
+### setName {#setName-java.lang.String-}
+Sets annotation name on the page.
+
+### setRect {#setRect-com.aspose.pdf.Rectangle-}
+Sets annotation rectangle.
+
+### setTextHorizontalAlignment {#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 Sets text alignmennt for annotation.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | text alignmennt for annotation. |
-
-### createAnnotation(IPdfObject annotEngineObj, Page page) {#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-}
+### setUpdateAppearanceOnConvert {#setUpdateAppearanceOnConvert-boolean-}
 ```
-public static Annotation createAnnotation(IPdfObject annotEngineObj, Page page)
+public static void setUpdateAppearanceOnConvert(boolean value)
 ```
 
-
-For internal usage only
-
-Initializes annotation from PDF object which describes the annotation.
+If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotEngineObj | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | PDF object describing annotation |
-| page | [Page](../../com.aspose.pdf/page) | Page object |
+| value |  | boolean value |
 
-**Returns:**
-[Annotation](../../com.aspose.pdf/annotation) - Created annotation object of appropriate type
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
+### setUseFontSubset {#setUseFontSubset-boolean-}
 ```
-public abstract void accept(AnnotationSelector visitor)
+public static void setUseFontSubset(boolean value)
 ```
 
-
-Accepts visitor for annotation processing.
+If this property set to true, fonts will be added to document as subsets. Default value is true.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | AnnotationSelector object. |
+| value |  | boolean value |
 
-### flatten() {#flatten--}
+### setWidth {#setWidth-double-}
 ```
-public void flatten()
-```
-
-
-Places annotation contents directly on the page, annotation object will be removed.
-
-### getFullName() {#getFullName--}
-```
-public String getFullName()
+public void setWidth(double value)
 ```
 
-
-Gets full qualified name of the annotation.
-
-**Returns:**
-java.lang.String - String value
-### getAppearance() {#getAppearance--}
-```
-public AppearanceDictionary getAppearance()
-```
-
-
-Gets appearance dictionary of the annotation.
-
-**Returns:**
-[AppearanceDictionary](../../com.aspose.pdf/appearancedictionary) - AppearanceDictionary object
-### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
-```
-public void changeAfterResize(Matrix transform)
-```
-
-
-Update parameters and appearance, according to the matrix transform.
+Sets width of the annotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| transform | [Matrix](../../com.aspose.pdf/matrix) | Matrix that use for transformation (resize). |
-
-### getPageIndex() {#getPageIndex--}
-```
-public int getPageIndex()
-```
-
-
-Gets index of page which contains annotation.
-
-**Returns:**
-int - int value
-### getPageIndex(Annotation annotation) {#getPageIndex-com.aspose.pdf.Annotation-}
-```
-public int getPageIndex(Annotation annotation)
-```
-
-
-Gets index of page which contains annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation object |
-
-**Returns:**
-int - int value
+| value |  | width of the annotation. |

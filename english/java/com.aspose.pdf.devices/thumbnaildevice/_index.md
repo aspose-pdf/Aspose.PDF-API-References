@@ -3,75 +3,54 @@ title: ThumbnailDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that save pdf document pages into Thumbnail image.
 type: docs
-weight: 28
+weight: 200
 url: /java/com.aspose.pdf.devices/thumbnaildevice/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.devices.Device](../../com.aspose.pdf.devices/device), [com.aspose.pdf.devices.PageDevice](../../com.aspose.pdf.devices/pagedevice), [com.aspose.pdf.devices.ImageDevice](../../com.aspose.pdf.devices/imagedevice)
+java.lang.Object, com.aspose.pdf.devices.Device com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.ThumbnailDevice, com.aspose.pdf.devices.Device, com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.ThumbnailDevice, com.aspose.pdf.devices.PageDevice, com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.ThumbnailDevice, com.aspose.pdf.devices.ImageDevice, com.aspose.pdf.devices.ThumbnailDevice
+
 ```
 public final class ThumbnailDevice extends ImageDevice
 ```
 
 Represents image device that save pdf document pages into Thumbnail image.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ThumbnailDevice()](#ThumbnailDevice--) | Initializes a new instance of the [ThumbnailDevice](../../com.aspose.pdf.devices/thumbnaildevice) class with default size of thumbnail image (200x200 pixels). |
-| [ThumbnailDevice(int width, int height)](#ThumbnailDevice-int-int-) | Initializes a new instance of the [ThumbnailDevice](../../com.aspose.pdf.devices/thumbnaildevice) class. |
+| [ThumbnailDevice](#ThumbnailDevice--) | Initializes a new instance of the {@link ThumbnailDevice} class with default size of thumbnail image (200x200 pixels). |
+| [ThumbnailDevice](#ThumbnailDevice-int-int-) | Initializes a new instance of the {@link ThumbnailDevice} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [processInternal(Page page, OutputStream output)](#processInternal-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into thumbnail image png and saves it in the output stream. |
-| [processInternal(Page page, System.IO.Stream output)](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) |  |
-### ThumbnailDevice() {#ThumbnailDevice--}
+| [processInternal](#processInternal-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into thumbnail image png and saves it in the output stream. |
+| [processInternal](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Performs some operation on the given page, e.g. |
+
+### ThumbnailDevice {#ThumbnailDevice--}
 ```
 public ThumbnailDevice()
 ```
 
+Initializes a new instance of the {@link ThumbnailDevice} class with default size of thumbnail image (200x200 pixels).
 
-Initializes a new instance of the [ThumbnailDevice](../../com.aspose.pdf.devices/thumbnaildevice) class with default size of thumbnail image (200x200 pixels).
-
-### ThumbnailDevice(int width, int height) {#ThumbnailDevice-int-int-}
+### ThumbnailDevice {#ThumbnailDevice-int-int-}
 ```
 public ThumbnailDevice(int width, int height)
 ```
 
-
-Initializes a new instance of the [ThumbnailDevice](../../com.aspose.pdf.devices/thumbnaildevice) class.
+Initializes a new instance of the {@link ThumbnailDevice} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Thumbnail image output width. |
-| height | int | Thumbnail image output height. |
+| width |  | Thumbnail image output width. |
+| height |  | Thumbnail image output height. |
 
-### processInternal(Page page, OutputStream output) {#processInternal-com.aspose.pdf.Page-java.io.OutputStream-}
-```
-public void processInternal(Page page, OutputStream output)
-```
-
-
+### processInternal {#processInternal-com.aspose.pdf.Page-java.io.OutputStream-}
 Converts the page into thumbnail image png and saves it in the output stream.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page to convert. |
-| output | java.io.OutputStream | Output stream with png image. |
-
-### processInternal(Page page, System.IO.Stream output) {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
-```
-public void processInternal(Page page, System.IO.Stream output)
-```
-
-
-Performs some operation on the given page, e.g. converts page into graphic image.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) |  |
-| output | com.aspose.ms.System.IO.Stream |  |
-
+### processInternal {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
+Performs some operation on the given page, e.g.

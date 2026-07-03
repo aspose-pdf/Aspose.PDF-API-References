@@ -3,216 +3,207 @@ title: SaveFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies format
 type: docs
-weight: 451
+weight: 4360
 url: /java/com.aspose.pdf/saveformat/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object, java.lang.Enum < SaveFormat > com.aspose.pdf.SaveFormat, java.lang.Enum < SaveFormat >, com.aspose.pdf.SaveFormat
+
+**All Implemented Interfaces:**
+Serializable, Comparable < SaveFormat >
+
 ```
-public enum SaveFormat extends Enum<SaveFormat>
+public enum SaveFormat extends Enum < SaveFormat >
 ```
 
 Specifies format
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Pdf](#Pdf) | means saving without change of format, i.e. |
-| [None](#None) | means saving without change of format, i.e. |
-| [Doc](#Doc) | means saving in DOC format |
-| [Xps](#Xps) | means saving in XPS format |
-| [Html](#Html) | means saving in HTML format |
-| [Xml](#Xml) | means saving in XML format |
-| [TeX](#TeX) | means saving in TEX format i.e. |
-| [DocX](#DocX) | means saving in DOCX format |
-| [Svg](#Svg) | means saving in SVG format |
-| [MobiXml](#MobiXml) | means saving in MobiXML format(special format of e-books) |
-| [Excel](#Excel) | means saving in MsExcel format |
-| [Epub](#Epub) | means saving in EPUB format(special format of e-books) |
-| [Pptx](#Pptx) | means saving in MHT(WebArchieve) /// |
 | [Aps](#Aps) | Saving as APS XML file. |
-| [PdfXml](#PdfXml) | Internal PDF document structure in XML format |
-| [Ps](#Ps) | means saving in PostScript format. |
+| [Doc](#Doc) | means saving in DOC format |
+| [DocX](#DocX) | means saving in DOCX format |
 | [Eps](#Eps) | means saving in Encapsulated PostScript format. |
+| [Epub](#Epub) | means saving in EPUB format(special format of e-books) |
+| [Excel](#Excel) | means saving in MsExcel format |
+| [Html](#Html) | means saving in HTML format |
+| [Markdown](#Markdown) | means saving in Markdown format. |
+| [MobiXml](#MobiXml) | means saving in MobiXML format(special format of e-books) |
+| [None](#None) | Deprecated. |
+| [Pdf](#Pdf) | means saving without change of format, i.e. |
+| [PdfXml](#PdfXml) | Internal PDF document structure in XML format |
+| [Pptx](#Pptx) | means saving in MHT(WebArchieve) /// |
+| [Ps](#Ps) | means saving in PostScript format. |
+| [Svg](#Svg) | means saving in SVG format |
+| [TeX](#TeX) | means saving in TEX format i.e. |
+| [Xml](#Xml) | means saving in XML format |
+| [Xps](#Xps) | means saving in XPS format |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [getValue()](#getValue--) |  |
-### Pdf {#Pdf}
-```
-public static final SaveFormat Pdf
-```
-
-
-means saving without change of format, i.e. as PDF use it please instead of 'SaveFormat.None', that is obsolete one
-
-### None {#None}
-```
-public static final SaveFormat None
-```
-
-
-means saving without change of format, i.e. as PDF It's obsolete one and will be deleted eventually, please use instead 'SaveFormat.Pdf'
-
-### Doc {#Doc}
-```
-public static final SaveFormat Doc
-```
-
-
-means saving in DOC format
-
-### Xps {#Xps}
-```
-public static final SaveFormat Xps
-```
-
-
-means saving in XPS format
-
-### Html {#Html}
-```
-public static final SaveFormat Html
-```
-
-
-means saving in HTML format
-
-### Xml {#Xml}
-```
-public static final SaveFormat Xml
-```
-
-
-means saving in XML format
-
-### TeX {#TeX}
-```
-public static final SaveFormat TeX
-```
-
-
-means saving in TEX format i.e. format suitable for Latex text editor
-
-### DocX {#DocX}
-```
-public static final SaveFormat DocX
-```
-
-
-means saving in DOCX format
-
-### Svg {#Svg}
-```
-public static final SaveFormat Svg
-```
-
-
-means saving in SVG format
-
-### MobiXml {#MobiXml}
-```
-public static final SaveFormat MobiXml
-```
-
-
-means saving in MobiXML format(special format of e-books)
-
-### Excel {#Excel}
-```
-public static final SaveFormat Excel
-```
-
-
-means saving in MsExcel format
-
-### Epub {#Epub}
-```
-public static final SaveFormat Epub
-```
-
-
-means saving in EPUB format(special format of e-books)
-
-### Pptx {#Pptx}
-```
-public static final SaveFormat Pptx
-```
-
-
-means saving in MHT(WebArchieve) ///
-
-Convet document to Mht format. This code was experimental one used during works related to https://pdf.aspose.com/jira/browse/PDFNEWNET-36340 is not going on production, cause there are cross-browsers problems with created MHT - so, it can be used in the future if finally it will be necessary to create MHT itself. PDFNEWNET-36340 was resolved with usage of DataSceme URLs(embedding data into HTML http://en.wikipedia.org/wiki/Data\_URI\_scheme) So, this conversion really not used right now.
-
-means saving in PPTX format
+| [getByValue](#getByValue-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### Aps {#Aps}
 ```
 public static final SaveFormat Aps
 ```
 
-
 Saving as APS XML file.
 
-### PdfXml {#PdfXml}
+### Doc {#Doc}
 ```
-public static final SaveFormat PdfXml
-```
-
-
-Internal PDF document structure in XML format
-
-### Ps {#Ps}
-```
-public static final SaveFormat Ps
+public static final SaveFormat Doc
 ```
 
+means saving in DOC format
 
-means saving in PostScript format.
+### DocX {#DocX}
+```
+public static final SaveFormat DocX
+```
+
+means saving in DOCX format
 
 ### Eps {#Eps}
 ```
 public static final SaveFormat Eps
 ```
 
-
 means saving in Encapsulated PostScript format.
 
-### values() {#values--}
+### Epub {#Epub}
 ```
-public static SaveFormat[] values()
-```
-
-
-
-
-**Returns:**
-com.aspose.pdf.SaveFormat[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static SaveFormat valueOf(String name)
+public static final SaveFormat Epub
 ```
 
+means saving in EPUB format(special format of e-books)
+
+### Excel {#Excel}
+```
+public static final SaveFormat Excel
+```
+
+means saving in MsExcel format
+
+### Html {#Html}
+```
+public static final SaveFormat Html
+```
+
+means saving in HTML format
+
+### Markdown {#Markdown}
+```
+public static final SaveFormat Markdown
+```
+
+means saving in Markdown format.
+
+### MobiXml {#MobiXml}
+```
+public static final SaveFormat MobiXml
+```
+
+means saving in MobiXML format(special format of e-books)
+
+### None {#None}
+```
+@Deprecated public static final SaveFormat None
+```
+
+Deprecated.
+
+### Pdf {#Pdf}
+```
+public static final SaveFormat Pdf
+```
+
+means saving without change of format, i.e.
+
+### PdfXml {#PdfXml}
+```
+public static final SaveFormat PdfXml
+```
+
+Internal PDF document structure in XML format
+
+### Pptx {#Pptx}
+```
+public static final SaveFormat Pptx
+```
+
+means saving in MHT(WebArchieve) ///
+
+### Ps {#Ps}
+```
+public static final SaveFormat Ps
+```
+
+means saving in PostScript format.
+
+### Svg {#Svg}
+```
+public static final SaveFormat Svg
+```
+
+means saving in SVG format
+
+### TeX {#TeX}
+```
+public static final SaveFormat TeX
+```
+
+means saving in TEX format i.e.
+
+### Xml {#Xml}
+```
+public static final SaveFormat Xml
+```
+
+means saving in XML format
+
+### Xps {#Xps}
+```
+public static final SaveFormat Xps
+```
+
+means saving in XPS format
+
+### getByValue {#getByValue-int-}
+```
+public static SaveFormat getByValue(int value)
+```
 
 
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | java.lang.String |  |
+| value |  |  |
 
-**Returns:**
-[SaveFormat](../../com.aspose.pdf/saveformat)
-### getValue() {#getValue--}
+### getValue {#getValue--}
 ```
 public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static SaveFormat [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
 
 **Returns:**
-int
+an array containing the constants of this enum type, in the order they are declared

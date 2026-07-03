@@ -1,42 +1,32 @@
 ---
 title: FontStyles
 second_title: Aspose.PDF for Java API Reference
-description: Specifies style information applied to text.
+description: Binary Flag <p> Specifies style information applied to text. </p> <hr> <p> This enumeration has a {@code FlagsAttribute} attribute that allows a combination of its member values.
 type: docs
-weight: 137
+weight: 1710
 url: /java/com.aspose.pdf/fontstyles/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, com.aspose.ms.System.ValueType<com.aspose.ms.System.Enum> com.aspose.ms.System.Enum com.aspose.pdf.FontStyles, com.aspose.ms.System.ValueType<com.aspose.ms.System.Enum>, com.aspose.ms.System.Enum com.aspose.pdf.FontStyles, com.aspose.ms.System.Enum, com.aspose.pdf.FontStyles
+
 ```
-public final class FontStyles extends System.Enum
+public final class FontStyles extends com.aspose.ms.System.Enum
 ```
 
-Specifies style information applied to text.
+Binary Flag <p> Specifies style information applied to text. </p> <hr> <p> This enumeration has a {@code FlagsAttribute} attribute that allows a combination of its member values. </p>
 
---------------------
-
-This enumeration has a  FlagsAttribute  attribute that allows a combination of its member values.
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Regular](#Regular) | Regular text. |
 | [Bold](#Bold) | Bold text. |
 | [Italic](#Italic) | Italic text. |
-### Regular {#Regular}
-```
-public static final int Regular
-```
-
-
-Regular text.
+| [Regular](#Regular) | Regular text. |
 
 ### Bold {#Bold}
 ```
 public static final int Bold
 ```
-
 
 Bold text.
 
@@ -45,6 +35,11 @@ Bold text.
 public static final int Italic
 ```
 
-
 Italic text.
 
+### Regular {#Regular}
+```
+public static final int Regular
+```
+
+Regular text.

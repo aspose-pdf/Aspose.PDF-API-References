@@ -3,79 +3,59 @@ title: AFRelationship
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes associated files relationship.
 type: docs
-weight: 442
+weight: 50
 url: /java/com.aspose.pdf/afrelationship/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object, java.lang.Enum < AFRelationship > com.aspose.pdf.AFRelationship, java.lang.Enum < AFRelationship >, com.aspose.pdf.AFRelationship
+
+**All Implemented Interfaces:**
+Serializable, Comparable < AFRelationship >
+
 ```
-public enum AFRelationship extends Enum<AFRelationship>
+public enum AFRelationship extends Enum < AFRelationship >
 ```
 
 Enumeration describes associated files relationship.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Source](#Source) | Source |
-| [Data](#Data) | Data |
 | [Alternative](#Alternative) | Alternative |
-| [Supplement](#Supplement) | Supplement |
-| [Unspecified](#Unspecified) | Unspecified |
+| [Data](#Data) | Data |
 | [EncryptedPayload](#EncryptedPayload) | EncryptedPayload |
 | [None](#None) | None |
+| [Source](#Source) | Source |
+| [Supplement](#Supplement) | Supplement |
+| [Unspecified](#Unspecified) | Unspecified |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [getValue()](#getValue--) |  |
-### Source {#Source}
-```
-public static final AFRelationship Source
-```
-
-
-Source
-
-### Data {#Data}
-```
-public static final AFRelationship Data
-```
-
-
-Data
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### Alternative {#Alternative}
 ```
 public static final AFRelationship Alternative
 ```
 
-
 Alternative
 
-### Supplement {#Supplement}
+### Data {#Data}
 ```
-public static final AFRelationship Supplement
-```
-
-
-Supplement
-
-### Unspecified {#Unspecified}
-```
-public static final AFRelationship Unspecified
+public static final AFRelationship Data
 ```
 
-
-Unspecified
+Data
 
 ### EncryptedPayload {#EncryptedPayload}
 ```
 public static final AFRelationship EncryptedPayload
 ```
-
 
 EncryptedPayload
 
@@ -84,41 +64,45 @@ EncryptedPayload
 public static final AFRelationship None
 ```
 
-
 None
 
-### values() {#values--}
+### Source {#Source}
 ```
-public static AFRelationship[] values()
-```
-
-
-
-
-**Returns:**
-com.aspose.pdf.AFRelationship[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static AFRelationship valueOf(String name)
+public static final AFRelationship Source
 ```
 
+Source
 
+### Supplement {#Supplement}
+```
+public static final AFRelationship Supplement
+```
 
+Supplement
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
+### Unspecified {#Unspecified}
+```
+public static final AFRelationship Unspecified
+```
 
-**Returns:**
-[AFRelationship](../../com.aspose.pdf/afrelationship)
-### getValue() {#getValue--}
+Unspecified
+
+### getValue {#getValue--}
 ```
 public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static AFRelationship [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
 
 **Returns:**
-int
+an array containing the constants of this enum type, in the order they are declared

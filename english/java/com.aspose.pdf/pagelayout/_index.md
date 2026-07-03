@@ -3,80 +3,119 @@ title: PageLayout
 second_title: Aspose.PDF for Java API Reference
 description: Descibes page layout.
 type: docs
-weight: 265
+weight: 3410
 url: /java/com.aspose.pdf/pagelayout/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum < PageLayout > com.aspose.pdf.PageLayout, java.lang.Enum < PageLayout >, com.aspose.pdf.PageLayout
+
+**All Implemented Interfaces:**
+Serializable, Comparable < PageLayout >
+
 ```
-public final class PageLayout extends System.Enum
+public enum PageLayout extends Enum < PageLayout >
 ```
 
 Descibes page layout.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [SinglePage](#SinglePage) | Single page. |
+| [Default](#Default) | Default layout. |
 | [OneColumn](#OneColumn) | Display the pages in one column. |
+| [SinglePage](#SinglePage) | Single page. |
 | [TwoColumnLeft](#TwoColumnLeft) | Display the pages in two columns, with odd-numbered pages on the left. |
 | [TwoColumnRight](#TwoColumnRight) | Display the pages in two columns, with odd-numbered pages on the right. |
 | [TwoPageLeft](#TwoPageLeft) | Display the pages two at a time, with odd-numbered pages on the left. |
 | [TwoPageRight](#TwoPageRight) | Display the pages two at a time, with odd-numbered pages on the right. |
-| [Default](#Default) | Default layout. |
-### SinglePage {#SinglePage}
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [getByValue](#getByValue-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
+
+### Default {#Default}
 ```
-public static final int SinglePage
+public static final PageLayout Default
 ```
 
-
-Single page.
+Default layout.
 
 ### OneColumn {#OneColumn}
 ```
-public static final int OneColumn
+public static final PageLayout OneColumn
 ```
-
 
 Display the pages in one column.
 
-### TwoColumnLeft {#TwoColumnLeft}
+### SinglePage {#SinglePage}
 ```
-public static final int TwoColumnLeft
+public static final PageLayout SinglePage
 ```
 
+Single page.
+
+### TwoColumnLeft {#TwoColumnLeft}
+```
+public static final PageLayout TwoColumnLeft
+```
 
 Display the pages in two columns, with odd-numbered pages on the left.
 
 ### TwoColumnRight {#TwoColumnRight}
 ```
-public static final int TwoColumnRight
+public static final PageLayout TwoColumnRight
 ```
-
 
 Display the pages in two columns, with odd-numbered pages on the right.
 
 ### TwoPageLeft {#TwoPageLeft}
 ```
-public static final int TwoPageLeft
+public static final PageLayout TwoPageLeft
 ```
-
 
 Display the pages two at a time, with odd-numbered pages on the left.
 
 ### TwoPageRight {#TwoPageRight}
 ```
-public static final int TwoPageRight
+public static final PageLayout TwoPageRight
 ```
-
 
 Display the pages two at a time, with odd-numbered pages on the right.
 
-### Default {#Default}
+### getByValue {#getByValue-int-}
 ```
-public static final int Default
+public static PageLayout getByValue(int value)
 ```
 
 
-Default layout.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  |  |
+
+### getValue {#getValue--}
+```
+public int getValue()
+```
+
+
+
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static PageLayout [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
+
+**Returns:**
+an array containing the constants of this enum type, in the order they are declared

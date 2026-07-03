@@ -1,100 +1,71 @@
 ---
 title: SelectFont
 second_title: Aspose.PDF for Java API Reference
-description: Class representing Tf operator set text font and size.
+description: Class representing Tf operator (set text font and size).
 type: docs
-weight: 55
+weight: 470
 url: /java/com.aspose.pdf.operators/selectfont/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator), [com.aspose.pdf.operators.TextOperator](../../com.aspose.pdf.operators/textoperator), [com.aspose.pdf.operators.TextStateOperator](../../com.aspose.pdf.operators/textstateoperator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SelectFont, com.aspose.pdf.Operator, com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SelectFont, com.aspose.pdf.operators.TextOperator, com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SelectFont, com.aspose.pdf.operators.TextStateOperator, com.aspose.pdf.operators.SelectFont
+
 ```
 public class SelectFont extends TextStateOperator
 ```
 
 Class representing Tf operator (set text font and size).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SelectFont(int index, ICommand command)](#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
-| [SelectFont(String resName, double size)](#SelectFont-java.lang.String-double-) | Constructor for writin program. |
+| [SelectFont](#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textstateoperators.SetTextFont-) | Constructor for operator class. |
+| [SelectFont](#SelectFont-java.lang.String-double-) | Constructor for writin program. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getName()](#getName--) | Gets name of font. |
-| [getSize()](#getSize--) | Gets size of text. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [toString()](#toString--) | Returns text representation of operator. |
-### SelectFont(int index, ICommand command) {#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SelectFont(int index, ICommand command)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getName](#getName--) | Gets name of font. |
+| [getSize](#getSize--) | Gets size of text. |
+| [toString](#toString--) | Returns text representation of operator. |
 
-
+### SelectFont {#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textstateoperators.SetTextFont-}
 Constructor for operator class.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### SelectFont(String resName, double size) {#SelectFont-java.lang.String-double-}
-```
-public SelectFont(String resName, double size)
-```
-
-
+### SelectFont {#SelectFont-java.lang.String-double-}
 Constructor for writin program.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resName | java.lang.String | The name of font resource, e.g. F1, F2 etc. |
-| size | double | Size of the font. |
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
 
-### getName() {#getName--}
+### getName {#getName--}
 ```
 public String getName()
 ```
 
-
 Gets name of font.
 
 **Returns:**
-java.lang.String - String value
-### getSize() {#getSize--}
+String value
+
+### getSize {#getSize--}
 ```
 public double getSize()
 ```
 
-
 Gets size of text.
 
 **Returns:**
-double - double value
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
+double value
 
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### toString() {#toString--}
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 Returns text representation of operator.
 
 **Returns:**
-java.lang.String - Text representation of operator.
+Text representation of operator.

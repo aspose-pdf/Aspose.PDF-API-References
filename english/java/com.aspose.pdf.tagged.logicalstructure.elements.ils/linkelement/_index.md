@@ -3,89 +3,73 @@ title: LinkElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Link structure element in logical structure.
 type: docs
-weight: 16
+weight: 70
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.tagged.logicalstructure.elements.Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element), [com.aspose.pdf.tagged.logicalstructure.elements.StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement), [com.aspose.pdf.tagged.logicalstructure.elements.ils.ILSElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/ilselement), [com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotationelement)
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.ILSElement com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement, com.aspose.pdf.tagged.logicalstructure.elements.Element, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.ILSElement com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.ILSElement com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.ILSElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.AnnotationElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement
 
 **All Implemented Interfaces:**
-[com.aspose.pdf.tagged.logicalstructure.elements.ITextElement](../../com.aspose.pdf.tagged.logicalstructure.elements/itextelement)
+IAdjustPosition, ITextElement
+
 ```
-public final class LinkElement extends AnnotationElement implements ITextElement
+public final class LinkElement extends AnnotationElement implements ITextElement , IAdjustPosition
 ```
 
 Represents Link structure element in logical structure.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+| [LinkElement](#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getHyperlink()](#getHyperlink--) | Gets or Sets Hyperlink for Link Element. |
-| [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Gets or Sets Hyperlink for Link Element. |
-| [getStructureTextState()](#getStructureTextState--) | Gets  /Aspose.Pdf.LogicalStructure.StructureTextState  object for current element. |
-| [setText(String text)](#setText-java.lang.String-) | Appends text content to current text element. |
-### LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
+| [adjustPosition](#adjustPosition-com.aspose.pdf.tagged.PositionSettings-) | Adjust position. |
+| [getHyperlink](#getHyperlink--) | Gets or Sets Hyperlink for Link Element. |
+| [getStructureTextState](#getStructureTextState--) | Gets {@code /Aspose.Pdf.LogicalStructure.StructureTextState} object for current element. Value: {@code /Aspose.Pdf.LogicalStructure.StructureTextState} object for current element. |
+| [preSave](#preSave--) |  |
+| [setHyperlink](#setHyperlink-com.aspose.pdf.Hyperlink-) | Gets or Sets Hyperlink for Link Element. |
+| [setText](#setText-java.lang.String-) | Appends text content to current text element. |
+
+### LinkElement {#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+### adjustPosition {#adjustPosition-com.aspose.pdf.tagged.PositionSettings-}
+Adjust position.
 
-### getHyperlink() {#getHyperlink--}
+### getHyperlink {#getHyperlink--}
 ```
 public final Hyperlink getHyperlink()
 ```
 
-
 Gets or Sets Hyperlink for Link Element.
 
 **Returns:**
-[Hyperlink](../../com.aspose.pdf/hyperlink) - Hyperlink instance
-### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
-```
-public final void setHyperlink(Hyperlink value)
-```
+Hyperlink instance
 
-
-Gets or Sets Hyperlink for Link Element.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Hyperlink](../../com.aspose.pdf/hyperlink) | Hyperlink instance |
-
-### getStructureTextState() {#getStructureTextState--}
+### getStructureTextState {#getStructureTextState--}
 ```
 public final StructureTextState getStructureTextState()
 ```
 
-
-Gets  /Aspose.Pdf.LogicalStructure.StructureTextState  object for current element.
-
-Value:  /Aspose.Pdf.LogicalStructure.StructureTextState  object for current element.
+Gets {@code /Aspose.Pdf.LogicalStructure.StructureTextState} object for current element. Value: {@code /Aspose.Pdf.LogicalStructure.StructureTextState} object for current element.
 
 **Returns:**
-[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate)
-### setText(String text) {#setText-java.lang.String-}
+Value: StructureTextState object for text structure element.
+
+### preSave {#preSave--}
 ```
-public final void setText(String text)
+public void preSave()
 ```
 
 
+
+### setHyperlink {#setHyperlink-com.aspose.pdf.Hyperlink-}
+Gets or Sets Hyperlink for Link Element.
+
+### setText {#setText-java.lang.String-}
 Appends text content to current text element.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | Text content. |
-

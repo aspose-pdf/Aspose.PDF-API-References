@@ -1,22 +1,22 @@
 ---
 title: com.aspose.pdf.multithreading
 second_title: Aspose.PDF for Java API Reference
-description: 
+description: The com.aspose.pdf.multithreading namespace provides classes that are meant to be used in multi-threaded scenarios.
 type: docs
-weight: 16
+weight: 210
 url: /java/com.aspose.pdf.multithreading/
 ---
-
-## Classes
-
-| Class | Description |
-| --- | --- |
-| [CancellationTokenSource](../com.aspose.pdf.multithreading/cancellationtokensource) |  |
-| [InternalHelper](../com.aspose.pdf.multithreading/internalhelper) |  |
-| [InterruptMonitor](../com.aspose.pdf.multithreading/interruptmonitor) | Represents information about interruption. |
+The com.aspose.pdf.multithreading namespace provides classes that are meant to be used in multi-threaded scenarios.
 
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [IInterruptMonitor](../com.aspose.pdf.multithreading/iinterruptmonitor) | Represents information about interruption. |
+| [IInterruptMonitor](./iinterruptmonitor/) | Represents information about interruption. |
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [CancellationTokenSource](./cancellationtokensource/) |  |
+| [InternalHelper](./internalhelper/) |  |
+| [InterruptMonitor](./interruptmonitor/) | Represents information about interruption. |

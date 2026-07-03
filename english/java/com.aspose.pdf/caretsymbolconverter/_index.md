@@ -3,76 +3,44 @@ title: CaretSymbolConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents CaretSymbolConverter class
 type: docs
-weight: 48
+weight: 490
 url: /java/com.aspose.pdf/caretsymbolconverter/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.CaretSymbolConverter
+
 ```
-public class CaretSymbolConverter
+public class CaretSymbolConverter extends Object
 ```
 
 Represents CaretSymbolConverter class
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CaretSymbolConverter()](#CaretSymbolConverter--) |  |
+| [CaretSymbolConverter](#CaretSymbolConverter--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int value)](#toString-int-) | String name for CaretSymbol element |
-| [toXfdfString(int value)](#toXfdfString-int-) | Xfdf string name for CaretSymbol element |
-| [toEnum(String value)](#toEnum-java.lang.String-) | String CaretSymbol element for its string name |
-### CaretSymbolConverter() {#CaretSymbolConverter--}
+| [toEnum](#toEnum-java.lang.String-) | String CaretSymbol element for its string name |
+| [toString](#toString-com.aspose.pdf.CaretSymbol-) | String name for CaretSymbol element |
+| [toXfdfString](#toXfdfString-com.aspose.pdf.CaretSymbol-) | Xfdf string name for CaretSymbol element |
+
+### CaretSymbolConverter {#CaretSymbolConverter--}
 ```
 public CaretSymbolConverter()
 ```
 
 
-### toString(int value) {#toString-int-}
-```
-public static String toString(int value)
-```
 
-
-String name for CaretSymbol element
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | CaretSymbol element |
-
-**Returns:**
-java.lang.String - String name
-### toXfdfString(int value) {#toXfdfString-int-}
-```
-public static String toXfdfString(int value)
-```
-
-
-Xfdf string name for CaretSymbol element
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | CaretSymbol element |
-
-**Returns:**
-java.lang.String - String name
-### toEnum(String value) {#toEnum-java.lang.String-}
-```
-public static int toEnum(String value)
-```
-
-
+### toEnum {#toEnum-java.lang.String-}
 String CaretSymbol element for its string name
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String name |
+### toString {#toString-com.aspose.pdf.CaretSymbol-}
+String name for CaretSymbol element
 
-**Returns:**
-int - CaretSymbol element
+### toXfdfString {#toXfdfString-com.aspose.pdf.CaretSymbol-}
+Xfdf string name for CaretSymbol element

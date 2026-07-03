@@ -1,319 +1,209 @@
 ---
 title: LightweightOperatorCollection
 second_title: Aspose.PDF for Java API Reference
-description: Lightweight operator collection.
+description: Lightweight operator collection. Intended to be used in scenarios when underlying contents stream is not attached, where just operator collection is required as a result.
 type: docs
-weight: 193
+weight: 2700
 url: /java/com.aspose.pdf/lightweightoperatorcollection/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseOperatorCollection](../../com.aspose.pdf/baseoperatorcollection)
+java.lang.Object, com.aspose.pdf.BaseOperatorCollection com.aspose.pdf.LightweightOperatorCollection, com.aspose.pdf.BaseOperatorCollection, com.aspose.pdf.LightweightOperatorCollection
+
+**All Implemented Interfaces:**
+Iterable < Operator >
+
 ```
 public class LightweightOperatorCollection extends BaseOperatorCollection
 ```
 
 Lightweight operator collection. Intended to be used in scenarios when underlying contents stream is not attached, where just operator collection is required as a result.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [LightweightOperatorCollection()](#LightweightOperatorCollection--) | Initialize object |
-| [LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators)](#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--) | For internal usage only! |
-| [LightweightOperatorCollection(OperatorCollection operatorCollection)](#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-) | Initialize object |
+| [LightweightOperatorCollection](#LightweightOperatorCollection--) | Initialize object |
+| [LightweightOperatorCollection](#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-) | Initialize object |
+| [LightweightOperatorCollection](#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-) | Initialize object |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get_Item(int index)](#get-Item-int-) | Gets operator by its index. |
-| [set_Item(int index, Operator value)](#set-Item-int-com.aspose.pdf.Operator-) | Sets operator by its index. |
-| [iterator()](#iterator--) | Return iterator |
-| [size()](#size--) | Operators count |
-| [isFastTextExtractionMode()](#isFastTextExtractionMode--) | Indicates whether collection is limited to fast text extraction |
-| [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data. |
-| [resumeUpdate()](#resumeUpdate--) | Resumes document update. |
-| [insert(int index, Operator op)](#insert-int-com.aspose.pdf.Operator-) | Insert operator |
-| [add(Operator op)](#add-com.aspose.pdf.Operator-) | Add operator |
-| [addRange(LightweightOperatorCollection oc)](#addRange-com.aspose.pdf.LightweightOperatorCollection-) | Add LightweightOperatorCollection |
-| [getUnrestricted(int index)](#getUnrestricted-int-) | For internal usage getUnrestricted operator |
-| [updateData()](#updateData--) | internal |
-| [deleteUnrestricted(int index)](#deleteUnrestricted-int-) | internal delete Unrestrictedelement |
-| [cancelUpdate()](#cancelUpdate--) | Cancels last update. |
-| [toList()](#toList--) | Returns operators list. |
-| [remove(Operator item)](#remove-com.aspose.pdf.Operator-) |  |
-| [contains(Operator item)](#contains-com.aspose.pdf.Operator-) |  |
-| [clear()](#clear--) |  |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether the collection is read-only. |
-### LightweightOperatorCollection() {#LightweightOperatorCollection--}
+| [add](#add-com.aspose.pdf.Operator-) | Add operator |
+| [addRange](#addRange-com.aspose.pdf.LightweightOperatorCollection-) | Add LightweightOperatorCollection |
+| [cancelUpdate](#cancelUpdate--) | Cancels last update. This method may be called when the change should not raise contents update. |
+| [clear](#clear--) | Clears collection. |
+| [contains](#contains-com.aspose.pdf.Operator-) | Check if the item is in collection. |
+| [deleteUnrestricted](#deleteUnrestricted-int-) | internal delete Unrestrictedelement |
+| [get_Item](#get_Item-int-) | <p> Gets operator by its index. </p> <hr> <pre> Example demonstrates how to get operator of page contents by index. Document doc = new Document("input.pdf"); OperatorCollection oc = doc.getPages().get_Item(1).getContents(); Operator first = oc.get_Item(1); </pre> |
+| [getUnrestricted](#getUnrestricted-int-) | For internal usage getUnrestricted operator |
+| [insert](#insert-int-com.aspose.pdf.Operator-) | Insert operator |
+| [isFastTextExtractionMode](#isFastTextExtractionMode--) | Indicates whether collection is limited to fast text extraction |
+| [isReadOnly](#isReadOnly--) | Gets a value indicating whether the collection is read-only. |
+| [iterator](#iterator--) | Return iterator |
+| [remove](#remove-com.aspose.pdf.Operator-) | Removes operator from collection. |
+| [resumeUpdate](#resumeUpdate--) | Resumes document update. Updates contents stream in case there are any pending changes. |
+| [set_Item](#set_Item-int-com.aspose.pdf.Operator-) | Sets operator by its index. <hr> <pre> Example demonstrates how to get operator of page contents by index. Document doc = new Document("input.pdf"); OperatorCollection oc = doc.getPages().get_Item(1).getContents(); Operator first = oc.get_Item(1); </pre> |
+| [size](#size--) | Operators count |
+| [suppressUpdate](#suppressUpdate--) | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |
+| [toList](#toList--) | Returns operators list. |
+| [updateData](#updateData--) | internal |
+
+### LightweightOperatorCollection {#LightweightOperatorCollection--}
 ```
 public LightweightOperatorCollection()
 ```
 
-
 Initialize object
 
-### LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators) {#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--}
-```
-public LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators)
-```
-
-
-For internal usage only!
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | Internal object |
-| operators | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> | Internal object |
-
-### LightweightOperatorCollection(OperatorCollection operatorCollection) {#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-}
-```
-public LightweightOperatorCollection(OperatorCollection operatorCollection)
-```
-
-
+### LightweightOperatorCollection {#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-}
 Initialize object
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| operatorCollection | [OperatorCollection](../../com.aspose.pdf/operatorcollection) | OperatorCollection object |
+### LightweightOperatorCollection {#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-}
+Initialize object
 
-### get_Item(int index) {#get-Item-int-}
-```
-public Operator get_Item(int index)
-```
-
-
-Gets operator by its index.
-
---------------------
-
-```
-Example demonstrates how to get operator of page contents by index.
-
-
- Document doc = new Document("input.pdf");
- OperatorCollection oc = doc.getPages().get_Item(1).getContents();
- Operator first = oc.get_Item(1);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. Numbering is starts from 1. |
-
-**Returns:**
-[Operator](../../com.aspose.pdf/operator) - Operator from requested index
-### set_Item(int index, Operator value) {#set-Item-int-com.aspose.pdf.Operator-}
-```
-public void set_Item(int index, Operator value)
-```
-
-
-Sets operator by its index.
-
---------------------
-
-```
-Example demonstrates how to get operator of page contents by index.
-
-
- Document doc = new Document("input.pdf");
- OperatorCollection oc = doc.getPages().get_Item(1).getContents();
- Operator first = oc.get_Item(1);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. Numbering is starts from 1. |
-| value | [Operator](../../com.aspose.pdf/operator) | Operator from requested index |
-
-### iterator() {#iterator--}
-```
-public Iterator<Operator> iterator()
-```
-
-
-Return iterator
-
-**Returns:**
-java.util.Iterator<com.aspose.pdf.Operator> -  IGenericEnumerator  object
-### size() {#size--}
-```
-public int size()
-```
-
-
-Operators count
-
-**Returns:**
-int - int value
-### isFastTextExtractionMode() {#isFastTextExtractionMode--}
-```
-public boolean isFastTextExtractionMode()
-```
-
-
-Indicates whether collection is limited to fast text extraction
-
-**Returns:**
-boolean - boolean value
-### suppressUpdate() {#suppressUpdate--}
-```
-public void suppressUpdate()
-```
-
-
-Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
-
-### resumeUpdate() {#resumeUpdate--}
-```
-public void resumeUpdate()
-```
-
-
-Resumes document update. Updates contents stream in case there are any pending changes.
-
-### insert(int index, Operator op) {#insert-int-com.aspose.pdf.Operator-}
-```
-public void insert(int index, Operator op)
-```
-
-
-Insert operator
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value |
-| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
-
-### add(Operator op) {#add-com.aspose.pdf.Operator-}
-```
-public void add(Operator op)
-```
-
-
+### add {#add-com.aspose.pdf.Operator-}
 Add operator
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
-
-### addRange(LightweightOperatorCollection oc) {#addRange-com.aspose.pdf.LightweightOperatorCollection-}
-```
-public void addRange(LightweightOperatorCollection oc)
-```
-
-
+### addRange {#addRange-com.aspose.pdf.LightweightOperatorCollection-}
 Add LightweightOperatorCollection
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| oc | [LightweightOperatorCollection](../../com.aspose.pdf/lightweightoperatorcollection) | LightweightOperatorCollection instance |
-
-### getUnrestricted(int index) {#getUnrestricted-int-}
+### cancelUpdate {#cancelUpdate--}
 ```
-public Operator getUnrestricted(int index)
+public void cancelUpdate()
 ```
 
+Cancels last update. This method may be called when the change should not raise contents update.
 
-For internal usage getUnrestricted operator
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value |
-
-**Returns:**
-[Operator](../../com.aspose.pdf/operator) - Operator object
-### updateData() {#updateData--}
+### clear {#clear--}
 ```
-public void updateData()
+public void clear()
 ```
 
+Clears collection.
 
-internal
+### contains {#contains-com.aspose.pdf.Operator-}
+Check if the item is in collection.
 
-### deleteUnrestricted(int index) {#deleteUnrestricted-int-}
+### deleteUnrestricted {#deleteUnrestricted-int-}
 ```
 public void deleteUnrestricted(int index)
 ```
-
 
 internal delete Unrestrictedelement
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | int value |
+| index |  | int value |
 
-### cancelUpdate() {#cancelUpdate--}
+### get_Item {#get_Item-int-}
 ```
-public void cancelUpdate()
-```
-
-
-Cancels last update. This method may be called when the change should not raise contents update.
-
-### toList() {#toList--}
-```
-public System.Collections.Generic.List<Operator> toList()
+public Operator get_Item(int index)
 ```
 
-
-Returns operators list.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> - operators list.
-### remove(Operator item) {#remove-com.aspose.pdf.Operator-}
-```
-public boolean remove(Operator item)
-```
-
-
-Removes operator from collection.
+<p> Gets operator by its index. </p> <hr> <pre> Example demonstrates how to get operator of page contents by index. Document doc = new Document("input.pdf"); OperatorCollection oc = doc.getPages().get_Item(1).getContents(); Operator first = oc.get_Item(1); </pre>
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | [Operator](../../com.aspose.pdf/operator) | Operator instance |
+| index |  | Index of operator. Numbering is starts from 1. |
 
 **Returns:**
-boolean - boolean value
-### contains(Operator item) {#contains-com.aspose.pdf.Operator-}
+Operator from requested index
+
+### getUnrestricted {#getUnrestricted-int-}
 ```
-public boolean contains(Operator item)
+public Operator getUnrestricted(int index)
 ```
 
-
-Check if the item is in collection.
+For internal usage getUnrestricted operator
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | [Operator](../../com.aspose.pdf/operator) | Operator instance |
+| index |  | int value |
 
 **Returns:**
-boolean - boolean value
-### clear() {#clear--}
+Operator object
+
+### insert {#insert-int-com.aspose.pdf.Operator-}
+Insert operator
+
+### isFastTextExtractionMode {#isFastTextExtractionMode--}
 ```
-public void clear()
+public boolean isFastTextExtractionMode()
 ```
 
+Indicates whether collection is limited to fast text extraction
 
-Clears collection.
+**Returns:**
+boolean value
 
-### isReadOnly() {#isReadOnly--}
+### isReadOnly {#isReadOnly--}
 ```
 public boolean isReadOnly()
 ```
 
-
 Gets a value indicating whether the collection is read-only.
 
 **Returns:**
-boolean
+boolean value
+
+### iterator {#iterator--}
+```
+public Iterator < Operator > iterator()
+```
+
+Return iterator
+
+**Returns:**
+{@code IGenericEnumerator<Operator>} object
+
+### remove {#remove-com.aspose.pdf.Operator-}
+Removes operator from collection.
+
+### resumeUpdate {#resumeUpdate--}
+```
+public void resumeUpdate()
+```
+
+Resumes document update. Updates contents stream in case there are any pending changes.
+
+### set_Item {#set_Item-int-com.aspose.pdf.Operator-}
+Sets operator by its index. <hr> <pre> Example demonstrates how to get operator of page contents by index. Document doc = new Document("input.pdf"); OperatorCollection oc = doc.getPages().get_Item(1).getContents(); Operator first = oc.get_Item(1); </pre>
+
+### size {#size--}
+```
+public int size()
+```
+
+Operators count
+
+**Returns:**
+int value
+
+### suppressUpdate {#suppressUpdate--}
+```
+public void suppressUpdate()
+```
+
+Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
+
+### toList {#toList--}
+```
+public com.aspose.ms.System.Collections.Generic.List< Operator > toList()
+```
+
+Returns operators list.
+
+**Returns:**
+operators list.
+
+### updateData {#updateData--}
+```
+public void updateData()
+```
+
+internal

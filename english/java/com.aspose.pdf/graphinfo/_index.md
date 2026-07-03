@@ -3,317 +3,314 @@ title: GraphInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents graphics info.
 type: docs
-weight: 147
+weight: 1840
 url: /java/com.aspose.pdf/graphinfo/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.GraphInfo
 
 **All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public final class GraphInfo implements System.ICloneable
+public final class GraphInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
 Represents graphics info.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [GraphInfo()](#GraphInfo--) |  |
+| [GraphInfo](#GraphInfo--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getLineWidth()](#getLineWidth--) | Gets a float value that indicates the line width of the graph. |
-| [setLineWidth(float value)](#setLineWidth-float-) | Sets a float value that indicates the line width of the graph. |
-| [getColor()](#getColor--) | Gets a  Color  object that indicates the color of the graph. |
-| [setColor(Color value)](#setColor-com.aspose.pdf.Color-) | Sets a  Color  object that indicates the color of the graph. |
-| [getDashArray()](#getDashArray--) | Gets a dash array. |
-| [setDashArray(int[] value)](#setDashArray-int---) | Sets a dash array. |
-| [getDashPhase()](#getDashPhase--) | Gets a dash phase. |
-| [setDashPhase(int value)](#setDashPhase-int-) | Sets a dash phase. |
-| [getFillColor()](#getFillColor--) | Gets a  Color  object that indicates the fill color of the graph. |
-| [setFillColor(Color value)](#setFillColor-com.aspose.pdf.Color-) | Sets a  Color  object that indicates the fill color of the graph. |
-| [isDoubled()](#isDoubled--) | Gets is border doubled. |
-| [setDoubled(boolean value)](#setDoubled-boolean-) | Sets is border doubled. |
-| [getSkewAngleX()](#getSkewAngleX--) | Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
-| [setSkewAngleX(double value)](#setSkewAngleX-double-) | Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
-| [getSkewAngleY()](#getSkewAngleY--) | Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
-| [setSkewAngleY(double value)](#setSkewAngleY-double-) | Sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
-| [getScalingRateX()](#getScalingRateX--) | Gets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
-| [setScalingRateX(double value)](#setScalingRateX-double-) | Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
-| [getScalingRateY()](#getScalingRateY--) | Gets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
-| [setScalingRateY(double value)](#setScalingRateY-double-) | Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
-| [getRotationAngle()](#getRotationAngle--) | Gets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
-| [setRotationAngle(double value)](#setRotationAngle-double-) | Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
-| [deepClone()](#deepClone--) | Clone the graphics info. |
-### GraphInfo() {#GraphInfo--}
+| [deepClone](#deepClone--) | Clone the graphics info. |
+| [getColor](#getColor--) | Gets a {@code Color} object that indicates the color of the graph. |
+| [getDashArray](#getDashArray--) | Gets a dash array. |
+| [getDashPhase](#getDashPhase--) | Gets a dash phase. |
+| [getFillColor](#getFillColor--) | Gets a {@code Color} object that indicates the fill color of the graph. |
+| [getLineWidth](#getLineWidth--) | Gets a float value that indicates the line width of the graph. |
+| [getRotationAngle](#getRotationAngle--) | Gets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
+| [getScalingRateX](#getScalingRateX--) | Gets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
+| [getScalingRateY](#getScalingRateY--) | Gets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
+| [getSkewAngleX](#getSkewAngleX--) | Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
+| [getSkewAngleY](#getSkewAngleY--) | Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
+| [getX](#getX--) | Retrieve the X coordinate of a vertical border when using TableAbsorber, and return "-1" for a horizontal border. |
+| [getY](#getY--) | Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and return "-1" for a vertical border. |
+| [isDoubled](#isDoubled--) | Gets is border doubled. |
+| [setColor](#setColor-com.aspose.pdf.Color-) | Sets a {@code Color} object that indicates the color of the graph. |
+| [setDashArray](#setDashArray-int:A-) | Sets a dash array. |
+| [setDashPhase](#setDashPhase-int-) | Sets a dash phase. |
+| [setDoubled](#setDoubled-boolean-) | Sets is border doubled. |
+| [setFillColor](#setFillColor-com.aspose.pdf.Color-) | Sets a {@code Color} object that indicates the fill color of the graph. |
+| [setLineWidth](#setLineWidth-float-) | Sets a float value that indicates the line width of the graph. |
+| [setRotationAngle](#setRotationAngle-double-) | Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
+| [setScalingRateX](#setScalingRateX-double-) | Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
+| [setScalingRateY](#setScalingRateY-double-) | Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
+| [setSkewAngleX](#setSkewAngleX-double-) | Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
+| [setSkewAngleY](#setSkewAngleY-double-) | Sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
+
+### GraphInfo {#GraphInfo--}
 ```
 public GraphInfo()
 ```
 
 
-### getLineWidth() {#getLineWidth--}
+
+### deepClone {#deepClone--}
 ```
-public float getLineWidth()
+public Object deepClone()
 ```
 
-
-Gets a float value that indicates the line width of the graph.
+Clone the graphics info.
 
 **Returns:**
-float - value that indicates the line width.
-### setLineWidth(float value) {#setLineWidth-float-}
-```
-public void setLineWidth(float value)
-```
+The cloned object
 
-
-Sets a float value that indicates the line width of the graph.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | value that indicates the line width. |
-
-### getColor() {#getColor--}
+### getColor {#getColor--}
 ```
 public Color getColor()
 ```
 
-
-Gets a  Color  object that indicates the color of the graph.
+Gets a {@code Color} object that indicates the color of the graph.
 
 **Returns:**
-[Color](../../com.aspose.pdf/color) - object that indicates the color
-### setColor(Color value) {#setColor-com.aspose.pdf.Color-}
-```
-public void setColor(Color value)
-```
+object that indicates the color
 
-
-Sets a  Color  object that indicates the color of the graph.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | object that indicates the color |
-
-### getDashArray() {#getDashArray--}
+### getDashArray {#getDashArray--}
 ```
 public int[] getDashArray()
 ```
 
-
 Gets a dash array.
 
 **Returns:**
-int[] - dash array
-### setDashArray(int[] value) {#setDashArray-int---}
+dash array
+
+### getDashPhase {#getDashPhase--}
+```
+public int getDashPhase()
+```
+
+Gets a dash phase.
+
+**Returns:**
+dash phase.
+
+### getFillColor {#getFillColor--}
+```
+public Color getFillColor()
+```
+
+Gets a {@code Color} object that indicates the fill color of the graph.
+
+**Returns:**
+object that indicates the fill color
+
+### getLineWidth {#getLineWidth--}
+```
+public float getLineWidth()
+```
+
+Gets a float value that indicates the line width of the graph.
+
+**Returns:**
+value that indicates the line width.
+
+### getRotationAngle {#getRotationAngle--}
+```
+public double getRotationAngle()
+```
+
+Gets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system.
+
+**Returns:**
+double value
+
+### getScalingRateX {#getScalingRateX--}
+```
+public double getScalingRateX()
+```
+
+Gets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
+
+**Returns:**
+double value
+
+### getScalingRateY {#getScalingRateY--}
+```
+public double getScalingRateY()
+```
+
+Gets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system.
+
+**Returns:**
+double value
+
+### getSkewAngleX {#getSkewAngleX--}
+```
+public double getSkewAngleX()
+```
+
+Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
+
+**Returns:**
+double value
+
+### getSkewAngleY {#getSkewAngleY--}
+```
+public double getSkewAngleY()
+```
+
+Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
+
+**Returns:**
+double value
+
+### getX {#getX--}
+```
+public final double getX()
+```
+
+Retrieve the X coordinate of a vertical border when using TableAbsorber, and return "-1" for a horizontal border.
+
+**Returns:**
+double value
+
+### getY {#getY--}
+```
+public final double getY()
+```
+
+Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and return "-1" for a vertical border.
+
+**Returns:**
+double value
+
+### isDoubled {#isDoubled--}
+```
+public boolean isDoubled()
+```
+
+Gets is border doubled.
+
+**Returns:**
+boolean value
+
+### setColor {#setColor-com.aspose.pdf.Color-}
+Sets a {@code Color} object that indicates the color of the graph.
+
+### setDashArray {#setDashArray-int:A-}
 ```
 public void setDashArray(int[] value)
 ```
-
 
 Sets a dash array.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int[] | dash array |
+| value |  | dash array |
 
-### getDashPhase() {#getDashPhase--}
-```
-public int getDashPhase()
-```
-
-
-Gets a dash phase.
-
-**Returns:**
-int - dash phase.
-### setDashPhase(int value) {#setDashPhase-int-}
+### setDashPhase {#setDashPhase-int-}
 ```
 public void setDashPhase(int value)
 ```
-
 
 Sets a dash phase.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | dash phase. |
+| value |  | dash phase. |
 
-### getFillColor() {#getFillColor--}
-```
-public Color getFillColor()
-```
-
-
-Gets a  Color  object that indicates the fill color of the graph.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - object that indicates the fill color
-### setFillColor(Color value) {#setFillColor-com.aspose.pdf.Color-}
-```
-public void setFillColor(Color value)
-```
-
-
-Sets a  Color  object that indicates the fill color of the graph.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | object that indicates the fill color |
-
-### isDoubled() {#isDoubled--}
-```
-public boolean isDoubled()
-```
-
-
-Gets is border doubled.
-
-**Returns:**
-boolean - boolean value
-### setDoubled(boolean value) {#setDoubled-boolean-}
+### setDoubled {#setDoubled-boolean-}
 ```
 public void setDoubled(boolean value)
 ```
-
 
 Sets is border doubled.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
-### getSkewAngleX() {#getSkewAngleX--}
+### setFillColor {#setFillColor-com.aspose.pdf.Color-}
+Sets a {@code Color} object that indicates the fill color of the graph.
+
+### setLineWidth {#setLineWidth-float-}
 ```
-public double getSkewAngleX()
-```
-
-
-Gets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
-
-**Returns:**
-double - double value
-### setSkewAngleX(double value) {#setSkewAngleX-double-}
-```
-public void setSkewAngleX(double value)
+public void setLineWidth(float value)
 ```
 
-
-Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
+Sets a float value that indicates the line width of the graph.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | value that indicates the line width. |
 
-### getSkewAngleY() {#getSkewAngleY--}
-```
-public double getSkewAngleY()
-```
-
-
-Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
-
-**Returns:**
-double - double value
-### setSkewAngleY(double value) {#setSkewAngleY-double-}
-```
-public void setSkewAngleY(double value)
-```
-
-
-Sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getScalingRateX() {#getScalingRateX--}
-```
-public double getScalingRateX()
-```
-
-
-Gets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
-
-**Returns:**
-double - double value
-### setScalingRateX(double value) {#setScalingRateX-double-}
-```
-public void setScalingRateX(double value)
-```
-
-
-Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getScalingRateY() {#getScalingRateY--}
-```
-public double getScalingRateY()
-```
-
-
-Gets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system.
-
-**Returns:**
-double - double value
-### setScalingRateY(double value) {#setScalingRateY-double-}
-```
-public void setScalingRateY(double value)
-```
-
-
-Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getRotationAngle() {#getRotationAngle--}
-```
-public double getRotationAngle()
-```
-
-
-Gets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system.
-
-**Returns:**
-double - double value
-### setRotationAngle(double value) {#setRotationAngle-double-}
+### setRotationAngle {#setRotationAngle-double-}
 ```
 public void setRotationAngle(double value)
 ```
-
 
 Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | double value |
 
-### deepClone() {#deepClone--}
+### setScalingRateX {#setScalingRateX-double-}
 ```
-public Object deepClone()
+public void setScalingRateX(double value)
 ```
 
+Sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system.
 
-Clone the graphics info.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
 
-**Returns:**
-java.lang.Object - The cloned object
+### setScalingRateY {#setScalingRateY-double-}
+```
+public void setScalingRateY(double value)
+```
+
+Sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setSkewAngleX {#setSkewAngleX-double-}
+```
+public void setSkewAngleX(double value)
+```
+
+Sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setSkewAngleY {#setSkewAngleY-double-}
+```
+public void setSkewAngleY(double value)
+```
+
+Sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |

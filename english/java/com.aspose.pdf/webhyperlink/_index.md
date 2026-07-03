@@ -3,69 +3,51 @@ title: WebHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents web hyperlink object.
 type: docs
-weight: 405
+weight: 5530
 url: /java/com.aspose.pdf/webhyperlink/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Hyperlink](../../com.aspose.pdf/hyperlink)
+java.lang.Object, com.aspose.pdf.Hyperlink com.aspose.pdf.WebHyperlink, com.aspose.pdf.Hyperlink, com.aspose.pdf.WebHyperlink
+
 ```
 public final class WebHyperlink extends Hyperlink
 ```
 
 Represents web hyperlink object.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [WebHyperlink()](#WebHyperlink--) | Initializes a new instance of the  WebHyperlink  class. |
-| [WebHyperlink(String url)](#WebHyperlink-java.lang.String-) | Initializes a new instance of the  WebHyperlink  class. |
+| [WebHyperlink](#WebHyperlink--) | Initializes a new instance of the {@code WebHyperlink} class. |
+| [WebHyperlink](#WebHyperlink-java.lang.String-) | Initializes a new instance of the {@code WebHyperlink} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getUrl()](#getUrl--) | Gets the web url. |
-| [setUrl(String value)](#setUrl-java.lang.String-) | Sets the web url. |
-### WebHyperlink() {#WebHyperlink--}
+| [getUrl](#getUrl--) | Gets the web url. |
+| [setUrl](#setUrl-java.lang.String-) | Sets the web url. |
+
+### WebHyperlink {#WebHyperlink--}
 ```
 public WebHyperlink()
 ```
 
+Initializes a new instance of the {@code WebHyperlink} class.
 
-Initializes a new instance of the  WebHyperlink  class.
+### WebHyperlink {#WebHyperlink-java.lang.String-}
+Initializes a new instance of the {@code WebHyperlink} class.
 
-### WebHyperlink(String url) {#WebHyperlink-java.lang.String-}
-```
-public WebHyperlink(String url)
-```
-
-
-Initializes a new instance of the  WebHyperlink  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | java.lang.String | Web url for hyperlink. |
-
-### getUrl() {#getUrl--}
+### getUrl {#getUrl--}
 ```
 public String getUrl()
 ```
 
-
 Gets the web url.
 
 **Returns:**
-java.lang.String - String object
-### setUrl(String value) {#setUrl-java.lang.String-}
-```
-public void setUrl(String value)
-```
+String object
 
-
+### setUrl {#setUrl-java.lang.String-}
 Sets the web url.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-

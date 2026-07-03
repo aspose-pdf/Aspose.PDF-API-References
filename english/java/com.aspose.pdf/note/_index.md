@@ -3,119 +3,81 @@ title: Note
 second_title: Aspose.PDF for Java API Reference
 description: This class represents generator paragraph note.
 type: docs
-weight: 226
+weight: 3120
 url: /java/com.aspose.pdf/note/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Note
+
 ```
-public final class Note
+public final class Note extends Object
 ```
 
 This class represents generator paragraph note.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Note()](#Note--) | Initializes a new instance of the  Note  class. |
-| [Note(String content)](#Note-java.lang.String-) | Initializes a new instance of the  Note  class. |
+| [Note](#Note--) | Initializes a new instance of the {@code Note} class. |
+| [Note](#Note-java.lang.String-) | Initializes a new instance of the {@code Note} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getParagraphs()](#getParagraphs--) | Gets a collection that indicates all paragraphs in the FootNote. |
-| [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets a collection that indicates all paragraphs in the FootNote. |
-| [getText()](#getText--) | Gets a note text. |
-| [setText(String value)](#setText-java.lang.String-) | Sets a note text. |
-| [getTextState()](#getTextState--) | Gets or sets a note text state. |
-| [setTextState(TextState value)](#setTextState-com.aspose.pdf.TextState-) | Gets or sets a note text state. |
-### Note() {#Note--}
+| [getParagraphs](#getParagraphs--) | Gets a collection that indicates all paragraphs in the FootNote. |
+| [getText](#getText--) | Gets a note text. |
+| [getTextState](#getTextState--) | Gets or sets a note text state. |
+| [setParagraphs](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets a collection that indicates all paragraphs in the FootNote. |
+| [setText](#setText-java.lang.String-) | Sets a note text. |
+| [setTextState](#setTextState-com.aspose.pdf.TextState-) | Gets or sets a note text state. |
+
+### Note {#Note--}
 ```
 public Note()
 ```
 
+Initializes a new instance of the {@code Note} class.
 
-Initializes a new instance of the  Note  class.
+### Note {#Note-java.lang.String-}
+Initializes a new instance of the {@code Note} class.
 
-### Note(String content) {#Note-java.lang.String-}
-```
-public Note(String content)
-```
-
-
-Initializes a new instance of the  Note  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | java.lang.String | The note content. |
-
-### getParagraphs() {#getParagraphs--}
+### getParagraphs {#getParagraphs--}
 ```
 public Paragraphs getParagraphs()
 ```
 
-
 Gets a collection that indicates all paragraphs in the FootNote.
 
 **Returns:**
-[Paragraphs](../../com.aspose.pdf/paragraphs) - Paragraphs.
-### setParagraphs(Paragraphs value) {#setParagraphs-com.aspose.pdf.Paragraphs-}
-```
-public void setParagraphs(Paragraphs value)
-```
+Paragraphs.
 
-
-Sets a collection that indicates all paragraphs in the FootNote.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Paragraphs](../../com.aspose.pdf/paragraphs) | Paragraphs. |
-
-### getText() {#getText--}
+### getText {#getText--}
 ```
 public String getText()
 ```
 
-
 Gets a note text.
 
 **Returns:**
-java.lang.String - string object
-### setText(String value) {#setText-java.lang.String-}
-```
-public void setText(String value)
-```
+string object
 
-
-Sets a note text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | string object |
-
-### getTextState() {#getTextState--}
+### getTextState {#getTextState--}
 ```
 public TextState getTextState()
 ```
 
-
 Gets or sets a note text state.
 
 **Returns:**
-[TextState](../../com.aspose.pdf/textstate) - The TextState instance.
-### setTextState(TextState value) {#setTextState-com.aspose.pdf.TextState-}
-```
-public void setTextState(TextState value)
-```
+The TextState instance.
 
+### setParagraphs {#setParagraphs-com.aspose.pdf.Paragraphs-}
+Sets a collection that indicates all paragraphs in the FootNote.
 
+### setText {#setText-java.lang.String-}
+Sets a note text.
+
+### setTextState {#setTextState-com.aspose.pdf.TextState-}
 Gets or sets a note text state.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextState](../../com.aspose.pdf/textstate) | The TextState instance. |
-

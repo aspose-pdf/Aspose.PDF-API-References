@@ -3,143 +3,154 @@ title: StampIcon
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 341
+weight: 4640
 url: /java/com.aspose.pdf/stampicon/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum < StampIcon > com.aspose.pdf.StampIcon, java.lang.Enum < StampIcon >, com.aspose.pdf.StampIcon
+
+**All Implemented Interfaces:**
+Serializable, Comparable < StampIcon >
+
 ```
-public final class StampIcon extends System.Enum
+public enum StampIcon extends Enum < StampIcon >
 ```
 
 Enumerates the icons to be used in displaying the annotation.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Draft](#Draft) | Draft stamp icon. |
 | [Approved](#Approved) | Approved stamp icon. |
-| [Experimental](#Experimental) | Experimental stamp icon. |
-| [NotApproved](#NotApproved) | Stamp icon is not approved. |
 | [AsIs](#AsIs) | Stamp icon "as is". |
-| [Expired](#Expired) | Stamp icon is expired. |
-| [NotForPublicRelease](#NotForPublicRelease) | Not for public release. |
 | [Confidential](#Confidential) | Confidential. |
-| [Final](#Final) | Final stamp. |
-| [Sold](#Sold) | Sold stamp. |
 | [Departmental](#Departmental) | Departamental. |
+| [Draft](#Draft) | Draft stamp icon. |
+| [Experimental](#Experimental) | Experimental stamp icon. |
+| [Expired](#Expired) | Stamp icon is expired. |
+| [Final](#Final) | Final stamp. |
 | [ForComment](#ForComment) | For comment. |
 | [ForPublicRelease](#ForPublicRelease) | For public release. |
+| [NotApproved](#NotApproved) | Stamp icon is not approved. |
+| [NotForPublicRelease](#NotForPublicRelease) | Not for public release. |
+| [Sold](#Sold) | Sold stamp. |
 | [TopSecret](#TopSecret) | Top secret. |
-### Draft {#Draft}
-```
-public static final int Draft
-```
 
+## Methods
 
-Draft stamp icon.
+| Method | Description |
+| --- | --- |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### Approved {#Approved}
 ```
-public static final int Approved
+public static final StampIcon Approved
 ```
-
 
 Approved stamp icon.
 
-### Experimental {#Experimental}
-```
-public static final int Experimental
-```
-
-
-Experimental stamp icon.
-
-### NotApproved {#NotApproved}
-```
-public static final int NotApproved
-```
-
-
-Stamp icon is not approved.
-
 ### AsIs {#AsIs}
 ```
-public static final int AsIs
+public static final StampIcon AsIs
 ```
-
 
 Stamp icon "as is".
 
-### Expired {#Expired}
-```
-public static final int Expired
-```
-
-
-Stamp icon is expired.
-
-### NotForPublicRelease {#NotForPublicRelease}
-```
-public static final int NotForPublicRelease
-```
-
-
-Not for public release.
-
 ### Confidential {#Confidential}
 ```
-public static final int Confidential
+public static final StampIcon Confidential
 ```
-
 
 Confidential.
 
-### Final {#Final}
-```
-public static final int Final
-```
-
-
-Final stamp.
-
-### Sold {#Sold}
-```
-public static final int Sold
-```
-
-
-Sold stamp.
-
 ### Departmental {#Departmental}
 ```
-public static final int Departmental
+public static final StampIcon Departmental
 ```
-
 
 Departamental.
 
-### ForComment {#ForComment}
+### Draft {#Draft}
 ```
-public static final int ForComment
+public static final StampIcon Draft
 ```
 
+Draft stamp icon.
+
+### Experimental {#Experimental}
+```
+public static final StampIcon Experimental
+```
+
+Experimental stamp icon.
+
+### Expired {#Expired}
+```
+public static final StampIcon Expired
+```
+
+Stamp icon is expired.
+
+### Final {#Final}
+```
+public static final StampIcon Final
+```
+
+Final stamp.
+
+### ForComment {#ForComment}
+```
+public static final StampIcon ForComment
+```
 
 For comment.
 
 ### ForPublicRelease {#ForPublicRelease}
 ```
-public static final int ForPublicRelease
+public static final StampIcon ForPublicRelease
 ```
-
 
 For public release.
 
-### TopSecret {#TopSecret}
+### NotApproved {#NotApproved}
 ```
-public static final int TopSecret
+public static final StampIcon NotApproved
 ```
 
+Stamp icon is not approved.
+
+### NotForPublicRelease {#NotForPublicRelease}
+```
+public static final StampIcon NotForPublicRelease
+```
+
+Not for public release.
+
+### Sold {#Sold}
+```
+public static final StampIcon Sold
+```
+
+Sold stamp.
+
+### TopSecret {#TopSecret}
+```
+public static final StampIcon TopSecret
+```
 
 Top secret.
 
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static StampIcon [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
+
+**Returns:**
+an array containing the constants of this enum type, in the order they are declared

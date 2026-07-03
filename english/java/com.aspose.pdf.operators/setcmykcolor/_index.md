@@ -1,193 +1,171 @@
 ---
 title: SetCMYKColor
 second_title: Aspose.PDF for Java API Reference
-description: Class representing k operator set CMYK color for non-stroking operations.
+description: Class representing k operator (set CMYK color for non-stroking operations).
 type: docs
-weight: 58
+weight: 530
 url: /java/com.aspose.pdf.operators/setcmykcolor/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator), [com.aspose.pdf.operators.SetColorOperator](../../com.aspose.pdf.operators/setcoloroperator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.SetColorOperator com.aspose.pdf.operators.SetCMYKColor, com.aspose.pdf.Operator, com.aspose.pdf.operators.SetColorOperator com.aspose.pdf.operators.SetCMYKColor, com.aspose.pdf.operators.SetColorOperator, com.aspose.pdf.operators.SetCMYKColor
+
 ```
 public class SetCMYKColor extends SetColorOperator
 ```
 
 Class representing k operator (set CMYK color for non-stroking operations).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SetCMYKColor(double c, double m, double y, double k)](#SetCMYKColor-double-double-double-double-) | Initializes operator. |
-| [SetCMYKColor(int index, ICommand command)](#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
+| [SetCMYKColor](#SetCMYKColor-double-double-double-double-) | Initializes operator. |
+| [SetCMYKColor](#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetCMYKNonstrokingColor-) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getColor()](#getColor--) | Returns color. |
-| [getC()](#getC--) | Gets or sets the cyan component. |
-| [setC(double value)](#setC-double-) | Gets or sets the cyan component. |
-| [getM()](#getM--) | Gets or sets the magenta component. |
-| [setM(double value)](#setM-double-) | Gets or sets the magenta component. |
-| [getY()](#getY--) | Gets or sets the yellow component. |
-| [setY(double value)](#setY-double-) | Gets or sets the yellow component. |
-| [getK()](#getK--) | Gets or sets the black component. |
-| [setK(double value)](#setK-double-) | Gets or sets the black component. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [getRGBColor(double[] cmyk, double[] rgbOut)](#getRGBColor-double---double---) |  |
-### SetCMYKColor(double c, double m, double y, double k) {#SetCMYKColor-double-double-double-double-}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getC](#getC--) | Gets or sets the cyan component. |
+| [getColor](#getColor--) | Returns color. |
+| [getK](#getK--) | Gets or sets the black component. |
+| [getM](#getM--) | Gets or sets the magenta component. |
+| [getRGBColor](#getRGBColor-double:A-double:A-) |  |
+| [getY](#getY--) | Gets or sets the yellow component. |
+| [setC](#setC-double-) | Gets or sets the cyan component. |
+| [setK](#setK-double-) | Gets or sets the black component. |
+| [setM](#setM-double-) | Gets or sets the magenta component. |
+| [setY](#setY-double-) | Gets or sets the yellow component. |
+
+### SetCMYKColor {#SetCMYKColor-double-double-double-double-}
 ```
 public SetCMYKColor(double c, double m, double y, double k)
 ```
-
 
 Initializes operator.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | double | The level of cyan from 0.0 to 1.0 |
-| m | double | The level of magenta from 0.0 to 1.0 |
-| y | double | The level of yellow from 0.0 to 1.0 |
-| k | double | The level of black from 0.0 to 1.0 |
+| c |  | The level of cyan from 0.0 to 1.0 |
+| m |  | The level of magenta from 0.0 to 1.0 |
+| y |  | The level of yellow from 0.0 to 1.0 |
+| k |  | The level of black from 0.0 to 1.0 |
 
-### SetCMYKColor(int index, ICommand command) {#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetCMYKColor(int index, ICommand command)
-```
+### SetCMYKColor {#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetCMYKNonstrokingColor-}
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int |  |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
 
-### getColor() {#getColor--}
-```
-public Color getColor()
-```
-
-
-Returns color.
-
-**Returns:**
-[Color](../../java.awt/color) - Color specified by operator.
-### getC() {#getC--}
+### getC {#getC--}
 ```
 public final double getC()
 ```
 
-
 Gets or sets the cyan component.
 
 **Returns:**
-double - doable value
-### setC(double value) {#setC-double-}
+doable value
+
+### getColor {#getColor--}
 ```
-public final void setC(double value)
-```
-
-
-Gets or sets the cyan component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | doable value |
-
-### getM() {#getM--}
-```
-public final double getM()
+public Color getColor()
 ```
 
-
-Gets or sets the magenta component.
+Returns color.
 
 **Returns:**
-double - doable value
-### setM(double value) {#setM-double-}
-```
-public final void setM(double value)
-```
+Color specified by operator.
 
-
-Gets or sets the magenta component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | doable value |
-
-### getY() {#getY--}
-```
-public final double getY()
-```
-
-
-Gets or sets the yellow component.
-
-**Returns:**
-double - doable value
-### setY(double value) {#setY-double-}
-```
-public final void setY(double value)
-```
-
-
-Gets or sets the yellow component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | doable value |
-
-### getK() {#getK--}
+### getK {#getK--}
 ```
 public final double getK()
 ```
 
-
 Gets or sets the black component.
 
 **Returns:**
-double - doable value
-### setK(double value) {#setK-double-}
+doable value
+
+### getM {#getM--}
 ```
-public final void setK(double value)
-```
-
-
-Gets or sets the black component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | doable value |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
+public final double getM()
 ```
 
+Gets or sets the magenta component.
 
-Accepts visitor object to process operator.
+**Returns:**
+doable value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### getRGBColor(double[] cmyk, double[] rgbOut) {#getRGBColor-double---double---}
+### getRGBColor {#getRGBColor-double:A-double:A-}
 ```
 public void getRGBColor(double[] cmyk, double[] rgbOut)
 ```
 
 
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cmyk |  |  |
+| rgbOut |  |  |
+
+### getY {#getY--}
+```
+public final double getY()
+```
+
+Gets or sets the yellow component.
+
+**Returns:**
+doable value
+
+### setC {#setC-double-}
+```
+public final void setC(double value)
+```
+
+Gets or sets the cyan component.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cmyk | double[] |  |
-| rgbOut | double[] |  |
+| value |  | doable value |
 
+### setK {#setK-double-}
+```
+public final void setK(double value)
+```
+
+Gets or sets the black component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | doable value |
+
+### setM {#setM-double-}
+```
+public final void setM(double value)
+```
+
+Gets or sets the magenta component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | doable value |
+
+### setY {#setY-double-}
+```
+public final void setY(double value)
+```
+
+Gets or sets the yellow component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | doable value |

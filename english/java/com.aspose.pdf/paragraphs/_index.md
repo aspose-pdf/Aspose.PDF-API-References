@@ -3,194 +3,140 @@ title: Paragraphs
 second_title: Aspose.PDF for Java API Reference
 description: This class represents paragraph collection.
 type: docs
-weight: 271
+weight: 3500
 url: /java/com.aspose.pdf/paragraphs/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Paragraphs
 
 **All Implemented Interfaces:**
-java.lang.Iterable, com.aspose.ms.System.ICloneable
+com.aspose.ms.System.ICloneable, Iterable < BaseParagraph >
+
 ```
-public class Paragraphs implements Iterable<BaseParagraph>, System.ICloneable
+public class Paragraphs extends Object implements Iterable < BaseParagraph >, com.aspose.ms.System.ICloneable
 ```
 
 This class represents paragraph collection.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Paragraphs()](#Paragraphs--) |  |
+| [Paragraphs](#Paragraphs--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [add(BaseParagraph paragraph)](#add-com.aspose.pdf.BaseParagraph-) | Add paragraph to collection. |
-| [getRange(int index, int count)](#getRange-int-int-) | Remove paragraphs range. |
-| [removeRange(int index, int count)](#removeRange-int-int-) | Remove paragraphs range. |
-| [remove(BaseParagraph paragraph)](#remove-com.aspose.pdf.BaseParagraph-) | Remove paragraph from collection. |
-| [insert(int index, BaseParagraph paragraph)](#insert-int-com.aspose.pdf.BaseParagraph-) | Insert paragraph to collection. |
-| [getCount()](#getCount--) | Get paragraphs count. |
-| [clear()](#clear--) | Clear paragraphs. |
-| [insertRange(int index, System.Collections.Generic.List<BaseParagraph> collection)](#insertRange-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.BaseParagraph--) | Inserts the elements of a collection into the list at the specified index. |
-| [get_Item(int index)](#get-Item-int-) | Gets paragraph from collection. |
-| [set_Item(int index, BaseParagraph value)](#set-Item-int-com.aspose.pdf.BaseParagraph-) | Sets paragraph to collection. |
-| [iterator()](#iterator--) |  |
-| [deepClone()](#deepClone--) | Clones a new  Clone  object. |
-### Paragraphs() {#Paragraphs--}
+| [add](#add-com.aspose.pdf.BaseParagraph-) | Add paragraph to collection. |
+| [clear](#clear--) | Clear paragraphs. |
+| [deepClone](#deepClone--) | Clones a new {@code Clone} object. |
+| [get_Item](#get_Item-int-) | Gets paragraph from collection. |
+| [getCount](#getCount--) | Get paragraphs count. |
+| [getRange](#getRange-int-int-) | Remove paragraphs range. |
+| [insert](#insert-int-com.aspose.pdf.BaseParagraph-) | Insert paragraph to collection. |
+| [insertRange](#insertRange-int-com.aspose.ms.System.Collections.Generic.List-) | Inserts the elements of a collection into the list at the specified index. |
+| [iterator](#iterator--) |  |
+| [remove](#remove-com.aspose.pdf.BaseParagraph-) | Remove paragraph from collection. |
+| [removeRange](#removeRange-int-int-) | Remove paragraphs range. |
+| [set_Item](#set_Item-int-com.aspose.pdf.BaseParagraph-) | Sets paragraph to collection. |
+
+### Paragraphs {#Paragraphs--}
 ```
 public Paragraphs()
 ```
 
 
-### add(BaseParagraph paragraph) {#add-com.aspose.pdf.BaseParagraph-}
-```
-public void add(BaseParagraph paragraph)
-```
 
-
+### add {#add-com.aspose.pdf.BaseParagraph-}
 Add paragraph to collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| paragraph | [BaseParagraph](../../com.aspose.pdf/baseparagraph) | The paragraph. |
-
-### getRange(int index, int count) {#getRange-int-int-}
-```
-public Paragraphs getRange(int index, int count)
-```
-
-
-Remove paragraphs range.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | The first paragraph index. |
-| count | int | The paragraphs count. |
-
-**Returns:**
-[Paragraphs](../../com.aspose.pdf/paragraphs) - The paragraphs collection
-### removeRange(int index, int count) {#removeRange-int-int-}
-```
-public void removeRange(int index, int count)
-```
-
-
-Remove paragraphs range.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | The first paragraph index. |
-| count | int | The paragraphs count. |
-
-### remove(BaseParagraph paragraph) {#remove-com.aspose.pdf.BaseParagraph-}
-```
-public void remove(BaseParagraph paragraph)
-```
-
-
-Remove paragraph from collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| paragraph | [BaseParagraph](../../com.aspose.pdf/baseparagraph) | BaseParagraph object |
-
-### insert(int index, BaseParagraph paragraph) {#insert-int-com.aspose.pdf.BaseParagraph-}
-```
-public void insert(int index, BaseParagraph paragraph)
-```
-
-
-Insert paragraph to collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | The index for paragraph. |
-| paragraph | [BaseParagraph](../../com.aspose.pdf/baseparagraph) | The paragraph. |
-
-### getCount() {#getCount--}
-```
-public int getCount()
-```
-
-
-Get paragraphs count.
-
-**Returns:**
-int - int value
-### clear() {#clear--}
+### clear {#clear--}
 ```
 public void clear()
 ```
 
-
 Clear paragraphs.
 
-### insertRange(int index, System.Collections.Generic.List<BaseParagraph> collection) {#insertRange-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.BaseParagraph--}
+### deepClone {#deepClone--}
 ```
-public void insertRange(int index, System.Collections.Generic.List<BaseParagraph> collection)
+public Object deepClone()
 ```
 
+Clones a new {@code Clone} object.
 
-Inserts the elements of a collection into the list at the specified index.
+**Returns:**
+The new {@code Clone} object.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value (Index) |
-| collection | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.BaseParagraph> | list of BaseParagraph objects (Collection) |
-
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public BaseParagraph get_Item(int index)
 ```
-
 
 Gets paragraph from collection.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The paragraph index. |
+| index |  | The paragraph index. |
 
 **Returns:**
-[BaseParagraph](../../com.aspose.pdf/baseparagraph) - BaseParagraph object
-### set_Item(int index, BaseParagraph value) {#set-Item-int-com.aspose.pdf.BaseParagraph-}
+BaseParagraph object
+
+### getCount {#getCount--}
 ```
-public void set_Item(int index, BaseParagraph value)
+public int getCount()
 ```
 
+Get paragraphs count.
 
-Sets paragraph to collection.
+**Returns:**
+int value
+
+### getRange {#getRange-int-int-}
+```
+public Paragraphs getRange(int index, int count)
+```
+
+Remove paragraphs range.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The paragraph index. |
-| value | [BaseParagraph](../../com.aspose.pdf/baseparagraph) | BaseParagraph object |
-
-### iterator() {#iterator--}
-```
-public System.Collections.IEnumerator iterator()
-```
-
-
-
+| index |  | The first paragraph index. |
+| count |  | The paragraphs count. |
 
 **Returns:**
-com.aspose.ms.System.Collections.IEnumerator
-### deepClone() {#deepClone--}
+The paragraphs collection
+
+### insert {#insert-int-com.aspose.pdf.BaseParagraph-}
+Insert paragraph to collection.
+
+### insertRange {#insertRange-int-com.aspose.ms.System.Collections.Generic.List-}
+Inserts the elements of a collection into the list at the specified index.
+
+### iterator {#iterator--}
 ```
-public Object deepClone()
+public com.aspose.ms.System.Collections.IEnumerator iterator()
 ```
 
 
-Clones a new  Clone  object.
 
-**Returns:**
-java.lang.Object - The new  Clone  object.
+### remove {#remove-com.aspose.pdf.BaseParagraph-}
+Remove paragraph from collection.
+
+### removeRange {#removeRange-int-int-}
+```
+public void removeRange(int index, int count)
+```
+
+Remove paragraphs range.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index |  | The first paragraph index. |
+| count |  | The paragraphs count. |
+
+### set_Item {#set_Item-int-com.aspose.pdf.BaseParagraph-}
+Sets paragraph to collection.

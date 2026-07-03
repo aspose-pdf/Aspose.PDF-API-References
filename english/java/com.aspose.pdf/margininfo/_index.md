@@ -1,146 +1,160 @@
 ---
-title: SaveOptions.MarginInfo
+title: MarginInfo
 second_title: Aspose.PDF for Java API Reference
-description: Instance of this class represents information about page margin That can be drown on some result document.
+description: This class represents a margin for different objects.
 type: docs
-weight: 13
-url: /java/com.aspose.pdf/saveoptions.margininfo/
+weight: 2860
+url: /java/com.aspose.pdf/margininfo/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.MarginInfo
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
-public static class SaveOptions.MarginInfo
+public final class MarginInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-Instance of this class represents information about page margin That can be drown on some result document.
+This class represents a margin for different objects.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [MarginInfo()](#MarginInfo--) | Creates instance of MarginInfo |
-| [MarginInfo(SaveOptions.MarginPartStyle commonMargin)](#MarginInfo-com.aspose.pdf.SaveOptions.MarginPartStyle-) | Creates instance of MarginInfo class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style |
+| [MarginInfo](#MarginInfo--) | Initializes a new instance of the {@code MarginInfo} class. |
+| [MarginInfo](#MarginInfo-double-double-double-double-) | Constructor of Rectangle. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTopMarginIfAny()](#getTopMarginIfAny--) | Represents top page margin(if any) |
-| [setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny)](#setTopMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | Represents top page margin(if any) |
-| [getRightMarginIfAny()](#getRightMarginIfAny--) | Represents right page margin(if any) |
-| [setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny)](#setRightMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | Represents right page margin(if any) |
-| [getBottomMarginIfAny()](#getBottomMarginIfAny--) | Represents bottom page margin(if any) |
-| [setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny)](#setBottomMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | Represents bottom page margin(if any) |
-| [getLeftMarginIfAny()](#getLeftMarginIfAny--) | Represents left page margin(if any) |
-| [setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny)](#setLeftMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | Represents left page margin(if any) |
-### MarginInfo() {#MarginInfo--}
+| [deepClone](#deepClone--) | Clones a new {@code MarginInfo} object. |
+| [getBottom](#getBottom--) | Gets a float value that indicates the bottom margin. |
+| [getLeft](#getLeft--) | Gets a float value that indicates the left margin. |
+| [getRight](#getRight--) | Gets a float value that indicates the right margin. |
+| [getTop](#getTop--) | Gets a float value that indicates the top margin. |
+| [setBottom](#setBottom-double-) | Sets a float value that indicates the bottom margin. |
+| [setLeft](#setLeft-double-) | Sets a float value that indicates the left margin. |
+| [setRight](#setRight-double-) | Sets a float value that indicates the right margin. |
+| [setTop](#setTop-double-) | Sets a float value that indicates the top margin. |
+
+### MarginInfo {#MarginInfo--}
 ```
 public MarginInfo()
 ```
 
+Initializes a new instance of the {@code MarginInfo} class.
 
-Creates instance of MarginInfo
-
-### MarginInfo(SaveOptions.MarginPartStyle commonMargin) {#MarginInfo-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+### MarginInfo {#MarginInfo-double-double-double-double-}
 ```
-public MarginInfo(SaveOptions.MarginPartStyle commonMargin)
+public MarginInfo(double left, double bottom, double right, double top)
 ```
 
-
-Creates instance of MarginInfo class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style
+Constructor of Rectangle.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonMargin | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | style of margin parts that will be used for all elements of margin(left, right, top, bottom) |
+| left |  | Left margin. |
+| bottom |  | Bottom margin |
+| right |  | Right margin. |
+| top |  | Top margin. |
 
-### getTopMarginIfAny() {#getTopMarginIfAny--}
+### deepClone {#deepClone--}
 ```
-public SaveOptions.MarginPartStyle getTopMarginIfAny()
+public Object deepClone()
 ```
 
-
-Represents top page margin(if any)
+Clones a new {@code MarginInfo} object.
 
 **Returns:**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) - MarginPartStyle instance
-### setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny) {#setTopMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+The new object.
+
+### getBottom {#getBottom--}
 ```
-public void setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny)
-```
-
-
-Represents top page margin(if any)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| topMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle instance |
-
-### getRightMarginIfAny() {#getRightMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getRightMarginIfAny()
+public double getBottom()
 ```
 
-
-Represents right page margin(if any)
+Gets a float value that indicates the bottom margin.
 
 **Returns:**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) - MarginPartStyle instance
-### setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny) {#setRightMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+double value
+
+### getLeft {#getLeft--}
 ```
-public void setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny)
-```
-
-
-Represents right page margin(if any)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rightMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle instance |
-
-### getBottomMarginIfAny() {#getBottomMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getBottomMarginIfAny()
+public double getLeft()
 ```
 
-
-Represents bottom page margin(if any)
+Gets a float value that indicates the left margin.
 
 **Returns:**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) - MarginPartStyle instance
-### setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny) {#setBottomMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+double value
+
+### getRight {#getRight--}
 ```
-public void setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny)
-```
-
-
-Represents bottom page margin(if any)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bottomMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle instance |
-
-### getLeftMarginIfAny() {#getLeftMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getLeftMarginIfAny()
+public double getRight()
 ```
 
-
-Represents left page margin(if any)
+Gets a float value that indicates the right margin.
 
 **Returns:**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) - MarginPartStyle instance
-### setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny) {#setLeftMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+double value
+
+### getTop {#getTop--}
 ```
-public void setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny)
+public double getTop()
 ```
 
+Gets a float value that indicates the top margin.
 
-Represents left page margin(if any)
+**Returns:**
+double value
+
+### setBottom {#setBottom-double-}
+```
+public void setBottom(double value)
+```
+
+Sets a float value that indicates the bottom margin.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| leftMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle instance |
+| value |  | double value |
 
+### setLeft {#setLeft-double-}
+```
+public void setLeft(double value)
+```
+
+Sets a float value that indicates the left margin.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setRight {#setRight-double-}
+```
+public void setRight(double value)
+```
+
+Sets a float value that indicates the right margin.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setTop {#setTop-double-}
+```
+public void setTop(double value)
+```
+
+Sets a float value that indicates the top margin.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |

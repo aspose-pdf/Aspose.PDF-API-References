@@ -3,60 +3,40 @@ title: LineEndingConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents LineEndingConverter class
 type: docs
-weight: 196
+weight: 2730
 url: /java/com.aspose.pdf/lineendingconverter/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.LineEndingConverter
+
 ```
-public class LineEndingConverter
+public class LineEndingConverter extends Object
 ```
 
 Represents LineEndingConverter class
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [LineEndingConverter()](#LineEndingConverter--) |  |
+| [LineEndingConverter](#LineEndingConverter--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int value)](#toString-int-) | Get String name for LineEnding element |
-| [toEnum(String value)](#toEnum-java.lang.String-) | Get LineEnding element for string equivalent |
-### LineEndingConverter() {#LineEndingConverter--}
+| [toEnum](#toEnum-java.lang.String-) | Get LineEnding element for string equivalent |
+| [toString](#toString-com.aspose.pdf.LineEnding-) | Get String name for LineEnding element |
+
+### LineEndingConverter {#LineEndingConverter--}
 ```
 public LineEndingConverter()
 ```
 
 
-### toString(int value) {#toString-int-}
-```
-public static String toString(int value)
-```
 
-
-Get String name for LineEnding element
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | LineEnding element |
-
-**Returns:**
-java.lang.String - String object
-### toEnum(String value) {#toEnum-java.lang.String-}
-```
-public static int toEnum(String value)
-```
-
-
+### toEnum {#toEnum-java.lang.String-}
 Get LineEnding element for string equivalent
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String element |
-
-**Returns:**
-int - LineEnding object
+### toString {#toString-com.aspose.pdf.LineEnding-}
+Get String name for LineEnding element

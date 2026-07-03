@@ -3,105 +3,86 @@ title: PageLabel
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Page Label range.
 type: docs
-weight: 263
+weight: 3390
 url: /java/com.aspose.pdf/pagelabel/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PageLabel
+
 ```
-public class PageLabel
+public class PageLabel extends Object
 ```
 
 Class representing Page Label range.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PageLabel()](#PageLabel--) | Constructor for page label. |
+| [PageLabel](#PageLabel--) | Constructor for page label. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getStartingValue()](#getStartingValue--) | Gets starting value of the page numbering range. |
-| [setStartingValue(int value)](#setStartingValue-int-) | Gets starting value of the page numbering range. |
-| [getNumberingStyle()](#getNumberingStyle--) | Gets numbering style. |
-| [setNumberingStyle(int value)](#setNumberingStyle-int-) | Sets numbering style. |
-| [getPrefix()](#getPrefix--) | Gets page number prefix. |
-| [setPrefix(String value)](#setPrefix-java.lang.String-) | Sets or sets page number prefix. |
-### PageLabel() {#PageLabel--}
+| [getNumberingStyle](#getNumberingStyle--) | Gets numbering style. |
+| [getPrefix](#getPrefix--) | Gets page number prefix. |
+| [getStartingValue](#getStartingValue--) | Gets starting value of the page numbering range. |
+| [setNumberingStyle](#setNumberingStyle-com.aspose.pdf.NumberingStyle-) | Sets numbering style. |
+| [setPrefix](#setPrefix-java.lang.String-) | Sets or sets page number prefix. |
+| [setStartingValue](#setStartingValue-int-) | Gets starting value of the page numbering range. |
+
+### PageLabel {#PageLabel--}
 ```
 public PageLabel()
 ```
 
-
 Constructor for page label.
 
-### getStartingValue() {#getStartingValue--}
+### getNumberingStyle {#getNumberingStyle--}
 ```
-public int getStartingValue()
+public NumberingStyle getNumberingStyle()
 ```
-
-
-Gets starting value of the page numbering range.
-
-**Returns:**
-int - int value
-### setStartingValue(int value) {#setStartingValue-int-}
-```
-public void setStartingValue(int value)
-```
-
-
-Gets starting value of the page numbering range.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### getNumberingStyle() {#getNumberingStyle--}
-```
-public int getNumberingStyle()
-```
-
 
 Gets numbering style.
 
 **Returns:**
-int - int value
-### setNumberingStyle(int value) {#setNumberingStyle-int-}
-```
-public void setNumberingStyle(int value)
-```
+int value @see NumberingStyle
 
-
-Sets numbering style.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int vlaue |
-
-### getPrefix() {#getPrefix--}
+### getPrefix {#getPrefix--}
 ```
 public String getPrefix()
 ```
 
-
 Gets page number prefix.
 
 **Returns:**
-java.lang.String - String value
-### setPrefix(String value) {#setPrefix-java.lang.String-}
+String value
+
+### getStartingValue {#getStartingValue--}
 ```
-public void setPrefix(String value)
+public int getStartingValue()
 ```
 
+Gets starting value of the page numbering range.
 
+**Returns:**
+int value
+
+### setNumberingStyle {#setNumberingStyle-com.aspose.pdf.NumberingStyle-}
+Sets numbering style.
+
+### setPrefix {#setPrefix-java.lang.String-}
 Sets or sets page number prefix.
+
+### setStartingValue {#setStartingValue-int-}
+```
+public void setStartingValue(int value)
+```
+
+Gets starting value of the page numbering range.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | String object |
-
+| value |  | int value |

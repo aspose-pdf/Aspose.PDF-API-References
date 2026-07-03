@@ -3,114 +3,84 @@ title: PDF3DCrossSectionArray
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DCrossSectionArray.
 type: docs
-weight: 248
+weight: 3600
 url: /java/com.aspose.pdf/pdf3dcrosssectionarray/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PDF3DCrossSectionArray
+
 ```
-public class PDF3DCrossSectionArray
+public class PDF3DCrossSectionArray extends Object
 ```
 
 Class PDF3DCrossSectionArray.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PDF3DCrossSectionArray(IDocument doc)](#PDF3DCrossSectionArray-com.aspose.pdf.IDocument-) | Initializes a new instance of the  PDF3DCrossSectionArray  class. |
+| [PDF3DCrossSectionArray](#PDF3DCrossSectionArray-com.aspose.pdf.IDocument-) | Initializes a new instance of the {@code PDF3DCrossSectionArray} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCount()](#getCount--) | Gets the cross section count. |
-| [add(PDF3DCrossSection crossSection)](#add-com.aspose.pdf.PDF3DCrossSection-) | Adds the specified cross section to views array . |
-| [removeAt(int index)](#removeAt-int-) | Removes cross section from array at specified index. |
-| [removeAll()](#removeAll--) | Removes all cross section from array. |
-| [get_Item(int index)](#get-Item-int-) | Gets or sets the  PDF3DCrossSection  at the specified index. |
-| [set_Item(int index, PDF3DCrossSection value)](#set-Item-int-com.aspose.pdf.PDF3DCrossSection-) | Gets or sets the  PDF3DCrossSection  at the specified index. |
-### PDF3DCrossSectionArray(IDocument doc) {#PDF3DCrossSectionArray-com.aspose.pdf.IDocument-}
+| [add](#add-com.aspose.pdf.PDF3DCrossSection-) | Adds the specified cross section to views array . |
+| [get_Item](#get_Item-int-) | Gets or sets the {@code PDF3DCrossSection} at the specified index. |
+| [getCount](#getCount--) | Gets the cross section count. |
+| [removeAll](#removeAll--) | Removes all cross section from array. |
+| [removeAt](#removeAt-int-) | Removes cross section from array at specified index. |
+| [set_Item](#set_Item-int-com.aspose.pdf.PDF3DCrossSection-) | Gets or sets the {@code PDF3DCrossSection} at the specified index. |
+
+### PDF3DCrossSectionArray {#PDF3DCrossSectionArray-com.aspose.pdf.IDocument-}
+Initializes a new instance of the {@code PDF3DCrossSectionArray} class.
+
+### add {#add-com.aspose.pdf.PDF3DCrossSection-}
+Adds the specified cross section to views array .
+
+### get_Item {#get_Item-int-}
 ```
-public PDF3DCrossSectionArray(IDocument doc)
+public PDF3DCrossSection get_Item(int index)
 ```
 
-
-Initializes a new instance of the  PDF3DCrossSectionArray  class.
+Gets or sets the {@code PDF3DCrossSection} at the specified index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | The document. |
+| index |  | The index. |
 
-### getCount() {#getCount--}
+**Returns:**
+Cross section. @throws IndexOutOfRangeException Invalid index: index should be in the range [1..n] where n equals to the cross sections count.
+
+### getCount {#getCount--}
 ```
 public int getCount()
 ```
 
-
 Gets the cross section count.
 
 **Returns:**
-int - int value: The cross section count.
-### add(PDF3DCrossSection crossSection) {#add-com.aspose.pdf.PDF3DCrossSection-}
+int value: The cross section count.
+
+### removeAll {#removeAll--}
 ```
-public void add(PDF3DCrossSection crossSection)
+public void removeAll()
 ```
 
+Removes all cross section from array.
 
-Adds the specified cross section to views array .
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| crossSection | [PDF3DCrossSection](../../com.aspose.pdf/pdf3dcrosssection) | The cross section. |
-
-### removeAt(int index) {#removeAt-int-}
+### removeAt {#removeAt-int-}
 ```
 public void removeAt(int index)
 ```
-
 
 Removes cross section from array at specified index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index of removed cross section in array. |
+| index |  | The index of removed cross section in array. @throws IndexOutOfRangeException Invalid index: index should be in the range [1..n] where n equals to the cross sections count. |
 
-### removeAll() {#removeAll--}
-```
-public void removeAll()
-```
-
-
-Removes all cross section from array.
-
-### get_Item(int index) {#get-Item-int-}
-```
-public PDF3DCrossSection get_Item(int index)
-```
-
-
-Gets or sets the  PDF3DCrossSection  at the specified index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | The index. |
-
-**Returns:**
-[PDF3DCrossSection](../../com.aspose.pdf/pdf3dcrosssection) - Cross section.
-### set_Item(int index, PDF3DCrossSection value) {#set-Item-int-com.aspose.pdf.PDF3DCrossSection-}
-```
-public void set_Item(int index, PDF3DCrossSection value)
-```
-
-
-Gets or sets the  PDF3DCrossSection  at the specified index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | The index. |
-| value | [PDF3DCrossSection](../../com.aspose.pdf/pdf3dcrosssection) | PDF3DCrossSection object. |
-
+### set_Item {#set_Item-int-com.aspose.pdf.PDF3DCrossSection-}
+Gets or sets the {@code PDF3DCrossSection} at the specified index.

@@ -3,68 +3,61 @@ title: EncryptedPayload
 second_title: Aspose.PDF for Java API Reference
 description: Represents encrypted payload in file specification.
 type: docs
-weight: 98
+weight: 1210
 url: /java/com.aspose.pdf/encryptedpayload/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.EncryptedPayload
+
 ```
-public final class EncryptedPayload
+public final class EncryptedPayload extends Object
 ```
 
 Represents encrypted payload in file specification.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [EncryptedPayload(FileSpecification fileSpecification)](#EncryptedPayload-com.aspose.pdf.FileSpecification-) | Initialize Encrypted payload instance. |
+| [EncryptedPayload](#EncryptedPayload-com.aspose.pdf.FileSpecification-) | Initialize Encrypted payload instance. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getType()](#getType--) | Gets type. |
-| [getSubtype()](#getSubtype--) | Gets subtype. |
-| [getVersion()](#getVersion--) | Gets version number. |
-### EncryptedPayload(FileSpecification fileSpecification) {#EncryptedPayload-com.aspose.pdf.FileSpecification-}
-```
-public EncryptedPayload(FileSpecification fileSpecification)
-```
+| [getSubtype](#getSubtype--) | Gets subtype. |
+| [getType](#getType--) | Gets type. |
+| [getVersion](#getVersion--) | Gets version number. |
 
-
+### EncryptedPayload {#EncryptedPayload-com.aspose.pdf.FileSpecification-}
 Initialize Encrypted payload instance.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileSpecification | [FileSpecification](../../com.aspose.pdf/filespecification) | The file specification used for initialization. |
-
-### getType() {#getType--}
-```
-public final String getType()
-```
-
-
-Gets type.
-
-**Returns:**
-java.lang.String - String value
-### getSubtype() {#getSubtype--}
+### getSubtype {#getSubtype--}
 ```
 public final String getSubtype()
 ```
 
-
 Gets subtype.
 
 **Returns:**
-java.lang.String - String value
-### getVersion() {#getVersion--}
+String value
+
+### getType {#getType--}
+```
+public final String getType()
+```
+
+Gets type.
+
+**Returns:**
+String value
+
+### getVersion {#getVersion--}
 ```
 public final String getVersion()
 ```
 
-
 Gets version number.
 
 **Returns:**
-java.lang.String - String value
+String value

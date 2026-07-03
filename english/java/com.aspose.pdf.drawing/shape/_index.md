@@ -3,78 +3,82 @@ title: Shape
 second_title: Aspose.PDF for Java API Reference
 description: Represents shape - the base graphics object.
 type: docs
-weight: 21
+weight: 130
 url: /java/com.aspose.pdf.drawing/shape/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.drawing.Shape
+
+**All Implemented Interfaces:**
+IBoundsCheckableItem
+
 ```
-public abstract class Shape
+public abstract class Shape extends Object implements IBoundsCheckableItem
 ```
 
 Represents shape - the base graphics object.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Shape()](#Shape--) |  |
+| [Shape](#Shape--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getGraphInfo()](#getGraphInfo--) | Gets object that indicates the graph info,such as color, line width,etc. |
-| [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | Sets object that indicates the graph info,such as color, line width,etc. |
-| [getText()](#getText--) | Gets or sets a text for shape |
-| [setText(TextFragment value)](#setText-com.aspose.pdf.TextFragment-) | Gets or sets a text for shape |
-### Shape() {#Shape--}
+| [checkBounds](#checkBounds-double-double-) | Checks if the item fits within the given container dimensions (inclusive). |
+| [getGraphInfo](#getGraphInfo--) | Gets object that indicates the graph info,such as color, line width,etc. |
+| [getText](#getText--) | Gets or sets a text for shape |
+| [setGraphInfo](#setGraphInfo-com.aspose.pdf.GraphInfo-) | Sets object that indicates the graph info,such as color, line width,etc. |
+| [setText](#setText-com.aspose.pdf.TextFragment-) | Gets or sets a text for shape |
+
+### Shape {#Shape--}
 ```
 public Shape()
 ```
 
 
-### getGraphInfo() {#getGraphInfo--}
+
+### checkBounds {#checkBounds-double-double-}
+```
+public boolean checkBounds(double containerWidth, double containerHeight)
+```
+
+Checks if the item fits within the given container dimensions (inclusive).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| containerWidth |  |  |
+| containerHeight |  |  |
+
+**Returns:**
+True if fits; otherwise, false.
+
+### getGraphInfo {#getGraphInfo--}
 ```
 public GraphInfo getGraphInfo()
 ```
 
-
 Gets object that indicates the graph info,such as color, line width,etc.
 
 **Returns:**
-[GraphInfo](../../com.aspose.pdf/graphinfo) - object that indicates the graph info.
-### setGraphInfo(GraphInfo value) {#setGraphInfo-com.aspose.pdf.GraphInfo-}
-```
-public void setGraphInfo(GraphInfo value)
-```
+object that indicates the graph info.
 
-
-Sets object that indicates the graph info,such as color, line width,etc.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [GraphInfo](../../com.aspose.pdf/graphinfo) | that indicates the graph info. |
-
-### getText() {#getText--}
+### getText {#getText--}
 ```
 public TextFragment getText()
 ```
 
-
 Gets or sets a text for shape
 
 **Returns:**
-[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment object
-### setText(TextFragment value) {#setText-com.aspose.pdf.TextFragment-}
-```
-public void setText(TextFragment value)
-```
+TextFragment object
 
+### setGraphInfo {#setGraphInfo-com.aspose.pdf.GraphInfo-}
+Sets object that indicates the graph info,such as color, line width,etc.
 
+### setText {#setText-com.aspose.pdf.TextFragment-}
 Gets or sets a text for shape
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextFragment](../../com.aspose.pdf/textfragment) | TextFragment object |
-

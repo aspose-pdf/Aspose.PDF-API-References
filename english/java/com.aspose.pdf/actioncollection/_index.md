@@ -3,188 +3,138 @@ title: ActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of actions
 type: docs
-weight: 13
+weight: 40
 url: /java/com.aspose.pdf/actioncollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.ActionCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable
+Iterable < PdfAction >
+
 ```
-public final class ActionCollection implements Iterable<PdfAction>
+public final class ActionCollection extends Object implements Iterable < PdfAction >
 ```
 
 Collection of actions
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [size()](#size--) | Count of actions on the collection. |
-| [isSynchronized()](#isSynchronized--) | Returns true if object is synchronized. |
-| [getSyncRoot()](#getSyncRoot--) | Gets synchronization object. |
-| [isReadOnly()](#isReadOnly--) | Returns true if collection is readonly. |
-| [add(PdfAction action)](#add-com.aspose.pdf.PdfAction-) | Adds new action into colleciton. |
-| [delete(int index)](#delete-int-) | Removes action from collection by index. |
-| [delete()](#delete--) | Delete all actions. |
-| [copyTo(PdfAction[] array, int index)](#copyTo-com.aspose.pdf.PdfAction---int-) | Copies actions array into collection. |
-| [iterator()](#iterator--) | Returns enumerator for collection. |
-| [clear()](#clear--) | Clear collection. |
-| [contains(PdfAction item)](#contains-com.aspose.pdf.PdfAction-) | Not supported yet. |
-| [remove(PdfAction item)](#remove-com.aspose.pdf.PdfAction-) | \* Not supported yet. |
-| [get_Item(int index)](#get-Item-int-) | Gets action by its index. |
-### size() {#size--}
-```
-public int size()
-```
+| [add](#add-com.aspose.pdf.PdfAction-) | Adds new action into colleciton. |
+| [clear](#clear--) | Clear collection. |
+| [contains](#contains-com.aspose.pdf.PdfAction-) | Not supported yet. Returns true if give item presents in the collection. |
+| [copyTo](#copyTo-com.aspose.pdf.PdfAction:A-int-) | Copies actions array into collection. |
+| [delete](#delete--) | Delete all actions. |
+| [delete](#delete-int-) | Removes action from collection by index. |
+| [get_Item](#get_Item-int-) | Gets action by its index. |
+| [getSyncRoot](#getSyncRoot--) | Gets synchronization object. |
+| [isReadOnly](#isReadOnly--) | Returns true if collection is readonly. |
+| [isSynchronized](#isSynchronized--) | Returns true if object is synchronized. |
+| [iterator](#iterator--) | / * / * Returns enumerator for collection. / * / * / * |
+| [remove](#remove-com.aspose.pdf.PdfAction-) | * Not supported yet. Removes item from collection. |
+| [size](#size--) | Count of actions on the collection. |
 
-
-Count of actions on the collection.
-
-**Returns:**
-int - int value
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Returns true if object is synchronized.
-
-**Returns:**
-boolean - boolean value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets synchronization object.
-
-**Returns:**
-java.lang.Object - Object value
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Returns true if collection is readonly.
-
-**Returns:**
-boolean - boolean value
-### add(PdfAction action) {#add-com.aspose.pdf.PdfAction-}
-```
-public void add(PdfAction action)
-```
-
-
+### add {#add-com.aspose.pdf.PdfAction-}
 Adds new action into colleciton.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| action | [PdfAction](../../com.aspose.pdf/pdfaction) | Action which should be added. |
+### clear {#clear--}
+```
+public void clear()
+```
 
-### delete(int index) {#delete-int-}
+Clear collection.
+
+### contains {#contains-com.aspose.pdf.PdfAction-}
+Not supported yet. Returns true if give item presents in the collection.
+
+### copyTo {#copyTo-com.aspose.pdf.PdfAction:A-int-}
+Copies actions array into collection.
+
+### delete {#delete--}
+```
+public void delete()
+```
+
+Delete all actions.
+
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
-
 
 Removes action from collection by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of action to remove. |
+| index |  | Index of action to remove. |
 
-### delete() {#delete--}
-```
-public void delete()
-```
-
-
-Delete all actions.
-
-### copyTo(PdfAction[] array, int index) {#copyTo-com.aspose.pdf.PdfAction---int-}
-```
-public void copyTo(PdfAction[] array, int index)
-```
-
-
-Copies actions array into collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [PdfAction\[\]](../../com.aspose.pdf/pdfaction) | Array of actions which must be copied into collection. |
-| index | int | Index starting from which array will be copied. |
-
-### iterator() {#iterator--}
-```
-public System.Collections.IEnumerator<PdfAction> iterator()
-```
-
-
-Returns enumerator for collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.PdfAction> - Collection enumerator.
-### clear() {#clear--}
-```
-public void clear()
-```
-
-
-Clear collection.
-
-### contains(PdfAction item) {#contains-com.aspose.pdf.PdfAction-}
-```
-public boolean contains(PdfAction item)
-```
-
-
-Not supported yet.
-
-Returns true if give item presents in the collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction instance Not implemented. |
-
-**Returns:**
-boolean - boolean value Item to find.
-### remove(PdfAction item) {#remove-com.aspose.pdf.PdfAction-}
-```
-public boolean remove(PdfAction item)
-```
-
-
-\* Not supported yet.
-
-Removes item from collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [PdfAction](../../com.aspose.pdf/pdfaction) | Item to delete. |
-
-**Returns:**
-boolean - boolean value Not implemented.
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public PdfAction get_Item(int index)
 ```
-
 
 Gets action by its index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of action. |
+| index |  | Index of action. |
 
 **Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - Retreived action.
+Retreived action.
+
+### getSyncRoot {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+Gets synchronization object.
+
+**Returns:**
+Object value
+
+### isReadOnly {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+Returns true if collection is readonly.
+
+**Returns:**
+boolean value
+
+### isSynchronized {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+Returns true if object is synchronized.
+
+**Returns:**
+boolean value
+
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.IEnumerator< PdfAction > iterator()
+```
+
+/ * / * Returns enumerator for collection. / * / * / *
+
+**Returns:**
+Collection enumerator. /
+
+### remove {#remove-com.aspose.pdf.PdfAction-}
+* Not supported yet. Removes item from collection.
+
+### size {#size--}
+```
+public int size()
+```
+
+Count of actions on the collection.
+
+**Returns:**
+int value

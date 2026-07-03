@@ -1,157 +1,141 @@
 ---
 title: TabStops
 second_title: Aspose.PDF for Java API Reference
-description: Represents a collection of TabStop objects.
+description: Represents a collection of {@code TabStop} objects.
 type: docs
-weight: 355
+weight: 4850
 url: /java/com.aspose.pdf/tabstops/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.TabStops
 
 **All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public class TabStops implements System.ICloneable
+public class TabStops extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-Represents a collection of  TabStop  objects.
+Represents a collection of {@code TabStop} objects.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TabStops()](#TabStops--) | Initializes a new instance of the  TabStops  class. |
+| [TabStops](#TabStops--) | Initializes a new instance of the {@code TabStops} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isReadOnly()](#isReadOnly--) | Gets value indicating that this  TabStops  instance is already attached to  TextFragment  and became readonly. |
-| [add()](#add--) | Initializes a new instance of the  TabStop  class and add it to the TabStops collection. |
-| [add(float position)](#add-float-) | Initializes a new instance of the  TabStop  class with specified position and add it to the TabStops collection. |
-| [add(TabStop tabStop)](#add-com.aspose.pdf.TabStop-) | Add instance of the  TabStop  class to the TabStops collection. |
-| [getCount()](#getCount--) | Returns tabStops Cound |
-| [add(float position, int leaderType)](#add-float-int-) | Initializes a new instance of the  TabStop  class with specified position and leader type and add it to the TabStops collection. |
-| [deepClone()](#deepClone--) | Clones a new  TabStops  objects. |
-| [get_Item(int index)](#get-Item-int-) | Gets a  TabStop  object from the collection according to TabStop index. |
-| [set_Item(int index, TabStop value)](#set-Item-int-com.aspose.pdf.TabStop-) | Sets a  TabStop  object from the collection according to TabStop index. |
-### TabStops() {#TabStops--}
+| [add](#add--) | Initializes a new instance of the {@code TabStop} class and add it to the TabStops collection. |
+| [add](#add-float-) | Initializes a new instance of the {@code TabStop} class with specified position and add it to the TabStops collection. |
+| [add](#add-float-int-) | Initializes a new instance of the {@code TabStop} class with specified position and leader type and add it to the TabStops collection. |
+| [add](#add-com.aspose.pdf.TabStop-) | Initializes a new instance of the {@code TabStop} class and add it to the TabStops collection. |
+| [deepClone](#deepClone--) | Clones a new {@code TabStops} objects. |
+| [get_Item](#get_Item-int-) | Gets a {@code TabStop} object from the collection according to TabStop index. |
+| [getCount](#getCount--) | Returns tabStops Cound |
+| [isReadOnly](#isReadOnly--) | Gets value indicating that this {@code TabStops} instance is already attached to {@code TextFragment} and became readonly. |
+| [set_Item](#set_Item-int-com.aspose.pdf.TabStop-) | Sets a {@code TabStop} object from the collection according to TabStop index. |
+
+### TabStops {#TabStops--}
 ```
 public TabStops()
 ```
 
+Initializes a new instance of the {@code TabStops} class.
 
-Initializes a new instance of the  TabStops  class.
-
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets value indicating that this  TabStops  instance is already attached to  TextFragment  and became readonly.
-
-**Returns:**
-boolean - boolean value
-### add() {#add--}
+### add {#add--}
 ```
 public TabStop add()
 ```
 
-
-Initializes a new instance of the  TabStop  class and add it to the TabStops collection.
+Initializes a new instance of the {@code TabStop} class and add it to the TabStops collection.
 
 **Returns:**
-[TabStop](../../com.aspose.pdf/tabstop) - The new  TabStop  object.
-### add(float position) {#add-float-}
+The new {@code TabStop} object.
+
+### add {#add-float-}
 ```
 public TabStop add(float position)
 ```
 
-
-Initializes a new instance of the  TabStop  class with specified position and add it to the TabStops collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| position | float | The position of the tab stop. |
-
-**Returns:**
-[TabStop](../../com.aspose.pdf/tabstop) - The new  TabStop  object.
-### add(TabStop tabStop) {#add-com.aspose.pdf.TabStop-}
-```
-public void add(TabStop tabStop)
-```
-
-
-Add instance of the  TabStop  class to the TabStops collection.
+Initializes a new instance of the {@code TabStop} class with specified position and add it to the TabStops collection.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tabStop | [TabStop](../../com.aspose.pdf/tabstop) | The  TabStop  object. |
-
-### getCount() {#getCount--}
-```
-public int getCount()
-```
-
-
-Returns tabStops Cound
+| position |  | The position of the tab stop. |
 
 **Returns:**
-int - int value
-### add(float position, int leaderType) {#add-float-int-}
+The new {@code TabStop} object.
+
+### add {#add-float-int-}
 ```
 public TabStop add(float position, int leaderType)
 ```
 
-
-Initializes a new instance of the  TabStop  class with specified position and leader type and add it to the TabStops collection.
+Initializes a new instance of the {@code TabStop} class with specified position and leader type and add it to the TabStops collection.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | float | The position of the tab stop. |
-| leaderType | int | The leader type of the tab stop. |
+| position |  | The position of the tab stop. |
+| leaderType |  | The leader type of the tab stop. |
 
 **Returns:**
-[TabStop](../../com.aspose.pdf/tabstop) - The new  TabStop  object.
-### deepClone() {#deepClone--}
+The new {@code TabStop} object.
+
+### add {#add-com.aspose.pdf.TabStop-}
+Initializes a new instance of the {@code TabStop} class and add it to the TabStops collection.
+
+**Returns:**
+The new {@code TabStop} object.
+
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
-
-Clones a new  TabStops  objects.
+Clones a new {@code TabStops} objects.
 
 **Returns:**
-java.lang.Object - The new  TabStops  object.
-### get_Item(int index) {#get-Item-int-}
+The new {@code TabStops} object.
+
+### get_Item {#get_Item-int-}
 ```
 public TabStop get_Item(int index)
 ```
 
-
-Gets a  TabStop  object from the collection according to TabStop index.
+Gets a {@code TabStop} object from the collection according to TabStop index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Zero-based index of element in  TabStops  collection. |
+| index |  | Zero-based index of element in {@code TabStops} collection. |
 
 **Returns:**
-[TabStop](../../com.aspose.pdf/tabstop) -  TabStop  object.
-### set_Item(int index, TabStop value) {#set-Item-int-com.aspose.pdf.TabStop-}
+{@code TabStop} object.
+
+### getCount {#getCount--}
 ```
-public void set_Item(int index, TabStop value)
+public int getCount()
 ```
 
+Returns tabStops Cound
 
-Sets a  TabStop  object from the collection according to TabStop index.
+**Returns:**
+int value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Zero-based index of element in  TabStops  collection. |
-| value | [TabStop](../../com.aspose.pdf/tabstop) |  TabStop  object. |
+### isReadOnly {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
 
+Gets value indicating that this {@code TabStops} instance is already attached to {@code TextFragment} and became readonly.
+
+**Returns:**
+boolean value
+
+### set_Item {#set_Item-int-com.aspose.pdf.TabStop-}
+Sets a {@code TabStop} object from the collection according to TabStop index.

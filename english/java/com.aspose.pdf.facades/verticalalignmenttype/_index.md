@@ -1,80 +1,70 @@
 ---
 title: VerticalAlignmentType
 second_title: Aspose.PDF for Java API Reference
-description: Class representing possible vertical alignment values.
+description: Class representing possible vertical alignment values. Use VerticalAlignment instead
 type: docs
-weight: 57
+weight: 750
 url: /java/com.aspose.pdf.facades/verticalalignmenttype/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.facades.VerticalAlignmentType
+
 ```
-public final class VerticalAlignmentType
+@Deprecated public final class VerticalAlignmentType extends Object
 ```
 
-Class representing possible vertical alignment values.
-Use VerticalAlignment instead
-## Constructors
+Class representing possible vertical alignment values. Use VerticalAlignment instead
 
-| Constructor | Description |
-| --- | --- |
-| [VerticalAlignmentType(String name)](#VerticalAlignmentType-java.lang.String-) | Initializes vertical alignment by its name. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Top](#Top) | Top alignment. |
-| [Center](#Center) | Center alignment type. |
 | [Bottom](#Bottom) | Bottom alignment type. |
+| [Center](#Center) | Center alignment type. |
+| [Top](#Top) | Top alignment. |
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [VerticalAlignmentType](#VerticalAlignmentType-java.lang.String-) | Initializes vertical alignment by its name. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString()](#toString--) | Returns string representation. |
-### VerticalAlignmentType(String name) {#VerticalAlignmentType-java.lang.String-}
-```
-public VerticalAlignmentType(String name)
-```
-
-
-Initializes vertical alignment by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Vertical alignment type name. |
-
-### Top {#Top}
-```
-public static final VerticalAlignmentType Top
-```
-
-
-Top alignment.
-
-### Center {#Center}
-```
-public static final VerticalAlignmentType Center
-```
-
-
-Center alignment type.
+| [toString](#toString--) | Returns string representation. |
 
 ### Bottom {#Bottom}
 ```
 public static final VerticalAlignmentType Bottom
 ```
 
-
 Bottom alignment type.
 
-### toString() {#toString--}
+### Center {#Center}
+```
+public static final VerticalAlignmentType Center
+```
+
+Center alignment type.
+
+### Top {#Top}
+```
+public static final VerticalAlignmentType Top
+```
+
+Top alignment.
+
+### VerticalAlignmentType {#VerticalAlignmentType-java.lang.String-}
+Initializes vertical alignment by its name.
+
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 Returns string representation.
 
 **Returns:**
-java.lang.String - Name value.
+Name value.

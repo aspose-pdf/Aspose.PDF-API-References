@@ -3,37 +3,57 @@ title: VerticalAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible vertical alignment values.
 type: docs
-weight: 453
+weight: 5450
 url: /java/com.aspose.pdf/verticalalignment/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object, java.lang.Enum < VerticalAlignment > com.aspose.pdf.VerticalAlignment, java.lang.Enum < VerticalAlignment >, com.aspose.pdf.VerticalAlignment
+
+**All Implemented Interfaces:**
+Serializable, Comparable < VerticalAlignment >
+
 ```
-public enum VerticalAlignment extends Enum<VerticalAlignment>
+public enum VerticalAlignment extends Enum < VerticalAlignment >
 ```
 
 Enumeration of possible vertical alignment values.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [Bottom](#Bottom) | Align to bottom. |
+| [Center](#Center) | Center alignment. |
 | [None](#None) | No alignment (use specified position). |
 | [Top](#Top) | Align to top. |
-| [Center](#Center) | Center alignment. |
-| [Bottom](#Bottom) | Align to bottom. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [valueOf(int alignmentType)](#valueOf-int-) |  |
-| [getValue()](#getValue--) | Get number of |
+| [getValue](#getValue--) | Get number of |
+| [valueOf](#valueOf-int-) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
+
+### Bottom {#Bottom}
+```
+public static final VerticalAlignment Bottom
+```
+
+Align to bottom.
+
+### Center {#Center}
+```
+public static final VerticalAlignment Center
+```
+
+Center alignment.
+
 ### None {#None}
 ```
 public static final VerticalAlignment None
 ```
-
 
 No alignment (use specified position).
 
@@ -42,72 +62,39 @@ No alignment (use specified position).
 public static final VerticalAlignment Top
 ```
 
-
 Align to top.
 
-### Center {#Center}
+### getValue {#getValue--}
 ```
-public static final VerticalAlignment Center
-```
-
-
-Center alignment.
-
-### Bottom {#Bottom}
-```
-public static final VerticalAlignment Bottom
+public int getValue()
 ```
 
-
-Align to bottom.
-
-### values() {#values--}
-```
-public static VerticalAlignment[] values()
-```
-
-
-
+Get number of
 
 **Returns:**
-com.aspose.pdf.VerticalAlignment[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static VerticalAlignment valueOf(String name)
-```
+int value of the VerticalAlignment element
 
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**Returns:**
-[VerticalAlignment](../../com.aspose.pdf/verticalalignment)
-### valueOf(int alignmentType) {#valueOf-int-}
+### valueOf {#valueOf-int-}
 ```
 public static VerticalAlignment valueOf(int alignmentType)
 ```
 
 
 
-
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alignmentType | int |  |
+| alignmentType |  |  |
+
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static VerticalAlignment [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
 
 **Returns:**
-[VerticalAlignment](../../com.aspose.pdf/verticalalignment)
-### getValue() {#getValue--}
-```
-public int getValue()
-```
-
-
-Get number of
-
-**Returns:**
-int - int value of the VerticalAlignment element
+an array containing the constants of this enum type, in the order they are declared

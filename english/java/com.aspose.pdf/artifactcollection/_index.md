@@ -3,267 +3,158 @@ title: ArtifactCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents artifact collection.
 type: docs
-weight: 26
+weight: 220
 url: /java/com.aspose.pdf/artifactcollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.ArtifactCollection
 
 **All Implemented Interfaces:**
-com.aspose.ms.System.Collections.Generic.IGenericCollection
+com.aspose.ms.System.Collections.Generic.IGenericCollection< Artifact >, com.aspose.ms.System.Collections.Generic.IGenericEnumerable< Artifact >, com.aspose.ms.System.Collections.IEnumerable< Artifact >, Iterable < Artifact >
+
 ```
-public class ArtifactCollection implements System.Collections.Generic.IGenericCollection<Artifact>
+public class ArtifactCollection extends Object implements com.aspose.ms.System.Collections.Generic.IGenericCollection< Artifact >
 ```
 
 Class represents artifact collection.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isSynchronized()](#isSynchronized--) | Is this object synchronized. |
-| [size()](#size--) | Gets count of artifacts in collection. |
-| [getSyncRoot()](#getSyncRoot--) | Gets synchronization object of the collection. |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | For Internal usage only. |
-| [iterator()](#iterator--) | Gets enumerator for the collection. |
-| [get_Item(int index)](#get-Item-int-) | Gets artifact by index. |
-| [add(Artifact artifact)](#add-com.aspose.pdf.Artifact-) | Adds artifacts to the collection. |
-| [findByValue(String name, String expectedValue)](#findByValue-java.lang.String-java.lang.String-) | Finds artifacts by custom value. |
-| [isReadOnly()](#isReadOnly--) | Gets if collection is readonly. |
-| [addItem(Artifact artifact)](#addItem-com.aspose.pdf.Artifact-) |  |
-| [delete(Artifact artifact)](#delete-com.aspose.pdf.Artifact-) | Deletes specified artifact. |
-| [update(Artifact artifact)](#update-com.aspose.pdf.Artifact-) | Update artifact inside the collection. |
-| [delete(int index)](#delete-int-) | Deletes artifact by its index. |
-| [clear()](#clear--) | Not Supported yet. |
-| [containsItem(Artifact artifact)](#containsItem-com.aspose.pdf.Artifact-) | Not Supported yet. |
-| [copyToTArray(Artifact[] artifacts, int i)](#copyToTArray-com.aspose.pdf.Artifact---int-) | C copy artifacts into array. |
-| [removeItem(Artifact artifact)](#removeItem-com.aspose.pdf.Artifact-) | Not Supported yet. |
-| [remove(Artifact item)](#remove-com.aspose.pdf.Artifact-) | Deletes specified artifact. |
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
+| [add](#add-com.aspose.pdf.Artifact-) | Adds artifacts to the collection. * |
+| [addItem](#addItem-com.aspose.pdf.Artifact-) |  |
+| [clear](#clear--) | Not Supported yet. Clears collection. Method is not supported. |
+| [containsItem](#containsItem-com.aspose.pdf.Artifact-) | Not Supported yet. |
+| [copyToTArray](#copyToTArray-com.aspose.pdf.Artifact:A-int-) | C copy artifacts into array. |
+| [delete](#delete-com.aspose.pdf.Artifact-) | Deletes specified artifact. |
+| [delete](#delete-int-) | Deletes artifact by its index. |
+| [findByValue](#findByValue-java.lang.String-java.lang.String-) | Finds artifacts by custom value. |
+| [get_Item](#get_Item-int-) | Gets artifact by index. Index is started from 1. |
+| [getSyncRoot](#getSyncRoot--) | Gets synchronization object of the collection. |
+| [isReadOnly](#isReadOnly--) | Gets if collection is readonly. Always returns false. |
+| [isSynchronized](#isSynchronized--) | Is this object synchronized. |
+| [iterator_Rename_Namesake](#iterator_Rename_Namesake--) | For Internal usage only. Gets enumerator for the collection. |
+| [iterator](#iterator--) | Gets enumerator for the collection. |
+| [remove](#remove-com.aspose.pdf.Artifact-) | / * / * Checks if collection contains specified artifact. / * / * / * |
+| [removeItem](#removeItem-com.aspose.pdf.Artifact-) | Not Supported yet. |
+| [size](#size--) | Gets count of artifacts in collection. |
+| [update](#update-com.aspose.pdf.Artifact-) | Update artifact inside the collection. |
+
+### add {#add-com.aspose.pdf.Artifact-}
+Adds artifacts to the collection. *
+
+### addItem {#addItem-com.aspose.pdf.Artifact-}
 
 
-Is this object synchronized.
-
-**Returns:**
-boolean - boolean value
-### size() {#size--}
+### clear {#clear--}
 ```
-public int size()
+public void clear()
 ```
 
+Not Supported yet. Clears collection. Method is not supported.
 
-Gets count of artifacts in collection.
+### containsItem {#containsItem-com.aspose.pdf.Artifact-}
+Not Supported yet.
 
-**Returns:**
-int - int value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
+### copyToTArray {#copyToTArray-com.aspose.pdf.Artifact:A-int-}
+C copy artifacts into array.
 
-
-Gets synchronization object of the collection.
-
-**Returns:**
-java.lang.Object - Object for synchronization
-### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
-```
-public System.Collections.IEnumerator iterator_Rename_Namesake()
-```
-
-
-For Internal usage only.
-
-Gets enumerator for the collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator - Enumerator object.
-### iterator() {#iterator--}
-```
-public System.Collections.Generic.IGenericEnumerator<Artifact> iterator()
-```
-
-
-Gets enumerator for the collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.IGenericEnumerator<com.aspose.pdf.Artifact> - Enumerator object.
-### get_Item(int index) {#get-Item-int-}
-```
-public Artifact get_Item(int index)
-```
-
-
-Gets artifact by index. Index is started from 1.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of the artifact. |
-
-**Returns:**
-[Artifact](../../com.aspose.pdf/artifact) - Artifact on the page.
-### add(Artifact artifact) {#add-com.aspose.pdf.Artifact-}
-```
-public void add(Artifact artifact)
-```
-
-
-Adds artifacts to the collection.
-
-\*
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) | Artifact which should be added to collection. |
-
-### findByValue(String name, String expectedValue) {#findByValue-java.lang.String-java.lang.String-}
-```
-public List<Artifact> findByValue(String name, String expectedValue)
-```
-
-
-Finds artifacts by custom value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Name of custom value. |
-| expectedValue | java.lang.String | Value to find. |
-
-**Returns:**
-java.util.List<com.aspose.pdf.Artifact> - List of found artifacts.
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets if collection is readonly. Always returns false.
-
-**Returns:**
-boolean
-### addItem(Artifact artifact) {#addItem-com.aspose.pdf.Artifact-}
-```
-public void addItem(Artifact artifact)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) |  |
-
-### delete(Artifact artifact) {#delete-com.aspose.pdf.Artifact-}
-```
-public void delete(Artifact artifact)
-```
-
-
+### delete {#delete-com.aspose.pdf.Artifact-}
 Deletes specified artifact.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) | value |
-
-### update(Artifact artifact) {#update-com.aspose.pdf.Artifact-}
-```
-public void update(Artifact artifact)
-```
-
-
-Update artifact inside the collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) | Artifact to be updated. |
-
-### delete(int index) {#delete-int-}
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
-
 
 Deletes artifact by its index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of artifact to delete. |
+| index |  | Index of artifact to delete. |
 
-### clear() {#clear--}
+### findByValue {#findByValue-java.lang.String-java.lang.String-}
+Finds artifacts by custom value.
+
+### get_Item {#get_Item-int-}
 ```
-public void clear()
-```
-
-
-Not Supported yet.
-
-Clears collection. Method is not supported.
-
-### containsItem(Artifact artifact) {#containsItem-com.aspose.pdf.Artifact-}
-```
-public boolean containsItem(Artifact artifact)
+public Artifact get_Item(int index)
 ```
 
-
-Not Supported yet.
+Gets artifact by index. Index is started from 1.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) | Not Supported yet. |
+| index |  | Index of the artifact. |
 
 **Returns:**
-boolean - Not Supported yet.
-### copyToTArray(Artifact[] artifacts, int i) {#copyToTArray-com.aspose.pdf.Artifact---int-}
+Artifact on the page.
+
+### getSyncRoot {#getSyncRoot--}
 ```
-public void copyToTArray(Artifact[] artifacts, int i)
-```
-
-
-C copy artifacts into array.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifacts | [Artifact\[\]](../../com.aspose.pdf/artifact) | Artifact[] instance |
-| i | int | int value |
-
-### removeItem(Artifact artifact) {#removeItem-com.aspose.pdf.Artifact-}
-```
-public boolean removeItem(Artifact artifact)
+public Object getSyncRoot()
 ```
 
+Gets synchronization object of the collection.
 
+**Returns:**
+Object for synchronization
+
+### isReadOnly {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+Gets if collection is readonly. Always returns false.
+
+### isSynchronized {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+Is this object synchronized.
+
+**Returns:**
+boolean value
+
+### iterator_Rename_Namesake {#iterator_Rename_Namesake--}
+```
+public com.aspose.ms.System.Collections.IEnumerator iterator_Rename_Namesake()
+```
+
+For Internal usage only. Gets enumerator for the collection.
+
+**Returns:**
+Enumerator object.
+
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.Generic.IGenericEnumerator< Artifact > iterator()
+```
+
+Gets enumerator for the collection.
+
+**Returns:**
+Enumerator object.
+
+### remove {#remove-com.aspose.pdf.Artifact-}
+/ * / * Checks if collection contains specified artifact. / * / * / *
+
+### removeItem {#removeItem-com.aspose.pdf.Artifact-}
 Not Supported yet.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | [Artifact](../../com.aspose.pdf/artifact) | Not Supported yet. |
-
-**Returns:**
-boolean - Not Supported yet.
-### remove(Artifact item) {#remove-com.aspose.pdf.Artifact-}
+### size {#size--}
 ```
-public boolean remove(Artifact item)
+public int size()
 ```
 
-
-Deletes specified artifact.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Artifact](../../com.aspose.pdf/artifact) | Artifact which will be deleted. |
+Gets count of artifacts in collection.
 
 **Returns:**
-boolean - boolean value
+int value
+
+### update {#update-com.aspose.pdf.Artifact-}
+Update artifact inside the collection.

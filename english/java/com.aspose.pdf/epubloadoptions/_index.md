@@ -3,134 +3,140 @@ title: EpubLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Contains options for loading/importing EPUB file into pdf document.
 type: docs
-weight: 99
+weight: 1220
 url: /java/com.aspose.pdf/epubloadoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.LoadOptions](../../com.aspose.pdf/loadoptions)
+java.lang.Object, com.aspose.pdf.LoadOptions com.aspose.pdf.EpubLoadOptions, com.aspose.pdf.LoadOptions, com.aspose.pdf.EpubLoadOptions
+
 ```
 public final class EpubLoadOptions extends LoadOptions
 ```
 
 Contains options for loading/importing EPUB file into pdf document.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [EpubLoadOptions()](#EpubLoadOptions--) | Creates default load options for converting EPUB file into pdf document. |
-| [EpubLoadOptions(Dimension2D pageSize)](#EpubLoadOptions-java.awt.geom.Dimension2D-) | Creates load options with specified page size. |
+| [EpubLoadOptions](#EpubLoadOptions--) | Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
+| [EpubLoadOptions](#EpubLoadOptions-java.awt.geom.Dimension2D-) | Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPageSize()](#getPageSize--) | Gets output page size for import. |
-| [getMargin()](#getMargin--) | Gets reference on object that represent marging info. |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Gets reference on object that represent marging info. |
-| [getMarginsAreaUsageMode()](#getMarginsAreaUsageMode--) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
-| [setMarginsAreaUsageMode(int marginsAreaUsageMode)](#setMarginsAreaUsageMode-int-) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
-| [getPageSizeAdjustmentMode()](#getPageSizeAdjustmentMode--) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
-| [setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)](#setPageSizeAdjustmentMode-int-) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
-### EpubLoadOptions() {#EpubLoadOptions--}
+| [getCustomCss](#getCustomCss--) | Gets or sets the custom Css to apply when opening the Epub document. |
+| [getEngineType](#getEngineType--) | Select engine type for conversion EPUB to PDF Default is EngineType.NEW |
+| [getMargin](#getMargin--) | Gets reference on object that represent marging info. |
+| [getMarginsAreaUsageMode](#getMarginsAreaUsageMode--) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
+| [getPageSize](#getPageSize--) | Gets output page size for import. |
+| [getPageSizeAdjustmentMode](#getPageSizeAdjustmentMode--) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document). |
+| [setCustomCss](#setCustomCss-java.lang.String-) | Gets or sets the custom Css to apply when opening the Epub document. |
+| [setEngineType](#setEngineType-com.aspose.pdf.EpubLoadOptions.EngineType-) | Select engine type for conversion EPUB to PDF Default is EngineType.NEW |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | Gets reference on object that represent marging info. |
+| [setMarginsAreaUsageMode](#setMarginsAreaUsageMode-int-) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
+| [setPageSizeAdjustmentMode](#setPageSizeAdjustmentMode-int-) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document). |
+
+### EpubLoadOptions {#EpubLoadOptions--}
 ```
 public EpubLoadOptions()
 ```
 
-
 Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508.
 
-### EpubLoadOptions(Dimension2D pageSize) {#EpubLoadOptions-java.awt.geom.Dimension2D-}
+### EpubLoadOptions {#EpubLoadOptions-java.awt.geom.Dimension2D-}
+Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508.
+
+### getCustomCss {#getCustomCss--}
 ```
-public EpubLoadOptions(Dimension2D pageSize)
-```
-
-
-Creates load options with specified page size.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | java.awt.geom.Dimension2D | Defines pdf page width and height. |
-
-### getPageSize() {#getPageSize--}
-```
-public Dimension2D getPageSize()
+public final String getCustomCss()
 ```
 
-
-Gets output page size for import.
+Gets or sets the custom Css to apply when opening the Epub document.
 
 **Returns:**
-java.awt.geom.Dimension2D - Dimension2D object
-### getMargin() {#getMargin--}
+String value
+
+### getEngineType {#getEngineType--}
+```
+public EpubLoadOptions.EngineType getEngineType()
+```
+
+Select engine type for conversion EPUB to PDF Default is EngineType.NEW
+
+**Returns:**
+EngineType element
+
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
-
 Gets reference on object that represent marging info.
 
 **Returns:**
-[MarginInfo](../../com.aspose.pdf/margininfo) - MarginInfo object
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public final void setMargin(MarginInfo value)
-```
+MarginInfo object
 
-
-Gets reference on object that represent marging info.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo object |
-
-### getMarginsAreaUsageMode() {#getMarginsAreaUsageMode--}
+### getMarginsAreaUsageMode {#getMarginsAreaUsageMode--}
 ```
 public int getMarginsAreaUsageMode()
 ```
 
-
 Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins.
 
 **Returns:**
-int - MarginsAreaUsageModes value
-### setMarginsAreaUsageMode(int marginsAreaUsageMode) {#setMarginsAreaUsageMode-int-}
+MarginsAreaUsageModes value @see MarginsAreaUsageModes
+
+### getPageSize {#getPageSize--}
 ```
-public void setMarginsAreaUsageMode(int marginsAreaUsageMode)
+public Dimension2D getPageSize()
 ```
 
+Gets output page size for import.
 
-Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins.
+**Returns:**
+Dimension2D object
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| marginsAreaUsageMode | int | MarginsAreaUsageModes value |
-
-### getPageSizeAdjustmentMode() {#getPageSizeAdjustmentMode--}
+### getPageSizeAdjustmentMode {#getPageSizeAdjustmentMode--}
 ```
 public int getPageSizeAdjustmentMode()
 ```
 
-
-ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document.
-
-Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document).
+ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document).
 
 **Returns:**
-int - PageSizeAdjustmentModes value
-### setPageSizeAdjustmentMode(int pageSizeAdjustmentMode) {#setPageSizeAdjustmentMode-int-}
+PageSizeAdjustmentModes value @see PageSizeAdjustmentModes
+
+### setCustomCss {#setCustomCss-java.lang.String-}
+Gets or sets the custom Css to apply when opening the Epub document.
+
+### setEngineType {#setEngineType-com.aspose.pdf.EpubLoadOptions.EngineType-}
+Select engine type for conversion EPUB to PDF Default is EngineType.NEW
+
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+Gets reference on object that represent marging info.
+
+### setMarginsAreaUsageMode {#setMarginsAreaUsageMode-int-}
 ```
-public void setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)
+public void setMarginsAreaUsageMode(int marginsAreaUsageMode)
 ```
 
-
-ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document.
-
-Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document).
+Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageSizeAdjustmentMode | int | PageSizeAdjustmentModes value |
+| marginsAreaUsageMode |  | MarginsAreaUsageModes value @see MarginsAreaUsageModes |
 
+### setPageSizeAdjustmentMode {#setPageSizeAdjustmentMode-int-}
+```
+public void setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)
+```
+
+ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageSizeAdjustmentMode |  | PageSizeAdjustmentModes value @see PageSizeAdjustmentModes |

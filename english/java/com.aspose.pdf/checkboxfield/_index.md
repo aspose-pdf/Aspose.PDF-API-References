@@ -3,288 +3,187 @@ title: CheckboxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing checkbox field
 type: docs
-weight: 56
+weight: 580
 url: /java/com.aspose.pdf/checkboxfield/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph), [com.aspose.pdf.Annotation](../../com.aspose.pdf/annotation), [com.aspose.pdf.WidgetAnnotation](../../com.aspose.pdf/widgetannotation), [com.aspose.pdf.Field](../../com.aspose.pdf/field)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation com.aspose.pdf.WidgetAnnotation com.aspose.pdf.Field com.aspose.pdf.CheckboxField, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation com.aspose.pdf.WidgetAnnotation com.aspose.pdf.Field com.aspose.pdf.CheckboxField, com.aspose.pdf.Annotation, com.aspose.pdf.WidgetAnnotation com.aspose.pdf.Field com.aspose.pdf.CheckboxField, com.aspose.pdf.WidgetAnnotation, com.aspose.pdf.Field com.aspose.pdf.CheckboxField, com.aspose.pdf.Field, com.aspose.pdf.CheckboxField
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.Collections.Generic.IGenericEnumerable< WidgetAnnotation >, com.aspose.ms.System.Collections.IEnumerable< WidgetAnnotation >, com.aspose.ms.System.ICloneable, Cloneable, Iterable < WidgetAnnotation >
+
 ```
 public class CheckboxField extends Field
 ```
 
 Class representing checkbox field
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CheckboxField(Page page, Rectangle rect)](#CheckboxField-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Constructor for CheckboxField class. |
-| [CheckboxField(IDocument doc, Rectangle rect)](#CheckboxField-com.aspose.pdf.IDocument-com.aspose.pdf.Rectangle-) | Constructor for CheckboxField class. |
-| [CheckboxField()](#CheckboxField--) | Create instance of CheckboxField. |
-| [CheckboxField(IDocument doc)](#CheckboxField-com.aspose.pdf.IDocument-) | Constructor to use with Generator. |
+| [CheckboxField](#CheckboxField--) | Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc) |
+| [CheckboxField](#CheckboxField-com.aspose.pdf.IDocument-) | Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc) |
+| [CheckboxField](#CheckboxField-com.aspose.pdf.IDocument-com.aspose.pdf.Rectangle-) | Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc) |
+| [CheckboxField](#CheckboxField-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc) |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAllowedStates()](#getAllowedStates--) | Returns list of allowed states. |
-| [getOnState()](#getOnState--) | Returns name of state which is "Checked" state of checkbox. |
-| [getStyle()](#getStyle--) | Gets style of check box. |
-| [setStyle(int value)](#setStyle-int-) | Sets style of check box. |
-| [getActiveState()](#getActiveState--) | Gets current annotation appearance state. |
-| [setActiveState(String value)](#setActiveState-java.lang.String-) | Sets current annotation appearance state. |
-| [getChecked()](#getChecked--) | Gets state of check box. |
-| [setChecked(boolean value)](#setChecked-boolean-) | Sets state of check box. |
-| [getNormalCaption()](#getNormalCaption--) | Gets normal caption of the field. |
-| [getValue()](#getValue--) | Gets value of check box field. |
-| [setValue(String value)](#setValue-java.lang.String-) | Sets value of check box field. |
-| [deepClone()](#deepClone--) | Clone the checkbox. |
-| [getExportValue()](#getExportValue--) | Gets or sets export value of CheckBox field. |
-| [setExportValue(String value)](#setExportValue-java.lang.String-) | Gets or sets export value of CheckBox field. |
-| [addOption(String optionName)](#addOption-java.lang.String-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
-| [addOption(String optionName, Rectangle rect)](#addOption-java.lang.String-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
-| [addOption(String optionName, int page, Rectangle rect)](#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
-### CheckboxField(Page page, Rectangle rect) {#CheckboxField-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
+| [addOption](#addOption-java.lang.String-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group. |
+| [addOption](#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [addOption](#addOption-java.lang.String-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [deepClone](#deepClone--) | Clone the checkbox. |
+| [getActiveState](#getActiveState--) | Gets current annotation appearance state. |
+| [getAllowedStates](#getAllowedStates--) | Returns list of allowed states. |
+| [getChecked](#getChecked--) | Gets state of check box. |
+| [getExportValue](#getExportValue--) | Gets or sets export value of CheckBox field. |
+| [getNormalCaption](#getNormalCaption--) | Gets normal caption of the field. |
+| [getOnState](#getOnState--) | Returns name of state which is "Checked" state of checkbox. This is "Yes" if presents or any other value other then "Off" and "No"; |
+| [getStyle](#getStyle--) | Gets style of check box. |
+| [getValue](#getValue--) | Gets value of check box field. |
+| [setActiveState](#setActiveState-java.lang.String-) | Sets current annotation appearance state. |
+| [setChecked](#setChecked-boolean-) | Sets state of check box. |
+| [setExportValue](#setExportValue-java.lang.String-) | Gets or sets export value of CheckBox field. |
+| [setStyle](#setStyle-com.aspose.pdf.BoxStyle-) | Sets style of check box. |
+| [setValue](#setValue-java.lang.String-) | Sets value of check box field. |
+
+### CheckboxField {#CheckboxField--}
 ```
-public CheckboxField(Page page, Rectangle rect)
-```
-
-
-Constructor for CheckboxField class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Page where check box will be placed. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Position and size of the check box. |
-
-### CheckboxField(IDocument doc, Rectangle rect) {#CheckboxField-com.aspose.pdf.IDocument-com.aspose.pdf.Rectangle-}
-```
-public CheckboxField(IDocument doc, Rectangle rect)
+@Deprecated public CheckboxField()
 ```
 
+Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
 
-Constructor for CheckboxField class.
+### CheckboxField {#CheckboxField-com.aspose.pdf.IDocument-}
+Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | Document where will be new field created. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle where new field will be created. |
+### CheckboxField {#CheckboxField-com.aspose.pdf.IDocument-com.aspose.pdf.Rectangle-}
+Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
 
-### CheckboxField() {#CheckboxField--}
+### CheckboxField {#CheckboxField-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
+Create instance of CheckboxField. @deprecated For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
+
+### addOption {#addOption-java.lang.String-}
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group.
+
+### addOption {#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-}
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
+
+### addOption {#addOption-java.lang.String-com.aspose.pdf.Rectangle-}
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
+
+### deepClone {#deepClone--}
 ```
-public CheckboxField()
-```
-
-
-Create instance of CheckboxField.
-
-### CheckboxField(IDocument doc) {#CheckboxField-com.aspose.pdf.IDocument-}
-```
-public CheckboxField(IDocument doc)
-```
-
-
-Constructor to use with Generator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | Document where field will be created. |
-
-### getAllowedStates() {#getAllowedStates--}
-```
-public List<String> getAllowedStates()
+public Object deepClone()
 ```
 
-
-Returns list of allowed states.
+Clone the checkbox.
 
 **Returns:**
-java.util.List<java.lang.String> - list of String value
-### getOnState() {#getOnState--}
-```
-public String getOnState()
-```
+The cloned object
 
-
-Returns name of state which is "Checked" state of checkbox. This is "Yes" if presents or any other value other then "Off" and "No";
-
-**Returns:**
-java.lang.String - String value
-### getStyle() {#getStyle--}
-```
-public int getStyle()
-```
-
-
-Gets style of check box.
-
-**Returns:**
-int - style of check box.
-### setStyle(int value) {#setStyle-int-}
-```
-public void setStyle(int value)
-```
-
-
-Sets style of check box.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | BoxStyle of check box. |
-
-### getActiveState() {#getActiveState--}
+### getActiveState {#getActiveState--}
 ```
 public String getActiveState()
 ```
 
-
 Gets current annotation appearance state.
 
 **Returns:**
-java.lang.String - String value
-### setActiveState(String value) {#setActiveState-java.lang.String-}
+String value
+
+### getAllowedStates {#getAllowedStates--}
 ```
-public void setActiveState(String value)
+public List < String > getAllowedStates()
 ```
 
+Returns list of allowed states.
 
-Sets current annotation appearance state.
+**Returns:**
+list of String value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getChecked() {#getChecked--}
+### getChecked {#getChecked--}
 ```
 public boolean getChecked()
 ```
 
-
 Gets state of check box.
 
 **Returns:**
-boolean - boolean value
-### setChecked(boolean value) {#setChecked-boolean-}
+boolean value
+
+### getExportValue {#getExportValue--}
+```
+public final String getExportValue()
+```
+
+Gets or sets export value of CheckBox field.
+
+**Returns:**
+String value
+
+### getNormalCaption {#getNormalCaption--}
+```
+public String getNormalCaption()
+```
+
+Gets normal caption of the field.
+
+**Returns:**
+String value
+
+### getOnState {#getOnState--}
+```
+public String getOnState()
+```
+
+Returns name of state which is "Checked" state of checkbox. This is "Yes" if presents or any other value other then "Off" and "No";
+
+**Returns:**
+String value
+
+### getStyle {#getStyle--}
+```
+public BoxStyle getStyle()
+```
+
+Gets style of check box.
+
+**Returns:**
+style of check box. @see BoxStyle
+
+### getValue {#getValue--}
+```
+public String getValue()
+```
+
+Gets value of check box field.
+
+**Returns:**
+String value
+
+### setActiveState {#setActiveState-java.lang.String-}
+Sets current annotation appearance state.
+
+### setChecked {#setChecked-boolean-}
 ```
 public void setChecked(boolean value)
 ```
-
 
 Sets state of check box.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
-### getNormalCaption() {#getNormalCaption--}
-```
-public String getNormalCaption()
-```
+### setExportValue {#setExportValue-java.lang.String-}
+Gets or sets export value of CheckBox field.
 
+### setStyle {#setStyle-com.aspose.pdf.BoxStyle-}
+Sets style of check box.
 
-Gets normal caption of the field.
-
-**Returns:**
-java.lang.String - String value
-### getValue() {#getValue--}
-```
-public String getValue()
-```
-
-
-Gets value of check box field.
-
-**Returns:**
-java.lang.String - String value
-### setValue(String value) {#setValue-java.lang.String-}
-```
-public void setValue(String value)
-```
-
-
+### setValue {#setValue-java.lang.String-}
 Sets value of check box field.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### deepClone() {#deepClone--}
-```
-public Object deepClone()
-```
-
-
-Clone the checkbox.
-
-**Returns:**
-java.lang.Object - The cloned object
-### getExportValue() {#getExportValue--}
-```
-public final String getExportValue()
-```
-
-
-Gets or sets export value of CheckBox field.
-
-**Returns:**
-java.lang.String - String value
-### setExportValue(String value) {#setExportValue-java.lang.String-}
-```
-public final void setExportValue(String value)
-```
-
-
-Gets or sets export value of CheckBox field.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### addOption(String optionName) {#addOption-java.lang.String-}
-```
-public final void addOption(String optionName)
-```
-
-
-Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| optionName | java.lang.String | Value of the option represented by added checkbox. |
-
-### addOption(String optionName, Rectangle rect) {#addOption-java.lang.String-com.aspose.pdf.Rectangle-}
-```
-public final void addOption(String optionName, Rectangle rect)
-```
-
-
-Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| optionName | java.lang.String | Value of the option represented by added checkbox. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle of the added checkbox. |
-
-### addOption(String optionName, int page, Rectangle rect) {#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-}
-```
-public final void addOption(String optionName, int page, Rectangle rect)
-```
-
-
-Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| optionName | java.lang.String | Value of the option represented by added checkbox. |
-| page | int | Number of the page where the added checkbox should be placed. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle of the added checkbox on the page. |
-

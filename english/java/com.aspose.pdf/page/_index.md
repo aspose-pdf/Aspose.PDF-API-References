@@ -3,1451 +3,875 @@ title: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 258
+weight: 3310
 url: /java/com.aspose.pdf/page/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Page
 
 **All Implemented Interfaces:**
-com.aspose.ms.System.IDisposable, java.io.Closeable, com.aspose.pdf.ISupportsMemoryCleanup, [com.aspose.pdf.engine.IOperatorContainer](../../com.aspose.pdf.engine/ioperatorcontainer)
+com.aspose.ms.System.IDisposable, com.aspose.pdf.engine.IOperatorContainer, Closeable, AutoCloseable
+
 ```
-public final class Page implements System.IDisposable, Closeable, ISupportsMemoryCleanup, IOperatorContainer
+public final class Page extends Object implements com.aspose.ms.System.IDisposable, Closeable , com.aspose.pdf.engine.IOperatorContainer
 ```
 
 Class representing page of PDF document.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isAddParagraphsAfterLast()](#isAddParagraphsAfterLast--) | Gets or sets the addition of paragraphs after the last paragraph of the page |
-| [setAddParagraphsAfterLast(boolean value)](#setAddParagraphsAfterLast-boolean-) | Gets or sets the addition of paragraphs after the last paragraph of the page |
-| [getBackgroundImage()](#getBackgroundImage--) | Gets or sets background image for page (for generator only, not filled in when reading document). |
-| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only, not filled in when reading document). |
-| [getTocInfo()](#getTocInfo--) | Gets table of contents info. |
-| [setTocInfo(TocInfo value)](#setTocInfo-com.aspose.pdf.TocInfo-) | Sets table of contents info. |
-| [getHeader()](#getHeader--) | Gets page header. |
-| [setHeader(HeaderFooter value)](#setHeader-com.aspose.pdf.HeaderFooter-) | Sets page header. |
-| [getLayers()](#getLayers--) | Gets layers collection. |
-| [setLayers(ArrayList<Layer> value)](#setLayers-java.util.ArrayList-com.aspose.pdf.Layer--) | Sets layers collection. |
-| [setLayersInternal(System.Collections.Generic.List<Layer> value)](#setLayersInternal-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Layer--) | Sets layers collection. |
-| [getFooter()](#getFooter--) | Gets page Footer. |
-| [setFooter(HeaderFooter value)](#setFooter-com.aspose.pdf.HeaderFooter-) | Sets page Footer. |
-| [getParagraphs()](#getParagraphs--) | Gets the paragraphs. |
-| [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets the paragraphs. |
-| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document). |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document). |
-| [convertToPNGMemoryStream()](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
-| [addGraphics(GraphicElementCollection elements)](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Adds graphics to the page. |
-| [addGraphics(GraphicElementCollection elements, Rectangle rectangle)](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-) | Adds graphics to the page. |
-| [deleteGraphics(GraphicElementCollection elementsToDelete)](#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Deletes graphics from the page. |
-| [trySaveVectorGraphics(String pathToSave)](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. |
-| [hasVectorGraphics()](#hasVectorGraphics--) | Detect of the presence of vector graphics, if it is present on the page. |
-| [getOnBeforePageGenerate()](#getOnBeforePageGenerate--) | Event for customize header and footer. |
-| [getEnginePage()](#getEnginePage--) | For Internal usage only |
-| [setEnginePage(IPage enginePage)](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
-| [getDocument()](#getDocument--) | Get document |
-| [getRect_Rename_Namesake()](#getRect-Rename-Namesake--) | Returns rectangle of the page according to its CropBox and MediaBox; |
-| [getRect()](#getRect--) | Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. |
-| [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. |
-| [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
-| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes.(for generator only, not filled in when reading document) |
-| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes.(for generator only, not filled in when reading document) |
-| [isBlank(double fillThresholdFactor)](#isBlank-double-) | Gets the flag whether page is blank or not. |
-| [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
-| [calculateContentBBox()](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
-| [getTabOrder()](#getTabOrder--) | Gets tab order of the page. |
-| [setTabOrder(int value)](#setTabOrder-int-) | Sets tab order of the page. |
-| [getDuration()](#getDuration--) | Gets page display duration. |
-| [setDuration(double value)](#setDuration-double-) | Sets page display duration. |
-| [getContents()](#getContents--) | Gets collection of operators in the content stream of the page. |
-| [getGroup()](#getGroup--) | Gets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
-| [setGroup(Group value)](#setGroup-com.aspose.pdf.Group-) | Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
-| [getAnnotations()](#getAnnotations--) | Gets collection of page annotations. |
-| [getResources()](#getResources--) | Gets page resources. |
-| [getRotate()](#getRotate--) | Gets rotation of the page. |
-| [setRotate(int value)](#setRotate-int-) | Sets rotation of the page. |
-| [getTrimBox()](#getTrimBox--) | Gets trim box of the page. |
-| [setTrimBox(Rectangle value)](#setTrimBox-com.aspose.pdf.Rectangle-) | Sets trim box of the page. |
-| [getArtBox()](#getArtBox--) | Gets art box of the page. |
-| [setArtBox(Rectangle value)](#setArtBox-com.aspose.pdf.Rectangle-) | Sets art box of the page. |
-| [getBleedBox()](#getBleedBox--) | Gets bleed box of the page. |
-| [setBleedBox(Rectangle value)](#setBleedBox-com.aspose.pdf.Rectangle-) | Sets bleed box of the page. |
-| [getCropBox()](#getCropBox--) | Gets crop box of the page. |
-| [setCropBox(Rectangle value)](#setCropBox-com.aspose.pdf.Rectangle-) | Sets crop box of the page. |
-| [getMediaBox()](#getMediaBox--) | Gets media box of the page. |
-| [setMediaBox(Rectangle value)](#setMediaBox-com.aspose.pdf.Rectangle-) | Sets media box of the page. |
-| [sendTo(PageDevice device, OutputStream output)](#sendTo-com.aspose.pdf.devices.PageDevice-java.io.OutputStream-) | Sends page to process with given page device. |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts  AnnotationSelector  visitor object that provides functionality to work with annotations. |
-| [rotationToInt(int rotation)](#rotationToInt-int-) | Translates rotation enumeration member into integer value. |
-| [intToRotation(int rotation)](#intToRotation-int-) | Translates integer value into corresponding rotation enumeration member. |
-| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.Stamp-) | Put stamp into page. |
-| [addImage(InputStream imageStream, Rectangle imageRect)](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [addImage(String hocr, InputStream imageStream, Rectangle imageRect)](#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [addImage(InputStream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, boolean saveImageProportions)](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [addImage(String imagePath, Rectangle rectangle)](#addImage-java.lang.String-com.aspose.pdf.Rectangle-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [addImage(InputStream stream, Rectangle rectangle, CompositingParameters compositingParameters)](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
-| [sendTo(PageDevice device, String outputFileName)](#sendTo-com.aspose.pdf.devices.PageDevice-java.lang.String-) | Sends page to process with given page device. |
-| [flatten()](#flatten--) | Removes all static fields located on the page and place their values instead. |
-| [accept(TextFragmentAbsorber visitor)](#accept-com.aspose.pdf.TextFragmentAbsorber-) | Accepts  TextFragmentAbsorber  visitor object that provides functionality to work with text objects. |
-| [accept(ImagePlacementAbsorber visitor)](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | Accepts  ImagePlacementAbsorber  visitor object that provides functionality to work with image placement objects. |
-| [accept(TextAbsorber visitor)](#accept-com.aspose.pdf.TextAbsorber-) | Accepts  TextAbsorber  visitor object that provides functionality to work with text objects. |
-| [setPageSize(double width, double height)](#setPageSize-double-double-) | Sets page size for page. |
-| [setTransition(IPdfDictionary transition)](#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-) | Set transition |
-| [getNumber()](#getNumber--) | Get number of the page. |
-| [getRotationMatrix()](#getRotationMatrix--) | Gets transfomation matrix for the page. |
-| [getContentsAppender()](#getContentsAppender--) | Gets current contents appender. |
-| [getBackground()](#getBackground--) | Gets the background color of the page. |
-| [setBackground(Color value)](#setBackground-java.awt.Color-) | Sets the background color of the page. |
-| [setBackground(Color value)](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
-| [getWatermark()](#getWatermark--) | Gets the watermark of the page. |
-| [setWatermark(Watermark value)](#setWatermark-com.aspose.pdf.Watermark-) | Sets the watermark of the page. |
-| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. |
-| [removeObjectReferences(OperatorCollection contents, String name)](#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Remove object references |
-| [findReferences(String name)](#findReferences-java.lang.String-) | Find references |
-| [findReferences(OperatorCollection contents, String name)](#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Returns list of operators which uses resource with specified name. |
-| [close()](#close--) | Closes all resources used by this document. |
-| [dispose()](#dispose--) | Frees up memory |
-| [fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources)](#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--com.aspose.pdf.engine.data.IPdfDictionary-) |  |
-| [deleteUnusedResources(System.Collections.Generic.Dictionary<Integer,Integer> usageTable)](#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--) |  |
-| [clearContents()](#clearContents--) | For internal usage only |
-| [getArtifacts()](#getArtifacts--) | Gets collection of artifacts on the page. |
-| [getActions()](#getActions--) | Gets collection of page properties. |
-| [makeGrayscale()](#makeGrayscale--) | Converts the page to grayscale. |
-| [freeMemory()](#freeMemory--) | Clears cached data |
-| [getNotifications()](#getNotifications--) | Returns notifications about inside operations with page content. |
-| [asByteArray(Resolution resolution)](#asByteArray-com.aspose.pdf.devices.Resolution-) | Converts current page as BMP bitmap and than returns array of bytes. |
-| [asXml()](#asXml--) | Converts current page as xml in utf8 encoding. |
-| [getFieldsInTabOrder()](#getFieldsInTabOrder--) | Gets list of Field object in Tab order on this page. |
-| [getUserUnit()](#getUserUnit--) | Gets or sets UserUnit value. |
-| [setUserUnit(double value)](#setUserUnit-double-) | Gets or sets UserUnit value. |
-### isAddParagraphsAfterLast() {#isAddParagraphsAfterLast--}
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts {@code AnnotationSelector} visitor object that provides functionality to work with annotations. |
+| [accept](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | Accepts {@code ImagePlacementAbsorber} visitor object that provides functionality to work with image placement objects. |
+| [accept](#accept-com.aspose.pdf.TextAbsorber-) | Accepts {@code TextAbsorber} visitor object that provides functionality to work with text objects. |
+| [accept](#accept-com.aspose.pdf.TextFragmentAbsorber-) | Accepts {@code TextFragmentAbsorber} visitor object that provides functionality to work with text objects. |
+| [addGraphics](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Adds graphics to the page. Works faster than adding elements one by one with GraphicElement#addOnPage(Page) method. |
+| [addGraphics](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-) | Adds graphics to the page. Works faster than adding elements one by one with GraphicElement#addOnPage(Page) method. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-com.aspose.pdf.Rectangle-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-boolean-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addImage](#addImage-java.lang.String-com.aspose.pdf.Rectangle-) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
+| [addStamp](#addStamp-com.aspose.pdf.Stamp-) | Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo. |
+| [asByteArray](#asByteArray-com.aspose.pdf.devices.Resolution-) | Converts current page as BMP bitmap and than returns array of bytes. |
+| [asXml](#asXml--) | Converts current page as xml in utf8 encoding. |
+| [calculateContentBBox](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
+| [clearContents](#clearContents--) | For internal usage only |
+| [close](#close--) | Closes all resources used by this document. |
+| [convertToPNGMemoryStream](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [deleteGraphics](#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Deletes graphics from the page. Works faster than deleting elements one by one with {@link GraphicElement#remove} method. |
+| [deleteUnusedResources](#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-) |  |
+| [dispose](#dispose--) | Frees up memory This method is obsolete, use close() instead. |
+| [fillUsedObjectsTable](#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-com.aspose.pdf.engine.data.IPdfDictionary-) |  |
+| [findReferences](#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Returns list of operators which uses resource with specified name. |
+| [findReferences](#findReferences-java.lang.String-) | <p> Find references </p> |
+| [flatten](#flatten--) | Removes all static fields located on the page and place their values instead. |
+| [freeMemory](#freeMemory--) | Clears cached data |
+| [getActions](#getActions--) | Gets collection of page properties. |
+| [getAnnotations](#getAnnotations--) | Gets collection of page annotations. {@code Annotations} |
+| [getArtBox](#getArtBox--) | <p> Gets art box of the page. </p> |
+| [getArtifacts](#getArtifacts--) | Gets collection of artifacts on the page. |
+| [getBackground](#getBackground--) | Gets the background color of the page. |
+| [getBackgroundImage](#getBackgroundImage--) | Gets or sets background image for page (for generator only, not filled in when reading document). |
+| [getBleedBox](#getBleedBox--) | <p> Gets bleed box of the page. </p> |
+| [getColorType](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
+| [getContents](#getContents--) | <p> Gets collection of operators in the content stream of the page. {@code OperatorCollection} </p> |
+| [getContentsAppender](#getContentsAppender--) | Gets current contents appender. {@code ContentsAppender} |
+| [getCropBox](#getCropBox--) | <p> Gets crop box of the page. </p> |
+| [getDocument](#getDocument--) | Get document |
+| [getDuration](#getDuration--) | <p> Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. </p> <hr> Example demonstrates how to get page duration <p> Document document = new Document("sample.pdf"); Page page = document.getPages().get(1); int pageRect = page.getDuration(); </p> |
+| [getEnginePage](#getEnginePage--) | For Internal usage only |
+| [getFieldsInTabOrder](#getFieldsInTabOrder--) | Gets list of Field object in Tab order on this page. |
+| [getFooter](#getFooter--) | Gets page Footer. |
+| [getGroup](#getGroup--) | Gets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
+| [getHeader](#getHeader--) | Gets page header. |
+| [getLayers](#getLayers--) | Gets layers collection. |
+| [getMediaBox](#getMediaBox--) | <p> Gets media box of the page. </p> |
+| [getNoteLineStyle](#getNoteLineStyle--) | Gets the line style for notes.(for generator only, not filled in when reading document) |
+| [getNotifications](#getNotifications--) | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) |
+| [getNumber](#getNumber--) | Get number of the page. |
+| [getOnBeforePageGenerate](#getOnBeforePageGenerate--) | Event for customize header and footer. |
+| [getPageInfo](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document). |
+| [getPageRect](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
+| [getParagraphs](#getParagraphs--) | Gets the paragraphs. |
+| [getRect_Rename_Namesake](#getRect_Rename_Namesake--) | <p> Returns rectangle of the page according to its CropBox and MediaBox; </p> Internal |
+| [getRect](#getRect--) | <p> Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. </p> |
+| [getResources](#getResources--) | Retrieves the resources associated with the page. |
+| [getResourcesField](#getResourcesField--) | <p> Gets page resources. Resources object contains collections of images, forms and fonts. {@code Resources} </p> |
+| [getRotate](#getRotate--) | <p> Gets rotation of the page. </p> |
+| [getRotationMatrix](#getRotationMatrix--) | Gets transformation matrix for the page. |
+| [getTabOrder](#getTabOrder--) | Gets tab order of the page. Possible values: Row, Column. Default, Manual |
+| [getTocInfo](#getTocInfo--) | Gets table of contents info. |
+| [getTrimBox](#getTrimBox--) | <p> Gets trim box of the page. </p> |
+| [getUserUnit](#getUserUnit--) | Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page. |
+| [getWatermark](#getWatermark--) | Gets the watermark of the page. |
+| [hasVectorGraphics](#hasVectorGraphics--) | Detect of the presence of vector graphics, if it is present on the page. |
+| [intToRotation](#intToRotation-int-) | Translates integer value into corresponding rotation enumeration member. |
+| [isAddParagraphsAfterLast](#isAddParagraphsAfterLast--) | Gets or sets the addition of paragraphs after the last paragraph of the page Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true. |
+| [isBlank](#isBlank-double-) | Gets the flag whether page is blank or not. |
+| [isBlank](#isBlank-double-boolean-) | Gets the flag whether page is blank or not. |
+| [makeGrayscale](#makeGrayscale--) | Converts the page to grayscale. |
+| [mergeLayers](#mergeLayers-java.lang.String-) | Merges all layers on the page into a single layer with the specified new layer name. |
+| [mergeLayers](#mergeLayers-java.lang.String-java.lang.String-) | Merges all layers on the page into a single layer with the specified new layer name and optional content group Id. |
+| [removeObjectReferences](#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Remove object references |
+| [removeObjectReferences](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. all Do operators which use name of object). |
+| [resize](#resize-com.aspose.pdf.PageSize-) | Resizes the page. |
+| [rotationToInt](#rotationToInt-com.aspose.pdf.Rotation-) | Translates rotation enumeration member into integer value. |
+| [sendTo](#sendTo-com.aspose.pdf.devices.PageDevice-java.io.OutputStream-) | Sends page to process with given page device. |
+| [sendTo](#sendTo-com.aspose.pdf.devices.PageDevice-java.lang.String-) | Sends page to process with given page device. |
+| [setAddParagraphsAfterLast](#setAddParagraphsAfterLast-boolean-) | Gets or sets the addition of paragraphs after the last paragraph of the page Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true. |
+| [setArtBox](#setArtBox-com.aspose.pdf.Rectangle-) | Sets art box of the page. |
+| [setBackground](#setBackground-java.awt.Color-) | Sets the background color of the page. |
+| [setBackground](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
+| [setBackgroundImage](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only, not filled in when reading document). |
+| [setBleedBox](#setBleedBox-com.aspose.pdf.Rectangle-) | Sets bleed box of the page. |
+| [setCropBox](#setCropBox-com.aspose.pdf.Rectangle-) | <p> Sets crop box of the page. </p> <hr> <pre> Example demonstrates how to get crop box of the page: Document document = new Document("sample.pdf"); document.getPages().get_Item(1).setCropBox(new Rectangle(0d,0d,100d,100d)); </pre> |
+| [setDuration](#setDuration-double-) | Sets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. |
+| [setEnginePage](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
+| [setFooter](#setFooter-com.aspose.pdf.HeaderFooter-) | Sets page Footer. |
+| [setGroup](#setGroup-com.aspose.pdf.Group-) | Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
+| [setHeader](#setHeader-com.aspose.pdf.HeaderFooter-) | Sets page header. |
+| [setLayers](#setLayers-java.util.ArrayList-) | Sets layers collection. |
+| [setLayersInternal](#setLayersInternal-com.aspose.ms.System.Collections.Generic.List-) | Sets layers collection. |
+| [setMediaBox](#setMediaBox-com.aspose.pdf.Rectangle-) | Sets media box of the page. |
+| [setNoteLineStyle](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes.(for generator only, not filled in when reading document) |
+| [setPageInfo](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document). |
+| [setPageSize](#setPageSize-double-double-) | Sets page size for page. |
+| [setParagraphs](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets the paragraphs. |
+| [setRect](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. is returned. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
+| [setRotate](#setRotate-com.aspose.pdf.Rotation-) | Sets rotation of the page. |
+| [setTabOrder](#setTabOrder-int-) | Sets tab order of the page. Possible values: Row, Column. Default, Manual |
+| [setTocInfo](#setTocInfo-com.aspose.pdf.TocInfo-) | Sets table of contents info. |
+| [setTransition](#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-) | Set transition |
+| [setTrimBox](#setTrimBox-com.aspose.pdf.Rectangle-) | Sets trim box of the page. |
+| [setUserUnit](#setUserUnit-double-) | Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page. |
+| [setWatermark](#setWatermark-com.aspose.pdf.Watermark-) | Sets the watermark of the page. |
+| [trySaveVectorGraphics](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. The save format is SVG. |
+
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Accepts {@code AnnotationSelector} visitor object that provides functionality to work with annotations.
+
+### accept {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
+Accepts {@code ImagePlacementAbsorber} visitor object that provides functionality to work with image placement objects.
+
+### accept {#accept-com.aspose.pdf.TextAbsorber-}
+Accepts {@code TextAbsorber} visitor object that provides functionality to work with text objects.
+
+### accept {#accept-com.aspose.pdf.TextFragmentAbsorber-}
+Accepts {@code TextFragmentAbsorber} visitor object that provides functionality to work with text objects.
+
+### addGraphics {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+Adds graphics to the page. Works faster than adding elements one by one with GraphicElement#addOnPage(Page) method.
+
+### addGraphics {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-}
+Adds graphics to the page. Works faster than adding elements one by one with GraphicElement#addOnPage(Page) method.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-}
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-}
+Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-com.aspose.pdf.Rectangle-}
+Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-}
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-}
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-boolean-}
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-}
+Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.Rectangle-}
+Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addImage {#addImage-java.lang.String-com.aspose.pdf.Rectangle-}
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+### addStamp {#addStamp-com.aspose.pdf.Stamp-}
+Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo.
+
+### asByteArray {#asByteArray-com.aspose.pdf.devices.Resolution-}
+Converts current page as BMP bitmap and than returns array of bytes.
+
+### asXml {#asXml--}
 ```
-public final boolean isAddParagraphsAfterLast()
+public String asXml()
 ```
 
-
-Gets or sets the addition of paragraphs after the last paragraph of the page
-
-Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true.
+Converts current page as xml in utf8 encoding.
 
 **Returns:**
-boolean - boolean value
-### setAddParagraphsAfterLast(boolean value) {#setAddParagraphsAfterLast-boolean-}
+Converted xml string.
+
+### calculateContentBBox {#calculateContentBBox--}
 ```
-public final void setAddParagraphsAfterLast(boolean value)
-```
-
-
-Gets or sets the addition of paragraphs after the last paragraph of the page
-
-Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getBackgroundImage() {#getBackgroundImage--}
-```
-public final Image getBackgroundImage()
+public Rectangle calculateContentBBox()
 ```
 
-
-Gets or sets background image for page (for generator only, not filled in when reading document).
+Calculates bbox value - rectangle containing contents without visible margins.
 
 **Returns:**
-[Image](../../com.aspose.pdf/image) - Image instance
-### setBackgroundImage(Image value) {#setBackgroundImage-com.aspose.pdf.Image-}
+Bbox value - rectangle containing contents without visible margins
+
+### clearContents {#clearContents--}
 ```
-public final void setBackgroundImage(Image value)
-```
-
-
-Gets or sets background image for page (for generator only, not filled in when reading document).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Image](../../com.aspose.pdf/image) | Image instance |
-
-### getTocInfo() {#getTocInfo--}
-```
-public TocInfo getTocInfo()
+public void clearContents()
 ```
 
+For internal usage only
 
-Gets table of contents info.
-
-**Returns:**
-[TocInfo](../../com.aspose.pdf/tocinfo) - The table of contents info - default null. If it set this page will contain table of contents.
-### setTocInfo(TocInfo value) {#setTocInfo-com.aspose.pdf.TocInfo-}
+### close {#close--}
 ```
-public void setTocInfo(TocInfo value)
+public void close()
 ```
 
+Closes all resources used by this document.
 
-Sets table of contents info.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TocInfo](../../com.aspose.pdf/tocinfo) | The table of contents info - default null. If it set this page will contain table of contents. |
-
-### getHeader() {#getHeader--}
-```
-public HeaderFooter getHeader()
-```
-
-
-Gets page header.
-
-**Returns:**
-[HeaderFooter](../../com.aspose.pdf/headerfooter) - The page header.
-### setHeader(HeaderFooter value) {#setHeader-com.aspose.pdf.HeaderFooter-}
-```
-public void setHeader(HeaderFooter value)
-```
-
-
-Sets page header.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HeaderFooter](../../com.aspose.pdf/headerfooter) | The page header. |
-
-### getLayers() {#getLayers--}
-```
-public List<Layer> getLayers()
-```
-
-
-Gets layers collection.
-
-**Returns:**
-java.util.List<com.aspose.pdf.Layer> - Value: The layers' collection.
-### setLayers(ArrayList<Layer> value) {#setLayers-java.util.ArrayList-com.aspose.pdf.Layer--}
-```
-public void setLayers(ArrayList<Layer> value)
-```
-
-
-Sets layers collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.util.ArrayList<com.aspose.pdf.Layer> | : The layers collection. |
-
-### setLayersInternal(System.Collections.Generic.List<Layer> value) {#setLayersInternal-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Layer--}
-```
-public void setLayersInternal(System.Collections.Generic.List<Layer> value)
-```
-
-
-Sets layers collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Layer> | : The layers collection. |
-
-### getFooter() {#getFooter--}
-```
-public HeaderFooter getFooter()
-```
-
-
-Gets page Footer.
-
-**Returns:**
-[HeaderFooter](../../com.aspose.pdf/headerfooter) - The page Footer.
-### setFooter(HeaderFooter value) {#setFooter-com.aspose.pdf.HeaderFooter-}
-```
-public void setFooter(HeaderFooter value)
-```
-
-
-Sets page Footer.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HeaderFooter](../../com.aspose.pdf/headerfooter) | The page Footer. |
-
-### getParagraphs() {#getParagraphs--}
-```
-public Paragraphs getParagraphs()
-```
-
-
-Gets the paragraphs.
-
-**Returns:**
-[Paragraphs](../../com.aspose.pdf/paragraphs) - The paragraphs.
-### setParagraphs(Paragraphs value) {#setParagraphs-com.aspose.pdf.Paragraphs-}
-```
-public void setParagraphs(Paragraphs value)
-```
-
-
-Sets the paragraphs.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Paragraphs](../../com.aspose.pdf/paragraphs) | Paragraphs value |
-
-### getPageInfo() {#getPageInfo--}
-```
-public PageInfo getPageInfo()
-```
-
-
-Gets the page info.(for generator only, not filled in when reading document).
-
-**Returns:**
-[PageInfo](../../com.aspose.pdf/pageinfo) - The page info.
-### setPageInfo(PageInfo value) {#setPageInfo-com.aspose.pdf.PageInfo-}
-```
-public void setPageInfo(PageInfo value)
-```
-
-
-Sets the page info.(for generator only, not filled in when reading document).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PageInfo](../../com.aspose.pdf/pageinfo) | The page info. |
-
-### convertToPNGMemoryStream() {#convertToPNGMemoryStream--}
+### convertToPNGMemoryStream {#convertToPNGMemoryStream--}
 ```
 public byte[] convertToPNGMemoryStream()
 ```
 
-
 Convert page to PNG for DSR, OMR, OCR image stream.
 
 **Returns:**
-byte[] - Image stream in byte[] array.
-### addGraphics(GraphicElementCollection elements) {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+Image stream in byte[] array.
+
+### deleteGraphics {#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+Deletes graphics from the page. Works faster than deleting elements one by one with {@link GraphicElement#remove} method.
+
+### deleteUnusedResources {#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-}
+
+
+### dispose {#dispose--}
 ```
-public final void addGraphics(GraphicElementCollection elements)
-```
-
-
-Adds graphics to the page. Works faster than adding elements one by one with GraphicElement\#addOnPage(Page) method.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| elements | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection. |
-
-### addGraphics(GraphicElementCollection elements, Rectangle rectangle) {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-}
-```
-public final void addGraphics(GraphicElementCollection elements, Rectangle rectangle)
+@Deprecated public void dispose()
 ```
 
+Frees up memory This method is obsolete, use close() instead.
 
-Adds graphics to the page. Works faster than adding elements one by one with GraphicElement\#addOnPage(Page) method.
+### fillUsedObjectsTable {#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-com.aspose.pdf.engine.data.IPdfDictionary-}
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| elements | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection. |
-| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | Elements will be added to the page if it's (/) is inside the rectangle area. If rectangle is null, all graphic elements will be added |
 
-### deleteGraphics(GraphicElementCollection elementsToDelete) {#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+### findReferences {#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-}
+Returns list of operators which uses resource with specified name.
+
+### findReferences {#findReferences-java.lang.String-}
+<p> Find references </p>
+
+### flatten {#flatten--}
 ```
-public final void deleteGraphics(GraphicElementCollection elementsToDelete)
-```
-
-
-Deletes graphics from the page. Works faster than deleting elements one by one with [GraphicElement\#remove](../../com.aspose.pdf.engine.pagemodel/graphicelement\#remove) method.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| elementsToDelete | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection that will be deleted from the page. |
-
-### trySaveVectorGraphics(String pathToSave) {#trySaveVectorGraphics-java.lang.String-}
-```
-public final boolean trySaveVectorGraphics(String pathToSave)
+public void flatten()
 ```
 
+Removes all static fields located on the page and place their values instead.
 
-Tries to save vector graphics if they are present on the page. The save format is SVG.
+### freeMemory {#freeMemory--}
+```
+public void freeMemory()
+```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pathToSave | java.lang.String | Output file |
+Clears cached data
+
+### getActions {#getActions--}
+```
+public PageActionCollection getActions()
+```
+
+Gets collection of page properties.
 
 **Returns:**
-boolean - True if the page contains path construction operators; otherwise, False.
-### hasVectorGraphics() {#hasVectorGraphics--}
+PageActionCollection value
+
+### getAnnotations {#getAnnotations--}
 ```
-public final boolean hasVectorGraphics()
+public AnnotationCollection getAnnotations()
 ```
 
-
-Detect of the presence of vector graphics, if it is present on the page.
+Gets collection of page annotations. {@code Annotations}
 
 **Returns:**
-boolean - True if the page contains path construction operators; otherwise, False.
-### getOnBeforePageGenerate() {#getOnBeforePageGenerate--}
+AnnotationCollection value
+
+### getArtBox {#getArtBox--}
 ```
-public PdfEvent<Page.BeforePageGenerate> getOnBeforePageGenerate()
+public Rectangle getArtBox()
 ```
 
-
-Event for customize header and footer.
+<p> Gets art box of the page. </p>
 
 **Returns:**
-[PdfEvent](../../com.aspose.pdf/pdfevent) -  PdfEvent instance 
-### getEnginePage() {#getEnginePage--}
+Rectangle value <hr> <pre> Example demonstrates how to get art box of the page: Document document = new Document("sample.pdf"); Rectangle artBox = document.getPages().get(1).getArtBox(); </pre>
+
+### getArtifacts {#getArtifacts--}
 ```
-public IPage getEnginePage()
+public ArtifactCollection getArtifacts()
 ```
 
-
-For Internal usage only
+Gets collection of artifacts on the page.
 
 **Returns:**
-[IPage](../../com.aspose.pdf.engine.commondata/ipage) - internal instance
-### setEnginePage(IPage enginePage) {#setEnginePage-com.aspose.pdf.engine.commondata.IPage-}
+ArtifactCollection value
+
+### getBackground {#getBackground--}
 ```
-public void setEnginePage(IPage enginePage)
-```
-
-
-For Internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| enginePage | [IPage](../../com.aspose.pdf.engine.commondata/ipage) | internal instance |
-
-### getDocument() {#getDocument--}
-```
-public IDocument getDocument()
+public Color getBackground()
 ```
 
-
-Get document
+Gets the background color of the page.
 
 **Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
-### getRect_Rename_Namesake() {#getRect-Rename-Namesake--}
+Color value
+
+### getBackgroundImage {#getBackgroundImage--}
 ```
-public Rectangle getRect_Rename_Namesake()
+public final Image getBackgroundImage()
 ```
 
-
-Returns rectangle of the page according to its CropBox and MediaBox;
-
-Internal
+Gets or sets background image for page (for generator only, not filled in when reading document).
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+Image instance
 
---------------------
-
+### getBleedBox {#getBleedBox--}
 ```
-Example demonstrates how to get page rectangle:
-
- Document document = new Document("sample.pdf");
- Page page = document.getPages().get(1);
- Rectangle pageRect = page.getRect();
-```
-### getRect() {#getRect--}
-```
-public Rectangle getRect()
+public Rectangle getBleedBox()
 ```
 
-
-Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set.
+<p> Gets bleed box of the page. </p>
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+Rectangle value <hr> <pre> Example demonstrates how to get bleed box of the page: Document document = new Document("sample.pdf"); Rectangle bleedBox = document.getPages().get(1).getBleedBox(); </pre>
 
---------------------
-
+### getColorType {#getColorType--}
 ```
-Example demonstrates how to get page rectangle:
-
- Document document = new Document("sample.pdf");
- Page page = document.getPages().get(1);
- Rectangle pageRect = page.getRect();
+public ColorType getColorType()
 ```
-### setRect(Rectangle value) {#setRect-com.aspose.pdf.Rectangle-}
-```
-public void setRect(Rectangle value)
-```
-
-
-Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. is returned. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
-
-### getColorType() {#getColorType--}
-```
-public int getColorType()
-```
-
 
 Gets color type of the pages based on information getting from operators SetColor, images and forms.
 
 **Returns:**
-int - ColorType element
-### getNoteLineStyle() {#getNoteLineStyle--}
+ColorType element @see ColorType
+
+### getContents {#getContents--}
+```
+public OperatorCollection getContents()
+```
+
+<p> Gets collection of operators in the content stream of the page. {@code OperatorCollection} </p>
+
+**Returns:**
+OperatorCollection object <hr> <pre> Example is demonstrates how to scan operators stream of page. Document document = new Document("sample.pdf"); Operators contents = document.getPages().get_Item(1).getContents(); for(Operator op : {@code (Iterable<Operator>)}contents) { System.out.println(op); } </pre>
+
+### getContentsAppender {#getContentsAppender--}
+```
+public ContentsAppender getContentsAppender()
+```
+
+Gets current contents appender. {@code ContentsAppender}
+
+**Returns:**
+ContentsAppender value
+
+### getCropBox {#getCropBox--}
+```
+public Rectangle getCropBox()
+```
+
+<p> Gets crop box of the page. </p>
+
+**Returns:**
+Rectangle value <hr> <pre> Example demonstrates how to get crop box of the page: Document document = new Document("sample.pdf"); Rectangle cropBox = document.getPages().get_Item(1).getCropBox(); </pre>
+
+### getDocument {#getDocument--}
+```
+public IDocument getDocument()
+```
+
+Get document
+
+**Returns:**
+IDocument object
+
+### getDuration {#getDuration--}
+```
+public double getDuration()
+```
+
+<p> Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. </p> <hr> Example demonstrates how to get page duration <p> Document document = new Document("sample.pdf"); Page page = document.getPages().get(1); int pageRect = page.getDuration(); </p>
+
+**Returns:**
+double value
+
+### getEnginePage {#getEnginePage--}
+```
+public com.aspose.pdf.engine.commondata.IPage getEnginePage()
+```
+
+For Internal usage only
+
+**Returns:**
+internal instance
+
+### getFieldsInTabOrder {#getFieldsInTabOrder--}
+```
+public List < Field > getFieldsInTabOrder()
+```
+
+Gets list of Field object in Tab order on this page.
+
+**Returns:**
+List of field objects
+
+### getFooter {#getFooter--}
+```
+public HeaderFooter getFooter()
+```
+
+Gets page Footer.
+
+**Returns:**
+The page Footer.
+
+### getGroup {#getGroup--}
+```
+public Group getGroup()
+```
+
+Gets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
+
+**Returns:**
+Group value
+
+### getHeader {#getHeader--}
+```
+public HeaderFooter getHeader()
+```
+
+Gets page header.
+
+**Returns:**
+The page header.
+
+### getLayers {#getLayers--}
+```
+public List < Layer > getLayers()
+```
+
+Gets layers collection.
+
+**Returns:**
+Value: The layers' collection.
+
+### getMediaBox {#getMediaBox--}
+```
+public Rectangle getMediaBox()
+```
+
+<p> Gets media box of the page. </p>
+
+**Returns:**
+Rectangle value <hr> <pre> Example demonstrates how to get media box of the page: Document document = new Document("sample.pdf"); Rectangle mediaBox = document.getPages().get(1).getMediaBox(); </pre>
+
+### getNoteLineStyle {#getNoteLineStyle--}
 ```
 public GraphInfo getNoteLineStyle()
 ```
 
-
 Gets the line style for notes.(for generator only, not filled in when reading document)
 
 **Returns:**
-[GraphInfo](../../com.aspose.pdf/graphinfo) - GraphInfo value
-### setNoteLineStyle(GraphInfo value) {#setNoteLineStyle-com.aspose.pdf.GraphInfo-}
+GraphInfo value
+
+### getNotifications {#getNotifications--}
 ```
-public void setNoteLineStyle(GraphInfo value)
-```
-
-
-Sets the line style for notes.(for generator only, not filled in when reading document)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [GraphInfo](../../com.aspose.pdf/graphinfo) | : GraphInfo value |
-
-### isBlank(double fillThresholdFactor) {#isBlank-double-}
-```
-public boolean isBlank(double fillThresholdFactor)
+public String getNotifications()
 ```
 
-
-Gets the flag whether page is blank or not.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fillThresholdFactor | double | The fill threshold value that manages the sensitivity of detection. Should be equal or greater than 0.01. |
+Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.)
 
 **Returns:**
-boolean - boolean value True - if page is blank; otherwise, false.
-### getPageRect(boolean considerRotation) {#getPageRect-boolean-}
+String representing notifications about inside operations with page content.
+
+### getNumber {#getNumber--}
+```
+public final int getNumber()
+```
+
+Get number of the page.
+
+**Returns:**
+int value
+
+### getOnBeforePageGenerate {#getOnBeforePageGenerate--}
+```
+public PdfEvent < Page.BeforePageGenerate > getOnBeforePageGenerate()
+```
+
+Event for customize header and footer.
+
+**Returns:**
+{@code PdfEvent<BeforePageGenerate> instance}
+
+### getPageInfo {#getPageInfo--}
+```
+public PageInfo getPageInfo()
+```
+
+Gets the page info.(for generator only, not filled in when reading document).
+
+**Returns:**
+The page info.
+
+### getPageRect {#getPageRect-boolean-}
 ```
 public Rectangle getPageRect(boolean considerRotation)
 ```
-
 
 Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| considerRotation | boolean | If true then rotation of the page will be considered in rect calculation. |
+| considerRotation |  | If true then rotation of the page will be considered in rect calculation. |
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle of the page.
-### calculateContentBBox() {#calculateContentBBox--}
+Rectangle of the page.
+
+### getParagraphs {#getParagraphs--}
 ```
-public Rectangle calculateContentBBox()
+public Paragraphs getParagraphs()
 ```
 
-
-Calculates bbox value - rectangle containing contents without visible margins.
+Gets the paragraphs.
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Bbox value - rectangle containing contents without visible margins
-### getTabOrder() {#getTabOrder--}
+The paragraphs.
+
+### getRect_Rename_Namesake {#getRect_Rename_Namesake--}
+```
+public Rectangle getRect_Rename_Namesake()
+```
+
+<p> Returns rectangle of the page according to its CropBox and MediaBox; </p> Internal
+
+**Returns:**
+Rectangle value <hr> <pre> Example demonstrates how to get page rectangle: Document document = new Document("sample.pdf"); Page page = document.getPages().get(1); Rectangle pageRect = page.getRect(); </pre>
+
+### getRect {#getRect--}
+```
+public Rectangle getRect()
+```
+
+<p> Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. </p>
+
+**Returns:**
+Rectangle value <hr> <pre> Example demonstrates how to get page rectangle: Document document = new Document("sample.pdf"); Page page = document.getPages().get(1); Rectangle pageRect = page.getRect(); </pre>
+
+### getResources {#getResources--}
+```
+public final Resources getResources()
+```
+
+Retrieves the resources associated with the page.
+
+**Returns:**
+A {@code Resources}({@link #getResources()}) object representing the resources of the page.
+
+### getResourcesField {#getResourcesField--}
+```
+public Resources getResourcesField()
+```
+
+<p> Gets page resources. Resources object contains collections of images, forms and fonts. {@code Resources} </p>
+
+**Returns:**
+Resources value <hr> <pre> Example demonstrates scan through page images: Document document = new Document("sample.pdf"); DocumentActions actions = document.getActions(); Resources resources = document.getPages().get(1).getResources(); for(XImage image : {@code (Iterable<XImage>)resources}.getImages()) { System.out.println(image.getWidth() + ":" + image.getHeight()); } </pre>
+
+### getRotate {#getRotate--}
+```
+public Rotation getRotate()
+```
+
+<p> Gets rotation of the page. </p>
+
+**Returns:**
+Rotation element <hr> <pre> Example demonstrates how to determine page rotation. Document document = new Document("sample.pdf"); System.out.println(document.getPages().get(1).getRotate()); </pre> @see Rotation
+
+### getRotationMatrix {#getRotationMatrix--}
+```
+public Matrix getRotationMatrix()
+```
+
+Gets transformation matrix for the page.
+
+**Returns:**
+Matrix value
+
+### getTabOrder {#getTabOrder--}
 ```
 public int getTabOrder()
 ```
 
-
 Gets tab order of the page. Possible values: Row, Column. Default, Manual
 
 **Returns:**
-int - TabOrder value
-### setTabOrder(int value) {#setTabOrder-int-}
+TabOrder value @see TabOrder
+
+### getTocInfo {#getTocInfo--}
 ```
-public void setTabOrder(int value)
-```
-
-
-Sets tab order of the page. Possible values: Row, Column. Default, Manual
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | TabOrder object |
-
-### getDuration() {#getDuration--}
-```
-public double getDuration()
+public TocInfo getTocInfo()
 ```
 
-
-Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
-
---------------------
-
-Example demonstrates how to get page duration
-
-Document document = new Document("sample.pdf"); Page page = document.getPages().get(1); int pageRect = page.getDuration();
+Gets table of contents info.
 
 **Returns:**
-double - double value
-### setDuration(double value) {#setDuration-double-}
-```
-public void setDuration(double value)
-```
+The table of contents info - default null. If it set this page will contain table of contents.
 
-
-Sets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | page display duration. |
-
-### getContents() {#getContents--}
-```
-public OperatorCollection getContents()
-```
-
-
-Gets collection of operators in the content stream of the page.  OperatorCollection 
-
-**Returns:**
-[OperatorCollection](../../com.aspose.pdf/operatorcollection) - OperatorCollection object
-
---------------------
-
-```
-Example is demonstrates how to scan operators stream of page.
-
-
- Document document = new Document("sample.pdf");
- Operators contents = document.getPages().get_Item(1).getContents();
- for(Operator op : ```
-(Iterable)
-```contents)
- {
-     System.out.println(op);
- }
-```
-### getGroup() {#getGroup--}
-```
-public Group getGroup()
-```
-
-
-Gets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
-
-**Returns:**
-[Group](../../com.aspose.pdf/group) - Group value
-### setGroup(Group value) {#setGroup-com.aspose.pdf.Group-}
-```
-public void setGroup(Group value)
-```
-
-
-Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Group](../../com.aspose.pdf/group) | Group value |
-
-### getAnnotations() {#getAnnotations--}
-```
-public AnnotationCollection getAnnotations()
-```
-
-
-Gets collection of page annotations.  Annotations 
-
-**Returns:**
-[AnnotationCollection](../../com.aspose.pdf/annotationcollection) - AnnotationCollection value
-### getResources() {#getResources--}
-```
-public Resources getResources()
-```
-
-
-Gets page resources. Resources object contains collections of images, forms and fonts.  Resources 
-
-**Returns:**
-[Resources](../../com.aspose.pdf/resources) - Resources value
-
---------------------
-
-```
-Example demonstrates scan through page images:
-
-
- Document document = new Document("sample.pdf");
- DocumentActions actions = document.getActions();
- Resources resources = document.getPages().get(1).getResources();
- for(XImage image : ```
-(Ierable)resources
-```.getImages())
- {
-   System.out.println(image.getWidth() + ":" + image.getHeight());
- }
-```
-### getRotate() {#getRotate--}
-```
-public int getRotate()
-```
-
-
-Gets rotation of the page.
-
-**Returns:**
-int - Rotation element
-
---------------------
-
-```
-Example demonstrates how to determine page rotation.
-
-
- Document document = new Document("sample.pdf");
- System.out.println(document.getPages().get(1).getRotate());
-```
-### setRotate(int value) {#setRotate-int-}
-```
-public void setRotate(int value)
-```
-
-
-Sets rotation of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | Rotation element |
-
-### getTrimBox() {#getTrimBox--}
+### getTrimBox {#getTrimBox--}
 ```
 public Rectangle getTrimBox()
 ```
 
-
-Gets trim box of the page.
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
-
---------------------
-
-```
-Example demonstrates how to get trim box of the page:
-
-
- Document document = new Document("sample.pdf");
- Rectangle trimBox = document.getPages().get(1).getTrimBox();
-```
-### setTrimBox(Rectangle value) {#setTrimBox-com.aspose.pdf.Rectangle-}
-```
-public void setTrimBox(Rectangle value)
-```
-
-
-Sets trim box of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle value |
-
-### getArtBox() {#getArtBox--}
-```
-public Rectangle getArtBox()
-```
-
-
-Gets art box of the page.
+<p> Gets trim box of the page. </p>
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+Rectangle value <hr> <pre> Example demonstrates how to get trim box of the page: Document document = new Document("sample.pdf"); Rectangle trimBox = document.getPages().get(1).getTrimBox(); </pre>
 
---------------------
-
+### getUserUnit {#getUserUnit--}
 ```
-Example demonstrates how to get art box of the page:
-
-
- Document document = new Document("sample.pdf");
- Rectangle artBox = document.getPages().get(1).getArtBox();
-```
-### setArtBox(Rectangle value) {#setArtBox-com.aspose.pdf.Rectangle-}
-```
-public void setArtBox(Rectangle value)
+public final double getUserUnit()
 ```
 
-
-Sets art box of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle value |
-
-### getBleedBox() {#getBleedBox--}
-```
-public Rectangle getBleedBox()
-```
-
-
-Gets bleed box of the page.
+Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page.
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+double value
 
---------------------
-
+### getWatermark {#getWatermark--}
 ```
-Example demonstrates how to get bleed box of the page:
-
-
- Document document = new Document("sample.pdf");
- Rectangle bleedBox = document.getPages().get(1).getBleedBox();
-```
-### setBleedBox(Rectangle value) {#setBleedBox-com.aspose.pdf.Rectangle-}
-```
-public void setBleedBox(Rectangle value)
+public Watermark getWatermark()
 ```
 
-
-Sets bleed box of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle value |
-
-### getCropBox() {#getCropBox--}
-```
-public Rectangle getCropBox()
-```
-
-
-Gets crop box of the page.
+Gets the watermark of the page.
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+Watermark value
 
---------------------
-
+### hasVectorGraphics {#hasVectorGraphics--}
 ```
-Example demonstrates how to get crop box of the page:
-
-
- Document document = new Document("sample.pdf");
- Rectangle cropBox = document.getPages().get_Item(1).getCropBox();
-```
-### setCropBox(Rectangle value) {#setCropBox-com.aspose.pdf.Rectangle-}
-```
-public void setCropBox(Rectangle value)
+public final boolean hasVectorGraphics()
 ```
 
-
-Sets crop box of the page.
-
---------------------
-
-```
-Example demonstrates how to get crop box of the page:
-
-
- Document document = new Document("sample.pdf");
- document.getPages().get_Item(1).setCropBox(new Rectangle(0d,0d,100d,100d));
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
-
-### getMediaBox() {#getMediaBox--}
-```
-public Rectangle getMediaBox()
-```
-
-
-Gets media box of the page.
+Detect of the presence of vector graphics, if it is present on the page.
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
+True if the page contains path construction operators; otherwise, False.
 
---------------------
-
+### intToRotation {#intToRotation-int-}
 ```
-Example demonstrates how to get media box of the page:
-
-
- Document document = new Document("sample.pdf");
- Rectangle mediaBox = document.getPages().get(1).getMediaBox();
+public static Rotation intToRotation(int rotation)
 ```
-### setMediaBox(Rectangle value) {#setMediaBox-com.aspose.pdf.Rectangle-}
-```
-public void setMediaBox(Rectangle value)
-```
-
-
-Sets media box of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle |
-
-### sendTo(PageDevice device, OutputStream output) {#sendTo-com.aspose.pdf.devices.PageDevice-java.io.OutputStream-}
-```
-public void sendTo(PageDevice device, OutputStream output)
-```
-
-
-Sends page to process with given page device.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | [PageDevice](../../com.aspose.pdf.devices/pagedevice) | The device to process page. |
-| output | java.io.OutputStream | Result stream which is used with device to save its output. |
-
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
-
-
-Accepts  AnnotationSelector  visitor object that provides functionality to work with annotations.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Annotation selector sobject. |
-
-### rotationToInt(int rotation) {#rotationToInt-int-}
-```
-public static int rotationToInt(int rotation)
-```
-
-
-Translates rotation enumeration member into integer value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rotation | int | Rotation enumeratioom member. |
-
-**Returns:**
-int - Corresponding integer value
-### intToRotation(int rotation) {#intToRotation-int-}
-```
-public static int intToRotation(int rotation)
-```
-
 
 Translates integer value into corresponding rotation enumeration member.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | int | Integer value to convert |
+| rotation |  | Integer value to convert |
 
 **Returns:**
-int - Rotation enumeration member
-### addStamp(Stamp stamp) {#addStamp-com.aspose.pdf.Stamp-}
+Rotation enumeration member @see Rotation
+
+### isAddParagraphsAfterLast {#isAddParagraphsAfterLast--}
 ```
-public void addStamp(Stamp stamp)
+public final boolean isAddParagraphsAfterLast()
 ```
 
+Gets or sets the addition of paragraphs after the last paragraph of the page Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true.
 
-Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo.
+**Returns:**
+boolean value
+
+### isBlank {#isBlank-double-}
+```
+public boolean isBlank(double fillThresholdFactor)
+```
+
+Gets the flag whether page is blank or not.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | [Stamp](../../com.aspose.pdf/stamp) | Stamp to add on the page. Each stamp has its coordinates and corresponding properties regarding to the kind of stamp, i.e. image or text value. |
+| fillThresholdFactor |  | The fill threshold value that manages the sensitivity of detection. Should be in range [0..1). To determine whether a page is empty or not, the ratio of the filled space to the total space of the page is calculated. This ratio is compared with the fillThresholdFactor parameter and if it is less, the page is considered empty. |
 
-### addImage(InputStream imageStream, Rectangle imageRect) {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-}
+**Returns:**
+boolean value True - if page is blank; otherwise, false.
+
+### isBlank {#isBlank-double-boolean-}
 ```
-public void addImage(InputStream imageStream, Rectangle imageRect)
+public boolean isBlank(double fillThresholdFactor, boolean parseWhiteContent)
 ```
 
-
-Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+Gets the flag whether page is blank or not.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | The stream of the image. |
-| imageRect | [Rectangle](../../com.aspose.pdf/rectangle) | The position of the image. |
+| fillThresholdFactor |  | The fill threshold value that manages the sensitivity of detection. Should be equal or greater than 0.01. |
+| parseWhiteContent |  | True for complete page scanning with white contend analyzing, False (default) - fast algorithm, where white graphics is counted as not blank page. |
 
-### addImage(String hocr, InputStream imageStream, Rectangle imageRect) {#addImage-java.lang.String-java.io.InputStream-com.aspose.pdf.Rectangle-}
+**Returns:**
+boolean value True - if page is blank; otherwise, false.
+
+### makeGrayscale {#makeGrayscale--}
 ```
-public void addImage(String hocr, InputStream imageStream, Rectangle imageRect)
-```
-
-
-Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| hocr | java.lang.String | The hocr of the image. |
-| imageStream | java.io.InputStream | The stream of the image. |
-| imageRect | [Rectangle](../../com.aspose.pdf/rectangle) | The position of the image. |
-
-### addImage(InputStream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, boolean saveImageProportions) {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-int-int-boolean-}
-```
-public void addImage(InputStream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, boolean saveImageProportions)
+public final void makeGrayscale()
 ```
 
+Converts the page to grayscale.
 
-Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+### mergeLayers {#mergeLayers-java.lang.String-}
+Merges all layers on the page into a single layer with the specified new layer name.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageStream | java.io.InputStream | InputStream object |
-| imageRect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
-| imageWidth | int | int value |
-| imageHeight | int | int value |
-| saveImageProportions | boolean | boolean value |
+### mergeLayers {#mergeLayers-java.lang.String-java.lang.String-}
+Merges all layers on the page into a single layer with the specified new layer name and optional content group Id.
 
-### addImage(String imagePath, Rectangle rectangle) {#addImage-java.lang.String-com.aspose.pdf.Rectangle-}
-```
-public void addImage(String imagePath, Rectangle rectangle)
-```
+### removeObjectReferences {#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-}
+Remove object references
 
+### removeObjectReferences {#removeObjectReferences-java.lang.String-}
+Remove references to XObject from page contents (i.e. all Do operators which use name of object).
 
-Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+### resize {#resize-com.aspose.pdf.PageSize-}
+Resizes the page.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imagePath | java.lang.String | The path to image. |
-| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | The position of the image. |
+### rotationToInt {#rotationToInt-com.aspose.pdf.Rotation-}
+Translates rotation enumeration member into integer value.
 
-### addImage(InputStream stream, Rectangle rectangle, CompositingParameters compositingParameters) {#addImage-java.io.InputStream-com.aspose.pdf.Rectangle-com.aspose.pdf.CompositingParameters-}
-```
-public void addImage(InputStream stream, Rectangle rectangle, CompositingParameters compositingParameters)
-```
-
-
-Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | The stream of the image. |
-| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | The position of the image. |
-| compositingParameters | [CompositingParameters](../../com.aspose.pdf/compositingparameters) | The compositing parameters. |
-
-### sendTo(PageDevice device, String outputFileName) {#sendTo-com.aspose.pdf.devices.PageDevice-java.lang.String-}
-```
-public void sendTo(PageDevice device, String outputFileName)
-```
-
-
+### sendTo {#sendTo-com.aspose.pdf.devices.PageDevice-java.io.OutputStream-}
 Sends page to process with given page device.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | [PageDevice](../../com.aspose.pdf.devices/pagedevice) | The device to process page. |
-| outputFileName | java.lang.String | File which is used with device to save its output. |
+### sendTo {#sendTo-com.aspose.pdf.devices.PageDevice-java.lang.String-}
+Sends page to process with given page device.
 
-### flatten() {#flatten--}
+### setAddParagraphsAfterLast {#setAddParagraphsAfterLast-boolean-}
 ```
-public void flatten()
+public final void setAddParagraphsAfterLast(boolean value)
 ```
 
-
-Removes all static fields located on the page and place their values instead.
-
-### accept(TextFragmentAbsorber visitor) {#accept-com.aspose.pdf.TextFragmentAbsorber-}
-```
-public void accept(TextFragmentAbsorber visitor)
-```
-
-
-Accepts  TextFragmentAbsorber  visitor object that provides functionality to work with text objects.
+Gets or sets the addition of paragraphs after the last paragraph of the page Value: Value indicates whether paragraphs will be added after the last paragraph of the page. Paragraphs will be added after the last paragraph of the page if value is true.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [TextFragmentAbsorber](../../com.aspose.pdf/textfragmentabsorber) | Text absorber object. |
+| value |  | boolean value |
 
-### accept(ImagePlacementAbsorber visitor) {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
+### setArtBox {#setArtBox-com.aspose.pdf.Rectangle-}
+Sets art box of the page.
+
+### setBackground {#setBackground-java.awt.Color-}
+Sets the background color of the page.
+
+### setBackground {#setBackground-com.aspose.pdf.Color-}
+Sets the background color of the page.
+
+### setBackgroundImage {#setBackgroundImage-com.aspose.pdf.Image-}
+Gets or sets background image for page (for generator only, not filled in when reading document).
+
+### setBleedBox {#setBleedBox-com.aspose.pdf.Rectangle-}
+Sets bleed box of the page.
+
+### setCropBox {#setCropBox-com.aspose.pdf.Rectangle-}
+<p> Sets crop box of the page. </p> <hr> <pre> Example demonstrates how to get crop box of the page: Document document = new Document("sample.pdf"); document.getPages().get_Item(1).setCropBox(new Rectangle(0d,0d,100d,100d)); </pre>
+
+### setDuration {#setDuration-double-}
 ```
-public void accept(ImagePlacementAbsorber visitor)
+public void setDuration(double value)
 ```
 
-
-Accepts  ImagePlacementAbsorber  visitor object that provides functionality to work with image placement objects.
+Sets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [ImagePlacementAbsorber](../../com.aspose.pdf/imageplacementabsorber) | Image placement absorber object. |
+| value |  | page display duration. |
 
-### accept(TextAbsorber visitor) {#accept-com.aspose.pdf.TextAbsorber-}
-```
-public void accept(TextAbsorber visitor)
-```
+### setEnginePage {#setEnginePage-com.aspose.pdf.engine.commondata.IPage-}
+For Internal usage only
 
+### setFooter {#setFooter-com.aspose.pdf.HeaderFooter-}
+Sets page Footer.
 
-Accepts  TextAbsorber  visitor object that provides functionality to work with text objects.
+### setGroup {#setGroup-com.aspose.pdf.Group-}
+Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [TextAbsorber](../../com.aspose.pdf/textabsorber) | Text absorber object. |
+### setHeader {#setHeader-com.aspose.pdf.HeaderFooter-}
+Sets page header.
 
-### setPageSize(double width, double height) {#setPageSize-double-double-}
+### setLayers {#setLayers-java.util.ArrayList-}
+Sets layers collection.
+
+### setLayersInternal {#setLayersInternal-com.aspose.ms.System.Collections.Generic.List-}
+Sets layers collection.
+
+### setMediaBox {#setMediaBox-com.aspose.pdf.Rectangle-}
+Sets media box of the page.
+
+### setNoteLineStyle {#setNoteLineStyle-com.aspose.pdf.GraphInfo-}
+Sets the line style for notes.(for generator only, not filled in when reading document)
+
+### setPageInfo {#setPageInfo-com.aspose.pdf.PageInfo-}
+Sets the page info.(for generator only, not filled in when reading document).
+
+### setPageSize {#setPageSize-double-double-}
 ```
 public void setPageSize(double width, double height)
 ```
-
 
 Sets page size for page.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | double | Page width. |
-| height | double | Page size. |
+| width |  | Page width. |
+| height |  | Page size. |
 
-### setTransition(IPdfDictionary transition) {#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-}
+### setParagraphs {#setParagraphs-com.aspose.pdf.Paragraphs-}
+Sets the paragraphs.
+
+### setRect {#setRect-com.aspose.pdf.Rectangle-}
+Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. is returned. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect.
+
+### setRotate {#setRotate-com.aspose.pdf.Rotation-}
+Sets rotation of the page.
+
+### setTabOrder {#setTabOrder-int-}
 ```
-public void setTransition(IPdfDictionary transition)
+public void setTabOrder(int value)
 ```
 
+Sets tab order of the page. Possible values: Row, Column. Default, Manual
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | TabOrder object @see TabOrder |
+
+### setTocInfo {#setTocInfo-com.aspose.pdf.TocInfo-}
+Sets table of contents info.
+
+### setTransition {#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-}
 Set transition
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| transition | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary object |
+### setTrimBox {#setTrimBox-com.aspose.pdf.Rectangle-}
+Sets trim box of the page.
 
-### getNumber() {#getNumber--}
-```
-public final int getNumber()
-```
-
-
-Get number of the page.
-
-**Returns:**
-int - int value
-### getRotationMatrix() {#getRotationMatrix--}
-```
-public Matrix getRotationMatrix()
-```
-
-
-Gets transfomation matrix for the page.
-
-**Returns:**
-[Matrix](../../com.aspose.pdf/matrix) - Matrix value
-### getContentsAppender() {#getContentsAppender--}
-```
-public ContentsAppender getContentsAppender()
-```
-
-
-Gets current contents appender.  ContentsAppender 
-
-**Returns:**
-[ContentsAppender](../../com.aspose.pdf/contentsappender) - ContentsAppender value
-### getBackground() {#getBackground--}
-```
-public Color getBackground()
-```
-
-
-Gets the background color of the page.
-
-**Returns:**
-[Color](../../java.awt/color) - Color value
-### setBackground(Color value) {#setBackground-java.awt.Color-}
-```
-public void setBackground(Color value)
-```
-
-
-Sets the background color of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.awt.Color | Color object |
-
-### setBackground(Color value) {#setBackground-com.aspose.pdf.Color-}
-```
-public void setBackground(Color value)
-```
-
-
-Sets the background color of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color object |
-
-### getWatermark() {#getWatermark--}
-```
-public Watermark getWatermark()
-```
-
-
-Gets the watermark of the page.
-
-**Returns:**
-[Watermark](../../com.aspose.pdf/watermark) - Watermark value
-### setWatermark(Watermark value) {#setWatermark-com.aspose.pdf.Watermark-}
-```
-public void setWatermark(Watermark value)
-```
-
-
-Sets the watermark of the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Watermark](../../com.aspose.pdf/watermark) | Watermark object |
-
-### removeObjectReferences(String name) {#removeObjectReferences-java.lang.String-}
-```
-public void removeObjectReferences(String name)
-```
-
-
-Remove references to XObject from page contents (i.e. all Do operators which use name of object).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-
-### removeObjectReferences(OperatorCollection contents, String name) {#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-}
-```
-public static void removeObjectReferences(OperatorCollection contents, String name)
-```
-
-
-Remove object references
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| contents | [OperatorCollection](../../com.aspose.pdf/operatorcollection) | OperatorCollection object |
-| name | java.lang.String | value |
-
-### findReferences(String name) {#findReferences-java.lang.String-}
-```
-public List<Object> findReferences(String name)
-```
-
-
-Find references
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-
-**Returns:**
-java.util.List<java.lang.Object> -  List  object
-### findReferences(OperatorCollection contents, String name) {#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-}
-```
-public static List<Object> findReferences(OperatorCollection contents, String name)
-```
-
-
-Returns list of operators which uses resource with specified name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| contents | [OperatorCollection](../../com.aspose.pdf/operatorcollection) | OperatorCollection value |
-| name | java.lang.String | String value |
-
-**Returns:**
-java.util.List<java.lang.Object> - List of Object
-### close() {#close--}
-```
-public void close()
-```
-
-
-Closes all resources used by this document.
-
-### dispose() {#dispose--}
-```
-public void dispose()
-```
-
-
-Frees up memory
-
-This method is obsolete, use close() instead.
-
-### fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources) {#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public void fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| usageTable | com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.Integer,java.lang.Integer> |  |
-| CommonResources | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) |  |
-
-### deleteUnusedResources(System.Collections.Generic.Dictionary<Integer,Integer> usageTable) {#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--}
-```
-public void deleteUnusedResources(System.Collections.Generic.Dictionary<Integer,Integer> usageTable)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| usageTable | com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.Integer,java.lang.Integer> |  |
-
-### clearContents() {#clearContents--}
-```
-public void clearContents()
-```
-
-
-For internal usage only
-
-### getArtifacts() {#getArtifacts--}
-```
-public ArtifactCollection getArtifacts()
-```
-
-
-Gets collection of artifacts on the page.
-
-**Returns:**
-[ArtifactCollection](../../com.aspose.pdf/artifactcollection) - ArtifactCollection value
-### getActions() {#getActions--}
-```
-public PageActionCollection getActions()
-```
-
-
-Gets collection of page properties.
-
-**Returns:**
-[PageActionCollection](../../com.aspose.pdf/pageactioncollection) - PageActionCollection value
-### makeGrayscale() {#makeGrayscale--}
-```
-public final void makeGrayscale()
-```
-
-
-Converts the page to grayscale.
-
-### freeMemory() {#freeMemory--}
-```
-public void freeMemory()
-```
-
-
-Clears cached data
-
-### getNotifications() {#getNotifications--}
-```
-public String getNotifications()
-```
-
-
-Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.)
-
-**Returns:**
-java.lang.String - String representing notifications about inside operations with page content.
-### asByteArray(Resolution resolution) {#asByteArray-com.aspose.pdf.devices.Resolution-}
-```
-public byte[] asByteArray(Resolution resolution)
-```
-
-
-Converts current page as BMP bitmap and than returns array of bytes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | The resolution. |
-
-**Returns:**
-byte[] - Converted array of image bytes.
-### asXml() {#asXml--}
-```
-public String asXml()
-```
-
-
-Converts current page as xml in utf8 encoding.
-
-**Returns:**
-java.lang.String - Converted xml string.
-### getFieldsInTabOrder() {#getFieldsInTabOrder--}
-```
-public List<Field> getFieldsInTabOrder()
-```
-
-
-Gets list of Field object in Tab order on this page.
-
-**Returns:**
-java.util.List<com.aspose.pdf.Field> - List of field objects
-### getUserUnit() {#getUserUnit--}
-```
-public final double getUserUnit()
-```
-
-
-Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 \\u0432\\u0403\\u201e 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page.
-
-**Returns:**
-double - double value
-### setUserUnit(double value) {#setUserUnit-double-}
+### setUserUnit {#setUserUnit-double-}
 ```
 public final void setUserUnit(double value)
 ```
 
-
-Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 \\u0432\\u0403\\u201e 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page.
+Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | double value |
 
+### setWatermark {#setWatermark-com.aspose.pdf.Watermark-}
+Sets the watermark of the page.
+
+### trySaveVectorGraphics {#trySaveVectorGraphics-java.lang.String-}
+Tries to save vector graphics if they are present on the page. The save format is SVG.

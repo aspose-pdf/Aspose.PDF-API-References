@@ -1,83 +1,64 @@
 ---
 title: FillStroke
 second_title: Aspose.PDF for Java API Reference
-description: Class representing B operator fill and stroke path using nonzero winding rule
+description: Class representing B operator (fill and stroke path using nonzero winding rule)
 type: docs
-weight: 38
+weight: 290
 url: /java/com.aspose.pdf.operators/fillstroke/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.FillStroke, com.aspose.pdf.Operator, com.aspose.pdf.operators.FillStroke
+
 ```
 public class FillStroke extends Operator
 ```
 
 Class representing B operator (fill and stroke path using nonzero winding rule)
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [FillStroke()](#FillStroke--) | Initializes operator. |
-| [FillStroke(int index, ICommand command)](#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [FillStroke](#FillStroke--) | Initializes operator. |
+| [FillStroke](#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [toString()](#toString--) | Returns text representation of operator. |
-| [getCommandName()](#getCommandName--) | Returns text representation of operator. |
-### FillStroke() {#FillStroke--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getCommandName](#getCommandName--) | Returns text representation of operator. |
+| [toString](#toString--) | Returns text representation of operator. |
+
+### FillStroke {#FillStroke--}
 ```
 public FillStroke()
 ```
 
-
 Initializes operator.
 
-### FillStroke(int index, ICommand command) {#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public FillStroke(int index, ICommand command)
-```
+### FillStroke {#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns text representation of operator.
-
-**Returns:**
-java.lang.String - Text representation of operator.
-### getCommandName() {#getCommandName--}
+### getCommandName {#getCommandName--}
 ```
 public String getCommandName()
 ```
 
+Returns text representation of operator.
+
+**Returns:**
+Text representation of operator.
+
+### toString {#toString--}
+```
+public String toString()
+```
 
 Returns text representation of operator.
 
 **Returns:**
-java.lang.String - Text representation of operator.
+Text representation of operator.

@@ -3,55 +3,51 @@ title: CryptoAlgorithm
 second_title: Aspose.PDF for Java API Reference
 description: Represent type of cryptographic algorithm that used in encryption/decryption routines.
 type: docs
-weight: 445
+weight: 870
 url: /java/com.aspose.pdf/cryptoalgorithm/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object, java.lang.Enum < CryptoAlgorithm > com.aspose.pdf.CryptoAlgorithm, java.lang.Enum < CryptoAlgorithm >, com.aspose.pdf.CryptoAlgorithm
+
+**All Implemented Interfaces:**
+Serializable, Comparable < CryptoAlgorithm >
+
 ```
-public enum CryptoAlgorithm extends Enum<CryptoAlgorithm>
+public enum CryptoAlgorithm extends Enum < CryptoAlgorithm >
 ```
 
 Represent type of cryptographic algorithm that used in encryption/decryption routines.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [RC4x40](#RC4x40) | RC4 with key length 40. |
-| [RC4x128](#RC4x128) | RC4 with key length 128. |
 | [AESx128](#AESx128) | AES with key length 128. |
 | [AESx256](#AESx256) | AES with key length 256. |
-| [values](#values) |  |
+| [Custom](#Custom) | The custom encryption algorithm |
+| [RC4x128](#RC4x128) | RC4 with key length 128. |
+| [RC4x40](#RC4x40) | RC4 with key length 40. |
+
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ALGORITHMS](#ALGORITHMS) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [getValue()](#getValue--) |  |
-| [prev()](#prev--) |  |
-| [next()](#next--) |  |
-### RC4x40 {#RC4x40}
-```
-public static final CryptoAlgorithm RC4x40
-```
-
-
-RC4 with key length 40.
-
-### RC4x128 {#RC4x128}
-```
-public static final CryptoAlgorithm RC4x128
-```
-
-
-RC4 with key length 128.
+| [getValue](#getValue--) |  |
+| [next](#next--) |  |
+| [prev](#prev--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### AESx128 {#AESx128}
 ```
 public static final CryptoAlgorithm AESx128
 ```
-
 
 AES with key length 128.
 
@@ -60,67 +56,66 @@ AES with key length 128.
 public static final CryptoAlgorithm AESx256
 ```
 
-
 AES with key length 256.
 
-### values {#values}
+### Custom {#Custom}
 ```
-public static final CryptoAlgorithm[] values
-```
-
-
-### values() {#values--}
-```
-public static CryptoAlgorithm[] values()
+public static final CryptoAlgorithm Custom
 ```
 
+The custom encryption algorithm
 
-
-
-**Returns:**
-com.aspose.pdf.CryptoAlgorithm[]
-### valueOf(String name) {#valueOf-java.lang.String-}
+### RC4x128 {#RC4x128}
 ```
-public static CryptoAlgorithm valueOf(String name)
+public static final CryptoAlgorithm RC4x128
 ```
 
+RC4 with key length 128.
+
+### RC4x40 {#RC4x40}
+```
+public static final CryptoAlgorithm RC4x40
+```
+
+RC4 with key length 40.
+
+### ALGORITHMS {#ALGORITHMS}
+```
+public static final CryptoAlgorithm [] ALGORITHMS
+```
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**Returns:**
-[CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm)
-### getValue() {#getValue--}
+### getValue {#getValue--}
 ```
 public int getValue()
 ```
 
 
 
-
-**Returns:**
-int
-### prev() {#prev--}
-```
-public CryptoAlgorithm prev()
-```
-
-
-
-
-**Returns:**
-[CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm)
-### next() {#next--}
+### next {#next--}
 ```
 public CryptoAlgorithm next()
 ```
 
 
 
+### prev {#prev--}
+```
+public CryptoAlgorithm prev()
+```
+
+
+
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static CryptoAlgorithm [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
 
 **Returns:**
-[CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm)
+an array containing the constants of this enum type, in the order they are declared

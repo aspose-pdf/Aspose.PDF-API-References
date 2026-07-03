@@ -3,134 +3,70 @@ title: EmfDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that helps to save pdf document pages into emf.
 type: docs
-weight: 16
+weight: 70
 url: /java/com.aspose.pdf.devices/emfdevice/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.devices.Device](../../com.aspose.pdf.devices/device), [com.aspose.pdf.devices.PageDevice](../../com.aspose.pdf.devices/pagedevice), [com.aspose.pdf.devices.ImageDevice](../../com.aspose.pdf.devices/imagedevice)
+java.lang.Object, com.aspose.pdf.devices.Device com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.EmfDevice, com.aspose.pdf.devices.Device, com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.EmfDevice, com.aspose.pdf.devices.PageDevice, com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.EmfDevice, com.aspose.pdf.devices.ImageDevice, com.aspose.pdf.devices.EmfDevice
+
 ```
 public final class EmfDevice extends ImageDevice
 ```
 
 Represents image device that helps to save pdf document pages into emf.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [EmfDevice()](#EmfDevice--) | Initializes a new instance of the  EmfDevice  class with default resolution of raster image written to emf. |
-| [EmfDevice(Resolution resolution)](#EmfDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  EmfDevice  class. |
-| [EmfDevice(int width, int height)](#EmfDevice-int-int-) | Initializes a new instance of the  EmfDevice  class with provided image dimensions, and default resolution for the raster image written to emf (=150) |
-| [EmfDevice(PageSize pageSize)](#EmfDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the  EmfDevice  class with provided page size, and default resolution for the raster image written to emf (=150) |
-| [EmfDevice(int width, int height, Resolution resolution)](#EmfDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  JpegDevice  class with provided image dimensions, and resolution for the raster image written to emf. |
-| [EmfDevice(PageSize pageSize, Resolution resolution)](#EmfDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  JpegDevice  class with provided page size, and resolution for the raster image written to emf. |
+| [EmfDevice](#EmfDevice--) | Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf. |
+| [EmfDevice](#EmfDevice-int-int-) | Initializes a new instance of the {@code EmfDevice} class with provided image dimensions, and default resolution for the raster image written to emf (=150) |
+| [EmfDevice](#EmfDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf. |
+| [EmfDevice](#EmfDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf. |
+| [EmfDevice](#EmfDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf. |
+| [EmfDevice](#EmfDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [processInternal(Page page, System.IO.Stream output)](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Converts the page into emf and saves it in the output stream. |
-| [process(Page page, OutputStream output)](#process-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into emf and saves it in the output stream. |
-### EmfDevice() {#EmfDevice--}
+| [process](#process-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into emf and saves it in the output stream. |
+| [processInternal](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Converts the page into emf and saves it in the output stream. |
+
+### EmfDevice {#EmfDevice--}
 ```
 public EmfDevice()
 ```
 
+Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf.
 
-Initializes a new instance of the  EmfDevice  class with default resolution of raster image written to emf.
-
-### EmfDevice(Resolution resolution) {#EmfDevice-com.aspose.pdf.devices.Resolution-}
-```
-public EmfDevice(Resolution resolution)
-```
-
-
-Initializes a new instance of the  EmfDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the raster image written to emf, see  Resolution  class. |
-
-### EmfDevice(int width, int height) {#EmfDevice-int-int-}
+### EmfDevice {#EmfDevice-int-int-}
 ```
 public EmfDevice(int width, int height)
 ```
 
-
-Initializes a new instance of the  EmfDevice  class with provided image dimensions, and default resolution for the raster image written to emf (=150)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-
-### EmfDevice(PageSize pageSize) {#EmfDevice-com.aspose.pdf.PageSize-}
-```
-public EmfDevice(PageSize pageSize)
-```
-
-
-Initializes a new instance of the  EmfDevice  class with provided page size, and default resolution for the raster image written to emf (=150)
+Initializes a new instance of the {@code EmfDevice} class with provided image dimensions, and default resolution for the raster image written to emf (=150)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
+| width |  | Image output width. |
+| height |  | Image output height. |
 
-### EmfDevice(int width, int height, Resolution resolution) {#EmfDevice-int-int-com.aspose.pdf.devices.Resolution-}
-```
-public EmfDevice(int width, int height, Resolution resolution)
-```
+### EmfDevice {#EmfDevice-int-int-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf.
 
+### EmfDevice {#EmfDevice-com.aspose.pdf.PageSize-}
+Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf.
 
-Initializes a new instance of the  JpegDevice  class with provided image dimensions, and resolution for the raster image written to emf.
+### EmfDevice {#EmfDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the for the raster image written to emf, see  Resolution  class. |
+### EmfDevice {#EmfDevice-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code EmfDevice} class with default resolution of raster image written to emf.
 
-### EmfDevice(PageSize pageSize, Resolution resolution) {#EmfDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
-```
-public EmfDevice(PageSize pageSize, Resolution resolution)
-```
-
-
-Initializes a new instance of the  JpegDevice  class with provided page size, and resolution for the raster image written to emf.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the for the raster image written to emf, see  Resolution  class. |
-
-### processInternal(Page page, System.IO.Stream output) {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
-```
-public void processInternal(Page page, System.IO.Stream output)
-```
-
-
+### process {#process-com.aspose.pdf.Page-java.io.OutputStream-}
 Converts the page into emf and saves it in the output stream.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page to convert. |
-| output | com.aspose.ms.System.IO.Stream | Output stream with emf image. |
-
-### process(Page page, OutputStream output) {#process-com.aspose.pdf.Page-java.io.OutputStream-}
-```
-public void process(Page page, OutputStream output)
-```
-
-
+### processInternal {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
 Converts the page into emf and saves it in the output stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page to convert. |
-| output | java.io.OutputStream | Output stream with emf image. |
-
