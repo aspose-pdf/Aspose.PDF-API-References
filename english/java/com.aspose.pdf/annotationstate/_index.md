@@ -3,89 +3,114 @@ title: AnnotationState
 second_title: Aspose.PDF for Java API Reference
 description: The enumeration of states to which the original annotation can be set.
 type: docs
-weight: 19
+weight: 110
 url: /java/com.aspose.pdf/annotationstate/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum < AnnotationState > com.aspose.pdf.AnnotationState, java.lang.Enum < AnnotationState >, com.aspose.pdf.AnnotationState
+
+**All Implemented Interfaces:**
+Serializable, Comparable < AnnotationState >
+
 ```
-public final class AnnotationState extends System.Enum
+public enum AnnotationState extends Enum < AnnotationState >
 ```
 
 The enumeration of states to which the original annotation can be set.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Undefined](#Undefined) | Not defined state. |
-| [Marked](#Marked) | The annotation has been marked by the user. |
-| [Unmarked](#Unmarked) | The annotation has not been marked by the user. |
 | [Accepted](#Accepted) | The user agrees with the change. |
-| [Rejected](#Rejected) | The user disagrees with the change. |
 | [Cancelled](#Cancelled) | The change has been cancelled. |
 | [Completed](#Completed) | The change has been completed. |
+| [Marked](#Marked) | The annotation has been marked by the user. |
 | [None](#None) | The user has indicated nothing about the change. |
-### Undefined {#Undefined}
-```
-public static final int Undefined
-```
+| [Rejected](#Rejected) | The user disagrees with the change. |
+| [Undefined](#Undefined) | Not defined state. |
+| [Unmarked](#Unmarked) | The annotation has not been marked by the user. |
 
+## Methods
 
-Not defined state.
-
-### Marked {#Marked}
-```
-public static final int Marked
-```
-
-
-The annotation has been marked by the user.
-
-### Unmarked {#Unmarked}
-```
-public static final int Unmarked
-```
-
-
-The annotation has not been marked by the user.
+| Method | Description |
+| --- | --- |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### Accepted {#Accepted}
 ```
-public static final int Accepted
+public static final AnnotationState Accepted
 ```
-
 
 The user agrees with the change.
 
-### Rejected {#Rejected}
-```
-public static final int Rejected
-```
-
-
-The user disagrees with the change.
-
 ### Cancelled {#Cancelled}
 ```
-public static final int Cancelled
+public static final AnnotationState Cancelled
 ```
-
 
 The change has been cancelled.
 
 ### Completed {#Completed}
 ```
-public static final int Completed
+public static final AnnotationState Completed
 ```
-
 
 The change has been completed.
 
-### None {#None}
+### Marked {#Marked}
 ```
-public static final int None
+public static final AnnotationState Marked
 ```
 
+The annotation has been marked by the user.
+
+### None {#None}
+```
+public static final AnnotationState None
+```
 
 The user has indicated nothing about the change.
 
+### Rejected {#Rejected}
+```
+public static final AnnotationState Rejected
+```
+
+The user disagrees with the change.
+
+### Undefined {#Undefined}
+```
+public static final AnnotationState Undefined
+```
+
+Not defined state.
+
+### Unmarked {#Unmarked}
+```
+public static final AnnotationState Unmarked
+```
+
+The annotation has not been marked by the user.
+
+### getValue {#getValue--}
+```
+public int getValue()
+```
+
+
+
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static AnnotationState [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
+
+**Returns:**
+an array containing the constants of this enum type, in the order they are declared

@@ -1,20 +1,18 @@
 ---
 title: com.aspose.pdf.optimization
 second_title: Aspose.PDF for Java API Reference
-description: The  com.aspose.pdf.optimization is a package for classes for managing of document optimization process.
+description: The com.aspose.pdf.optimization is a package for classes for managing of document optimization process.
 type: docs
-weight: 19
+weight: 240
 url: /java/com.aspose.pdf.optimization/
 ---
-
-The  **com.aspose.pdf.optimization** is a package for classes for managing of document optimization process. process.
-
+The com.aspose.pdf.optimization is a package for classes for managing of document optimization process.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [ImageCompressionOptions](../com.aspose.pdf.optimization/imagecompressionoptions) | Class contains set options for image compression. |
-| [ImageCompressionVersion](../com.aspose.pdf.optimization/imagecompressionversion) | Describes versions of image compression algorithm. |
-| [ImageEncoding](../com.aspose.pdf.optimization/imageencoding) | Image encoding types. |
-| [OptimizationOptions](../com.aspose.pdf.optimization/optimizationoptions) | Class which describes document optimization algorithm. |
+| [ImageCompressionOptions](./imagecompressionoptions/) | Class contains set options for image compression. |
+| [ImageCompressionVersion](./imagecompressionversion/) | Describes versions of image compression algorithm. |
+| [ImageEncoding](./imageencoding/) | Image encoding types. |
+| [OptimizationOptions](./optimizationoptions/) | Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method. |

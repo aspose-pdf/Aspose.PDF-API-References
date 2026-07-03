@@ -3,11 +3,12 @@ title: WarichuChildElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for children elements of the Warichu in logical structure.
 type: docs
-weight: 26
+weight: 170
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuchildelement/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.tagged.logicalstructure.elements.Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element), [com.aspose.pdf.tagged.logicalstructure.elements.StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement)
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement, com.aspose.pdf.tagged.logicalstructure.elements.Element, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement
+
 ```
 public abstract class WarichuChildElement extends StructureElement
 ```

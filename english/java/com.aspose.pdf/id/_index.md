@@ -1,49 +1,43 @@
 ---
 title: Id
 second_title: Aspose.PDF for Java API Reference
-description: Represents file identifier structure.
+description: <p> Represents file identifier structure. </p> <hr> <pre> Document doc = new Document(\"example.pdf\"); String original = doc.getId().getOriginal(); String modified =.
 type: docs
-weight: 164
+weight: 2220
 url: /java/com.aspose.pdf/id/
 ---
 **Inheritance:**
-java.lang.Object
-```
-public class Id
-```
-
-Represents file identifier structure.
-
---------------------
+java.lang.Object, com.aspose.pdf.Id
 
 ```
-Document doc = new Document("example.pdf");
- String original = doc.getId().getOriginal();
- String modified = doc.getId().getModified();
+public class Id extends Object
 ```
+
+<p> Represents file identifier structure. </p> <hr> <pre> Document doc = new Document("example.pdf"); String original = doc.getId().getOriginal(); String modified = doc.getId().getModified(); </pre>
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getOriginal()](#getOriginal--) | Permanent identifier based on the contents of the document at the time it was originally created. |
-| [getModified()](#getModified--) | Changing identifier based on the document's contents at the time it was last updated. |
-### getOriginal() {#getOriginal--}
-```
-public String getOriginal()
-```
+| [getModified](#getModified--) | Changing identifier based on the document's contents at the time it was last updated. |
+| [getOriginal](#getOriginal--) | Permanent identifier based on the contents of the document at the time it was originally created. |
 
-
-Permanent identifier based on the contents of the document at the time it was originally created.
-
-**Returns:**
-java.lang.String - String value
-### getModified() {#getModified--}
+### getModified {#getModified--}
 ```
 public String getModified()
 ```
 
-
 Changing identifier based on the document's contents at the time it was last updated.
 
 **Returns:**
-java.lang.String - String value
+String value
+
+### getOriginal {#getOriginal--}
+```
+public String getOriginal()
+```
+
+Permanent identifier based on the contents of the document at the time it was originally created.
+
+**Returns:**
+String value

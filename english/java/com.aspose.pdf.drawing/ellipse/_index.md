@@ -3,147 +3,164 @@ title: Ellipse
 second_title: Aspose.PDF for Java API Reference
 description: Represents ellipse.
 type: docs
-weight: 13
+weight: 40
 url: /java/com.aspose.pdf.drawing/ellipse/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.drawing.Shape](../../com.aspose.pdf.drawing/shape)
+java.lang.Object, com.aspose.pdf.drawing.Shape com.aspose.pdf.drawing.Ellipse, com.aspose.pdf.drawing.Shape, com.aspose.pdf.drawing.Ellipse
+
+**All Implemented Interfaces:**
+IBoundsCheckableItem
+
 ```
 public final class Ellipse extends Shape
 ```
 
 Represents ellipse.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Ellipse()](#Ellipse--) | For Internal usage only |
-| [Ellipse(double left, double bottom, double width, double height)](#Ellipse-double-double-double-double-) | Initializes a new instance of the  Ellipse  class. |
+| [Ellipse](#Ellipse--) | For Internal usage only |
+| [Ellipse](#Ellipse-double-double-double-double-) | Initializes a new instance of the {@code Ellipse} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getLeft()](#getLeft--) | Gets float value that indicates the left position of the ellipse. |
-| [setLeft(double value)](#setLeft-double-) | Sets float value that indicates the left position of the ellipse. |
-| [getBottom()](#getBottom--) | Gets float value that indicates the bottom position of the ellipse. |
-| [setBottom(double value)](#setBottom-double-) | Sets float value that indicates the bottom position of the ellipse. |
-| [getWidth()](#getWidth--) | Gets float value that indicates the width of the ellipse. |
-| [setWidth(double value)](#setWidth-double-) | Gets float value that indicates the width of the ellipse. |
-| [getHeight()](#getHeight--) | Gets float value that indicates the height of the ellipse. |
-| [setHeight(double value)](#setHeight-double-) | Sets float value that indicates the height of the ellipse. |
-### Ellipse() {#Ellipse--}
+| [checkBounds](#checkBounds-double-double-) | Checks if the item fits within the given container dimensions (inclusive). |
+| [getBottom](#getBottom--) | Gets float value that indicates the bottom position of the ellipse. |
+| [getHeight](#getHeight--) | Gets float value that indicates the height of the ellipse. |
+| [getLeft](#getLeft--) | Gets float value that indicates the left position of the ellipse. |
+| [getWidth](#getWidth--) | Gets float value that indicates the width of the ellipse. |
+| [setBottom](#setBottom-double-) | Sets float value that indicates the bottom position of the ellipse. |
+| [setHeight](#setHeight-double-) | Sets float value that indicates the height of the ellipse. |
+| [setLeft](#setLeft-double-) | Sets float value that indicates the left position of the ellipse. |
+| [setWidth](#setWidth-double-) | Gets float value that indicates the width of the ellipse. |
+
+### Ellipse {#Ellipse--}
 ```
 public Ellipse()
 ```
 
-
 For Internal usage only
 
-### Ellipse(double left, double bottom, double width, double height) {#Ellipse-double-double-double-double-}
+### Ellipse {#Ellipse-double-double-double-double-}
 ```
 public Ellipse(double left, double bottom, double width, double height)
 ```
 
-
-Initializes a new instance of the  Ellipse  class.
+Initializes a new instance of the {@code Ellipse} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | The left position of the ellipse. |
-| bottom | double | The bottom position of the ellipse. |
-| width | double | The width of the ellipse. |
-| height | double | The height of the ellipse. |
+| left |  | The left position of the ellipse. |
+| bottom |  | The bottom position of the ellipse. |
+| width |  | The width of the ellipse. |
+| height |  | The height of the ellipse. |
 
-### getLeft() {#getLeft--}
+### checkBounds {#checkBounds-double-double-}
 ```
-public double getLeft()
+public boolean checkBounds(double containerWidth, double containerHeight)
 ```
 
+Checks if the item fits within the given container dimensions (inclusive).
 
-Gets float value that indicates the left position of the ellipse.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| containerWidth |  |  |
+| containerHeight |  |  |
 
 **Returns:**
-double - value that indicates the left position of the ellipse.
-### setLeft(double value) {#setLeft-double-}
-```
-public void setLeft(double value)
-```
+True if fits; otherwise, false.
 
-
-Sets float value that indicates the left position of the ellipse.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | that indicates the left position of the ellipse. |
-
-### getBottom() {#getBottom--}
+### getBottom {#getBottom--}
 ```
 public double getBottom()
 ```
 
-
 Gets float value that indicates the bottom position of the ellipse.
 
 **Returns:**
-double - value that indicates the bottom position of the ellipse.
-### setBottom(double value) {#setBottom-double-}
+value that indicates the bottom position of the ellipse.
+
+### getHeight {#getHeight--}
+```
+public double getHeight()
+```
+
+Gets float value that indicates the height of the ellipse.
+
+**Returns:**
+value that indicates the height of the ellipse
+
+### getLeft {#getLeft--}
+```
+public double getLeft()
+```
+
+Gets float value that indicates the left position of the ellipse.
+
+**Returns:**
+value that indicates the left position of the ellipse.
+
+### getWidth {#getWidth--}
+```
+public double getWidth()
+```
+
+Gets float value that indicates the width of the ellipse.
+
+**Returns:**
+value that indicates the width of the ellipse.
+
+### setBottom {#setBottom-double-}
 ```
 public void setBottom(double value)
 ```
-
 
 Sets float value that indicates the bottom position of the ellipse.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | that indicates the bottom position of the ellipse. |
+| value |  | that indicates the bottom position of the ellipse. |
 
-### getWidth() {#getWidth--}
-```
-public double getWidth()
-```
-
-
-Gets float value that indicates the width of the ellipse.
-
-**Returns:**
-double - value that indicates the width of the ellipse.
-### setWidth(double value) {#setWidth-double-}
-```
-public void setWidth(double value)
-```
-
-
-Gets float value that indicates the width of the ellipse.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | that indicates the width of the ellipse. |
-
-### getHeight() {#getHeight--}
-```
-public double getHeight()
-```
-
-
-Gets float value that indicates the height of the ellipse.
-
-**Returns:**
-double - value that indicates the height of the ellipse
-### setHeight(double value) {#setHeight-double-}
+### setHeight {#setHeight-double-}
 ```
 public void setHeight(double value)
 ```
-
 
 Sets float value that indicates the height of the ellipse.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | that indicates the height of the ellipse |
+| value |  | that indicates the height of the ellipse |
 
+### setLeft {#setLeft-double-}
+```
+public void setLeft(double value)
+```
+
+Sets float value that indicates the left position of the ellipse.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | that indicates the left position of the ellipse. |
+
+### setWidth {#setWidth-double-}
+```
+public void setWidth(double value)
+```
+
+Gets float value that indicates the width of the ellipse.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | that indicates the width of the ellipse. |

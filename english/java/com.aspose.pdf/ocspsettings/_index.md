@@ -3,60 +3,67 @@ title: OcspSettings
 second_title: Aspose.PDF for Java API Reference
 description: Represents the ocsp settings using during signing process.
 type: docs
-weight: 230
+weight: 3160
 url: /java/com.aspose.pdf/ocspsettings/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.OcspSettings
+
 ```
-public class OcspSettings
+public class OcspSettings extends Object
 ```
 
 Represents the ocsp settings using during signing process.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [OcspSettings(String serverUrl)](#OcspSettings-java.lang.String-) | Initializes a new instance of the  OcspSettings  class. |
+| [OcspSettings](#OcspSettings-java.lang.String-) | Initializes a new instance of the {@link OcspSettings} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getServerUrl()](#getServerUrl--) | Gets the ocsp server url. |
-| [setServerUrl(String value)](#setServerUrl-java.lang.String-) | Sets the ocsp server url. |
-### OcspSettings(String serverUrl) {#OcspSettings-java.lang.String-}
+| [getRequestTimeout](#getRequestTimeout--) | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
+| [getServerUrl](#getServerUrl--) | Gets and sets the ocsp server url. |
+| [setRequestTimeout](#setRequestTimeout-int-) | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
+| [setServerUrl](#setServerUrl-java.lang.String-) | Gets and sets the ocsp server url. |
+
+### OcspSettings {#OcspSettings-java.lang.String-}
+Initializes a new instance of the {@link OcspSettings} class.
+
+### getRequestTimeout {#getRequestTimeout--}
 ```
-public OcspSettings(String serverUrl)
-```
-
-
-Initializes a new instance of the  OcspSettings  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| serverUrl | java.lang.String | The ocsp server url. |
-
-### getServerUrl() {#getServerUrl--}
-```
-public String getServerUrl()
+public final int getRequestTimeout()
 ```
 
-
-Gets the ocsp server url.
+Gets or sets the request timeout duration in milliseconds for the OCSP request.
 
 **Returns:**
-java.lang.String - String value
-### setServerUrl(String value) {#setServerUrl-java.lang.String-}
+int value
+
+### getServerUrl {#getServerUrl--}
 ```
-public void setServerUrl(String value)
+public final String getServerUrl()
 ```
 
+Gets and sets the ocsp server url.
 
-Sets the ocsp server url.
+**Returns:**
+String value
+
+### setRequestTimeout {#setRequestTimeout-int-}
+```
+public final void setRequestTimeout(int value)
+```
+
+Gets or sets the request timeout duration in milliseconds for the OCSP request.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | String value |
+| value |  | int value |
 
+### setServerUrl {#setServerUrl-java.lang.String-}
+Gets and sets the ocsp server url.

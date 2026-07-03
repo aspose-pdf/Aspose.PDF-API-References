@@ -1,115 +1,88 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF for Java API Reference
-description: This class represents a columns info.
+description: This class represents a column's info.
 type: docs
-weight: 66
+weight: 730
 url: /java/com.aspose.pdf/columninfo/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.ColumnInfo
+
 ```
-public final class ColumnInfo
+public final class ColumnInfo extends Object
 ```
 
-This class represents a columns info.
+This class represents a column's info.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ColumnInfo()](#ColumnInfo--) | Initializes a new instance of the ColumnInfo class. |
+| [ColumnInfo](#ColumnInfo--) | Initializes a new instance of the ColumnInfo class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getColumnWidths()](#getColumnWidths--) | Gets or sets a string that contains the width of columns. |
-| [setColumnWidths(String value)](#setColumnWidths-java.lang.String-) | Gets or sets a string that contains the width of columns. |
-| [getColumnSpacing()](#getColumnSpacing--) | Gets or sets a string that contains the spacing between columns. |
-| [setColumnSpacing(String value)](#setColumnSpacing-java.lang.String-) | Gets or sets a string that contains the spacing between columns. |
-| [getColumnCount()](#getColumnCount--) | Gets int value that indicates the number of columns. |
-| [setColumnCount(int value)](#setColumnCount-int-) | Sets int value that indicates the number of columns. |
-### ColumnInfo() {#ColumnInfo--}
+| [getColumnCount](#getColumnCount--) | Gets int value that indicates the number of columns. |
+| [getColumnSpacing](#getColumnSpacing--) | <p> Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". </p><hr> <p> If this property is not set, default value 0 will be used for each spacing. </p> |
+| [getColumnWidths](#getColumnWidths--) | Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch" |
+| [setColumnCount](#setColumnCount-int-) | Sets int value that indicates the number of columns. |
+| [setColumnSpacing](#setColumnSpacing-java.lang.String-) | <p> Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". </p><hr> <p> If this property is not set, default value 0 will be used for each spacing. </p> |
+| [setColumnWidths](#setColumnWidths-java.lang.String-) | Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch" |
+
+### ColumnInfo {#ColumnInfo--}
 ```
 public ColumnInfo()
 ```
 
-
 Initializes a new instance of the ColumnInfo class.
 
-### getColumnWidths() {#getColumnWidths--}
-```
-public String getColumnWidths()
-```
-
-
-Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch"
-
-**Returns:**
-java.lang.String - String value
-### setColumnWidths(String value) {#setColumnWidths-java.lang.String-}
-```
-public void setColumnWidths(String value)
-```
-
-
-Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch"
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getColumnSpacing() {#getColumnSpacing--}
-```
-public String getColumnSpacing()
-```
-
-
-Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch".
-
---------------------
-
-If this property is not set, default value 0 will be used for each spacing.
-
-**Returns:**
-java.lang.String - String value
-### setColumnSpacing(String value) {#setColumnSpacing-java.lang.String-}
-```
-public void setColumnSpacing(String value)
-```
-
-
-Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch".
-
---------------------
-
-If this property is not set, default value 0 will be used for each spacing.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getColumnCount() {#getColumnCount--}
+### getColumnCount {#getColumnCount--}
 ```
 public int getColumnCount()
 ```
 
-
 Gets int value that indicates the number of columns.
 
 **Returns:**
-int - column count
-### setColumnCount(int value) {#setColumnCount-int-}
+column count
+
+### getColumnSpacing {#getColumnSpacing--}
+```
+public String getColumnSpacing()
+```
+
+<p> Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". </p><hr> <p> If this property is not set, default value 0 will be used for each spacing. </p>
+
+**Returns:**
+String value
+
+### getColumnWidths {#getColumnWidths--}
+```
+public String getColumnWidths()
+```
+
+Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch"
+
+**Returns:**
+String value
+
+### setColumnCount {#setColumnCount-int-}
 ```
 public void setColumnCount(int value)
 ```
-
 
 Sets int value that indicates the number of columns.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | column count |
+| value |  | column count |
 
+### setColumnSpacing {#setColumnSpacing-java.lang.String-}
+<p> Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". </p><hr> <p> If this property is not set, default value 0 will be used for each spacing. </p>
+
+### setColumnWidths {#setColumnWidths-java.lang.String-}
+Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch"

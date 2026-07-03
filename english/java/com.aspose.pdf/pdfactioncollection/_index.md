@@ -3,97 +3,88 @@ title: PdfActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class describes list of actions.
 type: docs
-weight: 277
+weight: 3680
 url: /java/com.aspose.pdf/pdfactioncollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PdfActionCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable
+Iterable < PdfAction >
+
 ```
-public class PdfActionCollection implements Iterable<PdfAction>
+public class PdfActionCollection extends Object implements Iterable < PdfAction >
 ```
 
 Class describes list of actions.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCount()](#getCount--) | Gets count of actions. |
-| [get_Item(int index)](#get-Item-int-) | Gets action by its index. |
-| [delete(int index)](#delete-int-) | Remove action by index. |
-| [add(PdfAction action)](#add-com.aspose.pdf.PdfAction-) | Add action to action list. |
-| [iterator()](#iterator--) | Gets enumerator. |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | Internal method |
-### getCount() {#getCount--}
-```
-public int getCount()
-```
+| [add](#add-com.aspose.pdf.PdfAction-) | Add action to action list. |
+| [delete](#delete-int-) | Remove action by index. |
+| [get_Item](#get_Item-int-) | Gets action by its index. |
+| [getCount](#getCount--) | Gets count of actions. |
+| [iterator_Rename_Namesake](#iterator_Rename_Namesake--) | Internal method |
+| [iterator](#iterator--) | Gets enumerator. |
 
+### add {#add-com.aspose.pdf.PdfAction-}
+Add action to action list.
 
-Gets count of actions.
-
-**Returns:**
-int - int value
-### get_Item(int index) {#get-Item-int-}
-```
-public PdfAction get_Item(int index)
-```
-
-
-Gets action by its index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Action index value. |
-
-**Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction index if found; otherwise, throws
-### delete(int index) {#delete-int-}
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
-
 
 Remove action by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of action to remove. |
+| index |  | Index of action to remove. |
 
-### add(PdfAction action) {#add-com.aspose.pdf.PdfAction-}
+### get_Item {#get_Item-int-}
 ```
-public void add(PdfAction action)
+public PdfAction get_Item(int index)
 ```
 
-
-Add action to action list.
+Gets action by its index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| action | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction instance Action to be added. |
-
-### iterator() {#iterator--}
-```
-public System.Collections.Generic.IGenericEnumerator<PdfAction> iterator()
-```
-
-
-Gets enumerator.
+| index |  | Action index value. |
 
 **Returns:**
-com.aspose.ms.System.Collections.Generic.IGenericEnumerator<com.aspose.pdf.PdfAction> - PDfAction enumerator.
-### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
+PdfAction index if found; otherwise, throws @throws IndexOutOfRangeException IndexOutOfRangeException
+
+### getCount {#getCount--}
 ```
-public System.Collections.IEnumerator<PdfAction> iterator_Rename_Namesake()
+public int getCount()
 ```
 
+Gets count of actions.
+
+**Returns:**
+int value
+
+### iterator_Rename_Namesake {#iterator_Rename_Namesake--}
+```
+public com.aspose.ms.System.Collections.IEnumerator< PdfAction > iterator_Rename_Namesake()
+```
 
 Internal method
 
 **Returns:**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.PdfAction> - internal object.
+internal object.
+
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.Generic.IGenericEnumerator< PdfAction > iterator()
+```
+
+Gets enumerator.
+
+**Returns:**
+PDfAction enumerator.

@@ -3,67 +3,49 @@ title: PageActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: This class describes page actions
 type: docs
-weight: 259
+weight: 3330
 url: /java/com.aspose.pdf/pageactioncollection/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseActionCollection](../../com.aspose.pdf/baseactioncollection)
+java.lang.Object, com.aspose.pdf.BaseActionCollection com.aspose.pdf.PageActionCollection, com.aspose.pdf.BaseActionCollection, com.aspose.pdf.PageActionCollection
+
 ```
 public class PageActionCollection extends BaseActionCollection
 ```
 
 This class describes page actions
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getOnOpen()](#getOnOpen--) | An action that shall be performed when the page is opened. |
-| [setOnOpen(PdfAction value)](#setOnOpen-com.aspose.pdf.PdfAction-) | An action that shall be performed when the page is opened. |
-| [getOnClose()](#getOnClose--) | An action that shall be performed when the page is closed. |
-| [setOnClose(PdfAction value)](#setOnClose-com.aspose.pdf.PdfAction-) | An action that shall be performed when the page is closed. |
-### getOnOpen() {#getOnOpen--}
-```
-public PdfAction getOnOpen()
-```
+| [getOnClose](#getOnClose--) | An action that shall be performed when the page is closed. |
+| [getOnOpen](#getOnOpen--) | An action that shall be performed when the page is opened. |
+| [setOnClose](#setOnClose-com.aspose.pdf.PdfAction-) | An action that shall be performed when the page is closed. |
+| [setOnOpen](#setOnOpen-com.aspose.pdf.PdfAction-) | An action that shall be performed when the page is opened. |
 
-
-An action that shall be performed when the page is opened.
-
-**Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction value
-### setOnOpen(PdfAction value) {#setOnOpen-com.aspose.pdf.PdfAction-}
-```
-public void setOnOpen(PdfAction value)
-```
-
-
-An action that shall be performed when the page is opened.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction value |
-
-### getOnClose() {#getOnClose--}
+### getOnClose {#getOnClose--}
 ```
 public PdfAction getOnClose()
 ```
 
-
 An action that shall be performed when the page is closed.
 
 **Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction value
-### setOnClose(PdfAction value) {#setOnClose-com.aspose.pdf.PdfAction-}
+PdfAction value
+
+### getOnOpen {#getOnOpen--}
 ```
-public void setOnClose(PdfAction value)
+public PdfAction getOnOpen()
 ```
 
+An action that shall be performed when the page is opened.
 
+**Returns:**
+PdfAction value
+
+### setOnClose {#setOnClose-com.aspose.pdf.PdfAction-}
 An action that shall be performed when the page is closed.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction value |
-
+### setOnOpen {#setOnOpen-com.aspose.pdf.PdfAction-}
+An action that shall be performed when the page is opened.

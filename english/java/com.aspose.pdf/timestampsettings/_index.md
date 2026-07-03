@@ -3,127 +3,77 @@ title: TimestampSettings
 second_title: Aspose.PDF for Java API Reference
 description: Represents the ocsp settings using during signing process.
 type: docs
-weight: 393
+weight: 5360
 url: /java/com.aspose.pdf/timestampsettings/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.TimestampSettings
+
 ```
-public class TimestampSettings
+public class TimestampSettings extends Object
 ```
 
 Represents the ocsp settings using during signing process.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TimestampSettings(String serverUrl, String basicAuthCredentials)](#TimestampSettings-java.lang.String-java.lang.String-) | Initializes a new instance of the  TimestampSettings  class. |
-| [TimestampSettings(String serverUrl, String basicAuthCredentials, int digestHashAlgorithm)](#TimestampSettings-java.lang.String-java.lang.String-int-) | Initializes a new instance of the  TimestampSettings  class. |
+| [TimestampSettings](#TimestampSettings-java.lang.String-java.lang.String-) | Initializes a new instance of the {@code TimestampSettings} class. |
+| [TimestampSettings](#TimestampSettings-java.lang.String-java.lang.String-com.aspose.pdf.DigestHashAlgorithm-) | Initializes a new instance of the {@code TimestampSettings} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getServerUrl()](#getServerUrl--) | Gets the timestamp server url. |
-| [setServerUrl(String value)](#setServerUrl-java.lang.String-) | Sets the timestamp server url. |
-| [getBasicAuthCredentials()](#getBasicAuthCredentials--) | Gets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [setBasicAuthCredentials(String value)](#setBasicAuthCredentials-java.lang.String-) | Sets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [getDigestHashAlgorithm()](#getDigestHashAlgorithm--) | Gets/sets the digest algorithm for internal hash functions. |
-| [setDigestHashAlgorithm(int value)](#setDigestHashAlgorithm-int-) | Gets/sets the digest algorithm for internal hash functions. |
-### TimestampSettings(String serverUrl, String basicAuthCredentials) {#TimestampSettings-java.lang.String-java.lang.String-}
-```
-public TimestampSettings(String serverUrl, String basicAuthCredentials)
-```
+| [getBasicAuthCredentials](#getBasicAuthCredentials--) | Gets the basic authentication credentials, Username and password are combined into a string "username:password". |
+| [getDigestHashAlgorithm](#getDigestHashAlgorithm--) | Gets/sets the digest algorithm for internal hash functions. |
+| [getServerUrl](#getServerUrl--) | Gets the timestamp server url. |
+| [setBasicAuthCredentials](#setBasicAuthCredentials-java.lang.String-) | Sets the basic authentication credentials, Username and password are combined into a string "username:password". |
+| [setDigestHashAlgorithm](#setDigestHashAlgorithm-com.aspose.pdf.DigestHashAlgorithm-) | Gets/sets the digest algorithm for internal hash functions. |
+| [setServerUrl](#setServerUrl-java.lang.String-) | Sets the timestamp server url. |
 
+### TimestampSettings {#TimestampSettings-java.lang.String-java.lang.String-}
+Initializes a new instance of the {@code TimestampSettings} class.
 
-Initializes a new instance of the  TimestampSettings  class.
+### TimestampSettings {#TimestampSettings-java.lang.String-java.lang.String-com.aspose.pdf.DigestHashAlgorithm-}
+Initializes a new instance of the {@code TimestampSettings} class.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| serverUrl | java.lang.String | The timestamp server url. |
-| basicAuthCredentials | java.lang.String | The basic authentication credentials, username and password are combined into a string "username:password". |
-
-### TimestampSettings(String serverUrl, String basicAuthCredentials, int digestHashAlgorithm) {#TimestampSettings-java.lang.String-java.lang.String-int-}
-```
-public TimestampSettings(String serverUrl, String basicAuthCredentials, int digestHashAlgorithm)
-```
-
-
-Initializes a new instance of the  TimestampSettings  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| serverUrl | java.lang.String | The timestamp server url. |
-| basicAuthCredentials | java.lang.String | The basic authentication credentials, username and password are combined into a string "username:password". |
-| digestHashAlgorithm | int | The hash algorithm name, if it is omitted then sha1 is used. |
-
-### getServerUrl() {#getServerUrl--}
-```
-public String getServerUrl()
-```
-
-
-Gets the timestamp server url.
-
-**Returns:**
-java.lang.String - String value
-### setServerUrl(String value) {#setServerUrl-java.lang.String-}
-```
-public void setServerUrl(String value)
-```
-
-
-Sets the timestamp server url.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getBasicAuthCredentials() {#getBasicAuthCredentials--}
+### getBasicAuthCredentials {#getBasicAuthCredentials--}
 ```
 public String getBasicAuthCredentials()
 ```
 
-
 Gets the basic authentication credentials, Username and password are combined into a string "username:password".
 
 **Returns:**
-java.lang.String - String value
-### setBasicAuthCredentials(String value) {#setBasicAuthCredentials-java.lang.String-}
+String value
+
+### getDigestHashAlgorithm {#getDigestHashAlgorithm--}
 ```
-public void setBasicAuthCredentials(String value)
+public final DigestHashAlgorithm getDigestHashAlgorithm()
 ```
-
-
-Sets the basic authentication credentials, Username and password are combined into a string "username:password".
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getDigestHashAlgorithm() {#getDigestHashAlgorithm--}
-```
-public final int getDigestHashAlgorithm()
-```
-
 
 Gets/sets the digest algorithm for internal hash functions.
 
 **Returns:**
-int - DigestHashAlgorithm element
-### setDigestHashAlgorithm(int value) {#setDigestHashAlgorithm-int-}
+DigestHashAlgorithm element @see DigestHashAlgorithm
+
+### getServerUrl {#getServerUrl--}
 ```
-public final void setDigestHashAlgorithm(int value)
+public String getServerUrl()
 ```
 
+Gets the timestamp server url.
 
+**Returns:**
+String value
+
+### setBasicAuthCredentials {#setBasicAuthCredentials-java.lang.String-}
+Sets the basic authentication credentials, Username and password are combined into a string "username:password".
+
+### setDigestHashAlgorithm {#setDigestHashAlgorithm-com.aspose.pdf.DigestHashAlgorithm-}
 Gets/sets the digest algorithm for internal hash functions.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | DigestHashAlgorithm element |
-
+### setServerUrl {#setServerUrl-java.lang.String-}
+Sets the timestamp server url.

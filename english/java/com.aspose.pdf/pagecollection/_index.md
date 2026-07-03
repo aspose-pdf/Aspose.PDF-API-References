@@ -3,482 +3,296 @@ title: PageCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of PDF document pages.
 type: docs
-weight: 260
+weight: 3340
 url: /java/com.aspose.pdf/pagecollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PageCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable, com.aspose.pdf.ISupportsMemoryCleanup
+Iterable < Page >
+
 ```
-public final class PageCollection implements Iterable<Page>, ISupportsMemoryCleanup
+public final class PageCollection extends Object implements Iterable < Page >
 ```
 
 Collection of PDF document pages.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [size()](#size--) | Gets count of pages in the document. |
-| [isEmpty()](#isEmpty--) | Returns TRUE if the collection is empty. |
-| [isSynchronized()](#isSynchronized--) | Returns true of object is synchorinzed. |
-| [getSyncRoot()](#getSyncRoot--) | Gets synchronization object of the collection. |
-| [isReadOnly()](#isReadOnly--) | Gets value indicating of collection is readonly. |
-| [add(Page entity)](#add-com.aspose.pdf.Page-) | Adds page to collection. |
-| [clear()](#clear--) | Clear page collection. |
-| [delete(int index)](#delete-int-) | Delete specified page. |
-| [delete()](#delete--) | Deletes all pages from collection. |
-| [indexOf(Page entity)](#indexOf-com.aspose.pdf.Page-) | Returns index of the specified page. |
-| [getUnrestricted(int index)](#getUnrestricted-int-) | Returns page by its index. |
-| [copyTo(Page[] array, int index)](#copyTo-com.aspose.pdf.Page---int-) | Copyies pages into document. |
-| [iterator()](#iterator--) | Returns enumerator of pages. |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts  AnnotationSelector  visitor object that provides functionality to work with annotations. |
-| [delete(Integer[] pages)](#delete-java.lang.Integer---) | Delete pages specified which numbers are specified in array. |
-| [insert(int pageNumber)](#insert-int-) | Insert empty apge into collection at the specified position. |
-| [add()](#add--) | Adds empty page |
-| [add(List<Page> pages)](#add-java.util.List-com.aspose.pdf.Page--) | Adds to collection all pages from list. |
-| [add(Iterable<Page> pages)](#add-java.lang.Iterable-com.aspose.pdf.Page--) | Adds to collection all pages from list. |
-| [insert(int pageNumber, Page entity)](#insert-int-com.aspose.pdf.Page-) | Inserts page into page collection at specified place. |
-| [get_Item(int index)](#get-Item-int-) | Gets page by index. |
-| [accept(ImagePlacementAbsorber visitor)](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | Accepts  ImagePlacementAbsorber  visitor object that provides functionality to work with image placement objects. |
-| [accept(TextFragmentAbsorber visitor)](#accept-com.aspose.pdf.TextFragmentAbsorber-) | Accepts  TextFragmentAbsorber  visitor object that provides functionality to work with text objects. |
-| [accept(TextAbsorber visitor)](#accept-com.aspose.pdf.TextAbsorber-) | Accepts  TextAbsorber  visitor object that provides functionality to work with text objects. |
-| [add(Page[] pages)](#add-com.aspose.pdf.Page---) | Adds to collection all pages from array. |
-| [insert(int pageNumber, Iterable<Page> pages)](#insert-int-java.lang.Iterable-com.aspose.pdf.Page--) | Inserts pages from the collection into document. |
-| [insert(int pageNumber, List<Page> pages)](#insert-int-java.util.List-com.aspose.pdf.Page--) | Inserts pages from the collection into document. |
-| [insert(int pageNumber, Page[] pages)](#insert-int-com.aspose.pdf.Page---) | Inserts pages of the array into document. |
-| [flatten()](#flatten--) | Removes all fields located on the pages and place their values instead. |
-| [freeMemory()](#freeMemory--) | Clears cached data |
-| [add_Rename_Namesake(Page entity)](#add-Rename-Namesake-com.aspose.pdf.Page-) | Adds page to collection. |
-| [contains(Page item)](#contains-com.aspose.pdf.Page-) | Determines whether this instance contains the object. |
-| [remove(Page item)](#remove-com.aspose.pdf.Page-) | Removes the specified item, throws exception. |
-| [findByPdfObject(IPdfObject pdfObject)](#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-) |  |
-### size() {#size--}
-```
-public int size()
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts {@code AnnotationSelector} visitor object that provides functionality to work with annotations. |
+| [accept](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | Accepts {@code ImagePlacementAbsorber} visitor object that provides functionality to work with image placement objects. |
+| [accept](#accept-com.aspose.pdf.TextAbsorber-) | Accepts {@code TextAbsorber} visitor object that provides functionality to work with text objects. |
+| [accept](#accept-com.aspose.pdf.TextFragmentAbsorber-) | Accepts {@code TextFragmentAbsorber} visitor object that provides functionality to work with text objects. |
+| [add_Rename_Namesake](#add_Rename_Namesake-com.aspose.pdf.Page-) | Adds page to collection. |
+| [add](#add--) | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [add](#add-java.lang.Iterable-) | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [add](#add-java.util.List-) | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [add](#add-com.aspose.pdf.Page-) | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [add](#add-com.aspose.pdf.Page:A-) | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [beginUpdate](#beginUpdate--) | Updates when group changes begin. |
+| [clear](#clear--) | Clear page collection. |
+| [contains](#contains-com.aspose.pdf.Page-) | Determines whether this instance contains the object. |
+| [copyTo](#copyTo-com.aspose.pdf.Page:A-int-) | Copyies pages into document. |
+| [delete](#delete--) | Deletes all pages from collection. |
+| [delete](#delete-int-) | Delete specified page. |
+| [delete](#delete-java.lang.Integer:A-) | Deletes all pages from collection. |
+| [endUpdate](#endUpdate--) | Updates when group changes are complete. |
+| [findByPdfObject](#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-) |  |
+| [flatten](#flatten--) | Removes all fields located on the pages and place their values instead. |
+| [freeMemory](#freeMemory--) | Clears cached data |
+| [get_Item](#get_Item-int-) | Gets page by index. |
+| [getSyncRoot](#getSyncRoot--) | Gets synchronization object of the collection. |
+| [getUnrestricted](#getUnrestricted-int-) | Returns page by its index. {@code Page} |
+| [indexOf](#indexOf-com.aspose.pdf.Page-) | <p> Returns index of the specified page. </p> |
+| [insert](#insert-int-) | Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [insert](#insert-int-java.lang.Iterable-) | Inserts pages from the collection into document. |
+| [insert](#insert-int-java.util.List-) | Inserts pages from the collection into document. |
+| [insert](#insert-int-com.aspose.pdf.Page-) | Inserts page into page collection at specified place. |
+| [insert](#insert-int-com.aspose.pdf.Page:A-) | Inserts pages of the array into document. |
+| [isEmpty](#isEmpty--) | Returns TRUE if the collection is empty. |
+| [isReadOnly](#isReadOnly--) | Gets value indicating of collection is readonly. Always returns false. |
+| [isSynchronized](#isSynchronized--) | Returns true of object is synchorinzed. |
+| [iterator](#iterator--) | Returns enumerator of pages. |
+| [remove](#remove-com.aspose.pdf.Page-) | Removes the specified item, throws exception. |
+| [size](#size--) | Gets count of pages in the document. |
 
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Accepts {@code AnnotationSelector} visitor object that provides functionality to work with annotations.
 
-Gets count of pages in the document.
+### accept {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
+Accepts {@code ImagePlacementAbsorber} visitor object that provides functionality to work with image placement objects.
 
-**Returns:**
-int - int value
-### isEmpty() {#isEmpty--}
-```
-public boolean isEmpty()
-```
+### accept {#accept-com.aspose.pdf.TextAbsorber-}
+Accepts {@code TextAbsorber} visitor object that provides functionality to work with text objects.
 
+### accept {#accept-com.aspose.pdf.TextFragmentAbsorber-}
+Accepts {@code TextFragmentAbsorber} visitor object that provides functionality to work with text objects.
 
-Returns TRUE if the collection is empty.
-
-**Returns:**
-boolean - boolean value
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Returns true of object is synchorinzed.
-
-**Returns:**
-boolean - boolean value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets synchronization object of the collection.
-
-**Returns:**
-java.lang.Object - Object for synchronization
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets value indicating of collection is readonly. Always returns false.
-
-**Returns:**
-boolean - boolean value
-### add(Page entity) {#add-com.aspose.pdf.Page-}
-```
-public Page add(Page entity)
-```
-
-
+### add_Rename_Namesake {#add_Rename_Namesake-com.aspose.pdf.Page-}
 Adds page to collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | Page which should be added. |
+### add {#add--}
+```
+public Page add()
+```
+
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
 
 **Returns:**
-[Page](../../com.aspose.pdf/page) - Added page.
-### clear() {#clear--}
+Added page.
+
+### add {#add-java.lang.Iterable-}
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
+
+**Returns:**
+Added page.
+
+### add {#add-java.util.List-}
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
+
+**Returns:**
+Added page.
+
+### add {#add-com.aspose.pdf.Page-}
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
+
+**Returns:**
+Added page.
+
+### add {#add-com.aspose.pdf.Page:A-}
+Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
+
+**Returns:**
+Added page.
+
+### beginUpdate {#beginUpdate--}
+```
+public final void beginUpdate()
+```
+
+Updates when group changes begin.
+
+### clear {#clear--}
 ```
 public void clear()
 ```
 
-
 Clear page collection.
 
-### delete(int index) {#delete-int-}
+### contains {#contains-com.aspose.pdf.Page-}
+Determines whether this instance contains the object.
+
+### copyTo {#copyTo-com.aspose.pdf.Page:A-int-}
+Copyies pages into document.
+
+### delete {#delete--}
+```
+public void delete()
+```
+
+Deletes all pages from collection.
+
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
-
 
 Delete specified page.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Number of page that will be deleted. Pages numbers start from 1. |
+| index |  | Number of page that will be deleted. Pages numbers start from 1. |
 
-### delete() {#delete--}
-```
-public void delete()
-```
-
-
+### delete {#delete-java.lang.Integer:A-}
 Deletes all pages from collection.
 
-### indexOf(Page entity) {#indexOf-com.aspose.pdf.Page-}
+### endUpdate {#endUpdate--}
 ```
-public int indexOf(Page entity)
-```
-
-
-Returns index of the specified page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | Page object. Pages numbers start from 1.
-
---------------------
-
-Pages numbers start from 1. Returns 0 in case collection doesn't contain the page. |
-
-**Returns:**
-int - Index of the page in collection.
-### getUnrestricted(int index) {#getUnrestricted-int-}
-```
-public Page getUnrestricted(int index)
+public final void endUpdate()
 ```
 
+Updates when group changes are complete.
 
-Returns page by its index.  Page 
+### findByPdfObject {#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-}
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of requested page. Pages are numbered from 1. |
 
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Requested page
-### copyTo(Page[] array, int index) {#copyTo-com.aspose.pdf.Page---int-}
+### flatten {#flatten--}
 ```
-public void copyTo(Page[] array, int index)
+public void flatten()
 ```
 
+Removes all fields located on the pages and place their values instead.
 
-Copyies pages into document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [Page\[\]](../../com.aspose.pdf/page) | Array containing Pages object to insert into document. It must be Object[] or Page[]. |
-| index | int | Starting index where pages will be inserted |
-
-### iterator() {#iterator--}
+### freeMemory {#freeMemory--}
 ```
-public Iterator<Page> iterator()
+public void freeMemory()
 ```
 
+Clears cached data
 
-Returns enumerator of pages.
-
-**Returns:**
-java.util.Iterator<com.aspose.pdf.Page> - Enumerator of pages
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
-
-
-Accepts  AnnotationSelector  visitor object that provides functionality to work with annotations.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | AnnotationSelector Visitor |
-
-### delete(Integer[] pages) {#delete-java.lang.Integer---}
-```
-public void delete(Integer[] pages)
-```
-
-
-Delete pages specified which numbers are specified in array.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | java.lang.Integer[] | Array of pages to be deleted. |
-
-### insert(int pageNumber) {#insert-int-}
-```
-public Page insert(int pageNumber)
-```
-
-
-Insert empty apge into collection at the specified position.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | Position of the new page. |
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Inserted page.
-### add() {#add--}
-```
-public Page add()
-```
-
-
-Adds empty page
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Added page.
-### add(List<Page> pages) {#add-java.util.List-com.aspose.pdf.Page--}
-```
-public void add(List<Page> pages)
-```
-
-
-Adds to collection all pages from list.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | java.util.List<com.aspose.pdf.Page> | List which contains all pages which must be added. |
-
-### add(Iterable<Page> pages) {#add-java.lang.Iterable-com.aspose.pdf.Page--}
-```
-public void add(Iterable<Page> pages)
-```
-
-
-Adds to collection all pages from list.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | java.lang.Iterable<com.aspose.pdf.Page> | List which contains all pages which must be added. |
-
-### insert(int pageNumber, Page entity) {#insert-int-com.aspose.pdf.Page-}
-```
-public Page insert(int pageNumber, Page entity)
-```
-
-
-Inserts page into page collection at specified place.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | Required page index in collection. |
-| entity | [Page](../../com.aspose.pdf/page) | Page to be inserted. |
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Inserted page.
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public Page get_Item(int index)
 ```
-
 
 Gets page by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of page. |
+| index |  | Index of page. |
 
 **Returns:**
-[Page](../../com.aspose.pdf/page) - Retrieved page.
-### accept(ImagePlacementAbsorber visitor) {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
+Retrieved page.
+
+### getSyncRoot {#getSyncRoot--}
 ```
-public void accept(ImagePlacementAbsorber visitor)
+public Object getSyncRoot()
 ```
 
+Gets synchronization object of the collection.
 
-Accepts  ImagePlacementAbsorber  visitor object that provides functionality to work with image placement objects.
+**Returns:**
+Object for synchronization
+
+### getUnrestricted {#getUnrestricted-int-}
+```
+public Page getUnrestricted(int index)
+```
+
+Returns page by its index. {@code Page}
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [ImagePlacementAbsorber](../../com.aspose.pdf/imageplacementabsorber) | Image placement object. |
+| index |  | Index of requested page. Pages are numbered from 1. |
 
-### accept(TextFragmentAbsorber visitor) {#accept-com.aspose.pdf.TextFragmentAbsorber-}
+**Returns:**
+Requested page
+
+### indexOf {#indexOf-com.aspose.pdf.Page-}
+<p> Returns index of the specified page. </p>
+
+### insert {#insert-int-}
 ```
-public void accept(TextFragmentAbsorber visitor)
+public Page insert(int pageNumber)
 ```
 
-
-Accepts  TextFragmentAbsorber  visitor object that provides functionality to work with text objects.
+Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | [TextFragmentAbsorber](../../com.aspose.pdf/textfragmentabsorber) | Text fragment absorber object. |
+| pageNumber |  | Position of the new page. |
 
-### accept(TextAbsorber visitor) {#accept-com.aspose.pdf.TextAbsorber-}
-```
-public void accept(TextAbsorber visitor)
-```
+**Returns:**
+Inserted page.
 
-
-Accepts  TextAbsorber  visitor object that provides functionality to work with text objects.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [TextAbsorber](../../com.aspose.pdf/textabsorber) | Text absorber object. |
-
-### add(Page[] pages) {#add-com.aspose.pdf.Page---}
-```
-public void add(Page[] pages)
-```
-
-
-Adds to collection all pages from array.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | [Page\[\]](../../com.aspose.pdf/page) | Array of pages which will be added. |
-
-### insert(int pageNumber, Iterable<Page> pages) {#insert-int-java.lang.Iterable-com.aspose.pdf.Page--}
-```
-public void insert(int pageNumber, Iterable<Page> pages)
-```
-
-
+### insert {#insert-int-java.lang.Iterable-}
 Inserts pages from the collection into document.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | Starting position of the new pages. |
-| pages | java.lang.Iterable<com.aspose.pdf.Page> | Pages collection. |
-
-### insert(int pageNumber, List<Page> pages) {#insert-int-java.util.List-com.aspose.pdf.Page--}
-```
-public void insert(int pageNumber, List<Page> pages)
-```
-
-
+### insert {#insert-int-java.util.List-}
 Inserts pages from the collection into document.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | Starting position of the new pages. |
-| pages | java.util.List<com.aspose.pdf.Page> | Pages collection. |
+### insert {#insert-int-com.aspose.pdf.Page-}
+Inserts page into page collection at specified place.
 
-### insert(int pageNumber, Page[] pages) {#insert-int-com.aspose.pdf.Page---}
-```
-public void insert(int pageNumber, Page[] pages)
-```
-
-
+### insert {#insert-int-com.aspose.pdf.Page:A-}
 Inserts pages of the array into document.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | Starting number of the new pages. |
-| pages | [Page\[\]](../../com.aspose.pdf/page) | Array of pages which will be inserted. |
-
-### flatten() {#flatten--}
+### isEmpty {#isEmpty--}
 ```
-public void flatten()
+public boolean isEmpty()
 ```
 
-
-Removes all fields located on the pages and place their values instead.
-
-### freeMemory() {#freeMemory--}
-```
-public void freeMemory()
-```
-
-
-Clears cached data
-
-### add_Rename_Namesake(Page entity) {#add-Rename-Namesake-com.aspose.pdf.Page-}
-```
-public void add_Rename_Namesake(Page entity)
-```
-
-
-Adds page to collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | Page which should be added. |
-
-### contains(Page item) {#contains-com.aspose.pdf.Page-}
-```
-public boolean contains(Page item)
-```
-
-
-Determines whether this instance contains the object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Page](../../com.aspose.pdf/page) | Page instance |
+Returns TRUE if the collection is empty.
 
 **Returns:**
-boolean - boolean value  true  if [contains] [the specified item]; otherwise,  false .
-### remove(Page item) {#remove-com.aspose.pdf.Page-}
+boolean value
+
+### isReadOnly {#isReadOnly--}
 ```
-public boolean remove(Page item)
+public boolean isReadOnly()
 ```
 
+Gets value indicating of collection is readonly. Always returns false.
 
+**Returns:**
+boolean value
+
+### isSynchronized {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+Returns true of object is synchorinzed.
+
+**Returns:**
+boolean value
+
+### iterator {#iterator--}
+```
+public Iterator < Page > iterator()
+```
+
+Returns enumerator of pages.
+
+**Returns:**
+Enumerator of pages
+
+### remove {#remove-com.aspose.pdf.Page-}
 Removes the specified item, throws exception.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Page](../../com.aspose.pdf/page) | Page instance |
-
-**Returns:**
-boolean - boolean value
-### findByPdfObject(IPdfObject pdfObject) {#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-}
+### size {#size--}
 ```
-public final Page findByPdfObject(IPdfObject pdfObject)
+public int size()
 ```
 
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdfObject | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) |  |
+Gets count of pages in the document.
 
 **Returns:**
-[Page](../../com.aspose.pdf/page)
+int value

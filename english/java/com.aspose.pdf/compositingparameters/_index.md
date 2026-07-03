@@ -3,99 +3,69 @@ title: CompositingParameters
 second_title: Aspose.PDF for Java API Reference
 description: Represents an object containing graphics compositing parameters of current graphics state.
 type: docs
-weight: 70
+weight: 780
 url: /java/com.aspose.pdf/compositingparameters/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.CompositingParameters
+
 ```
-public final class CompositingParameters
+public final class CompositingParameters extends Object
 ```
 
 Represents an object containing graphics compositing parameters of current graphics state.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CompositingParameters(int blendMode)](#CompositingParameters-int-) | Initializes new instance of the  CompositingParameters  object. |
-| [CompositingParameters(int blendMode, int filterType)](#CompositingParameters-int-int-) | Initializes new instance of the  CompositingParameters  object. |
-| [CompositingParameters(int blendMode, int filterType, boolean isMasked)](#CompositingParameters-int-int-boolean-) | Initializes new instance of the  CompositingParameters  object. |
+| [CompositingParameters](#CompositingParameters-com.aspose.pdf.BlendMode-) | Initializes new instance of the {@code CompositingParameters} object. |
+| [CompositingParameters](#CompositingParameters-com.aspose.pdf.BlendMode-com.aspose.pdf.ImageFilterType-) | Initializes new instance of the {@code CompositingParameters} object. |
+| [CompositingParameters](#CompositingParameters-com.aspose.pdf.BlendMode-com.aspose.pdf.ImageFilterType-boolean-) | Initializes new instance of the {@code CompositingParameters} object. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBlendMode()](#getBlendMode--) | Gets blend mode of current graphics state. |
-| [getFilterType()](#getFilterType--) | Gets the image filter type. |
-| [isMasked()](#isMasked--) | Gets the mask flag. |
-### CompositingParameters(int blendMode) {#CompositingParameters-int-}
+| [getBlendMode](#getBlendMode--) | Gets blend mode of current graphics state. |
+| [getFilterType](#getFilterType--) | Gets the image filter type. |
+| [isMasked](#isMasked--) | Gets the mask flag. |
+
+### CompositingParameters {#CompositingParameters-com.aspose.pdf.BlendMode-}
+Initializes new instance of the {@code CompositingParameters} object.
+
+### CompositingParameters {#CompositingParameters-com.aspose.pdf.BlendMode-com.aspose.pdf.ImageFilterType-}
+Initializes new instance of the {@code CompositingParameters} object.
+
+### CompositingParameters {#CompositingParameters-com.aspose.pdf.BlendMode-com.aspose.pdf.ImageFilterType-boolean-}
+Initializes new instance of the {@code CompositingParameters} object.
+
+### getBlendMode {#getBlendMode--}
 ```
-public CompositingParameters(int blendMode)
+public BlendMode getBlendMode()
 ```
-
-
-Initializes new instance of the  CompositingParameters  object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| blendMode | int | Blend mode of current graphics state. |
-
-### CompositingParameters(int blendMode, int filterType) {#CompositingParameters-int-int-}
-```
-public CompositingParameters(int blendMode, int filterType)
-```
-
-
-Initializes new instance of the  CompositingParameters  object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| blendMode | int | Blend mode of current graphics state. |
-| filterType | int | The image filter type. |
-
-### CompositingParameters(int blendMode, int filterType, boolean isMasked) {#CompositingParameters-int-int-boolean-}
-```
-public CompositingParameters(int blendMode, int filterType, boolean isMasked)
-```
-
-
-Initializes new instance of the  CompositingParameters  object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| blendMode | int | Blend mode of current graphics state. |
-| filterType | int | The image filter type. |
-| isMasked | boolean | The adding mask flag. |
-
-### getBlendMode() {#getBlendMode--}
-```
-public int getBlendMode()
-```
-
 
 Gets blend mode of current graphics state.
 
 **Returns:**
-int - BlendMode element
-### getFilterType() {#getFilterType--}
-```
-public int getFilterType()
-```
+BlendMode element @see BlendMode
 
+### getFilterType {#getFilterType--}
+```
+public ImageFilterType getFilterType()
+```
 
 Gets the image filter type.
 
 **Returns:**
-int - ImageFilterType element
-### isMasked() {#isMasked--}
+ImageFilterType element @see ImageFilterType
+
+### isMasked {#isMasked--}
 ```
 public boolean isMasked()
 ```
 
-
 Gets the mask flag.
 
 **Returns:**
-boolean - boolean value
+boolean value

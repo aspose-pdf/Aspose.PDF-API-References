@@ -3,60 +3,40 @@ title: FileIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents FileIconConverter class
 type: docs
-weight: 115
+weight: 1480
 url: /java/com.aspose.pdf/fileiconconverter/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.FileIconConverter
+
 ```
-public class FileIconConverter
+public class FileIconConverter extends Object
 ```
 
 Represents FileIconConverter class
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [FileIconConverter()](#FileIconConverter--) |  |
+| [FileIconConverter](#FileIconConverter--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int value)](#toString-int-) | Get String name for FileIcon element |
-| [toEnum(String value)](#toEnum-java.lang.String-) | Get FileIcon element for String name |
-### FileIconConverter() {#FileIconConverter--}
+| [toEnum](#toEnum-java.lang.String-) | Get FileIcon element for String name |
+| [toString](#toString-com.aspose.pdf.FileIcon-) | Get String name for FileIcon element |
+
+### FileIconConverter {#FileIconConverter--}
 ```
 public FileIconConverter()
 ```
 
 
-### toString(int value) {#toString-int-}
-```
-public static String toString(int value)
-```
 
-
-Get String name for FileIcon element
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | FileIcon element |
-
-**Returns:**
-java.lang.String - String object
-### toEnum(String value) {#toEnum-java.lang.String-}
-```
-public static int toEnum(String value)
-```
-
-
+### toEnum {#toEnum-java.lang.String-}
 Get FileIcon element for String name
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-**Returns:**
-int - FileIcon element
+### toString {#toString-com.aspose.pdf.FileIcon-}
+Get String name for FileIcon element

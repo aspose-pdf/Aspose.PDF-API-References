@@ -1,28 +1,26 @@
 ---
 title: com.aspose.pdf.text
 second_title: Aspose.PDF for Java API Reference
-description: The com.aspose.pdf.text package provides classes that allow to extract text add text manipulate existing text of a document.
+description: The com.aspose.pdf.text package provides classes that allow to extract text, add text, manipulate existing text of a document.
 type: docs
-weight: 28
+weight: 380
 url: /java/com.aspose.pdf.text/
 ---
-
-The **com.aspose.pdf.text** package provides classes that allow to extract text, add text, manipulate existing text of a document. It also contains classes that allow to extract, replace, substitute fonts of a document.
-
+The com.aspose.pdf.text package provides classes that allow to extract text, add text, manipulate existing text of a document.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [CustomFontSubstitutionBase](../com.aspose.pdf.text/customfontsubstitutionbase) | Represents a base class for custom font substitution strategy. |
-| [CustomFontSubstitutionBase.OriginalFontSpecification](../com.aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Represents original font specification. |
-| [ExtractedTextPostProcessor](../com.aspose.pdf.text/extractedtextpostprocessor) | Performs post processing of extrated text |
-| [FontSourceCollection](../com.aspose.pdf.text/fontsourcecollection) | Represents font sources collection. |
-| [FontSubstitution](../com.aspose.pdf.text/fontsubstitution) | For internal usage only |
-| [FontSubstitutionCollection](../com.aspose.pdf.text/fontsubstitutioncollection) | Represents font substitution strategies collection. |
-| [FontTypes](../com.aspose.pdf.text/fonttypes) | Supported font types enumeration. |
-| [InternalHelper](../com.aspose.pdf.text/internalhelper) | Internal class |
-| [SimpleFontSubstitution](../com.aspose.pdf.text/simplefontsubstitution) | Represents a class for simple font substitution strategy. |
-| [SubstitutionFontCategories](../com.aspose.pdf.text/substitutionfontcategories) | Represents font categories that can be substituted. |
-| [SystemFontsSubstitution](../com.aspose.pdf.text/systemfontssubstitution) | Represents a class for font substitution strategy that substitutes fonts with system fonts. |
-| [TextProcessingContext](../com.aspose.pdf.text/textprocessingcontext) | Represents text processing context |
+| [CustomFontSubstitutionBase](./customfontsubstitutionbase/) | Represents a base class for custom font substitution strategy. |
+| [CustomFontSubstitutionBase.OriginalFontSpecification](./customfontsubstitutionbase.originalfontspecification/) | <p> Represents original font specification. </p> <hr> <p> Provides info related to original font such as , flag. Also provides flag that helps to check is the substitution will anyway happen with the font and the user may override the default substitution logic. </p> |
+| [ExtractedTextPostProcessor](./extractedtextpostprocessor/) | Performs post processing of extrated text |
+| [FontSourceCollection](./fontsourcecollection/) | Represents font sources collection. |
+| [FontSubstitution](./fontsubstitution/) | For internal usage only Represents a base class for font substitution strategies. |
+| [FontSubstitutionCollection](./fontsubstitutioncollection/) | Represents font substitution strategies collection. |
+| [FontTypes](./fonttypes/) | Supported font types enumeration. |
+| [InternalHelper](./internalhelper/) | Internal class |
+| [SimpleFontSubstitution](./simplefontsubstitution/) | Represents a class for simple font substitution strategy. |
+| [SubstitutionFontCategories](./substitutionfontcategories/) | Represents font categories that can be substituted. |
+| [SystemFontsSubstitution](./systemfontssubstitution/) | Represents a class for font substitution strategy that substitutes fonts with system fonts. |
+| [TextProcessingContext](./textprocessingcontext/) | Represents text processing context |

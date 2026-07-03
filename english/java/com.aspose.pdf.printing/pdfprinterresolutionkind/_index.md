@@ -3,21 +3,18 @@ title: PdfPrinterResolutionKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies a printer resolution.
 type: docs
-weight: 14
+weight: 40
 url: /java/com.aspose.pdf.printing/pdfprinterresolutionkind/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.printing.PdfPrinterResolutionKind
+
 ```
-public class PdfPrinterResolutionKind
+public class PdfPrinterResolutionKind extends Object
 ```
 
 Specifies a printer resolution.
-## Constructors
 
-| Constructor | Description |
-| --- | --- |
-| [PdfPrinterResolutionKind()](#PdfPrinterResolutionKind--) |  |
 ## Fields
 
 | Field | Description |
@@ -27,23 +24,24 @@ Specifies a printer resolution.
 | [High](#High) | High resolution. |
 | [Low](#Low) | Low resolution. |
 | [Medium](#Medium) | Medium resolution. |
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [PdfPrinterResolutionKind](#PdfPrinterResolutionKind--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int printerResolutionKind)](#toString-int-) | Get String name for PrinterResolutionKind element |
-| [getNames()](#getNames--) | Get String names for PrinterResolutionKind |
-### PdfPrinterResolutionKind() {#PdfPrinterResolutionKind--}
-```
-public PdfPrinterResolutionKind()
-```
-
+| [getNames](#getNames--) | Get String names for PrinterResolutionKind |
+| [toString](#toString-int-) | Get String name for PrinterResolutionKind element |
 
 ### Custom {#Custom}
 ```
 public static final int Custom
 ```
-
 
 Custom resolution.
 
@@ -52,14 +50,12 @@ Custom resolution.
 public static final int Draft
 ```
 
-
 Draft-quality resolution.
 
 ### High {#High}
 ```
 public static final int High
 ```
-
 
 High resolution.
 
@@ -68,7 +64,6 @@ High resolution.
 public static final int Low
 ```
 
-
 Low resolution.
 
 ### Medium {#Medium}
@@ -76,31 +71,36 @@ Low resolution.
 public static final int Medium
 ```
 
-
 Medium resolution.
 
-### toString(int printerResolutionKind) {#toString-int-}
+### PdfPrinterResolutionKind {#PdfPrinterResolutionKind--}
+```
+public PdfPrinterResolutionKind()
+```
+
+
+
+### getNames {#getNames--}
+```
+public static String [] getNames()
+```
+
+Get String names for PrinterResolutionKind
+
+**Returns:**
+String[] object
+
+### toString {#toString-int-}
 ```
 public static String toString(int printerResolutionKind)
 ```
-
 
 Get String name for PrinterResolutionKind element
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| printerResolutionKind | int | PrinterResolutionKind element |
+| printerResolutionKind |  | PrinterResolutionKind element |
 
 **Returns:**
-java.lang.String - String object
-### getNames() {#getNames--}
-```
-public static String[] getNames()
-```
-
-
-Get String names for PrinterResolutionKind
-
-**Returns:**
-java.lang.String[] - String[] object
+String object @see PrinterResolutionKind

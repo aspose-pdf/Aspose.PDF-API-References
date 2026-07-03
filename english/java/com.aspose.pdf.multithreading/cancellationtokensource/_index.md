@@ -7,65 +7,54 @@ weight: 10
 url: /java/com.aspose.pdf.multithreading/cancellationtokensource/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.multithreading.CancellationTokenSource
+
 ```
-public class CancellationTokenSource
+public class CancellationTokenSource extends Object
 ```
+
+
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CancellationTokenSource()](#CancellationTokenSource--) |  |
+| [CancellationTokenSource](#CancellationTokenSource--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isCancellationRequested()](#isCancellationRequested--) |  |
-| [cancel()](#cancel--) |  |
-| [throwIfCancellationRequested()](#throwIfCancellationRequested--) |  |
-| [doInterrupt(Thread thread)](#doInterrupt-java.lang.Thread-) |  |
-### CancellationTokenSource() {#CancellationTokenSource--}
+| [cancel](#cancel--) |  |
+| [doInterrupt](#doInterrupt-java.lang.Thread-) |  |
+| [isCancellationRequested](#isCancellationRequested--) |  |
+| [throwIfCancellationRequested](#throwIfCancellationRequested--) |  |
+
+### CancellationTokenSource {#CancellationTokenSource--}
 ```
 public CancellationTokenSource()
 ```
 
 
-### isCancellationRequested() {#isCancellationRequested--}
-```
-public boolean isCancellationRequested()
-```
 
-
-
-
-**Returns:**
-boolean
-### cancel() {#cancel--}
+### cancel {#cancel--}
 ```
 public void cancel()
 ```
 
 
 
+### doInterrupt {#doInterrupt-java.lang.Thread-}
 
-### throwIfCancellationRequested() {#throwIfCancellationRequested--}
+
+### isCancellationRequested {#isCancellationRequested--}
+```
+public boolean isCancellationRequested()
+```
+
+
+
+### throwIfCancellationRequested {#throwIfCancellationRequested--}
 ```
 public void throwIfCancellationRequested()
 ```
-
-
-
-
-### doInterrupt(Thread thread) {#doInterrupt-java.lang.Thread-}
-```
-public void doInterrupt(Thread thread)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| thread | java.lang.Thread |  |
-

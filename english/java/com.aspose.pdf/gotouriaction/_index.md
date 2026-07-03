@@ -3,69 +3,54 @@ title: GoToURIAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a URI action causes a URI to be resolved.
 type: docs
-weight: 146
+weight: 1830
 url: /java/com.aspose.pdf/gotouriaction/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.PdfAction](../../com.aspose.pdf/pdfaction)
+java.lang.Object, com.aspose.pdf.PdfAction com.aspose.pdf.GoToURIAction, com.aspose.pdf.PdfAction, com.aspose.pdf.GoToURIAction
+
+**All Implemented Interfaces:**
+IAppointment
+
 ```
 public final class GoToURIAction extends PdfAction
 ```
 
 Represents a URI action causes a URI to be resolved.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [GoToURIAction()](#GoToURIAction--) | Constructor. |
-| [GoToURIAction(String uri)](#GoToURIAction-java.lang.String-) | Constructor. |
+| [GoToURIAction](#GoToURIAction--) | Constructor. |
+| [GoToURIAction](#GoToURIAction-java.lang.String-) | Constructor. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getURI()](#getURI--) | Gets the uniform resource identifier to resolve. |
-| [setURI(String value)](#setURI-java.lang.String-) | Sets the uniform resource identifier to resolve. |
-### GoToURIAction() {#GoToURIAction--}
+| [getURI](#getURI--) | Gets the uniform resource identifier to resolve. |
+| [setURI](#setURI-java.lang.String-) | Sets the uniform resource identifier to resolve. |
+
+### GoToURIAction {#GoToURIAction--}
 ```
 public GoToURIAction()
 ```
 
-
 Constructor.
 
-### GoToURIAction(String uri) {#GoToURIAction-java.lang.String-}
-```
-public GoToURIAction(String uri)
-```
-
-
+### GoToURIAction {#GoToURIAction-java.lang.String-}
 Constructor.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| uri | java.lang.String | String object |
-
-### getURI() {#getURI--}
+### getURI {#getURI--}
 ```
 public String getURI()
 ```
 
-
 Gets the uniform resource identifier to resolve.
 
 **Returns:**
-java.lang.String - String value
-### setURI(String value) {#setURI-java.lang.String-}
-```
-public void setURI(String value)
-```
+String value
 
-
+### setURI {#setURI-java.lang.String-}
 Sets the uniform resource identifier to resolve.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-

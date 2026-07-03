@@ -3,71 +3,111 @@ title: NumberingStyle
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of supported page numbering style for PageLabel class.
 type: docs
-weight: 229
+weight: 3140
 url: /java/com.aspose.pdf/numberingstyle/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum < NumberingStyle > com.aspose.pdf.NumberingStyle, java.lang.Enum < NumberingStyle >, com.aspose.pdf.NumberingStyle
+
+**All Implemented Interfaces:**
+Serializable, Comparable < NumberingStyle >
+
 ```
-public final class NumberingStyle extends System.Enum
+public enum NumberingStyle extends Enum < NumberingStyle >
 ```
 
 Enumeration of supported page numbering style for PageLabel class.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [NumeralsArabic](#NumeralsArabic) | Arabic decimal numbers. |
-| [NumeralsRomanUppercase](#NumeralsRomanUppercase) | Uppercase roman numbers (I, II, III...). |
-| [NumeralsRomanLowercase](#NumeralsRomanLowercase) | Lowercase roman numbers (i, ii, iii...). |
-| [LettersUppercase](#LettersUppercase) | Uppercase latin letters (A, B, C...). |
 | [LettersLowercase](#LettersLowercase) | Lowercase latin letters (a, b, c...). |
+| [LettersUppercase](#LettersUppercase) | Uppercase latin letters (A, B, C...). |
 | [None](#None) | No numbering. |
-### NumeralsArabic {#NumeralsArabic}
-```
-public static final int NumeralsArabic
-```
+| [NumeralsArabic](#NumeralsArabic) | Arabic decimal numbers. |
+| [NumeralsRomanLowercase](#NumeralsRomanLowercase) | Lowercase roman numbers (i, ii, iii...). |
+| [NumeralsRomanUppercase](#NumeralsRomanUppercase) | Uppercase roman numbers (I, II, III...). |
 
+## Methods
 
-Arabic decimal numbers.
-
-### NumeralsRomanUppercase {#NumeralsRomanUppercase}
-```
-public static final int NumeralsRomanUppercase
-```
-
-
-Uppercase roman numbers (I, II, III...).
-
-### NumeralsRomanLowercase {#NumeralsRomanLowercase}
-```
-public static final int NumeralsRomanLowercase
-```
-
-
-Lowercase roman numbers (i, ii, iii...).
-
-### LettersUppercase {#LettersUppercase}
-```
-public static final int LettersUppercase
-```
-
-
-Uppercase latin letters (A, B, C...).
+| Method | Description |
+| --- | --- |
+| [getByValue](#getByValue-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
 
 ### LettersLowercase {#LettersLowercase}
 ```
-public static final int LettersLowercase
+public static final NumberingStyle LettersLowercase
 ```
-
 
 Lowercase latin letters (a, b, c...).
 
-### None {#None}
+### LettersUppercase {#LettersUppercase}
 ```
-public static final int None
+public static final NumberingStyle LettersUppercase
 ```
 
+Uppercase latin letters (A, B, C...).
+
+### None {#None}
+```
+public static final NumberingStyle None
+```
 
 No numbering.
 
+### NumeralsArabic {#NumeralsArabic}
+```
+public static final NumberingStyle NumeralsArabic
+```
+
+Arabic decimal numbers.
+
+### NumeralsRomanLowercase {#NumeralsRomanLowercase}
+```
+public static final NumberingStyle NumeralsRomanLowercase
+```
+
+Lowercase roman numbers (i, ii, iii...).
+
+### NumeralsRomanUppercase {#NumeralsRomanUppercase}
+```
+public static final NumberingStyle NumeralsRomanUppercase
+```
+
+Uppercase roman numbers (I, II, III...).
+
+### getByValue {#getByValue-int-}
+```
+public static NumberingStyle getByValue(int value)
+```
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  |  |
+
+### getValue {#getValue--}
+```
+public int getValue()
+```
+
+
+
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static NumberingStyle [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
+
+**Returns:**
+an array containing the constants of this enum type, in the order they are declared

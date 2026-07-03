@@ -1,127 +1,75 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF for Java API Reference
-description: Class representing cs operator set colorspace for non-stroking operations
+description: Class representing cs operator (set colorspace for non-stroking operations)
 type: docs
-weight: 66
+weight: 580
 url: /java/com.aspose.pdf.operators/setcolorspace/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.SetColorSpace, com.aspose.pdf.Operator, com.aspose.pdf.operators.SetColorSpace
+
 ```
 public class SetColorSpace extends Operator
 ```
 
 Class representing cs operator (set colorspace for non-stroking operations)
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SetColorSpace(String name)](#SetColorSpace-java.lang.String-) | Initializes operator. |
-| [SetColorSpace(int index, ICommand command)](#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [SetColorSpace](#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetColorSpaceNonstroking-) | Constructor for operator class. |
+| [SetColorSpace](#SetColorSpace-java.lang.String-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getName()](#getName--) | Gets color space name. |
-| [setName(String value)](#setName-java.lang.String-) | Sets color space name. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [getCommandName()](#getCommandName--) | Gets command name. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
-| [toCommand()](#toCommand--) |  |
-### SetColorSpace(String name) {#SetColorSpace-java.lang.String-}
-```
-public SetColorSpace(String name)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getCommandName](#getCommandName--) | Gets command name. |
+| [getName](#getName--) | Gets color space name. |
+| [setName](#setName-java.lang.String-) | Sets color space name. |
+| [toCommand](#toCommand--) | For internal usage only! |
 
-
-Initializes operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Color space name. |
-
-### SetColorSpace(int index, ICommand command) {#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetColorSpace(int index, ICommand command)
-```
-
-
+### SetColorSpace {#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetColorSpaceNonstroking-}
 Constructor for operator class.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+### SetColorSpace {#SetColorSpace-java.lang.String-}
+Initializes operator.
 
-### getName() {#getName--}
-```
-public String getName()
-```
-
-
-Gets color space name.
-
-**Returns:**
-java.lang.String - String value
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
-
-
-Sets color space name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### getCommandName() {#getCommandName--}
+### getCommandName {#getCommandName--}
 ```
 public String getCommandName()
 ```
 
-
 Gets command name.
 
 **Returns:**
-java.lang.String - String value
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+String value
+
+### getName {#getName--}
 ```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
-### toCommand() {#toCommand--}
-```
-public ICommand toCommand()
+public String getName()
 ```
 
-
-
+Gets color space name.
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
+String value
+
+### setName {#setName-java.lang.String-}
+Sets color space name.
+
+### toCommand {#toCommand--}
+```
+public com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand toCommand()
+```
+
+For internal usage only!
+
+**Returns:**
+ICommand value ICommand object

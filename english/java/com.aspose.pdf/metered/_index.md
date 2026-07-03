@@ -1,80 +1,60 @@
 ---
 title: Metered
 second_title: Aspose.PDF for Java API Reference
-description: Provides methods to set metered key.
+description: <p> Provides methods to set metered key. </p> <hr> In this example, an attempt will be made to set metered public and private key <pre> The component jar file: Metered matered =.
 type: docs
-weight: 220
+weight: 3060
 url: /java/com.aspose.pdf/metered/
 ---
 **Inheritance:**
-java.lang.Object
-```
-public class Metered
-```
-
-Provides methods to set metered key.
-
---------------------
-
-In this example, an attempt will be made to set metered public and private key
+java.lang.Object, com.aspose.pdf.Metered
 
 ```
-The component jar file:
-
- 	Metered matered = new Metered();
- 	matered.setMeteredKey("PublicKey", "PrivateKey");
+public class Metered extends Object
 ```
+
+<p> Provides methods to set metered key. </p> <hr> In this example, an attempt will be made to set metered public and private key <pre> The component jar file: Metered matered = new Metered(); matered.setMeteredKey("PublicKey", "PrivateKey"); </pre>
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Metered()](#Metered--) | Initializes a new instance of this class. |
+| [Metered](#Metered--) | Initializes a new instance of this class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key |
-| [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size |
-| [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit |
-### Metered() {#Metered--}
+| [getConsumptionCredit](#getConsumptionCredit--) | Gets consumption credit |
+| [getConsumptionQuantity](#getConsumptionQuantity--) | Gets consumption file size |
+| [setMeteredKey](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key |
+
+### Metered {#Metered--}
 ```
 public Metered()
 ```
 
-
 Initializes a new instance of this class.
 
-### setMeteredKey(String publicKey, String privateKey) {#setMeteredKey-java.lang.String-java.lang.String-}
+### getConsumptionCredit {#getConsumptionCredit--}
 ```
-public void setMeteredKey(String publicKey, String privateKey)
+public static com.aspose.ms.System.Decimal getConsumptionCredit() throws Exception
 ```
-
-
-Sets metered public and private key
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| publicKey | java.lang.String | public key |
-| privateKey | java.lang.String | private key |
-
-### getConsumptionQuantity() {#getConsumptionQuantity--}
-```
-public static double getConsumptionQuantity()
-```
-
-
-Gets consumption file size
-
-**Returns:**
-double - consumption quantity
-### getConsumptionCredit() {#getConsumptionCredit--}
-```
-public static double getConsumptionCredit()
-```
-
 
 Gets consumption credit
 
 **Returns:**
-double - consumption quantity
+consumption quantity @throws Exception if Metered API problem.
+
+### getConsumptionQuantity {#getConsumptionQuantity--}
+```
+public static com.aspose.ms.System.Decimal getConsumptionQuantity() throws Exception
+```
+
+Gets consumption file size
+
+**Returns:**
+consumption quantity @throws Exception if Metered API problem.
+
+### setMeteredKey {#setMeteredKey-java.lang.String-java.lang.String-}
+Sets metered public and private key

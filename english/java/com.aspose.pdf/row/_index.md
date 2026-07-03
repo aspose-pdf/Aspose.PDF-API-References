@@ -3,321 +3,247 @@ title: Row
 second_title: Aspose.PDF for Java API Reference
 description: Represents a row of the table.
 type: docs
-weight: 320
+weight: 4330
 url: /java/com.aspose.pdf/row/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Row
 
 **All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public final class Row implements System.ICloneable
+public final class Row extends Object implements com.aspose.ms.System.ICloneable
 ```
 
 Represents a row of the table.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Row()](#Row--) | Initializes a new instance of the Row class. |
+| [Row](#Row--) | Initializes a new instance of the Row class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [deepClone()](#deepClone--) | Clone the row. |
-| [getBackgroundColor()](#getBackgroundColor--) | Gets the background color. |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets the background color. |
-| [getBorder()](#getBorder--) | Gets the border. |
-| [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | Sets the border. |
-| [getCells()](#getCells--) | Gets the getCells() of the row. |
-| [setCells(Cells value)](#setCells-com.aspose.pdf.Cells-) | Sets the getCells() of the row. |
-| [getDefaultCellBorder()](#getDefaultCellBorder--) | Gets default cell border; |
-| [setDefaultCellBorder(BorderInfo value)](#setDefaultCellBorder-com.aspose.pdf.BorderInfo-) | Sets default cell border; |
-| [getMinRowHeight()](#getMinRowHeight--) | Gets height for row; |
-| [setMinRowHeight(double value)](#setMinRowHeight-double-) | Sets height for row; |
-| [getFixedRowHeight()](#getFixedRowHeight--) | Gets fixed row height - row may have fixed height; |
-| [setFixedRowHeight(double value)](#setFixedRowHeight-double-) | Sets fixed row height - row may have fixed height; |
-| [isInNewPage()](#isInNewPage--) | Gets fixed row is in new page - page with this property should be printed to next page Default false; |
-| [setInNewPage(boolean value)](#setInNewPage-boolean-) | Sets is row can be broken between two pages |
-| [isRowBroken()](#isRowBroken--) | Gets is row can be broken between two pages |
-| [setRowBroken(boolean value)](#setRowBroken-boolean-) | Sets is row can be broken between two pages |
-| [getDefaultCellTextState()](#getDefaultCellTextState--) | Gets or sets default text state for row getCells() |
-| [setDefaultCellTextState(TextState value)](#setDefaultCellTextState-com.aspose.pdf.TextState-) | Sets default text state for row getCells() |
-| [getDefaultCellPadding()](#getDefaultCellPadding--) | Gets default margin for row getCells() |
-| [setDefaultCellPadding(MarginInfo value)](#setDefaultCellPadding-com.aspose.pdf.MarginInfo-) | Sets default margin for row getCells() |
-| [getVerticalAlignment()](#getVerticalAlignment--) | Gets or sets the vertical alignment. |
-| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
-### Row() {#Row--}
+| [deepClone](#deepClone--) | Clone the row. |
+| [getBackgroundColor](#getBackgroundColor--) | Gets the background color. |
+| [getBorder](#getBorder--) | Gets the border. |
+| [getCells](#getCells--) | Gets the getCells() of the row. |
+| [getDefaultCellBorder](#getDefaultCellBorder--) | Gets default cell border; |
+| [getDefaultCellPadding](#getDefaultCellPadding--) | Gets default margin for row getCells() |
+| [getDefaultCellTextState](#getDefaultCellTextState--) | Gets or sets default text state for row getCells() Gets default text state for row getCells() |
+| [getFixedRowHeight](#getFixedRowHeight--) | Gets fixed row height - row may have fixed height; |
+| [getMinRowHeight](#getMinRowHeight--) | Gets height for row; |
+| [getVerticalAlignment](#getVerticalAlignment--) | Gets or sets the vertical alignment. |
+| [isInNewPage](#isInNewPage--) | Gets fixed row is in new page - page with this property should be printed to next page Default false; |
+| [isRowBroken](#isRowBroken--) | Gets is row can be broken between two pages |
+| [setBackgroundColor](#setBackgroundColor-com.aspose.pdf.Color-) | Sets the background color. |
+| [setBorder](#setBorder-com.aspose.pdf.BorderInfo-) | Sets the border. |
+| [setCells](#setCells-com.aspose.pdf.Cells-) | Sets the getCells() of the row. |
+| [setDefaultCellBorder](#setDefaultCellBorder-com.aspose.pdf.BorderInfo-) | Sets default cell border; |
+| [setDefaultCellPadding](#setDefaultCellPadding-com.aspose.pdf.MarginInfo-) | Sets default margin for row getCells() |
+| [setDefaultCellTextState](#setDefaultCellTextState-com.aspose.pdf.TextState-) | Sets default text state for row getCells() |
+| [setFixedRowHeight](#setFixedRowHeight-double-) | Sets fixed row height - row may have fixed height; |
+| [setInNewPage](#setInNewPage-boolean-) | Sets is row can be broken between two pages |
+| [setMinRowHeight](#setMinRowHeight-double-) | Sets height for row; |
+| [setRowBroken](#setRowBroken-boolean-) | Sets is row can be broken between two pages |
+| [setVerticalAlignment](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
+
+### Row {#Row--}
 ```
 public Row()
 ```
 
-
 Initializes a new instance of the Row class.
 
-### deepClone() {#deepClone--}
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
-
 Clone the row.
 
 **Returns:**
-java.lang.Object - The cloned object
-### getBackgroundColor() {#getBackgroundColor--}
+The cloned object
+
+### getBackgroundColor {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
 ```
 
-
 Gets the background color.
 
 **Returns:**
-[Color](../../com.aspose.pdf/color) - Color value
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
-```
-public void setBackgroundColor(Color value)
-```
+Color value
 
-
-Sets the background color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
-
-### getBorder() {#getBorder--}
+### getBorder {#getBorder--}
 ```
 public BorderInfo getBorder()
 ```
 
-
 Gets the border.
 
 **Returns:**
-[BorderInfo](../../com.aspose.pdf/borderinfo) - BorderInfo value
-### setBorder(BorderInfo value) {#setBorder-com.aspose.pdf.BorderInfo-}
-```
-public void setBorder(BorderInfo value)
-```
+BorderInfo value
 
-
-Sets the border.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [BorderInfo](../../com.aspose.pdf/borderinfo) | BorderInfo value |
-
-### getCells() {#getCells--}
+### getCells {#getCells--}
 ```
 public Cells getCells()
 ```
 
-
 Gets the getCells() of the row.
 
 **Returns:**
-[Cells](../../com.aspose.pdf/cells) - getCells() value
-### setCells(Cells value) {#setCells-com.aspose.pdf.Cells-}
-```
-public void setCells(Cells value)
-```
+getCells() value
 
-
-Sets the getCells() of the row.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Cells](../../com.aspose.pdf/cells) | getCells() value |
-
-### getDefaultCellBorder() {#getDefaultCellBorder--}
+### getDefaultCellBorder {#getDefaultCellBorder--}
 ```
 public BorderInfo getDefaultCellBorder()
 ```
 
-
 Gets default cell border;
 
 **Returns:**
-[BorderInfo](../../com.aspose.pdf/borderinfo) - BorderInfo value
-### setDefaultCellBorder(BorderInfo value) {#setDefaultCellBorder-com.aspose.pdf.BorderInfo-}
+BorderInfo value
+
+### getDefaultCellPadding {#getDefaultCellPadding--}
 ```
-public void setDefaultCellBorder(BorderInfo value)
-```
-
-
-Sets default cell border;
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [BorderInfo](../../com.aspose.pdf/borderinfo) | BorderInfo value |
-
-### getMinRowHeight() {#getMinRowHeight--}
-```
-public double getMinRowHeight()
+public MarginInfo getDefaultCellPadding()
 ```
 
-
-Gets height for row;
+Gets default margin for row getCells()
 
 **Returns:**
-double - double value
-### setMinRowHeight(double value) {#setMinRowHeight-double-}
+MarginInfo value
+
+### getDefaultCellTextState {#getDefaultCellTextState--}
 ```
-public void setMinRowHeight(double value)
+public TextState getDefaultCellTextState()
 ```
 
+Gets or sets default text state for row getCells() Gets default text state for row getCells()
 
-Sets height for row;
+**Returns:**
+TextState value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getFixedRowHeight() {#getFixedRowHeight--}
+### getFixedRowHeight {#getFixedRowHeight--}
 ```
 public double getFixedRowHeight()
 ```
 
-
 Gets fixed row height - row may have fixed height;
 
 **Returns:**
-double - double value
-### setFixedRowHeight(double value) {#setFixedRowHeight-double-}
+double value
+
+### getMinRowHeight {#getMinRowHeight--}
+```
+public double getMinRowHeight()
+```
+
+Gets height for row;
+
+**Returns:**
+double value
+
+### getVerticalAlignment {#getVerticalAlignment--}
+```
+public VerticalAlignment getVerticalAlignment()
+```
+
+Gets or sets the vertical alignment.
+
+**Returns:**
+VerticalAlignment element @see VerticalAlignment
+
+### isInNewPage {#isInNewPage--}
+```
+public boolean isInNewPage()
+```
+
+Gets fixed row is in new page - page with this property should be printed to next page Default false;
+
+**Returns:**
+boolean value
+
+### isRowBroken {#isRowBroken--}
+```
+public boolean isRowBroken()
+```
+
+Gets is row can be broken between two pages
+
+**Returns:**
+boolean value
+
+### setBackgroundColor {#setBackgroundColor-com.aspose.pdf.Color-}
+Sets the background color.
+
+### setBorder {#setBorder-com.aspose.pdf.BorderInfo-}
+Sets the border.
+
+### setCells {#setCells-com.aspose.pdf.Cells-}
+Sets the getCells() of the row.
+
+### setDefaultCellBorder {#setDefaultCellBorder-com.aspose.pdf.BorderInfo-}
+Sets default cell border;
+
+### setDefaultCellPadding {#setDefaultCellPadding-com.aspose.pdf.MarginInfo-}
+Sets default margin for row getCells()
+
+### setDefaultCellTextState {#setDefaultCellTextState-com.aspose.pdf.TextState-}
+Sets default text state for row getCells()
+
+### setFixedRowHeight {#setFixedRowHeight-double-}
 ```
 public void setFixedRowHeight(double value)
 ```
-
 
 Sets fixed row height - row may have fixed height;
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | double value |
 
-### isInNewPage() {#isInNewPage--}
-```
-public boolean isInNewPage()
-```
-
-
-Gets fixed row is in new page - page with this property should be printed to next page Default false;
-
-**Returns:**
-boolean - boolean value
-### setInNewPage(boolean value) {#setInNewPage-boolean-}
+### setInNewPage {#setInNewPage-boolean-}
 ```
 public void setInNewPage(boolean value)
 ```
 
-
 Sets is row can be broken between two pages
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
-### isRowBroken() {#isRowBroken--}
+### setMinRowHeight {#setMinRowHeight-double-}
 ```
-public boolean isRowBroken()
+public void setMinRowHeight(double value)
 ```
 
+Sets height for row;
 
-Gets is row can be broken between two pages
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
 
-**Returns:**
-boolean - boolean value
-### setRowBroken(boolean value) {#setRowBroken-boolean-}
+### setRowBroken {#setRowBroken-boolean-}
 ```
 public void setRowBroken(boolean value)
 ```
 
-
 Sets is row can be broken between two pages
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
-### getDefaultCellTextState() {#getDefaultCellTextState--}
-```
-public TextState getDefaultCellTextState()
-```
-
-
-Gets or sets default text state for row getCells()
-
-Gets default text state for row getCells()
-
-**Returns:**
-[TextState](../../com.aspose.pdf/textstate) - TextState value
-### setDefaultCellTextState(TextState value) {#setDefaultCellTextState-com.aspose.pdf.TextState-}
-```
-public void setDefaultCellTextState(TextState value)
-```
-
-
-Sets default text state for row getCells()
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextState](../../com.aspose.pdf/textstate) | TextState value |
-
-### getDefaultCellPadding() {#getDefaultCellPadding--}
-```
-public MarginInfo getDefaultCellPadding()
-```
-
-
-Gets default margin for row getCells()
-
-**Returns:**
-[MarginInfo](../../com.aspose.pdf/margininfo) - MarginInfo value
-### setDefaultCellPadding(MarginInfo value) {#setDefaultCellPadding-com.aspose.pdf.MarginInfo-}
-```
-public void setDefaultCellPadding(MarginInfo value)
-```
-
-
-Sets default margin for row getCells()
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo value |
-
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public VerticalAlignment getVerticalAlignment()
-```
-
-
+### setVerticalAlignment {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 Gets or sets the vertical alignment.
-
-**Returns:**
-[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
-### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
-```
-public void setVerticalAlignment(VerticalAlignment value)
-```
-
-
-Gets or sets the vertical alignment.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
-

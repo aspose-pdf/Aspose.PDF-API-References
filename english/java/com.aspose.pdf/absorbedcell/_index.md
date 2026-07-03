@@ -7,49 +7,66 @@ weight: 10
 url: /java/com.aspose.pdf/absorbedcell/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.AbsorbedCell
 
 **All Implemented Interfaces:**
-[com.aspose.pdf.ITableElement](../../com.aspose.pdf/itableelement)
+ITableElement, Comparable < AbsorbedCell >
+
 ```
-public class AbsorbedCell implements ITableElement
+public class AbsorbedCell extends Object implements ITableElement , Comparable < AbsorbedCell >
 ```
 
 Represents cell of table that exist on the page
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTextFragments()](#getTextFragments--) | Gets collection of  TextFragment  objects that describes text containing in the cell |
-| [getRectangle()](#getRectangle--) | Gets rectangle that describes position of the cell on page |
-| [getColSpan()](#getColSpan--) | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine is true. |
-### getTextFragments() {#getTextFragments--}
+| [compareTo](#compareTo-com.aspose.pdf.AbsorbedCell-) | Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
+| [getBorderInfo](#getBorderInfo--) | Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true. |
+| [getColSpan](#getColSpan--) | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true. |
+| [getRectangle](#getRectangle--) | Gets rectangle that describes position of the cell on page |
+| [getTextFragments](#getTextFragments--) | Gets collection of {@code TextFragment} objects that describes text containing in the cell |
+
+### compareTo {#compareTo-com.aspose.pdf.AbsorbedCell-}
+Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object.
+
+### getBorderInfo {#getBorderInfo--}
 ```
-public TextFragmentCollection getTextFragments()
+public final BorderInfo getBorderInfo()
 ```
 
-
-Gets collection of  TextFragment  objects that describes text containing in the cell
+Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true.
 
 **Returns:**
-[TextFragmentCollection](../../com.aspose.pdf/textfragmentcollection) - TextFragmentCollection object
-### getRectangle() {#getRectangle--}
-```
-public Rectangle getRectangle()
-```
+BorderInfo instance
 
-
-Gets rectangle that describes position of the cell on page
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getColSpan() {#getColSpan--}
+### getColSpan {#getColSpan--}
 ```
 public final int getColSpan()
 ```
 
-
-Return the number of columns the cell should span when TableAbsorber.UseFlowEngine is true.
+Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true.
 
 **Returns:**
-int - int value
+int value
+
+### getRectangle {#getRectangle--}
+```
+public Rectangle getRectangle()
+```
+
+Gets rectangle that describes position of the cell on page
+
+**Returns:**
+Rectangle object
+
+### getTextFragments {#getTextFragments--}
+```
+public TextFragmentCollection getTextFragments()
+```
+
+Gets collection of {@code TextFragment} objects that describes text containing in the cell
+
+**Returns:**
+TextFragmentCollection object

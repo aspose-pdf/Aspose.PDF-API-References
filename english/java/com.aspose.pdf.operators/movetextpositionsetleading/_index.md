@@ -1,117 +1,96 @@
 ---
 title: MoveTextPositionSetLeading
 second_title: Aspose.PDF for Java API Reference
-description: Class representing TD operator move position and set leading.
+description: Class representing TD operator (move position and set leading).
 type: docs
-weight: 49
+weight: 400
 url: /java/com.aspose.pdf.operators/movetextpositionsetleading/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator), [com.aspose.pdf.operators.TextOperator](../../com.aspose.pdf.operators/textoperator), [com.aspose.pdf.operators.TextPlaceOperator](../../com.aspose.pdf.operators/textplaceoperator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextPlaceOperator com.aspose.pdf.operators.MoveTextPositionSetLeading, com.aspose.pdf.Operator, com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextPlaceOperator com.aspose.pdf.operators.MoveTextPositionSetLeading, com.aspose.pdf.operators.TextOperator, com.aspose.pdf.operators.TextPlaceOperator com.aspose.pdf.operators.MoveTextPositionSetLeading, com.aspose.pdf.operators.TextPlaceOperator, com.aspose.pdf.operators.MoveTextPositionSetLeading
+
 ```
 public class MoveTextPositionSetLeading extends TextPlaceOperator
 ```
 
 Class representing TD operator (move position and set leading).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [MoveTextPositionSetLeading(int index, ICommand command)](#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
-| [MoveTextPositionSetLeading(double x, double y)](#MoveTextPositionSetLeading-double-double-) | Initializes operator. |
+| [MoveTextPositionSetLeading](#MoveTextPositionSetLeading-double-double-) | Initializes operator. |
+| [MoveTextPositionSetLeading](#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textpositioningoperators.MoveToNextLineAndSetLeading-) | Constructor for operator class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getX()](#getX--) | X coordinate of text position. |
-| [setX(double value)](#setX-double-) | X coordinate of text position. |
-| [getY()](#getY--) | Y coordinate of text position. |
-| [setY(double value)](#setY-double-) | Y coordinate of text position. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### MoveTextPositionSetLeading(int index, ICommand command) {#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveTextPositionSetLeading(int index, ICommand command)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getX](#getX--) | X coordinate of text position. |
+| [getY](#getY--) | Y coordinate of text position. |
+| [setX](#setX-double-) | X coordinate of text position. |
+| [setY](#setY-double-) | Y coordinate of text position. |
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### MoveTextPositionSetLeading(double x, double y) {#MoveTextPositionSetLeading-double-double-}
+### MoveTextPositionSetLeading {#MoveTextPositionSetLeading-double-double-}
 ```
 public MoveTextPositionSetLeading(double x, double y)
 ```
-
 
 Initializes operator.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | X coordinate of text position. |
-| y | double | Y coordinate of text position. |
+| x |  | X coordinate of text position. |
+| y |  | Y coordinate of text position. |
 
-### getX() {#getX--}
+### MoveTextPositionSetLeading {#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textpositioningoperators.MoveToNextLineAndSetLeading-}
+Constructor for operator class.
+
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
+
+### getX {#getX--}
 ```
 public double getX()
 ```
 
-
 X coordinate of text position.
 
 **Returns:**
-double - double value
-### setX(double value) {#setX-double-}
-```
-public void setX(double value)
-```
+double value
 
-
-X coordinate of text position.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getY() {#getY--}
+### getY {#getY--}
 ```
 public double getY()
 ```
 
-
 Y coordinate of text position.
 
 **Returns:**
-double - double value
-### setY(double value) {#setY-double-}
+double value
+
+### setX {#setX-double-}
+```
+public void setX(double value)
+```
+
+X coordinate of text position.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setY {#setY-double-}
 ```
 public void setY(double value)
 ```
 
-
 Y coordinate of text position.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
+| value |  | double value |
