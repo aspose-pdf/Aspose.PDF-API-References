@@ -1,6 +1,5 @@
 ---
-title: >
-linktitle: >
+title: BoundsCheckableList
 second_title: Aspose.PDF for Java API Reference
 description: Represents BoundsCheckableList - wrapper around System.Collections.Generic.List.
 type: docs
