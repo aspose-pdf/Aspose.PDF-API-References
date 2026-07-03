@@ -1,5 +1,6 @@
 ---
 title: ImageType
+linktitle: ImageType
 second_title: Aspose.PDF for Java API Reference
 description: Represents image format types.
 type: docs

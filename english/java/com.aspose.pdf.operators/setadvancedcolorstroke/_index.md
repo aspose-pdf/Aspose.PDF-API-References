@@ -1,5 +1,6 @@
 ---
 title: SetAdvancedColorStroke
+linktitle: SetAdvancedColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing SCN operator (set color for stroking operations).
 type: docs

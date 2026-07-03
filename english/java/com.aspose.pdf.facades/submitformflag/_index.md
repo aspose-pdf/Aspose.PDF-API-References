@@ -1,5 +1,6 @@
 ---
 title: SubmitFormFlag
+linktitle: SubmitFormFlag
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible submit form flags.
 type: docs

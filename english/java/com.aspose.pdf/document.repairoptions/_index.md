@@ -1,5 +1,6 @@
 ---
 title: Document.RepairOptions
+linktitle: Document.RepairOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for repairing a PDF document. This class provides a way to customize the repair process of a PDF document.
 type: docs

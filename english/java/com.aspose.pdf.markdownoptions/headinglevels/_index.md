@@ -1,5 +1,6 @@
 ---
 title: HeadingLevels
+linktitle: HeadingLevels
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to work with header levels based on font size.
 type: docs

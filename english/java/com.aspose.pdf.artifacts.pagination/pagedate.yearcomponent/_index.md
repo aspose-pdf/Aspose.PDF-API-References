@@ -1,5 +1,6 @@
 ---
 title: PageDate.YearComponent
+linktitle: PageDate.YearComponent
 second_title: Aspose.PDF for Java API Reference
 description: Represents the year component of a date.
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: TaggedPdfExceptionCode
+linktitle: TaggedPdfExceptionCode
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 330
 url: /java/com.aspose.pdf.exceptions/taggedpdfexceptioncode/

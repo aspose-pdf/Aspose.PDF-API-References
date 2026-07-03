@@ -1,5 +1,6 @@
 ---
 title: Characteristics
+linktitle: Characteristics
 second_title: Aspose.PDF for Java API Reference
 description: Represents annotation characteristics
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PdfProducer
+linktitle: PdfProducer
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents a class to produce PDF from other formats. </p> <hr> <pre>This sample shows how to produce Pdf file from CGM file. String inputFile = \"myImage.cgm\"; String.
 type: docs

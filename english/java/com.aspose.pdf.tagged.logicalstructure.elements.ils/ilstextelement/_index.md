@@ -1,5 +1,6 @@
 ---
 title: ILSTextElement
+linktitle: ILSTextElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for inline-level text structure elements in logical structure.
 type: docs

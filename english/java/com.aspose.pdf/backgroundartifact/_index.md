@@ -1,5 +1,6 @@
 ---
 title: BackgroundArtifact
+linktitle: BackgroundArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes background artifact. This artifact allows to set background of the page.
 type: docs

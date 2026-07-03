@@ -1,5 +1,6 @@
 ---
 title: DiffOperation
+linktitle: DiffOperation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class of diff operation.
 type: docs

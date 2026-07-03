@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.BorderPartStyle
+linktitle: SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents information of one part of border(top, bottom, left side or right side)
 type: docs

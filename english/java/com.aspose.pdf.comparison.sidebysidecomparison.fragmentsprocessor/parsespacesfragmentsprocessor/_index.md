@@ -1,5 +1,6 @@
 ---
 title: ParseSpacesFragmentsProcessor
+linktitle: ParseSpacesFragmentsProcessor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to process text fragments with parse spaces mode. This class recognizes spaces between text fragments based on the distance between them.
 type: docs

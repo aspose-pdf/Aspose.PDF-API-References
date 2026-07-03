@@ -1,5 +1,6 @@
 ---
 title: IAdjustPosition
+linktitle: IAdjustPosition
 second_title: Aspose.PDF for Java API Reference
 description: Interface for positioning methods.
 type: docs

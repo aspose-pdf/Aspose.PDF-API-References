@@ -1,5 +1,6 @@
 ---
 title: ITableElement
+linktitle: ITableElement
 second_title: Aspose.PDF for Java API Reference
 description: This interface represents an element of existing table extracted by TableAbsorber.
 type: docs

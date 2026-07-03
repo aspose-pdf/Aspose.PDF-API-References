@@ -1,5 +1,6 @@
 ---
 title: ParagraphAbsorberOptions
+linktitle: ParagraphAbsorberOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for the {@link ParagraphAbsorber}.
 type: docs

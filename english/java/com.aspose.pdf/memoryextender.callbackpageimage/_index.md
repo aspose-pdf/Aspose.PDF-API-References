@@ -1,5 +1,6 @@
 ---
 title: MemoryExtender.CallBackPageImage
+linktitle: MemoryExtender.CallBackPageImage
 second_title: Aspose.PDF for Java API Reference
 description: / * Set the flag whether the temporary folder will be used to host temporary font data. / * True by default. / * Used heap memory if value = false; / *
 type: docs

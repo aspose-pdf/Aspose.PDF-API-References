@@ -1,5 +1,6 @@
 ---
 title: TableBroken
+linktitle: TableBroken
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the table broken.
 type: docs

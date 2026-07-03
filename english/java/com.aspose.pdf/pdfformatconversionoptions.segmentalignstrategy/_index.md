@@ -1,5 +1,6 @@
 ---
 title: PdfFormatConversionOptions.SegmentAlignStrategy
+linktitle: PdfFormatConversionOptions.SegmentAlignStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Describes strategies used to align document text segments. Now only strategy to restore segments to original bounds is supported. In future another strategies could be added.
 type: docs

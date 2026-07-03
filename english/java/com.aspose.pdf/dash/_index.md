@@ -1,5 +1,6 @@
 ---
 title: Dash
+linktitle: Dash
 second_title: Aspose.PDF for Java API Reference
 description: Class representing line dash pattern.
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: DjvuConverter
+linktitle: DjvuConverter
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 10
 url: /java/com.aspose.pdf.djvu/djvuconverter/

@@ -1,5 +1,6 @@
 ---
 title: FileIcon
+linktitle: FileIcon
 second_title: Aspose.PDF for Java API Reference
 description: An icon to be used in displaying the annotation.
 type: docs

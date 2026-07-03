@@ -1,5 +1,6 @@
 ---
 title: LevelFormat
+linktitle: LevelFormat
 second_title: Aspose.PDF for Java API Reference
 description: Represents format of the table of contents.
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: InternalPageGenerator
+linktitle: InternalPageGenerator
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2500
 url: /java/com.aspose.pdf/internalpagegenerator/

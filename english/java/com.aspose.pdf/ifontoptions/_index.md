@@ -1,5 +1,6 @@
 ---
 title: IFontOptions
+linktitle: IFontOptions
 second_title: Aspose.PDF for Java API Reference
 description: Useful properties to tune Font behavior
 type: docs

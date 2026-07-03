@@ -1,5 +1,6 @@
 ---
 title: RtfConverter
+linktitle: RtfConverter
 second_title: Aspose.PDF for Java API Reference
 description: Converts RTF formatted documents into PDF.
 type: docs

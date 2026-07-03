@@ -1,5 +1,6 @@
 ---
 title: Algorithm
+linktitle: Algorithm
 second_title: Aspose.PDF for Java API Reference
 description: Represents algorithms which can be used to encrypt pdf document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: UnsignedContentAbsorber.Result
+linktitle: UnsignedContentAbsorber.Result
 second_title: Aspose.PDF for Java API Reference
 description: Encapsulates the result of an operation attempting to extract unsigned content from a PDF document. This class provides information about the success of the operation, details of.
 type: docs

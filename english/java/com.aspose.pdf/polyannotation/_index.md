@@ -1,5 +1,6 @@
 ---
 title: PolyAnnotation
+linktitle: PolyAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for poly-annotations.
 type: docs

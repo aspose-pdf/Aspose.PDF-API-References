@@ -1,5 +1,6 @@
 ---
 title: INamedDestinationCollection
+linktitle: INamedDestinationCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of Named Destinations.
 type: docs

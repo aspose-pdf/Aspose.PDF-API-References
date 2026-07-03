@@ -1,5 +1,6 @@
 ---
 title: BitmapInfo
+linktitle: BitmapInfo
 second_title: Aspose.PDF for Java API Reference
 description: Object containing array of pixels and bitmap information.
 type: docs

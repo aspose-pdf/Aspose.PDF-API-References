@@ -1,7 +1,8 @@
 ---
 title: ElementPdfEngine
+linktitle: ElementPdfEngine
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 60
 url: /java/com.aspose.pdf.tagged.logicalstructure/elementpdfengine/

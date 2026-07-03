@@ -1,5 +1,6 @@
 ---
 title: Hyperlink
+linktitle: Hyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents abstract hyperlink.
 type: docs

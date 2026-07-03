@@ -1,5 +1,6 @@
 ---
 title: FolderFontSource
+linktitle: FolderFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents the folder that contains font files.
 type: docs

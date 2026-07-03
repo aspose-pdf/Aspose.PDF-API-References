@@ -1,5 +1,6 @@
 ---
 title: GRestore
+linktitle: GRestore
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Q operator (restore graphics state).
 type: docs

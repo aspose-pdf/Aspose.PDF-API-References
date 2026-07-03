@@ -1,7 +1,8 @@
 ---
 title: FileEncoding
+linktitle: FileEncoding
 second_title: Aspose.PDF for Java API Reference
-description: Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed.
+description: 'Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed.'
 type: docs
 weight: 1440
 url: /java/com.aspose.pdf/fileencoding/

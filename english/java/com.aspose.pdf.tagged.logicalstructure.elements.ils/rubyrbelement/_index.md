@@ -1,5 +1,6 @@
 ---
 title: RubyRBElement
+linktitle: RubyRBElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents RB structure element in logical structure of the Ruby.
 type: docs

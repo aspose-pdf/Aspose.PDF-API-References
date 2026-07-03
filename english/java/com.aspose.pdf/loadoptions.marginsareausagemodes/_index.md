@@ -1,5 +1,6 @@
 ---
 title: LoadOptions.MarginsAreaUsageModes
+linktitle: LoadOptions.MarginsAreaUsageModes
 second_title: Aspose.PDF for Java API Reference
 description: Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PageNumber
+linktitle: PageNumber
 second_title: Aspose.PDF for Java API Reference
 description: Represents a page number format that includes an index, total number of pages, and a delimiter.
 type: docs

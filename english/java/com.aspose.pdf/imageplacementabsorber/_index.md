@@ -1,5 +1,6 @@
 ---
 title: ImagePlacementAbsorber
+linktitle: ImagePlacementAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via {@code.
 type: docs

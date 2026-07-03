@@ -1,5 +1,6 @@
 ---
 title: Measure.NumberFormat
+linktitle: Measure.NumberFormat
 second_title: Aspose.PDF for Java API Reference
 description: Number format for measure.
 type: docs

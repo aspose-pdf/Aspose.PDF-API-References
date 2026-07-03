@@ -1,5 +1,6 @@
 ---
 title: BmpDevice
+linktitle: BmpDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that helps to save pdf document pages into bmp.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: SetGlyphsPositionShowText
+linktitle: SetGlyphsPositionShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing TJ operator (show text with glyph positioning).
 type: docs

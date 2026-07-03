@@ -1,5 +1,6 @@
 ---
 title: PdfFormatConversionOptions.PdfANonSpecificationFlags
+linktitle: PdfFormatConversionOptions.PdfANonSpecificationFlags
 second_title: Aspose.PDF for Java API Reference
 description: This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF specification. If flags of this clas are used it decreases.
 type: docs

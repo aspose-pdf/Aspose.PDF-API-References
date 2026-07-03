@@ -1,5 +1,6 @@
 ---
 title: FontSubsetStrategy
+linktitle: FontSubsetStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Binary Flag enumerates strategies for font subsetting
 type: docs

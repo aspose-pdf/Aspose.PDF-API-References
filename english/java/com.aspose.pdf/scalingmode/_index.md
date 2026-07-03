@@ -1,5 +1,6 @@
 ---
 title: ScalingMode
+linktitle: ScalingMode
 second_title: Aspose.PDF for Java API Reference
 description: The type of scaling that shall be used.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: BlendMode
+linktitle: BlendMode
 second_title: Aspose.PDF for Java API Reference
 description: The blend modes enumeration.
 type: docs

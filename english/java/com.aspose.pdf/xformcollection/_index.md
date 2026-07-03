@@ -1,5 +1,6 @@
 ---
 title: XFormCollection
+linktitle: XFormCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of XFormCollection.
 type: docs

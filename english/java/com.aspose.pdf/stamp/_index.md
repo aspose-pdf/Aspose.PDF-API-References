@@ -1,5 +1,6 @@
 ---
 title: Stamp
+linktitle: Stamp
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class for various kinds of stamps which come as descendants.
 type: docs

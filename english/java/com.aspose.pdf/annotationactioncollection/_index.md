@@ -1,5 +1,6 @@
 ---
 title: AnnotationActionCollection
+linktitle: AnnotationActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents the collection of annotation actions.
 type: docs

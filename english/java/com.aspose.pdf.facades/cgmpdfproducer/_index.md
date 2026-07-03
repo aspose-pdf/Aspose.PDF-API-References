@@ -1,5 +1,6 @@
 ---
 title: CgmPdfProducer
+linktitle: CgmPdfProducer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to produce PDF from Computer Graphics Metafile(CGM) format.
 type: docs

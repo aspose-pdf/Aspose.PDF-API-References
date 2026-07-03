@@ -1,5 +1,6 @@
 ---
 title: BaseActionCollection
+linktitle: BaseActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class encapsulates basic actions with page/annotation/field interactive actions
 type: docs

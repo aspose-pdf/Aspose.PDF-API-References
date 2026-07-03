@@ -1,5 +1,6 @@
 ---
 title: PdfVersion
+linktitle: PdfVersion
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents version of pdf file.
 type: docs

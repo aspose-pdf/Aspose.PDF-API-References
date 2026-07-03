@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.HtmlPageMarkupSavingStrategy
+linktitle: HtmlSaveOptions.HtmlPageMarkupSavingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts) You can assign to this property delegate created from.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: SignHash
+linktitle: SignHash
 second_title: Aspose.PDF for Java API Reference
 description: Delegate for custom sign the document hash (Beta).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: AutoTaggingSettings
+linktitle: AutoTaggingSettings
 second_title: Aspose.PDF for Java API Reference
 description: Provides settings for the auto-tagging functionality in PDF documents. The {@link AutoTaggingSettings} class allows configuring options for automatic tagging of PDF content. It.
 type: docs

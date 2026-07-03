@@ -1,5 +1,6 @@
 ---
 title: Header
+linktitle: Header
 second_title: Aspose.PDF for Java API Reference
 description: Represents the header settings.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: EndPath
+linktitle: EndPath
 second_title: Aspose.PDF for Java API Reference
 description: Class representing n operator (end path without filling or stroking).
 type: docs

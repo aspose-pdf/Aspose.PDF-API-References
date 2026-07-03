@@ -1,5 +1,6 @@
 ---
 title: ImageEncoding
+linktitle: ImageEncoding
 second_title: Aspose.PDF for Java API Reference
 description: Image encoding types.
 type: docs

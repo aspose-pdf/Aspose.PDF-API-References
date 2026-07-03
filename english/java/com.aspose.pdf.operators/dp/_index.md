@@ -1,5 +1,6 @@
 ---
 title: DP
+linktitle: DP
 second_title: Aspose.PDF for Java API Reference
 description: Class represeting DP operator (designamte marked content point).
 type: docs

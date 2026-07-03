@@ -1,5 +1,6 @@
 ---
 title: TabOrder
+linktitle: TabOrder
 second_title: Aspose.PDF for Java API Reference
 description: Tab order on the page
 type: docs

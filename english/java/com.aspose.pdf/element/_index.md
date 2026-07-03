@@ -1,5 +1,6 @@
 ---
 title: Element
+linktitle: Element
 second_title: Aspose.PDF for Java API Reference
 description: Class representing base element of logical structure.
 type: docs

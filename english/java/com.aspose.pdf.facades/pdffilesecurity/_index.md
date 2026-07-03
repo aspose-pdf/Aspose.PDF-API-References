@@ -1,5 +1,6 @@
 ---
 title: PdfFileSecurity
+linktitle: PdfFileSecurity
 second_title: Aspose.PDF for Java API Reference
 description: Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and password.
 type: docs

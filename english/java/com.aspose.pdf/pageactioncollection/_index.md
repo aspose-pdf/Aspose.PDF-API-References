@@ -1,5 +1,6 @@
 ---
 title: PageActionCollection
+linktitle: PageActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: This class describes page actions
 type: docs

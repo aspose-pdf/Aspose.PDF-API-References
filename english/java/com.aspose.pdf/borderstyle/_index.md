@@ -1,5 +1,6 @@
 ---
 title: BorderStyle
+linktitle: BorderStyle
 second_title: Aspose.PDF for Java API Reference
 description: Describes style of the annotation border.
 type: docs

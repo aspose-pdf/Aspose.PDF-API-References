@@ -1,5 +1,6 @@
 ---
 title: AttributeKey
+linktitle: AttributeKey
 second_title: Aspose.PDF for Java API Reference
 description: Represents Standard Attribute Keys.
 type: docs

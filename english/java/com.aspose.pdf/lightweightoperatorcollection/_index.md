@@ -1,5 +1,6 @@
 ---
 title: LightweightOperatorCollection
+linktitle: LightweightOperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Lightweight operator collection. Intended to be used in scenarios when underlying contents stream is not attached, where just operator collection is required as a result.
 type: docs

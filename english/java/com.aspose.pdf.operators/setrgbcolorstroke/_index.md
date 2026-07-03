@@ -1,5 +1,6 @@
 ---
 title: SetRGBColorStroke
+linktitle: SetRGBColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing RG operator (set RGB color for stroking operators).
 type: docs

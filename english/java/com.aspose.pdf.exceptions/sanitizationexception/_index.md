@@ -1,5 +1,6 @@
 ---
 title: SanitizationException
+linktitle: SanitizationException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when an sanitization operation failed.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextSegment
+linktitle: TextSegment
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents segment of Pdf text. </p> <hr> <pre> The example demonstrates how to change text color and font size of the text with {@code TextState} object of {@code.
 type: docs

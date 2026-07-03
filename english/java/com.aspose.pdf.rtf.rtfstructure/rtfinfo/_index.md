@@ -1,5 +1,6 @@
 ---
 title: RtfInfo
+linktitle: RtfInfo
 second_title: Aspose.PDF for Java API Reference
 description: Stores document metadata from the \\info group.
 type: docs

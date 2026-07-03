@@ -1,5 +1,6 @@
 ---
 title: PdfFileInfo
+linktitle: PdfFileInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for accessing meta information of PDF document.
 type: docs

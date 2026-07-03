@@ -1,5 +1,6 @@
 ---
 title: FontSubstitutionCollection
+linktitle: FontSubstitutionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents font substitution strategies collection.
 type: docs

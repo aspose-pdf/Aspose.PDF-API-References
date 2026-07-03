@@ -1,5 +1,6 @@
 ---
 title: BorderEffect
+linktitle: BorderEffect
 second_title: Aspose.PDF for Java API Reference
 description: Describes effect which should be applied to the border of the annotations.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: XForm
+linktitle: XForm
 second_title: Aspose.PDF for Java API Reference
 description: Class represent XForm
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.security
+linktitle: com.aspose.pdf.security
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 280
 url: /java/com.aspose.pdf.security/

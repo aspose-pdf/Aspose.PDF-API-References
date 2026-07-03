@@ -1,5 +1,6 @@
 ---
 title: MoveToNextLine
+linktitle: MoveToNextLine
 second_title: Aspose.PDF for Java API Reference
 description: Class representing T* operator (Move to start of the next line).
 type: docs

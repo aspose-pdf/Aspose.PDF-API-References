@@ -1,5 +1,6 @@
 ---
 title: SelectorRendition
+linktitle: SelectorRendition
 second_title: Aspose.PDF for Java API Reference
 description: Class describes selector rendition.
 type: docs

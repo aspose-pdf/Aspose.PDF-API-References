@@ -1,5 +1,6 @@
 ---
 title: CharInfoCollection
+linktitle: CharInfoCollection
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents CharInfo objects collection. </p> <hr> <pre> The example demonstrates how to iterate thought all the characters and retrieve the character //open document Document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TableTFootElement
+linktitle: TableTFootElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents TFoot structure element in logical structure of the table.
 type: docs

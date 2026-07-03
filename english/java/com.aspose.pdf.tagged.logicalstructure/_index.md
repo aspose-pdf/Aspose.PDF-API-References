@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.tagged.logicalstructure
+linktitle: com.aspose.pdf.tagged.logicalstructure
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.tagged.logicalstructure is a namespace for PDF Logical Structure classes.
 type: docs

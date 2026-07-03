@@ -1,5 +1,6 @@
 ---
 title: ElementList
+linktitle: ElementList
 second_title: Aspose.PDF for Java API Reference
 description: Represents an ordered collection of elements.
 type: docs

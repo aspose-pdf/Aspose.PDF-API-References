@@ -1,5 +1,6 @@
 ---
 title: PdfJavaScriptStripper
+linktitle: PdfJavaScriptStripper
 second_title: Aspose.PDF for Java API Reference
 description: Class for removing all Java Script code.
 type: docs

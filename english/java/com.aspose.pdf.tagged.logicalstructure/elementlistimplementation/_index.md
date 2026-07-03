@@ -1,7 +1,8 @@
 ---
 title: ElementListImplementation
+linktitle: ElementListImplementation
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 50
 url: /java/com.aspose.pdf.tagged.logicalstructure/elementlistimplementation/

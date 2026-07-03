@@ -1,5 +1,6 @@
 ---
 title: Direction
+linktitle: Direction
 second_title: Aspose.PDF for Java API Reference
 description: Text direction.
 type: docs

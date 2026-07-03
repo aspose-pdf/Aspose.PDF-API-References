@@ -1,5 +1,6 @@
 ---
 title: PrinterMarkCornerPosition
+linktitle: PrinterMarkCornerPosition
 second_title: Aspose.PDF for Java API Reference
 description: Represents a position of a mark in a corner of a page.
 type: docs

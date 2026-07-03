@@ -1,7 +1,8 @@
 ---
 title: RenderModeType
+linktitle: RenderModeType
 second_title: Aspose.PDF for Java API Reference
-description: Enum RenderModeType: set of render mode types
+description: 'Enum RenderModeType: set of render mode types'
 type: docs
 weight: 4160
 url: /java/com.aspose.pdf/rendermodetype/

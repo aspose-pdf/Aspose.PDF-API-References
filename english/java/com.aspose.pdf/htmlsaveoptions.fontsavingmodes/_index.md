@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.FontSavingModes
+linktitle: HtmlSaveOptions.FontSavingModes
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates modes that can be used for saving of fonts referenced in saved PDF.
 type: docs

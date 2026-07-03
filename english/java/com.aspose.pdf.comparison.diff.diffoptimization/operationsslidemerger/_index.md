@@ -1,5 +1,6 @@
 ---
 title: OperationsSlideMerger
+linktitle: OperationsSlideMerger
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to identifies single edits that are surrounded by equalities and merge it with left or right equal operation.
 type: docs

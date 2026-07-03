@@ -1,5 +1,6 @@
 ---
 title: FlowToTableAbsorber
+linktitle: FlowToTableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Passing data from Flow library to TableAbsorber
 type: docs

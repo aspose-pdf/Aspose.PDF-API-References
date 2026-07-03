@@ -1,5 +1,6 @@
 ---
 title: ParagraphAbsorber
+linktitle: ParagraphAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides access for.
 type: docs

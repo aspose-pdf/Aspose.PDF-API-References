@@ -1,5 +1,6 @@
 ---
 title: CompromiseCheckResult
+linktitle: CompromiseCheckResult
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for checking document digital signatures for compromise.
 type: docs

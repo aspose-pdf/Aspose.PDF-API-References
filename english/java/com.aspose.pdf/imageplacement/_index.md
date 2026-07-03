@@ -1,5 +1,6 @@
 ---
 title: ImagePlacement
+linktitle: ImagePlacement
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents characteristics of an image placed to Pdf document page. </p> <hr> <pre> The example demonstrates how to find images on the first PDF document page and get images.
 type: docs

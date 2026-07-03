@@ -1,5 +1,6 @@
 ---
 title: Row
+linktitle: Row
 second_title: Aspose.PDF for Java API Reference
 description: Represents a row of the table.
 type: docs

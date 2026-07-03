@@ -1,5 +1,6 @@
 ---
 title: TableChildElement
+linktitle: TableChildElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for children elements of the Table in logical structure.
 type: docs

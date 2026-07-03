@@ -1,5 +1,6 @@
 ---
 title: FreeTextAnnotation
+linktitle: FreeTextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotation, a free text annotation has no open or closed state; instead of.
 type: docs

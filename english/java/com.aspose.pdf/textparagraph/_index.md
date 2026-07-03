@@ -1,5 +1,6 @@
 ---
 title: TextParagraph
+linktitle: TextParagraph
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents text paragraphs as multiline text object. </p> <hr> <pre> The example demonstrates how to create text paragraph object and append it to the Pdf page. Document doc.
 type: docs

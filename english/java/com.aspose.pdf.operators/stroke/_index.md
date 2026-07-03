@@ -1,5 +1,6 @@
 ---
 title: Stroke
+linktitle: Stroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing S operator (stroke path).
 type: docs

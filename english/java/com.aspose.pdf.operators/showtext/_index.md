@@ -1,5 +1,6 @@
 ---
 title: ShowText
+linktitle: ShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tj operator (show text).
 type: docs

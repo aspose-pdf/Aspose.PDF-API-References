@@ -1,5 +1,6 @@
 ---
 title: PageCoordinateType
+linktitle: PageCoordinateType
 second_title: Aspose.PDF for Java API Reference
 description: Describes page coordinate type. MediaBox = 0 CropBox = 1
 type: docs

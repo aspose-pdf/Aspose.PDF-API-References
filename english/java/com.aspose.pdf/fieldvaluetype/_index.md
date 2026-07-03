@@ -1,5 +1,6 @@
 ---
 title: FieldValueType
+linktitle: FieldValueType
 second_title: Aspose.PDF for Java API Reference
 description: Represents the type of field value in a schema collection.
 type: docs

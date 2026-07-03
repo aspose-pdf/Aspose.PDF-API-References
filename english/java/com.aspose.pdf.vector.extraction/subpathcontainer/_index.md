@@ -1,5 +1,6 @@
 ---
 title: SubPathContainer
+linktitle: SubPathContainer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a container class for graphic elements.
 type: docs

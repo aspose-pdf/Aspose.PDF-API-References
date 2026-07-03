@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.ImageParentTypes
+linktitle: HtmlSaveOptions.ImageParentTypes
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates possible types of image's parents Image can pertain to HTML page or to SVG parent image
 type: docs

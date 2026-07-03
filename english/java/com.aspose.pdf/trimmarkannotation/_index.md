@@ -1,5 +1,6 @@
 ---
 title: TrimMarkAnnotation
+linktitle: TrimMarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a Trim Mark annotation. Trim marks are placed at the corners of a printed page to indicate where the page is to be trimmed.
 type: docs

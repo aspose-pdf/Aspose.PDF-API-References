@@ -1,5 +1,6 @@
 ---
 title: HeaderArtifact
+linktitle: HeaderArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Heaader artifact. This artifacgt may be used to set heading of the page.
 type: docs

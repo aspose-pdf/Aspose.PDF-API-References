@@ -1,5 +1,6 @@
 ---
 title: MemoryCleaner
+linktitle: MemoryCleaner
 second_title: Aspose.PDF for Java API Reference
 description: Represents MemoryCleaner class
 type: docs

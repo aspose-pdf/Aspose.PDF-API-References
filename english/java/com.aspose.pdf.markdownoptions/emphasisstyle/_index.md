@@ -1,5 +1,6 @@
 ---
 title: EmphasisStyle
+linktitle: EmphasisStyle
 second_title: Aspose.PDF for Java API Reference
 description: Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis.
 type: docs

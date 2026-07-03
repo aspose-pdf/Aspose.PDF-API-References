@@ -1,5 +1,6 @@
 ---
 title: InkAnnotation
+linktitle: InkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a freehand \"scribble\" composed of one or more disjoint paths.
 type: docs

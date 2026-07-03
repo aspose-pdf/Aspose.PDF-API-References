@@ -1,5 +1,6 @@
 ---
 title: CornerPrinterMarkAnnotation
+linktitle: CornerPrinterMarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents annotation types that are placed in the corners of the printed page.
 type: docs

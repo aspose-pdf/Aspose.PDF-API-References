@@ -1,5 +1,6 @@
 ---
 title: RtfImage
+linktitle: RtfImage
 second_title: Aspose.PDF for Java API Reference
 description: A class, representing image.
 type: docs

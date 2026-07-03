@@ -1,5 +1,6 @@
 ---
 title: PageCollectionExtensions
+linktitle: PageCollectionExtensions
 second_title: Aspose.PDF for Java API Reference
 description: Represents the extension method for updating header and footer pagination.
 type: docs

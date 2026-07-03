@@ -1,5 +1,6 @@
 ---
 title: Measure.NumberFormatList
+linktitle: Measure.NumberFormatList
 second_title: Aspose.PDF for Java API Reference
 description: Represents list of number formats.
 type: docs

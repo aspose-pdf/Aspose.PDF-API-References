@@ -1,5 +1,6 @@
 ---
 title: RtfLoadOptions
+linktitle: RtfLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for RTF format.
 type: docs

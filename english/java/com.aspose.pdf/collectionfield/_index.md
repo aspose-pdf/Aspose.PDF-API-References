@@ -1,5 +1,6 @@
 ---
 title: CollectionField
+linktitle: CollectionField
 second_title: Aspose.PDF for Java API Reference
 description: Represents a document collection schema field class.
 type: docs

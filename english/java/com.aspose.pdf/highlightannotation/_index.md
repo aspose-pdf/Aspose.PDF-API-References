@@ -1,5 +1,6 @@
 ---
 title: HighlightAnnotation
+linktitle: HighlightAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a highlight annotation that highlights a range of text in the document.
 type: docs

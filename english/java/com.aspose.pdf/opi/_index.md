@@ -1,5 +1,6 @@
 ---
 title: Opi
+linktitle: Opi
 second_title: Aspose.PDF for Java API Reference
 description: Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolution images.
 type: docs

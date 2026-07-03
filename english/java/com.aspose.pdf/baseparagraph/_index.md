@@ -1,5 +1,6 @@
 ---
 title: BaseParagraph
+linktitle: BaseParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a abstract base object can be added to the page(doc.Paragraphs.Add()).
 type: docs

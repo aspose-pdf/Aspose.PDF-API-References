@@ -1,5 +1,6 @@
 ---
 title: TocInfo
+linktitle: TocInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents table of contents info.
 type: docs

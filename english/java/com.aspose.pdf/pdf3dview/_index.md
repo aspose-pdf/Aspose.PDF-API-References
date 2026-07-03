@@ -1,5 +1,6 @@
 ---
 title: PDF3DView
+linktitle: PDF3DView
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DView.
 type: docs

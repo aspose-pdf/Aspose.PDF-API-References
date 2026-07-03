@@ -1,7 +1,8 @@
 ---
 title: PKCS7Detached
+linktitle: PKCS7Detached
 second_title: Aspose.PDF for Java API Reference
-description: Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The original signed message digest.
+description: 'Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The original signed message digest.'
 type: docs
 weight: 3860
 url: /java/com.aspose.pdf/pkcs7detached/

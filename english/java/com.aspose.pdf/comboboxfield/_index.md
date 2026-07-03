@@ -1,5 +1,6 @@
 ---
 title: ComboBoxField
+linktitle: ComboBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Combobox field of the form.
 type: docs

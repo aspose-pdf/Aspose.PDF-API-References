@@ -1,5 +1,6 @@
 ---
 title: TextDefaults
+linktitle: TextDefaults
 second_title: Aspose.PDF for Java API Reference
 description: Defines text subsystem defaults
 type: docs

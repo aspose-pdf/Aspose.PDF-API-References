@@ -1,5 +1,6 @@
 ---
 title: RgbToDeviceGrayConversionStrategy
+linktitle: RgbToDeviceGrayConversionStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Represents rgb to device gray color spaces conversion strategy.
 type: docs

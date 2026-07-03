@@ -1,5 +1,6 @@
 ---
 title: BasicSetColorAndPatternOperator
+linktitle: BasicSetColorAndPatternOperator
 second_title: Aspose.PDF for Java API Reference
 description: Base operator for all Set Color operators.
 type: docs

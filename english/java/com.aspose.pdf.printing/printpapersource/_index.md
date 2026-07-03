@@ -1,5 +1,6 @@
 ---
 title: PrintPaperSource
+linktitle: PrintPaperSource
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the paper tray from which the printer gets paper.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ImageMergeMode
+linktitle: ImageMergeMode
 second_title: Aspose.PDF for Java API Reference
 description: Represents modes for merging images.
 type: docs

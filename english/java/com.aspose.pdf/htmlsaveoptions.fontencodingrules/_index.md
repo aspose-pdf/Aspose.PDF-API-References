@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.FontEncodingRules
+linktitle: HtmlSaveOptions.FontEncodingRules
 second_title: Aspose.PDF for Java API Reference
 description: This enumeration defines rules which tune encoding logic
 type: docs

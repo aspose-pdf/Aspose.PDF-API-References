@@ -1,5 +1,6 @@
 ---
 title: TextDevice
+linktitle: TextDevice
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents class for converting pdf document pages into text. </p> <hr> <pre> The example demonstrates how to extract text on the first PDF document page. Document doc = new.
 type: docs

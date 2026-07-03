@@ -1,5 +1,6 @@
 ---
 title: IFormEditor
+linktitle: IFormEditor
 second_title: Aspose.PDF for Java API Reference
 description: Class for editing forms (adding/deleting field etc)
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Do
+linktitle: Do
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Do operator (Invoke XObject).
 type: docs

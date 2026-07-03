@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.CorruptedItem
+linktitle: PdfFileEditor.CorruptedItem
 second_title: Aspose.PDF for Java API Reference
 description: Class which provides information about corrupted files in time of concatenation.
 type: docs

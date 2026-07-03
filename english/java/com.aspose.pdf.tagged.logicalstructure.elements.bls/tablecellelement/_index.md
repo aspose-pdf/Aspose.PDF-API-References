@@ -1,5 +1,6 @@
 ---
 title: TableCellElement
+linktitle: TableCellElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for table cell elements (TH and TD) in logical structure.
 type: docs

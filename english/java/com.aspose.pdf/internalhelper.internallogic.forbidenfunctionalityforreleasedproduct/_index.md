@@ -1,7 +1,8 @@
 ---
 title: InternalHelper.InternalLogic.ForbidenFunctionalityForReleasedProduct
+linktitle: InternalHelper.InternalLogic.ForbidenFunctionalityForReleasedProduct
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2460
 url: /java/com.aspose.pdf/internalhelper.internallogic.forbidenfunctionalityforreleasedproduct/

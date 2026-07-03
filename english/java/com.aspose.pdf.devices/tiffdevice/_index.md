@@ -1,5 +1,6 @@
 ---
 title: TiffDevice
+linktitle: TiffDevice
 second_title: Aspose.PDF for Java API Reference
 description: This class helps to save pdf document page by page into the one tiff image.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TiffSettings
+linktitle: TiffSettings
 second_title: Aspose.PDF for Java API Reference
 description: This class represents settings for importing pdf to Tiff.
 type: docs

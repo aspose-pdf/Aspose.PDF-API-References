@@ -1,5 +1,6 @@
 ---
 title: MdLoadOptions
+linktitle: MdLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for Markdown format conversion.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: FormElement
+linktitle: FormElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Form structure element in logical structure.
 type: docs

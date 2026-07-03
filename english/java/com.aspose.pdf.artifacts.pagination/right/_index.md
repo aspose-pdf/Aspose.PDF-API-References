@@ -1,5 +1,6 @@
 ---
 title: Right
+linktitle: Right
 second_title: Aspose.PDF for Java API Reference
 description: Represents the right alignment settings for header and footer data.
 type: docs

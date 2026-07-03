@@ -1,5 +1,6 @@
 ---
 title: SetDash
+linktitle: SetDash
 second_title: Aspose.PDF for Java API Reference
 description: Class representing d operator (set line dash pattern).
 type: docs

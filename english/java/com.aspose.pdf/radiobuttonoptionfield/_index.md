@@ -1,5 +1,6 @@
 ---
 title: RadioButtonOptionField
+linktitle: RadioButtonOptionField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents item of RadioButton field.
 type: docs

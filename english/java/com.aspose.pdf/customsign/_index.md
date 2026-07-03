@@ -1,5 +1,6 @@
 ---
 title: CustomSign
+linktitle: CustomSign
 second_title: Aspose.PDF for Java API Reference
 description: Delegate for custom sign the document (Beta).
 type: docs

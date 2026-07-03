@@ -1,5 +1,6 @@
 ---
 title: CurveTo1
+linktitle: CurveTo1
 second_title: Aspose.PDF for Java API Reference
 description: Class representing v operator (append curve to path, initial point replicated).
 type: docs

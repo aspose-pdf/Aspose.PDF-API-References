@@ -1,5 +1,6 @@
 ---
 title: ConvertTransparencyAction
+linktitle: ConvertTransparencyAction
 second_title: Aspose.PDF for Java API Reference
 description: This class represents action for conversion of transparency.
 type: docs

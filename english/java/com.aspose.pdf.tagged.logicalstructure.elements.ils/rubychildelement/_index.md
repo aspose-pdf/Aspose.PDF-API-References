@@ -1,5 +1,6 @@
 ---
 title: RubyChildElement
+linktitle: RubyChildElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for children elements of the Ruby in logical structure.
 type: docs

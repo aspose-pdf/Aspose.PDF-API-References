@@ -1,5 +1,6 @@
 ---
 title: ButtonField
+linktitle: ButtonField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents push button field.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PageNumber.PageTotalNum
+linktitle: PageNumber.PageTotalNum
 second_title: Aspose.PDF for Java API Reference
 description: Represents the total number of pages component in the page number format.
 type: docs

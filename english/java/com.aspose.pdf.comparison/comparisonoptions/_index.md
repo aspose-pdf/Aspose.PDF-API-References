@@ -1,5 +1,6 @@
 ---
 title: ComparisonOptions
+linktitle: ComparisonOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents a PDF document comparison options class.
 type: docs

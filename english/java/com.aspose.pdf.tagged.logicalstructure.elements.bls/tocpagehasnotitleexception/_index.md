@@ -1,5 +1,6 @@
 ---
 title: TOCpageHasNoTitleException
+linktitle: TOCpageHasNoTitleException
 second_title: Aspose.PDF for Java API Reference
 description: Represents an exception that is thrown when a Table of Contents (TOC) page does not have a title assigned during an operation that requires it.
 type: docs

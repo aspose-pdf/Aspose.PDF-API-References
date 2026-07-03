@@ -1,5 +1,6 @@
 ---
 title: IFacade
+linktitle: IFacade
 second_title: Aspose.PDF for Java API Reference
 description: General facade interface that defines common facades methods.
 type: docs

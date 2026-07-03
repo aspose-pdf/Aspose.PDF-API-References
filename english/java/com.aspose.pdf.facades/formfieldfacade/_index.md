@@ -1,5 +1,6 @@
 ---
 title: FormFieldFacade
+linktitle: FormFieldFacade
 second_title: Aspose.PDF for Java API Reference
 description: Class for representing field properties.
 type: docs

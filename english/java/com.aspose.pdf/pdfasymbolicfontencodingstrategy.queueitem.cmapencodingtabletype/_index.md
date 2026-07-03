@@ -1,5 +1,6 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
+linktitle: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
 second_title: Aspose.PDF for Java API Reference
 description: Declares set of some known encoding subtables
 type: docs

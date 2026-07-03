@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.CssSavingStrategy
+linktitle: HtmlSaveOptions.CssSavingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: You can assign to this property custom strategy that implements processing or/and saving of one CSS's part that was created during conversion of PDF to HTML . In such case.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: CollectionFieldSubtype
+linktitle: CollectionFieldSubtype
 second_title: Aspose.PDF for Java API Reference
 description: Represents the subtype parameter of a field in a sceme collection.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: FormType
+linktitle: FormType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible types of Acro Form.
 type: docs

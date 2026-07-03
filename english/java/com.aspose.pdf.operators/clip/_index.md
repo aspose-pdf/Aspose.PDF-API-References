@@ -1,5 +1,6 @@
 ---
 title: Clip
+linktitle: Clip
 second_title: Aspose.PDF for Java API Reference
 description: Class representing W operator (set clipping path using non-zero winding rule).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: StructureTypeCategory
+linktitle: StructureTypeCategory
 second_title: Aspose.PDF for Java API Reference
 description: Represents Categories of Standard Structure Types.
 type: docs

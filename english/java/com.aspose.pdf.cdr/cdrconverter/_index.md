@@ -1,7 +1,8 @@
 ---
 title: CdrConverter
+linktitle: CdrConverter
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 10
 url: /java/com.aspose.pdf.cdr/cdrconverter/

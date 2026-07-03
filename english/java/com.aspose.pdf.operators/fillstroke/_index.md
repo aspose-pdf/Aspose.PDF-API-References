@@ -1,5 +1,6 @@
 ---
 title: FillStroke
+linktitle: FillStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing B operator (fill and stroke path using nonzero winding rule)
 type: docs

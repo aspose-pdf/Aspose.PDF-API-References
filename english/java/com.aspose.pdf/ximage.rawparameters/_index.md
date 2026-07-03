@@ -1,5 +1,6 @@
 ---
 title: XImage.RawParameters
+linktitle: XImage.RawParameters
 second_title: Aspose.PDF for Java API Reference
 description: Class representing image raw XImage parameters.
 type: docs

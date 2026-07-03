@@ -1,5 +1,6 @@
 ---
 title: SideBySideComparisonOptions
+linktitle: SideBySideComparisonOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents an options class for comparing documents with side-by-side output.
 type: docs

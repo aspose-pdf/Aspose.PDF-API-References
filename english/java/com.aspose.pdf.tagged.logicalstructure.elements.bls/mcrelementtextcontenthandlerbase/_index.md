@@ -1,5 +1,6 @@
 ---
 title: MCRElementTextContentHandlerBase
+linktitle: MCRElementTextContentHandlerBase
 second_title: Aspose.PDF for Java API Reference
 description: Base abstract handler for MCR text content elements (e.g., text fragments and headers).
 type: docs

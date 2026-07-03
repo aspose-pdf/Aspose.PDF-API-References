@@ -1,5 +1,6 @@
 ---
 title: StructureTextState
+linktitle: StructureTextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedContent)
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: SubmitFormAction
+linktitle: SubmitFormAction
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes submit-form action.
 type: docs

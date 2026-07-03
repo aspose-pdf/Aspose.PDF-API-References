@@ -1,5 +1,6 @@
 ---
 title: WarichuWPElement
+linktitle: WarichuWPElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents WP structure element in logical structure of the Warichu.
 type: docs

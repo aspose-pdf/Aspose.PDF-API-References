@@ -1,5 +1,6 @@
 ---
 title: ISaveableFacade
+linktitle: ISaveableFacade
 second_title: Aspose.PDF for Java API Reference
 description: Facade interface that defines methods common for all saveable facades.
 type: docs

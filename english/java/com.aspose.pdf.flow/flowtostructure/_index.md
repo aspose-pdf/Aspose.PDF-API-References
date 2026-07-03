@@ -1,5 +1,6 @@
 ---
 title: FlowToStructure
+linktitle: FlowToStructure
 second_title: Aspose.PDF for Java API Reference
 description: Transfers layout data from the Flow library to the StructureRecognitionVisitor.
 type: docs

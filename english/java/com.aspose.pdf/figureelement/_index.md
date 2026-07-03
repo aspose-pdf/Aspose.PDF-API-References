@@ -1,5 +1,6 @@
 ---
 title: FigureElement
+linktitle: FigureElement
 second_title: Aspose.PDF for Java API Reference
 description: Class representing logical structure figure.
 type: docs

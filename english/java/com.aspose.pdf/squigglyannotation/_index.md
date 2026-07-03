@@ -1,5 +1,6 @@
 ---
 title: SquigglyAnnotation
+linktitle: SquigglyAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the squiggly annotation that appears as a jagged underline in the text of a document.
 type: docs

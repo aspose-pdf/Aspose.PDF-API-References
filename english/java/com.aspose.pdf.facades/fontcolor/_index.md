@@ -1,5 +1,6 @@
 ---
 title: FontColor
+linktitle: FontColor
 second_title: Aspose.PDF for Java API Reference
 description: Class representing color of the text.
 type: docs

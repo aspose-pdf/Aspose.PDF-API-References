@@ -1,5 +1,6 @@
 ---
 title: LineAnnotation
+linktitle: LineAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing line annotation.
 type: docs

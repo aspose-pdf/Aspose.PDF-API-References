@@ -1,5 +1,6 @@
 ---
 title: PrinterMarksKindExtensions
+linktitle: PrinterMarksKindExtensions
 second_title: Aspose.PDF for Java API Reference
 description: Provides extension methods for the {@link PrinterMarksKind} enumeration.
 type: docs

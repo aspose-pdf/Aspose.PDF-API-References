@@ -1,5 +1,6 @@
 ---
 title: PdfASymbolicFontEncodingStrategy
+linktitle: PdfASymbolicFontEncodingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: This class describes rules which can be used to tune process of copying encoding data for cases when TrueType symbolic font has more than one encoding. Some PDF documents after.
 type: docs

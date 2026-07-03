@@ -1,5 +1,6 @@
 ---
 title: InvalidPasswordException
+linktitle: InvalidPasswordException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when invalid password is provided by user.
 type: docs

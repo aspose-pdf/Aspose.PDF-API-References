@@ -1,5 +1,6 @@
 ---
 title: SetCMYKColorStroke
+linktitle: SetCMYKColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing K operator (set CMYK color for stroking operations).
 type: docs

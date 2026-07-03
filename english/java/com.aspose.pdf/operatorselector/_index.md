@@ -1,5 +1,6 @@
 ---
 title: OperatorSelector
+linktitle: OperatorSelector
 second_title: Aspose.PDF for Java API Reference
 description: This class is used for selecting operators using Visitor template idea.
 type: docs

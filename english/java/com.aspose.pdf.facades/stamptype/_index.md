@@ -1,5 +1,6 @@
 ---
 title: StampType
+linktitle: StampType
 second_title: Aspose.PDF for Java API Reference
 description: Describes stamp types.
 type: docs

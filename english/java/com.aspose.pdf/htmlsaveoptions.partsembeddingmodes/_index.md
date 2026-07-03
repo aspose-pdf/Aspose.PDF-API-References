@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.PartsEmbeddingModes
+linktitle: HtmlSaveOptions.PartsEmbeddingModes
 second_title: Aspose.PDF for Java API Reference
 description: This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main.
 type: docs

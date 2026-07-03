@@ -1,5 +1,6 @@
 ---
 title: PdfExtractor
+linktitle: PdfExtractor
 second_title: Aspose.PDF for Java API Reference
 description: Class for extracting images and text from PDF document.
 type: docs

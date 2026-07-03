@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.HtmlMarkupGenerationModes
+linktitle: HtmlSaveOptions.HtmlMarkupGenerationModes
 second_title: Aspose.PDF for Java API Reference
 description: Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific.
 type: docs

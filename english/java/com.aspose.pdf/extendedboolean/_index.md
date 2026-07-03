@@ -1,5 +1,6 @@
 ---
 title: ExtendedBoolean
+linktitle: ExtendedBoolean
 second_title: Aspose.PDF for Java API Reference
 description: Represents boolean type that supports Undefined value.
 type: docs

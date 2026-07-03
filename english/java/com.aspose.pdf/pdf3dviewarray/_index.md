@@ -1,5 +1,6 @@
 ---
 title: PDF3DViewArray
+linktitle: PDF3DViewArray
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DViewArray.
 type: docs

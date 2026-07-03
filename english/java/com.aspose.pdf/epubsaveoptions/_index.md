@@ -1,5 +1,6 @@
 ---
 title: EpubSaveOptions
+linktitle: EpubSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to EPUB format
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextReplaceOptions.ReplaceAdjustment
+linktitle: TextReplaceOptions.ReplaceAdjustment
 second_title: Aspose.PDF for Java API Reference
 description: Determines action that will be done after replace of text fragment to more short. None - no action, replaced text may overlaps rest of the line; AdjustSpaceWidth - tries to.
 type: docs

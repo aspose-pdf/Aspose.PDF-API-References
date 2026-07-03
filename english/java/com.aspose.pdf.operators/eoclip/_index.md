@@ -1,5 +1,6 @@
 ---
 title: EOClip
+linktitle: EOClip
 second_title: Aspose.PDF for Java API Reference
 description: Class representing W* operator (set clipping path using even-odd rule).
 type: docs

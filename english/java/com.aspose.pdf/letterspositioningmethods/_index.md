@@ -1,5 +1,6 @@
 ---
 title: LettersPositioningMethods
+linktitle: LettersPositioningMethods
 second_title: Aspose.PDF for Java API Reference
 description: It enumerates possible modes of positioning of letters in words in result HTML
 type: docs

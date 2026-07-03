@@ -1,5 +1,6 @@
 ---
 title: TeXMemoryOutputDirectory
+linktitle: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanying output (like a log file) to be written to disk but you'd like.
 type: docs

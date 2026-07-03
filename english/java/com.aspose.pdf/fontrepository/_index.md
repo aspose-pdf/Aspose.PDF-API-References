@@ -1,5 +1,6 @@
 ---
 title: FontRepository
+linktitle: FontRepository
 second_title: Aspose.PDF for Java API Reference
 description: <p> Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts. </p> <hr> <pre> The example demonstrates.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextFormattingOptions
+linktitle: TextFormattingOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text formatting options
 type: docs

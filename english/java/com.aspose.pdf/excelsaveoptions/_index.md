@@ -1,5 +1,6 @@
 ---
 title: ExcelSaveOptions
+linktitle: ExcelSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Excel format
 type: docs

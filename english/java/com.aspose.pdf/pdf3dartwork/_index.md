@@ -1,5 +1,6 @@
 ---
 title: PDF3DArtwork
+linktitle: PDF3DArtwork
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DArtwork.
 type: docs

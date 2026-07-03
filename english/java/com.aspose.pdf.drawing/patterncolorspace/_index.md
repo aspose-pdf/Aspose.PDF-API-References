@@ -1,5 +1,6 @@
 ---
 title: PatternColorSpace
+linktitle: PatternColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: Represents base pattern class.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ReplaceTextStrategy.Scope
+linktitle: ReplaceTextStrategy.Scope
 second_title: Aspose.PDF for Java API Reference
 description: Scope where replace text operation is applied REPLACE_FIRST by default
 type: docs

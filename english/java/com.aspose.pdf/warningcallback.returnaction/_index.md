@@ -1,7 +1,8 @@
 ---
 title: WarningCallback.ReturnAction
+linktitle: WarningCallback.ReturnAction
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 5470
 url: /java/com.aspose.pdf/warningcallback.returnaction/

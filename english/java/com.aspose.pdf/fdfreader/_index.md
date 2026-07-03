@@ -1,5 +1,6 @@
 ---
 title: FdfReader
+linktitle: FdfReader
 second_title: Aspose.PDF for Java API Reference
 description: Class which performs reading of FDF format. Document doc = new Document(\"example.pdf\"); InputStream fdfStream = FileInputStream(\"file.fdf\"); FdfReader.readAnnotations(fdfStream.
 type: docs

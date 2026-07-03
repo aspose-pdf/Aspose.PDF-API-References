@@ -1,5 +1,6 @@
 ---
 title: RtfFont
+linktitle: RtfFont
 second_title: Aspose.PDF for Java API Reference
 description: Stores a single font definition from the font table.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Color
+linktitle: Color
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for color value which can be expressed in different color space.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: DocumentInfo
+linktitle: DocumentInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents meta information of PDF document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ApsLoadOptions
+linktitle: ApsLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Class describes aps load options. Option for import from APS XML format.
 type: docs

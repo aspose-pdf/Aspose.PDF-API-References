@@ -1,5 +1,6 @@
 ---
 title: TextFragment
+linktitle: TextFragment
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents fragment of Pdf text. </p> <hr> <pre> The example demonstrates how to find text on the first PDF document page and replace the text and it's font. // Open document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: SetMiterLimit
+linktitle: SetMiterLimit
 second_title: Aspose.PDF for Java API Reference
 description: Class representing M operator (set miter limit).
 type: docs

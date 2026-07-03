@@ -1,5 +1,6 @@
 ---
 title: Fixup
+linktitle: Fixup
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents an type of Fixup.
 type: docs

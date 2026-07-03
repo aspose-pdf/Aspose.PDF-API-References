@@ -1,5 +1,6 @@
 ---
 title: DocSaveOptions.DocFormat
+linktitle: DocSaveOptions.DocFormat
 second_title: Aspose.PDF for Java API Reference
 description: Allows to specify .doc or .docx file format.
 type: docs

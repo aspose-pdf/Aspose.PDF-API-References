@@ -1,5 +1,6 @@
 ---
 title: AnnotationType
+linktitle: AnnotationType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of annotation types.
 type: docs

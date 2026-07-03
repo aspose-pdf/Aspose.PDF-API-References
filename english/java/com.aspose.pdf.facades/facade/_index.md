@@ -1,5 +1,6 @@
 ---
 title: Facade
+linktitle: Facade
 second_title: Aspose.PDF for Java API Reference
 description: Base facade class.
 type: docs

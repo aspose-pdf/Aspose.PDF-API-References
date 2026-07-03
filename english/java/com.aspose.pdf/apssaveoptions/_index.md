@@ -1,5 +1,6 @@
 ---
 title: ApsSaveOptions
+linktitle: ApsSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to APS XML format.
 type: docs

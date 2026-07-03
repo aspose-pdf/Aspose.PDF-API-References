@@ -1,5 +1,6 @@
 ---
 title: GraphInfo
+linktitle: GraphInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents graphics info.
 type: docs

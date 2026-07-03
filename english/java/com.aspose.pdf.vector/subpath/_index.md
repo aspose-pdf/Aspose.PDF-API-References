@@ -1,5 +1,6 @@
 ---
 title: SubPath
+linktitle: SubPath
 second_title: Aspose.PDF for Java API Reference
 description: Represents vector graphics object on the page. Basically, vector graphics objects are represented by two groups of SubPaths. One of them is represented by a set of lines and.
 type: docs

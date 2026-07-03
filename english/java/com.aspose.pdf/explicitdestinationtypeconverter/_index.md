@@ -1,5 +1,6 @@
 ---
 title: ExplicitDestinationTypeConverter
+linktitle: ExplicitDestinationTypeConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents ExplicitDestinationTypeConverter class
 type: docs

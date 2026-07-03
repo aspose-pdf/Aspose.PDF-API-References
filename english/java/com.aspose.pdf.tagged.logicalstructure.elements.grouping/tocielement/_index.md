@@ -1,5 +1,6 @@
 ---
 title: TOCIElement
+linktitle: TOCIElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents TOCI structure element in logical structure.
 type: docs

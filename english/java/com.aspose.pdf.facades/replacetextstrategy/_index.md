@@ -1,5 +1,6 @@
 ---
 title: ReplaceTextStrategy
+linktitle: ReplaceTextStrategy
 second_title: Aspose.PDF for Java API Reference
 description: This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed.
 type: docs

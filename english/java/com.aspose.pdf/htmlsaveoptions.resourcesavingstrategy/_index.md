@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.ResourceSavingStrategy
+linktitle: HtmlSaveOptions.ResourceSavingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: To this property You can assign delegate created from custom method that implements processing of external resource(Font or Image) that was extracted from PDF and must be saved.
 type: docs

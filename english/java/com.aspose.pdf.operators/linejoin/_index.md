@@ -1,5 +1,6 @@
 ---
 title: LineJoin
+linktitle: LineJoin
 second_title: Aspose.PDF for Java API Reference
 description: The line join style shall specify the shape to be used at the corners of paths that are stroked.
 type: docs

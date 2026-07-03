@@ -1,5 +1,6 @@
 ---
 title: DefaultAppearance
+linktitle: DefaultAppearance
 second_title: Aspose.PDF for Java API Reference
 description: Describes default appearance of field (font, text size and color).
 type: docs

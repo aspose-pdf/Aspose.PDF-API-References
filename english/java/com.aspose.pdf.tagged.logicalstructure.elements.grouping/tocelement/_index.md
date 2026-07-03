@@ -1,5 +1,6 @@
 ---
 title: TOCElement
+linktitle: TOCElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents TOC structure element in logical structure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: SetColorStroke
+linktitle: SetColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing SC operator set color for stroking color operators.
 type: docs

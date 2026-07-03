@@ -1,5 +1,6 @@
 ---
 title: ComparisonUtils
+linktitle: ComparisonUtils
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for comparison utils.
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: CoordinateOrigin
+linktitle: CoordinateOrigin
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 840
 url: /java/com.aspose.pdf/coordinateorigin/

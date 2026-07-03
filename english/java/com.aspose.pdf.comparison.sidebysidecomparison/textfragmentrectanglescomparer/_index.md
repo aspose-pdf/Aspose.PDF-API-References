@@ -1,5 +1,6 @@
 ---
 title: TextFragmentRectanglesComparer
+linktitle: TextFragmentRectanglesComparer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to compare two Rectangle objects. It is used in the context of side-by-side comparison of text fragments in PDF documents.
 type: docs

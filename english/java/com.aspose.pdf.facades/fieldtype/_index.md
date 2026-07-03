@@ -1,5 +1,6 @@
 ---
 title: FieldType
+linktitle: FieldType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible field types.
 type: docs

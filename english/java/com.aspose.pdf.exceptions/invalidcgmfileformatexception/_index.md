@@ -1,5 +1,6 @@
 ---
 title: InvalidCgmFileFormatException
+linktitle: InvalidCgmFileFormatException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a Cgm file is invalid.
 type: docs

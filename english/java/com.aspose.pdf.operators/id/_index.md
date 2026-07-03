@@ -1,5 +1,6 @@
 ---
 title: ID
+linktitle: ID
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ID operator (Begin inline image data).
 type: docs

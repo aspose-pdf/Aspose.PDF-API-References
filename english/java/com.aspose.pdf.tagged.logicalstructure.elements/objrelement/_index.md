@@ -1,5 +1,6 @@
 ---
 title: OBJRElement
+linktitle: OBJRElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents object reference entity in logical structure.
 type: docs

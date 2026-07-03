@@ -1,5 +1,6 @@
 ---
 title: OperatorCollection
+linktitle: OperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of operators
 type: docs

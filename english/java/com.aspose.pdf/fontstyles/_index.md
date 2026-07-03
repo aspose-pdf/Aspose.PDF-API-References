@@ -1,5 +1,6 @@
 ---
 title: FontStyles
+linktitle: FontStyles
 second_title: Aspose.PDF for Java API Reference
 description: Binary Flag <p> Specifies style information applied to text. </p> <hr> <p> This enumeration has a {@code FlagsAttribute} attribute that allows a combination of its member values.
 type: docs

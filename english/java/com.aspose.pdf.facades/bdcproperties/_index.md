@@ -1,5 +1,6 @@
 ---
 title: BDCProperties
+linktitle: BDCProperties
 second_title: Aspose.PDF for Java API Reference
 description: BDC operator properties.
 type: docs

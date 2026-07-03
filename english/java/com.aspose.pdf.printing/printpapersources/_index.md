@@ -1,5 +1,6 @@
 ---
 title: PrintPaperSources
+linktitle: PrintPaperSources
 second_title: Aspose.PDF for Java API Reference
 description: Provides a set of predefined {@link PrintPaperSource} instances representing common paper sources. This class cannot be inherited.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: NoteElement
+linktitle: NoteElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Note structure element in logical structure.
 type: docs

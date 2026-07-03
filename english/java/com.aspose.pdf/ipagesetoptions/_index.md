@@ -1,5 +1,6 @@
 ---
 title: IPageSetOptions
+linktitle: IPageSetOptions
 second_title: Aspose.PDF for Java API Reference
 description: Defines conversion options related to a set of pages to convert.
 type: docs

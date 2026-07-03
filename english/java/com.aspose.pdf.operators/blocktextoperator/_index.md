@@ -1,5 +1,6 @@
 ---
 title: BlockTextOperator
+linktitle: BlockTextOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for text block operators i.e. Begin and End text operators (BT/ET)
 type: docs

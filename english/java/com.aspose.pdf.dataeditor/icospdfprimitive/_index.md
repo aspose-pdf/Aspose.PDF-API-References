@@ -1,5 +1,6 @@
 ---
 title: ICosPdfPrimitive
+linktitle: ICosPdfPrimitive
 second_title: Aspose.PDF for Java API Reference
 description: Interface for work with PDF data entity
 type: docs

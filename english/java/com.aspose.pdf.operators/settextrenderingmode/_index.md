@@ -1,5 +1,6 @@
 ---
 title: SetTextRenderingMode
+linktitle: SetTextRenderingMode
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tr operator (set text rendering mode).
 type: docs

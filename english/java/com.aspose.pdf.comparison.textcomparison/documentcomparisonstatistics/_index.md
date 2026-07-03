@@ -1,5 +1,6 @@
 ---
 title: DocumentComparisonStatistics
+linktitle: DocumentComparisonStatistics
 second_title: Aspose.PDF for Java API Reference
 description: Represents a document comparison statistics class.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TableTHeadElement
+linktitle: TableTHeadElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents THead structure element in logical structure of the table.
 type: docs

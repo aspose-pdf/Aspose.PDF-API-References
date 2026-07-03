@@ -1,5 +1,6 @@
 ---
 title: AutoRotateMode
+linktitle: AutoRotateMode
 second_title: Aspose.PDF for Java API Reference
 description: Direction of the rotation when document is printed.
 type: docs

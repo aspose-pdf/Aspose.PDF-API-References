@@ -1,5 +1,6 @@
 ---
 title: CircleAnnotation
+linktitle: CircleAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Circle annotation.
 type: docs

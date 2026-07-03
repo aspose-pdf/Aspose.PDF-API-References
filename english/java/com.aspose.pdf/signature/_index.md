@@ -1,5 +1,6 @@
 ---
 title: Signature
+linktitle: Signature
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the.
 type: docs

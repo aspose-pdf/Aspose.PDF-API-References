@@ -1,5 +1,6 @@
 ---
 title: OperationsMerger
+linktitle: OperationsMerger
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to merge merge equalities and combines adjacent identical changes. It sorts and merge changes between Equals operations, because changing their order and merge.
 type: docs

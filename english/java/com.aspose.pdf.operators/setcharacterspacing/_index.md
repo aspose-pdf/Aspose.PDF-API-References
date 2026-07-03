@@ -1,5 +1,6 @@
 ---
 title: SetCharacterSpacing
+linktitle: SetCharacterSpacing
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tc operator (set character spacing).
 type: docs

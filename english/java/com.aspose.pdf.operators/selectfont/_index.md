@@ -1,5 +1,6 @@
 ---
 title: SelectFont
+linktitle: SelectFont
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tf operator (set text font and size).
 type: docs

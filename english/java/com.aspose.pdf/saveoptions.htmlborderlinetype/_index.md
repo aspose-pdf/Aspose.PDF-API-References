@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.HtmlBorderLineType
+linktitle: SaveOptions.HtmlBorderLineType
 second_title: Aspose.PDF for Java API Reference
 description: Represents line types that can be used in result document for drawing borders or another lines
 type: docs

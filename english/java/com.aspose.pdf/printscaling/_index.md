@@ -1,5 +1,6 @@
 ---
 title: PrintScaling
+linktitle: PrintScaling
 second_title: Aspose.PDF for Java API Reference
 description: The page scaling option that shall be selected when a print dialog is displayed for this document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: HtmlDiffOutputGenerator
+linktitle: HtmlDiffOutputGenerator
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for generating html representation of texts differences. Deleted line breaks are indicated by - paragraph mark.
 type: docs

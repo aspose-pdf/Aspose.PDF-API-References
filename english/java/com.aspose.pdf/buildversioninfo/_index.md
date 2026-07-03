@@ -1,5 +1,6 @@
 ---
 title: BuildVersionInfo
+linktitle: BuildVersionInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class provides information about current product build.
 type: docs

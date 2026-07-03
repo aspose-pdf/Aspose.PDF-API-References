@@ -1,5 +1,6 @@
 ---
 title: BorderSide
+linktitle: BorderSide
 second_title: Aspose.PDF for Java API Reference
 description: Flags Enumerates binary the border sides.
 type: docs

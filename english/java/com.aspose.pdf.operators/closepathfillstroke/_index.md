@@ -1,5 +1,6 @@
 ---
 title: ClosePathFillStroke
+linktitle: ClosePathFillStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing b operator (close, fill and stroke path with nonzer winding rule).
 type: docs

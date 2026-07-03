@@ -1,5 +1,6 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem
+linktitle: PdfASymbolicFontEncodingStrategy.QueueItem
 second_title: Aspose.PDF for Java API Reference
 description: Specifies encoding subtable. Each encoding subtable has unique combination of parameters (PlatformID, PlatformSpecificID). Enumeration {@code CMapEncodingTableType} and property.
 type: docs

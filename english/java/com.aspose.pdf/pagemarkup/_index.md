@@ -1,5 +1,6 @@
 ---
 title: PageMarkup
+linktitle: PageMarkup
 second_title: Aspose.PDF for Java API Reference
 description: Page markup represented by collections of {@code MarkupSection} and {@code MarkupParagraph}.
 type: docs

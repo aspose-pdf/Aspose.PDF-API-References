@@ -1,7 +1,8 @@
 ---
 title: InternalHelper.InternalLogic.TestUnitFunctional
+linktitle: InternalHelper.InternalLogic.TestUnitFunctional
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2480
 url: /java/com.aspose.pdf/internalhelper.internallogic.testunitfunctional/

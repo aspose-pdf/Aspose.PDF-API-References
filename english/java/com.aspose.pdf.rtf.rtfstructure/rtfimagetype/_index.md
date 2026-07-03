@@ -1,5 +1,6 @@
 ---
 title: RtfImageType
+linktitle: RtfImageType
 second_title: Aspose.PDF for Java API Reference
 description: Enum, representing image types.
 type: docs

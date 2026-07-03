@@ -1,5 +1,6 @@
 ---
 title: IStringOutputGenerator
+linktitle: IStringOutputGenerator
 second_title: Aspose.PDF for Java API Reference
 description: Represents an interface for generating output to a string of differences between texts.
 type: docs

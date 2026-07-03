@@ -1,5 +1,6 @@
 ---
 title: IPdfFileEditor.ContentsResizeValue
+linktitle: IPdfFileEditor.ContentsResizeValue
 second_title: Aspose.PDF for Java API Reference
 description: Value of margin or content size specified in percents of default space units. This class is used in ContentsResizeParameters.
 type: docs

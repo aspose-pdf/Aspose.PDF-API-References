@@ -1,5 +1,6 @@
 ---
 title: ITextElement
+linktitle: ITextElement
 second_title: Aspose.PDF for Java API Reference
 description: Interface for presenting text structure elements.
 type: docs

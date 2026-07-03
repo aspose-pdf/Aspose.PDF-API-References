@@ -1,5 +1,6 @@
 ---
 title: DateField
+linktitle: DateField
 second_title: Aspose.PDF for Java API Reference
 description: Date field with calendar view. DateField dateField = new DateField(page, rect); doc.getForm().add(dateField); dateField.init(page); @see TextBoxField
 type: docs

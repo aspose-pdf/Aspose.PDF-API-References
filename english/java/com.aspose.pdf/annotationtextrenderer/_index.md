@@ -1,5 +1,6 @@
 ---
 title: AnnotationTextRenderer
+linktitle: AnnotationTextRenderer
 second_title: Aspose.PDF for Java API Reference
 description: Class for rendering normal and rich text.
 type: docs

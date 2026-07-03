@@ -1,5 +1,6 @@
 ---
 title: TextFragmentState
+linktitle: TextFragmentState
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents a text state of a text fragment. </p> <hr> <pre> The example demonstrates how to change text color and font size of the text with {@code TextState} object. // Open.
 type: docs

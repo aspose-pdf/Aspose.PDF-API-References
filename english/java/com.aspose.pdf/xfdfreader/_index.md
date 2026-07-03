@@ -1,5 +1,6 @@
 ---
 title: XfdfReader
+linktitle: XfdfReader
 second_title: Aspose.PDF for Java API Reference
 description: <p> Class which performs reading of XFDF format. </p> <hr> <p> <code> Document doc = new Document(\"example.pdf\"); InputStream xfdfStream = new FileInputStream(\"filename\").
 type: docs

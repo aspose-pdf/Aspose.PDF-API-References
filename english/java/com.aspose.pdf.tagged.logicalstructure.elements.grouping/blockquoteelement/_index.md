@@ -1,5 +1,6 @@
 ---
 title: BlockQuoteElement
+linktitle: BlockQuoteElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents BlockQuote structure element in logical structure.
 type: docs

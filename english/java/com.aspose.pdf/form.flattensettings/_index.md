@@ -1,5 +1,6 @@
 ---
 title: Form.FlattenSettings
+linktitle: Form.FlattenSettings
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes settings for Form flattening procedure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Matrix3D
+linktitle: Matrix3D
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs

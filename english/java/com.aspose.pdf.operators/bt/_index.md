@@ -1,5 +1,6 @@
 ---
 title: BT
+linktitle: BT
 second_title: Aspose.PDF for Java API Reference
 description: Class representing BT operator (Begin of text block).
 type: docs

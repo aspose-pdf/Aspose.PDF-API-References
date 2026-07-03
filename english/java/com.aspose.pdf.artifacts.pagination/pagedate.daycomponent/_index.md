@@ -1,5 +1,6 @@
 ---
 title: PageDate.DayComponent
+linktitle: PageDate.DayComponent
 second_title: Aspose.PDF for Java API Reference
 description: Represents the day component of a date.
 type: docs

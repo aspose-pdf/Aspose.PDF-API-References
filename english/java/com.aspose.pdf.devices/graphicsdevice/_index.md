@@ -1,5 +1,6 @@
 ---
 title: GraphicsDevice
+linktitle: GraphicsDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that helps to render pdf document pages into graphics.
 type: docs

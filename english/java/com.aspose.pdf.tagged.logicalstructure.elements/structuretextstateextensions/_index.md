@@ -1,7 +1,8 @@
 ---
 title: StructureTextStateExtensions
+linktitle: StructureTextStateExtensions
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 130
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements/structuretextstateextensions/

@@ -1,5 +1,6 @@
 ---
 title: PdfViewer
+linktitle: PdfViewer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to view or print a pdf.
 type: docs

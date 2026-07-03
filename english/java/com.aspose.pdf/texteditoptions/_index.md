@@ -1,5 +1,6 @@
 ---
 title: TextEditOptions
+linktitle: TextEditOptions
 second_title: Aspose.PDF for Java API Reference
 description: Descubes options of text edit operations.
 type: docs

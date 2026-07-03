@@ -1,5 +1,6 @@
 ---
 title: SaveableFacade
+linktitle: SaveableFacade
 second_title: Aspose.PDF for Java API Reference
 description: <p> Base class for all saveable facades.
 type: docs

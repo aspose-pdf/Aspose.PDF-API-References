@@ -1,5 +1,6 @@
 ---
 title: OutputTextStyle
+linktitle: OutputTextStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents a style set class for marking text changes.
 type: docs

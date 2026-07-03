@@ -1,5 +1,6 @@
 ---
 title: FitBHExplicitDestination
+linktitle: FitBHExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just.
 type: docs

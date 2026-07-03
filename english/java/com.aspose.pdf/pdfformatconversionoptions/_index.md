@@ -1,5 +1,6 @@
 ---
 title: PdfFormatConversionOptions
+linktitle: PdfFormatConversionOptions
 second_title: Aspose.PDF for Java API Reference
 description: represents set of options for convert PDF document
 type: docs

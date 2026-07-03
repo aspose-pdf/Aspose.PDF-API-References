@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.MarginInfo
+linktitle: SaveOptions.MarginInfo
 second_title: Aspose.PDF for Java API Reference
 description: Instance of this class represents information about page margin That can be drown on some result document.
 type: docs

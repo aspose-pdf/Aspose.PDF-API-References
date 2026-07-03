@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.exceptions
+linktitle: com.aspose.pdf.exceptions
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.exceptions package provides classes for exceptions which can occur while working with a document.
 type: docs

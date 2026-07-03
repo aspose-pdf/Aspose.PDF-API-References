@@ -1,5 +1,6 @@
 ---
 title: CurveTo2
+linktitle: CurveTo2
 second_title: Aspose.PDF for Java API Reference
 description: Class representing y operator (append curve to path, final point replicated).
 type: docs

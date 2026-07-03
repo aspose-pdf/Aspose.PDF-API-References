@@ -1,5 +1,6 @@
 ---
 title: AttributeName
+linktitle: AttributeName
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for Attribute Name Values.
 type: docs

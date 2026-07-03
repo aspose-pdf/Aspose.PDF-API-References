@@ -1,5 +1,6 @@
 ---
 title: TextStateOperator
+linktitle: TextStateOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for operators which changes current text state (Tc, Tf, TL, etc).
 type: docs

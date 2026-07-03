@@ -1,5 +1,6 @@
 ---
 title: TableRowCollectionElement
+linktitle: TableRowCollectionElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for children elements of the Table Head, Body and Foot in logical structure.
 type: docs

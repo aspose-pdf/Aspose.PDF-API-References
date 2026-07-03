@@ -1,5 +1,6 @@
 ---
 title: FlowInput
+linktitle: FlowInput
 second_title: Aspose.PDF for Java API Reference
 description: Passing data to Flow library.
 type: docs

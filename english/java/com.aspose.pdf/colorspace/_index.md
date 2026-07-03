@@ -1,5 +1,6 @@
 ---
 title: ColorSpace
+linktitle: ColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: The color spaces enumeration.
 type: docs

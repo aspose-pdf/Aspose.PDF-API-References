@@ -1,5 +1,6 @@
 ---
 title: FontNotFoundException
+linktitle: FontNotFoundException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a font is not found.
 type: docs

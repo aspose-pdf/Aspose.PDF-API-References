@@ -1,7 +1,8 @@
 ---
 title: Hackers
+linktitle: Hackers
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 1860
 url: /java/com.aspose.pdf/hackers/

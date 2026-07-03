@@ -1,5 +1,6 @@
 ---
 title: HeaderFooter
+linktitle: HeaderFooter
 second_title: Aspose.PDF for Java API Reference
 description: Class represents header or footer pdf page.
 type: docs

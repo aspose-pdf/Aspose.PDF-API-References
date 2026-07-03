@@ -1,5 +1,6 @@
 ---
 title: HiddenDataSanitizationOptions
+linktitle: HiddenDataSanitizationOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents the configuration options for sanitizing hidden data within a document.
 type: docs

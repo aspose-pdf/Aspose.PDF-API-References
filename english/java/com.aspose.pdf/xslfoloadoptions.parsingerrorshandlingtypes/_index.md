@@ -1,5 +1,6 @@
 ---
 title: XslFoLoadOptions.ParsingErrorsHandlingTypes
+linktitle: XslFoLoadOptions.ParsingErrorsHandlingTypes
 second_title: Aspose.PDF for Java API Reference
 description: Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors
 type: docs

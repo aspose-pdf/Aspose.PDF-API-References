@@ -1,5 +1,6 @@
 ---
 title: ImportFormat
+linktitle: ImportFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies import format.
 type: docs

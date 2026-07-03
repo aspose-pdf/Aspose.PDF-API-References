@@ -1,5 +1,6 @@
 ---
 title: PdfFormatConversionOptions.PuaProcessingStrategy
+linktitle: PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA), see description at https://en.wikipedia.org/wiki/Private_Use_Areas. This symbols.
 type: docs

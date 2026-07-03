@@ -1,5 +1,6 @@
 ---
 title: MarkupParagraph
+linktitle: MarkupParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a paragraph.
 type: docs

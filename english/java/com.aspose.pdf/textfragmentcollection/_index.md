@@ -1,5 +1,6 @@
 ---
 title: TextFragmentCollection
+linktitle: TextFragmentCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text fragments collection
 type: docs

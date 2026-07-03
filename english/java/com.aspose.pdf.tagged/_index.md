@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.tagged
+linktitle: com.aspose.pdf.tagged
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.tagged package provides classes that allow to work with TaggedContent of a document.
 type: docs

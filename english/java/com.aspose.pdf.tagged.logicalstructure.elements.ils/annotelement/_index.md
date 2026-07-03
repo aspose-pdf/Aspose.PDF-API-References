@@ -1,5 +1,6 @@
 ---
 title: AnnotElement
+linktitle: AnnotElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Annot structure element in logical structure.
 type: docs

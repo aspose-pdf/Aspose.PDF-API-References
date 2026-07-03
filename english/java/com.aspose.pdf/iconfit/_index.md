@@ -1,5 +1,6 @@
 ---
 title: IconFit
+linktitle: IconFit
 second_title: Aspose.PDF for Java API Reference
 description: Describes how the widget annotation's icon shall be displayed within its annotation rectangle.
 type: docs

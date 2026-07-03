@@ -1,5 +1,6 @@
 ---
 title: BlendingColorSpace
+linktitle: BlendingColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: Class represents blending color space.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ToUnicodeProcessingRules
+linktitle: ToUnicodeProcessingRules
 second_title: Aspose.PDF for Java API Reference
 description: This class describes rules which can be used to solve Adobe Preflight error \"Text cannot be mapped to Unicode\".
 type: docs

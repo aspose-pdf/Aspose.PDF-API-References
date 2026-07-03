@@ -1,7 +1,8 @@
 ---
 title: LightingSchemeType
+linktitle: LightingSchemeType
 second_title: Aspose.PDF for Java API Reference
-description: Enum LightingSchemeType: set of lighting scheme types.
+description: 'Enum LightingSchemeType: set of lighting scheme types.'
 type: docs
 weight: 2690
 url: /java/com.aspose.pdf/lightingschemetype/

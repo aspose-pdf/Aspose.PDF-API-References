@@ -1,5 +1,6 @@
 ---
 title: ImportDataAction
+linktitle: ImportDataAction
 second_title: Aspose.PDF for Java API Reference
 description: Upon invocation of an import-data action, Forms Data Format (FDF) data shall be imported into the document's interactive form from a specified file.
 type: docs

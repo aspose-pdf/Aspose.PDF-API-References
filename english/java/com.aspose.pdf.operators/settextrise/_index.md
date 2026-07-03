@@ -1,5 +1,6 @@
 ---
 title: SetTextRise
+linktitle: SetTextRise
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Ts operator (set text rise).
 type: docs

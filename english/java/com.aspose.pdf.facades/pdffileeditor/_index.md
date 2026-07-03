@@ -1,7 +1,8 @@
 ---
 title: PdfFileEditor
+linktitle: PdfFileEditor
 second_title: Aspose.PDF for Java API Reference
-description: Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.
+description: 'Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.'
 type: docs
 weight: 410
 url: /java/com.aspose.pdf.facades/pdffileeditor/

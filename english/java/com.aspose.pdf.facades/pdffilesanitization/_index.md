@@ -1,5 +1,6 @@
 ---
 title: PdfFileSanitization
+linktitle: PdfFileSanitization
 second_title: Aspose.PDF for Java API Reference
 description: Represents sanitization and recovery API. Use it if you can't create/open documents in any other way.
 type: docs

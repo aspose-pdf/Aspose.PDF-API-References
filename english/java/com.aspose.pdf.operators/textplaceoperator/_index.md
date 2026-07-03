@@ -1,5 +1,6 @@
 ---
 title: TextPlaceOperator
+linktitle: TextPlaceOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for operators which changes text position (Tm, Td, etc).
 type: docs

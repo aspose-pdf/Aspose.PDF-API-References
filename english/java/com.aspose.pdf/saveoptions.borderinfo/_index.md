@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.BorderInfo
+linktitle: SaveOptions.BorderInfo
 second_title: Aspose.PDF for Java API Reference
 description: Instance of this class represents information about border That can be drown on some result document.
 type: docs

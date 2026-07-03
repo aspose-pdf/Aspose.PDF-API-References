@@ -1,5 +1,6 @@
 ---
 title: ExportFieldsToJsonOptions
+linktitle: ExportFieldsToJsonOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for exporting form fields to Json format. Inherits from {@link ExportFieldsOptions} and adds specific options for Json export.
 type: docs

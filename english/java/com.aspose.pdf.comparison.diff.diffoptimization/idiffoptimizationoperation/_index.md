@@ -1,5 +1,6 @@
 ---
 title: IDiffOptimizationOperation
+linktitle: IDiffOptimizationOperation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the interface of difference operations optimizers.
 type: docs

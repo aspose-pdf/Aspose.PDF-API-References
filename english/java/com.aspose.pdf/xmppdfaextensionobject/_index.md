@@ -1,5 +1,6 @@
 ---
 title: XmpPdfAExtensionObject
+linktitle: XmpPdfAExtensionObject
 second_title: Aspose.PDF for Java API Reference
 description: Represents the base class for field, property, value type instances.
 type: docs

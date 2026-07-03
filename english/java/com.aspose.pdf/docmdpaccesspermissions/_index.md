@@ -1,7 +1,8 @@
 ---
 title: DocMDPAccessPermissions
+linktitle: DocMDPAccessPermissions
 second_title: Aspose.PDF for Java API Reference
-description: The access permissions granted for this document. Valid values are: 1 - No changes to the document are permitted; any change to the document invalidates the signature. 2 -.
+description: 'The access permissions granted for this document. Valid values are: 1 - No changes to the document are permitted; any change to the document invalidates the signature. 2 -.'
 type: docs
 weight: 1010
 url: /java/com.aspose.pdf/docmdpaccesspermissions/

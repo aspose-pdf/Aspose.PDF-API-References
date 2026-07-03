@@ -1,5 +1,6 @@
 ---
 title: LineTo
+linktitle: LineTo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing l operator (add line to the path).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ConvertException
+linktitle: ConvertException
 second_title: Aspose.PDF for Java API Reference
 description: Represents errors that occur during PDF_A conversion with helpers objects.
 type: docs

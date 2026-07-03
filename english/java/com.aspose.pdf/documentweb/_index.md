@@ -1,5 +1,6 @@
 ---
 title: DocumentWeb
+linktitle: DocumentWeb
 second_title: Aspose.PDF for Java API Reference
 description: Represents DocumentWeb class
 type: docs

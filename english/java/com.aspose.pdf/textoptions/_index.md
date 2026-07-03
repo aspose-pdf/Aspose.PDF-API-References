@@ -1,5 +1,6 @@
 ---
 title: TextOptions
+linktitle: TextOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text processing options
 type: docs

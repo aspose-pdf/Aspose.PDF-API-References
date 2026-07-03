@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.markdownoptions
+linktitle: com.aspose.pdf.markdownoptions
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.markdownoptions namespace contains specific options classes for a markdown conversion.
 type: docs

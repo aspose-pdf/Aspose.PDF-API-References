@@ -1,5 +1,6 @@
 ---
 title: BibEntryElement
+linktitle: BibEntryElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents BibEntry structure element in logical structure.
 type: docs

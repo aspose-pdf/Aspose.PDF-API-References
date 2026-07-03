@@ -1,5 +1,6 @@
 ---
 title: HtmlLoadOptions
+linktitle: HtmlLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing html file into pdf document.
 type: docs

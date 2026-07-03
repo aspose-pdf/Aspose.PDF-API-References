@@ -1,5 +1,6 @@
 ---
 title: NonStructElement
+linktitle: NonStructElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents NonStruct structure element in logical structure.
 type: docs

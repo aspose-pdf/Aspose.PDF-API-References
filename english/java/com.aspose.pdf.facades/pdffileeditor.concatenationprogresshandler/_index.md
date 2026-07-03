@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.ConcatenationProgressHandler
+linktitle: PdfFileEditor.ConcatenationProgressHandler
 second_title: Aspose.PDF for Java API Reference
 description: Represents class with abstract method that usually supplied by calling side and handles progress events that comes from concatenation. Usually such supplied customer's handler.
 type: docs

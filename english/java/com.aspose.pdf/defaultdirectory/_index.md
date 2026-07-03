@@ -1,5 +1,6 @@
 ---
 title: DefaultDirectory
+linktitle: DefaultDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Specifies default path for some purpose
 type: docs

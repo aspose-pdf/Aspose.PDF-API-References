@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.vector.extraction
+linktitle: com.aspose.pdf.vector.extraction
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 400
 url: /java/com.aspose.pdf.vector.extraction/

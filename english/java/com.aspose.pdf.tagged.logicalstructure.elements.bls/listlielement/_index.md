@@ -1,5 +1,6 @@
 ---
 title: ListLIElement
+linktitle: ListLIElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents LI structure element in logical structure of the list.
 type: docs

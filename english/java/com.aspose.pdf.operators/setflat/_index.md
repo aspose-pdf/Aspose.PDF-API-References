@@ -1,5 +1,6 @@
 ---
 title: SetFlat
+linktitle: SetFlat
 second_title: Aspose.PDF for Java API Reference
 description: Class representing i operator (set flatness toleracne).
 type: docs

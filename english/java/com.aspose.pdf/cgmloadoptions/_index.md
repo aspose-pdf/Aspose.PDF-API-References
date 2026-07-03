@@ -1,5 +1,6 @@
 ---
 title: CgmLoadOptions
+linktitle: CgmLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Contains options for loading/importing CGM file into pdf document.
 type: docs

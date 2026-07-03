@@ -1,5 +1,6 @@
 ---
 title: PageRange
+linktitle: PageRange
 second_title: Aspose.PDF for Java API Reference
 description: Represents the range of pages for header and footer settings.
 type: docs

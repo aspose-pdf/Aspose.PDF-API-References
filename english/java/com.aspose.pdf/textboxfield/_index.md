@@ -1,5 +1,6 @@
 ---
 title: TextBoxField
+linktitle: TextBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing text box field.
 type: docs

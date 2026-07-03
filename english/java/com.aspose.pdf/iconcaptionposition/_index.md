@@ -1,5 +1,6 @@
 ---
 title: IconCaptionPosition
+linktitle: IconCaptionPosition
 second_title: Aspose.PDF for Java API Reference
 description: Describes position of icon.
 type: docs

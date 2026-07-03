@@ -1,5 +1,6 @@
 ---
 title: CollectionItem.Value<T>
+linktitle: CollectionItem.Value<T>
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for a value of collection item.
 type: docs

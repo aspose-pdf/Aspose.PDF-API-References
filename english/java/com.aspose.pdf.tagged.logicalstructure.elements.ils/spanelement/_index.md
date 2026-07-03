@@ -1,5 +1,6 @@
 ---
 title: SpanElement
+linktitle: SpanElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Span structure element in logical structure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: OperationCanceledException
+linktitle: OperationCanceledException
 second_title: Aspose.PDF for Java API Reference
 description: Represents OperationCanceledException class
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: CollectionItem
+linktitle: CollectionItem
 second_title: Aspose.PDF for Java API Reference
 description: Represents a collection item class. The collection item contains the data described by the collection schema.
 type: docs

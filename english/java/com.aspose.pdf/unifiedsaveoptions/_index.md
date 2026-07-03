@@ -1,5 +1,6 @@
 ---
 title: UnifiedSaveOptions
+linktitle: UnifiedSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: This class represents saving options for saving that uses unified conversion way (with unified internal document model)
 type: docs

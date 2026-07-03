@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf
+linktitle: com.aspose.pdf
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf is a root package for all classes of Aspose.PDF for Java library which are either directly in it like Document or indirectly through several subpackages.
 type: docs

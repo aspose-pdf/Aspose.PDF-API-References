@@ -1,5 +1,6 @@
 ---
 title: IndexElement
+linktitle: IndexElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Index structure element in logical structure.
 type: docs

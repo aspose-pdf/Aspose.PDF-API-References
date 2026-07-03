@@ -1,5 +1,6 @@
 ---
 title: XmpFieldType
+linktitle: XmpFieldType
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents types of a XMP field.
 type: docs

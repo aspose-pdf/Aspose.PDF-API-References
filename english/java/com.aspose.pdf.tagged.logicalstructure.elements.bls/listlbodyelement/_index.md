@@ -1,5 +1,6 @@
 ---
 title: ListLBodyElement
+linktitle: ListLBodyElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents LBody structure element in logical structure of the list.
 type: docs

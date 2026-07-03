@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.comparison.sidebysidecomparison.fragmentsprocessor
+linktitle: com.aspose.pdf.comparison.sidebysidecomparison.fragmentsprocessor
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 110
 url: /java/com.aspose.pdf.comparison.sidebysidecomparison.fragmentsprocessor/

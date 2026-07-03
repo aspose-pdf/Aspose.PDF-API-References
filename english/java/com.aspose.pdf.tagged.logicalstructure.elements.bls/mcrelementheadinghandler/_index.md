@@ -1,7 +1,8 @@
 ---
 title: MCRElementHeadingHandler
+linktitle: MCRElementHeadingHandler
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 120
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.bls/mcrelementheadinghandler/

@@ -1,5 +1,6 @@
 ---
 title: HighlightingMode
+linktitle: HighlightingMode
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the annotation's highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Collection
+linktitle: Collection
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for Collection(12.3.5 Collections).
 type: docs

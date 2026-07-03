@@ -1,7 +1,8 @@
 ---
 title: InternalHelper
+linktitle: InternalHelper
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 40
 url: /java/com.aspose.pdf.comparison.sidebysidecomparison/internalhelper/

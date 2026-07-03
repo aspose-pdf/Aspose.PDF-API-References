@@ -1,5 +1,6 @@
 ---
 title: BoundsOutOfRangeException
+linktitle: BoundsOutOfRangeException
 second_title: Aspose.PDF for Java API Reference
 description: Represents an exception which occurs when an item doesn't fit within the given container dimensions.
 type: docs

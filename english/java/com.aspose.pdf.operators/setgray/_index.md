@@ -1,5 +1,6 @@
 ---
 title: SetGray
+linktitle: SetGray
 second_title: Aspose.PDF for Java API Reference
 description: Set gray level for non-stroking operations.
 type: docs

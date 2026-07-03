@@ -1,5 +1,6 @@
 ---
 title: ScreenAnnotation
+linktitle: ScreenAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: A screen annotation that specifies a region of a page upon which media clips may be played.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TabStops
+linktitle: TabStops
 second_title: Aspose.PDF for Java API Reference
 description: Represents a collection of {@code TabStop} objects.
 type: docs

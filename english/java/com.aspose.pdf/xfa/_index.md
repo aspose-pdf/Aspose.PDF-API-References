@@ -1,5 +1,6 @@
 ---
 title: XFA
+linktitle: XFA
 second_title: Aspose.PDF for Java API Reference
 description: Represents XML form regarding XML Forms Architecture (XFA).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: LineBreakStyle
+linktitle: LineBreakStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents the possible line break styles for a file.
 type: docs

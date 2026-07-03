@@ -1,5 +1,6 @@
 ---
 title: SetLineJoin
+linktitle: SetLineJoin
 second_title: Aspose.PDF for Java API Reference
 description: Class representing j operator (set line join style). @see LineJoin
 type: docs

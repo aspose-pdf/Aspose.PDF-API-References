@@ -1,7 +1,8 @@
 ---
 title: EpubLoadOptions.EngineType
+linktitle: EpubLoadOptions.EngineType
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 1230
 url: /java/com.aspose.pdf/epubloadoptions.enginetype/

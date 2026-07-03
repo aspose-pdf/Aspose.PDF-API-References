@@ -1,5 +1,6 @@
 ---
 title: FormEditorWeb
+linktitle: FormEditorWeb
 second_title: Aspose.PDF for Java API Reference
 description: Class for editing forms (ading/deleting field etc)
 type: docs

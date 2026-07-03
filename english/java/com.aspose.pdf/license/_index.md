@@ -1,5 +1,6 @@
 ---
 title: License
+linktitle: License
 second_title: Aspose.PDF for Java API Reference
 description: Provides methods to license the component. In this example, an attempt will be made to find a license file named MyLicense.lic in the folder that contains the component, in the.
 type: docs

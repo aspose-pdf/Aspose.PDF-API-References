@@ -1,5 +1,6 @@
 ---
 title: TabLeaderType
+linktitle: TabLeaderType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the tab leader types.
 type: docs

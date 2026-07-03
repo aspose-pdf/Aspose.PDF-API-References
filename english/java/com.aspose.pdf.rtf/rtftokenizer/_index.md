@@ -1,5 +1,6 @@
 ---
 title: RtfTokenizer
+linktitle: RtfTokenizer
 second_title: Aspose.PDF for Java API Reference
 description: Class designed to extract streamed RTF content as set of tokens.
 type: docs

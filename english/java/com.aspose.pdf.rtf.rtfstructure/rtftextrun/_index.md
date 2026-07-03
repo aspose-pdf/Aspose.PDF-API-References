@@ -1,5 +1,6 @@
 ---
 title: RtfTextRun
+linktitle: RtfTextRun
 second_title: Aspose.PDF for Java API Reference
 description: A run of text with consistent formatting.
 type: docs

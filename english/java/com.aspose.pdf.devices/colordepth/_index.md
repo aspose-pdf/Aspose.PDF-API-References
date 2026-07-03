@@ -1,5 +1,6 @@
 ---
 title: ColorDepth
+linktitle: ColorDepth
 second_title: Aspose.PDF for Java API Reference
 description: Used to specify the parameter value passed to a Tiff image device.
 type: docs

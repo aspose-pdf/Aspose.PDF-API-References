@@ -1,5 +1,6 @@
 ---
 title: GraphicElementCollection
+linktitle: GraphicElementCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents {@link GraphicElement} collection.
 type: docs

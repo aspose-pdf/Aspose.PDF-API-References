@@ -1,5 +1,6 @@
 ---
 title: Position
+linktitle: Position
 second_title: Aspose.PDF for Java API Reference
 description: Represents a position object
 type: docs

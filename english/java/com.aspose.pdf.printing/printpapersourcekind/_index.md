@@ -1,5 +1,6 @@
 ---
 title: PrintPaperSourceKind
+linktitle: PrintPaperSourceKind
 second_title: Aspose.PDF for Java API Reference
 description: Standard paper sources.
 type: docs

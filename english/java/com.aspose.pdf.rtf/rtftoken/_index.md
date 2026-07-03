@@ -1,5 +1,6 @@
 ---
 title: RtfToken
+linktitle: RtfToken
 second_title: Aspose.PDF for Java API Reference
 description: Class, representing RTF tokens.
 type: docs

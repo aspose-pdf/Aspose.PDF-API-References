@@ -1,5 +1,6 @@
 ---
 title: EX
+linktitle: EX
 second_title: Aspose.PDF for Java API Reference
 description: Class representing EX operator (End of compatibility section).
 type: docs

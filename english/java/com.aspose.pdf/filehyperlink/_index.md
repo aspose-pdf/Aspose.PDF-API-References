@@ -1,5 +1,6 @@
 ---
 title: FileHyperlink
+linktitle: FileHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents file hyperlink object.
 type: docs

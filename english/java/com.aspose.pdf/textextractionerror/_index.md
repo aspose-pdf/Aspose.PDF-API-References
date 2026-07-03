@@ -1,5 +1,6 @@
 ---
 title: TextExtractionError
+linktitle: TextExtractionError
 second_title: Aspose.PDF for Java API Reference
 description: Describes the text extraction error has appeared in the PDF document.
 type: docs

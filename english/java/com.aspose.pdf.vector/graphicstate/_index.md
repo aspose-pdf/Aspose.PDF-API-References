@@ -1,5 +1,6 @@
 ---
 title: GraphicState
+linktitle: GraphicState
 second_title: Aspose.PDF for Java API Reference
 description: Represents graphic state of the current {@link GraphicElement}.
 type: docs

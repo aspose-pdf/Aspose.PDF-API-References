@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.flow
+linktitle: com.aspose.pdf.flow
 second_title: Aspose.PDF for Java API Reference
 description: Contains classes and interfaces for recognizing and analyzing the structural composition of PDF documents.
 type: docs

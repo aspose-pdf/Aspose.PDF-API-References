@@ -1,5 +1,6 @@
 ---
 title: TextEditOptions.LanguageTransformation
+linktitle: TextEditOptions.LanguageTransformation
 second_title: Aspose.PDF for Java API Reference
 description: Language transformation modes
 type: docs

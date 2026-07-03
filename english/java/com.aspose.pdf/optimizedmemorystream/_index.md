@@ -1,5 +1,6 @@
 ---
 title: OptimizedMemoryStream
+linktitle: OptimizedMemoryStream
 second_title: Aspose.PDF for Java API Reference
 description: Defines a MemoryStream that can contains more standard capacity
 type: docs

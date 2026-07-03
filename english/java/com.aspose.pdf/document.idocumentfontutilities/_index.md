@@ -1,5 +1,6 @@
 ---
 title: Document.IDocumentFontUtilities
+linktitle: Document.IDocumentFontUtilities
 second_title: Aspose.PDF for Java API Reference
 description: Holds functionality to tune fonts
 type: docs

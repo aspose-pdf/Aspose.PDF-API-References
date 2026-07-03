@@ -1,5 +1,6 @@
 ---
 title: HtmlPageLayoutOption
+linktitle: HtmlPageLayoutOption
 second_title: Aspose.PDF for Java API Reference
 description: Binary Flag Specifies flags that together other options determine sizes and layouts of pages.
 type: docs

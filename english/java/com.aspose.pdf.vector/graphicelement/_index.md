@@ -1,5 +1,6 @@
 ---
 title: GraphicElement
+linktitle: GraphicElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents base class for graphics object on the page.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: IIndexBitmapConverterInternal
+linktitle: IIndexBitmapConverterInternal
 second_title: Aspose.PDF for Java API Reference
 description: This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code).
 type: docs

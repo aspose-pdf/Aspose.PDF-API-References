@@ -1,5 +1,6 @@
 ---
 title: Graph
+linktitle: Graph
 second_title: Aspose.PDF for Java API Reference
 description: Represents graph - graphics generator paragraph.
 type: docs

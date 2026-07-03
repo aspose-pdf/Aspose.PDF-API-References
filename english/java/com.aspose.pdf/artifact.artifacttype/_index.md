@@ -1,5 +1,6 @@
 ---
 title: Artifact.ArtifactType
+linktitle: Artifact.ArtifactType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible artifact types.
 type: docs

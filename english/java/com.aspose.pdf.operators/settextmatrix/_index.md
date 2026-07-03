@@ -1,5 +1,6 @@
 ---
 title: SetTextMatrix
+linktitle: SetTextMatrix
 second_title: Aspose.PDF for Java API Reference
 description: Class representig Tm operator (set text matrix).
 type: docs

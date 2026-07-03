@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.ConcatenateCorruptedFileAction
+linktitle: PdfFileEditor.ConcatenateCorruptedFileAction
 second_title: Aspose.PDF for Java API Reference
 description: Action performed when corrupted file was met in concatenation process.
 type: docs

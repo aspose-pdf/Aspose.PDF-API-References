@@ -1,5 +1,6 @@
 ---
 title: ImagesDifference
+linktitle: ImagesDifference
 second_title: Aspose.PDF for Java API Reference
 description: Represents the result class of comparing two PDF pages.
 type: docs

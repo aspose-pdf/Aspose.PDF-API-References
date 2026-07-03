@@ -1,5 +1,6 @@
 ---
 title: ConvertErrorAction
+linktitle: ConvertErrorAction
 second_title: Aspose.PDF for Java API Reference
 description: This class represents action for conversion errors.
 type: docs

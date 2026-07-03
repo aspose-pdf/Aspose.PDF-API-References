@@ -1,5 +1,6 @@
 ---
 title: ExtractedFragmentsProcessorBase
+linktitle: ExtractedFragmentsProcessorBase
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for extracted fragments processors.
 type: docs

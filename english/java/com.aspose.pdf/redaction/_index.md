@@ -1,5 +1,6 @@
 ---
 title: Redaction
+linktitle: Redaction
 second_title: Aspose.PDF for Java API Reference
 description: For internal usage only @author User
 type: docs

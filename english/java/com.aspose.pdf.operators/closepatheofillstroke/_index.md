@@ -1,5 +1,6 @@
 ---
 title: ClosePathEOFillStroke
+linktitle: ClosePathEOFillStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing b* operator (close, fill and stroke path using even-odd rule).
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.rtf.rtfstructure
+linktitle: com.aspose.pdf.rtf.rtfstructure
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 270
 url: /java/com.aspose.pdf.rtf.rtfstructure/

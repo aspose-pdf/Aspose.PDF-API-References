@@ -1,5 +1,6 @@
 ---
 title: StampAnnotation
+linktitle: StampAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. </p> <hr>.
 type: docs
