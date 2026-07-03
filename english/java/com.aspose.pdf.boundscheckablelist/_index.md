@@ -5,7 +5,7 @@ second_title: Aspose.PDF for Java API Reference
 description: Represents BoundsCheckableList - wrapper around System.Collections.Generic.List.
 type: docs
 weight: 10
-url: /java/com.aspose.pdf.boundscheckablelist//
+url: /java/com.aspose.pdf.boundscheckablelist/
 ---
 **Inheritance:**
 java.lang.Object, com.aspose.pdf.boundscheckablelist.BoundsCheckableList<T>
