@@ -1,5 +1,6 @@
 ---
 title: Group
+linktitle: Group
 second_title: Aspose.PDF for Java API Reference
 description: A group attributes class specifying the attributes of the page’s page group for use in the transparent imaging model.
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: TextProperties
+linktitle: TextProperties
 second_title: Aspose.PDF for Java API Reference
-description: Represents text properties such as: text size, color, style etc.
+description: 'Represents text properties such as: text size, color, style etc.'
 type: docs
 weight: 740
 url: /java/com.aspose.pdf.facades/textproperties/

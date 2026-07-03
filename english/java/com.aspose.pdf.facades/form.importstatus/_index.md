@@ -1,5 +1,6 @@
 ---
 title: Form.ImportStatus
+linktitle: Form.ImportStatus
 second_title: Aspose.PDF for Java API Reference
 description: Status of imported field
 type: docs

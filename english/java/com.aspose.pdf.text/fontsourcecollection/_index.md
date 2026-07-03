@@ -1,5 +1,6 @@
 ---
 title: FontSourceCollection
+linktitle: FontSourceCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents font sources collection.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.ProgressEventHandlerInfo
+linktitle: PdfFileEditor.ProgressEventHandlerInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents information about concatenation progress that can be used in external application.
 type: docs

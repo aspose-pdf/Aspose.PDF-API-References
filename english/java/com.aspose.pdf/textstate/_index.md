@@ -1,5 +1,6 @@
 ---
 title: TextState
+linktitle: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs

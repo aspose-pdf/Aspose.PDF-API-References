@@ -1,5 +1,6 @@
 ---
 title: Point
+linktitle: Point
 second_title: Aspose.PDF for Java API Reference
 description: Represent point with fractional coordinates.
 type: docs

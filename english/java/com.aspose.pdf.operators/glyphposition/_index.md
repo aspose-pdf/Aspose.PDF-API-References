@@ -1,5 +1,6 @@
 ---
 title: GlyphPosition
+linktitle: GlyphPosition
 second_title: Aspose.PDF for Java API Reference
 description: Class describes text and position to use with operator TJ (set glyph with position)
 type: docs

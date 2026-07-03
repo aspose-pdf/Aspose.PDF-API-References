@@ -1,5 +1,6 @@
 ---
 title: DictionaryEditor
+linktitle: DictionaryEditor
 second_title: Aspose.PDF for Java API Reference
 description: A class for accessing an document's tree dictionary (document dictionary, page dictionary, resources dictionary).
 type: docs

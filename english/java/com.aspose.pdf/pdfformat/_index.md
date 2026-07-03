@@ -1,5 +1,6 @@
 ---
 title: PdfFormat
+linktitle: PdfFormat
 second_title: Aspose.PDF for Java API Reference
 description: This class represents an pdf format.
 type: docs

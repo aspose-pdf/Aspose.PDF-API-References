@@ -1,7 +1,8 @@
 ---
 title: ValidationStatus
+linktitle: ValidationStatus
 second_title: Aspose.PDF for Java API Reference
-description: Represents the validation status of a certificate validation. This enumeration defines the possible outcomes of certificate validation: - Valid: Indicates that the certificate.
+description: 'Represents the validation status of a certificate validation. This enumeration defines the possible outcomes of certificate validation: - Valid: Indicates that the certificate.'
 type: docs
 weight: 50
 url: /java/com.aspose.pdf.security.certificatevalidation/validationstatus/

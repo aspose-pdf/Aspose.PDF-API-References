@@ -1,5 +1,6 @@
 ---
 title: MarginInfo
+linktitle: MarginInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents a margin for different objects.
 type: docs

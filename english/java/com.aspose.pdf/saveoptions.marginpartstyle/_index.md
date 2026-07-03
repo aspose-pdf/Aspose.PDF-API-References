@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.MarginPartStyle
+linktitle: SaveOptions.MarginPartStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents information of one part of margin(top, botom, left side or right side)
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: DocSaveOptions.RecognitionMode
+linktitle: DocSaveOptions.RecognitionMode
 second_title: Aspose.PDF for Java API Reference
 description: Allows to control how a PDF document is converted into a word processing document. Use the RecognitionMode.Textbox mode when the resulting document is not goining to be heavily.
 type: docs

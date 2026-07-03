@@ -1,5 +1,6 @@
 ---
 title: Page.BeforePageGenerate
+linktitle: Page.BeforePageGenerate
 second_title: Aspose.PDF for Java API Reference
 description: Procedure for customize header and footer.
 type: docs

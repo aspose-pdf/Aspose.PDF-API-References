@@ -1,5 +1,6 @@
 ---
 title: ViewerPreference
+linktitle: ViewerPreference
 second_title: Aspose.PDF for Java API Reference
 description: Describes viewer prefereces (page mode, non full screen page mode, page layout).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ExternalSignature
+linktitle: ExternalSignature
 second_title: Aspose.PDF for Java API Reference
 description: Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
 type: docs

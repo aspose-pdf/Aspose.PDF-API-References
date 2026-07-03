@@ -1,5 +1,6 @@
 ---
 title: Margins
+linktitle: Margins
 second_title: Aspose.PDF for Java API Reference
 description: This class represents margins of an image.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: HeadingStyle
+linktitle: HeadingStyle
 second_title: Aspose.PDF for Java API Reference
 description: Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings.
 type: docs

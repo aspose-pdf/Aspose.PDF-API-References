@@ -1,5 +1,6 @@
 ---
 title: ColorBarAnnotation
+linktitle: ColorBarAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation.
 type: docs

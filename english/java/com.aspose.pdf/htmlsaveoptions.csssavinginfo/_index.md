@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.CssSavingInfo
+linktitle: HtmlSaveOptions.CssSavingInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents set of data that related to custom saving of CSS during conversion of PDF to HTML format
 type: docs

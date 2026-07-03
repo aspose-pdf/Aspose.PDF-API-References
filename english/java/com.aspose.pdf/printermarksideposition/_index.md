@@ -1,5 +1,6 @@
 ---
 title: PrinterMarkSidePosition
+linktitle: PrinterMarkSidePosition
 second_title: Aspose.PDF for Java API Reference
 description: Represents a position of a registration mark on a page.
 type: docs

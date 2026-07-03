@@ -1,5 +1,6 @@
 ---
 title: BDC
+linktitle: BDC
 second_title: Aspose.PDF for Java API Reference
 description: class representing BDC operator (Begin marked-content sequence)
 type: docs

@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.comparison.graphicalcomparison
+linktitle: com.aspose.pdf.comparison.graphicalcomparison
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 80
 url: /java/com.aspose.pdf.comparison.graphicalcomparison/

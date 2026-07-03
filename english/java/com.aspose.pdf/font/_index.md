@@ -1,5 +1,6 @@
 ---
 title: Font
+linktitle: Font
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents font object. </p> <hr> <pre> The example demonstrates how to search text on first page and change font of a first search occurrence. // Open document Document doc.
 type: docs

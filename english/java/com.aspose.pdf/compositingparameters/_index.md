@@ -1,5 +1,6 @@
 ---
 title: CompositingParameters
+linktitle: CompositingParameters
 second_title: Aspose.PDF for Java API Reference
 description: Represents an object containing graphics compositing parameters of current graphics state.
 type: docs

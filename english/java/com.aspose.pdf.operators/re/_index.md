@@ -1,5 +1,6 @@
 ---
 title: Re
+linktitle: Re
 second_title: Aspose.PDF for Java API Reference
 description: Class representing re operator (add rectangle to the path).
 type: docs

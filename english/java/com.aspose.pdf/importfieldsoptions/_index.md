@@ -1,5 +1,6 @@
 ---
 title: ImportFieldsOptions
+linktitle: ImportFieldsOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents base class of options for importing form fields.
 type: docs

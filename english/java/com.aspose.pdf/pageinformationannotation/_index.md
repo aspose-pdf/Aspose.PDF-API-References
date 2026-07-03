@@ -1,5 +1,6 @@
 ---
 title: PageInformationAnnotation
+linktitle: PageInformationAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation creation. This class is.
 type: docs

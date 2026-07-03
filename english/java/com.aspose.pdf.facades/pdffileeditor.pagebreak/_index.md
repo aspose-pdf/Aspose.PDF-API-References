@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.PageBreak
+linktitle: PdfFileEditor.PageBreak
 second_title: Aspose.PDF for Java API Reference
 description: Data of page break position.
 type: docs

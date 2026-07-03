@@ -1,5 +1,6 @@
 ---
 title: ShapeType
+linktitle: ShapeType
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents shape type for the extracted images.
 type: docs

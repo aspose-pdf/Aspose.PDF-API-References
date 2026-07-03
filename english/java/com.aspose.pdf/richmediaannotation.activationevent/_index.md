@@ -1,5 +1,6 @@
 ---
 title: RichMediaAnnotation.ActivationEvent
+linktitle: RichMediaAnnotation.ActivationEvent
 second_title: Aspose.PDF for Java API Reference
 description: Event which activates annotation.
 type: docs

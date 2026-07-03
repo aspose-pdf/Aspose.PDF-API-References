@@ -1,5 +1,6 @@
 ---
 title: RegexManager
+linktitle: RegexManager
 second_title: Aspose.PDF for Java API Reference
 description: Provides a wrapper for regular expression operations with configurable timeout settings.
 type: docs

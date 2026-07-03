@@ -1,5 +1,6 @@
 ---
 title: NumberField
+linktitle: NumberField
 second_title: Aspose.PDF for Java API Reference
 description: Text Field with specified valid chars @see TextBoxField
 type: docs

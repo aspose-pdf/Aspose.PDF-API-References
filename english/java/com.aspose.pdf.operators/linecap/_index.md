@@ -1,5 +1,6 @@
 ---
 title: LineCap
+linktitle: LineCap
 second_title: Aspose.PDF for Java API Reference
 description: The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ImageDevice
+linktitle: ImageDevice
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class for image devices.
 type: docs

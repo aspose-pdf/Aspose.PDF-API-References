@@ -1,7 +1,8 @@
 ---
 title: TextEncodingInternal
+linktitle: TextEncodingInternal
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 5030
 url: /java/com.aspose.pdf/textencodinginternal/

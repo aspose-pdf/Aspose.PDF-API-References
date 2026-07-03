@@ -1,5 +1,6 @@
 ---
 title: PrinterMargins
+linktitle: PrinterMargins
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the dimensions of the margins of a printed page.
 type: docs

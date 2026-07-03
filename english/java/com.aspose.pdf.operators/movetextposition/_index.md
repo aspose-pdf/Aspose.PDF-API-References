@@ -1,5 +1,6 @@
 ---
 title: MoveTextPosition
+linktitle: MoveTextPosition
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Td operator (move text position).
 type: docs

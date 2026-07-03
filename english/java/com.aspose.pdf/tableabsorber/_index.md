@@ -1,5 +1,6 @@
 ---
 title: TableAbsorber
+linktitle: TableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents an absorber object of table elements. Performs search and provides access to search results via {@code TableAbsorber.TableList} collection. </p> <hr> <pre> The.
 type: docs

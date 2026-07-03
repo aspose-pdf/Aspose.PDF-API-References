@@ -1,5 +1,6 @@
 ---
 title: IFileOutputGenerator
+linktitle: IFileOutputGenerator
 second_title: Aspose.PDF for Java API Reference
 description: Represents an interface for generating output to a file of differences between texts.
 type: docs

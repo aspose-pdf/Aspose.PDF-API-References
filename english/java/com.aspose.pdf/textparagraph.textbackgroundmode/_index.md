@@ -1,5 +1,6 @@
 ---
 title: TextParagraph.TextBackgroundMode
+linktitle: TextParagraph.TextBackgroundMode
 second_title: Aspose.PDF for Java API Reference
 description: Background mode for TextParagraph
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ValidationMode
+linktitle: ValidationMode
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the validation mode for PDF signature validation processes.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Document.OptimizationOptions
+linktitle: Document.OptimizationOptions
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method. @deprecated This class is obsolete. Please.
 type: docs

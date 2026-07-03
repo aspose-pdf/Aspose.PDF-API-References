@@ -1,5 +1,6 @@
 ---
 title: WarningInfo
+linktitle: WarningInfo
 second_title: Aspose.PDF for Java API Reference
 description: Immutable object for encapsulating warning information.
 type: docs

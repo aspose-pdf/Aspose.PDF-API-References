@@ -1,5 +1,6 @@
 ---
 title: Form
+linktitle: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing form object.
 type: docs

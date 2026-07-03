@@ -1,5 +1,6 @@
 ---
 title: AnnotationFlags
+linktitle: AnnotationFlags
 second_title: Aspose.PDF for Java API Reference
 description: Flags A set of binary flags specifying various characteristics of the annotation.
 type: docs

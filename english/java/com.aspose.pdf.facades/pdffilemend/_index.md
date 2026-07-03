@@ -1,5 +1,6 @@
 ---
 title: PdfFileMend
+linktitle: PdfFileMend
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for adding texts and images on the pages of existing PDF document.
 type: docs

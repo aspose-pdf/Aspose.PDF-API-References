@@ -1,5 +1,6 @@
 ---
 title: Footer
+linktitle: Footer
 second_title: Aspose.PDF for Java API Reference
 description: Represents the footer settings.
 type: docs

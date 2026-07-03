@@ -1,5 +1,6 @@
 ---
 title: ClosePath
+linktitle: ClosePath
 second_title: Aspose.PDF for Java API Reference
 description: Class representing h operator (close path).
 type: docs

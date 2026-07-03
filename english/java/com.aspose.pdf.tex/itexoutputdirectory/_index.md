@@ -1,5 +1,6 @@
 ---
 title: ITeXOutputDirectory
+linktitle: ITeXOutputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Interface of generalized TeX output directory.
 type: docs

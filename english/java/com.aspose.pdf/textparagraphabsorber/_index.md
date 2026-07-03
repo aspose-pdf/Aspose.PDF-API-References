@@ -1,5 +1,6 @@
 ---
 title: TextParagraphAbsorber
+linktitle: TextParagraphAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of text paragraphs. Performs text search and provides access to search results via {@code TextParagraphAbsorber.TextParagraphs} collection.
 type: docs

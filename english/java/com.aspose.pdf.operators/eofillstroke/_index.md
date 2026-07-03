@@ -1,5 +1,6 @@
 ---
 title: EOFillStroke
+linktitle: EOFillStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing B* operator (fill and stroke path usign even-odd rule).
 type: docs

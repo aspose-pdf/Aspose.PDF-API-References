@@ -1,5 +1,6 @@
 ---
 title: NormalFragmentProcessor
+linktitle: NormalFragmentProcessor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to process text fragments with normal mode. This class only considers whitespace within fragments.
 type: docs

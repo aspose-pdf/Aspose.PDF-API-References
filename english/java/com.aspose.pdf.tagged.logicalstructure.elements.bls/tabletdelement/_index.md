@@ -1,5 +1,6 @@
 ---
 title: TableTDElement
+linktitle: TableTDElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents TD structure element in logical structure of the table.
 type: docs

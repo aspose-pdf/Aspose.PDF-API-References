@@ -1,5 +1,6 @@
 ---
 title: UnifiedSaveOptions.ProgressEventHandlerInfo
+linktitle: UnifiedSaveOptions.ProgressEventHandlerInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents information about conversion progress that can be used in external application to show conversion progress to end user
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TeXFileSystemInputDirectory
+linktitle: TeXFileSystemInputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Implements the regular file system's method for getting a file stream to read from.
 type: docs

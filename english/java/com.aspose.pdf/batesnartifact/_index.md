@@ -1,5 +1,6 @@
 ---
 title: BatesNArtifact
+linktitle: BatesNArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Bates Numbering artifact.
 type: docs

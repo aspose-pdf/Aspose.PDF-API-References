@@ -1,5 +1,6 @@
 ---
 title: ET
+linktitle: ET
 second_title: Aspose.PDF for Java API Reference
 description: Class representing operator ET (End of text block).
 type: docs

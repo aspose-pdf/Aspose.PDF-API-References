@@ -1,5 +1,6 @@
 ---
 title: GoToRemoteAction
+linktitle: GoToRemoteAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in another PDF file instead of the current file.
 type: docs

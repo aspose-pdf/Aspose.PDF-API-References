@@ -1,5 +1,6 @@
 ---
 title: SvgSaveOptions.EmbeddedImagesSavingStrategy
+linktitle: SvgSaveOptions.EmbeddedImagesSavingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: To property of such type You can assign delegate created from custom method that implements processing of external saving of image that was extracted from SVG created from PDF.
 type: docs

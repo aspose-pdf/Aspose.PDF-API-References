@@ -1,5 +1,6 @@
 ---
 title: UnsignedContentAbsorber.UnsignedContent
+linktitle: UnsignedContentAbsorber.UnsignedContent
 second_title: Aspose.PDF for Java API Reference
 description: Encapsulates unsigned content elements extracted from a PDF document. This class provides access to pages, form fields, XForms, and annotations that are part of the unsigned.
 type: docs

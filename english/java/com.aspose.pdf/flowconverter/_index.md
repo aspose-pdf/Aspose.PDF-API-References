@@ -1,5 +1,6 @@
 ---
 title: FlowConverter
+linktitle: FlowConverter
 second_title: Aspose.PDF for Java API Reference
 description: Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode.
 type: docs

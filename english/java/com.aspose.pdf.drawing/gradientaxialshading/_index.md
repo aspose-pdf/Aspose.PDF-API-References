@@ -1,5 +1,6 @@
 ---
 title: GradientAxialShading
+linktitle: GradientAxialShading
 second_title: Aspose.PDF for Java API Reference
 description: Represents gradient axial shading class.
 type: docs

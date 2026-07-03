@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.NodeLevelResourceType
+linktitle: SaveOptions.NodeLevelResourceType
 second_title: Aspose.PDF for Java API Reference
 description: enumerates possible types of saved external resources
 type: docs

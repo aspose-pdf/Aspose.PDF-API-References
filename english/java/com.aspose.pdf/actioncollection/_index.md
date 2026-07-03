@@ -1,5 +1,6 @@
 ---
 title: ActionCollection
+linktitle: ActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of actions
 type: docs

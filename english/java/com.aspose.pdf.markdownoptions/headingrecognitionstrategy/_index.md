@@ -1,5 +1,6 @@
 ---
 title: HeadingRecognitionStrategy
+linktitle: HeadingRecognitionStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Represents types of header recognition strategies.
 type: docs

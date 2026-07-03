@@ -1,5 +1,6 @@
 ---
 title: Curve
+linktitle: Curve
 second_title: Aspose.PDF for Java API Reference
 description: Represents bezier curve.
 type: docs

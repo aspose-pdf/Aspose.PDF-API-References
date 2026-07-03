@@ -1,5 +1,6 @@
 ---
 title: PdfPageEditor
+linktitle: PdfPageEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to edit the PDF file's page, including rotating page, zooming page, moving position and changing page size.
 type: docs

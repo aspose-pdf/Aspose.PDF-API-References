@@ -1,5 +1,6 @@
 ---
 title: SvgSaveOptions.SvgExternalImageType
+linktitle: SvgSaveOptions.SvgExternalImageType
 second_title: Aspose.PDF for Java API Reference
 description: enumerates possible types of image files that can be saved as external resources during during Pdf to SVG conversion
 type: docs

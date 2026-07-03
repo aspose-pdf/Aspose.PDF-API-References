@@ -1,5 +1,6 @@
 ---
 title: NumberingStyle
+linktitle: NumberingStyle
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of supported page numbering style for PageLabel class.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: FontSubstitution
+linktitle: FontSubstitution
 second_title: Aspose.PDF for Java API Reference
 description: For internal usage only Represents a base class for font substitution strategies.
 type: docs

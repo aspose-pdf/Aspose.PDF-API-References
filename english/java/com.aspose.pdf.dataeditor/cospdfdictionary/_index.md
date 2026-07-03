@@ -1,5 +1,6 @@
 ---
 title: CosPdfDictionary
+linktitle: CosPdfDictionary
 second_title: Aspose.PDF for Java API Reference
 description: A class for accessing an object's dictionary.
 type: docs

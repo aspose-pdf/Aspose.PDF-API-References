@@ -1,7 +1,8 @@
 ---
 title: Metered
+linktitle: Metered
 second_title: Aspose.PDF for Java API Reference
-description: <p> Provides methods to set metered key. </p> <hr> In this example, an attempt will be made to set metered public and private key <pre> The component jar file: Metered matered =.
+description: '<p> Provides methods to set metered key. </p> <hr> In this example, an attempt will be made to set metered public and private key <pre> The component jar file: Metered matered =.'
 type: docs
 weight: 3060
 url: /java/com.aspose.pdf/metered/

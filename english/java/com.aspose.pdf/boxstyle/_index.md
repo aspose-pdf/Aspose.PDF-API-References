@@ -1,5 +1,6 @@
 ---
 title: BoxStyle
+linktitle: BoxStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents styles for drawing check in check box.
 type: docs

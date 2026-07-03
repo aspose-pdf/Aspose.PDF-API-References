@@ -1,5 +1,6 @@
 ---
 title: CosPdfBoolean
+linktitle: CosPdfBoolean
 second_title: Aspose.PDF for Java API Reference
 description: This class represents boolean type.
 type: docs

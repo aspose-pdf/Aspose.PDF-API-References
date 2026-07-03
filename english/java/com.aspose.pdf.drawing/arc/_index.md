@@ -1,5 +1,6 @@
 ---
 title: Arc
+linktitle: Arc
 second_title: Aspose.PDF for Java API Reference
 description: Represents arc.
 type: docs

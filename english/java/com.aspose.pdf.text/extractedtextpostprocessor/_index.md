@@ -1,5 +1,6 @@
 ---
 title: ExtractedTextPostProcessor
+linktitle: ExtractedTextPostProcessor
 second_title: Aspose.PDF for Java API Reference
 description: Performs post processing of extrated text
 type: docs

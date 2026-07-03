@@ -1,5 +1,6 @@
 ---
 title: SvgSaveOptions
+linktitle: SvgSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to SVG format
 type: docs

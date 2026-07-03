@@ -1,5 +1,6 @@
 ---
 title: AnnotationCollection
+linktitle: AnnotationCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing annotation collection.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: GradientRadialShading
+linktitle: GradientRadialShading
 second_title: Aspose.PDF for Java API Reference
 description: Represents gradient radial shading type.
 type: docs

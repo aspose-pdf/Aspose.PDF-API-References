@@ -1,5 +1,6 @@
 ---
 title: CryptographicStandard
+linktitle: CryptographicStandard
 second_title: Aspose.PDF for Java API Reference
 description: / * / * The {@code Aspose.Pdf.Security } namespace contains classes used for encryption and digital signing. / * /
 type: docs

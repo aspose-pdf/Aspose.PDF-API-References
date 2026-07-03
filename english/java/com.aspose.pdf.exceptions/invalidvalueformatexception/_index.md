@@ -1,5 +1,6 @@
 ---
 title: InvalidValueFormatException
+linktitle: InvalidValueFormatException
 second_title: Aspose.PDF for Java API Reference
 description: Exception which thrown when requested value has incorrect format.
 type: docs

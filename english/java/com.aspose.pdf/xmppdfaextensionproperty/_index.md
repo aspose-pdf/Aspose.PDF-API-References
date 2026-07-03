@@ -1,7 +1,8 @@
 ---
 title: XmpPdfAExtensionProperty
+linktitle: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for Java API Reference
-description: Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace prefix: pdfaProperty
+description: 'Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace prefix: pdfaProperty'
 type: docs
 weight: 5710
 url: /java/com.aspose.pdf/xmppdfaextensionproperty/

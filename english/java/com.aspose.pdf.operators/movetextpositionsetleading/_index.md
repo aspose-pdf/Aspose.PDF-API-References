@@ -1,5 +1,6 @@
 ---
 title: MoveTextPositionSetLeading
+linktitle: MoveTextPositionSetLeading
 second_title: Aspose.PDF for Java API Reference
 description: Class representing TD operator (move position and set leading).
 type: docs

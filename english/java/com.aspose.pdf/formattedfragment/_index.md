@@ -1,5 +1,6 @@
 ---
 title: FormattedFragment
+linktitle: FormattedFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents abstract formatted fragment.
 type: docs

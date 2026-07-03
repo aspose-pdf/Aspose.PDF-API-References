@@ -1,5 +1,6 @@
 ---
 title: FontAbsorber
+linktitle: FontAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of fonts. Performs search for fonts and provides access to search results via {@code FontAbsorber.Fonts} collection.
 type: docs

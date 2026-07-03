@@ -1,5 +1,6 @@
 ---
 title: SetLineCap
+linktitle: SetLineCap
 second_title: Aspose.PDF for Java API Reference
 description: Class representing J operator (set line cap style).
 type: docs

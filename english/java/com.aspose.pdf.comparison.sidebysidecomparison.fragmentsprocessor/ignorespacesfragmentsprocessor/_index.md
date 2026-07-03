@@ -1,5 +1,6 @@
 ---
 title: IgnoreSpacesFragmentsProcessor
+linktitle: IgnoreSpacesFragmentsProcessor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to process text fragments with ignoring spaces mode. This class ignores all whitespace, highlighting individual words as fragments.
 type: docs

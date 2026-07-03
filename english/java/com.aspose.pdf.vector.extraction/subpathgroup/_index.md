@@ -1,5 +1,6 @@
 ---
 title: SubPathGroup
+linktitle: SubPathGroup
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for a group of graphic element containers. Class objects have a bounding box to account for group size.
 type: docs

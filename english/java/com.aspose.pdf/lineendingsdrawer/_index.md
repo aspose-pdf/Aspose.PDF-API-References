@@ -1,5 +1,6 @@
 ---
 title: LineEndingsDrawer
+linktitle: LineEndingsDrawer
 second_title: Aspose.PDF for Java API Reference
 description: Draws line endings for annotations. Internal class for internal usage only.
 type: docs

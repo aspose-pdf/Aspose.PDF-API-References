@@ -1,5 +1,6 @@
 ---
 title: ThumbnailDevice
+linktitle: ThumbnailDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that save pdf document pages into Thumbnail image.
 type: docs

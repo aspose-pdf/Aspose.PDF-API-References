@@ -1,5 +1,6 @@
 ---
 title: StampInfo
+linktitle: StampInfo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing stamp information.
 type: docs

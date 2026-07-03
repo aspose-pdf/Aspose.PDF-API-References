@@ -1,5 +1,6 @@
 ---
 title: TeXLoadOptions
+linktitle: TeXLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs

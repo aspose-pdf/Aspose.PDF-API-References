@@ -1,5 +1,6 @@
 ---
 title: SetCharWidthBoundingBox
+linktitle: SetCharWidthBoundingBox
 second_title: Aspose.PDF for Java API Reference
 description: Class representing d1 operator (set glyph and bounding box).
 type: docs

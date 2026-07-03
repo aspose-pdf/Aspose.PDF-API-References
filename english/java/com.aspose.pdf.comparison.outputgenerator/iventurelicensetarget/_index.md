@@ -1,7 +1,8 @@
 ---
 title: IVentureLicenseTarget
+linktitle: IVentureLicenseTarget
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 50
 url: /java/com.aspose.pdf.comparison.outputgenerator/iventurelicensetarget/

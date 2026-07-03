@@ -1,5 +1,6 @@
 ---
 title: PartElement
+linktitle: PartElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Part structure element in logical structure.
 type: docs

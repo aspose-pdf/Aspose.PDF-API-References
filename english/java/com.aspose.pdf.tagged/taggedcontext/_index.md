@@ -1,5 +1,6 @@
 ---
 title: TaggedContext
+linktitle: TaggedContext
 second_title: Aspose.PDF for Java API Reference
 description: For internal usage only
 type: docs

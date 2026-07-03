@@ -1,5 +1,6 @@
 ---
 title: StructureTypeStandard
+linktitle: StructureTypeStandard
 second_title: Aspose.PDF for Java API Reference
 description: Represents Standard Structure Types.
 type: docs

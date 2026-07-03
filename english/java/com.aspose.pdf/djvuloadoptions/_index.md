@@ -1,5 +1,6 @@
 ---
 title: DjvuLoadOptions
+linktitle: DjvuLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Class describes DJVU load options.
 type: docs

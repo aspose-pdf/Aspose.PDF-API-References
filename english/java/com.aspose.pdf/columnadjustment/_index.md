@@ -1,5 +1,6 @@
 ---
 title: ColumnAdjustment
+linktitle: ColumnAdjustment
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates column adjustment types.
 type: docs

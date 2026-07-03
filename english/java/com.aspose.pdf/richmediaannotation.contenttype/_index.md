@@ -1,5 +1,6 @@
 ---
 title: RichMediaAnnotation.ContentType
+linktitle: RichMediaAnnotation.ContentType
 second_title: Aspose.PDF for Java API Reference
 description: Type of the multimedia.
 type: docs

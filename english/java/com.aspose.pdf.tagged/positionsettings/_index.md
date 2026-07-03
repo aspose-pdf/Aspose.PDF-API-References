@@ -1,5 +1,6 @@
 ---
 title: PositionSettings
+linktitle: PositionSettings
 second_title: Aspose.PDF for Java API Reference
 description: Position settings.
 type: docs

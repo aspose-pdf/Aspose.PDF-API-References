@@ -1,5 +1,6 @@
 ---
 title: RtfParagraph
+linktitle: RtfParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a paragraph, which contains text runs and has its own formatting.
 type: docs

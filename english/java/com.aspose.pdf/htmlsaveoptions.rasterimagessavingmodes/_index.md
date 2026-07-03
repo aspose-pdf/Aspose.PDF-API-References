@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.RasterImagesSavingModes
+linktitle: HtmlSaveOptions.RasterImagesSavingModes
 second_title: Aspose.PDF for Java API Reference
 description: Converted PDF can contain raster images(.png, *.jpeg etc.) This enum defines methods of how raster images can be handled during conversion of PDF to HTML
 type: docs

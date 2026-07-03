@@ -1,5 +1,6 @@
 ---
 title: ImportFieldsToJsonOptions
+linktitle: ImportFieldsToJsonOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for importing form fields to Json format. Inherits from {@code ImportFieldsOptions} and adds specific options for Json import.
 type: docs

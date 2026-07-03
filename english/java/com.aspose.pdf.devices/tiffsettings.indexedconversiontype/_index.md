@@ -1,5 +1,6 @@
 ---
 title: TiffSettings.IndexedConversionType
+linktitle: TiffSettings.IndexedConversionType
 second_title: Aspose.PDF for Java API Reference
 description: Class represented indexed conversion types
 type: docs

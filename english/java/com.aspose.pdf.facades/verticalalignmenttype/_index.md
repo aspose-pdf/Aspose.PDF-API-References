@@ -1,5 +1,6 @@
 ---
 title: VerticalAlignmentType
+linktitle: VerticalAlignmentType
 second_title: Aspose.PDF for Java API Reference
 description: Class representing possible vertical alignment values. Use VerticalAlignment instead
 type: docs

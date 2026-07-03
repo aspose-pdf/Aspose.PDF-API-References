@@ -1,5 +1,6 @@
 ---
 title: com.aspose.ms.System.MulticastDelegate>
+linktitle: com.aspose.ms.System.MulticastDelegate>
 second_title: Aspose.PDF for Java API Reference
 description: Class representing events
 type: docs

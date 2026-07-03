@@ -1,5 +1,6 @@
 ---
 title: SignaturesCompromiseDetector
+linktitle: SignaturesCompromiseDetector
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for checking compromising signatures of the document. The detector checks only known ways to compromise signatures. Verification cannot provide a 100%.
 type: docs

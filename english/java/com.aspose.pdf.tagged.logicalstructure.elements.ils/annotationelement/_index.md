@@ -1,5 +1,6 @@
 ---
 title: AnnotationElement
+linktitle: AnnotationElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for annotation structure elements in logical structure.
 type: docs

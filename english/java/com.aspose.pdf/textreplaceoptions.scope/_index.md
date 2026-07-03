@@ -1,5 +1,6 @@
 ---
 title: TextReplaceOptions.Scope
+linktitle: TextReplaceOptions.Scope
 second_title: Aspose.PDF for Java API Reference
 description: Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to.
 type: docs

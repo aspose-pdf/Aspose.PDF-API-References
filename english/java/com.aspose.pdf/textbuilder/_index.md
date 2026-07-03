@@ -1,5 +1,6 @@
 ---
 title: TextBuilder
+linktitle: TextBuilder
 second_title: Aspose.PDF for Java API Reference
 description: Appends text object to Pdf page.
 type: docs

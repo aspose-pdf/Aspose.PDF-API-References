@@ -1,5 +1,6 @@
 ---
 title: PredefinedAction
+linktitle: PredefinedAction
 second_title: Aspose.PDF for Java API Reference
 description: Defines different actions which can be triggered from a PDF file.
 type: docs

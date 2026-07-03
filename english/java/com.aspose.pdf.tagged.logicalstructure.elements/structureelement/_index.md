@@ -1,5 +1,6 @@
 ---
 title: StructureElement
+linktitle: StructureElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for structure elements in logical structure.
 type: docs

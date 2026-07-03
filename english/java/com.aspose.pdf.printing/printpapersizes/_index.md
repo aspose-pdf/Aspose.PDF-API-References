@@ -1,5 +1,6 @@
 ---
 title: PrintPaperSizes
+linktitle: PrintPaperSizes
 second_title: Aspose.PDF for Java API Reference
 description: Represents the standard paper sizes.
 type: docs

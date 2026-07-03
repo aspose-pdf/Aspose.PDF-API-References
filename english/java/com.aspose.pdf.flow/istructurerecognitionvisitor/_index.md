@@ -1,5 +1,6 @@
 ---
 title: IStructureRecognitionVisitor
+linktitle: IStructureRecognitionVisitor
 second_title: Aspose.PDF for Java API Reference
 description: Base interface for a custom document structure recognition visitor
 type: docs

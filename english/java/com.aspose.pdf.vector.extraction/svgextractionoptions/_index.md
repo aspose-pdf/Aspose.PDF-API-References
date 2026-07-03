@@ -1,5 +1,6 @@
 ---
 title: SvgExtractionOptions
+linktitle: SvgExtractionOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents an options class for extracting vector graphics from the pdf document page.
 type: docs

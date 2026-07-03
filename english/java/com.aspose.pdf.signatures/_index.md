@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.signatures
+linktitle: com.aspose.pdf.signatures
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.signatures package provides classes for signature's functionalities.
 type: docs

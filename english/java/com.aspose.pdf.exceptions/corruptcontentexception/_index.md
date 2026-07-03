@@ -1,5 +1,6 @@
 ---
 title: CorruptContentException
+linktitle: CorruptContentException
 second_title: Aspose.PDF for Java API Reference
 description: Represents CorruptContentException class
 type: docs

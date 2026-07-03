@@ -1,5 +1,6 @@
 ---
 title: TextStyle
+linktitle: TextStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text style class.
 type: docs

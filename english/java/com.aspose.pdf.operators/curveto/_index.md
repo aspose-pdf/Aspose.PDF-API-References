@@ -1,5 +1,6 @@
 ---
 title: CurveTo
+linktitle: CurveTo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing c operator (append curve to path).
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: WarichuChildElement
+linktitle: WarichuChildElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for children elements of the Warichu in logical structure.
 type: docs

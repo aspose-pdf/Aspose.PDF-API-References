@@ -1,5 +1,6 @@
 ---
 title: FormattedText
+linktitle: FormattedText
 second_title: Aspose.PDF for Java API Reference
 description: Class which represents formatted text. Contains information about text and its color, size, style.
 type: docs

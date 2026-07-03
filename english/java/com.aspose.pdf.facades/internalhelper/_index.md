@@ -1,5 +1,6 @@
 ---
 title: InternalHelper
+linktitle: InternalHelper
 second_title: Aspose.PDF for Java API Reference
 description: Help class
 type: docs

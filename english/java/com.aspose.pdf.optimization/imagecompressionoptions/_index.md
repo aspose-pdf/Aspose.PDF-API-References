@@ -1,5 +1,6 @@
 ---
 title: ImageCompressionOptions
+linktitle: ImageCompressionOptions
 second_title: Aspose.PDF for Java API Reference
 description: Class contains set options for image compression.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PdfPrinterSettings
+linktitle: PdfPrinterSettings
 second_title: Aspose.PDF for Java API Reference
 description: Specifies information about how a document is printed, including the printer that prints it.
 type: docs

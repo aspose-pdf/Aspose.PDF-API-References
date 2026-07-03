@@ -1,5 +1,6 @@
 ---
 title: XpsSaveOptions
+linktitle: XpsSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xps format
 type: docs

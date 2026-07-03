@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.CssUrlRequestInfo
+linktitle: HtmlSaveOptions.CssUrlRequestInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents set of data that related to request from converter to custom code aimed to get desirable URL (or URL template)of subject CSS
 type: docs

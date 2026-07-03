@@ -1,5 +1,6 @@
 ---
 title: MediaClipData
+linktitle: MediaClipData
 second_title: Aspose.PDF for Java API Reference
 description: Class describes media clip data.
 type: docs

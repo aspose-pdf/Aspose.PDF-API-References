@@ -1,5 +1,6 @@
 ---
 title: PdfXmpMetadata
+linktitle: PdfXmpMetadata
 second_title: Aspose.PDF for Java API Reference
 description: Class for manipulation with XMP metadata.
 type: docs

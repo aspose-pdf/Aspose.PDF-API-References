@@ -1,5 +1,6 @@
 ---
 title: VerticalAlignment
+linktitle: VerticalAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible vertical alignment values.
 type: docs

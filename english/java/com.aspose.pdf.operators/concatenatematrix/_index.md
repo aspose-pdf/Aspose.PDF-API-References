@@ -1,5 +1,6 @@
 ---
 title: ConcatenateMatrix
+linktitle: ConcatenateMatrix
 second_title: Aspose.PDF for Java API Reference
 description: Class representing cm operator (concatenate matrix to current transformation matrix).
 type: docs

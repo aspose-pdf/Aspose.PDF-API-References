@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.HtmlImageSavingInfo
+linktitle: HtmlSaveOptions.HtmlImageSavingInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents set of data that related to external resource image file's saving during PDF to HTML conversion.
 type: docs

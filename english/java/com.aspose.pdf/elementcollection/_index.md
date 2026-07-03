@@ -1,5 +1,6 @@
 ---
 title: ElementCollection
+linktitle: ElementCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of base logical structure elements.
 type: docs

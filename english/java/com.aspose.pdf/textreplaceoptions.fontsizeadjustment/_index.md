@@ -1,5 +1,6 @@
 ---
 title: TextReplaceOptions.FontSizeAdjustment
+linktitle: TextReplaceOptions.FontSizeAdjustment
 second_title: Aspose.PDF for Java API Reference
 description: Specifies a policy for how the font size of text should be adjusted to fit within a containing area.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: MCRElement
+linktitle: MCRElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents marked-content reference object in logical structure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PdfAnnotationEditor
+linktitle: PdfAnnotationEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for work with PDF document annotations (comments).
 type: docs

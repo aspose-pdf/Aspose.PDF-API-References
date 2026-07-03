@@ -1,5 +1,6 @@
 ---
 title: DocumentFactory
+linktitle: DocumentFactory
 second_title: Aspose.PDF for Java API Reference
 description: Class which allows to create/load documents of different types.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Cell
+linktitle: Cell
 second_title: Aspose.PDF for Java API Reference
 description: Represents a cell of the table's row.
 type: docs

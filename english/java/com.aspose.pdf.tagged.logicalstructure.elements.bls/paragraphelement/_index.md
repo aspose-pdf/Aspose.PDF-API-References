@@ -1,5 +1,6 @@
 ---
 title: ParagraphElement
+linktitle: ParagraphElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Paragraph structure element in logical structure.
 type: docs

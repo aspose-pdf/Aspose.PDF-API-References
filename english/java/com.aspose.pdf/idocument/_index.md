@@ -1,5 +1,6 @@
 ---
 title: IDocument
+linktitle: IDocument
 second_title: Aspose.PDF for Java API Reference
 description: interface representing PDF document
 type: docs

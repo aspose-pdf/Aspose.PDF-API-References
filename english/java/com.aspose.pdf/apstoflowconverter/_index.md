@@ -1,5 +1,6 @@
 ---
 title: ApsToFlowConverter
+linktitle: ApsToFlowConverter
 second_title: Aspose.PDF for Java API Reference
 description: APS to Flow Conversion
 type: docs

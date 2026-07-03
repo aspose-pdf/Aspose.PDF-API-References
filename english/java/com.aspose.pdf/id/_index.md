@@ -1,5 +1,6 @@
 ---
 title: Id
+linktitle: Id
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents file identifier structure. </p> <hr> <pre> Document doc = new Document(\"example.pdf\"); String original = doc.getId().getOriginal(); String modified =.
 type: docs

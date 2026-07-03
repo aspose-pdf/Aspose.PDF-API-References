@@ -1,5 +1,6 @@
 ---
 title: WatermarkAnnotation
+linktitle: WatermarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Watermark annotation object.
 type: docs

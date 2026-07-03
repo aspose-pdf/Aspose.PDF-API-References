@@ -1,5 +1,6 @@
 ---
 title: WatermarkArtifact
+linktitle: WatermarkArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes watermark artifact. This may be used to
 type: docs

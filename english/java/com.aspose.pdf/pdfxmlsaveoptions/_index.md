@@ -1,5 +1,6 @@
 ---
 title: PdfXmlSaveOptions
+linktitle: PdfXmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for PdfXml format.
 type: docs

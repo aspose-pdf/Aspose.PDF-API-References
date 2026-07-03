@@ -1,5 +1,6 @@
 ---
 title: ImageStamp
+linktitle: ImageStamp
 second_title: Aspose.PDF for Java API Reference
 description: Represents a graphic stamp.
 type: docs

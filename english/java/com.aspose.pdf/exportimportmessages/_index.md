@@ -1,5 +1,6 @@
 ---
 title: ExportImportMessages
+linktitle: ExportImportMessages
 second_title: Aspose.PDF for Java API Reference
 description: Contains various error messages for export and import operations of form fields.
 type: docs

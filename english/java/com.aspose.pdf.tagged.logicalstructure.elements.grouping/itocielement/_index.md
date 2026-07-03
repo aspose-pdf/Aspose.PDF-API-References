@@ -1,5 +1,6 @@
 ---
 title: ITociElement
+linktitle: ITociElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents an element that can function as a table of contents entry (TOCI) in a tagged PDF document. This interface abstracts both standard TOCI elements and List Item (LI).
 type: docs

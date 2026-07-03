@@ -1,5 +1,6 @@
 ---
 title: TxtLoadOptions
+linktitle: TxtLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for TXT to PDF conversion.
 type: docs

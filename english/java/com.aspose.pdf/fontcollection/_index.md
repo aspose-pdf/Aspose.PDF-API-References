@@ -1,5 +1,6 @@
 ---
 title: FontCollection
+linktitle: FontCollection
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents font collection. </p> <hr> <pre> The example demonstrates how to make all font declared on page as embedded. // Open document Document doc = new.
 type: docs

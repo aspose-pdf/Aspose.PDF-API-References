@@ -1,5 +1,6 @@
 ---
 title: Subset
+linktitle: Subset
 second_title: Aspose.PDF for Java API Reference
 description: Represents the subset of pages to which a pagination artifact can apply.
 type: docs

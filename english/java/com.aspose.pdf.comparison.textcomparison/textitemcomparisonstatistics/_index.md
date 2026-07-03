@@ -1,5 +1,6 @@
 ---
 title: TextItemComparisonStatistics
+linktitle: TextItemComparisonStatistics
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text comparison ststistics class.
 type: docs

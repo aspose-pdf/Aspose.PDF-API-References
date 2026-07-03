@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.AntialiasingProcessingType
+linktitle: HtmlSaveOptions.AntialiasingProcessingType
 second_title: Aspose.PDF for Java API Reference
 description: This enum describes possible antialiasing measures during conversion
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: EI
+linktitle: EI
 second_title: Aspose.PDF for Java API Reference
 description: Class representing EI operator (End inline image object).
 type: docs

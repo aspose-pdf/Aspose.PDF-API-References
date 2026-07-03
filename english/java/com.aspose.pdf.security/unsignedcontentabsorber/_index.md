@@ -1,5 +1,6 @@
 ---
 title: UnsignedContentAbsorber
+linktitle: UnsignedContentAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for extracting unsigned content from a PDF file managed by digital signatures.
 type: docs

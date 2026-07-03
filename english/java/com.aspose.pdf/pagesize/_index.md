@@ -1,5 +1,6 @@
 ---
 title: PageSize
+linktitle: PageSize
 second_title: Aspose.PDF for Java API Reference
 description: Class representing size of page in PDF document.
 type: docs

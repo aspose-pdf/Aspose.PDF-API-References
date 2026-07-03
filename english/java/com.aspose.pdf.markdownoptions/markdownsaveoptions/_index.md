@@ -1,5 +1,6 @@
 ---
 title: MarkdownSaveOptions
+linktitle: MarkdownSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents the document save option class in the markdown format.
 type: docs

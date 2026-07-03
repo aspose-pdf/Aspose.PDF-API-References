@@ -1,5 +1,6 @@
 ---
 title: StructElement
+linktitle: StructElement
 second_title: Aspose.PDF for Java API Reference
 description: General structure element.
 type: docs

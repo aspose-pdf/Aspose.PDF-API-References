@@ -1,5 +1,6 @@
 ---
 title: PdfFormatConversionOptions.RemoveFontsStrategy
+linktitle: PdfFormatConversionOptions.RemoveFontsStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Some documens have large size after converison into PDF/A format. To reduce file size for these documents it's necessary to define a strategy of fonts removing. This enumeration.
 type: docs

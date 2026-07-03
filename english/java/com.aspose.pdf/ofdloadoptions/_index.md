@@ -1,5 +1,6 @@
 ---
 title: OfdLoadOptions
+linktitle: OfdLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for OFD format.
 type: docs

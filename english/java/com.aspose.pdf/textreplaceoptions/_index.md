@@ -1,5 +1,6 @@
 ---
 title: TextReplaceOptions
+linktitle: TextReplaceOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text replace options
 type: docs

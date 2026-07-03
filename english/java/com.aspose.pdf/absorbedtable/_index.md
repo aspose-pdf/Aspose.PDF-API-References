@@ -1,5 +1,6 @@
 ---
 title: AbsorbedTable
+linktitle: AbsorbedTable
 second_title: Aspose.PDF for Java API Reference
 description: Represents table that exist on the page
 type: docs

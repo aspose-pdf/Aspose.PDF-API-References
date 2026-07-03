@@ -1,5 +1,6 @@
 ---
 title: BX
+linktitle: BX
 second_title: Aspose.PDF for Java API Reference
 description: Class representing BX operator (begin compatibility section).
 type: docs

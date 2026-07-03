@@ -1,5 +1,6 @@
 ---
 title: ITeXInputDirectory
+linktitle: ITeXInputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Interface of generalized TeX input directory.
 type: docs

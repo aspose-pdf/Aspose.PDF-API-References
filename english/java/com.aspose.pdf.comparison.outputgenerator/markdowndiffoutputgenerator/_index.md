@@ -1,5 +1,6 @@
 ---
 title: MarkdownDiffOutputGenerator
+linktitle: MarkdownDiffOutputGenerator
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for generating markdown representation of texts differences. Because of the markdown syntax, it is not possible to show changes to whitespace characters.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PDF3DAnnotation
+linktitle: PDF3DAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DAnnotation. This class cannot be inherited. @see Annotation
 type: docs

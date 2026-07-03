@@ -1,5 +1,6 @@
 ---
 title: CaretSymbolConverter
+linktitle: CaretSymbolConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents CaretSymbolConverter class
 type: docs

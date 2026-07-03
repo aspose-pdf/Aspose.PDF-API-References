@@ -1,5 +1,6 @@
 ---
 title: SetColorRenderingIntent
+linktitle: SetColorRenderingIntent
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ri operator (set color rendering intent).
 type: docs

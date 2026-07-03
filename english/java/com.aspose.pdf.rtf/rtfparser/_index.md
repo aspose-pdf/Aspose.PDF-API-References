@@ -1,5 +1,6 @@
 ---
 title: RtfParser
+linktitle: RtfParser
 second_title: Aspose.PDF for Java API Reference
 description: Class for conversion of collected RTF tokens into RTF document.
 type: docs

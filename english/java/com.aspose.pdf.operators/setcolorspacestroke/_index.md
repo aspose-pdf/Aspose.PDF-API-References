@@ -1,5 +1,6 @@
 ---
 title: SetColorSpaceStroke
+linktitle: SetColorSpaceStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing CS operator (set color for stroking operations).
 type: docs

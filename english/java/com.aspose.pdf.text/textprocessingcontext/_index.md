@@ -1,5 +1,6 @@
 ---
 title: TextProcessingContext
+linktitle: TextProcessingContext
 second_title: Aspose.PDF for Java API Reference
 description: Represents text processing context
 type: docs

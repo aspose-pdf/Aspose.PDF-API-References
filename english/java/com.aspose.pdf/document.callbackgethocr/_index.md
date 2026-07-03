@@ -1,5 +1,6 @@
 ---
 title: Document.CallBackGetHocr
+linktitle: Document.CallBackGetHocr
 second_title: Aspose.PDF for Java API Reference
 description: The call back procedure for hocr recognize.
 type: docs

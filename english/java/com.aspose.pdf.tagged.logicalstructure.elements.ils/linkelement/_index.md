@@ -1,5 +1,6 @@
 ---
 title: LinkElement
+linktitle: LinkElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Link structure element in logical structure.
 type: docs

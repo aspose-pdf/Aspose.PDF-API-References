@@ -1,5 +1,6 @@
 ---
 title: PaginationArtifact
+linktitle: PaginationArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Represents an abstract base class for pagination artifacts in a document.
 type: docs

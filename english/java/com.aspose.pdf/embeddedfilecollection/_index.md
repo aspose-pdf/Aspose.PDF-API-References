@@ -1,5 +1,6 @@
 ---
 title: EmbeddedFileCollection
+linktitle: EmbeddedFileCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing embedded files collection.
 type: docs

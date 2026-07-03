@@ -1,5 +1,6 @@
 ---
 title: ComparisonMode
+linktitle: ComparisonMode
 second_title: Aspose.PDF for Java API Reference
 description: The comparison mode enumeration.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: MemoryExtender
+linktitle: MemoryExtender
 second_title: Aspose.PDF for Java API Reference
 description: Represents MemoryExtender class Using large files on a system with limited heap memory, can be enabled to use disk space as a temporary swap memory.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: DateComponent
+linktitle: DateComponent
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for date components with a format attribute.
 type: docs

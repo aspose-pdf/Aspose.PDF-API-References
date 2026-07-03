@@ -1,5 +1,6 @@
 ---
 title: AbsorbedRow
+linktitle: AbsorbedRow
 second_title: Aspose.PDF for Java API Reference
 description: Represents row of table that exist on the page
 type: docs

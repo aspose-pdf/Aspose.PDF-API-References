@@ -1,5 +1,6 @@
 ---
 title: MoveTo
+linktitle: MoveTo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing {@code operators.m} (move to and begin new subpath).
 type: docs

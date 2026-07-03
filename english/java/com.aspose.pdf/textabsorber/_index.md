@@ -1,5 +1,6 @@
 ---
 title: TextAbsorber
+linktitle: TextAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents an absorber object of a text. Performs text extraction and provides access to the result via {@code TextAbsorber.Text} object. </p> <hr> <pre> The example.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ObjectReferenceCorruptedException
+linktitle: ObjectReferenceCorruptedException
 second_title: Aspose.PDF for Java API Reference
 description: Represents an exception that is thrown when an object reference in a PDF document is found to be corrupted. That means there is no object pointed to by the link.
 type: docs

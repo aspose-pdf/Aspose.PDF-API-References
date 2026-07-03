@@ -1,5 +1,6 @@
 ---
 title: DestinationFactory
+linktitle: DestinationFactory
 second_title: Aspose.PDF for Java API Reference
 description: Represents DestinationFactory class
 type: docs

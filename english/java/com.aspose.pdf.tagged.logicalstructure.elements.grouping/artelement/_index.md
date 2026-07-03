@@ -1,5 +1,6 @@
 ---
 title: ArtElement
+linktitle: ArtElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Art structure element in logical structure.
 type: docs

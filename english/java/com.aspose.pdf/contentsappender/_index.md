@@ -1,5 +1,6 @@
 ---
 title: ContentsAppender
+linktitle: ContentsAppender
 second_title: Aspose.PDF for Java API Reference
 description: Performs contents modifications in APPEND mode only. this mode allows to avoid unneeded and heavy contents parsing before some change is made to the contents. It only appends new.
 type: docs

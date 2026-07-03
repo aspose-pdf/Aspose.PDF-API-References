@@ -1,5 +1,6 @@
 ---
 title: ExportFieldsOptions
+linktitle: ExportFieldsOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents base class of options for exporting form fields.
 type: docs

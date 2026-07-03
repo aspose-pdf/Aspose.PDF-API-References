@@ -1,5 +1,6 @@
 ---
 title: BorderCornerStyle
+linktitle: BorderCornerStyle
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the border corner styles for border.
 type: docs

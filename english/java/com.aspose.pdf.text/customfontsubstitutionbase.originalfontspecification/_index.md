@@ -1,5 +1,6 @@
 ---
 title: CustomFontSubstitutionBase.OriginalFontSpecification
+linktitle: CustomFontSubstitutionBase.OriginalFontSpecification
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents original font specification. </p> <hr> <p> Provides info related to original font such as , flag. Also provides flag that helps to check is the substitution will.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: WebHyperlink
+linktitle: WebHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents web hyperlink object.
 type: docs

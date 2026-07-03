@@ -1,5 +1,6 @@
 ---
 title: TeXLoadResult
+linktitle: TeXLoadResult
 second_title: Aspose.PDF for Java API Reference
 description: Results for TeX load and compiling.
 type: docs

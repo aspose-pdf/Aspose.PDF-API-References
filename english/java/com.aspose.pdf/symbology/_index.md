@@ -1,7 +1,8 @@
 ---
 title: Symbology
+linktitle: Symbology
 second_title: Aspose.PDF for Java API Reference
-description: A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.
+description: 'A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.'
 type: docs
 weight: 4760
 url: /java/com.aspose.pdf/symbology/

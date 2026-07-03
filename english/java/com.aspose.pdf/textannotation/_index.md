@@ -1,5 +1,6 @@
 ---
 title: TextAnnotation
+linktitle: TextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text annotation that is a \"sticky note\" attached to a point in the PDF document.
 type: docs

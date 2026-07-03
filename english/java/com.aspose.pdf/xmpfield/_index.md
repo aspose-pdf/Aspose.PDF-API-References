@@ -1,5 +1,6 @@
 ---
 title: XmpField
+linktitle: XmpField
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP field.
 type: docs

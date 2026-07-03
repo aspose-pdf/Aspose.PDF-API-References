@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.devices
+linktitle: com.aspose.pdf.devices
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.devices package provides classes which are used for representing document as image(s) or a plain text.
 type: docs

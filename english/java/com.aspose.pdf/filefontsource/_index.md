@@ -1,5 +1,6 @@
 ---
 title: FileFontSource
+linktitle: FileFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents single font file source.
 type: docs

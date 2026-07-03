@@ -1,5 +1,6 @@
 ---
 title: PrinterMarksKind
+linktitle: PrinterMarksKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the types of printer's marks to be added to a document. This enumeration has a {@link FlagsAttribute} attribute that allows a bitwise combination of its member values.
 type: docs

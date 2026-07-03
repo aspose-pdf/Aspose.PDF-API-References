@@ -1,7 +1,8 @@
 ---
 title: IPdfFileEditor.ContentsResizeParameters
+linktitle: IPdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for Java API Reference
-description: Class for specifing page resize parameters. Allow to set the following parameters: Size of result page (width, height) in default space units or in percents of initial pages.
+description: 'Class for specifing page resize parameters. Allow to set the following parameters: Size of result page (width, height) in default space units or in percents of initial pages.'
 type: docs
 weight: 300
 url: /java/com.aspose.pdf.facades/ipdffileeditor.contentsresizeparameters/

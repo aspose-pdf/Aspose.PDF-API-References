@@ -1,5 +1,6 @@
 ---
 title: DefaultState
+linktitle: DefaultState
 second_title: Aspose.PDF for Java API Reference
 description: Represents the default state of a PDF layer.
 type: docs

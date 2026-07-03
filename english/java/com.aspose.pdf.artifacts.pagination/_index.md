@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.artifacts.pagination
+linktitle: com.aspose.pdf.artifacts.pagination
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 20
 url: /java/com.aspose.pdf.artifacts.pagination/

@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.optimization
+linktitle: com.aspose.pdf.optimization
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.optimization is a package for classes for managing of document optimization process.
 type: docs

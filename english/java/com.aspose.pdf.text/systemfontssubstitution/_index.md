@@ -1,5 +1,6 @@
 ---
 title: SystemFontsSubstitution
+linktitle: SystemFontsSubstitution
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for font substitution strategy that substitutes fonts with system fonts.
 type: docs

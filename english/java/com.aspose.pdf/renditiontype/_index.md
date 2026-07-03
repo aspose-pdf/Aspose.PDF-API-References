@@ -1,5 +1,6 @@
 ---
 title: RenditionType
+linktitle: RenditionType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes possible types of Rendition.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Table
+linktitle: Table
 second_title: Aspose.PDF for Java API Reference
 description: Represents a table that can be added to the page.
 type: docs

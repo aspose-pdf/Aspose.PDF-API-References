@@ -1,5 +1,6 @@
 ---
 title: CustomPrintEventArgs
+linktitle: CustomPrintEventArgs
 second_title: Aspose.PDF for Java API Reference
 description: Provides data for the PdfViewer.getCustomPrintDelegate() event.
 type: docs

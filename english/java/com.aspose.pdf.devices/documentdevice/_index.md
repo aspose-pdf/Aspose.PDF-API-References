@@ -1,5 +1,6 @@
 ---
 title: DocumentDevice
+linktitle: DocumentDevice
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class for all devices which is used to process the whole pdf document.
 type: docs

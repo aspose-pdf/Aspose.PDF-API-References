@@ -1,5 +1,6 @@
 ---
 title: EpubLoadOptions
+linktitle: EpubLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Contains options for loading/importing EPUB file into pdf document.
 type: docs

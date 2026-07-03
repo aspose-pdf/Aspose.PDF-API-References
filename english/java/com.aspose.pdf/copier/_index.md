@@ -1,5 +1,6 @@
 ---
 title: Copier
+linktitle: Copier
 second_title: Aspose.PDF for Java API Reference
 description: Class for coping object
 type: docs

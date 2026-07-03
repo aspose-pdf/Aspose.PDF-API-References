@@ -1,5 +1,6 @@
 ---
 title: FragmentWithSpaces
+linktitle: FragmentWithSpaces
 second_title: Aspose.PDF for Java API Reference
 description: Represents text fragments with extra spaces. Rect changed to take into account spaces.
 type: docs

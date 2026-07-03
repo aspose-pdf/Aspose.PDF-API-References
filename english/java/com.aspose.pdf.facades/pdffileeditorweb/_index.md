@@ -1,7 +1,8 @@
 ---
 title: PdfFileEditorWeb
+linktitle: PdfFileEditorWeb
 second_title: Aspose.PDF for Java API Reference
-description: Represents PdfFileEditorWeb class Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.
+description: 'Represents PdfFileEditorWeb class Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.'
 type: docs
 weight: 480
 url: /java/com.aspose.pdf.facades/pdffileeditorweb/

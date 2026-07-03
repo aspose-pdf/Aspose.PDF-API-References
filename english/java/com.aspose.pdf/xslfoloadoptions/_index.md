@@ -1,5 +1,6 @@
 ---
 title: XslFoLoadOptions
+linktitle: XslFoLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing XSL-FO file into pdf document.
 type: docs

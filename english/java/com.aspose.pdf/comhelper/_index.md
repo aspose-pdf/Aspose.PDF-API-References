@@ -1,5 +1,6 @@
 ---
 title: ComHelper
+linktitle: ComHelper
 second_title: Aspose.PDF for Java API Reference
 description: <p> Provides methods for COM clients to load a document into Aspose.PDF. </p> <hr> <p> Use the ComHelper class to load a document from a file or stream into a Document object in.
 type: docs

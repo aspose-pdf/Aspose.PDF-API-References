@@ -1,7 +1,8 @@
 ---
 title: TaggedContent
+linktitle: TaggedContent
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 50
 url: /java/com.aspose.pdf.tagged/taggedcontent/

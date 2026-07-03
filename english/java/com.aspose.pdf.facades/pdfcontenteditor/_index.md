@@ -1,5 +1,6 @@
 ---
 title: PdfContentEditor
+linktitle: PdfContentEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to edit PDF file's content.
 type: docs

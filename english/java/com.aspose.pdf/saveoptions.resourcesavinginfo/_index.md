@@ -1,5 +1,6 @@
 ---
 title: SaveOptions.ResourceSavingInfo
+linktitle: SaveOptions.ResourceSavingInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML)
 type: docs

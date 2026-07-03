@@ -1,5 +1,6 @@
 ---
 title: RtfHeader
+linktitle: RtfHeader
 second_title: Aspose.PDF for Java API Reference
 description: Holds metadata like the font and color tables
 type: docs

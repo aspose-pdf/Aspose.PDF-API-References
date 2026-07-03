@@ -1,5 +1,6 @@
 ---
 title: LoadOptions.ResourceLoadingStrategy
+linktitle: LoadOptions.ResourceLoadingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested resources from somewhere.
 type: docs

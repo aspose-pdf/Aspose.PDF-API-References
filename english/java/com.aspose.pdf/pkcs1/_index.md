@@ -1,5 +1,6 @@
 ---
 title: PKCS1
+linktitle: PKCS1
 second_title: Aspose.PDF for Java API Reference
 description: Represents signature object regarding PKCS#1 standard. RSA encryption algorithm and SHA-1 digest method are used for signing.
 type: docs

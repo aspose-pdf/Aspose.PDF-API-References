@@ -1,5 +1,6 @@
 ---
 title: TextStamp.NoCharacterAction
+linktitle: TextStamp.NoCharacterAction
 second_title: Aspose.PDF for Java API Reference
 description: Action to perform if font does not contain required character.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: WarningCallback
+linktitle: WarningCallback
 second_title: Aspose.PDF for Java API Reference
 description: Interface for user's callback mechanism support.
 type: docs

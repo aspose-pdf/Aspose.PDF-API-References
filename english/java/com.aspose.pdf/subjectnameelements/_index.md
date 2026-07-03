@@ -1,5 +1,6 @@
 ---
 title: SubjectNameElements
+linktitle: SubjectNameElements
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes elements in signature subject string.
 type: docs

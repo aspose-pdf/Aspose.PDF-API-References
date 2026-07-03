@@ -1,5 +1,6 @@
 ---
 title: HeaderFooterData
+linktitle: HeaderFooterData
 second_title: Aspose.PDF for Java API Reference
 description: Represents the pagination data for header and footer.
 type: docs

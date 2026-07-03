@@ -1,7 +1,8 @@
 ---
 title: InternalHelper.InternalLogic.TestHelper
+linktitle: InternalHelper.InternalLogic.TestHelper
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2470
 url: /java/com.aspose.pdf/internalhelper.internallogic.testhelper/

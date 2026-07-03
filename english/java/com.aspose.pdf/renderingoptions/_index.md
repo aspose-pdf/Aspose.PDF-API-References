@@ -1,5 +1,6 @@
 ---
 title: RenderingOptions
+linktitle: RenderingOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents rendering options
 type: docs

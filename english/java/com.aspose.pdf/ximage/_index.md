@@ -1,5 +1,6 @@
 ---
 title: XImage
+linktitle: XImage
 second_title: Aspose.PDF for Java API Reference
 description: Class representing image X-Object.
 type: docs

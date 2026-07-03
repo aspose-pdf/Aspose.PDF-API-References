@@ -1,5 +1,6 @@
 ---
 title: TextElement
+linktitle: TextElement
 second_title: Aspose.PDF for Java API Reference
 description: General text element of document logical structure.
 type: docs

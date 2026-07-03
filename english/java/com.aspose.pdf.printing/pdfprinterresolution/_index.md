@@ -1,5 +1,6 @@
 ---
 title: PdfPrinterResolution
+linktitle: PdfPrinterResolution
 second_title: Aspose.PDF for Java API Reference
 description: Represents the resolution supported by a printer.
 type: docs

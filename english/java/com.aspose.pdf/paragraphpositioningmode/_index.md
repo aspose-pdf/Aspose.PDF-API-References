@@ -1,5 +1,6 @@
 ---
 title: ParagraphPositioningMode
+linktitle: ParagraphPositioningMode
 second_title: Aspose.PDF for Java API Reference
 description: Specifies variant for determining the location of the element on the page.
 type: docs

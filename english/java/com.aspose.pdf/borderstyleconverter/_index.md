@@ -1,5 +1,6 @@
 ---
 title: BorderStyleConverter
+linktitle: BorderStyleConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents BorderStyleConverter class
 type: docs

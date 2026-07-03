@@ -1,7 +1,8 @@
 ---
 title: SideBySidePdfComparer
+linktitle: SideBySidePdfComparer
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 70
 url: /java/com.aspose.pdf.comparison.sidebysidecomparison/sidebysidepdfcomparer/

@@ -1,5 +1,6 @@
 ---
 title: Measure
+linktitle: Measure
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes Measure coordinate system.
 type: docs

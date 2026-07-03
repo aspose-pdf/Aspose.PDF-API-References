@@ -1,5 +1,6 @@
 ---
 title: XmpPdfAExtensionField
+linktitle: XmpPdfAExtensionField
 second_title: Aspose.PDF for Java API Reference
 description: This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of a property. Schema.
 type: docs

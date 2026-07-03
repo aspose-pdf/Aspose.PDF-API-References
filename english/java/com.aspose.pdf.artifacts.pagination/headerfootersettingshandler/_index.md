@@ -1,7 +1,8 @@
 ---
 title: HeaderFooterSettingsHandler
+linktitle: HeaderFooterSettingsHandler
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 80
 url: /java/com.aspose.pdf.artifacts.pagination/headerfootersettingshandler/

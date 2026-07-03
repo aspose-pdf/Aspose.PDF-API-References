@@ -1,7 +1,8 @@
 ---
 title: PdfConverter
+linktitle: PdfConverter
 second_title: Aspose.PDF for Java API Reference
-description: Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported content in pdfs: pictures, form, comment.
+description: 'Represents a class to convert a pdf file''s each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported content in pdfs: pictures, form, comment.'
 type: docs
 weight: 390
 url: /java/com.aspose.pdf.facades/pdfconverter/

@@ -1,5 +1,6 @@
 ---
 title: FormulaElement
+linktitle: FormulaElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Formula structure element in logical structure.
 type: docs

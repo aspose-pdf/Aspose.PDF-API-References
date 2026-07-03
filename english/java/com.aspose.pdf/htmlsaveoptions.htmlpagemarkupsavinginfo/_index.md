@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.HtmlPageMarkupSavingInfo
+linktitle: HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for Java API Reference
 description: If SplitToPages property of HtmlSaveOptions, then several HTML-files (one HTML file per converted page) are created during conversion of PDF to HTML. This class represents set of.
 type: docs

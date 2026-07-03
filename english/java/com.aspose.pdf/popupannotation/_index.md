@@ -1,5 +1,6 @@
 ---
 title: PopupAnnotation
+linktitle: PopupAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the pop-up annotation that displays text in a pop-up window for entry and editing.
 type: docs

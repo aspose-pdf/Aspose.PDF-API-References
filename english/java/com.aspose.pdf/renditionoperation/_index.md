@@ -1,5 +1,6 @@
 ---
 title: RenditionOperation
+linktitle: RenditionOperation
 second_title: Aspose.PDF for Java API Reference
 description: The operation to perform when the action is triggered.
 type: docs

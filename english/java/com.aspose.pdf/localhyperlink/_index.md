@@ -1,5 +1,6 @@
 ---
 title: LocalHyperlink
+linktitle: LocalHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents local hyperlink object.
 type: docs

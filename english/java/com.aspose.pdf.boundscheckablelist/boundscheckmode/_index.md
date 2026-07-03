@@ -1,5 +1,6 @@
 ---
 title: BoundsCheckMode
+linktitle: BoundsCheckMode
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the behavior for bounds checking when adding items to a collection.
 type: docs

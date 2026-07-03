@@ -1,5 +1,6 @@
 ---
 title: TextSearchOptions
+linktitle: TextSearchOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text search options
 type: docs

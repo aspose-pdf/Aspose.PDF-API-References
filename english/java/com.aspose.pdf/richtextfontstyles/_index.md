@@ -1,5 +1,6 @@
 ---
 title: RichTextFontStyles
+linktitle: RichTextFontStyles
 second_title: Aspose.PDF for Java API Reference
 description: Options for styling text fragments in RichText.
 type: docs

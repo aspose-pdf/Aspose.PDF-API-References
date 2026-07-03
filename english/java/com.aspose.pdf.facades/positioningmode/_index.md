@@ -1,5 +1,6 @@
 ---
 title: PositioningMode
+linktitle: PositioningMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method)
 type: docs

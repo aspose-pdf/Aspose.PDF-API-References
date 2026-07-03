@@ -1,5 +1,6 @@
 ---
 title: CaretSymbol
+linktitle: CaretSymbol
 second_title: Aspose.PDF for Java API Reference
 description: A symbol to be associated with the caret.
 type: docs

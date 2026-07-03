@@ -1,5 +1,6 @@
 ---
 title: BitmapInfo.PixelFormat
+linktitle: BitmapInfo.PixelFormat
 second_title: Aspose.PDF for Java API Reference
 description: Bitmap pixel format.
 type: docs

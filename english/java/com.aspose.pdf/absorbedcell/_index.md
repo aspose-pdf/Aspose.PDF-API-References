@@ -1,5 +1,6 @@
 ---
 title: AbsorbedCell
+linktitle: AbsorbedCell
 second_title: Aspose.PDF for Java API Reference
 description: Represents cell of table that exist on the page
 type: docs

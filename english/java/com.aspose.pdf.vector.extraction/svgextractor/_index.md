@@ -1,5 +1,6 @@
 ---
 title: SvgExtractor
+linktitle: SvgExtractor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to SVG-images extraction from page.
 type: docs

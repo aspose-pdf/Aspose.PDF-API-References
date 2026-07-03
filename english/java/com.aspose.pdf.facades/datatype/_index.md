@@ -1,5 +1,6 @@
 ---
 title: DataType
+linktitle: DataType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates field types definitions.
 type: docs

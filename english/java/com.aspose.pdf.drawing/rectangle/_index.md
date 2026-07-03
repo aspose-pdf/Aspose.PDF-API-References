@@ -1,5 +1,6 @@
 ---
 title: Rectangle
+linktitle: Rectangle
 second_title: Aspose.PDF for Java API Reference
 description: Represents rectangle.
 type: docs

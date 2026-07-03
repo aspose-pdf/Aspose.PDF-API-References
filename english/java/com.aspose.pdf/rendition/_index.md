@@ -1,5 +1,6 @@
 ---
 title: Rendition
+linktitle: Rendition
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes rendition object of RendtionAnnotation.
 type: docs

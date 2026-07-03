@@ -1,5 +1,6 @@
 ---
 title: SetColor
+linktitle: SetColor
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for sc operator (set color for non-stroking operations).
 type: docs

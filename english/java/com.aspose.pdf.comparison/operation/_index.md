@@ -1,5 +1,6 @@
 ---
 title: Operation
+linktitle: Operation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a difference operation type.
 type: docs

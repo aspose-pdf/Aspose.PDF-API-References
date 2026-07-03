@@ -1,5 +1,6 @@
 ---
 title: RtfStyleType
+linktitle: RtfStyleType
 second_title: Aspose.PDF for Java API Reference
 description: Enum, representing style types.
 type: docs

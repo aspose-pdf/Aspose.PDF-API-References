@@ -1,5 +1,6 @@
 ---
 title: HeaderFooterSettings.HorizontalAlignment
+linktitle: HeaderFooterSettings.HorizontalAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Represents horizontal alignment settings for header and footer.
 type: docs

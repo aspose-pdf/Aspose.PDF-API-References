@@ -1,5 +1,6 @@
 ---
 title: FormPresentationMode
+linktitle: FormPresentationMode
 second_title: Aspose.PDF for Java API Reference
 description: Used to specify the form presentation mode when printing or converting to image pdf documents.
 type: docs

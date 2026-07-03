@@ -1,5 +1,6 @@
 ---
 title: Operator
+linktitle: Operator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing operator.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextFormattingOptions.LineSpacingMode
+linktitle: TextFormattingOptions.LineSpacingMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines line spacing specifics
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: FontEmbeddingException
+linktitle: FontEmbeddingException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when an attempt to embed font became failed
 type: docs

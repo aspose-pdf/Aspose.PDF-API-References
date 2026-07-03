@@ -1,5 +1,6 @@
 ---
 title: RtfStyle
+linktitle: RtfStyle
 second_title: Aspose.PDF for Java API Reference
 description: A class, representing style.
 type: docs

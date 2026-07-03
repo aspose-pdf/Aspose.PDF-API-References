@@ -1,5 +1,6 @@
 ---
 title: ReplyType
+linktitle: ReplyType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the kinds of the relationships (the \"reply type\") between the annotation and one specified by InReplyTo.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PrintPaperSize
+linktitle: PrintPaperSize
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the size of a piece of paper.
 type: docs

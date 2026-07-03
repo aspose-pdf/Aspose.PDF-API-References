@@ -1,5 +1,6 @@
 ---
 title: PDF3DContent
+linktitle: PDF3DContent
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DContent.
 type: docs

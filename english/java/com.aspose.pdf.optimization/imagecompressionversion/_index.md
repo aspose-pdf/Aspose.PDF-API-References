@@ -1,5 +1,6 @@
 ---
 title: ImageCompressionVersion
+linktitle: ImageCompressionVersion
 second_title: Aspose.PDF for Java API Reference
 description: Describes versions of image compression algorithm.
 type: docs

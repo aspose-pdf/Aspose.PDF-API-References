@@ -1,5 +1,6 @@
 ---
 title: PdfFileStampWeb
+linktitle: PdfFileStampWeb
 second_title: Aspose.PDF for Java API Reference
 description: Class for adding stamps (watermark or background) to PDF files. Enable to work with HttpServletResponse.
 type: docs

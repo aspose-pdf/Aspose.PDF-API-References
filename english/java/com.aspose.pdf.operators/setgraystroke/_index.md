@@ -1,5 +1,6 @@
 ---
 title: SetGrayStroke
+linktitle: SetGrayStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing gray level for stroking operations.
 type: docs

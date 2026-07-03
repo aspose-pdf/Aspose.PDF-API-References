@@ -1,5 +1,6 @@
 ---
 title: LineEndingConverter
+linktitle: LineEndingConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents LineEndingConverter class
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: ScalingReason
+linktitle: ScalingReason
 second_title: Aspose.PDF for Java API Reference
 description: The circumstances under which the icon shall be scaled inside the annotation rectangle.
 type: docs

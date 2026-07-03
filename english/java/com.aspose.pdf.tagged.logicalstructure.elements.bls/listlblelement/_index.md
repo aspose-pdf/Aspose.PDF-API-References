@@ -1,5 +1,6 @@
 ---
 title: ListLblElement
+linktitle: ListLblElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Lbl structure element in logical structure of the list.
 type: docs

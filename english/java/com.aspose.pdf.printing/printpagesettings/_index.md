@@ -1,5 +1,6 @@
 ---
 title: PrintPageSettings
+linktitle: PrintPageSettings
 second_title: Aspose.PDF for Java API Reference
 description: Specifies settings that apply to a single, printed page.
 type: docs

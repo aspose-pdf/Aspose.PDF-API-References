@@ -1,5 +1,6 @@
 ---
 title: KeySize
+linktitle: KeySize
 second_title: Aspose.PDF for Java API Reference
 description: Defines different key sizes which can be used to encrypt pdf documents.
 type: docs

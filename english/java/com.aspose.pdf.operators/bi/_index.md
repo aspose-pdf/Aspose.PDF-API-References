@@ -1,5 +1,6 @@
 ---
 title: BI
+linktitle: BI
 second_title: Aspose.PDF for Java API Reference
 description: Class representing BI operator (Begin inline image obect).
 type: docs

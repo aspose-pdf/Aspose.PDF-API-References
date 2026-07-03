@@ -1,5 +1,6 @@
 ---
 title: OutputIntents
+linktitle: OutputIntents
 second_title: Aspose.PDF for Java API Reference
 description: Represents the collection of {@link OutputIntent}.
 type: docs

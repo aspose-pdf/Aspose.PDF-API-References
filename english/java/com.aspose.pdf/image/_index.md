@@ -1,5 +1,6 @@
 ---
 title: Image
+linktitle: Image
 second_title: Aspose.PDF for Java API Reference
 description: Represents image.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PdfOutputGenerator
+linktitle: PdfOutputGenerator
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for generating PDF representation of texts differences.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Ellipse
+linktitle: Ellipse
 second_title: Aspose.PDF for Java API Reference
 description: Represents ellipse.
 type: docs

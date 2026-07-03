@@ -1,5 +1,6 @@
 ---
 title: Artifact
+linktitle: Artifact
 second_title: Aspose.PDF for Java API Reference
 description: Class represents PDF Artifact object.
 type: docs

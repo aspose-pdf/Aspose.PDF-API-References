@@ -1,5 +1,6 @@
 ---
 title: LineIntent
+linktitle: LineIntent
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the intents of the line annotation.
 type: docs

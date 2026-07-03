@@ -1,5 +1,6 @@
 ---
 title: NumberTree
+linktitle: NumberTree
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Number tree structure of PDF file. 7.9.7Number Trees
 type: docs

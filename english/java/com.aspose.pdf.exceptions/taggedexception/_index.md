@@ -1,5 +1,6 @@
 ---
 title: TaggedException
+linktitle: TaggedException
 second_title: Aspose.PDF for Java API Reference
 description: Represents exception for TaggedPDF content of document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextPdfComparer
+linktitle: TextPdfComparer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to comparison two PDF pages or PDF documents.
 type: docs

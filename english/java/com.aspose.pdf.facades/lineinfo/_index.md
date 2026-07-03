@@ -1,5 +1,6 @@
 ---
 title: LineInfo
+linktitle: LineInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents the information of line.
 type: docs

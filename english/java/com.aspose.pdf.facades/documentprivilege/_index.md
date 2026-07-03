@@ -1,7 +1,8 @@
 ---
 title: DocumentPrivilege
+linktitle: DocumentPrivilege
 second_title: Aspose.PDF for Java API Reference
-description: Represents the privileges for accessing Pdf file. Refer to{@code PdfFileSecurity}. There are 4 ways using this class: 1.Using predefined privilege directly. 2.Based on a.
+description: 'Represents the privileges for accessing Pdf file. Refer to{@code PdfFileSecurity}. There are 4 ways using this class: 1.Using predefined privilege directly. 2.Based on a.'
 type: docs
 weight: 110
 url: /java/com.aspose.pdf.facades/documentprivilege/

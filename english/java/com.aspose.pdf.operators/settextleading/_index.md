@@ -1,5 +1,6 @@
 ---
 title: SetTextLeading
+linktitle: SetTextLeading
 second_title: Aspose.PDF for Java API Reference
 description: Class represenging TL operator (set text leading).
 type: docs

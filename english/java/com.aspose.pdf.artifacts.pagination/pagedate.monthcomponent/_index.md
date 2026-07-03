@@ -1,5 +1,6 @@
 ---
 title: PageDate.MonthComponent
+linktitle: PageDate.MonthComponent
 second_title: Aspose.PDF for Java API Reference
 description: Represents the month component of a date.
 type: docs

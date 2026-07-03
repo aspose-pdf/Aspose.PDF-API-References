@@ -1,5 +1,6 @@
 ---
 title: NotImplementedException
+linktitle: NotImplementedException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a requested method or operation is not implemented.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: HeaderElementTextConflictException
+linktitle: HeaderElementTextConflictException
 second_title: Aspose.PDF for Java API Reference
 description: Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a conflict.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: OutlineItemCollection
+linktitle: OutlineItemCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents outline entry in outline hierarchy of PDF document.
 type: docs

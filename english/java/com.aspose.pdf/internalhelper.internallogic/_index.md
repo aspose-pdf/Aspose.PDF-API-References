@@ -1,7 +1,8 @@
 ---
 title: InternalHelper.InternalLogic
+linktitle: InternalHelper.InternalLogic
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2450
 url: /java/com.aspose.pdf/internalhelper.internallogic/

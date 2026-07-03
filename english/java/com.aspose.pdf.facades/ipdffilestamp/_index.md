@@ -1,5 +1,6 @@
 ---
 title: IPdfFileStamp
+linktitle: IPdfFileStamp
 second_title: Aspose.PDF for Java API Reference
 description: interface for adding stamps (watermark or background) to PDF files.
 type: docs

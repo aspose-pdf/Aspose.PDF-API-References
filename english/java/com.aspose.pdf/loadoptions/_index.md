@@ -1,5 +1,6 @@
 ---
 title: LoadOptions
+linktitle: LoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: LoadOptions type holds level of abstraction on individual load options
 type: docs

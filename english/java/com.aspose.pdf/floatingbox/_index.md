@@ -1,5 +1,6 @@
 ---
 title: FloatingBox
+linktitle: FloatingBox
 second_title: Aspose.PDF for Java API Reference
 description: Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned.
 type: docs

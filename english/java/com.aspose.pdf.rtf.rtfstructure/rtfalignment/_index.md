@@ -1,5 +1,6 @@
 ---
 title: RtfAlignment
+linktitle: RtfAlignment
 second_title: Aspose.PDF for Java API Reference
 description: An enum to represent text alignment
 type: docs

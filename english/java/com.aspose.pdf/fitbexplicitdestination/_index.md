@@ -1,5 +1,6 @@
 ---
 title: FitBExplicitDestination
+linktitle: FitBExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents explicit destination that displays the page with its contents magnified just enough to fit its bounding box entirely within the window both horizontally and.
 type: docs

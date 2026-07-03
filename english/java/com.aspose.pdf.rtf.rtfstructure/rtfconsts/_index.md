@@ -1,7 +1,8 @@
 ---
 title: RtfConsts
+linktitle: RtfConsts
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 20
 url: /java/com.aspose.pdf.rtf.rtfstructure/rtfconsts/

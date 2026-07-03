@@ -1,5 +1,6 @@
 ---
 title: PclLoadOptions
+linktitle: PclLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading(import) PCL file into pdf document.
 type: docs

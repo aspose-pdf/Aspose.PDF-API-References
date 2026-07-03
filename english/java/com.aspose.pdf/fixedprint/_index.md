@@ -1,5 +1,6 @@
 ---
 title: FixedPrint
+linktitle: FixedPrint
 second_title: Aspose.PDF for Java API Reference
 description: Represent Fixed print data of Watermark Annotation.
 type: docs

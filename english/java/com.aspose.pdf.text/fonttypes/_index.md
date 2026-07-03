@@ -1,5 +1,6 @@
 ---
 title: FontTypes
+linktitle: FontTypes
 second_title: Aspose.PDF for Java API Reference
 description: Supported font types enumeration.
 type: docs

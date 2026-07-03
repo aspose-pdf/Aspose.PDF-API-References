@@ -1,5 +1,6 @@
 ---
 title: CharInfo
+linktitle: CharInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents a character info object. Provides character positioning information.
 type: docs

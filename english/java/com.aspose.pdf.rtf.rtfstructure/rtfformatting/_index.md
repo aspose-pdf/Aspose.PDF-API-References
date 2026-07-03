@@ -1,5 +1,6 @@
 ---
 title: RtfFormatting
+linktitle: RtfFormatting
 second_title: Aspose.PDF for Java API Reference
 description: A snapshot of the formatting state. It is a class to be passed by reference on the stack.
 type: docs

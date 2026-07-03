@@ -1,5 +1,6 @@
 ---
 title: UnifiedSaveOptions.ConversionProgressEventHandler
+linktitle: UnifiedSaveOptions.ConversionProgressEventHandler
 second_title: Aspose.PDF for Java API Reference
 description: Represents class with abstract method that usually supplied by calling side and handles progress events that comes from converter. Usually such supplied customer's handler can be.
 type: docs

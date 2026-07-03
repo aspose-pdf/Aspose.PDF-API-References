@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.rtf
+linktitle: com.aspose.pdf.rtf
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 260
 url: /java/com.aspose.pdf.rtf/

@@ -1,5 +1,6 @@
 ---
 title: BMC
+linktitle: BMC
 second_title: Aspose.PDF for Java API Reference
 description: Class representing BMC operator (Begin marked-content sequence).
 type: docs

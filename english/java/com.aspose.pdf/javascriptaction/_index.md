@@ -1,5 +1,6 @@
 ---
 title: JavascriptAction
+linktitle: JavascriptAction
 second_title: Aspose.PDF for Java API Reference
 description: Class representing javascript action.
 type: docs

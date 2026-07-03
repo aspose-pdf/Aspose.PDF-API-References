@@ -1,5 +1,6 @@
 ---
 title: DiffUtils
+linktitle: DiffUtils
 second_title: Aspose.PDF for Java API Reference
 description: Represents a utils class for diff algorithm.
 type: docs

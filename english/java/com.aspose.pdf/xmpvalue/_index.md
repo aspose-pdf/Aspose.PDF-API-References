@@ -1,5 +1,6 @@
 ---
 title: XmpValue
+linktitle: XmpValue
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP value
 type: docs

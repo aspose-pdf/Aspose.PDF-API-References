@@ -1,5 +1,6 @@
 ---
 title: TextEditOptions.FontReplace
+linktitle: TextEditOptions.FontReplace
 second_title: Aspose.PDF for Java API Reference
 description: Font replacement behavior.
 type: docs

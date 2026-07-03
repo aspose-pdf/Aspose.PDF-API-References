@@ -1,5 +1,6 @@
 ---
 title: Rotation
+linktitle: Rotation
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible rotation values.
 type: docs

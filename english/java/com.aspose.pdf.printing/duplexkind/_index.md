@@ -1,5 +1,6 @@
 ---
 title: DuplexKind
+linktitle: DuplexKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the printer's duplex setting.
 type: docs

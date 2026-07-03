@@ -1,5 +1,6 @@
 ---
 title: EditOperationsOrder
+linktitle: EditOperationsOrder
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the order of edit operations.
 type: docs

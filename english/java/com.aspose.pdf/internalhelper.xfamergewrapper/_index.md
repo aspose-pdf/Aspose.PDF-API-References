@@ -1,7 +1,8 @@
 ---
 title: InternalHelper.XfaMergeWrapper
+linktitle: InternalHelper.XfaMergeWrapper
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2490
 url: /java/com.aspose.pdf/internalhelper.xfamergewrapper/

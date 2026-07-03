@@ -1,5 +1,6 @@
 ---
 title: DiffSolver
+linktitle: DiffSolver
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text difference search algorithm class.
 type: docs

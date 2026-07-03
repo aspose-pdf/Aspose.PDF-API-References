@@ -1,5 +1,6 @@
 ---
 title: Cells
+linktitle: Cells
 second_title: Aspose.PDF for Java API Reference
 description: Represents a cells collection of row.
 type: docs

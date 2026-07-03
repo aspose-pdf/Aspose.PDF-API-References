@@ -1,5 +1,6 @@
 ---
 title: PdfBookmarkEditor
+linktitle: PdfBookmarkEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete.
 type: docs

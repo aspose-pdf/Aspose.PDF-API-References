@@ -1,5 +1,6 @@
 ---
 title: AlignmentType
+linktitle: AlignmentType
 second_title: Aspose.PDF for Java API Reference
 description: Class contains possibly alignment types. Use HorizontalAlignment instead
 type: docs

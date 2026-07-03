@@ -1,5 +1,6 @@
 ---
 title: Note
+linktitle: Note
 second_title: Aspose.PDF for Java API Reference
 description: This class represents generator paragraph note.
 type: docs

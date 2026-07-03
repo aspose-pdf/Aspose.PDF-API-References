@@ -1,5 +1,6 @@
 ---
 title: SoundSampleDataEncodingFormat
+linktitle: SoundSampleDataEncodingFormat
 second_title: Aspose.PDF for Java API Reference
 description: The encoding format for the sound sample data.
 type: docs

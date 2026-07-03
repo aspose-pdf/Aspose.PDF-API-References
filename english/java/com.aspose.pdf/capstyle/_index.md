@@ -1,5 +1,6 @@
 ---
 title: CapStyle
+linktitle: CapStyle
 second_title: Aspose.PDF for Java API Reference
 description: Style of line ending of Ink annotation line.
 type: docs

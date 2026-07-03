@@ -1,5 +1,6 @@
 ---
 title: FooterArtifact
+linktitle: FooterArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Describes footer artifact. This may be used to set footer of the page.
 type: docs

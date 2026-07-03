@@ -1,5 +1,6 @@
 ---
 title: SubstitutionFontCategories
+linktitle: SubstitutionFontCategories
 second_title: Aspose.PDF for Java API Reference
 description: Represents font categories that can be substituted.
 type: docs

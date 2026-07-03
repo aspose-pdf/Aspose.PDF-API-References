@@ -1,5 +1,6 @@
 ---
 title: Measure.NumberFormat.FractionStyle
+linktitle: Measure.NumberFormat.FractionStyle
 second_title: Aspose.PDF for Java API Reference
 description: Value which indicates in which manner fraction values are displayed.
 type: docs

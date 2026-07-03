@@ -1,5 +1,6 @@
 ---
 title: DefaultMetadataProperties
+linktitle: DefaultMetadataProperties
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of standard XMP properties.
 type: docs

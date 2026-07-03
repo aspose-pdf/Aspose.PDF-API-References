@@ -1,5 +1,6 @@
 ---
 title: FontEmbeddingOptions
+linktitle: FontEmbeddingOptions
 second_title: Aspose.PDF for Java API Reference
 description: PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause this font is absent on.
 type: docs

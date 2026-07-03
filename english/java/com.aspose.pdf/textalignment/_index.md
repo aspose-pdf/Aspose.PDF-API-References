@@ -1,5 +1,6 @@
 ---
 title: TextAlignment
+linktitle: TextAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Alignment of text in annotation.
 type: docs

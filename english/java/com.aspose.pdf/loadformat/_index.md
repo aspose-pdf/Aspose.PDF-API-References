@@ -1,5 +1,6 @@
 ---
 title: LoadFormat
+linktitle: LoadFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies load format.
 type: docs

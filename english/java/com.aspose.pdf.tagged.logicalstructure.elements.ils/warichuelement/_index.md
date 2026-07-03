@@ -1,5 +1,6 @@
 ---
 title: WarichuElement
+linktitle: WarichuElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Warichu structure element in logical structure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: StructureAttributeCollection
+linktitle: StructureAttributeCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents collection of attributes of structure elements.
 type: docs

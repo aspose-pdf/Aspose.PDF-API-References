@@ -1,5 +1,6 @@
 ---
 title: EncodingType
+linktitle: EncodingType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates encoding types of the text using.
 type: docs

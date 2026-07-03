@@ -1,5 +1,6 @@
 ---
 title: RegistrationMarkAnnotation
+linktitle: RegistrationMarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a Registration Mark annotation. Registration marks are symbols added to printing plates or screens to ensure proper alignment of colors during the printing process.
 type: docs

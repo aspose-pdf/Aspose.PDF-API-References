@@ -1,5 +1,6 @@
 ---
 title: CosPdfNumber
+linktitle: CosPdfNumber
 second_title: Aspose.PDF for Java API Reference
 description: This class represents Pdf Number type.
 type: docs

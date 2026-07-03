@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.comparison
+linktitle: com.aspose.pdf.comparison
 second_title: Aspose.PDF for Java API Reference
 description: The <b>com.aspose.pdf.comparison</b> package provides classes for the PDF comparison functionalities.
 type: docs

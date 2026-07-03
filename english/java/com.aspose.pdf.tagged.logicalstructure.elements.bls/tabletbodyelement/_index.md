@@ -1,5 +1,6 @@
 ---
 title: TableTBodyElement
+linktitle: TableTBodyElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents TBody structure element in logical structure of the table.
 type: docs

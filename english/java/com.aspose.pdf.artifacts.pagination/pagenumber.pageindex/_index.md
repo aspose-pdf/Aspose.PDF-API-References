@@ -1,5 +1,6 @@
 ---
 title: PageNumber.PageIndex
+linktitle: PageNumber.PageIndex
 second_title: Aspose.PDF for Java API Reference
 description: Represents the page index component in the page number format.
 type: docs

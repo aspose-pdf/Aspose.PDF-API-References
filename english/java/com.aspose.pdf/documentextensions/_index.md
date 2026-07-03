@@ -1,5 +1,6 @@
 ---
 title: DocumentExtensions
+linktitle: DocumentExtensions
 second_title: Aspose.PDF for Java API Reference
 description: Provides additional capabilities for the Document class.
 type: docs

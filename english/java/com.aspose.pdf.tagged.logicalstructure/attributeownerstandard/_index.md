@@ -1,5 +1,6 @@
 ---
 title: AttributeOwnerStandard
+linktitle: AttributeOwnerStandard
 second_title: Aspose.PDF for Java API Reference
 description: Represents Standard Attribute Owners.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: MoveToNextLineShowText
+linktitle: MoveToNextLineShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ' operator (move to the next line and show text).
 type: docs

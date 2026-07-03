@@ -1,5 +1,6 @@
 ---
 title: XFormPlacement
+linktitle: XFormPlacement
 second_title: Aspose.PDF for Java API Reference
 description: Represents XForm placement. If the XForm is displayed on the page more than 1 time, all XformPlacements associated with this XForm will have common graphical elements, but.
 type: docs

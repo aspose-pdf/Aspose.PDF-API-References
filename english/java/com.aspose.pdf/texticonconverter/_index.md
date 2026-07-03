@@ -1,5 +1,6 @@
 ---
 title: TextIconConverter
+linktitle: TextIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents TextIconConverter class
 type: docs

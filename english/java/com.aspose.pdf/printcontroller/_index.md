@@ -1,5 +1,6 @@
 ---
 title: PrintController
+linktitle: PrintController
 second_title: Aspose.PDF for Java API Reference
 description: Represents print controller.
 type: docs

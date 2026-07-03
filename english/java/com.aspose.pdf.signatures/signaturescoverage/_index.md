@@ -1,5 +1,6 @@
 ---
 title: SignaturesCoverage
+linktitle: SignaturesCoverage
 second_title: Aspose.PDF for Java API Reference
 description: Represents enum for the level of coverage provided by digital signatures in a document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: Layer
+linktitle: Layer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a layer within a PDF page.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: DigestHashAlgorithm
+linktitle: DigestHashAlgorithm
 second_title: Aspose.PDF for Java API Reference
 description: Represent type of algorithm that maps data to a \"hash\"
 type: docs

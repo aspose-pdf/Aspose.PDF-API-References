@@ -1,5 +1,6 @@
 ---
 title: TeXFragment
+linktitle: TeXFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents LaTeX fragment.
 type: docs

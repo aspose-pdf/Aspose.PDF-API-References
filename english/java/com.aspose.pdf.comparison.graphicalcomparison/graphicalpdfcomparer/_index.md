@@ -1,5 +1,6 @@
 ---
 title: GraphicalPdfComparer
+linktitle: GraphicalPdfComparer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mainly of a graphical nature. To compare text content changes, use other.
 type: docs

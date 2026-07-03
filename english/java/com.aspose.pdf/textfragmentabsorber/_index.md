@@ -1,5 +1,6 @@
 ---
 title: TextFragmentAbsorber
+linktitle: TextFragmentAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents an absorber object of text fragments. Performs text search and provides access to search results via {@code TextFragmentAbsorber.TextFragments} collection. </p>.
 type: docs

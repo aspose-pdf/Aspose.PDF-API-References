@@ -1,5 +1,6 @@
 ---
 title: TwipConverter
+linktitle: TwipConverter
 second_title: Aspose.PDF for Java API Reference
 description: Class, designed to convert RTF measurements into points.
 type: docs

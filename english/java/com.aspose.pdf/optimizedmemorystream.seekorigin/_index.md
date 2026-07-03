@@ -1,5 +1,6 @@
 ---
 title: OptimizedMemoryStream.SeekOrigin
+linktitle: OptimizedMemoryStream.SeekOrigin
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the position in a stream to use for seeking.
 type: docs

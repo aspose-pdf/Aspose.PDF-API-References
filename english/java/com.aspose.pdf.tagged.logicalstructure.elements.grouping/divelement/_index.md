@@ -1,5 +1,6 @@
 ---
 title: DivElement
+linktitle: DivElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Div structure element in logical structure.
 type: docs

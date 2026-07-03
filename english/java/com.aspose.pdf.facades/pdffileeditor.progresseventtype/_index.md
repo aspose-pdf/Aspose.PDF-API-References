@@ -1,5 +1,6 @@
 ---
 title: PdfFileEditor.ProgressEventType
+linktitle: PdfFileEditor.ProgressEventType
 second_title: Aspose.PDF for Java API Reference
 description: This enum describes possible progress event types that can occure during concatenation
 type: docs

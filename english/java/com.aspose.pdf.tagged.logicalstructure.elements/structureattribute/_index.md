@@ -1,5 +1,6 @@
 ---
 title: StructureAttribute
+linktitle: StructureAttribute
 second_title: Aspose.PDF for Java API Reference
 description: Represents attribute of structure element.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: LicenseInfo
+linktitle: LicenseInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents a license information.
 type: docs

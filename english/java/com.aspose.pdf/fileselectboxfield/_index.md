@@ -1,5 +1,6 @@
 ---
 title: FileSelectBoxField
+linktitle: FileSelectBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Field for file select box element.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: PolygonAnnotation
+linktitle: PolygonAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing polygon annotation.
 type: docs

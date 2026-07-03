@@ -1,5 +1,6 @@
 ---
 title: CollectionSchema
+linktitle: CollectionSchema
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class that describes the \"Schema\" of a document collection.
 type: docs

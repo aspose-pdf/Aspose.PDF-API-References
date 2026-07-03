@@ -1,5 +1,6 @@
 ---
 title: RtfDocument
+linktitle: RtfDocument
 second_title: Aspose.PDF for Java API Reference
 description: Represents the entire document
 type: docs

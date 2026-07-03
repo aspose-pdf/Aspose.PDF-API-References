@@ -1,5 +1,6 @@
 ---
 title: EMC
+linktitle: EMC
 second_title: Aspose.PDF for Java API Reference
 description: Clsss representing EMC oeprator (End of marked-content sequence).
 type: docs

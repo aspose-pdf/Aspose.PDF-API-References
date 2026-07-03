@@ -1,5 +1,6 @@
 ---
 title: LaTeXSaveOptions
+linktitle: LaTeXSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to TeX format. @deprecated Use TeXSaveOptions instead
 type: docs

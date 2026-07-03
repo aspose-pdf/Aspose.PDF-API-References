@@ -1,5 +1,6 @@
 ---
 title: BorderInfo
+linktitle: BorderInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents border for graphics elements.
 type: docs

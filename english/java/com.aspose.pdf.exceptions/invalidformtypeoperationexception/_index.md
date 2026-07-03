@@ -1,5 +1,6 @@
 ---
 title: InvalidFormTypeOperationException
+linktitle: InvalidFormTypeOperationException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when an operation with form type is not valid.
 type: docs

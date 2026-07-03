@@ -1,5 +1,6 @@
 ---
 title: StampIconConverter
+linktitle: StampIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents StampIconConverter class
 type: docs

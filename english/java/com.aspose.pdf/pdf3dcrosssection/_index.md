@@ -1,5 +1,6 @@
 ---
 title: PDF3DCrossSection
+linktitle: PDF3DCrossSection
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DCrossSection.
 type: docs

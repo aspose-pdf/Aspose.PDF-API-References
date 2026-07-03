@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.facades
+linktitle: com.aspose.pdf.facades
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.facades package provides classes originally came from Aspose.Pdf.Kit.
 type: docs

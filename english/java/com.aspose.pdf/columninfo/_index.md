@@ -1,5 +1,6 @@
 ---
 title: ColumnInfo
+linktitle: ColumnInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents a column's info.
 type: docs

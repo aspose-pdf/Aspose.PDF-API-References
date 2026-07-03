@@ -1,5 +1,6 @@
 ---
 title: MarkupAnnotation
+linktitle: MarkupAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing markup annotation.
 type: docs

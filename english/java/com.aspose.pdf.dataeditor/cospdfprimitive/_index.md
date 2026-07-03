@@ -1,5 +1,6 @@
 ---
 title: CosPdfPrimitive
+linktitle: CosPdfPrimitive
 second_title: Aspose.PDF for Java API Reference
 description: This class represents base public type {@link CosPdfPrimitive}.
 type: docs

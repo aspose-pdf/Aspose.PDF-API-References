@@ -1,5 +1,6 @@
 ---
 title: TeXFileSystemOutputDirectory
+linktitle: TeXFileSystemOutputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Implements the regular file system's method for getting a file stream to write to.
 type: docs

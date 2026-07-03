@@ -1,5 +1,6 @@
 ---
 title: TextOperator
+linktitle: TextOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for text-related operators (TJ, Tj, Tm, BT, ET, etc).
 type: docs

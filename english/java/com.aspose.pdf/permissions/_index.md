@@ -1,5 +1,6 @@
 ---
 title: Permissions
+linktitle: Permissions
 second_title: Aspose.PDF for Java API Reference
 description: Binary Flag This enum represents user's permissions for a pdf.
 type: docs

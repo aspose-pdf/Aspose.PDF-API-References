@@ -1,5 +1,6 @@
 ---
 title: CaptionElement
+linktitle: CaptionElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Caption structure element in logical structure.
 type: docs

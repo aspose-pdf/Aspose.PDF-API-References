@@ -1,5 +1,6 @@
 ---
 title: CustomExplicitDestination
+linktitle: CustomExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents custom explicit destination.
 type: docs

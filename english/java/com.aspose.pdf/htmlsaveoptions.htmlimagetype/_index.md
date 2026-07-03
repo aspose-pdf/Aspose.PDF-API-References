@@ -1,5 +1,6 @@
 ---
 title: HtmlSaveOptions.HtmlImageType
+linktitle: HtmlSaveOptions.HtmlImageType
 second_title: Aspose.PDF for Java API Reference
 description: enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion
 type: docs

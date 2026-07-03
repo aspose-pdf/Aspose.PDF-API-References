@@ -1,5 +1,6 @@
 ---
 title: ValidationOptions
+linktitle: ValidationOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for validating a digital signature in a PDF document.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: CodeElement
+linktitle: CodeElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Code structure element in logical structure.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: TextDefaults.DefaultFontStrategy
+linktitle: TextDefaults.DefaultFontStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Specifies type of text subsystem defaults
 type: docs

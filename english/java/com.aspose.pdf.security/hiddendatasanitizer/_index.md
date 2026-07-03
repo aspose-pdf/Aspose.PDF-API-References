@@ -1,5 +1,6 @@
 ---
 title: HiddenDataSanitizer
+linktitle: HiddenDataSanitizer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for sanitizing hidden data.
 type: docs

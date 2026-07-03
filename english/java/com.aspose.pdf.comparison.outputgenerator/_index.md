@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.comparison.outputgenerator
+linktitle: com.aspose.pdf.comparison.outputgenerator
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 90
 url: /java/com.aspose.pdf.comparison.outputgenerator/

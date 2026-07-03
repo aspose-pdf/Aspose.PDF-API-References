@@ -1,5 +1,6 @@
 ---
 title: GraphicsAbsorber
+linktitle: GraphicsAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via {@code GraphicsAbsorber.Elements}({@link.
 type: docs

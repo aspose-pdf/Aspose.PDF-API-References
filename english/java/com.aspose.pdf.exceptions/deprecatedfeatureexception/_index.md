@@ -1,5 +1,6 @@
 ---
 title: DeprecatedFeatureException
+linktitle: DeprecatedFeatureException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a feature is deprecated in current pdf version.
 type: docs

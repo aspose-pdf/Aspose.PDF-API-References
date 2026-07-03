@@ -1,5 +1,6 @@
 ---
 title: SetColorSpace
+linktitle: SetColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: Class representing cs operator (set colorspace for non-stroking operations)
 type: docs

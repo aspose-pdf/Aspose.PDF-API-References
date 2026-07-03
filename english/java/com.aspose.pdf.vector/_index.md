@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.vector
+linktitle: com.aspose.pdf.vector
 second_title: Aspose.PDF for Java API Reference
 description: The Aspose.Pdf.Vector is a root namespace for graphics operations.
 type: docs

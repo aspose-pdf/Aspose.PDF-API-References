@@ -1,5 +1,6 @@
 ---
 title: JavascriptExtensionsException
+linktitle: JavascriptExtensionsException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown on errors when working with JavascriptExtensions.
 type: docs

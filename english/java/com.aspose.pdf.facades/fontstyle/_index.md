@@ -1,5 +1,6 @@
 ---
 title: FontStyle
+linktitle: FontStyle
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates 14 types of font.
 type: docs

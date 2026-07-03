@@ -1,5 +1,6 @@
 ---
 title: PageDate
+linktitle: PageDate
 second_title: Aspose.PDF for Java API Reference
 description: Represents a date format composed of day, month, and year components.
 type: docs

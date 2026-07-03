@@ -1,5 +1,6 @@
 ---
 title: PageDevice
+linktitle: PageDevice
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class for all devices which is used to process certain page the pdf document.
 type: docs

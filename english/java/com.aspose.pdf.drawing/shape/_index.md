@@ -1,5 +1,6 @@
 ---
 title: Shape
+linktitle: Shape
 second_title: Aspose.PDF for Java API Reference
 description: Represents shape - the base graphics object.
 type: docs

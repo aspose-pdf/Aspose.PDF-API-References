@@ -1,5 +1,6 @@
 ---
 title: PDF3DStream
+linktitle: PDF3DStream
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DStream.
 type: docs

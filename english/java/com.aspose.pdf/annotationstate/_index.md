@@ -1,5 +1,6 @@
 ---
 title: AnnotationState
+linktitle: AnnotationState
 second_title: Aspose.PDF for Java API Reference
 description: The enumeration of states to which the original annotation can be set.
 type: docs

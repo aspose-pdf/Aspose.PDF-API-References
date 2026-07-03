@@ -1,5 +1,6 @@
 ---
 title: PdfPrintRange
+linktitle: PdfPrintRange
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the part of the document to print.
 type: docs

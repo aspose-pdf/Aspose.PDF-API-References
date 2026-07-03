@@ -1,5 +1,6 @@
 ---
 title: TextExtractionOptions.TextFormattingMode
+linktitle: TextExtractionOptions.TextFormattingMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines different modes which can be used while converting pdf document into text. See {@code TextDevice} class.
 type: docs

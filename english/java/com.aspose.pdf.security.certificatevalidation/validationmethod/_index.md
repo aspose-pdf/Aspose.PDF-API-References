@@ -1,5 +1,6 @@
 ---
 title: ValidationMethod
+linktitle: ValidationMethod
 second_title: Aspose.PDF for Java API Reference
 description: Represents an enum defined the method used for certificate validation.
 type: docs

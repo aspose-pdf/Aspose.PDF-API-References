@@ -1,5 +1,6 @@
 ---
 title: Bookmarks
+linktitle: Bookmarks
 second_title: Aspose.PDF for Java API Reference
 description: Represents a collection of {@code Bookmark} objects.
 type: docs

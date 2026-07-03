@@ -1,5 +1,6 @@
 ---
 title: RedactionAnnotation
+linktitle: RedactionAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents Redact annotation.
 type: docs

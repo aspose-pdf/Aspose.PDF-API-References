@@ -1,5 +1,6 @@
 ---
 title: PdfAction
+linktitle: PdfAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents Action in PDF document
 type: docs

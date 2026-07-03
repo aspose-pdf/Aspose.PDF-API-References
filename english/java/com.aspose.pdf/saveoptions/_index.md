@@ -1,5 +1,6 @@
 ---
 title: SaveOptions
+linktitle: SaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: SaveOptions type hold level of abstraction on individual save options
 type: docs

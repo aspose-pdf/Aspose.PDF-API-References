@@ -1,5 +1,6 @@
 ---
 title: GS
+linktitle: GS
 second_title: Aspose.PDF for Java API Reference
 description: Class representing gs operator (set parameters from graphic state parameter dictionary).
 type: docs

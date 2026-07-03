@@ -1,5 +1,6 @@
 ---
 title: Metadata
+linktitle: Metadata
 second_title: Aspose.PDF for Java API Reference
 description: Provides access to XMP metadata stream.
 type: docs

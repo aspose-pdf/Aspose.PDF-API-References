@@ -1,5 +1,6 @@
 ---
 title: SignatureLengthMismatchException
+linktitle: SignatureLengthMismatchException
 second_title: Aspose.PDF for Java API Reference
 description: Represents errors that occur during PDF signing. Occurs if {@code SignHash} is used to sign a document and the actual length of the signature is greater than that specified in.
 type: docs

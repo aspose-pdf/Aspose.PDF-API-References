@@ -1,5 +1,6 @@
 ---
 title: PageLayout
+linktitle: PageLayout
 second_title: Aspose.PDF for Java API Reference
 description: Descibes page layout.
 type: docs

@@ -1,5 +1,6 @@
 ---
 title: LoadOptions.ResourceLoadingResult
+linktitle: LoadOptions.ResourceLoadingResult
 second_title: Aspose.PDF for Java API Reference
 description: Result of custom loading of resource
 type: docs

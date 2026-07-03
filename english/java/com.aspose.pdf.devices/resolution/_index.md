@@ -1,5 +1,6 @@
 ---
 title: Resolution
+linktitle: Resolution
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for holding image resolution.
 type: docs

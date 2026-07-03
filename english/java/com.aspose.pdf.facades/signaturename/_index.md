@@ -1,5 +1,6 @@
 ---
 title: SignatureName
+linktitle: SignatureName
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for a signature name. Represents a more precise signature name. Used instead of string names. Allows you to present signatures with the same string names.
 type: docs

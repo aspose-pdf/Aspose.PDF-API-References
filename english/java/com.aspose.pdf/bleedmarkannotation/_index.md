@@ -1,5 +1,6 @@
 ---
 title: BleedMarkAnnotation
+linktitle: BleedMarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a Bleed Mark annotation. Bleed marks are placed at the corners of a printed page to indicate where the page is to be trimmed and how far it is allowed to deviate from.
 type: docs

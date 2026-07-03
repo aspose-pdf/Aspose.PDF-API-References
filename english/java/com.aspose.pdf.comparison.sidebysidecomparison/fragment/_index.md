@@ -1,5 +1,6 @@
 ---
 title: Fragment
+linktitle: Fragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents text fragment without extra spaces.
 type: docs

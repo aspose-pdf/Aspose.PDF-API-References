@@ -1,5 +1,6 @@
 ---
 title: ArgumentException
+linktitle: ArgumentException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when one of the arguments provided to a method is not valid.
 type: docs

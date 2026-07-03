@@ -1,5 +1,6 @@
 ---
 title: PageNumberStamp
+linktitle: PageNumberStamp
 second_title: Aspose.PDF for Java API Reference
 description: Represents page number stamp and used to number pages.
 type: docs

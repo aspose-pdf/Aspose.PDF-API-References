@@ -1,7 +1,8 @@
 ---
 title: ILicenseProvider
+linktitle: ILicenseProvider
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 2270
 url: /java/com.aspose.pdf/ilicenseprovider/

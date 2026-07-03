@@ -1,7 +1,8 @@
 ---
 title: ExcelSaveOptions.ExcelFormat
+linktitle: ExcelSaveOptions.ExcelFormat
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 1270
 url: /java/com.aspose.pdf/excelsaveoptions.excelformat/

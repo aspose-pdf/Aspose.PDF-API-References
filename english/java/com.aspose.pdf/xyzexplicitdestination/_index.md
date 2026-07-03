@@ -1,5 +1,6 @@
 ---
 title: XYZExplicitDestination
+linktitle: XYZExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: <p> Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page.
 type: docs

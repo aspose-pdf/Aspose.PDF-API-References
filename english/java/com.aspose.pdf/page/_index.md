@@ -1,5 +1,6 @@
 ---
 title: Page
+linktitle: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs

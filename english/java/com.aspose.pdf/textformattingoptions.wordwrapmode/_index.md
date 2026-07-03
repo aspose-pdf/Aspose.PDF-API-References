@@ -1,5 +1,6 @@
 ---
 title: TextFormattingOptions.WordWrapMode
+linktitle: TextFormattingOptions.WordWrapMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines word wrapping strategies
 type: docs

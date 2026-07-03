@@ -1,5 +1,6 @@
 ---
 title: MP
+linktitle: MP
 second_title: Aspose.PDF for Java API Reference
 description: Class representing MP operator (define marked-content point).
 type: docs

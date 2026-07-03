@@ -1,5 +1,6 @@
 ---
 title: EpubSaveOptions.RecognitionMode
+linktitle: EpubSaveOptions.RecognitionMode
 second_title: Aspose.PDF for Java API Reference
 description: When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the original document.
 type: docs

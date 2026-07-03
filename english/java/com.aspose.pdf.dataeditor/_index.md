@@ -1,5 +1,6 @@
 ---
 title: com.aspose.pdf.dataeditor
+linktitle: com.aspose.pdf.dataeditor
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.dataeditor contains tools for editing data within a document.
 type: docs

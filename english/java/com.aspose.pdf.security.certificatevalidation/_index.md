@@ -1,7 +1,8 @@
 ---
 title: com.aspose.pdf.security.certificatevalidation
+linktitle: com.aspose.pdf.security.certificatevalidation
 second_title: Aspose.PDF for Java API Reference
-description: 
+description:
 type: docs
 weight: 290
 url: /java/com.aspose.pdf.security.certificatevalidation/

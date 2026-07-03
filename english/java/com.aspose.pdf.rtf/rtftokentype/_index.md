@@ -1,5 +1,6 @@
 ---
 title: RtfTokenType
+linktitle: RtfTokenType
 second_title: Aspose.PDF for Java API Reference
 description: Types of RTF tokens.
 type: docs
