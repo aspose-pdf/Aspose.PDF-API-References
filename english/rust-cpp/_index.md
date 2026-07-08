@@ -109,6 +109,7 @@ pub struct Document { /* private fields */ }
 | [page_crop](./organize/page_crop/) | Crop a page. |
 | [page_replace_font](./organize/page_replace_font/) | Replace font in page. |
 | [page_merge_layers](./organize/page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
+| [page_layers](./organize/page_layers/) | Get layers' names on page. |
 
 
 ## Core PDF functions

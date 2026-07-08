@@ -63,6 +63,7 @@ url: /rust-cpp/organize/
 | [page_crop](./page_crop/) | Crop a page. |
 | [page_replace_font](./page_replace_font/) | Replace font in page. |
 | [page_merge_layers](./page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
+| [page_layers](./page_layers/) | Get layers' names on page. |
 
 
 ## Detailed Description
