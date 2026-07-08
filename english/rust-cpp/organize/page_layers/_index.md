@@ -16,7 +16,7 @@ pub fn page_layers(&self, num: i32) -> Result<Vec<String>, PdfError>
   * **num** - the page number (1-based)
 
 **Returns**
-  * **Ok(Vec<String>)** - the array layers' names
+  * **Ok(Vec\<String\>)** - the array layers' names
   * **Err(PdfError)** - if the operation fails
 
 **Example**
